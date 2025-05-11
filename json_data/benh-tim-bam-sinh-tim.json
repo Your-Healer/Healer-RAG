@@ -1,0 +1,168 @@
+{
+  "disease_id": "benh-tim-bam-sinh-tim",
+  "disease_name": "Bệnh tim bẩm sinh tím",
+  "disease_alternative_names": [
+    "Tim bẩm sinh tím",
+    "Cyanotic congenital heart disease"
+  ],
+  "disease_definition": "Bệnh tim bẩm sinh tím là tình trạng máu nuôi cơ thể chứa ít oxy hơn so với bình thường, dẫn đến trẻ bị tím ngay lúc sinh hoặc thời gian ngắn đến vài tháng sau sinh. Đây là một trong những dạng tim bẩm sinh nặng cần được phát hiện và điều trị sớm. Các dạng phổ biến bao gồm tứ chứng Fallot (với 4 đặc trưng: động mạch chủ 'cưỡi ngựa', thông liên thất, hẹp tại van và/hoặc dưới van động mạch phổi, và thất phải dày), teo van 3 lá (không có van 3 lá), và chuyển vị đại động mạch (vị trí của động mạch chủ và động mạch phổi bị đảo ngược).",
+  "symptoms": [
+    {
+      "name": "Tím tái",
+      "description": "Môi, đầu ngón tay và ngón chân có màu tím, đặc biệt khi trẻ khóc hoặc gắng sức"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Thở nhanh, thở gấp, có thể kèm theo tím tái"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Trẻ dễ mệt, đặc biệt khi bú hoặc hoạt động"
+    },
+    {
+      "name": "Chậm phát triển",
+      "description": "Tăng cân chậm, chậm lớn so với trẻ cùng tuổi"
+    },
+    {
+      "name": "Bú kém",
+      "description": "Bú ít, bú ngắt quãng, cử bú kéo dài, hay đổ mồ hôi khi bú"
+    },
+    {
+      "name": "Ngất",
+      "description": "Có thể bị ngất, đặc biệt khi gắng sức"
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh tim bẩm sinh tím chủ yếu do sự phát triển bất thường của tim trong giai đoạn thai nhi, dẫn đến các dị tật về cấu trúc tim và mạch máu lớn.",
+    "related_factors": "Các yếu tố liên quan bao gồm di truyền, nhiễm trùng trong thai kỳ, tiếp xúc với chất độc hại, một số bệnh lý của mẹ như đái tháo đường, và các hội chứng di truyền như hội chứng Down.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Di truyền",
+      "description": "Yếu tố di truyền từ bố mẹ hoặc người thân trong gia đình"
+    },
+    {
+      "name": "Thai kỳ",
+      "description": "Mẹ nhiễm virus, tiếp xúc với chất độc hại, hoặc mắc bệnh trong thai kỳ"
+    },
+    {
+      "name": "Hội chứng Down",
+      "description": "Trẻ mắc hội chứng Down có nguy cơ cao bị tim bẩm sinh tím"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Suy tim",
+      "description": "Tim không đủ khả năng bơm máu đáp ứng nhu cầu cơ thể"
+    },
+    {
+      "name": "Nhiễm trùng tim",
+      "description": "Viêm nội tâm mạc nhiễm khuẩn"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Tim đập không đều, quá nhanh hoặc quá chậm"
+    },
+    {
+      "name": "Chậm phát triển",
+      "description": "Trẻ chậm tăng cân và phát triển thể chất"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Đo độ bão hòa oxy",
+        "description": "Thực hiện trên tất cả trẻ sơ sinh trước khi xuất viện"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá cấu trúc và chức năng tim"
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Kiểm tra kích thước và hình dạng tim"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Đánh giá hoạt động điện của tim"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị tim bẩm sinh tím cần được thực hiện sớm và toàn diện, tùy thuộc vào loại dị tật và mức độ nghiêm trọng của bệnh.",
+    "methods": [
+      {
+        "name": "Phẫu thuật tim",
+        "description": "Can thiệp phẫu thuật để sửa chữa các dị tật"
+      },
+      {
+        "name": "Can thiệp qua da",
+        "description": "Sử dụng ống thông để sửa chữa một số dị tật không cần mổ hở"
+      },
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc để kiểm soát triệu chứng và cải thiện chức năng tim"
+      }
+    ],
+    "recommendations": [
+      "Theo dõi sát tình trạng trẻ",
+      "Tuân thủ lịch tái khám",
+      "Tiêm phòng đầy đủ theo hướng dẫn của bác sĩ",
+      "Chế độ dinh dưỡng phù hợp",
+      "Hạn chế các hoạt động gắng sức"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin đặc hiệu cho bệnh tim bẩm sinh tím, nhưng việc tiêm phòng đầy đủ cho mẹ trước và trong thai kỳ có thể giúp giảm nguy cơ một số dị tật tim bẩm sinh.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Khám thai định kỳ",
+      "Tránh các chất kích thích trong thai kỳ",
+      "Tiêm phòng đầy đủ trước khi mang thai",
+      "Kiểm soát tốt bệnh lý nền nếu có",
+      "Tránh tiếp xúc với môi trường độc hại"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như môi, ngón tay và ngón chân con tôi có màu xanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tim bẩm sinh tím",
+        "tứ chứng Fallot",
+        "chuyển vị đại động mạch",
+        "teo van ba lá"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy con tôi khó thở và da xám xịt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tim bẩm sinh tím",
+        "suy tim",
+        "viêm phổi",
+        "bệnh phổi bẩm sinh"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy con tôi mệt mỏi và tăng cân chậm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tim bẩm sinh tím",
+        "suy dinh dưỡng",
+        "thiếu máu",
+        "rối loạn nội tiết"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như con tôi đổ mồ hôi và quấy khóc trong khi bú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tim bẩm sinh tím",
+        "suy tim",
+        "trào ngược dạ dày",
+        "rối loạn tiêu hóa"
+      ]
+    }
+  ]
+}

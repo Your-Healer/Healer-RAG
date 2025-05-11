@@ -1,0 +1,225 @@
+{
+  "disease_id": "benh-xop-xo-tai",
+  "disease_name": "Bệnh Xốp Xơ Tai",
+  "disease_alternative_names": ["Otosclerosis", "Xơ cứng tai"],
+  "disease_definition": "Xốp xơ tai là tình trạng xương phát triển bất thường xung quanh đế xương bàn đạp, một trong những xương nhỏ của tai giữa. Điều này dẫn đến sự cố định của xương bàn đạp. Xương bàn đạp phải di chuyển tự do để tai hoạt động bình thường và nghe rõ. Khi xương bàn đạp không thể rung, âm thanh không thể truyền qua tai và thính lực bị suy giảm.",
+  "symptoms": [
+    {
+      "name": "Nghe kém tiến triển",
+      "description": "Tình trạng nghe kém ngày càng nặng hơn theo thời gian, đặc biệt khó nghe hơn với các âm thanh thấp, sâu và thì thầm."
+    },
+    {
+      "name": "Nói nhỏ",
+      "description": "Người bệnh thường nói nhỏ, khẽ khàng vì cảm thấy giọng mình to."
+    },
+    {
+      "name": "Nghe tốt hơn trong tiếng ồn",
+      "description": "Đặc điểm khác biệt của bệnh xốp xơ tai so với các loại mất thính lực khác là người bệnh cảm thấy dễ nghe hơn khi có tiếng ồn xung quanh."
+    },
+    {
+      "name": "Ù tai",
+      "description": "Cảm thấy ù tai, nghe âm thanh vo ve, ù ù như phát ra từ bên trong tai."
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Xuất hiện các cơn chóng mặt, mất thăng bằng."
+    }
+  ],
+  "causes": {
+    "main_cause": "Xốp xơ tai thường xảy ra nhất khi xương bàn đạp ở tai giữa bị kẹt tại chỗ. Đây còn được gọi là rối loạn chuyển hóa xương ở vùng tai. Khi xương này không thể rung, âm thanh không thể truyền qua tai và thính lực bị suy giảm.",
+    "related_factors": "Đến nay, chưa rõ tại sao điều này lại xảy ra, nhưng các nhà khoa học cho rằng nó có thể liên quan đến việc nhiễm sởi trước đó. Virus sởi có thể gây viêm nhiễm ở những bệnh nhân có yếu tố di truyền đối với bệnh xốp xơ tai. Rối loạn miễn dịch cũng được cho là yếu tố nguy cơ của bệnh. Bệnh cũng có thể liên quan đến sự tương tác giữa ba tế bào khác nhau của hệ thống miễn dịch gọi là các cytokine. Sự mất cân bằng cytokine có thể gây ra tái tạo xương bất thường xảy ra trong bệnh xốp xơ tai.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Yếu tố di truyền (50% nguy cơ nếu cả cha và mẹ đều bị, 25% nếu một trong hai người mắc bệnh)",
+    "Giới tính nữ (tỷ lệ nữ mắc bệnh cao gấp 2 lần nam giới)",
+    "Độ tuổi từ 15-45, trung bình là 33 tuổi",
+    "Tiền sử gia đình có người mắc bệnh xốp xơ tai",
+    "Nhiễm virus sởi trước đó",
+    "Rối loạn miễn dịch"
+  ],
+  "complications": [
+    "Suy giảm thính lực",
+    "Điếc ở một hoặc cả hai bên tai",
+    "Ù tai",
+    "Chóng mặt, mất thăng bằng"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Loại trừ các bệnh hoặc vấn đề sức khỏe khác có thể gây ra các triệu chứng giống xốp xơ tai",
+      "Kiểm tra thính lực để đo độ nhạy của thính giác",
+      "Đánh giá dẫn truyền âm thanh ở tai giữa"
+    ],
+    "tests": [
+      {
+        "name": "Thính lực đồ",
+        "description": "Bài kiểm tra để đo độ nhạy của thính giác, giúp đánh giá mức độ suy giảm thính lực."
+      },
+      {
+        "name": "Tympanogram",
+        "description": "Xét nghiệm để đánh giá dẫn truyền âm thanh ở tai giữa, kiểm tra chức năng của màng nhĩ và xương tai giữa."
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Kỹ thuật chẩn đoán hình ảnh được sử dụng để xác định bệnh xốp xơ tai và đánh giá tình trạng xương tai."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Bệnh xốp xơ tai có nhiều phương pháp điều trị, từ thuốc, máy trợ thính đến phẫu thuật. Việc lựa chọn phương pháp điều trị phụ thuộc vào mức độ nghiêm trọng của bệnh và tình trạng sức khỏe của người bệnh.",
+    "methods": [
+      {
+        "name": "Thuốc bổ sung",
+        "description": "Một số loại thuốc như chất bổ sung natri florua hoặc bisphosphonat được báo cáo là có thể hạn chế tình trạng nặng hơn của bệnh xốp xơ tai. Tuy nhiên, các thuốc này không có bằng chứng chắc chắn về việc ngăn chặn sự tiến triển của bệnh."
+      },
+      {
+        "name": "Máy trợ thính",
+        "description": "Bệnh xốp xơ tai nhẹ có thể điều trị bằng cách mang máy trợ thính khuếch đại âm thanh, giúp cải thiện khả năng nghe."
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ xương bàn đạp",
+        "description": "Dưới gây mê toàn thân, bác sĩ sử dụng kính hiển vi phối hợp với nội soi để rạch một đường nhỏ trong ống tai, tách xương bàn đạp ra khỏi cửa sổ bầu dục khi cắt toàn bộ xương bàn đạp, sau đó chèn vật liệu nhân tạo Prosthesis vào đúng vị trí để dẫn truyền rung động âm thanh đến tai trong, giúp phục hồi thính giác."
+      },
+      {
+        "name": "Cấy điện cực ốc tai",
+        "description": "Trong các trường hợp xốp xơ tai tiến triển, gây mất thính giác tai trong (cảm giác thần kinh), thủ thuật cắt bỏ bàn đạp có thể không đủ để khôi phục thính giác. Trong những tình huống này, cấy ghép ốc tai điện tử có thể được xem xét tiến hành."
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi trong tuần đầu tiên sau phẫu thuật, tránh vận động mạnh ít nhất 3 tuần",
+      "Ăn uống đa dạng, đầy đủ dinh dưỡng, nhưng cần hạn chế các thức ăn có thể gây dị ứng, ví dụ như hải sản",
+      "Tránh tiếp xúc với tiếng ồn, đặc biệt là các loại âm thanh lớn như âm thanh hội trường, công trường, nhà máy...",
+      "Tránh bơi lội, ngoáy tai và đi máy bay cho đến khi vết thương hồi phục hoàn toàn",
+      "Không xì mũi",
+      "Uống thuốc theo kê đơn của bác sĩ và cần tái khám theo lịch hẹn",
+      "Giữ tai và vết mổ khô, sạch. Sát trùng vết thương, thay băng tai mỗi ngày"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vaccine phòng ngừa bệnh xốp xơ tai.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Do chưa rõ căn nguyên gây ra bệnh xốp xơ tai nên chưa có khuyến nghị chính thức để phòng ngừa bệnh này",
+      "Nên đến khám tai mũi họng khi có triệu chứng ù tai, chóng mặt, nghe kém không rõ nguyên nhân",
+      "Nữ giới ở độ tuổi lao động có biểu hiện nghe kém và tiền căn gia đình có người mắc bệnh xốp xơ tai nên đi khám sớm",
+      "Điều trị sớm sẽ cho kết quả tốt hơn, khả năng phục hồi sức nghe cao hơn"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh xốp xơ tai có nguy hiểm không?",
+      "answer": "Xốp xơ tai là một bệnh lý lành tính và thường không gây ra biến chứng trực tiếp đe dọa đến sức khỏe. Tuy nhiên, nếu không được điều trị, suy giảm thính lực, điếc có thể khiến người bệnh gặp phải nhiều phiền toái trong cuộc sống. Ví dụ, điếc có thể làm tăng nguy cơ tai nạn khi tham gia giao thông vì không thể nghe thấy các tín hiệu âm thanh của các phương tiện trên đường."
+    },
+    {
+      "question": "Cách phòng bệnh xốp xơ tai như thế nào?",
+      "answer": "Do chưa rõ căn nguyên gây ra bệnh xốp xơ tai nên chưa có khuyến nghị chính thức nào để phòng ngừa bệnh này. Chúng ta nên đến khoa Tai Mũi Họng tại các bệnh viện uy tín để được thăm khám và điều trị khi có triệu chứng ù tai, chóng mặt, nghe kém, không rõ nguyên nhân, hoặc nếu là nữ giới ở độ tuổi lao động có biểu hiện nghe kém và tiền căn gia đình có người mắc bệnh xốp xơ tai."
+    },
+    {
+      "question": "Sau phẫu thuật xốp xơ tai, khi có các triệu chứng nào thì cần đến bệnh viện ngay lập tức?",
+      "answer": "Sau phẫu thuật về nhà, nếu thấy xuất hiện các triệu chứng sau, người bệnh cần tới bệnh viện ngay lập tức: chảy máu tai, chóng mặt kéo dài hoặc dữ dội, nghe kém đột ngột. Các triệu chứng này cho thấy bạn có thể gặp biến chứng sau phẫu thuật."
+    },
+    {
+      "question": "Phẫu thuật xốp xơ tai có đau không?",
+      "answer": "Phẫu thuật dưới gây mê toàn thân nên trong quá trình phẫu thuật và cho đến khi thuốc gây mê còn tác dụng thì bệnh nhân sẽ không cảm thấy đau. Tuy nhiên, sau đó, bạn có thể gặp phải một số tình trạng như đau tai, ù tai hoặc chóng mặt trong vài ngày đầu sau phẫu thuật. Cảm giác vị giác cũng có thể bị thay đổi trong vài tuần hoặc vài tháng sau phẫu thuật, nhưng thường sẽ trở lại bình thường."
+    },
+    {
+      "question": "Có thể phẫu thuật xốp xơ tai ở cả hai tai cùng lúc không?",
+      "answer": "Nếu cả hai tai đều bị xốp xơ tai, thông thường bác sĩ phẫu thuật sẽ chọn phẫu thuật tai nghe kém nặng hơn trước. Không nên phẫu thuật hai tai cùng lúc. Mỗi tai nên phẫu thuật cách nhau tối thiểu là 3 – 4 tháng."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nghe kém dần theo thời gian và khó nghe âm thanh thấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh xốp xơ tai",
+        "lão hóa thính giác",
+        "viêm tai giữa mạn tính",
+        "tổn thương thính giác do tiếng ồn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy giọng nói của mình to hơn bình thường và dễ nghe hơn khi có tiếng ồn xung quanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh xốp xơ tai",
+        "viêm tai giữa",
+        "tắc vòi nhĩ",
+        "điếc dẫn truyền"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ù tai và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh xốp xơ tai",
+        "bệnh Meniere",
+        "viêm tai trong",
+        "hội chứng tiền đình ngoại biên"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp khó khăn khi nghe người khác nói chuyện, đặc biệt là trong môi trường yên tĩnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh xốp xơ tai",
+        "viêm tai giữa mạn tính",
+        "điếc thần kinh cảm giác",
+        "tổn thương thính giác do tuổi tác"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy như có tiếng ve kêu trong tai và thính lực giảm sút. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh xốp xơ tai",
+        "ù tai",
+        "tổn thương thính giác do tiếng ồn",
+        "viêm tai trong"
+      ]
+    },
+    {
+      "question": "Tôi 35 tuổi và bắt đầu gặp khó khăn khi nghe. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh xốp xơ tai",
+        "tổn thương thính giác do tiếng ồn",
+        "viêm tai giữa",
+        "tắc vòi nhĩ"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên phải nhờ người khác nhắc lại vì không nghe rõ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh xốp xơ tai",
+        "mất thính lực tuổi già",
+        "viêm tai giữa mạn tính",
+        "điếc dẫn truyền"
+      ]
+    },
+    {
+      "question": "Tai tôi như bị bịt kín và nghe mọi thứ như tiếng vọng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh xốp xơ tai",
+        "viêm tai giữa",
+        "tắc vòi nhĩ",
+        "tắc ống tai ngoài"
+      ]
+    },
+    {
+      "question": "Tôi nghe kém hơn ở một bên tai so với bên còn lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh xốp xơ tai",
+        "viêm tai giữa một bên",
+        "khối u thần kinh thính giác",
+        "tổn thương tai do chấn thương"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy mất thăng bằng và ù tai liên tục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh xốp xơ tai",
+        "bệnh Meniere",
+        "rối loạn tiền đình",
+        "viêm tai trong"
+      ]
+    }
+  ]
+}

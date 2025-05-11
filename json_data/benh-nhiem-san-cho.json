@@ -1,0 +1,164 @@
+{
+  "disease_id": "benh-nhiem-san-cho",
+  "disease_name": "Bệnh nhiễm sán chó",
+  "disease_alternative_names": ["Sán chó", "Sán dây chó", "Giun đũa chó", "Toxocariasis", "Dipylidium Caninum", "Toxocara canis", "Toxocara cati"],
+  "disease_definition": "Bệnh nhiễm sán chó (toxocariasis) là bệnh ký sinh trùng do ấu trùng giun đũa Toxocara gây ra, thường ký sinh ở chó và mèo. Bệnh lây sang người thông qua tiếp xúc với phân chó, mèo nhiễm trứng sán hoặc khi ăn phải thực phẩm bẩn chứa trứng sán. Ấu trùng sán chó khi xâm nhập vào cơ thể người có thể di chuyển đến các cơ quan như gan, phổi, mắt, não và gây ra nhiều biến chứng nghiêm trọng.",
+  "symptoms": [
+    {
+      "name": "Triệu chứng ở mắt (Ocular Toxocariasis)",
+      "description": "Viêm mắt, tổn thương võng mạc, có thể mất thị lực, thấy đốm đen hoặc tia sáng lóe, đồng tử đổi màu bất thường. Thường chỉ ảnh hưởng một mắt."
+    },
+    {
+      "name": "Triệu chứng hệ nội tạng (Visceral Toxocariasis)",
+      "description": "Sốt, ho, thở khò khè, đau bụng, gan to, giảm cân đột ngột, mệt mỏi, chóng mặt, uể oải, nổi mẩn ngứa hoặc mề đay trên da."
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Buồn nôn, nôn mửa, tiêu chảy, táo bón không rõ nguyên do, đầy hơi, chướng bụng."
+    },
+    {
+      "name": "Biến đổi cảm giác ăn uống",
+      "description": "Không có cảm giác đói hoặc ăn không thấy no, cảm giác bụng đầy kể cả khi chưa ăn."
+    },
+    {
+      "name": "Thay đổi sắc tố da và mắt",
+      "description": "Màu da và màu mắt nhợt nhạt hơn so với bình thường do ấu trùng hút máu và gây thiếu sắt."
+    },
+    {
+      "name": "Ngứa da",
+      "description": "Ngứa dai dẳng, ngứa nghiêm trọng vào ban đêm, đặc biệt ở vùng hậu môn, nổi mẩn đỏ."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh nhiễm sán chó ở người do nhiễm ấu trùng giun đũa (Toxocara canis hoặc Toxocara cati) gây ra.",
+    "related_factors": "Khi trứng sán chó xâm nhập vào cơ thể người, chúng sẽ nở thành ấu trùng và di chuyển qua mô, gây tổn thương tại chỗ. Ở người, ấu trùng không phát triển thành sán trưởng thành nhưng có thể tồn tại và gây hại trong nhiều năm.",
+    "transmission_routes": [
+      "Tiếp xúc với phân của chó, mèo nhiễm sán",
+      "Ăn uống không vệ sinh, ăn thực phẩm hoặc uống nước bị nhiễm trứng sán",
+      "Tiếp xúc với đất, cát bị nhiễm trứng sán",
+      "Ăn thịt chưa nấu chín, đặc biệt là thịt cừu, thịt thỏ, thịt bò, gan gà, vịt"
+    ]
+  },
+  "risk_factors": [
+    "Trẻ em thường xuyên chơi đất, cát nơi chó từng phóng uế",
+    "Người thường xuyên tiếp xúc, vuốt ve, ôm ấp chó mèo",
+    "Người chăn nuôi, buôn bán gia súc, chó, mèo",
+    "Ăn rau củ quả không rửa kỹ hoặc ăn sống",
+    "Thói quen ăn thịt chưa nấu chín",
+    "Sống ở nơi vệ sinh môi trường kém, đặc biệt là vùng nông thôn"
+  ],
+  "complications": [
+    "Tổn thương mắt dẫn đến giảm thị lực hoặc mù lòa",
+    "Viêm phổi và các vấn đề hô hấp",
+    "Tổn thương gan dẫn đến gan to",
+    "Viêm màng não, tổn thương não",
+    "Viêm cơ tim, viêm thận",
+    "Bệnh động kinh",
+    "Tử vong trong trường hợp nghiêm trọng"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và đánh giá triệu chứng",
+      "Hỏi tiền sử tiếp xúc với động vật, đặc biệt là chó, mèo",
+      "Xét nghiệm công thức máu, kiểm tra tăng bạch cầu ái toan (Eosinophilia)"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm máu tìm kháng thể",
+        "description": "Xét nghiệm ELISA (Enzyme Linked Immunosorbent Assay) để phát hiện kháng thể kháng Toxocara trong máu. Hiệu quả chẩn đoán cả T. canis và T. cati nhưng không phân biệt được giữa hai loài."
+      },
+      {
+        "name": "Kiểm tra dịch kính, dịch thủy tinh ở mắt",
+        "description": "Trong trường hợp nghi ngờ sán chó tấn công mắt, bác sĩ có thể kiểm tra dịch kính, dịch thủy tinh để tìm kháng thể."
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "X-quang, siêu âm, chụp CT scanner để tìm tổn thương trong cơ quan nội tạng do sán gây ra."
+      },
+      {
+        "name": "Sinh thiết mô",
+        "description": "Trong một số trường hợp hiếm gặp, có thể cần sinh thiết mô để xác nhận sự hiện diện của ấu trùng Toxocara."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Việc điều trị bệnh nhiễm sán chó phụ thuộc vào mức độ nhiễm trùng và các cơ quan bị ảnh hưởng. Phần lớn trường hợp có thể điều trị bằng thuốc diệt ký sinh trùng.",
+    "methods": [
+      {
+        "name": "Thuốc kháng ký sinh trùng",
+        "description": "Albendazole, Mebendazole hoặc Niclosamide được sử dụng để diệt ấu trùng sán chó. Liều lượng và thời gian điều trị sẽ do bác sĩ quyết định, thường từ vài ngày đến một tuần."
+      },
+      {
+        "name": "Thuốc kháng viêm",
+        "description": "Trong trường hợp có phản ứng viêm nghiêm trọng, các thuốc corticosteroid như prednisone có thể được sử dụng để giảm viêm và phản ứng dị ứng."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong trường hợp nhiễm sán nghiêm trọng hoặc khi có các tổn thương lớn ở mắt, não hoặc các cơ quan khác, có thể cần phẫu thuật để loại bỏ ấu trùng và giảm tổn thương."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ đúng liều lượng và thời gian điều trị do bác sĩ chỉ định",
+      "Không tự ý dùng thuốc diệt ký sinh trùng nếu không có chỉ định của bác sĩ",
+      "Tránh tiếp xúc với chó, mèo trong thời gian điều trị",
+      "Điều chỉnh chế độ ăn uống lành mạnh, vệ sinh"
+    ],
+    "prevention_of_transmission": [
+      "Loại bỏ phân chó, mèo đúng cách để tránh lan truyền trứng sán",
+      "Rửa tay kỹ sau khi tiếp xúc với chó, mèo hoặc đất",
+      "Đảm bảo chó, mèo được tẩy giun định kỳ"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện không có vaccine phòng ngừa bệnh nhiễm sán chó cho người.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tẩy giun sán và diệt bọ chét cho chó, mèo định kỳ bằng thuốc chuyên dụng",
+      "Rửa tay bằng xà phòng và nước sau khi chơi với thú cưng hoặc tiếp xúc với đất",
+      "Thu gom và xử lý phân thú cưng đúng cách",
+      "Không để trẻ em ăn đất hoặc chơi ở nơi có phân chó, mèo",
+      "Rửa sạch rau, củ, quả trước khi ăn",
+      "Nấu chín kỹ thức ăn, đặc biệt là thịt và nội tạng động vật",
+      "Vệ sinh môi trường sống thường xuyên, đặc biệt là nơi có chó, mèo",
+      "Giáo dục trẻ em về vệ sinh cá nhân"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh sán chó có lây từ người sang người không?",
+      "answer": "Không, bệnh sán chó không lây trực tiếp từ người sang người. Bệnh lây truyền chủ yếu qua tiếp xúc với phân chó, mèo nhiễm trứng sán hoặc qua việc ăn phải thực phẩm bẩn chứa trứng sán."
+    },
+    {
+      "question": "Làm thế nào để biết chó, mèo bị nhiễm sán?",
+      "answer": "Chó, mèo bị nhiễm sán có thể không có triệu chứng rõ rệt cho đến khi bệnh nặng. Các dấu hiệu có thể bao gồm giảm cân, lông xơ xác, bụng to, tiêu chảy hoặc táo bón. Nên đưa thú cưng đi khám thú y định kỳ để kiểm tra và tẩy giun sán."
+    },
+    {
+      "question": "Bệnh sán chó có nguy hiểm không?",
+      "answer": "Có, bệnh sán chó có thể gây ra nhiều biến chứng nguy hiểm nếu không được phát hiện và điều trị kịp thời. Ấu trùng sán chó có thể di chuyển đến các cơ quan quan trọng như mắt, não, gan, phổi và gây tổn thương nghiêm trọng, thậm chí dẫn đến tử vong trong trường hợp nặng."
+    },
+    {
+      "question": "Ai có nguy cơ mắc bệnh sán chó cao nhất?",
+      "answer": "Trẻ em là đối tượng có nguy cơ cao nhất do thường chơi đất, cát và có thể vô tình nuốt phải trứng sán. Người thường xuyên tiếp xúc với chó, mèo, người chăn nuôi gia súc và người sống trong điều kiện vệ sinh kém cũng có nguy cơ cao."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Bệnh sán chó có triệu chứng gì?",
+      "related_diseases": ["Viêm gan", "Sốt xuất huyết", "Viêm phổi"]
+    },
+    {
+      "question": "Bệnh sán chó lây qua đường nào?",
+      "related_diseases": ["Giun đũa", "Sán dây", "Nhiễm ký sinh trùng"]
+    },
+    {
+      "question": "Cách phòng ngừa bệnh sán chó",
+      "related_diseases": ["Bệnh ký sinh trùng", "Bệnh lây từ động vật"]
+    },
+    {
+      "question": "Bệnh sán chó có chữa được không?",
+      "related_diseases": ["Bệnh ký sinh trùng", "Nhiễm trùng đường ruột"]
+    }
+  ]
+}

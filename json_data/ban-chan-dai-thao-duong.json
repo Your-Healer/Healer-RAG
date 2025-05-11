@@ -1,0 +1,279 @@
+{
+  "disease_id": "ban-chan-dai-thao-duong",
+  "disease_name": "Bàn chân đái tháo đường",
+  "disease_alternative_names": ["Bàn chân tiểu đường", "Loét bàn chân đái tháo đường", "Biến chứng bàn chân do đái tháo đường"],
+  "disease_definition": "Bàn chân đái tháo đường là một biến chứng mạn tính của bệnh đái tháo đường, gây tổn thương thần kinh ngoại biên và mạch máu ở bàn chân, dẫn đến giảm hoặc mất cảm giác, nứt nẻ da và loét, nhiễm trùng, hoại tử và trong trường hợp nặng có thể dẫn đến phải cắt cụt chi.",
+  "symptoms": [
+    {
+      "name": "Tê buốt bàn chân",
+      "description": "Cảm giác tê buốt ở bàn chân do tổn thương thần kinh ngoại biên, là dấu hiệu cảnh báo sớm của biến chứng đái tháo đường ở bàn chân."
+    },
+    {
+      "name": "Mất cảm giác bàn chân",
+      "description": "Không cảm nhận được nhiệt độ, áp lực hoặc đau ở bàn chân, dẫn đến nguy cơ tổn thương mà không biết."
+    },
+    {
+      "name": "Cảm giác đi khô ráp",
+      "description": "Cảm giác đi khô ráp như đi trên cát, hay đi chân mang bao nylon do tổn thương thần kinh cảm giác."
+    },
+    {
+      "name": "Bàn chân lạnh buốt",
+      "description": "Cảm giác bàn chân lạnh buốt do giảm tưới máu, là dấu hiệu của bệnh lý mạch máu ngoại biên."
+    },
+    {
+      "name": "Cảm giác nóng",
+      "description": "Đôi khi có cảm giác nóng ở bàn chân do viêm xương hay nhiễm trùng."
+    },
+    {
+      "name": "Da bàn chân khô, nứt nẻ",
+      "description": "Da bàn chân trở nên khô, nứt nẻ do rối loạn thần kinh tự chủ, giảm tiết mồ hôi."
+    },
+    {
+      "name": "Rụng lông, teo cơ",
+      "description": "Rụng lông ở chân và teo cơ ở cẳng chân và mô bàn chân do thiếu máu nuôi dưỡng."
+    },
+    {
+      "name": "Vết bóng nước tự nhiên",
+      "description": "Xuất hiện các vết bóng nước tự nhiên trên vùng da bàn chân, có thể vỡ ra và tạo thành vết loét."
+    },
+    {
+      "name": "Hoại tử đen",
+      "description": "Xuất hiện hoại tử đen ở các vị trí trên bàn chân, đặc biệt là ở đầu ngón chân, do thiếu máu nuôi dưỡng."
+    },
+    {
+      "name": "Vết loét",
+      "description": "Các vết loét dưới dạng trầy xước do tác động từ bên ngoài như đạp dị vật, cọ sát, rất dễ lan rộng và khó lành."
+    },
+    {
+      "name": "Dịch tiết từ vết thương",
+      "description": "Sự tiết dịch của vết thương, có thể có mùi hôi, dịch mủ, là dấu hiệu của nhiễm trùng."
+    },
+    {
+      "name": "Triệu chứng toàn thân",
+      "description": "Các biểu hiện mệt mỏi, chán ăn, sốt cao, nặng hơn có thể dẫn đến nhiễm trùng toàn thân, kèm với các triệu chứng của tăng đường huyết."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bàn chân đái tháo đường là hậu quả trực tiếp của hai biến chứng chính của bệnh đái tháo đường: bệnh thần kinh ngoại biên (gây mất cảm giác) và bệnh lý mạch máu ngoại biên (làm giảm tuần hoàn máu).",
+    "related_factors": "Kiểm soát đường huyết kém trong thời gian dài dẫn đến tổn thương mạch máu nhỏ và dây thần kinh, là nguyên nhân chính gây ra các biến chứng của bệnh đái tháo đường ở bàn chân.",
+    "transmission_routes": [
+      "Không phải bệnh lây nhiễm, không có đường lây truyền",
+      "Tuy nhiên, nhiễm trùng từ vết loét bàn chân có thể lây lan trong cơ thể"
+    ]
+  },
+  "risk_factors": [
+    "Đái tháo đường kiểm soát kém (đường huyết cao kéo dài)",
+    "Thời gian mắc bệnh đái tháo đường lâu năm",
+    "Bệnh lý mạch máu ngoại biên",
+    "Bệnh thần kinh ngoại biên do đái tháo đường",
+    "Biến dạng bàn chân (như ngón chân búa, ngón chân vuốt)",
+    "Tiền sử loét bàn chân hoặc cắt cụt chi",
+    "Hút thuốc lá",
+    "Tuổi cao",
+    "Thiếu kiến thức về chăm sóc bàn chân",
+    "Sử dụng giày dép không phù hợp",
+    "Vệ sinh bàn chân kém"
+  ],
+  "complications": [
+    "Loét bàn chân mạn tính, khó lành",
+    "Nhiễm trùng sâu, lan rộng",
+    "Viêm xương tủy",
+    "Hoại tử mô",
+    "Nhiễm trùng huyết",
+    "Cắt cụt ngón chân, bàn chân hoặc cẳng chân",
+    "Tàn phế vĩnh viễn",
+    "Giảm chất lượng cuộc sống",
+    "Tăng gánh nặng kinh tế và xã hội"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng: Đánh giá tình trạng bàn chân, kiểm tra cảm giác, mạch máu, và biến dạng",
+      "Kiểm tra thần kinh: Sử dụng monofilament và camera cộng hưởng để đánh giá cảm giác",
+      "Đánh giá mạch máu: Kiểm tra mạch máu chân và chỉ số huyết áp cổ chân-cánh tay (ABI)"
+    ],
+    "tests": [
+      {
+        "name": "Kiểm tra cảm giác bằng monofilament",
+        "description": "Sử dụng sợi monofilament 10g để kiểm tra cảm giác áp lực ở bàn chân, giúp phát hiện sớm tổn thương thần kinh."
+      },
+      {
+        "name": "Siêu âm Doppler mạch máu chi dưới",
+        "description": "Đánh giá tình trạng lưu thông máu ở động mạch chi dưới, giúp phát hiện hẹp hoặc tắc mạch."
+      },
+      {
+        "name": "Chỉ số huyết áp cổ chân-cánh tay (ABI)",
+        "description": "So sánh huyết áp ở cổ chân và cánh tay để đánh giá tình trạng tuần hoàn máu ở chi dưới."
+      },
+      {
+        "name": "Xquang bàn chân",
+        "description": "Phát hiện biến dạng xương, viêm xương, khí trong mô mềm hoặc dị vật."
+      },
+      {
+        "name": "Cấy mẫu mô",
+        "description": "Xác định loại vi khuẩn gây nhiễm trùng và độ nhạy kháng sinh để điều trị hiệu quả."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bàn chân đái tháo đường đòi hỏi một phương pháp tiếp cận đa chuyên khoa, bao gồm kiểm soát đường huyết, chăm sóc vết thương, điều trị nhiễm trùng, và phòng ngừa tái phát.",
+    "methods": [
+      {
+        "name": "Kiểm soát đường huyết",
+        "description": "Duy trì mức đường huyết trong giới hạn mục tiêu để ngăn ngừa tổn thương thần kinh và mạch máu tiếp tục phát triển."
+      },
+      {
+        "name": "Làm sạch và băng vết thương",
+        "description": "Loại bỏ mô hoại tử, rửa sạch và băng vết thương bằng các loại băng đặc biệt để thúc đẩy quá trình lành vết thương."
+      },
+      {
+        "name": "Giảm áp lực",
+        "description": "Sử dụng các phương tiện giảm áp lực như giày đặc biệt, nẹp, hoặc bột bán phần để giảm áp lực lên vết thương, giúp vết thương mau lành."
+      },
+      {
+        "name": "Điều trị kháng sinh",
+        "description": "Sử dụng kháng sinh phù hợp dựa trên kết quả cấy mẫu mô để điều trị nhiễm trùng vết thương."
+      },
+      {
+        "name": "Tái thông mạch máu",
+        "description": "Phẫu thuật hoặc can thiệp nội mạch để cải thiện lưu lượng máu đến chân trong trường hợp bệnh lý mạch máu nặng."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Có thể cần phẫu thuật để loại bỏ mô hoại tử, xử lý biến dạng bàn chân hoặc cắt cụt trong trường hợp nặng không thể cứu vãn."
+      }
+    ],
+    "recommendations": [
+      "Kiểm tra bàn chân hàng ngày, tìm kiếm vết đỏ, vết cắt, phồng rộp, vết thương",
+      "Giữ bàn chân sạch sẽ và khô ráo",
+      "Thoa kem dưỡng ẩm cho da (nhưng không thoa giữa các ngón chân)",
+      "Cắt móng chân cẩn thận, cắt thẳng và không quá ngắn",
+      "Luôn đi giày hoặc dép, kể cả trong nhà",
+      "Kiểm tra giày trước khi mang để đảm bảo không có vật lạ bên trong",
+      "Tránh tự điều trị các vấn đề về bàn chân",
+      "Kiểm soát đường huyết tốt",
+      "Thăm khám chuyên gia chăm sóc bàn chân định kỳ"
+    ],
+    "prevention_of_transmission": [
+      "Bệnh này không lây truyền từ người sang người",
+      "Tuy nhiên, nhiễm trùng từ vết loét có thể lan rộng trong cơ thể nếu không được điều trị kịp thời và đúng cách"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc-xin phòng ngừa bàn chân đái tháo đường. Phòng ngừa chủ yếu thông qua kiểm soát đường huyết và chăm sóc bàn chân tích cực.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Kiểm soát đường huyết chặt chẽ",
+      "Kiểm tra bàn chân hàng ngày",
+      "Giữ bàn chân sạch và khô",
+      "Sử dụng kem dưỡng ẩm cho da khô (không thoa giữa các ngón chân)",
+      "Cắt móng chân cẩn thận, cắt thẳng và không quá ngắn",
+      "Mang giày vừa vặn, thoải mái, không gây tổn thương",
+      "Không đi chân trần, ngay cả trong nhà",
+      "Kiểm tra giày trước khi mang",
+      "Thay vớ hàng ngày",
+      "Tránh các nguồn nhiệt trực tiếp lên bàn chân như túi chườm nóng, chân lò sưởi",
+      "Kiểm tra bàn chân định kỳ với chuyên gia chăm sóc bàn chân",
+      "Điều trị ngay lập tức các vấn đề về bàn chân, ngay cả khi là vấn đề nhỏ",
+      "Bỏ hút thuốc lá",
+      "Tập thể dục thường xuyên để cải thiện tuần hoàn máu"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Tại sao người bệnh đái tháo đường dễ bị tổn thương ở bàn chân?",
+      "answer": "Người bệnh đái tháo đường dễ bị tổn thương ở bàn chân do hai nguyên nhân chính: (1) Bệnh thần kinh ngoại biên gây mất cảm giác đau, nhiệt và áp lực, khiến họ không nhận ra tổn thương khi xảy ra; (2) Bệnh lý mạch máu ngoại biên làm giảm lưu lượng máu đến bàn chân, khiến các vết thương khó lành và tăng nguy cơ nhiễm trùng. Ngoài ra, đường huyết cao tạo môi trường thuận lợi cho vi khuẩn phát triển và làm suy giảm hệ thống miễn dịch, càng làm tăng nguy cơ nhiễm trùng và khó lành vết thương."
+    },
+    {
+      "question": "Làm thế nào để chăm sóc bàn chân đúng cách khi bị đái tháo đường?",
+      "answer": "Để chăm sóc bàn chân đúng cách khi bị đái tháo đường, bạn nên: (1) Kiểm tra bàn chân hàng ngày, tìm vết đỏ, vết cắt, phồng rộp; (2) Rửa chân hàng ngày bằng nước ấm (không nóng) và xà phòng nhẹ, lau khô cẩn thận, đặc biệt là giữa các ngón chân; (3) Thoa kem dưỡng ẩm cho da khô nhưng tránh thoa giữa các ngón chân; (4) Cắt móng chân cẩn thận, cắt thẳng và không quá ngắn; (5) Luôn đi giày hoặc dép, kể cả trong nhà; (6) Mang giày vừa vặn, thoải mái, không gây tổn thương; (7) Thay vớ hàng ngày, chọn vớ không chật ở cổ; (8) Kiểm tra giày trước khi mang để đảm bảo không có vật lạ bên trong; (9) Tránh các nguồn nhiệt trực tiếp lên bàn chân; (10) Thăm khám chuyên gia chăm sóc bàn chân định kỳ."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ về vấn đề bàn chân đái tháo đường?",
+      "answer": "Bạn nên đi khám bác sĩ ngay lập tức khi xuất hiện các dấu hiệu sau: (1) Vết thương hoặc vết loét không lành sau 1-2 ngày; (2) Đỏ, sưng, ấm, hoặc đau ở bất kỳ vùng nào của bàn chân; (3) Da bàn chân thay đổi màu sắc (đen, xanh, trắng); (4) Cảm giác lạ như tê, ngứa, đau hoặc châm chích ở bàn chân; (5) Móng chân mọc vào trong da hoặc nhiễm trùng; (6) Xuất hiện vết phồng rộp, chai chân hoặc vết nứt; (7) Có mùi hôi từ bàn chân; (8) Sốt kèm theo bất kỳ vấn đề nào ở bàn chân. Đặc biệt trong trường hợp nhiễm trùng, việc điều trị sớm là rất quan trọng để tránh các biến chứng nghiêm trọng như hoại tử và cắt cụt chi."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tê buốt bàn chân và cảm giác đi như trên cát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "bệnh thần kinh ngoại biên", "đái tháo đường", "thiếu vitamin B12"]
+    },
+    {
+      "question": "Tôi đang cảm thấy bàn chân lạnh buốt, da khô và nứt nẻ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "bệnh lý mạch máu ngoại biên", "bệnh Raynaud", "suy giảm tuyến mồ hôi"]
+    },
+    {
+      "question": "Tôi hay bị chuột rút ở bàn chân và có vết loét nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "thiếu máu cục bộ chi dưới", "bệnh thần kinh ngoại biên", "thiếu điện giải"]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng mất cảm giác bàn chân và có vết thương lâu lành. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "bệnh thần kinh ngoại biên", "đái tháo đường", "bệnh lý mạch máu ngoại biên"]
+    },
+    {
+      "question": "Tôi bị phồng rộp nước ở bàn chân và có dấu hiệu nhiễm trùng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "nhiễm trùng da", "viêm da tiếp xúc", "bệnh nấm da"]
+    },
+    {
+      "question": "Tôi có các triệu chứng tê bì bàn chân, teo cơ và vết thương chảy dịch mủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "bệnh thần kinh ngoại biên", "viêm xương tủy", "nhiễm trùng mô mềm"]
+    },
+    {
+      "question": "Tôi thấy da bàn chân chuyển màu đen và có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "hoại tử", "hoại thư", "bệnh lý mạch máu ngoại biên"]
+    },
+    {
+      "question": "Tôi hay bị đau nhức xương khớp và có vết loét ở bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "viêm khớp", "viêm xương tủy", "gout"]
+    },
+    {
+      "question": "Tôi bị sốt cao, mệt mỏi và vết thương bàn chân lan rộng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "nhiễm trùng mô mềm", "viêm mô tế bào", "nhiễm trùng huyết"]
+    },
+    {
+      "question": "Tôi cảm thấy bàn chân nóng rát và có vết loét sâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "viêm xương tủy", "bệnh thần kinh ngoại biên", "nhiễm trùng vết thương"]
+    },
+    {
+      "question": "Tôi bị mất cảm giác ở ngón chân và có vết thương lâu lành. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "bệnh thần kinh ngoại biên", "bệnh lý mạch máu ngoại biên", "đái tháo đường"]
+    },
+    {
+      "question": "Tôi thấy da bàn chân khô ráp, rụng lông và có vết nứt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "bệnh lý mạch máu ngoại biên", "bệnh da do đái tháo đường", "bệnh vảy nến"]
+    },
+    {
+      "question": "Tôi bị đau buốt bàn chân về đêm và có vết loét chảy máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "bệnh thần kinh đau do đái tháo đường", "bệnh lý mạch máu ngoại biên", "hội chứng chân không yên"]
+    },
+    {
+      "question": "Tôi cảm thấy bàn chân tê cứng và có vết thương nhiễm trùng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "bệnh thần kinh ngoại biên", "viêm mô tế bào", "nhiễm trùng mô mềm"]
+    },
+    {
+      "question": "Tôi thấy da bàn chân sưng đỏ và có vết loét chứa mủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "viêm mô tế bào", "áp xe", "viêm tắc tĩnh mạch"]
+    },
+    {
+      "question": "Tôi bị đau nhức xương bàn chân và khó khăn khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "viêm xương tủy", "gãy xương do stress", "viêm khớp"]
+    },
+    {
+      "question": "Tôi thấy ngón chân bị thâm đen và có dấu hiệu hoại tử. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "hoại thư", "tắc mạch", "bệnh lý mạch máu ngoại biên"]
+    },
+    {
+      "question": "Tôi bị sốt, ớn lạnh và vết loét bàn chân lan rộng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "nhiễm trùng huyết", "viêm mô tế bào", "viêm xương tủy"]
+    },
+    {
+      "question": "Tôi cảm thấy bàn chân yếu ớt và có vết thương lâu lành. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "bệnh thần kinh ngoại biên", "thiếu máu cục bộ", "đái tháo đường"]
+    },
+    {
+      "question": "Tôi thấy da bàn chân mỏng, dễ bị tổn thương và có vết loét. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bàn chân đái tháo đường", "lão hóa da", "suy giảm tuyến mồ hôi", "thiếu dinh dưỡng da"]
+    }
+  ]
+}

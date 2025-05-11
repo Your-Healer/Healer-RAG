@@ -1,0 +1,256 @@
+{
+  "disease_id": "viem-noi-mac-tu-cung",
+  "disease_name": "Viêm nội mạc tử cung",
+  "disease_alternative_names": ["Endometritis"],
+  "disease_definition": "Viêm nội mạc tử cung (Endometritis) là tình trạng viêm nhiễm lớp nội mạc tử cung, thường là do nhiễm trùng gây ra, chẳng hạn như thủ thuật can thiệp ở buồng tử cung không được đảm bảo vô trùng như nạo hút thai, đặt vòng, lấy vòng, nạo sinh thiết… hoặc sót nhau sau mổ lấy thai, ứ dịch tử cung kéo dài.",
+  "symptoms": [
+    {
+      "name": "Đau bụng dữ dội trước và trong kỳ kinh",
+      "description": "Người bệnh thường bị đau bụng dữ dội cả trước và trong thời gian hành kinh, đây là triệu chứng phổ biến nhất của viêm nội mạc tử cung."
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Cảm giác đau đớn khi quan hệ tình dục do tình trạng viêm nhiễm ở nội mạc tử cung gây ra."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Người bệnh thường xuyên cảm thấy mệt mỏi do cơ thể phải đối phó với tình trạng viêm nhiễm."
+    },
+    {
+      "name": "Đau buốt ở đường tiết niệu",
+      "description": "Cảm giác đau buốt, nóng rát khi đi tiểu do vùng tiểu khung bị viêm nhiễm ảnh hưởng đến đường tiết niệu."
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Người bệnh có thể bị táo bón, tiêu chảy, nôn mửa do ảnh hưởng của tình trạng viêm nhiễm."
+    },
+    {
+      "name": "Dị ứng, viêm nhiễm vùng kín",
+      "description": "Ở một vài trường hợp, các triệu chứng bệnh còn đi kèm với dị ứng, người bệnh thường xuyên bị viêm nhiễm ở vùng kín."
+    },
+    {
+      "name": "Viêm nội mạc tử cung cấp tính",
+      "description": "Đau bụng dưới dữ dội, khí hư ra nhiều kèm sốt, mủ. Nếu không được điều trị đúng cách, bệnh sẽ chuyển sang giai đoạn mạn tính."
+    },
+    {
+      "name": "Viêm nội mạc tử cung mạn tính",
+      "description": "Đau bụng dưới, rối loạn kinh nguyệt, chảy máu tử cung. Người bệnh có thể thấy chướng bụng, dịch âm đạo có máu, thay đổi về cả chất và mùi."
+    },
+    {
+      "name": "Khó chịu ở bụng dưới",
+      "description": "Cảm giác khó chịu, không thoải mái ở vùng bụng dưới, thường xảy ra đồng thời với bệnh viêm tiểu khung."
+    }
+  ],
+  "causes": {
+    "main_cause": "Viêm nội mạc tử cung do nhiễm trùng gây ra. Các loại vi khuẩn, virus hoặc nấm có thể xâm nhập vào lớp nội mạc tử cung và gây viêm nhiễm.",
+    "related_factors": "Môi trường âm đạo phụ nữ có một thảm vi khuẩn thường trú. Khi lượng vi khuẩn tự nhiên này thay đổi sau một chấn thương hoặc điều kiện nhất định có thể gây ra bệnh viêm nội mạc tử cung. Ngoài ra, chị em còn có nguy cơ bị nhiễm trùng sau sảy thai hoặc sinh con, đặc biệt là sau chuyển dạ và sinh mổ lấy thai.",
+    "transmission_routes": [
+      "Các bệnh lây truyền qua đường tình dục (STIs) như lậu, chlamydia.",
+      "Bệnh lao.",
+      "Nhiễm trùng thảm vi khuẩn thường trú trong âm đạo.",
+      "Viêm màng ối trong quá trình chuyển dạ hoặc nhiễm khuẩn sau sinh.",
+      "Các thủ thuật y tế có liên quan đến tử cung như soi tử cung, nong cổ tử cung, nạo lòng tử cung, kiểm soát tử cung, đặt vòng tránh thai (IUD)."
+    ]
+  },
+  "risk_factors": [
+    "Phụ nữ sau sinh, đặc biệt là sinh mổ",
+    "Phụ nữ đã trải qua các thủ thuật như nạo hút thai, đặt vòng, lấy vòng, nạo sinh thiết",
+    "Phụ nữ mắc các bệnh lây truyền qua đường tình dục",
+    "Phụ nữ có tiền sử viêm nhiễm phụ khoa",
+    "Phụ nữ không vệ sinh vùng kín đúng cách",
+    "Phụ nữ có quan hệ tình dục không an toàn",
+    "Phụ nữ bị sót nhau sau sinh"
+  ],
+  "complications": [
+    "Nhiễm khuẩn huyết",
+    "Dính buồng tử cung",
+    "Viêm phần phụ hậu quả là gây dính tắc vòi trứng",
+    "Nhiễm trùng, viêm phúc mạc vùng chậu",
+    "Sốc nhiễm trùng: Tình trạng nhiễm trùng máu quá mức khiến huyết áp bệnh nhân cực thấp, nếu không được điều trị tích cực tại cơ sở y tế chuyên nghiệp có thể bị đe dọa tính mạng",
+    "Vô sinh ở nữ: Lý do bởi tinh trùng không thể gặp trứng để thụ tinh, trong trường hợp trứng đã thụ tinh cũng không thể di chuyển về niêm mạc tử cung để làm tổ và phát triển. Ngoài ra, tình trạng viêm nhiễm khiến tử cung không thể đảm bảo chức năng cho phôi thai làm tổ"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Thăm khám sức khỏe tổng thể và vùng chậu",
+      "Quan sát bụng, tử cung và cổ tử cung có dấu hiệu viêm nhiễm và tiết dịch âm đạo bất thường",
+      "Xét nghiệm cận lâm sàng"
+    ],
+    "tests": [
+      {
+        "name": "Lấy mẫu mô cổ tử cung",
+        "description": "Nhằm xác định vi khuẩn gây bệnh, chẳng hạn chlamydia hay gonorrhea – một vi khuẩn gây căn bệnh lậu."
+      },
+      {
+        "name": "Sinh thiết nội mạc tử cung",
+        "description": "Lấy mẫu mô nội mạc tử cung để kiểm tra dưới kính hiển vi, xác định tình trạng viêm nhiễm và loại trừ các bệnh lý ác tính."
+      },
+      {
+        "name": "Nội soi bụng và vùng chậu",
+        "description": "Quan sát rõ hơn tình trạng viêm nhiễm của các cơ quan trong vùng chậu, bao gồm tử cung, vòi trứng và buồng trứng."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đo số lượng tế bào máu bạch cầu và tỷ lệ lắng đọng hồng cầu, CRP, Pro-calcitonin bởi bệnh viêm nội mạc tử cung sẽ làm gia tăng cả hai chỉ số này."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Tổng phân tích nước tiểu, cấy nước tiểu để loại trừ tình trạng nhiễm khuẩn ở các cơ quan khác."
+      },
+      {
+        "name": "Cấy máu, cấy dịch niêm mạc tử cung",
+        "description": "Làm nuôi cấy định danh vi khuẩn và kháng sinh đồ trong trường hợp điều trị phác đồ kháng sinh thông thường không đáp ứng."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Viêm nội mạc tử cung cấp tính hay mạn tính vẫn có thể chữa khỏi nếu được phát hiện sớm và can thiệp điều trị kịp thời. Nguyên tắc chung trong điều trị viêm nội mạc tử cung chính là giảm các triệu chứng đau, viêm nhiễm, rối loạn kinh nguyệt và ngăn không để tình trạng viêm nhiễm lan rộng.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Phác đồ điều trị viêm nội mạc tử cung nội khoa là sử dụng thuốc kháng sinh và thuốc cân bằng lại nội tiết tố cho cơ thể. Loại thuốc kháng sinh đường uống thường được chỉ định trong điều trị viêm nội mạc tử cung là Clindamycin và Gentamicin, bằng cách tiêm tĩnh mạch trong vòng 2 tuần. Đối với bệnh mạn tính có thể điều trị bằng Doxycyclin."
+      },
+      {
+        "name": "Điều trị nhiễm trùng do bệnh lậu",
+        "description": "Tiêm Ceftriaxone 250mg, tiêm 1 mũi duy nhất."
+      },
+      {
+        "name": "Điều trị nhiễm trùng do nấm chlamydia",
+        "description": "Dùng Azithromycin 1g đường uống, uống 1 liều duy nhất."
+      },
+      {
+        "name": "Điều trị nhiễm trùng do mụn rộp sinh dục",
+        "description": "Dùng kháng sinh Acyclovir, uống trong vòng 5 ngày."
+      },
+      {
+        "name": "Điều trị ngoại khoa",
+        "description": "Trong trường hợp mức độ viêm nhiễm nghiêm trọng, diện tích vùng viêm nhiễm lan rộng gây nhiễm trùng huyết hoặc xuất hiện các tế bào ác tính tiềm ẩn nguy cơ tiến triển ung thư niêm mạc tử cung, bác sĩ chuyên khoa sẽ chỉ định điều trị ngoại khoa bằng phương pháp nạo buồng tử cung. Phẫu thuật viên sẽ đưa một dụng cụ vào buồng tử cung để lấy đi lớp niêm mạc bị sưng và viêm nhiễm để tái tạo lại niêm mạc mới."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ sử dụng thuốc theo đúng liều lượng và thời gian chỉ định của bác sĩ",
+      "Không tự ý dùng thuốc điều trị vì có thể làm tình trạng bệnh trầm trọng hơn",
+      "Giữ vệ sinh cơ thể, đặc biệt là vệ sinh vùng kín sạch sẽ đúng cách",
+      "Nghỉ ngơi đầy đủ, không quan hệ tình dục trong thời gian điều trị",
+      "Ăn uống đủ chất dinh dưỡng, tăng cường hệ miễn dịch",
+      "Tái khám theo lịch hẹn của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Kiêng quan hệ tình dục trong thời gian điều trị",
+      "Vệ sinh vùng kín sạch sẽ để tránh lây lan vi khuẩn",
+      "Thông báo cho bạn tình về tình trạng bệnh để cùng điều trị (nếu bệnh lây qua đường tình dục)",
+      "Tránh dùng chung các vật dụng cá nhân như khăn tắm, quần lót"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Hoạt động quan hệ tình dục an toàn, ví dụ sử dụng bao cao su",
+      "Không nạo hút thai nhiều lần",
+      "Vệ sinh vùng kín sạch sẽ và đúng cách",
+      "Mặc quần áo rộng rãi, chất liệu thông thoáng",
+      "Tuân thủ điều trị các bệnh lý lây truyền qua đường tình dục hoặc bệnh phụ khoa nếu có",
+      "Khi có các triệu chứng bệnh, người bệnh cần thăm khám ngay để điều trị kịp thời",
+      "Thăm khám sức khỏe định kỳ để phát hiện sớm các bệnh phụ khoa",
+      "Lựa chọn cơ sở y tế uy tín, có chuyên gia giỏi, tay nghề cao để đảm bảo vô trùng và an toàn khi thực hiện các thủ thuật liên quan đến tử cung"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bị viêm nội mạc tử cung có thai được không?",
+      "answer": "Viêm nội mạc tử cung có mang thai được hay không phụ thuộc vào nhiều yếu tố. Tuy nhiên, hầu hết các trường hợp sau điều trị đều có thể mang thai, ngoại trừ: Trường hợp chị em chủ quan không điều trị sớm, bệnh diễn tiến nặng làm tình trạng viêm nhiễm lan rộng và nguy cơ xuất hiện biến chứng nguy hiểm, trong đó có ung thư niêm mạc tử cung và vô sinh thứ phát. Trường hợp tình trạng bệnh không đáp ứng với phương pháp điều trị nội khoa, bác sĩ buộc phải chỉ định điều trị ngoại khoa để tránh tình trạng ngày càng nặng dần gây nguy hiểm đến tính mạnh. Phương pháp điều trị ngoại khoa bằng nạo buồng tử cung giúp điều trị bệnh hiệu quả, tuy nhiên cũng có thể khiến phụ nữ mất đi khả năng mang thai tự nhiên."
+    },
+    {
+      "question": "Viêm nội mạc tử cung có nguy hiểm không?",
+      "answer": "Bệnh viêm nội mạc tử cung nếu không được điều trị hiệu quả có thể dẫn đến nhiều biến chứng nguy hiểm ở cơ quan sinh sản, đe dọa sức khỏe và thiên chức làm mẹ của người phụ nữ. Các biến chứng có thể xảy ra gồm: nhiễm khuẩn huyết, dính buồng tử cung, viêm phần phụ hậu quả là gây dính tắc vòi trứng, nhiễm trùng, viêm phúc mạc vùng chậu, sốc nhiễm trùng và vô sinh ở nữ."
+    },
+    {
+      "question": "Viêm nội mạc tử cung có chữa được không?",
+      "answer": "Viêm nội mạc tử cung cấp tính hay mạn tính vẫn có thể chữa khỏi nếu được phát hiện sớm và can thiệp điều trị kịp thời. Do đó, ngay khi có những triệu chứng bất thường nghi ngờ viêm nội mạc tử cung, chị em cần đến ngay cơ sở y tế có chuyên khoa Sản Phụ khoa uy tín, có bác sĩ chuyên môn giỏi, tay nghề cao để được thăm khám, chẩn đoán và tư vấn cách điều trị hiệu quả."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dữ dội cả trước và trong thời gian hành kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "lạc nội mạc tử cung", "viêm vùng chậu", "u xơ tử cung"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "viêm âm đạo", "viêm cổ tử cung", "lạc nội mạc tử cung"]
+    },
+    {
+      "question": "Tôi hay bị mệt mỏi, đau buốt ở đường tiết niệu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "viêm đường tiết niệu", "viêm bàng quang", "viêm niệu đạo"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như táo bón, tiêu chảy, nôn mửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "hội chứng ruột kích thích", "viêm dạ dày ruột", "ngộ độc thực phẩm"]
+    },
+    {
+      "question": "Tôi đang cảm thấy dị ứng, viêm nhiễm ở vùng kín. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "viêm âm đạo", "viêm vulva", "nấm candida"]
+    },
+    {
+      "question": "Tôi hay bị đau bụng dưới dữ dội, khí hư ra nhiều kèm sốt, mủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung cấp tính", "viêm phần phụ", "viêm vùng chậu", "viêm cổ tử cung"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dưới, rối loạn kinh nguyệt, chảy máu tử cung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung mạn tính", "u xơ tử cung", "polyp tử cung", "rối loạn nội tiết"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chướng bụng, dịch âm đạo có máu, thay đổi về cả chất và mùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "viêm âm đạo", "ung thư cổ tử cung", "ung thư nội mạc tử cung"]
+    },
+    {
+      "question": "Tôi hay bị táo bón, khó chịu ở bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "hội chứng ruột kích thích", "viêm đại tràng", "u xơ tử cung"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm tiểu khung do nhiễm khuẩn chlamydia, lao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "viêm vòi trứng", "viêm phần phụ", "bệnh lây qua đường tình dục"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ung thư nội mạc tử cung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung thư nội mạc tử cung", "viêm nội mạc tử cung", "tăng sản nội mạc tử cung"]
+    },
+    {
+      "question": "Tôi hay bị ung thư cổ tử cung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung thư cổ tử cung", "viêm nội mạc tử cung", "HPV"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm nhiễm lớp nội mạc tử cung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "viêm tiểu khung", "nhiễm trùng sau sinh"]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm nội mạc tử cung do nhiễm trùng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "nhiễm trùng hậu sản", "viêm vùng chậu"]
+    },
+    {
+      "question": "Tôi hay bị bệnh lây truyền qua đường tình dục (STIs). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lậu", "chlamydia", "giang mai", "viêm nội mạc tử cung"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như lậu, chlamydia. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh lây qua đường tình dục", "viêm nội mạc tử cung", "viêm vòi trứng"]
+    },
+    {
+      "question": "Tôi đang cảm thấy bệnh lao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lao phổi", "lao sinh dục", "viêm nội mạc tử cung do lao"]
+    },
+    {
+      "question": "Tôi hay bị nhiễm trùng thảm vi khuẩn thường trú trong âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm âm đạo do vi khuẩn", "viêm nội mạc tử cung", "viêm cổ tử cung"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm màng ối trong quá trình chuyển dạ hoặc nhiễm khuẩn sau sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiễm trùng ối", "viêm nội mạc tử cung", "nhiễm trùng hậu sản"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nhiễm khuẩn sau sảy thai hoặc sinh con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm nội mạc tử cung", "nhiễm trùng hậu sản", "sốt hậu sản"]
+    }
+  ]
+}

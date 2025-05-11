@@ -1,0 +1,169 @@
+{
+  "disease_id": "benh-viem-co-tim-gian-no",
+  "disease_name": "Bệnh cơ tim giãn nở",
+  "disease_alternative_names": [
+    "Bệnh cơ tim giãn",
+    "Dilated Cardiomyopathy",
+    "DCM"
+  ],
+  "disease_definition": "Bệnh cơ tim giãn nở là tình trạng cơ tim bị suy yếu và giãn ra, khiến các buồng tim, đặc biệt là tâm thất trái, bị giãn to. Điều này làm giảm khả năng co bóp của tim, dẫn đến việc tim không thể bơm máu hiệu quả đến các bộ phận khác trong cơ thể.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Khó thở khi gắng sức và khi nằm, có thể thức giấc vào ban đêm do khó thở"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi và yếu sức thường xuyên, ngay cả khi thực hiện các hoạt động nhẹ nhàng"
+    },
+    {
+      "name": "Phù",
+      "description": "Sưng phù ở chân, mắt cá chân và bụng do ứ dịch"
+    },
+    {
+      "name": "Đánh trống ngực",
+      "description": "Cảm giác tim đập nhanh, không đều hoặc đánh trống ngực"
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Cảm giác chóng mặt, choáng váng do lưu lượng máu giảm"
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh cơ tim giãn nở có thể do nhiều nguyên nhân, bao gồm yếu tố di truyền và các tổn thương cơ tim do virus, độc tố hoặc các bệnh lý khác.",
+    "related_factors": "Lạm dụng rượu, một số loại thuốc hóa trị, tăng huyết áp kéo dài và các bệnh tim mạch khác có thể làm tăng nguy cơ mắc bệnh.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Di truyền",
+      "description": "Có người thân trong gia đình mắc bệnh"
+    },
+    {
+      "name": "Lạm dụng rượu",
+      "description": "Uống nhiều rượu trong thời gian dài"
+    },
+    {
+      "name": "Bệnh tim mạch",
+      "description": "Có tiền sử bệnh tim mạch như tăng huyết áp, bệnh mạch vành"
+    },
+    {
+      "name": "Nhiễm trùng",
+      "description": "Tiền sử viêm cơ tim do virus"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Suy tim",
+      "description": "Tim không thể bơm máu đủ để đáp ứng nhu cầu cơ thể"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Tim đập không đều hoặc quá nhanh"
+    },
+    {
+      "name": "Huyết khối",
+      "description": "Cục máu đông có thể hình thành trong tim"
+    },
+    {
+      "name": "Đột tử",
+      "description": "Do rối loạn nhịp tim nghiêm trọng"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ sẽ khám tổng quát, nghe tim phổi và đánh giá các triệu chứng"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Kiểm tra hoạt động điện của tim và phát hiện rối loạn nhịp"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá kích thước, cấu trúc và chức năng của tim"
+      },
+      {
+        "name": "Chụp cộng hưởng từ tim",
+        "description": "Cung cấp hình ảnh chi tiết về cấu trúc và chức năng tim"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra các chỉ số sinh hóa và marker tim"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh cơ tim giãn nở nhằm cải thiện chức năng tim, kiểm soát triệu chứng và ngăn ngừa biến chứng.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng các loại thuốc như ức chế men chuyển, ức chế beta, thuốc lợi tiểu và thuốc chống đông máu"
+      },
+      {
+        "name": "Thiết bị hỗ trợ",
+        "description": "Cấy máy tạo nhịp tim hoặc máy khử rung tự động (ICD) trong một số trường hợp"
+      },
+      {
+        "name": "Ghép tim",
+        "description": "Được xem xét trong các trường hợp nặng không đáp ứng với các phương pháp điều trị khác"
+      }
+    ],
+    "recommendations": [
+      "Hạn chế muối trong chế độ ăn",
+      "Tập thể dục phù hợp theo hướng dẫn",
+      "Ngừng hút thuốc và kiêng rượu",
+      "Theo dõi cân nặng hàng ngày",
+      "Uống thuốc đều đặn theo chỉ định",
+      "Nghỉ ngơi hợp lý"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin đặc hiệu cho bệnh cơ tim giãn nở.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Kiểm soát huyết áp và các yếu tố nguy cơ tim mạch",
+      "Duy trì chế độ ăn uống cân bằng",
+      "Tập thể dục đều đặn phù hợp",
+      "Tránh rượu và thuốc lá",
+      "Khám sức khỏe định kỳ",
+      "Tầm soát sớm nếu có tiền sử gia đình"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "",
+      "answer": ""
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Bệnh cơ tim giãn nở có di truyền không?",
+      "related_diseases": [
+        "bệnh tim bẩm sinh",
+        "bệnh cơ tim phì đại",
+        "rối loạn nhịp tim di truyền"
+      ]
+    },
+    {
+      "question": "Bệnh cơ tim giãn nở có chữa được không?",
+      "related_diseases": [
+        "suy tim",
+        "bệnh van tim",
+        "bệnh mạch vành"
+      ]
+    },
+    {
+      "question": "Người bệnh cơ tim giãn nở có thể tập thể dục không?",
+      "related_diseases": [
+        "suy tim",
+        "rối loạn nhịp tim",
+        "tăng huyết áp"
+      ]
+    }
+  ]
+} 

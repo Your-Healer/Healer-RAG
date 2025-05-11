@@ -1,0 +1,196 @@
+{
+  "disease_id": "benh-phoi-tac-nghen-man-tinh-copd",
+  "disease_name": "Bệnh phổi tắc nghẽn mạn tính (COPD)",
+  "disease_alternative_names": ["COPD", "Bệnh phổi tắc nghẽn mãn tính", "Chronic Obstructive Pulmonary Disease", "Bệnh phổi tắc nghẽn", "Khí phế thũng"],
+  "disease_definition": "Bệnh phổi tắc nghẽn mạn tính (COPD) là một bệnh lý hô hấp ở phổi gây ra tình trạng tắc nghẽn của luồng khí đi qua phổi do đường thở bị hẹp và sưng so với bình thường. Bệnh phát triển từ từ theo thời gian, khiến người bệnh khó thở, mệt mỏi, ho, thở khò khè và có nguy cơ cao phát triển ung thư phổi, bệnh tim mạch và các bệnh lý khác.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Khó thở, đặc biệt khi gắng sức và ngày càng trở nên nặng hơn theo thời gian, là triệu chứng phổ biến nhất của COPD."
+    },
+    {
+      "name": "Ho kéo dài",
+      "description": "Ho kéo dài dai dẳng, có thể có đờm hoặc không, thường xuất hiện vào buổi sáng."
+    },
+    {
+      "name": "Khò khè",
+      "description": "Có tiếng khò khè khi thở, đặc biệt khi hít vào sâu."
+    },
+    {
+      "name": "Tức ngực",
+      "description": "Cảm giác tức, nặng ngực, khó chịu khi hít thở."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Mệt mỏi, suy nhược, giảm khả năng hoạt động và tập luyện."
+    },
+    {
+      "name": "Nhiễm trùng hô hấp thường xuyên",
+      "description": "Dễ bị viêm phổi, cúm và các bệnh đường hô hấp khác."
+    },
+    {
+      "name": "Sút cân",
+      "description": "Người bệnh có thể bị sút cân không rõ nguyên nhân ở giai đoạn nặng."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính gây bệnh COPD là hút thuốc lá. Khoảng 80-90% người mắc phổi tắc nghẽn mạn tính bắt nguồn từ việc hút thuốc lá, thuốc lào, hít phải khói thuốc lâu dài.",
+    "related_factors": "Ngoài ra, tiếp xúc lâu dài với khói bụi, ô nhiễm không khí, hóa chất, khí độc, tiền sử bệnh lao, hen suyễn kéo dài, và yếu tố di truyền như thiếu hụt alpha-1 antitrypsin cũng là nguyên nhân gây bệnh.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Hút thuốc lá, thuốc lào, thuốc lá điện tử",
+    "Tiếp xúc với khói thuốc thụ động",
+    "Ô nhiễm không khí trong nhà và ngoài trời",
+    "Tiếp xúc nghề nghiệp với khói, bụi, hóa chất",
+    "Tiền sử bệnh hen suyễn",
+    "Tiền sử bệnh lao phổi",
+    "Nhiễm trùng đường hô hấp trong thời thơ ấu",
+    "Yếu tố di truyền (thiếu hụt alpha-1 antitrypsin)",
+    "Tuổi cao (bệnh thường xuất hiện ở người trên 40 tuổi)"
+  ],
+  "complications": [
+    "Đợt cấp COPD (tình trạng bệnh nặng hơn đột ngột)",
+    "Suy hô hấp",
+    "Bệnh tim mạch",
+    "Tăng áp phổi",
+    "Ung thư phổi",
+    "Viêm phổi và nhiễm trùng hô hấp",
+    "Trầm cảm và lo âu",
+    "Suy nhược cơ thể",
+    "Tử vong sớm"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và hỏi tiền sử bệnh",
+      "Đo chức năng hô hấp (Spirometry)",
+      "Chụp X-quang phổi",
+      "Chụp CT phổi",
+      "Khí máu động mạch",
+      "Đo oxy máu bằng máy đo SpO2"
+    ],
+    "tests": [
+      {
+        "name": "Đo chức năng hô hấp (Spirometry)",
+        "description": "Là xét nghiệm quan trọng nhất để chẩn đoán COPD, đánh giá mức độ tắc nghẽn đường thở. Người bệnh COPD có chỉ số FEV1/FVC < 0.7 sau khi dùng thuốc giãn phế quản."
+      },
+      {
+        "name": "Chụp X-quang phổi",
+        "description": "Giúp phát hiện các tổn thương phổi và loại trừ các bệnh lý khác."
+      },
+      {
+        "name": "Chụp CT phổi",
+        "description": "Giúp đánh giá chi tiết tổn thương phổi, mức độ giãn phế nang và tình trạng khí thũng."
+      },
+      {
+        "name": "Xét nghiệm khí máu động mạch",
+        "description": "Đánh giá mức độ trao đổi khí, tình trạng thiếu oxy và tăng CO2 máu."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Bệnh phổi tắc nghẽn mạn tính không thể chữa khỏi hoàn toàn, nhưng có thể kiểm soát triệu chứng và làm chậm tiến triển của bệnh. Điều trị bao gồm cả các đợt điều trị cấp tính và điều trị duy trì dài hạn.",
+    "methods": [
+      {
+        "name": "Ngừng hút thuốc",
+        "description": "Đây là biện pháp quan trọng nhất trong điều trị COPD. Cai thuốc lá có thể làm chậm tiến triển của bệnh và giảm nguy cơ tử vong."
+      },
+      {
+        "name": "Thuốc giãn phế quản",
+        "description": "Thuốc giãn phế quản dạng hít như thuốc chủ vận beta-2 tác dụng kéo dài (LABA) và thuốc đối kháng muscarinic tác dụng kéo dài (LAMA) giúp giãn đường thở, giảm khó thở và cải thiện chức năng phổi."
+      },
+      {
+        "name": "Thuốc corticosteroid dạng hít",
+        "description": "Thuốc chống viêm giúp giảm viêm đường thở và ngăn ngừa đợt cấp COPD."
+      },
+      {
+        "name": "Liệu pháp oxy",
+        "description": "Sử dụng oxy bổ sung cho bệnh nhân có nồng độ oxy trong máu thấp, giúp cải thiện chất lượng cuộc sống và kéo dài tuổi thọ."
+      },
+      {
+        "name": "Phục hồi chức năng hô hấp",
+        "description": "Chương trình tập luyện và giáo dục giúp cải thiện khả năng hô hấp, tăng cường thể lực và nâng cao chất lượng cuộc sống."
+      },
+      {
+        "name": "Nội soi phế quản đặt van một chiều",
+        "description": "Phương pháp can thiệp đặt van một chiều trong đường thở giúp giảm thể tích phổi, cải thiện chức năng phổi và giảm khó thở ở bệnh nhân khí phế thũng nặng. Van Zephyr là một thiết bị được FDA phê duyệt để điều trị COPD nặng."
+      },
+      {
+        "name": "Phẫu thuật giảm thể tích phổi",
+        "description": "Phẫu thuật cắt bỏ phần phổi bị tổn thương để tạo không gian cho phổi khỏe mạnh còn lại giãn nở tốt hơn."
+      },
+      {
+        "name": "Ghép phổi",
+        "description": "Là lựa chọn cuối cùng cho những trường hợp COPD rất nặng, khi các biện pháp điều trị khác không hiệu quả."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ điều trị theo chỉ định của bác sĩ",
+      "Tránh tiếp xúc với các chất kích thích đường hô hấp (khói, bụi, khí độc...)",
+      "Duy trì chế độ ăn uống lành mạnh, cân bằng dinh dưỡng",
+      "Tập thể dục thường xuyên trong giới hạn có thể",
+      "Tiêm phòng cúm và phế cầu để tránh nhiễm trùng hô hấp",
+      "Tham gia các nhóm hỗ trợ bệnh nhân COPD"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm vắc-xin phòng nhiễm trùng đường hô hấp giúp giảm nguy cơ đợt cấp COPD",
+      "recommended_for": [
+        "Vắc-xin phòng cúm mùa (hàng năm)",
+        "Vắc-xin phòng viêm phổi do phế cầu khuẩn (Prevenar 13 và Pneumovax 23)",
+        "Vắc-xin phòng ho gà - Bạch hầu - Uốn ván (Boostrix)",
+        "Vắc-xin phòng COVID-19"
+      ]
+    },
+    "general_recommendations": [
+      "Không hút thuốc lá và tránh khói thuốc thụ động",
+      "Tránh tiếp xúc với khói bụi, hóa chất, chất gây ô nhiễm không khí",
+      "Duy trì môi trường sống trong lành",
+      "Sử dụng khẩu trang khi cần tiếp xúc với môi trường ô nhiễm",
+      "Tăng cường sức đề kháng qua chế độ ăn uống và luyện tập phù hợp",
+      "Khám sức khỏe định kỳ, nhất là người có nguy cơ cao"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh phổi tắc nghẽn mạn tính có chữa khỏi hoàn toàn được không?",
+      "answer": "COPD là bệnh mạn tính không thể chữa khỏi hoàn toàn, nhưng có thể điều trị để kiểm soát triệu chứng, làm chậm tiến triển của bệnh và cải thiện chất lượng cuộc sống. Điều quan trọng nhất là ngừng hút thuốc lá và tuân thủ phác đồ điều trị của bác sĩ."
+    },
+    {
+      "question": "Người mắc bệnh phổi tắc nghẽn mạn tính sống được bao lâu?",
+      "answer": "Tuổi thọ của người mắc COPD phụ thuộc vào nhiều yếu tố như mức độ nặng của bệnh, tuổi khi bắt đầu mắc bệnh, tình trạng hút thuốc, bệnh đồng mắc và việc tuân thủ điều trị. Với điều trị thích hợp và thay đổi lối sống, nhiều người có thể sống lâu và có chất lượng cuộc sống tốt. Ngừng hút thuốc lá là yếu tố quan trọng nhất để cải thiện tiên lượng."
+    },
+    {
+      "question": "Nội soi phế quản đặt van một chiều là gì và có hiệu quả không?",
+      "answer": "Nội soi phế quản đặt van một chiều là phương pháp điều trị can thiệp tối thiểu, trong đó bác sĩ đặt những van nhỏ một chiều vào đường thở dẫn đến vùng phổi bị tổn thương nặng. Van cho phép không khí thoát ra khi thở ra nhưng ngăn không khí đi vào khi hít vào, giúp giảm thể tích phổi. Phương pháp này đã được chứng minh là hiệu quả trong việc cải thiện chức năng phổi, giảm khó thở và tăng khả năng vận động cho bệnh nhân COPD nặng có khí phế thũng. Van Zephyr là một trong những thiết bị được FDA chấp thuận cho điều trị này."
+    },
+    {
+      "question": "Những triệu chứng nào của bệnh phổi tắc nghẽn mạn tính cần đi khám bác sĩ ngay?",
+      "answer": "Cần đến gặp bác sĩ ngay nếu có các dấu hiệu sau: khó thở đột ngột và nghiêm trọng, khó thở ngay cả khi nghỉ ngơi, môi hoặc móng tay chuyển sang màu xanh tím, nhịp tim nhanh bất thường, khó tập trung hoặc lú lẫn, ho ra máu, hoặc đờm có màu vàng, xanh, hoặc nâu đậm. Đây có thể là dấu hiệu của đợt cấp COPD hoặc biến chứng nghiêm trọng cần được điều trị khẩn cấp."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Phân biệt bệnh phổi tắc nghẽn mạn tính và hen suyễn?",
+      "related_diseases": ["hen-suyen", "viem-phoi"]
+    },
+    {
+      "question": "Làm thế nào để phân biệt giữa đợt cấp COPD và viêm phổi?",
+      "related_diseases": ["viem-phoi", "cum"]
+    },
+    {
+      "question": "Chế độ ăn nào tốt cho người bị bệnh phổi tắc nghẽn mạn tính?",
+      "related_diseases": ["suy-dinh-duong", "benh-tim-mach"]
+    },
+    {
+      "question": "Người bệnh phổi tắc nghẽn mạn tính có nên tập thể dục không?",
+      "related_diseases": ["benh-tim-mach", "tram-cam"]
+    },
+    {
+      "question": "Liệu pháp oxy tại nhà cho bệnh nhân COPD có an toàn không?",
+      "related_diseases": ["suy-ho-hap", "tang-ap-phoi"]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "disease_id": "benh-dau-mua",
+  "disease_name": "Bệnh đậu mùa",
+  "disease_alternative_names": ["Smallpox", "Variola"],
+  "disease_definition": "Bệnh đậu mùa là một bệnh truyền nhiễm cấp tính do virus variola gây ra, với đặc điểm sốt, phát ban và tỷ lệ tử vong cao. Bệnh đậu mùa đã được tuyên bố diệt trừ vào năm 1980 sau một chương trình tiêm chủng thành công toàn cầu, và được coi là một trong những thành tựu vĩ đại nhất của y học hiện đại.",
+  "symptoms": [
+    {
+      "name": "Sốt cao",
+      "description": "Sốt cao đột ngột đến 40-41°C, thường là dấu hiệu ban đầu của bệnh."
+    },
+    {
+      "name": "Đau đầu dữ dội",
+      "description": "Đau đầu nghiêm trọng là triệu chứng phổ biến trong giai đoạn đầu của bệnh."
+    },
+    {
+      "name": "Đau lưng",
+      "description": "Đau dọc sống lưng và thắt lưng khiến bệnh nhân phải nằm liệt giường."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi rã rời, kiệt sức là triệu chứng điển hình."
+    },
+    {
+      "name": "Nôn mửa và đau bụng",
+      "description": "Nhiều bệnh nhân bị nôn liên tục và đau thượng vị."
+    },
+    {
+      "name": "Phát ban",
+      "description": "Ban đầu là dát màu hồng nhạt xuất hiện ở trán, da đầu, thái dương, mặt, sau đó lan xuống cổ, gáy, tay, ngực, lưng và cuối cùng là chân."
+    },
+    {
+      "name": "Mụn nước và mụn mủ",
+      "description": "Các nốt ban tiến triển thành mụn nước từ ngày thứ 4-5 và chứa mủ vào ngày thứ 7. Mụn mủ tròn, căng, trung tâm lõm xuống và ăn sâu vào da/niêm mạc."
+    },
+    {
+      "name": "Tổn thương niêm mạc",
+      "description": "Có thể xuất hiện tổn thương ở niêm mạc miệng, mắt, mũi, họng gây lở loét, đau, khó nuốt."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh đậu mùa do virus variola gây ra, thuộc họ Orthopoxvirus, có dạng hình chữ nhật kích thước khoảng 280-320 nm x 200-250 nm.",
+    "related_factors": "Virus đậu mùa có khả năng tồn tại ở môi trường bên ngoài đến nhiều tháng, đặc biệt trong điều kiện thời tiết lạnh, khô.",
+    "transmission_routes": [
+      "Lây truyền trực tiếp qua giọt bắn đường hô hấp khi người nhiễm bệnh ho, hắt hơi, nói chuyện.",
+      "Lây gián tiếp qua các đồ vật nhiễm bẩn như quần áo, khăn trải giường có virus.",
+      "Lây qua tiếp xúc trực tiếp với các tổn thương da của người bệnh.",
+      "Người mắc bệnh là nguồn lây từ cuối thời kỳ nung bệnh cho đến khi mụn đậu tróc hết vảy."
+    ]
+  },
+  "risk_factors": [
+    "Không được tiêm vắc xin phòng bệnh đậu mùa",
+    "Tiếp xúc trực tiếp với người mắc bệnh đậu mùa",
+    "Trẻ em, đặc biệt là trẻ sơ sinh",
+    "Phụ nữ mang thai và đang cho con bú",
+    "Người có hệ miễn dịch suy yếu do bệnh lý hoặc thuốc ức chế miễn dịch",
+    "Người mắc các tình trạng rối loạn về da như chàm, vẩy nến, tổ đỉa"
+  ],
+  "complications": [
+    "Nhiễm trùng thứ phát trên da với triệu chứng ngứa, lở loét",
+    "Viêm giác mạc và loét mạc dẫn đến mù lòa",
+    "Viêm khớp do virus và viêm tủy xương",
+    "Viêm phổi thứ phát do vi khuẩn",
+    "Viêm tinh hoàn",
+    "Viêm não",
+    "Sẹo vĩnh viễn, đặc biệt là ở mặt",
+    "Tử vong (tỷ lệ khoảng 30% ở bệnh đậu mùa thể nặng)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Chẩn đoán lâm sàng dựa vào triệu chứng đặc trưng của bệnh",
+      "Xét nghiệm PCR để phát hiện DNA variola trong mẫu bệnh phẩm",
+      "Sử dụng kính hiển vi điện tử để tìm virus",
+      "Nuôi cấy virus từ mẫu bệnh phẩm được lấy từ tổn thương da"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm PCR",
+        "description": "Phản ứng chuỗi polymerase (PCR) của DNA variola trong mẫu bệnh phẩm (trong nước hoặc mụn mủ)."
+      },
+      {
+        "name": "Kính hiển vi điện tử",
+        "description": "Dùng kính hiển vi điện tử để tìm virus từ mẫu bệnh phẩm."
+      },
+      {
+        "name": "Nuôi cấy virus",
+        "description": "Nuôi cấy virus từ mẫu bệnh phẩm được lấy từ tổn thương da."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Hiện nay chưa có thuốc đặc trị bệnh đậu mùa. Điều trị chủ yếu là hỗ trợ và điều trị triệu chứng.",
+    "methods": [
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Giảm sốt, giảm đau, duy trì cân bằng nước và điện giải."
+      },
+      {
+        "name": "Điều trị hỗ trợ",
+        "description": "Giữ gìn vệ sinh da, mắt, mũi, họng, mồm. Không để mụn đậu vỡ hoặc dập nát."
+      },
+      {
+        "name": "Kháng sinh",
+        "description": "Sử dụng kháng sinh thích hợp để chống bội nhiễm do vi khuẩn."
+      },
+      {
+        "name": "Thuốc kháng virus",
+        "description": "Tecovirimat và Brincidofovir là các thuốc kháng virus đã được FDA chấp thuận để điều trị bệnh đậu mùa, mặc dù hiệu quả trên người chưa được kiểm chứng đầy đủ."
+      }
+    ],
+    "recommendations": [
+      "Bệnh nhân nên được cách ly tại phòng riêng, thoáng khí, có ánh nắng mặt trời",
+      "Hạn chế tối đa tiếp xúc với nhiều người đến khi các vết mụn nước khô và đóng vảy hoàn toàn",
+      "Mặc quần áo rộng, mỏng, tắm bằng nước ấm",
+      "Không dùng chung đồ cá nhân (khăn, ly, chén, muỗng, đũa) để tránh lây lan dịch bệnh",
+      "Ăn các thức ăn mềm lỏng, thường xuyên uống nước cam, ăn trái cây, uống nhiều nước để cung cấp đủ dưỡng chất"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly bệnh nhân từ thời điểm chẩn đoán đến khi tất cả các vết thương đã đóng vảy và rụng",
+      "Nhân viên y tế và người chăm sóc nên sử dụng thiết bị bảo vệ cá nhân đầy đủ",
+      "Khử trùng tất cả đồ dùng, quần áo và bề mặt tiếp xúc với bệnh nhân",
+      "Thông báo cho cơ quan y tế về các ca nghi ngờ nhiễm bệnh đậu mùa"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Vắc xin đậu mùa đã được sử dụng thành công để tiêu diệt bệnh đậu mùa trên toàn cầu. Kể từ năm 1980, WHO đã tuyên bố bệnh đậu mùa đã được loại trừ khỏi thế giới và không còn tiêm chủng thường quy nữa.",
+      "recommended_for": [
+        "Nhân viên phòng thí nghiệm nghiên cứu về virus đậu mùa",
+        "Nhân viên y tế tuyến đầu trong trường hợp nghi ngờ xuất hiện đợt bùng phát",
+        "Nhân viên quân đội và quốc phòng trong một số quốc gia",
+        "Người có tiếp xúc gần với ca bệnh đậu mùa (tiêm phòng sau phơi nhiễm trong vòng 3-4 ngày)"
+      ]
+    },
+    "general_recommendations": [
+      "Thực hiện tốt vệ sinh cá nhân, thường xuyên rửa tay",
+      "Tránh tiếp xúc với người mắc bệnh đậu mùa",
+      "Trong trường hợp tiếp xúc không an toàn với nguồn bệnh, nên tiêm vắc xin trong vòng 3-4 ngày",
+      "Tự cách ly ở phòng riêng nếu nghi ngờ mắc bệnh và báo với cơ sở y tế địa phương",
+      "Trong trường hợp dịch bùng phát, tuân thủ hướng dẫn của cơ quan y tế"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh đậu mùa có phải là bệnh vẫn đang lưu hành không?",
+      "answer": "Không, bệnh đậu mùa đã được WHO tuyên bố tiêu diệt trên toàn cầu vào năm 1980 sau chiến dịch tiêm chủng toàn cầu thành công. Trường hợp tự nhiên cuối cùng được biết đến là ở Somalia vào năm 1977."
+    },
+    {
+      "question": "Bệnh đậu mùa và thủy đậu có phải là cùng một bệnh không?",
+      "answer": "Không, đậu mùa và thủy đậu là hai bệnh khác nhau do hai loại virus khác nhau gây ra. Đậu mùa do virus variola gây ra và nghiêm trọng hơn nhiều với tỷ lệ tử vong cao, trong khi thủy đậu do virus varicella-zoster gây ra và thường nhẹ hơn."
+    },
+    {
+      "question": "Người bị đậu mùa rồi có bị lại không?",
+      "answer": "Trong hầu hết các trường hợp, những người đã mắc bệnh đậu mùa sẽ có miễn dịch suốt đời. Tuy nhiên, trong một số trường hợp hiếm gặp, người đã mắc bệnh đậu mùa, hoặc đã được chủng ngừa trước đây, có thể bị nhiễm lại nhưng thường có biểu hiện nhẹ hơn."
+    },
+    {
+      "question": "Bệnh đậu mùa có thể điều trị khỏi hoàn toàn không?",
+      "answer": "Hiện nay chưa có thuốc đặc trị bệnh đậu mùa. Điều trị chủ yếu là hỗ trợ và điều trị triệu chứng. Tỷ lệ tử vong của bệnh đậu mùa thể nặng khoảng 30%. Những người sống sót thường có những vết sẹo vĩnh viễn, đặc biệt là trên mặt."
+    },
+    {
+      "question": "Có mối liên hệ nào giữa bệnh đậu mùa và bệnh đậu mùa khỉ không?",
+      "answer": "Bệnh đậu mùa và bệnh đậu mùa khỉ đều do các virus thuộc họ Orthopoxvirus gây ra, nhưng là các loài virus khác nhau. Bệnh đậu mùa khỉ nhìn chung ít nghiêm trọng hơn bệnh đậu mùa ở người, có tỷ lệ tử vong thấp hơn và khả năng lây lan từ người sang người cũng thấp hơn."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi đang cảm thấy sốt cao, đau đầu dữ dội và tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh đậu mùa", "Cúm", "Sốt xuất huyết", "Thương hàn"]
+    },
+    {
+      "question": "Tôi hay bị đau lưng, mệt mỏi và phát ban trên mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh đậu mùa", "Thủy đậu", "Sởi", "Dị ứng da"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như phát ban ở tay, chân và mụn nước. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh đậu mùa", "Thủy đậu", "Bệnh tay chân miệng", "Bệnh đậu mùa khỉ"]
+    },
+    {
+      "question": "Tôi đang bị phát ban và mụn mủ trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh đậu mùa", "Thủy đậu", "Mụn trứng cá", "Nhiễm trùng da"]
+    },
+    {
+      "question": "Tôi hay bị mê sảng, mạch nhanh và huyết áp thấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh đậu mùa", "Nhiễm trùng huyết", "Sốc nhiễm trùng", "Mất nước nghiêm trọng"]
+    }
+  ]
+}

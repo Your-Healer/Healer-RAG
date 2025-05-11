@@ -1,0 +1,212 @@
+{
+  "disease_id": "rubella",
+  "disease_name": "Bệnh Rubella",
+  "disease_alternative_names": ["Bệnh Sởi Đức", "Sởi 3 ngày", "German Measles", "Three-day measles"],
+  "disease_definition": "Rubella là bệnh truyền nhiễm do virus rubella gây ra, lây truyền qua đường hô hấp khi tiếp xúc với dịch tiết mũi họng của người bệnh. Bệnh gây phát ban đỏ hồng, sốt nhẹ và các triệu chứng khác. Mặc dù thường gây bệnh nhẹ ở trẻ em và người lớn, rubella đặc biệt nguy hiểm khi nhiễm cho phụ nữ mang thai, có thể gây ra hội chứng rubella bẩm sinh (CRS) với các dị tật bẩm sinh nghiêm trọng ở thai nhi.",
+  "symptoms": [
+    {
+      "name": "Phát ban đỏ hồng",
+      "description": "Ban đầu xuất hiện trên mặt và sau đó lan dần xuống cổ, thân và các chi. Ban thường kéo dài khoảng 3 ngày và có thể hơi ngứa."
+    },
+    {
+      "name": "Sốt nhẹ",
+      "description": "Sốt thường không cao, dưới 39°C."
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Cảm giác đau đầu từ nhẹ đến vừa."
+    },
+    {
+      "name": "Viêm kết mạc",
+      "description": "Mắt có thể đỏ, sưng nhẹ và cảm thấy khó chịu."
+    },
+    {
+      "name": "Hạch bạch huyết sưng to",
+      "description": "Đặc biệt là các hạch ở sau tai, gáy và cổ. Đây là dấu hiệu đặc trưng nhất của bệnh rubella."
+    },
+    {
+      "name": "Đau nhức khớp",
+      "description": "Thường gặp ở người lớn, đặc biệt là phụ nữ, có thể kéo dài vài ngày đến vài tuần."
+    },
+    {
+      "name": "Sổ mũi và ho",
+      "description": "Các triệu chứng hô hấp thường nhẹ."
+    },
+    {
+      "name": "Cảm giác mệt mỏi",
+      "description": "Người bệnh có thể cảm thấy uể oải, không khỏe trong người."
+    }
+  ],
+  "causes": [
+    {
+      "name": "Virus Rubella (RuV)",
+      "description": "Nguyên nhân duy nhất gây bệnh là virus Rubella (RuV), thuộc họ Matonaviridae. Virus có vỏ bọc bảo vệ và gen RNA giúp xâm nhập vào tế bào người."
+    },
+    {
+      "name": "Lây truyền qua đường hô hấp",
+      "description": "Virus lây lan khi người bệnh ho hoặc hắt hơi, tạo ra các giọt bắn nhỏ chứa virus. Người khỏe mạnh có thể nhiễm bệnh khi hít phải các giọt bắn này."
+    },
+    {
+      "name": "Lây qua tiếp xúc trực tiếp",
+      "description": "Tiếp xúc với dịch mũi họng của người bệnh có thể dẫn đến lây nhiễm."
+    },
+    {
+      "name": "Lây từ mẹ sang con",
+      "description": "Phụ nữ mang thai bị nhiễm rubella có thể truyền virus sang thai nhi qua nhau thai, gây ra hội chứng rubella bẩm sinh (CRS)."
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Không được tiêm vắc-xin",
+      "description": "Những người chưa được tiêm vắc-xin phòng ngừa rubella (thường là vắc-xin MMR - sởi, quai bị, rubella) có nguy cơ cao nhất bị nhiễm bệnh."
+    },
+    {
+      "name": "Tiếp xúc với người bệnh",
+      "description": "Những người tiếp xúc gần với người đang nhiễm rubella có nguy cơ bị lây nhiễm cao, đặc biệt trong giai đoạn người bệnh có khả năng lây truyền cao nhất."
+    },
+    {
+      "name": "Đi đến các khu vực có dịch rubella",
+      "description": "Du lịch đến các quốc gia hoặc khu vực đang có dịch rubella mà không được tiêm phòng trước có thể làm tăng nguy cơ nhiễm bệnh."
+    },
+    {
+      "name": "Phụ nữ mang thai",
+      "description": "Không phải là yếu tố nguy cơ cho việc lây nhiễm, nhưng phụ nữ mang thai bị nhiễm rubella có nguy cơ cao truyền virus sang thai nhi, gây ra các dị tật bẩm sinh nghiêm trọng."
+    }
+  ],
+  "complications": [
+    {
+      "name": "Hội chứng rubella bẩm sinh (CRS)",
+      "description": "Đây là biến chứng nghiêm trọng nhất, xảy ra khi virus truyền từ mẹ sang thai nhi. CRS có thể gây ra nhiều dị tật bẩm sinh như khiếm thính, khiếm thị, dị tật tim, chậm phát triển trí tuệ và các vấn đề về phát triển não."
+    },
+    {
+      "name": "Viêm khớp",
+      "description": "Thường gặp ở người lớn, đặc biệt là phụ nữ. Viêm khớp thường ảnh hưởng đến các ngón tay, cổ tay và đầu gối, có thể kéo dài khoảng một tháng."
+    },
+    {
+      "name": "Viêm tai",
+      "description": "Hiếm gặp, nhưng có thể xảy ra như một biến chứng của rubella."
+    },
+    {
+      "name": "Viêm não",
+      "description": "Biến chứng hiếm gặp nhưng nghiêm trọng, có thể gây ra các vấn đề về thần kinh."
+    },
+    {
+      "name": "Giảm tiểu cầu",
+      "description": "Trong một số trường hợp, bệnh nhân có thể bị giảm tiểu cầu trong máu, làm tăng nguy cơ chảy máu."
+    },
+    {
+      "name": "Sảy thai hoặc sinh non",
+      "description": "Phụ nữ mang thai bị nhiễm rubella có nguy cơ cao bị sảy thai, đặc biệt là trong ba tháng đầu của thai kỳ."
+    }
+  ],
+  "diagnosis": [
+    {
+      "name": "Khám lâm sàng",
+      "description": "Bác sĩ sẽ thăm khám và tìm kiếm các dấu hiệu đặc trưng của bệnh như phát ban, sưng hạch bạch huyết, đặc biệt là ở sau tai và cổ."
+    },
+    {
+      "name": "Xét nghiệm máu",
+      "description": "Xét nghiệm máu để tìm kháng thể IgM và IgG đối với virus rubella. Kháng thể IgM xuất hiện sớm trong quá trình nhiễm trùng và chỉ ra nhiễm trùng gần đây. Kháng thể IgG tồn tại lâu dài và chỉ ra miễn dịch từ nhiễm trùng trước đó hoặc từ tiêm phòng."
+    },
+    {
+      "name": "Xét nghiệm dịch mũi họng",
+      "description": "Lấy mẫu dịch từ mũi hoặc họng để kiểm tra sự hiện diện của virus rubella."
+    },
+    {
+      "name": "Xét nghiệm nước tiểu",
+      "description": "Nước tiểu có thể được kiểm tra để tìm dấu hiệu của virus rubella."
+    },
+    {
+      "name": "Chẩn đoán trước sinh",
+      "description": "Đối với phụ nữ mang thai bị nghi ngờ nhiễm rubella, có thể thực hiện các xét nghiệm chẩn đoán trước sinh để đánh giá khả năng thai nhi bị ảnh hưởng, bao gồm siêu âm và xét nghiệm dịch ối."
+    }
+  ],
+  "treatments": [
+    {
+      "name": "Nghỉ ngơi và chăm sóc hỗ trợ",
+      "description": "Bệnh rubella thường nhẹ và tự khỏi. Nghỉ ngơi, uống nhiều nước và chăm sóc hỗ trợ là cách điều trị chính."
+    },
+    {
+      "name": "Thuốc giảm đau",
+      "description": "Paracetamol hoặc ibuprofen có thể được sử dụng để giảm sốt và đau nhức."
+    },
+    {
+      "name": "Cách ly người bệnh",
+      "description": "Người bệnh nên được cách ly ít nhất 7 ngày sau khi xuất hiện ban để tránh lây lan cho người khác, đặc biệt là phụ nữ mang thai."
+    },
+    {
+      "name": "Điều trị biến chứng",
+      "description": "Các biến chứng như viêm khớp có thể được điều trị bằng thuốc chống viêm không steroid (NSAIDs)."
+    },
+    {
+      "name": "Không có thuốc kháng virus đặc hiệu",
+      "description": "Hiện không có thuốc kháng virus cụ thể nào để điều trị nhiễm rubella. Điều trị chủ yếu nhằm làm giảm các triệu chứng."
+    }
+  ],
+  "preventions": [
+    {
+      "name": "Tiêm vắc-xin MMR",
+      "description": "Vắc-xin MMR (Measles-Mumps-Rubella) là biện pháp phòng ngừa hiệu quả nhất. Vắc-xin này cung cấp khả năng bảo vệ suốt đời chống lại rubella. Trẻ em thường được tiêm hai liều, liều đầu tiên lúc 12-15 tháng tuổi và liều thứ hai lúc 4-6 tuổi."
+    },
+    {
+      "name": "Tiêm phòng trước khi mang thai",
+      "description": "Phụ nữ trong độ tuổi sinh đẻ chưa được tiêm phòng nên tiêm vắc-xin MMR ít nhất một tháng trước khi mang thai để bảo vệ bản thân và thai nhi trong tương lai."
+    },
+    {
+      "name": "Tránh tiếp xúc với người bệnh",
+      "description": "Phụ nữ mang thai nên tránh tiếp xúc với người đang nhiễm rubella."
+    },
+    {
+      "name": "Rửa tay thường xuyên",
+      "description": "Rửa tay thường xuyên, đặc biệt là sau khi ho, hắt hơi hoặc tiếp xúc với người bệnh, giúp giảm nguy cơ lây nhiễm."
+    },
+    {
+      "name": "Kiểm tra miễn dịch trước khi mang thai",
+      "description": "Phụ nữ có kế hoạch mang thai nên kiểm tra miễn dịch đối với rubella trước khi thụ thai để đảm bảo họ đã có miễn dịch."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Bệnh rubella có nguy hiểm không?",
+      "answer": "Đối với hầu hết mọi người, rubella là bệnh nhẹ. Tuy nhiên, đối với phụ nữ mang thai, đặc biệt là trong ba tháng đầu, rubella có thể rất nguy hiểm vì có thể gây ra hội chứng rubella bẩm sinh (CRS) ở thai nhi, dẫn đến các dị tật bẩm sinh nghiêm trọng."
+    },
+    {
+      "question": "Làm thế nào để phân biệt rubella với sởi thông thường?",
+      "answer": "Rubella thường có triệu chứng nhẹ hơn sởi. Ban của rubella thường bắt đầu từ mặt và lan xuống cơ thể, kéo dài khoảng 3 ngày. Sốt trong rubella thường nhẹ. Dấu hiệu đặc trưng của rubella là sưng hạch bạch huyết, đặc biệt là ở sau tai và cổ. Ngược lại, sởi thường gây sốt cao hơn, triệu chứng hô hấp nặng hơn, và ban thường kéo dài 4-7 ngày."
+    },
+    {
+      "question": "Một người có thể mắc rubella hai lần không?",
+      "answer": "Sau khi nhiễm rubella, hầu hết mọi người đều có miễn dịch suốt đời. Điều này có nghĩa là họ sẽ không bị nhiễm bệnh lần thứ hai. Tương tự, những người đã được tiêm vắc-xin MMR cũng có miễn dịch lâu dài."
+    },
+    {
+      "question": "Tôi đã tiếp xúc với người bị rubella và tôi đang mang thai. Tôi nên làm gì?",
+      "answer": "Nếu bạn đã tiếp xúc với người bị rubella và đang mang thai, hãy liên hệ với bác sĩ ngay lập tức. Bác sĩ có thể kiểm tra xem bạn đã có miễn dịch với rubella chưa bằng cách làm xét nghiệm máu. Nếu bạn chưa có miễn dịch, bác sĩ sẽ theo dõi thai kỳ của bạn chặt chẽ và có thể đề xuất các biện pháp phòng ngừa bổ sung."
+    },
+    {
+      "question": "Vắc-xin MMR có an toàn không?",
+      "answer": "Vắc-xin MMR được coi là an toàn và hiệu quả. Như mọi loại vắc-xin, MMR có thể gây ra một số tác dụng phụ nhẹ như sốt, phát ban nhẹ hoặc đau tại chỗ tiêm. Tuy nhiên, những rủi ro này nhỏ hơn nhiều so với nguy cơ mắc bệnh sởi, quai bị hoặc rubella. Không có bằng chứng khoa học nào cho thấy vắc-xin MMR có liên quan đến tự kỷ."
+    }
+  ],
+  "popular_questions": [
+    {
+      "question": "Khi nào thì phụ nữ mang thai nhiễm rubella nguy hiểm nhất?",
+      "answer": "Nguy cơ hội chứng rubella bẩm sinh (CRS) cao nhất khi phụ nữ mang thai bị nhiễm rubella trong ba tháng đầu của thai kỳ. Trong giai đoạn này, nhiễm rubella có thể gây ra các khuyết tật bẩm sinh nghiêm trọng ở 90% thai nhi. Nguy cơ giảm dần trong tam cá nguyệt thứ hai và thứ ba, nhưng vẫn có thể xảy ra các biến chứng."
+    },
+    {
+      "question": "Những dấu hiệu nào cho thấy một đứa trẻ có thể bị hội chứng rubella bẩm sinh?",
+      "answer": "Trẻ sinh ra với hội chứng rubella bẩm sinh có thể có các vấn đề như khiếm thính, khiếm thị do đục thủy tinh thể hoặc bệnh glôcôm, dị tật tim, chậm phát triển trí tuệ, vấn đề về phát triển não, gan hoặc lách to, và giảm số lượng tiểu cầu trong máu gây chảy máu bất thường."
+    },
+    {
+      "question": "Làm sao để phòng ngừa rubella khi đi du lịch?",
+      "answer": "Trước khi đi du lịch, đặc biệt là đến các quốc gia có tỷ lệ rubella cao, hãy đảm bảo bạn đã được tiêm vắc-xin MMR. Nếu bạn không chắc chắn về tình trạng tiêm chủng của mình, hãy kiểm tra với bác sĩ. Phụ nữ mang thai chưa có miễn dịch với rubella nên tránh đi đến các khu vực có dịch rubella."
+    },
+    {
+      "question": "Tôi đã bị rubella. Tôi nên tránh tiếp xúc với ai?",
+      "answer": "Nếu bạn bị rubella, bạn nên tránh tiếp xúc với phụ nữ mang thai và những người có hệ miễn dịch suy yếu cho đến khi bạn không còn lây nhiễm. Bạn thường lây nhiễm từ khoảng 7 ngày trước khi phát ban xuất hiện cho đến khoảng 7 ngày sau khi phát ban xuất hiện."
+    },
+    {
+      "question": "Làm thế nào để điều trị các triệu chứng của rubella tại nhà?",
+      "answer": "Để giảm các triệu chứng của rubella, hãy nghỉ ngơi nhiều, uống nhiều nước, và dùng thuốc giảm đau không kê đơn như paracetamol để giảm sốt và đau nhức. Tránh dùng aspirin ở trẻ em và thanh thiếu niên vì có liên quan đến hội chứng Reye, một tình trạng nghiêm trọng. Giữ phòng tối hoặc đeo kính râm nếu bạn bị nhạy cảm với ánh sáng."
+    }
+  ]
+}

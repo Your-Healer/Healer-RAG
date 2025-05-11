@@ -1,0 +1,155 @@
+{
+  "disease_id": "benh-lau",
+  "disease_name": "Bệnh lậu",
+  "disease_alternative_names": ["Lậu", "Gonorrhea"],
+  "disease_definition": "Bệnh lậu là bệnh lây nhiễm qua đường tình dục, do vi khuẩn Neisseria gonorrhoeae (hay còn gọi là gonococcus) gây ra. Bệnh xảy ra ở mọi đối tượng và mọi lứa tuổi nhưng phổ biến nhất là nam nữ trong độ tuổi 15 đến 24. Vi khuẩn này thường xuất hiện trong âm đạo, cổ tử cung, mắt, miệng, hậu môn và đặc biệt là ở đường niệu đạo nam giới.",
+  "symptoms": [
+    {
+      "name": "Triệu chứng ở nam giới",
+      "description": "Trong 90% trường hợp, nam giới sẽ có triệu chứng rõ ràng như: tiểu buốt, nóng rát khi đi tiểu; dịch mủ màu trắng, vàng hoặc xanh lá cây chảy ra từ dương vật; đau và sưng tinh hoàn; tiểu dắt, tiểu khó khăn; có thể tiểu ra vài giọt máu; hạch bẹn sưng đau; cương dương và đau khi dương vật cương lên."
+    },
+    {
+      "name": "Triệu chứng ở nữ giới",
+      "description": "Khoảng 80% phụ nữ mắc bệnh lậu không có triệu chứng rõ ràng hoặc nhầm lẫn với các bệnh viêm nhiễm phụ khoa khác. Một số dấu hiệu bao gồm: đau hoặc nóng rát khi đi tiểu; tăng tiết dịch vùng âm đạo (khí hư màu vàng, xanh hoặc trắng có mùi hôi); chảy máu âm đạo giữa những chu kỳ kinh nguyệt; đau vùng bụng dưới hoặc xương chậu; đau khi quan hệ tình dục."
+    },
+    {
+      "name": "Triệu chứng ở cả nam và nữ",
+      "description": "Bệnh lậu có thể gây nhiễm trùng ở cổ họng, trực tràng và mắt. Triệu chứng bao gồm: ngứa hậu môn, đau nhức, tiết dịch, chảy máu, đau khi đi đại tiện; đau họng, amidan sưng đỏ, viêm họng; ở mắt có thể gây viêm kết mạc, viêm giác mạc (thường thấy ở trẻ sơ sinh do lây từ mẹ)."
+    }
+  ],
+  "causes": {
+    "main_cause": "Vi khuẩn Neisseria gonorrhoeae (gonococcus) là nguyên nhân chính gây bệnh lậu. Loại vi khuẩn này tồn tại ở vùng niêm mạc da ẩm thấp, nhạy cảm, dễ bị tổn thương như dương vật, hậu môn, miệng.",
+    "related_factors": "Vi khuẩn lậu có thể sống được vài phút ở môi trường bên ngoài, nên có thể lây gián tiếp qua các dụng cụ dùng chung, tuy nhiên tỷ lệ này thấp hơn nhiều so với lây qua đường tình dục.",
+    "transmission_routes": [
+      "Quan hệ tình dục không an toàn (qua đường âm đạo, hậu môn, miệng) chiếm 90% nguyên nhân lây bệnh",
+      "Lây từ mẹ sang con trong quá trình sinh đẻ",
+      "Dùng chung các vật dụng cá nhân (khăn tắm, bàn chải đánh răng)",
+      "Lây qua đường máu (truyền máu, dùng chung bơm kim tiêm, tiếp xúc với vết thương hở)"
+    ]
+  },
+  "risk_factors": [
+    "Quan hệ tình dục không an toàn (không sử dụng bao cao su)",
+    "Có nhiều bạn tình",
+    "Độ tuổi từ 15-24 có đời sống tình dục phóng khoáng",
+    "Đã từng mắc các bệnh lây truyền qua đường tình dục khác",
+    "Quan hệ tình dục ở trạng thái không tỉnh táo (như sử dụng ma túy hoặc rượu)",
+    "Nữ giới có nguy cơ mắc bệnh lậu cao hơn nam giới khi quan hệ không an toàn"
+  ],
+  "complications": [
+    "Viêm hậu môn - trực tràng",
+    "Viêm họng do lậu",
+    "Viêm khớp do lậu",
+    "Viêm quanh gan, có thể có hội chứng Fitz-Hugh-Curtis",
+    "Viêm mào tinh, viêm tinh hoàn, viêm tuyến tiền liệt ở nam giới",
+    "Viêm vòi trứng, viêm buồng trứng, viêm cổ tử cung ở nữ giới",
+    "Lậu mắt: viêm kết mạc, viêm giác mạc, có thể dẫn đến loét giác mạc, thủng giác mạc",
+    "Vô sinh hiếm muộn ở cả nam và nữ",
+    "Lây truyền sang trẻ sơ sinh khi sinh",
+    "Biến chứng ở tim như viêm nội mạc do lậu cầu khuẩn"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để phát hiện các triệu chứng đặc trưng",
+      "Khai thác tiền sử bệnh và các yếu tố nguy cơ"
+    ],
+    "tests": [
+      {
+        "name": "Nhuộm Gram",
+        "description": "Phương pháp xét nghiệm trực tiếp: nhuộm bệnh phẩm, soi thấy vi khuẩn lậu bắt màu gram (-), nằm trong và ngoài bạch cầu đa nhân."
+      },
+      {
+        "name": "Nuôi cấy vi khuẩn",
+        "description": "Phương pháp nuôi cấy, phân lập: trong môi trường chọn lọc Thayer-martin hoặc thạch sôcôla, nhiệt độ 35-36°C, CO2 3%-10%. Các bác sĩ có thể xác định được sự có mặt các khuẩn lạc nghi ngờ lậu từ 24 đến 48 giờ."
+      },
+      {
+        "name": "PCR (Polymerase Chain Reaction)",
+        "description": "Kỹ thuật mới có độ đặc hiệu và độ nhạy cao."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Thấy nhiều bạch cầu, hồng cầu, tế bào viêm bong và vi khuẩn."
+      },
+      {
+        "name": "Kiểm tra mẫu dịch",
+        "description": "Lấy mẫu dịch từ dương vật, âm đạo, cổ họng hoặc trực tràng để xét nghiệm."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Bệnh lậu có thể điều trị khỏi nếu sử dụng phương pháp điều trị thích hợp và tuân thủ chỉ định của bác sĩ. Cần điều trị càng sớm càng tốt để tránh biến chứng nguy hiểm.",
+    "methods": [
+      {
+        "name": "Điều trị bằng kháng sinh",
+        "description": "Phác đồ điều trị cho bệnh nhân lậu không biến chứng: Spectinomycin 2 gram tiêm bắp liều duy nhất hoặc Ceftriaxone 250mg tiêm bắp liều duy nhất, sau đó dùng Doxycyclin 100 mg x 2 viên/ngày x 7 ngày. Đối với trường hợp nặng: Ceftriaxone 1 gram/1 ngày tiêm bắp x 3-7 ngày, sau đó dùng Doxycyclin 100 mg x 2 viên/ngày x 7 ngày."
+      },
+      {
+        "name": "Điều trị cho đối tác",
+        "description": "Điều trị cho cả vợ, chồng và bạn tình để ngăn ngừa lây nhiễm trở lại."
+      }
+    ],
+    "recommendations": [
+      "Kiêng quan hệ tình dục trong thời gian điều trị",
+      "Uống nhiều nước để bù nước cho cơ thể và thúc đẩy quá trình bài tiết",
+      "Có chế độ sinh hoạt, dinh dưỡng, ngủ nghỉ đúng giờ để nâng cao đề kháng",
+      "Vệ sinh thân thể thường xuyên, nhất là những nơi mà vi khuẩn lậu xâm nhập",
+      "Khám lâm sàng và xét nghiệm lại định kỳ"
+    ],
+    "prevention_of_transmission": [
+      "Sử dụng bao cao su khi quan hệ tình dục",
+      "Không dùng chung đồ vật cá nhân với người bệnh",
+      "Không quan hệ tình dục trong thời gian điều trị"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vaccine phòng ngừa bệnh lậu.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Quan hệ tình dục an toàn, sử dụng bao cao su và tấm bảo vệ miệng đúng cách",
+      "Duy trì mối quan hệ vợ chồng lâu dài từ hai phía với đối tượng đã được xét nghiệm là âm tính với vi khuẩn lậu",
+      "Giảm thiểu số bạn tình",
+      "Trao đổi với bạn tình về tình trạng sức khỏe và thực hiện các xét nghiệm",
+      "Thảo luận với bác sĩ về an toàn trong tình dục",
+      "Không sử dụng chung vật dụng cá nhân",
+      "Khám sức khỏe định kỳ 6 tháng - 1 năm một lần",
+      "Khám sức khỏe trước khi mang thai và theo dõi trong suốt thai kỳ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh lậu có chữa được không?",
+      "answer": "Bệnh lậu có thể điều trị khỏi nếu phát hiện sớm và điều trị đúng cách bằng kháng sinh. Tuy nhiên hiện nay tình trạng lậu kháng thuốc ngày càng tăng, nên cần tuân thủ phác đồ điều trị của bác sĩ."
+    },
+    {
+      "question": "Thời gian ủ bệnh của bệnh lậu là bao lâu?",
+      "answer": "Thời gian ủ bệnh của bệnh lậu thường dao động từ 1-14 ngày, phổ biến là 3-5 ngày sau khi nhiễm vi khuẩn."
+    },
+    {
+      "question": "Bệnh lậu có mùi không?",
+      "answer": "Khí hư có mùi hôi không phải là triệu chứng phổ biến của bệnh lậu. Tuy nhiên, một số người bệnh có thể có dịch tiết âm đạo hoặc dương vật có mùi hôi khó chịu, đặc biệt khi có biến chứng viêm nhiễm."
+    },
+    {
+      "question": "Bệnh lậu có lây qua đường máu không?",
+      "answer": "Bệnh lậu có thể lây qua đường máu, chẳng hạn như khi truyền máu, hiến máu, hoặc sử dụng chung bơm tiêm với người mắc bệnh. Tuy nhiên, con đường lây truyền phổ biến nhất vẫn là qua quan hệ tình dục không an toàn."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Bệnh lậu và bệnh giang mai có giống nhau không?",
+      "related_diseases": ["Giang mai"]
+    },
+    {
+      "question": "Bệnh lậu và chlamydia, bệnh nào nguy hiểm hơn?",
+      "related_diseases": ["Chlamydia"]
+    },
+    {
+      "question": "Bệnh lậu có gây vô sinh không?",
+      "related_diseases": ["Vô sinh"]
+    },
+    {
+      "question": "Làm thế nào để phát hiện bệnh lậu sớm?",
+      "related_diseases": []
+    }
+  ]
+}

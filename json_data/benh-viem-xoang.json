@@ -1,0 +1,249 @@
+{
+  "disease_id": "benh-viem-xoang",
+  "disease_name": "Bệnh viêm xoang",
+  "disease_alternative_names": [
+    "Viêm mũi xoang",
+    "Sinusitis",
+    "Sinus infection"
+  ],
+  "disease_definition": "Viêm xoang là bệnh lý mũi xoang thường gặp, xảy ra khi các xoang và đường mũi không thể loại bỏ hiệu quả các kháng nguyên, dẫn đến tình trạng viêm. Bệnh có thể phân loại thành cấp tính (dưới 4 tuần), bán cấp (4-12 tuần), mạn tính (trên 12 tuần) và tái phát (4 đợt/năm). Có bốn loại viêm xoang chính: viêm xoang hàm (phổ biến nhất, ở hai bên gò má), viêm xoang sàng (giữa hai mắt), viêm xoang trán (vùng trán), và viêm xoang bướm (sâu trong đầu, sau mũi).",
+  "symptoms": [
+    {
+      "name": "Chảy mũi",
+      "description": "Chảy mủ mũi trước hoặc chảy dịch mũi sau có mủ hoặc đổi màu"
+    },
+    {
+      "name": "Nghẹt mũi",
+      "description": "Cảm giác tắc nghẽn và khó thở qua mũi"
+    },
+    {
+      "name": "Rối loạn khứu giác",
+      "description": "Giảm hoặc mất khả năng ngửi mùi"
+    },
+    {
+      "name": "Đau mặt",
+      "description": "Đau nhức vùng mặt, đặc biệt là vùng chữ T"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt cao (trên 39°C) kèm chảy mủ mũi hoặc đau mặt kéo dài 3-4 ngày liên tục"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau đầu vùng trán, thái dương hoặc sau gáy, đặc biệt khi cúi đầu"
+    },
+    {
+      "name": "Rối loạn thị giác",
+      "description": "Có thể gặp trong viêm xoang bướm, bao gồm nhìn đôi, mất thị lực một bên"
+    }
+  ],
+  "causes": {
+    "main_cause": "Viêm xoang thường do 3 yếu tố chính: tắc nghẽn lỗ thông xoang (do khối u hoặc lệch vách ngăn), rối loạn chức năng của lông mao, và dịch tiết xoang đặc.",
+    "related_factors": "Nguyên nhân phổ biến nhất gây tắc nghẽn tạm thời các vùng dẫn lưu là phù nề cục bộ do nhiễm trùng đường hô hấp trên hoặc dị ứng mũi.",
+    "transmission_routes": [
+      "Lây qua đường hô hấp (trong trường hợp do virus)",
+      "Lây qua tiếp xúc với các tác nhân gây dị ứng",
+      "Lây qua môi trường ô nhiễm"
+    ]
+  },
+  "types": [
+    {
+      "name": "Viêm xoang hàm",
+      "description": "Viêm xoang ở các hốc xoang nằm ở hai bên gò má và quanh mắt. Đây là loại viêm xoang phổ biến nhất, thường gây đau nhức vùng má và răng hàm trên."
+    },
+    {
+      "name": "Viêm xoang sàng",
+      "description": "Viêm các xoang nằm giữa hai mắt, có thể gây biến chứng nguy hiểm do vị trí gần não và mắt. Có thể gây đau nhức vùng giữa hai mắt và sống mũi."
+    },
+    {
+      "name": "Viêm xoang trán",
+      "description": "Viêm các xoang nằm ở vùng trán, thường gây đau đầu vùng trán dữ dội."
+    },
+    {
+      "name": "Viêm xoang bướm",
+      "description": "Viêm xoang nằm sâu trong đầu, sau mũi. Là loại hiếm gặp nhất nhưng có thể gây biến chứng nguy hiểm do vị trí gần các dây thần kinh sọ não."
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Nhiễm trùng đường hô hấp",
+      "description": "Các bệnh nhiễm trùng đường hô hấp trên làm tăng nguy cơ viêm xoang"
+    },
+    {
+      "name": "Dị ứng mũi",
+      "description": "Người bị dị ứng mũi có nguy cơ cao bị viêm xoang"
+    },
+    {
+      "name": "Lệch vách ngăn",
+      "description": "Bất thường về cấu trúc mũi làm tăng nguy cơ viêm xoang"
+    },
+    {
+      "name": "Suy giảm miễn dịch",
+      "description": "Hệ miễn dịch yếu làm tăng nguy cơ nhiễm trùng"
+    },
+    {
+      "name": "Hút thuốc lá",
+      "description": "Làm tổn thương niêm mạc đường hô hấp"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Biến chứng mắt",
+      "description": "Viêm tổ chức hốc mắt, áp xe hốc mắt, viêm dây thần kinh thị giác"
+    },
+    {
+      "name": "Biến chứng não",
+      "description": "Viêm màng não, áp xe não, viêm tắc xoang tĩnh mạch"
+    },
+    {
+      "name": "Biến chứng xương",
+      "description": "Viêm xương, hoại tử xương"
+    },
+    {
+      "name": "Biến chứng mạch máu",
+      "description": "Viêm tắc tĩnh mạch, huyết khối xoang hang"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ khám và đánh giá các triệu chứng"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra chỉ số ESR và CRP để đánh giá tình trạng nhiễm trùng"
+      },
+      {
+        "name": "Chụp CT xoang",
+        "description": "Đánh giá xương, mô mềm và mức độ viêm"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Đánh giá chi tiết mô mềm và xác định mức độ biến chứng"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị viêm xoang bao gồm điều trị nội khoa hoặc phẫu thuật trong trường hợp có biến chứng cần giải quyết.",
+    "methods": [
+      {
+        "name": "Điều trị kháng sinh",
+        "description": "Sử dụng amoxicillin có hoặc không có clavulanate là liệu pháp đầu tay"
+      },
+      {
+        "name": "Xịt rửa mũi",
+        "description": "Sử dụng thuốc xịt mũi Steroid và rửa mũi bằng nước muối sinh lý"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Can thiệp trong trường hợp có biến chứng hoặc viêm xoang do nấm xâm lấn"
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ",
+      "Uống nhiều nước",
+      "Tránh các yếu tố kích thích",
+      "Giữ ấm cơ thể",
+      "Vệ sinh mũi họng thường xuyên",
+      "Tái khám theo lịch hẹn"
+    ],
+    "prevention_of_transmission": [
+      "Che miệng khi ho hoặc hắt hơi",
+      "Rửa tay thường xuyên, đặc biệt sau khi ho hoặc hắt hơi",
+      "Tránh tiếp xúc gần với người bị cảm cúm hoặc các bệnh đường hô hấp",
+      "Đeo khẩu trang khi có triệu chứng hoặc khi tiếp xúc với người bệnh",
+      "Khử trùng các bề mặt thường xuyên tiếp xúc"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm vắc xin phòng cúm có thể giúp phòng ngừa viêm xoang do virus cúm gây ra.",
+      "recommended_for": [
+        "Người có nguy cơ cao mắc bệnh cúm",
+        "Người có tiền sử viêm xoang tái phát"
+      ]
+    },
+    "general_recommendations": [
+      "Tránh xa các yếu tố gây dị ứng",
+      "Phòng ngừa cảm cúm",
+      "Đeo khẩu trang khi ra ngoài",
+      "Thường xuyên rửa tay",
+      "Giữ ấm và bảo vệ tai mũi họng",
+      "Không hút thuốc lá",
+      "Tăng cường miễn dịch",
+      "Khám sức khỏe định kỳ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Viêm xoang có nguy hiểm không?",
+      "answer": "Viêm xoang cấp tính hiếm khi gây nguy hiểm vì hầu hết các trường hợp là do virus và sẽ tự khỏi. Tuy nhiên, nếu có biến chứng, bệnh có thể gây hậu quả nghiêm trọng như biến chứng nội sọ, có thể để lại di chứng hoặc đe dọa tính mạng."
+    },
+    {
+      "question": "Viêm xoang có lây không?",
+      "answer": "Nếu viêm xoang do vi khuẩn thì không lây bệnh, viêm xoang do virus có thể lây. Do đó, tiêm vắc xin phòng bệnh cúm là biện pháp tốt để phòng ngừa viêm xoang do cúm."
+    },
+    {
+      "question": "Viêm xoang kiêng ăn gì?",
+      "answer": "Nên tránh thực phẩm lạnh, đồ uống có cồn, thuốc lá và các thực phẩm gây dị ứng. Nên ăn các món nóng, ấm để hạn chế tình trạng nghẹt xoang."
+    },
+    {
+      "question": "Viêm xoang có gây sốt không?",
+      "answer": "Viêm xoang cấp tính có thể gây sốt, đặc biệt khi do virus hoặc vi khuẩn gây ra. Sốt cao trên 39°C kèm theo chảy mủ mũi hoặc đau mặt kéo dài 3-4 ngày là dấu hiệu cần được thăm khám ngay."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Viêm xoang có nguy hiểm không?",
+      "related_diseases": [
+        "viêm màng não",
+        "áp xe não",
+        "viêm tổ chức hốc mắt",
+        "viêm dây thần kinh thị giác"
+      ]
+    },
+    {
+      "question": "Viêm xoang có lây không?",
+      "related_diseases": [
+        "cúm",
+        "viêm đường hô hấp trên",
+        "viêm mũi virus"
+      ]
+    },
+    {
+      "question": "Viêm xoang kiêng ăn gì?",
+      "related_diseases": [
+        "viêm mũi dị ứng",
+        "viêm xoang dị ứng",
+        "viêm mũi vận mạch"
+      ]
+    },
+    {
+      "question": "Viêm xoang có gây sốt không?",
+      "related_diseases": [
+        "viêm xoang cấp tính",
+        "viêm xoang do vi khuẩn",
+        "viêm đường hô hấp trên"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức vùng trán, chảy nước mũi và nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm xoang trán",
+        "viêm mũi dị ứng",
+        "cảm cúm",
+        "viêm mũi mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi đang bị đau đầu, sưng mắt và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm xoang biến chứng",
+        "viêm tổ chức hốc mắt",
+        "áp xe quanh ổ mắt",
+        "viêm mô tế bào hốc mắt"
+      ]
+    }
+  ]
+}

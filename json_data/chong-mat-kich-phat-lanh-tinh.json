@@ -1,0 +1,249 @@
+{
+  "disease_id": "chong-mat-kich-phat-lanh-tinh",
+  "disease_name": "Chóng Mặt Kịch Phát Lành Tính",
+  "disease_alternative_names": [
+    "BPPV",
+    "Benign Paroxysmal Positional Vertigo",
+    "Chóng mặt tư thế lành tính",
+    "Chóng mặt do đá tai"
+  ],
+  "disease_definition": "Chóng mặt kịch phát lành tính (BPPV) là dạng rối loạn tiền đình phổ biến nhất, đặc trưng bởi các cơn chóng mặt ngắn, đột ngột khi thay đổi tư thế đầu. Tình trạng này xảy ra khi các tinh thể canxi (otolith) trong tai trong bị bong ra khỏi vị trí bình thường và di chuyển vào các ống bán khuyên, gây ra cảm giác quay cuồng khi di chuyển đầu.",
+  "symptoms": [
+    {
+      "name": "Chóng mặt quay khi thay đổi tư thế",
+      "description": "Cảm giác quay cuồng đột ngột khi thay đổi tư thế đầu như nằm xuống, ngồi dậy, nghiêng đầu, lật người trên giường hoặc ngước nhìn lên trên."
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Cảm giác không vững khi đứng hoặc đi lại, có thể dẫn đến té ngã, đặc biệt ở người lớn tuổi."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn hoặc nôn có thể đi kèm với các cơn chóng mặt, đặc biệt khi cơn chóng mặt kéo dài hoặc dữ dội."
+    },
+    {
+      "name": "Rung giật nhãn cầu (Nystagmus)",
+      "description": "Mắt có thể di chuyển không tự chủ theo một kiểu đặc trưng khi xảy ra cơn chóng mặt, thường là chuyển động nhảy theo chiều ngang hoặc xoay tròn."
+    },
+    {
+      "name": "Cảm giác đầu nhẹ",
+      "description": "Cảm giác đầu nhẹ hoặc choáng váng thường đi kèm với các cơn chóng mặt."
+    }
+  ],
+  "causes": {
+    "main_cause": "BPPV xảy ra khi các tinh thể canxi (otolith) trong tai trong bị bong ra khỏi vị trí bình thường và di chuyển vào các ống bán khuyên. Khi đầu di chuyển, các tinh thể này di chuyển trong ống bán khuyên, kích thích các tế bào thần kinh không đúng cách, gây ra cảm giác quay cuồng.",
+    "related_factors": "Mặc dù phần lớn các trường hợp BPPV không rõ nguyên nhân (vô căn), một số yếu tố có thể góp phần gây ra tình trạng này như chấn thương đầu, nhiễm trùng tai trong, quá trình lão hóa tự nhiên, thời gian nằm tại giường kéo dài, hoặc sau phẫu thuật tai.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi trên 50",
+    "Giới tính nữ (phụ nữ có nguy cơ cao hơn)",
+    "Tiền sử chấn thương đầu hoặc cổ",
+    "Tiền sử bệnh lý tai trong như viêm tai trong, bệnh Ménière",
+    "Bệnh lý về cột sống cổ",
+    "Thiếu vitamin D hoặc canxi",
+    "Ngủ trong tư thế cố định trong thời gian dài",
+    "Di truyền (một số trường hợp có yếu tố gia đình)"
+  ],
+  "complications": [
+    "Té ngã dẫn đến chấn thương, đặc biệt ở người cao tuổi",
+    "Ảnh hưởng đến chất lượng cuộc sống do hạn chế hoạt động",
+    "Lo lắng và trầm cảm do sợ xảy ra cơn chóng mặt",
+    "Suy giảm khả năng làm việc và sinh hoạt hàng ngày",
+    "Nguy cơ tai nạn khi lái xe hoặc vận hành máy móc",
+    "Sợ hãi khi thay đổi tư thế, dẫn đến hạn chế vận động"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để đánh giá các triệu chứng và tiền sử bệnh",
+      "Nghiệm pháp Dix-Hallpike để chẩn đoán BPPV ống bán khuyên sau",
+      "Nghiệm pháp Roll test để chẩn đoán BPPV ống bán khuyên ngang",
+      "Đánh giá rung giật nhãn cầu (Nystagmus)"
+    ],
+    "tests": [
+      {
+        "name": "Nghiệm pháp Dix-Hallpike",
+        "description": "Bệnh nhân ngồi trên bàn khám và được đặt nằm xuống nhanh chóng với đầu nghiêng 45 độ sang bên được kiểm tra, sau đó quan sát phản ứng rung giật nhãn cầu và cảm giác chóng mặt."
+      },
+      {
+        "name": "Nghiệm pháp Roll test",
+        "description": "Bệnh nhân nằm ngửa với đầu nghiêng 30 độ, sau đó xoay đầu nhanh 90 độ từ bên này sang bên kia để đánh giá ảnh hưởng của tư thế đầu đến triệu chứng chóng mặt."
+      },
+      {
+        "name": "Điện động đồ (ENG/VNG)",
+        "description": "Ghi lại chuyển động của mắt trong khi thực hiện các nghiệm pháp tư thế, giúp xác định loại rung giật nhãn cầu."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI) sọ não",
+        "description": "Được chỉ định trong trường hợp nghi ngờ có nguyên nhân khác gây chóng mặt như u thần kinh thính giác hoặc tổn thương não."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị BPPV thường đơn giản và hiệu quả cao. Nhiều bệnh nhân cải thiện đáng kể sau một đến hai lần thực hiện các thủ thuật đặt lại tinh thể tai. Một số trường hợp có thể tự khỏi trong vòng vài tuần đến vài tháng.",
+    "methods": [
+      {
+        "name": "Thủ thuật Epley",
+        "description": "Một loạt động tác xoay đầu được thực hiện để di chuyển các tinh thể từ ống bán khuyên trở lại túi tiền đình nơi chúng không gây ra triệu chứng. Hiệu quả cho BPPV ống bán khuyên sau."
+      },
+      {
+        "name": "Thủ thuật Semont",
+        "description": "Bệnh nhân được đặt nhanh từ tư thế nằm nghiêng bên này sang tư thế nằm nghiêng bên đối diện, làm di chuyển các tinh thể khỏi ống bán khuyên."
+      },
+      {
+        "name": "Thủ thuật BBQ Roll (Lempert)",
+        "description": "Bệnh nhân nằm ngửa, sau đó xoay đầu theo từng bước 90 độ để điều trị BPPV ống bán khuyên ngang."
+      },
+      {
+        "name": "Bài tập Brandt-Daroff",
+        "description": "Bài tập tại nhà giúp làm quen với các kích thích gây chóng mặt và giúp não thích nghi với những thay đổi do tinh thể tai gây ra."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong các trường hợp hiếm gặp khi BPPV không đáp ứng với các phương pháp điều trị khác và gây ảnh hưởng nghiêm trọng đến chất lượng cuộc sống, có thể cân nhắc phẫu thuật cắt dây thần kinh tiền đình."
+      }
+    ],
+    "recommendations": [
+      "Sau khi thực hiện thủ thuật, nên tránh nằm xuống hoặc cúi đầu trong 24-48 giờ",
+      "Ngủ với đầu nâng cao khoảng 30 độ trong vài ngày đầu sau điều trị",
+      "Tránh các hoạt động đòi hỏi xoay đầu đột ngột",
+      "Sử dụng thêm gối khi ngủ để giữ đầu ở tư thế ổn định",
+      "Bật đèn khi đi vào phòng tối hoặc đi vệ sinh ban đêm để tránh té ngã",
+      "Thực hiện các bài tập Brandt-Daroff tại nhà theo chỉ dẫn của bác sĩ",
+      "Tái khám theo lịch hẹn để đánh giá hiệu quả điều trị"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa chóng mặt kịch phát lành tính.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tránh các tư thế đầu gây kích hoạt triệu chứng",
+      "Đứng dậy từ từ từ tư thế nằm",
+      "Sử dụng thêm gối khi ngủ để nâng cao đầu",
+      "Tránh ngủ nằm nghiêng về phía tai bị ảnh hưởng",
+      "Bật đèn khi di chuyển ban đêm",
+      "Thực hiện các bài tập thăng bằng định kỳ",
+      "Bổ sung đầy đủ vitamin D và canxi",
+      "Thực hiện các bài tập Brandt-Daroff dự phòng nếu đã từng mắc BPPV"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "BPPV có tự khỏi không?",
+      "answer": "Trong nhiều trường hợp, BPPV có thể tự khỏi trong vòng vài tuần đến vài tháng khi các tinh thể tai tự trở về vị trí chính xác. Tuy nhiên, các cơn chóng mặt trong thời gian này có thể ảnh hưởng đáng kể đến chất lượng cuộc sống. Các thủ thuật đặt lại tinh thể tai như Epley, Semont hoặc Lempert thường mang lại hiệu quả nhanh chóng với tỷ lệ thành công cao, giúp rút ngắn thời gian bị bệnh."
+    },
+    {
+      "question": "BPPV có tái phát không?",
+      "answer": "Có, BPPV có thể tái phát ở khoảng 15-50% bệnh nhân. Nguy cơ tái phát cao hơn ở người cao tuổi và những người có tiền sử chấn thương đầu hoặc bệnh lý tai trong. Nếu bệnh tái phát, các thủ thuật đặt lại tinh thể tai vẫn có hiệu quả cao. Để giảm nguy cơ tái phát, một số biện pháp phòng ngừa như tránh các tư thế gây kích hoạt, bổ sung vitamin D và canxi, và thực hiện các bài tập Brandt-Daroff dự phòng có thể hữu ích."
+    },
+    {
+      "question": "Làm thế nào để biết tôi bị BPPV thay vì một loại chóng mặt khác?",
+      "answer": "BPPV có một số đặc điểm giúp phân biệt với các loại chóng mặt khác: Cơn chóng mặt xuất hiện đột ngột khi thay đổi tư thế đầu (như nằm xuống, ngồi dậy, lật người trên giường); Các cơn chóng mặt thường ngắn, kéo dài dưới 1 phút; Cơn chóng mặt giảm dần sau khi giữ tư thế cố định; Không có triệu chứng thần kinh khác kèm theo như đau đầu dữ dội, yếu chi, nói khó. Chẩn đoán chính xác chỉ có thể được thực hiện bởi bác sĩ thông qua các nghiệm pháp đặc hiệu như Dix-Hallpike hoặc Roll test."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi bị chóng mặt khi nằm xuống hoặc lật người trên giường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính",
+        "rối loạn tiền đình",
+        "hạ huyết áp tư thế",
+        "nhiễm trùng tai trong",
+        "bệnh Ménière"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chóng mặt khi thay đổi tư thế đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính",
+        "hạ huyết áp tư thế",
+        "bệnh Ménière",
+        "viêm dây thần kinh tiền đình",
+        "đau nửa đầu tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt quay cuồng kèm buồn nôn khi ngẩng đầu lên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính",
+        "viêm dây thần kinh tiền đình",
+        "hạ huyết áp tư thế",
+        "bệnh Ménière",
+        "đau nửa đầu tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi bị chóng mặt khi đứng dậy khỏi giường hoặc cúi xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính",
+        "hạ huyết áp tư thế",
+        "thiếu máu",
+        "viêm dây thần kinh tiền đình",
+        "hạ đường huyết"
+      ]
+    },
+    {
+      "question": "Tôi hay bị cảm giác mọi thứ quay cuồng trong vài giây khi xoay đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính",
+        "rối loạn tiền đình",
+        "bệnh Ménière",
+        "viêm dây thần kinh tiền đình",
+        "bệnh lý cột sống cổ"
+      ]
+    },
+    {
+      "question": "Tôi thấy cảm giác chóng mặt khi ngẩng lên nhìn trần nhà. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính",
+        "rối loạn tiền đình",
+        "hạ huyết áp tư thế",
+        "viêm dây thần kinh tiền đình",
+        "thoái hóa cột sống cổ"
+      ]
+    },
+    {
+      "question": "Tôi bị rung giật nhãn cầu và chóng mặt quay cuồng khi nằm xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính",
+        "viêm dây thần kinh tiền đình",
+        "bệnh Ménière",
+        "u thần kinh thính giác",
+        "tổn thương tiểu não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mất thăng bằng và chóng mặt khi thay đổi tư thế. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính",
+        "rối loạn tiền đình",
+        "hạ huyết áp tư thế",
+        "bệnh Ménière",
+        "thoái hóa tiểu não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chóng mặt ngắn kèm buồn nôn khi lật người trên giường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính",
+        "rối loạn tiền đình",
+        "viêm dây thần kinh tiền đình",
+        "bệnh Ménière",
+        "đau nửa đầu tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi bị chóng mặt nhẹ khi thay đổi tư thế, kéo dài vài giây rồi hết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính",
+        "hạ huyết áp tư thế",
+        "rối loạn tiền đình",
+        "thiếu máu",
+        "rối loạn tiền đình do thuốc"
+      ]
+    }
+  ]
+}

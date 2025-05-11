@@ -1,0 +1,225 @@
+{
+  "disease_id": "benh-cum",
+  "disease_name": "Bệnh Cúm",
+  "disease_alternative_names": ["Cảm cúm", "Influenza", "Flu"],
+  "disease_definition": "Cúm là bệnh nhiễm trùng đường hô hấp cấp tính gây ra do virus cúm (Influenza virus). Virus cúm tấn công vào hệ hô hấp của người bệnh - mũi, cổ họng và phổi. Bệnh cúm phát triển nhanh, đột ngột và thường tự hồi phục sau khoảng 1-2 tuần, nhưng có thể gây ra các biến chứng nguy hiểm, đặc biệt ở người cao tuổi, trẻ nhỏ và người có bệnh nền.",
+  "symptoms": [
+    {
+      "name": "Sốt cao",
+      "description": "Sốt cao đột ngột từ 39-41 độ C, trẻ em thường sốt cao hơn người lớn."
+    },
+    {
+      "name": "Ớn lạnh và đổ mồ hôi",
+      "description": "Cảm giác ớn lạnh, rùng mình kèm theo đổ mồ hôi."
+    },
+    {
+      "name": "Ho khan",
+      "description": "Ho không có đờm, cảm giác tức ngực và có thể kéo dài sau khi các triệu chứng khác đã biến mất."
+    },
+    {
+      "name": "Viêm họng",
+      "description": "Đau rát cổ họng, khó nuốt."
+    },
+    {
+      "name": "Nghẹt mũi và chảy nước mũi",
+      "description": "Mũi bị tắc nghẽn, chảy nước mũi trong hoặc đặc."
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau đầu dữ dội, cảm giác đau nhức vùng trán."
+    },
+    {
+      "name": "Mệt mỏi và đau nhức cơ thể",
+      "description": "Cảm giác mệt mỏi toàn thân, yếu ớt không còn chút sức lực, đau nhức cơ bắp, đặc biệt ở lưng, cánh tay và chân."
+    },
+    {
+      "name": "Nôn mửa và tiêu chảy",
+      "description": "Buồn nôn, nôn mửa, tiêu chảy (triệu chứng này thường gặp ở trẻ em nhiều hơn người lớn)."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh cúm do virus cúm (Influenza virus) gây ra. Có 4 loại virus cúm chính là A, B, C và D, trong đó cúm A và B là hai loại phổ biến nhất gây bệnh ở người.",
+    "related_factors": "Virus cúm liên tục biến đổi, hình thành các chủng mới theo chu kỳ hàng năm. Các virus cúm có vỏ là glycoprotein với kháng nguyên ngưng kết hồng cầu H (Hemagglutinin) và kháng nguyên trung hòa N (Neuraminidase). Sự thay đổi nhỏ gọi là \"trôi\" kháng nguyên (antigenic drift) gây các vụ dịch vừa và nhỏ. Thay đổi lớn do tái tổ hợp giữa chủng cúm động vật và người có thể gây đại dịch toàn cầu.",
+    "transmission_routes": [
+      "Không khí (qua các giọt bắn khi người bệnh ho, hắt hơi hoặc nói chuyện)",
+      "Tiếp xúc trực tiếp với người bệnh",
+      "Tiếp xúc với bề mặt hoặc vật dụng có virus cúm rồi chạm vào mắt, mũi, miệng"
+    ]
+  },
+  "risk_factors": [
+    "Trẻ em dưới 5 tuổi, đặc biệt là trẻ dưới 2 tuổi",
+    "Người trên 65 tuổi",
+    "Người sống hoặc làm việc ở nơi đông người (trường học, nhà dưỡng lão, doanh trại quân đội)",
+    "Người có hệ miễn dịch suy yếu do bệnh hoặc do điều trị",
+    "Người mắc bệnh mãn tính (hen suyễn, bệnh tim, tiểu đường, bệnh thận, bệnh gan)",
+    "Phụ nữ mang thai và phụ nữ trong vòng 2 tuần sau sinh",
+    "Người béo phì có chỉ số BMI từ 40 trở lên",
+    "Người sống tại viện dưỡng lão hoặc cơ sở chăm sóc dài hạn"
+  ],
+  "complications": [
+    "Viêm phổi do virus cúm hoặc bội nhiễm vi khuẩn",
+    "Viêm tai giữa (phổ biến ở trẻ em)",
+    "Viêm xoang",
+    "Viêm não, viêm màng não",
+    "Viêm cơ hoặc hủy cơ vân",
+    "Tổn thương đa cơ quan (thận, phổi, tim)",
+    "Suy hô hấp",
+    "Làm nặng thêm các bệnh mãn tính (suy tim, hen suyễn, tiểu đường)",
+    "Hội chứng Reye (gây tổn thương não và gan, hiếm gặp nhưng nghiêm trọng, thường ở trẻ 2-16 tuổi sau khi dùng aspirin khi bị cúm)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng dựa trên các triệu chứng đặc trưng",
+      "Tìm kiếm yếu tố dịch tễ",
+      "Xét nghiệm phát hiện virus cúm"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm nhanh phát hiện kháng nguyên (RIDTs)",
+        "description": "Phát hiện kháng nguyên virus cúm trong mẫu bệnh phẩm mũi hoặc họng, cho kết quả trong khoảng 10-15 phút nhưng độ chính xác không cao"
+      },
+      {
+        "name": "RT-PCR (Reverse Transcription Polymerase Chain Reaction)",
+        "description": "Phương pháp có độ đặc hiệu cao nhất để phát hiện và phân loại virus cúm, cho kết quả trong 4-6 giờ"
+      },
+      {
+        "name": "Miễn dịch huỳnh quang",
+        "description": "Có độ nhạy và đặc hiệu thấp hơn RT-PCR nhưng cho kết quả nhanh hơn, trong vài giờ"
+      },
+      {
+        "name": "Phân lập virus",
+        "description": "Không phải xét nghiệm sàng lọc, được thực hiện trên mẫu bệnh phẩm thu thập từ người nghi ngờ mắc cúm"
+      },
+      {
+        "name": "Xét nghiệm huyết thanh",
+        "description": "Cho kết quả nhanh nhưng độ nhạy và đặc hiệu không cao"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Mục tiêu chính của điều trị cúm là giảm nhẹ triệu chứng và ngăn ngừa biến chứng. Điều trị nên bắt đầu càng sớm càng tốt, đặc biệt trong vòng 48 giờ đầu sau khi các triệu chứng xuất hiện.",
+    "methods": [
+      {
+        "name": "Nghỉ ngơi và dinh dưỡng",
+        "description": "Nghỉ ngơi đầy đủ, uống nhiều nước để tránh mất nước do sốt, ăn thức ăn mềm, dễ tiêu và giàu dinh dưỡng. Nên bổ sung thực phẩm giàu kẽm và vitamin C."
+      },
+      {
+        "name": "Thuốc kháng virus",
+        "description": "Thuốc kháng virus như Oseltamivir (Tamiflu), Zanamivir (Relenza), Peramivir (Rapivab) có thể làm giảm các triệu chứng, rút ngắn thời gian bệnh và ngăn ngừa biến chứng nếu được dùng sớm, trong vòng 48 giờ sau khi có triệu chứng."
+      },
+      {
+        "name": "Thuốc giảm đau hạ sốt",
+        "description": "Dùng Acetaminophen hoặc Ibuprofen để giảm sốt và đau. Tránh dùng Aspirin cho trẻ em và thanh thiếu niên vì có nguy cơ gây hội chứng Reye."
+      },
+      {
+        "name": "Vệ sinh hô hấp",
+        "description": "Vệ sinh mũi, họng thường xuyên bằng nước muối sinh lý để làm sạch đường hô hấp và giảm các triệu chứng đau họng, nghẹt mũi."
+      }
+    ],
+    "recommendations": [
+      "Không tự ý dùng thuốc kháng sinh vì không có tác dụng với virus cúm",
+      "Không đến trường học hoặc nơi làm việc trong thời gian bị cúm để tránh lây lan",
+      "Che miệng khi ho hoặc hắt hơi, rửa tay thường xuyên",
+      "Tránh các thực phẩm cứng, đồ uống có cồn, caffeine và các chất kích thích",
+      "Nên dùng các thực phẩm giàu kẽm như hải sản, thịt đỏ, ngũ cốc nguyên hạt",
+      "Uống nhiều nước, nước súp, nước có bổ sung chất điện giải"
+    ],
+    "prevention_of_transmission": [
+      "Tránh tiếp xúc gần với người bệnh",
+      "Đeo khẩu trang khi bị bệnh hoặc chăm sóc người bệnh",
+      "Thường xuyên rửa tay với xà phòng hoặc dung dịch sát khuẩn",
+      "Không dùng chung đồ dùng cá nhân như khăn, ly uống nước",
+      "Vệ sinh, khử trùng bề mặt và đồ vật thường xuyên chạm vào"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm vắc xin cúm hàng năm là biện pháp phòng ngừa hiệu quả nhất. Vắc xin cúm giúp bảo vệ chống lại 3-4 chủng virus cúm phổ biến trong mùa cúm đó. Tỷ lệ bảo vệ của vắc xin có thể lên tới 90% ở người bình thường, và giúp giảm đáng kể tỷ lệ mắc bệnh (60%) và tỷ lệ tử vong (70-80%) ở người cao tuổi.",
+      "recommended_for": [
+        "Trẻ em từ 6 tháng tuổi trở lên",
+        "Người lớn trên 50 tuổi, đặc biệt là trên 65 tuổi",
+        "Phụ nữ mang thai và phụ nữ sau sinh trong vòng 2 tuần",
+        "Người mắc bệnh mãn tính (tim mạch, phổi, gan, thận, tiểu đường)",
+        "Người có hệ miễn dịch suy yếu",
+        "Nhân viên y tế và người chăm sóc bệnh nhân",
+        "Người sống trong các cơ sở tập thể"
+      ]
+    },
+    "general_recommendations": [
+      "Rửa tay thường xuyên với xà phòng hoặc dung dịch sát khuẩn tay",
+      "Tránh chạm tay vào mắt, mũi, miệng khi chưa rửa sạch tay",
+      "Che miệng và mũi khi ho hoặc hắt hơi, tốt nhất là bằng khăn giấy hoặc khuỷu tay",
+      "Hạn chế tiếp xúc với người bị cúm hoặc có triệu chứng cúm",
+      "Tránh đi đến nơi đông người trong mùa cúm",
+      "Giữ ấm cơ thể, đặc biệt là khi thời tiết thay đổi",
+      "Ăn uống đầy đủ dinh dưỡng, tăng cường rau củ quả, đặc biệt là các loại rau có màu đậm",
+      "Tập thể dục đều đặn để tăng cường hệ miễn dịch",
+      "Vệ sinh, khử trùng các bề mặt thường xuyên tiếp xúc trong nhà, văn phòng",
+      "Đeo khẩu trang khi đến nơi công cộng trong mùa dịch"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Làm thế nào để phân biệt cúm với cảm lạnh thông thường?",
+      "answer": "Cúm và cảm lạnh đều là bệnh về đường hô hấp và có một số triệu chứng giống nhau, nhưng cúm thường nghiêm trọng hơn và bắt đầu đột ngột. Cúm thường có sốt cao (trên 38°C), đau nhức cơ thể, mệt mỏi cực độ, trong khi cảm lạnh thường sốt nhẹ hoặc không sốt, ít đau nhức cơ và thường bắt đầu từ từ với các triệu chứng như đau họng, chảy nước mũi."
+    },
+    {
+      "question": "Bệnh cúm kéo dài bao lâu?",
+      "answer": "Thông thường, các triệu chứng cúm kéo dài từ 5-7 ngày. Tuy nhiên, cảm giác mệt mỏi và ho có thể kéo dài 2 tuần hoặc lâu hơn. Người cao tuổi hoặc người có hệ miễn dịch yếu có thể cần thời gian dài hơn để hồi phục hoàn toàn."
+    },
+    {
+      "question": "Khi nào cần đi bác sĩ nếu bị cúm?",
+      "answer": "Bạn nên đi khám bác sĩ nếu thuộc nhóm nguy cơ cao (trẻ nhỏ, người cao tuổi, người có bệnh nền) hoặc khi có các triệu chứng nghiêm trọng: sốt cao kéo dài trên 3 ngày, khó thở, đau ngực, mất nước, lơ mơ hoặc lú lẫn, nôn mửa liên tục, triệu chứng cúm giảm rồi đột ngột tăng trở lại."
+    },
+    {
+      "question": "Có thể bị cúm nhiều lần trong một năm không?",
+      "answer": "Có, bạn có thể bị cúm nhiều lần trong một năm vì có nhiều chủng virus cúm khác nhau. Sau khi mắc cúm do một chủng virus, cơ thể bạn sẽ phát triển kháng thể chống lại chủng đó, nhưng vẫn có thể nhiễm các chủng khác."
+    },
+    {
+      "question": "Vắc xin cúm có hiệu quả không và có cần tiêm hàng năm không?",
+      "answer": "Vắc xin cúm có hiệu quả trong việc giảm nguy cơ mắc cúm, giảm mức độ nghiêm trọng của bệnh và các biến chứng. Cần tiêm vắc xin cúm hàng năm vì virus cúm liên tục biến đổi, vắc xin mới được phát triển để bảo vệ chống lại các chủng virus phổ biến được dự đoán sẽ lưu hành trong mùa cúm đó."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sốt cao, ớn lạnh và ho khan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Cúm", "COVID-19", "Viêm phổi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, đau đầu và viêm họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Cúm", "Cảm lạnh", "Viêm họng"]
+    },
+    {
+      "question": "Tôi hay bị sổ mũi, hắt hơi và đau họng, nhưng triệu chứng xuất hiện đột ngột và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Cúm", "Viêm xoang", "COVID-19"]
+    },
+    {
+      "question": "Tôi đang bị sốt cao, đổ mồ hôi và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Cúm", "Viêm phổi", "COVID-19"]
+    },
+    {
+      "question": "Tôi hay nôn mửa và tiêu chảy kèm theo sốt và ho. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Cúm", "Viêm dạ dày ruột do virus", "Ngộ độc thực phẩm"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi kéo dài, ho khan và sốt nhẹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Cúm", "Viêm phế quản", "COVID-19"]
+    },
+    {
+      "question": "Tôi hay bị ớn lạnh, viêm họng và sốt cao đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Cúm", "Viêm amidan", "Viêm họng do virus"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở, tức ngực và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Cúm biến chứng", "Viêm phổi", "COVID-19"]
+    },
+    {
+      "question": "Tôi hay bị sốt cao kéo dài hơn 3 ngày, kèm theo ho và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Cúm biến chứng", "Viêm phổi", "Lao phổi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, đau nhức cơ thể và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Cúm", "Sốt xuất huyết", "COVID-19"]
+    }
+  ]
+}

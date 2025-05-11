@@ -1,0 +1,237 @@
+{
+  "disease_id": "benh-basedow",
+  "disease_name": "Bệnh Basedow",
+  "disease_alternative_names": ["Bệnh Graves", "Bướu cổ Basedow", "Cường giáp tự miễn"],
+  "disease_definition": "Bệnh Basedow là một dạng bệnh nội tiết, là nguyên nhân phổ biến nhất gây cường giáp, chiếm hơn 90% các trường hợp cường giáp. Bệnh đặc trưng bởi biểu hiện bướu giáp lan tỏa, hội chứng cường giáp và biến chứng mắt lồi (không kiểm soát được). Bệnh Basedow xảy ra phổ biến ở phụ nữ hơn, chiếm tới 80% các trường hợp, thường ở độ tuổi từ 20-50 và bệnh nhân có tiền sử gia đình có các bệnh tuyến giáp.",
+  "symptoms": [
+    {
+      "name": "Giảm cân nhanh",
+      "description": "Giảm cân là dấu hiệu thường gặp nhất, người bệnh có thể giảm 3-20kg trong vòng vài tuần hoặc vài tháng mặc dù có thể vẫn ăn ngon. Tuy nhiên, một số bệnh nhân nữ trẻ tuổi có khi lại tăng cân do ăn rất nhiều."
+    },
+    {
+      "name": "Rối loạn tinh thần",
+      "description": "Bệnh nhân dễ lo lắng, kích thích, cáu gắt, hay khóc, khó tập trung và mệt mỏi nhưng khó ngủ."
+    },
+    {
+      "name": "Rối loạn điều hòa thân nhiệt",
+      "description": "Có những cơn nóng bừng, vã mồ hôi nhiều nhất là ở ngực và bàn tay, sợ nóng, bệnh nhân hay khát và uống nước nhiều."
+    },
+    {
+      "name": "Triệu chứng tim mạch",
+      "description": "Hay hồi hộp, đánh trống ngực, có thể có cảm giác nghẹt thở, đau vùng trước tim. Nhịp tim nhanh (trên 100 lần/phút) thường xuyên cả lúc nghỉ ngơi hay gắng sức. Huyết áp tâm thu tăng, tâm trương không tăng."
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Đi ngoài nhiều lần phân nát do tăng nhu động ruột, có thể kèm buồn nôn, nôn hay đau bụng. Gặp ở khoảng 20% người bệnh."
+    },
+    {
+      "name": "Bướu giáp lan tỏa",
+      "description": "Bướu giáp thường gặp ở khoảng 80% người bệnh Basedow. Bướu thường ở mức độ II, lan tỏa, mật độ mềm hoặc chắc, di động khi nuốt. Basedow là dạng bướu mạch nên có thể sờ và nghe thấy tiếng thổi tâm thu."
+    },
+    {
+      "name": "Mắt lồi",
+      "description": "Biểu hiện mắt lồi thường gặp ở bệnh nhân nữ. Khi bị bệnh Basedow, cơ thể sẽ tự sản sinh ra kháng thể tấn công các mô và cơ xung quanh vùng mắt. Có thể có triệu chứng khó nhắm mắt, chớp mắt, chói mắt, khô mắt, cộm mắt, đau nhức trong hốc mắt."
+    },
+    {
+      "name": "Phù niêm",
+      "description": "Da dày lên không thể véo da được, đặc biệt ở phần thấp xương chày do sự tích lũy các chất Glycosaminoglycan, đôi khi xuất hiện ở toàn bộ cẳng chân và có thể lan tới cả bàn chân. Da sần sùi, có màu nâu vàng hoặc tím đỏ."
+    },
+    {
+      "name": "Run đầu chi",
+      "description": "Run tay, run chân tăng lên khi xúc động hay cố gắng tập trung làm việc."
+    },
+    {
+      "name": "Yếu cơ",
+      "description": "Yếu cơ tứ chi, đặc biệt là các cơ ở gốc chi, bệnh nhân đi lại nhanh mỏi, bước lên bậc thang khó khăn."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh Basedow là một bệnh tự miễn chưa rõ nguyên nhân. Khi bị bệnh, hệ miễn dịch tạo ra các kháng thể tấn công tuyến giáp, khiến tuyến giáp tiết ra quá nhiều hormone thyroid gây nên tình trạng cường giáp.",
+    "related_factors": "Tuy chưa rõ nguyên nhân chính xác, bệnh có tính chất gia đình với khoảng 15% người bệnh có họ hàng cùng bị bệnh, trong đó 50% họ hàng các bệnh nhân có kháng thể kháng tuyến giáp lưu hành.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Giới tính nữ (phụ nữ bị bệnh nhiều hơn nam giới 5-10 lần)",
+    "Độ tuổi từ 20-50",
+    "Tiền sử gia đình có người mắc bệnh tuyến giáp hoặc bệnh tự miễn",
+    "Mang thai, đặc biệt là giai đoạn sau sinh",
+    "Ăn quá nhiều iod",
+    "Điều trị Lithium có thể làm thay đổi đáp ứng miễn dịch",
+    "Nhiễm khuẩn hoặc virus",
+    "Ngừng điều trị corticoid",
+    "Các nguyên nhân gây stress"
+  ],
+  "complications": [
+    "Bão giáp - tình trạng nguy hiểm có thể gây tử vong nếu không được điều trị kịp thời",
+    "Suy tim do tim làm việc quá mức dưới tác động của hormone tuyến giáp",
+    "Biến chứng mắt nghiêm trọng - có thể dẫn đến mất thị lực",
+    "Loãng xương, đặc biệt ở phụ nữ sau mãn kinh và người cao tuổi",
+    "Rối loạn nhịp tim",
+    "Viêm da tiết bã nhờn",
+    "Phù niêm tiền xương chày",
+    "Rối loạn sinh lý: giảm ham muốn, rối loạn kinh nguyệt ở nữ"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Thăm khám lâm sàng, đánh giá các triệu chứng",
+      "Xét nghiệm máu đánh giá mức hormone tuyến giáp và kháng thể",
+      "Xạ hình tuyến giáp để đánh giá chức năng tuyến giáp",
+      "Siêu âm tuyến giáp"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm máu đánh giá hormone tuyến giáp",
+        "description": "Xét nghiệm máu để kiểm tra nồng độ T3, T4 tự do tăng cao và TSH giảm thấp. Một số bệnh nhân ở giai đoạn sớm chỉ có FT3 tăng."
+      },
+      {
+        "name": "Xét nghiệm kháng thể",
+        "description": "Kiểm tra nồng độ kháng thể TSH-RAb tăng, cho phép chẩn đoán xác định bệnh Basedow."
+      },
+      {
+        "name": "Xạ hình tuyến giáp",
+        "description": "Cho hình ảnh tuyến giáp tăng bắt giữ Iod phóng xạ hoặc Technitium, giúp đánh giá chức năng của tuyến giáp."
+      },
+      {
+        "name": "Siêu âm tuyến giáp và siêu âm doppler màu",
+        "description": "Giúp đánh giá mức độ tăng tưới máu, các nhân giáp và kích thước tuyến giáp."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Bệnh Basedow điều trị chủ yếu bằng 3 phương pháp chính: nội khoa, xạ trị và phẫu thuật cắt gần toàn bộ tuyến giáp. Việc lựa chọn phương pháp điều trị phù hợp tùy thuộc vào tình trạng bệnh, độ tuổi, tình trạng xã hội và các yếu tố cá nhân khác.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc kháng giáp như Methimazole, carbimazole và PTU. Trong đó PTU được khuyến cáo không sử dụng trong điều trị ban đầu. Tỷ lệ lui bệnh hoàn toàn với phương pháp này là 60-70% sau 12-18 tháng điều trị."
+      },
+      {
+        "name": "Xạ trị bằng I-131",
+        "description": "Sử dụng phóng xạ Iod 131 để phá hủy mô tuyến giáp nhằm giảm sản xuất hormone. Phương pháp này chống chỉ định với trẻ em và phụ nữ có thai hoặc cho con bú. Bệnh nhân có thể phát triển suy giáp sau điều trị và cần sử dụng hormone tuyến giáp thay thế."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Cắt bỏ gần toàn bộ tuyến giáp, chỉ để lại 3-6 gram để duy trì chức năng tạo hormone bình thường. Phương pháp này được chỉ định khi bệnh không đáp ứng với điều trị nội khoa, bướu giáp quá to gây mất thẩm mỹ hoặc có biến chứng khó thở."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ đúng phác đồ điều trị của bác sĩ",
+      "Tái khám định kỳ theo lịch hẹn",
+      "Duy trì chế độ dinh dưỡng cân đối, đa dạng",
+      "Nghỉ ngơi hợp lý, tránh căng thẳng",
+      "Bỏ thuốc lá, hạn chế uống rượu bia",
+      "Sử dụng kính bảo vệ mắt nếu có biến chứng mắt"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Nâng cao sức khỏe và thể trạng, ăn uống đầy đủ chất dinh dưỡng",
+      "Giữ tinh thần thoải mái và suy nghĩ tích cực, tránh căng thẳng mệt mỏi",
+      "Không hút thuốc lá, tránh hít phải khói thuốc lá",
+      "Đeo kính bảo vệ mắt khỏi bụi, nhỏ mắt bằng nước muối sinh lý hàng ngày",
+      "Không sờ nắn nhiều lên vùng cổ, hạn chế ăn thực phẩm chứa nhiều iod",
+      "Điều trị bệnh dứt điểm trước khi mang thai",
+      "Tuân thủ điều trị và tái khám thường xuyên theo lịch hẹn"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh Basedow có lây không?",
+      "answer": "Bệnh Basedow là bệnh nội tiết liên quan đến sự nhạy cảm của tế bào lympho T với các kháng nguyên nằm trong tuyến giáp nên bệnh Basedow không lây. Tuy nhiên, bệnh có tính chất di truyền trong gia đình."
+    },
+    {
+      "question": "Bệnh Basedow có chữa khỏi được không?",
+      "answer": "Bệnh Basedow có thể điều trị hiệu quả bằng 3 phương pháp chính: dùng thuốc kháng giáp, điều trị bằng iốt phóng xạ hoặc phẫu thuật. Phương pháp điều trị bằng thuốc có thể giúp lui bệnh hoàn toàn với tỷ lệ 60-70% sau 12-18 tháng điều trị. Riêng phương pháp phẫu thuật và xạ trị có thể giúp khỏi bệnh hoàn toàn nhưng có thể gây ra tình trạng suy giáp, đòi hỏi phải sử dụng hormone tuyến giáp thay thế suốt đời."
+    },
+    {
+      "question": "Phụ nữ mắc bệnh Basedow có thể mang thai không?",
+      "answer": "Phụ nữ mắc bệnh Basedow vẫn có thể mang thai, tuy nhiên cần điều trị ổn định bệnh trước khi mang thai. Nếu tình trạng cường giáp không được kiểm soát tốt trong thai kỳ, nguy cơ sẩy thai, sinh non và các biến chứng khác sẽ tăng cao. Phụ nữ mắc bệnh Basedow cần được theo dõi chặt chẽ bởi chuyên gia nội tiết và sản khoa trong suốt thai kỳ."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như giảm cân nhanh chóng dù vẫn ăn uống bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Đái tháo đường", "Rối loạn tuyến giáp", "Bệnh Addison", "Ung thư"]
+    },
+    {
+      "question": "Tôi đang cảm thấy lo lắng, cáu gắt và khó tập trung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Rối loạn lo âu", "Trầm cảm", "Rối loạn tâm thần"]
+    },
+    {
+      "question": "Tôi hay bị hồi hộp, đánh trống ngực và khó ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Rối loạn nhịp tim", "Rối loạn lo âu", "Cường giáp"]
+    },
+    {
+      "question": "Tôi thường xuyên cảm thấy khát nước và đi tiểu nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Đái tháo đường", "Bệnh thận", "Cường giáp"]
+    },
+    {
+      "question": "Tôi bị bướu cổ và mắt lồi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Bướu cổ đơn thuần", "U tuyến giáp"]
+    },
+    {
+      "question": "Tôi cảm thấy nóng bức và đổ mồ hôi nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Mãn kinh", "Nhiễm trùng", "Cường giáp"]
+    },
+    {
+      "question": "Tôi bị run tay và yếu cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Bệnh Parkinson", "Cường giáp", "Rối loạn thần kinh"]
+    },
+    {
+      "question": "Tôi bị tiêu chảy và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Viêm dạ dày ruột", "Hội chứng ruột kích thích", "Ngộ độc thực phẩm"]
+    },
+    {
+      "question": "Da của tôi dày lên và sần sùi ở phần xương chày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Phù niêm", "Bệnh vảy nến", "Viêm da"]
+    },
+    {
+      "question": "Tôi bị rụng tóc và móng tay dễ gãy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Thiếu hụt dinh dưỡng", "Rối loạn tuyến giáp", "Bệnh tự miễn"]
+    },
+    {
+      "question": "Tôi bị thay đổi chu kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Hội chứng buồng trứng đa nang", "Rối loạn tuyến giáp", "Tiền mãn kinh"]
+    },
+    {
+      "question": "Tôi bị suy giảm ham muốn tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Trầm cảm", "Rối loạn nội tiết", "Suy giảm testosterone"]
+    },
+    {
+      "question": "Tôi bị đau nhức xương khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Viêm khớp dạng thấp", "Thoái hóa khớp", "Bệnh gút"]
+    },
+    {
+      "question": "Tôi bị mờ mắt và nhìn đôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Bệnh mắt tuyến giáp", "Tăng nhãn áp", "Đục thủy tinh thể"]
+    },
+    {
+      "question": "Tôi khó nhắm mắt và chớp mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Bệnh mắt tuyến giáp", "Viêm kết mạc", "Khô mắt"]
+    },
+    {
+      "question": "Tôi cảm thấy khó chịu khi cử động mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Bệnh mắt tuyến giáp", "Viêm mô hốc mắt", "Viêm kết mạc"]
+    },
+    {
+      "question": "Tôi bị khô mắt và chảy nước mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Hội chứng khô", "Viêm kết mạc", "Rối loạn tuyến lệ"]
+    },
+    {
+      "question": "Tôi cảm thấy cộm như có bụi trong mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Viêm kết mạc", "Khô mắt", "Bệnh giác mạc"]
+    },
+    {
+      "question": "Tôi bị đau nhức trong hốc mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Viêm mô hốc mắt", "Viêm xoang", "U nhãn cầu"]
+    },
+    {
+      "question": "Tôi lo lắng về nguy cơ mất thị lực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Basedow", "Bệnh mắt tuyến giáp", "Tăng nhãn áp", "Bệnh võng mạc"]
+    }
+  ]
+}

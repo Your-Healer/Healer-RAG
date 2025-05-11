@@ -1,0 +1,216 @@
+{
+  "disease_id": "san-day",
+  "disease_name": "Bệnh Sẩn Dày (Mày đay)",
+  "disease_alternative_names": ["Urticaria", "Hives", "Nổi mề đay", "Nổi mẩn ngứa"],
+  "disease_definition": "Sẩn dày hay mày đay là một phản ứng của da biểu hiện bằng các sẩn phù nề, đỏ, ngứa – giống như bị ong đốt, xuất hiện đột ngột trên một vùng da cụ thể hoặc lan rộng khắp cơ thể. Mày đay có thể do nhiều nguyên nhân khác nhau như dị ứng thực phẩm, thuốc, tác nhân vật lý, nhiễm trùng, hoặc đôi khi không xác định được nguyên nhân. Bệnh có thể xảy ra cấp tính (kéo dài dưới 6 tuần) hoặc mãn tính (kéo dài trên 6 tuần).",
+  "symptoms": [
+    {
+      "name": "Nổi sẩn đỏ hoặc màu da",
+      "description": "Các vết sưng trên da có màu đỏ hoặc màu da, có ranh giới rõ ràng, có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể."
+    },
+    {
+      "name": "Ngứa",
+      "description": "Các nốt sẩn thường ngứa, mức độ ngứa có thể từ nhẹ đến dữ dội. Gãi có thể làm triệu chứng nặng thêm."
+    },
+    {
+      "name": "Thay đổi vị trí và hình dạng",
+      "description": "Các nốt sẩn có thể thay đổi hình dạng, di chuyển vị trí, biến mất rồi xuất hiện lại ở các vùng khác của cơ thể trong thời gian ngắn."
+    },
+    {
+      "name": "Các nốt sẩn xuất hiện và biến mất nhanh",
+      "description": "Mỗi nốt sẩn thường tồn tại trong vài giờ (dưới 24 giờ) và sau đó biến mất mà không để lại dấu vết, nhưng có thể xuất hiện nốt mới ở vị trí khác."
+    },
+    {
+      "name": "Ban đỏ tạm thời",
+      "description": "Khi nhấn vào giữa nốt sẩn màu đỏ, vùng đó sẽ chuyển sang màu trắng (hiện tượng tẩy trắng)."
+    }
+  ],
+  "causes": [
+    {
+      "name": "Dị ứng thực phẩm",
+      "description": "Các thực phẩm thường gây dị ứng bao gồm hải sản, các loại hạt (đặc biệt là đậu phộng), trứng, sữa, thực phẩm có chứa phẩm màu và chất bảo quản."
+    },
+    {
+      "name": "Dị ứng thuốc",
+      "description": "Một số loại thuốc có thể gây mày đay như kháng sinh (đặc biệt là penicillin và sulfa), aspirin, ibuprofen và các thuốc kháng viêm không steroid khác."
+    },
+    {
+      "name": "Tác nhân vật lý",
+      "description": "Áp lực, nóng, lạnh, ánh nắng, ma sát, rung động hoặc tập thể dục có thể gây ra mày đay ở một số người."
+    },
+    {
+      "name": "Dị ứng với nọc côn trùng",
+      "description": "Vết đốt hoặc châm của côn trùng, động vật bay, mạt bụi và len."
+    },
+    {
+      "name": "Nhiễm trùng",
+      "description": "Một số nhiễm trùng do virus, vi khuẩn, nấm hoặc ký sinh trùng có thể gây mày đay."
+    },
+    {
+      "name": "Mất cân bằng hệ miễn dịch",
+      "description": "Trong mày đay mãn tính, cơ thể tự sản xuất kháng thể tấn công các tế bào da, gây ra phản ứng viêm và phát ban."
+    },
+    {
+      "name": "Căng thẳng và lo âu",
+      "description": "Stress có thể làm trầm trọng thêm các triệu chứng mày đay và trong một số trường hợp có thể là yếu tố kích hoạt."
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Tiền sử dị ứng",
+      "description": "Người có tiền sử dị ứng, mày đay hoặc phản ứng dị ứng khác có nhiều khả năng bị mày đay."
+    },
+    {
+      "name": "Tiền sử gia đình",
+      "description": "Nếu thành viên trong gia đình từng bị mày đay, bạn có nguy cơ cao hơn."
+    },
+    {
+      "name": "Một số bệnh lý nhất định",
+      "description": "Người mắc bệnh tự miễn như lupus ban đỏ hệ thống, bệnh tuyến giáp, hoặc một số loại ung thư có thể có nguy cơ bị mày đay cao hơn."
+    },
+    {
+      "name": "Tiếp xúc với chất gây dị ứng",
+      "description": "Tiếp xúc với các chất gây dị ứng như phấn hoa, lông thú cưng, mạt bụi, hóa chất nhất định hoặc mủ từ thực vật có thể làm tăng nguy cơ mày đay."
+    },
+    {
+      "name": "Stress và mệt mỏi",
+      "description": "Căng thẳng về thể chất và tinh thần, thiếu ngủ có thể kích hoạt hoặc làm trầm trọng thêm mày đay ở những người nhạy cảm."
+    }
+  ],
+  "complications": [
+    {
+      "name": "Phù mạch",
+      "description": "Phù mạch là tình trạng sưng ở lớp sâu hơn của da, thường ảnh hưởng đến môi, mắt, bàn tay, bàn chân và bộ phận sinh dục. Phù mạch có thể gây khó chịu hoặc đau nhức hơn là ngứa."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Trong trường hợp nghiêm trọng, nếu phù mạch ảnh hưởng đến đường thở (lưỡi, cổ họng), có thể gây khó thở và là tình trạng cấp cứu y tế."
+    },
+    {
+      "name": "Sốc phản vệ",
+      "description": "Một phản ứng dị ứng nghiêm trọng có thể đe dọa tính mạng, gây hạ huyết áp, nhịp tim nhanh và khó thở."
+    },
+    {
+      "name": "Tác động tâm lý",
+      "description": "Mày đay mãn tính có thể ảnh hưởng đến chất lượng cuộc sống, gây lo lắng, trầm cảm, thiếu tự tin và các vấn đề tâm lý khác."
+    }
+  ],
+  "diagnosis": [
+    {
+      "name": "Khám lâm sàng",
+      "description": "Bác sĩ sẽ kiểm tra da và hỏi về các triệu chứng, thời gian xuất hiện và yếu tố kích hoạt có thể."
+    },
+    {
+      "name": "Hỏi bệnh sử",
+      "description": "Thông tin về thời điểm bắt đầu, tiếp xúc với chất gây dị ứng tiềm ẩn, tiền sử cá nhân và gia đình về dị ứng hoặc sẩn dày."
+    },
+    {
+      "name": "Kiểm tra dị ứng",
+      "description": "Có thể bao gồm xét nghiệm lẩy da hoặc xét nghiệm máu (RAST) để xác định các chất gây dị ứng cụ thể."
+    },
+    {
+      "name": "Xét nghiệm máu",
+      "description": "Có thể giúp loại trừ các nguyên nhân tiềm ẩn hoặc kiểm tra các vấn đề sức khỏe tiềm ẩn gây ra mày đay."
+    },
+    {
+      "name": "Sinh thiết da",
+      "description": "Trong một số trường hợp, mẫu mô da được lấy để kiểm tra viêm mạch dạng sẩn (một dạng đặc biệt của mày đay)."
+    }
+  ],
+  "treatments": [
+    {
+      "name": "Thuốc kháng histamine",
+      "description": "Là điều trị chính, thuốc kháng histamine ngăn chặn tác dụng của histamine và giảm các triệu chứng như ngứa và sưng. Có thể cần liều cao hơn liều tiêu chuẩn trong một số trường hợp."
+    },
+    {
+      "name": "Corticosteroid",
+      "description": "Đối với các trường hợp nặng, một đợt ngắn corticosteroid đường uống như prednisolone có thể được kê đơn."
+    },
+    {
+      "name": "Omalizumab (Xolair)",
+      "description": "Một kháng thể đơn dòng được sử dụng cho những trường hợp mày đay mãn tính không đáp ứng với các phương pháp điều trị khác."
+    },
+    {
+      "name": "Acid tranexamic",
+      "description": "Có thể được đề nghị cho những trường hợp mày đay tái phát kháng trị."
+    },
+    {
+      "name": "Thuốc ức chế miễn dịch",
+      "description": "Trong những trường hợp rất khó điều trị, có thể sử dụng thuốc ức chế miễn dịch như cyclosporine."
+    },
+    {
+      "name": "Điều trị tại nhà",
+      "description": "Các biện pháp như áp dụng gạc lạnh, tắm nước lạnh, sử dụng kem chống ngứa, và tránh các tác nhân gây kích ứng da như xà phòng gây kích ứng."
+    }
+  ],
+  "preventions": [
+    {
+      "name": "Xác định và tránh các yếu tố kích hoạt",
+      "description": "Theo dõi các chất gây dị ứng và tránh tiếp xúc với chúng. Có thể bao gồm thực phẩm, thuốc, hóa chất hoặc các tác nhân vật lý."
+    },
+    {
+      "name": "Dùng thuốc kháng histamine phòng ngừa",
+      "description": "Đối với những người bị mày đay tái phát, dùng thuốc kháng histamine dự phòng có thể giúp ngăn ngừa các đợt bùng phát."
+    },
+    {
+      "name": "Mặc quần áo rộng rãi",
+      "description": "Tránh quần áo chật và vải thô ráp có thể cọ xát da, và tránh mặc quần áo có lông."
+    },
+    {
+      "name": "Quản lý stress",
+      "description": "Thực hành các kỹ thuật giảm stress như thiền, yoga hoặc các hoạt động thư giãn khác có thể giúp ngăn ngừa các đợt bùng phát do stress."
+    },
+    {
+      "name": "Tránh nhiệt độ quá nóng hoặc quá lạnh",
+      "description": "Tránh tiếp xúc với nhiệt độ cực đoan và ánh nắng trực tiếp; sử dụng kem chống nắng khi ra ngoài."
+    },
+    {
+      "name": "Ngủ đủ giấc",
+      "description": "Đảm bảo ngủ đủ và chất lượng để tăng cường hệ miễn dịch và giảm khả năng bùng phát mày đay."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Mày đay có nguy hiểm không?",
+      "answer": "Phần lớn các trường hợp mày đay đơn thuần là lành tính và tự khỏi. Tuy nhiên, trong một số trường hợp, đặc biệt khi có phù mạch ảnh hưởng đến đường thở, có thể trở thành tình trạng nguy hiểm đến tính mạng cần được chăm sóc y tế khẩn cấp."
+    },
+    {
+      "question": "Mày đay thường kéo dài bao lâu?",
+      "answer": "Mày đay cấp tính thường tự khỏi trong vòng 24-48 giờ đến vài tuần. Mày đay mãn tính kéo dài trên 6 tuần và có thể kéo dài nhiều tháng hoặc nhiều năm, với các đợt tái phát không liên tục."
+    },
+    {
+      "question": "Làm thế nào để phân biệt mày đay với các bệnh ngoài da khác?",
+      "answer": "Mày đay thường có đặc điểm là các nốt sẩn xuất hiện và biến mất nhanh (thường trong vòng 24 giờ) mà không để lại dấu vết. Chúng có thể thay đổi hình dạng, kích thước và di chuyển. Các tình trạng khác như chàm thường tồn tại lâu hơn, có thể rỉ dịch, đóng vảy và để lại vết thâm."
+    },
+    {
+      "question": "Có cách nào để ngăn mày đay tái phát không?",
+      "answer": "Để giảm khả năng tái phát, hãy xác định và tránh các yếu tố kích hoạt, duy trì lối sống lành mạnh với đủ giấc ngủ và giảm stress, và tuân thủ kế hoạch điều trị của bác sĩ. Đối với một số người, dùng thuốc kháng histamine dự phòng có thể hữu ích."
+    },
+    {
+      "question": "Khi nào tôi nên đi gặp bác sĩ về mày đay?",
+      "answer": "Bạn nên đi khám nếu mày đay kéo dài hơn vài ngày, tái phát thường xuyên, không đáp ứng với thuốc kháng histamine không kê đơn, gây khó chịu đáng kể, hoặc nếu bạn gặp các triệu chứng như khó thở, choáng váng, sưng môi/lưỡi, hoặc cảm giác tức ngực."
+    }
+  ],
+  "popular_questions": [
+    {
+      "question": "Mày đay mãn tính có thể do căng thẳng gây ra không?",
+      "answer": "Có, căng thẳng có thể kích hoạt hoặc làm trầm trọng thêm các đợt bùng phát mày đay ở một số người. Cơ thể giải phóng adrenalin khi căng thẳng, có thể kích hoạt phản ứng mày đay. Quản lý stress hiệu quả có thể là một phần quan trọng trong kiểm soát mày đay mãn tính."
+    },
+    {
+      "question": "Mày đay có di truyền không?",
+      "answer": "Không có bằng chứng rõ ràng cho thấy mày đay trực tiếp di truyền, nhưng có thể có yếu tố di truyền liên quan đến khuynh hướng dị ứng nói chung (atopy). Nếu cha mẹ hoặc anh chị em bị mày đay, bạn có thể có nguy cơ cao hơn một chút."
+    },
+    {
+      "question": "Có xét nghiệm cụ thể nào để chẩn đoán mày đay không?",
+      "answer": "Không có xét nghiệm đơn lẻ nào có thể chẩn đoán mày đay. Chẩn đoán chủ yếu dựa trên khám lâm sàng và bệnh sử. Trong một số trường hợp, bác sĩ có thể đề nghị xét nghiệm dị ứng, xét nghiệm máu cơ bản, hoặc hiếm khi là sinh thiết da để loại trừ các nguyên nhân khác hoặc xác định các yếu tố kích hoạt."
+    },
+    {
+      "question": "Chế độ ăn kiêng có thể giúp kiểm soát mày đay không?",
+      "answer": "Nếu mày đay của bạn do dị ứng thực phẩm gây ra, việc tránh các thực phẩm kích hoạt có thể giúp kiểm soát các triệu chứng. Một số người có thể được hưởng lợi từ chế độ ăn ít histamine, loại bỏ thực phẩm như pho mát lên men, rượu, thực phẩm hun khói và các loại thực phẩm lên men khác. Tuy nhiên, điều này nên được thực hiện dưới sự hướng dẫn của chuyên gia y tế."
+    },
+    {
+      "question": "Mày đay ở trẻ em có khác với người lớn không?",
+      "answer": "Về cơ bản, mày đay ở trẻ em và người lớn có cùng biểu hiện. Tuy nhiên, ở trẻ em, mày đay thường do nhiễm trùng virus hoặc dị ứng thực phẩm gây ra, trong khi ở người lớn, mày đay mãn tính thường liên quan đến các vấn đề tự miễn, tác dụng phụ của thuốc, hoặc trong nhiều trường hợp là vô căn (không rõ nguyên nhân)."
+    }
+  ]
+}

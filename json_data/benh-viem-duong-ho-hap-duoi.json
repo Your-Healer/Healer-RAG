@@ -1,0 +1,262 @@
+{
+  "disease_id": "benh-viem-duong-ho-hap-duoi",
+  "disease_name": "Bệnh viêm đường hô hấp dưới",
+  "disease_alternative_names": [
+    "Nhiễm trùng đường hô hấp dưới",
+    "Lower Respiratory Tract Infections",
+    "LRTI"
+  ],
+  "disease_definition": "Viêm đường hô hấp dưới là các bệnh lý nhiễm trùng ảnh hưởng đến đường hô hấp dưới (ở dưới thanh quản), trong đó viêm phổi và viêm phế quản là hai bệnh lý viêm hô hấp dưới thường gặp nhất. Theo thống kê tại Việt Nam, trung bình một đứa trẻ có thể mắc các bệnh hô hấp khoảng 5-7 lần/năm.",
+  "symptoms": [
+    {
+      "name": "Triệu chứng nhẹ",
+      "symptoms_list": [
+        {
+          "name": "Nghẹt mũi",
+          "description": "Tắc nghẽn đường mũi"
+        },
+        {
+          "name": "Chảy nước mũi",
+          "description": "Tiết dịch mũi nhiều"
+        },
+        {
+          "name": "Sốt nhẹ",
+          "description": "Tăng thân nhiệt nhẹ"
+        },
+        {
+          "name": "Ho khan",
+          "description": "Ho không có đờm"
+        },
+        {
+          "name": "Đau họng",
+          "description": "Cảm giác đau rát vùng họng"
+        },
+        {
+          "name": "Đau đầu",
+          "description": "Cảm giác đau và khó chịu ở đầu"
+        }
+      ]
+    },
+    {
+      "name": "Triệu chứng nặng",
+      "symptoms_list": [
+        {
+          "name": "Ho dữ dội",
+          "description": "Ho nhiều và có đờm"
+        },
+        {
+          "name": "Sốt cao",
+          "description": "Thân nhiệt tăng cao"
+        },
+        {
+          "name": "Nhịp tim nhanh",
+          "description": "Tim đập nhanh hơn bình thường"
+        },
+        {
+          "name": "Thở khò khè",
+          "description": "Có tiếng khò khè khi thở"
+        },
+        {
+          "name": "Khó thở",
+          "description": "Cảm giác khó khăn khi hít thở"
+        },
+        {
+          "name": "Đau ngực",
+          "description": "Cảm giác nặng hoặc đau ở vùng ngực"
+        }
+      ]
+    }
+  ],
+  "causes": {
+    "main_causes": [
+      {
+        "name": "Virus",
+        "description": "Các virus gây bệnh cúm hoặc virus hợp bào hô hấp (RSV)"
+      },
+      {
+        "name": "Vi khuẩn",
+        "description": "Vi khuẩn Streptococcus pneumoniae (phế cầu khuẩn) hoặc Staphylococcus aureus"
+      }
+    ],
+    "environmental_factors": [
+      "Khói thuốc lá",
+      "Khói bụi do ô nhiễm môi trường",
+      "Hóa chất",
+      "Các chất gây dị ứng"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Độ tuổi",
+      "description": "Trẻ em dưới 5 tuổi và người lớn trên 65 tuổi"
+    },
+    {
+      "name": "Thói quen",
+      "description": "Người có thói quen hút thuốc lá"
+    },
+    {
+      "name": "Thai kỳ",
+      "description": "Phụ nữ mang thai"
+    },
+    {
+      "name": "Bệnh mãn tính",
+      "conditions": [
+        "Hen suyễn",
+        "Phổi tắc nghẽn mãn tính",
+        "Bệnh tim mạch",
+        "Tiểu đường",
+        "Các bệnh về gan và thận"
+      ]
+    },
+    {
+      "name": "Suy giảm miễn dịch",
+      "conditions": [
+        "Bệnh ung thư",
+        "Sau phẫu thuật",
+        "Sau hóa trị liệu"
+      ]
+    }
+  ],
+  "common_conditions": [
+    {
+      "name": "Viêm phế quản cấp",
+      "description": "Nhiễm trùng ở phế quản, thường xuất hiện sau đợt cảm cúm, diễn tiến lành tính"
+    },
+    {
+      "name": "Viêm phổi",
+      "description": "Nhiễm trùng phổi do vi khuẩn, virus hoặc nấm, ký sinh trùng"
+    },
+    {
+      "name": "Viêm tiểu phế quản",
+      "description": "Bệnh nhiễm trùng phổi thường gặp ở trẻ nhỏ, chiếm 40-50% nguyên nhân trẻ em nhập viện điều trị tại khoa hô hấp"
+    },
+    {
+      "name": "Lao phổi",
+      "description": "Bệnh truyền nhiễm nguy hiểm do vi khuẩn lao, có thể lây lan trong cộng đồng"
+    }
+  ],
+  "complications": [
+    "Nhiễm trùng huyết",
+    "Suy tim",
+    "Suy hô hấp cấp (ARDS)",
+    "Ngừng thở",
+    "Áp xe phổi"
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Thăm khám lâm sàng",
+        "procedures": [
+          "Đo nhiệt độ cơ thể",
+          "Nghe lồng ngực",
+          "Kiểm tra lượng oxy trong cơ thể"
+        ]
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Xác định mức độ nhiễm trùng"
+      },
+      {
+        "name": "Xét nghiệm máu và chất nhầy",
+        "description": "Xác định loại vi khuẩn, virus gây bệnh"
+      },
+      {
+        "name": "Đo thở oxy",
+        "description": "Xác định lượng oxy trong máu"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Phương pháp điều trị khác nhau tùy theo từng bệnh lý và mức độ của bệnh",
+    "methods": [
+      {
+        "name": "Điều trị viêm phế quản cấp",
+        "procedures": [
+          "Nghỉ ngơi, bỏ hút thuốc lá",
+          "Giữ ấm cơ thể",
+          "Uống đủ nước",
+          "Bổ sung vitamin và khoáng chất",
+          "Dùng thuốc theo hướng dẫn của bác sĩ"
+        ]
+      },
+      {
+        "name": "Điều trị viêm phổi",
+        "procedures": [
+          "Dùng thuốc theo chỉ định",
+          "Điều trị thở oxy khi có dấu hiệu suy hô hấp"
+        ]
+      },
+      {
+        "name": "Điều trị viêm tiểu phế quản",
+        "note": "Hầu hết các trường hợp sẽ tự khỏi và có thể chăm sóc tại nhà"
+      },
+      {
+        "name": "Điều trị lao phổi",
+        "procedures": [
+          "Điều trị có kiểm soát trực tiếp (DOTS)",
+          "Điều trị theo phác đồ chuẩn của Bộ Y tế"
+        ]
+      }
+    ]
+  },
+  "prevention": {
+    "methods": [
+      "Bỏ thói quen hút thuốc lá",
+      "Tránh những nơi có khói thuốc",
+      "Rửa tay thường xuyên",
+      "Khử trùng các bề mặt thường xuyên tiếp xúc",
+      "Đeo khẩu trang khi ho hoặc hắt hơi",
+      "Tránh xa người bệnh",
+      "Tiêm ngừa vắc xin đầy đủ"
+    ],
+    "vaccines": [
+      "Vắc xin phòng cúm",
+      "Vắc xin phòng sởi – quai bị – rubella",
+      "Vắc xin phòng bệnh do phế cầu khuẩn"
+    ]
+  },
+  "care_recommendations": [
+    "Nghỉ ngơi, tránh hoạt động quá sức",
+    "Bù nước đầy đủ",
+    "Xông hít tinh dầu bạc hà",
+    "Bỏ thói quen hút thuốc lá",
+    "Uống nước ấm pha mật ong và chanh"
+  ],
+  "faqs": [
+    {
+      "question": "Làm thế nào phân biệt nhiễm trùng đường hô hấp dưới với nhiễm trùng đường hô hấp trên?",
+      "answer": "Nhiễm trùng đường hô hấp dưới là tình trạng nhiễm trùng ở đường dẫn khí bên dưới thanh quản, với triệu chứng đặc trưng là ho. Còn nhiễm trùng đường hô hấp trên là nhiễm trùng ở cấu trúc từ thanh quản trở lên, với các dấu hiệu như đau họng, đau đầu, sốt."
+    },
+    {
+      "question": "Bệnh nhân nên ăn gì và kiêng ăn gì?",
+      "answer": "Nên bổ sung trái cây, rau xanh, uống nhiều nước, có thể dùng mật ong pha nước chanh ấm hoặc trà gừng. Nên kiêng thực phẩm đóng hộp, nước uống có ga, thức ăn chế biến sẵn."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi bị ho kéo dài và khó thở, có phải bị viêm đường hô hấp dưới không?",
+      "related_diseases": [
+        "viêm đường hô hấp dưới",
+        "viêm phế quản",
+        "viêm phổi",
+        "hen suyễn"
+      ]
+    },
+    {
+      "question": "Trẻ em dưới 5 tuổi có nguy cơ mắc bệnh cao hơn phải không?",
+      "related_diseases": [
+        "viêm đường hô hấp dưới",
+        "viêm tiểu phế quản",
+        "viêm phổi trẻ em"
+      ]
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa bệnh trong mùa lạnh?",
+      "related_diseases": [
+        "viêm đường hô hấp dưới",
+        "cảm cúm",
+        "viêm phế quản"
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,266 @@
+{
+  "disease_id": "chong-mat",
+  "disease_name": "Chóng Mặt",
+  "disease_alternative_names": [
+    "Vertigo",
+    "Dizziness",
+    "Choáng váng",
+    "Hoa mắt"
+  ],
+  "disease_definition": "Chóng mặt là cảm giác mất thăng bằng hoặc quay cuồng, có thể gây ra hiện tượng mất phương hướng, đi lại không vững. Đây là triệu chứng thường gặp, có thể xuất hiện thoáng qua hoặc kéo dài, ảnh hưởng đến khả năng thực hiện các hoạt động hàng ngày. Chóng mặt có thể là biểu hiện của nhiều bệnh lý khác nhau từ rối loạn tiền đình đến các bệnh lý nghiêm trọng của hệ thần kinh trung ương.",
+  "symptoms": [
+    {
+      "name": "Cảm giác quay cuồng",
+      "description": "Cảm giác như môi trường xung quanh đang quay cuồng hoặc bản thân đang quay xung quanh môi trường, đây là triệu chứng điển hình của chóng mặt do rối loạn tiền đình."
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Cảm giác không vững khi đứng hoặc đi lại, có thể dẫn đến đi lảo đảo hoặc té ngã."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn thường đi kèm với chóng mặt, đặc biệt khi cơn chóng mặt xảy ra đột ngột hoặc kéo dài."
+    },
+    {
+      "name": "Ù tai",
+      "description": "Cảm giác có tiếng ù hoặc tiếng vo ve trong tai, có thể kèm theo giảm thính lực."
+    },
+    {
+      "name": "Nhức đầu",
+      "description": "Đau đầu có thể xuất hiện cùng với chóng mặt, đặc biệt trong các trường hợp đau nửa đầu hoặc tăng huyết áp."
+    },
+    {
+      "name": "Vã mồ hôi",
+      "description": "Đổ mồ hôi bất thường, thường kèm theo cảm giác lo lắng và khó chịu."
+    },
+    {
+      "name": "Giảm thị lực",
+      "description": "Nhìn mờ hoặc giảm thị lực tạm thời khi xảy ra cơn chóng mặt."
+    }
+  ],
+  "causes": {
+    "main_cause": "Chóng mặt có thể do nhiều nguyên nhân khác nhau, bao gồm các vấn đề về tai trong (hệ thống tiền đình), tuần hoàn não, rối loạn thần kinh, sử dụng một số loại thuốc, hoặc các tình trạng tâm lý.",
+    "related_factors": "Các yếu tố liên quan đến chóng mặt bao gồm thay đổi tư thế đột ngột, căng thẳng kéo dài, thiếu ngủ, lão hóa, thiếu máu, hạ đường huyết, và các bệnh lý về tim mạch.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi cao (trên 65 tuổi)",
+    "Tiền sử đau đầu hoặc đau nửa đầu",
+    "Các bệnh lý về tai, mũi, họng",
+    "Các bệnh lý tim mạch như tăng huyết áp, rối loạn nhịp tim",
+    "Sử dụng một số loại thuốc như thuốc an thần, thuốc hạ huyết áp",
+    "Chấn thương đầu trước đây",
+    "Tiểu đường hoặc các rối loạn chuyển hóa khác",
+    "Căng thẳng kéo dài và rối loạn lo âu"
+  ],
+  "complications": [
+    "Té ngã dẫn đến chấn thương, đặc biệt ở người cao tuổi",
+    "Giảm chất lượng cuộc sống do hạn chế vận động",
+    "Ảnh hưởng đến khả năng làm việc và sinh hoạt hàng ngày",
+    "Lo lắng và trầm cảm do tình trạng chóng mặt kéo dài",
+    "Suy giảm chức năng nhận thức nếu chóng mặt liên quan đến bệnh lý não",
+    "Nguy cơ tai nạn khi lái xe hoặc vận hành máy móc"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng đánh giá các triệu chứng và tiền sử bệnh",
+      "Đánh giá chức năng tiền đình và thăng bằng",
+      "Đánh giá các dấu hiệu thần kinh kèm theo",
+      "Test để xác định chóng mặt do tư thế như nghiệm pháp Dix-Hallpike"
+    ],
+    "tests": [
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Kiểm tra nhịp tim và chức năng tim để loại trừ nguyên nhân tim mạch gây chóng mặt."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá tình trạng thiếu máu, rối loạn đường huyết, chức năng tuyến giáp và các chỉ số sinh hóa khác."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI) sọ não",
+        "description": "Đánh giá cấu trúc não, tai trong và các bất thường có thể gây chóng mặt."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT) sọ não",
+        "description": "Kiểm tra nhanh các tổn thương cấp tính như xuất huyết não, u não."
+      },
+      {
+        "name": "Điện động đồ (ENG/VNG)",
+        "description": "Đánh giá chức năng của hệ thống tiền đình và các rối loạn có thể gây chóng mặt."
+      },
+      {
+        "name": "Đo thính lực",
+        "description": "Đánh giá chức năng nghe để phát hiện các vấn đề về tai có liên quan đến chóng mặt."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị chóng mặt tập trung vào nguyên nhân gây bệnh. Trong trường hợp không xác định được nguyên nhân cụ thể, điều trị sẽ tập trung vào việc giảm triệu chứng và cải thiện chất lượng cuộc sống.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng các loại thuốc làm giảm chóng mặt như betahistine, cinnarizine, hoặc thuốc chống nôn để kiểm soát các triệu chứng."
+      },
+      {
+        "name": "Liệu pháp tái huấn luyện tiền đình",
+        "description": "Các bài tập đặc biệt giúp não thích nghi với những thay đổi do hệ thống tiền đình gây ra, đặc biệt hiệu quả trong các trường hợp chóng mặt do tư thế."
+      },
+      {
+        "name": "Nghiệm pháp đặt lại các tinh thể tai",
+        "description": "Thủ thuật Epley giúp đặt lại các tinh thể trong tai trong về đúng vị trí, hiệu quả đối với chóng mặt kịch phát lành tính do tư thế."
+      },
+      {
+        "name": "Điều trị nguyên nhân cơ bản",
+        "description": "Nếu chóng mặt do một bệnh lý cụ thể như nhiễm trùng tai, rối loạn nhịp tim, cần điều trị bệnh lý đó."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp hiếm gặp như u thần kinh thính giác, có thể cần can thiệp phẫu thuật."
+      }
+    ],
+    "recommendations": [
+      "Tránh thay đổi tư thế đột ngột, đặc biệt khi nằm xuống hoặc đứng dậy",
+      "Hạn chế các động tác xoay đầu nhanh",
+      "Đảm bảo đủ nước và dinh dưỡng cần thiết",
+      "Tránh các yếu tố kích thích như caffeine, rượu và thuốc lá",
+      "Thực hiện các bài tập thăng bằng thường xuyên",
+      "Duy trì giấc ngủ đầy đủ và chất lượng",
+      "Quản lý stress thông qua các kỹ thuật thư giãn",
+      "Không lái xe hoặc vận hành máy móc khi đang có cơn chóng mặt"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine đặc hiệu để phòng ngừa chóng mặt.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì lối sống lành mạnh, ăn uống cân bằng để tránh thiếu máu và rối loạn chuyển hóa",
+      "Kiểm soát huyết áp và đường huyết trong giới hạn bình thường",
+      "Tránh các chất kích thích như caffeine, rượu bia",
+      "Tập thể dục đều đặn để cải thiện thăng bằng và tuần hoàn",
+      "Thực hiện các kỹ thuật giảm stress như yoga, thiền",
+      "Tăng cường vitamin D và canxi để duy trì sức khỏe xương khớp",
+      "Kiểm tra sức khỏe định kỳ, đặc biệt là chức năng tim mạch và thần kinh",
+      "Điều trị kịp thời các bệnh về tai, mũi, họng"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Khi nào cần đi khám bác sĩ khi bị chóng mặt?",
+      "answer": "Bạn nên đi khám bác sĩ khi chóng mặt xảy ra đột ngột và dữ dội, kéo dài hơn vài giờ, tái phát thường xuyên, hoặc kèm theo các triệu chứng khác như nhức đầu dữ dội, nói khó, yếu chi, thay đổi thị lực, mất ý thức. Đặc biệt, nếu chóng mặt xảy ra sau chấn thương đầu, cần được khám ngay."
+    },
+    {
+      "question": "Liệu chóng mặt có phải là dấu hiệu của bệnh nghiêm trọng không?",
+      "answer": "Mặc dù hầu hết các trường hợp chóng mặt đều lành tính và có thể tự khỏi, chóng mặt đôi khi có thể là dấu hiệu của các bệnh lý nghiêm trọng như đột quỵ, u não, rối loạn nhịp tim hoặc hạ đường huyết nặng. Vì vậy, nếu chóng mặt xảy ra đột ngột, dữ dội hoặc kèm theo các triệu chứng bất thường khác, bạn nên đi khám ngay."
+    },
+    {
+      "question": "Có cách nào giảm chóng mặt tại nhà không?",
+      "answer": "Có một số biện pháp có thể giúp giảm chóng mặt tại nhà như: ngồi hoặc nằm xuống ngay khi cảm thấy chóng mặt, tránh thay đổi tư thế đột ngột, uống đủ nước, hạn chế caffeine và rượu, thực hiện các bài tập tiền đình đơn giản theo hướng dẫn của bác sĩ, và đảm bảo đủ giấc ngủ. Tuy nhiên, nếu chóng mặt kéo dài hoặc nặng, cần đi khám bác sĩ."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hay bị chóng mặt khi thay đổi tư thế. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chóng mặt kịch phát lành tính do tư thế",
+        "hạ huyết áp tư thế",
+        "rối loạn tiền đình",
+        "thiếu máu",
+        "bệnh thần kinh đái tháo đường"
+      ]
+    },
+    {
+      "question": "Tôi bị chóng mặt kèm theo ù tai và giảm thính lực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh Ménière",
+        "viêm tai giữa",
+        "bệnh xốp xơ tai",
+        "u thần kinh thính giác",
+        "chóng mặt do rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "rối loạn tiền đình",
+        "say tàu xe",
+        "đau nửa đầu",
+        "viêm dạ dày",
+        "nhiễm trùng tai trong"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chóng mặt sau khi đứng dậy đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hạ huyết áp tư thế",
+        "thiếu máu",
+        "mất nước",
+        "rối loạn nhịp tim",
+        "bệnh thần kinh đái tháo đường"
+      ]
+    },
+    {
+      "question": "Tôi bị chóng mặt kèm theo nhức đầu dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau nửa đầu",
+        "tăng huyết áp",
+        "u não",
+        "viêm xoang",
+        "xuất huyết não"
+      ]
+    },
+    {
+      "question": "Tôi bị chóng mặt và cảm thấy như mọi thứ đang quay cuồng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm tai trong",
+        "bệnh Ménière",
+        "chóng mặt kịch phát lành tính do tư thế",
+        "say tàu xe",
+        "rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chóng mặt kèm theo lo lắng và tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "rối loạn lo âu",
+        "cường giáp",
+        "rối loạn nhịp tim",
+        "hội chứng tăng thông khí",
+        "rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt và mất thăng bằng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "rối loạn tiền đình",
+        "chóng mặt kịch phát lành tính do tư thế",
+        "bệnh tiểu não",
+        "đa xơ cứng",
+        "bệnh Parkinson"
+      ]
+    },
+    {
+      "question": "Tôi bị chóng mặt thường xuyên và không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "rối loạn tiền đình",
+        "thiếu máu",
+        "rối loạn lo âu",
+        "hạ đường huyết",
+        "tăng huyết áp"
+      ]
+    },
+    {
+      "question": "Tôi bị chóng mặt sau khi uống một số loại thuốc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tác dụng phụ của thuốc",
+        "hạ huyết áp do thuốc",
+        "rối loạn tiền đình",
+        "mất nước",
+        "thiếu máu"
+      ]
+    }
+  ]
+}

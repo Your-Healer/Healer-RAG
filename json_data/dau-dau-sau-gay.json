@@ -1,0 +1,357 @@
+{
+  "disease_id": "dau-dau-sau-gay",
+  "disease_name": "Đau Đầu Sau Gáy",
+  "disease_alternative_names": [
+    "Đau nửa đầu sau gáy",
+    "Nhức đầu sau gáy",
+    "Occipital headache"
+  ],
+  "disease_definition": "Đau đầu sau gáy là tình trạng đau nhức ở vùng sau đầu, gần gáy. Đây là vấn đề thuộc bệnh lý nội thần kinh, có thể xuất hiện ở nhiều đối tượng khác nhau. Cơn đau có thể chỉ tập trung ở một vị trí hoặc lan rộng sang các vùng khác như hai vai với các mức độ đau từ nhẹ đến nặng. Đa số các trường hợp đau đầu vùng sau gáy là lành tính, tuy vậy có thể tiềm ẩn các bệnh lý nguy hiểm.",
+  "symptoms": [
+    {
+      "name": "Đau nhức vùng sau gáy",
+      "description": "Cảm giác đau nhức ở phần sau đầu, có thể từ mức độ nhẹ đến nặng. Đôi khi cơn đau có thể lan đến thái dương, vùng vai và tăng dần theo thời gian."
+    },
+    {
+      "name": "Cảm giác bị siết chặt",
+      "description": "Người bệnh có cảm giác phần cổ, da đầu bị siết chặt kèm theo cơn đau đầu âm ỉ, nhức nhói."
+    },
+    {
+      "name": "Buồn nôn và chóng mặt",
+      "description": "Nhiều trường hợp cơn đau đầu sau gáy kèm theo triệu chứng buồn nôn và chóng mặt, cảm giác quay cuồng."
+    },
+    {
+      "name": "Rối loạn cảm giác",
+      "description": "Bệnh nhân có thể gặp phải tình trạng rối loạn cảm giác như tê bì, ngứa ngáy hoặc dị cảm tại vùng đau."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Người bệnh trở nên nhạy cảm với ánh sáng hơn, gặp khó khăn khi ở trong môi trường có ánh sáng mạnh."
+    },
+    {
+      "name": "Mất ngủ",
+      "description": "Những cơn đau đầu dữ dội kèm theo cảm giác giật vùng đầu có thể gây khó khăn trong việc ngủ, dẫn đến tình trạng mất ngủ kéo dài."
+    }
+  ],
+  "causes": {
+    "main_cause": "Đau đầu vùng sau gáy thường do cơ cứng xảy ra bởi những rối loạn của dây thần kinh liên quan. Nguyên nhân chính có thể là do căng thẳng kéo dài, tư thế không đúng, các bệnh lý về xương khớp cổ, hoặc các vấn đề thần kinh.",
+    "related_factors": "Tùy vào vị trí và biểu hiện cụ thể, đau đầu sau gáy có thể do nhiều nguyên nhân khác nhau như viêm khớp, thoát vị đĩa đệm, đau dây thần kinh chẩm, nhiễm trùng, dị ứng, viêm động mạch thái dương, tăng huyết áp, hoặc do các bệnh lý nguy hiểm như viêm màng não, xuất huyết dưới nhện, u não, hoặc các bệnh lý hố sau.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Phụ nữ có nguy cơ bị đau đầu sau gáy cao hơn đàn ông",
+    "Người lao động nặng thường xuyên hoạt động cổ, vai gáy",
+    "Nhân viên văn phòng, tài xế lái xe và những người có công việc buộc phải ngồi lâu, ít vận động",
+    "Người cao tuổi thường xuyên gặp phải tình trạng mất ngủ, gây căng thẳng",
+    "Thường xuyên sử dụng bia rượu, cà phê, chè, thuốc lá",
+    "Chế độ dinh dưỡng không đảm bảo",
+    "Tác dụng phụ của một số loại thuốc điều trị"
+  ],
+  "complications": [
+    "Phát triển thành bệnh mạn tính khi đau đầu xảy ra ở cường độ mạnh, tần suất liên tục",
+    "Ảnh hưởng đến chất lượng cuộc sống và sinh hoạt hằng ngày",
+    "Có thể là dấu hiệu của các bệnh nguy hiểm như tăng huyết áp, viêm màng não, xuất huyết dưới nhện, u não",
+    "Gây tình trạng mất ngủ, căng thẳng kéo dài",
+    "Trong trường hợp nghiêm trọng có thể dẫn đến giảm khả năng vận động, ảnh hưởng đến công việc và cuộc sống"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và đánh giá các triệu chứng",
+      "Thu thập tiền sử bệnh của người bệnh",
+      "Thực hiện thao tác vật lý ở đầu và cột sống để kiểm tra",
+      "Loại trừ các nguyên nhân khác gây đau đầu"
+    ],
+    "tests": [
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Phương pháp chụp hình ảnh giúp đánh giá cấu trúc xương, mô và dây thần kinh ở cổ, phát hiện các bất thường như thoát vị đĩa đệm, u não hoặc các tổn thương khác."
+      },
+      {
+        "name": "Chụp CT scan",
+        "description": "Giúp phát hiện các tổn thương, xuất huyết hoặc các bất thường khác trong não."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp phát hiện viêm, nhiễm trùng hoặc các rối loạn khác có thể gây đau đầu."
+      },
+      {
+        "name": "Siêu âm ổ bụng",
+        "description": "Trong một số trường hợp, siêu âm có thể được thực hiện để đánh giá các cơ quan nội tạng nếu nghi ngờ đau đầu liên quan đến các bệnh lý hệ thống."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Tùy thuộc vào từng trường hợp và từng nguyên nhân gây bệnh khác nhau mà bác sĩ sẽ có hướng điều trị phù hợp. Người bệnh không nên tự ý sử dụng thuốc giảm đau mà nên đến gặp bác sĩ để được tư vấn và điều trị đúng cách.",
+    "methods": [
+      {
+        "name": "Điều trị tình trạng nhức đầu sau gáy cấp tính",
+        "description": "Sử dụng thuốc giảm đau theo chỉ định của bác sĩ chuyên khoa thần kinh. Không nên lạm dụng thuốc giảm đau đầu vì sẽ làm giảm khả năng đáp ứng với thuốc và có thể gây ra tác dụng phụ."
+      },
+      {
+        "name": "Điều trị tình trạng nhức đầu sau gáy mạn tính",
+        "description": "Sử dụng thuốc dự phòng theo chỉ định của bác sĩ để kiểm soát việc khởi phát cơn đau. Thuốc có tác dụng ngăn ngừa và giảm thiểu những cơn đau đầu tái phát."
+      },
+      {
+        "name": "Thay đổi thói quen sinh hoạt",
+        "description": "Người bị đau nửa đầu sau gáy cần thay đổi thói quen sinh hoạt để cải thiện tình trạng đau và ngăn ngừa cơn đau tái phát. Việc xây dựng thói quen sinh hoạt lành mạnh sẽ giúp giảm dần tần suất sử dụng thuốc giảm đau."
+      },
+      {
+        "name": "Liệu pháp thư giãn",
+        "description": "Thực hiện các bài tập thư giãn, yoga hoặc thiền định để giảm căng thẳng, một trong những nguyên nhân chính gây đau đầu sau gáy."
+      }
+    ],
+    "recommendations": [
+      "Duy trì tư thế đúng khi làm việc, đặc biệt nếu công việc đòi hỏi ngồi nhiều",
+      "Tránh căng thẳng kéo dài và quản lý stress hiệu quả",
+      "Tập thể dục đều đặn để cải thiện sức khỏe tổng thể và giảm căng cơ",
+      "Đảm bảo giấc ngủ đầy đủ và chất lượng",
+      "Hạn chế tiêu thụ rượu bia, cà phê, thuốc lá",
+      "Điều chỉnh không gian làm việc để phù hợp với tư thế làm việc đúng",
+      "Thực hiện các bài tập giãn cơ cổ và vai thường xuyên",
+      "Uống đủ nước và duy trì chế độ ăn uống cân bằng",
+      "Không tự ý dùng thuốc giảm đau khi chưa có ý kiến của bác sĩ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa đau đầu sau gáy.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì tư thế đúng khi làm việc và sinh hoạt hàng ngày",
+      "Thực hiện các bài tập thư giãn cổ, vai, gáy thường xuyên",
+      "Tránh ngồi hoặc đứng một chỗ quá lâu, nên đứng dậy đi lại sau mỗi 30-60 phút ngồi",
+      "Quản lý stress bằng các phương pháp thư giãn như yoga, thiền",
+      "Đảm bảo giấc ngủ đầy đủ và chất lượng",
+      "Duy trì chế độ ăn uống cân bằng và lành mạnh",
+      "Hạn chế tiêu thụ rượu bia, cà phê, thuốc lá",
+      "Tập thể dục đều đặn để cải thiện sức khỏe tổng thể",
+      "Khám sức khỏe định kỳ để phát hiện sớm các vấn đề sức khỏe"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Đau đầu sau gáy có nguy hiểm không?",
+      "answer": "Đa phần những cơn đau đầu sau gáy thường lành tính, tuy nhiên không nên chủ quan xem thường triệu chứng này. Nếu những cơn đau đầu xảy ra ở cường độ mạnh, tần suất liên tục thì nguy cơ hình thành bệnh mạn tính tương đối cao. Một số trường hợp, đau đầu sau gáy có thể là dấu hiệu của các bệnh lý nguy hiểm như tăng huyết áp, viêm màng não, xuất huyết dưới nhện, u não. Nếu đau đầu kèm theo các triệu chứng như sốt cao, cứng cổ, co giật, rối loạn ý thức, cần đến gặp bác sĩ ngay lập tức."
+    },
+    {
+      "question": "Khi nào nên gặp bác sĩ khi bị đau đầu sau gáy?",
+      "answer": "Bạn nên đến gặp bác sĩ khi: Những cơn đau đầu vùng sau gáy không thuyên giảm, thậm chí theo thời gian mức độ đau tăng dần và lặp lại một cách thường xuyên; Bên cạnh những cơn đau đầu là các triệu chứng: buồn nôn, sốt, cứng vai gáy, chóng mặt, mệt mỏi uể oải; Chức năng vận động và chất lượng cuộc sống bị suy giảm; Đau đầu ở tần suất và mức độ vừa đến nặng, những cơn đau dữ dội và không thể kiểm soát bởi bất kỳ loại thuốc giảm đau nào; Đau đầu kèm theo co giật, tê yếu chân tay, nói ngọng, sốt cao hoặc cứng gáy."
+    },
+    {
+      "question": "Làm thế nào để điều trị đau đầu sau gáy tại nhà?",
+      "answer": "Để giảm đau đầu sau gáy tại nhà, bạn có thể: Duy trì tư thế đúng khi làm việc; Thực hiện các bài tập thư giãn cổ, vai, gáy thường xuyên; Xoa bóp nhẹ nhàng vùng gáy và vai; Chườm nóng hoặc lạnh vào vùng đau (tùy theo cảm giác thoải mái); Nghỉ ngơi đầy đủ và đảm bảo giấc ngủ chất lượng; Quản lý stress bằng các phương pháp thư giãn; Hạn chế tiêu thụ rượu bia, cà phê, thuốc lá; Uống đủ nước và duy trì chế độ ăn uống cân bằng. Tuy nhiên, nếu cơn đau không thuyên giảm hoặc kèm theo các triệu chứng khác, hãy đến gặp bác sĩ ngay."
+    },
+    {
+      "question": "Đau đầu sau gáy có phải là dấu hiệu của u não không?",
+      "answer": "Đau đầu sau gáy có thể là một trong những dấu hiệu của u não, nhưng điều này không phổ biến. Khi khối u phát triển lớn dần, nó có thể chèn ép vào các dây thần kinh, gây ra các cơn đau đầu thường xuyên hơn. Tuy nhiên, đau đầu sau gáy thường do các nguyên nhân khác như căng thẳng, tư thế không đúng, các bệnh lý về xương khớp cổ, hoặc các vấn đề thần kinh. Nếu đau đầu kèm theo các triệu chứng như nôn mửa không liên quan đến bệnh khác, thay đổi tầm nhìn, co giật, yếu cơ hoặc tê bì ở một bên cơ thể, khó nói, cần đến gặp bác sĩ ngay để loại trừ khả năng u não."
+    },
+    {
+      "question": "Có phương pháp nào để phòng ngừa đau đầu sau gáy không?",
+      "answer": "Có nhiều phương pháp để phòng ngừa đau đầu sau gáy: Duy trì tư thế đúng khi làm việc và sinh hoạt hàng ngày; Tránh ngồi hoặc đứng một chỗ quá lâu, nên đứng dậy đi lại sau mỗi 30-60 phút ngồi; Thực hiện các bài tập thư giãn cổ, vai, gáy thường xuyên; Tập thể dục đều đặn để cải thiện sức khỏe tổng thể; Quản lý stress bằng các phương pháp thư giãn; Đảm bảo giấc ngủ đầy đủ và chất lượng; Hạn chế tiêu thụ rượu bia, cà phê, thuốc lá; Duy trì chế độ ăn uống cân bằng và lành mạnh; Điều chỉnh không gian làm việc để phù hợp với tư thế làm việc đúng; Xoa bóp nhẹ nhàng vùng gáy và vai thường xuyên."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức vùng sau gáy, mức độ vừa đến nặng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "thoát vị đĩa đệm cổ",
+        "viêm khớp cổ",
+        "đau dây thần kinh chẩm",
+        "căng thẳng kéo dài"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu dữ dội, không thể kiểm soát bằng thuốc giảm đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "viêm màng não",
+        "xuất huyết dưới nhện",
+        "tăng áp lực nội sọ",
+        "u não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhói phần nửa đầu phía sau gáy, tần suất ngày càng tăng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "đau dây thần kinh chẩm",
+        "viêm động mạch thái dương",
+        "chứng đau nửa đầu",
+        "thoát vị đĩa đệm cổ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu sau gáy kèm theo co giật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não",
+        "xuất huyết não",
+        "u não",
+        "động kinh",
+        "viêm não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tê yếu chân tay, nói ngọng và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não",
+        "đột quỵ",
+        "xuất huyết não",
+        "viêm não",
+        "nhiễm trùng hệ thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu sau gáy kèm cứng cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "viêm màng não",
+        "thoát vị đĩa đệm cổ",
+        "viêm cơ gáy",
+        "căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu sau gáy, sợ tiếng động và ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "chứng đau nửa đầu",
+        "viêm màng não",
+        "đau đầu căng thẳng",
+        "đau đầu cụm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu sau gáy kèm buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "chứng đau nửa đầu",
+        "viêm màng não",
+        "tăng áp lực nội sọ",
+        "rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu sau gáy kèm rối loạn vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "bệnh lý hố sau",
+        "u não",
+        "đột quỵ",
+        "viêm não"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu sau gáy và rối loạn thị giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "chứng đau nửa đầu",
+        "tăng áp lực nội sọ",
+        "u não",
+        "rối loạn thần kinh thị giác"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu sau gáy kèm rối loạn tâm lý. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "rối loạn lo âu",
+        "trầm cảm",
+        "căng thẳng kéo dài",
+        "rối loạn tâm thần"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu sau gáy và muốn biết mức độ nguy hiểm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "thoát vị đĩa đệm cổ",
+        "viêm màng não",
+        "u não",
+        "đau đầu căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu sau gáy và lo lắng về bệnh mạn tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "đau đầu căng thẳng",
+        "đau đầu mạn tính",
+        "viêm khớp cổ",
+        "thoát vị đĩa đệm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu sau gáy và muốn biết có phải bệnh lý ác tính hay không. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "u não",
+        "di căn não",
+        "viêm màng não",
+        "viêm mạch máu não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu sau gáy và muốn biết cách điều trị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "đau đầu căng thẳng",
+        "thoát vị đĩa đệm cổ",
+        "đau dây thần kinh chẩm",
+        "viêm khớp cổ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu sau gáy và muốn biết cách phòng ngừa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "đau đầu căng thẳng",
+        "thoát vị đĩa đệm cổ",
+        "viêm cơ gáy",
+        "căng thẳng kéo dài"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu sau gáy và muốn biết khi nào cần đi khám. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "viêm màng não",
+        "tăng áp lực nội sọ",
+        "u não",
+        "xuất huyết não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu sau gáy và muốn biết cách chăm sóc bản thân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "đau đầu căng thẳng",
+        "thoát vị đĩa đệm cổ",
+        "viêm cơ gáy",
+        "đau dây thần kinh chẩm"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu sau gáy và muốn biết nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "thoát vị đĩa đệm cổ",
+        "viêm khớp cổ",
+        "căng thẳng kéo dài",
+        "đau dây thần kinh chẩm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu sau gáy và muốn biết yếu tố nguy cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu sau gáy",
+        "thoát vị đĩa đệm cổ",
+        "viêm khớp cổ",
+        "đau đầu căng thẳng",
+        "rối loạn tư thế"
+      ]
+    }
+  ]
+}

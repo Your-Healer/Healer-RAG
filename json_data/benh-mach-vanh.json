@@ -1,0 +1,193 @@
+{
+  "disease_id": "benh-mach-vanh",
+  "disease_name": "Bệnh mạch vành",
+  "disease_alternative_names": ["Bệnh động mạch vành", "Bệnh tim thiếu máu cục bộ", "Coronary Artery Disease", "CAD", "Ischemic Heart Disease"],
+  "disease_definition": "Bệnh mạch vành là bệnh lý của các động mạch cung cấp máu nuôi dưỡng cho quả tim, chủ yếu do xơ vữa động mạch gây hẹp lòng mạch vành, làm giảm lưu lượng máu giàu oxy đến tim. Đây là bệnh tim mạch phổ biến nhất ở người lớn và là nguyên nhân gây tử vong hàng đầu trên toàn thế giới.",
+  "symptoms": [
+    {
+      "name": "Đau thắt ngực",
+      "description": "Cảm giác đau như bóp nghẹt, đau như thắt hay đè nặng, sau xương ức, có thể lan lên cằm, lên vai trái và lan xuống cánh tay trái. Thường xuất hiện khi gắng sức, xúc cảm mạnh, gặp lạnh và giảm khi nghỉ ngơi hoặc dùng nitroglycerin."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác hụt hơi, thở gấp khi hoạt động hoặc nằm, đặc biệt là vào ban đêm."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi bất thường, đặc biệt trong hoặc sau khi gắng sức."
+    },
+    {
+      "name": "Đánh trống ngực",
+      "description": "Cảm giác tim đập nhanh hoặc không đều."
+    },
+    {
+      "name": "Triệu chứng không điển hình",
+      "description": "Đặc biệt ở người cao tuổi, phụ nữ và người đái tháo đường: đau hàm, lưng, vai, cánh tay; buồn nôn; vã mồ hôi; chóng mặt; đau thượng vị."
+    },
+    {
+      "name": "Thiếu máu cơ tim thầm lặng",
+      "description": "Bệnh nhân không có triệu chứng đau ngực rõ rệt, đặc biệt ở người cao tuổi và bệnh nhân đái tháo đường."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chủ đạo là do các mảng xơ vữa (bao gồm chất béo, cholesterol và các chất khác) hình thành và tích tụ ở thành trong của động mạch vành, làm hẹp lòng mạch và giảm lưu lượng máu đến cơ tim.",
+    "related_factors": "Ngoài xơ vữa động mạch, bệnh mạch vành còn có thể do co thắt mạch vành, viêm động mạch vành, các bất thường bẩm sinh, hoặc chấn thương động mạch vành.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi cao (nam giới trên 45 tuổi, nữ giới trên 55 tuổi)",
+    "Giới tính nam (ở độ tuổi trung niên, nam giới có nguy cơ cao hơn nữ)",
+    "Tiền sử gia đình có người bị bệnh tim mạch sớm",
+    "Hút thuốc lá",
+    "Tăng huyết áp",
+    "Rối loạn lipid máu (tăng LDL-cholesterol, giảm HDL-cholesterol)",
+    "Đái tháo đường",
+    "Béo phì, thừa cân",
+    "Lối sống ít vận động",
+    "Chế độ ăn không lành mạnh (nhiều chất béo bão hòa, muối, ít rau xanh)",
+    "Stress và các rối loạn tâm lý",
+    "Ngưng thở khi ngủ",
+    "Bệnh lý tự miễn như viêm khớp dạng thấp, lupus ban đỏ"
+  ],
+  "complications": [
+    "Nhồi máu cơ tim",
+    "Suy tim",
+    "Rối loạn nhịp tim",
+    "Đột tử tim",
+    "Hở van tim",
+    "Phình động mạch chủ",
+    "Bệnh mạch máu ngoại biên",
+    "Đột quỵ"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Đánh giá các triệu chứng lâm sàng",
+      "Xác định các yếu tố nguy cơ tim mạch",
+      "Kiểm tra các dấu hiệu sinh tồn",
+      "Khám tim mạch toàn diện"
+    ],
+    "tests": [
+      {
+        "name": "Điện tâm đồ (ECG/EKG)",
+        "description": "Ghi nhận hoạt động điện của tim, có thể phát hiện thiếu máu cơ tim, nhồi máu cơ tim cũ hoặc rối loạn nhịp tim."
+      },
+      {
+        "name": "Điện tâm đồ gắng sức",
+        "description": "Theo dõi hoạt động điện của tim khi bệnh nhân tập thể dục (chạy trên máy chạy hoặc đạp xe đạp), giúp phát hiện các bất thường không xuất hiện khi nghỉ ngơi."
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá cấu trúc và chức năng tim, phát hiện rối loạn vận động vùng do thiếu máu cục bộ."
+      },
+      {
+        "name": "Siêu âm tim gắng sức",
+        "description": "Kết hợp siêu âm tim với gắng sức (thể chất hoặc dùng thuốc) để phát hiện các vùng thiếu máu cục bộ."
+      },
+      {
+        "name": "Xạ hình tưới máu cơ tim",
+        "description": "Sử dụng chất phóng xạ để đánh giá lưu lượng máu đến các vùng cơ tim."
+      },
+      {
+        "name": "CT chụp động mạch vành",
+        "description": "Đánh giá giải phẫu và mức độ hẹp của các động mạch vành không xâm lấn."
+      },
+      {
+        "name": "Chụp động mạch vành qua ống thông",
+        "description": "Tiêu chuẩn vàng để chẩn đoán, giúp xác định chính xác vị trí và mức độ hẹp của các động mạch vành bằng cách đưa ống thông vào mạch máu."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra các yếu tố nguy cơ như lipid máu, đường huyết, men tim (Troponin, CK-MB) để đánh giá tổn thương cơ tim."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh mạch vành bao gồm thay đổi lối sống, dùng thuốc và can thiệp tái thông mạch vành (bằng thủ thuật hoặc phẫu thuật) tùy theo mức độ nặng và đặc điểm của bệnh.",
+    "methods": [
+      {
+        "name": "Thay đổi lối sống",
+        "description": "Ngưng hút thuốc, tập thể dục đều đặn (ít nhất 30 phút/ngày, 5 ngày/tuần), giảm cân nếu thừa cân béo phì, chế độ ăn tốt cho tim mạch (hạn chế chất béo bão hòa, muối, tăng cường rau xanh, trái cây), giảm stress."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Các nhóm thuốc chính: thuốc chống kết tập tiểu cầu (aspirin, clopidogrel), statin (hạ lipid máu), chẹn beta, ức chế men chuyển (ACEI) hoặc chẹn thụ thể (ARB), chẹn kênh canxi, nitrat, và các thuốc kiểm soát bệnh đồng mắc như tăng huyết áp, đái tháo đường."
+      },
+      {
+        "name": "Can thiệp động mạch vành qua da",
+        "description": "Thủ thuật nong và đặt stent vào động mạch vành bị hẹp qua đường ống thông, nhằm tái thông dòng máu và cải thiện cung cấp máu cho cơ tim."
+      },
+      {
+        "name": "Phẫu thuật bắc cầu động mạch vành",
+        "description": "Sử dụng mạch máu từ nơi khác trong cơ thể (thường là động mạch ngực trong, tĩnh mạch hiển) để tạo đường đi mới cho máu vượt qua đoạn động mạch vành bị tắc nghẽn."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ chế độ dùng thuốc theo đúng hướng dẫn của bác sĩ",
+      "Kiểm soát tốt các yếu tố nguy cơ như huyết áp, đường huyết, lipid máu",
+      "Tái khám định kỳ để theo dõi tiến triển của bệnh",
+      "Tham gia các chương trình phục hồi chức năng tim mạch sau can thiệp hoặc phẫu thuật"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Không hút thuốc và tránh khói thuốc thụ động",
+      "Duy trì chế độ ăn lành mạnh: nhiều rau xanh, trái cây, ngũ cốc nguyên hạt, ít muối, ít chất béo bão hòa",
+      "Tập thể dục đều đặn, ít nhất 150 phút/tuần với cường độ vừa phải",
+      "Duy trì cân nặng hợp lý",
+      "Kiểm soát stress và các vấn đề về sức khỏe tâm thần",
+      "Kiểm tra sức khỏe định kỳ, đặc biệt kiểm tra các yếu tố nguy cơ tim mạch",
+      "Kiểm soát tốt các bệnh mạn tính như tăng huyết áp, đái tháo đường, rối loạn lipid máu",
+      "Hạn chế uống rượu bia",
+      "Ngủ đủ giấc, 7-9 giờ mỗi ngày"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh mạch vành có chữa khỏi được không?",
+      "answer": "Bệnh mạch vành là bệnh mạn tính, không thể chữa khỏi hoàn toàn nhưng có thể kiểm soát hiệu quả bằng cách thay đổi lối sống, dùng thuốc đều đặn và can thiệp y tế khi cần thiết. Với phương pháp điều trị hiện đại và quản lý tốt các yếu tố nguy cơ, nhiều người bệnh có thể sống khỏe mạnh và có chất lượng cuộc sống tốt trong nhiều năm."
+    },
+    {
+      "question": "Làm thế nào để phân biệt đau thắt ngực với các cơn đau ngực khác?",
+      "answer": "Đau thắt ngực do bệnh mạch vành thường có đặc điểm: cảm giác nặng, bóp nghẹt hoặc đè ép sau xương ức; thường xuất hiện khi gắng sức, cảm xúc mạnh hoặc gặp lạnh; kéo dài từ 3-15 phút; có thể lan ra cánh tay trái, vai, cổ, hàm; thường giảm khi nghỉ ngơi hoặc dùng thuốc nitrat. Nếu có các triệu chứng này, nên đi khám bác sĩ ngay."
+    },
+    {
+      "question": "Người trẻ có thể bị bệnh mạch vành không?",
+      "answer": "Mặc dù bệnh mạch vành thường gặp ở người trung niên và cao tuổi, nhưng người trẻ vẫn có thể mắc bệnh. Các yếu tố nguy cơ ở người trẻ bao gồm: tiền sử gia đình có người bị bệnh tim sớm, hút thuốc, béo phì, đái tháo đường, rối loạn lipid máu bẩm sinh, lối sống ít vận động và chế độ ăn không lành mạnh."
+    },
+    {
+      "question": "Sau khi đặt stent động mạch vành, tôi có thể tập thể dục bình thường không?",
+      "answer": "Sau khi đặt stent và hồi phục, hầu hết bệnh nhân có thể trở lại với hoạt động thể chất bình thường và thậm chí nên tập thể dục đều đặn theo hướng dẫn của bác sĩ. Tuy nhiên, cần tuân thủ chương trình phục hồi chức năng tim mạch, bắt đầu từ nhẹ nhàng và tăng dần cường độ. Luôn tham khảo ý kiến bác sĩ về loại hình và cường độ tập luyện phù hợp với tình trạng sức khỏe của bạn."
+    },
+    {
+      "question": "Có thể phòng ngừa bệnh mạch vành bằng thực phẩm chức năng không?",
+      "answer": "Không có thực phẩm chức năng nào đã được chứng minh có thể phòng ngừa bệnh mạch vành một cách chắc chắn. Chiến lược phòng bệnh hiệu quả nhất là duy trì lối sống lành mạnh: ăn uống cân bằng (nhiều rau, trái cây, ngũ cốc nguyên hạt, cá, ít chất béo bão hòa), tập thể dục đều đặn, không hút thuốc, kiểm soát stress và khám sức khỏe định kỳ."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Làm thế nào để phân biệt đau thắt ngực với đau tim?",
+      "related_diseases": ["Nhồi máu cơ tim", "Viêm màng ngoài tim", "Đau cơ xương sườn"]
+    },
+    {
+      "question": "Bệnh mạch vành có di truyền không?",
+      "related_diseases": ["Rối loạn lipid máu di truyền", "Tăng homocysteine máu"]
+    },
+    {
+      "question": "Bệnh mạch vành có nguy hiểm đến tính mạng không?",
+      "related_diseases": ["Nhồi máu cơ tim", "Đột tử tim"]
+    },
+    {
+      "question": "Bệnh mạch vành và tăng huyết áp có liên quan không?",
+      "related_diseases": ["Tăng huyết áp", "Xơ vữa động mạch"]
+    },
+    {
+      "question": "Chế độ ăn nào tốt nhất cho bệnh nhân mạch vành?",
+      "related_diseases": ["Rối loạn lipid máu", "Đái tháo đường"]
+    }
+  ]
+}

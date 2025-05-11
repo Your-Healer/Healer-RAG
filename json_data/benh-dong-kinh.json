@@ -1,0 +1,176 @@
+{
+  "disease_id": "benh-dong-kinh",
+  "disease_name": "Bệnh động kinh",
+  "disease_alternative_names": ["Epilepsy", "Rối loạn co giật", "Kinh giật"],
+  "disease_definition": "Động kinh là một bệnh lý liên quan đến hệ thần kinh xảy ra do sự bất thường trong não bộ, dẫn tới sự kích thích đồng thời một nhóm các tế bào thần kinh của vỏ não, gây ra sự phóng điện đột ngột và không thể kiểm soát. Sự kích thích vỏ não ở các vùng khác nhau có thể gây ra những biểu hiện khác nhau. Co giật không phải là biểu hiện duy nhất, các cơn vắng ý thức đột ngột, co cứng chân tay cũng là biểu hiện của người bị động kinh.",
+  "symptoms": [
+    {
+      "name": "Động kinh cục bộ đơn giản",
+      "description": "Co giật chỉ xảy ra ở một phần của cơ thể, thị giác và khứu giác bất thường, tâm trạng lo lắng và sợ sệt không rõ nguyên nhân, cảm giác chóng mặt và khó chịu vùng dạ dày."
+    },
+    {
+      "name": "Động kinh cục bộ phức tạp",
+      "description": "Người bệnh gần như mất nhận thức và không biết được cơn động kinh đang xảy ra, họ nhìn chằm chằm, mặt đờ đẫn, thực hiện những hành vi vô nghĩa như xoa tay, xoay đầu và đi qua đi lại."
+    },
+    {
+      "name": "Cơn co cứng và co giật toàn thể",
+      "description": "Mất ý thức, mất thăng bằng và ngã xuống, có thể kèm theo tiếng kêu hoặc la hét. Người bệnh xuất hiện những cơn co giật, không thể kiểm soát tay chân, có thể kèm theo tình trạng tiểu mất kiểm soát và sùi bọt mép."
+    },
+    {
+      "name": "Cơn vắng ý thức",
+      "description": "Mất ý thức trong khoảng 5-15 giây, nhìn chằm chằm, đôi khi đảo mắt lên trên, đang cầm đồ bỗng nhiên đánh rơi. Thường xảy ra ở trẻ em và hiếm gặp ở người lớn."
+    },
+    {
+      "name": "Hội chứng West",
+      "description": "Là dạng động kinh toàn thể thường gặp ở trẻ sơ sinh từ 3 đến 8 tháng tuổi. Biểu hiện bệnh như đầu trẻ gật mạnh xuống trong vài giây, toàn bộ cơ thể uốn cong về phía trước, tay và chân trẻ co gập lên phía trước."
+    }
+  ],
+  "causes": {
+    "main_cause": "Động kinh có thể do nhiều nguyên nhân khác nhau gây ra, nhưng khoảng 50% trường hợp không xác định được nguyên nhân cụ thể.",
+    "related_factors": "Yếu tố di truyền, chấn thương sọ não, u não, đột quỵ, nhiễm trùng não (viêm màng não, viêm não), tổn thương não trước khi sinh, tự kỷ, rối loạn điện giải, ngộ độc CO2, thiếu oxy, bệnh Alzheimer.",
+    "transmission_routes": ["Bệnh động kinh không lây từ người sang người."]
+  },
+  "risk_factors": [
+    "Tuổi tác: bệnh động kinh xuất hiện phổ biến hơn ở trẻ em và người cao tuổi",
+    "Tiền sử gia đình có người mắc bệnh động kinh",
+    "Chấn thương sọ não",
+    "Đột quỵ và các bệnh mạch máu khác",
+    "Sa sút trí tuệ ở người cao tuổi",
+    "Nhiễm trùng não như viêm màng não, viêm não, viêm tủy sống",
+    "Tiền sử sốt cao co giật ở trẻ em",
+    "Lạm dụng rượu bia, thuốc lá, ma túy"
+  ],
+  "complications": [
+    "Nguy cơ bị té ngã và chấn thương khi lên cơn co giật",
+    "Nguy cơ đuối nước cao hơn khi bơi lội",
+    "Tai nạn giao thông nếu lên cơn khi lái xe",
+    "Rối loạn giấc ngủ",
+    "Biến chứng trong thai kỳ",
+    "Tổn thương não vĩnh viễn trong trường hợp động kinh kéo dài",
+    "Trạng thái động kinh liên tục (status epilepticus)",
+    "Đột tử ở người bệnh động kinh (SUDEP)",
+    "Ảnh hưởng đến khả năng tập trung và học tập",
+    "Trầm cảm, lo âu và các vấn đề tâm lý khác"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và khai thác tiền sử bệnh",
+      "Kiểm tra hành vi, kỹ năng vận động của người bệnh",
+      "Xét nghiệm máu để phát hiện dấu hiệu nhiễm trùng, bệnh di truyền hoặc rối loạn"
+    ],
+    "tests": [
+      {
+        "name": "Điện não đồ (EEG)",
+        "description": "Phương pháp phổ biến nhất được sử dụng trong chẩn đoán bệnh động kinh. Sử dụng các điện cực để ghi lại hoạt động điện của não."
+      },
+      {
+        "name": "Điện não đồ mật độ cao",
+        "description": "Biến thể của kỹ thuật điện não đồ, giúp bác sĩ xác định chính xác hơn các vùng não đang bị cơn động kinh tác động."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Cho phép bác sĩ quan sát hình ảnh não được cắt ngang, có thể phát hiện những tổn thương của não như khối u hay hiện tượng chảy máu não."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Sử dụng sóng vô tuyến và nam châm để giúp bác sĩ quan sát chi tiết về bộ não, phát hiện những tổn thương hay bất thường trong não."
+      },
+      {
+        "name": "Chụp cắt lớp phát xạ positron (PET)",
+        "description": "Kỹ thuật giúp hình dung các khu vực hoạt động của não và phát hiện các bất thường."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Phần lớn người bệnh động kinh được điều trị bằng thuốc kháng động kinh để hạn chế những cơn co giật.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Bác sĩ có thể sử dụng một hoặc kết hợp nhiều loại thuốc kháng động kinh tùy theo thể trạng và mức độ động kinh. Khoảng 70% người bệnh có thể kiểm soát được cơn co giật bằng thuốc."
+      },
+      {
+        "name": "Phẫu thuật điều trị động kinh",
+        "description": "Áp dụng cho những trường hợp kháng thuốc, bác sĩ sẽ loại bỏ phần não gây ra cơn co giật nếu xác định được vị trí chính xác và không ảnh hưởng đến các chức năng quan trọng."
+      },
+      {
+        "name": "Kích thích dây thần kinh phế vị",
+        "description": "Bác sĩ cấy thiết bị tương tự máy tạo nhịp tim vào ngực, thiết bị này gửi những xung điện tới dây thần kinh phế vị, có thể giúp kiểm soát cơn co giật."
+      },
+      {
+        "name": "Kích thích não sâu",
+        "description": "Cấy điện cực vào một phần cụ thể của não, thường là đồi thị, các điện cực kết nối với máy phát điện cấy vào ngực hoặc hộp sọ gửi xung điện đến não và giúp làm giảm các cơn co giật."
+      },
+      {
+        "name": "Chế độ ăn Keto",
+        "description": "Chế độ ăn kiêng nghiêm ngặt có chứa nhiều chất béo và carbohydrate thấp có thể giúp kiểm soát cơn co giật ở một số trẻ em bị động kinh."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ đúng liều lượng thuốc theo chỉ định của bác sĩ",
+      "Không tự ý ngừng thuốc khi chưa có ý kiến của bác sĩ",
+      "Tránh sử dụng rượu, bia, thuốc lá và các chất kích thích",
+      "Duy trì lối sống lành mạnh với chế độ ăn uống cân bằng",
+      "Ngủ đủ giấc và tránh các yếu tố kích hoạt cơn co giật như ánh sáng nhấp nháy, căng thẳng kéo dài",
+      "Thông báo cho bác sĩ nếu có bất kỳ tác dụng phụ nào khi dùng thuốc"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa bệnh động kinh.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Phòng ngừa chấn thương đầu bằng cách đội mũ bảo hiểm khi tham gia giao thông, chơi thể thao",
+      "Chăm sóc chu sinh đầy đủ để giảm nguy cơ trẻ sơ sinh bị động kinh do chấn thương khi sinh",
+      "Xử lý kịp thời tình trạng sốt cao ở trẻ em",
+      "Phòng ngừa đột quỵ bằng cách kiểm soát huyết áp, đường huyết",
+      "Tránh sử dụng rượu bia và các chất kích thích",
+      "Thăm khám sức khỏe thần kinh định kỳ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh động kinh có di truyền không?",
+      "answer": "Một số loại bệnh động kinh có tính di truyền trong gia đình. Các nhà nghiên cứu đã thực hiện liên kết một số loại bệnh động kinh với các gen cụ thể. Tuy nhiên, với hầu hết mọi người, gen chỉ là một phần tác nhân dẫn đến động kinh. Một số gen nhất định có thể khiến một người trở nên nhạy cảm hơn với những điều kiện môi trường dẫn đến cơn động kinh."
+    },
+    {
+      "question": "Bệnh động kinh có lây không?",
+      "answer": "Không, động kinh là một bệnh lý không lây, không thể truyền từ người này sang người khác."
+    },
+    {
+      "question": "Cơn co giật và động kinh có gì khác nhau?",
+      "answer": "Co giật là triệu chứng của căn bệnh động kinh, nhưng không phải tất cả những cơn co giật đều do động kinh gây ra. Động kinh là bệnh lý thần kinh được xác định thông qua tình trạng xuất hiện nhiều cơn co giật liên tục. Bệnh động kinh có thể là tình trạng kéo dài trong suốt cuộc đời nếu không được điều trị."
+    },
+    {
+      "question": "Bệnh động kinh nên ăn gì và kiêng gì?",
+      "answer": "Người bị động kinh nên tăng cường bổ sung vào khẩu phần các nhóm thực phẩm giàu chất béo và protein (phô mai, dầu cá, bơ, thịt nạc, cá, hải sản), nguồn thực phẩm có hàm lượng chất xơ hòa tan cao (táo, chuối, bơ, hạnh nhân, bột yến mạch, rau mồng tơi, gạo lứt, súp lơ), thực phẩm giàu vi chất (hạt óc chó, dầu ô liu), trái cây tươi, rau xanh. Nên kiêng thực phẩm chứa hàm lượng đường cao, thực phẩm giàu gluten, thực phẩm chứa phụ gia và chất bảo quản, bia rượu."
+    },
+    {
+      "question": "Bệnh động kinh có chữa khỏi được không?",
+      "answer": "Bệnh động kinh càng được điều trị sớm thì cơ hội khỏi bệnh càng cao. Tỉ lệ chữa khỏi bệnh khá cao, có thể lên tới 70%. Nghĩa là khoảng 70% người bệnh có thể loại bỏ được các cơn động kinh và trở lại cuộc sống bình thường sau một quá trình điều trị từ 2,5 - 3 năm. 30% còn lại tuy không thể khỏi hoàn toàn nhưng vẫn có thể dùng thuốc để duy trì và đảm bảo một cuộc sống khỏe mạnh."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hay bị co giật một phần cơ thể, kèm theo cảm giác lo lắng và sợ hãi không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Động kinh cục bộ đơn giản", "Rối loạn lo âu", "Rối loạn hoảng sợ"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt và khó chịu vùng dạ dày, sau đó mất ý thức tạm thời. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Động kinh cục bộ", "Ngất", "Hạ đường huyết", "Rối loạn tiền đình"]
+    },
+    {
+      "question": "Tôi hay bị nhìn chằm chằm, mặt đờ đẫn và thực hiện những hành vi vô nghĩa như xoa tay, xoay đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Động kinh cục bộ phức tạp", "Rối loạn phân ly", "Chứng vô thức tự động"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mất ý thức, ngã xuống và co giật toàn thân không kiểm soát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Động kinh co giật - co cứng toàn thể", "Ngất", "Giảm canxi máu"]
+    },
+    {
+      "question": "Tôi hay bị mất ý thức trong vài giây, nhìn chằm chằm và đánh rơi đồ vật đang cầm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Động kinh vắng ý thức", "Ngất", "Rối loạn thần kinh tự chủ"]
+    }
+  ]
+}

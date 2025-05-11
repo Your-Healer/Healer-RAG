@@ -1,0 +1,224 @@
+{
+  "disease_id": "san-day-lon",
+  "disease_name": "Phù Mạch (Sẩn dày lớn)",
+  "disease_alternative_names": ["Angioedema", "Phù Quincke", "Phù mạch máu", "Sưng mô dưới da"],
+  "disease_definition": "Phù mạch (angioedema) là tình trạng sưng phù của mô dưới da hoặc niêm mạc, ảnh hưởng đến lớp sâu hơn của da và mô dưới da so với mày đay. Nó thường xuất hiện ở các vùng mô mềm như mắt, môi, lưỡi, họng, bàn tay, bàn chân và bộ phận sinh dục. Khác với mày đay, phù mạch thường gây đau hoặc cảm giác nóng rát hơn là ngứa và có thể nguy hiểm đến tính mạng nếu ảnh hưởng đến đường thở.",
+  "symptoms": [
+    {
+      "name": "Sưng phù đột ngột",
+      "description": "Sưng phù xuất hiện nhanh chóng ở các vùng da mềm, đặc biệt là mặt (mắt, môi), tay, chân hoặc bộ phận sinh dục. Sưng phù thường ít đỏ hơn và khó thấy hơn so với mày đay."
+    },
+    {
+      "name": "Đau hoặc cảm giác nóng rát",
+      "description": "Khác với mày đay thường ngứa, phù mạch thường gây đau, khó chịu hoặc cảm giác nóng rát tại vùng bị ảnh hưởng."
+    },
+    {
+      "name": "Sưng lưỡi và cổ họng",
+      "description": "Trong các trường hợp nghiêm trọng, phù mạch có thể ảnh hưởng đến lưỡi, cổ họng và đường thở, gây khó thở, khàn tiếng, và có thể đe dọa tính mạng."
+    },
+    {
+      "name": "Đau bụng và các triệu chứng tiêu hóa",
+      "description": "Phù mạch có thể ảnh hưởng đến niêm mạc ruột, gây đau bụng, buồn nôn, nôn và tiêu chảy."
+    },
+    {
+      "name": "Thời gian kéo dài",
+      "description": "Các triệu chứng phù mạch thường kéo dài từ 24 đến 72 giờ, lâu hơn so với các nốt mày đay (thường biến mất trong vòng 24 giờ)."
+    }
+  ],
+  "causes": [
+    {
+      "name": "Dị ứng",
+      "description": "Phù mạch có thể là kết quả của phản ứng dị ứng với thực phẩm, thuốc, nọc côn trùng, hoặc các chất gây dị ứng khác. Trong phản ứng dị ứng, tế bào mast và basophil giải phóng histamine, gây giãn mạch máu và tăng tính thấm mao mạch."
+    },
+    {
+      "name": "Thuốc ức chế men chuyển angiotensin (ACE)",
+      "description": "Thuốc ức chế ACE là một trong những nguyên nhân phổ biến nhất của phù mạch. Phù mạch liên quan đến ACE có thể xuất hiện từ vài ngày đến vài tháng sau khi bắt đầu dùng thuốc."
+    },
+    {
+      "name": "Thuốc kháng viêm không steroid (NSAIDs)",
+      "description": "NSAIDs như aspirin, ibuprofen có thể gây phù mạch ở một số người nhạy cảm."
+    },
+    {
+      "name": "Phù mạch di truyền (HAE)",
+      "description": "Đây là tình trạng di truyền hiếm gặp do thiếu hoặc suy giảm chức năng của protein C1 esterase inhibitor, dẫn đến việc sản xuất bradykinin quá mức, gây ra các cơn phù mạch tái phát."
+    },
+    {
+      "name": "Phù mạch mắc phải (AAE)",
+      "description": "Tương tự như phù mạch di truyền nhưng không di truyền. Có thể liên quan đến bệnh ung thư hoặc rối loạn tự miễn."
+    },
+    {
+      "name": "Các tác nhân vật lý",
+      "description": "Áp lực, rung động, nhiệt độ nóng hoặc lạnh, và tia UV có thể gây ra phù mạch ở một số người."
+    },
+    {
+      "name": "Vô căn",
+      "description": "Nhiều trường hợp phù mạch không xác định được nguyên nhân cụ thể và được gọi là phù mạch vô căn."
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Tiền sử dị ứng hoặc phù mạch",
+      "description": "Những người có tiền sử bản thân hoặc gia đình từng bị phù mạch, mày đay, hoặc các phản ứng dị ứng khác có nguy cơ cao hơn."
+    },
+    {
+      "name": "Di truyền",
+      "description": "Phù mạch di truyền là do đột biến gen, được di truyền theo kiểu trội trên nhiễm sắc thể thường."
+    },
+    {
+      "name": "Sử dụng thuốc ức chế ACE",
+      "description": "Những người dùng thuốc ức chế ACE có nguy cơ cao hơn, đặc biệt là trong vài tuần đầu tiên của liệu pháp."
+    },
+    {
+      "name": "Một số bệnh lý",
+      "description": "Bệnh tự miễn, bệnh tuyến giáp, nhiễm trùng, và một số bệnh ung thư có thể tăng nguy cơ phù mạch."
+    },
+    {
+      "name": "Yếu tố kích hoạt",
+      "description": "Chấn thương, căng thẳng, thay đổi nội tiết tố (như trong thời kỳ kinh nguyệt), và các yếu tố môi trường có thể kích hoạt các đợt phù mạch ở những người có xu hướng phát triển tình trạng này."
+    }
+  ],
+  "complications": [
+    {
+      "name": "Tắc nghẽn đường thở",
+      "description": "Phù mạch ảnh hưởng đến lưỡi, cổ họng, hoặc thanh quản có thể gây tắc nghẽn đường thở, dẫn đến khó thở nghiêm trọng, ngạt thở, và thậm chí tử vong nếu không được điều trị kịp thời."
+    },
+    {
+      "name": "Khó nuốt và nói",
+      "description": "Phù mạch ở miệng và cổ họng có thể gây khó khăn khi nuốt và nói."
+    },
+    {
+      "name": "Đau và khó chịu",
+      "description": "Phù mạch có thể gây đau và khó chịu đáng kể, ảnh hưởng đến chất lượng cuộc sống."
+    },
+    {
+      "name": "Suy nhược",
+      "description": "Các đợt phù mạch tái phát có thể gây mệt mỏi và kiệt sức, đặc biệt là khi liên quan đến các triệu chứng tiêu hóa."
+    },
+    {
+      "name": "Ảnh hưởng tâm lý",
+      "description": "Lo lắng, trầm cảm, và giảm chất lượng cuộc sống do các đợt phù mạch không thể dự đoán và tái phát."
+    }
+  ],
+  "diagnosis": [
+    {
+      "name": "Khám lâm sàng",
+      "description": "Bác sĩ sẽ kiểm tra các vùng sưng phù và hỏi về các triệu chứng, thời gian xuất hiện và các yếu tố kích hoạt có thể."
+    },
+    {
+      "name": "Bệnh sử và tiền sử gia đình",
+      "description": "Thông tin về thời điểm bắt đầu triệu chứng, tần suất, yếu tố kích hoạt, các loại thuốc đang sử dụng, và tiền sử gia đình về phù mạch hoặc dị ứng."
+    },
+    {
+      "name": "Xét nghiệm máu",
+      "description": "Để đánh giá mức độ C1 esterase inhibitor (C1-INH) và xét nghiệm C4 để kiểm tra phù mạch di truyền hoặc mắc phải. Xét nghiệm máu khác có thể giúp loại trừ các nguyên nhân khác."
+    },
+    {
+      "name": "Xét nghiệm di truyền",
+      "description": "Trong trường hợp nghi ngờ phù mạch di truyền, xét nghiệm DNA có thể xác định đột biến gen liên quan."
+    },
+    {
+      "name": "Xét nghiệm dị ứng",
+      "description": "Kiểm tra lẩy da hoặc xét nghiệm IgE đặc hiệu có thể xác định tác nhân gây dị ứng trong trường hợp phù mạch dị ứng."
+    }
+  ],
+  "treatments": [
+    {
+      "name": "Thuốc kháng histamine",
+      "description": "Hữu ích trong điều trị phù mạch do histamine (dị ứng). Tuy nhiên, không hiệu quả trong phù mạch di truyền hoặc do thuốc ức chế ACE."
+    },
+    {
+      "name": "Epinephrine (Adrenaline)",
+      "description": "Trong trường hợp phù mạch nghiêm trọng ảnh hưởng đến đường thở, epinephrine tiêm (EpiPen) có thể cứu sống tính mạng. Nó làm giảm sưng phù và mở rộng đường thở."
+    },
+    {
+      "name": "Corticosteroid",
+      "description": "Có thể giúp giảm viêm trong phù mạch dị ứng, nhưng không hiệu quả trong phù mạch di truyền hoặc do ức chế ACE."
+    },
+    {
+      "name": "Điều trị phù mạch di truyền (HAE)",
+      "description": "Bao gồm C1 esterase inhibitor thay thế (Berinert, Cinryze), thuốc đối kháng bradykinin (Icatibant), và thuốc ức chế kallikrein (Ecallantide) để điều trị các đợt cấp tính."
+    },
+    {
+      "name": "Phòng ngừa phù mạch di truyền",
+      "description": "Androgen (Danazol) hoặc acid tranexamic có thể được sử dụng để phòng ngừa các đợt phù mạch ở bệnh nhân HAE."
+    },
+    {
+      "name": "Ngưng sử dụng thuốc nguyên nhân",
+      "description": "Đối với phù mạch do thuốc, việc ngưng sử dụng thuốc gây bệnh là cần thiết. Trong trường hợp phù mạch do thuốc ức chế ACE, có thể chuyển sang loại thuốc hạ huyết áp khác."
+    },
+    {
+      "name": "Hỗ trợ đường thở",
+      "description": "Trong trường hợp phù mạch nghiêm trọng ảnh hưởng đến đường thở, có thể cần đặt nội khí quản hoặc mở khí quản khẩn cấp."
+    }
+  ],
+  "preventions": [
+    {
+      "name": "Tránh các tác nhân kích hoạt đã biết",
+      "description": "Xác định và tránh các yếu tố kích hoạt phù mạch, bao gồm thực phẩm, thuốc, hoặc các yếu tố môi trường."
+    },
+    {
+      "name": "Mang theo thuốc khẩn cấp",
+      "description": "Những người có tiền sử phù mạch nghiêm trọng nên mang theo epinephrine tự tiêm (EpiPen) và được hướng dẫn cách sử dụng."
+    },
+    {
+      "name": "Thông báo cho nhân viên y tế",
+      "description": "Thông báo cho bác sĩ và nhân viên y tế về tiền sử phù mạch, đặc biệt trước khi phẫu thuật hoặc thủ thuật nha khoa."
+    },
+    {
+      "name": "Đeo vòng tay cảnh báo y tế",
+      "description": "Những người mắc phù mạch di truyền hoặc có nguy cơ cao bị phù mạch nên đeo vòng tay cảnh báo y tế."
+    },
+    {
+      "name": "Điều trị phòng ngừa",
+      "description": "Đối với những người mắc phù mạch di truyền, điều trị phòng ngừa có thể được chỉ định trước các sự kiện có nguy cơ cao như phẫu thuật."
+    },
+    {
+      "name": "Kế hoạch hành động khẩn cấp",
+      "description": "Phát triển kế hoạch hành động khẩn cấp với nhà cung cấp dịch vụ chăm sóc sức khỏe, bao gồm khi nào và làm thế nào để sử dụng thuốc khẩn cấp và khi nào cần đến phòng cấp cứu."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Phù mạch có khác với mày đay không?",
+      "answer": "Có, mặc dù cả hai đều có thể xuất hiện cùng lúc. Mày đay ảnh hưởng đến các lớp bề mặt của da, gây ngứa và thường biến mất trong vòng 24 giờ. Phù mạch ảnh hưởng đến các lớp sâu hơn của da và mô dưới da, thường gây đau hơn là ngứa, và có thể kéo dài đến 72 giờ. Phù mạch cũng có thể ảnh hưởng đến đường thở, gây ra tình trạng đe dọa tính mạng."
+    },
+    {
+      "question": "Làm thế nào để phân biệt giữa phù mạch thông thường và phù mạch di truyền?",
+      "answer": "Phù mạch di truyền (HAE) thường không đi kèm với mày đay, không đáp ứng với thuốc kháng histamine hoặc steroid, và có thể được kích hoạt bởi chấn thương hoặc căng thẳng. HAE thường bắt đầu từ thời thơ ấu hoặc thanh thiếu niên và có tiền sử gia đình dương tính. Xét nghiệm máu cho thấy mức C4 thấp và giảm hoạt động của C1-INH. Ngược lại, phù mạch dị ứng thường đi kèm với mày đay, đáp ứng với thuốc kháng histamine, và thường được kích hoạt bởi các chất gây dị ứng cụ thể."
+    },
+    {
+      "question": "Phù mạch có nguy hiểm đến tính mạng không?",
+      "answer": "Có thể. Phù mạch ảnh hưởng đến đường thở (lưỡi, cổ họng, thanh quản) có thể gây tắc nghẽn đường thở và là một tình trạng cấp cứu y tế. Dấu hiệu cảnh báo bao gồm khàn tiếng, khó thở, tức ngực, và tiếng rít khi thở. Nếu bạn hoặc ai đó đang trải qua các triệu chứng này, hãy gọi cấp cứu ngay lập tức."
+    },
+    {
+      "question": "Thuốc ức chế ACE có thể gây phù mạch bao lâu sau khi bắt đầu sử dụng?",
+      "answer": "Mặc dù phù mạch liên quan đến thuốc ức chế ACE thường xảy ra trong tuần đầu tiên sử dụng, nhưng nó có thể xuất hiện bất cứ lúc nào trong quá trình điều trị, ngay cả sau nhiều tháng hoặc nhiều năm. Nếu bạn đang dùng thuốc ức chế ACE và phát triển phù mạch, hãy liên hệ với nhà cung cấp dịch vụ chăm sóc sức khỏe của bạn ngay lập tức và ngừng dùng thuốc."
+    },
+    {
+      "question": "Phù mạch có thể tự khỏi không?",
+      "answer": "Trong nhiều trường hợp, phù mạch đơn thuần sẽ tự khỏi trong vòng 24 đến 72 giờ, ngay cả khi không điều trị. Tuy nhiên, đối với phù mạch nghiêm trọng ảnh hưởng đến đường thở hoặc phù mạch di truyền, điều trị y tế là cần thiết. Không nên chậm trễ trong việc tìm kiếm sự chăm sóc y tế nếu bạn trải qua phù mạch ở mặt, miệng, hoặc cổ họng."
+    }
+  ],
+  "popular_questions": [
+    {
+      "question": "Làm thế nào để phân biệt phù mạch với các tình trạng sưng phù khác?",
+      "answer": "Phù mạch thường xuất hiện đột ngột, không đau khi ấn (không lõm), và không có dấu hiệu viêm rõ ràng như đỏ hoặc nóng đáng kể. Nó thường ảnh hưởng đến các vùng mô mềm như mặt, môi, lưỡi, bàn tay, bàn chân, và bộ phận sinh dục. Ngược lại, phù do bệnh thận hoặc suy tim thường lõm khi ấn, phát triển từ từ, và thường ảnh hưởng đến các vùng phụ thuộc trọng lực như mắt cá chân. Viêm mô tế bào hoặc áp xe thường đi kèm với đỏ, nóng, và đau khi chạm vào."
+    },
+    {
+      "question": "Phù mạch di truyền có thể điều trị khỏi không?",
+      "answer": "Hiện tại, phù mạch di truyền (HAE) không thể chữa khỏi hoàn toàn vì đây là một tình trạng di truyền. Tuy nhiên, với việc quản lý y tế thích hợp, bao gồm điều trị dự phòng và điều trị các đợt cấp tính, hầu hết bệnh nhân có thể dẫn dắt cuộc sống hoạt động và khỏe mạnh. Các phương pháp điều trị HAE đã cải thiện đáng kể trong những năm gần đây với sự phát triển của thuốc đặc hiệu nhắm vào cơ chế bệnh sinh cụ thể."
+    },
+    {
+      "question": "Liệu phù mạch có thể ảnh hưởng đến nội tạng không?",
+      "answer": "Có, phù mạch có thể ảnh hưởng đến các cơ quan nội tạng, đặc biệt là trong phù mạch di truyền. Khi phù mạch ảnh hưởng đến đường tiêu hóa, nó có thể gây đau bụng dữ dội, buồn nôn, nôn mửa, và tiêu chảy. Trong một số trường hợp hiếm gặp, phù mạch cũng có thể ảnh hưởng đến hệ thần kinh trung ương, gây ra các triệu chứng như đau đầu hoặc thay đổi thần kinh thoáng qua."
+    },
+    {
+      "question": "Nếu tôi bị phù mạch do thuốc ức chế ACE, tôi có thể dùng các thuốc hạ huyết áp khác không?",
+      "answer": "Có, nếu bạn đã trải qua phù mạch do thuốc ức chế ACE, bác sĩ của bạn sẽ ngừng thuốc đó và có thể kê đơn một loại thuốc hạ huyết áp khác. Thuốc ức chế thụ thể angiotensin (ARB) thường được coi là an toàn hơn đối với những bệnh nhân đã có phù mạch liên quan đến thuốc ức chế ACE, mặc dù vẫn có một nguy cơ nhỏ. Các lựa chọn thay thế khác bao gồm thuốc lợi tiểu, thuốc chẹn kênh canxi, hoặc thuốc chẹn beta."
+    },
+    {
+      "question": "Căng thẳng có thể gây ra phù mạch không?",
+      "answer": "Căng thẳng trong đời sống có thể là yếu tố kích hoạt cho các đợt phù mạch, đặc biệt là ở những người mắc phù mạch di truyền (HAE). Căng thẳng về thể chất và tinh thần có thể kích hoạt hệ thống thần kinh giao cảm, giải phóng các chất hóa học làm thay đổi lưu lượng máu và tính thấm mạch máu. Quản lý căng thẳng, bao gồm kỹ thuật thư giãn, thiền định, và tập thể dục thường xuyên, có thể giúp giảm tần suất các đợt phù mạch ở một số người."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "disease_id": "ap-xe-phoi",
+  "disease_name": "Áp xe phổi",
+  "disease_alternative_names": ["Abscess phổi", "Áp xe phế quản phổi"],
+  "disease_definition": "Áp xe phổi là tình trạng nhiễm trùng nghiêm trọng của mô phổi, trong đó vi khuẩn gây hoại tử mô tạo thành các hang chứa mủ. Bệnh thường tiến triển qua 3 giai đoạn: giai đoạn viêm, giai đoạn ộc mủ và giai đoạn thành hang.",
+  "symptoms": [
+    {
+      "name": "Sốt cao",
+      "description": "Người bệnh sốt cao lên tới 39-40 độ C, thường biểu hiện rầm rộ giống một bệnh viêm phổi nặng trong giai đoạn viêm."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác uể oải, mệt mỏi do tình trạng nhiễm trùng."
+    },
+    {
+      "name": "Ho mủ",
+      "description": "Triệu chứng đặc trưng nhất ở giai đoạn ộc mủ. Người bệnh có thể ho mủ, mủ có thể ộc ra nhiều khoảng 300 – 500ml trong vòng 24 giờ hoặc mủ khạc ít nhưng kéo dài."
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Đau vùng ngực, đặc biệt khi ho hoặc hít thở sâu, thường xuất hiện ở giai đoạn ộc mủ."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, thở nông do mủ chiếm không gian trong phổi khiến khả năng trao đổi khí bị hạn chế."
+    },
+    {
+      "name": "Hơi thở có mùi hôi",
+      "description": "Hơi thở có mùi hôi, thường xuất hiện khi tác nhân gây bệnh là virus hoặc vi khuẩn kỵ khí."
+    },
+    {
+      "name": "Nước tiểu sẫm màu",
+      "description": "Một số bệnh nhân có thể xuất hiện triệu chứng tiểu tiện ít, nước tiểu sẫm màu do cơ thể mất nước và nhiễm trùng."
+    },
+    {
+      "name": "Mủ có tính chất đặc trưng",
+      "description": "Tính chất mủ thay đổi tùy theo tác nhân gây bệnh: virus thì mủ có mùi thối; amip thì mủ có màu như socola; áp xe đường mật gây vỡ thông lên phổi thì mủ có màu vàng như mật."
+    }
+  ],
+  "causes": {
+    "main_cause": "Áp xe phổi chủ yếu do vi khuẩn gây ra, đặc biệt là các vi khuẩn kỵ khí như Bacteroides, Peptostreptococcus, Fusobacterium và vi khuẩn hiếu khí như Staphylococcus aureus, Klebsiella pneumoniae, Pseudomonas aeruginosa.",
+    "related_factors": "Bệnh thường liên quan đến tình trạng hít phải dịch tiết từ miệng hoặc dạ dày vào phổi, nhất là ở những người có rối loạn nuốt, say rượu, hoặc bất tỉnh.",
+    "transmission_routes": [
+      "Hít phải các vi khuẩn hoặc dịch tiết nhiễm khuẩn vào phổi",
+      "Lan tràn nhiễm trùng từ các cơ quan lân cận (như viêm mủ màng phổi, áp xe gan, áp xe dưới cơ hoành)",
+      "Nhiễm trùng phổi qua đường máu từ các nhiễm trùng ở nơi khác trong cơ thể",
+      "Biến chứng của viêm phổi không được điều trị đúng cách hoặc viêm phổi kéo dài"
+    ]
+  },
+  "risk_factors": [
+    "Rối loạn ý thức (do say rượu, thuốc an thần, động kinh, đột quỵ)",
+    "Rối loạn nuốt (sau đột quỵ, bệnh lý thần kinh cơ)",
+    "Bệnh nha chu nặng hoặc vệ sinh răng miệng kém",
+    "Hút thuốc lá",
+    "Suy giảm miễn dịch (HIV/AIDS, ung thư, điều trị hóa trị, corticosteroid)",
+    "Bệnh phổi tắc nghẽn mạn tính (COPD)",
+    "Bệnh lý ác tính đường hô hấp",
+    "Nghiện rượu"
+  ],
+  "complications": [
+    "Tràn dịch màng phổi",
+    "Viêm mủ màng phổi",
+    "Nhiễm khuẩn huyết",
+    "Tổn thương phổi vĩnh viễn",
+    "Xơ phổi",
+    "Giãn phế quản",
+    "Suy hô hấp"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Thăm khám lâm sàng: Đánh giá các triệu chứng và dấu hiệu của bệnh",
+      "Xét nghiệm đờm: Phân tích tính chất đờm và nuôi cấy vi sinh để xác định căn nguyên",
+      "Chẩn đoán hình ảnh: X-quang ngực, CT scan phổi để xác định vị trí và kích thước áp xe"
+    ],
+    "tests": [
+      {
+        "name": "X-quang ngực",
+        "description": "Phát hiện hình ảnh tổn thương dạng hang có mức nước - hơi trong phổi, thường có đường kính 2cm trở lên."
+      },
+      {
+        "name": "CT scan ngực",
+        "description": "Cung cấp hình ảnh chi tiết hơn về vị trí, kích thước của áp xe phổi và mức độ tổn thương các mô lân cận."
+      },
+      {
+        "name": "Nuôi cấy đờm",
+        "description": "Xác định loại vi khuẩn gây bệnh và độ nhạy cảm với kháng sinh để có phác đồ điều trị phù hợp."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá tình trạng nhiễm trùng qua số lượng bạch cầu tăng, CRP và tốc độ máu lắng tăng."
+      },
+      {
+        "name": "Soi phế quản",
+        "description": "Lấy mẫu dịch phế quản để nuôi cấy và có thể để đánh giá tắc nghẽn phế quản, dị vật phế quản hoặc u phổi nếu nghi ngờ."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị áp xe phổi đòi hỏi kết hợp nhiều biện pháp, trong đó kháng sinh là phương pháp điều trị chính. Thời gian điều trị thường kéo dài và cần theo dõi đáp ứng qua lâm sàng và chẩn đoán hình ảnh.",
+    "methods": [
+      {
+        "name": "Điều trị kháng sinh",
+        "description": "Sử dụng kháng sinh phổ rộng ban đầu, sau đó điều chỉnh theo kết quả nuôi cấy. Thời gian điều trị thường từ 4-6 tuần, có thể lâu hơn tùy tình trạng bệnh. Kháng sinh thường được sử dụng gồm clindamycin, metronidazole kết hợp với beta-lactam hoặc fluoroquinolone."
+      },
+      {
+        "name": "Dẫn lưu tư thế",
+        "description": "Tư thế nằm sao cho vị trí áp xe thấp hơn phế quản dẫn lưu, giúp thoát mủ tốt hơn, tránh lan sang các thùy phổi khác."
+      },
+      {
+        "name": "Soi phế quản can thiệp",
+        "description": "Hút mủ, rửa và lấy dịch làm xét nghiệm, đặc biệt hữu ích trong trường hợp áp xe lớn hoặc không đáp ứng với kháng sinh."
+      },
+      {
+        "name": "Dẫn lưu qua da dưới hướng dẫn của CT",
+        "description": "Áp dụng cho các áp xe lớn không đáp ứng với điều trị nội khoa hoặc không thể dẫn lưu qua đường phế quản."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật cắt thùy phổi hoặc cắt phần phổi bị tổn thương được chỉ định trong các trường hợp áp xe không đáp ứng với các biện pháp điều trị khác, áp xe do u phổi hoặc dị vật, hoặc khi có biến chứng như chảy máu phổi nặng."
+      }
+    ],
+    "recommendations": [
+      "Bỏ thuốc lá nếu đang hút thuốc",
+      "Uống đủ nước để giúp làm loãng đờm",
+      "Các bài tập hô hấp để cải thiện thoát đờm và phòng ngừa xẹp phổi",
+      "Nâng cao tình trạng dinh dưỡng với chế độ ăn giàu protein và vitamin",
+      "Theo dõi chặt chẽ triệu chứng và tái khám theo lịch hẹn của bác sĩ",
+      "Hoàn thành đầy đủ liệu trình kháng sinh, không tự ý ngừng thuốc khi cảm thấy đỡ hơn"
+    ],
+    "prevention_of_transmission": [
+      "Áp xe phổi không lây truyền trực tiếp từ người sang người",
+      "Che miệng khi ho để tránh phát tán vi khuẩn ra môi trường"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện không có vắc-xin đặc hiệu để phòng ngừa áp xe phổi. Tuy nhiên, vắc-xin phòng cúm và phế cầu có thể giúp giảm nguy cơ nhiễm trùng hô hấp dẫn đến áp xe phổi.",
+      "recommended_for": [
+        "Người trên 65 tuổi",
+        "Người có bệnh phổi mạn tính",
+        "Người suy giảm miễn dịch",
+        "Người có bệnh lý nền khác như đái tháo đường, bệnh tim mạch"
+      ]
+    },
+    "general_recommendations": [
+      "Duy trì vệ sinh răng miệng tốt",
+      "Kiểm soát tốt các bệnh nền như đái tháo đường, COPD",
+      "Hạn chế uống rượu bia quá mức",
+      "Bỏ thuốc lá",
+      "Điều trị sớm và đầy đủ các nhiễm trùng đường hô hấp",
+      "Phòng ngừa hít sặc ở người có rối loạn nuốt"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Áp xe phổi có nguy hiểm không?",
+      "answer": "Có, áp xe phổi là tình trạng nhiễm trùng nghiêm trọng có thể gây ra nhiều biến chứng nguy hiểm như nhiễm khuẩn huyết, tràn dịch màng phổi, suy hô hấp và thậm chí tử vong nếu không được điều trị kịp thời và đúng cách. Tuy nhiên, với sự tiến bộ của y học hiện đại, tỷ lệ tử vong do áp xe phổi đã giảm đáng kể nếu được chẩn đoán và điều trị sớm."
+    },
+    {
+      "question": "Áp xe phổi có chữa khỏi hoàn toàn được không?",
+      "answer": "Trong hầu hết các trường hợp, áp xe phổi có thể chữa khỏi hoàn toàn nếu được chẩn đoán sớm và điều trị đúng phác đồ. Điều trị thường bao gồm kháng sinh trong thời gian dài (4-6 tuần hoặc hơn), kết hợp với các biện pháp hỗ trợ khác. Tuy nhiên, một số trường hợp có thể để lại di chứng như xơ phổi hoặc giãn phế quản tại vị trí áp xe, đặc biệt nếu bệnh được phát hiện muộn hoặc điều trị không đầy đủ."
+    },
+    {
+      "question": "Làm thế nào để phân biệt áp xe phổi với viêm phổi thông thường?",
+      "answer": "Viêm phổi và áp xe phổi đều có triệu chứng như sốt, ho và khó thở. Tuy nhiên, áp xe phổi thường nghiêm trọng hơn và có một số đặc điểm riêng biệt: (1) Ho ra mủ với lượng lớn và có mùi hôi thối, (2) Triệu chứng kéo dài hơn và không đáp ứng với điều trị kháng sinh thông thường cho viêm phổi, (3) X-quang hoặc CT scan cho thấy tổn thương dạng hang có mức nước - hơi trong phổi, không giống với hình ảnh đông đặc của viêm phổi thông thường."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sốt cao, ho và hơi thở có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi", "viêm phế quản", "áp xe phế quản"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, tiểu tiện ít và ho ra mủ có mùi thối. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi hoại tử", "nhiễm khuẩn huyết"]
+    },
+    {
+      "question": "Tôi hay bị đau ngực, ho nhiều và khạc ra mủ màu socola. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi do amip", "áp xe gan vỡ vào phổi", "viêm phổi do amip"]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng sốt cao kéo dài, ho ra mủ và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi hoại tử", "nhiễm trùng hô hấp nặng"]
+    },
+    {
+      "question": "Tôi bị đau ngực dữ dội, ho ra mủ và cảm thấy ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi", "viêm màng phổi"]
+    },
+    {
+      "question": "Tôi có các triệu chứng sốt cao, ho khan và mệt mỏi kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi giai đoạn đầu", "viêm phổi", "lao phổi", "viêm phế quản"]
+    },
+    {
+      "question": "Tôi thấy đau nhói ở ngực, ho ra mủ vàng và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi mủ", "viêm màng phổi"]
+    },
+    {
+      "question": "Tôi hay bị ho, đau tức ngực và khạc ra mủ lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "lao phổi", "giãn phế quản", "ung thư phổi"]
+    },
+    {
+      "question": "Tôi bị sốt cao, ớn lạnh và ho ra mủ có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi do vi khuẩn kỵ khí", "nhiễm trùng hô hấp nặng"]
+    },
+    {
+      "question": "Tôi cảm thấy mệt mỏi, chán ăn và ho ra mủ màu xanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi do Pseudomonas", "viêm phế quản mạn"]
+    },
+    {
+      "question": "Tôi bị đau ngực, khó thở và ho ra mủ vàng như mật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi do áp xe đường mật vỡ", "viêm đường mật cấp", "áp xe gan vỡ vào phổi"]
+    },
+    {
+      "question": "Tôi thấy khó thở, ho khan và sốt cao về đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi giai đoạn đầu", "viêm phổi", "lao phổi", "nhiễm trùng đường hô hấp"]
+    },
+    {
+      "question": "Tôi bị đau tức ngực, ho ra máu và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "lao phổi", "ung thư phổi", "giãn phế quản"]
+    },
+    {
+      "question": "Tôi cảm thấy khó thở tăng lên sau khi ho ra mủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi mủ", "tràn dịch màng phổi"]
+    },
+    {
+      "question": "Tôi bị sốt cao liên tục và ho ra mủ có mùi hôi thối. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi hoại tử", "nhiễm khuẩn kỵ khí đường hô hấp"]
+    },
+    {
+      "question": "Tôi thấy đau ngực, khó thở và ho ra mủ lẫn thức ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi do hít sặc", "viêm phổi hít", "rò thực quản-khí quản"]
+    },
+    {
+      "question": "Tôi bị sốt, ớn lạnh và ho ra mủ màu nâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi hoại tử", "áp xe gan vỡ vào phổi"]
+    },
+    {
+      "question": "Tôi cảm thấy mệt mỏi, chán ăn và khó thở tăng lên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "viêm phổi", "lao phổi", "suy tim"]
+    },
+    {
+      "question": "Tôi bị đau ngực, ho ra mủ và sụt cân nhanh chóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi", "lao phổi", "ung thư phổi", "nhiễm HIV/AIDS"]
+    },
+    {
+      "question": "Tôi thấy khó thở, ho khan kéo dài và sốt nhẹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["áp xe phổi giai đoạn đầu", "viêm phổi không điển hình", "lao phổi", "viêm phế quản"]
+    }
+  ]
+}

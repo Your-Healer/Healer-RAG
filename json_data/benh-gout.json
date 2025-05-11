@@ -1,0 +1,210 @@
+{
+  "disease_id": "benh-gout",
+  "disease_name": "Bệnh Gout",
+  "disease_alternative_names": ["Gút", "Thống phong", "Bệnh gút", "Gout disease"],
+  "disease_definition": "Bệnh gout là một dạng viêm khớp phổ biến do rối loạn chuyển hóa purin, dẫn đến tăng nồng độ axit uric trong máu (tăng uric máu). Khi nồng độ axit uric vượt quá giới hạn hòa tan, các tinh thể natri urat sẽ lắng đọng ở khớp và mô xung quanh, gây ra viêm, đau và dần dần làm hỏng khớp. Bệnh thường diễn tiến qua nhiều giai đoạn, từ tăng uric máu không triệu chứng đến đợt gout cấp tính tái phát và gout mãn tính với các biến chứng nặng.",
+  "symptoms": [
+    {
+      "name": "Tăng axit uric máu không triệu chứng",
+      "description": "Giai đoạn đầu tiên của bệnh gout, người bệnh có nồng độ axit uric trong máu cao nhưng không có triệu chứng lâm sàng. Thời gian này có thể kéo dài nhiều năm trước khi xuất hiện triệu chứng đầu tiên."
+    },
+    {
+      "name": "Đợt gout cấp tính",
+      "description": "Đau khớp dữ dội xảy ra đột ngột, thường vào ban đêm. Khớp sưng, đỏ, nóng và rất đau khi chạm vào. Cơn đau thường đạt đỉnh trong 12-24 giờ và có thể kéo dài vài ngày đến vài tuần nếu không được điều trị."
+    },
+    {
+      "name": "Vị trí đau phổ biến",
+      "description": "Thường ảnh hưởng đến khớp ngón chân cái (khoảng 50% trường hợp), nhưng cũng có thể ảnh hưởng đến cổ chân, gót chân, đầu gối, cổ tay, ngón tay và khuỷu tay."
+    },
+    {
+      "name": "Giai đoạn gout mãn tính",
+      "description": "Sau nhiều đợt gout cấp, các đợt viêm khớp trở nên thường xuyên hơn, kéo dài hơn, và có thể ảnh hưởng đến nhiều khớp cùng lúc. Các khớp bị tổn thương dần dần, giảm biên độ vận động."
+    },
+    {
+      "name": "Hạt tophi",
+      "description": "Các khối cứng dưới da, thường xuất hiện ở tai, ngón tay, ngón chân, bàn chân, khuỷu tay và gót chân. Đây là các khối tinh thể urat tích tụ, có thể gây biến dạng khớp."
+    },
+    {
+      "name": "Khó vận động",
+      "description": "Khi bệnh tiến triển nặng, người bệnh có thể bị hạn chế vận động khớp, khó đi lại, đứng lên, ngồi xuống, cầm nắm vật dụng."
+    },
+    {
+      "name": "Sốt nhẹ và mệt mỏi",
+      "description": "Trong đợt gout cấp, người bệnh có thể bị sốt nhẹ, ớn lạnh, mệt mỏi và cảm giác khó chịu toàn thân."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh gout là hậu quả của rối loạn chuyển hóa purin dẫn đến tăng axit uric máu và lắng đọng tinh thể natri urat trong các mô, đặc biệt là khớp. Purin là chất tự nhiên có trong cơ thể và nhiều thực phẩm, khi chuyển hóa sẽ tạo ra axit uric.",
+    "related_factors": "Tăng axit uric máu xảy ra khi cơ thể sản xuất quá nhiều axit uric hoặc thận không đào thải đủ axit uric, hoặc kết hợp cả hai. Khoảng 90% người bệnh gout có nguyên nhân do thận đào thải axit uric kém, chỉ khoảng 10% do cơ thể sản xuất quá nhiều axit uric.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Giới tính nam (nam giới có nguy cơ mắc gout cao hơn nữ giới 2-6 lần)",
+    "Tuổi (nam giới thường bắt đầu mắc từ 30-50 tuổi, nữ giới thường sau mãn kinh)",
+    "Tiền sử gia đình có người mắc gout (yếu tố di truyền)",
+    "Thừa cân, béo phì",
+    "Chế độ ăn nhiều thực phẩm giàu purin (thịt đỏ, nội tạng động vật, hải sản)",
+    "Uống nhiều rượu bia, đặc biệt là bia và rượu mạnh",
+    "Dùng các loại nước ngọt có chứa đường fructose",
+    "Sử dụng một số loại thuốc như thuốc lợi tiểu, aspirin liều thấp, thuốc ức chế miễn dịch (cyclosporine), niacin",
+    "Mắc các bệnh lý như tăng huyết áp, bệnh thận mãn, đái tháo đường, rối loạn lipid máu, bệnh tim mạch",
+    "Hội chứng chuyển hóa",
+    "Giai đoạn hồi phục sau phẫu thuật hoặc bệnh nặng"
+  ],
+  "complications": [
+    "Gout mãn tính với các hạt tophi gây biến dạng khớp và tàn phế",
+    "Viêm khớp do gout (bào mòn sụn khớp và tổn thương xương)",
+    "Sỏi thận (khoảng 20% người bệnh gout bị sỏi thận)",
+    "Bệnh thận mãn do lắng đọng tinh thể urat trong thận",
+    "Tăng nguy cơ mắc các bệnh tim mạch",
+    "Hội chứng chuyển hóa (tăng nguy cơ mắc đái tháo đường, bệnh tim mạch)",
+    "Nhiễm trùng (khi các hạt tophi vỡ ra, tạo cơ hội cho vi khuẩn xâm nhập)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng",
+      "Tiền sử bệnh và tiền sử gia đình",
+      "Xét nghiệm máu đo nồng độ axit uric",
+      "Chọc hút dịch khớp để tìm tinh thể urat",
+      "Chẩn đoán hình ảnh: X-quang, siêu âm, CT scan hoặc MRI các khớp bị ảnh hưởng"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm nồng độ axit uric trong máu",
+        "description": "Nồng độ axit uric tăng cao (nam >420 μmol/L, nữ >360 μmol/L) là dấu hiệu quan trọng. Tuy nhiên, trong cơn gout cấp, nồng độ axit uric có thể bình thường hoặc thậm chí giảm tạm thời."
+      },
+      {
+        "name": "Chọc hút dịch khớp và phân tích tinh thể",
+        "description": "Đây là phương pháp chẩn đoán xác định, tìm thấy tinh thể natri urat hình kim trong dịch khớp dưới kính hiển vi phân cực."
+      },
+      {
+        "name": "Xét nghiệm chức năng thận",
+        "description": "Đánh giá mức lọc cầu thận và tình trạng bài tiết axit uric qua thận."
+      },
+      {
+        "name": "X-quang khớp",
+        "description": "Có thể phát hiện các tổn thương khớp trong gout mãn tính như hình ảnh khuyết xương (punched-out lesions)."
+      },
+      {
+        "name": "Siêu âm khớp",
+        "description": "Có thể phát hiện dấu hiệu 'dấu hiệu đôi đường' (double contour sign) đặc trưng do lắng đọng tinh thể urat trên bề mặt sụn khớp."
+      },
+      {
+        "name": "CT scan hoặc MRI",
+        "description": "Giúp đánh giá mức độ tổn thương khớp và phân biệt với các bệnh lý khớp khác trong trường hợp chẩn đoán khó."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh gout nhằm ba mục tiêu: (1) điều trị đợt gout cấp để giảm đau và viêm, (2) dự phòng các đợt gout tái phát, và (3) giảm nồng độ axit uric máu để ngăn ngừa biến chứng mãn tính.",
+    "methods": [
+      {
+        "name": "Điều trị đợt gout cấp",
+        "description": "Mục tiêu là giảm đau và viêm càng sớm càng tốt. Các thuốc chống viêm không steroid (NSAIDs), colchicine hoặc corticosteroid thường được sử dụng. Nghỉ ngơi, nâng cao chi bị ảnh hưởng và áp dụng túi chườm lạnh cũng giúp giảm triệu chứng."
+      },
+      {
+        "name": "Điều trị hạ axit uric máu",
+        "description": "Điều trị lâu dài nhằm giảm nồng độ axit uric xuống dưới 360 μmol/L (6 mg/dL), hoặc dưới 300 μmol/L (5 mg/dL) đối với bệnh nặng hoặc có tophi. Thuốc ức chế tổng hợp axit uric (allopurinol, febuxostat) hoặc thuốc tăng đào thải axit uric qua thận (probenecid) thường được sử dụng."
+      },
+      {
+        "name": "Dự phòng đợt gout cấp",
+        "description": "Khi bắt đầu điều trị hạ axit uric, có thể xảy ra đợt gout cấp. Colchicine liều thấp hoặc NSAIDs liều thấp thường được sử dụng trong 6-12 tháng đầu để dự phòng."
+      },
+      {
+        "name": "Điều trị gout mãn tính có tophi",
+        "description": "Điều trị tích cực hạ axit uric máu dài hạn. Trong trường hợp tophi lớn gây biến dạng hoặc loét, có thể cần phẫu thuật để lấy bỏ."
+      },
+      {
+        "name": "Điều trị các bệnh đồng mắc",
+        "description": "Điều trị tăng huyết áp, bệnh thận mãn, đái tháo đường, rối loạn lipid máu và các bệnh lý khác để giảm nguy cơ biến chứng."
+      }
+    ],
+    "recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Tuân thủ chế độ ăn hạn chế purin",
+      "Hạn chế rượu bia, đặc biệt là bia và rượu mạnh",
+      "Tránh các đồ uống có đường fructose",
+      "Uống nhiều nước (2-3 lít/ngày) để giúp thận đào thải axit uric",
+      "Tăng cường tiêu thụ các sản phẩm từ sữa ít béo",
+      "Tránh nhịn đói kéo dài hoặc giảm cân quá nhanh",
+      "Tham khảo ý kiến bác sĩ trước khi sử dụng vitamin C hoặc các thực phẩm chức năng",
+      "Tái khám định kỳ để theo dõi nồng độ axit uric và đánh giá hiệu quả điều trị"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc-xin đặc hiệu để phòng ngừa bệnh gout.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì chế độ ăn cân bằng, hạn chế thực phẩm giàu purin",
+      "Hạn chế tiêu thụ thịt đỏ, hải sản và nội tạng động vật",
+      "Tăng cường rau xanh, trái cây và ngũ cốc nguyên hạt",
+      "Tiêu thụ các sản phẩm sữa ít béo",
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục đều đặn",
+      "Hạn chế rượu bia, đặc biệt là bia và rượu mạnh",
+      "Tránh các đồ uống có đường fructose",
+      "Uống nhiều nước (2-3 lít/ngày)",
+      "Kiểm soát các bệnh lý đi kèm như tăng huyết áp, đái tháo đường, rối loạn lipid máu",
+      "Khám sức khỏe định kỳ để phát hiện sớm tăng axit uric máu"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh gout có chữa khỏi được không?",
+      "answer": "Gout là bệnh mãn tính không có cách chữa khỏi hoàn toàn, nhưng có thể kiểm soát hiệu quả bằng thuốc và thay đổi lối sống. Với điều trị đúng cách, người bệnh có thể sống khỏe mạnh mà không có triệu chứng và tránh được các biến chứng. Việc duy trì nồng độ axit uric máu dưới 360 μmol/L (6 mg/dL) lâu dài là mục tiêu quan trọng trong kiểm soát bệnh."
+    },
+    {
+      "question": "Người bị gout có nên ăn chay không?",
+      "answer": "Ăn chay có thể giúp giảm nguy cơ mắc gout và giảm tần suất các đợt gout cấp vì chế độ ăn chay thường có ít purin hơn so với chế độ ăn có thịt. Tuy nhiên, một số thực phẩm chay như nấm, măng, bắp cải, rau bina và một số loại đậu cũng chứa purin với hàm lượng trung bình. Người bệnh gout nên áp dụng chế độ ăn chay cân bằng, đa dạng và tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng."
+    },
+    {
+      "question": "Bệnh gout có di truyền không?",
+      "answer": "Bệnh gout có yếu tố di truyền. Nghiên cứu cho thấy khoảng 60% bệnh nhân gout có tiền sử gia đình mắc bệnh. Các gen liên quan đến vận chuyển và đào thải axit uric qua thận (như SLC2A9, ABCG2) đã được xác định có liên quan đến nguy cơ mắc gout. Tuy nhiên, yếu tố môi trường và lối sống vẫn đóng vai trò quan trọng trong sự phát triển của bệnh."
+    },
+    {
+      "question": "Người bị gout sống được bao lâu?",
+      "answer": "Bệnh gout tự nó không làm giảm tuổi thọ, nhưng nếu không được điều trị đúng cách có thể dẫn đến các biến chứng như bệnh thận mãn và tăng nguy cơ mắc bệnh tim mạch, từ đó ảnh hưởng đến tuổi thọ. Người bệnh gout được điều trị tốt, kiểm soát nồng độ axit uric máu và các bệnh đồng mắc có thể có tuổi thọ bình thường như những người không mắc bệnh."
+    },
+    {
+      "question": "Gout và bệnh gút khác nhau như thế nào?",
+      "answer": "Gout và gút là cùng một bệnh. Gout là tên gọi trong tiếng Anh, còn gút là cách phiên âm của từ này trong tiếng Việt. Cả hai đều chỉ bệnh lý do rối loạn chuyển hóa purin dẫn đến tăng axit uric máu và lắng đọng tinh thể natri urat trong các khớp và mô, gây viêm và đau."
+    },
+    {
+      "question": "Người bị gout uống rượu bia được không?",
+      "answer": "Người bị gout nên hạn chế tối đa hoặc tốt nhất là tránh hoàn toàn rượu bia, đặc biệt là bia và rượu mạnh. Rượu bia làm tăng sản xuất axit uric và giảm đào thải axit uric qua thận, từ đó tăng nguy cơ đợt gout cấp. Nếu uống rượu, nên giới hạn ở mức tối thiểu (không quá 1 ly/ngày với nữ và 2 ly/ngày với nam) và nên chọn rượu vang đỏ thay vì bia hoặc rượu mạnh."
+    },
+    {
+      "question": "Người bị gout có nên ăn chuối không?",
+      "answer": "Chuối có hàm lượng purin thấp nên an toàn cho người bị gout. Hơn nữa, chuối giàu kali và vitamin C có thể có lợi cho sức khỏe tổng thể và chức năng thận. Tuy nhiên, chuối có chỉ số đường huyết (GI) trung bình, nên những người đang kiểm soát cân nặng hoặc đái tháo đường cần lưu ý về số lượng tiêu thụ."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau khớp dữ dội ở ngón chân cái, sưng tấy và nóng đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Gout", "Viêm khớp nhiễm khuẩn", "Gãy xương ngón chân"]
+    },
+    {
+      "question": "Tôi hay bị đau khớp đột ngột vào ban đêm, đặc biệt là ở khớp gối và khuỷu tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Gout", "Viêm khớp dạng thấp", "Thoái hóa khớp"]
+    },
+    {
+      "question": "Tôi đang có nồng độ acid uric trong máu cao nhưng chưa có triệu chứng gì. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng acid uric máu không triệu chứng", "Bệnh Gout giai đoạn sớm", "Hội chứng chuyển hóa"]
+    },
+    {
+      "question": "Tôi bị đau nhức khớp ngón chân cái, sưng to và đỏ, cảm giác nóng rát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Gout", "Viêm khớp nhiễm khuẩn", "Bệnh cước chi"]
+    },
+    {
+      "question": "Tôi thấy khớp mắt cá chân sưng, đau, đi lại khó khăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Gout", "Viêm khớp dạng thấp", "Bong gân mắt cá chân"]
+    },
+    {
+      "question": "Tôi có các triệu chứng như sưng, nóng, đỏ, đau ở khớp khuỷu tay, cơn đau kéo dài vài ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Gout", "Viêm khớp phản ứng", "Viêm bao hoạt dịch"]
+    }
+  ]
+}

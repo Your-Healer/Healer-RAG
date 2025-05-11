@@ -1,0 +1,170 @@
+{
+  "disease_id": "benh-vong-mac-tieu-duong",
+  "disease_name": "Bệnh võng mạc tiểu đường",
+  "disease_alternative_names": [
+    "Bệnh võng mạc đái tháo đường",
+    "Diabetic Retinopathy"
+  ],
+  "disease_definition": "Bệnh võng mạc tiểu đường là một biến chứng bệnh tiểu đường ảnh hưởng đến mắt. Bệnh xảy ra do tổn thương các mạch máu của võng mạc. Lúc đầu, bệnh võng mạc tiểu đường có thể không gây ra triệu chứng hoặc chỉ có dấu hiệu nhẹ về thị lực. Nhưng lâu dài bệnh có thể gây mù lòa.",
+  "symptoms": [
+    {
+      "name": "Nhìn mờ",
+      "description": "Thị lực giảm sút, khó nhìn rõ các vật thể"
+    },
+    {
+      "name": "Vùng sáng tối",
+      "description": "Xuất hiện những vùng sáng hoặc tối trong tầm nhìn"
+    },
+    {
+      "name": "Khó nhìn ban đêm",
+      "description": "Gặp khó khăn khi nhìn trong điều kiện thiếu ánh sáng"
+    },
+    {
+      "name": "Màu sắc mờ nhòe",
+      "description": "Khó phân biệt và nhìn rõ màu sắc"
+    },
+    {
+      "name": "Thu hẹp tầm nhìn",
+      "description": "Giảm khả năng nhìn ở các góc ngoại vi"
+    }
+  ],
+  "causes": {
+    "main_cause": "Đường trong máu tăng cao trong thời gian dài dẫn đến tắc nghẽn các mạch máu nhỏ nuôi dưỡng võng mạc, cắt nguồn cung cấp máu cho võng mạc.",
+    "related_factors": "Khi thiếu máu nuôi dưỡng, mắt sẽ cố gắng phát triển các mạch máu mới. Nhưng những mạch máu mới không phát triển đúng cách và dễ dàng bị rò rỉ.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Tiểu đường lâu năm",
+      "description": "Người bị tiểu đường càng lâu càng có nguy cơ cao bị biến chứng võng mạc"
+    },
+    {
+      "name": "Tiểu đường thai kỳ",
+      "description": "Phụ nữ mang thai bị tiểu đường có nguy cơ cao phát triển bệnh võng mạc"
+    },
+    {
+      "name": "Kiểm soát đường huyết kém",
+      "description": "Lượng đường trong máu cao không kiểm soát tốt làm tăng nguy cơ tổn thương võng mạc"
+    },
+    {
+      "name": "Huyết áp cao",
+      "description": "Tăng huyết áp làm tăng nguy cơ tổn thương mạch máu võng mạc"
+    },
+    {
+      "name": "Cholesterol cao",
+      "description": "Mức cholesterol cao làm tăng nguy cơ tổn thương mạch máu"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Phù hoàng điểm",
+      "description": "Sưng và tích tụ dịch ở vùng hoàng điểm, ảnh hưởng đến thị lực trung tâm"
+    },
+    {
+      "name": "Thiếu máu cục bộ điểm vàng",
+      "description": "Vùng điểm vàng bị thiếu máu nuôi dưỡng, gây suy giảm thị lực nghiêm trọng"
+    },
+    {
+      "name": "Bong võng mạc",
+      "description": "Võng mạc bị tách khỏi thành sau của mắt, có thể dẫn đến mù lòa nếu không điều trị kịp thời"
+    },
+    {
+      "name": "Mất thị lực",
+      "description": "Giảm thị lực nghiêm trọng do tổn thương võng mạc"
+    },
+    {
+      "name": "Mù lòa",
+      "description": "Mất hoàn toàn thị lực do tổn thương võng mạc không hồi phục"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Soi đáy mắt",
+        "description": "Dùng thuốc nhỏ mắt làm giãn nở đồng tử, bác sĩ sẽ nhìn qua một thấu kính đặc biệt để kiểm tra mắt"
+      },
+      {
+        "name": "Chụp cắt lớp quang học",
+        "description": "Chụp cắt lớp mạch quang học để quan sát kỹ võng mạc, đo mức độ phù của điểm vàng"
+      },
+      {
+        "name": "Chụp mạch OCT",
+        "description": "Giúp bác sĩ xem được mạch máu trong võng mạc có tổn thương hay không, thay thế cho phương pháp chụp mạch huỳnh quang"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Việc đầu tiên mỗi bệnh nhân tiểu đường cần làm là kiểm soát tốt lượng đường trong máu và huyết áp để ngăn chặn mất thị lực.",
+    "methods": [
+      {
+        "name": "Tiêm thuốc vào mắt",
+        "description": "Sử dụng các loại thuốc như avastin, eylea, lucentis để giảm phù điểm vàng, làm chậm quá trình mất thị lực"
+      },
+      {
+        "name": "Laser",
+        "description": "Sử dụng tia laser để làm cho các mạch máu co lại và ngừng rò rỉ, giảm sưng ở võng mạc"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Cắt bỏ dịch kính, sửa các lỗ hổng hoặc vết rách trên võng mạc, giải quyết xuất huyết dịch kính"
+      }
+    ],
+    "recommendations": [
+      "Đeo miếng che mắt sau phẫu thuật",
+      "Sử dụng thuốc nhỏ mắt giảm sưng và ngừa nhiễm trùng",
+      "Tránh các hoạt động nặng",
+      "Nghỉ ngơi 2-4 tuần sau phẫu thuật",
+      "Tái khám thường xuyên"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin phòng ngừa bệnh võng mạc tiểu đường.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Kiểm soát đường huyết ở mức ổn định",
+      "Có chế độ ăn uống lành mạnh",
+      "Hoạt động thể chất phù hợp",
+      "Khám mắt thường xuyên",
+      "Giữ huyết áp và cholesterol ở mức an toàn",
+      "Không hút thuốc lá",
+      "Chú ý đến các dấu hiệu bất thường ở mắt"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Bệnh võng mạc tiểu đường có nguy hiểm không?",
+      "related_diseases": [
+        "đái tháo đường",
+        "tăng huyết áp",
+        "bệnh tim mạch"
+      ]
+    },
+    {
+      "question": "Ai có nguy cơ mắc bệnh võng mạc tiểu đường?",
+      "related_diseases": [
+        "đái tháo đường",
+        "tiểu đường thai kỳ",
+        "tăng huyết áp"
+      ]
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa bệnh võng mạc tiểu đường?",
+      "related_diseases": [
+        "đái tháo đường",
+        "tăng huyết áp",
+        "rối loạn mỡ máu"
+      ]
+    },
+    {
+      "question": "Bệnh võng mạc tiểu đường có chữa được không?",
+      "related_diseases": [
+        "đái tháo đường",
+        "tăng nhãn áp",
+        "bong võng mạc"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "disease_id": "benh-giun-rong",
+  "disease_name": "Bệnh Giun Rồng",
+  "disease_alternative_names": ["Dracunculiasis", "Bệnh Giun Guinea", "Dracontiasis", "Dracunculosis", "Fiery Serpent"],
+  "disease_definition": "Bệnh giun rồng (dracunculiasis) là bệnh nhiễm ký sinh trùng do loài giun tròn Dracunculus medinensis gây ra. Đây là một loại giun tròn ký sinh có kích thước lớn (giun cái dài 60-100cm), sống ký sinh trong mô dưới da con người, thường biểu hiện bằng mụn nước đau đớn, sau đó vỡ ra và giun cái xuất hiện qua vết loét để thải ấu trùng.",
+  "symptoms": [
+    {
+      "name": "Giai đoạn ủ bệnh",
+      "description": "Không có triệu chứng trong khoảng 10-14 tháng sau khi nhiễm bệnh, thời gian giun phát triển và di chuyển trong cơ thể."
+    },
+    {
+      "name": "Triệu chứng báo trước",
+      "description": "Một vài ngày trước khi mụn nước xuất hiện, người bệnh có thể bị sốt, nổi mề đay, ngứa, chóng mặt, buồn nôn, nôn và tiêu chảy."
+    },
+    {
+      "name": "Mụn nước và đau đớn",
+      "description": "Xuất hiện mụn nước đau rát ở vị trí giun đến gần bề mặt da, thường ở chi dưới (cẳng chân, bàn chân). Khi mụn nước vỡ ra, giun cái lộ đầu qua vết thương."
+    },
+    {
+      "name": "Đau đớn và khó chịu",
+      "description": "Cảm giác đau đớn dữ dội và nóng rát khi giun cái di chuyển dưới da và đặc biệt khi mụn nước vỡ ra."
+    },
+    {
+      "name": "Phát ban và dị ứng",
+      "description": "Phản ứng dị ứng toàn thân có thể xuất hiện với các triệu chứng như phát ban, ngứa ngáy, khó thở, chóng mặt."
+    },
+    {
+      "name": "Hạn chế vận động",
+      "description": "Đau đớn làm người bệnh khó khăn trong di chuyển, đặc biệt nếu giun xuất hiện ở chân."
+    }
+  ],
+  "causes": [
+    {
+      "name": "Nước uống bị ô nhiễm",
+      "description": "Nhiễm bệnh chủ yếu do uống nước có chứa giáp xác nhỏ (copepods/bọ chét nước) đã nhiễm ấu trùng giun rồng."
+    },
+    {
+      "name": "Chu kỳ lây nhiễm",
+      "description": "Khi người bệnh ngâm chi có giun vào nước, giun cái sẽ phóng thích ấu trùng vào nước, ấu trùng này sẽ được bọ chét nước ăn vào và tiếp tục chu kỳ lây nhiễm."
+    },
+    {
+      "name": "Ăn thủy sản sống hoặc chưa nấu chín",
+      "description": "Có thể nhiễm bệnh khi ăn cá, ếch hoặc các động vật thủy sinh chưa nấu chín mà có chứa bọ chét nước bị nhiễm ấu trùng."
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Sống ở vùng lưu hành bệnh",
+      "description": "Người dân sống ở các vùng nông thôn, xa xôi hẻo lánh ở châu Phi (như Cộng hòa Chad, Ethiopia, Mali, Nam Sudan), nơi không có nguồn nước sạch."
+    },
+    {
+      "name": "Thiếu tiếp cận nước sạch",
+      "description": "Người phải sử dụng nguồn nước từ ao hồ, giếng nông không được xử lý."
+    },
+    {
+      "name": "Nghề nghiệp",
+      "description": "Nông dân, người chăn nuôi gia súc thường xuyên tiếp xúc với các nguồn nước tự nhiên."
+    },
+    {
+      "name": "Thói quen ăn uống",
+      "description": "Người thường xuyên ăn các loài thủy sinh sống hoặc chưa nấu chín như cá, ếch."
+    }
+  ],
+  "complications": [
+    {
+      "name": "Nhiễm trùng thứ phát",
+      "description": "Khi giun phá vỡ da, vi khuẩn có thể xâm nhập gây nhiễm trùng, áp xe hoặc hoại tử."
+    },
+    {
+      "name": "Viêm khớp và cứng khớp",
+      "description": "Đặc biệt khi giun xuất hiện gần các khớp, có thể gây tổn thương khớp và cứng khớp."
+    },
+    {
+      "name": "Tàn tật tạm thời hoặc vĩnh viễn",
+      "description": "Do nhiễm trùng lan rộng hoặc di chứng sau nhiễm trùng gây tổn thương khớp."
+    },
+    {
+      "name": "Bệnh viêm",
+      "description": "Viêm mô tế bào, viêm tủy xương hoặc viêm màng bao gân."
+    },
+    {
+      "name": "Ảnh hưởng tâm lý",
+      "description": "Đau đớn kéo dài và hạn chế vận động có thể gây trầm cảm và ảnh hưởng đến chất lượng cuộc sống."
+    },
+    {
+      "name": "Nhiễm trùng toàn thân",
+      "description": "Trong trường hợp nặng, nhiễm trùng có thể lan vào máu gây nhiễm trùng huyết."
+    }
+  ],
+  "diagnosis": [
+    {
+      "name": "Chẩn đoán lâm sàng",
+      "description": "Dựa vào tiền sử sống hoặc đi đến vùng lưu hành bệnh, dấu hiệu đặc trưng của mụn nước và giun trưởng thành lộ ra qua vết thương."
+    },
+    {
+      "name": "Xét nghiệm ấu trùng",
+      "description": "Lấy mẫu từ mụn nước hoặc từ nước nơi bệnh nhân ngâm chi bị bệnh để tìm ấu trùng giun rồng dưới kính hiển vi."
+    },
+    {
+      "name": "Siêu âm",
+      "description": "Có thể phát hiện giun trưởng thành trong mô dưới da trước khi xuất hiện triệu chứng."
+    },
+    {
+      "name": "Xét nghiệm máu",
+      "description": "Xét nghiệm máu có thể cho thấy tăng bạch cầu ái toan."
+    },
+    {
+      "name": "Chụp X-quang",
+      "description": "Có thể phát hiện giun đã vôi hóa trong cơ thể."
+    }
+  ],
+  "treatments": [
+    {
+      "name": "Phương pháp cuốn giun truyền thống",
+      "description": "Khi giun lộ ra từ mụn nước, đầu giun được cẩn thận quấn quanh một que nhỏ và kéo ra từ từ mỗi ngày (1-3cm/ngày) cho đến khi toàn bộ giun được lấy ra."
+    },
+    {
+      "name": "Phẫu thuật lấy giun",
+      "description": "Trong một số trường hợp, có thể phẫu thuật để loại bỏ giun, đặc biệt khi giun dài và gây nhiều đau đớn."
+    },
+    {
+      "name": "Vệ sinh vết thương",
+      "description": "Làm sạch và băng bó vết thương để giảm nguy cơ nhiễm trùng thứ phát và ngăn giun thải ấu trùng vào nguồn nước."
+    },
+    {
+      "name": "Kháng sinh",
+      "description": "Sử dụng kháng sinh để điều trị hoặc phòng ngừa nhiễm trùng thứ phát từ vết thương."
+    },
+    {
+      "name": "Thuốc giảm đau và chống viêm",
+      "description": "Các thuốc giảm đau như paracetamol hoặc NSAID để giảm đau và chống viêm khi cần thiết."
+    },
+    {
+      "name": "Vật lý trị liệu",
+      "description": "Phục hồi chức năng sau khi giun được loại bỏ, đặc biệt là cho các khớp bị ảnh hưởng."
+    }
+  ],
+  "preventions": [
+    {
+      "name": "Lọc nước uống",
+      "description": "Lọc nước qua vải dệt mịn hoặc bộ lọc đặc biệt để loại bỏ giáp xác Cyclops chứa ấu trùng giun."
+    },
+    {
+      "name": "Đun sôi nước",
+      "description": "Đun sôi nước trước khi sử dụng để tiêu diệt cả giáp xác và ấu trùng giun."
+    },
+    {
+      "name": "Sử dụng nguồn nước an toàn",
+      "description": "Sử dụng nước từ nguồn an toàn như nước máy, nước giếng khoan được bảo vệ."
+    },
+    {
+      "name": "Tránh tiếp xúc với nguồn nước khi có vết thương",
+      "description": "Người bị bệnh giun rồng không nên ngâm chi vào nguồn nước công cộng để tránh phát tán ấu trùng."
+    },
+    {
+      "name": "Nấu chín thực phẩm",
+      "description": "Nấu chín kỹ cá, ếch và các động vật thủy sinh trước khi ăn để tiêu diệt ấu trùng."
+    },
+    {
+      "name": "Giáo dục cộng đồng",
+      "description": "Tuyên truyền về cách lây truyền của bệnh và các biện pháp phòng ngừa cho cộng đồng."
+    },
+    {
+      "name": "Xử lý nguồn nước",
+      "description": "Sử dụng hóa chất như temephos (abate) để diệt bọ chét nước trong các nguồn nước bị ô nhiễm."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bệnh giun rồng có lây trực tiếp từ người sang người không?",
+      "answer": "Không, bệnh giun rồng không lây trực tiếp từ người sang người. Bệnh chỉ lây qua việc uống nước có chứa bọ chét nước (copepods) đã nhiễm ấu trùng giun rồng."
+    },
+    {
+      "question": "Bệnh giun rồng có phổ biến ở Việt Nam không?",
+      "answer": "Bệnh giun rồng không phải là bệnh lưu hành phổ biến tại Việt Nam. Việt Nam đã ghi nhận ít nhất 4 ca bệnh giun rồng, nhưng hiện nay rất hiếm gặp."
+    },
+    {
+      "question": "Sau khi nhiễm bệnh, bao lâu thì xuất hiện triệu chứng?",
+      "answer": "Thời gian ủ bệnh kéo dài từ 10 đến 14 tháng sau khi nhiễm bệnh. Trong thời gian này, người bệnh không có triệu chứng trong khi giun phát triển và di chuyển trong cơ thể."
+    },
+    {
+      "question": "Làm thế nào để biết nguồn nước có an toàn không?",
+      "answer": "Nguồn nước an toàn phải đáp ứng ít nhất một trong các tiêu chí: đã qua hệ thống xử lý tập trung, từ giếng khoan được bảo vệ, đã được lọc qua bộ lọc chuyên dụng, đã được đun sôi, hoặc đã được xử lý bằng hóa chất diệt giáp xác."
+    },
+    {
+      "question": "Bệnh giun rồng có thể gây tử vong không?",
+      "answer": "Tỷ lệ tử vong do bệnh giun rồng rất thấp, nhưng nếu không được điều trị, bệnh có thể gây ra nhiều biến chứng nghiêm trọng như nhiễm trùng thứ phát, áp xe, và tàn phế, làm ảnh hưởng nghiêm trọng đến chất lượng cuộc sống."
+    },
+    {
+      "question": "Có vaccine phòng ngừa bệnh giun rồng không?",
+      "answer": "Hiện nay chưa có vaccine phòng ngừa bệnh giun rồng. Biện pháp phòng ngừa hiệu quả nhất vẫn là đảm bảo nguồn nước uống an toàn và tránh để người bệnh tiếp xúc với nguồn nước công cộng."
+    },
+    {
+      "question": "Người đã từng mắc bệnh giun rồng có được miễn dịch không?",
+      "answer": "Không, người đã từng mắc bệnh giun rồng không có miễn dịch sau khi khỏi bệnh. Họ vẫn có thể bị tái nhiễm nếu tiếp tục tiếp xúc với nguồn nước nhiễm bẩn."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện vết phồng rộp ở da chân, ngứa dữ dội và đau rát. Tôi có thể đang bị bệnh gì?",
+      "answer": "Triệu chứng của bạn có thể là dấu hiệu của bệnh giun rồng, đặc biệt nếu bạn sống hoặc đã đi đến vùng có nguy cơ cao. Hãy đến cơ sở y tế gần nhất để được khám và chẩn đoán chính xác."
+    },
+    {
+      "question": "Tôi đang cảm thấy tê cứng và ngứa ở vùng da chân, kèm theo sốt nhẹ và tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "answer": "Các triệu chứng này có thể gợi ý nhiều bệnh lý khác nhau, trong đó có thể bao gồm bệnh giun rồng nếu bạn ở vùng có dịch bệnh. Cần đến gặp bác sĩ để được thăm khám và làm các xét nghiệm cần thiết."
+    },
+    {
+      "question": "Tôi đang có một vết sưng tấy ở da chân, tiết ra dịch màu vàng và thấy giun chui ra. Tôi có thể đang bị bệnh gì?",
+      "answer": "Đây là dấu hiệu rất đặc trưng của bệnh giun rồng (dracunculiasis). Bạn cần đến cơ sở y tế ngay để được điều trị kịp thời, tránh nhiễm trùng thứ phát và các biến chứng nguy hiểm."
+    },
+    {
+      "question": "Tôi hay bị nổi mề đay, ban đỏ, kèm theo khó thở và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "answer": "Các triệu chứng này gợi ý một phản ứng dị ứng. Trong trường hợp của bệnh giun rồng, phản ứng dị ứng có thể xảy ra do chất độc từ giun. Tuy nhiên, cũng có nhiều nguyên nhân khác gây nổi mề đay và khó thở. Hãy đến cơ sở y tế ngay để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Tôi bị đau nhức khớp, kèm theo vết phồng rộp ở da chân. Tôi có thể đang bị bệnh gì?",
+      "answer": "Đau nhức khớp kèm vết phồng rộp ở da chân có thể là triệu chứng của nhiều bệnh lý, bao gồm cả bệnh giun rồng nếu giun di chuyển gần khớp. Bạn nên đến gặp bác sĩ để được khám và có chẩn đoán chính xác."
+    }
+  ]
+}

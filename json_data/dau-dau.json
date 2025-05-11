@@ -1,0 +1,335 @@
+{
+  "disease_id": "dau-dau",
+  "disease_name": "Đau Đầu",
+  "disease_alternative_names": ["Nhức đầu", "Headache", "Cephalgia"],
+  "disease_definition": "Đau đầu hay nhức đầu là tình trạng rất phổ biến, có thể gặp phải ở bất cứ đối tượng nào. Tình trạng đau thường xuất hiện ở vùng đầu và mặt. Thỉnh thoảng đau ở vùng cổ trên cũng được xếp vào nhóm đau đầu. Cơn đau có thể xảy ra ở một hoặc cả hai bên đầu, đau tại một vị trí nhất định hoặc tỏa ra khắp đầu. Theo Tổ Chức Y Tế Thế Giới, khoảng 50% người lớn có ít nhất một lần bị đau đầu trong năm.",
+  "symptoms": [
+    {
+      "name": "Đau đầu căng cơ",
+      "description": "Người bệnh bị nhức đầu từ nhẹ đến vừa, cảm giác đầu bị bó, kẹp như có một dải băng quấn căng quanh đầu. Tình trạng đau căng đầu xảy ra ở cả hai bên đầu và thường xuất hiện trong thời gian ngắn."
+    },
+    {
+      "name": "Đau nửa đầu (Migraine)",
+      "description": "Người bệnh bị đau đầu từ vừa đến nặng. Cơn đau chỉ xuất hiện ở một bên đầu, cảm giác dồn dập, người bệnh có thể cảm thấy buồn nôn hoặc nôn khi cơn đau xảy ra. Người bị đau nửa đầu thường nhạy cảm với tiếng ồn, ánh sáng và mùi. Cơn đau có thể kéo dài từ vài giờ đến vài ngày và lặp lại thường xuyên."
+    },
+    {
+      "name": "Đau đầu từng cụm",
+      "description": "Cơn đau nhức nhối bắt đầu ở khu vực phía trong, phía sau hoặc xung quanh một mắt, kéo dài từ 15 phút - 3 giờ. Có thể đi kèm với các triệu chứng sưng mắt, chảy nước mắt, sụp mí, nghẹt mũi, chảy nước mũi ở bên phần đầu bị ảnh hưởng."
+    },
+    {
+      "name": "Đau đầu có tính chất khác nhau",
+      "description": "Cơn đau có thể có cường độ và tính chất khác nhau: đau âm ỉ, đau dữ dội, đau nhói hoặc đau châm chích ở đầu. Cơn đau phát triển dần dần hoặc đột ngột, kéo dài từ vài phút đến vài ngày."
+    }
+  ],
+  "causes": {
+    "main_cause": "Đau đầu có thể do nguyên nhân nguyên phát (không do tổn thương cấu trúc não bộ) và nguyên nhân thứ phát (do một bệnh lý cụ thể gây ra). Đau đầu nguyên phát chiếm khoảng 90% các trường hợp và thường liên quan đến hoạt động hóa học trong não, các dây thần kinh hoặc mạch máu xung quanh hộp sọ hoặc các cơ ở vùng đầu cổ.",
+    "related_factors": "Một số yếu tố lối sống có thể kích hoạt cơn đau đầu như: uống nhiều rượu, bia, đồ uống chứa caffein; thay đổi trong việc ăn uống, ngủ nghỉ; căng thẳng; tư thế không đúng; ánh sáng mạnh, tiếng ồn hoặc thời tiết thay đổi. Đau đầu, đặc biệt là đau nửa đầu, cũng chịu ảnh hưởng bởi yếu tố di truyền.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Phụ nữ (tỷ lệ xuất hiện cơn đau ở nữ giới thường cao hơn nam giới, đặc biệt là chứng đau nửa đầu)",
+    "Người thường xuyên sử dụng rượu, bia, cà phê, thuốc lá và các chất kích thích",
+    "Người hay bị căng thẳng, lo lắng",
+    "Người thường xuyên làm việc với máy tính không nghỉ (nhân viên văn phòng, thiết kế đồ họa, IT)",
+    "Người có bố, mẹ, anh chị em ruột bị mắc chứng đau nửa đầu",
+    "Phụ nữ trong thời kỳ hành kinh hoặc mãn kinh (do thay đổi hormone)",
+    "Người thường xuyên làm việc trong môi trường có ánh sáng mạnh, tiếng ồn lớn"
+  ],
+  "complications": [
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Gây khó khăn trong học tập, công việc và các hoạt động hàng ngày",
+    "Có thể là dấu hiệu của các bệnh lý nghiêm trọng (trong trường hợp đau đầu thứ phát)",
+    "Lệ thuộc vào thuốc giảm đau nếu sử dụng quá nhiều",
+    "Trầm cảm và lo âu do phải chịu đựng cơn đau kéo dài"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và hỏi về đặc điểm của cơn đau (cường độ, tần suất, thời gian mỗi lần đau)",
+      "Tiền sử bệnh và các yếu tố kích hoạt cơn đau",
+      "Khám toàn thân, đặc biệt là hệ tim mạch và đo huyết áp",
+      "Khám thần kinh để loại trừ các bệnh lý thần kinh",
+      "Khám chuyên khoa (mắt, tai mũi họng, nha khoa) khi cần thiết"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp loại trừ các bệnh lý có thể gây đau đầu như nhiễm trùng, thiếu máu, rối loạn nội tiết."
+      },
+      {
+        "name": "Chụp CT hoặc MRI đầu",
+        "description": "Giúp phát hiện các tổn thương não, xuất huyết, u não hoặc các bất thường khác có thể gây đau đầu."
+      },
+      {
+        "name": "Chọc dò tủy sống",
+        "description": "Được thực hiện khi nghi ngờ viêm màng não hoặc xuất huyết dưới nhện."
+      },
+      {
+        "name": "Ghi điện não",
+        "description": "Giúp đánh giá hoạt động điện của não và phát hiện các bất thường có thể gây đau đầu."
+      },
+      {
+        "name": "Chụp X-quang hộp sọ và cột sống cổ",
+        "description": "Giúp phát hiện các bất thường về cấu trúc xương sọ, cột sống cổ có thể gây đau đầu."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Việc đầu tiên cần thiết nhất khi bị đau đầu là người bệnh cần dành thời gian nghỉ ngơi, thư giãn và tránh căng thẳng tâm lý. Sau đó, tùy vào nguyên nhân gây đau nhức, bác sĩ sẽ chỉ định phương pháp điều trị phù hợp cho người bệnh.",
+    "methods": [
+      {
+        "name": "Sử dụng thuốc giảm đau không kê đơn",
+        "description": "Các thuốc như aspirin, acetaminophen (Tylenol) hoặc ibuprofen (Advil) thường được sử dụng để giảm đau đầu căng cơ. Tuy nhiên, không nên lạm dụng các loại thuốc này vì có thể dẫn đến tình trạng đau đầu mãn tính."
+      },
+      {
+        "name": "Sử dụng thuốc theo toa",
+        "description": "Đối với những cơn đau đầu thường xuyên hoặc nghiêm trọng, bác sĩ có thể chỉ định các loại thuốc như Sumatriptan (đối với chứng đau nửa đầu), thuốc chẹn beta, thuốc chống trầm cảm, thuốc chống động kinh, v.v."
+      },
+      {
+        "name": "Biofeedback (Phản hồi sinh học)",
+        "description": "Kỹ thuật giúp người bệnh kiểm soát tốt hơn chức năng sinh lý học của cơ thể, từ đó có thể giảm đau mà không cần dùng thuốc."
+      },
+      {
+        "name": "Liệu pháp châm cứu",
+        "description": "Việc đưa kim châm đặc biệt vào các huyệt đạo của cơ thể có thể giúp giảm đau và giải tỏa căng thẳng."
+      },
+      {
+        "name": "Thiền định và thư giãn",
+        "description": "Có tác dụng giải tỏa căng thẳng, cải thiện giấc ngủ và kiểm soát cơn đau."
+      },
+      {
+        "name": "Chườm nóng/lạnh",
+        "description": "Chườm nóng hoặc lạnh lên đầu và cổ trong 5-10 phút nhiều lần trong ngày có thể giúp giảm đau đầu hiệu quả."
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi trong phòng tối và yên tĩnh khi có cơn đau đầu",
+      "Uống nhiều nước để tránh mất nước",
+      "Tránh các yếu tố kích thích gây đau đầu đã được xác định",
+      "Duy trì giấc ngủ đều đặn và đủ giấc",
+      "Tập thể dục nhẹ nhàng và đều đặn",
+      "Ghi chép lại các cơn đau để xác định nguyên nhân và yếu tố kích thích",
+      "Tránh ăn các thực phẩm có thể gây kích thích như chocolate, hạt điều, hành tây",
+      "Hạn chế sử dụng caffeine và rượu bia",
+      "Chỉ sử dụng thuốc giảm đau theo chỉ định của bác sĩ",
+      "Bổ sung các vitamin và khoáng chất như Coenzyme Q10, Magie, Vitamin B2 theo hướng dẫn của bác sĩ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa đau đầu.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Học cách quản lý căng thẳng và sử dụng các phương pháp đối phó lành mạnh",
+      "Xây dựng chế độ ăn uống khoa học, đủ chất, ăn điều độ, không bỏ bữa",
+      "Uống đủ nước, đặc biệt trong những ngày nóng bức",
+      "Ngủ đủ giấc (7-8 tiếng mỗi đêm)",
+      "Tập thể dục thường xuyên (ít nhất 3 lần/tuần, mỗi lần 30 phút)",
+      "Hạn chế uống rượu, bia, các thức uống chứa chất kích thích như caffeine",
+      "Tạo khoảng thời gian nghỉ ngơi ngắn trong lúc làm việc",
+      "Duy trì tư thế đúng khi làm việc hoặc học tập",
+      "Kiểm tra thị lực định kỳ để điều chỉnh kính đúng độ nếu cần",
+      "Hạn chế tiếp xúc với ánh sáng mạnh, tiếng ồn lớn và các yếu tố kích thích khác"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Khi nào cần đến bệnh viện khi bị đau đầu?",
+      "answer": "Bạn nên đến cơ sở y tế thăm khám ngay lập tức nếu gặp phải những dấu hiệu sau: cơn đau xảy ra đột ngột, trở nặng trong vòng vài giây hoặc vài phút; đau đầu nặng kèm theo sốt hoặc cứng cổ; có tình trạng co giật, thay đổi tính cách, lú lẫn hoặc ngất xỉu; cơn đau xuất hiện nhanh chóng sau khi tập thể dục gắng sức hoặc chấn thương nhẹ; đau đầu mới xuất hiện, đi kèm biểu hiện yếu, tê tay chân, nhìn mờ. Ngoài ra, nếu cơn đau đầu xuất hiện dai dẳng, thường xuyên, gây cản trở các hoạt động bình thường hoặc nặng dần theo thời gian, bạn cũng nên đến gặp bác sĩ sớm."
+    },
+    {
+      "question": "Làm thế nào để phân biệt giữa đau đầu thông thường và đau đầu nguy hiểm?",
+      "answer": "Đau đầu thông thường thường xuất hiện từ từ, có thể kèm theo căng thẳng hoặc cảm cúm, thường đáp ứng với thuốc giảm đau thông thường và nghỉ ngơi. Đau đầu nguy hiểm thường xuất hiện đột ngột, dữ dội (\"cơn đau đầu tồi tệ nhất từng trải qua\"), kèm theo các triệu chứng như sốt cao, cứng cổ, thay đổi ý thức, buồn nôn và nôn mửa không liên quan đến các bệnh khác, yếu liệt hoặc tê bì ở một bên cơ thể, khó nói hoặc hiểu lời nói, thay đổi thị lực. Nếu bạn gặp phải bất kỳ dấu hiệu nào của đau đầu nguy hiểm, hãy đến cơ sở y tế ngay lập tức."
+    },
+    {
+      "question": "Có những loại đau đầu nào phổ biến?",
+      "answer": "Có ba loại đau đầu phổ biến nhất là: 1) Đau đầu căng cơ: biểu hiện bằng cảm giác nhức nhẹ đến vừa, cảm giác bị siết chặt quanh đầu như một dải băng. 2) Đau nửa đầu (Migraine): đau nhiều ở một bên đầu, kèm theo buồn nôn, nhạy cảm với ánh sáng và âm thanh. 3) Đau đầu từng cụm: đau dữ dội ở một bên đầu, thường ở quanh mắt, kèm theo chảy nước mắt, nghẹt mũi, đỏ mắt ở bên bị đau. Mỗi loại đau đầu có nguyên nhân, đặc điểm và cách điều trị khác nhau."
+    },
+    {
+      "question": "Làm thế nào để giảm đau đầu tại nhà?",
+      "answer": "Một số cách giảm đau đầu tại nhà hiệu quả bao gồm: nghỉ ngơi trong phòng tối và yên tĩnh; chườm lạnh hoặc ấm lên vùng đau; uống nhiều nước; dùng thuốc giảm đau không kê đơn như acetaminophen hoặc ibuprofen (theo hướng dẫn); thực hành các kỹ thuật thư giãn như hít thở sâu hoặc thiền; massage nhẹ vùng thái dương, trán, vai và cổ; tránh các yếu tố kích thích như ánh sáng mạnh, âm thanh lớn, mùi nồng; và tạm dừng các hoạt động gây căng thẳng. Nếu cơn đau không giảm sau 2-3 ngày hoặc trở nên nghiêm trọng hơn, hãy đi khám bác sĩ."
+    },
+    {
+      "question": "Làm thế nào để ngăn ngừa đau đầu tái phát?",
+      "answer": "Để ngăn ngừa đau đầu tái phát, bạn cần: Xác định và tránh các yếu tố kích thích gây đau đầu (như thực phẩm, đồ uống, mùi hương, ánh sáng, tiếng ồn); duy trì lịch trình ngủ đều đặn; ăn uống điều độ, không bỏ bữa; uống đủ nước; quản lý stress hiệu quả; tập thể dục đều đặn; hạn chế caffeine và rượu; duy trì tư thế đúng khi làm việc; nghỉ giải lao thường xuyên khi làm việc với máy tính; và tuân theo kế hoạch điều trị mà bác sĩ đã đề ra, bao gồm cả việc dùng thuốc dự phòng nếu được chỉ định."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu từ nhẹ đến vừa, cảm giác đầu bị bó chặt như có dải băng quấn quanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau đầu do căng thẳng",
+        "đau đầu do thiếu ngủ",
+        "đau đầu do mất nước"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu ở cả hai bên, kéo dài trong thời gian ngắn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau đầu do căng thẳng",
+        "đau đầu do mệt mỏi",
+        "đau đầu do viêm xoang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu dữ dội chỉ ở một bên, kèm theo buồn nôn và nhạy cảm với ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau nửa đầu (migraine)",
+        "đau đầu vận mạch",
+        "đau đầu do thần kinh tam thoa",
+        "đau đầu do tăng huyết áp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức đầu từng cơn, kéo dài vài giờ đến vài ngày và lặp lại thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "đau đầu mạn tính",
+        "đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức nhối phía sau mắt, kéo dài khoảng 15 phút đến 3 giờ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu từng cụm",
+        "đau đầu do viêm xoang",
+        "đau đầu sau nhãn cầu",
+        "đau mắt do tăng nhãn áp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu kèm theo sưng mắt, chảy nước mắt và nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu từng cụm",
+        "viêm xoang",
+        "viêm kết mạc",
+        "dị ứng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu đi kèm với sụp mí mắt ở bên phần đầu bị ảnh hưởng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["đau đầu từng cụm", "nhược cơ", "đột quỵ", "u não"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu và cần biết cách điều trị hiệu quả. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu và muốn biết cách ngăn ngừa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đỉnh đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau đầu do căng thẳng",
+        "đau đầu do thiếu ngủ",
+        "đau đầu do mất nước"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu và muốn biết nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu và cần lưu ý những triệu chứng nào? Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "u não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu và muốn biết có bao nhiêu loại đau đầu khác nhau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu và muốn biết biểu hiện của từng loại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu và muốn biết loại đau đầu phổ biến. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu và muốn xác định loại đau đầu mình đang gặp phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu và muốn biết phương án điều trị phù hợp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu và muốn biết cách phân biệt các loại đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "đau đầu do căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu và muốn biết mức độ nghiêm trọng của từng loại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "u não"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu và muốn biết khi nào cần đi khám bác sĩ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu căng cơ",
+        "đau nửa đầu (migraine)",
+        "đau đầu từng cụm",
+        "u não"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "disease_id": "cham-kinh",
+  "disease_name": "Chậm Kinh",
+  "disease_alternative_names": [
+    "Vô kinh",
+    "Amenorrhea",
+    "Thiếu kinh",
+    "Rối loạn kinh nguyệt"
+  ],
+  "disease_definition": "Chậm kinh là tình trạng không có kinh nguyệt hoặc không có chu kỳ kinh nguyệt đều đặn. Có hai loại chậm kinh: Chậm kinh nguyên phát (không có kinh lần nào cho đến 16 tuổi) và chậm kinh thứ phát (không có kinh trong 3 chu kỳ liên tiếp hoặc 6 tháng ở phụ nữ đã từng có kinh). Tình trạng này có thể do nhiều nguyên nhân như rối loạn nội tiết, căng thẳng, luyện tập quá mức, các bệnh lý nội khoa hoặc thay đổi sinh lý tự nhiên.",
+  "symptoms": [
+    {
+      "name": "Không có kinh nguyệt",
+      "description": "Không có hiện tượng ra máu kinh theo chu kỳ hàng tháng như bình thường."
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Cảm giác đau, nhức ở vùng đầu, có thể kèm theo chóng mặt."
+    },
+    {
+      "name": "Đau vú",
+      "description": "Cảm giác căng tức, đau nhức ở vùng ngực, tuyến vú, thường tăng lên khi chạm vào."
+    },
+    {
+      "name": "Thay đổi tâm trạng",
+      "description": "Cảm xúc không ổn định, dễ cáu gắt, buồn bã, lo âu không có lý do rõ ràng."
+    },
+    {
+      "name": "Nổi mụn",
+      "description": "Xuất hiện mụn trứng cá, mụn nhọt trên da, đặc biệt là vùng mặt."
+    },
+    {
+      "name": "Tăng cân",
+      "description": "Tăng cân không rõ nguyên nhân mặc dù không thay đổi chế độ ăn uống và vận động."
+    },
+    {
+      "name": "Cơ thể có lông nhiều bất thường",
+      "description": "Xuất hiện nhiều lông ở những vùng không bình thường như mặt, ngực, lưng ở nữ giới."
+    }
+  ],
+  "causes": {
+    "main_cause": "Chậm kinh xảy ra khi có sự thay đổi trong cơ chế điều hòa nội tiết tố của cơ thể, đặc biệt là sự mất cân bằng của các hormone estrogen và progesterone – những hormone chịu trách nhiệm cho chu kỳ kinh nguyệt bình thường.",
+    "related_factors": "Nguyên nhân của chậm kinh rất đa dạng, từ những thay đổi sinh lý tự nhiên như mang thai, cho con bú, mãn kinh đến các yếu tố bệnh lý như rối loạn nội tiết, buồng trứng đa nang, suy giảm chức năng buồng trứng sớm, bệnh lý tuyến giáp, rối loạn ăn uống, căng thẳng kéo dài, vận động quá mức, sụt cân đột ngột, sử dụng thuốc hoặc các bệnh lý mãn tính.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Căng thẳng, lo âu kéo dài",
+    "Tập luyện thể thao quá mức",
+    "Giảm cân đột ngột hoặc sụt cân nhiều",
+    "Rối loạn ăn uống (biếng ăn tâm thần, chứng ăn vô độ thần kinh)",
+    "Béo phì hoặc thừa cân",
+    "Sử dụng thuốc ngừa thai hoặc một số loại thuốc khác",
+    "Tiền sử các bệnh lý về nội tiết",
+    "Tiền sử phẫu thuật vùng chậu hoặc buồng trứng",
+    "Tiền sử hóa trị hoặc xạ trị"
+  ],
+  "complications": [
+    "Vô sinh hoặc khó thụ thai",
+    "Loãng xương do thiếu estrogen",
+    "Tăng nguy cơ bệnh tim mạch",
+    "Thay đổi tâm lý, trầm cảm",
+    "Tăng nguy cơ ung thư nội mạc tử cung (trong một số trường hợp)",
+    "Rối loạn chuyển hóa và tăng cân",
+    "Rối loạn giấc ngủ"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám phụ khoa tổng quát",
+      "Hỏi bệnh sử về chu kỳ kinh nguyệt",
+      "Đánh giá các triệu chứng và dấu hiệu lâm sàng",
+      "Xác định nguyên nhân tiềm ẩn thông qua các xét nghiệm"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm nội tiết",
+        "description": "Kiểm tra nồng độ các hormone như FSH, LH, estrogen, progesterone, prolactin, testosterone và các hormone tuyến giáp (TSH, T3, T4)."
+      },
+      {
+        "name": "Xét nghiệm thai",
+        "description": "Kiểm tra hormone beta-hCG trong máu hoặc nước tiểu để loại trừ khả năng mang thai."
+      },
+      {
+        "name": "Siêu âm vùng chậu",
+        "description": "Kiểm tra tử cung, buồng trứng và các cơ quan sinh sản để phát hiện bất thường như u xơ tử cung, buồng trứng đa nang, u nang buồng trứng."
+      },
+      {
+        "name": "Chụp X-quang sọ não hoặc MRI",
+        "description": "Được thực hiện khi nghi ngờ có khối u tuyến yên hoặc bất thường ở hệ thần kinh trung ương."
+      },
+      {
+        "name": "Nội soi buồng tử cung",
+        "description": "Kiểm tra bên trong tử cung để phát hiện những bất thường như dính buồng tử cung, polyp nội mạc."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị chậm kinh phụ thuộc vào nguyên nhân gây bệnh. Nếu chậm kinh do các thay đổi sinh lý tự nhiên như mang thai, cho con bú, hoặc mãn kinh, thì không cần điều trị. Trong các trường hợp khác, điều trị sẽ nhắm vào nguyên nhân cụ thể.",
+    "methods": [
+      {
+        "name": "Điều chỉnh lối sống",
+        "description": "Giảm cân (nếu thừa cân), tăng cân (nếu thiếu cân), giảm cường độ tập luyện, quản lý stress, cải thiện chế độ ăn uống."
+      },
+      {
+        "name": "Liệu pháp hormone",
+        "description": "Sử dụng thuốc nội tiết như estrogen, progesterone hoặc thuốc uống tránh thai kết hợp để điều hòa chu kỳ kinh nguyệt."
+      },
+      {
+        "name": "Điều trị theo nguyên nhân",
+        "description": "Nếu chậm kinh do buồng trứng đa nang, bệnh tuyến giáp, hoặc tăng prolactin, việc điều trị sẽ tập trung vào các bệnh lý nền này."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp như dính buồng tử cung, polyp nội mạc, u xơ tử cung, cần can thiệp phẫu thuật để khôi phục chu kỳ kinh nguyệt bình thường."
+      }
+    ],
+    "recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục vừa phải, không quá mức",
+      "Áp dụng các kỹ thuật giảm stress như yoga, thiền",
+      "Ăn uống đầy đủ dinh dưỡng, cân đối",
+      "Tránh hút thuốc và hạn chế rượu bia",
+      "Khám phụ khoa định kỳ",
+      "Uống thuốc theo đúng chỉ định của bác sĩ",
+      "Theo dõi chu kỳ kinh nguyệt bằng cách ghi lại ngày bắt đầu, kết thúc và các triệu chứng kèm theo"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa tình trạng chậm kinh.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Thực hiện chế độ ăn uống cân bằng, đủ dinh dưỡng",
+      "Tập thể dục đều đặn nhưng không quá mức",
+      "Quản lý stress hiệu quả",
+      "Khám phụ khoa định kỳ",
+      "Theo dõi chu kỳ kinh nguyệt",
+      "Tránh sử dụng các chất kích thích như thuốc lá, rượu bia",
+      "Điều trị kịp thời các rối loạn nội tiết",
+      "Tuân thủ hướng dẫn của bác sĩ khi sử dụng các biện pháp tránh thai"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Chậm kinh có thể tự khỏi không?",
+      "answer": "Tùy thuộc vào nguyên nhân, chậm kinh có thể tự khỏi trong một số trường hợp. Ví dụ, nếu chậm kinh do căng thẳng, luyện tập quá mức, hoặc sụt cân đột ngột, kinh nguyệt có thể trở lại bình thường khi các yếu tố này được cải thiện. Tuy nhiên, nếu chậm kinh do các bệnh lý nền như buồng trứng đa nang, suy giảm chức năng buồng trứng sớm, hoặc các vấn đề cấu trúc, thì thường cần can thiệp y tế để khôi phục chu kỳ kinh nguyệt."
+    },
+    {
+      "question": "Khi nào nên đi khám bác sĩ nếu bị chậm kinh?",
+      "answer": "Bạn nên đến gặp bác sĩ nếu: Bạn đã 16 tuổi nhưng chưa có kinh lần nào (chậm kinh nguyên phát); Bạn đã từng có kinh nhưng kinh nguyệt không đều hoặc bạn bị mất kinh trong 3 chu kỳ liên tiếp hoặc 6 tháng (chậm kinh thứ phát); Bạn bị chậm kinh kèm theo các triệu chứng khác như đau đầu dữ dội, thay đổi thị lực, tiết sữa bất thường, nóng bừng, khô âm đạo, xuất hiện nhiều lông bất thường, hoặc có dấu hiệu nam tính hóa; Bạn đang cố gắng có thai nhưng gặp khó khăn."
+    },
+    {
+      "question": "Chậm kinh có ảnh hưởng đến khả năng sinh sản không?",
+      "answer": "Có, chậm kinh có thể ảnh hưởng đến khả năng sinh sản tùy thuộc vào nguyên nhân gây bệnh. Nhiều nguyên nhân gây chậm kinh như buồng trứng đa nang, suy buồng trứng sớm, rối loạn chức năng tuyến yên, dính buồng tử cung... đều có thể gây khó khăn trong việc thụ thai. Tuy nhiên, không phải tất cả các trường hợp chậm kinh đều dẫn đến vô sinh. Với sự điều trị phù hợp, nhiều phụ nữ bị chậm kinh vẫn có thể mang thai thành công. Nếu bạn bị chậm kinh và đang muốn có thai, hãy tham khảo ý kiến của bác sĩ để được tư vấn và hỗ trợ."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi đã 17 tuổi nhưng vẫn chưa có kinh lần nào. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chậm kinh nguyên phát",
+        "bất thường về cấu trúc sinh dục",
+        "rối loạn nội tiết",
+        "hội chứng Turner",
+        "suy buồng trứng"
+      ]
+    },
+    {
+      "question": "Tôi đã không có kinh trong 4 tháng qua mặc dù trước đây kinh đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chậm kinh thứ phát",
+        "mang thai",
+        "hội chứng buồng trứng đa nang",
+        "rối loạn tuyến giáp",
+        "tăng prolactin"
+      ]
+    },
+    {
+      "question": "Tôi đang bị tăng cân, mọc nhiều lông bất thường và kinh nguyệt không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hội chứng buồng trứng đa nang",
+        "chậm kinh",
+        "rối loạn nội tiết",
+        "cường androgen",
+        "hội chứng Cushing"
+      ]
+    },
+    {
+      "question": "Tôi đang tập thể dục cường độ cao và gần đây kinh nguyệt của tôi đã ngừng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chậm kinh do tập luyện",
+        "rối loạn ăn uống ở vận động viên",
+        "thiếu cân",
+        "suy dinh dưỡng",
+        "căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi bị đau đầu, mệt mỏi và kinh nguyệt không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "rối loạn tuyến giáp",
+        "chậm kinh",
+        "thiếu máu",
+        "căng thẳng",
+        "u tuyến yên"
+      ]
+    },
+    {
+      "question": "Tôi đang cho con bú và vẫn chưa có kinh trở lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chậm kinh do cho con bú",
+        "tăng prolactin",
+        "rối loạn nội tiết sau sinh",
+        "mãn kinh sớm",
+        "stress sau sinh"
+      ]
+    },
+    {
+      "question": "Tôi gần đây bị sụt cân nhiều và kinh nguyệt đã ngừng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chậm kinh do sụt cân",
+        "rối loạn ăn uống",
+        "biếng ăn tâm thần",
+        "căng thẳng",
+        "bệnh mãn tính"
+      ]
+    },
+    {
+      "question": "Tôi đang có triệu chứng nóng bừng, đổ mồ hôi đêm và kinh nguyệt không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tiền mãn kinh",
+        "chậm kinh",
+        "rối loạn tuyến giáp",
+        "mãn kinh sớm",
+        "suy buồng trứng"
+      ]
+    },
+    {
+      "question": "Tôi bị tiết sữa bất thường và không có kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tăng prolactin",
+        "chậm kinh",
+        "u tuyến yên",
+        "rối loạn tuyến giáp",
+        "thuốc gây tiết sữa"
+      ]
+    },
+    {
+      "question": "Tôi bị đau bụng dưới và không có kinh trong 3 tháng qua. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "u xơ tử cung",
+        "chậm kinh",
+        "u nang buồng trứng",
+        "bệnh viêm vùng chậu",
+        "lạc nội mạc tử cung"
+      ]
+    }
+  ]
+}

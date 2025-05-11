@@ -1,0 +1,301 @@
+{
+  "disease_id": "dau-dau-migraine",
+  "disease_name": "Đau Đầu Migraine",
+  "disease_alternative_names": [
+    "Hội chứng đau nửa đầu",
+    "Migraine",
+    "Đau nửa đầu"
+  ],
+  "disease_definition": "Đau đầu migraine là tình trạng các cơn đau đầu dữ dội, cảm giác nhói theo từng đợt, xuất hiện chỉ ở một bên đầu và đi kèm với cảm giác buồn nôn, rối loạn thị lực, nhạy cảm với ánh sáng và âm thanh. Migraine là bệnh lý thần kinh mãn tính có thể gây ảnh hưởng nghiêm trọng đến chất lượng cuộc sống, có thể tái phát nhiều lần với tần suất dao động từ 1-2 lần mỗi năm đến 2-3 lần mỗi tuần.",
+  "symptoms": [
+    {
+      "name": "Giai đoạn tiền triệu (Prodrome)",
+      "description": "Kéo dài từ vài giờ đến vài ngày (24-48 giờ) trước khi cơn đau đầu xuất hiện. Có thể có các triệu chứng như khát dữ dội, thèm ăn một số thực phẩm nhất định hoặc chán ăn, thay đổi tâm trạng, dễ nổi nóng và cáu kỉnh, mệt mỏi và ngáp nhiều, cứng cơ đặc biệt ở vùng cổ, táo bón hoặc tiêu chảy, đi tiểu thường xuyên, nhạy cảm với ánh sáng, âm thanh hoặc mùi."
+    },
+    {
+      "name": "Giai đoạn Aura",
+      "description": "Kéo dài 5-60 phút trước cơn đau. Chỉ 10-25% bệnh nhân trải qua giai đoạn này. Bao gồm các rối loạn thị giác (xuất hiện điểm mù, mất thị lực tạm thời, nhìn thấy đốm sáng), các rối loạn giác quan-vận động (ảo giác, tê bì chân tay, yếu một phần cơ thể), và rối loạn ngôn ngữ (nói lầm bầm, nói lắp, khó tìm từ)."
+    },
+    {
+      "name": "Giai đoạn tấn công (Attack)",
+      "description": "Kéo dài từ 4 đến 72 giờ. Đau nhói chỉ ở một nửa đầu, trầm trọng hơn khi di chuyển. Nhạy cảm với ánh sáng, mùi, âm thanh. Thị lực sa sút, ảo giác, hoa mắt, chóng mặt. Đau bụng, buồn nôn, nôn. Căng cứng ở vai và cổ. Dễ ngáp, cáu kỉnh."
+    },
+    {
+      "name": "Giai đoạn sau cơn đau (Postdrome)",
+      "description": "Kéo dài 24-48 giờ sau khi cơn đau kết thúc. Cơ thể đau nhức, kiệt sức, yếu đuối. Hoang mang, khó tập trung. Chóng mặt, trầm cảm. Cử động đầu đột ngột có thể khiến cơn đau quay lại trong thời gian ngắn."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính xác của đau đầu migraine chưa được xác định hoàn toàn, nhưng được cho là do sự kết hợp của các yếu tố di truyền và môi trường. Theo các nghiên cứu, migraine liên quan đến sự thay đổi trong hoạt động của các mạch máu và chất dẫn truyền thần kinh trong não.",
+    "related_factors": "Các yếu tố góp phần gây đau đầu migraine bao gồm giới tính (phụ nữ có nguy cơ cao hơn nam giới), tuổi tác (thường bắt đầu ở tuổi 20, phổ biến nhất ở tuổi 40, giảm dần sau 45-50 tuổi), di truyền (70% bệnh nhân có người thân cũng bị migraine), thay đổi nội tiết tố (đặc biệt là estrogen), và tác dụng phụ của thuốc.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Giới tính nữ (phụ nữ có nguy cơ cao gấp 3 lần nam giới)",
+    "Tiền sử gia đình có người bị đau đầu migraine",
+    "Thay đổi nội tiết tố (dậy thì, mang thai, tiền mãn kinh)",
+    "Lạm dụng rượu và caffeine",
+    "Chế độ ăn thiếu khoa học (ăn uống thất thường, bỏ bữa, thực phẩm chứa nhiều chất bảo quản)",
+    "Môi trường có ánh sáng quá sáng, ánh sáng nhấp nháy, âm thanh lớn",
+    "Thay đổi thời tiết đột ngột",
+    "Căng thẳng và lo âu",
+    "Thiếu ngủ hoặc ngủ quá nhiều"
+  ],
+  "complications": [
+    "Động kinh (co giật ở một phần cơ thể, thường xảy ra trong hoặc sau cơn đau migraine tiền triệu)",
+    "Đột quỵ do nhồi máu tĩnh mạch (Migrainous Infarction)",
+    "Đau đầu migraine trạng thái (Status Migrainosus) - cơn đau kéo dài hơn 72 giờ",
+    "Hội chứng Serotonin (do tương tác thuốc Triptan với thuốc chống trầm cảm)",
+    "Đau dạ dày (do tác dụng phụ của thuốc giảm đau)",
+    "Tăng nguy cơ đột quỵ và đau tim (tăng 42% theo báo cáo của Trường Y Harvard)",
+    "Ảnh hưởng nghiêm trọng đến chất lượng cuộc sống"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và đánh giá triệu chứng",
+      "Phân loại theo tiêu chuẩn của Hiệp Hội Đau Đầu Quốc tế (IHS)",
+      "Loại trừ các nguyên nhân gây đau đầu khác",
+      "Đánh giá lịch sử các cơn đau và các yếu tố kích hoạt"
+    ],
+    "tests": [
+      {
+        "name": "Chẩn đoán đau đầu migraine không tiền triệu",
+        "description": "Theo tiêu chuẩn của Hiệp Hội Đau Đầu Quốc tế (IHS), bệnh nhân phải đã trải qua ít nhất 5 cơn đau, kéo dài 4-72 giờ, có ít nhất 2 trong 4 đặc điểm (đau một bên đầu, đau nhói theo nhịp mạch, cường độ trung bình đến nghiêm trọng, đau tăng khi vận động), và kèm theo ít nhất 1 trong 4 triệu chứng (buồn nôn, nôn, nhạy cảm với ánh sáng, nhạy cảm với âm thanh)."
+      },
+      {
+        "name": "Chẩn đoán đau đầu migraine có tiền triệu",
+        "description": "Cần có ít nhất 2 đợt đau đầu với ít nhất 1 triệu chứng giai đoạn Aura (ảnh hưởng đến thị giác, võng mạc, giác quan, ngôn ngữ, thần kinh vận động, hoặc thân não) và ít nhất 3 trong 6 đặc điểm đặc trưng liên quan đến các triệu chứng Aura."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị đau đầu migraine thường tập trung vào giảm triệu chứng, rút ngắn thời gian cơn đau và ngăn ngừa tái phát. Mặc dù không thể chữa khỏi hoàn toàn, nhưng có nhiều biện pháp giúp kiểm soát tốt các cơn đau.",
+    "methods": [
+      {
+        "name": "Nghỉ ngơi trong phòng tối và yên tĩnh",
+        "description": "Tạo môi trường yên tĩnh, tránh ánh sáng và âm thanh mạnh để giảm kích thích và làm dịu cơn đau."
+      },
+      {
+        "name": "Chườm lạnh",
+        "description": "Đặt miếng gạc lạnh hoặc túi đá lên vùng đau để giảm viêm và làm dịu cơn đau."
+      },
+      {
+        "name": "Thuốc giảm đau không kê đơn",
+        "description": "Sử dụng thuốc như aspirin, ibuprofen hoặc naproxen để giảm đau. Chỉ nên dùng khi cần thiết và không lạm dụng để tránh tác dụng phụ."
+      },
+      {
+        "name": "Thuốc kê đơn",
+        "description": "Khi cơn đau nặng và thường xuyên, bác sĩ có thể kê đơn các loại thuốc như thuốc giảm huyết áp, chống động kinh, chống trầm cảm, hoặc kháng thể đơn dòng liên quan đến gen calcitonin (CGRP)."
+      },
+      {
+        "name": "Bổ sung vi chất thiết yếu",
+        "description": "Bổ sung các vitamin và khoáng chất cần thiết theo chỉ định của bác sĩ để hỗ trợ chức năng thần kinh."
+      }
+    ],
+    "recommendations": [
+      "Uống nhiều nước để tránh mất nước",
+      "Ngủ đúng giờ và đủ giấc, duy trì lịch ngủ ổn định",
+      "Tránh những yếu tố kích thích gây đau đầu đã được xác định",
+      "Thực hiện các bài tập thư giãn như thiền, yoga",
+      "Tập thể dục nhẹ nhàng và đều đặn",
+      "Theo dõi và ghi chép các cơn đau để xác định nguyên nhân và yếu tố kích thích",
+      "Duy trì chế độ ăn uống lành mạnh, tránh bỏ bữa",
+      "Hạn chế caffeine và rượu"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện không có vaccine để phòng ngừa đau đầu migraine.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tránh xa các yếu tố kích thích từ môi trường (ánh sáng nhấp nháy, tiếng ồn, mùi hương nồng)",
+      "Tránh các thực phẩm chứa chất kích thích (caffeine, rượu vang đỏ, sản phẩm từ sữa, thực phẩm chứa nhiều chất bảo quản)",
+      "Học cách thư giãn thông qua thiền, yoga hoặc các bài tập thở nhẹ nhàng",
+      "Duy trì lối sống khỏe mạnh với giấc ngủ đều đặn và đầy đủ",
+      "Tập thể dục nhẹ nhàng và đều đặn",
+      "Tránh các loại thuốc có thể gây đau đầu hoặc làm trầm trọng thêm tình trạng đau",
+      "Quản lý stress hiệu quả thông qua các hoạt động thư giãn",
+      "Duy trì chế độ ăn uống cân bằng và đều đặn",
+      "Theo dõi nhật ký đau đầu để xác định và tránh các yếu tố kích thích"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Đau đầu migraine và đau đầu thông thường khác nhau như thế nào?",
+      "answer": "Đau đầu migraine khác với đau đầu thông thường ở chỗ nó thường chỉ ảnh hưởng đến một bên đầu, có cảm giác đau nhói theo nhịp mạch đập, cường độ từ trung bình đến nghiêm trọng, và kèm theo các triệu chứng như buồn nôn, nôn, nhạy cảm với ánh sáng và âm thanh. Migraine cũng có thể có giai đoạn tiền triệu và Aura, trong khi đau đầu thông thường thường không có các giai đoạn này."
+    },
+    {
+      "question": "Khi nào tôi cần đến gặp bác sĩ vì đau đầu migraine?",
+      "answer": "Bạn nên đến gặp bác sĩ khi: có từ ba cơn đau đầu trở lên mỗi tuần, tần suất và độ cơn đau không thuyên giảm theo thời gian, cần uống thuốc giảm đau hầu như mỗi ngày, cần nhiều hơn 2-3 liều thuốc không kê đơn mỗi tuần, đau đầu ảnh hưởng đến cuộc sống. Bạn cần đến phòng cấp cứu ngay khi có cơn đau đầu dữ dội, đột ngột kèm theo co giật, chóng mặt, mất thăng bằng, tê liệt, khó nói, lú lẫn, hoa mắt, sốt, cứng cổ, nôn mửa nghiêm trọng, hoặc đau đầu sau chấn thương."
+    },
+    {
+      "question": "Đau đầu migraine có thể chữa khỏi hoàn toàn không?",
+      "answer": "Đau đầu migraine là bệnh mãn tính và hiện tại không có phương pháp chữa khỏi hoàn toàn. Tuy nhiên, với sự kết hợp giữa điều trị thuốc, thay đổi lối sống và tránh các yếu tố kích thích, nhiều người có thể kiểm soát tốt các triệu chứng và giảm tần suất các cơn đau. Nếu tần suất đau đầu tăng lên 15 lần/tháng, bệnh được coi là mãn tính và khó điều trị khỏi hoàn toàn."
+    },
+    {
+      "question": "Các biến chứng nguy hiểm của đau đầu migraine là gì?",
+      "answer": "Biến chứng nguy hiểm của đau đầu migraine bao gồm: động kinh (co giật ở một phần cơ thể), đột quỵ do nhồi máu tĩnh mạch, đau đầu migraine trạng thái (cơn đau kéo dài hơn 72 giờ), hội chứng Serotonin (do tương tác thuốc), đau dạ dày (do tác dụng phụ của thuốc giảm đau). Theo báo cáo của Trường Y Harvard, migraine không được điều trị kịp thời có thể làm tăng nguy cơ đột quỵ và đau tim lên 42%."
+    },
+    {
+      "question": "Tại sao phụ nữ dễ bị đau đầu migraine hơn nam giới?",
+      "answer": "Phụ nữ có nguy cơ mắc chứng đau đầu migraine cao hơn nam giới khoảng 3 lần, chủ yếu do ảnh hưởng của hormone estrogen. Sự thay đổi nồng độ estrogen trong các giai đoạn như dậy thì, chu kỳ kinh nguyệt, mang thai và tiền mãn kinh có thể kích hoạt các cơn đau đầu migraine. Điều này giải thích tại sao tỷ lệ mắc migraine ở nam giới và nữ giới tương đương nhau trước tuổi dậy thì, nhưng sau đó tăng cao ở phụ nữ."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu và muốn biết về giai đoạn tiền triệu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "chứng đau nửa đầu",
+        "đau đầu căng thẳng",
+        "đau đầu cụm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu và muốn biết về giai đoạn Aura. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu migraine có tiền triệu",
+        "đau nửa đầu võng mạc",
+        "thiếu máu não thoáng qua"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu và muốn biết về giai đoạn tấn công. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu căng thẳng",
+        "đau đầu cụm",
+        "viêm xoang"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu và muốn biết về giai đoạn sau cơn đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu hậu chấn thương",
+        "đau đầu do thuốc",
+        "trầm cảm sau cơn đau"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu và muốn biết cách điều trị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu căng thẳng",
+        "đau đầu cụm",
+        "đau đầu do xoang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu và muốn biết cách phòng ngừa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu do căng thẳng",
+        "đau đầu mãn tính",
+        "đau đầu do lạm dụng thuốc"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu và muốn biết nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "tăng huyết áp",
+        "viêm xoang",
+        "rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu và muốn biết yếu tố nguy cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu căng thẳng",
+        "đau đầu do thay đổi nội tiết",
+        "đau đầu do mất nước"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu và muốn biết biến chứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đột quỵ liên quan đến migraine",
+        "đau đầu mạn tính",
+        "suy nhược thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu và muốn biết khi nào cần đi khám. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu do tăng áp lực nội sọ",
+        "u não",
+        "xuất huyết não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu và muốn biết cách chăm sóc bản thân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu căng thẳng",
+        "rối loạn lo âu",
+        "mất ngủ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu và muốn biết về các loại thuốc điều trị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu mãn tính",
+        "đau đầu do lạm dụng thuốc",
+        "rối loạn thần kinh tự chủ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu và muốn biết về liệu pháp thay thế. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu do căng thẳng",
+        "rối loạn lo âu",
+        "đau cơ xơ hóa"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu và muốn biết về thay đổi lối sống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu do căng thẳng",
+        "rối loạn giấc ngủ",
+        "mệt mỏi mãn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu và muốn biết về các nghiên cứu mới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu không đáp ứng với điều trị",
+        "rối loạn thần kinh phức tạp",
+        "bệnh tự miễn"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu và muốn biết về tác động đến cuộc sống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "trầm cảm",
+        "rối loạn lo âu",
+        "rối loạn giấc ngủ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu và muốn biết về cách đối phó với cơn đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đầu migraine",
+        "đau đầu căng thẳng",
+        "đau đầu cụm",
+        "rối loạn lo âu"
+      ]
+    }
+  ]
+}

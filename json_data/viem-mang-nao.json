@@ -1,0 +1,285 @@
+{
+  "disease_id": "viem-mang-nao",
+  "disease_name": "Viêm Màng Não",
+  "disease_alternative_names": [
+    "Meningitis",
+    "Viêm màng não mủ",
+    "Viêm màng não do virus"
+  ],
+  "disease_definition": "Viêm màng não là tình trạng viêm của các màng bao bọc não và tủy sống. Bệnh này có thể do nhiều nguyên nhân gây ra như vi khuẩn, virus, nấm hoặc ký sinh trùng, và có thể đe dọa tính mạng nếu không được điều trị kịp thời.",
+  "symptoms": [
+    {
+      "name": "Sốt cao và li bì",
+      "description": "Sốt thường xuất hiện đột ngột, có thể lên tới 39-40°C, kèm theo cảm giác mệt mỏi và li bì."
+    },
+    {
+      "name": "Đau đầu dữ dội",
+      "description": "Đau đầu liên tục, dữ dội và khó chịu, thường không đáp ứng với thuốc giảm đau thông thường."
+    },
+    {
+      "name": "Cứng cổ",
+      "description": "Khó khăn khi cúi đầu về phía trước do cơ cổ cứng và đau."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Buồn nôn và nôn không liên quan đến bữa ăn, thường kèm theo đau đầu."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Khó chịu khi tiếp xúc với ánh sáng chói (sợ ánh sáng)."
+    },
+    {
+      "name": "Rối loạn ý thức",
+      "description": "Dao động từ lú lẫn, mất phương hướng đến hôn mê trong các trường hợp nặng."
+    },
+    {
+      "name": "Co giật",
+      "description": "Có thể xuất hiện co giật toàn thân hoặc cục bộ, đặc biệt ở trẻ em."
+    },
+    {
+      "name": "Nổi ban đỏ trên da",
+      "description": "Xuất hiện các vết ban đỏ không mất đi khi ấn, thường gặp trong viêm màng não do não mô cầu."
+    },
+    {
+      "name": "Biếng ăn và quấy khóc",
+      "description": "Ở trẻ nhỏ có thể biểu hiện bằng bỏ bú, quấy khóc, khó dỗ."
+    },
+    {
+      "name": "Phát ban",
+      "description": "Xuất hiện ban trên da, đặc biệt trong trường hợp viêm màng não do virus."
+    }
+  ],
+  "causes": {
+    "main_cause": "Viêm màng não có thể do nhiều tác nhân gây ra, trong đó phổ biến nhất là vi khuẩn và virus. Vi khuẩn thường gây ra thể bệnh nặng hơn và đe dọa tính mạng nếu không được điều trị kịp thời.",
+    "related_factors": "Viêm màng não xảy ra khi các tác nhân gây bệnh xâm nhập vào hệ thần kinh trung ương, gây ra phản ứng viêm ở các màng bao bọc não và tủy sống. Các yếu tố nguy cơ bao gồm suy giảm miễn dịch, phẫu thuật não, chấn thương sọ não và tiếp xúc gần với người bệnh.",
+    "transmission_routes": [
+      "Qua đường hô hấp từ giọt bắn khi ho, hắt hơi từ người bệnh",
+      "Qua vết thương hở trên da tiếp xúc với môi trường nhiễm khuẩn",
+      "Qua đường máu từ nhiễm khuẩn huyết",
+      "Lây truyền từ mẹ sang con trong quá trình sinh nở (đối với một số tác nhân)"
+    ]
+  },
+  "risk_factors": [
+    "Trẻ dưới 5 tuổi và người trên 60 tuổi",
+    "Người có hệ miễn dịch suy yếu (nhiễm HIV/AIDS, điều trị hóa trị, ghép tạng)",
+    "Người sống trong môi trường tập thể (ký túc xá, trại giam)",
+    "Người làm việc với các tác nhân gây bệnh viêm màng não",
+    "Người có tiền sử phẫu thuật não hoặc chấn thương sọ não",
+    "Người chưa được tiêm phòng vắc-xin phù hợp",
+    "Người mắc bệnh lý tai mũi họng mãn tính"
+  ],
+  "complications": [
+    "Tổn thương não vĩnh viễn",
+    "Mất thính lực",
+    "Rối loạn học tập và trí nhớ",
+    "Co giật và động kinh",
+    "Tổn thương thận",
+    "Sốc nhiễm khuẩn",
+    "Đông máu nội mạch rải rác (DIC)",
+    "Tử vong"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để đánh giá các dấu hiệu đặc trưng",
+      "Dấu hiệu Kernig và Brudzinski dương tính",
+      "Theo dõi dấu hiệu sinh tồn và tình trạng thần kinh"
+    ],
+    "tests": [
+      {
+        "name": "Chọc dò tủy sống",
+        "description": "Lấy mẫu dịch não tủy để xét nghiệm, đây là xét nghiệm quan trọng nhất để chẩn đoán viêm màng não. Dịch não tủy đục trong viêm màng não mủ, trong trong viêm màng não do virus."
+      },
+      {
+        "name": "Cấy dịch não tủy",
+        "description": "Giúp xác định chính xác tác nhân gây bệnh và độ nhạy kháng sinh."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra bạch cầu tăng, CRP và tốc độ máu lắng tăng trong viêm nhiễm."
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "CT scan hoặc MRI sọ não để loại trừ các tổn thương khác và đánh giá biến chứng."
+      },
+      {
+        "name": "PCR dịch não tủy",
+        "description": "Phát hiện nhanh DNA hoặc RNA của tác nhân gây bệnh, đặc biệt hữu ích trong viêm màng não do virus."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Viêm màng não là bệnh cấp cứu, cần được điều trị ngay lập tức, đặc biệt là viêm màng não do vi khuẩn. Điều trị sớm giúp giảm nguy cơ biến chứng và tử vong.",
+    "methods": [
+      {
+        "name": "Kháng sinh đường tĩnh mạch",
+        "description": "Cho viêm màng não do vi khuẩn, thường bắt đầu với kháng sinh phổ rộng rồi điều chỉnh theo kết quả cấy và kháng sinh đồ."
+      },
+      {
+        "name": "Thuốc kháng virus",
+        "description": "Như acyclovir cho viêm màng não do virus herpes."
+      },
+      {
+        "name": "Corticosteroid",
+        "description": "Giúp giảm viêm và nguy cơ biến chứng, đặc biệt ở trẻ em."
+      },
+      {
+        "name": "Thuốc chống co giật",
+        "description": "Nếu bệnh nhân có biểu hiện co giật."
+      },
+      {
+        "name": "Thuốc giảm đau và hạ sốt",
+        "description": "Để kiểm soát triệu chứng đau đầu và sốt."
+      },
+      {
+        "name": "Điều trị hỗ trợ",
+        "description": "Bao gồm duy trì đường thở, cung cấp đủ dịch và điện giải, hỗ trợ hô hấp nếu cần."
+      }
+    ],
+    "recommendations": [
+      "Nhập viện ngay khi nghi ngờ viêm màng não",
+      "Điều trị tại khoa Hồi sức tích cực nếu tình trạng nặng",
+      "Cách ly với các bệnh nhân khác trong trường hợp viêm màng não do não mô cầu",
+      "Theo dõi sát các dấu hiệu sinh tồn và tình trạng thần kinh",
+      "Điều trị dự phòng cho người tiếp xúc gần với bệnh nhân viêm màng não do não mô cầu"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly bệnh nhân viêm màng não do não mô cầu trong 24 giờ đầu điều trị kháng sinh",
+      "Dự phòng kháng sinh cho người tiếp xúc gần với bệnh nhân viêm màng não do não mô cầu",
+      "Vệ sinh tay và hô hấp tốt"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Có nhiều loại vắc-xin giúp phòng ngừa một số nguyên nhân phổ biến gây viêm màng não như não mô cầu, Hib, phế cầu, và một số virus.",
+      "recommended_for": [
+        "Trẻ em theo lịch tiêm chủng quốc gia",
+        "Người có nguy cơ cao như quân nhân, sinh viên sống ở ký túc xá",
+        "Người chuẩn bị đi du lịch đến vùng có dịch viêm màng não",
+        "Người bị cắt lách hoặc có hệ miễn dịch suy yếu"
+      ]
+    },
+    "general_recommendations": [
+      "Tiêm phòng vắc-xin đầy đủ theo lịch",
+      "Giữ vệ sinh cá nhân, rửa tay thường xuyên",
+      "Tránh tiếp xúc gần với người bị nhiễm bệnh",
+      "Giữ sức khỏe tốt, tăng cường hệ miễn dịch",
+      "Điều trị triệt để các bệnh nhiễm trùng, đặc biệt là nhiễm trùng tai mũi họng"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Viêm màng não có lây không?",
+      "answer": "Viêm màng não do vi khuẩn và virus có thể lây truyền từ người sang người qua đường hô hấp (ho, hắt hơi) hoặc tiếp xúc trực tiếp với dịch tiết từ mũi họng của người bệnh. Tuy nhiên, mức độ lây lan tùy thuộc vào tác nhân gây bệnh. Viêm màng não do não mô cầu có khả năng lây lan cao hơn so với các loại khác. Viêm màng não do nấm hoặc ký sinh trùng thường không lây từ người sang người."
+    },
+    {
+      "question": "Làm thế nào để phân biệt viêm màng não với các bệnh thông thường khác?",
+      "answer": "Viêm màng não thường có các triệu chứng đặc trưng như sốt cao đột ngột, đau đầu dữ dội, cứng cổ, sợ ánh sáng và buồn nôn, nôn. Ở trẻ nhỏ, có thể biểu hiện bằng quấy khóc, bỏ bú và thóp phồng. Nếu có các triệu chứng này, đặc biệt là cứng cổ kèm sốt cao và đau đầu, cần đến cơ sở y tế ngay lập tức. Chẩn đoán xác định cần dựa vào xét nghiệm dịch não tủy qua chọc dò tủy sống."
+    },
+    {
+      "question": "Viêm màng não có điều trị được không?",
+      "answer": "Có, viêm màng não có thể điều trị được, nhưng hiệu quả phụ thuộc vào nguyên nhân và thời điểm điều trị. Viêm màng não do vi khuẩn cần điều trị khẩn cấp bằng kháng sinh đường tĩnh mạch. Viêm màng não do virus thường tự khỏi sau 7-10 ngày, nhưng có thể cần thuốc kháng virus đặc hiệu trong một số trường hợp. Viêm màng não do nấm hoặc ký sinh trùng cần điều trị đặc hiệu theo tác nhân. Điều trị sớm giúp giảm nguy cơ biến chứng và tử vong."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như biếng ăn, quấy khóc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não",
+        "nhiễm virus thông thường",
+        "viêm tai giữa",
+        "viêm họng",
+        "nhiễm trùng đường tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nôn ói, tiêu chảy, phát ban. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não",
+        "nhiễm virus đường ruột",
+        "sởi",
+        "rubella",
+        "thủy đậu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị các vấn đề về hô hấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm phổi",
+        "viêm phế quản",
+        "viêm màng não",
+        "cúm",
+        "COVID-19"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu, sốt, cổ cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não",
+        "cúm",
+        "viêm xoang",
+        "viêm màng não mủ",
+        "xuất huyết não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy co giật, nhạy cảm với ánh sáng chói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não",
+        "động kinh",
+        "đau nửa đầu",
+        "xuất huyết não",
+        "nhiễm trùng hệ thần kinh trung ương"
+      ]
+    },
+    {
+      "question": "Tôi hay bị vi khuẩn phế cầu, não mô cầu, tụ cầu khuẩn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não mủ",
+        "viêm phổi",
+        "nhiễm khuẩn huyết",
+        "viêm nội tâm mạc nhiễm khuẩn",
+        "viêm xoang"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sốt, li bì, mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não",
+        "cúm",
+        "nhiễm virus",
+        "sốt xuất huyết",
+        "nhiễm khuẩn huyết"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy bỏ ăn, quấy khóc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não ở trẻ em",
+        "viêm tai giữa",
+        "mọc răng",
+        "viêm họng",
+        "nhiễm trùng đường tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị các triệu chứng viêm màng não do virus. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não do enterovirus",
+        "viêm màng não do herpesvirus",
+        "viêm màng não do virus cúm",
+        "viêm não",
+        "viêm não màng não"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như các triệu chứng viêm màng não do vi khuẩn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não do não mô cầu",
+        "viêm màng não do phế cầu",
+        "viêm màng não do Haemophilus influenzae",
+        "viêm màng não do E. coli",
+        "viêm màng não do Listeria"
+      ]
+    }
+  ]
+}

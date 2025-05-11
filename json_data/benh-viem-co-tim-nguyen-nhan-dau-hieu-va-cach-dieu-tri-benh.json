@@ -1,0 +1,205 @@
+{
+  "disease_id": "benh-viem-co-tim-nguyen-nhan-dau-hieu-va-cach-dieu-tri-benh",
+  "disease_name": "Bệnh viêm cơ tim",
+  "disease_alternative_names": [
+    "Viêm cơ tim",
+    "Viêm cơ tim cấp"
+  ],
+  "disease_definition": "Viêm cơ tim là tình trạng viêm toàn bộ hoặc một phần khối cơ tim, là hậu quả của một bệnh nhiễm trùng khác gây nên. Bệnh có thể gặp ở mọi lứa tuổi nhưng gặp nhiều hơn ở người trẻ tuổi (20 – 40), gặp ở nam nhiều hơn nữ, biểu hiện phong phú có thể từ nhẹ đến nặng.",
+  "symptoms": [
+    {
+      "name": "Không có triệu chứng",
+      "description": "Một số trường hợp không có biểu hiện rõ ràng, bệnh diễn biến âm thầm cho đến khi phát hiện thì cơ tim có thể đã bị phì đại"
+    },
+    {
+      "name": "Triệu chứng điển hình",
+      "description": "Sốt cao, đau nhức đầu, mỏi cơ, chảy nước mắt, nước mũi, tiêu chảy, khó thở và ăn uống kém"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Đau tức ngực, đánh trống ngực"
+    },
+    {
+      "name": "Triệu chứng nghiêm trọng",
+      "description": "Sốc tim, mạch đập nhanh nhỏ, huyết áp tụt hoặc không đo được, da tái"
+    }
+  ],
+  "causes": {
+    "main_cause": "Viêm cơ tim có thể do nhiều nguyên nhân khác nhau như virus, vi khuẩn, nấm, phản ứng dị ứng thuốc hoặc do tự miễn.",
+    "related_factors": "Người bị suy giảm hệ miễn dịch, trẻ sơ sinh và trẻ nhỏ có nguy cơ mắc bệnh cao hơn.",
+    "transmission_routes": [
+      "Nhiễm virus từ các bệnh cúm thông thường",
+      "Nhiễm vi khuẩn qua đường hô hấp hoặc tiêu hóa",
+      "Phản ứng với thuốc hoặc hóa chất độc hại"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Tuổi và giới tính",
+      "description": "Gặp nhiều ở người trẻ tuổi (20-40), nam giới nhiều hơn nữ"
+    },
+    {
+      "name": "Suy giảm miễn dịch",
+      "description": "Người có hệ miễn dịch yếu dễ bị nhiễm virus, vi khuẩn gây bệnh"
+    },
+    {
+      "name": "Môi trường",
+      "description": "Tiếp xúc với môi trường độc hại, nhiều hóa chất"
+    },
+    {
+      "name": "Dùng thuốc",
+      "description": "Sử dụng một số loại thuốc điều trị ung thư, kháng sinh, chống động kinh"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Suy tim",
+      "description": "Tim không còn chức năng bơm máu để nuôi cơ thể"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Nhịp tim nhanh hoặc rối loạn nhịp tim nghiêm trọng"
+    },
+    {
+      "name": "Đột tử",
+      "description": "Tim có thể ngừng đập đột ngột, chiếm 20% nguyên nhân gây đột tử ở người trẻ"
+    },
+    {
+      "name": "Nhồi máu cơ tim và đột quỵ",
+      "description": "Do hình thành cục máu đông trong tim có thể gây tắc động mạch vành hoặc não"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Điện tâm đồ",
+        "description": "Kiểm tra hoạt động điện của tim"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá cấu trúc và chức năng tim"
+      },
+      {
+        "name": "Chụp X-quang tim phổi",
+        "description": "Kiểm tra hình ảnh tim và phổi"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra nồng độ men tim và kháng thể kháng virus"
+      },
+      {
+        "name": "Sinh thiết cơ tim",
+        "description": "Lấy mẫu mô tim để xét nghiệm"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Phương pháp điều trị phụ thuộc vào nguyên nhân và thể trạng người bệnh",
+    "methods": [
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Tăng cường co bóp cơ tim, chống loạn nhịp tim và chống sốc"
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng digoxin, thuốc lợi tiểu, thuốc ức chế men chuyển theo chỉ định"
+      },
+      {
+        "name": "Điều trị nâng cao",
+        "description": "Sử dụng ECMO hoặc ghép tim cho các trường hợp nặng"
+      }
+    ],
+    "medications": [
+      {
+        "name": "Thuốc tăng co bóp",
+        "description": "Dùng trong giai đoạn cấp tính"
+      },
+      {
+        "name": "Thuốc lợi tiểu",
+        "description": "Điều trị khi có suy tim"
+      },
+      {
+        "name": "Thuốc ức chế men chuyển",
+        "description": "Sử dụng khi bệnh nhân dung nạp được"
+      }
+    ],
+    "prevention_of_transmission": [
+      "Tránh tiếp xúc với người bệnh nhiễm trùng",
+      "Vệ sinh cá nhân tốt",
+      "Hạn chế tiếp xúc với môi trường độc hại"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm phòng một số bệnh có nguy cơ gây viêm cơ tim",
+      "recommended_for": [
+        "Tiêm vắc xin rubella",
+        "Tiêm vắc xin cúm",
+        "Người có nguy cơ cao"
+      ]
+    },
+    "general_recommendations": [
+      "Thực hiện vệ sinh tốt",
+      "Tránh tiếp xúc với côn trùng",
+      "Hạn chế tiếp xúc với môi trường độc hại",
+      "Đến ngay cơ sở y tế khi có triệu chứng đau ngực và khó thở",
+      "Điều trị kịp thời các bệnh nhiễm trùng"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Viêm cơ tim có nguy hiểm không?",
+      "answer": "Viêm cơ tim là bệnh nguy hiểm, có thể gây ra nhiều biến chứng nghiêm trọng như suy tim, rối loạn nhịp tim, đột tử và chiếm 20% nguyên nhân gây đột tử ở người trẻ."
+    },
+    {
+      "question": "Viêm cơ tim có lây không?",
+      "answer": "Viêm cơ tim không phải là bệnh lây truyền trực tiếp, nhưng các nguyên nhân gây bệnh như virus, vi khuẩn có thể lây từ người sang người."
+    },
+    {
+      "question": "Ai có nguy cơ mắc viêm cơ tim cao nhất?",
+      "answer": "Người trẻ tuổi (20-40), nam giới, người suy giảm miễn dịch, trẻ sơ sinh và trẻ nhỏ có nguy cơ mắc bệnh cao hơn."
+    },
+    {
+      "question": "Khi nào cần đi khám nếu nghi ngờ viêm cơ tim?",
+      "answer": "Cần đến ngay cơ sở y tế khi có các triệu chứng như đau ngực, khó thở, hoặc có biểu hiện nhiễm trùng, nhiễm virus kèm theo các triệu chứng tim mạch."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi bị sốt cao, đau ngực và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm cơ tim",
+        "viêm phổi",
+        "cúm",
+        "COVID-19"
+      ]
+    },
+    {
+      "question": "Tôi bị đau ngực và tim đập nhanh sau khi bị cúm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm cơ tim",
+        "viêm màng ngoài tim",
+        "rối loạn nhịp tim",
+        "hội chứng sau COVID"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên mệt mỏi và khó thở khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy tim",
+        "viêm cơ tim",
+        "bệnh cơ tim giãn",
+        "thiếu máu cơ tim"
+      ]
+    },
+    {
+      "question": "Tôi bị sốt, đau cơ và tim đập không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm cơ tim",
+        "nhiễm trùng huyết",
+        "rối loạn nhịp tim",
+        "cúm biến chứng"
+      ]
+    }
+  ]
+}

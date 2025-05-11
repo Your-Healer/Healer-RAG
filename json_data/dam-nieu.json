@@ -1,0 +1,269 @@
+{
+  "disease_id": "dam-nieu",
+  "disease_name": "Đạm Niệu",
+  "disease_alternative_names": ["Protein niệu", "Proteinuria", "Albumin niệu"],
+  "disease_definition": "Đạm niệu là tình trạng protein xuất hiện bất thường trong nước tiểu, gây ra hiện tượng nước tiểu có nhiều bọt. Protein này thường là albumin, một chất có trong huyết tương ở người, có vai trò ngăn chất lỏng đi ra ngoài mạch máu. Khi protein bị lẫn vào bên trong nước tiểu, đây là dấu hiệu cho thấy thận đang bị tổn thương và suy giảm chức năng.",
+  "symptoms": [
+    {
+      "name": "Nước tiểu có bọt",
+      "description": "Triệu chứng rõ ràng nhất của đạm niệu là nước tiểu có nhiều bọt hoặc sủi bọt do protein xuất hiện trong nước tiểu."
+    },
+    {
+      "name": "Sưng phù",
+      "description": "Sưng phù ở mặt, bụng, bàn chân và mắt cá chân do tình trạng tích tụ nước và muối trong cơ thể."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, kiệt sức do cơ thể mất protein, ảnh hưởng đến chức năng bình thường của cơ thể."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và có thể nôn ra do sự tích tụ các chất thải trong máu khi thận không lọc hiệu quả."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn uống do cơ thể không khỏe."
+    },
+    {
+      "name": "Tăng tần suất đi tiểu",
+      "description": "Đi tiểu nhiều hơn bình thường do thận không hoạt động hiệu quả."
+    },
+    {
+      "name": "Hụt hơi",
+      "description": "Cảm giác khó thở hoặc hụt hơi, đặc biệt khi gắng sức."
+    },
+    {
+      "name": "Chuột rút",
+      "description": "Co cứng cơ bắp đột ngột và đau đớn, thường xảy ra vào buổi tối."
+    },
+    {
+      "name": "Tiền sản giật",
+      "description": "Với người bệnh đang mang thai, có thể xuất hiện tình trạng tiền sản giật với các triệu chứng như huyết áp cao, phù và protein trong nước tiểu."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân gây ra đạm niệu là sự tổn thương, ảnh hưởng đến chức năng lọc máu của thận. Khi thận bị tổn thương, cầu thận (bộ phận lọc máu của thận) không thể giữ lại protein trong máu, khiến protein bị rò rỉ vào nước tiểu.",
+    "related_factors": "Tùy theo vị trí tổn thương, đạm niệu có thể phân loại thành: đạm niệu do bệnh cầu thận nguyên phát hoặc thứ phát (bệnh thận màng, bệnh cầu thận thay đổi tối thiểu, bệnh thận đái tháo đường, viêm cầu thận sau nhiễm trùng, viêm lupus); đạm niệu có nguồn gốc ống thận (viêm ống kẽ thận, bệnh thận đa nang, hội chứng fanconi và hoại tử ống thận cấp); đạm niệu do quá tải hấp thu (tăng gama đơn dòng, hội chứng rối loạn sinh tủy, bệnh đa u tủy xương); và đạm niệu chức năng (lành tính, xảy ra khi sốt, vận động mạnh, suy tim, mang thai).",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Người cao tuổi, trên 65 tuổi",
+    "Người có tiền sử bệnh lý về thận",
+    "Người có người thân trong gia đình bị bệnh thận",
+    "Người bị đái tháo đường có ảnh hưởng đến thận",
+    "Người có bệnh lý hệ thống, có tổn thương thận (lupus ban đỏ)",
+    "Người bị tăng huyết áp",
+    "Người có chế độ ăn nhiều muối",
+    "Người có thói quen uống ít nước",
+    "Người có thói quen nhịn tiểu"
+  ],
+  "complications": [
+    "Suy thận mạn tính",
+    "Mất lượng protein đáng kể",
+    "Tổn thương thận nghiêm trọng",
+    "Hội chứng thận hư (khi protein trong nước tiểu từ 3-3.5g/ngày)",
+    "Phù toàn thân",
+    "Tăng nguy cơ nhiễm trùng",
+    "Huyết áp cao",
+    "Suy dinh dưỡng do mất protein",
+    "Rối loạn lipid máu"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để đánh giá triệu chứng",
+      "Hỏi tiền sử bệnh và tiền sử gia đình",
+      "Chẩn đoán định tính (đốt nước tiểu hoặc làm lạnh bằng sulfosalicylipue)",
+      "Chẩn đoán bán định lượng (sử dụng que thử nước tiểu)",
+      "Chẩn đoán đạm niệu định lượng (xét nghiệm nước tiểu 24h)"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm nước tiểu định tính",
+        "description": "Kiểm tra sự hiện diện của protein trong nước tiểu bằng cách làm đông đạm (đốt nước tiểu hoặc làm lạnh bằng sulfosalicylipue). Nước tiểu của người bị đạm niệu khi đốt lên sẽ vẩn đục."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu bán định lượng",
+        "description": "Sử dụng que thử nước tiểu có các chất phản ứng với đạm. Khi tiếp xúc với nước tiểu có đạm, que sẽ đổi màu."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu 24h",
+        "description": "Thu thập nước tiểu trong 24 giờ để xác định chính xác lượng đạm. Lượng protein > 150mg/ngày được xác định là đạm niệu."
+      },
+      {
+        "name": "Xét nghiệm huyết thanh",
+        "description": "Kiểm tra nồng độ kháng thể IgG và IgE, số lượng bạch cầu và các chỉ số khác trong máu để đánh giá tình trạng nhiễm trùng và đáp ứng miễn dịch."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Phương pháp điều trị đạm niệu sẽ tùy thuộc vào nguyên nhân gây ra bệnh. Căn nguyên và mức độ nghiêm trọng của bệnh là yếu tố chính để bác sĩ thiết lập phác đồ điều trị. Điều trị đạm niệu nói riêng và các bệnh lý về thận nói chung sẽ cần kết hợp thuốc với chế độ dinh dưỡng và thói quen sinh hoạt hằng ngày.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc theo chỉ định của bác sĩ để điều trị nguyên nhân gây đạm niệu và cải thiện chức năng thận."
+      },
+      {
+        "name": "Điều trị đái tháo đường",
+        "description": "Đối với đạm niệu do đái tháo đường, cần sử dụng thuốc theo chỉ định và kiểm soát chặt chẽ lượng đường trong máu."
+      },
+      {
+        "name": "Điều trị tăng huyết áp",
+        "description": "Kiểm soát huyết áp bằng thuốc và chế độ ăn uống để giảm áp lực lên thận."
+      },
+      {
+        "name": "Điều trị bệnh tự miễn",
+        "description": "Đối với đạm niệu do bệnh tự miễn như lupus, cần điều trị bệnh nền bằng thuốc ức chế miễn dịch."
+      }
+    ],
+    "recommendations": [
+      "Hạn chế ăn các loại thực phẩm quá giàu chất đạm, protein",
+      "Hạn chế lượng muối nạp vào cơ thể (trừ những người có bệnh sử hạ huyết áp cần tham khảo ý kiến bác sĩ)",
+      "Ăn nhiều chất xơ để cân bằng lượng đường trong máu và giảm cholesterol",
+      "Tập thể dục đều đặn, tăng cường vận động trong ngày",
+      "Thường xuyên kiểm tra lượng đường trong máu để hạn chế được rủi ro bị đái tháo đường",
+      "Ngưng sử dụng thuốc lá hoặc hạn chế tối đa tình trạng hút thuốc thụ động",
+      "Hạn chế tối đa việc tự ý sử dụng các loại thuốc chống viêm, thuốc giảm đau mà không thông qua chỉ định của bác sĩ",
+      "Uống đủ nước mỗi ngày",
+      "Khám sức khỏe định kỳ để theo dõi chức năng thận"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa bệnh đạm niệu.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì lối sống lành mạnh với chế độ ăn uống cân bằng",
+      "Hạn chế ăn mặn, giảm lượng muối trong chế độ ăn",
+      "Tập thể dục thường xuyên",
+      "Duy trì cân nặng hợp lý",
+      "Uống đủ nước mỗi ngày",
+      "Không tự ý sử dụng thuốc giảm đau, chống viêm kéo dài",
+      "Kiểm soát tốt các bệnh mạn tính như tiểu đường, tăng huyết áp",
+      "Khám sức khỏe định kỳ, đặc biệt những người có yếu tố nguy cơ",
+      "Tránh nhịn tiểu kéo dài",
+      "Ngưng hút thuốc lá và hạn chế rượu bia"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Đạm niệu có nguy hiểm không?",
+      "answer": "Đạm niệu không phải là một bệnh nghiêm trọng nếu được phát hiện và điều trị kịp thời. Tuy nhiên, nếu tình trạng này kéo dài và không được điều trị, đồng nghĩa với tổn thương thận kéo dài, có thể dẫn đến các biến chứng nghiêm trọng như suy thận mạn tính. Đối với đạm niệu chức năng, lành tính do vận động quá mức hoặc sốt gây ra thì thường không nguy hiểm đến sức khỏe thận và có thể tự khỏi."
+    },
+    {
+      "question": "Khi nào cần đi khám nếu nghi ngờ bị đạm niệu?",
+      "answer": "Bạn nên đến gặp bác sĩ ngay khi phát hiện có triệu chứng đạm niệu như nước tiểu có nhiều bọt, sưng phù ở mặt hoặc mắt cá chân, mệt mỏi bất thường, đặc biệt nếu bạn có các yếu tố nguy cơ như đái tháo đường hoặc tăng huyết áp. Việc tự chẩn đoán loại đạm niệu tại nhà rất khó, nên việc gặp bác sĩ sớm là cần thiết để được chẩn đoán chính xác và điều trị kịp thời."
+    },
+    {
+      "question": "Người bị đạm niệu nên ăn gì và kiêng gì?",
+      "answer": "Người bị đạm niệu nên hạn chế ăn các thực phẩm giàu đạm, protein; hạn chế lượng muối nạp vào cơ thể; ăn nhiều chất xơ để cân bằng lượng đường trong máu và giảm cholesterol. Tùy vào nguyên nhân gây đạm niệu, bác sĩ có thể có những khuyến nghị cụ thể hơn. Người có bệnh sử hạ huyết áp cần tham khảo ý kiến của bác sĩ về lượng muối tối đa cần nạp vào cơ thể trong một ngày."
+    },
+    {
+      "question": "Đạm niệu có thể tự khỏi không?",
+      "answer": "Đạm niệu chức năng, lành tính do vận động quá mức, sốt, hoặc các yếu tố tạm thời khác có thể tự khỏi mà không cần điều trị. Tuy nhiên, đạm niệu do tổn thương thận hoặc do các bệnh mạn tính như đái tháo đường, tăng huyết áp thường đòi hỏi phải điều trị nguyên nhân gốc rễ. Điều quan trọng là không nên tự ý phán đoán loại đạm niệu mà bạn đang mắc phải, việc thăm khám với bác sĩ là cần thiết để có chẩn đoán và điều trị phù hợp."
+    },
+    {
+      "question": "Bao nhiêu protein trong nước tiểu thì được gọi là đạm niệu?",
+      "answer": "Lượng protein trong nước tiểu của người khỏe mạnh thường nhỏ hơn 150mg/ngày. Khi lượng protein trong nước tiểu vượt quá 150mg/ngày, tình trạng này được gọi là đạm niệu. Nếu lượng protein trong nước tiểu từ 3-3.5g/ngày, đây là dấu hiệu của hội chứng thận hư, một biến chứng nghiêm trọng cần được điều trị ngay lập tức."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nước tiểu có bọt và sưng phù ở mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đạm niệu",
+        "hội chứng thận hư",
+        "suy thận",
+        "viêm cầu thận"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và đi tiểu nhiều hơn bình thường. Nước tiểu cũng có bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đạm niệu",
+        "đái tháo đường",
+        "nhiễm trùng đường tiết niệu",
+        "suy thận"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng phù ở mắt cá chân và bàn chân. Nước tiểu có vẻ khác lạ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đạm niệu",
+        "suy tim",
+        "hội chứng thận hư",
+        "xơ gan",
+        "suy tĩnh mạch"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên cảm thấy buồn nôn và chán ăn. Gần đây tôi thấy nước tiểu có bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đạm niệu",
+        "suy thận",
+        "viêm dạ dày",
+        "bệnh gan",
+        "rối loạn tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chuột rút vào ban đêm và nước tiểu có bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đạm niệu",
+        "thiếu canxi",
+        "mất cân bằng điện giải",
+        "bệnh thận",
+        "bệnh tiểu đường"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và bị sưng phù, nước tiểu có bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đạm niệu",
+        "tiền sản giật",
+        "đái tháo đường thai kỳ",
+        "bệnh thận khi mang thai"
+      ]
+    },
+    {
+      "question": "Tôi hay bị hụt hơi và mệt mỏi. Nước tiểu của tôi có vẻ khác lạ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đạm niệu",
+        "suy tim",
+        "thiếu máu",
+        "bệnh phổi tắc nghẽn mạn tính",
+        "suy thận"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên cảm thấy buồn nôn và nôn. Gần đây tôi thấy nước tiểu có bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đạm niệu",
+        "suy thận",
+        "bệnh gan",
+        "viêm dạ dày",
+        "rối loạn tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tăng tần suất đi tiểu và nước tiểu có bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đạm niệu",
+        "đái tháo đường",
+        "nhiễm trùng đường tiết niệu",
+        "viêm bàng quang"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và sưng phù ở bụng. Nước tiểu cũng có bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đạm niệu",
+        "xơ gan",
+        "suy tim",
+        "hội chứng thận hư",
+        "suy thận"
+      ]
+    }
+  ]
+}

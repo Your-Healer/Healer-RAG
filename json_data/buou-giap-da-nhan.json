@@ -1,0 +1,255 @@
+{
+  "disease_id": "buou-giap-da-nhan",
+  "disease_name": "Bướu Giáp Đa Nhân",
+  "disease_alternative_names": [
+    "Multinodular Goiter",
+    "Phình giáp đa hạt",
+    "Bướu cổ đa nhân"
+  ],
+  "disease_definition": "Bướu giáp đa nhân (phình giáp đa hạt) là tình trạng bướu cổ có nhiều nốt (nhân). Các nhân to có thể được nhìn thấy rõ ràng hoặc phát hiện tình cờ khi siêu âm. Bướu giáp đa nhân có liên quan đến nguy cơ ung thư tuyến giáp cao hơn. Do đó, khi bị bướu giáp đa nhân, bác sĩ Nội tiết – Đái tháo đường có thể chỉ định sàng lọc ung thư tuyến giáp.",
+  "symptoms": [
+    {
+      "name": "Khối u ở phía trước cổ",
+      "description": "Biểu hiện rõ ràng nhất của bướu giáp đa nhân là một khối u có thể nhìn thấy ở phía trước cổ. Tuy nhiên, nhiều trường hợp bướu không nhìn thấy và chỉ được phát hiện khi khám sức khỏe định kỳ."
+    },
+    {
+      "name": "Triệu chứng cường giáp",
+      "description": "Khi tuyến giáp hoạt động quá mức (cường giáp), người bệnh có thể gặp các triệu chứng như giảm cân, run tay, đánh trống ngực, không dung nạp nhiệt, rối loạn giấc ngủ và lo lắng."
+    },
+    {
+      "name": "Triệu chứng suy giáp",
+      "description": "Khi tuyến giáp hoạt động kém (suy giáp), người bệnh có thể gặp các triệu chứng như tăng cân, khô da, chuột rút cơ, không chịu được lạnh và táo bón."
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Khi bướu giáp và các nhân có kích thước lớn, chúng có thể chèn ép thực quản gây khó nuốt."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Bướu giáp lớn có thể chèn ép khí quản gây khó thở, đặc biệt khi nằm hoặc gắng sức."
+    },
+    {
+      "name": "Khàn giọng",
+      "description": "Bướu giáp có thể chèn ép thanh quản gây khàn giọng hoặc thay đổi giọng nói."
+    },
+    {
+      "name": "Cảm giác thắt chặt quanh cổ họng",
+      "description": "Người bệnh có thể cảm thấy có cảm giác thắt chặt quanh vùng cổ họng do bướu giáp phát triển."
+    }
+  ],
+  "causes": {
+    "main_cause": "Hầu hết các trường hợp bướu giáp đa nhân đều có nguyên nhân không rõ ràng. Các nốt trong bướu giáp được hình thành và phát triển với tốc độ khác nhau, đồng thời kết hợp với các yếu tố thuốc, ăn uống, genes. Quá trình này diễn ra trong nhiều năm.",
+    "related_factors": "Bướu giáp đa nhân có thể phát triển từ bướu giáp đơn thuần và bướu giáp lan tỏa. Ngoài ra, viêm tuyến giáp Hashimoto (viêm tuyến giáp tự miễn dịch) liên quan đến nguy cơ xuất hiện nhân giáp cao hơn.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Thiếu iốt trong chế độ ăn uống",
+    "Giới tính nữ (bệnh tuyến giáp thường gặp ở nữ nhiều hơn nam giới)",
+    "Tuổi cao (trên 50 tuổi)",
+    "Gia đình có người bị bướu giáp đa nhân (yếu tố di truyền)",
+    "Tiền sử mắc các bệnh tuyến giáp khác",
+    "Viêm tuyến giáp Hashimoto"
+  ],
+  "complications": [
+    "Ung thư tuyến giáp (bướu giáp đa nhân làm tăng nguy cơ)",
+    "Cường giáp (tuyến giáp hoạt động quá mức)",
+    "Suy giáp (tuyến giáp hoạt động kém)",
+    "Vấn đề hô hấp do chèn ép khí quản",
+    "Khó nuốt do chèn ép thực quản",
+    "Mất thẩm mỹ do khối u lớn ở cổ"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để phát hiện bất thường ở tuyến giáp",
+      "Hỏi về tiền sử bệnh và yếu tố gia đình",
+      "Đánh giá các triệu chứng cường giáp hoặc suy giáp"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Định lượng hormone tuyến giáp (TSH, FT3, FT4), kháng thể tuyến giáp (Anti TPO) để đánh giá hoạt động của tuyến giáp."
+      },
+      {
+        "name": "Siêu âm tuyến giáp",
+        "description": "Phương pháp tốt nhất để kiểm tra tuyến giáp, giúp đánh giá kích thước của tuyến giáp và các đặc điểm nhân giáp: kích thước, số lượng, vôi hóa, phản âm, đường viền, hình dạng, đặc hay dạng nang."
+      },
+      {
+        "name": "Sinh thiết chọc hút bằng kim nhỏ",
+        "description": "Sử dụng cây kim mỏng để lấy tế bào từ một số nhân tuyến giáp và gửi đến phòng thí nghiệm xác định có phải ung thư hay không."
+      },
+      {
+        "name": "Chụp CT hoặc MRI",
+        "description": "Trong một số trường hợp, cần chụp CT hoặc MRI để đánh giá chi tiết hơn về kích thước, vị trí và mức độ lan rộng của bướu giáp."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Hầu hết các bướu giáp đa nhân đều lành tính, chưa cần điều trị bằng thuốc nhưng phải đi khám định kỳ với bác sĩ khoa Nội tiết – Đái tháo đường để theo dõi, sớm phát hiện các bất thường. Phương pháp điều trị phụ thuộc vào kích thước, số nhân giáp, có nhân độc không, có ung thư không.",
+    "methods": [
+      {
+        "name": "Theo dõi định kỳ",
+        "description": "Hầu hết các bướu giáp đa nhân lành tính chỉ cần theo dõi định kỳ 6 tháng/lần, không cần điều trị ngay."
+      },
+      {
+        "name": "Thuốc kháng giáp",
+        "description": "Methimazole và propylthiouracil được sử dụng để điều trị tuyến giáp hoạt động quá mức (cường giáp), bướu giáp đa nhân hóa độc. Thuốc có tác dụng ngăn chặn quá trình sản xuất hormone tuyến giáp."
+      },
+      {
+        "name": "I-ốt phóng xạ",
+        "description": "Hoạt động bằng cách phá hủy một phần tuyến giáp, giúp thu nhỏ tuyến giáp. Người bệnh uống nước chứa liều lượng i-ốt theo chỉ định, các tế bào tuyến giáp sẽ hấp thụ i-ốt và bị phá hủy."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Tùy vào kích thước, số nhân giáp, có nhân độc không, có ung thư không, mà sẽ có chỉ định cắt một phần hay toàn bộ tuyến giáp. Đặc biệt, nếu phát hiện nhân giáp ung thư, phẫu thuật là phương pháp ưu tiên áp dụng."
+      }
+    ],
+    "recommendations": [
+      "Khám định kỳ với bác sĩ Nội tiết - Đái tháo đường theo lịch hẹn",
+      "Uống thuốc đúng liều lượng và thời gian theo chỉ định",
+      "Sau khi cắt toàn bộ tuyến giáp, người bệnh cần dùng thuốc thay thế hormone tuyến giáp suốt đời",
+      "Theo dõi các tác dụng phụ của thuốc và thông báo cho bác sĩ nếu gặp phải",
+      "Bổ sung đầy đủ iốt qua chế độ ăn uống",
+      "Thực hiện tái khám siêu âm tuyến giáp định kỳ để theo dõi sự phát triển của các nhân giáp",
+      "Nếu phát hiện các triệu chứng mới hoặc triệu chứng trở nên nặng hơn, cần đi khám ngay"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vaccine phòng ngừa bướu giáp đa nhân.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Bổ sung đầy đủ iốt trong chế độ ăn uống",
+      "Sử dụng muối iốt trong nấu ăn hàng ngày",
+      "Ăn các thực phẩm giàu iốt như hải sản, rong biển",
+      "Khám sức khỏe định kỳ để phát hiện sớm các vấn đề tuyến giáp",
+      "Đi khám bác sĩ ngay khi phát hiện bất kỳ khối u hoặc sưng ở cổ",
+      "Các thành viên trong gia đình có người bệnh bướu giáp cần khám sức khỏe định kỳ để phát hiện sớm bệnh"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Thuốc điều trị có tác dụng phụ không?",
+      "answer": "Thuốc kháng giáp có thể gây tác dụng phụ. Tác dụng phụ nhẹ (khoảng 15% người dùng) bao gồm ngứa, phát ban, nổi mề đay, sưng đau khớp, sốt, thay đổi khẩu vị, buồn nôn và nôn. Tác dụng phụ nặng hiếm gặp nhưng nghiêm trọng hơn, bao gồm tuyệt lạp bạch cầu (giảm bạch cầu hạt) và tổn thương gan. Nếu xuất hiện các triệu chứng như đau họng, sốt, vàng da, nước tiểu sẫm màu, phân nhạt, đau bụng, cần ngừng thuốc ngay và đi khám bác sĩ."
+    },
+    {
+      "question": "Những tác động lâu dài của bệnh bướu giáp đa nhân là gì?",
+      "answer": "Bướu giáp đa nhân thường lành tính, không gây ra bất kỳ triệu chứng nào cho đến khi to lên, có thể thấy rõ u cục trước cổ và gây khó thở, khó nuốt. Dù không cần điều trị, người bệnh phải khám định kỳ với bác sĩ khoa Nội tiết – Đái tháo đường để kiểm tra, theo dõi kích thước nhân giáp, xác định có độc hay không để điều trị hiệu quả, hạn chế ảnh hưởng đến chất lượng cuộc sống và sức khỏe tổng thể."
+    },
+    {
+      "question": "Bệnh bướu giáp đa nhân có di truyền không?",
+      "answer": "Bướu giáp đa nhân có thể di truyền. Nhiều bằng chứng cho thấy một thành viên trong gia đình bị bướu giáp đa nhân làm tăng khả năng mắc bệnh ở các thành viên khác. Do đó, các thành viên trong gia đình có người bệnh bướu giáp (bướu cổ), bướu giáp đa nhân, bướu giáp lan tỏa, Basedow… nên đi khám sức khỏe định kỳ với bác sĩ Nội tiết – Đái tháo đường, qua đó phát hiện bất thường (nếu có) và lựa chọn phương pháp điều trị hiệu quả."
+    },
+    {
+      "question": "Bướu giáp đa nhân có phải ung thư không?",
+      "answer": "Hầu hết các bướu giáp đa nhân đều lành tính và không phải là ung thư. Tuy nhiên, bướu giáp đa nhân có liên quan đến nguy cơ ung thư tuyến giáp cao hơn. Do đó, khi bị bướu giáp đa nhân, bác sĩ Nội tiết – Đái tháo đường có thể chỉ định sàng lọc ung thư tuyến giáp thông qua sinh thiết chọc hút bằng kim nhỏ để kiểm tra các tế bào bất thường."
+    },
+    {
+      "question": "Sau phẫu thuật cắt tuyến giáp, tôi có cần uống thuốc suốt đời không?",
+      "answer": "Nếu cắt toàn bộ tuyến giáp, người bệnh cần dùng thuốc thay thế hormone tuyến giáp (levothyroxine) suốt đời để duy trì chức năng bình thường của cơ thể. Liều lượng thuốc sẽ được bác sĩ điều chỉnh dựa trên kết quả xét nghiệm hormone tuyến giáp định kỳ. Việc sử dụng thuốc thay thế hormone đúng cách giúp ngăn ngừa các triệu chứng của suy giáp."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sụt cân, run tay và lo lắng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu giáp đa nhân độc",
+        "cường giáp",
+        "bệnh Basedow",
+        "rối loạn lo âu",
+        "cường tuyến thượng thận"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, tăng cân và không chịu được lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy giáp",
+        "bướu giáp đa nhân",
+        "viêm tuyến giáp",
+        "suy tuyến thượng thận",
+        "thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đánh trống ngực, khó ngủ và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu giáp đa nhân độc",
+        "cường giáp",
+        "bệnh Basedow",
+        "u tuyến giáp",
+        "rối loạn lo âu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khô da, táo bón và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy giáp",
+        "bướu giáp đa nhân",
+        "viêm tuyến giáp Hashimoto",
+        "u tuyến giáp",
+        "suy tuyến thượng thận"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở, khàn tiếng và có khối u ở cổ lớn dần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu giáp đa nhân",
+        "ung thư tuyến giáp",
+        "u tuyến giáp",
+        "viêm thanh quản",
+        "hạch bạch huyết"
+      ]
+    },
+    {
+      "question": "Tôi hay bị run tay, lo lắng và sụt cân không rõ lý do. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu giáp đa nhân độc",
+        "cường giáp",
+        "bệnh Basedow",
+        "rối loạn lo âu",
+        "đái tháo đường"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, tăng cân và da khô. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy giáp",
+        "bướu giáp đa nhân",
+        "viêm tuyến giáp",
+        "suy tuyến thượng thận",
+        "thiếu vitamin D"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó chịu ở cổ họng, khó nuốt và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu giáp đa nhân",
+        "u tuyến giáp",
+        "ung thư tuyến giáp",
+        "viêm tuyến giáp",
+        "viêm họng mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đánh trống ngực, mất ngủ và giảm cân nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu giáp đa nhân độc",
+        "cường giáp",
+        "bệnh Basedow",
+        "rối loạn lo âu",
+        "cường tuyến thượng thận"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như táo bón, da khô và rụng tóc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy giáp",
+        "bướu giáp đa nhân",
+        "thiếu sắt",
+        "thiếu vitamin D",
+        "thiếu kẽm"
+      ]
+    }
+  ]
+}

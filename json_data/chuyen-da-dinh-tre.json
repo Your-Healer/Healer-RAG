@@ -1,0 +1,254 @@
+{
+  "disease_id": "chuyen-da-dinh-tre",
+  "disease_name": "Chuyển Dạ Đình Trệ",
+  "disease_alternative_names": [
+    "Chuyển dạ ngưng tiến triển",
+    "Chuyển dạ kéo dài",
+    "Chuyển dạ tắc nghẽn",
+    "Labor dystocia"
+  ],
+  "disease_definition": "Chuyển dạ đình trệ hay chuyển dạ ngưng tiến triển là sự kéo dài thời gian chuyển dạ của người mẹ vượt quá thời gian thai nhi được chỉ định ra đời, kèm theo đó là nhiều biến chứng đối với thai phụ và em bé. Chuyển dạ đình trệ bao gồm chuyển dạ kéo dài và chuyển dạ tắc nghẽn. Đây là cuộc chuyển dạ vì nguyên nhân cơ học bị ngừng lại hoặc buộc phải có can thiệp ngay.",
+  "symptoms": [
+    {
+      "name": "Tử cung co bóp liên tục nhưng thai không lọt",
+      "description": "Quá trình tử cung co bóp diễn ra liên tục nhưng độ lọt của thai không có tiến triển hoặc không có thêm thay đổi nào."
+    },
+    {
+      "name": "Bướu huyết thanh, chồng khớp sọ",
+      "description": "Khi đầu thai nhi bị kẹt trong ống sinh, có thể hình thành bướu huyết thanh và hiện tượng chồng xương sọ."
+    },
+    {
+      "name": "Cổ tử cung không giãn nở",
+      "description": "Không có biểu hiện giãn nở tiếp tục ở cổ tử cung, dù tử cung đã co bóp trong thời gian dài."
+    },
+    {
+      "name": "Kiệt sức và mất nước",
+      "description": "Thai phụ bị kiệt sức, có thể bị mất nước và miệng có thể bị khô do việc thở bằng miệng kéo dài."
+    },
+    {
+      "name": "Đau lưng dữ dội",
+      "description": "Đau lưng và hai bên người, lan xuống đùi do lưng bị đè mạnh trong thời gian dài."
+    },
+    {
+      "name": "Giảm cơn đau chuyển dạ",
+      "description": "Giảm cơn đau chuyển dạ theo thời gian khi các cơ trở nên mệt mỏi."
+    },
+    {
+      "name": "Nhịp tim cao",
+      "description": "Nhịp tim cao do mất nước, kiệt sức và căng thẳng."
+    },
+    {
+      "name": "Tử cung mềm",
+      "description": "Tử cung mềm khi chạm vào và không thư giãn hoàn toàn giữa các cơn co thắt."
+    }
+  ],
+  "causes": {
+    "main_cause": "Chuyển dạ đình trệ là một cuộc sinh khó không được phát hiện sớm, có thể do cơ địa của mẹ bầu hoặc ngôi thai bất thường.",
+    "related_factors": "Các yếu tố liên quan đến chuyển dạ đình trệ bao gồm khung xương chậu của mẹ bị khiếm khuyết, sự hiện diện của các khối u, hoặc tình trạng ngôi thai bất thường.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Khung xương chậu hẹp toàn diện, dẹt, hẹp ngang, méo",
+    "U nang buồng trứng, u xơ tử cung ở vị trí tiền đạo",
+    "U xương chậu, tử cung đôi",
+    "Ngôi thai bất thường có đường kính ngôi lớn: ngang, trán, mặt",
+    "Ngôi chỏm nhưng đầu cúi không tốt, kiểu thế xấu như chẩm sau hoặc chẩm ngang",
+    "Dây rốn ngắn",
+    "Thai nhi có kích thước lớn (trên 3500g)"
+  ],
+  "complications": [
+    "Tăng tỷ lệ suy thai, ngạt thai, chết thai do bị thiếu oxy",
+    "Di chứng do sang chấn sọ não",
+    "Tăng tỷ lệ sử dụng kẹp hoặc giác hút chân không để lấy thai",
+    "Nhiễm trùng huyết ở thai nhi",
+    "Bại não, bệnh não thiếu oxy do thiếu máu cục bộ (HIE) và rối loạn co giật",
+    "Vỡ tử cung ở người mẹ",
+    "Băng huyết sau sinh",
+    "Các chấn thương trong quá trình sinh nở của mẹ (rách cổ tử cung, rách thành âm đạo)",
+    "Nhiễm trùng hậu sản"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Biểu đồ chuyển dạ: Đường mở cổ tử cung sang phía phải của đường báo động hoặc cắt đường hành động",
+      "Đánh giá cơn co tử cung: tần số 3 cơn/10 phút mà sau 4 giờ không có tiến triển về độ lọt",
+      "Đánh giá lâm sàng: kiểm tra hiện tượng chồng xương, bướu huyết thanh",
+      "Theo dõi tim thai để phát hiện suy thai",
+      "Đánh giá tình trạng sức khỏe của thai phụ: mất nước, toan hóa, lượng nước tiểu"
+    ],
+    "tests": [
+      {
+        "name": "Theo dõi lượng nước tiểu",
+        "description": "Lượng nước tiểu theo dõi trong 4 giờ được dưới 100ml là dấu hiệu của tình trạng mất nước."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra nước tiểu để phát hiện tình trạng toan hóa (nước tiểu có acetone)."
+      },
+      {
+        "name": "Theo dõi nhịp tim thai",
+        "description": "Giúp phát hiện tình trạng suy thai."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Việc xử trí chuyển dạ đình trệ phụ thuộc vào nguyên nhân cụ thể và tình trạng của thai phụ và thai nhi. Nếu mẹ bầu có dấu hiệu của cuộc sinh khó ở tuyến xã, sẽ được chỉ định chuyển lên tuyến trên để được hỗ trợ tốt hơn.",
+    "methods": [
+      {
+        "name": "Sinh đường âm đạo hỗ trợ",
+        "description": "Thai phụ sẽ sinh đường âm đạo với các dụng cụ trợ sinh như forceps hoặc giác kéo khi đủ điều kiện."
+      },
+      {
+        "name": "Điều chỉnh cơn co",
+        "description": "Dùng thuốc để điều chỉnh cơn co yếu trong khi chuyển dạ kéo dài."
+      },
+      {
+        "name": "Phẫu thuật lấy thai",
+        "description": "Phẫu thuật lấy thai với thai phụ có chỉ định."
+      },
+      {
+        "name": "Hủy thai",
+        "description": "Trong các trường hợp có chỉ định đặc biệt và cần thiết."
+      }
+    ],
+    "recommendations": [
+      "Ghi nhớ số giờ mà cơn chuyển dạ kéo dài một cách chính xác",
+      "Theo dõi các cơn gò tử cung và nhịp tim thai",
+      "Giữ tâm lý luôn bình tĩnh trong quá trình chờ đợi",
+      "Đi khám thai định kỳ tại các bệnh viện có chuyên khoa sản",
+      "Không bỏ qua các mốc khám thai quan trọng, đặc biệt là sau tuần 36",
+      "Tuân thủ chỉ định của bác sĩ về chế độ ăn uống và nghỉ ngơi"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine để phòng ngừa chuyển dạ đình trệ.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Thực hiện thăm khám thai đều đặn theo khuyến cáo của bác sĩ",
+      "Ghi nhớ những mốc khám thai quan trọng trong thai kỳ",
+      "Duy trì chế độ ăn khi mang thai với đầy đủ dinh dưỡng",
+      "Hạn chế ăn những thực phẩm đóng gói sẵn chứa nhiều chất bảo quản",
+      "Bổ sung thêm trái cây, sắt và canxi theo chỉ định của bác sĩ",
+      "Tránh căng thẳng, mệt mỏi hoặc suy nghĩ tiêu cực trong thai kỳ",
+      "Tìm cho mình những niềm vui như đọc sách, trồng cây, tập thể dục nhẹ nhàng",
+      "Tiêm phòng đầy đủ các mũi vắc xin có thể tiêm trong thai kỳ như uốn ván, COVID-19",
+      "Lựa chọn đơn vị chăm sóc thai kỳ và sinh nở đáng tin cậy"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Chuyển dạ đình trệ là gì?",
+      "answer": "Chuyển dạ đình trệ hay chuyển dạ ngưng tiến triển là sự kéo dài thời gian chuyển dạ của người mẹ vượt quá thời gian thai nhi được chỉ định ra đời, kèm theo đó là nhiều biến chứng đối với thai phụ và em bé. Bao gồm chuyển dạ kéo dài và chuyển dạ tắc nghẽn. Đây là cuộc chuyển dạ vì nguyên nhân cơ học bị ngừng lại hoặc buộc phải có can thiệp ngay."
+    },
+    {
+      "question": "Dấu hiệu nào cho thấy tôi đang bị chuyển dạ đình trệ?",
+      "answer": "Các dấu hiệu của chuyển dạ đình trệ bao gồm: tử cung co bóp liên tục nhưng thai không lọt, có hiện tượng bướu huyết thanh và chồng khớp sọ, không có biểu hiện giãn nở tiếp tục ở cổ tử cung, chuyển dạ kéo dài hơn 14-20 giờ, kiệt sức, mất nước, đau lưng dữ dội lan xuống đùi, giảm cơn đau chuyển dạ theo thời gian, nhịp tim cao, và tử cung mềm khi chạm vào."
+    },
+    {
+      "question": "Nguyên nhân nào gây ra chuyển dạ đình trệ?",
+      "answer": "Chuyển dạ đình trệ có thể do nhiều nguyên nhân, chia thành hai nhóm chính: do cơ địa mẹ bầu (khung xương chậu hẹp toàn diện, dẹt, hẹp ngang, méo; u nang buồng trứng, u xơ tử cung ở vị trí tiền đạo; u xương chậu, tử cung đôi) và do ngôi thai bất thường (ngôi ngang, trán, mặt; ngôi chỏm nhưng đầu cúi không tốt; dây rốn ngắn; thai nhi có kích thước lớn trên 3500g)."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa chuyển dạ đình trệ?",
+      "answer": "Để phòng ngừa chuyển dạ đình trệ, mẹ bầu nên: thăm khám thai đều đặn theo khuyến cáo của bác sĩ, ghi nhớ những mốc khám thai quan trọng, duy trì chế độ ăn đầy đủ dinh dưỡng, bổ sung trái cây, sắt và canxi theo chỉ định, tránh căng thẳng, tiêm phòng đầy đủ các mũi vắc xin được khuyến cáo trong thai kỳ, và lựa chọn đơn vị chăm sóc thai kỳ và sinh nở đáng tin cậy."
+    },
+    {
+      "question": "Các biến chứng nguy hiểm của chuyển dạ đình trệ là gì?",
+      "answer": "Các biến chứng nguy hiểm của chuyển dạ đình trệ đối với thai nhi bao gồm: suy thai, ngạt thai, chết thai do thiếu oxy, di chứng do sang chấn sọ não, nhiễm trùng huyết, bại não, bệnh não thiếu oxy. Đối với mẹ có thể gặp các biến chứng như: vỡ tử cung, băng huyết, rách cổ tử cung, rách thành âm đạo, và nhiễm trùng hậu sản."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tử cung co bóp liên tục nhưng thai không lọt, bướu huyết thanh, chồng khớp sọ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ đình trệ",
+        "chuyển dạ kéo dài",
+        "chuyển dạ tắc nghẽn",
+        "bất tương xứng thai và khung chậu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy kiệt sức, mất nước và đau lưng dữ dội sau hơn 14 giờ chuyển dạ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ đình trệ",
+        "chuyển dạ kéo dài",
+        "mất nước khi chuyển dạ",
+        "suy nhược khi chuyển dạ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lưng lan xuống đùi và cơn đau chuyển dạ giảm dần sau nhiều giờ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ đình trệ",
+        "chuyển dạ kéo dài",
+        "mệt mỏi cơ tử cung",
+        "thai ngôi bất thường"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhịp tim cao, tử cung mềm và không giãn nở cổ tử cung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ đình trệ",
+        "chuyển dạ kéo dài",
+        "cổ tử cung cứng",
+        "co thắt tử cung không hiệu quả"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, miệng khô và không thấy tiến triển trong quá trình sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ đình trệ",
+        "mất nước khi chuyển dạ",
+        "chuyển dạ kéo dài",
+        "mệt mỏi khi chuyển dạ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau hai bên hông, cơn co thắt yếu đi và không thấy thai di chuyển xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ đình trệ",
+        "chuyển dạ kéo dài",
+        "mệt mỏi cơ tử cung",
+        "thai ngôi bất thường"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như bướu huyết thanh, chồng khớp sọ và không có dấu hiệu giãn nở cổ tử cung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ đình trệ",
+        "chuyển dạ tắc nghẽn",
+        "bất tương xứng thai và khung chậu",
+        "cổ tử cung cứng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lo lắng vì chuyển dạ đã lâu nhưng không có tiến triển, tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ đình trệ",
+        "chuyển dạ kéo dài",
+        "lo âu khi chuyển dạ",
+        "mệt mỏi khi chuyển dạ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lưng, mệt mỏi và cổ tử cung không mở thêm sau nhiều giờ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ đình trệ",
+        "chuyển dạ tắc nghẽn",
+        "cổ tử cung cứng",
+        "mệt mỏi khi chuyển dạ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như kiệt sức, nhịp tim nhanh và tử cung mềm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ đình trệ",
+        "mất nước khi chuyển dạ",
+        "suy nhược khi chuyển dạ",
+        "stress khi chuyển dạ"
+      ]
+    }
+  ]
+}

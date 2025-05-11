@@ -1,0 +1,275 @@
+{
+  "disease_id": "bui-phoi-silic",
+  "disease_name": "Bệnh Bụi Phổi Silic",
+  "disease_alternative_names": [
+    "Silicosis",
+    "Bệnh phổi silic",
+    "Bệnh bụi phổi silic nghề nghiệp"
+  ],
+  "disease_definition": "Bệnh bụi phổi silic là kết quả của quá trình xơ hóa phổi, thường gặp ở những đối tượng làm công việc thường xuyên hít phải bụi có chứa silic. Silic là một tinh thể nhỏ trông giống như pha lê, được tìm thấy trong cát, đá hoặc quặng khoáng sản như thạch anh. Theo thời gian, những tinh thể silic này sẽ tích tụ trong phổi và đường thở của người bệnh, gây khó thở, suy yếu hệ hô hấp, và ở mức độ nặng có thể dẫn đến tử vong.",
+  "symptoms": [
+    {
+      "name": "Ho dai dẳng",
+      "description": "Một trong những dấu hiệu đầu tiên của bệnh là ho kéo dài, thỉnh thoảng kèm theo đờm."
+    },
+    {
+      "name": "Khó thở và hụt hơi",
+      "description": "Người bệnh gặp khó khăn khi hô hấp, thường cảm thấy hụt hơi đặc biệt khi gắng sức như leo cầu thang hoặc vận động nhẹ."
+    },
+    {
+      "name": "Mệt mỏi và sụt cân",
+      "description": "Cảm giác mệt mỏi thường xuyên và giảm cân không rõ nguyên nhân là triệu chứng thường gặp của bệnh."
+    },
+    {
+      "name": "Đau và tức ngực",
+      "description": "Người bệnh cảm thấy đau, khó chịu và tức ngực, nhất là khi hít sâu."
+    },
+    {
+      "name": "Sốt và đổ mồ hôi đêm",
+      "description": "Triệu chứng sốt thường xuất hiện về chiều và đổ mồ hôi vào ban đêm."
+    },
+    {
+      "name": "Chân sưng và môi xanh",
+      "description": "Ở giai đoạn tiến triển, người bệnh có thể có biểu hiện sưng phù ở chân và môi chuyển màu xanh nhợt do thiếu oxy trong máu."
+    },
+    {
+      "name": "Suy hô hấp",
+      "description": "Tình trạng hô hấp ngày càng suy yếu, gây khó thở nghiêm trọng và có thể dẫn đến suy hô hấp."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh bụi phổi silic xảy ra khi cơ thể phản ứng lại trước sự tích tụ bụi silic trong phổi. Khi người bệnh hít phải bụi silic qua mũi hoặc miệng, các tinh thể này sẽ hoạt động như những lưỡi dao nhỏ trên phổi, tạo ra những vết cắt nhỏ và sẹo mô phổi. Phổi bị sẹo không thể tự mở và đóng lại, khiến người bệnh thở khó khăn hơn.",
+    "related_factors": "Bệnh thường được phân thành 3 loại: cấp tính (phát triển sau vài tuần đến vài năm tiếp xúc), mãn tính (phát triển sau 10-30 năm tiếp xúc), và bệnh tiến triển (xuất hiện sau 5-10 năm tiếp xúc với nồng độ cao). Thời gian và mức độ tiếp xúc với bụi silic quyết định sự tiến triển của bệnh.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Làm việc trong môi trường có nhiều bụi silic như nhà máy, mỏ đá, mỏ quặng",
+    "Thường xuyên tham gia vào các hoạt động sản xuất nhựa đường",
+    "Làm việc trong ngành sản xuất bê tông",
+    "Làm việc trong ngành sản xuất thủy tinh",
+    "Tham gia vào công việc nghiền hoặc khoan đá và bê tông",
+    "Làm việc trong ngành khai thác khoáng sản",
+    "Tiếp xúc lâu dài với bụi silic mà không có thiết bị bảo hộ thích hợp",
+    "Hút thuốc lá (làm trầm trọng thêm các triệu chứng và tăng tốc độ tiến triển của bệnh)"
+  ],
+  "complications": [
+    "Bệnh lao phổi",
+    "Viêm phổi nặng",
+    "Ung thư phổi",
+    "Bệnh phổi tắc nghẽn mãn tính (COPD)",
+    "Viêm phế quản mãn tính",
+    "Bệnh xơ cứng bì",
+    "Bệnh xơ hóa khối lớn tiến triển (PMF)",
+    "Bệnh phổi silic phức tạp (bụi phổi tụ huyết)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Thăm khám lâm sàng và hỏi bệnh sử chi tiết",
+      "Đánh giá quá trình làm việc và tiếp xúc với bụi silic",
+      "Đánh giá các triệu chứng hô hấp và thời gian xuất hiện",
+      "Kiểm tra sức khỏe định kỳ cho người làm việc trong môi trường nguy cơ cao"
+    ],
+    "tests": [
+      {
+        "name": "Chụp X-quang phổi",
+        "description": "Giúp bác sĩ quan sát hình ảnh phổi, phát hiện những tổn thương và xác định mức độ nghiêm trọng của bệnh. Ở bệnh mãn tính, X-quang có thể cho thấy tổn thương đường kính dưới 10mm ở phổi trên."
+      },
+      {
+        "name": "Chụp CT phổi",
+        "description": "Cung cấp hình ảnh chi tiết hơn về phổi, giúp đánh giá chính xác hơn mức độ tổn thương phổi do bụi silic."
+      },
+      {
+        "name": "Kiểm tra chức năng phổi",
+        "description": "Đo lường khả năng thở đúng cách của phổi, bao gồm phép đo phế dung và khả năng khuếch tán, giúp xác định mức độ tổn thương phổi."
+      },
+      {
+        "name": "Xét nghiệm đờm",
+        "description": "Lấy chất nhầy từ cổ họng để phân tích, giúp phát hiện các bất thường và kết hợp với các phương pháp khác để chẩn đoán."
+      },
+      {
+        "name": "Nội soi phế quản",
+        "description": "Sử dụng ống soi phế quản đưa qua mũi hoặc miệng đến khí quản và phổi, giúp quan sát trực tiếp và lấy mẫu mô, chất lỏng để xét nghiệm."
+      },
+      {
+        "name": "Sinh thiết phổi",
+        "description": "Thực hiện bởi bác sĩ phẫu thuật lồng ngực dưới gây mê toàn thân, giúp lấy mẫu mô phổi để xét nghiệm chi tiết."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Bệnh bụi phổi silic không có cách chữa khỏi hoàn toàn. Một khi phổi đã tổn thương thì không thể phục hồi. Mọi phương pháp điều trị đều nhằm mục đích làm chậm sự tiến triển của bệnh cũng như làm giảm nhẹ các triệu chứng.",
+    "methods": [
+      {
+        "name": "Sử dụng thuốc giãn phế quản",
+        "description": "Giúp tăng khẩu kính đường thở và giảm viêm, làm dịu các triệu chứng hô hấp và cải thiện khả năng thở."
+      },
+      {
+        "name": "Bỏ thuốc lá",
+        "description": "Ngừng hút thuốc là rất quan trọng nếu bệnh nhân hút thuốc lâu năm, vì hút thuốc làm trầm trọng thêm các triệu chứng và tăng tốc độ tiến triển của bệnh."
+      },
+      {
+        "name": "Liệu pháp oxy",
+        "description": "Đeo mặt nạ oxy để bơm thêm không khí vào phổi và tăng lượng oxy trong máu, giúp cải thiện chất lượng cuộc sống cho người bệnh."
+      },
+      {
+        "name": "Phẫu thuật ghép phổi",
+        "description": "Trong những tình huống rất nghiêm trọng, bác sĩ có thể đề nghị thực hiện cuộc phẫu thuật ghép phổi như một biện pháp cuối cùng."
+      }
+    ],
+    "recommendations": [
+      "Thường xuyên khám sức khỏe để theo dõi diễn tiến của bệnh",
+      "Xét nghiệm lao định kỳ vì người bệnh bụi phổi silic có nguy cơ mắc bệnh lao cao hơn",
+      "Tiêm vắc-xin phòng cúm và viêm phổi do phế cầu khuẩn theo khuyến cáo của bác sĩ",
+      "Duy trì chế độ ăn uống cân bằng và lành mạnh",
+      "Tập thể dục nhẹ nhàng theo hướng dẫn của bác sĩ",
+      "Tránh tiếp xúc với bụi silic để ngăn bệnh tiến triển nặng hơn",
+      "Sử dụng thiết bị hỗ trợ hô hấp nếu cần thiết"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine đặc hiệu cho bệnh bụi phổi silic. Tuy nhiên, tiêm vắc-xin phòng cúm và viêm phổi do phế cầu khuẩn được khuyến cáo để ngăn ngừa nhiễm trùng đường hô hấp có thể làm trầm trọng thêm tình trạng bệnh.",
+      "recommended_for": [
+        "Người làm việc trong môi trường có bụi silic",
+        "Người đã được chẩn đoán mắc bệnh bụi phổi silic"
+      ]
+    },
+    "general_recommendations": [
+      "Hạn chế tối đa thời gian tiếp xúc với bụi silic",
+      "Đeo khẩu trang và mặc quần áo bảo hộ khi làm việc trong môi trường có bụi silic",
+      "Sử dụng phương pháp làm ướt để cắt, bào hoặc mài vật liệu chứa silic",
+      "Tắm rửa và thay quần áo sau khi làm việc trong môi trường có bụi silic",
+      "Không ăn hoặc uống trong hoặc gần khu vực chứa bụi silic",
+      "Rửa tay và mặt trước khi ăn",
+      "Duy trì cân nặng hợp lý với chế độ ăn uống lành mạnh, cân bằng",
+      "Vận động thường xuyên nhưng không quá gắng sức",
+      "Tuân thủ các quy định về an toàn lao động tại nơi làm việc",
+      "Thực hiện khám sức khỏe định kỳ để phát hiện bệnh sớm"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh bụi phổi silic có chữa được không?",
+      "answer": "Bệnh bụi phổi silic không có cách chữa khỏi hoàn toàn. Một khi phổi đã tổn thương do bệnh thì không thể phục hồi. Mọi phương pháp điều trị đều nhằm mục đích làm chậm sự tiến triển của bệnh cũng như làm giảm nhẹ các triệu chứng. Các phương pháp điều trị bao gồm sử dụng thuốc giãn phế quản, bỏ thuốc lá, liệu pháp oxy, và trong trường hợp nghiêm trọng, có thể cân nhắc phẫu thuật ghép phổi."
+    },
+    {
+      "question": "Bệnh bụi phổi silic có dấu hiệu gì?",
+      "answer": "Các dấu hiệu đầu tiên của bệnh bụi phổi silic thường bao gồm ho dai dẳng (đôi khi kèm theo đờm), khó thở và hụt hơi, đặc biệt khi gắng sức. Khi bệnh tiến triển, người bệnh có thể gặp các triệu chứng như mệt mỏi, sụt cân, đau tức ngực, sốt, đổ mồ hôi đêm, chân sưng và môi xanh do thiếu oxy."
+    },
+    {
+      "question": "Những ai có nguy cơ mắc bệnh bụi phổi silic?",
+      "answer": "Những người thường xuyên làm việc trong môi trường có nhiều bụi silic có nguy cơ cao mắc bệnh, như: công nhân nhà máy, mỏ đá hay mỏ quặng; người làm việc trong ngành sản xuất nhựa đường, bê tông, thủy tinh; người tham gia vào công việc nghiền hoặc khoan đá và bê tông; và người làm việc trong ngành khai thác khoáng sản. Bệnh thường được chẩn đoán phổ biến nhất ở những người trên 40 tuổi, vì phải mất nhiều năm tiếp xúc với silic, người bệnh mới xuất hiện các triệu chứng tổn thương phổi rõ ràng."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa bệnh bụi phổi silic?",
+      "answer": "Để phòng ngừa bệnh bụi phổi silic, cần thực hiện các biện pháp sau: hạn chế tiếp xúc với bụi silic; đeo khẩu trang và mặc quần áo bảo hộ khi làm việc trong môi trường có bụi; sử dụng phương pháp làm ướt để cắt, bào hoặc mài vật liệu; tắm rửa và thay quần áo sau khi làm việc; không ăn hoặc uống trong khu vực chứa bụi silic; rửa tay và mặt trước khi ăn; duy trì cân nặng hợp lý và chế độ ăn uống lành mạnh; tập thể dục thường xuyên; và tiêm vắc-xin phòng cúm và viêm phổi."
+    },
+    {
+      "question": "Bệnh bụi phổi silic có những biến chứng gì?",
+      "answer": "Bệnh bụi phổi silic nếu kéo dài mà không được chữa trị hoặc chữa trị không đúng cách có thể dẫn đến những biến chứng nghiêm trọng như: bệnh lao phổi, viêm phổi nặng, ung thư phổi, bệnh phổi tắc nghẽn mãn tính (COPD), viêm phế quản mãn tính, bệnh xơ cứng bì, và bệnh xơ hóa khối lớn tiến triển (PMF). Người bệnh bụi phổi silic cũng có nguy cơ mắc bệnh lao cao hơn người bình thường."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có triệu chứng ho dai dẳng và thỉnh thoảng kèm theo đờm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi silic",
+        "viêm phế quản mãn tính",
+        "bệnh phổi tắc nghẽn mãn tính",
+        "lao phổi",
+        "ung thư phổi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở và hụt hơi khi leo cầu thang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi silic",
+        "bệnh phổi tắc nghẽn mãn tính",
+        "hen suyễn",
+        "suy tim",
+        "bệnh tim thiếu máu cục bộ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mệt mỏi và sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi silic",
+        "lao phổi",
+        "ung thư phổi",
+        "bệnh phổi mãn tính",
+        "suy dinh dưỡng"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng đau tức ngực và khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi silic",
+        "bệnh mạch vành",
+        "viêm phổi",
+        "tràn khí màng phổi",
+        "bệnh trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị sốt về chiều và đổ mồ hôi trộm vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi silic",
+        "lao phổi",
+        "nhiễm trùng mãn tính",
+        "lymphoma",
+        "bệnh tự miễn"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng chân bị sưng phù và môi nhợt nhạt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi silic giai đoạn nặng",
+        "suy tim",
+        "bệnh thận",
+        "suy dinh dưỡng",
+        "thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở, ho khan và tức ngực khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi silic",
+        "bệnh phổi tắc nghẽn mãn tính",
+        "hen suyễn",
+        "bệnh tim",
+        "viêm phổi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị hụt hơi khi nói chuyện hoặc cười lớn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi silic",
+        "bệnh phổi tắc nghẽn mãn tính",
+        "hen suyễn",
+        "xơ phổi",
+        "bệnh tim mạch"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng ho dai dẳng, kèm theo đau rát họng và khàn tiếng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi silic",
+        "viêm thanh quản",
+        "trào ngược dạ dày thực quản",
+        "ung thư thanh quản",
+        "viêm phế quản"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị mệt mỏi và chán ăn, kèm theo sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi silic",
+        "lao phổi",
+        "ung thư phổi",
+        "bệnh tự miễn",
+        "suy dinh dưỡng"
+      ]
+    }
+  ]
+}

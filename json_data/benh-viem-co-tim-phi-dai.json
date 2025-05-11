@@ -1,0 +1,162 @@
+{
+  "disease_id": "benh-viem-co-tim-phi-dai",
+  "disease_name": "Bệnh cơ tim phì đại",
+  "disease_alternative_names": [
+    "Bệnh cơ tim dày",
+    "Hypertrophic Cardiomyopathy",
+    "HCM"
+  ],
+  "disease_definition": "Bệnh cơ tim phì đại là tình trạng thành cơ tim (thường là thất trái) dày lên bất thường, khiến tim phải làm việc vất vả hơn để bơm máu. Đây là bệnh di truyền phổ biến nhất của cơ tim, ảnh hưởng đến khoảng 1/500 người trong dân số chung.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Khó thở khi gắng sức, đặc biệt khi tập thể dục hoặc leo cầu thang"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau thắt ngực, đặc biệt khi hoạt động thể chất"
+    },
+    {
+      "name": "Đánh trống ngực",
+      "description": "Tim đập nhanh, không đều hoặc cảm giác đánh trống ngực"
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Cảm giác chóng mặt, choáng váng, đặc biệt sau khi gắng sức"
+    },
+    {
+      "name": "Ngất",
+      "description": "Có thể bị ngất đột ngột, đặc biệt trong hoặc sau khi gắng sức"
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh cơ tim phì đại chủ yếu do đột biến gen liên quan đến protein cơ tim.",
+    "related_factors": "Tiền sử gia đình có người mắc bệnh, tăng huyết áp kéo dài và lão hóa là các yếu tố làm tăng nguy cơ mắc bệnh.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Di truyền",
+      "description": "Có người thân trực hệ mắc bệnh làm tăng nguy cơ"
+    },
+    {
+      "name": "Tuổi",
+      "description": "Nguy cơ mắc bệnh tăng theo tuổi"
+    },
+    {
+      "name": "Tăng huyết áp",
+      "description": "Tăng huyết áp kéo dài có thể góp phần làm dày cơ tim"
+    },
+    {
+      "name": "Giới tính",
+      "description": "Nam giới có nguy cơ cao hơn nữ giới"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Suy tim",
+      "description": "Tim không thể bơm máu hiệu quả do cơ tim dày và cứng"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Nhịp tim không đều, có thể dẫn đến đột tử"
+    },
+    {
+      "name": "Tắc nghẽn đường ra thất trái",
+      "description": "Cản trở dòng máu từ tim ra động mạch chủ"
+    },
+    {
+      "name": "Đột tử do tim",
+      "description": "Biến chứng nghiêm trọng nhất, đặc biệt ở người trẻ"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ sẽ khám tổng quát, nghe tim và đánh giá các triệu chứng"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Phát hiện các bất thường về điện tim và dày thất trái"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá độ dày của thành tim và chức năng tim"
+      },
+      {
+        "name": "Chụp cộng hưởng từ tim",
+        "description": "Cung cấp hình ảnh chi tiết về cấu trúc tim và mức độ dày của cơ tim"
+      },
+      {
+        "name": "Xét nghiệm di truyền",
+        "description": "Xác định các đột biến gen liên quan đến bệnh"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh cơ tim phì đại tập trung vào kiểm soát triệu chứng và ngăn ngừa biến chứng nghiêm trọng.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc chẹn beta, thuốc chẹn kênh canxi để kiểm soát triệu chứng"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Cắt bỏ một phần cơ tim dày trong trường hợp nặng (phẫu thuật cắt vách liên thất)"
+      },
+      {
+        "name": "Cấy máy khử rung",
+        "description": "Đặt máy khử rung tự động (ICD) để phòng ngừa đột tử"
+      }
+    ],
+    "recommendations": [
+      "Tránh các hoạt động thể lực nặng",
+      "Duy trì lối sống lành mạnh",
+      "Theo dõi định kỳ với bác sĩ",
+      "Kiểm soát huyết áp",
+      "Uống thuốc đều đặn theo chỉ định"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin đặc hiệu cho bệnh cơ tim phì đại.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tầm soát di truyền cho người có nguy cơ cao",
+      "Khám sức khỏe định kỳ",
+      "Kiểm soát huyết áp",
+      "Duy trì lối sống lành mạnh",
+      "Tránh các hoạt động gắng sức mạnh",
+      "Theo dõi chặt chẽ với bác sĩ chuyên khoa tim mạch"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Người bệnh cơ tim phì đại có thể tham gia thể thao không?",
+      "related_diseases": [
+        "đột tử do tim",
+        "rối loạn nhịp tim",
+        "suy tim"
+      ]
+    },
+    {
+      "question": "Bệnh cơ tim phì đại có thể phát hiện sớm không?",
+      "related_diseases": [
+        "bệnh tim bẩm sinh",
+        "bệnh cơ tim",
+        "rối loạn nhịp tim"
+      ]
+    },
+    {
+      "question": "Phụ nữ mắc bệnh cơ tim phì đại có thể mang thai không?",
+      "related_diseases": [
+        "suy tim",
+        "tăng huyết áp thai kỳ",
+        "biến chứng thai kỳ"
+      ]
+    }
+  ]
+} 

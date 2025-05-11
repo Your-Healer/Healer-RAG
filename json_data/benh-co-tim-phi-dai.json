@@ -1,0 +1,204 @@
+{
+  "disease_id": "benh-co-tim-phi-dai",
+  "disease_name": "Bệnh cơ tim phì đại",
+  "disease_alternative_names": ["Bệnh phì đại thất trái", "Bệnh phì đại cơ tim", "Hypertrophic Cardiomyopathy (HCM)"],
+  "disease_definition": "Bệnh cơ tim phì đại là một rối loạn di truyền của cơ tim, đặc trưng bởi sự dày bất thường của thành tim, đặc biệt là vách liên thất. Bệnh có thể gây ra nhiều biến chứng tim mạch nghiêm trọng, bao gồm suy tim, loạn nhịp tim và đột tử.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Đặc biệt khi gắng sức hoặc nằm xuống, do sự tắc nghẽn đường ra thất trái và rối loạn chức năng tâm trương"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Đau thắt ngực, cảm giác đau nhói, đặc biệt khi hoạt động thể lực"
+    },
+    {
+      "name": "Ngất xỉu",
+      "description": "Đây là dấu hiệu báo hiệu rối loạn nhịp nhanh thất hoặc rung thất, có nguy cơ đột tử"
+    },
+    {
+      "name": "Đánh trống ngực",
+      "description": "Cảm giác tim đập nhanh hoặc không đều, đặc biệt khi gắng sức"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Mệt mỏi bất thường, đặc biệt sau khi hoạt động thể chất"
+    },
+    {
+      "name": "Hoa mắt, chóng mặt",
+      "description": "Đặc biệt khi thay đổi tư thế đột ngột hoặc sau khi gắng sức"
+    }
+  ],
+  "causes": [
+    {
+      "name": "Di truyền",
+      "description": "Bệnh cơ tim phì đại là một bệnh lý di truyền do các đột biến gen mã hóa protein của cấu trúc sarcomere cơ tim. Đã xác định ít nhất 13 gen với hơn 900 đột biến khác nhau có thể gây bệnh."
+    },
+    {
+      "name": "Đột biến tự phát",
+      "description": "Một số trường hợp không có tiền sử gia đình rõ ràng mà do đột biến mới xuất hiện"
+    },
+    {
+      "name": "Tăng huyết áp kéo dài",
+      "description": "Ở người lớn tuổi, tăng huyết áp không được điều trị sớm và hiệu quả có thể dẫn đến phì đại cơ tim thứ phát"
+    },
+    {
+      "name": "Bệnh lý nội tiết",
+      "description": "Một số rối loạn nội tiết như cường giáp, u tế bào ưa crôm có thể liên quan đến bệnh"
+    },
+    {
+      "name": "Một số bệnh toàn thân",
+      "description": "Hội chứng Noonan, bệnh Friedreich, bệnh chuyển hóa Glycogen"
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Tiền sử gia đình",
+      "description": "Có người thân trong gia đình mắc bệnh cơ tim phì đại"
+    },
+    {
+      "name": "Tuổi trẻ",
+      "description": "Bệnh thường xuất hiện ở người dưới 35 tuổi, đặc biệt là vận động viên thể thao"
+    },
+    {
+      "name": "Tăng huyết áp",
+      "description": "Tăng huyết áp không được kiểm soát có thể làm tăng nguy cơ phì đại cơ tim"
+    },
+    {
+      "name": "Vận động viên",
+      "description": "Một số vận động viên chuyên nghiệp có nguy cơ phát triển phì đại cơ tim do hoạt động thể thao cường độ cao"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Đột tử",
+      "description": "Nguy cơ cao đột tử tim do rối loạn nhịp tim, đặc biệt ở người trẻ và vận động viên"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Rung nhĩ, nhịp nhanh thất và rung thất. Rung nhĩ có thể dẫn đến hình thành cục máu đông, gây nhồi máu cơ tim, đột quỵ"
+    },
+    {
+      "name": "Suy tim",
+      "description": "Do cơ tim dày lên khiến tim giảm khả năng bơm máu hiệu quả để đáp ứng nhu cầu của cơ thể"
+    },
+    {
+      "name": "Hở van hai lá",
+      "description": "Do áp lực của dòng máu lên van tim tăng, ảnh hưởng đến hoạt động van hai lá"
+    },
+    {
+      "name": "Thiếu máu cơ tim",
+      "description": "Do giảm lượng máu qua động mạch vành và các mao mạch không phát triển tương xứng với tăng kích thước cơ tim"
+    }
+  ],
+  "diagnosis_methods": [
+    {
+      "name": "Điện tâm đồ (ECG)",
+      "description": "Phát hiện các dấu hiệu bất thường của điện tim chỉ điểm phì đại thất trái"
+    },
+    {
+      "name": "Siêu âm tim",
+      "description": "Đánh giá độ dày của thành tim, đặc biệt là vách liên thất, chức năng tim và mức độ tắc nghẽn đường ra thất trái"
+    },
+    {
+      "name": "Cộng hưởng từ tim (CMR)",
+      "description": "Đánh giá chi tiết cấu trúc và chức năng tim, phát hiện xơ hóa cơ tim"
+    },
+    {
+      "name": "Chụp cắt lớp vi tính (CT)",
+      "description": "Cung cấp hình ảnh chi tiết về cấu trúc tim"
+    },
+    {
+      "name": "Xét nghiệm gen",
+      "description": "Xác định các đột biến gen liên quan đến bệnh cơ tim phì đại"
+    },
+    {
+      "name": "Đo Holter 24 giờ",
+      "description": "Phát hiện rối loạn nhịp tim và đánh giá nguy cơ đột tử"
+    }
+  ],
+  "treatment_methods": [
+    {
+      "name": "Điều trị bằng thuốc",
+      "description": "Thuốc chẹn beta và thuốc chẹn kênh canxi giúp làm giãn cơ tim, giảm tắc nghẽn đường ra thất trái. Disopyramide có thể được sử dụng để giảm triệu chứng. Thuốc mavacamten - chất ức chế myosin tim làm giảm tắc nghẽn đường ra thất trái và cải thiện khả năng gắng sức"
+    },
+    {
+      "name": "Đặt máy khử rung tim (ICD)",
+      "description": "Được chỉ định cho bệnh nhân có nguy cơ cao bị đột tử, có tiền sử ngất xỉu hoặc rối loạn nhịp tim nguy hiểm"
+    },
+    {
+      "name": "Phẫu thuật cắt vách liên thất",
+      "description": "Loại bỏ một phần cơ tim phì đại để giảm tắc nghẽn đường ra thất trái ở những bệnh nhân có triệu chứng nặng không đáp ứng với điều trị nội khoa"
+    },
+    {
+      "name": "Tiêm cồn vào nhánh vách của động mạch liên thất",
+      "description": "Nhằm mục đích làm vùng cơ tim tiêm cồn co lại và giảm độ dày vách liên thất"
+    },
+    {
+      "name": "Thay đổi lối sống",
+      "description": "Hạn chế hoạt động thể lực cường độ cao, giảm rượu bia, caffein và duy trì lối sống lành mạnh"
+    }
+  ],
+  "prevention_methods": [
+    {
+      "name": "Tầm soát cho người có nguy cơ cao",
+      "description": "Khám sàng lọc định kỳ cho những người có tiền sử gia đình mắc bệnh cơ tim phì đại"
+    },
+    {
+      "name": "Tư vấn di truyền",
+      "description": "Với những gia đình có người mắc bệnh cơ tim phì đại"
+    },
+    {
+      "name": "Kiểm soát huyết áp",
+      "description": "Điều trị tích cực tăng huyết áp để ngăn ngừa phì đại thất trái thứ phát"
+    },
+    {
+      "name": "Khám sức khỏe định kỳ",
+      "description": "Đặc biệt quan trọng đối với vận động viên và những người có tiền sử gia đình mắc bệnh"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bệnh cơ tim phì đại có chữa được không?",
+      "answer": "Hiện tại, bệnh cơ tim phì đại không thể chữa khỏi hoàn toàn. Tuy nhiên, có nhiều phương pháp điều trị hiện đại giúp giảm thiểu triệu chứng và biến chứng nguy hiểm của bệnh như suy tim, đột tử, đột quỵ. Với phương pháp điều trị thích hợp, đa số bệnh nhân có thể sống và hoạt động bình thường."
+    },
+    {
+      "question": "Bệnh cơ tim phì đại có nguy hiểm không?",
+      "answer": "Bệnh cơ tim phì đại rất nguy hiểm nếu không được phát hiện và điều trị kịp thời. Đây là nguyên nhân hàng đầu gây đột tử ở vận động viên trẻ tuổi và người trẻ. Tuy nhiên, với sự theo dõi và điều trị y tế thích hợp, phần lớn bệnh nhân có thể kiểm soát được bệnh và sống cuộc sống bình thường."
+    },
+    {
+      "question": "Người bệnh cơ tim phì đại nên tránh những hoạt động gì?",
+      "answer": "Người bệnh cơ tim phì đại nên tránh các hoạt động thể chất cường độ cao, các môn thể thao cạnh tranh, nâng vật nặng. Nên tránh dùng rượu, caffein và các chất kích thích khác có thể làm tăng nhịp tim. Tránh thuốc giãn mạch như nitrat vì có thể làm trầm trọng thêm tình trạng tắc nghẽn đường ra thất trái."
+    },
+    {
+      "question": "Bệnh cơ tim phì đại có di truyền không?",
+      "answer": "Có, bệnh cơ tim phì đại là một bệnh di truyền với khoảng 50-60% số trường hợp được xác định có nguyên nhân từ các đột biến gen. Nếu một người mắc bệnh, con cái của họ có 50% nguy cơ mang gen đột biến. Vì vậy, các thành viên trong gia đình có người mắc bệnh nên được tầm soát và theo dõi."
+    },
+    {
+      "question": "Bệnh cơ tim phì đại sống được bao lâu?",
+      "answer": "Tiên lượng sống của bệnh nhân cơ tim phì đại rất khác nhau tùy theo mức độ nghiêm trọng của bệnh, sự xuất hiện của các biến chứng và đáp ứng với điều trị. Với sự tiến bộ trong chẩn đoán và điều trị, nhiều bệnh nhân có thể sống tuổi thọ bình thường. Tỷ lệ tử vong hàng năm do bệnh này khoảng 1%."
+    }
+  ],
+  "popular_questions": [
+    {
+      "question": "Tôi hay bị tim đập nhanh và khó thở khi gắng sức, có thể là bị bệnh cơ tim phì đại không?",
+      "answer": "Triệu chứng tim đập nhanh và khó thở khi gắng sức là triệu chứng phổ biến của nhiều bệnh tim mạch, trong đó có bệnh cơ tim phì đại. Tuy nhiên, để chẩn đoán chính xác, bạn cần được bác sĩ khám lâm sàng và thực hiện các xét nghiệm cần thiết như điện tâm đồ, siêu âm tim. Bạn nên đến gặp bác sĩ chuyên khoa tim mạch để được thăm khám."
+    },
+    {
+      "question": "Bệnh cơ tim phì đại có ảnh hưởng đến việc mang thai không?",
+      "answer": "Phụ nữ mắc bệnh cơ tim phì đại có thể mang thai nhưng cần được theo dõi chặt chẽ. Khi mang thai, tim phải làm việc nhiều hơn để cung cấp máu cho cả mẹ và thai nhi, điều này có thể làm trầm trọng thêm các triệu chứng. Nếu bạn bị bệnh cơ tim phì đại và đang có kế hoạch mang thai, hãy tham khảo ý kiến bác sĩ tim mạch và sản khoa để được tư vấn và theo dõi thích hợp."
+    },
+    {
+      "question": "Tôi có thể tập thể dục nếu bị cơ tim phì đại không?",
+      "answer": "Người bệnh cơ tim phì đại vẫn có thể tập thể dục nhưng cần tránh các hoạt động cường độ cao và các môn thể thao cạnh tranh. Các bài tập nhẹ nhàng như đi bộ, bơi lội nhẹ nhàng thường được khuyến khích. Quan trọng là phải tham khảo ý kiến bác sĩ tim mạch để có chương trình tập luyện phù hợp với tình trạng bệnh của bạn."
+    },
+    {
+      "question": "Tôi có người thân bị đột tử do bệnh cơ tim phì đại, tôi có nên đi khám không?",
+      "answer": "Có, bạn nên đi khám ngay lập tức. Bệnh cơ tim phì đại có tính chất di truyền, và việc có người thân đột tử do bệnh này là một yếu tố nguy cơ cao. Các thành viên trong gia đình có người mắc bệnh cơ tim phì đại nên được tầm soát định kỳ bằng siêu âm tim và điện tâm đồ, đặc biệt là người có độ tuổi từ 12-25."
+    },
+    {
+      "question": "Thuốc điều trị bệnh cơ tim phì đại có tác dụng phụ nghiêm trọng không?",
+      "answer": "Các thuốc điều trị bệnh cơ tim phì đại như thuốc chẹn beta, thuốc chẹn kênh canxi có thể có tác dụng phụ như mệt mỏi, chóng mặt, hạ huyết áp, nhịp tim chậm. Tuy nhiên, lợi ích của thuốc thường vượt trội hơn tác dụng phụ. Bác sĩ sẽ cân nhắc kỹ lưỡng và điều chỉnh liều lượng phù hợp để giảm thiểu tác dụng phụ trong khi vẫn đạt hiệu quả điều trị."
+    }
+  ]
+}

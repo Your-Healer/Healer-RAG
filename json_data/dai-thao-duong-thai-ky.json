@@ -1,0 +1,252 @@
+{
+  "disease_id": "dai-thao-duong-thai-ky",
+  "disease_name": "Đái Tháo Đường Thai Kỳ",
+  "disease_alternative_names": [
+    "Tiểu đường thai kỳ",
+    "Gestational diabetes mellitus",
+    "GDM"
+  ],
+  "disease_definition": "Đái tháo đường thai kỳ là tình trạng lượng đường trong máu cao ở một số phụ nữ trong thời gian mang thai. Bệnh thường phát triển từ tuần thai thứ 24 – 28 và không đồng nghĩa với việc thai phụ đã mắc bệnh từ trước lúc mang thai hoặc sẽ tiếp tục mắc bệnh sau khi sinh con. Tuy nhiên, tình trạng này làm tăng nguy cơ phát triển bệnh đái tháo đường tuýp 2 trong tương lai và có thể gây biến chứng cho cả mẹ và con nếu không được điều trị đúng cách.",
+  "symptoms": [
+    {
+      "name": "Đi tiểu nhiều lần",
+      "description": "Thai phụ cảm thấy phải đi tiểu thường xuyên, nhiều lần hơn bình thường trong ngày."
+    },
+    {
+      "name": "Mệt mỏi bất thường",
+      "description": "Cảm giác mệt mỏi kéo dài mặc dù đã nghỉ ngơi đầy đủ."
+    },
+    {
+      "name": "Mờ mắt",
+      "description": "Thị lực kém đi, nhìn không rõ vật hoặc thấy mờ."
+    },
+    {
+      "name": "Khát nước liên tục",
+      "description": "Cảm giác khát nước thường xuyên, dù đã uống nhiều nước."
+    },
+    {
+      "name": "Ngủ ngáy",
+      "description": "Tiếng ngáy trong khi ngủ, có thể là dấu hiệu của các vấn đề về hô hấp liên quan đến rối loạn chuyển hóa."
+    },
+    {
+      "name": "Tăng cân quá nhanh",
+      "description": "Cân nặng tăng vượt quá mức khuyến nghị cho thai phụ trong thời gian ngắn."
+    }
+  ],
+  "causes": {
+    "main_cause": "Đái tháo đường thai kỳ xảy ra khi cơ thể thai phụ không thể sản xuất đủ insulin để đáp ứng nhu cầu tăng cao trong thai kỳ. Trong thời kỳ mang thai, nhau thai tiết ra các hormone khiến cơ thể thai phụ khó sản xuất hoặc sử dụng insulin hơn (đề kháng insulin). Để giữ lượng đường trong máu ổn định, tuyến tụy phải tạo ra nhiều insulin hơn – gấp ba lần bình thường. Khi tuyến tụy không thể tạo ra đủ insulin, lượng đường trong máu thai phụ sẽ tăng lên, gây ra bệnh đái tháo đường thai kỳ.",
+    "related_factors": "Nguyên nhân chính của đái tháo đường thai kỳ là sự đề kháng insulin tăng do các hormone từ nhau thai tiết ra, cùng với khả năng sản xuất insulin không đủ đáp ứng nhu cầu tăng cao của cơ thể thai phụ.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Thừa cân hoặc béo phì trước khi mang thai",
+    "Tăng cân quá nhanh trong thai kỳ",
+    "Có người thân (cha mẹ, anh chị em) mắc bệnh tiểu đường tuýp 2",
+    "Tiền sử bị tiền tiểu đường (lượng đường trong máu cao nhưng chưa đủ để chẩn đoán đái tháo đường)",
+    "Tiền sử mắc đái tháo đường thai kỳ trong lần mang thai trước",
+    "Tuổi trên 35",
+    "Từng sinh một hoặc nhiều bé nặng hơn 4kg",
+    "Tiền sử thai lưu, sinh con bị dị tật, sinh non",
+    "Mắc hoặc từng mắc hội chứng buồng trứng đa nang (PCOS)"
+  ],
+  "complications": [
+    "Tăng trưởng quá mức và thai to (trên 4kg) gây khó khăn khi sinh",
+    "Sinh non do lượng đường trong máu cao hoặc do thai quá lớn",
+    "Hội chứng suy hô hấp ở trẻ sinh non",
+    "Hạ đường huyết ở trẻ sơ sinh",
+    "Dị tật bẩm sinh",
+    "Tử vong sơ sinh",
+    "Tăng hồng cầu, vàng da sơ sinh",
+    "Nguy cơ béo phì và bệnh tiểu đường tuýp 2 khi trẻ trưởng thành",
+    "Thai chết lưu",
+    "Tăng huyết áp và tiền sản giật ở mẹ",
+    "Tăng nguy cơ phải sinh mổ",
+    "Tăng nguy cơ nhiễm khuẩn đường tiết niệu",
+    "Tăng nguy cơ mắc đái tháo đường tuýp 2 ở mẹ trong tương lai"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám sức khỏe và hỏi tiền sử",
+      "Tầm soát thường quy vào tuần 24-28 của thai kỳ",
+      "Đánh giá các yếu tố nguy cơ"
+    ],
+    "tests": [
+      {
+        "name": "Nghiệm pháp dung nạp glucose 75g",
+        "description": "Thai phụ nhịn ăn 8 giờ, sau đó uống dung dịch chứa 75g glucose. Bác sĩ sẽ lấy máu để kiểm tra lượng đường trong máu trước và sau khi uống. Kết quả xét nghiệm sẽ cho biết thai phụ có bị đái tháo đường thai kỳ hay không."
+      },
+      {
+        "name": "Tự kiểm tra đường huyết",
+        "description": "Thai phụ được hướng dẫn cách tự kiểm tra lượng đường trong máu thường xuyên, trước và sau bữa ăn 1-2 giờ để đánh giá hiệu quả của quá trình điều trị."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Mục tiêu điều trị đái tháo đường thai kỳ là kiểm soát lượng đường trong máu của thai phụ và duy trì ở mức an toàn để bảo vệ sức khỏe của cả mẹ và thai nhi. Đa số trường hợp có thể điều trị hiệu quả bằng các thay đổi trong lối sống, một số trường hợp cần dùng thuốc để kiểm soát đường huyết.",
+    "methods": [
+      {
+        "name": "Chế độ ăn đặc biệt",
+        "description": "Tuân thủ chế độ ăn cân bằng dinh dưỡng, kiểm soát lượng carbohydrate, chia nhỏ bữa ăn, tránh thực phẩm có chỉ số đường huyết cao. Thai phụ nên dung nạp khoảng 2,200-2,500 calo/ngày nếu có cân nặng trung bình, hoặc 1,800 calo/ngày nếu thừa cân."
+      },
+      {
+        "name": "Tập thể dục nhẹ nhàng",
+        "description": "Vận động cơ thể nhẹ nhàng giúp cơ thể sản xuất và sử dụng insulin hiệu quả hơn, từ đó kiểm soát tốt lượng đường trong máu. Nên thực hiện các bài tập ở mức độ nhẹ đến trung bình trong 15-30 phút, vào hầu hết các ngày trong tuần."
+      },
+      {
+        "name": "Theo dõi lượng đường trong máu",
+        "description": "Tự kiểm tra đường huyết thường xuyên, trước và sau bữa ăn 1-2 giờ để đánh giá hiệu quả của quá trình điều trị."
+      },
+      {
+        "name": "Dùng thuốc điều trị tiểu đường",
+        "description": "Khi thay đổi lối sống không hiệu quả, bác sĩ có thể kê đơn thuốc tiểu đường hoặc insulin để kiểm soát đường huyết."
+      },
+      {
+        "name": "Theo dõi sự phát triển của thai nhi",
+        "description": "Bác sĩ sẽ theo dõi sát sao kích thước của thai nhi. Nếu thai nhi quá lớn, có thể chỉ định sinh sớm hơn dự kiến (sau 37 tuần)."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ lịch khám thai định kỳ",
+      "Uống đủ nước",
+      "Theo dõi cân nặng và hạn chế tăng cân quá mức",
+      "Chia nhỏ bữa ăn, ăn mỗi 2-3 giờ một lần",
+      "Hạn chế thực phẩm chứa đường đơn giản và tinh bột tinh chế",
+      "Ưu tiên thực phẩm giàu chất xơ, protein, chất béo lành mạnh",
+      "Duy trì vận động nhẹ nhàng hằng ngày",
+      "Uống thuốc đúng liều và đúng thời điểm theo chỉ định của bác sĩ",
+      "Kiểm tra đường huyết thường xuyên",
+      "Kiểm tra lại đường huyết sau sinh 4-12 tuần"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa đái tháo đường thai kỳ.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý trước khi mang thai",
+      "Chọn thực phẩm có lợi cho sức khỏe (giàu chất xơ, ít chất béo và calo)",
+      "Vận động thường xuyên, ít nhất 30 phút mỗi ngày",
+      "Theo dõi mức tăng cân trong thai kỳ theo khuyến nghị của bác sĩ",
+      "Xét nghiệm đường huyết định kỳ khi mang thai",
+      "Tránh thức ăn nhiều đường và tinh bột tinh chế",
+      "Bổ sung đầy đủ các nhóm chất dinh dưỡng cần thiết",
+      "Nghỉ ngơi hợp lý, tránh căng thẳng"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bị đái tháo đường thai kỳ có uống sữa bầu được không?",
+      "answer": "Thai phụ bị đái tháo đường thai kỳ vẫn cần bổ sung 2-3 ly sữa (400-600ml) mỗi ngày. Tuy nhiên, nên chọn loại sữa không đường để tránh làm tăng đường huyết. Sữa cung cấp canxi và nhiều dưỡng chất quan trọng cho sự phát triển của thai nhi."
+    },
+    {
+      "question": "Mắc bệnh đái tháo đường thai kỳ có sinh thường được không?",
+      "answer": "Khi bị đái tháo đường thai kỳ, thai phụ hoàn toàn có thể sinh thường nếu thai nhi có cân nặng không quá lớn (thường là dưới 4kg). Nếu bé nặng trên 4kg, bác sĩ sẽ chỉ định sinh mổ để đảm bảo an toàn cho mẹ và bé trong quá trình sinh nở."
+    },
+    {
+      "question": "Đái tháo đường thai kỳ sau khi sinh có tự khỏi không?",
+      "answer": "Hầu hết lượng đường trong máu của phụ nữ sẽ giảm xuống sau khi sinh con và lượng hormone trở lại bình thường. Tuy nhiên, khoảng 50% phụ nữ mắc đái tháo đường thai kỳ sẽ phát triển thành bệnh đái tháo đường tuýp 2 trong tương lai. Chế độ ăn uống và tập thể dục hợp lý có thể giúp giảm thiểu nguy cơ này. Bác sĩ thường đề nghị xét nghiệm đường huyết từ 4-12 tuần sau khi sinh để theo dõi."
+    },
+    {
+      "question": "Làm thế nào để kiểm soát đường huyết khi mang thai?",
+      "answer": "Để kiểm soát đường huyết khi mang thai, thai phụ cần tuân thủ chế độ ăn đặc biệt (ít carbohydrate tinh chế, giàu chất xơ và protein), tập thể dục nhẹ nhàng đều đặn, theo dõi đường huyết thường xuyên, và dùng thuốc nếu được chỉ định. Việc chia nhỏ bữa ăn, ăn đúng giờ, uống đủ nước và duy trì cân nặng hợp lý cũng rất quan trọng."
+    },
+    {
+      "question": "Đái tháo đường thai kỳ có nguy hiểm cho thai nhi không?",
+      "answer": "Đái tháo đường thai kỳ nếu không được kiểm soát có thể gây ra nhiều nguy hiểm cho thai nhi, bao gồm: thai to (trên 4kg) gây khó khăn khi sinh, sinh non, hội chứng suy hô hấp, hạ đường huyết sau sinh, dị tật bẩm sinh, tăng nguy cơ béo phì và tiểu đường tuýp 2 khi trưởng thành, và trong trường hợp nghiêm trọng có thể dẫn đến tử vong sơ sinh hoặc thai chết lưu."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang mang thai và cảm thấy khát nước liên tục, đi tiểu nhiều lần trong ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đái tháo đường thai kỳ",
+        "nhiễm trùng đường tiết niệu",
+        "mất nước",
+        "tiền sản giật"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và cảm thấy mệt mỏi, mờ mắt và tăng cân nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đái tháo đường thai kỳ",
+        "thiếu máu thai kỳ",
+        "tiền sản giật",
+        "rối loạn tuyến giáp"
+      ]
+    },
+    {
+      "question": "Tôi hay ngủ ngáy khi mang thai và đi tiểu nhiều lần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đái tháo đường thai kỳ",
+        "ngưng thở khi ngủ",
+        "tăng cân quá mức",
+        "nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên cảm thấy khát nước và mệt mỏi khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đái tháo đường thai kỳ",
+        "mất nước",
+        "thiếu máu thai kỳ",
+        "nhiễm trùng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang mang thai và cảm thấy mờ mắt, tăng cân nhanh và đi tiểu nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đái tháo đường thai kỳ",
+        "tiền sản giật",
+        "tăng huyết áp thai kỳ",
+        "rối loạn thị lực do thai kỳ"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và cảm thấy mệt mỏi, ngủ ngáy và khát nước liên tục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đái tháo đường thai kỳ",
+        "rối loạn giấc ngủ khi mang thai",
+        "mất nước",
+        "ngưng thở khi ngủ"
+      ]
+    },
+    {
+      "question": "Tôi hay đi tiểu nhiều lần và tăng cân nhanh khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đái tháo đường thai kỳ",
+        "nhiễm trùng đường tiết niệu",
+        "tiền sản giật",
+        "tăng cân quá mức"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên cảm thấy mờ mắt và mệt mỏi khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đái tháo đường thai kỳ",
+        "thiếu máu thai kỳ",
+        "rối loạn thị lực do thai kỳ",
+        "tăng huyết áp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang mang thai và cảm thấy khát nước liên tục, ngủ ngáy và tăng cân nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đái tháo đường thai kỳ",
+        "ngưng thở khi ngủ",
+        "tăng cân quá mức",
+        "rối loạn chuyển hóa"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và cảm thấy mệt mỏi, mờ mắt và đi tiểu nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đái tháo đường thai kỳ",
+        "thiếu máu thai kỳ",
+        "nhiễm trùng đường tiết niệu",
+        "rối loạn thị lực do thai kỳ"
+      ]
+    }
+  ]
+}

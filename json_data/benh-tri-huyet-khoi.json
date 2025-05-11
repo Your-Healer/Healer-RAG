@@ -1,0 +1,163 @@
+{
+  "disease_id": "benh-tri-huyet-khoi",
+  "disease_name": "Bệnh trĩ huyết khối",
+  "disease_alternative_names": [
+    "Trĩ tắc mạch",
+    "Bệnh huyết khối quanh hậu môn",
+    "Hemorrhoidal thrombosis"
+  ],
+  "disease_definition": "Bệnh trĩ huyết khối xảy ra khi một cục máu đông hình thành bên trong búi trĩ. Cục máu đông chặn dòng chảy của máu, gây ra các triệu chứng viêm, đau và chảy máu. Các búi trĩ có thể xuất hiện dưới dạng một cục đơn lẻ hoặc một khối tròn.",
+  "symptoms": [
+    {
+      "name": "Cục máu đông",
+      "description": "Xuất hiện cục nhỏ quanh hậu môn có màu sẫm, hơi xanh do chứa cục máu đông bên trong"
+    },
+    {
+      "name": "Đau và sưng",
+      "description": "Cảm giác đau, sưng tấy vùng hậu môn, đặc biệt khi đi vệ sinh"
+    },
+    {
+      "name": "Chảy máu",
+      "description": "Có thể chảy máu ở hậu môn nếu huyết khối tắc mạch bị vỡ ra"
+    },
+    {
+      "name": "Khó chịu",
+      "description": "Khó khăn và đau đớn khi đi bộ, ngồi hoặc đi vệ sinh"
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính là do thiếu collagen mô đệm ống hậu môn, làm mất tính chất đàn hồi, gây ra giãn mạch máu và dây chằng treo trĩ",
+    "related_factors": "Các yếu tố liên quan bao gồm táo bón hoặc tiêu chảy thường xuyên, ngồi nhiều lười vận động, ăn uống không hợp lý, mang thai, sinh con",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Táo bón hoặc tiêu chảy",
+      "description": "Tình trạng táo bón hoặc tiêu chảy kéo dài gây áp lực lên hậu môn"
+    },
+    {
+      "name": "Lối sống ít vận động",
+      "description": "Ngồi nhiều, lười vận động làm tăng áp lực lên hậu môn"
+    },
+    {
+      "name": "Chế độ ăn",
+      "description": "Ăn uống thiếu chất xơ, uống không đủ nước"
+    },
+    {
+      "name": "Mang thai và sinh con",
+      "description": "Áp lực từ thai nhi và quá trình sinh nở có thể gây trĩ"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Áp xe",
+      "description": "Nhiễm trùng và hình thành áp xe quanh hậu môn"
+    },
+    {
+      "name": "Nhiễm trùng",
+      "description": "Có thể dẫn đến nhiễm trùng máu nếu không được điều trị"
+    },
+    {
+      "name": "Rò hậu môn",
+      "description": "Hình thành đường rò từ hậu môn ra ngoài"
+    },
+    {
+      "name": "Hoại tử",
+      "description": "Hoại tử búi trĩ trong trường hợp nặng"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ sẽ khám trực tiếp để đánh giá tình trạng búi trĩ"
+      },
+      {
+        "name": "Nội soi hậu môn",
+        "description": "Kiểm tra chi tiết tình trạng hậu môn và trực tràng"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị trĩ huyết khối cần được thực hiện sớm để tránh các biến chứng nghiêm trọng, từ điều trị nội khoa đến phẫu thuật tùy theo mức độ nặng của bệnh.",
+    "methods": [
+      {
+        "name": "Phẫu thuật cắt trĩ",
+        "description": "Sử dụng dao Plasma hoặc phẫu thuật Longo để cắt bỏ búi trĩ"
+      },
+      {
+        "name": "Phẫu thuật laser",
+        "description": "Sử dụng tia laser để đốt teo hoặc cắt bỏ búi trĩ"
+      },
+      {
+        "name": "Tiêm xơ",
+        "description": "Tiêm thuốc làm xơ hóa búi trĩ"
+      },
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc bôi, thuốc giảm đau và các biện pháp hỗ trợ khác"
+      }
+    ],
+    "recommendations": [
+      "Ngâm hậu môn trong nước ấm",
+      "Đắp lạnh để giảm đau và viêm",
+      "Sử dụng khăn lau ướt thay vì giấy vệ sinh",
+      "Mặc quần áo rộng rãi bằng cotton",
+      "Dùng thuốc làm mềm phân"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin đặc hiệu cho bệnh trĩ huyết khối.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Đến bệnh viện kịp thời khi có triệu chứng",
+      "Bổ sung chất xơ và collagen trong chế độ ăn",
+      "Uống đủ nước mỗi ngày",
+      "Tập thể dục đều đặn",
+      "Không nhịn đi tiêu",
+      "Sử dụng gối khoét lỗ khi ngồi lâu",
+      "Thực hiện các bài tập yoga hậu môn"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như cục nhỏ màu xanh sẫm quanh hậu môn và sưng đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "trĩ huyết khối",
+        "trĩ ngoại",
+        "áp xe hậu môn",
+        "nứt kẽ hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau rát và chảy máu ở hậu môn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "trĩ huyết khối",
+        "trĩ nội",
+        "nứt kẽ hậu môn",
+        "viêm hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy cục máu đông ở hậu môn và cảm giác đau nhói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "trĩ huyết khối",
+        "trĩ ngoại",
+        "áp xe hậu môn",
+        "u hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sưng hậu môn, đau rát và chảy máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "trĩ huyết khối",
+        "trĩ nội",
+        "nứt kẽ hậu môn",
+        "viêm hậu môn"
+      ]
+    }
+  ]
+}

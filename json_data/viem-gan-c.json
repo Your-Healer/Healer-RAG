@@ -1,0 +1,263 @@
+{
+  "disease_id": "viem-gan-c",
+  "disease_name": "Viêm gan C",
+  "disease_alternative_names": ["Viêm gan siêu vi C", "HCV", "Hepatitis C"],
+  "disease_definition": "Viêm gan C là tình trạng nhiễm trùng gan do siêu vi viêm gan C (HCV) gây ra. Bệnh khiến các tế bào gan bị viêm, gây rối loạn chức năng gan. Theo thời gian, tình trạng viêm trong mô gan có thể hình thành các tổn thương xơ chai vĩnh viễn, dẫn đến nhiều biến chứng nguy hiểm như xơ gan và ung thư gan. Theo thống kê của Bộ y tế, nước ta hiện có khoảng 1 triệu người nhiễm virus viêm gan C.",
+  "symptoms": [
+    {
+      "name": "Viêm gan C cấp tính",
+      "description": "Tình trạng nhiễm trùng ngắn hạn, kéo dài trong vòng 6 tháng sau khi virus xâm nhập vào cơ thể. Có khoảng 15 – 25% trường hợp nhiễm virus C tự khỏi hẳn, không cần điều trị đặc hiệu nào. Tuy nhiên, đa số trường hợp viêm gan cấp tính đều dẫn đến mãn tính."
+    },
+    {
+      "name": "Viêm gan C mãn tính",
+      "description": "Tình trạng nhiễm trùng kéo dài trên 6 tháng. Nếu không được điều trị, bệnh có thể tồn tại suốt đời và gây ra các vấn đề sức khỏe nghiêm trọng, bao gồm suy chức năng gan, xơ gan, ung thư gan và thậm chí tử vong."
+    },
+    {
+      "name": "Sốt nhẹ",
+      "description": "Triệu chứng thường xuất hiện sau 2 – 12 tuần nhiễm virus."
+    },
+    {
+      "name": "Buồn nôn hoặc nôn",
+      "description": "Rối loạn tiêu hóa do gan bị viêm, ảnh hưởng đến chức năng tiêu hóa."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi chung do gan không hoạt động hiệu quả."
+    },
+    {
+      "name": "Chán ăn, ăn không ngon",
+      "description": "Giảm cảm giác thèm ăn, ảnh hưởng đến sức khỏe tổng thể."
+    },
+    {
+      "name": "Vàng da",
+      "description": "Da và mắt chuyển màu vàng do tăng bilirubin trong máu khi gan không thể xử lý hiệu quả."
+    },
+    {
+      "name": "Nước tiểu đậm",
+      "description": "Màu nước tiểu trở nên đậm hơn do tăng bilirubin."
+    },
+    {
+      "name": "Phân nhạt màu",
+      "description": "Phân có màu nhạt do gan không tiết đủ mật vào ruột."
+    },
+    {
+      "name": "Đau bụng trên bên phải",
+      "description": "Đau ở vùng gan do tình trạng viêm."
+    },
+    {
+      "name": "Đau khớp",
+      "description": "Đau ở các khớp do phản ứng miễn dịch khi cơ thể chống lại virus."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh viêm gan C là do siêu vi viêm gan C (Hepatitis C Virus: HCV) gây ra. Virus viêm gan C có tính đa hình thái kiểu gen rất cao. Hiện giới y học đã xác định được 6 kiểu gen chính đánh số từ 1 đến 6. Kiểu gen HCV chủ yếu ở người bệnh tại Việt Nam là kiểu gen 1, tiếp theo lần lượt là kiểu gen 6, 2 và 3.",
+    "related_factors": "Các yếu tố liên quan đến việc lây truyền virus viêm gan C bao gồm tiếp xúc với máu nhiễm virus, quan hệ tình dục không an toàn, và lây truyền từ mẹ sang con.",
+    "transmission_routes": [
+      "Dùng chung dụng cụ sử dụng ma tuý: Bất cứ thứ gì liên quan đến việc tiêm chích ma túy, từ ống tiêm, kim tiêm cho đến garô (dây thắt) đều có thể dính máu và làm lây truyền bệnh",
+      "Dùng chung dụng cụ xăm hoặc xỏ khuyên: Các thiết bị xăm, xỏ khuyên và mực xăm có thể làm lây lan virus",
+      "Tái sử dụng hoặc sử dụng các thiết bị, dụng cụ y tế không được khử trùng đúng cách, đặc biệt là các loại bơm kim tiêm",
+      "Truyền máu không qua sàng lọc virus HCV",
+      "Dùng chung các đồ dùng có khả năng dính máu của người bệnh như dao cạo râu, bàn chải đánh răng, đồ cắt móng tay",
+      "Quan hệ tình dục không an toàn",
+      "Lây truyền từ mẹ sang con (tỉ lệ 4-8%)"
+    ]
+  },
+  "risk_factors": [
+    "Người tiêm chích ma tuý: Tiêm chích ma tuý là một trong những cách lây nhiễm virus viêm gan C phổ biến nhất",
+    "Nhân viên chăm sóc sức khỏe: Bác sĩ, y tá, nhân viên phòng thí nghiệm có nhiều khả năng tiếp xúc với máu hoặc vô tình bị kim đâm",
+    "Bệnh nhân chạy thận nhân tạo: Người bệnh có thể bị lây nhiễm do sử dụng các thiết bị lọc máu không được vệ sinh đúng cách",
+    "Người có đời sống tình dục không lành mạnh: Quan hệ tình dục với nhiều bạn tình, quan hệ tình dục không bảo vệ làm tăng nguy cơ lây nhiễm virus",
+    "Người có người thân mắc bệnh: Tiếp xúc gần gũi hàng ngày với người bị bệnh có thể làm tăng nguy cơ mắc bệnh",
+    "Người có khuyên hoặc hình xăm trên cơ thể: Các thiết bị và vật dụng xăm hình/xỏ khuyên có thể bị nhiễm HCV, làm tăng nguy cơ lây nhiễm",
+    "Trẻ có mẹ mắc bệnh viêm gan C: Nếu người mẹ bị nhiễm HIV và viêm gan C, trẻ sơ sinh sẽ có nhiều khả năng bị nhiễm bệnh hơn"
+  ],
+  "complications": [
+    "Tình trạng viêm gan mạn tính: biểu hiện bởi các triệu chứng của suy chức năng gan từ nhẹ đến nặng. Tuy vậy, đa số trường hợp ít có triệu chứng rõ ràng",
+    "Xơ gan: Viêm gan kéo dài gây tổn thương gan, các mô tổn thương liên tục được thay thế bằng các mô sẹo, khiến gan dần bị xơ hóa. Theo WHO, có khoảng 15 – 30% người bị viêm gan mãn tính tiến triển thành xơ gan trong vòng 20 năm",
+    "Ung thư gan: Virus viêm gan C được xác định là một trong những nguyên nhân gây ung thư gan. Những người bị xơ gan liên quan đến HCV có nguy cơ ung thư gan cao hơn những người bị xơ gan liên quan đến uống nhiều rượu"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Hỏi bệnh sử của người bệnh",
+      "Kiểm tra thể chất",
+      "Xét nghiệm máu để tìm kháng thể chống HCV và RNA của virus"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm kháng thể chống HCV",
+        "description": "Đây là xét nghiệm đầu tiên được thực hiện để kiểm tra sự hiện diện của kháng thể chống HCV. Kháng thể chống HCV là những chất cơ thể tạo ra để chống lại virus viêm gan C, thường xuất hiện khoảng 12 tuần sau khi bị nhiễm virus. Nếu kết quả xét nghiệm kháng thể chống HCV dương tính, người bệnh có khả năng cao là đã bị nhiễm virus."
+      },
+      {
+        "name": "Xét nghiệm HCV – RNA (đo tải lượng HCV)",
+        "description": "Đo số lượng ARN virus hiện có trong máu người bệnh."
+      },
+      {
+        "name": "Xét nghiệm xác định kiểu gen",
+        "description": "Nhằm tìm ra loại virus viêm gan C nào đang gây bệnh, vì hiện tại có đến 6 kiểu gen chính của HCV. Thông tin này sẽ giúp xác định phương pháp điều trị sẽ hiệu quả nhất cho người bệnh."
+      },
+      {
+        "name": "Xét nghiệm chức năng gan",
+        "description": "Kiểm tra hoạt động của gan, phát hiện tổn thương gan."
+      },
+      {
+        "name": "Siêu âm gan",
+        "description": "Hình ảnh ảnh gan qua siêu âm bụng, độ xơ chai gan qua siêu âm đàn hồi."
+      },
+      {
+        "name": "Chụp cắt lớp hoặc cộng hưởng từ gan",
+        "description": "Phát hiện tổn thương gan và u gan."
+      },
+      {
+        "name": "Xét nghiệm máu tầm soát sớm ung thư tế bào gan (HCC Risk)",
+        "description": "Phát hiện sớm nguy cơ ung thư gan."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Nhiễm trùng viêm gan C được điều trị bằng thuốc kháng virus. Việc lựa chọn loại thuốc và thời gian điều trị phụ thuộc vào kiểu gen HCV, các tổn thương gan hiện có, các tình trạng y tế khác (nếu có) và các phương pháp điều trị trước đó.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc kháng virus tác dụng trực tiếp (DAAs)",
+        "description": "Sử dụng các loại thuốc như Sofosbuvir, Ledipasvir, Daclatasvir, Elbasvir, Grazoprevir, Velpatasvir. Các thuốc này có tác dụng loại bỏ hoàn toàn virus viêm gan C ra khỏi cơ thể, đồng thời ngăn ngừa tổn thương gan. Thời gian điều trị trung bình với phác đồ sử dụng DAAs là 12 tuần, một số trường hợp cần kéo dài hơn, đến 24 tuần."
+      },
+      {
+        "name": "Phối hợp DAAs với Ribavirin",
+        "description": "Tùy trường hợp cụ thể, việc sử dụng DAAs có thể phối hợp hoặc không phối hợp với Ribavirin."
+      },
+      {
+        "name": "Ghép gan",
+        "description": "Nếu người bệnh đã phát triển các biến chứng nghiêm trọng do nhiễm viêm gan C mãn tính. Ghép gan là phẫu thuật thay thế một phần hoặc toàn bộ lá gan đã bị hư hỏng của người bệnh bằng gan khỏe mạnh từ người cho."
+      }
+    ],
+    "recommendations": [
+      "Bổ sung các loại thực phẩm giàu chất dinh dưỡng, tốt cho sức khỏe như các loại hạt, các loại đậu, cá, thịt gà, rau xanh, trái cây",
+      "Hạn chế ăn thức ăn nhanh, nhiều dầu mỡ, nội tạng động vật, thịt đỏ",
+      "Kiêng bia, rượu và bỏ hút thuốc lá",
+      "Nghỉ ngơi đầy đủ và tránh stress",
+      "Tuân thủ lịch tái khám và dùng thuốc theo chỉ định của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Để riêng biệt các dụng cụ cá nhân có khả năng gây tổn thương, chảy máu như dao cạo, kéo, cắt móng tay, bàn chải đánh răng để tránh dính sang người khác hoặc nhầm lẫn khi sử dụng",
+      "Luôn dự trữ sẵn găng tay y tế, đề phòng trường hợp bị thương hoặc cần người chăm sóc sức khỏe",
+      "Nếu có vết thương hở, người bệnh cần băng bó cẩn thận, tránh làm dính ra các vật dụng khác hoặc khi tiếp xúc với người khác",
+      "Hỏi ý kiến bác sĩ về việc quan hệ tình dục khi đang mắc bệnh, có đời sống tình dục lành mạnh",
+      "Phụ nữ mắc viêm gan C cần điều trị triệt để bệnh để tránh lây nhiễm cho con"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện tại vẫn chưa có vắc xin phòng ngừa bệnh viêm gan C. Mặc dù một số nghiên cứu đang được tiến hành nhưng chưa có đầy đủ bằng chứng về hiệu quả và an toàn của chúng. Việc phát triển vắc-xin cho bệnh viêm gan C đang gặp nhiều thách thức, HCV có nhiều kiểu gen, nhiều phân nhóm và biến đổi nhanh chóng, vì vậy, chúng dễ dàng trốn được hệ thống miễn dịch.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tuyệt đối không dùng chung kim tiêm: Những người sử dụng ma túy qua đường tĩnh mạch có khả năng bị lây nhiễm viêm gan C rất cao vì tình trạng dùng chung bơm kim tiêm",
+      "Tránh tiếp xúc trực tiếp với máu hoặc các chế phẩm từ máu: Những người làm trong ngành y tế, xét nghiệm cần cẩn thận để tránh tiếp xúc trực tiếp với máu của người bệnh",
+      "Không dùng chung các vật dụng chăm sóc cá nhân: Không dùng chung các vật dụng như bàn chải đánh răng, dao cạo râu, cắt móng tay và kéo để tránh bị dính máu và làm lây lan virus",
+      "Chọn tiệm xăm và xỏ khuyên cẩn thận: Lựa chọn tiệm xăm hình hoặc xỏ khuyên uy tín, có quy trình vệ sinh phù hợp sẽ giúp ngăn ngừa tình trạng lây nhiễm",
+      "Quan hệ tình dục an toàn: Không quan hệ tình dục không bảo vệ với nhiều bạn tình hoặc với bất kỳ đối tác nào có tình trạng sức khỏe không đảm bảo",
+      "Duy trì một lối sống lành mạnh, quản lý tốt cân nặng",
+      "Hạn chế tiếp xúc với các tác nhân độc hại cho gan như thuốc lá, rượu bia, chất kích thích, hóa chất",
+      "Khám sức khỏe định kỳ để phát hiện sớm và điều trị kịp thời viêm gan C"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Có vắc xin phòng viêm gan C không?",
+      "answer": "Hiện tại vẫn chưa có vắc xin phòng ngừa bệnh viêm gan C. Mặc dù một số nghiên cứu đang được tiến hành nhưng chưa có đầy đủ bằng chứng về hiệu quả và an toàn của chúng. Việc phát triển vắc-xin cho bệnh viêm gan C đang gặp nhiều thách thức, HCV có nhiều kiểu gen, nhiều phân nhóm và biến đổi nhanh chóng, vì vậy, chúng dễ dàng trốn được hệ thống miễn dịch. Tuy nhiên, đã có vắc xin cho viêm gan siêu vi A và B. Bác sĩ có thể đề nghị người bệnh viêm gan C tiêm các loại vắc xin này vì viêm gan A và B có thể dẫn đến nhiều biến chứng khác nhau trong quá trình điều trị viêm gan C."
+    },
+    {
+      "question": "Đang mang thai mà bị nhiễm viêm gan C có sao không?",
+      "answer": "Viêm gan C có thể lây từ mẹ sang con, tuy nhiên khả năng lây nhiễm không cao (khoảng 4 – 8%). Nguy cơ lây nhiễm sẽ tăng lên nếu người mẹ có tải lượng virus viêm gan C cao hoặc đồng nhiễm HIV. Mẹ bị mắc viêm gan C không làm tăng nguy cơ dị tật thai nhi. Tuy nhiên, trong một số ít trường hợp, viêm gan C có thể tiến triển nặng đe dọa đến sự an toàn của cả mẹ và con. Do đó, trong trường hợp nghi ngờ bản thân nhiễm HCV khi đang mang thai, mẹ bầu cần đến các bệnh viện chuyên khoa để được xét nghiệm và tư vấn cách điều trị. Tuyệt đối không tự ý sử dụng thuốc để tránh các hậu quả khó lường về sau."
+    },
+    {
+      "question": "Làm sao để tránh lây bệnh cho người khác?",
+      "answer": "Người bệnh viêm gan C cần thực hiện các biện pháp sau để tránh lây bệnh cho người khác: Để riêng biệt các dụng cụ cá nhân có khả năng gây tổn thương, chảy máu như dao cạo, kéo, cắt móng tay, bàn chải đánh răng để tránh dính sang người khác hoặc nhầm lẫn khi sử dụng. Luôn dự trữ sẵn găng tay y tế, đề phòng trường hợp bị thương hoặc cần người chăm sóc sức khỏe. Nếu có vết thương hở, người bệnh cần băng bó cẩn thận, tránh làm dính ra các vật dụng khác hoặc khi tiếp xúc với người khác. Hỏi ý kiến bác sĩ về việc quan hệ tình dục khi đang mắc bệnh, có đời sống tình dục lành mạnh. Phụ nữ mắc viêm gan C cần điều trị triệt để bệnh để tránh lây nhiễm cho con."
+    },
+    {
+      "question": "Virus viêm gan C có thể sống bao lâu ở bên ngoài cơ thể?",
+      "answer": "HCV có thể tồn tại trên các bề mặt ở nhiệt độ phòng ít nhất 16 giờ nhưng không quá 4 ngày. Tại Hội nghị lần thứ 17 về Retrovirus & Nhiễm trùng Cơ hội, các nhà nghiên cứu người Mỹ đã công bố một phát hiện cho rằng trong những trường hợp thích hợp, HCV vẫn tồn tại trong một ống tiêm đến 63 ngày."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "viêm gan A", "suy gan", "trầm cảm"]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt nhẹ, buồn nôn hoặc nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "viêm gan A", "cúm", "nhiễm trùng đường tiêu hóa"]
+    },
+    {
+      "question": "Tôi hay bị vàng da, nước tiểu đậm, phân nhạt màu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "viêm gan A", "bệnh lý túi mật", "tắc mật"]
+    },
+    {
+      "question": "Tôi hay bị đau bụng trên bên phải và đau khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "viêm túi mật", "sỏi mật", "viêm khớp"]
+    },
+    {
+      "question": "Tôi bị viêm gan mãn tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "viêm gan tự miễn", "viêm gan do rượu"]
+    },
+    {
+      "question": "Tôi bị xơ gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "bệnh gan do rượu", "bệnh gan nhiễm mỡ"]
+    },
+    {
+      "question": "Tôi bị ung thư gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "xơ gan", "bệnh gan do rượu"]
+    },
+    {
+      "question": "Tôi tiêm chích ma túy và bị viêm gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "HIV/AIDS"]
+    },
+    {
+      "question": "Tôi là nhân viên y tế và bị viêm gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "viêm gan A"]
+    },
+    {
+      "question": "Tôi chạy thận nhân tạo và bị viêm gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B"]
+    },
+    {
+      "question": "Tôi có đời sống tình dục không lành mạnh và bị viêm gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "HIV/AIDS", "bệnh lây qua đường tình dục"]
+    },
+    {
+      "question": "Tôi có người thân mắc bệnh viêm gan C và bị viêm gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C"]
+    },
+    {
+      "question": "Tôi có khuyên hoặc hình xăm trên cơ thể và bị viêm gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B"]
+    },
+    {
+      "question": "Mẹ tôi mắc bệnh viêm gan C và tôi bị viêm gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C"]
+    },
+    {
+      "question": "Tôi xét nghiệm máu và phát hiện dương tính với kháng thể chống HCV. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C"]
+    },
+    {
+      "question": "Tôi xét nghiệm HCV – RNA và phát hiện có ARN virus hiện có trong máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C"]
+    },
+    {
+      "question": "Tôi xét nghiệm và phát hiện bị nhiễm virus viêm gan C kiểu gen 1. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C"]
+    },
+    {
+      "question": "Tôi được bác sĩ chỉ định sử dụng thuốc kháng virus tác dụng trực tiếp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C"]
+    },
+    {
+      "question": "Tôi được bác sĩ chỉ định ghép gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "xơ gan mất bù", "ung thư gan"]
+    },
+    {
+      "question": "Tôi được bác sĩ khuyên nên bổ sung các loại thực phẩm giàu chất dinh dưỡng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm gan C", "viêm gan B", "xơ gan", "suy dinh dưỡng"]
+    }
+  ]
+}

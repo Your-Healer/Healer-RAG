@@ -1,0 +1,256 @@
+{
+  "disease_id": "benh-viem-phe-quan-man-tinh",
+  "disease_name": "Bệnh viêm phế quản mãn tính",
+  "disease_alternative_names": [
+    "Viêm phế quản mạn tính",
+    "Chronic bronchitis",
+    "COPD"
+  ],
+  "disease_definition": "Viêm phế quản mạn tính là một loại của bệnh phổi tắc nghẽn mạn tính (COPD), xảy ra khi viêm phế quản cấp tính không được điều trị dứt điểm và tái đi tái lại nhiều lần, dẫn đến việc các ống phế quản bị tổn thương nghiêm trọng tạo ra nhiều đàm, gây ho và khó thở.",
+  "symptoms": [
+    {
+      "name": "Ho dai dẳng",
+      "description": "Ho kéo dài không dứt"
+    },
+    {
+      "name": "Khạc đờm",
+      "description": "Đờm có màu xanh, vàng hoặc trắng, lượng đờm tăng dần theo thời gian"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở, thở khò khè do tích tụ đờm trong phế quản"
+    },
+    {
+      "name": "Các triệu chứng khác",
+      "symptoms_list": [
+        {
+          "name": "Mệt mỏi",
+          "description": "Cảm giác mệt mỏi thường xuyên"
+        },
+        {
+          "name": "Ớn lạnh",
+          "description": "Cảm giác ớn lạnh"
+        },
+        {
+          "name": "Sốt",
+          "description": "Tăng thân nhiệt"
+        },
+        {
+          "name": "Tức ngực",
+          "description": "Cảm giác tức ở vùng ngực"
+        },
+        {
+          "name": "Tắc nghẽn xoang",
+          "description": "Xoang bị tắc nghẽn"
+        },
+        {
+          "name": "Hôi miệng",
+          "description": "Hơi thở có mùi hôi"
+        }
+      ]
+    },
+    {
+      "name": "Triệu chứng giai đoạn sau",
+      "symptoms_list": [
+        {
+          "name": "Thay đổi màu da",
+          "description": "Da và môi xanh xao, nhợt nhạt do thiếu oxy trong máu"
+        },
+        {
+          "name": "Phù nề",
+          "description": "Phù ngoại biên, sưng ở chân và mắt cá chân"
+        }
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "name": "Hút thuốc lá",
+      "description": "Khói thuốc lá chứa chất triệt tiêu lông mao trong phổi, gây tổn hại nghiêm trọng",
+      "types": [
+        "Hút thuốc chủ động",
+        "Hút thuốc thụ động"
+      ]
+    },
+    {
+      "name": "Môi trường ô nhiễm",
+      "description": "Tiếp xúc thường xuyên với không khí độc hại",
+      "risk_factors": [
+        "Khí công nghiệp",
+        "Chất thải hóa học",
+        "Bụi bẩn",
+        "Khí độc"
+      ]
+    },
+    {
+      "name": "Sức đề kháng yếu",
+      "description": "Hệ miễn dịch suy giảm khiến dễ bị virus tấn công"
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Người nghiện thuốc lá",
+      "description": "90% người mắc bệnh có tiền sử hút thuốc lá"
+    },
+    {
+      "name": "Người làm việc trong môi trường độc hại",
+      "occupations": [
+        "Công nhân xây dựng",
+        "Công nhân mỏ than",
+        "Công nhân xưởng dệt vải"
+      ]
+    },
+    {
+      "name": "Người có sức đề kháng yếu",
+      "groups": [
+        "Người cao tuổi",
+        "Người có bệnh mạn tính",
+        "Người suy giảm miễn dịch"
+      ]
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Kiểm tra chức năng phổi",
+        "description": "Đo chức năng thông khí phổi để đánh giá tình trạng và loại trừ các bệnh khác",
+        "significance": "Có giá trị chẩn đoán cao"
+      },
+      {
+        "name": "Chụp X-quang phổi",
+        "description": "Quan sát tình trạng phổi và các dấu hiệu bất thường",
+        "observations": [
+          "Mạch máu dày lên",
+          "Ống dẫn khí dày lên",
+          "Tổ chức kẽ phế quản dày lên"
+        ]
+      }
+    ]
+  },
+  "treatment": {
+    "medication": [
+      {
+        "name": "Thuốc giãn phế quản",
+        "purpose": "Mở rộng đường lưu thông không khí đến phổi"
+      },
+      {
+        "name": "Theophylline",
+        "purpose": "Xoa dịu các lớp cơ ở đường thở"
+      },
+      {
+        "name": "Thuốc kháng viêm",
+        "types": [
+          "Dạng hít",
+          "Viên nén"
+        ],
+        "purpose": "Mở đường thở"
+      }
+    ],
+    "rehabilitation": {
+      "name": "Chương trình phục hồi chức năng phổi",
+      "components": [
+        "Bài tập thể dục",
+        "Bài tập hô hấp",
+        "Chế độ dinh dưỡng phù hợp"
+      ]
+    },
+    "supportive_care": [
+      {
+        "name": "Thiết bị làm sạch chất nhầy",
+        "purpose": "Giúp ho ra chất lỏng dễ dàng hơn"
+      },
+      {
+        "name": "Liệu pháp oxy",
+        "purpose": "Hỗ trợ thở tốt hơn"
+      }
+    ]
+  },
+  "prevention": {
+    "methods": [
+      {
+        "name": "Bỏ hút thuốc lá",
+        "description": "Ngừng hút thuốc và tránh hít phải khói thuốc thụ động"
+      },
+      {
+        "name": "Bảo vệ đường hô hấp",
+        "measures": [
+          "Đeo khẩu trang khi tiếp xúc với môi trường ô nhiễm",
+          "Sử dụng đồ bảo hộ khi làm việc trong môi trường độc hại"
+        ]
+      },
+      {
+        "name": "Vệ sinh",
+        "procedures": [
+          "Rửa tay đúng cách bằng xà phòng diệt khuẩn",
+          "Vệ sinh đường hô hấp bằng nước muối sinh lý",
+          "Vệ sinh môi trường sống sạch sẽ"
+        ]
+      },
+      {
+        "name": "Tiêm phòng",
+        "vaccines": [
+          "Vắc xin phòng viêm phổi",
+          "Vắc xin cúm",
+          "Vắc xin ho gà"
+        ]
+      }
+    ]
+  },
+  "complications": [
+    {
+      "name": "Bệnh phổi tắc nghẽn mãn tính",
+      "description": "COPD - tình trạng nghiêm trọng ảnh hưởng đến khả năng hô hấp"
+    },
+    {
+      "name": "Suy hô hấp",
+      "description": "Suy giảm nghiêm trọng chức năng hô hấp"
+    },
+    {
+      "name": "Ung thư",
+      "types": [
+        "Ung thư phế quản",
+        "Ung thư phổi"
+      ]
+    },
+    {
+      "name": "Lao phổi",
+      "description": "Nhiễm khuẩn lao ở phổi"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Viêm phế quản mãn tính có nguy hiểm không?",
+      "answer": "Có, bệnh rất nguy hiểm vì có thể biến chứng thành bệnh phổi tắc nghẽn mãn tính, suy hô hấp, và thậm chí ung thư phế quản hoặc phổi."
+    },
+    {
+      "question": "Ai là người có nguy cơ mắc bệnh cao nhất?",
+      "answer": "Người nghiện thuốc lá (chiếm 90% ca bệnh), người làm việc trong môi trường ô nhiễm, và người có sức đề kháng yếu."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Làm thế nào để phân biệt viêm phế quản mãn tính với các bệnh hô hấp khác?",
+      "related_diseases": [
+        "viêm phế quản mãn tính",
+        "hen phế quản",
+        "viêm phổi"
+      ]
+    },
+    {
+      "question": "Có thể chữa khỏi hoàn toàn viêm phế quản mãn tính không?",
+      "related_diseases": [
+        "viêm phế quản mãn tính",
+        "COPD",
+        "suy hô hấp"
+      ]
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm phế quản mãn tính?",
+      "related_diseases": [
+        "viêm phế quản mãn tính",
+        "viêm phế quản cấp",
+        "bệnh phổi tắc nghẽn mãn tính"
+      ]
+    }
+  ]
+} 

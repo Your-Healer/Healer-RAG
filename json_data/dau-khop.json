@@ -1,0 +1,377 @@
+{
+  "disease_id": "dau-khop",
+  "disease_name": "Đau Khớp",
+  "disease_alternative_names": [
+    "Đau nhức khớp",
+    "Mỏi khớp",
+    "Joint pain",
+    "Arthralgia"
+  ],
+  "disease_definition": "Đau khớp là cảm giác khó chịu, đau nhức ở bất kỳ khớp nào của cơ thể. Đau mỏi khớp là một phàn nàn phổ biến ở bệnh nhân nhóm bệnh cơ xương khớp. Đau khớp có thể chỉ ảnh hưởng đến một khớp hoặc có thể ảnh hưởng đến nhiều khớp khác nhau. Vị trí đau và tính chất đau sẽ phụ thuộc vào nguyên nhân bệnh lý mà người bệnh mắc phải.",
+  "symptoms": [
+    {
+      "name": "Đau và sưng khớp",
+      "description": "Cảm giác đau, nhức và sưng tại vị trí khớp, có thể xuất hiện đột ngột hoặc từ từ theo thời gian. Mức độ đau có thể dao động từ nhẹ đến dữ dội, ảnh hưởng đến khả năng vận động."
+    },
+    {
+      "name": "Cứng khớp",
+      "description": "Khớp trở nên cứng và khó cử động, đặc biệt sau khi nghỉ ngơi hoặc vào buổi sáng. Tình trạng này thường cải thiện sau khi vận động nhẹ nhàng."
+    },
+    {
+      "name": "Nóng đỏ tại khớp",
+      "description": "Khu vực khớp bị đau có biểu hiện đỏ và khi chạm vào sẽ cảm thấy nóng ấm, đây là dấu hiệu của tình trạng viêm."
+    },
+    {
+      "name": "Hạn chế biên độ cử động",
+      "description": "Khó khăn khi thực hiện các cử động bình thường của khớp, không thể duỗi thẳng hoặc uốn cong khớp một cách hoàn toàn."
+    },
+    {
+      "name": "Tiếng lách tách hoặc lạo xạo",
+      "description": "Khi cử động khớp, có thể nghe thấy tiếng lách tách hoặc lạo xạo, đặc biệt là khi đi cầu thang hoặc sau thời gian nghỉ ngơi."
+    },
+    {
+      "name": "Yếu cơ xung quanh khớp",
+      "description": "Cơ bắp xung quanh khớp bị yếu đi, khó sử dụng sức mạnh như bình thường, ảnh hưởng đến khả năng thực hiện các hoạt động hàng ngày."
+    }
+  ],
+  "causes": {
+    "main_cause": "Đau khớp có nhiều nguyên nhân khác nhau, phổ biến nhất là thoái hóa khớp, viêm khớp dạng thấp, các bệnh tự miễn, chấn thương, nhiễm trùng, bệnh gout, và thiếu vitamin D.",
+    "related_factors": "Nhiều yếu tố có thể góp phần gây đau khớp, bao gồm tuổi tác, thừa cân béo phì, chấn thương trước đây, làm việc quá sức hoặc lặp đi lặp lại một động tác, rối loạn tự miễn và các yếu tố di truyền.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi cao, đặc biệt là trên 50 tuổi",
+    "Tiền sử chấn thương khớp",
+    "Thừa cân hoặc béo phì",
+    "Làm việc hoặc tham gia các hoạt động đòi hỏi nâng vật nặng hoặc động tác lặp đi lặp lại",
+    "Tiền sử gia đình mắc các bệnh khớp",
+    "Một số bệnh lý nền như tiểu đường, bệnh tim mạch",
+    "Phụ nữ mãn kinh do sự suy giảm estrogen",
+    "Thiếu vitamin D và canxi trong chế độ ăn uống",
+    "Lối sống ít vận động hoặc vận động quá mức không đúng cách"
+  ],
+  "complications": [
+    "Mất hoặc giảm chức năng vận động khớp",
+    "Teo cơ do ít sử dụng",
+    "Biến dạng khớp",
+    "Dính khớp",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Thay đổi tâm lý: lo lắng, trầm cảm do đau mạn tính",
+    "Mất khả năng lao động, giảm năng suất",
+    "Tăng nguy cơ mắc bệnh tim mạch (đối với một số bệnh khớp viêm)",
+    "Rối loạn giấc ngủ do đau"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để xác định vị trí đau, mức độ đau, và các biểu hiện kèm theo",
+      "Khai thác tiền sử bệnh và tiền sử gia đình",
+      "Đánh giá khả năng vận động của khớp",
+      "Kiểm tra tình trạng sưng, nóng, đỏ của khớp"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đo các chỉ số viêm như tốc độ máu lắng, protein C phản ứng, kháng thể kháng nhân, yếu tố dạng thấp, acid uric, và các xét nghiệm khác để xác định nguyên nhân gây đau khớp."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Giúp nhận biết các thay đổi về cấu trúc của khớp, phát hiện gai xương, hẹp khe khớp, canxi hóa hoặc các dấu hiệu của thoái hóa khớp."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết của các mô mềm bao gồm sụn, dây chằng, gân, và các cấu trúc khác không hiển thị trên X-quang thông thường."
+      },
+      {
+        "name": "Chụp CT scan",
+        "description": "Cung cấp hình ảnh chi tiết của xương với nhiều góc độ khác nhau, đặc biệt hữu ích trong việc đánh giá cấu trúc xương phức tạp."
+      },
+      {
+        "name": "Phân tích dịch khớp",
+        "description": "Lấy mẫu dịch từ khớp để kiểm tra các tinh thể, vi khuẩn, hoặc các dấu hiệu của viêm, giúp chẩn đoán bệnh gout, viêm khớp nhiễm khuẩn, hoặc các bệnh lý khác."
+      },
+      {
+        "name": "Siêu âm khớp",
+        "description": "Sử dụng sóng âm để tạo hình ảnh thời gian thực của các mô mềm trong và xung quanh khớp, hữu ích trong việc phát hiện tràn dịch, viêm bao hoạt dịch."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Việc điều trị đau khớp phụ thuộc vào nguyên nhân gây bệnh. Tùy vào tình trạng và nguyên nhân cụ thể, bác sĩ sẽ lựa chọn phương pháp điều trị phù hợp nhằm giảm đau, cải thiện chức năng khớp và ngăn ngừa tổn thương thêm.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng các loại thuốc như thuốc giảm đau không kê đơn (paracetamol, ibuprofen), thuốc kháng viêm không steroid (NSAID), corticosteroid, thuốc điều trị bệnh thấp khớp, thuốc điều trị gout, hoặc thuốc giãn cơ tùy theo nguyên nhân gây đau."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Thực hiện các bài tập để tăng cường sức mạnh và tính linh hoạt của khớp, cải thiện tầm vận động và giảm đau. Vật lý trị liệu cũng bao gồm các kỹ thuật như massage, siêu âm trị liệu, và điện trị liệu."
+      },
+      {
+        "name": "Tiêm khớp",
+        "description": "Tiêm corticosteroid hoặc acid hyaluronic trực tiếp vào khớp để giảm viêm và đau. Đối với một số trường hợp, có thể tiêm huyết tương giàu tiểu cầu (PRP) hoặc tế bào gốc để thúc đẩy quá trình chữa lành."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong trường hợp nghiêm trọng, có thể cần phẫu thuật như nội soi khớp, đục xương sửa trục, thay khớp một phần hoặc toàn phần. Phẫu thuật thường là lựa chọn cuối cùng khi các phương pháp khác không hiệu quả."
+      },
+      {
+        "name": "Liệu pháp thay thế và bổ sung",
+        "description": "Bao gồm châm cứu, yoga, tai chi, và bổ sung các chất như glucosamine, chondroitin, dầu cá, hoặc các thảo dược có thể giúp giảm đau và cải thiện chức năng khớp."
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đủ, tránh các hoạt động gây tăng đau",
+      "Áp dụng liệu pháp nóng và lạnh: chườm đá để giảm sưng và viêm cấp tính, chườm nóng để giảm cứng khớp và tăng lưu thông máu",
+      "Duy trì cân nặng hợp lý để giảm áp lực lên các khớp chịu trọng lượng",
+      "Tập thể dục đều đặn, tập trung vào các bài tập tăng cường cơ và tính linh hoạt của khớp",
+      "Sử dụng các thiết bị hỗ trợ như nẹp, gậy, hoặc khung tập đi nếu cần thiết",
+      "Áp dụng chế độ ăn uống lành mạnh, giàu chất chống viêm như rau xanh, trái cây, cá béo, và dầu olive",
+      "Bổ sung đủ vitamin D và canxi thông qua chế độ ăn uống hoặc thực phẩm bổ sung",
+      "Tránh các động tác gây căng thẳng cho khớp, học cách thực hiện các hoạt động hàng ngày một cách an toàn",
+      "Tuân thủ đúng kế hoạch điều trị và tái khám theo lịch hẹn của bác sĩ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện không có vaccine để phòng ngừa đau khớp do đây không phải là bệnh truyền nhiễm.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý để giảm áp lực lên các khớp chịu trọng lượng như khớp gối và khớp háng",
+      "Tập thể dục đều đặn để tăng cường sức mạnh cơ bắp và tính linh hoạt của khớp",
+      "Áp dụng nguyên tắc khởi động kỹ trước khi tập luyện và thư giãn sau khi tập",
+      "Tránh các hoạt động có nguy cơ chấn thương cao hoặc sử dụng thiết bị bảo hộ khi tham gia các hoạt động thể thao",
+      "Đảm bảo tư thế đúng khi ngồi, đứng và nâng vật nặng",
+      "Thay đổi giữa các hoạt động và tránh lặp lại một động tác trong thời gian dài",
+      "Áp dụng chế độ ăn uống cân bằng, giàu chất chống viêm và ít thực phẩm chế biến sẵn",
+      "Bổ sung đủ vitamin D và canxi thông qua chế độ ăn uống hoặc thực phẩm bổ sung",
+      "Tránh hoặc hạn chế hút thuốc và uống rượu bia",
+      "Kiểm tra sức khỏe định kỳ để phát hiện sớm các vấn đề về khớp"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Đau khớp có phải là dấu hiệu của tuổi già không?",
+      "answer": "Mặc dù đau khớp phổ biến hơn ở người cao tuổi do sự thoái hóa tự nhiên của khớp theo thời gian, nhưng đau khớp không phải là kết quả không thể tránh khỏi của lão hóa. Đau khớp có thể xảy ra ở mọi lứa tuổi và do nhiều nguyên nhân khác nhau như chấn thương, bệnh tự miễn, nhiễm trùng, hoặc các tình trạng viêm. Với lối sống lành mạnh bao gồm tập thể dục đều đặn, duy trì cân nặng hợp lý, và chế độ ăn uống cân bằng, nhiều người có thể giảm thiểu đau khớp khi về già."
+    },
+    {
+      "question": "Khi nào tôi nên đi khám bác sĩ về tình trạng đau khớp?",
+      "answer": "Bạn nên đi khám bác sĩ nếu đau khớp kéo dài hơn 3 ngày, đau khớp dữ dội không giảm khi nghỉ ngơi hoặc dùng thuốc giảm đau không kê đơn, có sưng đáng kể, đỏ, nóng quanh khớp, hoặc khớp bị biến dạng. Đặc biệt cần đi khám ngay nếu đau khớp xuất hiện sau chấn thương, kèm theo sốt, hoặc không thể sử dụng khớp bình thường. Chẩn đoán và điều trị sớm có thể ngăn ngừa tổn thương khớp lâu dài và cải thiện kết quả điều trị."
+    },
+    {
+      "question": "Tập thể dục có làm nặng thêm tình trạng đau khớp không?",
+      "answer": "Nếu được thực hiện đúng cách, tập thể dục thực sự có lợi cho sức khỏe khớp và có thể giúp giảm đau khớp. Tập thể dục giúp tăng cường cơ bắp xung quanh khớp, cải thiện tính linh hoạt và tầm vận động. Các bài tập có tác động thấp như đi bộ, bơi lội, đạp xe, và yoga đặc biệt tốt cho người bị đau khớp. Tuy nhiên, điều quan trọng là phải bắt đầu từ từ, tăng cường độ dần dần, và tránh các hoạt động gây đau nhiều hơn. Nên tham khảo ý kiến bác sĩ hoặc chuyên gia vật lý trị liệu để được hướng dẫn về chương trình tập luyện phù hợp với tình trạng cụ thể của bạn."
+    },
+    {
+      "question": "Chế độ ăn uống có ảnh hưởng đến tình trạng đau khớp không?",
+      "answer": "Có, chế độ ăn uống có thể ảnh hưởng đáng kể đến tình trạng đau khớp. Một số thực phẩm có đặc tính chống viêm như cá béo (cá hồi, cá thu), dầu olive, quả hạch, trái cây, rau xanh, và các loại trà có thể giúp giảm viêm và đau khớp. Ngược lại, thực phẩm chế biến sẵn, đường tinh luyện, thịt đỏ, và chất béo bão hòa có thể làm tăng viêm và làm nặng thêm các triệu chứng. Duy trì cân nặng hợp lý thông qua chế độ ăn uống cân bằng cũng rất quan trọng vì thừa cân tạo áp lực thêm lên các khớp, đặc biệt là khớp gối và háng."
+    },
+    {
+      "question": "Liệu pháp nóng và lạnh nên được áp dụng như thế nào cho đau khớp?",
+      "answer": "Liệu pháp nóng và lạnh đều có thể giúp giảm đau khớp, nhưng nên được sử dụng vào thời điểm khác nhau. Chườm lạnh thường hiệu quả nhất cho các cơn đau cấp tính, sưng và viêm. Nên áp dụng trong 15-20 phút mỗi lần, nhiều lần trong ngày. Chườm nóng lý tưởng cho việc giảm cứng khớp, đặc biệt là vào buổi sáng hoặc trước khi hoạt động, làm giãn cơ và tăng lưu lượng máu. Tắm nước ấm, túi chườm nóng, hoặc khăn ấm có thể được sử dụng trong 15-20 phút. Dù sử dụng phương pháp nào, hãy đảm bảo bảo vệ da bằng cách bọc nguồn nhiệt hoặc lạnh trong khăn mỏng để tránh tổn thương da."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức khớp vai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm khớp vai",
+        "viêm bao hoạt dịch",
+        "viêm gân cơ xoay",
+        "thoái hóa khớp vai",
+        "viêm quanh khớp vai đông cứng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khớp vai và hạn chế vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm quanh khớp vai đông cứng",
+        "viêm gân cơ xoay",
+        "rách chóp xoay",
+        "viêm khớp vai",
+        "thoái hóa khớp vai"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khớp háng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thoái hóa khớp háng",
+        "viêm khớp háng",
+        "hoại tử chỏm xương đùi vô khuẩn",
+        "viêm khớp dạng thấp",
+        "gãy xương háng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau khớp háng khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thoái hóa khớp háng",
+        "viêm bao hoạt dịch khớp háng",
+        "gãy xương háng mệt mỏi",
+        "viêm cột sống dính khớp",
+        "viêm khớp dạng thấp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khớp cổ chân sau khi chạy bộ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm gân Achilles",
+        "viêm khớp cổ chân",
+        "bong gân cổ chân",
+        "gãy xương mệt mỏi",
+        "viêm điểm bám gân"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khớp cổ chân và sưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm khớp cổ chân",
+        "bong gân cổ chân",
+        "viêm gân",
+        "thoái hóa khớp cổ chân",
+        "viêm khớp do gout"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau khớp cổ tay khi gõ máy tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hội chứng ống cổ tay",
+        "viêm gân cổ tay",
+        "viêm khớp cổ tay",
+        "viêm bao hoạt dịch",
+        "hội chứng De Quervain"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khớp cổ tay và tê bì các ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hội chứng ống cổ tay",
+        "chèn ép dây thần kinh trụ",
+        "viêm khớp cổ tay",
+        "viêm khớp dạng thấp",
+        "thoái hóa khớp cổ tay"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khớp khuỷu tay khi nâng vật nặng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "khuỷu tay tennis",
+        "viêm khớp khuỷu tay",
+        "viêm mỏm trên lồi cầu",
+        "thoái hóa khớp khuỷu tay",
+        "viêm gân"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau khớp khuỷu tay và khó duỗi thẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm khớp khuỷu tay",
+        "khuỷu tay gôn",
+        "thoái hóa khớp khuỷu tay",
+        "viêm bao hoạt dịch",
+        "gãy xương khuỷu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mỏi các khớp và nhức khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm đa khớp",
+        "viêm khớp dạng thấp",
+        "lupus ban đỏ hệ thống",
+        "viêm cơ xơ hóa",
+        "thiếu vitamin D"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau xương kéo dài và tái phát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "loãng xương",
+        "ung thư xương",
+        "thiếu vitamin D",
+        "viêm tủy xương",
+        "bệnh Paget"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mỏi khớp và bốc hỏa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mãn kinh",
+        "suy buồng trứng sớm",
+        "rối loạn nội tiết",
+        "viêm khớp dạng thấp",
+        "suy giáp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mỏi khớp và rối loạn giấc ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm cơ xơ hóa",
+        "viêm đa khớp",
+        "bệnh trầm cảm",
+        "rối loạn lo âu",
+        "mãn kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mỏi khớp và ra mồ hôi ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mãn kinh",
+        "viêm khớp dạng thấp",
+        "bệnh Lyme",
+        "nhiễm trùng mạn tính",
+        "bệnh lao"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau khớp gối khi leo cầu thang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thoái hóa khớp gối",
+        "viêm khớp gối",
+        "hội chứng đau khớp bánh chè đùi",
+        "rách sụn chêm",
+        "viêm gân bánh chè"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khớp gối và sưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm khớp gối",
+        "thoái hóa khớp gối",
+        "viêm bao hoạt dịch",
+        "viêm gân bánh chè",
+        "viêm khớp do gout"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khớp ngón tay vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm khớp dạng thấp",
+        "viêm khớp vẩy nến",
+        "thoái hóa khớp ngón tay",
+        "bệnh gout",
+        "lupus ban đỏ hệ thống"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau khớp ngón chân và cứng khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh gout",
+        "viêm khớp dạng thấp",
+        "thoái hóa khớp",
+        "viêm khớp vẩy nến",
+        "viêm khớp nhiễm khuẩn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khớp sau khi tập thể dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm cơ do tập luyện",
+        "chấn thương thể thao",
+        "thoái hóa khớp",
+        "viêm gân",
+        "hội chứng quá tải"
+      ]
+    }
+  ]
+}

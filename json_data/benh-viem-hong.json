@@ -1,0 +1,169 @@
+{
+  "disease_id": "benh-viem-hong",
+  "disease_name": "Bệnh viêm họng",
+  "disease_alternative_names": [
+    "Viêm họng cấp",
+    "Viêm họng xung huyết",
+    "Viêm họng hạt"
+  ],
+  "disease_definition": "Viêm họng là tình trạng viêm nhiễm của niêm mạc họng, có thể xảy ra ở dạng cấp tính (viêm họng xung huyết) hoặc mạn tính (viêm họng hạt). Trong đó, viêm họng xung huyết là tình trạng tổn thương niêm mạc họng thường do virus tấn công, gây xung huyết, đau rát và sưng tấy. Còn viêm họng hạt là tình trạng niêm mạc họng bị viêm mạn tính, khiến các mô lympho thành sau họng sưng lên, tạo thành các hạt màu đỏ hoặc hồng ở niêm mạc họng.",
+  "symptoms": [
+    {
+      "name": "Đau họng",
+      "description": "Cảm giác đau rát, vướng víu ở cổ họng, đặc biệt khi nuốt hoặc nói"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt trên 38 độ, kèm theo đau đầu, mệt mỏi, ớn lạnh"
+    },
+    {
+      "name": "Ho",
+      "description": "Ho khan hoặc ho có đờm, ho nhiều về đêm và sáng"
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Đau khi nuốt, cảm giác vướng họng"
+    },
+    {
+      "name": "Triệu chứng mũi",
+      "description": "Sổ mũi, nghẹt mũi, có thể chảy máu cam"
+    },
+    {
+      "name": "Thay đổi giọng nói",
+      "description": "Giọng nói khàn đục, nói khó"
+    }
+  ],
+  "causes": {
+    "main_cause": "Viêm họng thường do virus (chiếm hơn 60% trường hợp) và vi khuẩn (thường do bội nhiễm sau nhiễm virus). Các loại virus gây bệnh thường là virus cúm, virus para-influenzae, Adenovirus, virus Coxsackie và vi khuẩn như liên cầu bêta tan huyết nhóm A, B, C, G; phế cầu, H. Influenza, tụ cầu vàng.",
+    "related_factors": "Các yếu tố môi trường và sức khỏe có thể làm tăng nguy cơ mắc bệnh như thời tiết thay đổi, môi trường ô nhiễm, sức đề kháng yếu.",
+    "transmission_routes": [
+      "Lây qua đường hô hấp từ người bệnh",
+      "Hít phải các tác nhân gây bệnh trong không khí",
+      "Tiếp xúc với môi trường ô nhiễm"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Thời tiết",
+      "description": "Thay đổi thời tiết đột ngột, đặc biệt vào mùa đông và giao mùa"
+    },
+    {
+      "name": "Sức đề kháng",
+      "description": "Người có sức đề kháng yếu, mắc các bệnh mãn tính"
+    },
+    {
+      "name": "Môi trường",
+      "description": "Làm việc trong môi trường nhiều khói bụi, hóa chất độc hại"
+    },
+    {
+      "name": "Thói quen",
+      "description": "Hút thuốc lá, uống rượu bia, ăn đồ cay nóng"
+    },
+    {
+      "name": "Nghề nghiệp",
+      "description": "Người phải nói nhiều như giáo viên, ca sĩ, diễn giả"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Viêm nhiễm lan rộng",
+      "description": "Viêm mũi xoang cấp, viêm thanh quản, viêm tai giữa, viêm phổi"
+    },
+    {
+      "name": "Áp xe",
+      "description": "Áp xe thành sau họng và các khoang bên họng"
+    },
+    {
+      "name": "Biến chứng toàn thân",
+      "description": "Nhiễm trùng huyết, viêm màng tim, viêm cầu thận cấp"
+    },
+    {
+      "name": "Hoại tử",
+      "description": "Viêm tấy hoại tử vùng cổ (hiếm gặp nhưng nguy hiểm)"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ khám và đánh giá các triệu chứng, quan sát niêm mạc họng"
+      },
+      {
+        "name": "Xét nghiệm",
+        "description": "Xét nghiệm định loại virus hoặc vi khuẩn gây bệnh"
+      },
+      {
+        "name": "Nội soi họng",
+        "description": "Quan sát chi tiết tình trạng niêm mạc họng"
+      }
+    ]
+  },
+  "treatment": {
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng kháng sinh, thuốc hạ sốt, giảm đau theo chỉ định"
+      },
+      {
+        "name": "Điều trị tại chỗ",
+        "description": "Súc họng bằng nước muối sinh lý, ngậm các loại kẹo có tinh dầu"
+      },
+      {
+        "name": "Điều trị kháng sinh",
+        "description": "Dùng cho viêm họng do vi khuẩn theo chỉ định của bác sĩ"
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ",
+      "Uống nhiều nước ấm",
+      "Súc họng với nước muối",
+      "Tránh thức ăn cay nóng",
+      "Đeo khẩu trang khi ra ngoài",
+      "Giữ ấm vùng cổ họng"
+    ]
+  },
+  "prevention": {
+    "general_recommendations": [
+      "Giữ ấm cơ thể, đặc biệt là vùng cổ họng",
+      "Vệ sinh răng miệng sạch sẽ",
+      "Tránh môi trường ô nhiễm, khói bụi",
+      "Không hút thuốc lá, hạn chế rượu bia",
+      "Uống đủ nước, ăn uống đầy đủ chất dinh dưỡng",
+      "Tập thể dục thường xuyên để tăng sức đề kháng"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Viêm họng có nguy hiểm không?",
+      "related_diseases": [
+        "viêm phổi",
+        "nhiễm trùng huyết",
+        "viêm màng tim"
+      ]
+    },
+    {
+      "question": "Viêm họng có thể tự khỏi không?",
+      "related_diseases": [
+        "viêm họng virus",
+        "viêm họng vi khuẩn",
+        "viêm họng mạn tính"
+      ]
+    },
+    {
+      "question": "Viêm họng kéo dài có nguy hiểm không?",
+      "related_diseases": [
+        "viêm họng mãn tính",
+        "viêm họng hạt",
+        "ung thư vòm họng"
+      ]
+    },
+    {
+      "question": "Viêm họng hay tái phát có sao không?",
+      "related_diseases": [
+        "viêm họng mãn tính",
+        "viêm xoang mãn tính",
+        "suy giảm miễn dịch"
+      ]
+    }
+  ]
+}

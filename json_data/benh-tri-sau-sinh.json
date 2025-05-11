@@ -1,0 +1,162 @@
+{
+  "disease_id": "benh-tri-sau-sinh",
+  "disease_name": "Bệnh trĩ sau sinh",
+  "disease_alternative_names": [
+    "Trĩ sau sinh",
+    "Postpartum hemorrhoids"
+  ],
+  "disease_definition": "Trĩ sau sinh là tình trạng mắc bệnh trĩ ở phụ nữ sau khi sinh con. Tĩnh mạch trong trực tràng hoặc hậu môn chịu trách nhiệm đưa máu về tim. Khi các tĩnh mạch này bị sưng lên do áp lực, máu sẽ đọng lại trong tĩnh mạch, gây ra trĩ. Mẹ bầu mắc trĩ trong quá trình mang thai có nguy cơ cao mắc căn bệnh này sau khi sinh.",
+  "symptoms": [
+    {
+      "name": "Trĩ nội cấp độ 1",
+      "description": "Búi trĩ mới bắt đầu hình thành bên trong ống hậu môn, gây cảm giác đau rát khi đi vệ sinh, ngứa ngáy nhẹ"
+    },
+    {
+      "name": "Trĩ nội cấp độ 2",
+      "description": "Đi tiêu ra máu nhiều hơn, khi rặn xuất hiện cục thịt nhỏ lồi ra ngoài ống hậu môn"
+    },
+    {
+      "name": "Trĩ nội cấp độ 3",
+      "description": "Búi trĩ sa ra ngoài ống hậu môn và không thể co lên nếu không dùng tay đẩy vào, đau tăng cao khi đi tiêu hoặc ngồi"
+    },
+    {
+      "name": "Trĩ nội cấp độ 4",
+      "description": "Búi trĩ hoàn toàn sa ra ngoài và không thể đẩy vào bên trong ống hậu môn, đau liên tục và chảy máu thường xuyên"
+    },
+    {
+      "name": "Sưng đau hậu môn",
+      "description": "Khi các búi trĩ ngoại bị thuyên tắc hoặc khối trĩ nội bị sa gây nghẹt tắc mạch, gây đau nghiêm trọng, không thể ngồi hoặc đi lại"
+    },
+    {
+      "name": "Nứt rát kẽ hậu môn",
+      "description": "Hậu môn bị nứt ra, gây cảm giác rát và khó chịu, dễ chảy máu khi đi vệ sinh"
+    }
+  ],
+  "causes": {
+    "main_cause": "Áp lực từ thai nhi trong quá trình mang thai và quá trình sinh nở gây áp lực lên các tĩnh mạch vùng hậu môn",
+    "related_factors": "Các yếu tố liên quan bao gồm táo bón, rặn nhiều khi sinh, thay đổi nội tiết tố, giảm collagen mô đệm vùng hậu môn",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Mang thai",
+      "description": "Áp lực từ thai nhi và thay đổi nội tiết tố trong thai kỳ"
+    },
+    {
+      "name": "Sinh thường",
+      "description": "Quá trình rặn khi sinh gây áp lực lớn lên vùng hậu môn"
+    },
+    {
+      "name": "Táo bón sau sinh",
+      "description": "Tình trạng táo bón sau sinh khiến phải rặn nhiều khi đi vệ sinh"
+    },
+    {
+      "name": "Tiền sử trĩ",
+      "description": "Đã từng bị trĩ trước hoặc trong thai kỳ"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Nhiễm trùng",
+      "description": "Búi trĩ bị viêm nhiễm, có thể dẫn đến áp xe"
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Do chảy máu thường xuyên gây mệt mỏi, suy nhược"
+    },
+    {
+      "name": "Viêm da",
+      "description": "Viêm da quanh hậu môn do kích ứng"
+    },
+    {
+      "name": "Viêm trực tràng",
+      "description": "Tình trạng viêm nhiễm ở trực tràng"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ khám trực tiếp để đánh giá tình trạng và mức độ trĩ"
+      },
+      {
+        "name": "Nội soi",
+        "description": "Kiểm tra chi tiết tình trạng hậu môn và trực tràng nếu cần"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị trĩ sau sinh cần được thực hiện cẩn thận và phù hợp để không ảnh hưởng đến quá trình cho con bú và hồi phục sau sinh.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc đặt, thuốc bôi tại chỗ không ảnh hưởng đến thai nhi và nguồn sữa"
+      },
+      {
+        "name": "Điều trị không dùng thuốc",
+        "description": "Sử dụng dụng cụ làm lạnh, chiếu plasma lạnh, diếp cá đông dược"
+      }
+    ],
+    "recommendations": [
+      "Ngâm hậu môn trong nước ấm ngày 2-3 lần",
+      "Ngâm hậu môn trong nước muối ưu trương ấm",
+      "Giữ vệ sinh sạch sẽ vùng hậu môn",
+      "Tránh ngồi hoặc đứng lâu",
+      "Sử dụng gối khoét lỗ khi ngồi",
+      "Bổ sung chất xơ trong chế độ ăn"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin đặc hiệu cho bệnh trĩ sau sinh.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tập thể dục nhẹ nhàng sau sinh",
+      "Duy trì chế độ ăn giàu chất xơ",
+      "Uống đủ nước mỗi ngày",
+      "Không nhịn đi tiêu",
+      "Tránh ngồi quá lâu một chỗ",
+      "Giữ vệ sinh sạch sẽ vùng hậu môn"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Khi nào cần gặp bác sĩ về trĩ sau sinh?",
+      "related_diseases": [
+        "trĩ sau sinh",
+        "trĩ nội",
+        "trĩ ngoại",
+        "áp xe hậu môn"
+      ]
+    },
+    {
+      "question": "Trĩ sau sinh có tự khỏi không?",
+      "related_diseases": [
+        "trĩ sau sinh",
+        "trĩ nội",
+        "trĩ ngoại",
+        "nứt kẽ hậu môn"
+      ]
+    },
+    {
+      "question": "Có nên phẫu thuật trĩ sau sinh không?",
+      "related_diseases": [
+        "trĩ sau sinh",
+        "trĩ nội",
+        "trĩ ngoại",
+        "nứt kẽ hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi bị đau và chảy máu hậu môn sau sinh, có phải bị trĩ không?",
+      "related_diseases": [
+        "trĩ sau sinh",
+        "nứt kẽ hậu môn",
+        "viêm hậu môn",
+        "áp xe hậu môn"
+      ]
+    }
+  ]
+}

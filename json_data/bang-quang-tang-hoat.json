@@ -1,0 +1,150 @@
+{
+  "disease_id": "bang-quang-tang-hoat",
+  "disease_name": "Bàng quang tăng hoạt",
+  "disease_alternative_names": ["Hội chứng bàng quang tăng hoạt", "OAB (Overactive Bladder)"],
+  "disease_definition": "Bàng quang tăng hoạt là tình trạng bàng quang co bóp không đúng thời điểm, gây ra cảm giác mắc tiểu đột ngột, tiểu gấp, thường đi kèm với tăng số lần tiểu ngày và/hoặc tiểu đêm, có thể kèm hoặc không kèm tiểu són, mà không có nhiễm trùng tiểu hoặc các bệnh lý rõ ràng khác.",
+  "symptoms": [
+    {
+      "name": "Tiểu gấp",
+      "description": "Cảm thấy đột ngột muốn đi tiểu và sợ bị rò rỉ nước tiểu, có cảm giác buồn tiểu một cách đột ngột, cần phải đi tiểu ngay và rất khó có thể nhịn được"
+    },
+    {
+      "name": "Tiểu nhiều lần",
+      "description": "Đi tiểu thường xuyên, trên 8 lần trong 24 giờ tính từ lúc thức dậy cho đến lúc đi ngủ"
+    },
+    {
+      "name": "Tiểu đêm",
+      "description": "Thức dậy hơn 2 lần trong đêm để đi tiểu, gây ảnh hưởng đến giấc ngủ"
+    },
+    {
+      "name": "Tiểu không kiểm soát",
+      "description": "Tiểu không tự chủ theo sau cảm giác tiểu gấp, còn được gọi là 'OAB ướt'"
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chủ yếu là do các cơ của bàng quang co thắt một cách không chủ ý, ngay cả khi lượng nước tiểu trong bàng quang thấp. Những cơn co thắt không tự chủ này tạo ra nhu cầu đi tiểu gấp ở người bệnh.",
+    "related_factors": "Có nhiều yếu tố có thể gây ra hoặc làm trầm trọng thêm tình trạng bàng quang tăng hoạt, bao gồm rối loạn thần kinh, bệnh lý tiểu đường, nhiễm trùng đường tiết niệu, thay đổi nội tiết tố, bất thường trong bàng quang, hoặc các yếu tố cản trở dòng chảy của bàng quang.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi cao: Người lớn tuổi có nhiều nguy cơ bị bàng quang tăng hoạt",
+    "Suy giảm nhận thức: Những người từng bị đột quỵ hoặc mắc bệnh Alzheimer",
+    "Phụ nữ mang thai nhiều lần: Dễ bị suy yếu cơ sàn chậu",
+    "Phì đại tuyến tiền liệt ở nam giới",
+    "Người dùng thuốc lợi tiểu hoặc thuốc gây cảm giác khát",
+    "Người tiêu thụ quá nhiều caffeine hoặc rượu bia",
+    "BMI cao (béo phì)",
+    "Hút thuốc lá",
+    "Các bệnh lý kèm theo (huyết áp, bệnh thận, bệnh thần kinh)"
+  ],
+  "complications": [
+    "Nhiễm trùng đường tiết niệu thường xuyên",
+    "Ảnh hưởng tâm lý: tự ti, bất an, thậm chí trầm cảm",
+    "Rối loạn giấc ngủ do phải thức dậy nhiều lần để đi tiểu",
+    "Gặp vấn đề trong đời sống tình dục",
+    "Hạn chế hoạt động xã hội và giảm chất lượng cuộc sống"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Hỏi tiền sử bệnh và các triệu chứng gặp phải",
+      "Khám sức khỏe tổng quát và khám vùng bụng, khung chậu",
+      "Ghi nhật ký bàng quang trong vài tuần để đánh giá các triệu chứng hàng ngày",
+      "Loại trừ nhiễm khuẩn niệu, các tổn thương bệnh lý tại chỗ hoặc các tác nhân chuyển hóa"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Tìm kiếm dấu hiệu nhiễm trùng hoặc máu trong nước tiểu"
+      },
+      {
+        "name": "Chụp bàng quang",
+        "description": "Đo lượng nước tiểu trong bàng quang sau khi đi vệ sinh"
+      },
+      {
+        "name": "Soi bàng quang",
+        "description": "Kiểm tra bên trong bàng quang bằng ống soi"
+      },
+      {
+        "name": "Đo niệu động học",
+        "description": "Đánh giá chức năng bàng quang và khả năng co bóp"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bàng quang tăng hoạt theo 3 bước: các biện pháp thay đổi hành vi, dùng thuốc và các biện pháp can thiệp khi kháng thuốc.",
+    "methods": [
+      {
+        "name": "Thay đổi lối sống và hành vi",
+        "description": "Bao gồm kiểm soát lượng chất lỏng nạp vào, hạn chế thức ăn và đồ uống tác động lên bàng quang, ghi nhật ký bàng quang, tiểu sạch 2 lần, tập trì hoãn đi tiểu, đi tiểu đúng giờ, và tập các bài tập Kegel tăng cường sức mạnh cơ sàn chậu."
+      },
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Các thuốc kháng muscarinic (như darifenacin, fesoterodine, oxybutynin, solifenacin, tolterodine và trospium) có tác dụng làm giảm sự co bóp của cơ chóp bàng quang. Thuốc mới mirabegron có cơ chế tác động lên thụ thể β3 adrenergic, giúp giãn cơ và tăng dung tích bàng quang."
+      },
+      {
+        "name": "Các biện pháp can thiệp khi kháng thuốc",
+        "description": "Tiêm onabotulinumtoxin A (Botox) vào bàng quang, kích thích thần kinh cùng, kích thích thần kinh chày, mở rộng bàng quang bằng ruột. Phẫu thuật mở rộng bàng quang chỉ áp dụng khi các biện pháp khác thất bại."
+      }
+    ],
+    "recommendations": [
+      "Hạn chế thức ăn và đồ uống có thể khiến người bệnh đi tiểu nhiều (caffeine, rượu, bia)",
+      "Tập các bài tập Kegel để tăng cường sức mạnh cơ sàn chậu",
+      "Đi tiểu theo lịch trình, khoảng thời gian thích hợp giữa 2 lần đi tiểu là 3-4 giờ",
+      "Điều chỉnh lượng nước uống (khoảng 1500ml/ngày) và hạn chế uống nước sau 18 giờ hoặc trong vòng 3-4 giờ trước khi ngủ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Hoạt động thể chất và tập thể dục thường xuyên",
+      "Hạn chế sử dụng cà phê, rượu bia, đồ uống có gas",
+      "Không hút thuốc lá",
+      "Kiểm soát chặt các bệnh mạn tính",
+      "Thực hiện bài tập Kegel để làm săn chắc cơ vùng chậu",
+      "Duy trì chế độ ăn uống lành mạnh, tập luyện thể dục thường xuyên",
+      "Uống đủ nước và chia nhỏ lượng uống trong ngày thành nhiều lần",
+      "Thăm khám khi có các dấu hiệu bất thường về đường tiết niệu"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bàng quang tăng hoạt có lây không?",
+      "answer": "Không, hội chứng bàng quang tăng hoạt không phải là bệnh lây nhiễm."
+    },
+    {
+      "question": "Bàng quang tăng hoạt có nguy hiểm không?",
+      "answer": "Bàng quang tăng hoạt tuy không gây nguy hiểm đến tính mạng, nhưng làm giảm đáng kể chất lượng cuộc sống. Người bệnh thường cảm thấy tự ti, gặp khó khăn trong các hoạt động xã hội và có thể dẫn đến trầm cảm."
+    },
+    {
+      "question": "Điều trị bàng quang tăng hoạt mất bao lâu?",
+      "answer": "Thời gian điều trị phụ thuộc vào nguyên nhân, mức độ bệnh và phương pháp điều trị. Với các biện pháp thay đổi lối sống và thuốc, bệnh có thể được kiểm soát sau 1-3 tháng. Tuy nhiên, trong một số trường hợp, điều trị có thể kéo dài và cần theo dõi lâu dài."
+    },
+    {
+      "question": "Có thể phòng ngừa bàng quang tăng hoạt không?",
+      "answer": "Có thể giảm nguy cơ mắc bệnh bằng cách duy trì lối sống lành mạnh, hạn chế sử dụng caffeine và rượu bia, tập luyện thể dục đều đặn, và thực hiện các bài tập Kegel để tăng cường sức mạnh cơ sàn chậu."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Đâu là sự khác biệt giữa bàng quang tăng hoạt và tiểu không kiểm soát?",
+      "related_diseases": ["Tiểu không kiểm soát khi gắng sức", "Tiểu không kiểm soát do căng thẳng"]
+    },
+    {
+      "question": "Các loại thực phẩm nào nên tránh khi bị bàng quang tăng hoạt?",
+      "related_diseases": ["Viêm bàng quang", "Viêm niệu đạo"]
+    },
+    {
+      "question": "Bài tập Kegel thực hiện như thế nào để hiệu quả nhất?",
+      "related_diseases": ["Sa tạng chậu", "Tiểu không kiểm soát do căng thẳng"]
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ để kiểm tra bàng quang tăng hoạt?",
+      "related_diseases": ["Nhiễm trùng đường tiết niệu", "U bàng quang"]
+    }
+  ]
+}

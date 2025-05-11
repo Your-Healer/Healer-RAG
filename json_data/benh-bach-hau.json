@@ -1,0 +1,214 @@
+{
+  "disease_id": "benh-bach-hau",
+  "disease_name": "Bệnh bạch hầu",
+  "disease_alternative_names": ["Diphtheria", "Bệnh màng giả"],
+  "disease_definition": "Bệnh bạch hầu là bệnh nhiễm khuẩn cấp tính gây ra bởi vi khuẩn Corynebacterium diphtheriae, đặc trưng bởi sự xuất hiện giả mạc dày dai, trắng ngà, bám chặt ở các tuyến hạnh nhân, hầu họng, thanh quản, mũi. Vi khuẩn tiết ra ngoại độc tố gây tổn thương tim, thận và hệ thần kinh, dẫn đến nhiễm trùng, nhiễm độc toàn thân với nguy cơ tử vong cao nếu không được điều trị kịp thời.",
+  "symptoms": [
+    {
+      "name": "Bạch hầu mũi",
+      "description": "Bệnh nhân sổ mũi, chảy ra chất mủ nhầy đôi khi có máu, có màng trắng ở vách ngăn mũi. Thể bệnh thường nhẹ do độc tố vi khuẩn ít thâm nhập vào máu."
+    },
+    {
+      "name": "Bạch hầu họng và amidan",
+      "description": "Bệnh nhân mệt mỏi, đau cổ họng, chán ăn, sốt nhẹ. Sau 2-3 ngày xuất hiện một đám hoại tử tạo thành lớp giả mạc màu trắng xanh, dai và dính chắc vào amiđan, hoặc có thể lan rộng bao phủ cả vùng hầu họng."
+    },
+    {
+      "name": "Sưng hạch cổ và vùng dưới hàm",
+      "description": "Trong một số trường hợp, bệnh nhân có thể sưng nề vùng dưới hàm và sưng các hạch vùng cổ làm cổ bạnh ra như cổ bò."
+    },
+    {
+      "name": "Triệu chứng nhiễm độc nặng",
+      "description": "Bệnh nhân phờ phạc, xanh tái, mạch nhanh, đờ đẫn, hôn mê. Nếu không được điều trị tích cực, có thể tử vong trong vòng 6 đến 10 ngày."
+    },
+    {
+      "name": "Bạch hầu thanh quản",
+      "description": "Thể bệnh tiến triển nhanh và nguy hiểm. Bệnh nhân có dấu hiệu sốt nhẹ, khàn tiếng, ho, các giả mạc tại thanh quản hoặc từ hầu họng lan xuống. Có thể gây tắc đường thở, suy hô hấp và tử vong nhanh chóng nếu không được điều trị kịp thời."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở, thở rít do giả mạc tạo thành làm tắc nghẽn đường thở, đặc biệt khi giả mạc xuất hiện ở thanh quản."
+    },
+    {
+      "name": "Đau họng và khàn giọng",
+      "description": "Đau họng và khàn giọng là các triệu chứng phổ biến do viêm và kích ứng ở vùng cổ họng."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh bạch hầu do vi khuẩn Corynebacterium diphtheriae gây ra. Đây là loại trực khuẩn gram dương hiếu khí, có 4 tuýp là gravis, intermedius, mitis và belfanti. Vi khuẩn tiết ra ngoại độc tố gây tổn thương các mô và cơ quan trong cơ thể.",
+    "related_factors": "Vi khuẩn bạch hầu có sức đề kháng cao, có thể tồn tại trong môi trường nhiều ngày, thậm chí vài tuần khi được chất nhầy bao quanh. Vi khuẩn nhạy cảm với ánh sáng mặt trời, nhiệt độ cao và các chất sát khuẩn như phenol và cồn.",
+    "transmission_routes": [
+      "Lây truyền qua đường hô hấp: Khi người bệnh ho, hắt hơi, nói chuyện, giọt bắn chứa vi khuẩn phát tán trong không khí và người khỏe mạnh hít phải",
+      "Lây truyền gián tiếp: Thông qua đồ vật, vật dụng cá nhân có chứa dịch tiết từ người bệnh",
+      "Tiếp xúc với vết thương: Trong trường hợp bạch hầu ngoài da, bệnh có thể lây qua tiếp xúc với vết thương, vết loét của người bệnh"
+    ]
+  },
+  "risk_factors": [
+    "Chưa tiêm vắc xin phòng bệnh bạch hầu hoặc tiêm không đầy đủ",
+    "Hệ miễn dịch suy yếu",
+    "Sống trong điều kiện mất vệ sinh, chật chội, đông đúc",
+    "Trẻ em dưới 5 tuổi và người lớn trên 40 tuổi",
+    "Di chuyển đến các vùng có dịch bệnh bạch hầu",
+    "Tiếp xúc gần với người bệnh bạch hầu"
+  ],
+  "complications": [
+    "Tắc nghẽn đường thở do giả mạc phát triển, dẫn đến suy hô hấp và tử vong",
+    "Viêm cơ tim (myocarditis) do độc tố bạch hầu gây tổn thương cơ tim",
+    "Viêm dây thần kinh, có thể gây tê liệt hoặc yếu cơ, đặc biệt là dây thần kinh kiểm soát cơ hô hấp",
+    "Nhiễm trùng toàn thân (nhiễm trùng huyết)",
+    "Tử vong: tỷ lệ tử vong từ 5-10%, có thể lên đến 20% ở trẻ em dưới 5 tuổi và người lớn trên 40 tuổi"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng: quan sát giả mạc màu trắng xám bao phủ amidan và cổ họng",
+      "Hỏi bệnh sử và triệu chứng",
+      "Đánh giá yếu tố dịch tễ, tiếp xúc với người bệnh"
+    ],
+    "tests": [
+      {
+        "name": "Nhuộm Gram",
+        "description": "Lấy mẫu dịch từ cổ họng hoặc mũi, nhuộm Gram để quan sát dưới kính hiển vi. Vi khuẩn bạch hầu bắt màu Gram dương, hai đầu to."
+      },
+      {
+        "name": "Nhuộm Albert",
+        "description": "Phương pháp nhuộm đặc biệt giúp phát hiện vi khuẩn bạch hầu, khi nhuộm trực khuẩn sẽ bắt màu xanh."
+      },
+      {
+        "name": "Nuôi cấy vi khuẩn",
+        "description": "Phân lập vi khuẩn trong môi trường đặc hiệu để xác định chính xác loại vi khuẩn gây bệnh, tuy nhiên phương pháp này chậm có kết quả."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh bạch hầu phải được thực hiện càng sớm càng tốt, ngay cả khi chưa có kết quả xét nghiệm xác định. Mọi trường hợp nghi ngờ bạch hầu cần được cách ly và điều trị tại cơ sở y tế chuyên khoa.",
+    "methods": [
+      {
+        "name": "Kháng độc tố bạch hầu (DAT)",
+        "description": "Điều trị chính để trung hòa độc tố bạch hầu trong máu. Liều 40.000 đơn vị kháng độc tố được tiêm bắp hoặc tĩnh mạch. Cần thử test trước để tránh phản ứng dị ứng với huyết thanh ngựa trong kháng độc tố."
+      },
+      {
+        "name": "Kháng sinh",
+        "description": "Tiêm bắp procaine benzylpenicillin liều 50mg/kg (tối đa 1,2g) mỗi ngày trong 10 ngày hoặc sử dụng erythromycin. Kháng sinh giúp diệt vi khuẩn, ngăn sản xuất độc tố và giảm khả năng lây lan."
+      },
+      {
+        "name": "Hỗ trợ hô hấp",
+        "description": "Trong trường hợp tắc nghẽn đường thở, có thể cần đặt nội khí quản hoặc mở khí quản để đảm bảo thông khí."
+      },
+      {
+        "name": "Điều trị hỗ trợ",
+        "description": "Nghỉ ngơi, uống nhiều nước, hạ sốt bằng paracetamol nếu cần, theo dõi chức năng tim và biến chứng thần kinh."
+      }
+    ],
+    "recommendations": [
+      "Cách ly người bệnh để tránh lây lan",
+      "Nghỉ ngơi đầy đủ, tránh vận động mạnh",
+      "Uống nhiều nước để tránh mất nước",
+      "Tuân thủ điều trị kháng sinh đầy đủ theo chỉ định",
+      "Theo dõi tình trạng hô hấp, tim mạch và thần kinh",
+      "Thực hiện xét nghiệm sau điều trị để đảm bảo đã tiêu diệt hoàn toàn vi khuẩn"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người bệnh cho đến khi hai lần xét nghiệm âm tính cách nhau 24 giờ",
+      "Khử trùng đồ dùng cá nhân và môi trường xung quanh người bệnh",
+      "Điều trị dự phòng bằng kháng sinh cho những người tiếp xúc gần với người bệnh",
+      "Theo dõi triệu chứng ở những người tiếp xúc với người bệnh"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm vắc xin là biện pháp phòng ngừa hiệu quả nhất đối với bệnh bạch hầu. Tại Việt Nam, vắc xin bạch hầu thường được phối hợp trong các loại vắc xin đa giá.",
+      "recommended_for": [
+        "Trẻ em từ 2 tháng tuổi trở lên theo lịch tiêm chủng mở rộng",
+        "Mũi cơ bản: tiêm khi trẻ 2, 3, 4 tháng tuổi (vắc xin 5 trong 1 DPT-VGB-Hib)",
+        "Mũi nhắc lại: khi trẻ 16-18 tháng tuổi, 4-6 tuổi, và 11-12 tuổi",
+        "Người lớn: tiêm nhắc lại 10 năm một lần",
+        "Phụ nữ mang thai: tiêm vắc xin phối hợp có thành phần bạch hầu",
+        "Người có nguy cơ cao tiếp xúc với bệnh"
+      ]
+    },
+    "general_recommendations": [
+      "Giữ vệ sinh cá nhân, rửa tay thường xuyên bằng xà phòng",
+      "Che miệng khi ho hoặc hắt hơi",
+      "Tránh tiếp xúc trực tiếp với người mắc bệnh",
+      "Đảm bảo không gian sống sạch sẽ, thông thoáng",
+      "Kiểm tra sức khỏe định kỳ",
+      "Thông báo cho cơ quan y tế khi phát hiện trường hợp nghi ngờ mắc bệnh",
+      "Tuân thủ tiêm chủng đầy đủ và đúng lịch"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh bạch hầu có nguy hiểm không?",
+      "answer": "Bệnh bạch hầu là một bệnh truyền nhiễm nguy hiểm với tỷ lệ tử vong từ 5-10%, có thể lên đến 20% ở trẻ nhỏ và người lớn trên 40 tuổi nếu không được điều trị kịp thời. Bệnh gây ra các biến chứng nghiêm trọng như tắc nghẽn đường thở, viêm cơ tim, tổn thương thần kinh và nhiễm trùng toàn thân."
+    },
+    {
+      "question": "Bệnh bạch hầu lây qua đường nào?",
+      "answer": "Bệnh bạch hầu lây truyền chủ yếu qua đường hô hấp khi hít phải giọt bắn chứa vi khuẩn từ người bệnh khi ho, hắt hơi hoặc nói chuyện. Bệnh cũng có thể lây qua tiếp xúc với đồ vật bị nhiễm khuẩn hoặc vết thương của người bệnh trong trường hợp bạch hầu da."
+    },
+    {
+      "question": "Sau bao lâu thì phát hiện mắc bệnh bạch hầu?",
+      "answer": "Thời gian ủ bệnh của bạch hầu thường từ 2-5 ngày, có thể kéo dài đến 10 ngày. Sau thời gian ủ bệnh, người bệnh bắt đầu xuất hiện các triệu chứng như sốt nhẹ, đau họng, mệt mỏi và dần dần hình thành giả mạc ở cổ họng, amidan hoặc mũi."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sổ mũi, chảy ra chất mủ nhầy đôi khi có máu, có màng trắng ở vách ngăn mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh bạch hầu", "viêm mũi cấp tính", "viêm xoang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, đau cổ họng, chán ăn, sốt nhẹ và có một đám hoại tử tạo thành lớp giả mạc màu trắng xanh ở amiđan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh bạch hầu", "viêm họng cấp", "viêm amidan"]
+    },
+    {
+      "question": "Tôi hay bị sưng nề vùng dưới hàm và sưng các hạch vùng cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh bạch hầu", "viêm họng", "bệnh quai bị", "ung thư hạch bạch huyết"]
+    },
+    {
+      "question": "Tôi đang cảm thấy phờ phạc, xanh tái, mạch nhanh, đờ đẫn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh bạch hầu", "nhiễm trùng huyết", "sốc nhiễm khuẩn"]
+    },
+    {
+      "question": "Tôi hay bị sốt nhẹ, khàn tiếng, ho và có giả mạc tại thanh quản. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh bạch hầu", "viêm thanh quản", "viêm họng"]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như mệt mỏi, đau họng và sốt nhẹ, sau đó xuất hiện một lớp màng trắng ở cổ họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh bạch hầu", "viêm họng nấm Candida", "viêm amidan cấp"]
+    },
+    {
+      "question": "Tôi cảm thấy khó thở và có tiếng rít khi thở, kèm theo sốt và ho. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh bạch hầu", "viêm thanh quản", "hen phế quản", "viêm phế quản"]
+    },
+    {
+      "question": "Tôi hay bị chảy nước mũi có màu vàng hoặc xanh, kèm theo sốt và đau họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh bạch hầu", "viêm xoang", "viêm mũi cấp tính"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khi nuốt và có cảm giác vướng víu ở cổ họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh bạch hầu", "viêm họng", "viêm amidan"]
+    },
+    {
+      "question": "Tôi hiện đang bị sưng hạch ở cổ và có cảm giác đau nhức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh bạch hầu", "bệnh quai bị", "viêm hạch bạch huyết"]
+    },
+    {
+      "question": "Tôi hay bị ho khan kéo dài và có đờm trắng đục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm phế quản", "viêm họng", "viêm phổi"]
+    },
+    {
+      "question": "Tôi hay bị sốt cao đột ngột và có cảm giác ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["cúm", "viêm phổi", "nhiễm trùng huyết"]
+    },
+    {
+      "question": "Tôi đang bị đau đầu và chóng mặt kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["đau nửa đầu", "tăng huyết áp", "rối loạn tiền đình"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm dạ dày", "ngộ độc thực phẩm", "say thai nghén"]
+    },
+    {
+      "question": "Tôi cảm thấy tim đập nhanh và loạn nhịp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rối loạn nhịp tim", "cường giáp", "lo âu"]
+    }
+  ]
+}

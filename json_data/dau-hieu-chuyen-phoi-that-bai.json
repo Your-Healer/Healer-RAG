@@ -1,0 +1,342 @@
+{
+  "disease_id": "dau-hieu-chuyen-phoi-that-bai",
+  "disease_name": "Chuyển Phôi Thất Bại",
+  "disease_alternative_names": [
+    "Thất bại làm tổ",
+    "IVF implantation failure",
+    "Thất bại thụ tinh ống nghiệm"
+  ],
+  "disease_definition": "Chuyển phôi thất bại là tình trạng không có thai sau khi đưa phôi vào trong buồng tử cung. Đây là giai đoạn cuối cùng nhưng quan trọng trong quá trình thụ tinh ống nghiệm (IVF), khi phôi được chuyển vào tử cung để làm tổ và phát triển thành thai nhi.",
+  "symptoms": [
+    {
+      "name": "Đau bụng",
+      "description": "Sau khi chuyển phôi, người bệnh có thể cảm thấy đau hoặc khó chịu ở vùng bụng dưới do tác dụng của thuốc hỗ trợ sau chuyển phôi hoặc do quá trình thủ thuật."
+    },
+    {
+      "name": "Cương ngực",
+      "description": "Ngực có thể căng tức, đau nhẹ do tác dụng của thuốc hỗ trợ hormone sau chuyển phôi, không phải dấu hiệu chắc chắn của việc mang thai."
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác buồn nôn có thể xuất hiện do tác dụng phụ của thuốc hỗ trợ, không nhất thiết là dấu hiệu của việc có thai."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cơ thể mệt mỏi, uể oải do quá trình điều trị và tác dụng của thuốc hỗ trợ."
+    },
+    {
+      "name": "Ra máu âm đạo",
+      "description": "Chảy máu nhẹ có thể xảy ra sau thủ thuật chuyển phôi, nhưng nếu chảy máu nhiều cần phải thông báo cho bác sĩ."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính của chuyển phôi thất bại bao gồm ba nhóm chính: bất thường phôi, bất thường niêm mạc tử cung, và bất thường tương tác giữa phôi và niêm mạc tử cung.",
+    "related_factors": "Các yếu tố liên quan đến phôi thai bao gồm chất lượng phôi kém, bất thường di truyền. Yếu tố về niêm mạc tử cung bao gồm độ dày không phù hợp (<7mm hoặc >13mm), viêm niêm mạc tử cung mãn tính, polyp, vách ngăn hoặc dính buồng tử cung. Về tương tác phôi-niêm mạc, có thể do lệch cửa sổ làm tổ, thời điểm chuyển phôi không phù hợp.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi cao (trên 35 với nữ giới)",
+    "Chất lượng trứng và tinh trùng kém",
+    "Bất thường tử cung (polyp, u xơ, vách ngăn)",
+    "Viêm niêm mạc tử cung mãn tính",
+    "Niêm mạc tử cung quá mỏng hoặc quá dày",
+    "Các bệnh lý tự miễn",
+    "Hút thuốc lá, sử dụng rượu bia",
+    "Chế độ ăn uống, sinh hoạt không lành mạnh",
+    "Căng thẳng, stress kéo dài",
+    "Thời điểm chuyển phôi không phù hợp"
+  ],
+  "complications": [
+    "Rối loạn tâm lý, trầm cảm, lo âu",
+    "Căng thẳng trong mối quan hệ vợ chồng",
+    "Gánh nặng tài chính do phải thực hiện nhiều chu kỳ IVF",
+    "Mất niềm tin vào khả năng có con",
+    "Ảnh hưởng đến chất lượng cuộc sống"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Xét nghiệm beta hCG máu sau chuyển phôi 12 ngày",
+      "Siêu âm để kiểm tra sự hình thành túi thai",
+      "Đánh giá chất lượng phôi trước khi chuyển",
+      "Kiểm tra độ dày và chất lượng niêm mạc tử cung"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm beta hCG máu",
+        "description": "Đây là xét nghiệm chính xác nhất để chẩn đoán có thai sau chuyển phôi, thường được thực hiện sau 12 ngày kể từ ngày chuyển phôi."
+      },
+      {
+        "name": "Phân tích độ nhạy cảm của niêm mạc tử cung (ERA)",
+        "description": "Phân tích mức độ biểu hiện của hàng trăm gen ở niêm mạc tử cung để xác định thời điểm tối ưu cho việc chuyển phôi, giúp tăng khả năng làm tổ."
+      },
+      {
+        "name": "Xét nghiệm di truyền phôi tiền làm tổ (PGT)",
+        "description": "Giúp sàng lọc các phôi có bất thường nhiễm sắc thể, từ đó lựa chọn các phôi nguyên bội (không có bất thường) để chuyển, tăng khả năng thành công."
+      },
+      {
+        "name": "Siêu âm đánh giá niêm mạc tử cung",
+        "description": "Giúp kiểm tra độ dày và cấu trúc của niêm mạc tử cung, tìm ra các bất thường có thể ảnh hưởng đến việc làm tổ của phôi."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Sau khi chuyển phôi thất bại, không có nghĩa là vợ chồng không thể có con. Điều quan trọng là tìm hiểu nguyên nhân thất bại để có phương pháp điều trị phù hợp cho lần chuyển phôi tiếp theo.",
+    "methods": [
+      {
+        "name": "Xử lý các bất thường tử cung",
+        "description": "Các bất thường trong lòng tử cung như dính buồng tử cung, tử cung có vách ngăn, tử cung đôi, u xơ tử cung cần được xử lý trước khi thực hiện chuyển phôi lần tiếp theo."
+      },
+      {
+        "name": "Nuôi cấy phôi nang",
+        "description": "Nuôi phôi đến ngày 5 (phôi nang) trước khi chuyển giúp tăng tỷ lệ thành công lên 1,35 lần so với chuyển phôi ngày 3, vì phôi ngày 5 thường có chất lượng tốt và phù hợp với sinh lý tự nhiên hơn."
+      },
+      {
+        "name": "Xét nghiệm di truyền phôi tiền làm tổ (PGT)",
+        "description": "Giúp sàng lọc và lựa chọn phôi không có bất thường nhiễm sắc thể để chuyển, tăng tỷ lệ thành công và giảm nguy cơ sảy thai, thai lưu."
+      },
+      {
+        "name": "Phân tích độ nhạy cảm của niêm mạc tử cung (ERA)",
+        "description": "Phân tích biểu hiện gen của niêm mạc tử cung để xác định thời điểm tối ưu cho việc chuyển phôi, giúp tăng khả năng làm tổ và mang thai."
+      },
+      {
+        "name": "Hỗ trợ phôi thoát màng",
+        "description": "Kỹ thuật tạo một lỗ nhỏ trên màng phôi để phôi dễ dàng thoát ra và bám vào niêm mạc tử cung, tăng khả năng làm tổ."
+      }
+    ],
+    "recommendations": [
+      "Tìm hiểu nguyên nhân thất bại từ bác sĩ để có hướng điều trị phù hợp",
+      "Giữ tinh thần thoải mái, tránh căng thẳng, lo âu quá mức",
+      "Tạo tâm lý tích cực, chuẩn bị cho một hành trình dài",
+      "Xây dựng chế độ ăn uống lành mạnh, đầy đủ dinh dưỡng",
+      "Duy trì lối sống khoa học, thời gian ngủ nghỉ hợp lý",
+      "Hạn chế thức khuya, tránh stress",
+      "Tập thể dục đều đặn, nhưng tránh các hoạt động quá sức",
+      "Chọn lựa trung tâm IVF uy tín, chất lượng cao",
+      "Tham khảo ý kiến của các chuyên gia có kinh nghiệm lâu năm",
+      "Trao đổi cởi mở với bác sĩ về các phương pháp hỗ trợ tăng tỷ lệ thành công"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine để phòng ngừa tình trạng chuyển phôi thất bại.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Lựa chọn trung tâm IVF có tỷ lệ thành công cao và uy tín",
+      "Chọn bác sĩ có kinh nghiệm và chuyên môn giỏi trong lĩnh vực hỗ trợ sinh sản",
+      "Chuẩn bị sức khỏe thể chất và tinh thần trước khi tiến hành IVF",
+      "Duy trì chế độ ăn uống cân bằng, giàu dinh dưỡng",
+      "Tránh rượu bia, thuốc lá và các chất kích thích",
+      "Giảm thiểu stress và áp lực tâm lý",
+      "Tập thể dục đều đặn nhưng không quá sức",
+      "Tuân thủ đúng hướng dẫn của bác sĩ trong quá trình điều trị",
+      "Đảm bảo đủ thời gian nghỉ ngơi và ngủ đủ giấc",
+      "Kiểm tra sức khỏe tổng quát định kỳ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Sau khi chuyển phôi thất bại, tôi cần bao lâu để thử lại?",
+      "answer": "Thời gian giữa các chu kỳ chuyển phôi phụ thuộc vào nhiều yếu tố như sức khỏe thể chất, tinh thần và kết quả đánh giá của bác sĩ. Thông thường, bạn nên chờ ít nhất 1-3 tháng để cơ thể phục hồi và các phương pháp điều trị bổ sung (nếu cần) có thời gian phát huy tác dụng. Bác sĩ sẽ đánh giá tình trạng cụ thể của bạn và đưa ra lời khuyên phù hợp."
+    },
+    {
+      "question": "Làm thế nào để tăng tỷ lệ thành công trong lần chuyển phôi tiếp theo?",
+      "answer": "Để tăng tỷ lệ thành công, bạn có thể: Tìm hiểu nguyên nhân thất bại trong lần trước; Cân nhắc các kỹ thuật hỗ trợ như xét nghiệm di truyền phôi tiền làm tổ (PGT), phân tích độ nhạy cảm của niêm mạc tử cung (ERA); Nuôi cấy phôi đến ngày 5 (phôi nang); Chăm sóc sức khỏe tổng thể; Duy trì chế độ ăn uống lành mạnh; Giảm stress; Và chọn một trung tâm IVF uy tín với đội ngũ bác sĩ giàu kinh nghiệm."
+    },
+    {
+      "question": "Tôi có thể biết được mình có thai sau chuyển phôi bằng cách nào?",
+      "answer": "Cách chính xác nhất để biết bạn có thai sau chuyển phôi là thông qua xét nghiệm beta hCG máu khoảng 12 ngày sau chuyển phôi. Các test thử thai tại nhà có thể cho kết quả sớm hơn nhưng độ chính xác thấp hơn. Các triệu chứng như đau bụng, cương ngực, buồn nôn... không phải là dấu hiệu chắc chắn của việc có thai vì chúng cũng có thể do tác dụng phụ của thuốc hỗ trợ sau chuyển phôi."
+    },
+    {
+      "question": "Có bao nhiêu lần chuyển phôi thất bại được coi là bình thường trước khi thành công?",
+      "answer": "Không có số lần cố định được coi là 'bình thường' vì mỗi trường hợp đều khác nhau. Một số cặp vợ chồng có thể thành công ngay lần đầu tiên, trong khi những người khác có thể cần nhiều lần hơn. Theo thống kê, sau 3 lần chuyển phôi, tỷ lệ thành công tích lũy có thể lên đến 45-60% tùy thuộc vào nhiều yếu tố như tuổi tác, nguyên nhân vô sinh, và chất lượng phôi. Tuy nhiên, nếu sau 2-3 lần chuyển phôi không thành công, bác sĩ thường sẽ đánh giá lại toàn diện và có thể đề xuất các phương pháp điều trị bổ sung."
+    },
+    {
+      "question": "Nguyên nhân phổ biến nhất của việc chuyển phôi thất bại là gì?",
+      "answer": "Nguyên nhân phổ biến nhất của việc chuyển phôi thất bại bao gồm: Bất thường phôi (đặc biệt là bất thường nhiễm sắc thể) là nguyên nhân hàng đầu; Bất thường niêm mạc tử cung (độ dày không phù hợp, viêm niêm mạc tử cung mãn tính, polyp, vách ngăn hoặc dính buồng tử cung); Bất thường tương tác phôi-niêm mạc tử cung (lệch cửa sổ làm tổ, thời điểm chuyển phôi không phù hợp); Các yếu tố miễn dịch; Tuổi tác của người phụ nữ; Và chất lượng tinh trùng, trứng kém."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng và buồn nôn sau khi chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Quá kích buồng trứng",
+        "Đau bụng do thuốc hỗ trợ",
+        "Mang thai sớm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cương ngực sau khi chuyển phôi, liệu đây có phải dấu hiệu thất bại? Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Tác dụng phụ của thuốc hỗ trợ",
+        "Mang thai sớm",
+        "Rối loạn nội tiết"
+      ]
+    },
+    {
+      "question": "Tôi hay buồn nôn và mệt mỏi sau chuyển phôi, giống như ốm nghén. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Mang thai sớm",
+        "Phản ứng với thuốc hỗ trợ",
+        "Quá kích buồng trứng nhẹ"
+      ]
+    },
+    {
+      "question": "Sau chuyển phôi, tôi bị đau bụng dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Quá kích buồng trứng",
+        "Đau bụng sau thủ thuật",
+        "Nhiễm trùng"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy ngực căng tức và khó chịu sau khi chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Tác dụng phụ của thuốc hỗ trợ",
+        "Mang thai sớm",
+        "Căng thẳng tâm lý"
+      ]
+    },
+    {
+      "question": "Tôi hay mệt mỏi và chán ăn sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Phản ứng với thuốc hỗ trợ",
+        "Mang thai sớm",
+        "Căng thẳng tâm lý"
+      ]
+    },
+    {
+      "question": "Tôi bị đau bụng từng cơn và ra máu sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Sảy thai sớm",
+        "Đau bụng do thủ thuật",
+        "Nhiễm trùng"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đầy hơi và khó tiêu sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Tác dụng phụ của thuốc hỗ trợ",
+        "Mang thai sớm",
+        "Rối loạn tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi bị đau lưng và đau bụng dưới sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Đau bụng sau thủ thuật",
+        "Mang thai sớm",
+        "Quá kích buồng trứng nhẹ"
+      ]
+    },
+    {
+      "question": "Tôi hay chóng mặt và choáng váng sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Tác dụng phụ của thuốc hỗ trợ",
+        "Thiếu máu",
+        "Mang thai sớm"
+      ]
+    },
+    {
+      "question": "Tôi bị thay đổi tâm trạng và dễ cáu gắt sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Tác dụng phụ của hormone",
+        "Căng thẳng tâm lý",
+        "Rối loạn tâm trạng"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy lo lắng và căng thẳng sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Rối loạn lo âu",
+        "Phản ứng tâm lý",
+        "Stress"
+      ]
+    },
+    {
+      "question": "Tôi bị mất ngủ và khó ngủ sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Rối loạn giấc ngủ",
+        "Căng thẳng tâm lý",
+        "Tác dụng phụ của thuốc"
+      ]
+    },
+    {
+      "question": "Tôi bị thay đổi khẩu vị và thèm ăn lạ sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Mang thai sớm",
+        "Tác dụng phụ của hormone",
+        "Rối loạn tâm lý"
+      ]
+    },
+    {
+      "question": "Tôi bị ra máu âm đạo bất thường sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Sảy thai sớm",
+        "Tổn thương sau thủ thuật",
+        "Làm tổ ngoài tử cung"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau tức vùng chậu sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Quá kích buồng trứng",
+        "Nhiễm trùng",
+        "Mang thai sớm"
+      ]
+    },
+    {
+      "question": "Tôi bị chuột rút và đau cơ sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Tác dụng phụ của thuốc",
+        "Mang thai sớm",
+        "Thiếu canxi"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy ớn lạnh và sốt nhẹ sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Nhiễm trùng",
+        "Viêm tử cung",
+        "Phản ứng với thuốc"
+      ]
+    },
+    {
+      "question": "Tôi bị táo bón hoặc tiêu chảy sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Rối loạn tiêu hóa",
+        "Tác dụng phụ của thuốc",
+        "Mang thai sớm"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy không khỏe và khó chịu chung chung sau chuyển phôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chuyển Phôi Thất Bại",
+        "Phản ứng với thuốc",
+        "Căng thẳng tâm lý",
+        "Mang thai sớm"
+      ]
+    }
+  ]
+}

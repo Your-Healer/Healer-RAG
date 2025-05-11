@@ -1,0 +1,355 @@
+{
+  "disease_id": "dau-hong",
+  "disease_name": "Đau Họng",
+  "disease_alternative_names": [
+    "Viêm họng",
+    "Throat pain",
+    "Sore throat",
+    "Pharyngitis"
+  ],
+  "disease_definition": "Đau họng không phải là bệnh mà là một triệu chứng của tình trạng viêm, nhiễm trùng đường hô hấp hoặc là biểu hiện của một số bệnh lý tiềm ẩn. Đau họng biểu hiện bằng cảm giác đau, rát ở vùng cổ họng và có thể kèm theo nhiều triệu chứng khác tùy thuộc vào nguyên nhân gây bệnh.",
+  "symptoms": [
+    {
+      "name": "Đau rát cổ họng",
+      "description": "Cảm giác đau, rát, khó chịu ở vùng cổ họng, có thể tăng lên khi nuốt nước bọt hoặc thức ăn, uống nước."
+    },
+    {
+      "name": "Đau họng kèm ho",
+      "description": "Cảm giác đau ở họng đi kèm với triệu chứng ho, có thể là ho khan hoặc ho có đờm tùy thuộc vào nguyên nhân."
+    },
+    {
+      "name": "Đau họng kèm sốt",
+      "description": "Đau họng kèm theo sốt thường gặp trong các trường hợp nhiễm trùng do vi khuẩn hoặc virus."
+    },
+    {
+      "name": "Đau họng kèm hạch cổ",
+      "description": "Đau họng kèm theo sưng hạch bạch huyết ở vùng cổ, thường gặp trong các trường hợp nhiễm trùng hoặc các bệnh lý ác tính như ung thư vòm họng."
+    },
+    {
+      "name": "Đau họng kèm khàn tiếng",
+      "description": "Đau họng đi kèm với thay đổi về giọng nói, trở nên khàn hoặc yếu đi."
+    },
+    {
+      "name": "Đau họng kèm đờm",
+      "description": "Cảm giác vướng đờm ở cổ họng, thường xuyên phải khạc nhổ hoặc hắng giọng."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân phổ biến nhất của đau họng là do viêm nhiễm, bao gồm nhiễm virus, vi khuẩn hoặc dị ứng gây viêm niêm mạc họng.",
+    "related_factors": "Đau họng còn có thể liên quan đến các yếu tố môi trường như khói bụi, hóa chất, thời tiết thay đổi, hoặc các bệnh lý tiềm ẩn như trào ngược dạ dày thực quản, ung thư vòm họng, bệnh tuyến giáp.",
+    "transmission_routes": [
+      "Lây truyền qua đường hô hấp khi tiếp xúc với giọt bắn từ người bệnh (ho, hắt hơi)",
+      "Lây qua tiếp xúc trực tiếp với người bệnh",
+      "Tiếp xúc với các vật dụng bị nhiễm virus, vi khuẩn"
+    ]
+  },
+  "risk_factors": [
+    "Thay đổi thời tiết đột ngột",
+    "Hút thuốc lá, tiếp xúc với khói thuốc",
+    "Thường xuyên tiếp xúc với hóa chất, khói bụi",
+    "Nói nhiều, lạm dụng giọng nói",
+    "Uống rượu bia quá mức",
+    "Tiếp xúc với người bị cảm cúm",
+    "Hệ miễn dịch yếu",
+    "Mắc các bệnh lý như trào ngược dạ dày thực quản",
+    "Dị ứng thời tiết, phấn hoa, bụi nhà",
+    "Thói quen thở bằng miệng"
+  ],
+  "complications": [
+    "Viêm cầu thận cấp (nếu do liên cầu khuẩn nhóm A)",
+    "Viêm khớp",
+    "Máu nhiễm khuẩn",
+    "Viêm phổi",
+    "Viêm nội tâm mạc",
+    "Áp xe quanh amidan",
+    "Suy hô hấp (trong trường hợp nặng)",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Biến chứng thần kinh, tiêu hóa, tim mạch, hô hấp (trong trường hợp do COVID-19)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng, quan sát họng",
+      "Khai thác bệnh sử cá nhân và gia đình",
+      "Sờ nắn hạch cổ",
+      "Kiểm tra các dấu hiệu viêm nhiễm"
+    ],
+    "tests": [
+      {
+        "name": "Nội soi tai mũi họng",
+        "description": "Dùng ống soi để quan sát trực tiếp vùng tai mũi họng, giúp chẩn đoán bệnh và tầm soát khối u."
+      },
+      {
+        "name": "Nội soi dạ dày thực quản",
+        "description": "Được thực hiện khi nghi ngờ đau họng do trào ngược axit dạ dày."
+      },
+      {
+        "name": "Sinh thiết khối u",
+        "description": "Lấy một phần mô để xét nghiệm, thường được thực hiện khi nghi ngờ ung thư vòm họng hoặc các loại ung thư đầu cổ khác."
+      },
+      {
+        "name": "Xét nghiệm dịch tiết hầu họng",
+        "description": "Giúp xác định tác nhân gây bệnh, đặc biệt trong trường hợp nghi ngờ nhiễm COVID-19 hoặc nhiễm khuẩn."
+      },
+      {
+        "name": "Siêu âm tuyến giáp",
+        "description": "Thực hiện khi có dấu hiệu nghi ngờ bệnh lý tuyến giáp gây đau họng."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị đau họng phụ thuộc vào nguyên nhân gây bệnh. Đa số các trường hợp đau họng do viêm nhiễm thông thường có thể tự khỏi sau khoảng hai tuần.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Tùy vào nguyên nhân, bác sĩ có thể kê đơn thuốc kháng sinh (nếu do vi khuẩn), thuốc kháng viêm, thuốc giảm đau, thuốc ho. Lưu ý chỉ sử dụng kháng sinh khi có chỉ định của bác sĩ."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong trường hợp viêm amidan, viêm VA mạn tính, tái phát nhiều lần hoặc có biến chứng, bác sĩ có thể cân nhắc phẫu thuật cắt amidan và VA."
+      },
+      {
+        "name": "Chườm ấm",
+        "description": "Giúp giảm đau, tăng tuần hoàn máu đến vùng họng, giúp quá trình lành bệnh nhanh hơn."
+      },
+      {
+        "name": "Súc miệng nước muối",
+        "description": "Giúp làm sạch và giảm viêm vùng họng, loại bỏ vi khuẩn, làm dịu cơn đau."
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ để cơ thể tự phục hồi",
+      "Uống nhiều nước, đặc biệt là nước ấm",
+      "Tránh nói nhiều để giảm kích ứng họng",
+      "Ăn thức ăn mềm, ấm như cháo, súp",
+      "Hạn chế ăn đồ cứng, cay, nóng, chua gây kích ứng họng",
+      "Hạn chế uống nước đá lạnh",
+      "Tránh môi trường khói bụi, ô nhiễm",
+      "Ngừng hút thuốc lá, uống rượu bia",
+      "Sử dụng máy tạo độ ẩm trong phòng nếu không khí quá khô",
+      "Tuân thủ đúng liệu trình điều trị của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Đeo khẩu trang khi ra ngoài, đặc biệt tại nơi đông người",
+      "Rửa tay thường xuyên bằng xà phòng hoặc dung dịch sát khuẩn",
+      "Che miệng khi ho, hắt hơi",
+      "Hạn chế tiếp xúc gần với người bị bệnh đường hô hấp",
+      "Không dùng chung đồ dùng cá nhân"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm vắc xin phòng ngừa bệnh cúm, COVID-19 và các bệnh đường hô hấp khác có thể giúp giảm nguy cơ bị đau họng do các tác nhân này. Ngoài ra, tiêm vắc xin HPV cũng được khuyến nghị để phòng ngừa ung thư vòm họng do HPV.",
+      "recommended_for": [
+        "Người trên 6 tháng tuổi (với vắc xin cúm)",
+        "Người từ 12 tuổi trở lên (với vắc xin COVID-19)",
+        "Trẻ em và thanh thiếu niên từ 9-26 tuổi (với vắc xin HPV)"
+      ]
+    },
+    "general_recommendations": [
+      "Giữ ấm cơ thể khi thời tiết lạnh",
+      "Không hút thuốc lá, hạn chế uống rượu bia",
+      "Thực hành thói quen súc miệng bằng nước muối sinh lý hàng ngày",
+      "Uống đủ nước, tránh để cơ thể bị mất nước",
+      "Hạn chế ăn các đồ chua, cay, nóng gây kích ứng niêm mạc họng",
+      "Thăm khám sức khỏe định kỳ, nội soi tai mũi họng ít nhất mỗi năm một lần",
+      "Ăn uống điều độ khoa học, tránh ăn quá no hoặc để bụng quá đói",
+      "Không nằm ngay sau khi ăn để tránh trào ngược dạ dày",
+      "Tập thể dục 30 phút mỗi ngày để nâng cao sức khỏe tổng thể",
+      "Hạn chế quan hệ tình dục bằng miệng để phòng ngừa lây nhiễm HPV"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Người bị đau họng nên ăn gì cho nhanh khỏi?",
+      "answer": "Nếu đau họng do viêm họng, cảm cúm thông thường, người bệnh nên ăn thức ăn mềm, ấm như cháo, súp. Uống nhiều nước, ăn nhiều trái cây, đặc biệt là trái cây giàu vitamin C như họ cam để tăng cường sức đề kháng. Nếu đau họng do các bệnh lý ung thư vòm họng, bệnh tuyến giáp, trào ngược dạ dày thực quản, việc ăn uống chỉ giúp cải thiện triệu chứng đau, dễ nuốt chứ không thể hết đau họng. Do đó, người bệnh cần điều trị các bệnh này theo phác đồ của bác sĩ chuyên khoa, kết hợp với ăn uống thức ăn mềm, lành mạnh, đầy đủ dinh dưỡng."
+    },
+    {
+      "question": "Bị đau họng nên uống gì?",
+      "answer": "Bị đau họng nên uống nhiều nước, nước ép trái cây, đặc biệt là trái cây giàu vitamin C như cam, chanh, bưởi… để tăng cường sức đề kháng nếu không có tình trạng trào ngược dạ dày thực quản. Ngoài ra, có thể dùng nước chanh ấm với mật ong để làm dịu cổ họng, tuy nhiên cần lưu ý không dùng mật ong cho trẻ dưới 1 tuổi."
+    },
+    {
+      "question": "Đau họng có nguy hiểm không?",
+      "answer": "Đau họng do các tác nhân bên ngoài như vi khuẩn, virus, dị ứng, uống bia rượu, hút thuốc lá, nói nhiều… thường không nguy hiểm. Người bệnh có thể tự điều trị tại nhà và sau hai tuần bệnh có thể tự khỏi. Tuy nhiên, đau họng do liên cầu khuẩn nhóm A, COVID-19 có thể gây các biến chứng nguy hiểm như viêm cầu thận cấp, viêm khớp, máu nhiễm khuẩn, viêm phổi, viêm nội tâm mạc. Đặc biệt, nếu đau họng kéo dài trên 2 tuần kèm nổi hạch, sụt cân, khạc ra máu cần đi khám ngay vì có thể là dấu hiệu của ung thư vòm họng."
+    },
+    {
+      "question": "Đau họng có nên uống thuốc kháng sinh không?",
+      "answer": "Thuốc kháng sinh được dùng để điều trị nhiễm trùng do vi khuẩn. Nếu đau họng do nhiễm trùng vi khuẩn, người bệnh có thể được điều trị bằng kháng sinh. Tuy nhiên, việc dùng kháng sinh cần theo chỉ định của bác sĩ. Nhiều trường hợp đau họng do virus (như cảm cúm thông thường, COVID-19) không cần điều trị bằng kháng sinh. Lạm dụng kháng sinh có thể gây ra tình trạng kháng thuốc và các tác dụng phụ không mong muốn."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ khi bị đau họng?",
+      "answer": "Nếu các triệu chứng đau họng sau 2 tuần không cải thiện, đặc biệt đau họng kèm nổi hạch, ho ra máu, sụt cân không rõ nguyên nhân, thể trạng mệt mỏi, người bệnh nên đến bệnh viện thăm khám chuyên khoa Tai Mũi Họng. Ngoài ra, cần đi khám ngay nếu có các dấu hiệu nguy hiểm như khó thở, khó nuốt, sốt cao liên tục, đau một bên họng dữ dội, hoặc cứng cổ đi kèm đau họng."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau họng, ho, sốt, cổ có đờm, hôi miệng, sổ mũi, nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm họng",
+        "Cảm cúm",
+        "COVID-19",
+        "Viêm amidan",
+        "Viêm VA"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau họng kèm sốt, hạch cổ, amidan có mủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm amidan cấp",
+        "Viêm họng do vi khuẩn",
+        "Bạch hầu",
+        "Viêm họng do liên cầu khuẩn",
+        "Nhiễm trùng Mononucleosis"
+      ]
+    },
+    {
+      "question": "Tôi hay đau họng kèm ho nhiều, đờm có lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Lao phổi",
+        "Viêm phế quản",
+        "Viêm phổi",
+        "Ung thư phổi",
+        "Áp xe phổi"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng dịch dạ dày trào lên cổ họng gây nóng, rát và ho nhiều về đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trào ngược dạ dày thực quản",
+        "Viêm thực quản",
+        "Thoát vị hoành",
+        "Loét dạ dày",
+        "Viêm dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau họng kèm nổi hạch cổ, mệt mỏi, sụt cân, giọng nói thay đổi và khạc ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư vòm họng",
+        "Ung thư thanh quản",
+        "Ung thư amidan",
+        "Ung thư lưỡi",
+        "Lymphoma vùng đầu cổ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau họng kèm cổ to, nuốt vướng, nuốt khó. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh tuyến giáp",
+        "Bướu giáp",
+        "U tuyến giáp",
+        "Viêm tuyến giáp",
+        "Áp xe quanh amidan"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau họng, ho, và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm họng",
+        "Cảm cúm",
+        "COVID-19",
+        "Viêm phế quản",
+        "Viêm amidan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau họng và nổi hạch ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm họng",
+        "Viêm amidan",
+        "Ung thư vòm họng",
+        "Nhiễm trùng Mononucleosis",
+        "Bệnh thủy đậu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau họng và giọng nói thay đổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thanh quản",
+        "Polyp dây thanh",
+        "Ung thư thanh quản",
+        "Phù thanh quản",
+        "Viêm họng cấp tính"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau họng và khó nuốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm amidan",
+        "Áp xe quanh amidan",
+        "Ung thư vòm họng",
+        "Viêm họng",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau họng kéo dài hơn hai tuần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm họng mạn tính",
+        "Trào ngược dạ dày thực quản",
+        "Ung thư vòm họng",
+        "Viêm thanh quản mạn tính",
+        "Bệnh tuyến giáp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau họng khi thời tiết thay đổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm họng dị ứng",
+        "Viêm mũi dị ứng",
+        "Hen phế quản",
+        "Viêm xoang",
+        "Viêm phế quản"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau họng sau khi tiếp xúc với người bị cảm cúm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cảm cúm",
+        "Viêm họng do virus",
+        "COVID-19",
+        "Viêm amidan",
+        "Viêm phế quản"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau họng sau khi ăn đồ cay nóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm họng cấp tính",
+        "Trào ngược dạ dày thực quản",
+        "Viêm thực quản",
+        "Viêm dạ dày",
+        "Viêm loét dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau họng khi nói nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thanh quản",
+        "Viêm dây thanh",
+        "Lạm dụng giọng nói",
+        "Nốt hạt thanh quản",
+        "Polyp dây thanh"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau họng và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thanh quản cấp",
+        "Viêm khí quản",
+        "Phù thanh môn",
+        "Dị vật đường thở",
+        "Áp xe quanh amidan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau họng và đau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa",
+        "Viêm họng",
+        "Viêm amidan",
+        "Viêm xoang",
+        "Viêm vòi nhĩ"
+      ]
+    }
+  ]
+}

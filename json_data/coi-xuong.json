@@ -1,0 +1,267 @@
+{
+  "disease_id": "coi-xuong",
+  "disease_name": "Còi Xương",
+  "disease_alternative_names": [
+    "Rickets",
+    "Osteomalacia (ở người trưởng thành)",
+    "Bệnh nhuyễn xương"
+  ],
+  "disease_definition": "Còi xương là một dạng rối loạn thường gặp ở trẻ em, khiến xương bị mềm, yếu và dễ gãy hơn bình thường. Tình trạng này xảy ra chủ yếu do sự thiếu hụt vitamin D, canxi hoặc phospho trong cơ thể. Trong một số trường hợp hiếm gặp, bệnh xảy ra do rối loạn di truyền khiến bệnh nhân gặp các vấn đề về chuyển hóa canxi, phospho trong cơ thể, từ đó, nồng độ phospho trong xương thấp, dẫn đến còi xương.",
+  "symptoms": [
+    {
+      "name": "Chán ăn và suy dinh dưỡng",
+      "description": "Trẻ thường biếng ăn, dẫn đến tình trạng suy dinh dưỡng, không tăng cân đều."
+    },
+    {
+      "name": "Thóp chậm liền và biến dạng xương sọ",
+      "description": "Triệu chứng thường gặp ở trẻ sơ sinh và trẻ nhỏ, gồm thóp chậm liền, bờ thóp mềm, đầu to, bướu đỉnh, bướu trán."
+    },
+    {
+      "name": "Răng chậm phát triển",
+      "description": "Răng mọc chậm, không đều, dễ bị sâu răng và gặp các vấn đề về răng miệng."
+    },
+    {
+      "name": "Biến dạng xương chi",
+      "description": "Chi cong (chân vòng kiềng), vòng cổ chân, cổ tay to bất thường."
+    },
+    {
+      "name": "Biến dạng lồng ngực",
+      "description": "Lồng ngực có hình như ngực gà, có thể xuất hiện chuỗi hạt sườn."
+    },
+    {
+      "name": "Chậm biết bò, biết đi",
+      "description": "Trẻ chậm đạt được các mốc phát triển vận động như bò, đi đứng."
+    },
+    {
+      "name": "Quấy khóc và ngủ không sâu giấc",
+      "description": "Trẻ thường xuyên quấy khóc, ngủ không sâu giấc, hay bị giật mình."
+    },
+    {
+      "name": "Đổ mồ hôi trộm",
+      "description": "Đổ nhiều mồ hôi vào ban đêm, đặc biệt ở vùng đầu."
+    },
+    {
+      "name": "Tụt canxi và co giật",
+      "description": "Tụt canxi máu có thể gây ra co giật, nôn mửa ở trẻ."
+    },
+    {
+      "name": "Xương mềm yếu, dễ gãy",
+      "description": "Xương trở nên mềm yếu hơn, dễ bị nứt gãy (hiện tượng gãy xương cành tươi)."
+    }
+  ],
+  "causes": {
+    "main_cause": "Phần lớn các trường hợp còi xương xảy ra do cơ thể thiếu hụt vitamin D. Vitamin D có vai trò giúp cơ thể hấp thụ Canxi và Phospho. Khi cơ thể thiếu hụt vitamin D, hàm lượng Canxi, Phospho trong máu giảm, cơ thể có thể sẽ lấy những dưỡng chất này từ xương.",
+    "related_factors": "Ngoài vitamin D, việc thiếu hụt vitamin K2 – một loại vitamin có chức năng vận chuyển canxi tạo xương, vitamin D3 – một loại vitamin tham gia vào quá trình chuyển hóa xương hay các khoáng chất tham gia vào quá trình tạo xương như phospho, kẽm, magie cũng là nguyên nhân. Một số trường hợp còi xương còn do gặp các vấn đề về tự tổng hợp và chuyển hóa Vitamin D, Canxi và Phospho thành xương như bệnh Celiac, viêm đường ruột, xơ nang, hay các bệnh lý về thận.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Trẻ da đen: Da đen có khả năng sản xuất vitamin D kém hơn những màu da khác",
+    "Trẻ sinh sống ở vĩ độ phía Bắc, nơi có ít ánh nắng mặt trời",
+    "Trẻ sinh non",
+    "Trẻ sinh ra trong gia đình có tiền sử bệnh còi xương",
+    "Bệnh nhân đang sử dụng một số loại thuốc như thuốc chống động kinh, thuốc kháng virus gây ảnh hưởng đến khả năng sử dụng vitamin D",
+    "Trẻ được nuôi bằng sữa mẹ hoàn toàn nhưng sữa mẹ không có đủ dưỡng chất, nhất là vitamin D",
+    "Trẻ ít tiếp xúc với ánh nắng mặt trời do được bao bọc quá kỹ"
+  ],
+  "complications": [
+    "Chậm phát triển về thể chất",
+    "Cột sống bất thường, cong cột sống",
+    "Dị tật xương vĩnh viễn",
+    "Mất xương vĩnh viễn",
+    "Răng mọc thiếu, khiếm khuyết nha khoa",
+    "Mắc bệnh động kinh"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Thăm khám sức khỏe lâm sàng",
+      "Kiểm tra sự bất thường của xương như hộp sọ, ngực, chân tay",
+      "Đánh giá mức độ phát triển vận động của trẻ"
+    ],
+    "tests": [
+      {
+        "name": "Chụp X-quang",
+        "description": "Giúp kiểm tra mức độ biến dạng xương và theo dõi tiến trình điều trị."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Xác định nồng độ vitamin D, canxi và phospho trong máu của bệnh nhân."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra chức năng thận và khả năng bài tiết các chất khoáng."
+      },
+      {
+        "name": "Sinh thiết xương",
+        "description": "Trong các trường hợp khó chẩn đoán, có thể thực hiện sinh thiết xương để xác định mức độ ảnh hưởng của bệnh."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Phần lớn các trường hợp bị còi xương, bác sĩ sẽ tập trung vào bổ sung các dưỡng chất còn thiếu cho bệnh nhân nhất là Vitamin D, Canxi và Phospho thông qua chế độ ăn hằng ngày và thuốc uống bổ sung. Bệnh nhân còi xương bắt đầu thấy hiệu quả sau khoảng 1 tuần điều trị, các biến dạng xương dần được cải thiện và có thể biến mất nếu được điều trị sớm và đúng cách.",
+    "methods": [
+      {
+        "name": "Bổ sung Vitamin D",
+        "description": "Bổ sung vitamin D qua đường uống theo liều lượng được bác sĩ chỉ định, giúp cơ thể hấp thụ canxi và phospho tốt hơn."
+      },
+      {
+        "name": "Bổ sung Canxi và Phospho",
+        "description": "Bổ sung canxi và phospho từ thực phẩm hoặc thông qua các loại thuốc bổ sung theo chỉ định của bác sĩ."
+      },
+      {
+        "name": "Điều trị đặc biệt cho các trường hợp rối loạn di truyền",
+        "description": "Đối với các trường hợp còi xương do rối loạn thận hay do di truyền, cần bổ sung các dưỡng chất còn thiếu với liều lượng phù hợp, tránh ảnh hưởng đến sức khỏe bệnh nhân."
+      },
+      {
+        "name": "Dùng nẹp hoặc phẫu thuật chỉnh hình",
+        "description": "Trong trường hợp bệnh nhân có biểu hiện chân vòng kiềng hoặc có bất kỳ biến dạng xương, cột sống nào, có thể cần nẹp hoặc phẫu thuật để định vị lại tư thế xương."
+      }
+    ],
+    "recommendations": [
+      "Theo dõi đều đặn với bác sĩ và thực hiện các xét nghiệm định kỳ để đánh giá tiến trình điều trị",
+      "Đảm bảo tiếp xúc với ánh nắng mặt trời đầy đủ, khoảng 15-30 phút mỗi ngày",
+      "Thực hiện chế độ ăn giàu vitamin D, canxi và phospho",
+      "Hạn chế các hoạt động nặng có nguy cơ gây nứt, gãy xương",
+      "Đảm bảo trẻ được vận động nhẹ nhàng phù hợp để kích thích sự phát triển xương",
+      "Kiểm soát chặt chẽ hàm lượng vitamin D bổ sung, tránh dư thừa dẫn đến tác dụng phụ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa bệnh còi xương.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Xây dựng thực đơn dinh dưỡng giàu canxi, vitamin D: sữa và các chế phẩm từ sữa, đậu, rau xanh, ngũ cốc, hạnh nhân, nước ép trái cây",
+      "Đảm bảo cung cấp đủ vitamin D thông qua thực phẩm giàu dưỡng chất như cá béo, sữa, ngũ cốc",
+      "Cho trẻ tắm nắng thường xuyên vào khung giờ từ 9 giờ sáng đến 3 giờ chiều, khoảng 15-30 phút mỗi lần",
+      "Phòng ngừa còi xương cho trẻ ngay từ trong giai đoạn thai kỳ: phụ nữ mang thai cần bổ sung đủ canxi",
+      "Nuôi con bằng sữa mẹ hoàn toàn trong 6 tháng đầu sau sinh, đồng thời đảm bảo mẹ có chế độ dinh dưỡng đầy đủ",
+      "Thường xuyên tập luyện thể dục, thể thao để kích thích quá trình hình thành xương, giúp xương chắc khỏe",
+      "Theo dõi sức khỏe định kỳ để phát hiện và điều trị sớm các vấn đề về xương"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Còi xương có thể chữa khỏi hoàn toàn không?",
+      "answer": "Còi xương có thể được chữa khỏi hoàn toàn nếu được phát hiện và điều trị sớm. Thông thường, bệnh nhân còi xương bắt đầu thấy hiệu quả sau khoảng 1 tuần điều trị, các biến dạng xương dần được cải thiện và có thể biến mất nếu được điều trị đúng cách. Tuy nhiên, nếu bệnh không được điều trị kịp thời, một số biến dạng xương có thể trở nên vĩnh viễn."
+    },
+    {
+      "question": "Tôi nên cho trẻ tắm nắng như thế nào để phòng ngừa còi xương?",
+      "answer": "Tắm nắng là cách bổ sung vitamin D tự nhiên, an toàn và hiệu quả cho trẻ. Đối với trẻ sơ sinh dưới 6 tháng, tránh cho trẻ tiếp xúc trực tiếp với ánh nắng mặt trời do da còn nhạy cảm. Với trẻ trên 6 tháng, nên cho tắm nắng trong khoảng 15-30 phút mỗi lần, vào khung giờ từ 9 giờ sáng đến 3 giờ chiều khi cường độ tia UVB đủ mạnh để kích hoạt tổng hợp vitamin D3 trên da. Trẻ nên được mặc quần áo phù hợp và thoa kem chống nắng khi tắm nắng."
+    },
+    {
+      "question": "Chế độ dinh dưỡng như thế nào giúp phòng ngừa và điều trị còi xương?",
+      "answer": "Để phòng ngừa và điều trị còi xương, trẻ cần được đảm bảo chế độ dinh dưỡng đầy đủ 4 nhóm chất chính: chất đạm, tinh bột, chất béo, vitamin và khoáng chất. Đặc biệt chú ý bổ sung các vi chất tham gia vào quá trình hình thành xương như vitamin D, canxi, phosphate, sắt và kẽm từ các thực phẩm như sữa và các chế phẩm từ sữa, cá béo, trứng, đậu, rau xanh, ngũ cốc. Tăng lượng chất béo từ dầu, mỡ cũng giúp trẻ hấp thụ vitamin D dễ dàng hơn."
+    },
+    {
+      "question": "Dấu hiệu nào cho thấy trẻ đang bị còi xương?",
+      "answer": "Dấu hiệu điển hình của còi xương ở trẻ bao gồm: chán ăn, suy dinh dưỡng; xương phát triển chậm với các biểu hiện như thóp chậm liền, đầu to, bướu trán; răng chậm mọc và dễ bị sâu; xương chi biến dạng (chân vòng kiềng, vòng cổ chân); lồng ngực biến dạng (ngực gà); trẻ chậm biết bò, biết đi; hay quấy khóc, ngủ không sâu giấc; đổ mồ hôi nhiều vào ban đêm; và trong trường hợp nặng có thể có tụt canxi, co giật, nôn mửa."
+    },
+    {
+      "question": "Còi xương có thể để lại biến chứng gì nếu không điều trị kịp thời?",
+      "answer": "Còi xương nếu không được phát hiện và điều trị sớm có thể để lại nhiều biến chứng nghiêm trọng như: chậm phát triển về thể chất; cột sống bất thường, cong vẹo cột sống; dị tật xương vĩnh viễn không thể khắc phục; mất xương vĩnh viễn; các vấn đề về răng như răng mọc thiếu, sâu răng và khiếm khuyết nha khoa khác; và trong một số trường hợp có thể dẫn đến bệnh động kinh."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chán ăn, suy dinh dưỡng và xương phát triển chậm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "còi xương",
+        "suy dinh dưỡng",
+        "thiếu vitamin D",
+        "thiếu canxi",
+        "rối loạn tuyến giáp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, hay đổ mồ hôi trộm và thóp chậm liền. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "còi xương",
+        "suy dinh dưỡng",
+        "thiếu vitamin D",
+        "thiếu canxi",
+        "nhiễm trùng mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức xương, răng mọc chậm và dễ bị sâu răng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "còi xương",
+        "thiếu vitamin D",
+        "thiếu canxi",
+        "loãng xương",
+        "rối loạn tuyến cận giáp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chân vòng kiềng, ngực gà và chậm biết đi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "còi xương",
+        "bệnh xương tạo xương bất toàn",
+        "loạn sản xương sụn",
+        "rối loạn chuyển hóa canxi-phospho"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy yếu ớt, hay quấy khóc và ngủ không ngon giấc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "còi xương",
+        "suy dinh dưỡng",
+        "thiếu máu",
+        "rối loạn giấc ngủ",
+        "thiếu hụt vitamin và khoáng chất"
+      ]
+    },
+    {
+      "question": "Tôi hay bị co giật, nôn mửa và xương dễ gãy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "còi xương",
+        "thiếu canxi",
+        "hạ canxi máu",
+        "động kinh",
+        "bệnh xương tạo xương bất toàn"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đầu to, bướu trán và chậm mọc răng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "còi xương",
+        "não úng thủy",
+        "hội chứng Down",
+        "rối loạn phát triển xương sọ",
+        "rối loạn tuyến giáp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, hay bị chuột rút và xương biến dạng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "còi xương",
+        "thiếu canxi",
+        "thiếu vitamin D",
+        "hạ magie máu",
+        "loãng xương"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức xương, xương chậm phát triển và dễ bị gãy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "còi xương",
+        "bệnh xương tạo xương bất toàn",
+        "loãng xương",
+        "thiếu vitamin D",
+        "rối loạn canxi-phospho"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như suy dinh dưỡng, chậm lớn và thóp rộng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "còi xương",
+        "suy dinh dưỡng",
+        "thiếu vitamin D",
+        "rối loạn tuyến giáp",
+        "rối loạn chuyển hóa"
+      ]
+    }
+  ]
+}

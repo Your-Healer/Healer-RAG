@@ -1,0 +1,369 @@
+{
+  "disease_id": "dau-dinh-dau",
+  "disease_name": "Đau Đỉnh Đầu",
+  "disease_alternative_names": [
+    "Nhức đỉnh đầu",
+    "Crown headache",
+    "Vertex headache"
+  ],
+  "disease_definition": "Đau đỉnh đầu là cơn đau đầu âm ỉ hoặc đột ngột ở trên đỉnh đầu. Hầu hết mọi người đều gặp phải cơn đau đầu dạng này một hoặc nhiều lần với nhiều lý do khác nhau. Hiện tượng đau đỉnh đầu có thể xảy ra trong vài phút nhưng cũng có khi kéo dài dai dẳng ảnh hưởng không nhỏ tới sức khỏe người bệnh.",
+  "symptoms": [
+    {
+      "name": "Đau nhói ở đỉnh đầu",
+      "description": "Người bệnh có cảm giác giống như đang có một vật nặng đè chặt phía trên đỉnh đầu gây đau nhói."
+    },
+    {
+      "name": "Chóng mặt và buồn nôn",
+      "description": "Cơn đau đỉnh đầu có thể kèm theo cảm giác chóng mặt và buồn nôn, làm người bệnh khó chịu."
+    },
+    {
+      "name": "Đau hàm và đau cổ",
+      "description": "Một số người bệnh cảm thấy đau nhức vùng hàm và cổ khi bị đau đỉnh đầu."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng và tiếng ồn",
+      "description": "Người bị đau đỉnh đầu có thể trở nên nhạy cảm với ánh sáng và tiếng ồn hơn bình thường."
+    },
+    {
+      "name": "Chảy máu cam",
+      "description": "Trong một số trường hợp hiếm gặp, đau đỉnh đầu có thể kèm theo tình trạng chảy máu cam."
+    },
+    {
+      "name": "Khó thở và lo âu",
+      "description": "Khi liên quan đến các bệnh lý nguy hiểm, người bệnh có thể gặp khó thở hoặc có triệu chứng lo âu kèm theo đau đỉnh đầu."
+    }
+  ],
+  "causes": {
+    "main_cause": "Đau đỉnh đầu có nhiều nguyên nhân, phổ biến nhất là do căng thẳng kéo dài, chứng đau nửa đầu (migraine), đau đầu mạn tính, đau đầu từng cụm, và viêm xoang.",
+    "related_factors": "Các yếu tố khác có thể gây đau đỉnh đầu bao gồm kích thích lạnh (ăn đồ lạnh), mất ngủ, đau dây thần kinh chẩm, hội chứng co mạch não có hồi phục, tăng huyết áp, lạm dụng thuốc giảm đau, tập thể dục cường độ cao, thiếu máu lên não và thay đổi thời tiết chuyển mùa.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Căng thẳng và lo âu kéo dài",
+    "Thiếu ngủ hoặc rối loạn giấc ngủ",
+    "Tiêu thụ rượu bia và các chất kích thích",
+    "Sử dụng caffeine không đều đặn",
+    "Môi trường làm việc với áp lực cao",
+    "Tư thế làm việc, sinh hoạt không đúng",
+    "Tiền sử bị chấn thương đầu hoặc cổ",
+    "Vấn đề về cột sống cổ",
+    "Tiền sử gia đình có người bị đau đầu",
+    "Thay đổi thời tiết đột ngột"
+  ],
+  "complications": [
+    "Tăng huyết áp",
+    "Thiếu máu lên não",
+    "Đột quỵ",
+    "Suy giảm chất lượng cuộc sống",
+    "Mất khả năng tập trung làm việc",
+    "Rối loạn giấc ngủ",
+    "Trầm cảm và lo âu",
+    "Phụ thuộc vào thuốc giảm đau"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và đánh giá triệu chứng",
+      "Thu thập tiền sử bệnh",
+      "Đánh giá các yếu tố kích thích gây đau",
+      "Kiểm tra thần kinh và cột sống",
+      "Loại trừ các nguyên nhân nguy hiểm"
+    ],
+    "tests": [
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Giúp phát hiện các bất thường ở não, cột sống cổ hoặc các mạch máu có thể gây đau đỉnh đầu."
+      },
+      {
+        "name": "Chụp CT Scan",
+        "description": "Được sử dụng để loại trừ các tổn thương cấu trúc nghiêm trọng như khối u não, xuất huyết não."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp kiểm tra các vấn đề về nhiễm trùng, thiếu máu hoặc các bất thường khác có thể gây đau đầu."
+      },
+      {
+        "name": "Đo huyết áp",
+        "description": "Giúp kiểm tra xem đau đỉnh đầu có liên quan đến tăng huyết áp hay không."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Việc điều trị đau đỉnh đầu liên quan đến chữa trị và kiểm soát những nguyên nhân và yếu tố gây bệnh. Cần tham khảo ý kiến bác sĩ nếu cần dùng thuốc giảm đau nhiều hơn 3 ngày trong tuần.",
+    "methods": [
+      {
+        "name": "Thuốc giảm đau không kê đơn",
+        "description": "Sử dụng acetaminophen hoặc thuốc chống viêm không steroid (NSAID) như ibuprofen để giảm đau. Tuy nhiên, cần lưu ý tác dụng phụ và tương tác thuốc."
+      },
+      {
+        "name": "Thuốc giãn cơ",
+        "description": "Giúp giảm căng cơ vùng cổ và vai, một trong những nguyên nhân gây đau đỉnh đầu."
+      },
+      {
+        "name": "Thuốc Triptans",
+        "description": "Được chỉ định trong trường hợp đau đỉnh đầu do migraine, giúp thu hẹp mạch máu não bị giãn và làm giảm các triệu chứng."
+      },
+      {
+        "name": "Điều chỉnh thần kinh cột sống",
+        "description": "Giúp cột sống cổ trên thẳng hàng, giữ cho vùng cổ và đầu xương, dây thần kinh và cơ ở đúng vị trí, từ đó loại bỏ nguyên nhân chính gây đau đầu."
+      },
+      {
+        "name": "Mát-xa và châm cứu",
+        "description": "Các phương pháp này có thể giúp xoa dịu triệu chứng đau đỉnh đầu và giảm căng thẳng."
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi trong phòng tối và yên tĩnh khi đau đầu",
+      "Mát-xa nhẹ nhàng vùng đầu, cổ và vai",
+      "Tắm nước ấm để thư giãn cơ bắp",
+      "Chườm mát lên đầu để giảm đau",
+      "Thay đổi tư thế nằm hoặc làm việc",
+      "Thực hành các bài tập thư giãn như yoga hoặc thiền",
+      "Uống đủ nước để tránh mất nước",
+      "Duy trì chế độ ăn uống lành mạnh",
+      "Hạn chế tiếp xúc với các yếu tố kích thích như ánh sáng mạnh hoặc tiếng ồn lớn"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện không có vaccine cho đau đỉnh đầu vì đây không phải là bệnh truyền nhiễm.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Ngủ đủ giấc: Thiếu ngủ là một trong những tác nhân gây đau đầu nhiều nhất",
+      "Giảm căng thẳng: Tập yoga, thiền, thể dục để thư giãn tinh thần",
+      "Hạn chế uống rượu bia và các chất kích thích",
+      "Tiêu thụ mức caffeine ổn định, tránh tăng hoặc giảm đột ngột",
+      "Duy trì tư thế đúng khi làm việc hoặc sinh hoạt",
+      "Tránh các yếu tố kích thích cá nhân gây đau đầu",
+      "Tập thể dục điều độ và thường xuyên",
+      "Kiểm soát các bệnh lý nền như tăng huyết áp, viêm xoang",
+      "Uống đủ nước mỗi ngày",
+      "Thực hiện khám sức khỏe định kỳ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Khi nào tôi nên đi khám bác sĩ về tình trạng đau đỉnh đầu?",
+      "answer": "Bạn nên đi khám bác sĩ khi gặp các trường hợp sau: đau đỉnh đầu kèm sốt; đau đầu dữ dội, đột ngột; đau đầu đột ngột đi kèm cứng cổ; cơn đau xuất hiện chung với tình trạng co giật; nhức đầu kèm nhầm lẫn, mất ý thức; đau vùng đỉnh đầu chung với đau ở tai hoặc mắt; cảm giác như có 'tiếng gõ' trong đầu; đau đầu kéo dài; đau đầu tái phát nhiều lần ở trẻ em."
+    },
+    {
+      "question": "Đau đỉnh đầu có phải là dấu hiệu của bệnh nguy hiểm không?",
+      "answer": "Không phải lúc nào đau đỉnh đầu cũng là dấu hiệu nguy hiểm. Tuy nhiên, nó có thể là dấu hiệu cảnh báo của các bệnh lý nghiêm trọng như tăng huyết áp, thiếu máu lên não, đột quỵ, đặc biệt nếu cơn đau chuyển biến nặng. Nếu đau đầu dữ dội, đột ngột, kèm theo các triệu chứng như sốt, cứng cổ, co giật, mất ý thức, hãy đến gặp bác sĩ ngay lập tức."
+    },
+    {
+      "question": "Làm thế nào để giảm đau đỉnh đầu tại nhà?",
+      "answer": "Để giảm đau đỉnh đầu tại nhà, bạn có thể: nghỉ ngơi trong phòng tối và yên tĩnh; mát-xa nhẹ nhàng vùng đầu, cổ và vai; tắm nước ấm để thư giãn cơ bắp; chườm mát lên đầu; uống nước đầy đủ; dùng thuốc giảm đau không kê đơn (theo hướng dẫn); thực hành các bài tập thư giãn như yoga hoặc thiền; tránh các yếu tố kích thích như ánh sáng mạnh, tiếng ồn; và điều chỉnh tư thế làm việc hoặc sinh hoạt."
+    },
+    {
+      "question": "Đau đỉnh đầu có liên quan đến căng thẳng không?",
+      "answer": "Có, căng thẳng là một trong những nguyên nhân phổ biến nhất gây đau đỉnh đầu. Khi chịu áp lực căng thẳng trong thời gian dài rất dễ dẫn tới hiện tượng đau đỉnh đầu. Căng thẳng quá mức còn có thể gây đau đầu vùng thái dương hoặc vùng cổ gáy. Các cơn đau do căng thẳng thường âm ỉ, không gây nhói và ít nghiêm trọng, nhưng có thể kéo dài từ 30 phút đến 1 tuần."
+    },
+    {
+      "question": "Tôi có thể phòng ngừa đau đỉnh đầu như thế nào?",
+      "answer": "Để phòng ngừa đau đỉnh đầu, bạn nên: ngủ đủ giấc; giảm căng thẳng thông qua yoga, thiền hoặc thể dục; hạn chế uống rượu bia và các chất kích thích; duy trì mức tiêu thụ caffeine ổn định; đảm bảo tư thế đúng khi làm việc; uống đủ nước; tập thể dục điều độ; tránh các yếu tố kích thích cá nhân gây đau đầu; và kiểm soát các bệnh lý nền như tăng huyết áp hoặc viêm xoang."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có triệu chứng đau nhói như có vật nặng đè lên đỉnh đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "đau đầu căng thẳng",
+        "viêm xoang",
+        "đau đầu do tăng huyết áp",
+        "đau nửa đầu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đỉnh đầu kèm theo chóng mặt và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "đau nửa đầu",
+        "đau đầu vận mạch",
+        "rối loạn tiền đình",
+        "tăng huyết áp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đỉnh đầu và đau hàm cùng lúc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "rối loạn khớp thái dương hàm",
+        "đau đầu căng thẳng",
+        "nghiến răng",
+        "viêm khớp hàm"
+      ]
+    },
+    {
+      "question": "Tôi bị đau đỉnh đầu dữ dội và kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "đau nửa đầu mạn tính",
+        "đau đầu do lạm dụng thuốc",
+        "tăng áp lực nội sọ",
+        "u não"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau đỉnh đầu kèm theo nhạy cảm với ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "đau nửa đầu",
+        "viêm màng não",
+        "đau đầu cụm",
+        "rối loạn thần kinh thị giác"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đỉnh đầu và đau cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "đau đầu căng thẳng",
+        "đau dây thần kinh chẩm",
+        "thoái hóa cột sống cổ",
+        "vấn đề về tư thế"
+      ]
+    },
+    {
+      "question": "Tôi bị đau đỉnh đầu kèm theo chảy máu cam. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "tăng huyết áp",
+        "viêm xoang",
+        "khô niêm mạc mũi",
+        "rối loạn đông máu"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau đỉnh đầu và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "lo âu hoặc cơn hoảng loạn",
+        "tăng huyết áp",
+        "viêm phổi",
+        "thiếu máu lên não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đỉnh đầu và rối loạn lo âu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "rối loạn lo âu",
+        "đau đầu căng thẳng",
+        "trầm cảm",
+        "rối loạn giấc ngủ"
+      ]
+    },
+    {
+      "question": "Tôi bị đau đỉnh đầu kèm theo tê bì da đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "đau dây thần kinh chẩm",
+        "đau đầu căng thẳng",
+        "thiếu máu cục bộ",
+        "viêm da đầu"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau đỉnh đầu và mờ mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "đau nửa đầu",
+        "tăng huyết áp",
+        "thiếu máu lên não",
+        "tăng nhãn áp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đỉnh đầu và ù tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "viêm tai giữa",
+        "bệnh Ménière",
+        "rối loạn thính giác",
+        "tăng huyết áp"
+      ]
+    },
+    {
+      "question": "Tôi bị đau đỉnh đầu kèm theo sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "nhiễm virus",
+        "viêm xoang",
+        "viêm màng não",
+        "cúm"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau đỉnh đầu và cứng cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "đau đầu căng thẳng",
+        "viêm màng não",
+        "thoái hóa đốt sống cổ",
+        "đau dây thần kinh chẩm"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đỉnh đầu và buồn ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "rối loạn giấc ngủ",
+        "thiếu máu",
+        "suy nhược thần kinh",
+        "đau đầu căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi bị đau đỉnh đầu kèm theo nôn mửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "đau nửa đầu",
+        "viêm màng não",
+        "tăng áp lực nội sọ",
+        "ngộ độc thực phẩm"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau đỉnh đầu và mất thăng bằng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "rối loạn tiền đình",
+        "thiếu máu lên não",
+        "viêm tai trong",
+        "đột quỵ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đỉnh đầu và đổ mồ hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "đau đầu cụm",
+        "suy giáp",
+        "rối loạn tự chủ",
+        "lo âu"
+      ]
+    },
+    {
+      "question": "Tôi bị đau đỉnh đầu kèm theo co giật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "động kinh",
+        "viêm màng não",
+        "xuất huyết não",
+        "u não"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau đỉnh đầu và yếu cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau đỉnh đầu",
+        "thiếu máu",
+        "đột quỵ",
+        "rối loạn tự miễn",
+        "suy nhược thần kinh"
+      ]
+    }
+  ]
+}

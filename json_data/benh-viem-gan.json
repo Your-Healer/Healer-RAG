@@ -1,0 +1,176 @@
+{
+  "disease_id": "benh-viem-gan",
+  "disease_name": "Bệnh viêm gan",
+  "disease_alternative_names": [
+    "Viêm gan",
+    "Hepatitis"
+  ],
+  "disease_definition": "Viêm gan là tình trạng viêm của gan do nhiều nguyên nhân khác nhau như virus, tự miễn, thuốc, rượu, hoặc ký sinh trùng. Bệnh có thể diễn tiến cấp tính hoặc mạn tính, gây ảnh hưởng nghiêm trọng đến chức năng gan và sức khỏe tổng thể của người bệnh.",
+  "symptoms": [
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, uể oải thường xuyên"
+    },
+    {
+      "name": "Vàng da và mắt",
+      "description": "Da và lòng trắng mắt chuyển màu vàng do rối loạn chức năng gan"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau vùng gan, bụng khó chịu"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn thường xuyên"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, ăn không ngon"
+    },
+    {
+      "name": "Nước tiểu sẫm màu",
+      "description": "Nước tiểu có màu sẫm bất thường"
+    },
+    {
+      "name": "Phân nhạt màu",
+      "description": "Phân có màu nhạt hoặc bạc màu"
+    }
+  ],
+  "causes": {
+    "main_cause": "Viêm gan có thể do nhiều nguyên nhân khác nhau gây ra, phổ biến nhất là do virus viêm gan (A, B, C, D, E), nhưng cũng có thể do các nguyên nhân khác.",
+    "related_factors": "Các yếu tố liên quan bao gồm virus, tự miễn, thuốc, rượu, độc tố, và ký sinh trùng.",
+    "transmission_routes": [
+      "Đường máu (viêm gan B, C)",
+      "Đường phân-miệng (viêm gan A, E)",
+      "Lây truyền từ mẹ sang con",
+      "Quan hệ tình dục không an toàn"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Tiêm chích ma túy",
+      "description": "Sử dụng chung kim tiêm làm tăng nguy cơ nhiễm virus viêm gan B, C"
+    },
+    {
+      "name": "Quan hệ tình dục không an toàn",
+      "description": "Có thể dẫn đến lây nhiễm virus viêm gan B"
+    },
+    {
+      "name": "Lạm dụng rượu",
+      "description": "Gây tổn thương gan và viêm gan do rượu"
+    },
+    {
+      "name": "Sử dụng thuốc",
+      "description": "Một số loại thuốc có thể gây độc cho gan"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Xơ gan",
+      "description": "Sẹo gan hình thành do viêm gan mạn tính"
+    },
+    {
+      "name": "Suy gan",
+      "description": "Gan không thể thực hiện chức năng bình thường"
+    },
+    {
+      "name": "Ung thư gan",
+      "description": "Nguy cơ phát triển ung thư gan tăng cao ở bệnh nhân viêm gan mạn tính"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra men gan, virus viêm gan và các chỉ số khác"
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Lấy mẫu mô gan để xác định mức độ tổn thương"
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "Siêu âm, CT, MRI để đánh giá tình trạng gan"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị viêm gan phụ thuộc vào nguyên nhân gây bệnh và mức độ tổn thương gan. Mục tiêu điều trị là kiểm soát nguyên nhân, giảm viêm và phòng ngừa biến chứng.",
+    "methods": [
+      {
+        "name": "Điều trị nguyên nhân",
+        "description": "Điều trị dựa trên nguyên nhân gây bệnh (virus, tự miễn, thuốc...)"
+      },
+      {
+        "name": "Điều trị hỗ trợ",
+        "description": "Nghỉ ngơi, bổ sung dinh dưỡng, thuốc bổ gan"
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ",
+      "Ăn uống lành mạnh, đủ dinh dưỡng",
+      "Tránh rượu bia và các chất độc hại cho gan",
+      "Uống đủ nước",
+      "Theo dõi định kỳ với bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Không dùng chung đồ vật cá nhân sắc nhọn",
+      "Thực hành quan hệ tình dục an toàn",
+      "Rửa tay thường xuyên",
+      "Cách ly khi bị viêm gan A, E"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm phòng vaccine viêm gan A và B là biện pháp phòng ngừa hiệu quả nhất cho các loại viêm gan này.",
+      "recommended_for": [
+        "Trẻ em từ sơ sinh",
+        "Người có nguy cơ cao",
+        "Nhân viên y tế",
+        "Người sống chung với người bệnh"
+      ]
+    },
+    "general_recommendations": [
+      "Tiêm phòng vaccine viêm gan A, B",
+      "Thực hành quan hệ tình dục an toàn",
+      "Không dùng chung đồ vật cá nhân sắc nhọn",
+      "Rửa tay thường xuyên",
+      "Tránh lạm dụng rượu bia",
+      "Sử dụng thuốc theo chỉ định của bác sĩ"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Viêm gan có lây không?",
+      "related_diseases": [
+        "viêm gan A",
+        "viêm gan B",
+        "viêm gan C"
+      ]
+    },
+    {
+      "question": "Viêm gan có chữa được không?",
+      "related_diseases": [
+        "viêm gan virus",
+        "viêm gan tự miễn",
+        "viêm gan do thuốc"
+      ]
+    },
+    {
+      "question": "Làm sao để phòng ngừa viêm gan?",
+      "related_diseases": [
+        "viêm gan A",
+        "viêm gan B",
+        "viêm gan C"
+      ]
+    },
+    {
+      "question": "Viêm gan có nguy hiểm không?",
+      "related_diseases": [
+        "xơ gan",
+        "ung thư gan",
+        "suy gan"
+      ]
+    }
+  ]
+}

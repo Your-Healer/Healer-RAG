@@ -1,0 +1,231 @@
+{
+  "disease_id": "viem-ruot-thua-cap",
+  "disease_name": "Viêm Ruột Thừa Cấp",
+  "disease_alternative_names": [
+    "Viêm ruột thừa",
+    "Viêm apendix",
+    "Acute appendicitis"
+  ],
+  "disease_definition": "Viêm ruột thừa cấp là tình trạng viêm nhiễm của ruột thừa - một cấu trúc hình ống nhỏ nối với đại tràng. Khi bị tắc nghẽn, vi khuẩn có thể phát triển nhanh chóng trong ruột thừa, gây viêm nhiễm, sưng tấy và có thể dẫn đến thủng ruột thừa nếu không được điều trị kịp thời.",
+  "symptoms": [
+    {
+      "name": "Đau bụng vùng hố chậu phải",
+      "description": "Đau bụng vùng phải dưới, thường bắt đầu từ vùng rốn rồi di chuyển xuống hố chậu phải. Cơn đau tăng dần và trở nên dữ dội trong vài giờ."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn thường xảy ra sau khi đau bụng bắt đầu."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm sự thèm ăn hoặc không muốn ăn uống."
+    },
+    {
+      "name": "Sốt nhẹ",
+      "description": "Sốt từ 37.2-38°C, thường xuất hiện sau khi có các triệu chứng khác."
+    },
+    {
+      "name": "Đau tăng khi vận động",
+      "description": "Đau tăng khi ho, hắt hơi hoặc đi lại."
+    },
+    {
+      "name": "Táo bón hoặc tiêu chảy",
+      "description": "Rối loạn tiêu hóa, có thể biểu hiện bằng táo bón hoặc tiêu chảy."
+    },
+    {
+      "name": "Cứng bụng",
+      "description": "Khi bác sĩ khám, có thể thấy cứng cơ thành bụng, đặc biệt ở vùng hố chậu phải."
+    }
+  ],
+  "causes": {
+    "main_cause": "Viêm ruột thừa cấp thường xảy ra khi ruột thừa bị tắc nghẽn, thường do phân cứng, dị vật, bướu ruột hoặc nhiễm khuẩn. Sự tắc nghẽn làm tăng áp lực trong ruột thừa, hạn chế lưu thông máu và dẫn đến hoại tử mô.",
+    "related_factors": "Sau khi ruột thừa bị tắc nghẽn, vi khuẩn trong ruột thừa phát triển nhanh chóng, gây viêm và nhiễm trùng. Nếu không được điều trị, ruột thừa có thể bị vỡ, lan nhiễm khuẩn vào ổ bụng, gây viêm phúc mạc.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi từ 10-30 tuổi",
+    "Nam giới có nguy cơ cao hơn nữ giới",
+    "Tiền sử gia đình có người bị viêm ruột thừa",
+    "Chế độ ăn ít chất xơ",
+    "Nhiễm khuẩn đường tiêu hóa"
+  ],
+  "complications": [
+    "Áp xe ruột thừa: Túi mủ hình thành xung quanh ruột thừa bị viêm",
+    "Viêm phúc mạc: Tình trạng viêm màng bụng do ruột thừa bị vỡ",
+    "Nhiễm trùng huyết: Vi khuẩn lan vào máu gây nhiễm trùng toàn thân",
+    "Tắc ruột: Ruột bị tắc nghẽn do viêm nhiễm hoặc dính sau phẫu thuật"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để đánh giá các triệu chứng đặc trưng",
+      "Khai thác tiền sử và diễn biến cơn đau"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra số lượng bạch cầu tăng cao, thường trên 10,000 cells/mcL, là dấu hiệu của viêm nhiễm."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Loại trừ các nguyên nhân khác gây đau bụng như nhiễm trùng đường tiết niệu."
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "Siêu âm bụng, CT scan hoặc MRI để xác định tình trạng viêm ruột thừa và loại trừ các nguyên nhân khác gây đau bụng."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Viêm ruột thừa cấp là một cấp cứu ngoại khoa, cần được phẫu thuật càng sớm càng tốt để tránh biến chứng. Điều trị chủ yếu là phẫu thuật cắt bỏ ruột thừa.",
+    "methods": [
+      {
+        "name": "Phẫu thuật cắt ruột thừa mở",
+        "description": "Phương pháp truyền thống, thực hiện thông qua một đường rạch ở hố chậu phải."
+      },
+      {
+        "name": "Phẫu thuật cắt ruột thừa nội soi",
+        "description": "Phương pháp ít xâm lấn hơn, thực hiện qua một số lỗ nhỏ trên thành bụng, giúp giảm đau sau mổ và thời gian hồi phục nhanh hơn."
+      },
+      {
+        "name": "Điều trị kháng sinh",
+        "description": "Được sử dụng trước, trong và sau phẫu thuật để ngăn ngừa và điều trị nhiễm trùng. Trong một số trường hợp, viêm ruột thừa nhẹ có thể được điều trị bằng kháng sinh mà không cần phẫu thuật."
+      }
+    ],
+    "recommendations": [
+      "Tìm kiếm sự chăm sóc y tế ngay lập tức nếu nghi ngờ viêm ruột thừa",
+      "Không tự ý dùng thuốc giảm đau, thuốc nhuận tràng hoặc đặt túi chườm nóng lên bụng khi đau, vì có thể làm vỡ ruột thừa",
+      "Tuân thủ hướng dẫn sau phẫu thuật và tái khám theo lịch hẹn",
+      "Nghỉ ngơi đầy đủ và tránh các hoạt động nặng trong vài tuần sau phẫu thuật",
+      "Duy trì chế độ ăn uống lành mạnh, giàu chất xơ sau khi hồi phục"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện không có vaccine phòng ngừa viêm ruột thừa.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì chế độ ăn giàu chất xơ từ trái cây, rau và ngũ cốc nguyên hạt",
+      "Uống đủ nước mỗi ngày",
+      "Tập thể dục thường xuyên để thúc đẩy hoạt động đường ruột khỏe mạnh",
+      "Khám sức khỏe định kỳ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Triệu chứng nào của viêm ruột thừa cần đi cấp cứu ngay?",
+      "answer": "Cần đi cấp cứu ngay nếu bạn có đau bụng dữ dội, đặc biệt là ở hố chậu phải, kèm theo sốt, buồn nôn, nôn, và các triệu chứng nặng lên trong vài giờ. Đặc biệt nếu đau đột ngột giảm rồi lại tăng mạnh, có thể là dấu hiệu của vỡ ruột thừa, đây là tình trạng cấp cứu đe dọa tính mạng."
+    },
+    {
+      "question": "Sau phẫu thuật cắt ruột thừa, tôi có thể sống bình thường không?",
+      "answer": "Có, ruột thừa không phải là cơ quan thiết yếu và việc cắt bỏ nó không ảnh hưởng đến khả năng tiêu hóa hoặc chức năng cơ thể. Sau khi hồi phục hoàn toàn từ phẫu thuật, bạn có thể trở lại cuộc sống bình thường mà không gặp hạn chế nào."
+    },
+    {
+      "question": "Viêm ruột thừa có thể tự khỏi không?",
+      "answer": "Trong một số ít trường hợp, viêm ruột thừa nhẹ có thể tự khỏi hoặc đáp ứng với điều trị kháng sinh. Tuy nhiên, đây là trường hợp hiếm gặp và không nên trì hoãn việc tìm kiếm sự chăm sóc y tế nếu nghi ngờ viêm ruột thừa, vì nguy cơ vỡ ruột thừa và các biến chứng nghiêm trọng khác."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng vùng hố chậu phải và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm ruột thừa cấp",
+        "viêm đại tràng",
+        "viêm túi thừa",
+        "viêm ruột",
+        "sỏi thận"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng quanh rốn và lan dần xuống hố chậu phải, kèm theo sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm ruột thừa cấp",
+        "viêm túi mật",
+        "viêm tụy",
+        "viêm đại tràng",
+        "viêm ruột"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, buồn nôn và nôn, kèm theo táo bón hoặc tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm ruột thừa cấp",
+        "hội chứng ruột kích thích",
+        "viêm dạ dày",
+        "viêm đại tràng",
+        "viêm túi mật"
+      ]
+    },
+    {
+      "question": "Tôi đang bị đau bụng dữ dội, sốt cao và bụng chướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm ruột thừa cấp",
+        "viêm phúc mạc",
+        "tắc ruột",
+        "viêm tụy cấp",
+        "viêm túi mật"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau bụng, chán ăn và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm ruột thừa cấp",
+        "viêm dạ dày",
+        "viêm đại tràng",
+        "bệnh trào ngược dạ dày thực quản",
+        "viêm tụy"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau bụng, buồn nôn và nôn, kèm theo sốt và ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm ruột thừa cấp",
+        "viêm đường tiết niệu",
+        "viêm túi mật",
+        "viêm tụy",
+        "nhiễm khuẩn huyết"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, tiêu chảy và nôn mửa sau khi ăn thức ăn lạ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngộ độc thực phẩm",
+        "viêm dạ dày",
+        "viêm ruột thừa cấp",
+        "viêm đại tràng",
+        "nhiễm khuẩn đường ruột"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, chán ăn, mệt mỏi và sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm ruột thừa cấp",
+        "viêm dạ dày",
+        "ung thư đường tiêu hóa",
+        "bệnh Crohn",
+        "viêm loét đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau bụng, buồn nôn, nôn và sốt sau khi bị nhiễm giun. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiễm giun đường ruột",
+        "viêm ruột thừa cấp",
+        "viêm dạ dày",
+        "viêm ruột",
+        "áp xe gan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, táo bón và nôn mửa, kèm theo đau tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm ruột thừa cấp",
+        "trào ngược dạ dày thực quản",
+        "hội chứng ruột kích thích",
+        "viêm tụy",
+        "viêm dạ dày"
+      ]
+    }
+  ]
+}

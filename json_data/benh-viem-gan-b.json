@@ -1,0 +1,203 @@
+{
+  "disease_id": "benh-viem-gan-b",
+  "disease_name": "Bệnh viêm gan B",
+  "disease_alternative_names": [
+    "Viêm gan siêu vi B",
+    "Hepatitis B"
+  ],
+  "disease_definition": "Viêm gan B là bệnh nhiễm trùng gan do virus viêm gan B (HBV) gây ra. Tại Việt Nam, hơn 10% dân số bị nhiễm virus viêm gan B mạn tính. Bệnh có thể diễn biến cấp tính hoặc mạn tính, trong đó 5-10% người lớn và 90% trẻ sơ sinh mắc viêm gan B cấp có nguy cơ chuyển thành mạn tính.",
+  "symptoms": [
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác uể oải, mệt mỏi do chức năng gan suy giảm"
+    },
+    {
+      "name": "Vàng da, vàng mắt",
+      "description": "Da và mắt chuyển màu vàng do rối loạn chức năng gan"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau hoặc khó chịu ở vùng bụng trên bên phải"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, ăn không ngon"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và có thể nôn"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt nhẹ, đặc biệt trong giai đoạn cấp tính"
+    },
+    {
+      "name": "Đau cơ và khớp",
+      "description": "Đau nhức các cơ và khớp trong cơ thể"
+    },
+    {
+      "name": "Nước tiểu sẫm màu",
+      "description": "Nước tiểu có màu sẫm, phân nhạt màu"
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh do virus viêm gan B (HBV) gây ra, tấn công và gây tổn thương các tế bào gan. Virus có thể tồn tại trong máu và các dịch cơ thể của người bệnh với nồng độ cao, và có thể sống ngoài cơ thể ít nhất 7 ngày.",
+    "related_factors": "Virus viêm gan B có khả năng lây nhiễm cao hơn HIV 100 lần. Tại Việt Nam, có khoảng 10 triệu người mắc viêm gan B, trong đó phần lớn ở dạng mãn tính.",
+    "transmission_routes": [
+      "Lây qua đường máu (dùng chung kim tiêm, dụng cụ y tế không vô trùng)",
+      "Lây qua đường tình dục không an toàn",
+      "Lây từ mẹ sang con trong quá trình sinh",
+      "Dùng chung đồ dùng cá nhân có dính máu như dao cạo, bàn chải đánh răng"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Sinh từ mẹ bị viêm gan B",
+      "description": "Trẻ có nguy cơ lây nhiễm cao từ mẹ trong quá trình sinh, đặc biệt nếu không được tiêm phòng sau sinh"
+    },
+    {
+      "name": "Tiêm chích ma túy",
+      "description": "Sử dụng chung bơm kim tiêm hoặc dụng cụ tiêm chích"
+    },
+    {
+      "name": "Quan hệ tình dục không an toàn",
+      "description": "Đặc biệt khi có nhiều bạn tình hoặc quan hệ không sử dụng biện pháp bảo vệ"
+    },
+    {
+      "name": "Nghề nghiệp",
+      "description": "Nhân viên y tế, người làm việc trong phòng thí nghiệm có nguy cơ cao"
+    },
+    {
+      "name": "Môi trường sống",
+      "description": "Sống chung với người bị viêm gan B hoặc ở vùng có tỷ lệ mắc bệnh cao"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Xơ gan",
+      "description": "Hình thành mô sẹo ở gan, làm suy giảm chức năng gan"
+    },
+    {
+      "name": "Ung thư gan",
+      "description": "Nguy cơ ung thư gan cao hơn ở người bị viêm gan B mãn tính"
+    },
+    {
+      "name": "Suy gan",
+      "description": "Tổn thương gan nghiêm trọng có thể dẫn đến suy gan cấp tính"
+    },
+    {
+      "name": "Các vấn đề khác",
+      "description": "Có thể phát triển bệnh thận hoặc viêm mạch máu"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Xét nghiệm HBsAg",
+        "description": "Phát hiện kháng nguyên bề mặt virus viêm gan B, chỉ điểm nhiễm virus"
+      },
+      {
+        "name": "Xét nghiệm Anti-HBs",
+        "description": "Kiểm tra kháng thể chống virus, xác định khả năng miễn dịch"
+      },
+      {
+        "name": "Xét nghiệm HBeAg",
+        "description": "Đánh giá khả năng lây nhiễm của virus"
+      },
+      {
+        "name": "Xét nghiệm Anti-HBc",
+        "description": "Phát hiện kháng thể với kháng nguyên lõi virus"
+      },
+      {
+        "name": "Xét nghiệm HBV-DNA",
+        "description": "Đánh giá mức độ virus nhân lên trong cơ thể"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị viêm gan B phụ thuộc vào giai đoạn bệnh (cấp tính hay mạn tính) và mức độ tổn thương gan.",
+    "methods": [
+      {
+        "name": "Điều trị viêm gan B cấp tính",
+        "description": "Thường tự khỏi, cần nghỉ ngơi, ăn uống đủ chất và uống nhiều nước"
+      },
+      {
+        "name": "Điều trị viêm gan B mãn tính",
+        "description": "Sử dụng thuốc kháng virus như Entecavir, Tenofovir để ức chế sự nhân lên của virus"
+      },
+      {
+        "name": "Ghép gan",
+        "description": "Áp dụng cho trường hợp gan bị tổn thương nghiêm trọng"
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ",
+      "Kiêng rượu bia hoàn toàn",
+      "Ăn uống đầy đủ dinh dưỡng",
+      "Tránh các thuốc gây độc cho gan",
+      "Tiêm vắc xin phòng các bệnh viêm gan khác",
+      "Tái khám đều đặn theo lịch hẹn"
+    ],
+    "prevention_of_transmission": [
+      "Sử dụng bao cao su khi quan hệ tình dục",
+      "Không dùng chung đồ dùng cá nhân",
+      "Thông báo cho bác sĩ và nha sĩ về tình trạng bệnh",
+      "Không hiến máu hoặc hiến tạng"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm vắc xin viêm gan B là biện pháp phòng ngừa hiệu quả nhất, đặc biệt quan trọng cho trẻ sơ sinh.",
+      "recommended_for": [
+        "Trẻ sơ sinh",
+        "Trẻ em và thanh thiếu niên dưới 19 tuổi chưa được tiêm",
+        "Nhân viên y tế",
+        "Người có nguy cơ cao",
+        "Người sống chung với người bệnh",
+        "Người bệnh tiểu đường từ 19-59 tuổi"
+      ]
+    },
+    "general_recommendations": [
+      "Tiêm vắc xin đầy đủ",
+      "Quan hệ tình dục an toàn",
+      "Không dùng chung kim tiêm",
+      "Kiểm tra sức khỏe định kỳ",
+      "Rửa tay thường xuyên",
+      "Tránh tiếp xúc với máu người khác"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Viêm gan B có chữa khỏi được không?",
+      "related_diseases": [
+        "viêm gan C",
+        "xơ gan",
+        "ung thư gan"
+      ]
+    },
+    {
+      "question": "Viêm gan B lây qua đường nào?",
+      "related_diseases": [
+        "viêm gan C",
+        "HIV/AIDS",
+        "bệnh lây qua đường tình dục"
+      ]
+    },
+    {
+      "question": "Người bị viêm gan B có sống được bao lâu?",
+      "related_diseases": [
+        "xơ gan",
+        "ung thư gan",
+        "suy gan"
+      ]
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm gan B?",
+      "related_diseases": [
+        "viêm gan A",
+        "viêm gan C",
+        "HIV/AIDS"
+      ]
+    }
+  ]
+}

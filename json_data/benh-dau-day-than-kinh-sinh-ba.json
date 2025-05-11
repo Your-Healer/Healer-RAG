@@ -1,0 +1,181 @@
+{
+  "disease_id": "benh-dau-day-than-kinh-sinh-ba",
+  "disease_name": "Bệnh Đau Dây Thần Kinh Sinh Ba",
+  "disease_alternative_names": ["Đau dây thần kinh tam thoa", "Trigeminal neuralgia", "Tic douloureux"],
+  "disease_definition": "Đau dây thần kinh sinh ba là tình trạng đau đớn mãn tính, xảy ra khi các sợi dây thần kinh cảm giác của dây thần kinh sinh ba bị tổn thương. Dây thần kinh sinh ba là dây thần kinh hỗn hợp, chi phối vận động các cơ nhai và cảm giác cho phần lớn vùng mặt, mỗi bên mặt có một sợi dây thần kinh sinh ba tương ứng. Khi dây thần kinh bị tổn thương, một kích thích nhẹ có thể tạo ra cơn đau dữ dội, giống như bị điện giật hoặc bị đâm bởi vật sắc nhọn.",
+  "symptoms": [
+    {
+      "name": "Đau nhói nhức giống điện giật",
+      "description": "Cảm giác đau dữ dội, được miêu tả giống như bị điện giật hoặc bị đâm bởi vật sắc nhọn, khuôn mặt nhăn nhó đau đớn."
+    },
+    {
+      "name": "Đau một bên mặt",
+      "description": "Cơn đau thường xuất hiện ở một bên mặt, lan dọc theo xương gò má, mũi, môi trên, hàm trên hoặc hàm dưới."
+    },
+    {
+      "name": "Đau thành cơn",
+      "description": "Cơn đau có thể rất ngắn, chỉ khoảng vài giây đến vài phút và có khoảng nghỉ giữa các cơn."
+    },
+    {
+      "name": "Đau kích hoạt bởi các hoạt động thường ngày",
+      "description": "Cơn đau có thể xuất hiện khi đánh răng, cạo râu, nhai, trang điểm, chạm vào mặt, ăn uống, nói chuyện, hoặc thậm chí khi gió thổi vào mặt."
+    },
+    {
+      "name": "Đau diễn ra theo chu kỳ",
+      "description": "Cơn đau có thể kéo dài trong nhiều ngày, tuần hoặc tháng, sau đó giảm dần và có thể tái phát."
+    },
+    {
+      "name": "Đau tăng dần theo thời gian",
+      "description": "Bệnh có thể tiến triển với các cơn đau ngày càng nghiêm trọng và tần suất xuất hiện dày hơn theo thời gian."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính gây đau dây thần kinh sinh ba thường là do chèn ép mạch máu lên dây thần kinh hoặc hạch thần kinh sinh ba. Hầu hết các trường hợp bệnh nhân đau dây thần kinh sinh ba được phát hiện với tình trạng chèn ép cơ học mạch máu trên dây thần kinh.",
+    "related_factors": "Đau dây thần kinh sinh ba có thể là biểu hiện của các bệnh lý nền phía sau như: u não, ung thư vòm họng di căn, bệnh xơ cứng rải rác, túi phồng động mạch thông sau.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi tác: Khả năng mắc bệnh tăng theo tuổi, đặc biệt ở những người trên 50 tuổi",
+    "Giới tính: Nữ giới có xu hướng mắc bệnh nhiều hơn nam, chiếm trên 60% trường hợp",
+    "Di truyền: Bệnh có khả năng di truyền với những thành viên trong gia đình",
+    "Bệnh lý: Người mắc các bệnh như xơ cứng rải rác có nguy cơ mắc bệnh đau dây thần kinh sinh ba cao hơn",
+    "Chấn thương: Đau dây thần kinh sinh ba thường xảy ra sau một chấn thương như gãy xương nền sọ, hay sau một thủ thuật can thiệp tại vùng mặt như nhổ răng",
+    "Nhiễm khuẩn: Nhiễm virus herpes cũng được xem là nguyên nhân gây bệnh"
+  ],
+  "complications": [
+    "Ảnh hưởng nghiêm trọng đến chất lượng cuộc sống",
+    "Rối loạn tâm lý: Chán nản, lo lắng, trầm cảm",
+    "Hạn chế sinh hoạt: Người bệnh có xu hướng hạn chế những việc làm cơn đau trở nên nặng nề hơn",
+    "Suy dinh dưỡng do khó khăn khi ăn uống",
+    "Mất vệ sinh cá nhân do không thể đánh răng, rửa mặt",
+    "Khó giao tiếp xã hội do đau khi nói chuyện"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Phỏng vấn bệnh sử và tiền sử bệnh lý",
+      "Khám lâm sàng để xác định vị trí và tính chất của cơn đau",
+      "Chụp cộng hưởng từ (MRI) não để loại trừ khối u hoặc các bệnh lý khác"
+    ],
+    "tests": [
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Giúp phát hiện các nguyên nhân gây bệnh như khối u, bệnh đa xơ cứng hoặc mạch máu chèn ép dây thần kinh."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Hỗ trợ loại trừ các bệnh lý khác khi biểu hiện lâm sàng không điển hình."
+      },
+      {
+        "name": "Chụp cộng hưởng từ mạch máu (MRA)",
+        "description": "Giúp xác định vị trí mạch máu chèn ép lên dây thần kinh sinh ba."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Đau dây thần kinh sinh ba ảnh hưởng trầm trọng đến cuộc sống của người bệnh nếu không được điều trị. Bệnh nhân thường chán nản, lo lắng và có xu hướng hạn chế các hoạt động hàng ngày. Tuy nhiên, đau dây thần kinh sinh ba đáp ứng tốt với các thuốc đặc hiệu nếu được điều trị sớm ngay từ đầu.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng các thuốc chống co giật (carbamazepine, oxcarbazepine, gabapentin, pregabalin), thuốc chống trầm cảm ba vòng (amitriptyline) giúp ổn định màng tế bào thần kinh và giảm đau."
+      },
+      {
+        "name": "Phương pháp phẫu thuật",
+        "description": "Phẫu thuật giải áp vi mạch (MVD): Đặt miếng đệm giữa mạch máu và dây thần kinh để loại bỏ sự chèn ép, giúp giảm đau lâu dài với tỷ lệ thành công 80-90%."
+      },
+      {
+        "name": "Các kỹ thuật qua da",
+        "description": "Tiêm glycerol, bơm bóng nén, đốt nhiệt tần số vô tuyến (RF) qua da vào hạch thần kinh sinh ba để phá hủy một phần dây thần kinh, làm giảm đau."
+      },
+      {
+        "name": "Xạ phẫu (Gamma Knife)",
+        "description": "Sử dụng tia gamma năng lượng cao tập trung vào dây thần kinh sinh ba, ít xâm lấn, phù hợp cho người không thể phẫu thuật."
+      },
+      {
+        "name": "Kích thích não sâu",
+        "description": "Đưa xung điện vào não thông qua một đầu dò, giúp kiểm soát cơn đau trong những trường hợp không đáp ứng với các phương pháp điều trị khác."
+      }
+    ],
+    "recommendations": [
+      "Sử dụng thức ăn mềm, dễ nhai",
+      "Tránh các kích thích vùng mặt khi đang đau",
+      "Tránh tiếp xúc với gió lạnh, đột ngột",
+      "Duy trì vệ sinh răng miệng thích hợp",
+      "Thực hiện các liệu pháp giảm stress như yoga, thiền"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Hiện nay không có biện pháp nào có hiệu quả trong việc phòng tránh bệnh đau dây thần kinh sinh ba",
+      "Đến gặp bác sĩ để được điều trị sớm nếu gặp phải triệu chứng đau vùng mặt",
+      "Sử dụng các thức ăn mềm, dễ nhai để hạn chế diễn tiến của bệnh",
+      "Tránh làm những việc kích thích vùng mặt khi đang đau",
+      "Bảo vệ mặt khỏi tiếp xúc với gió lạnh hoặc thay đổi nhiệt độ đột ngột",
+      "Quản lý stress cũng có thể giúp giảm tần suất và mức độ nghiêm trọng của các cơn đau"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Đau dây thần kinh sinh ba có phải là bệnh nguy hiểm đến tính mạng không?",
+      "answer": "Đau dây thần kinh sinh ba không phải bệnh nguy hiểm đến tính mạng, nhưng có thể gây đau đớn dữ dội, ảnh hưởng nghiêm trọng đến chất lượng cuộc sống. Bệnh không gây tử vong nhưng nếu không được điều trị, có thể dẫn đến trầm cảm và các vấn đề tâm lý nghiêm trọng."
+    },
+    {
+      "question": "Đau dây thần kinh sinh ba có thể tự khỏi không?",
+      "answer": "Đau dây thần kinh sinh ba hiếm khi tự khỏi hoàn toàn. Bệnh thường diễn biến thành từng đợt, có thể có giai đoạn thuyên giảm nhưng sau đó tái phát. Tuy nhiên, với sự điều trị phù hợp, phần lớn người bệnh có thể kiểm soát được cơn đau và cải thiện chất lượng cuộc sống."
+    },
+    {
+      "question": "Đau dây thần kinh sinh ba có lây không?",
+      "answer": "Không, đau dây thần kinh sinh ba không phải là bệnh lây nhiễm. Bệnh này không lây truyền từ người bệnh sang người lành qua tiếp xúc, không khí hay bất kỳ phương thức nào khác."
+    },
+    {
+      "question": "Đau dây thần kinh sinh ba có di truyền không?",
+      "answer": "Có một số bằng chứng cho thấy đau dây thần kinh sinh ba có yếu tố di truyền. Người có tiền sử gia đình mắc bệnh này có nguy cơ cao hơn một chút. Tuy nhiên, phần lớn các trường hợp không liên quan đến yếu tố di truyền trực tiếp."
+    },
+    {
+      "question": "Làm thế nào để phân biệt đau dây thần kinh sinh ba với các cơn đau răng?",
+      "answer": "Đau dây thần kinh sinh ba thường xuất hiện đột ngột, cảm giác như bị điện giật, kéo dài vài giây đến vài phút và thường kích hoạt bởi các hoạt động như chạm nhẹ vào mặt, đánh răng, hoặc ăn. Đau răng thường liên tục, âm ỉ hoặc nhức nhối, và thường tăng khi ăn đồ nóng, lạnh hoặc ngọt. Nếu không chắc chắn, nên tham khảo ý kiến của nha sĩ hoặc bác sĩ."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi đang cảm thấy đau nhói như điện giật ở một bên mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Đau dây thần kinh sinh ba", "Đau dây thần kinh sau zona", "Viêm xoang"]
+    },
+    {
+      "question": "Tôi hay bị đau khi đánh răng và cạo râu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Đau dây thần kinh sinh ba", "Viêm nướu răng", "Rối loạn khớp thái dương hàm"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức liên tục ở mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Đau dây thần kinh sinh ba", "Đau nửa đầu", "Viêm xoang", "Rối loạn khớp thái dương hàm"]
+    },
+    {
+      "question": "Tôi cảm thấy đau khi trang điểm và chạm vào mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Đau dây thần kinh sinh ba", "Viêm da", "Dị ứng mỹ phẩm"]
+    },
+    {
+      "question": "Tôi đang bị đau từng cơn kéo dài vài giây đến vài phút. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Đau dây thần kinh sinh ba", "Đau nửa đầu", "Đau dây thần kinh hậu zona"]
+    },
+    {
+      "question": "Tôi hay bị đau khi ăn uống và nói chuyện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Đau dây thần kinh sinh ba", "Viêm họng", "Bệnh lý răng miệng"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nhói do gió thổi vào mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Đau dây thần kinh sinh ba", "Viêm xoang", "Đau dây thần kinh hậu zona"]
+    },
+    {
+      "question": "Tôi cảm thấy đau nhức kéo dài hàng tuần, thậm chí hàng tháng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Đau dây thần kinh sinh ba", "Đau nửa đầu mãn tính", "Viêm xoang mãn tính"]
+    },
+    {
+      "question": "Tôi đang bị đau nhói như điện giật ở mặt, ngày càng nghiêm trọng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Đau dây thần kinh sinh ba", "U não", "Đau dây thần kinh hậu zona"]
+    }
+  ]
+}

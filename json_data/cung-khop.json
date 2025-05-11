@@ -1,0 +1,249 @@
+{
+  "disease_id": "cung-khop",
+  "disease_name": "Cứng Khớp",
+  "disease_alternative_names": [
+    "Khô cứng khớp",
+    "Joint stiffness",
+    "Giảm vận động khớp"
+  ],
+  "disease_definition": "Cứng khớp là tình trạng khó cử động các khớp, thường xuất hiện ở các đốt ngón tay gần, bàn ngón tay, cổ tay, khuỷu, gối, cổ chân, bàn ngón chân (hai bên). Hiện tượng này thường diễn ra vào buổi sáng sau khi ngủ dậy hoặc sau một tư thế bất động kéo dài, sau khi người bệnh có động tác gấp duỗi thì các khớp sẽ vận động dễ dàng hơn hoặc gần như bình thường (còn gọi là dấu hiệu phá gỉ khớp).",
+  "symptoms": [
+    {
+      "name": "Khó cử động khớp",
+      "description": "Người bệnh cảm thấy khó khăn khi vận động các khớp, đặc biệt là sau khi thức dậy vào buổi sáng hoặc sau thời gian bất động kéo dài."
+    },
+    {
+      "name": "Đau khớp",
+      "description": "Đau nhức tại các khớp, thường đi kèm với cảm giác cứng và khó cử động."
+    },
+    {
+      "name": "Thời gian phá gỉ khớp kéo dài",
+      "description": "Thời gian cần thiết để khớp hoạt động bình thường trở lại có thể kéo dài từ 15-20 phút đến 1 giờ hoặc hơn."
+    },
+    {
+      "name": "Sưng khớp",
+      "description": "Một số trường hợp có thể kèm theo sưng tại vùng khớp bị ảnh hưởng."
+    },
+    {
+      "name": "Giảm phạm vi vận động",
+      "description": "Các khớp bị hạn chế khả năng vận động toàn phạm vi."
+    },
+    {
+      "name": "Cứng khớp tiến triển theo thời gian",
+      "description": "Ban đầu cứng khớp ở mức độ nhẹ, nhưng theo thời gian có thể trở nên nghiêm trọng hơn, gây ảnh hưởng đến chức năng vận động."
+    }
+  ],
+  "causes": {
+    "main_cause": "Cứng khớp có thể là triệu chứng của nhiều bệnh lý khớp khác nhau, đặc biệt là các bệnh lý viêm khớp mạn tính, thoái hóa khớp, chấn thương khớp, hoặc do quá trình lão hóa tự nhiên.",
+    "related_factors": "Cứng khớp xuất hiện khi có viêm, tổn thương, hoặc suy thoái của sụn khớp, dây chằng, gân và các mô liên kết. Việc hao mòn khớp do sử dụng quá mức, lão hóa, viêm nhiễm, rối loạn tự miễn, hoặc sau chấn thương đều có thể gây ra tình trạng này.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Lứa tuổi trung niên từ 30-50 tuổi",
+    "Phụ nữ có nguy cơ mắc bệnh cao gấp 3 lần nam giới",
+    "Tiền sử gia đình có người mắc bệnh liên quan đến xương khớp",
+    "Có hệ miễn dịch kém",
+    "Đang mang thai hoặc mới sinh con",
+    "Thừa cân, béo phì",
+    "Thường xuyên uống rượu bia, hút thuốc lá",
+    "Thiếu vận động hoặc vận động quá mức",
+    "Lão hóa tự nhiên"
+  ],
+  "complications": [
+    "Mất khả năng vận động",
+    "Teo cơ khớp do không vận động lâu ngày",
+    "Biến dạng khớp",
+    "Dính khớp",
+    "Tàn phế và mất khả năng lao động",
+    "Ảnh hưởng đến tim mạch, có thể gây hở van tim ở giai đoạn muộn",
+    "Giảm chất lượng cuộc sống",
+    "Hạn chế khả năng tự chăm sóc và thực hiện các hoạt động hàng ngày"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để đánh giá triệu chứng như đau, sưng đỏ, cứng và phạm vi hoạt động",
+      "Hỏi bệnh sử và các triệu chứng liên quan",
+      "Đánh giá thời gian cứng khớp kéo dài, đặc biệt sau khi thức dậy"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra tốc độ lắng hồng cầu (ESR), protein phản ứng C (CRP) để xác định tình trạng viêm trong cơ thể. Có thể thực hiện xét nghiệm peptide citrullinated (chống CCP) khi nghi ngờ viêm khớp dạng thấp."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Giúp bác sĩ kiểm tra cấu trúc bên trong khớp và xác định những tổn thương khớp, đồng thời loại trừ các nguyên nhân khác gây cứng khớp."
+      },
+      {
+        "name": "Siêu âm khớp",
+        "description": "Giúp phát hiện tình trạng viêm, tràn dịch khớp hoặc các tổn thương mô mềm quanh khớp."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết của các mô mềm, dây chằng, sụn và cấu trúc khớp để xác định nguyên nhân gây cứng khớp."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị cứng khớp cần dựa vào nguyên nhân gây bệnh. Nếu tình trạng cứng khớp sau khi thức dậy kéo dài hơn 30 phút, người bệnh nên tìm đến các bác sĩ chuyên khoa để được đánh giá, thăm khám và chữa trị.",
+    "methods": [
+      {
+        "name": "Chườm nóng hoặc chườm lạnh",
+        "description": "Chườm lạnh hoặc đặt túi đá lên khớp cứng trong 15-20 phút nhiều lần mỗi ngày để giảm viêm, sưng và đau. Chườm nóng giúp thư giãn cơ bắp và tăng cường tuần hoàn."
+      },
+      {
+        "name": "Dùng thuốc giảm đau và chống viêm",
+        "description": "Các thuốc chống viêm không steroid (NSAID) như Celebrex, Arcoxia có thể được sử dụng để giảm đau và viêm, nhưng cần có sự hướng dẫn của bác sĩ chuyên khoa."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Tập luyện và vật lý trị liệu giúp tăng khả năng vận động của khớp, giảm độ cứng. Đây cũng là cách hiệu quả để giảm cân và duy trì cân nặng hợp lý."
+      },
+      {
+        "name": "Sử dụng thực phẩm bổ sung",
+        "description": "Dầu cá, hạt lanh, glucosamine sulfate và các sản phẩm chăm sóc xương khớp khác có thể giúp cải thiện tình trạng cứng khớp."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp nặng, có thể cần đến can thiệp phẫu thuật để điều trị nguyên nhân gây cứng khớp."
+      }
+    ],
+    "recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục đều đặn, vừa sức",
+      "Bổ sung đầy đủ các thực phẩm giàu canxi, vitamin D, collagen",
+      "Đi bộ 10 nghìn bước mỗi ngày",
+      "Chú ý tư thế ngủ, tránh gió lùa, giữ ấm khi trời lạnh",
+      "Tắm nước ấm để thúc đẩy tuần hoàn máu và giảm co thắt cơ bắp",
+      "Uống đủ nước mỗi ngày",
+      "Duy trì tinh thần vui vẻ, phấn chấn",
+      "Khám sức khỏe định kỳ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine đặc hiệu để phòng ngừa cứng khớp.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì lối sống lành mạnh",
+      "Tập thể dục đều đặn để tăng sức khỏe cơ bắp và xương khớp",
+      "Thực hiện các bài tập tăng cường, các bài tập phạm vi chuyển động, aerobic, tập thăng bằng",
+      "Bổ sung thực phẩm giàu canxi, vitamin D, collagen",
+      "Uống đủ nước mỗi ngày",
+      "Duy trì cân nặng hợp lý",
+      "Chú ý tư thế ngủ đúng cách như nằm nghiêng, nằm ngửa",
+      "Giữ ấm cơ thể, tránh gió lùa, ẩm ướt",
+      "Tập các bài vận động đơn giản trước khi ra khỏi giường",
+      "Tắm nước ấm để thúc đẩy tuần hoàn máu",
+      "Thực hiện chế độ ăn cân bằng, giàu dinh dưỡng"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Tại sao bị cứng khớp vào buổi sáng/sau khi ngủ dậy?",
+      "answer": "Cứng khớp thường gặp ở những người lớn tuổi vào buổi sáng hoặc sau khi ngủ dậy với biểu hiện tê, cứng, hạn chế vận động của khớp. Tình trạng có thể kéo dài trong 15-20 phút thì người bệnh mới cử động lại được. Có nhiều nguyên nhân gây ra tình trạng này, có thể do bệnh lý xương khớp (như viêm khớp dạng thấp, thoái hóa khớp), chấn thương hoặc thiếu hụt khoáng chất quan trọng."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ?",
+      "answer": "Cần đến gặp bác sĩ ngay nếu bị đau liên tục, ngay cả lúc nghỉ ngơi vào ban đêm, khả năng vận động hạn chế ở vùng đau. Cơ địa và bệnh lý có thể khác nhau ở nhiều người. Hãy thảo luận với bác sĩ để tìm ra giải pháp chữa trị tốt nhất."
+    },
+    {
+      "question": "Cứng khớp có cần phải mổ không?",
+      "answer": "Cứng khớp có nhiều loại nên cần đi khám để biết nguyên nhân, từ đó mới có cách điều trị phù hợp tùy vào mức độ cứng. Có nhiều người bị căn bệnh này sẽ được bác sĩ chỉ định uống thuốc giảm đau chống viêm tùy vào mức độ nặng nhẹ. Ngoài ra, có thể tập vật lý trị liệu để đẩy nhanh tốc độ hồi phục của khớp. Việc mổ hay không còn tùy thuộc vào mức độ nặng hay nhẹ, tiên lượng bệnh cũng như nguyên nhân bị bệnh."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó cử động các khớp, đặc biệt là vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cứng khớp",
+        "Viêm khớp dạng thấp",
+        "Thoái hóa khớp",
+        "Viêm cột sống dính khớp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khớp và cứng khớp sau khi ngủ dậy hoặc ngồi lâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cứng khớp",
+        "Viêm khớp dạng thấp",
+        "Thoái hóa khớp",
+        "Viêm bao hoạt dịch"
+      ]
+    },
+    {
+      "question": "Tôi hay bị cứng khớp ở các ngón tay, cổ tay, khuỷu tay, gối và cổ chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cứng khớp",
+        "Viêm khớp dạng thấp",
+        "Lupus ban đỏ",
+        "Viêm khớp vảy nến"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp khó khăn khi cử động các khớp và cảm thấy đau nhức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cứng khớp",
+        "Viêm khớp dạng thấp",
+        "Thoái hóa khớp",
+        "Gút"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như cứng khớp kéo dài hơn 1 giờ vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cứng khớp",
+        "Viêm khớp dạng thấp",
+        "Viêm cột sống dính khớp",
+        "Lupus ban đỏ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy các khớp bị cứng và khó cử động sau khi tập thể dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cứng khớp",
+        "Chấn thương khớp",
+        "Viêm khớp do quá tải",
+        "Thoái hóa khớp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị cứng khớp ở bàn tay và bàn chân, gây khó khăn khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cứng khớp",
+        "Viêm khớp dạng thấp",
+        "Bệnh gút",
+        "Thoái hóa khớp"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp vấn đề về vận động do các khớp bị cứng và đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cứng khớp",
+        "Viêm khớp dạng thấp",
+        "Thoái hóa khớp",
+        "Viêm cột sống dính khớp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như cứng khớp kèm theo sưng và nóng đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cứng khớp",
+        "Viêm khớp dạng thấp",
+        "Bệnh gút",
+        "Viêm khớp nhiễm khuẩn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy các khớp bị hạn chế vận động và đau khi cử động mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cứng khớp",
+        "Thoái hóa khớp",
+        "Viêm bao hoạt dịch",
+        "Chấn thương khớp"
+      ]
+    }
+  ]
+}

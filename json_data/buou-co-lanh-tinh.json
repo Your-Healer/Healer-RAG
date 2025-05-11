@@ -1,0 +1,250 @@
+{
+  "disease_id": "buou-co-lanh-tinh",
+  "disease_name": "Bướu Cổ Lành Tính",
+  "disease_alternative_names": [
+    "Bướu giáp",
+    "Benign goiter",
+    "Goiter",
+    "Bướu cổ đơn thuần"
+  ],
+  "disease_definition": "Bướu cổ lành tính (y học gọi bướu giáp) là tình trạng các tế bào tuyến giáp phát triển quá mức hoặc không đồng đều, với biểu hiện kích thước tuyến giáp tăng lên, sưng to bất thường. Đây là một trong những dạng rối loạn tuyến giáp phổ biến, có thể điều trị bằng thuốc, phẫu thuật.",
+  "symptoms": [
+    {
+      "name": "Sưng ở cổ",
+      "description": "Biểu hiện chính của bướu cổ lành tính là sưng ở cổ với mức độ sưng khác nhau tùy từng người. Trong nhiều trường hợp, bướu cổ nhỏ đến mức chỉ được phát hiện khi vô tình đi khám sức khỏe, xét nghiệm, chụp phim."
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Kích thước hoặc vị trí của bướu cổ lành tính có thể gây cản trở đường thở và thực quản, khiến người bệnh cảm thấy khó nuốt, đặc biệt là khi bướu cổ đã phát triển đến kích thước lớn."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Bướu cổ kích thước lớn có thể chèn ép đường thở, gây khó thở, đặc biệt khi gắng sức như leo cầu thang hoặc tập thể dục."
+    },
+    {
+      "name": "Khàn tiếng",
+      "description": "Bướu cổ có thể gây áp lực lên dây thanh quản, làm thay đổi giọng nói và gây khàn tiếng ở người bệnh."
+    },
+    {
+      "name": "Ho",
+      "description": "Cảm giác kích thích do bướu cổ gây ra có thể khiến người bệnh ho, đặc biệt khi bướu có kích thước lớn."
+    },
+    {
+      "name": "Ngáy",
+      "description": "Sự tắc nghẽn một phần đường thở do bướu cổ gây ra có thể dẫn đến tình trạng ngáy khi ngủ."
+    }
+  ],
+  "causes": {
+    "main_cause": "Có nhiều nguyên nhân ảnh hưởng đến chức năng hoặc sự phát triển của tuyến giáp dẫn đến bướu cổ. Nguyên nhân phổ biến nhất của bệnh bướu cổ trên toàn thế giới là thiếu i-ốt, ảnh hưởng đến 2,2 tỷ người. Ngoài ra, bệnh có thể do bệnh Graves (rối loạn tự miễn), nhân giáp (phát triển không đồng đều của các tế bào), thay đổi hormone trong thai kỳ, hoặc viêm tuyến giáp.",
+    "related_factors": "Các nhân giáp có thể hình thành do yếu tố di truyền. Chế độ ăn uống, môi trường sống cũng tác động đến việc hình thành nhân giáp và bướu cổ.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Phụ nữ, đặc biệt là phụ nữ sau 40 tuổi, trong thời kỳ mang thai và mãn kinh",
+    "Tiền sử gia đình có người bị bướu cổ hoặc rối loạn tuyến giáp",
+    "Sử dụng một số loại thuốc như amiodarone, pacerone, lithobid",
+    "Từng tiếp xúc với bức xạ ở vùng cổ hoặc ngực",
+    "Thiếu i-ốt trong chế độ ăn uống",
+    "Sống trong vùng có nguồn nước, đất thiếu i-ốt"
+  ],
+  "complications": [
+    "Tổn thương thần kinh (liệt dây thần kinh phrenic, hội chứng Horner và liệt dây thần kinh thanh quản tái phát)",
+    "Khó nuốt do chèn ép thực quản",
+    "Khó thở do chèn ép khí quản",
+    "Rối loạn giọng nói, khàn tiếng do ảnh hưởng đến dây thanh quản",
+    "Thiếu chất dinh dưỡng do khó khăn trong việc ăn uống"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng: bác sĩ sờ, nắn vùng cổ để kiểm tra sưng, yêu cầu người bệnh nuốt khi phát hiện bướu",
+      "Hỏi về tiền sử gia đình và các triệu chứng người bệnh đang gặp phải",
+      "Đánh giá các dấu hiệu của rối loạn tuyến giáp (cường giáp hoặc suy giáp)"
+    ],
+    "tests": [
+      {
+        "name": "Siêu âm tuyến giáp",
+        "description": "Đánh giá kích thước, cấu trúc của tuyến giáp và xác định có nhân giáp hay không, từ đó giúp bác sĩ biết được bướu cổ lành tính hay ác tính."
+      },
+      {
+        "name": "Xét nghiệm chức năng tuyến giáp",
+        "description": "Kiểm tra nồng độ hormone tuyến giáp (T3, T4) và hormone kích thích tuyến giáp (TSH) trong máu để xác định tình trạng cường giáp hoặc suy giáp."
+      },
+      {
+        "name": "Chọc hút tế bào bằng kim nhỏ",
+        "description": "Lấy mẫu tế bào từ tuyến giáp để kiểm tra dưới kính hiển vi, thường được thực hiện khi nghi ngờ bướu cổ ác tính."
+      },
+      {
+        "name": "Sinh thiết tế bào",
+        "description": "Lấy một mẫu mô tuyến giáp để xét nghiệm chi tiết hơn, giúp phân biệt bướu lành tính và ác tính."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Tùy thuộc vào nguyên nhân gây bướu cổ lành tính mà bác sĩ có chỉ định điều trị khác nhau. Với những bướu nhỏ, chức năng tuyến giáp bình thường, không gây nuốt nghẹn, khó thở... chỉ cần theo dõi định kỳ mà không cần điều trị.",
+    "methods": [
+      {
+        "name": "Theo dõi định kỳ",
+        "description": "Đối với bướu nhỏ không gây triệu chứng và chức năng tuyến giáp bình thường, bác sĩ có thể chỉ định theo dõi, khám định kỳ thay vì điều trị ngay lập tức."
+      },
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc để điều trị nguyên nhân gây bướu cổ, như thuốc thay thế hormone tuyến giáp nếu suy giáp hoặc thuốc kháng giáp nếu cường giáp."
+      },
+      {
+        "name": "Điều trị i-ốt phóng xạ",
+        "description": "Phương pháp này được sử dụng khi bướu cổ do cường giáp, i-ốt phóng xạ sẽ làm giảm kích thước tuyến giáp và giảm sản xuất hormone tuyến giáp."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Đối với bướu cổ kích thước lớn gây triệu chứng nuốt nghẹn, khó thở, hoặc khi các phương pháp khác không hiệu quả, bác sĩ có thể chỉ định phẫu thuật cắt bỏ một phần hoặc toàn bộ tuyến giáp."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ hướng dẫn của bác sĩ để việc điều trị đạt hiệu quả",
+      "Đi khám định kỳ để theo dõi kích thước bướu cổ và chức năng tuyến giáp",
+      "Bổ sung i-ốt trong chế độ ăn uống như ăn hải sản, dùng muối i-ốt",
+      "Tránh ăn quá nhiều thực phẩm có thể ức chế hấp thu i-ốt như bắp cải, cải thảo, cần tây",
+      "Duy trì lối sống lành mạnh: không thức khuya, hạn chế uống rượu bia, không hút thuốc",
+      "Sau phẫu thuật cắt tuyến giáp, có thể cần uống thuốc hormone tuyến giáp suốt đời"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện không có vaccine cho bệnh bướu cổ lành tính.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Bổ sung đầy đủ i-ốt trong chế độ ăn uống thông qua các thực phẩm giàu i-ốt như cá biển, nước mắm, muối i-ốt",
+      "Hạn chế sử dụng quá nhiều thực phẩm có thể ức chế hấp thu i-ốt như rau bắp cải, cải thảo, cần tây",
+      "Thực hiện lối sống lành mạnh: không thức khuya, hạn chế uống rượu bia, không hút thuốc",
+      "Tập thể dục ít nhất 30 phút mỗi ngày để nâng cao sức khỏe tổng thể",
+      "Khám sức khỏe định kỳ để phát hiện sớm các vấn đề về tuyến giáp",
+      "Tránh tiếp xúc với các chất độc hại và bức xạ, đặc biệt là vùng cổ và ngực"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Khi phát hiện bướu cổ lành tính nên làm gì?",
+      "answer": "Khi phát hiện bướu cổ lành tính, người bệnh nên khám bác sĩ khoa Nội tiết – Đái tháo đường để được theo dõi sức khỏe. Người bệnh cần tuân thủ hướng dẫn của bác sĩ để việc điều trị đạt hiệu quả."
+    },
+    {
+      "question": "Bướu cổ đơn thuần có nên mổ không?",
+      "answer": "Không. Bệnh bướu cổ đơn thuần (dân gian gọi là bướu cổ lành tính) không nguy hiểm. Người bệnh bướu cổ đơn thuần vẫn sinh hoạt, làm việc, sinh con bình thường. Bệnh có thể điều trị bướu cổ bằng dùng thuốc, uống phóng xạ và điều chỉnh chế độ ăn uống (bổ sung các thực phẩm giàu i-ốt như hải sản, sò, nghêu, dùng muối i-ốt thường xuyên)."
+    },
+    {
+      "question": "Khi nào nên phẫu thuật bướu cổ?",
+      "answer": "Phẫu thuật là phương pháp sau cùng khi đã thực hiện các phương pháp khác nhưng không thành công. Bác sĩ thường chỉ định mổ tuyến giáp khi: điều trị thuốc kháng giáp và uống phóng xạ không hiệu quả khiến tình trạng cường giáp tái phát; tuyến giáp bị viêm nặng hoặc bướu cổ có kích thước lớn (độ 2-3) đã được điều trị nội khoa ổn định; người bệnh có vấn đề về mắt hoặc tuyến giáp hoạt động quá mức gây ảnh hưởng đến mắt."
+    },
+    {
+      "question": "Bướu cổ lành tính có nguy hiểm không?",
+      "answer": "Hầu hết bướu cổ lành tính không nguy hiểm. Tuy nhiên, các bướu cổ lành tính có kích thước lớn có thể dẫn đến tổn thương thần kinh, chèn ép thực quản khiến người bệnh khó nuốt, ảnh hưởng đến việc ăn uống và thiếu chất dinh dưỡng. Ngoài ra, bướu cổ lớn còn có thể gây khó thở, khàn tiếng khi chèn ép khí quản và dây thanh quản."
+    },
+    {
+      "question": "Bướu cổ lành tính có thể phòng ngừa được không?",
+      "answer": "Hầu hết các trường hợp bướu cổ lành tính đều có thể phòng ngừa bằng chế độ ăn đầy đủ i-ốt. Cụ thể, người bệnh cần chế độ ăn đầy đủ cá biển, nước mắm, muối i-ốt và tránh dùng quá nhiều rau bắp cải, cải thảo, cần tây. Người dân nên thực hiện lối sống lành mạnh (không thức khuya, hạn chế uống rượu, bia, hút thuốc, tập thể dục ít nhất 30 phút mỗi ngày)."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sưng ở cổ, khó nuốt và khàn tiếng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu cổ lành tính",
+        "viêm tuyến giáp",
+        "ung thư tuyến giáp",
+        "viêm họng",
+        "viêm thanh quản"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở khi gắng sức, ho khan và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu cổ lành tính",
+        "ung thư tuyến giáp",
+        "bướu cổ ác tính",
+        "viêm họng mạn tính",
+        "hạch bạch huyết"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngáy ngủ, khó nuốt và có khối u ở cổ lớn dần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu cổ lành tính",
+        "ngưng thở khi ngủ",
+        "viêm amidan",
+        "bướu cổ ác tính",
+        "viêm họng mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, tăng cân và không chịu được lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy giáp",
+        "bướu cổ lành tính",
+        "thiếu máu",
+        "suy tuyến thượng thận",
+        "rối loạn trao đổi chất"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đánh trống ngực, khó ngủ và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "cường giáp",
+        "bướu cổ lành tính",
+        "rối loạn lo âu",
+        "rối loạn nhịp tim",
+        "bệnh tim mạch"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khô da, táo bón và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy giáp",
+        "bướu cổ lành tính",
+        "thiếu vitamin",
+        "hội chứng ruột kích thích",
+        "viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó chịu ở cổ họng, khó nuốt và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu cổ lành tính",
+        "viêm họng",
+        "viêm amidan",
+        "bướu cổ ác tính",
+        "trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi hay bị run tay, lo lắng và sụt cân không rõ lý do. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "cường giáp",
+        "rối loạn lo âu",
+        "bướu cổ lành tính",
+        "suy nhược thần kinh",
+        "bệnh Parkinson"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở, khàn tiếng và có khối u ở cổ phát triển nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bướu cổ ác tính",
+        "bướu cổ lành tính",
+        "viêm thanh quản",
+        "viêm khí quản",
+        "ung thư tuyến giáp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, tăng cân và chậm chạp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy giáp",
+        "bướu cổ lành tính",
+        "thiếu máu",
+        "trầm cảm",
+        "hội chứng mệt mỏi mạn tính"
+      ]
+    }
+  ]
+}

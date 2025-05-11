@@ -1,0 +1,382 @@
+{
+  "disease_id": "beo-phi",
+  "disease_name": "Béo Phì",
+  "disease_alternative_names": ["Obesity", "Thừa cân", "Béo bệnh lý"],
+  "disease_definition": "Béo phì là tình trạng cơ thể tích tụ quá nhiều calo, cao hơn nhu cầu sử dụng. Lượng calo dư thừa sau đó được lưu trữ dưới dạng chất béo hoặc mô mỡ. Ngày nay béo phì được xác định chủ yếu dựa trên chiều cao và cân nặng bằng cách tính chỉ số khối cơ thể (BMI). Chỉ số BMI từ 30,0 trở lên được chẩn đoán béo phì.",
+  "symptoms": [
+    {
+      "name": "Số đo vòng eo tăng",
+      "description": "Phụ nữ có vòng eo lớn hơn 89cm và nam giới có vòng eo lớn hơn 102cm có thể gặp nhiều rủi ro về sức khỏe hơn so với người cùng giới có vòng eo nhỏ hơn."
+    },
+    {
+      "name": "Thường xuyên có cảm giác đói bụng",
+      "description": "Người bị béo phì thường có cảm giác đói thường xuyên do rối loạn điều hòa hormone điều khiển cảm giác đói và no."
+    },
+    {
+      "name": "Các vấn đề về da",
+      "description": "Rạn da, sạm da và da vùng cổ bị chảy xệ do sự tích tụ mỡ dưới da. Người béo phì cũng dễ phát ban ở những nếp gấp hay bệnh gai đen, đặc trưng bởi các mảng da sẫm màu ở các vùng như nách, bẹn và cổ."
+    },
+    {
+      "name": "Giảm thị lực",
+      "description": "Béo phì làm tăng nguy cơ mắc các vấn đề về thị lực như bệnh võng mạc, thoái hóa điểm vàng và đục thủy tinh thể."
+    },
+    {
+      "name": "Suy giãn tĩnh mạch",
+      "description": "Trọng lượng cơ thể quá mức tạo áp lực lên tĩnh mạch, đặc biệt là ở chân, gây suy giãn tĩnh mạch."
+    },
+    {
+      "name": "Ngủ ngáy",
+      "description": "Béo phì làm tăng nguy cơ mắc chứng ngưng thở khi ngủ do mô mỡ tích tụ ở đường hô hấp trên, gây cản trở luồng không khí."
+    },
+    {
+      "name": "Khó thở kéo dài",
+      "description": "Mỡ thừa ngăn cản lồng ngực mở rộng, khiến cho việc hít thở trở nên khó khăn hơn, đặc biệt khi gắng sức hoặc leo cầu thang."
+    },
+    {
+      "name": "Mệt mỏi và trì trệ",
+      "description": "Cơ thể phải làm việc nhiều hơn để hỗ trợ trọng lượng thừa, gây cảm giác mệt mỏi và thiếu năng lượng."
+    },
+    {
+      "name": "Đau đầu gối, lưng hoặc hông",
+      "description": "Trọng lượng cơ thể tăng cao tạo áp lực lên các khớp, đặc biệt là đầu gối, lưng và hông, gây đau và khó khăn khi di chuyển."
+    },
+    {
+      "name": "Ợ hơi sau khi ăn",
+      "description": "Béo phì làm tăng nguy cơ mắc bệnh trào ngược dạ dày thực quản (GERD), gây ra các triệu chứng như ợ hơi, khó tiêu và cảm giác đầy bụng."
+    },
+    {
+      "name": "Chu kỳ kinh nguyệt không đều",
+      "description": "Phụ nữ bị béo phì thường gặp các vấn đề về kinh nguyệt do rối loạn hormone, có thể ảnh hưởng đến khả năng sinh sản."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân cơ bản nhất gây nên béo phì do cơ thể nạp lượng calo lớn hơn mức độ tiêu hao. Trạng thái mất cân bằng năng lượng này tiếp tục kéo dài sẽ dẫn đến tích tụ mỡ thừa trong cơ thể.",
+    "related_factors": "Có nhiều yếu tố góp phần gây ra béo phì, bao gồm chế độ ăn uống không lành mạnh (tiêu thụ nhiều đồ ăn chế biến sẵn, thức ăn nhanh, đồ uống có đường), lối sống ít vận động, tâm trạng thay đổi dẫn đến rối loạn ăn uống, di truyền và rối loạn nội tiết như suy giáp hay hội chứng Cushing.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Người thường xuyên ăn nhiều thức ăn giàu calo như đồ chiên xào, nhiều dầu mỡ, thức ăn nhanh, nước ngọt, rượu bia",
+    "Người có lối sống ít vận động, nhân viên văn phòng, tần suất hoạt động thể lực thấp",
+    "Phụ nữ sau sinh, đặc biệt là trường hợp không nuôi con bằng sữa mẹ",
+    "Người sống tại các đô thị lớn có nhiều tiện nghi",
+    "Trẻ sinh ra trong gia đình có người béo phì",
+    "Nhóm người mắc bệnh về rối loạn nội tiết",
+    "Người sử dụng một số loại thuốc có thể gây tăng cân",
+    "Stress và các yếu tố tâm lý",
+    "Thói quen không ăn sáng, thường xuyên thức khuya",
+    "Người từng giảm cân nhanh và tăng cân trở lại (hiệu ứng yo-yo)"
+  ],
+  "complications": [
+    "Viêm khớp và thấp khớp",
+    "Bệnh tiểu đường type 2",
+    "Tăng huyết áp",
+    "Bệnh tim mạch",
+    "Đột quỵ",
+    "Bệnh gan nhiễm mỡ",
+    "Bệnh túi mật",
+    "Rối loạn nội tiết",
+    "Bệnh hô hấp như ngưng thở khi ngủ và hen suyễn",
+    "Một số loại ung thư (vú, nội mạc tử cung, đại trực tràng, thận, thực quản, tuyến tụy, tuyến giáp và túi mật)",
+    "Trầm cảm và lo âu",
+    "Vấn đề xã hội và tâm lý như tự ti, hình ảnh cơ thể kém",
+    "Suy giảm trí nhớ và nguy cơ mắc bệnh Alzheimer",
+    "Trào ngược dạ dày thực quản",
+    "Hội chứng chuyển hóa"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và ghi lại tiền sử sức khỏe",
+      "Đo chiều cao và cân nặng để tính chỉ số BMI",
+      "Đo vòng eo để đánh giá mỡ nội tạng",
+      "Kiểm tra huyết áp, nhịp tim và các dấu hiệu sinh tồn khác"
+    ],
+    "tests": [
+      {
+        "name": "Tính chỉ số BMI",
+        "description": "BMI được tính bằng cách lấy cân nặng (theo đơn vị kilogam) chia cho bình phương chiều cao (theo đơn vị mét). Chỉ số BMI từ 30,0 trở lên được chẩn đoán béo phì."
+      },
+      {
+        "name": "Đo vòng eo",
+        "description": "Phụ nữ có vòng eo lớn hơn 89cm và nam giới có vòng eo lớn hơn 102cm được xác định là có nguy cơ cao mắc các vấn đề sức khỏe liên quan đến béo phì."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Xét nghiệm để kiểm tra cholesterol, đường huyết, chức năng gan, thận và các hormone đề phát hiện các biến chứng liên quan đến béo phì."
+      },
+      {
+        "name": "Kiểm tra các vấn đề sức khỏe khác",
+        "description": "Kiểm tra các vấn đề như huyết áp cao, cholesterol cao, tuyến giáp hoạt động kém, các vấn đề về gan và bệnh tiểu đường."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị béo phì đòi hỏi thời gian và cam kết lâu dài. Việc giảm cân từ từ và bền vững (0,5-1kg mỗi tuần) sẽ hiệu quả hơn so với việc giảm cân nhanh chóng.",
+    "methods": [
+      {
+        "name": "Giảm calo nạp vào",
+        "description": "Giảm lượng calo tiêu thụ hàng ngày bằng cách thay đổi chế độ ăn. Hầu hết mọi người nên giảm 600 calo mỗi ngày để giảm từ 0,5 đến 1kg mỗi tuần. Với đàn ông không nên tiêu thụ quá 1.900 calo mỗi ngày, phụ nữ không quá 1.400 calo mỗi ngày."
+      },
+      {
+        "name": "Tăng cường hoạt động thể chất",
+        "description": "Hoạt động thể chất 150 phút/tuần sẽ tăng cường sức khỏe và 300 đến 360 phút/tuần sẽ giúp giảm và duy trì cân nặng. Kết hợp tập thể dục nhịp điệu và luyện tập sức bền sẽ mang lại hiệu quả tốt nhất."
+      },
+      {
+        "name": "Thay đổi hành vi",
+        "description": "Thay đổi thói quen ăn uống và lối sống như ăn chậm hơn, tập trung khi ăn, tránh bị phân tâm (như xem TV), theo dõi cân nặng và tiến trình giảm cân."
+      },
+      {
+        "name": "Dùng thuốc hỗ trợ",
+        "description": "Trong một số trường hợp, bác sĩ có thể kê đơn thuốc giảm cân để hỗ trợ cho việc giảm ăn và tập luyện. Tuy nhiên, phương pháp này có thể để lại nhiều tác dụng phụ và cần sử dụng theo liệu trình dài hạn."
+      },
+      {
+        "name": "Phẫu thuật giảm cân",
+        "description": "Đối với trường hợp béo phì nghiêm trọng (BMI từ 40 trở lên) hoặc khi có các biến chứng nghiêm trọng liên quan đến béo phì, bác sĩ có thể cân nhắc phẫu thuật giảm cân."
+      }
+    ],
+    "recommendations": [
+      "Đặt mục tiêu giảm cân thực tế. Chỉ cần giảm 3% trọng lượng cơ thể ban đầu có thể làm giảm đáng kể nguy cơ phát triển các biến chứng liên quan đến béo phì",
+      "Theo dõi lượng calo nạp vào và tiêu hao hàng ngày",
+      "Ăn chậm hơn và tập trung khi ăn, tránh bị phân tâm bởi TV hoặc điện thoại",
+      "Kêu gọi gia đình và bạn bè cùng hỗ trợ quá trình giảm cân",
+      "Theo dõi sự tiến bộ bằng cách cân thường xuyên và ghi chép lại",
+      "Tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi bắt đầu kế hoạch giảm cân",
+      "Uống đủ nước mỗi ngày",
+      "Ngủ đủ giấc (7-8 giờ mỗi đêm)",
+      "Hạn chế ăn vặt, đặc biệt là vào buổi tối",
+      "Chia nhỏ các bữa ăn trong ngày thay vì ăn 2-3 bữa lớn"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện tại không có vaccine phòng ngừa béo phì.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì chế độ ăn uống cân bằng, lành mạnh với nhiều trái cây, rau quả và ngũ cốc nguyên hạt",
+      "Giảm tiêu thụ thực phẩm chế biến sẵn, thức ăn nhanh và đồ uống có đường",
+      "Tập thể dục thường xuyên, ít nhất 150 phút mỗi tuần với cường độ vừa phải",
+      "Duy trì cân nặng ở mức hợp lý theo chỉ số BMI (18.5-24.9)",
+      "Hạn chế thời gian ngồi và tăng cường các hoạt động thể chất hàng ngày",
+      "Ngủ đủ giấc (7-8 giờ mỗi đêm)",
+      "Kiểm soát căng thẳng thông qua thiền, yoga hoặc các hoạt động thư giãn khác",
+      "Theo dõi cân nặng và vòng eo thường xuyên",
+      "Tránh uống rượu bia quá mức",
+      "Ăn chậm và tập trung vào cảm giác no để tránh ăn quá nhiều"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "BMI là gì và làm thế nào để tính chỉ số này?",
+      "answer": "BMI (Body Mass Index) hay chỉ số khối cơ thể là thước đo lượng mỡ trong cơ thể được sử dụng phổ biến hiện nay. Cách tính BMI là lấy số cân nặng (theo đơn vị kilogam) chia cho bình phương chiều cao (theo đơn vị mét). Ví dụ, một người cao 1.70m và nặng 90kg sẽ có chỉ số BMI = 90/(1.70)² = 31.14. Chỉ số BMI từ 30 trở lên được coi là béo phì."
+    },
+    {
+      "question": "Béo phì có nguy hiểm không?",
+      "answer": "Béo phì rất nguy hiểm vì nó là nguyên nhân gây nên hơn 200 bệnh lý khác nhau, bao gồm các bệnh nghiêm trọng như bệnh tim mạch, đái tháo đường type 2, tăng huyết áp, một số loại ung thư, bệnh gan nhiễm mỡ, ngưng thở khi ngủ, và nhiều vấn đề sức khỏe khác. Béo phì cũng ảnh hưởng đến sức khỏe tâm thần, có thể gây trầm cảm, lo âu và làm giảm chất lượng cuộc sống."
+    },
+    {
+      "question": "Tập thể dục như thế nào là hiệu quả để giảm cân?",
+      "answer": "Để giảm cân hiệu quả, nên tập thể dục ít nhất 150 phút mỗi tuần với cường độ vừa phải hoặc 75 phút với cường độ mạnh. Tuy nhiên, để giảm cân và duy trì cân nặng, cần tăng lên 300-360 phút mỗi tuần. Kết hợp tập thể dục nhịp điệu (như đi bộ, chạy bộ, bơi lội) với luyện tập sức bền sẽ mang lại hiệu quả tốt nhất. Nên chia thời gian tập luyện thành các buổi nhỏ (30 phút mỗi ngày, 5 ngày trong tuần) để dễ duy trì hơn."
+    },
+    {
+      "question": "Có thể giảm cân mà không cần tập thể dục không?",
+      "answer": "Có thể giảm cân mà không cần tập thể dục bằng cách giảm lượng calo nạp vào, nhưng việc này không hiệu quả bằng kết hợp cả giảm calo và tập thể dục. Tập thể dục không chỉ giúp đốt cháy calo mà còn tăng cường sức khỏe tim mạch, cải thiện sức khỏe tâm thần, tăng tỷ lệ trao đổi chất, và giúp duy trì khối lượng cơ bắp trong quá trình giảm cân. Ngoài ra, tập thể dục còn giúp giảm nguy cơ mắc nhiều bệnh liên quan đến béo phì."
+    },
+    {
+      "question": "Chế độ ăn uống thế nào là hiệu quả cho người béo phì?",
+      "answer": "Chế độ ăn uống hiệu quả cho người béo phì cần đảm bảo giảm calo nhưng vẫn cung cấp đủ dinh dưỡng. Nên tăng cường tiêu thụ trái cây, rau quả, ngũ cốc nguyên hạt, protein nạc và sữa ít béo. Hạn chế thực phẩm chế biến sẵn, thức ăn nhanh, đồ uống có đường và rượu bia. Nên chia nhỏ các bữa ăn, ăn chậm và tránh ăn vặt vào buổi tối. Lượng calo nạp vào nên giảm khoảng 500-600 calo mỗi ngày để giảm 0.5-1kg mỗi tuần."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có số đo vòng eo lớn và thường xuyên cảm thấy đói bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "hội chứng chuyển hóa",
+        "tiền đái tháo đường",
+        "rối loạn nội tiết",
+        "rối loạn ăn uống"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở khi vận động và cơ thể mệt mỏi, trì trệ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "hen suyễn",
+        "bệnh phổi tắc nghẽn mạn tính",
+        "suy tim",
+        "thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức xương khớp, đặc biệt là vùng lưng và hông. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "thoái hóa khớp",
+        "viêm khớp",
+        "thoát vị đĩa đệm",
+        "loãng xương"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng rạn da, sạm da và da vùng cổ bị chảy xệ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "hội chứng Cushing",
+        "rối loạn nội tiết",
+        "bệnh gai đen",
+        "suy giáp"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị ợ hơi sau khi ăn và có cảm giác đầy bụng, khó tiêu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "trào ngược dạ dày thực quản",
+        "viêm dạ dày",
+        "rối loạn tiêu hóa",
+        "túi mật"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có chu kỳ kinh nguyệt không đều và khó thụ thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "hội chứng buồng trứng đa nang",
+        "rối loạn nội tiết",
+        "vô sinh",
+        "suy buồng trứng sớm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở khi nằm ngửa, phải nằm nghiêng mới dễ thở hơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "ngưng thở khi ngủ",
+        "suy tim",
+        "trào ngược dạ dày thực quản",
+        "hen suyễn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngủ ngáy và thường xuyên thức giấc vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "hội chứng ngưng thở khi ngủ",
+        "viêm mũi xoang",
+        "trào ngược dạ dày thực quản",
+        "rối loạn giấc ngủ"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng suy giãn tĩnh mạch và tê bì chân tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "suy tĩnh mạch mạn tính",
+        "đái tháo đường",
+        "bệnh động mạch ngoại biên",
+        "thiếu vitamin B12"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị đau đầu, chóng mặt và thị lực giảm sút. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "tăng huyết áp",
+        "đái tháo đường",
+        "tăng áp lực nội sọ",
+        "đục thủy tinh thể"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có huyết áp cao và cholesterol cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "hội chứng chuyển hóa",
+        "bệnh tim mạch",
+        "bệnh động mạch vành",
+        "xơ vữa động mạch"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khát nước và tiểu nhiều, đặc biệt là vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "đái tháo đường",
+        "bệnh thận",
+        "tiểu đường",
+        "đái tháo nhạt"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng rối loạn giấc ngủ và khó tập trung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "ngưng thở khi ngủ",
+        "trầm cảm",
+        "lo âu",
+        "suy giảm trí nhớ"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị táo bón và đầy hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "hội chứng ruột kích thích",
+        "chế độ ăn ít chất xơ",
+        "thiếu vận động",
+        "rối loạn nhu động ruột"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có nguy cơ mắc bệnh tim mạch và tiểu đường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "hội chứng chuyển hóa",
+        "rối loạn lipid máu",
+        "tiền đái tháo đường",
+        "tăng huyết áp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tự ti về ngoại hình và ngại giao tiếp xã hội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "trầm cảm",
+        "lo âu xã hội",
+        "rối loạn hình ảnh cơ thể",
+        "rối loạn ăn uống"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức xương khớp khi vận động hoặc thay đổi tư thế. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "viêm khớp",
+        "thoái hóa khớp",
+        "đau thắt lưng",
+        "bệnh gout"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng rụng tóc và da khô. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "suy giáp",
+        "thiếu dinh dưỡng",
+        "rối loạn nội tiết",
+        "thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị mệt mỏi, khó thở và đau tức ngực khi leo cầu thang hoặc gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "béo phì",
+        "bệnh tim mạch",
+        "bệnh phổi tắc nghẽn mạn tính",
+        "thiếu máu",
+        "suy tim"
+      ]
+    }
+  ]
+}

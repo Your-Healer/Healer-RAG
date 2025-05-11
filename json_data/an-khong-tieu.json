@@ -1,0 +1,278 @@
+{
+  "disease_id": "an-khong-tieu",
+  "disease_name": "Ăn không tiêu",
+  "disease_alternative_names": ["Chứng khó tiêu", "Dyspepsia", "Rối loạn tiêu hóa", "Khó tiêu chức năng"],
+  "disease_definition": "Ăn không tiêu là tình trạng đau và khó chịu ở vùng bụng, thường xảy ra sau khi ăn, do quá trình tiêu hóa ở dạ dày gặp vấn đề. Đây không phải là một bệnh lý cụ thể mà là một triệu chứng thường gặp trong hầu hết các bệnh rối loạn tiêu hóa. Khoảng 20% dân số trên thế giới có thể gặp tình trạng này, với các triệu chứng xuất hiện từng đợt hoặc thường xuyên, ảnh hưởng đến chất lượng cuộc sống hàng ngày.",
+  "symptoms": [
+    {
+      "name": "Đầy bụng sau khi ăn",
+      "description": "Cảm giác bụng căng tức và đầy hơi, thường xuất hiện sau khi ăn khoảng 30 phút đến 1 tiếng đồng hồ."
+    },
+    {
+      "name": "Buồn nôn hoặc nôn",
+      "description": "Cảm giác muốn nôn hoặc nôn thực tế, đặc biệt sau khi ăn, có thể kèm theo vị chua trong miệng."
+    },
+    {
+      "name": "Ợ hơi và ợ chua",
+      "description": "Ợ hơi hoặc ợ chua thường xuyên, đặc biệt sau khi ăn, do axit dạ dày trào ngược."
+    },
+    {
+      "name": "Nóng rát vùng thượng vị",
+      "description": "Cảm giác nóng rát hoặc đau ở vùng thượng vị (phần trên của bụng), có thể ảnh hưởng đến vùng ngực."
+    },
+    {
+      "name": "No sớm",
+      "description": "Cảm giác no nhanh chóng, thậm chí khi mới ăn một lượng thức ăn ít ỏi."
+    },
+    {
+      "name": "Đau bụng âm ỉ",
+      "description": "Đau bụng âm ỉ kéo dài và có xu hướng nặng hơn, đặc biệt sau khi ăn."
+    },
+    {
+      "name": "Đầy hơi và xì hơi",
+      "description": "Bụng căng tức, đầy hơi và có nhiều hơi trong ruột, dẫn đến việc xì hơi nhiều."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở do lượng khí dư trong dạ dày tăng cao hoặc do axit dịch vị chảy vào thực quản, xâm nhập phổi."
+    },
+    {
+      "name": "Mệt mỏi và chán ăn",
+      "description": "Cảm giác mệt mỏi, không muốn ăn uống do khó chịu ở hệ tiêu hóa."
+    }
+  ],
+  "causes": [
+    {
+      "name": "Axit dạ dày",
+      "description": "Đa phần các trường hợp ăn không tiêu đều liên quan đến axit dạ dày. Khi lớp niêm mạc bảo vệ dạ dày bị bào mòn, dưới tác động của axit, dạ dày rất dễ kích ứng và viêm."
+    },
+    {
+      "name": "Trào ngược dạ dày thực quản",
+      "description": "Axit từ dạ dày trào ngược lên thực quản gây cảm giác nóng rát, ợ nóng và khó tiêu."
+    },
+    {
+      "name": "Loét dạ dày tá tràng",
+      "description": "Do axit trong dạ dày sản xuất quá nhiều dẫn đến ăn mòn lớp niêm mạc dạ dày - tá tràng."
+    },
+    {
+      "name": "Viêm dạ dày do Helicobacter pylori",
+      "description": "Vi khuẩn H. pylori gây viêm niêm mạc dạ dày, làm suy yếu lớp bảo vệ và dẫn đến các triệu chứng khó tiêu."
+    },
+    {
+      "name": "Sỏi mật",
+      "description": "Sỏi mật có thể làm giảm khả năng tiết ra các chất để tiêu hóa thức ăn trong ruột non."
+    },
+    {
+      "name": "Liệt dạ dày (Gastroparesis)",
+      "description": "Dạ dày không thể co bóp đẩy thức ăn xuống ruột non, khiến thức ăn ứ đọng trong dạ dày."
+    },
+    {
+      "name": "Hội chứng ruột kích thích (IBS)",
+      "description": "Rối loạn chức năng ruột có thể gây đau bụng, chướng bụng, táo bón và tiêu chảy xen kẽ."
+    },
+    {
+      "name": "Không dung nạp thực phẩm",
+      "description": "Chứng khó tiêu có thể xảy ra khi cơ thể khó dung nạp một số loại thực phẩm, như không dung nạp lactose trong sữa."
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Thói quen ăn uống không lành mạnh",
+      "description": "Ăn quá nhanh, ăn quá nhiều, không nhai kỹ thức ăn hoặc ăn các thực phẩm nhiều dầu mỡ, cay nóng."
+    },
+    {
+      "name": "Stress và lo lắng",
+      "description": "Căng thẳng và lo lắng có thể ảnh hưởng đến hệ tiêu hóa thông qua mối liên hệ giữa não và ruột."
+    },
+    {
+      "name": "Sử dụng thuốc",
+      "description": "Dùng thuốc giảm đau không steroid (NSAIDs), aspirin, ibuprofen thường xuyên có thể gây kích ứng niêm mạc dạ dày."
+    },
+    {
+      "name": "Hút thuốc lá và uống rượu bia",
+      "description": "Chất có hại trong thuốc lá và rượu bia gây kích ứng niêm mạc đường tiêu hóa."
+    },
+    {
+      "name": "Tuổi tác",
+      "description": "Người trên 60 tuổi có nguy cơ cao hơn mắc các bệnh về đường tiêu hóa."
+    },
+    {
+      "name": "Nhiễm khuẩn H. pylori",
+      "description": "Nhiễm khuẩn H. pylori làm tăng nguy cơ viêm dạ dày và các triệu chứng khó tiêu."
+    }
+  ],
+  "complications": [
+    {
+      "name": "Viêm loét dạ dày",
+      "description": "Tình trạng khó tiêu kéo dài có thể dẫn đến viêm loét dạ dày, gây đau đớn và có thể xuất huyết tiêu hóa."
+    },
+    {
+      "name": "Suy dinh dưỡng",
+      "description": "Do giảm khả năng hấp thu dinh dưỡng hoặc do người bệnh hạn chế ăn uống vì sợ xuất hiện triệu chứng."
+    },
+    {
+      "name": "Giảm cân không mong muốn",
+      "description": "Do ăn ít hoặc do khả năng hấp thu dinh dưỡng giảm sút."
+    },
+    {
+      "name": "Ảnh hưởng đến chất lượng cuộc sống",
+      "description": "Triệu chứng khó tiêu có thể gây khó chịu, ảnh hưởng đến hoạt động hàng ngày và gây mệt mỏi."
+    },
+    {
+      "name": "Xuất huyết tiêu hóa",
+      "description": "Trong trường hợp nghiêm trọng, có thể dẫn đến xuất huyết đường tiêu hóa, đặc biệt khi có loét dạ dày."
+    }
+  ],
+  "diagnosis": [
+    {
+      "name": "Khám lâm sàng",
+      "description": "Bác sĩ sẽ hỏi về tiền sử bệnh, các triệu chứng và thực hiện khám sức khỏe tổng quát."
+    },
+    {
+      "name": "Xét nghiệm máu",
+      "description": "Giúp loại trừ các bệnh lý khác có triệu chứng tương tự và đánh giá tình trạng sức khỏe tổng thể."
+    },
+    {
+      "name": "Xét nghiệm tìm H. pylori",
+      "description": "Có thể thực hiện qua mẫu phân, hơi thở hoặc mẫu mô dạ dày lấy khi nội soi."
+    },
+    {
+      "name": "Nội soi dạ dày",
+      "description": "Cho phép bác sĩ quan sát trực tiếp niêm mạc dạ dày, phát hiện các bất thường và lấy mẫu mô."
+    },
+    {
+      "name": "Siêu âm ổ bụng",
+      "description": "Kiểm tra tình trạng các cơ quan trong ổ bụng, phát hiện sỏi mật hoặc các bất thường khác."
+    },
+    {
+      "name": "Đánh giá khả năng làm rỗng dạ dày",
+      "description": "Xét nghiệm đánh giá tốc độ thức ăn di chuyển qua dạ dày, giúp chẩn đoán liệt dạ dày."
+    }
+  ],
+  "treatment": [
+    {
+      "name": "Thuốc kháng axit",
+      "description": "Giúp trung hòa axit dạ dày, giảm các triệu chứng như ợ nóng, đau rát thượng vị. Thuốc kháng axit OTC bao gồm Mylanta và Gas-X."
+    },
+    {
+      "name": "Thuốc chẹn H2",
+      "description": "Giảm sản xuất axit dạ dày, bao gồm các thuốc như famotidine (Pepcid AC), cimetidine (Tagamet HB) và nizatidine (Axid AR)."
+    },
+    {
+      "name": "Thuốc ức chế bơm proton (PPI)",
+      "description": "Giảm mạnh sản xuất axit bằng cách ức chế 'bơm' axit trong tế bào dạ dày, bao gồm omeprazole (Prilosec), lansoprazole (Prevacid), và esomeprazole (Nexium)."
+    },
+    {
+      "name": "Kháng sinh diệt H. pylori",
+      "description": "Nếu phát hiện nhiễm H. pylori, bác sĩ sẽ kê đơn phác đồ kháng sinh kết hợp với thuốc ức chế bơm proton để tiêu diệt vi khuẩn."
+    },
+    {
+      "name": "Thuốc điều hòa nhu động dạ dày",
+      "description": "Giúp cải thiện co bóp dạ dày, đẩy thức ăn xuống ruột non nhanh hơn, như metoclopramide."
+    },
+    {
+      "name": "Thay đổi chế độ ăn uống",
+      "description": "Ăn các bữa nhỏ thường xuyên, nhai kỹ, tránh thực phẩm gây kích ứng như đồ cay nóng, nhiều dầu mỡ, caffeine và rượu bia."
+    },
+    {
+      "name": "Quản lý stress",
+      "description": "Thực hành các kỹ thuật thư giãn, thiền, yoga hoặc tư vấn tâm lý để giảm stress và lo lắng."
+    },
+    {
+      "name": "Bổ sung các chất hỗ trợ tiêu hóa",
+      "description": "Enzyme tiêu hóa, probiotics và các chất bổ sung từ thảo dược có thể hỗ trợ quá trình tiêu hóa."
+    }
+  ],
+  "prevention": [
+    {
+      "name": "Ăn chậm và nhai kỹ",
+      "description": "Giúp giảm áp lực cho dạ dày, cho phép enzyme tiêu hóa hoạt động hiệu quả hơn."
+    },
+    {
+      "name": "Chia nhỏ bữa ăn",
+      "description": "Ăn nhiều bữa nhỏ thay vì ít bữa lớn để giảm gánh nặng cho hệ tiêu hóa."
+    },
+    {
+      "name": "Hạn chế thực phẩm gây kích ứng",
+      "description": "Tránh thực phẩm cay nóng, nhiều dầu mỡ, đồ ăn chiên xào, đồ uống có gas, caffeine và rượu bia."
+    },
+    {
+      "name": "Duy trì cân nặng hợp lý",
+      "description": "Thừa cân, béo phì có thể tạo áp lực lên dạ dày, gây trào ngược axit."
+    },
+    {
+      "name": "Hạn chế sử dụng thuốc NSAIDs",
+      "description": "Tránh hoặc giảm việc sử dụng aspirin, ibuprofen và các thuốc chống viêm không steroid khác."
+    },
+    {
+      "name": "Kiểm soát stress",
+      "description": "Thực hành các kỹ thuật thư giãn, duy trì lối sống cân bằng để kiểm soát stress."
+    },
+    {
+      "name": "Tập thể dục thường xuyên",
+      "description": "Hoạt động thể chất vừa phải giúp thúc đẩy tiêu hóa khỏe mạnh."
+    },
+    {
+      "name": "Không nằm ngay sau khi ăn",
+      "description": "Chờ ít nhất 2-3 giờ sau khi ăn rồi mới đi ngủ để tránh trào ngược axit."
+    },
+    {
+      "name": "Uống đủ nước",
+      "description": "Uống ít nhất 2 lít nước mỗi ngày để hỗ trợ tiêu hóa và giảm tính axit của dạ dày."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ăn không tiêu có phải là bệnh không?",
+      "answer": "Ăn không tiêu không phải là một bệnh lý cụ thể mà là một triệu chứng thường gặp trong nhiều rối loạn tiêu hóa. Khoảng 20-25% trường hợp ăn không tiêu có nguyên nhân thực thể, còn 75-80% là khó tiêu chức năng. Mặc dù không ảnh hưởng đến tuổi thọ, nhưng tình trạng này có thể ảnh hưởng lớn đến chất lượng cuộc sống."
+    },
+    {
+      "question": "Ăn không tiêu khi nào cần đi khám bác sĩ?",
+      "answer": "Bạn nên đi khám bác sĩ khi triệu chứng ăn không tiêu kéo dài hơn 3 ngày và không có dấu hiệu thuyên giảm, hoặc khi có các dấu hiệu cảnh báo như: giảm cân không kiểm soát, chán ăn, nôn nhiều hoặc nôn ra máu, phân đen, khó nuốt, thiếu máu không rõ nguyên nhân."
+    },
+    {
+      "question": "Ăn không tiêu uống thuốc gì?",
+      "answer": "Các loại thuốc thường dùng cho ăn không tiêu bao gồm: thuốc kháng axit (Mylanta, Gas-X), thuốc chẹn H2 (Pepcid AC, Tagamet HB), thuốc ức chế bơm proton (Prilosec, Nexium), thuốc điều hòa nhu động dạ dày và thuốc chống nôn. Tuy nhiên, bạn nên tham khảo ý kiến bác sĩ trước khi sử dụng thuốc."
+    },
+    {
+      "question": "Ăn không tiêu nên ăn gì?",
+      "answer": "Khi bị ăn không tiêu, bạn nên ăn các thực phẩm dễ tiêu hóa như: bánh mì nướng, cơm trắng, chuối, sốt táo, trứng, khoai lang, thịt gà, cá hồi, bánh quy mặn, bột yến mạch, rau củ ít chất béo và ít đường. Đồng thời, tránh thực phẩm cay nóng, nhiều dầu mỡ, đồ uống có gas, caffeine và rượu bia."
+    },
+    {
+      "question": "Ăn không tiêu có nguy hiểm không?",
+      "answer": "Chứng ăn không tiêu thường không nguy hiểm đến tính mạng, nhưng có thể ảnh hưởng đến chất lượng cuộc sống. Nếu triệu chứng kéo dài hoặc tái phát nhiều lần, đây có thể là dấu hiệu của các bệnh lý tiêu hóa nghiêm trọng hơn như loét dạ dày, viêm tụy, hoặc hiếm hơn là ung thư dạ dày. Do đó, không nên chủ quan mà cần thăm khám khi triệu chứng kéo dài."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa ăn không tiêu?",
+      "description": "Để phòng ngừa ăn không tiêu, bạn nên: ăn chậm và nhai kỹ, chia nhỏ bữa ăn, hạn chế thực phẩm gây kích ứng, duy trì cân nặng hợp lý, hạn chế sử dụng thuốc NSAIDs, kiểm soát stress, tập thể dục thường xuyên, không nằm ngay sau khi ăn và uống đủ nước."
+    },
+    {
+      "question": "Ăn không tiêu có liên quan đến stress không?",
+      "answer": "Có, stress và lo lắng có thể gây ảnh hưởng đến hệ tiêu hóa thông qua mối liên hệ giữa não và ruột (trục não-ruột). Khi căng thẳng, cơ thể sẽ tiết ra các hormone stress, có thể làm thay đổi chức năng tiêu hóa, gây ra các triệu chứng như đau bụng, chuột rút, đầy hơi, buồn nôn và thay đổi cảm giác thèm ăn."
+    },
+    {
+      "question": "Trẻ em có thể bị ăn không tiêu không?",
+      "answer": "Có, trẻ em cũng có thể bị ăn không tiêu. Ở trẻ em, triệu chứng thường bao gồm đau bụng quanh rốn, buồn nôn, nôn, đầy hơi và chán ăn. Nguyên nhân có thể do chế độ ăn uống không phù hợp, nhiễm khuẩn H. pylori, căng thẳng hoặc lo lắng. Phụ huynh nên đưa trẻ đến bác sĩ nhi khoa khi triệu chứng kéo dài."
+    },
+    {
+      "question": "Ăn không tiêu có thể tự khỏi không?",
+      "answer": "Trong nhiều trường hợp, ăn không tiêu ở mức độ nhẹ có thể tự khỏi khi thay đổi chế độ ăn uống và thói quen sinh hoạt. Tuy nhiên, nếu triệu chứng kéo dài hoặc tái phát nhiều lần, bạn nên đi khám để xác định nguyên nhân và điều trị phù hợp."
+    },
+    {
+      "question": "Tại sao tôi hay bị ăn không tiêu vào buổi tối?",
+      "answer": "Ăn không tiêu thường xuất hiện vào buổi tối do một số yếu tố: ăn quá no trước khi đi ngủ, nằm ngay sau khi ăn (làm tăng nguy cơ trào ngược axit), stress tích lũy trong ngày, và thường tiêu thụ thực phẩm nặng hoặc kích thích vào bữa tối. Để giảm triệu chứng, bạn nên ăn tối sớm, ít nhất 3 giờ trước khi đi ngủ, và tránh thực phẩm gây kích ứng vào buổi tối."
+    }
+  ],
+  "common_questions": [
+    "Tôi hiện đang có các triệu chứng như ợ hơi và ợ chua, đặc biệt sau khi ăn. Tôi có thể đang bị bệnh gì?",
+    "Tôi đang cảm thấy nóng rát ở vùng thượng vị và thức ăn dường như lâu tiêu hơn bình thường. Tôi có thể đang bị bệnh gì?",
+    "Tôi hay bị đầy hơi, buồn nôn và cảm giác no nhanh chóng ngay cả khi ăn ít. Tôi có thể đang bị bệnh gì?",
+    "Tôi hiện đang có các triệu chứng như đau bụng âm ỉ, khó chịu và cảm giác thức ăn không di chuyển xuống được. Tôi có thể đang bị bệnh gì?",
+    "Tôi đang cảm thấy buồn nôn, nôn khan và có vị chua trong miệng. Tôi có thể đang bị bệnh gì?",
+    "Tôi hay bị ợ hơi, đầy bụng và cảm giác khó chịu sau khi ăn đồ béo. Tôi có thể đang bị bệnh gì?",
+    "Tôi đang cảm thấy khó tiêu, đầy bụng và mệt mỏi sau khi ăn đồ ăn nhanh. Tôi có thể đang bị bệnh gì?",
+    "Tôi hay bị đau rát thượng vị, đặc biệt là vào ban đêm. Tôi có thể đang bị bệnh gì?",
+    "Tôi đang cảm thấy khó chịu, đầy bụng và khó tiêu sau khi hút thuốc lá. Tôi có thể đang bị bệnh gì?",
+    "Tôi hiện đang có các triệu chứng như buồn nôn, nôn và tiêu chảy sau khi uống sữa. Tôi có thể đang bị bệnh gì?"
+  ]
+}

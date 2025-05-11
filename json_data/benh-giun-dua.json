@@ -1,0 +1,180 @@
+{
+  "disease_id": "benh-giun-dua",
+  "disease_name": "Bệnh Giun Đũa",
+  "disease_alternative_names": ["Ascariasis", "Nhiễm giun đũa"],
+  "disease_definition": "Bệnh giun đũa (Ascariasis) là bệnh nhiễm ký sinh trùng do giun đũa (Ascaris lumbricoides) gây ra. Đây là một loại giun tròn có kích thước lớn sống ký sinh trong ruột non người. Giun đũa cái trưởng thành có thể dài từ 20-35 cm, giun đực nhỏ hơn, dài khoảng 15-30 cm. Bệnh phổ biến ở các vùng nhiệt đới, nhất là các khu vực có điều kiện vệ sinh kém.",
+  "symptoms": [
+    {
+      "name": "Không có triệu chứng",
+      "description": "Phần lớn các ca nhiễm giun đũa nhẹ không có triệu chứng rõ ràng hoặc chỉ có triệu chứng mơ hồ."
+    },
+    {
+      "name": "Triệu chứng hô hấp",
+      "description": "Khi ấu trùng di chuyển qua phổi có thể gây ho dai dẳng, khó thở, thở gấp, thở khò khè, tương tự như triệu chứng của hen suyễn hoặc viêm phổi."
+    },
+    {
+      "name": "Triệu chứng tiêu hóa",
+      "description": "Mệt mỏi, giảm cân, đau bụng, đau dạ dày, buồn nôn, tiêu chảy, phân có máu, phân có giun, ruột tắc nghẽn, suy dinh dưỡng."
+    },
+    {
+      "name": "Sốt",
+      "description": "Một số trường hợp có thể kèm theo sốt nhẹ, đặc biệt khi giun di chuyển qua các cơ quan trong cơ thể."
+    },
+    {
+      "name": "Giun thoát ra từ miệng hoặc mũi",
+      "description": "Trong một số trường hợp hiếm gặp, giun trưởng thành có thể di chuyển ra ngoài qua miệng hoặc mũi, đặc biệt khi người bệnh ngủ hoặc ho, sặc."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh giun đũa xảy ra khi người nuốt phải trứng giun đũa có trong thức ăn, nước uống bị nhiễm bẩn, đặc biệt là rau sống được bón phân tươi. Khi trứng vào đến ruột non sẽ nở thành ấu trùng, chúng đi qua thành ruột vào máu và hệ bạch huyết, di chuyển đến phổi. Sau đó ấu trùng di chuyển lên khí quản, họng và được nuốt xuống lại ruột non, nơi chúng phát triển thành giun trưởng thành.",
+    "related_factors": "Trứng giun đũa có thể tồn tại trong đất nhiều năm, trong khi mỗi con giun cái có thể đẻ tới 200.000 trứng mỗi ngày. Trứng phát triển thành dạng có khả năng gây nhiễm trong điều kiện môi trường phù hợp (đất ẩm, mát, có bóng râm).",
+    "transmission_routes": [
+      "Ăn thực phẩm không được rửa sạch có dính trứng giun đũa",
+      "Uống nước bị nhiễm trứng giun đũa",
+      "Đưa tay dính trứng giun vào miệng, thường gặp ở trẻ em khi chơi đất"
+    ]
+  },
+  "risk_factors": [
+    "Trẻ em dưới 10 tuổi",
+    "Sống trong vùng nhiệt đới hoặc khí hậu ẩm ướt",
+    "Điều kiện vệ sinh kém",
+    "Thiếu nước sạch và nhà vệ sinh hiện đại",
+    "Sử dụng phân tươi làm phân bón",
+    "Thói quen không rửa tay trước khi ăn",
+    "Ăn rau sống, quả không được rửa sạch",
+    "Chơi, làm việc trên đất mà không có dụng cụ bảo hộ"
+  ],
+  "complications": [
+    "Tắc ruột do có quá nhiều giun",
+    "Tắc đường mật, viêm đường mật, sỏi đường mật",
+    "Viêm ruột thừa do giun di chuyển vào ruột thừa",
+    "Viêm tụy cấp do giun chui vào ống Wirsung",
+    "Áp xe gan do giun di chuyển lên gan",
+    "Thủng ruột, viêm phúc mạc",
+    "Co giật, động kinh, viêm màng não do độc tố giun tiết ra",
+    "Suy dinh dưỡng, chậm phát triển thể chất và trí tuệ ở trẻ"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng dựa trên các triệu chứng",
+      "Xét nghiệm phân tìm trứng hoặc giun trưởng thành",
+      "Chụp X-quang bụng có uống thuốc cản quang",
+      "Xét nghiệm máu để kiểm tra tình trạng tăng bạch cầu ái toan"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Tìm trứng giun đũa trong phân bằng kỹ thuật phết phân trên lam kính quan sát dưới kính hiển vi. Có thể dùng kỹ thuật tập trung để tăng mật độ trứng giun, giúp tăng độ nhạy của xét nghiệm."
+      },
+      {
+        "name": "Chụp X-quang bụng",
+        "description": "Người bệnh được chụp X-quang bụng sau khi uống thuốc cản quang, giun sẽ hấp thu chất cản quang và cho hình ảnh của giun trên phim."
+      },
+      {
+        "name": "Xét nghiệm miễn dịch",
+        "description": "Xác định nhiễm giun đũa bằng kỹ thuật miễn dịch tìm kháng thể IgM và IgG."
+      },
+      {
+        "name": "Công thức máu",
+        "description": "Bạch cầu ái toan trong máu thường tăng cao khi nhiễm giun đũa."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Việc điều trị giun đũa hiện nay rất đơn giản và hiệu quả với nhiều loại thuốc tẩy giun có thể dùng liều duy nhất, không cần nhịn ăn, không phụ thuộc vào thời gian.",
+    "methods": [
+      {
+        "name": "Thuốc tẩy giun",
+        "description": "Các thuốc được chỉ định để điều trị giun đũa bao gồm Mebendazole, Albendazole và Pamoate Pyrentel. Liều dùng tùy thuộc vào từng loại thuốc và tình trạng của người bệnh."
+      },
+      {
+        "name": "Mebendazole",
+        "description": "Liều 100mg x 2 lần/ngày trong 3 ngày hoặc 500mg liều duy nhất."
+      },
+      {
+        "name": "Albendazole",
+        "description": "Liều 400mg uống 1 lần duy nhất."
+      },
+      {
+        "name": "Pyrantel pamoate",
+        "description": "Liều duy nhất 10mg/kg cân nặng, tối đa 1g."
+      },
+      {
+        "name": "Điều trị biến chứng",
+        "description": "Trong trường hợp có biến chứng như tắc ruột, tắc mật, viêm tụy... cần phải điều trị bằng phẫu thuật kết hợp với thuốc tẩy giun."
+      }
+    ],
+    "recommendations": [
+      "Điều trị tất cả các thành viên trong gia đình để tránh tái nhiễm",
+      "Kiểm tra phân sau điều trị để đảm bảo việc điều trị hiệu quả",
+      "Duy trì vệ sinh cá nhân tốt để ngăn ngừa tái nhiễm",
+      "Ăn chín uống sôi, rửa sạch rau quả trước khi ăn",
+      "Tẩy giun định kỳ 6 tháng một lần, đặc biệt ở trẻ em"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện tại không có vaccine phòng ngừa bệnh giun đũa.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Vệ sinh, rửa tay sạch sẽ trước khi ăn và sau khi đi vệ sinh",
+      "Uống nước đun sôi, rửa rau củ quả dưới vòi nước sạch",
+      "Hướng dẫn trẻ nhỏ không ngậm tay lên miệng",
+      "Không phóng uế bừa bãi, sử dụng nhà vệ sinh hợp vệ sinh",
+      "Không dùng phân tươi bón rau, trồng cây",
+      "Tẩy giun định kỳ 6 tháng một lần cho người dân vùng có nguy cơ cao",
+      "Xây dựng hệ thống nước sạch và nhà vệ sinh hợp vệ sinh ở nông thôn",
+      "Tăng cường giáo dục cộng đồng về vệ sinh phòng bệnh"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Giun đũa có lây trực tiếp từ người sang người không?",
+      "answer": "Không, bệnh giun đũa không lây trực tiếp từ người sang người. Trứng giun đũa cần một thời gian phát triển trong đất trước khi có khả năng gây bệnh. Người bị nhiễm giun đũa do tiếp xúc với đất có lẫn phân người hay động vật có chứa trứng giun đũa hoặc nguồn nước, thực phẩm nhiễm nguồn bệnh."
+    },
+    {
+      "question": "Làm thế nào để biết mình có bị nhiễm giun đũa không?",
+      "answer": "Nhiều người nhiễm giun đũa không có triệu chứng rõ ràng. Tuy nhiên, bạn có thể nghi ngờ nhiễm giun đũa nếu có các triệu chứng như đau bụng, tiêu chảy, buồn nôn, suy dinh dưỡng, ho dai dẳng, hoặc thậm chí là nhìn thấy giun trong phân. Để chẩn đoán chính xác, cần làm xét nghiệm phân tìm trứng giun."
+    },
+    {
+      "question": "Trẻ em có nguy cơ nhiễm giun đũa cao hơn người lớn không?",
+      "answer": "Đúng vậy, trẻ em dưới 10 tuổi có nguy cơ nhiễm giun đũa cao hơn người lớn do thói quen vệ sinh chưa tốt, hay đưa tay bẩn vào miệng, chơi đùa trong đất cát mà không rửa tay sạch sẽ sau đó. Ngoài ra, hệ miễn dịch của trẻ cũng chưa hoàn thiện nên dễ bị nhiễm các loại ký sinh trùng hơn."
+    },
+    {
+      "question": "Điều trị giun đũa cần uống thuốc trong bao lâu?",
+      "answer": "Việc điều trị giun đũa hiện nay rất đơn giản và hiệu quả với nhiều loại thuốc tẩy giun. Albendazole chỉ cần uống liều duy nhất 400mg. Mebendazole có thể uống 100mg, ngày 2 lần trong 3 ngày hoặc 500mg liều duy nhất. Pyrantel pamoate dùng liều duy nhất 10mg/kg cân nặng. Thời gian điều trị ngắn, hiệu quả cao và ít tác dụng phụ."
+    },
+    {
+      "question": "Cần làm gì để phòng tránh tái nhiễm giun đũa sau khi đã điều trị?",
+      "answer": "Để phòng tránh tái nhiễm giun đũa sau khi đã điều trị, bạn cần: Duy trì vệ sinh cá nhân tốt, rửa tay thường xuyên; Ăn chín uống sôi; Rửa sạch rau quả trước khi ăn; Không sử dụng phân tươi bón rau; Tẩy giun định kỳ 6 tháng một lần; Giáo dục trẻ em về các thói quen vệ sinh; Đảm bảo rằng tất cả các thành viên trong gia đình cũng được điều trị."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hay bị ho dai dẳng, khó thở và thở khò khè. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Đũa", "Hen suyễn", "Viêm phổi", "Bệnh phổi tắc nghẽn mạn tính"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, giảm cân và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Đũa", "Viêm dạ dày", "Hội chứng ruột kích thích", "Bệnh Crohn"]
+    },
+    {
+      "question": "Tôi hay bị buồn nôn, tiêu chảy và đau dạ dày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Đũa", "Viêm dạ dày", "Ngộ độc thực phẩm", "Hội chứng ruột kích thích"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa hậu môn và thấy giun trong phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Đũa", "Nhiễm giun kim", "Nhiễm giun móc", "Nhiễm sán dây"]
+    },
+    {
+      "question": "Tôi hay bị chán ăn và suy dinh dưỡng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Đũa", "Thiếu máu", "Bệnh tiêu hóa mạn tính", "Suy giáp"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng dữ dội và có thể bị tắc ruột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Đũa", "Viêm ruột thừa", "Tắc ruột", "Viêm túi thừa"]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "disease_id": "benh-tac-tinh-mach-vong-mac",
+  "disease_name": "Bệnh Tắc Tĩnh Mạch Võng Mạc",
+  "disease_alternative_names": [
+    "Tắc mạch võng mạc",
+    "Đột quỵ mắt",
+    "Retinal Vein Occlusion"
+  ],
+  "disease_definition": "Bệnh tắc tĩnh mạch võng mạc là tình trạng dòng chảy của máu từ võng mạc bị tắc nghẽn do cục máu đông. Khi tĩnh mạch võng mạc bị tắc nghẽn, máu không thể chảy ra khỏi võng mạc, dẫn đến tình trạng xuất huyết và rò rỉ dịch từ các mạch máu bị tắc nghẽn, gây tổn thương và suy giảm thị lực.",
+  "symptoms": [
+    {
+      "name": "Mờ hoặc mất thị lực",
+      "description": "Triệu chứng chính là mờ hoặc mất thị lực (không gây đau) và thường xảy ra ở một mắt. Tình trạng này có thể từ nhẹ đến nặng, diễn tiến trong vài giờ hoặc vài ngày, hoặc có thể xảy ra đột ngột."
+    },
+    {
+      "name": "Nhìn thấy đốm đen",
+      "description": "Người bệnh có thể nhìn thấy những đốm đen nhỏ hoặc đám mây đen trong tầm nhìn, đặc biệt khi có biến chứng tân mạch."
+    },
+    {
+      "name": "Mất thị lực trung tâm",
+      "description": "Khi phù hoàng điểm xuất hiện, người bệnh có thể mất thị lực trung tâm, khiến việc nhìn chi tiết trở nên khó khăn."
+    },
+    {
+      "name": "Nhìn mờ như có màng che phủ",
+      "description": "Cảm giác nhìn mờ như có một màng mỏng che phủ trước mắt, làm giảm độ sắc nét của hình ảnh."
+    },
+    {
+      "name": "Chói sáng",
+      "description": "Một số người bệnh cảm thấy nhạy cảm với ánh sáng và có cảm giác chói khi nhìn vào nguồn sáng."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính gây tắc tĩnh mạch võng mạc là cục máu đông bít lòng mạch và gây tắc. Đôi khi tình trạng tắc tĩnh mạch xảy ra do các tĩnh mạch của mắt quá hẹp.",
+    "related_factors": "Nhiều yếu tố có thể góp phần vào việc hình thành cục máu đông hoặc làm hẹp tĩnh mạch, bao gồm các bệnh mạn tính liên quan đến mạch máu, COVID-19, và các rối loạn đông máu.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Người bệnh tiểu đường",
+    "Người bệnh xơ cứng động mạch",
+    "Người bệnh huyết áp cao",
+    "Người bệnh tăng nhãn áp",
+    "Người có mức cholesterol cao",
+    "Rối loạn máu ảnh hưởng tới đông máu",
+    "Người hút thuốc lá",
+    "Người trên 60 tuổi",
+    "Người mắc COVID-19 (nguy cơ tăng trong 6 tháng sau khi khỏi bệnh)",
+    "Người dùng thuốc tránh thai"
+  ],
+  "complications": [
+    "Phù hoàng điểm: Khi máu và dịch rò rỉ vào hoàng điểm gây phù, làm nhìn mờ và/hoặc mất thị lực",
+    "Tân mạch: Hình thành các mạch máu mới bất thường, có thể rò rỉ máu hoặc dịch vào khoang dịch kính",
+    "Glaucoma tân mạch: Mạch máu mới có thể gây đau và làm tăng áp suất bên trong mắt, dẫn đến bệnh glaucoma",
+    "Tách võng mạc: Biến chứng tân mạch trở nặng có thể khiến võng mạc tách ra khỏi mặt sau của mắt",
+    "Mù: Các biến chứng không được điều trị có thể dẫn đến mất thị lực không thể phục hồi"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và thăm khám đáy mắt sau khi giãn đồng tử",
+      "Kiểm tra tiền sử bệnh lý mạch máu, tiểu đường, huyết áp",
+      "Đánh giá mức độ suy giảm thị lực"
+    ],
+    "tests": [
+      {
+        "name": "Chụp cắt lớp kết hợp quang học (OCT)",
+        "description": "Kỹ thuật cho ra hình ảnh về võng mạc có độ rõ nét cao, giúp bác sĩ xác định sự xuất hiện của tình trạng sưng và phù nề nơi võng mạc."
+      },
+      {
+        "name": "Soi đáy mắt",
+        "description": "Thông qua kính soi đáy mắt, bác sĩ kiểm tra võng mạc nhằm phát hiện những thay đổi do tắc tĩnh mạch võng mạc gây ra."
+      },
+      {
+        "name": "Chụp mạch huỳnh quang",
+        "description": "Quy trình xét nghiệm trong đó thuốc nhuộm được tiêm vào tĩnh mạch ở cánh tay và di chuyển đến các mạch máu võng mạc, giúp bác sĩ quan sát dễ dàng các mạch máu."
+      },
+      {
+        "name": "Đo nhãn áp",
+        "description": "Kiểm tra áp lực bên trong mắt để đánh giá nguy cơ glaucoma tân mạch."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Mặc dù chưa có giải pháp khai thông tĩnh mạch võng mạc, nhưng vẫn có nhiều cách điều trị giúp cải thiện thị lực và ngăn ngừa biến chứng. Khoảng 1/3 người bệnh có cải thiện, 1/3 giữ nguyên và 1/3 dần xấu đi. Quá trình hồi phục có thể kéo dài đến một năm.",
+    "methods": [
+      {
+        "name": "Tiêm thuốc kháng VEGF",
+        "description": "Thuốc chống tăng sinh mạch máu, nhằm ức chế yếu tố tăng trưởng nội mô mạch máu, ngăn chặn sự hình thành các mạch máu mới và giảm phù hoàng điểm."
+      },
+      {
+        "name": "Tiêm thuốc corticosteroid",
+        "description": "Nhóm thuốc chống lại các thành phần viêm dẫn đến phù nề, giúp giảm sưng và cải thiện thị lực."
+      },
+      {
+        "name": "Liệu pháp laser tiêu điểm",
+        "description": "Tia laser được chiếu đến các khu vực bị sưng để giảm phù nề và ngăn chặn tình trạng rò rỉ dịch."
+      },
+      {
+        "name": "Liệu pháp laser quang đông võng mạc",
+        "description": "Phương pháp điều trị này được áp dụng khi có sự hình thành mạch máu mới, giúp phá hủy các tổ chức tân mạch võng mạc, ngăn sự xuất huyết dịch kính võng mạc và phù hoàng điểm."
+      }
+    ],
+    "recommendations": [
+      "Theo dõi và điều trị hiệu quả các bệnh nền như tăng huyết áp, tiểu đường, cholesterol cao",
+      "Khám mắt định kỳ 3-6 tháng/lần đối với người có nguy cơ cao",
+      "Tuân thủ đúng phác đồ điều trị mà bác sĩ đã chỉ định",
+      "Báo cáo với bác sĩ ngay khi có thay đổi về thị lực",
+      "Tránh các hoạt động làm tăng áp lực nội nhãn trong thời gian điều trị"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vaccine đặc hiệu để phòng ngừa bệnh tắc tĩnh mạch võng mạc.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Kiểm soát huyết áp, cholesterol và lượng đường trong máu",
+      "Xem xét thay đổi phương pháp tránh thai nếu đang dùng thuốc tránh thai",
+      "Duy trì chế độ dinh dưỡng khoa học, ăn nhiều rau xanh, trái cây, hạn chế tinh bột, chất béo",
+      "Luyện tập, vận động thường xuyên",
+      "Bỏ hút thuốc lá",
+      "Kiểm tra mắt định kỳ hàng năm, đặc biệt nếu có các yếu tố nguy cơ",
+      "Điều trị hiệu quả các bệnh lý toàn thân như tăng huyết áp, tiểu đường"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh tắc tĩnh mạch võng mạc có nguy hiểm không?",
+      "answer": "Có, bệnh tắc tĩnh mạch võng mạc có thể gây ra tổn thương vĩnh viễn cho võng mạc và dẫn đến mất thị lực nếu không được điều trị kịp thời. Đặc biệt nguy hiểm khi có các biến chứng như phù hoàng điểm, tân mạch và glaucoma tân mạch. Vì vậy, khi có triệu chứng mờ mắt hoặc mất thị lực đột ngột, cần đi khám bác sĩ chuyên khoa Mắt ngay lập tức."
+    },
+    {
+      "question": "Người mắc COVID-19 có nguy cơ bị tắc tĩnh mạch võng mạc như thế nào?",
+      "answer": "Theo nghiên cứu được đăng trên tạp chí JAMA Ophthalmol, COVID-19 làm tăng nguy cơ mắc bệnh tắc tĩnh mạch võng mạc, chủ yếu trong 6 tháng sau khi khỏi bệnh. Nguyên nhân là do COVID-19 có thể tạo ra các cục máu đông, dẫn đến bít tắc tĩnh mạch. Ngoài ra, người mắc COVID-19 còn đối mặt với nguy cơ mắc các bệnh mắt khác như viêm kết mạc, viêm màng bồ đào, viêm thần kinh thị giác, và các rối loạn mạch máu võng mạc khác."
+    },
+    {
+      "question": "Thị lực có thể phục hồi sau khi bị tắc tĩnh mạch võng mạc không?",
+      "answer": "Có khả năng phục hồi thị lực sau khi bị tắc tĩnh mạch võng mạc, nhưng kết quả khác nhau giữa các bệnh nhân. Khoảng 1/3 người bệnh có cải thiện thị lực, 1/3 giữ nguyên và 1/3 dần xấu đi. Quá trình hồi phục có thể kéo dài đến một năm. Các phương pháp điều trị như tiêm thuốc kháng VEGF, corticosteroid, và liệu pháp laser có thể giúp cải thiện thị lực và ngăn ngừa biến chứng. Tuy nhiên, mức độ hồi phục còn phụ thuộc vào mức độ tổn thương ban đầu và thời gian điều trị."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mờ mắt hoặc mất thị lực ở một bên mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tắc tĩnh mạch võng mạc",
+        "bệnh tắc động mạch võng mạc",
+        "bong võng mạc",
+        "viêm thần kinh thị giác",
+        "đục thủy tinh thể"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy thị lực giảm sút nhanh chóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tắc tĩnh mạch võng mạc",
+        "bệnh glaucoma cấp tính",
+        "bong võng mạc",
+        "xuất huyết dịch kính",
+        "viêm màng bồ đào"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mất thị lực hoàn toàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tắc tĩnh mạch võng mạc",
+        "bệnh tắc động mạch võng mạc",
+        "đột quỵ mắt",
+        "tăng nhãn áp cấp",
+        "viêm thần kinh thị giác"
+      ]
+    },
+    {
+      "question": "Tôi có triệu chứng tổn thương võng mạc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tắc tĩnh mạch võng mạc",
+        "bệnh võng mạc tiểu đường",
+        "thoái hóa điểm vàng",
+        "bong võng mạc",
+        "bệnh võng mạc tăng huyết áp"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp vấn đề về mắt sau khi khỏi Covid-19. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tắc tĩnh mạch võng mạc",
+        "viêm kết mạc",
+        "viêm màng bồ đào",
+        "viêm thần kinh thị giác",
+        "rối loạn mạch máu võng mạc"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy mắt mờ đi từng chút một. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tắc tĩnh mạch võng mạc",
+        "đục thủy tinh thể",
+        "thoái hóa điểm vàng",
+        "bệnh glaucoma",
+        "bệnh võng mạc tiểu đường"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mất thị lực đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tắc tĩnh mạch võng mạc",
+        "bệnh tắc động mạch võng mạc",
+        "bong võng mạc",
+        "đột quỵ thần kinh thị giác",
+        "chấn thương mắt"
+      ]
+    },
+    {
+      "question": "Tôi có triệu chứng đau nhức mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng bồ đào",
+        "glaucoma cấp",
+        "viêm kết mạc",
+        "đau dây thần kinh tam thoa",
+        "tắc ống lệ"
+      ]
+    },
+    {
+      "question": "Tôi đang nhìn mờ như có màng che phủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tắc tĩnh mạch võng mạc",
+        "đục thủy tinh thể",
+        "xuất huyết dịch kính",
+        "phù hoàng điểm",
+        "bệnh võng mạc tiểu đường"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy mắt bị chói sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đục thủy tinh thể",
+        "viêm kết mạc",
+        "khô mắt",
+        "bệnh glaucoma",
+        "viêm giác mạc"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "disease_id": "cum-a-h5n1",
+  "disease_name": "Cúm A H5N1",
+  "disease_alternative_names": ["Cúm gia cầm", "Bird flu", "Avian influenza"],
+  "disease_definition": "Cúm A H5N1 là bệnh truyền nhiễm nguy hiểm do virus cúm A chủng H5N1 gây ra, chủ yếu lây nhiễm từ gia cầm sang người. Đây là loại virus có tính biến dị nhanh, sinh bệnh cao, với khả năng gây ra các đợt dịch cúm lớn. Khi bị nhiễm, bệnh có thể tiến triển nhanh với các biến chứng nghiêm trọng và tỷ lệ tử vong lên đến 60% nếu không được điều trị kịp thời.",
+  "symptoms": [
+    {
+      "name": "Sốt cao",
+      "description": "Người bệnh có thể sốt trên 38 độ C, sốt đột ngột và kéo dài."
+    },
+    {
+      "name": "Ho và đau rát họng",
+      "description": "Thường là ho khan, kèm theo đau rát ở vùng họng, khó chịu khi nuốt."
+    },
+    {
+      "name": "Đau nhức cơ thể",
+      "description": "Cảm giác đau mỏi toàn thân, nhất là vùng cơ và khớp."
+    },
+    {
+      "name": "Mệt mỏi và chán ăn",
+      "description": "Cảm giác mệt mỏi, kiệt sức và không muốn ăn uống."
+    },
+    {
+      "name": "Triệu chứng tiêu hóa",
+      "description": "Một số người có thể xuất hiện đau bụng, buồn nôn, nôn ói hoặc tiêu chảy."
+    },
+    {
+      "name": "Triệu chứng hô hấp nặng",
+      "description": "Khó thở, thở gấp, viêm phổi, có thể tiến triển thành Hội chứng rối loạn hô hấp cấp tính."
+    },
+    {
+      "name": "Triệu chứng thần kinh",
+      "description": "Co giật, xuất hiện các trạng thái tâm thần bất thường, đau đầu, đau hốc mắt, hôn mê, mất ý thức."
+    },
+    {
+      "name": "Viêm kết mạc và mắt đỏ",
+      "description": "Mắt đỏ, ngứa, có thể xuất hiện chảy nước mắt và cảm giác khó chịu ở mắt."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh cúm A H5N1 do virus cúm A chủng H5N1 gây ra. Đây là loại virus có đặc điểm biến dị nhanh, sinh bệnh cao, có thể gây bệnh nặng ở người và có chứa các gen của nhiều loại virus lây nhiễm từ nhiều loại động vật khác.",
+    "related_factors": "Virus H5N1 có khả năng tồn tại lâu trong môi trường: sống ít nhất 35 ngày ở nhiệt độ 4 độ C, sống tới 6 ngày trong phân gia cầm ở 37 độ C, và có thể sống trong nhiều năm nếu ở môi trường đóng băng. Độ lan truyền cao do theo các đàn chim cư trú.",
+    "transmission_routes": [
+      "Tiếp xúc, đụng chạm trực tiếp với gia cầm bị bệnh",
+      "Chạm hoặc hít phải các chất tiết từ gia cầm bị nhiễm bệnh",
+      "Tiếp xúc trong quá trình giết mổ, chế biến nguồn thịt gia cầm bị nhiễm bệnh",
+      "Ăn thịt gia cầm hoặc trứng không nấu chín kỹ"
+    ]
+  },
+  "risk_factors": [
+    "Tiếp xúc gần với gia cầm nhiễm bệnh",
+    "Làm việc trong ngành chăn nuôi gia cầm",
+    "Sống hoặc di chuyển đến vùng có dịch cúm gia cầm",
+    "Trẻ em (có nguy cơ mắc bệnh cao hơn người lớn)",
+    "Tiếp xúc với người nhiễm H5N1 (hiếm gặp)",
+    "Sống trong môi trường vệ sinh kém, không đảm bảo an toàn thực phẩm",
+    "Thói quen ăn thịt gia cầm chưa nấu chín"
+  ],
+  "complications": [
+    "Viêm phổi nặng",
+    "Hội chứng rối loạn hô hấp cấp tính",
+    "Suy hô hấp",
+    "Tổn thương thần kinh (phù não, viêm màng não lympho)",
+    "Viêm màng ngoài tim, viêm cơ tim",
+    "Suy đa tạng",
+    "Suy giảm hệ miễn dịch",
+    "Đông máu nội mạch rải rác",
+    "Tử vong (tỷ lệ tử vong có thể lên đến 60%)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng dựa trên triệu chứng và tiền sử tiếp xúc",
+      "Lấy mẫu bệnh phẩm để xét nghiệm"
+    ],
+    "tests": [
+      {
+        "name": "Kỹ thuật RT-PCR (phản ứng chuỗi polymerase)",
+        "description": "Xét nghiệm di truyền phân tử để phát hiện sự hiện diện của virus H5N1 trong dịch mũi/họng, dịch hút phế quản hoặc máu."
+      },
+      {
+        "name": "Kỹ thuật Sequencing",
+        "description": "Xác định trình tự chuỗi nucleotide của virus để xác định chính xác chủng virus."
+      },
+      {
+        "name": "Kỹ thuật HI (ngăn ngưng kết hồng cầu)",
+        "description": "Phương pháp xét nghiệm để xác định kháng thể đối với virus cúm A H5N1."
+      },
+      {
+        "name": "Kỹ thuật ELISA (miễn dịch hấp phụ gắn men)",
+        "description": "Phát hiện kháng thể đặc hiệu của H5N1 trong máu người bệnh."
+      },
+      {
+        "name": "Kỹ thuật phân lập virus",
+        "description": "Nuôi cấy virus từ bệnh phẩm để xác định dương tính với H5N1."
+      },
+      {
+        "name": "Kỹ thuật trung hòa vi lượng",
+        "description": "Đánh giá khả năng trung hòa virus của kháng thể trong huyết thanh."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị cúm A H5N1 cần được thực hiện càng sớm càng tốt, tốt nhất là trong vòng 48 giờ từ khi khởi phát dấu hiệu để hạn chế nguy cơ bệnh trở nặng. Thuốc kháng virus là phương pháp điều trị chính giúp giảm mức độ nguy hiểm và nguy cơ tử vong.",
+    "methods": [
+      {
+        "name": "Thuốc kháng virus oseltamivir (Tamiflu)",
+        "description": "Thuốc kháng virus chính được sử dụng để điều trị H5N1, giúp giảm mức độ nguy hiểm của bệnh và nguy cơ tử vong."
+      },
+      {
+        "name": "Zanamivir (Relenza)",
+        "description": "Thuốc kháng virus thay thế khi không có hoặc không đáp ứng Tamiflu."
+      },
+      {
+        "name": "Thuốc hạ sốt",
+        "description": "Giúp kiểm soát tình trạng sốt cao ở người bệnh."
+      },
+      {
+        "name": "Thuốc chống viêm corticosteroid",
+        "description": "Có thể được sử dụng trong một số trường hợp để kiểm soát viêm nghiêm trọng."
+      },
+      {
+        "name": "Kháng sinh",
+        "description": "Điều trị nhiễm trùng thứ phát do vi khuẩn nếu có."
+      },
+      {
+        "name": "Hỗ trợ hô hấp",
+        "description": "Cung cấp oxy hoặc thở máy nếu bệnh nhân gặp khó khăn trong việc thở."
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ để cơ thể phục hồi",
+      "Sinh hoạt trong môi trường thoáng khí, nhiệt độ phòng không quá nóng hoặc lạnh",
+      "Sát khuẩn họng bằng nước muối loãng nhiều lần trong ngày",
+      "Xịt mũi để hạn chế viêm nhiễm đường hô hấp",
+      "Ăn chín uống sôi, ưu tiên thực phẩm dễ tiêu và giàu dinh dưỡng",
+      "Uống nhiều nước để tránh mất nước",
+      "Tránh tự ý dùng thuốc khi chưa có chỉ định của bác sĩ",
+      "Cách ly để tránh lây lan cho người khác"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người bệnh tránh tiếp xúc với người khác",
+      "Sử dụng khẩu trang khi tiếp xúc với người bệnh",
+      "Thường xuyên rửa tay bằng xà phòng hoặc dung dịch sát khuẩn",
+      "Khử trùng các bề mặt và đồ dùng của người bệnh"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Vaccine phòng ngừa cúm A H5N1 hiện đang trong giai đoạn phát triển và chưa phổ biến rộng rãi. Cả thuốc đặc trị hay phòng ngừa vẫn đang được nghiên cứu.",
+      "recommended_for": [
+        "Nhân viên y tế tiếp xúc với người bệnh H5N1",
+        "Người làm việc trong ngành chăn nuôi gia cầm tại khu vực có dịch",
+        "Nhân viên thú y và kiểm dịch động vật"
+      ]
+    },
+    "general_recommendations": [
+      "Duy trì vệ sinh cá nhân tốt, rửa tay thường xuyên",
+      "Vệ sinh ăn uống: không tiêu thụ sản phẩm từ gia cầm mắc bệnh",
+      "Nấu chín kỹ thịt gia cầm và các sản phẩm từ gia cầm (nhiệt độ ít nhất 70°C)",
+      "Sát khuẩn đường mũi họng hằng ngày",
+      "Hạn chế tiếp xúc gần với người mắc bệnh hoặc gia cầm nhiễm bệnh",
+      "Nếu cần tiếp xúc với gia cầm, sử dụng thiết bị bảo hộ (khẩu trang, kính, găng tay)",
+      "Rửa tay trước và sau khi tiếp xúc với gia cầm hoặc các sản phẩm từ gia cầm",
+      "Tăng cường sức khỏe thông qua chế độ ăn uống lành mạnh và tập thể dục đều đặn",
+      "Khi phát hiện gia cầm bị bệnh, cần báo ngay cho cơ quan thú y địa phương"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Ai có nguy cơ bị cúm A H5N1?",
+      "answer": "Đối tượng có nguy cơ cao bị nhiễm cúm A H5N1 chủ yếu là những người có tiếp xúc gần và thường xuyên với gia cầm hoặc chất thải gia cầm mang virus, như người làm việc trong ngành chăn nuôi gia cầm. Trẻ em có nguy cơ mắc bệnh cao hơn người lớn. Những người đi du lịch tới các quốc gia đang bùng phát dịch cúm gia cầm H5N1 cũng có thể nhiễm bệnh. Ngoài ra, người chung sống trong gia đình có thành viên đang nhiễm H5N1 cũng có nguy cơ (mặc dù hiếm)."
+    },
+    {
+      "question": "Bệnh cúm A H5N1 có thể lây từ người sang người không?",
+      "answer": "Các ca nhiễm H5N1 lây từ người sang người là rất hiếm gặp, nhưng vẫn có thể xảy ra. Trường hợp lây nhiễm từ người sang người được ghi nhận đầu tiên vào năm 1997 sau đợt dịch bùng phát tại Hồng Kông. Phần lớn ca bệnh ở người là do tiếp xúc trực tiếp với gia cầm nhiễm bệnh hoặc môi trường bị ô nhiễm."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ?",
+      "answer": "Bạn nên đến gặp bác sĩ ngay khi có các dấu hiệu cảnh báo nhiễm cúm H5N1 như sốt cao, ho, đau họng, mệt mỏi, đặc biệt nếu bạn có tiền sử tiếp xúc với gia cầm hoặc đã đến vùng có dịch cúm gia cầm. Việc phát hiện sớm sẽ giúp điều trị, theo dõi và chăm sóc hiệu quả hơn, đồng thời giảm đáng kể nguy cơ xảy ra biến chứng nguy hiểm đến tính mạng."
+    },
+    {
+      "question": "Cúm A H5N1 có nguy hiểm không?",
+      "answer": "Cúm A H5N1 là bệnh rất nguy hiểm với tỷ lệ tử vong có thể lên đến 60% nếu không được điều trị kịp thời. Bệnh có thể tiến triển nhanh và gây ra nhiều biến chứng nghiêm trọng như viêm phổi nặng, hội chứng rối loạn hô hấp cấp tính, suy đa tạng, tổn thương hệ thần kinh và các rối loạn khác. Vì vậy, cần cảnh giác cao độ và điều trị sớm khi mắc bệnh này."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi đang sốt cao trên 38 độ, kèm theo ho và đau rát họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cúm A H5N1",
+        "Cúm mùa",
+        "COVID-19",
+        "Viêm họng",
+        "Viêm phổi"
+      ]
+    },
+    {
+      "question": "Tôi bị đau nhức cơ thể và cảm thấy mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cúm A H5N1",
+        "Cúm mùa",
+        "COVID-19",
+        "Sốt virus",
+        "Sốt xuất huyết"
+      ]
+    },
+    {
+      "question": "Tôi bị đau bụng, buồn nôn và tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cúm A H5N1",
+        "Ngộ độc thực phẩm",
+        "Viêm dạ dày ruột",
+        "Cúm đường ruột",
+        "Viêm ruột thừa"
+      ]
+    },
+    {
+      "question": "Tôi bị khó thở, thở gấp và cảm thấy tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cúm A H5N1",
+        "Viêm phổi",
+        "COVID-19",
+        "Hen suyễn",
+        "Suy tim"
+      ]
+    },
+    {
+      "question": "Tôi bị chảy nước mũi và nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cúm A H5N1",
+        "Cúm mùa",
+        "Viêm mũi dị ứng",
+        "Cảm lạnh",
+        "Viêm xoang"
+      ]
+    },
+    {
+      "question": "Tôi bị đau đầu và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cúm A H5N1",
+        "Cúm mùa",
+        "Viêm màng não",
+        "Tăng huyết áp",
+        "Đau nửa đầu"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm kết mạc và mắt đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cúm A H5N1",
+        "Viêm kết mạc",
+        "Dị ứng",
+        "Hội chứng khô mắt",
+        "Viêm giác mạc"
+      ]
+    },
+    {
+      "question": "Tôi tiếp xúc với gia cầm bị bệnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cúm A H5N1",
+        "Bệnh do Salmonella",
+        "Campylobacteriosis",
+        "Psittacosis",
+        "Nhiễm E. coli"
+      ]
+    },
+    {
+      "question": "Tôi đi du lịch đến vùng có dịch cúm gia cầm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cúm A H5N1",
+        "Sốt rét",
+        "Sốt xuất huyết",
+        "Bệnh do virus Zika",
+        "Bệnh do virus Ebola"
+      ]
+    },
+    {
+      "question": "Tôi ăn thịt gia cầm chưa nấu chín kỹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cúm A H5N1",
+        "Nhiễm Salmonella",
+        "Campylobacteriosis",
+        "Nhiễm ký sinh trùng",
+        "Ngộ độc thực phẩm"
+      ]
+    }
+  ]
+}

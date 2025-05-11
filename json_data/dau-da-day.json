@@ -1,0 +1,238 @@
+{
+  "disease_id": "dau-da-day",
+  "disease_name": "Đau Dạ Dày",
+  "disease_alternative_names": ["Đau bao tử", "Gastric pain", "Stomach pain"],
+  "disease_definition": "Đau dạ dày là tình trạng bao tử bị tổn thương do nhiều nguyên nhân khác nhau hoặc không thực sự bị tổn thương mà chỉ có rối loạn vận động của dạ dày và có tăng tiết axit dịch vị dạ dày. Từ đó, bệnh gây ra các cơn đau âm ỉ, nóng rát hoặc tức tại vùng thượng vị. Cảm giác khó chịu này thông thường chỉ tồn tại trong thời gian ngắn. Tuy nhiên, trong nhiều trường hợp, cơn đau kéo dài và dữ dội, đây là dấu hiệu cảnh báo nhiều vấn đề sức khỏe nguy hiểm.",
+  "symptoms": [
+    {
+      "name": "Đau vùng thượng vị",
+      "description": "Đau dạ dày có thể xuất hiện tại vùng thượng vị ở chính giữa bụng, cũng có thể lệch sang bên trái hoặc bên phải, đau có thể lan ra sau lưng. Đau có thể gặp khi đói hoặc về ban đêm, cũng có thể đau sau khi ăn làm người bệnh cảm giác tức nặng, ấm ách không ăn được nhiều."
+    },
+    {
+      "name": "Ợ chua và trào ngược axit",
+      "description": "Cảm giác ợ chua, nóng rát từ dạ dày lên thực quản và cổ họng, đôi khi kèm theo vị đắng trong miệng."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Người bệnh có thể cảm thấy buồn nôn, thậm chí nôn ra thức ăn hoặc dịch có vị đắng."
+    },
+    {
+      "name": "Đầy hơi",
+      "description": "Cảm giác đầy bụng, căng tức, khó tiêu sau khi ăn, thậm chí chỉ ăn một lượng nhỏ thức ăn."
+    },
+    {
+      "name": "Ợ hơi",
+      "description": "Người bệnh thường xuyên ợ hơi, đôi khi kèm theo chất lỏng hoặc thức ăn có vị đắng, mùi hôi."
+    },
+    {
+      "name": "Hơi thở có mùi",
+      "description": "Hơi thở có mùi hôi hoặc chua do axit dạ dày trào ngược lên thực quản và miệng."
+    }
+  ],
+  "causes": {
+    "main_cause": "Đau dạ dày có nhiều nguyên nhân khác nhau, bao gồm các bệnh lý ở dạ dày như loét dạ dày-tá tràng, viêm niêm mạc dạ dày, ung thư dạ dày, các rối loạn chức năng dạ dày và các yếu tố liên quan đến lối sống như thói quen ăn uống không lành mạnh, stress kéo dài, sử dụng một số loại thuốc, và dị ứng thực phẩm.",
+    "related_factors": "Vi khuẩn Helicobacter Pylori, sử dụng các thuốc giảm đau chống viêm Nonsteroid hoặc Aspirin, uống rượu bia nhiều, ăn các thực phẩm cay nóng, thói quen ăn uống không điều độ, căng thẳng kéo dài, dị ứng và không dung nạp thực phẩm đều có thể gây đau dạ dày.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Ăn uống không điều độ, không đúng giờ, ăn quá khuya",
+    "Ăn quá nhanh, ăn quá no hoặc để bụng quá đói",
+    "Tiêu thụ nhiều thức ăn chiên rán, cay nóng, đồ chua",
+    "Vừa ăn vừa làm việc khác như đọc sách, chơi game, xem tivi",
+    "Sử dụng thực phẩm không đảm bảo vệ sinh",
+    "Lạm dụng đồ uống có cồn, chất kích thích, thuốc lá",
+    "Stress và lo lắng kéo dài",
+    "Sử dụng một số loại thuốc như aspirin, thuốc kháng sinh, thuốc giảm đau NSAID",
+    "Nhiễm vi khuẩn Helicobacter Pylori"
+  ],
+  "complications": [
+    "Xuất huyết dạ dày",
+    "Thủng dạ dày",
+    "Hẹp môn vị",
+    "Thiếu máu do mất máu mạn tính",
+    "Ảnh hưởng đến chất lượng cuộc sống"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Nội soi dạ dày-tá tràng",
+      "Siêu âm ổ bụng",
+      "Chụp X-quang bụng",
+      "Chụp CT hoặc cộng hưởng từ (MRI) trong một số trường hợp"
+    ],
+    "tests": [
+      {
+        "name": "Nội soi dạ dày-tá tràng",
+        "description": "Phương pháp tốt nhất để chẩn đoán nguyên nhân đau dạ dày, giúp quan sát trực tiếp niêm mạc dạ dày, phát hiện các tổn thương như viêm, loét, u hoặc lấy mẫu sinh thiết nếu cần."
+      },
+      {
+        "name": "Xét nghiệm tìm vi khuẩn Helicobacter Pylori",
+        "description": "Có thể thực hiện qua mẫu sinh thiết khi nội soi, xét nghiệm hơi thở, xét nghiệm phân hoặc xét nghiệm máu để tìm kháng thể."
+      },
+      {
+        "name": "Siêu âm ổ bụng",
+        "description": "Giúp loại trừ các nguyên nhân khác gây đau bụng như sỏi mật, viêm tụy, các khối u."
+      },
+      {
+        "name": "Chụp X-quang bụng",
+        "description": "Giúp phát hiện tình trạng tắc ruột, thủng tạng rỗng hoặc các bất thường khác."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị đau dạ dày phụ thuộc vào nguyên nhân gây bệnh. Khi tình trạng cơn đau trở nên nghiêm trọng, các phương pháp điều trị tại nhà không đem lại hiệu quả, người bệnh nên liên hệ ngay với bác sĩ. Đây là giải pháp tốt nhất để ngăn chặn các biến chứng nguy hiểm về sau.",
+    "methods": [
+      {
+        "name": "Thuốc ức chế bơm proton (PPIs)",
+        "description": "Các thuốc như Omeprazole, Pantoprazole, Lanzoprazole, Rabeprazole, Esomeprazole giúp giảm tiết axit dạ dày, làm lành các ổ loét."
+      },
+      {
+        "name": "Điều trị kháng sinh diệt Helicobacter Pylori",
+        "description": "Phối hợp kháng sinh với thuốc ức chế bơm proton (PPI) trong trường hợp loét dạ dày-tá tràng do vi khuẩn H. Pylori."
+      },
+      {
+        "name": "Thuốc làm tăng vận động đường tiêu hóa (Prokinetic)",
+        "description": "Được sử dụng kết hợp với PPI trong trường hợp khó tiêu chức năng để cải thiện triệu chứng."
+      },
+      {
+        "name": "Điều chỉnh thói quen ăn uống",
+        "description": "Ăn chậm, nhai kỹ, chia nhỏ bữa ăn, uống đủ nước và tránh các thực phẩm kích thích dạ dày như đồ cay nóng, đồ chiên rán, rượu bia."
+      }
+    ],
+    "recommendations": [
+      "Uống đủ nước mỗi ngày để đảm bảo quá trình tiêu hóa hiệu quả",
+      "Ăn nhiều bữa nhỏ trong ngày thay vì ăn ít bữa nhưng nhiều",
+      "Nhai thức ăn chậm rãi và kỹ",
+      "Tập thể dục đều đặn để giảm căng thẳng",
+      "Tránh xa các loại thức ăn kích thích dạ dày như đồ dầu mỡ, đồ cay nóng",
+      "Hạn chế nằm ngay sau khi ăn vì dễ khiến cơn đau trở nên trầm trọng hơn",
+      "Tránh tuyệt đối việc hút thuốc và uống rượu bia",
+      "Ưu tiên các thức ăn mềm, dễ tiêu như cháo, súp, bánh mì",
+      "Uống trà gừng hoặc nước chanh pha baking soda để giảm triệu chứng"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vaccine phòng ngừa bệnh đau dạ dày.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Ăn chậm, nhai kỹ để giảm áp lực cho dạ dày",
+      "Chia nhỏ bữa ăn, tránh ăn quá no",
+      "Tránh tiêu thụ các loại thực phẩm gây dị ứng hoặc kích thích dạ dày",
+      "Uống nhiều nước, tránh đồ uống có cồn và caffeine",
+      "Quản lý stress và cảm xúc để tránh căng thẳng kéo dài",
+      "Tham gia tập luyện thể dục thể thao đều đặn",
+      "Hạn chế tiêu thụ chất béo và các loại thực phẩm chế biến sẵn",
+      "Tránh sử dụng thuốc giảm đau NSAID kéo dài nếu không có chỉ định của bác sĩ",
+      "Khám sức khỏe định kỳ để phát hiện và điều trị sớm các vấn đề về dạ dày"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bị đau dạ dày nên ăn gì?",
+      "answer": "Người bị đau dạ dày nên ưu tiên các thức ăn lỏng, dễ tiêu hóa như đồ uống thể thao, nước dừa, cháo. Gạo trắng (thay cho gạo đen và gạo lứt) là thực phẩm giàu tinh bột, ít chất xơ giúp cải thiện tình trạng tiêu chảy hiệu quả. Sốt táo là thực phẩm dễ tiêu hóa, chứa nhiều dinh dưỡng, bao gồm Pectin (một loại chất xơ hòa tan trong nước), giúp cải thiện tiêu chảy hiệu quả. Bánh mì có lợi trong trường hợp tăng tiết axit."
+    },
+    {
+      "question": "Đau dạ dày nên làm gì?",
+      "answer": "Khi bị đau dạ dày, bạn nên ăn đồ mềm dễ tiêu, chia nhỏ nhiều bữa, cung cấp đủ lượng nước cần thiết mỗi ngày cho cơ thể. Tránh căng thẳng và suy nghĩ quá nhiều. Tránh uống rượu bia, hút thuốc lá. Tránh các nhóm thực phẩm gây khó tiêu (thực phẩm chứa chất béo, axit, dầu mỡ, đồ cay nóng). Bổ sung vào thực đơn hàng ngày các thực phẩm có lợi cho dạ dày như húng quế, nước ép lô hội, cơm trắng, cam thảo."
+    },
+    {
+      "question": "Đau dạ dày có nguy hiểm không?",
+      "answer": "Đau dạ dày có thể nhầm lẫn với bệnh lý nguy hiểm khác (viêm tụy cấp, sỏi mật, bán tắc ruột...). Nếu không được điều trị kịp thời, đau dạ dày có thể dẫn đến các biến chứng nguy hiểm như xuất huyết dạ dày, thủng dạ dày, hẹp môn vị. Cần liên hệ ngay với bác sĩ khi có các triệu chứng nghiêm trọng như: cơn đau dữ dội và xuất hiện đột ngột, tức ngực, khó thở, nôn ra máu hoặc chất lỏng có màu như cà phê, hoặc giảm cân không rõ nguyên nhân."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau ở vùng thượng vị, ợ chua và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau dạ dày",
+        "viêm loét dạ dày",
+        "trào ngược dạ dày thực quản",
+        "viêm tụy"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng về đêm, kèm theo cảm giác tức nặng và khó ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau dạ dày",
+        "loét dạ dày tá tràng",
+        "trào ngược dạ dày thực quản",
+        "viêm túi mật"
+      ]
+    },
+    {
+      "question": "Tôi hay bị trào ngược axit và đầy hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau dạ dày",
+        "trào ngược dạ dày thực quản",
+        "viêm loét dạ dày",
+        "rối loạn chức năng dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng ợ hơi có mùi hôi, kèm theo đau ở vùng bụng trên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau dạ dày",
+        "viêm loét dạ dày",
+        "nhiễm vi khuẩn Helicobacter Pylori",
+        "rối loạn tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau bụng sau khi ăn, kèm theo cảm giác ấm ách và khó tiêu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau dạ dày",
+        "khó tiêu chức năng",
+        "viêm loét dạ dày",
+        "viêm túi mật"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng lan ra sau lưng, kèm theo ợ chua. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau dạ dày",
+        "viêm tụy",
+        "viêm loét dạ dày",
+        "sỏi mật"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng đau bụng, buồn nôn và nôn ra chất lỏng có vị đắng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau dạ dày",
+        "viêm gan",
+        "sỏi mật",
+        "trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau bụng khi đói, kèm theo ợ hơi và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau dạ dày",
+        "loét dạ dày tá tràng",
+        "viêm loét dạ dày",
+        "tăng tiết axit dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng đau bụng, đầy hơi và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau dạ dày",
+        "rối loạn tiêu hóa",
+        "viêm loét dạ dày",
+        "viêm tụy"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng sau khi ăn đồ cay nóng, kèm theo ợ chua và nóng rát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau dạ dày",
+        "trào ngược dạ dày thực quản",
+        "viêm loét dạ dày",
+        "viêm thực quản"
+      ]
+    }
+  ]
+}

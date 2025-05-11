@@ -1,0 +1,168 @@
+{
+  "disease_id": "benh-tim-bam-sinh-khong-tim",
+  "disease_name": "Bệnh tim bẩm sinh không tím",
+  "disease_alternative_names": [
+    "Tim bẩm sinh không tím",
+    "Non-cyanotic congenital heart disease"
+  ],
+  "disease_definition": "Bệnh tim bẩm sinh không tím là nhóm dị tật tim bẩm sinh không gây tình trạng thiếu oxy máu rõ rệt, do đó trẻ không có biểu hiện tím tái. Tuy nhiên, các dị tật này vẫn có thể gây ra nhiều biến chứng nghiêm trọng nếu không được phát hiện và điều trị kịp thời. Các dạng phổ biến bao gồm thông liên nhĩ (lỗ thông giữa hai tâm nhĩ), thông liên thất (lỗ thông giữa hai tâm thất), hẹp van động mạch chủ, hẹp van động mạch phổi, và còn ống động mạch.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Thở nhanh, thở gấp, đặc biệt khi gắng sức hoặc bú"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Dễ mệt, đặc biệt khi hoạt động hoặc bú"
+    },
+    {
+      "name": "Chậm phát triển",
+      "description": "Tăng cân chậm, chậm lớn so với trẻ cùng tuổi"
+    },
+    {
+      "name": "Bú kém",
+      "description": "Bú ít, bú ngắt quãng, cử bú kéo dài"
+    },
+    {
+      "name": "Đổ mồ hôi",
+      "description": "Đổ mồ hôi nhiều, đặc biệt khi bú hoặc hoạt động"
+    },
+    {
+      "name": "Tức ngực",
+      "description": "Cảm giác tức hoặc đau tức vùng ngực"
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh tim bẩm sinh không tím chủ yếu do sự phát triển bất thường của tim trong giai đoạn thai nhi, dẫn đến các dị tật về cấu trúc tim như thông liên nhĩ, thông liên thất, hẹp van tim, hoặc còn ống động mạch.",
+    "related_factors": "Các yếu tố liên quan bao gồm di truyền, nhiễm trùng trong thai kỳ, tiếp xúc với chất độc hại, một số bệnh lý của mẹ như đái tháo đường, và các hội chứng di truyền.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Di truyền",
+      "description": "Yếu tố di truyền từ bố mẹ hoặc người thân trong gia đình"
+    },
+    {
+      "name": "Thai kỳ",
+      "description": "Mẹ nhiễm virus, tiếp xúc với chất độc hại, hoặc mắc bệnh trong thai kỳ"
+    },
+    {
+      "name": "Đái tháo đường",
+      "description": "Mẹ bị đái tháo đường trong thai kỳ làm tăng nguy cơ con bị tim bẩm sinh"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Suy tim",
+      "description": "Tim không đủ khả năng bơm máu đáp ứng nhu cầu cơ thể"
+    },
+    {
+      "name": "Tăng áp phổi",
+      "description": "Tăng áp lực trong động mạch phổi do lưu lượng máu đến phổi tăng"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Tim đập không đều, quá nhanh hoặc quá chậm"
+    },
+    {
+      "name": "Viêm nội tâm mạc",
+      "description": "Nhiễm trùng lớp nội mạc tim"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá cấu trúc và chức năng tim"
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Kiểm tra kích thước và hình dạng tim"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Đánh giá hoạt động điện của tim"
+      },
+      {
+        "name": "Thông tim",
+        "description": "Đánh giá chi tiết các thông số huyết động trong tim"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị tim bẩm sinh không tím cần được thực hiện theo từng trường hợp cụ thể, tùy thuộc vào loại dị tật và mức độ nghiêm trọng của bệnh.",
+    "methods": [
+      {
+        "name": "Can thiệp qua da",
+        "description": "Sử dụng ống thông để sửa chữa một số dị tật không cần mổ hở"
+      },
+      {
+        "name": "Phẫu thuật tim",
+        "description": "Can thiệp phẫu thuật để sửa chữa các dị tật phức tạp"
+      },
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc để kiểm soát triệu chứng và cải thiện chức năng tim"
+      }
+    ],
+    "recommendations": [
+      "Theo dõi sát tình trạng trẻ",
+      "Tuân thủ lịch tái khám",
+      "Tiêm phòng đầy đủ theo hướng dẫn của bác sĩ",
+      "Chế độ dinh dưỡng phù hợp",
+      "Hạn chế các hoạt động gắng sức"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin đặc hiệu cho bệnh tim bẩm sinh không tím, nhưng việc tiêm phòng đầy đủ cho mẹ trước và trong thai kỳ có thể giúp giảm nguy cơ một số dị tật tim bẩm sinh.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Khám thai định kỳ",
+      "Tránh các chất kích thích trong thai kỳ",
+      "Tiêm phòng đầy đủ trước khi mang thai",
+      "Kiểm soát tốt bệnh lý nền nếu có",
+      "Tránh tiếp xúc với môi trường độc hại"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó thở khi vận động, tức ngực và đổ mồ hôi nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tim bẩm sinh không tím",
+        "thông liên nhĩ",
+        "thông liên thất",
+        "hẹp van động mạch chủ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi thường xuyên và tốc độ tăng trưởng chậm hơn so với bạn bè cùng trang lứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tim bẩm sinh không tím",
+        "suy tim",
+        "suy dinh dưỡng",
+        "thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi hay khó thở, đặc biệt khi chơi thể thao, và thường xuyên cảm thấy tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tim bẩm sinh không tím",
+        "hẹp van động mạch chủ",
+        "hẹp van động mạch phổi",
+        "hen suyễn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó bú, kém ăn và thường xuyên mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "tim bẩm sinh không tím",
+        "suy tim",
+        "trào ngược dạ dày",
+        "rối loạn tiêu hóa"
+      ]
+    }
+  ]
+}

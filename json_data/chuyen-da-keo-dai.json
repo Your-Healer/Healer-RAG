@@ -1,0 +1,275 @@
+{
+  "disease_id": "chuyen-da-keo-dai",
+  "disease_name": "Chuyển Dạ Kéo Dài",
+  "disease_alternative_names": [
+    "Prolonged Labor",
+    "Chuyển dạ chậm",
+    "Đẻ kéo dài",
+    "Vượt cạn kéo dài"
+  ],
+  "disease_definition": "Chuyển dạ kéo dài là quá trình chuyển dạ có thời gian lâu hơn chuyển dạ thông thường, diễn ra trong khoảng 18 đến 24 giờ. Các bà mẹ sinh con đầu lòng thường chuyển dạ lâu hơn, khoảng 18-24 giờ, trong khi với sản phụ sinh con lần thứ hai hoặc thứ ba thì chuyển dạ hơn 16-18 giờ được coi là kéo dài. Đối với các trường hợp song thai, một cuộc chuyển dạ diễn ra hơn 16 giờ được coi là kéo dài.",
+  "symptoms": [
+    {
+      "name": "Thời gian chuyển dạ kéo dài",
+      "description": "Thời gian chuyển dạ diễn ra hơn 18 giờ đối với sinh con so và hơn 16 giờ đối với sinh con rạ, vượt quá thời gian chuyển dạ thông thường."
+    },
+    {
+      "name": "Kiệt sức",
+      "description": "Sản phụ cảm thấy mệt mỏi cực độ, kiệt sức do quá trình chuyển dạ kéo dài, có thể bị mất nước và miệng khô do thở bằng miệng trong thời gian dài."
+    },
+    {
+      "name": "Đau lưng dữ dội",
+      "description": "Cảm giác đau ở lưng và hai bên người, lan xuống đùi do lưng bị đè mạnh trong thời gian dài."
+    },
+    {
+      "name": "Giảm cơn đau chuyển dạ",
+      "description": "Cơn đau chuyển dạ giảm dần theo thời gian khi các cơ trở nên mệt mỏi, khiến quá trình chuyển dạ không hiệu quả."
+    },
+    {
+      "name": "Nhịp tim nhanh",
+      "description": "Nhịp tim tăng nhanh do mất nước, kiệt sức và căng thẳng kéo dài."
+    },
+    {
+      "name": "Tử cung mềm",
+      "description": "Tử cung mềm khi chạm vào và không giãn hoàn toàn giữa các cơn co thắt, ảnh hưởng đến hiệu quả của quá trình chuyển dạ."
+    },
+    {
+      "name": "Cổ tử cung không giãn nở",
+      "description": "Cổ tử cung không tiếp tục giãn nở mặc dù có cơn co tử cung."
+    },
+    {
+      "name": "Bướu huyết thanh và chồng khớp sọ",
+      "description": "Thai nhi có hiện tượng bướu huyết thanh (phù nề da đầu) và chồng khớp sọ do quá trình chuyển dạ kéo dài."
+    }
+  ],
+  "causes": {
+    "main_cause": "Chuyển dạ kéo dài có nguyên nhân chính từ rối loạn cơn co tử cung, các yếu tố liên quan đến thai nhi, và các yếu tố từ người mẹ. Khoảng 55% chuyển dạ kéo dài do cơn co, 30% do thai, 15% do bất thường về khung chậu.",
+    "related_factors": "Có nhiều yếu tố liên quan đến chuyển dạ kéo dài, bao gồm cơn co tử cung giảm (cơn co thưa và cường độ yếu), thai to (trên 3.500 gram), ngôi thai bất thường, tâm lý thai phụ lo âu quá mức, khung chậu hẹp, âm đạo chưa giãn nở đủ, u đường sinh dục, tử cung bất thường bẩm sinh, và thai phụ béo phì.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Sinh con lần đầu (sinh con so)",
+    "Thai nhi có kích thước lớn (trên 3.500 gram)",
+    "Ngôi thai bất thường",
+    "Khung chậu hẹp",
+    "Béo phì hoặc tăng cân quá mức trong thai kỳ",
+    "U đường sinh dục và vùng chậu",
+    "Tử cung bất thường bẩm sinh (tử cung đôi, tử cung kém phát triển)",
+    "Tâm lý căng thẳng, lo âu",
+    "Thai nhi có dị dạng bẩm sinh",
+    "Song thai hoặc đa thai"
+  ],
+  "complications": [
+    "Băng huyết sau sinh",
+    "Vỡ tử cung",
+    "Nhiễm trùng ối",
+    "Nhiễm trùng hậu sản",
+    "Nhiễm trùng huyết",
+    "Suy thai trong chuyển dạ",
+    "Nhiễm trùng sơ sinh",
+    "Tăng tỷ lệ tử vong chu sinh",
+    "Ngạt thai",
+    "Tổn thương não và bại não ở trẻ",
+    "Sang chấn đường sinh dục của mẹ",
+    "Sang chấn sọ não ở trẻ"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Theo dõi thời gian chuyển dạ",
+      "Đánh giá dấu hiệu sinh tồn của sản phụ",
+      "Đánh giá tình trạng mất nước hoặc toan hóa",
+      "Kiểm tra nhiễm khuẩn (sốt)",
+      "Đánh giá tình trạng tâm lý",
+      "Kiểm tra cơn co tử cung"
+    ],
+    "tests": [
+      {
+        "name": "Khám trong âm đạo",
+        "description": "Đánh giá độ xóa mở và mật độ cổ tử cung, xác định ngôi thai và mức độ lọt của thai."
+      },
+      {
+        "name": "Theo dõi nhịp tim thai",
+        "description": "Đánh giá tình trạng sức khỏe của thai nhi, phát hiện dấu hiệu suy thai."
+      },
+      {
+        "name": "Đánh giá cơn co tử cung",
+        "description": "Theo dõi cường độ, tần suất và thời gian của các cơn co tử cung để xác định nguyên nhân chuyển dạ kéo dài."
+      },
+      {
+        "name": "Chỉ số Apgar",
+        "description": "Đánh giá nhanh tình trạng sức khỏe của trẻ sau khi sinh ở thời điểm một phút và năm phút, bao gồm nhịp tim, trương lực cơ, phản xạ, nhịp thở và màu da."
+      },
+      {
+        "name": "Xét nghiệm máu và nước tiểu",
+        "description": "Kiểm tra tình trạng thiếu máu, nhiễm trùng, mất nước và các vấn đề khác."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị chuyển dạ kéo dài tùy thuộc vào nguyên nhân cụ thể và tình trạng của sản phụ và thai nhi. Mục tiêu là đảm bảo an toàn cho cả mẹ và bé trong quá trình sinh nở.",
+    "methods": [
+      {
+        "name": "Sử dụng Oxytocin",
+        "description": "Hormone tổng hợp được sử dụng để gây chuyển dạ, tăng cường và điều chỉnh các cơn gò tử cung, đặc biệt hiệu quả khi chuyển dạ diễn ra chậm do cơn co tử cung yếu."
+      },
+      {
+        "name": "Tia ối hoặc phá ối",
+        "description": "Thủ thuật làm vỡ màng ối bằng ngón tay hoặc dụng cụ đặc biệt để đẩy nhanh quá trình chuyển dạ, thường kết hợp với Oxytocin để tăng cường chuyển dạ."
+      },
+      {
+        "name": "Sinh giúp bằng dụng cụ",
+        "description": "Sử dụng giác hút hoặc forceps để hỗ trợ sinh con qua đường âm đạo trong giai đoạn sổ thai khi mẹ rặn yếu hoặc mẹ có bệnh lý nội khoa đi kèm."
+      },
+      {
+        "name": "Sinh mổ",
+        "description": "Được thực hiện khi quá trình chuyển dạ bị kéo dài bởi cơn gò tử cung đã điều chỉnh bằng Oxytocin không thành công, hoặc có dấu hiệu suy thai, bất tương xứng thai và khung chậu."
+      },
+      {
+        "name": "Bù nước và điện giải",
+        "description": "Điều trị tình trạng mất nước và cân bằng điện giải cho sản phụ do quá trình chuyển dạ kéo dài."
+      }
+    ],
+    "recommendations": [
+      "Theo dõi sát sao tình trạng sức khỏe của mẹ và thai nhi",
+      "Đảm bảo sản phụ được nghỉ ngơi đầy đủ giữa các cơn co",
+      "Bổ sung nước và dinh dưỡng đầy đủ cho sản phụ",
+      "Thay đổi tư thế để giúp thai nhi di chuyển xuống ống sinh",
+      "Hỗ trợ tinh thần, giảm lo âu cho sản phụ",
+      "Thực hiện các biện pháp giảm đau khi cần thiết",
+      "Ghi nhớ số giờ mà cơn chuyển dạ kéo dài một cách chính xác",
+      "Theo dõi các cơn gò tử cung và nhịp tim thai liên tục"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine cho tình trạng chuyển dạ kéo dài.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì lối sống lành mạnh trong thai kỳ",
+      "Ăn uống đầy đủ chất dinh dưỡng theo hướng dẫn của bác sĩ",
+      "Vận động thể dục nhẹ nhàng phù hợp với thai kỳ",
+      "Tránh căng thẳng, lo lắng, duy trì tinh thần thoải mái",
+      "Đi khám thai định kỳ đầy đủ",
+      "Ghi nhớ những mốc khám thai quan trọng",
+      "Kiểm soát cân nặng để tránh béo phì và thai to",
+      "Lựa chọn đơn vị chăm sóc thai kỳ và sinh nở uy tín",
+      "Tham gia các lớp tiền sản để chuẩn bị tinh thần và kiến thức cho quá trình sinh nở"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Chuyển dạ kéo dài là gì?",
+      "answer": "Chuyển dạ kéo dài là quá trình chuyển dạ có thời gian lâu hơn chuyển dạ thông thường, diễn ra trong khoảng 18 đến 24 giờ. Đối với sản phụ sinh con đầu lòng, chuyển dạ kéo dài được tính là 18-24 giờ, trong khi với sản phụ sinh con lần thứ hai hoặc thứ ba thì là 16-18 giờ. Đối với các trường hợp song thai, một cuộc chuyển dạ diễn ra hơn 16 giờ được coi là kéo dài."
+    },
+    {
+      "question": "Nguyên nhân nào dẫn đến chuyển dạ kéo dài?",
+      "answer": "Có nhiều nguyên nhân dẫn đến chuyển dạ kéo dài, trong đó khoảng 55% do cơn co tử cung (cơn co thưa và cường độ yếu), 30% do yếu tố từ thai nhi (thai to trên 3.500 gram, ngôi thai bất thường, dị dạng bẩm sinh), và 15% do yếu tố từ mẹ (khung chậu hẹp, u đường sinh dục, tử cung bất thường bẩm sinh, béo phì). Ngoài ra, tâm lý lo âu quá mức của sản phụ cũng có thể ảnh hưởng đến tiến độ mở cổ tử cung."
+    },
+    {
+      "question": "Làm thế nào để điều trị chuyển dạ kéo dài?",
+      "answer": "Điều trị chuyển dạ kéo dài phụ thuộc vào nguyên nhân cụ thể và tình trạng của sản phụ và thai nhi. Các phương pháp điều trị bao gồm: Sử dụng Oxytocin để tăng cường cơn co tử cung, tia ối hoặc phá ối để đẩy nhanh quá trình chuyển dạ, sinh giúp bằng dụng cụ (giác hút hoặc forceps) khi cần thiết, và sinh mổ khi các biện pháp khác không hiệu quả hoặc có nguy cơ cho mẹ và bé. Bù nước và điện giải cũng quan trọng để duy trì sức khỏe cho sản phụ."
+    },
+    {
+      "question": "Những biến chứng nào có thể xảy ra do chuyển dạ kéo dài?",
+      "answer": "Chuyển dạ kéo dài có thể gây ra nhiều biến chứng cho cả mẹ và bé. Đối với mẹ, có thể gặp băng huyết sau sinh, vỡ tử cung, nhiễm trùng ối, nhiễm trùng hậu sản, và nhiễm trùng huyết. Đối với bé, có thể gặp suy thai trong chuyển dạ, nhiễm trùng sơ sinh, ngạt thai, tổn thương não dẫn đến bại não. Tỷ lệ tử vong chu sinh có thể cao gấp đôi nếu chuyển dạ diễn ra trên 24 giờ."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa chuyển dạ kéo dài?",
+      "answer": "Để phòng ngừa chuyển dạ kéo dài, mẹ bầu nên duy trì lối sống lành mạnh, ăn uống đầy đủ chất dinh dưỡng, vận động thể dục nhẹ nhàng theo khuyến cáo của bác sĩ, tránh căng thẳng và lo lắng, đi khám thai định kỳ đầy đủ, kiểm soát cân nặng để tránh béo phì và thai to, và lựa chọn đơn vị chăm sóc thai kỳ và sinh nở uy tín. Việc tham gia các lớp tiền sản cũng giúp chuẩn bị tinh thần và kiến thức cho quá trình sinh nở."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chuyển dạ hơn 18 giờ, kiệt sức và đau lưng dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ kéo dài",
+        "chuyển dạ đình trệ",
+        "bất tương xứng thai và khung chậu",
+        "suy chuyển dạ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, mất nước và đau hai bên hông lan xuống đùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ kéo dài",
+        "mệt mỏi khi chuyển dạ",
+        "suy chuyển dạ",
+        "bất tương xứng thai và khung chậu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lưng, cơn đau chuyển dạ giảm dần và nhịp tim nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ kéo dài",
+        "mệt mỏi cơ tử cung",
+        "suy chuyển dạ",
+        "rối loạn cơn co tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tử cung mềm, không giãn hoàn toàn giữa các cơn co thắt và kiệt sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ kéo dài",
+        "mệt mỏi cơ tử cung",
+        "cơn co bất thường",
+        "suy chuyển dạ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lo lắng vì chuyển dạ đã kéo dài mà không có tiến triển. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ kéo dài",
+        "chuyển dạ đình trệ",
+        "lo âu khi chuyển dạ",
+        "cổ tử cung cứng"
+      ]
+    },
+    {
+      "question": "Tôi hay thở hổn hển, cơ thể mệt mỏi và không thấy dấu hiệu sinh nở sắp xảy ra. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ kéo dài",
+        "kiệt sức khi chuyển dạ",
+        "căng thẳng khi chuyển dạ",
+        "suy chuyển dạ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như co thắt yếu, không giãn nở cổ tử cung và thai không di chuyển xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ kéo dài",
+        "chuyển dạ đình trệ",
+        "cổ tử cung cứng",
+        "bất tương xứng thai và khung chậu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đớn, mất nước và không thấy sự thay đổi trong quá trình sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ kéo dài",
+        "mất nước khi chuyển dạ",
+        "chuyển dạ đình trệ",
+        "suy chuyển dạ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lưng dữ dội, kiệt sức và không thấy tiến triển trong việc sinh con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ kéo dài",
+        "mệt mỏi khi chuyển dạ",
+        "chuyển dạ đình trệ",
+        "đau lưng khi chuyển dạ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như bướu huyết thanh, chồng khớp sọ và suy thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "chuyển dạ kéo dài",
+        "chuyển dạ đình trệ",
+        "bất tương xứng thai và khung chậu",
+        "suy thai khi chuyển dạ"
+      ]
+    }
+  ]
+}

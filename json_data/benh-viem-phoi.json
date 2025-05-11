@@ -1,0 +1,209 @@
+{
+  "disease_id": "benh-viem-phoi",
+  "disease_name": "Bệnh viêm phổi",
+  "disease_alternative_names": [
+    "Viêm phổi",
+    "Pneumonia"
+  ],
+  "disease_definition": "Viêm phổi là hiện tượng viêm nhiễm của nhu mô phổi bao gồm viêm phế nang, túi phế nang, ống phế nang, tổ chức liên kết khe kẽ và viêm tiểu phế quản tận cùng. Các phế nang, đường dẫn khí trong phổi có thể chứa đầy chất lỏng hoặc mủ, gây ho có đờm hoặc mủ, sốt, ớn lạnh và khó thở. Bệnh đặc biệt nguy hiểm đối với trẻ sơ sinh, trẻ nhỏ và người trên 65 tuổi có nhiều bệnh nền, hoặc hệ miễn dịch suy yếu. Bệnh có thể phân loại theo nguyên nhân (do vi khuẩn, virus, nấm, hóa chất) hoặc theo nguồn lây nhiễm (viêm phổi bệnh viện, viêm phổi cộng đồng).",
+  "symptoms": [
+    {
+      "name": "Ho",
+      "description": "Ho nhiều, ho dai dẳng, có thể ho ra máu hoặc có dịch nhầy"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở, thở gấp, có thể kèm theo tím tái"
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng thân nhiệt, có thể sốt cao"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Đau tức ngực, đặc biệt khi ho hoặc thở sâu"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác uể oải, không có năng lực cho hoạt động thường ngày"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và có hiện tượng ói mửa"
+    },
+    {
+      "name": "Đổ mồ hôi",
+      "description": "Ra mồ hôi nhiều, đặc biệt khi sốt"
+    },
+    {
+      "name": "Ớn lạnh",
+      "description": "Cảm giác ớn lạnh, rùng mình"
+    }
+  ],
+  "causes": {
+    "main_cause": "Thông thường, có nhiều tác nhân gây ra tình trạng viêm phổi, nhưng thường do vi khuẩn, virus và nấm.",
+    "related_factors": "Các yếu tố môi trường và sức khỏe có thể làm tăng nguy cơ mắc bệnh.",
+    "transmission_routes": [
+      "Lây qua đường hô hấp từ người bệnh",
+      "Hít phải các tác nhân gây bệnh trong không khí",
+      "Nhiễm khuẩn từ các thiết bị y tế"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Tuổi tác",
+      "description": "Trẻ dưới 5 tuổi và người trên 65 tuổi"
+    },
+    {
+      "name": "Bệnh mãn tính",
+      "description": "Người mắc bệnh hen suyễn, COPD, bệnh tim"
+    },
+    {
+      "name": "Suy giảm miễn dịch",
+      "description": "Người nhiễm HIV/AIDS, đang điều trị ung thư"
+    },
+    {
+      "name": "Thai kỳ",
+      "description": "Phụ nữ mang thai có nguy cơ cao"
+    },
+    {
+      "name": "Môi trường",
+      "description": "Người làm việc trong môi trường độc hại, ô nhiễm"
+    },
+    {
+      "name": "Thói quen",
+      "description": "Người hút thuốc lá"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ khám và đánh giá các triệu chứng"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra tình trạng nhiễm trùng qua số lượng bạch cầu"
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Phát hiện các tổn thương trong phổi"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Đánh giá chi tiết tổn thương phổi"
+      },
+      {
+        "name": "Xét nghiệm đờm",
+        "description": "Xác định loại vi khuẩn gây bệnh"
+      }
+    ]
+  },
+  "complications": [
+    {
+      "name": "Nhiễm trùng huyết",
+      "description": "Vi khuẩn xâm nhập vào máu từ phổi"
+    },
+    {
+      "name": "Suy hô hấp",
+      "description": "Khó thở nặng cần thở máy"
+    },
+    {
+      "name": "Tràn dịch màng phổi",
+      "description": "Tích tụ dịch trong khoang màng phổi"
+    },
+    {
+      "name": "Áp xe phổi",
+      "description": "Hình thành ổ mủ trong phổi"
+    }
+  ],
+  "treatment": {
+    "note": "Phương pháp điều trị phụ thuộc vào nguyên nhân và mức độ nghiêm trọng của bệnh",
+    "methods": [
+      {
+        "name": "Điều trị tại nhà",
+        "description": "Áp dụng cho các trường hợp nhẹ, dùng thuốc theo đơn"
+      },
+      {
+        "name": "Điều trị tại bệnh viện",
+        "description": "Cho các trường hợp nặng, cần theo dõi và chăm sóc y tế"
+      },
+      {
+        "name": "Điều trị bằng kháng sinh",
+        "description": "Sử dụng kháng sinh phù hợp với tác nhân gây bệnh"
+      },
+      {
+        "name": "Điều trị hỗ trợ",
+        "description": "Sử dụng thuốc hạ sốt, giảm đau, long đờm"
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ",
+      "Uống nhiều nước",
+      "Đeo khẩu trang khi ho",
+      "Vệ sinh đường hô hấp",
+      "Tránh các yếu tố kích thích"
+    ],
+    "prevention_of_transmission": [
+      "Đeo khẩu trang khi ho hoặc tiếp xúc với người khác",
+      "Che miệng khi ho hoặc hắt hơi",
+      "Rửa tay thường xuyên",
+      "Cách ly với người khác khi bị bệnh",
+      "Khử khuẩn các bề mặt thường xuyên tiếp xúc"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm vắc xin phòng ngừa viêm phổi do phế cầu khuẩn và cúm",
+      "recommended_for": [
+        "Trẻ em dưới 2 tuổi",
+        "Người trên 65 tuổi",
+        "Người có bệnh mãn tính",
+        "Người suy giảm miễn dịch"
+      ]
+    },
+    "general_recommendations": [
+      "Tiêm vắc xin phòng ngừa",
+      "Rửa tay thường xuyên",
+      "Đeo khẩu trang nơi công cộng",
+      "Không hút thuốc lá",
+      "Tăng cường hệ miễn dịch",
+      "Giữ vệ sinh môi trường",
+      "Tránh tiếp xúc với người bệnh"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Viêm phổi có nguy hiểm không?",
+      "related_diseases": [
+        "suy hô hấp",
+        "nhiễm trùng huyết",
+        "tràn dịch màng phổi"
+      ]
+    },
+    {
+      "question": "Viêm phổi có thể tự khỏi không?",
+      "related_diseases": [
+        "viêm phổi virus",
+        "viêm phổi vi khuẩn",
+        "viêm phổi do nấm"
+      ]
+    },
+    {
+      "question": "Viêm phổi có lây không?",
+      "related_diseases": [
+        "viêm phổi cộng đồng",
+        "viêm phổi bệnh viện",
+        "COVID-19"
+      ]
+    },
+    {
+      "question": "Viêm phổi kiêng ăn gì?",
+      "related_diseases": [
+        "viêm phổi",
+        "suy dinh dưỡng",
+        "suy giảm miễn dịch"
+      ]
+    }
+  ]
+} 

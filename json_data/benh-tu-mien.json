@@ -1,0 +1,156 @@
+{
+  "disease_id": "benh-tu-mien",
+  "disease_name": "Bệnh tự miễn",
+  "disease_alternative_names": [
+    "Autoimmune Disease",
+    "Bệnh miễn dịch tự thân"
+  ],
+  "disease_definition": "Bệnh tự miễn là những bệnh lý xảy ra do hệ miễn dịch cơ thể mất đi khả năng nhận biết và phân biệt các kháng nguyên của cơ thể với các tác nhân gây hại bên ngoài. Có nghĩa là, các kháng nguyên trong cơ thể nhầm lẫn và tấn công chính các cơ quan trong cơ thể, trong khi các virus, vi khuẩn có hại xâm nhập vào cơ thể lại không được ngăn chặn.",
+  "symptoms": [
+    {
+      "name": "Mệt mỏi và suy nhược",
+      "description": "Cảm giác mệt mỏi uể oải, suy nhược cơ thể là triệu chứng phổ biến nhất"
+    },
+    {
+      "name": "Đau và sưng khớp",
+      "description": "Đau nhức, cứng khớp và hạn chế vận động, có thể kèm theo sưng nóng các khớp"
+    },
+    {
+      "name": "Sốt dai dẳng",
+      "description": "Sốt kéo dài không rõ nguyên nhân"
+    },
+    {
+      "name": "Đau cơ",
+      "description": "Đau mỏi các nhóm cơ trên cơ thể"
+    },
+    {
+      "name": "Phát ban và các vấn đề về da",
+      "description": "Viêm da, ngứa, phát ban hoặc các tổn thương da khác"
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Đau bụng, tiêu chảy hoặc các vấn đề về tiêu hóa khác"
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính xác chưa được xác định rõ ràng, nhưng liên quan đến sự rối loạn của hệ thống miễn dịch khiến nó tấn công các tế bào khỏe mạnh trong cơ thể thay vì chỉ tấn công các tác nhân gây bệnh.",
+    "related_factors": "Các yếu tố liên quan bao gồm di truyền, môi trường, nhiễm trùng, stress và một số loại thuốc có thể kích hoạt phản ứng tự miễn.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Giới tính",
+      "description": "Phụ nữ có nguy cơ mắc bệnh cao hơn nam giới"
+    },
+    {
+      "name": "Di truyền",
+      "description": "Người có tiền sử gia đình mắc bệnh tự miễn có nguy cơ cao hơn"
+    },
+    {
+      "name": "Nhiễm trùng",
+      "description": "Tiền sử nhiễm các loại virus như sởi, herpes simplex, Epstein-Barr hoặc viêm gan virus"
+    },
+    {
+      "name": "Bệnh tự miễn khác",
+      "description": "Người đã mắc một bệnh tự miễn có nguy cơ mắc thêm bệnh tự miễn khác"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Tổn thương cơ quan",
+      "description": "Tổn thương các cơ quan trong cơ thể do bị tấn công bởi hệ miễn dịch"
+    },
+    {
+      "name": "Tàn phế",
+      "description": "Có thể dẫn đến tàn phế nếu không được điều trị kịp thời và đúng cách"
+    },
+    {
+      "name": "Hội chứng đa tự miễn",
+      "description": "Khi có ba bệnh tự miễn hoặc nhiều hơn xuất hiện cùng lúc"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Xét nghiệm kháng thể kháng nhân (ANA)",
+        "description": "Xét nghiệm máu để xác định lượng kháng thể kháng nhân, giúp chẩn đoán bệnh tự miễn"
+      },
+      {
+        "name": "Khám lâm sàng",
+        "description": "Đánh giá các triệu chứng và tiền sử bệnh"
+      },
+      {
+        "name": "Các xét nghiệm chuyên sâu",
+        "description": "Có thể bao gồm sinh thiết, chẩn đoán hình ảnh tùy theo cơ quan bị ảnh hưởng"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh tự miễn tập trung vào việc kiểm soát phản ứng của hệ miễn dịch và giảm thiểu các triệu chứng, ngăn ngừa tổn thương các cơ quan.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc ức chế miễn dịch",
+        "description": "Sử dụng các thuốc giúp kiểm soát phản ứng của hệ miễn dịch"
+      },
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Sử dụng các thuốc giảm đau, chống viêm để kiểm soát các triệu chứng"
+      }
+    ],
+    "recommendations": [
+      "Tập thể dục thường xuyên, khoảng 30-60 phút mỗi ngày",
+      "Duy trì chế độ ăn uống lành mạnh",
+      "Tránh stress và các yếu tố kích hoạt bệnh",
+      "Theo dõi và điều trị định kỳ theo hướng dẫn của bác sĩ",
+      "Nghỉ ngơi hợp lý khi có dấu hiệu mệt mỏi"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tập luyện thể dục thể thao thường xuyên",
+      "Áp dụng chế độ dinh dưỡng khoa học",
+      "Thăm khám ngay khi có các triệu chứng bất thường",
+      "Tránh các yếu tố kích hoạt như stress",
+      "Duy trì lối sống lành mạnh"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Bệnh tự miễn có lây không?",
+      "related_diseases": [
+        "viêm gan tự miễn",
+        "lupus ban đỏ hệ thống",
+        "viêm khớp dạng thấp"
+      ]
+    },
+    {
+      "question": "Bệnh tự miễn có chữa khỏi được không?",
+      "related_diseases": [
+        "viêm gan tự miễn",
+        "viêm khớp dạng thấp",
+        "lupus ban đỏ hệ thống"
+      ]
+    },
+    {
+      "question": "Bệnh tự miễn có nguy hiểm không?",
+      "related_diseases": [
+        "viêm gan tự miễn",
+        "lupus ban đỏ hệ thống",
+        "xơ cứng bì"
+      ]
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa bệnh tự miễn?",
+      "related_diseases": [
+        "viêm khớp dạng thấp",
+        "viêm gan tự miễn",
+        "lupus ban đỏ hệ thống"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "disease_id": "benh-viem-bang-quang",
+  "disease_name": "Bệnh viêm bàng quang",
+  "disease_alternative_names": [
+    "Viêm bàng quang cấp tính",
+    "Viêm bàng quang mãn tính",
+    "Cystitis"
+  ],
+  "disease_definition": "Viêm bàng quang là tình trạng viêm cấp tính hoặc mãn tính trong bàng quang. Nguyên nhân thường gặp nhất là do nhiễm khuẩn, chiếm hơn 50% số trường hợp nhiễm khuẩn đường tiết niệu. Bệnh có thể tái phát nhiều lần trong thời gian dài.",
+  "symptoms": [
+    {
+      "name": "Rối loạn tiểu tiện",
+      "description": "Đi tiểu nhiều lần trong ngày, mỗi lần chỉ tiểu ra một ít"
+    },
+    {
+      "name": "Bất thường nước tiểu",
+      "description": "Tiểu máu, nước tiểu đục hay có mùi hôi nồng"
+    },
+    {
+      "name": "Đau rát",
+      "description": "Cảm thấy đau hay nóng rát khi tiểu"
+    },
+    {
+      "name": "Tiểu gấp",
+      "description": "Luôn có cảm giác phải đi tiểu gấp"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau trằn vùng bụng dưới"
+    },
+    {
+      "name": "Đái dầm",
+      "description": "Đái dầm vào ban ngày ở trẻ em"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt nhẹ"
+    }
+  ],
+  "causes": {
+    "bacterial_infection": {
+      "description": "Vi khuẩn xâm nhập từ bên ngoài qua đường dẫn tiểu (ống niệu đạo)",
+      "common_bacteria": [
+        {
+          "name": "Escherichia Coli",
+          "description": "Vi khuẩn thường gặp nhất, chiếm 80% các trường hợp"
+        },
+        {
+          "name": "Các vi khuẩn khác",
+          "list": [
+            "Proteus",
+            "Klebsiella",
+            "Enterococcus faecalis",
+            "Chlamydia",
+            "Mycoplasma",
+            "Tụ cầu vàng",
+            "Trực khuẩn mủ xanh"
+          ]
+        }
+      ]
+    },
+    "other_causes": [
+      "Viêm bàng quang kẽ",
+      "Xạ trị vùng chậu",
+      "Thuốc hóa trị (ifosfamide, cyclophosphamide)"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Giới tính",
+      "description": "Tần suất bệnh ở nữ giới nhiều hơn nam giới"
+    },
+    {
+      "name": "Tuổi",
+      "description": "Nguy cơ gia tăng theo độ tuổi"
+    },
+    {
+      "name": "Quan hệ tình dục",
+      "description": "Quan hệ tình dục không an toàn"
+    },
+    {
+      "name": "Vận động",
+      "description": "Bất động lâu ngày"
+    },
+    {
+      "name": "Thai kỳ",
+      "description": "Phụ nữ mang thai"
+    },
+    {
+      "name": "Mãn kinh",
+      "description": "Phụ nữ mãn kinh"
+    },
+    {
+      "name": "Bất thường đường tiết niệu",
+      "conditions": [
+        "Sỏi niệu (sỏi bàng quang, sỏi thận, sỏi niệu quản)",
+        "Phì đại tuyến tiền liệt",
+        "Bàng quang thần kinh",
+        "Hẹp niệu đạo"
+      ]
+    },
+    {
+      "name": "Thủ thuật y tế",
+      "procedures": [
+        "Đặt thông tiểu",
+        "Nội soi bàng quang"
+      ]
+    },
+    {
+      "name": "Bệnh lý nền",
+      "conditions": [
+        "Đái tháo đường",
+        "Nhiễm HIV",
+        "Đang điều trị ung thư"
+      ]
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra sự hiện diện các tế bào bạch cầu, tế bào máu, phản ứng nitrit và nuôi cấy tìm vi khuẩn"
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Quan sát và đánh giá tổn thương trong bàng quang, có thể lấy mẫu sinh thiết"
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "procedures": [
+          "Chụp X-quang",
+          "Siêu âm"
+        ],
+        "purpose": "Phát hiện các bất thường của đường tiết niệu"
+      }
+    ]
+  },
+  "complications": [
+    {
+      "name": "Tiểu ra máu",
+      "description": "Do niêm mạc bàng quang phù nề xuất huyết"
+    },
+    {
+      "name": "Viêm đài bể thận",
+      "description": "Vi khuẩn từ bàng quang di chuyển ngược lên thận, có thể tạo sẹo xơ nhu mô thận dẫn đến suy giảm chức năng thận"
+    },
+    {
+      "name": "Vô sinh, hiếm muộn",
+      "description": "Ở nam giới, viêm nhiễm có thể lây lan sang cơ quan sinh dục như tinh hoàn, mào tinh, ống dẫn tinh"
+    },
+    {
+      "name": "Bàng quang tăng hoạt",
+      "description": "Viêm bàng quang kéo dài có thể ảnh hưởng đến thần kinh và cơ bàng quang"
+    }
+  ],
+  "treatment": {
+    "bacterial_infection": {
+      "primary_treatment": "Kháng sinh",
+      "common_antibiotics": [
+        "Amoxicillin",
+        "Nitrofurantoin",
+        "Ciprofloxacin",
+        "Sulfamethoxazole",
+        "Trimethoprim"
+      ],
+      "treatment_duration": {
+        "first_infection": "3 ngày",
+        "recurrent_infection": "3-4 tuần với liều thấp"
+      }
+    },
+    "other_causes": {
+      "chemical_induced": "Tránh tiếp xúc với hóa chất gây viêm",
+      "radiation_induced": "Sử dụng thuốc giảm triệu chứng và uống nhiều nước"
+    }
+  },
+  "prevention": {
+    "methods": [
+      {
+        "name": "Bổ sung nước",
+        "description": "Uống khoảng 2-2.5 lít nước/ngày"
+      },
+      {
+        "name": "Hạn chế đồ uống kích thích",
+        "items": [
+          "Cà phê",
+          "Trà",
+          "Rượu",
+          "Nước cam",
+          "Chanh",
+          "Thức ăn cay nóng"
+        ]
+      },
+      {
+        "name": "Thói quen đi tiểu",
+        "description": "Đi tiểu ngay khi thấy buồn tiểu, không nên nhịn tiểu quá lâu"
+      },
+      {
+        "name": "Vệ sinh đúng cách",
+        "procedures": [
+          "Rửa sạch từ trước ra sau sau khi đại tiện",
+          "Tắm vòi sen thay vì tắm bồn khi bị nhiễm trùng",
+          "Vệ sinh nhẹ nhàng vùng kín mỗi ngày",
+          "Tránh dung dịch vệ sinh có chất tẩy rửa mạnh"
+        ]
+      },
+      {
+        "name": "Sau quan hệ tình dục",
+        "procedures": [
+          "Đi vệ sinh càng sớm càng tốt",
+          "Uống thêm nước"
+        ]
+      },
+      {
+        "name": "Trong kỳ kinh nguyệt",
+        "procedures": [
+          "Giữ vệ sinh",
+          "Thay băng vệ sinh thường xuyên (3-4 tiếng/lần)"
+        ]
+      },
+      {
+        "name": "Trang phục",
+        "description": "Tránh mặc quần áo quá chật gây ẩm vùng kín"
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Viêm bàng quang có nguy hiểm không?",
+      "answer": "Bệnh viêm bàng quang nếu không được điều trị kịp thời có thể gây ra nhiều biến chứng nguy hiểm như tiểu ra máu, viêm đài bể thận, vô sinh hiếm muộn, và bàng quang tăng hoạt."
+    },
+    {
+      "question": "Viêm bàng quang uống thuốc gì?",
+      "answer": "Kháng sinh thường là lựa chọn đầu tiên khi điều trị viêm bàng quang do vi khuẩn. Các loại thuốc thường được chỉ định bao gồm amoxicillin, nitrofurantoin, ciprofloxacin, sulfamethoxazole, và trimethoprim."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi thường xuyên bị đi tiểu nhiều lần và đau rát, có phải bị viêm bàng quang không?",
+      "related_diseases": [
+        "viêm bàng quang",
+        "viêm đường tiết niệu",
+        "viêm niệu đạo"
+      ]
+    },
+    {
+      "question": "Phụ nữ mang thai có nguy cơ bị viêm bàng quang cao hơn không?",
+      "related_diseases": [
+        "viêm bàng quang",
+        "nhiễm trùng tiểu trong thai kỳ",
+        "viêm đường tiết niệu khi mang thai"
+      ]
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm bàng quang tái phát?",
+      "related_diseases": [
+        "viêm bàng quang",
+        "viêm bàng quang tái phát",
+        "nhiễm trùng đường tiết niệu"
+      ]
+    }
+  ]
+} 

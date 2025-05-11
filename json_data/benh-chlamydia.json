@@ -1,0 +1,165 @@
+{
+  "disease_id": "benh-chlamydia",
+  "disease_name": "Bệnh Chlamydia",
+  "disease_alternative_names": ["Nhiễm khuẩn Chlamydia", "Chlamydia trachomatis"],
+  "disease_definition": "Bệnh Chlamydia là một bệnh nhiễm khuẩn lây truyền qua đường tình dục do vi khuẩn Chlamydia trachomatis gây ra. Bệnh có thể ảnh hưởng đến cả nam và nữ, thường không có triệu chứng trong giai đoạn đầu nhưng có thể gây ra các biến chứng nghiêm trọng nếu không được điều trị.",
+  "symptoms": [
+    {
+      "name": "Không có triệu chứng",
+      "description": "Khoảng 75% phụ nữ và 50% nam giới nhiễm Chlamydia không có triệu chứng rõ ràng"
+    },
+    {
+      "name": "Tiểu buốt, tiểu rát",
+      "description": "Cảm giác đau, buốt hoặc rát khi đi tiểu"
+    },
+    {
+      "name": "Dịch tiết bất thường",
+      "description": "Ở nam giới: dịch trắng đục từ dương vật; Ở nữ giới: dịch âm đạo có màu vàng hoặc đục, mùi hôi"
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Cảm giác đau hoặc khó chịu trong hoặc sau khi quan hệ tình dục"
+    },
+    {
+      "name": "Đau hoặc sưng tinh hoàn",
+      "description": "Ở nam giới, có thể gây đau và sưng một hoặc cả hai tinh hoàn"
+    },
+    {
+      "name": "Đau bụng dưới",
+      "description": "Đặc biệt ở phụ nữ, có thể kèm theo sốt và buồn nôn"
+    },
+    {
+      "name": "Chảy máu âm đạo bất thường",
+      "description": "Chảy máu giữa các kỳ kinh nguyệt hoặc sau khi quan hệ tình dục"
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh Chlamydia do vi khuẩn Chlamydia trachomatis gây ra.",
+    "related_factors": "Các yếu tố nguy cơ bao gồm quan hệ tình dục không an toàn, nhiều bạn tình, tiền sử mắc các bệnh lây truyền qua đường tình dục khác.",
+    "transmission_routes": [
+      "Quan hệ tình dục không bảo vệ (âm đạo, hậu môn, miệng)",
+      "Từ mẹ sang con trong quá trình sinh nở",
+      "Tiếp xúc trực tiếp với dịch tiết nhiễm khuẩn"
+    ]
+  },
+  "risk_factors": [
+    "Quan hệ tình dục không sử dụng bao cao su",
+    "Có nhiều bạn tình",
+    "Tiền sử mắc các bệnh lây truyền qua đường tình dục",
+    "Tuổi dưới 25",
+    "Phụ nữ mang thai",
+    "Người có hệ miễn dịch suy giảm"
+  ],
+  "complications": [
+    "Viêm vùng chậu (PID) ở phụ nữ",
+    "Vô sinh",
+    "Mang thai ngoài tử cung",
+    "Viêm mào tinh hoàn ở nam giới",
+    "Viêm khớp phản ứng",
+    "Nhiễm trùng mắt (viêm kết mạc) ở trẻ sơ sinh",
+    "Viêm gan hoặc viêm phổi ở trẻ sơ sinh",
+    "Tăng nguy cơ mắc HIV"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Xét nghiệm nước tiểu",
+      "Lấy mẫu dịch niệu đạo hoặc cổ tử cung",
+      "Xét nghiệm PCR"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm khuếch đại axit nucleic (NAAT)",
+        "description": "Phát hiện DNA của vi khuẩn Chlamydia, phương pháp chính xác nhất hiện nay"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Phát hiện vi khuẩn Chlamydia trong mẫu nước tiểu"
+      },
+      {
+        "name": "Xét nghiệm dịch tiết",
+        "description": "Lấy mẫu dịch từ niệu đạo, cổ tử cung, hậu môn hoặc họng để xét nghiệm"
+      },
+      {
+        "name": "Nuôi cấy vi khuẩn",
+        "description": "Phương pháp truyền thống, hiện ít được sử dụng do mất nhiều thời gian và kém nhạy hơn"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Bệnh Chlamydia có thể chữa khỏi hoàn toàn với kháng sinh thích hợp. Điều quan trọng là cả hai đối tác tình dục đều cần được điều trị đồng thời để tránh tái nhiễm.",
+    "methods": [
+      {
+        "name": "Kháng sinh",
+        "description": "Thường dùng Azithromycin (liều duy nhất) hoặc Doxycycline (uống trong 7 ngày)"
+      },
+      {
+        "name": "Theo dõi sau điều trị",
+        "description": "Xét nghiệm lại sau 3 tháng để đảm bảo bệnh đã được điều trị khỏi hoàn toàn"
+      }
+    ],
+    "recommendations": [
+      "Kiêng quan hệ tình dục trong thời gian điều trị",
+      "Điều trị cho tất cả các đối tác tình dục trong vòng 60 ngày trước khi chẩn đoán",
+      "Uống hết thuốc kháng sinh theo chỉ định của bác sĩ",
+      "Tái khám sau khi hoàn thành điều trị"
+    ],
+    "prevention_of_transmission": [
+      "Sử dụng bao cao su đúng cách trong mọi hoạt động tình dục",
+      "Hạn chế số lượng bạn tình",
+      "Tầm soát định kỳ nếu có hoạt động tình dục"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vaccine phòng ngừa bệnh Chlamydia.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Sử dụng bao cao su trong mọi hoạt động tình dục",
+      "Hạn chế số lượng bạn tình",
+      "Xét nghiệm sàng lọc định kỳ nếu có hoạt động tình dục, đặc biệt đối với người dưới 25 tuổi",
+      "Trao đổi về tiền sử bệnh tình dục với bạn tình trước khi quan hệ",
+      "Tránh quan hệ tình dục khi có triệu chứng bệnh hoặc đang điều trị"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh Chlamydia có lây qua đường nào?",
+      "answer": "Chlamydia chủ yếu lây qua đường tình dục không bảo vệ (âm đạo, hậu môn, miệng). Bệnh cũng có thể lây từ mẹ sang con trong quá trình sinh nở. Bệnh không lây qua đường hôn, dùng chung đồ dùng cá nhân, hay tiếp xúc thông thường."
+    },
+    {
+      "question": "Sau bao lâu thì có thể phát hiện Chlamydia qua xét nghiệm?",
+      "answer": "Sau khi nhiễm khuẩn, cần khoảng 7-21 ngày để có thể phát hiện Chlamydia qua xét nghiệm. Nếu nghi ngờ nhiễm bệnh, nên đợi ít nhất 1-2 tuần sau khi tiếp xúc trước khi đi xét nghiệm để tránh kết quả âm tính giả."
+    },
+    {
+      "question": "Điều trị Chlamydia mất bao lâu?",
+      "answer": "Với liệu pháp kháng sinh thích hợp, Chlamydia thường được điều trị trong vòng 1-2 tuần. Tuy nhiên, điều quan trọng là phải uống hết thuốc theo chỉ định của bác sĩ, ngay cả khi các triệu chứng đã biến mất. Nên kiêng quan hệ tình dục trong thời gian điều trị và cho đến khi bác sĩ xác nhận bệnh đã khỏi."
+    },
+    {
+      "question": "Nếu không điều trị, Chlamydia có tự khỏi không?",
+      "answer": "Không, Chlamydia không tự khỏi nếu không được điều trị. Nếu không điều trị, bệnh có thể tồn tại trong cơ thể nhiều tháng, thậm chí nhiều năm, và có thể dẫn đến các biến chứng nghiêm trọng như viêm vùng chậu, vô sinh ở cả nam và nữ, viêm mào tinh hoàn ở nam giới."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có triệu chứng tiểu buốt, tiểu rát và dịch trắng đục tiết ra từ lỗ sáo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Chlamydia", "Bệnh lậu", "Viêm niệu đạo không do lậu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ngáy và nóng rát ở đầu dương vật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Chlamydia", "Nấm candida", "Herpes sinh dục"]
+    },
+    {
+      "question": "Tôi hay bị đau và sưng ở tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Chlamydia", "Viêm mào tinh hoàn", "Thoát vị bẹn"]
+    },
+    {
+      "question": "Tôi tạo thấy dịch âm đạo bất thường và có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Chlamydia", "Viêm âm đạo do vi khuẩn", "Trichomonas"]
+    },
+    {
+      "question": "Tôi hiện đang bị ngứa ngáy và đau rát vùng kín khi đi vệ sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Chlamydia", "Nấm Candida", "Viêm niệu đạo"]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "disease_id": "benh-giun-luon",
+  "disease_name": "Bệnh Giun Lươn",
+  "disease_alternative_names": ["Strongyloidiasis", "Nhiễm giun lươn", "Nhiễm Strongyloides stercoralis"],
+  "disease_definition": "Bệnh giun lươn là nhiễm trùng do loài ký sinh trùng Strongyloides stercoralis, một loại giun tròn nguy hiểm nhất trong các loại ký sinh trùng đường tiêu hóa. Giun lươn có thể tồn tại rất lâu trong cơ thể người (lên đến 35 năm), gây ra nhiều biến chứng nguy hiểm, thậm chí đe dọa tính mạng, đặc biệt trên cơ địa người suy giảm miễn dịch. Bệnh phổ biến ở các vùng nhiệt đới, khí hậu ẩm ướt và nơi điều kiện vệ sinh kém.",
+  "symptoms": [
+    {
+      "name": "Không có triệu chứng",
+      "description": "Hầu hết nhiễm giun lươn thường không triệu chứng và có thể tồn tại hàng chục năm mà không được chẩn đoán."
+    },
+    {
+      "name": "Triệu chứng tại da",
+      "description": "Khi ấu trùng xâm nhập qua da gây phản ứng viêm da tại chỗ như ngứa, nổi mề đay ngoằn ngoèo có thể thay đổi vị trí, phù hợp với phản ứng dị ứng khi ấu trùng di chuyển. Đôi khi có thể xuất hiện nốt xuất huyết thứ phát do vỡ mạch máu. Triệu chứng có thể kéo dài vài giờ, cả ngày và tái diễn hàng tháng, năm."
+    },
+    {
+      "name": "Triệu chứng tiêu hóa",
+      "description": "Buồn nôn, nôn, đầy hơi, táo bón hay tiêu chảy mạn, thậm chí có thể gây tắc ruột, hội chứng kém hấp thu. Nhiễm giun lươn là nguyên nhân biếng ăn, chậm lớn, suy dinh dưỡng ở trẻ em."
+    },
+    {
+      "name": "Triệu chứng hô hấp",
+      "description": "Trường hợp nhẹ sẽ bị khò khè, hắt hơi. Khi bội nhiễm hoặc chồng lắp lên bệnh khác thường gây ho, khò khè, khó thở, thở nhanh, ho ra máu, đau ngực kiểu màng phổi. Trường hợp nặng gây ra hội chứng nguy kịch hô hấp cấp ở người lớn (ARDS) cần phải thông khí cơ học."
+    },
+    {
+      "name": "Hội chứng tăng nhiễm",
+      "description": "Thường xảy ra trên cơ địa người suy kiệt, suy giảm miễn dịch, bệnh lý ác tính, đái tháo đường, nghiện rượu. Vi khuẩn Gram âm từ đường ruột có thể bám vào ấu trùng di chuyển khắp cơ thể gây nhiễm trùng máu, viêm màng não, sốt kéo dài."
+    },
+    {
+      "name": "Đau bụng vùng thượng vị",
+      "description": "Một trong những triệu chứng thường gặp của nhiễm giun lươn."
+    },
+    {
+      "name": "Phân có mùi hôi tanh",
+      "description": "Đây là dấu hiệu thường gặp khi nhiễm giun lươn."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh giun lươn hình thành do ấu trùng giun lươn xâm nhập vào cơ thể bằng cách chui qua da, đi theo đường tĩnh mạch chạy lên tim, qua phổi rồi tới khí quản, hầu, sau đó di chuyển xuống thực quản và ruột để sinh trưởng thành giun trưởng thành. Giun lươn trưởng thành sống ở niêm mạc ruột non và đẻ trứng tại đó.",
+    "related_factors": "Giun lươn có thể phát triển thành trùng dạng tự do và bị đào thải qua phân. Khi trứng giun lươn ra ngoài môi trường, một số ấu trùng tiếp tục phát triển thành giun trưởng thành và đẻ trứng trong đất. Các ấu trùng này có thể tiếp tục xâm nhập và cơ thể và ký sinh trong cơ thể người bệnh. Đặc biệt, môi trường bên ngoài nóng ẩm là điều kiện phù hợp cho ấu trùng giun lươn phát triển.",
+    "transmission_routes": [
+      "Xâm nhập qua da khi tiếp xúc với đất nhiễm ấu trùng giun lươn",
+      "Tự nhiễm khi ấu trùng phát triển trong ruột và xâm nhập vào máu",
+      "Hiếm gặp hơn là lây truyền từ người sang người trong một số môi trường đặc biệt"
+    ]
+  },
+  "risk_factors": [
+    "Sống hoặc đi du lịch tới vùng nhiệt đới, khí hậu nóng ẩm",
+    "Làm việc trong môi trường nông nghiệp",
+    "Đi chân trần, tiếp xúc với đất nhiễm bẩn",
+    "Suy giảm miễn dịch do HIV/AIDS, điều trị hóa trị, hoặc sử dụng corticosteroid",
+    "Điều kiện vệ sinh kém",
+    "Sống trong cơ sở chăm sóc dài hạn",
+    "Bệnh lý ác tính, đái tháo đường, nghiện rượu"
+  ],
+  "complications": [
+    "Hội chứng tăng nhiễm với nhiễm trùng huyết",
+    "Viêm màng não",
+    "Viêm phổi nặng, hội chứng suy hô hấp cấp (ARDS)",
+    "Tắc ruột",
+    "Viêm ruột",
+    "Hội chứng kém hấp thu",
+    "Nhiễm trùng lan tỏa (disseminated strongyloidiasis) với tỷ lệ tử vong cao",
+    "Suy dinh dưỡng, chậm phát triển ở trẻ em"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Xét nghiệm phân để tìm ấu trùng hoặc trứng giun",
+      "Xét nghiệm máu để đánh giá tình trạng tăng bạch cầu ái toan",
+      "Hút dịch tá tràng để tìm ấu trùng giun lươn",
+      "Chẩn đoán hình ảnh như X-quang phổi, CT scan",
+      "Xét nghiệm miễn dịch ELISA"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Soi phân tìm ấu trùng hoặc trứng giun (khi tiêu chảy ồ ạt). Có thể dùng kỹ thuật Baermann để tăng độ nhạy: mẫu phân tìm ấu trùng được ủ trong nước ấm rồi dùng thạch lỏng li tâm phát hiện."
+      },
+      {
+        "name": "Hút dịch tá tràng",
+        "description": "Giúp tìm ấu trùng giun lươn trong dịch tá tràng, nhất là khi không tìm thấy trong phân."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá sự tăng giảm bạch cầu ái toan để theo dõi tiến trình của bệnh và đánh giá khả năng tự nhiễm lại."
+      },
+      {
+        "name": "Xét nghiệm ELISA",
+        "description": "Có độ nhạy và đặc hiệu cao nhưng độ tin cậy tùy thuộc vào phòng xét nghiệm. Kháng thể có thể tồn tại nhiều năm sau điều trị thành công và có thể âm tính giả ở người suy giảm miễn dịch."
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "Tổn thương phổi có thể thâm nhiễm, dạng nốt, viêm phổi hay phù phổi."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị giun lươn cần được thực hiện bởi bác sĩ chuyên khoa tiêu hóa có kinh nghiệm, đặc biệt là ở những người có hệ miễn dịch suy giảm. Cần điều trị triệt để để ngăn ngừa tự nhiễm và biến chứng nguy hiểm.",
+    "methods": [
+      {
+        "name": "Ivermectin",
+        "description": "Thuốc được lựa chọn hàng đầu do hiệu quả cao, ít tác dụng phụ. Liều dùng tùy thuộc vào tình trạng người bệnh và mức độ nghiêm trọng của nhiễm trùng."
+      },
+      {
+        "name": "Albendazole",
+        "description": "Thuốc lựa chọn thay thế trong trường hợp không thể sử dụng Ivermectin."
+      },
+      {
+        "name": "Thiabendazole",
+        "description": "Có hiệu quả cao nhưng khả năng dung nạp kém nên ít được sử dụng."
+      },
+      {
+        "name": "Điều trị biến chứng",
+        "description": "Trong trường hợp có nhiễm trùng huyết, viêm phổi, suy hô hấp cần phải điều trị tích cực kết hợp với thuốc kháng sinh, hỗ trợ hô hấp."
+      },
+      {
+        "name": "Điều trị hỗ trợ",
+        "description": "Bù nước và điện giải, dinh dưỡng, truyền máu nếu cần thiết."
+      }
+    ],
+    "recommendations": [
+      "Cần điều trị triệt để tất cả bệnh nhân nhiễm giun lươn, ngay cả khi không có triệu chứng",
+      "Người có hệ miễn dịch suy giảm cần được sàng lọc và điều trị ngay cả khi không có triệu chứng",
+      "Kiểm tra lại phân sau điều trị để đảm bảo đã điều trị khỏi hoàn toàn",
+      "Theo dõi tình trạng bạch cầu ái toan để đánh giá hiệu quả điều trị",
+      "Tránh sử dụng corticosteroid nếu không cần thiết ở người đã hoặc nghi ngờ nhiễm giun lươn"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người bệnh không thực sự cần thiết vì bệnh ít lây từ người sang người",
+      "Xử lý phân thải và chất thải của người bệnh đúng cách để tránh lây lan trong môi trường"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện tại không có vaccine phòng ngừa bệnh giun lươn.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Vệ sinh phòng dịch: quản lý tốt phân, nước và rác thải trong môi trường sống",
+      "Vệ sinh cá nhân: rửa tay trước khi ăn, khi chuẩn bị thức ăn, sau khi đi vệ sinh",
+      "Không ăn rau sống khi chưa được rửa sạch",
+      "Tẩy giun định kỳ 2 lần/năm cách nhau 4-6 tháng",
+      "Sử dụng bảo hộ lao động khi làm việc có tiếp xúc với đất",
+      "Tăng cường sức đề kháng cơ thể bằng cách bổ sung rau quả tươi, sạch, luyện tập thể dục",
+      "Xây dựng hệ thống cống rãnh và xử lý nước thải đảm bảo tiêu chuẩn",
+      "Sàng lọc và điều trị người nhiễm giun lươn trước khi dùng thuốc ức chế miễn dịch"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Giun lươn nguy hiểm như thế nào?",
+      "answer": "Giun lươn được xếp vào loại ký sinh trùng nguy hiểm nhất trong các loại ký sinh trùng đường tiêu hóa vì nó có thể tồn tại rất lâu trong cơ thể (lên đến 35 năm) và gây ra nhiều biến chứng nguy hiểm, thậm chí tử vong. Đặc biệt nguy hiểm ở người suy giảm miễn dịch, khi có thể gây nhiễm trùng lan tỏa. Giun lươn còn có chu kỳ tự nhiễm, nghĩa là nó có thể tiếp tục sinh sản và gây nhiễm trùng bên trong cơ thể người mà không cần tiếp xúc với nguồn lây từ môi trường."
+    },
+    {
+      "question": "Làm sao để biết mình bị nhiễm giun lươn?",
+      "answer": "Nhiễm giun lươn thường không có triệu chứng rõ ràng và có thể tồn tại nhiều năm mà không được phát hiện. Một số dấu hiệu gợi ý bao gồm: đau bụng vùng thượng vị, tiêu chảy hoặc táo bón luân phiên, ngứa da hoặc phát ban ngoằn ngoèo (larva currens), ho dai dẳng, khò khè, khó thở. Xét nghiệm phân tìm ấu trùng, xét nghiệm máu kiểm tra bạch cầu ái toan tăng cao, hoặc xét nghiệm huyết thanh tìm kháng thể giúp chẩn đoán xác định."
+    },
+    {
+      "question": "Tại sao người bị suy giảm miễn dịch đặc biệt nguy hiểm khi nhiễm giun lươn?",
+      "answer": "Người bị suy giảm miễn dịch (do HIV/AIDS, hóa trị, thuốc ức chế miễn dịch, corticosteroid...) rất dễ bị hội chứng tăng nhiễm giun lươn. Trong trường hợp này, chu kỳ tự nhiễm của giun lươn tăng nhanh, ấu trùng có thể di chuyển lan tỏa khắp cơ thể, xâm nhập vào nhiều cơ quan, kéo theo vi khuẩn từ ruột gây nhiễm trùng máu, viêm màng não, viêm phổi nặng. Tỷ lệ tử vong của nhiễm giun lươn lan tỏa có thể lên đến 80-90% nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Bệnh giun lươn có thể chữa khỏi hoàn toàn không?",
+      "answer": "Có, bệnh giun lươn có thể chữa khỏi hoàn toàn với liệu pháp thuốc kháng ký sinh trùng như Ivermectin, Albendazole hoặc Thiabendazole. Tuy nhiên, điều quan trọng là phải điều trị đúng phác đồ và thời gian, đặc biệt đối với người có suy giảm miễn dịch. Sau điều trị, cần kiểm tra lại phân để đảm bảo đã loại bỏ hoàn toàn giun lươn. Không giống các loại giun khác, giun lươn có khả năng tự nhiễm nên cần điều trị triệt để để ngăn ngừa tái phát."
+    },
+    {
+      "question": "Thời gian ủ bệnh của giun lươn là bao lâu?",
+      "answer": "Thời gian ủ bệnh của giun lươn (thời gian từ khi ấu trùng xâm nhập qua da đến khi phát triển thành giun trưởng thành và đẻ trứng) thường kéo dài từ 2-4 tuần. Tuy nhiên, thời kỳ lây truyền có thể kéo dài đến 35 năm sau trong trường hợp người bệnh bị tự nhiễm. Điều này giải thích tại sao nhiều người có thể nhiễm giun lươn trong nhiều năm hoặc thậm chí hàng chục năm sau khi rời khỏi vùng lưu hành dịch."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ngứa, nổi mề đay ngoằn ngoèo ở chân, thay đổi vị trí liên tục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Lươn", "Bệnh ghẻ", "Bệnh mề đay", "Phản ứng dị ứng"]
+    },
+    {
+      "question": "Tôi đang cảm thấy buồn nôn, nôn, đầy hơi, táo bón kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Lươn", "Viêm dạ dày", "Hội chứng ruột kích thích", "Bệnh trào ngược dạ dày thực quản"]
+    },
+    {
+      "question": "Tôi hay bị khò khè, hắt hơi, ho, khó thở, thậm chí ho ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Lươn", "Hen phế quản", "Viêm phổi", "Lao phổi"]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như sốt kéo dài, kèm theo tiêu chảy và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Lươn", "Nhiễm trùng đường ruột", "Viêm ruột", "Bệnh Crohn"]
+    },
+    {
+      "question": "Tôi bị biếng ăn, chậm lớn, suy dinh dưỡng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Lươn", "Suy dinh dưỡng", "Kém hấp thu", "Thiếu máu"]
+    },
+    {
+      "question": "Tôi thấy xuất hiện nốt xuất huyết ở chân, ngứa ngáy khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Giun Lươn", "Viêm mao mạch dị ứng", "Xuất huyết giảm tiểu cầu", "Bệnh Henoch-Schönlein"]
+    }
+  ]
+}

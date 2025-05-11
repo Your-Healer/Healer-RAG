@@ -1,0 +1,125 @@
+{
+  "disease_id": "benh-than-kinh",
+  "disease_name": "Bệnh thần kinh",
+  "disease_alternative_names": ["Rối loạn thần kinh", "Neurologic Diseases"],
+  "disease_definition": "Bệnh thần kinh là các bệnh lý ảnh hưởng đến hệ thống thần kinh bao gồm các dây thần kinh, não, rễ, đám rối thần kinh, kiểm soát mọi chức năng của cơ thể. Bất kỳ tổn thương nào ở hệ thần kinh đều dẫn đến triệu chứng ở các bộ phận khác nhau.",
+  "symptoms": [
+    {"name": "Đau và yếu cơ", "description": "Đau và yếu cơ ở các vùng khác nhau của cơ thể."},
+    {"name": "Đau đầu thường xuyên", "description": "Đau đầu kéo dài, có thể kèm theo mờ mắt, co giật."},
+    {"name": "Tê bì tay chân, khó vận động", "description": "Tê bì, khó vận động, giảm cảm giác ở tay chân."},
+    {"name": "Suy giảm nhận thức", "description": "Suy giảm trí nhớ, khả năng phán đoán, ngôn ngữ, thay đổi tính cách."},
+    {"name": "Nói lắp", "description": "Nói lắp, khó giao tiếp."},
+    {"name": "Co giật", "description": "Co giật, vắng ý thức đột ngột, co cứng chân tay."}
+  ],
+  "causes": {
+    "main_cause": "Bệnh đái tháo đường, hóa trị, tuổi tác, HIV/AIDS, rối loạn tự miễn, chấn thương, nhiễm trùng, thiếu hụt vitamin, độc tố, di truyền, nguyên nhân vô căn.",
+    "related_factors": "Chế độ ăn uống không cân bằng, lạm dụng rượu bia, tiếp xúc hóa chất độc hại, di truyền, tuổi tác cao, bệnh nền như tiểu đường, tự miễn, ung thư, chấn thương thể thao, thiếu vitamin B12.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Người lớn tuổi",
+    "Người mắc bệnh tiểu đường",
+    "Người có bệnh tự miễn",
+    "Người từng chấn thương hoặc phẫu thuật thần kinh",
+    "Người lạm dụng rượu bia, thuốc lá",
+    "Người thiếu vitamin B12",
+    "Người có yếu tố di truyền"
+  ],
+  "complications": [
+    "Tê liệt, yếu cơ, mất khả năng vận động",
+    "Suy giảm trí nhớ, sa sút trí tuệ",
+    "Co giật, động kinh",
+    "Đau mạn tính, mất cảm giác",
+    "Rối loạn ngôn ngữ, giao tiếp",
+    "Tử vong do đột quỵ hoặc biến chứng nặng"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám tổng quát thần kinh",
+      "Kiểm tra chức năng thần kinh, phản xạ",
+      "Chụp MRI, CT",
+      "Đo điện não, ghi điện cơ",
+      "Xét nghiệm máu, xét nghiệm di truyền"
+    ],
+    "tests": [
+      {"name": "Chụp MRI/CT", "description": "Phát hiện bất thường trong não, tủy sống, dây thần kinh."},
+      {"name": "Đo điện não (EEG)", "description": "Đánh giá hoạt động điện của não, phát hiện động kinh."},
+      {"name": "Ghi điện cơ (EMG)", "description": "Đánh giá chức năng dẫn truyền thần kinh-cơ."},
+      {"name": "Xét nghiệm máu", "description": "Đánh giá các chỉ số liên quan đến bệnh lý thần kinh, thiếu vitamin, nhiễm trùng, di truyền."}
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị tùy nguyên nhân, có thể dùng thuốc, vật lý trị liệu, phẫu thuật, kết hợp thay đổi lối sống.",
+    "methods": [
+      {"name": "Dùng thuốc", "description": "Thuốc giảm đau, thuốc chống động kinh, thuốc điều trị bệnh nền, thuốc tăng cường trí nhớ, thuốc chống trầm cảm."},
+      {"name": "Vật lý trị liệu", "description": "Tập luyện phục hồi chức năng vận động, ngôn ngữ, nhận thức."},
+      {"name": "Phẫu thuật", "description": "Áp dụng cho các trường hợp u não, chấn thương, dị dạng mạch máu."},
+      {"name": "Chăm sóc hỗ trợ", "description": "Tư vấn tâm lý, dinh dưỡng, hỗ trợ gia đình, phục hồi chức năng xã hội."}
+    ],
+    "recommendations": [
+      "Duy trì chế độ ăn uống lành mạnh, bổ sung vitamin B12, omega-3",
+      "Tập luyện thể dục đều đặn, phù hợp thể trạng",
+      "Ngủ đủ giấc, kiểm soát stress",
+      "Không lạm dụng rượu bia, tránh xa thuốc lá",
+      "Bảo vệ vùng đầu khi chơi thể thao, làm việc nguy hiểm"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng bệnh thần kinh nói chung.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Ăn uống lành mạnh, bổ sung vitamin B12, omega-3",
+      "Tập luyện trí não, thể dục đều đặn",
+      "Kiểm soát tốt các bệnh nền như tiểu đường, tự miễn",
+      "Tránh tiếp xúc hóa chất độc hại, bỏ rượu và thuốc lá",
+      "Ngủ đủ giấc, kiểm soát stress"
+    ]
+  },
+  "faqs": [],
+  "common_questions": [
+    {"question": "Tôi hay bị đau và yếu cơ, đặc biệt là ở chân. Tôi có thể đang bị bệnh gì?", "related_diseases": [
+      "benh-than-kinh",
+      "benh-than-kinh-ngoai-bien",
+      "benh-tu-mien",
+      "thieu-mau-nao",
+      "benh-parkinson",
+      "benh-nhuoc-co",
+      "benh-da-xo-cung",
+      "benh-viem-da-day-than-kinh-sinh-ba"
+    ]},
+    {"question": "Tôi bị đau đầu thường xuyên, kèm theo chóng mặt. Tôi có thể đang bị bệnh gì?", "related_diseases": [
+      "benh-than-kinh",
+      "thieu-mau-nao",
+      "dau-dau",
+      "dau-dinh-dau",
+      "dau-nua-dau-phia-truoc",
+      "dau-dau-van-mach",
+      "u-nao",
+      "dot-quy",
+      "roi-loan-tien-dinh",
+      "viem-mang-nao",
+      "viem-xoang"
+    ]},
+    {"question": "Tôi bị mờ mắt, thị lực giảm sút. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị co giật, mất kiểm soát cơ thể. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi cảm thấy suy giảm nhận thức, khó tập trung. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị tê bì tay chân, khó vận động và cầm nắm đồ vật. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị nói lắp, phát âm khó khăn. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi hay quên, trí nhớ bị ảnh hưởng nghiêm trọng. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi thấy tính cách của mình thay đổi, dễ cáu gắt và buồn bã. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị mất ngủ, khó đi vào giấc ngủ. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị run tay chân, không kiểm soát được. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị mất vị giác, không còn cảm nhận được mùi vị thức ăn. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị ù tai, nghe kém. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị chóng mặt, mất thăng bằng khi đi lại. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị đau rát họng, khó nuốt. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị đau bụng, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị tiêu chảy hoặc táo bón kéo dài. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị tiểu không tự chủ, són tiểu. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị rối loạn cương dương, xuất tinh sớm. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị giảm ham muốn tình dục. Tôi có thể đang bị bệnh gì?", "related_diseases": []}
+  ]
+}

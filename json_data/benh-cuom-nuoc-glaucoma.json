@@ -1,0 +1,186 @@
+{
+  "disease_id": "benh-cuom-nuoc-glaucoma",
+  "disease_name": "Bệnh Cườm Nước (Glaucoma)",
+  "disease_alternative_names": ["Bệnh Tăng Nhãn Áp", "Bệnh Glôcôm", "Glaucoma"],
+  "disease_definition": "Glaucoma là bệnh lý mắt xảy ra khi dây thần kinh thị giác bị tổn thương, dẫn đến mất thị lực và mù lòa. Nguyên nhân thường do áp lực cao trong mắt. Dây thần kinh thị giác là một bó sợi thần kinh kết nối võng mạc với não. Khi dây thần kinh thị giác bị tổn thương, tín hiệu truyền về não bị gián đoạn, dần dần dẫn đến mất thị lực.",
+  "symptoms": [
+    {
+      "name": "Mất thị lực ngoại vi",
+      "description": "Mất thị giác ở các vùng bên ngoài tầm nhìn trung tâm, khiến bệnh nhân có thể bị trượt cầu thang, khó lái xe hoặc gặp khó khăn khi đọc sách."
+    },
+    {
+      "name": "Hiện tượng 'tầm nhìn đường hầm'",
+      "description": "Bệnh nhân nhìn thẳng về phía trước rõ ràng nhưng bị mù ở tất cả các hướng khác."
+    },
+    {
+      "name": "Đau mắt và nhức đầu dữ dội",
+      "description": "Thường xảy ra trong glaucoma góc đóng cấp tính khi nhãn áp tăng nhanh."
+    },
+    {
+      "name": "Mờ mắt",
+      "description": "Thị lực giảm dần dần hoặc đột ngột tùy thuộc vào loại glaucoma."
+    },
+    {
+      "name": "Quầng sáng bảy sắc cầu vồng",
+      "description": "Nhìn thấy quầng sáng nhiều màu xung quanh đèn, thường xảy ra trong glaucoma góc đóng cấp."
+    },
+    {
+      "name": "Đỏ mắt",
+      "description": "Mắt bị đỏ, đặc biệt trong trường hợp glaucoma góc đóng cấp."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Do phản ứng của việc tăng nhãn áp, thường gặp trong glaucoma góc đóng cấp."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính của glaucoma là tổn thương dây thần kinh thị giác. Trong hầu hết các trường hợp, dây thần kinh thị giác bị tổn thương do áp lực cao trong mắt. Áp lực mắt tăng cao này có thể do tích tụ dịch trong mắt. Thông thường, dịch này thoát ra qua vùng lưới bè ở góc trước của mắt. Sự tích tụ dịch có thể do sản xuất quá nhiều hoặc khi dịch không thể thoát ra đúng cách.",
+    "related_factors": "Nguyên nhân cụ thể tùy thuộc vào loại glaucoma. Glaucoma góc mở (loại phổ biến nhất) xảy ra khi lưới bè bị tắc một phần. Glaucoma góc đóng xảy ra khi góc thoát dịch bị đóng hoặc mống mắt phình ra chặn đường thoát dịch. Glaucoma áp lực bình thường có thể do cung cấp máu kém hoặc siêu nhạy cảm. Glaucoma thứ phát gây ra bởi các tình trạng sức khỏe khác hoặc do thuốc.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi trên 60",
+    "Áp lực nội nhãn cao",
+    "Tiền sử gia đình mắc glaucoma",
+    "Sử dụng thuốc corticosteroid trong thời gian dài",
+    "Mắc các bệnh như tiểu đường, các vấn đề tim mạch, tăng huyết áp",
+    "Cận thị nặng",
+    "Người châu Á có nguy cơ cao mắc glaucoma góc đóng",
+    "Phụ nữ có nguy cơ cao hơn nam giới",
+    "Viêm mắt hoặc chấn thương mắt trước đó"
+  ],
+  "complications": [
+    "Mất thị lực không thể phục hồi",
+    "Mù lòa hoàn toàn nếu không được điều trị",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Khó khăn trong sinh hoạt hàng ngày như lái xe, đọc sách",
+    "Nguy cơ té ngã và tai nạn tăng do mất thị lực ngoại vi"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Đo nhãn áp (tonometry)",
+      "Kiểm tra thị trường (visual field test)",
+      "Kiểm tra dây thần kinh thị giác",
+      "Đo độ dày giác mạc (pachymetry)",
+      "Kiểm tra góc thoát dịch (gonioscopy)",
+      "Chụp OCT (Optical Coherence Tomography)"
+    ],
+    "tests": [
+      {
+        "name": "Đo nhãn áp (Tonometry)",
+        "description": "Xét nghiệm đo áp lực trong mắt, là một chỉ số quan trọng trong chẩn đoán glaucoma."
+      },
+      {
+        "name": "Kiểm tra thị trường (Visual field test)",
+        "description": "Kiểm tra các vùng thị lực bị mất, giúp đánh giá mức độ tổn thương thị giác."
+      },
+      {
+        "name": "Chụp OCT (Optical Coherence Tomography)",
+        "description": "Kỹ thuật chụp ảnh giúp đánh giá cấu trúc dây thần kinh thị giác và võng mạc, phát hiện những thay đổi sớm."
+      },
+      {
+        "name": "Gonioscopy",
+        "description": "Kiểm tra góc thoát dịch trong mắt, giúp phân loại loại glaucoma và lựa chọn phương pháp điều trị phù hợp."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Mục tiêu điều trị glaucoma là làm giảm áp lực trong mắt để ngăn chặn tổn thương thêm cho dây thần kinh thị giác. Một khi đã bị tổn thương, không thể khôi phục dây thần kinh thị giác. Điều trị sớm có thể giúp ngăn ngừa mất thị lực thêm.",
+    "methods": [
+      {
+        "name": "Thuốc nhỏ mắt",
+        "description": "Sử dụng các loại thuốc nhỏ mắt làm giảm áp lực nội nhãn như prostaglandin (latanoprost, bimatoprost), chẹn beta (timolol, betaxolol), chất kích thích alpha adrenergic (apraclonidine, brimonidine), chất ức chế carbonic anhydrase (dorzolamide, brinzolamide) và thuốc co đồng tử (pilocarpine)."
+      },
+      {
+        "name": "Thuốc uống",
+        "description": "Bác sĩ có thể kê đơn thuốc uống cùng với thuốc nhỏ mắt, như acetazolamide - chất ức chế carbonic anhydrase đường uống."
+      },
+      {
+        "name": "Laser trabeculoplasty",
+        "description": "Thủ thuật giúp dịch trong mắt thoát ra dễ dàng hơn bằng cách sử dụng tia laser cường độ cao nhắm vào lưới bè, giúp mở đường thoát dịch."
+      },
+      {
+        "name": "Phẫu thuật trabeculectomy",
+        "description": "Phương pháp phẫu thuật tạo đường thoát mới cho dịch trong mắt khi các phương pháp khác không hiệu quả."
+      },
+      {
+        "name": "Phẫu thuật cấy vi ống (MIGS)",
+        "description": "Đặt các ống hoặc van nhỏ để tạo đường thoát cho dịch mắt, giúp giảm áp lực nội nhãn."
+      },
+      {
+        "name": "Phẫu thuật phaco (đục thủy tinh thể)",
+        "description": "Trong một số trường hợp, đặc biệt là glaucoma góc đóng, phẫu thuật lấy thủy tinh thể có thể là biện pháp điều trị hiệu quả."
+      }
+    ],
+    "recommendations": [
+      "Đi khám mắt định kỳ, đặc biệt nếu trên 40 tuổi hoặc có yếu tố nguy cơ",
+      "Tuân thủ chế độ điều trị và sử dụng thuốc theo chỉ định của bác sĩ",
+      "Duy trì lối sống lành mạnh: tập thể dục đều đặn, không hút thuốc",
+      "Bảo vệ mắt khỏi chấn thương",
+      "Thông báo cho người thân về tiền sử gia đình mắc glaucoma để họ cũng đi khám sàng lọc"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa glaucoma.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Khám mắt định kỳ, đặc biệt là người trên 40 tuổi",
+      "Kiểm soát các bệnh lý nền như đái tháo đường, tăng huyết áp",
+      "Sống lành mạnh: không hút thuốc, tập thể dục đều đặn",
+      "Bảo vệ mắt khỏi các chấn thương",
+      "Sử dụng kính bảo hộ khi tham gia các hoạt động thể thao mạnh để tránh tổn thương mắt",
+      "Hạn chế sử dụng corticosteroid lâu dài nếu không cần thiết"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Glaucoma có thể chữa khỏi được không?",
+      "answer": "Hiện nay, glaucoma không thể chữa khỏi hoàn toàn. Tuy nhiên, việc điều trị sớm và đúng cách có thể kiểm soát được bệnh và ngăn ngừa tổn thương thêm cho dây thần kinh thị giác, giúp bảo tồn thị lực còn lại."
+    },
+    {
+      "question": "Tại sao cần điều trị glaucoma ngay cả khi tôi không có triệu chứng?",
+      "answer": "Glaucoma thường phát triển chậm và không có triệu chứng rõ ràng trong giai đoạn đầu. Khi các triệu chứng xuất hiện, thị lực đã bị tổn thương không thể phục hồi. Điều trị sớm giúp ngăn ngừa tổn thương thêm và bảo vệ thị lực còn lại."
+    },
+    {
+      "question": "Làm thế nào để phân biệt glaucoma với các bệnh mắt khác?",
+      "answer": "Chỉ bác sĩ nhãn khoa mới có thể chẩn đoán chính xác glaucoma thông qua các xét nghiệm chuyên khoa như đo nhãn áp, kiểm tra thị trường và đánh giá dây thần kinh thị giác. Nếu bạn gặp các triệu chứng như mất thị lực ngoại vi, nhìn thấy quầng sáng xung quanh đèn, đau mắt dữ dội hoặc mờ mắt, hãy đi khám ngay."
+    },
+    {
+      "question": "Những ai nên đi khám sàng lọc glaucoma?",
+      "answer": "Những người trên 40 tuổi, có tiền sử gia đình mắc glaucoma, mắc bệnh tiểu đường, tăng huyết áp, cận thị nặng hoặc đã từng dùng corticosteroid lâu dài nên đi khám sàng lọc glaucoma định kỳ. Người châu Á có nguy cơ cao mắc glaucoma góc đóng nên đặc biệt chú ý khám sàng lọc."
+    },
+    {
+      "question": "Glaucoma góc đóng cấp tính có cần cấp cứu không?",
+      "answer": "Có, glaucoma góc đóng cấp tính là một cấp cứu nhãn khoa. Nếu không được điều trị kịp thời trong vòng 2-3 giờ sau khi xuất hiện các triệu chứng, người bệnh có thể mất thị lực nhanh chóng và vĩnh viễn. Các triệu chứng bao gồm đau mắt dữ dội, đỏ mắt, mờ mắt, nhìn thấy quầng sáng và buồn nôn."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi đang cảm thấy mất thị lực ngoại vi và khó lái xe. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Cườm Nước (Glaucoma)", "Bệnh võng mạc đái tháo đường", "Thoái hóa điểm vàng"]
+    },
+    {
+      "question": "Tôi hay nhìn thấy quầng sáng bảy sắc cầu vồng xung quanh đèn và đau mắt dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Cườm Nước góc đóng cấp tính", "Viêm giác mạc", "Viêm màng bồ đào"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mờ mắt và mất thị lực đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Cườm Nước góc đóng cấp tính", "Bong võng mạc", "Xuất huyết dịch kính"]
+    },
+    {
+      "question": "Tôi cảm thấy đau đầu, buồn nôn và đỏ mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Cườm Nước góc đóng cấp tính", "Viêm kết mạc", "Đau nửa đầu có triệu chứng mắt"]
+    },
+    {
+      "question": "Tôi đang bị mất thị lực dần dần và có hiện tượng 'tầm nhìn đường hầm'. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Cườm Nước góc mở", "Bệnh võng mạc sắc tố", "U não ảnh hưởng đến thị giác"]
+    },
+    {
+      "question": "Tôi hay bị khó chịu, mờ mắt và giảm đau đầu khi ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Cườm Nước góc đóng mãn tính", "Hội chứng mắt khô", "Viêm kết mạc dị ứng"]
+    }
+  ]
+}

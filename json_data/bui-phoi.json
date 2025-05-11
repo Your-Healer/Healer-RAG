@@ -1,0 +1,266 @@
+{
+  "disease_id": "bui-phoi",
+  "disease_name": "Bệnh Bụi Phổi",
+  "disease_alternative_names": [
+    "Pneumoconiosis",
+    "Bệnh phổi nghề nghiệp",
+    "Bệnh phổi kẽ do bụi"
+  ],
+  "disease_definition": "Bệnh bụi phổi (Pneumoconiosis) là một trong nhóm bệnh lý phổi kẽ do hít phải một số loại bụi làm tổn thương phổi. Bệnh thường gặp phải ở nơi làm việc nên còn được gọi là bệnh phổi nghề nghiệp. Đây là tình trạng tích tụ bụi bẩn trong nhiều năm trong phổi và tiến triển thành bệnh, khi phổi không thể loại bỏ tất cả các hạt bụi dẫn đến tình trạng viêm phổi và có thể gây ra các mô sẹo.",
+  "symptoms": [
+    {
+      "name": "Ho khan kéo dài",
+      "description": "Người bệnh thường có triệu chứng ho khan dai dẳng, có thể kéo dài trong nhiều năm sau khi tiếp xúc với bụi."
+    },
+    {
+      "name": "Ho khạc đờm đen",
+      "description": "Đặc biệt ở người mắc bệnh bụi phổi than (phổi đen), đờm thường có màu đen do các hạt bụi than."
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Một số trường hợp người bệnh có thể ho ra máu, đặc biệt vào buổi sáng."
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau nhói ở ngực, tức ngực khi hít thở sâu hoặc khi gắng sức."
+    },
+    {
+      "name": "Khó thở và hụt hơi",
+      "description": "Người bệnh cảm thấy khó thở, hụt hơi khi vận động, leo cầu thang hoặc khi gắng sức, tình trạng này trở nên nghiêm trọng hơn khi bệnh tiến triển."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi thường xuyên do phổi không hoạt động hiệu quả, dẫn đến thiếu oxy trong cơ thể."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính dẫn đến tình trạng bụi phổi là do người bệnh tiếp xúc với những vật liệu có khả năng tán thành những hạt rất nhỏ và xâm nhập vào phổi, khi phổi của người bệnh không thể loại bỏ tất cả các hạt bụi này.",
+    "related_factors": "Có rất nhiều loại bụi có thể gây bệnh, trong đó thường gặp nhất là amiăng, bụi than và phổ biến nhất là silic. Silic được tìm thấy trong cát, sa thạch, granite, đá phiến, kim loại và quặng than. Bệnh bụi phổi silic thường hình thành và tiến triển chậm, thường xảy ra sau khoảng 5-10 năm người bệnh tiếp xúc với loại bụi này.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Làm việc trong các ngành nghề có tiếp xúc nhiều với bụi như khai thác mỏ, xây dựng, sản xuất gốm sứ",
+    "Tiếp xúc trực tiếp với bụi ở mức độ cao và kéo dài",
+    "Thường xuyên hút thuốc lá",
+    "Không sử dụng các thiết bị bảo hộ khi làm việc trong môi trường nhiều bụi",
+    "Tiền sử mắc các bệnh về phổi",
+    "Điều kiện làm việc không đảm bảo, thiếu hệ thống thông gió hoặc hút bụi",
+    "Có tiếp xúc với bụi silic, amiăng hoặc bụi than"
+  ],
+  "complications": [
+    "Viêm phế quản mãn tính: Tình trạng viêm kéo dài ở đường dẫn khí (phế quản)",
+    "Suy hô hấp: Phổi không thể cung cấp đủ oxy cho cơ thể",
+    "Ung thư phổi: Đặc biệt là khi tiếp xúc với bụi amiăng hoặc bụi silic",
+    "Bệnh lao phổi: Nguy cơ mắc lao phổi cao hơn ở người có bệnh bụi phổi",
+    "Suy tim: Do áp lực từ bên trong phổi ảnh hưởng đến tim",
+    "Xơ phổi: Tình trạng phổi có rất nhiều sẹo, làm giảm khả năng trao đổi khí",
+    "Bệnh phổi tắc nghẽn mãn tính (COPD)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Hỏi về môi trường làm việc, lịch sử và mức độ tiếp xúc với bụi",
+      "Tiền sử mắc các bệnh lý liên quan đến phổi",
+      "Khám lâm sàng đánh giá tình trạng hô hấp",
+      "Kiểm tra thể chất tổng quát"
+    ],
+    "tests": [
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Phương pháp hình ảnh cơ bản giúp phát hiện các nốt phổi, khối u trong phổi và bệnh mô kẽ. Công nhân khai thác than dưới lòng đất cần chụp X-quang phổi sau mỗi 3-5 năm để phát hiện sớm bệnh."
+      },
+      {
+        "name": "Chụp CT ngực",
+        "description": "Cung cấp hình ảnh chi tiết hơn về các tổn thương ở phổi, giúp đánh giá mức độ nghiêm trọng của bệnh."
+      },
+      {
+        "name": "Xét nghiệm khí máu",
+        "description": "Đánh giá khả năng trao đổi khí của phổi, mức độ oxy và carbon dioxide trong máu."
+      },
+      {
+        "name": "Thăm dò chức năng hô hấp",
+        "description": "Đánh giá khả năng hoạt động của phổi thông qua đo lường dung tích phổi và lưu lượng thở."
+      },
+      {
+        "name": "Sinh thiết phổi",
+        "description": "Lấy mẫu mô phổi để phân tích dưới kính hiển vi, xác định loại tổn thương và mức độ nghiêm trọng."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Hiện chưa có phương pháp điều trị dứt điểm bệnh bụi phổi. Các phương pháp hiện tại chủ yếu nhằm mục đích kiểm soát các triệu chứng bệnh, ngăn ngừa nguy cơ bệnh tiến triển nhanh chóng, gây biến chứng nguy hiểm.",
+    "methods": [
+      {
+        "name": "Ngưng tiếp xúc với bụi",
+        "description": "Người bệnh cần tránh tiếp xúc thêm với bụi để ngăn bệnh tiến triển nặng hơn. Trong trường hợp do đặc tính công việc, cần thực hiện các biện pháp bảo vệ đường thở cần thiết."
+      },
+      {
+        "name": "Liệu pháp oxy",
+        "description": "Cung cấp oxy bổ sung có thể giúp người bệnh dễ thở hơn, đặc biệt là những người bị suy hô hấp hoặc thiếu oxy máu."
+      },
+      {
+        "name": "Thuốc giãn phế quản",
+        "description": "Giúp mở rộng đường thở, giảm triệu chứng khó thở. Việc dùng thuốc cần có chỉ định từ bác sĩ, không tự ý dùng thuốc tránh các tác dụng phụ không mong muốn."
+      },
+      {
+        "name": "Điều trị kháng sinh",
+        "description": "Trong trường hợp có nhiễm trùng đường hô hấp, bác sĩ có thể kê đơn thuốc kháng sinh."
+      },
+      {
+        "name": "Phục hồi chức năng hô hấp",
+        "description": "Các bài tập và kỹ thuật thở có thể giúp cải thiện chức năng phổi và giảm triệu chứng khó thở."
+      }
+    ],
+    "recommendations": [
+      "Ngừng hút thuốc lá nếu có thói quen này",
+      "Nghỉ ngơi hợp lý, không làm việc quá sức",
+      "Thực hiện chế độ ăn uống khoa học, cung cấp đầy đủ dinh dưỡng cho cơ thể",
+      "Chia bữa ăn thành nhiều bữa nhỏ nếu việc đầy bụng khiến khó thở",
+      "Tập luyện thể dục thể thao thường xuyên theo hướng dẫn của bác sĩ",
+      "Thăm khám định kỳ để theo dõi tiến triển của bệnh",
+      "Tiêm ngừa vaccine đầy đủ theo khuyến cáo để phòng ngừa các bệnh nhiễm trùng đường hô hấp",
+      "Thực hiện các bài tập hô hấp để tăng cường chức năng phổi"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine đặc biệt cho bệnh bụi phổi, nhưng tiêm phòng đầy đủ các loại vaccine theo khuyến cáo của Bộ Y tế, đặc biệt là các vaccine phòng bệnh đường hô hấp như cúm, phế cầu có thể giúp giảm nguy cơ nhiễm trùng đường hô hấp, làm trầm trọng thêm tình trạng bệnh.",
+      "recommended_for": [
+        "Người làm việc trong môi trường có nhiều bụi",
+        "Người có tiền sử mắc các bệnh về phổi",
+        "Người cao tuổi",
+        "Người có hệ miễn dịch suy yếu"
+      ]
+    },
+    "general_recommendations": [
+      "Trang bị bảo hộ đầy đủ như quần áo, khẩu trang, kính mắt khi làm việc trong môi trường nhiều bụi",
+      "Thực hiện đeo khẩu trang đúng cách",
+      "Rửa tay sạch sẽ bằng xà phòng, nhất là sau khi tiếp xúc với bụi bẩn",
+      "Không hút thuốc lá",
+      "Khám sức khỏe định kỳ để sớm phát hiện các bất thường",
+      "Cải thiện điều kiện làm việc bằng cách lắp đặt hệ thống thông gió, hút bụi hiệu quả",
+      "Tắm rửa sạch sẽ sau khi làm việc trong môi trường nhiều bụi",
+      "Không mang quần áo làm việc về nhà để tránh mang bụi bẩn vào môi trường sống"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh bụi phổi có chữa khỏi hoàn toàn không?",
+      "answer": "Hiện chưa có phương pháp điều trị dứt điểm bệnh bụi phổi. Các phương pháp hiện tại chủ yếu nhằm mục đích kiểm soát các triệu chứng, ngăn ngừa nguy cơ bệnh tiến triển nhanh chóng và gây biến chứng nguy hiểm. Tổn thương phổi đã xảy ra không thể phục hồi hoàn toàn, nhưng việc dừng tiếp xúc với bụi và điều trị đúng cách có thể làm chậm tiến triển của bệnh."
+    },
+    {
+      "question": "Bệnh bụi phổi có nguy hiểm không?",
+      "answer": "Bệnh bụi phổi có thể gây ra các biến chứng nguy hiểm nếu không được phát hiện sớm và can thiệp kịp thời. Các biến chứng bao gồm viêm phế quản mãn tính, suy hô hấp, ung thư phổi, bệnh lao phổi, và suy tim do áp lực từ bên trong phổi. Bệnh tiến triển nặng có thể dẫn đến suy phổi, suy thoái các cơ quan nội tạng, tàn phế và có nguy cơ đe dọa tính mạng."
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm bệnh bụi phổi?",
+      "answer": "Để phát hiện sớm bệnh bụi phổi, người lao động thường xuyên tiếp xúc với bụi nên khám sức khỏe định kỳ, đặc biệt là chụp X-quang ngực. Theo khuyến cáo, công nhân khai thác than dưới lòng đất phải chụp X-quang phổi sau mỗi 3 năm hoặc 5 năm. Ngoài ra, cần chú ý đến các triệu chứng sớm như ho khan kéo dài, khó thở khi gắng sức, đau ngực, để được thăm khám và can thiệp kịp thời."
+    },
+    {
+      "question": "Người bị bệnh bụi phổi có nên tập thể dục không?",
+      "answer": "Người bị bệnh bụi phổi vẫn nên tập luyện thể dục thể thao thường xuyên, nhưng cần tham khảo ý kiến bác sĩ về các bài tập vận động phù hợp, hỗ trợ việc phục hồi chức năng phổi tốt hơn. Tập luyện đúng cách có thể giúp tăng cường sức khỏe tim mạch, cải thiện khả năng hô hấp và chất lượng cuộc sống. Tuy nhiên, cần tránh các bài tập quá sức hoặc trong môi trường có nhiều bụi, khói."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ho khan kéo dài và cảm giác đau nhói ở ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi",
+        "viêm phế quản",
+        "bệnh phổi tắc nghẽn mạn tính",
+        "viêm phổi",
+        "ung thư phổi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở và hụt hơi khi vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi",
+        "hen suyễn",
+        "bệnh phổi tắc nghẽn mạn tính",
+        "suy tim",
+        "thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi hay ho ra máu vào buổi sáng và cảm thấy mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi",
+        "lao phổi",
+        "ung thư phổi",
+        "giãn phế quản",
+        "viêm phế quản"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng ho khạc đờm đen, đặc biệt là vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi than",
+        "phổi đen",
+        "viêm phổi",
+        "bệnh phổi tắc nghẽn mạn tính",
+        "nhiễm trùng đường hô hấp"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy tức ngực và khó thở khi nằm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi",
+        "suy tim",
+        "hen suyễn",
+        "trào ngược dạ dày thực quản",
+        "tràn dịch màng phổi"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang ho ra máu, kèm theo đau nhức ở vùng ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi",
+        "lao phổi",
+        "ung thư phổi",
+        "viêm phổi",
+        "giãn phế quản"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khó thở, đặc biệt là khi leo cầu thang hoặc gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi",
+        "bệnh phổi tắc nghẽn mạn tính",
+        "hen suyễn",
+        "suy tim",
+        "bệnh phổi kẽ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, ho khan và sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi",
+        "lao phổi",
+        "ung thư phổi",
+        "bệnh phổi kẽ",
+        "suy giáp"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên ho khạc đờm màu đen và có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi than",
+        "áp xe phổi",
+        "nhiễm trùng phổi",
+        "giãn phế quản",
+        "viêm phổi hoại tử"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng ho ra máu, kèm theo sốt nhẹ về chiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh bụi phổi",
+        "lao phổi",
+        "viêm phổi",
+        "giãn phế quản",
+        "ung thư phổi"
+      ]
+    }
+  ]
+}

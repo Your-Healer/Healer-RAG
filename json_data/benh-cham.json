@@ -1,0 +1,267 @@
+{
+  "disease_id": "benh-cham",
+  "disease_name": "Bệnh chàm",
+  "disease_alternative_names": ["Eczema", "Viêm da", "Viêm da dị ứng", "Viêm da cơ địa"],
+  "disease_definition": "Bệnh chàm (eczema) là một nhóm các tình trạng viêm da gây khô, ngứa và phát ban trên da. Đây là bệnh lý da liễu phổ biến, đặc trưng bởi tình trạng viêm hoặc kích ứng da, gây khô da, ngứa ngáy và nổi mẩn đỏ. Bệnh chàm không lây lan từ người này sang người khác. Bệnh thường bắt đầu từ thời kỳ sơ sinh, thơ ấu và có thể kéo dài đến tuổi trưởng thành.",
+  "symptoms": [
+    {
+      "name": "Ngứa dữ dội",
+      "description": "Ngứa là triệu chứng phổ biến nhất và gây khó chịu nhất của bệnh chàm, thường xảy ra trước khi xuất hiện các triệu chứng khác. Cảm giác ngứa có thể dẫn đến chu trình 'ngứa-gãi' khiến tình trạng bệnh trở nên tồi tệ hơn."
+    },
+    {
+      "name": "Da khô và đỏ",
+      "description": "Vùng da bị ảnh hưởng thường xuất hiện tình trạng khô, nứt nẻ và có màu đỏ hoặc tối hơn (tùy thuộc vào màu da). Da trở nên rất nhạy cảm, dễ bị kích ứng."
+    },
+    {
+      "name": "Phát ban",
+      "description": "Phát ban trên da có thể xuất hiện ở nhiều vị trí khác nhau trên cơ thể. Ở trẻ nhỏ, phát ban thường xuất hiện ở mặt, cổ, khuỷu tay, đầu gối, cổ tay và mắt cá chân."
+    },
+    {
+      "name": "Mụn nước",
+      "description": "Có thể xuất hiện mụn nước nhỏ chứa dịch trong, khi vỡ ra sẽ chảy dịch và đóng vảy. Tình trạng này thường xảy ra trong các đợt bùng phát cấp tính."
+    },
+    {
+      "name": "Da dày và sần sùi",
+      "description": "Khi bệnh chàm trở thành mãn tính, da có thể trở nên dày, sần sùi và có vảy do gãi và viêm kéo dài. Hiện tượng này được gọi là 'lichenit hóa'."
+    },
+    {
+      "name": "Thay đổi màu sắc da",
+      "description": "Vùng da bị ảnh hưởng có thể trở nên sẫm màu hơn hoặc nhạt màu hơn sau khi tình trạng viêm giảm bớt. Đây là hiện tượng tăng sắc tố sau viêm hoặc giảm sắc tố."
+    },
+    {
+      "name": "Chảy dịch và đóng vảy",
+      "description": "Trong các đợt bùng phát, vùng da bị ảnh hưởng có thể chảy dịch trong và sau đó đóng vảy màu vàng hoặc nâu."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính xác gây ra bệnh chàm chưa được xác định rõ, nhưng các nghiên cứu cho thấy đây là kết quả của sự tương tác phức tạp giữa yếu tố di truyền, miễn dịch và môi trường.",
+    "related_factors": "Bệnh chàm thường liên quan đến việc da bị khô, mất khả năng giữ ẩm và bảo vệ chống lại các tác nhân kích thích từ môi trường. Những người mắc bệnh chàm thường có sự thiếu hụt protein filaggrin - một protein quan trọng trong việc duy trì hàng rào bảo vệ da.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tiền sử gia đình có người mắc bệnh chàm, hen suyễn hoặc dị ứng",
+    "Sống ở thành phố hoặc khu vực có ô nhiễm môi trường",
+    "Tiếp xúc với các chất kích thích như hóa chất, xà phòng mạnh",
+    "Căng thẳng",
+    "Thay đổi môi trường, khí hậu đột ngột",
+    "Sức đề kháng yếu",
+    "Các loại thực phẩm gây dị ứng (ở một số người)",
+    "Hút thuốc lá hoặc tiếp xúc với khói thuốc lá",
+    "Mặc quần áo bằng chất liệu thô ráp như len",
+    "Da quá khô"
+  ],
+  "complications": [
+    "Nhiễm trùng da do vi khuẩn, virus hoặc nấm",
+    "Rối loạn giấc ngủ do ngứa",
+    "Tự ti, lo lắng và trầm cảm do ảnh hưởng đến hình ảnh bản thân",
+    "Khả năng phát triển hen suyễn và dị ứng mũi cao hơn",
+    "Viêm da ở tay (chàm bàn tay) gây khó khăn trong sinh hoạt hàng ngày",
+    "Viêm kết mạc mắt và các vấn đề về mắt khác",
+    "Làm nặng thêm tình trạng dị ứng da",
+    "Sẹo da do gãi và nhiễm trùng",
+    "Tăng nguy cơ nhiễm trùng da nặng"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và quan sát triệu chứng trên da",
+      "Đánh giá tiền sử bệnh cá nhân và gia đình",
+      "Loại trừ các bệnh lý da liễu khác có triệu chứng tương tự",
+      "Xác định các yếu tố kích thích và làm nặng thêm tình trạng bệnh"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm dị ứng",
+        "description": "Giúp xác định các dị nguyên có thể gây kích thích bệnh chàm, như phấn hoa, lông động vật, bụi nhà."
+      },
+      {
+        "name": "Xét nghiệm vá da (patch test)",
+        "description": "Kiểm tra phản ứng da với các chất tiếp xúc thông thường để xác định các chất gây dị ứng."
+      },
+      {
+        "name": "Sinh thiết da",
+        "description": "Trong một số trường hợp, bác sĩ có thể lấy mẫu mô da để kiểm tra dưới kính hiển vi nhằm loại trừ các bệnh lý da liễu khác."
+      },
+      {
+        "name": "Xét nghiệm IgE đặc hiệu",
+        "description": "Đo lường nồng độ kháng thể IgE với các dị nguyên cụ thể, giúp xác định các dị ứng liên quan."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Mặc dù hiện chưa có phương pháp chữa dứt điểm bệnh chàm, nhưng có nhiều cách để kiểm soát các triệu chứng và ngăn ngừa bùng phát. Việc điều trị tùy thuộc vào mức độ nghiêm trọng của bệnh và đáp ứng của từng cá nhân với các phương pháp điều trị khác nhau.",
+    "methods": [
+      {
+        "name": "Dưỡng ẩm thường xuyên",
+        "description": "Thoa kem dưỡng ẩm ngay sau khi tắm để khóa độ ẩm vào da, giúp da không bị khô và giảm ngứa. Nên ưu tiên chọn kem dưỡng ẩm không mùi, không chứa cồn và các chất gây kích ứng."
+      },
+      {
+        "name": "Corticosteroid bôi ngoài da",
+        "description": "Thuốc mỡ hoặc kem chứa corticosteroid giúp giảm viêm và ngứa trong các đợt bùng phát. Tùy theo mức độ nghiêm trọng của bệnh, bác sĩ có thể kê các loại corticosteroid có nồng độ khác nhau."
+      },
+      {
+        "name": "Thuốc ức chế calcineurin",
+        "description": "Thuốc bôi như tacrolimus (Protopic) và pimecrolimus (Elidel) giúp kiểm soát viêm mà không gây tác dụng phụ như thuốc corticosteroid. Chúng đặc biệt hữu ích cho các vùng da nhạy cảm như mặt."
+      },
+      {
+        "name": "Thuốc kháng histamine đường uống",
+        "description": "Giúp giảm ngứa, đặc biệt là vào ban đêm, và cải thiện giấc ngủ. Các thuốc kháng histamine thế hệ đầu tiên như diphenhydramine có tác dụng an thần nhẹ, giúp ngủ ngon hơn."
+      },
+      {
+        "name": "Liệu pháp ánh sáng (quang trị liệu)",
+        "description": "Sử dụng tia cực tím (UVB) để điều trị bệnh chàm trung bình đến nặng. Phương pháp này thường được áp dụng khi các biện pháp khác không hiệu quả."
+      },
+      {
+        "name": "Dịch chiết từ than (coal tar)",
+        "description": "Các sản phẩm có chứa than đá có thể giúp giảm ngứa và viêm. Mặc dù có mùi mạnh và có thể gây bẩn, nhưng đây là phương pháp điều trị hiệu quả cho nhiều người."
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch đường uống",
+        "description": "Trong trường hợp nặng, bác sĩ có thể kê đơn thuốc ức chế hệ miễn dịch như cyclosporine, methotrexate hoặc azathioprine để kiểm soát phản ứng miễn dịch quá mức."
+      },
+      {
+        "name": "Thuốc sinh học",
+        "description": "Dupilumab (Dupixent) là thuốc tiêm giúp chặn hoạt động của các protein miễn dịch cụ thể (interleukins) gây viêm trong bệnh chàm. Đây là lựa chọn cho bệnh nhân mắc bệnh chàm nặng không đáp ứng với các phương pháp điều trị khác."
+      },
+      {
+        "name": "Băng ướp (wet wraps)",
+        "description": "Kỹ thuật này bao gồm việc thoa kem dưỡng ẩm hoặc thuốc lên da bị ảnh hưởng, sau đó quấn một lớp băng ẩm theo sau là một lớp băng khô. Điều này đặc biệt hữu ích cho các trường hợp bùng phát nặng."
+      }
+    ],
+    "recommendations": [
+      "Tắm bằng nước ấm (không quá nóng) và sử dụng xà phòng dịu nhẹ, không mùi",
+      "Thoa kem dưỡng ẩm ngay sau khi tắm để khóa ẩm",
+      "Mặc quần áo rộng rãi, thoáng khí, làm từ vải cotton",
+      "Tránh tiếp xúc với các chất kích ứng như xà phòng mạnh, chất tẩy rửa và nước hoa",
+      "Duy trì nhiệt độ và độ ẩm thích hợp trong nhà",
+      "Tránh đổ mồ hôi quá nhiều và các tình huống gây căng thẳng",
+      "Tránh gãi vùng da bị ảnh hưởng",
+      "Giữ móng tay ngắn để tránh làm tổn thương da khi gãi",
+      "Sử dụng máy tạo độ ẩm trong phòng ngủ nếu không khí quá khô",
+      "Tránh tiếp xúc với các chất gây dị ứng đã biết"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Chăm sóc da thường xuyên với kem dưỡng ẩm không mùi",
+      "Tránh tiếp xúc với các chất gây kích ứng da",
+      "Tắm bằng nước ấm, không quá nóng",
+      "Sử dụng xà phòng dịu nhẹ, không chứa chất tẩy rửa mạnh",
+      "Mặc quần áo làm từ vải cotton mềm, tránh vải thô ráp như len",
+      "Giữ môi trường sống sạch sẽ, giảm thiểu bụi và các tác nhân gây dị ứng",
+      "Quản lý căng thẳng bằng các kỹ thuật thư giãn",
+      "Tránh đổ mồ hôi quá nhiều",
+      "Tránh tiếp xúc với khói thuốc lá và các chất ô nhiễm không khí",
+      "Chăm sóc da ngay khi có dấu hiệu đầu tiên của bùng phát",
+      "Với trẻ em có nguy cơ cao, nên cho bú sữa mẹ trong ít nhất 6 tháng đầu"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh chàm có lây không?",
+      "answer": "Không, bệnh chàm không lây từ người này sang người khác. Đây là một tình trạng viêm da mãn tính có liên quan đến yếu tố di truyền, hệ miễn dịch và môi trường, không phải do virus hay vi khuẩn gây ra."
+    },
+    {
+      "question": "Bệnh chàm có chữa khỏi hoàn toàn không?",
+      "answer": "Hiện tại chưa có phương pháp chữa khỏi hoàn toàn bệnh chàm, nhưng có nhiều cách để kiểm soát các triệu chứng và ngăn ngừa bùng phát. Ở nhiều trẻ em, bệnh có thể tự biến mất hoặc giảm đáng kể khi trưởng thành. Tuy nhiên, ở một số người, bệnh chàm có thể là tình trạng mãn tính kéo dài suốt đời."
+    },
+    {
+      "question": "Người bị bệnh chàm có dễ bị nhiễm trùng da không?",
+      "answer": "Có, người bị bệnh chàm dễ bị nhiễm trùng da hơn so với người bình thường. Khi hàng rào bảo vệ da bị tổn thương do viêm và gãi, vi khuẩn, virus và nấm có thể dễ dàng xâm nhập và gây nhiễm trùng. Nhiễm trùng phổ biến nhất là do vi khuẩn Staphylococcus aureus."
+    },
+    {
+      "question": "Ăn uống có ảnh hưởng đến bệnh chàm không?",
+      "answer": "Đối với hầu hết mọi người, chế độ ăn uống không phải là nguyên nhân gây ra hoặc làm nặng thêm bệnh chàm. Tuy nhiên, một số người có thể gặp tình trạng bùng phát sau khi ăn một số thực phẩm nhất định. Nếu bạn nghi ngờ thực phẩm là yếu tố kích thích, hãy tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng để được kiểm tra dị ứng thực phẩm đúng cách."
+    },
+    {
+      "question": "Làm thế nào để giảm ngứa do bệnh chàm?",
+      "answer": "Để giảm ngứa do bệnh chàm, bạn có thể áp dụng các biện pháp như: dưỡng ẩm da thường xuyên, tránh các chất kích ứng, sử dụng thuốc bôi theo chỉ định của bác sĩ, tắm bằng nước ấm (không quá nóng), sử dụng thuốc kháng histamine đường uống, đặc biệt vào ban đêm, áp dụng liệu pháp lạnh như chườm đá để giảm ngứa tạm thời, và mặc quần áo rộng rãi, làm từ vải cotton."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ngứa và da khô. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Vảy nến", "Viêm da tiếp xúc", "Viêm da dầu", "Bệnh nấm da"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da đỏ và nứt nẻ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Viêm da tiếp xúc", "Bệnh nấm da", "Nhiễm trùng da", "Dị ứng da"]
+    },
+    {
+      "question": "Tôi hay bị phát ban ở vùng lưng và ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Bệnh nấm da", "Mề đay", "Vảy nến", "Viêm nang lông"]
+    },
+    {
+      "question": "Da của tôi dày lên và đóng vảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Vảy nến", "Bệnh nấm da", "Viêm da tiếp xúc mãn tính", "Bệnh chốc lở"]
+    },
+    {
+      "question": "Tôi bị ngứa dữ dội trước khi phát ban. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Mề đay", "Viêm da tiếp xúc", "Phản ứng dị ứng", "Ghẻ"]
+    },
+    {
+      "question": "Da của tôi bị chảy nước và đóng vảy ở mặt và da đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Viêm da tiết bã nhờn", "Viêm da tiếp xúc", "Nhiễm trùng da", "Nhiễm nấm da đầu"]
+    },
+    {
+      "question": "Tôi bị phát ban ở khuỷu tay và sau đầu gối. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Vảy nến", "Viêm da tiếp xúc", "Dị ứng da", "Viêm da cơ địa"]
+    },
+    {
+      "question": "Da của tôi khô, dày và có vảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Vảy nến", "Bệnh á vảy nến", "Bệnh ichthyosis", "Viêm da tiếp xúc mãn tính"]
+    },
+    {
+      "question": "Tôi bị phát ban ở mặt, cổ tay và bàn tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Viêm da tiếp xúc", "Dị ứng da", "Lupus ban đỏ", "Bệnh nấm da"]
+    },
+    {
+      "question": "Da của tôi chuyển sang màu nâu ở vùng bị ảnh hưởng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Tăng sắc tố sau viêm", "Vảy nến", "Dị ứng ánh sáng", "Bệnh nấm màu"]
+    },
+    {
+      "question": "Da của tôi bị sưng và viêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Mề đay", "Viêm da tiếp xúc", "Bệnh ghẻ", "Nhiễm trùng da"]
+    },
+    {
+      "question": "Tôi bị nổi mụn nước nhỏ trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm tổ đỉa", "Bệnh ghẻ", "Herpes", "Bệnh chàm", "Bệnh thủy đậu"]
+    },
+    {
+      "question": "Tôi bị chảy dịch vàng từ vùng da bị ảnh hưởng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm nhiễm trùng", "Bệnh chốc lở", "Viêm da tiếp xúc", "Nhiễm trùng da", "Viêm nang lông"]
+    },
+    {
+      "question": "Tôi bị đau khi chạm vào vùng da bị ảnh hưởng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm nhiễm trùng", "Viêm da tiếp xúc", "Nhiễm trùng da", "Zona", "Mề đay"]
+    },
+    {
+      "question": "Tôi khó ngủ vì ngứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Bệnh ghẻ", "Mề đay mãn tính", "Dị ứng da", "Viêm da tiếp xúc"]
+    },
+    {
+      "question": "Tôi cảm thấy tự ti về làn da của mình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Vảy nến", "Mụn trứng cá", "Bệnh bạch biến", "Bệnh rosacea"]
+    },
+    {
+      "question": "Tôi bị stress vì bệnh chàm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Rối loạn lo âu", "Trầm cảm", "Rối loạn căng thẳng", "Rối loạn tâm lý liên quan đến da"]
+    },
+    {
+      "question": "Các triệu chứng của tôi nặng hơn vào mùa đông. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Da khô", "Viêm da cơ địa", "Bệnh ichthyosis", "Dị ứng lạnh"]
+    },
+    {
+      "question": "Các triệu chứng của tôi nặng hơn khi tôi tiếp xúc với chất kích thích. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Viêm da tiếp xúc", "Dị ứng da", "Mề đay tiếp xúc", "Viêm da do kích ứng"]
+    },
+    {
+      "question": "Các triệu chứng của tôi nặng hơn khi tôi bị stress. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh chàm", "Vảy nến", "Rối loạn tâm lý liên quan đến da", "Mề đay tâm lý", "Viêm da thần kinh"]
+    }
+  ]
+}

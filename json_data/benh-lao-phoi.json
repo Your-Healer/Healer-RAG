@@ -1,0 +1,209 @@
+{
+  "disease_id": "benh-lao-phoi",
+  "disease_name": "Bệnh lao phổi",
+  "disease_alternative_names": ["Lao phổi", "Ho lao", "Pulmonary Tuberculosis", "TB"],
+  "disease_definition": "Bệnh lao phổi là bệnh truyền nhiễm qua đường hô hấp, do vi khuẩn Mycobacterium tuberculosis (trực khuẩn lao) gây ra. Bệnh chủ yếu tấn công vào phổi, nhưng cũng có thể ảnh hưởng đến các cơ quan khác như não, thận, cột sống, hạch bạch huyết. Lao phổi chiếm khoảng 80-85% tổng số ca bệnh lao và là nguồn lây chính cho những người xung quanh.",
+  "symptoms": [
+    {
+      "name": "Ho kéo dài",
+      "description": "Ho kéo dài trên 3 tuần, có thể là ho khan, ho có đờm hoặc ho ra máu. Đây là triệu chứng phổ biến và quan trọng nhất của bệnh lao phổi."
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Đau tức ngực, đặc biệt khi ho hoặc thở sâu."
+    },
+    {
+      "name": "Sốt nhẹ",
+      "description": "Sốt nhẹ về chiều tối, thường kèm theo ớn lạnh."
+    },
+    {
+      "name": "Đổ mồ hôi ban đêm",
+      "description": "Đổ mồ hôi nhiều vào ban đêm, ngay cả khi thời tiết mát mẻ."
+    },
+    {
+      "name": "Mệt mỏi và yếu sức",
+      "description": "Cảm thấy mệt mỏi, kiệt sức, suy nhược cơ thể."
+    },
+    {
+      "name": "Sụt cân không rõ nguyên nhân",
+      "description": "Giảm cân nhanh chóng và không chủ ý."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Mất cảm giác thèm ăn, dẫn đến suy dinh dưỡng."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở, đặc biệt khi bệnh tiến triển nặng."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh lao phổi do vi khuẩn Mycobacterium tuberculosis (còn gọi là trực khuẩn Koch) gây ra. Vi khuẩn này có khả năng tồn tại trong môi trường tự nhiên từ 3-4 tháng, dưới ánh nắng mặt trời sẽ chết trong vòng 1,5 giờ và sống được 5 phút khi bị chiếu tia cực tím.",
+    "related_factors": "Mycobacterium tuberculosis là vi khuẩn ái khí, ưa cư trú trong môi trường có nhiều oxy, vì vậy thường khu trú ở phổi và số lượng vi khuẩn có nhiều nhất trong các hang lao có phế quản thông.",
+    "transmission_routes": [
+      "Lây qua đường hô hấp (không khí) khi người bệnh ho, nói, hắt hơi, khạc nhổ tạo ra các hạt nước bọt nhỏ chứa vi khuẩn lao phát tán trong không khí",
+      "Hít phải các hạt trong không khí có chứa vi khuẩn lao",
+      "Hiếm khi qua đường tiêu hóa (uống sữa hoặc ăn các sản phẩm từ sữa không được khử trùng từ bò bị lao)"
+    ]
+  },
+  "risk_factors": [
+    "Suy giảm miễn dịch: nhiễm HIV/AIDS, sử dụng thuốc ức chế miễn dịch",
+    "Tiếp xúc gần với người mắc bệnh lao phổi hoạt động",
+    "Sống hoặc làm việc trong môi trường có nguy cơ cao như nhà tạm trú, nhà tù, cơ sở y tế",
+    "Bệnh mạn tính: đái tháo đường, suy thận, ung thư, bệnh phổi mạn tính",
+    "Suy dinh dưỡng, gầy yếu, sức đề kháng kém",
+    "Lạm dụng rượu, thuốc lá, ma túy",
+    "Sinh sống ở nơi điều kiện sinh hoạt kém, đông đúc, kém thông thoáng",
+    "Trẻ em và người cao tuổi",
+    "Đã từng phẫu thuật cắt dạ dày hoặc cắt bỏ ruột non"
+  ],
+  "complications": [
+    "Tràn dịch, tràn khí màng phổi",
+    "Ho ra máu nặng",
+    "Viêm màng ngoài tim do lao",
+    "Lao thanh quản",
+    "Suy hô hấp mạn tính",
+    "Nhiễm nấm phổi Aspergillus",
+    "Rò thành ngực",
+    "Chít hẹp đường thở",
+    "Giãn phế quản",
+    "Xơ phổi",
+    "Lao lan tỏa sang các cơ quan khác"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng: hỏi bệnh, thăm khám tổng quát và phổi",
+      "Chụp X-quang phổi",
+      "Xét nghiệm đờm",
+      "Xét nghiệm phát hiện vi khuẩn lao",
+      "Xét nghiệm da tuberculin (TST)",
+      "Xét nghiệm giải phóng interferon-gamma (IGRA)"
+    ],
+    "tests": [
+      {
+        "name": "Chụp X-quang phổi",
+        "description": "Phát hiện thâm nhiễm dạng nốt ở đỉnh phổi hoặc thượng đòn, có thể thấy hình ảnh hang lao, tổn thương nhu mô phổi, vôi hóa hạch, tràn dịch màng phổi."
+      },
+      {
+        "name": "Xét nghiệm đờm tìm AFB",
+        "description": "Nhuộm soi đờm trực tiếp (nhuộm Ziehl-Neelsen hoặc Kinyoun) để tìm trực khuẩn kháng acid (AFB) trong đờm. Phương pháp này có thể phát hiện khoảng 10.000 trực khuẩn/mL đờm."
+      },
+      {
+        "name": "Nuôi cấy vi khuẩn lao",
+        "description": "Nuôi cấy đờm để xác định chính xác loại vi khuẩn và làm kháng sinh đồ, có thể phát hiện được 10 vi khuẩn/mL đờm. Kết quả có thể mất từ 2-8 tuần."
+      },
+      {
+        "name": "Xét nghiệm khuếch đại axit nucleic (NAAT)",
+        "description": "Như Xpert MTB/RIF, có thể phát hiện DNA của M. tuberculosis và kháng rifampin trong vòng 2 giờ, nhanh hơn so với nuôi cấy."
+      },
+      {
+        "name": "Xét nghiệm tuberculin trên da (TST)",
+        "description": "Đo phản ứng miễn dịch với M. tuberculosis, dương tính khi có nốt sẩn ≥ 5-15mm (tùy đối tượng) sau khi tiêm PPD."
+      },
+      {
+        "name": "Xét nghiệm giải phóng gamma interferon (IGRA)",
+        "description": "Xét nghiệm máu đo lường sự giải phóng interferon-gamma từ tế bào lympho khi tiếp xúc với kháng nguyên đặc hiệu của vi khuẩn lao, không bị ảnh hưởng bởi tiêm vắc-xin BCG."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Việc điều trị lao phổi đòi hỏi sự kiên trì, tuân thủ đúng phác đồ và đủ thời gian. Bệnh nhân cần được quản lý và theo dõi chặt chẽ bởi các cơ quan y tế để đảm bảo hiệu quả điều trị và ngăn ngừa kháng thuốc.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc kháng lao",
+        "description": "Điều trị chuẩn bao gồm 2 giai đoạn: giai đoạn tấn công ban đầu (2 tháng) với 4 loại thuốc (isoniazid, rifampin, pyrazinamide, ethambutol) và giai đoạn duy trì (4-7 tháng) với isoniazid và rifampin. Tổng thời gian điều trị thường kéo dài 6-9 tháng, tùy từng trường hợp cụ thể."
+      },
+      {
+        "name": "Điều trị lao kháng thuốc",
+        "description": "Đối với lao đa kháng thuốc (MDR-TB) hoặc lao siêu kháng thuốc (XDR-TB), cần phải sử dụng phác đồ thuốc đặc biệt với thuốc bậc hai, thường kéo dài 18-24 tháng và cần có sự quản lý của các chuyên gia về lao."
+      },
+      {
+        "name": "Điều trị giám sát trực tiếp (DOT)",
+        "description": "Phương pháp điều trị có người giám sát trực tiếp việc uống thuốc, nhằm đảm bảo bệnh nhân tuân thủ đúng phác đồ, tránh bỏ thuốc hoặc tự ý ngưng thuốc."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp lao phổi nặng, kháng thuốc hoặc có biến chứng, có thể cần can thiệp phẫu thuật như cắt bỏ khoang lao dai dẳng hoặc vùng mô phổi bị hoại tử."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ đúng phác đồ điều trị và uống thuốc đủ thời gian theo chỉ định của bác sĩ",
+      "Không tự ý ngưng thuốc dù các triệu chứng đã giảm",
+      "Khám định kỳ và xét nghiệm theo dõi để đánh giá hiệu quả điều trị",
+      "Bổ sung dinh dưỡng, nghỉ ngơi hợp lý, tránh làm việc quá sức",
+      "Cần thông báo cho bác sĩ nếu có các tác dụng phụ của thuốc như: mệt mỏi, buồn nôn, nôn, chán ăn, đau bụng, vàng da hoặc giảm thị lực"
+    ],
+    "prevention_of_transmission": [
+      "Đeo khẩu trang khi tiếp xúc với người khác, đặc biệt trong 2 tuần đầu điều trị",
+      "Che miệng khi ho, hắt hơi và khạc đờm đúng nơi quy định",
+      "Hạn chế tiếp xúc gần với người khác trong giai đoạn đầu điều trị",
+      "Thông gió nơi ở, làm việc tốt, tận dụng ánh nắng mặt trời",
+      "Xử lý đúng cách các vật dụng cá nhân của người bệnh"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Vắc-xin BCG (Bacille Calmette-Guérin) là vắc-xin phòng bệnh lao duy nhất hiện có. Vắc-xin này giúp ngăn ngừa các thể lao nặng ở trẻ em, đặc biệt là lao màng não, nhưng không hoàn toàn bảo vệ được khỏi lao phổi ở người lớn.",
+      "recommended_for": [
+        "Trẻ sơ sinh theo chương trình tiêm chủng mở rộng quốc gia",
+        "Trẻ em chưa được tiêm BCG",
+        "Trẻ em tiếp xúc với người bệnh lao kháng thuốc",
+        "Không khuyến cáo tiêm cho người lớn, trừ một số trường hợp đặc biệt"
+      ]
+    },
+    "general_recommendations": [
+      "Tiêm vắc-xin BCG cho trẻ sơ sinh theo chương trình tiêm chủng mở rộng",
+      "Sàng lọc và điều trị sớm nhiễm lao tiềm ẩn, đặc biệt ở những người có nguy cơ cao",
+      "Tránh tiếp xúc gần với người mắc bệnh lao phổi chưa được điều trị",
+      "Đeo khẩu trang khi đi ra ngoài hoặc khi tiếp xúc với người bệnh lao phổi",
+      "Tăng cường sức đề kháng bằng chế độ ăn uống đủ dinh dưỡng, tập thể dục đều đặn",
+      "Không sử dụng các chất gây nghiện như ma túy, rượu bia, thuốc lá",
+      "Đảm bảo môi trường sống và làm việc thông thoáng, có ánh nắng mặt trời",
+      "Khám sức khỏe định kỳ, đặc biệt khi có các triệu chứng ho kéo dài, sốt, sụt cân"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh lao phổi có lây không?",
+      "answer": "Có, bệnh lao phổi lây qua đường hô hấp khi người bệnh ho, nói, hắt hơi tạo ra các hạt khí dung chứa vi khuẩn lao trong không khí. Cứ 1 người bị lao phổi có ho khạc ra vi khuẩn có thể lây cho 10-15 người khác, nhất là trong các quần thể dân cư nhỏ như gia đình, lớp học."
+    },
+    {
+      "question": "Bệnh lao phổi có chữa được không?",
+      "answer": "Có, bệnh lao phổi hoàn toàn có thể chữa khỏi nếu được phát hiện sớm và điều trị đúng phác đồ. Việc điều trị cần tuân thủ nghiêm ngặt, đúng liều lượng và đủ thời gian (thường từ 6-9 tháng) theo chỉ định của bác sĩ."
+    },
+    {
+      "question": "Điều trị bệnh lao phổi mất bao lâu?",
+      "answer": "Điều trị bệnh lao phổi thường kéo dài từ 6-9 tháng, tùy thuộc vào mức độ bệnh và đáp ứng với thuốc. Giai đoạn đầu (tấn công) kéo dài 2 tháng với 4 loại thuốc, sau đó là giai đoạn duy trì từ 4-7 tháng với 2 loại thuốc. Đối với lao kháng thuốc, thời gian điều trị có thể kéo dài 18-24 tháng."
+    },
+    {
+      "question": "Làm thế nào để biết mình có bị lao phổi không?",
+      "answer": "Để biết mình có bị lao phổi không, bạn cần chú ý các triệu chứng như ho kéo dài trên 3 tuần, sốt nhẹ về chiều, đổ mồ hôi đêm, mệt mỏi, sụt cân. Nếu có các triệu chứng này, nên đi khám tại cơ sở y tế để được chẩn đoán bằng các phương pháp như chụp X-quang phổi, xét nghiệm đờm, xét nghiệm da tuberculin hoặc xét nghiệm IGRA."
+    },
+    {
+      "question": "Sau khi điều trị khỏi, bệnh lao phổi có tái phát không?",
+      "answer": "Bệnh lao phổi có thể tái phát sau khi điều trị khỏi, với tỷ lệ tái phát khoảng 7%. Nguy cơ tái phát cao hơn ở những người có hệ miễn dịch suy yếu (do HIV/AIDS, đái tháo đường, suy dinh dưỡng), người tiếp xúc lại với nguồn lây hoặc người điều trị không đúng cách, không đủ thời gian."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Lao phổi và lao màng phổi khác nhau như thế nào?",
+      "related_diseases": ["Lao màng phổi", "Viêm phổi"]
+    },
+    {
+      "question": "Lao hạch và lao phổi có giống nhau không?",
+      "related_diseases": ["Lao hạch", "Viêm hạch bạch huyết"]
+    },
+    {
+      "question": "Phân biệt bệnh lao phổi và ung thư phổi?",
+      "related_diseases": ["Ung thư phổi", "Viêm phổi"]
+    },
+    {
+      "question": "Người bị lao phổi có nên ăn trứng không?",
+      "related_diseases": ["Suy dinh dưỡng", "Thiếu máu"]
+    },
+    {
+      "question": "Dinh dưỡng cho người bệnh lao phổi cần lưu ý gì?",
+      "related_diseases": ["Suy dinh dưỡng", "Thiếu máu"]
+    }
+  ]
+}

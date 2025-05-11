@@ -1,0 +1,190 @@
+{
+  "disease_id": "benh-tim-bam-sinh",
+  "disease_name": "Bệnh tim bẩm sinh",
+  "disease_alternative_names": [
+    "Dị tật tim bẩm sinh",
+    "Bệnh lý tim mạch bẩm sinh",
+    "Congenital heart disease"
+  ],
+  "disease_definition": "Bệnh tim bẩm sinh là những dị tật của cơ tim, van tim, buồng tim xảy ra ngay từ lúc còn trong bào thai và tồn tại sau sinh. Lúc này, một vài cấu trúc tim sẽ bị khiếm khuyết dẫn đến các hoạt động và chức năng của tim bị ảnh hưởng. Theo thống kê, cứ 1.000 trẻ em được sinh ra sẽ có 8 trẻ mắc các bệnh tim bẩm sinh.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Trẻ thở nhanh, khó thở, đặc biệt khi bú hoặc hoạt động"
+    },
+    {
+      "name": "Bú kém",
+      "description": "Bú ít, bú ngắt quãng, cử bú kéo dài"
+    },
+    {
+      "name": "Ho và thở khò khè",
+      "description": "Ho thường xuyên, thở khò khè và có thể có triệu chứng viêm phổi"
+    },
+    {
+      "name": "Chậm phát triển",
+      "description": "Trẻ chậm phát triển thể chất so với độ tuổi"
+    },
+    {
+      "name": "Tím tái",
+      "description": "Môi, đầu ngón tay-chân chuyển sang tím, tăng khi trẻ khóc"
+    },
+    {
+      "name": "Vã mồ hôi",
+      "description": "Trẻ hay vã mồ hôi, đặc biệt khi hoạt động"
+    },
+    {
+      "name": "Tay chân lạnh",
+      "description": "Các chi thường xuyên lạnh do tuần hoàn kém"
+    }
+  ],
+  "causes": {
+    "main_cause": "Phần lớn các trường hợp khó xác định được nguyên nhân cụ thể, nhưng có thể do yếu tố di truyền hoặc các tác động trong thai kỳ.",
+    "related_factors": "Nhiều yếu tố có thể làm tăng nguy cơ mắc bệnh tim bẩm sinh ở trẻ.",
+    "risk_factors": [
+      "Yếu tố di truyền từ bố mẹ hoặc người thân",
+      "Mẹ sử dụng rượu, bia, ma túy, thuốc lá trong thai kỳ",
+      "Mẹ tiếp xúc với phóng xạ, tia X-quang trong thai kỳ",
+      "Mẹ nhiễm virus Rubella, Herpes, Cytomegalo trong 3 tháng đầu thai kỳ",
+      "Mẹ mắc bệnh đái tháo đường, lupus ban đỏ hệ thống trong thai kỳ"
+    ]
+  },
+  "complications": [
+    {
+      "name": "Loạn nhịp tim",
+      "description": "Tim đập không đều, quá nhanh hoặc quá chậm, có thể gây đột quỵ hoặc đột tử"
+    },
+    {
+      "name": "Nhiễm trùng tim",
+      "description": "Viêm nội tâm mạc có thể làm hỏng van tim và gây thuyên tắc"
+    },
+    {
+      "name": "Đột quỵ",
+      "description": "Do cục máu đông trong tim gây thuyên tắc mạch máu não"
+    },
+    {
+      "name": "Tăng áp động mạch phổi",
+      "description": "Tăng áp lực trong động mạch phổi do lưu lượng máu đến phổi tăng"
+    },
+    {
+      "name": "Suy tim",
+      "description": "Tim không thể bơm đủ máu đáp ứng nhu cầu cơ thể"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Siêu âm thai",
+        "description": "Có thể phát hiện dị tật tim bẩm sinh từ tuần thứ 18 của thai kỳ"
+      },
+      {
+        "name": "Đo độ bão hòa oxy",
+        "description": "Thực hiện trên tất cả trẻ sơ sinh trước khi xuất viện"
+      },
+      {
+        "name": "Điện tâm đồ ECG",
+        "description": "Đánh giá hoạt động điện của tim"
+      },
+      {
+        "name": "X-quang ngực",
+        "description": "Kiểm tra kích thước và hình dạng của tim"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá cấu trúc và chức năng của tim"
+      },
+      {
+        "name": "Chụp cộng hưởng từ tim",
+        "description": "Cho hình ảnh chi tiết về cấu trúc tim"
+      },
+      {
+        "name": "Thông tim",
+        "description": "Đánh giá áp lực và chức năng các buồng tim"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Phương pháp điều trị phụ thuộc vào loại và mức độ nghiêm trọng của dị tật tim.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc điều trị suy tim, loạn nhịp và các triệu chứng khác"
+      },
+      {
+        "name": "Can thiệp qua da",
+        "description": "Phương pháp điều trị hiện đại không cần mở xương ức, giảm đau và thời gian hồi phục nhanh"
+      },
+      {
+        "name": "Phẫu thuật tim",
+        "description": "Áp dụng cho các trường hợp không thể can thiệp qua da, từ đơn giản đến phức tạp"
+      }
+    ],
+    "specific_procedures": [
+      "Nong van tim",
+      "Đặt stent",
+      "Bít các luồng thông bất thường",
+      "Thay van tim",
+      "Phẫu thuật sửa chữa các dị tật"
+    ]
+  },
+  "prevention": {
+    "before_pregnancy": [
+      "Tiêm vắc xin phòng bệnh Rubella và sởi",
+      "Tham khảo ý kiến bác sĩ về các thuốc đang dùng",
+      "Kiểm soát đường huyết nếu bị tiểu đường",
+      "Sàng lọc di truyền nếu có tiền sử gia đình"
+    ],
+    "during_pregnancy": [
+      "Không uống rượu bia",
+      "Không hút thuốc lá",
+      "Tránh dùng thuốc chưa có chỉ định của bác sĩ",
+      "Bổ sung axit folic theo hướng dẫn",
+      "Tránh tiếp xúc với phóng xạ và môi trường độc hại"
+    ]
+  },
+  "care_recommendations": [
+    "Theo dõi định kỳ theo lịch hẹn",
+    "Tiêm vắc xin đầy đủ theo hướng dẫn",
+    "Hạn chế hoạt động mạnh và thi đấu đối kháng",
+    "Đảm bảo dinh dưỡng đầy đủ",
+    "Nghỉ ngơi hợp lý"
+  ],
+  "faqs": [
+    {
+      "question": "Bệnh tim bẩm sinh có chữa được không?",
+      "answer": "Trẻ em bị bệnh tim bẩm sinh vẫn có thể phát triển khỏe mạnh, bình thường như các bạn đồng trang lứa nếu được phát hiện sớm và can thiệp điều trị đúng cách."
+    },
+    {
+      "question": "Bệnh tim bẩm sinh có di truyền không?",
+      "answer": "Yếu tố di truyền được xem là căn nguyên lớn nhất của việc hình thành những dị tật bẩm sinh ở trẻ. Nếu bố, mẹ hoặc người thân trong gia đình mắc bệnh tim bẩm sinh thì trẻ có nguy cơ mắc bệnh cao hơn."
+    },
+    {
+      "question": "Khi nào có thể phát hiện bệnh tim bẩm sinh?",
+      "answer": "Bệnh tim bẩm sinh có thể được phát hiện từ tuần thứ 18 của thai kỳ thông qua siêu âm. Sau sinh, trẻ được sàng lọc bằng đo độ bão hòa oxy trước khi xuất viện."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Con tôi thở nhanh và hay vã mồ hôi khi bú, có phải bị tim bẩm sinh không?",
+      "related_diseases": [
+        "bệnh tim bẩm sinh",
+        "viêm phổi",
+        "suy tim"
+      ]
+    },
+    {
+      "question": "Trẻ bị tim bẩm sinh có được tiêm vắc xin không?",
+      "related_diseases": [
+        "bệnh tim bẩm sinh",
+        "các bệnh truyền nhiễm"
+      ]
+    },
+    {
+      "question": "Con tôi bị tím tái khi khóc, có nguy hiểm không?",
+      "related_diseases": [
+        "bệnh tim bẩm sinh tím",
+        "tứ chứng Fallot",
+        "bệnh tim bẩm sinh"
+      ]
+    }
+  ]
+}

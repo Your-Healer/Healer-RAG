@@ -1,0 +1,347 @@
+{
+  "disease_id": "benh-thuy-dau",
+  "disease_name": "Bệnh thủy đậu",
+  "disease_alternative_names": ["Bệnh trái rạ", "Varicella"],
+  "disease_definition": "Thủy đậu là bệnh nhiễm trùng do vi rút varicella-zoster gây ra. Vi rút này có kích thước khoảng 150-200mm, với nhân là AND. Người mắc bệnh sẽ phát ban, nổi mụn nước nhỏ có chứa đầy dịch, gây ngứa. Bệnh rất dễ lây cho những người chưa được tiêm vắc xin hoặc chưa từng nhiễm vi rút varicella-zoster.",
+  "symptoms": [
+    {"name": "Giai đoạn khởi phát", "description": "Mệt mỏi, nhức đầu, đau cơ, chán ăn, nôn ói, sốt nhẹ, chảy nước mũi, đau họng."},
+    {"name": "Phát ban", "description": "Mẩn ngứa màu đỏ khắp các vùng da, với đường kính vài mm, bắt đầu ở vùng đầu, mắt rồi lan ra toàn thân."},
+    {"name": "Mụn nước", "description": "Ban đỏ chuyển thành mụn nước hình tròn, đường kính 1-3mm, chứa chất dịch trong hoặc đục, có thể kèm mủ nếu bội nhiễm."},
+    {"name": "Hạch sau tai", "description": "Xuất hiện hạch sau tai, viêm họng."},
+    {"name": "Các triệu chứng khác", "description": "Ngứa ran, đau rát, khó chịu ở các vùng có mụn nước."}
+  ],
+  "causes": {
+    "main_cause": "Do vi rút varicella-zoster gây ra, xâm nhập vào niêm mạc đường hô hấp trên (miệng, hầu họng) và có thể là đường tiêu hoá, kết mạc mắt.",
+    "related_factors": "Vi rút có thể lây cho những người xung quanh chỉ trong 1-2 ngày trước khi người bệnh xuất hiện mụn nước và cho đến khi tất cả các mụn nước đã đóng vảy.",
+    "transmission_routes": [
+      "Lây trực tiếp qua đường hô hấp (ho, hắt xì)",
+      "Lây gián tiếp khi tiếp xúc với nước miếng, dịch tiết",
+      "Lây qua chất lỏng từ mụn nước",
+      "Lây từ mẹ sang con trong thai kỳ"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Trẻ em",
+      "description": "Trẻ em dưới 10 tuổi có nguy cơ mắc bệnh cao nhất"
+    },
+    {
+      "name": "Thiếu miễn dịch",
+      "description": "Người chưa tiêm vắc xin hoặc chưa từng mắc bệnh"
+    },
+    {
+      "name": "Thai phụ",
+      "description": "Thai phụ chưa có miễn dịch có nguy cơ cao và có thể gây biến chứng cho thai nhi"
+    },
+    {
+      "name": "Suy giảm miễn dịch",
+      "description": "Người suy giảm miễn dịch dễ mắc bệnh và có nguy cơ biến chứng cao"
+    },
+    {
+      "name": "Bệnh nền",
+      "description": "Người có bệnh nền như hen suyễn có nguy cơ biến chứng cao hơn"
+    },
+    {
+      "name": "Trẻ sơ sinh",
+      "description": "Trẻ sơ sinh có mẹ chưa từng bị bệnh có nguy cơ mắc bệnh nặng"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Nhiễm khuẩn",
+      "description": "Nhiễm khuẩn da, mô mềm, xương, khớp và có thể dẫn đến nhiễm trùng máu"
+    },
+    {
+      "name": "Viêm não",
+      "description": "Viêm não là biến chứng nghiêm trọng có thể gây tử vong"
+    },
+    {
+      "name": "Viêm phổi",
+      "description": "Viêm phổi thủy đậu có thể gây suy hô hấp nặng"
+    },
+    {
+      "name": "Viêm thận",
+      "description": "Viêm thận, viêm cầu thận cấp ảnh hưởng đến chức năng thận"
+    },
+    {
+      "name": "Viêm khớp",
+      "description": "Viêm khớp tràn dịch gây đau và hạn chế vận động"
+    },
+    {
+      "name": "Zona",
+      "description": "Bệnh zona có thể xuất hiện sau nhiều năm do vi rút tồn tại trong cơ thể"
+    },
+    {
+      "name": "Viêm tai",
+      "description": "Viêm tai giữa và tai ngoài gây đau và có thể ảnh hưởng đến thính lực"
+    },
+    {
+      "name": "Viêm niêm mạc",
+      "description": "Viêm niêm mạc miệng gây đau và khó ăn uống"
+    },
+    {
+      "name": "Viêm cơ tim",
+      "description": "Viêm cơ tim có thể gây rối loạn nhịp tim và suy tim"
+    },
+    {
+      "name": "Viêm hạch",
+      "description": "Viêm hạch lympho gây sưng và đau"
+    },
+    {
+      "name": "Viêm thần kinh",
+      "description": "Viêm dây thần kinh gây đau và rối loạn cảm giác"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Đánh giá các triệu chứng và tổn thương da điển hình"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra bạch cầu máu ngoại vi và lympho bào"
+      },
+      {
+        "name": "Miễn dịch huỳnh quang",
+        "description": "Phát hiện kháng thể kháng vi rút varicella-zoster"
+      },
+      {
+        "name": "Soi tìm vi rút",
+        "description": "Quan sát vi rút trong mẫu bệnh phẩm"
+      },
+      {
+        "name": "Phân lập vi rút",
+        "description": "Xác định sự hiện diện của vi rút trong mẫu bệnh phẩm"
+      },
+      {
+        "name": "Chẩn đoán huyết thanh",
+        "description": "Xác định kháng thể IgM và IgG đặc hiệu"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh thủy đậu tập trung vào kiểm soát triệu chứng và ngăn ngừa biến chứng.",
+    "methods": [
+      {"name": "Thuốc kháng vi rút", "description": "Sử dụng valacyclovir, famciclovir hoặc acyclovir tùy theo độ tuổi và mức độ bệnh."},
+      {"name": "Thuốc giảm triệu chứng", "description": "Dùng thuốc hạ sốt paracetamol, thuốc chống ngứa kháng histamin."},
+      {"name": "Chăm sóc da", "description": "Vệ sinh sạch sẽ, sử dụng dung dịch sát khuẩn tại chỗ."},
+      {"name": "Điều trị biến chứng", "description": "Sử dụng kháng sinh nếu có bội nhiễm, điều trị các biến chứng khác nếu có."}
+    ],
+    "recommendations": [
+      "Tắm thường xuyên, giữ vệ sinh",
+      "Cắt móng tay ngắn để tránh gãi",
+      "Mặc quần áo mềm, sạch",
+      "Ăn thức ăn lỏng, dễ tiêu",
+      "Nghỉ ngơi trong phòng thoáng khí",
+      "Không đi học hoặc làm việc cho đến khi hết bệnh"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người bệnh",
+      "Tránh tiếp xúc trực tiếp",
+      "Đeo khẩu trang khi chăm sóc người bệnh",
+      "Khử trùng đồ dùng của người bệnh"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm vắc xin là cách phòng bệnh thủy đậu hiệu quả nhất. Vắc xin được tiêm 2 mũi: Mũi 1 khi trẻ trên 1 tuổi, mũi 2 cách mũi 1 tối thiểu 3 tháng (với trẻ 1-13 tuổi) hoặc 1 tháng (với người trên 13 tuổi).",
+      "recommended_for": [
+        "Trẻ em trên 1 tuổi",
+        "Người chưa từng mắc bệnh",
+        "Người chưa tiêm vắc xin",
+        "Phụ nữ chuẩn bị mang thai"
+      ]
+    },
+    "general_recommendations": [
+      "Tránh tiếp xúc với người bệnh",
+      "Giữ vệ sinh cá nhân tốt",
+      "Tăng cường sức đề kháng",
+      "Tiêm vắc xin phòng bệnh",
+      "Cách ly người bệnh khi phát hiện"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Tôi đang bị sốt, mệt mỏi và nổi mẩn ngứa màu đỏ trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu",
+        "sởi",
+        "rubella",
+        "dị ứng da",
+        "nhiễm virus"
+      ]
+    },
+    {
+      "question": "Tôi bị đau đầu, chán ăn, nôn ói và nổi hạch sau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu",
+        "quai bị",
+        "viêm họng",
+        "sốt virus"
+      ]
+    },
+    {
+      "question": "Tôi có các mụn nước nhỏ chứa dịch trên da, mọc nhiều ở vùng đầu và thân mình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu",
+        "zona",
+        "herpes",
+        "bệnh tay chân miệng"
+      ]
+    },
+    {
+      "question": "Tôi bị ngứa ngáy khắp người và các mụn nước vỡ ra, rỉ dịch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu",
+        "chàm",
+        "dị ứng",
+        "nhiễm khuẩn da"
+      ]
+    },
+    {
+      "question": "Các mụn nước trên da tôi đóng vảy và để lại sẹo thâm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu",
+        "zona",
+        "mụn trứng cá",
+        "nhiễm khuẩn da"
+      ]
+    },
+    {
+      "question": "Tôi bị đau họng, khó nuốt và nổi ban đỏ trong miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu",
+        "viêm họng",
+        "bệnh tay chân miệng",
+        "nhiễm herpes"
+      ]
+    },
+    {
+      "question": "Tôi bị sưng mắt, chảy nước mắt và nổi mụn nước ở mí mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu",
+        "viêm kết mạc",
+        "lẹo mắt",
+        "herpes mắt"
+      ]
+    },
+    {
+      "question": "Tôi bị đau nhức xương khớp, mệt mỏi và khó chịu trong người. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu",
+        "cúm",
+        "sốt xuất huyết",
+        "viêm khớp"
+      ]
+    },
+    {
+      "question": "Tôi bị ho, sổ mũi và nổi ban đỏ trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu",
+        "sởi",
+        "cúm",
+        "dị ứng"
+      ]
+    },
+    {
+      "question": "Tôi bị sốt cao, co giật và mê sảng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu biến chứng",
+        "viêm não",
+        "viêm màng não",
+        "sốt rét"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm phổi, khó thở và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm phổi thủy đậu",
+        "viêm phổi vi khuẩn",
+        "viêm phổi virus",
+        "covid-19"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm não, đau đầu dữ dội và nôn mửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm não do thủy đậu",
+        "viêm não virus",
+        "viêm màng não",
+        "u não"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm màng não, cứng cổ và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm màng não do thủy đậu",
+        "viêm màng não vi khuẩn",
+        "viêm màng não virus",
+        "nhiễm khuẩn huyết"
+      ]
+    },
+    {
+      "question": "Tôi bị nhiễm trùng da, mụn nước có mủ và sưng tấy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "thủy đậu bội nhiễm",
+        "nhiễm khuẩn da",
+        "chốc lở",
+        "áp xe da"
+      ]
+    },
+    {
+      "question": "Tôi bị nhiễm trùng huyết, sốt cao và tụt huyết áp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiễm trùng huyết do thủy đậu",
+        "nhiễm khuẩn huyết",
+        "sốc nhiễm khuẩn",
+        "sốt xuất huyết nặng"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm gan, vàng da và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm gan do thủy đậu",
+        "viêm gan virus",
+        "viêm gan tự miễn",
+        "xơ gan"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm khớp, sưng đau khớp và khó vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm khớp do thủy đậu",
+        "viêm khớp dạng thấp",
+        "viêm khớp nhiễm khuẩn",
+        "gout"
+      ]
+    },
+    {
+      "question": "Tôi bị xuất huyết dưới da, dễ bị bầm tím. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "biến chứng xuất huyết do thủy đậu",
+        "xuất huyết giảm tiểu cầu",
+        "rối loạn đông máu",
+        "sốt xuất huyết"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm tai giữa, đau tai và chảy dịch tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm tai do thủy đậu",
+        "viêm tai giữa",
+        "viêm tai ngoài",
+        "áp xe tai"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm tinh hoàn, sưng đau tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm tinh hoàn do thủy đậu",
+        "quai bị",
+        "viêm tinh hoàn nhiễm khuẩn",
+        "xoắn tinh hoàn"
+      ]
+    }
+  ]
+}

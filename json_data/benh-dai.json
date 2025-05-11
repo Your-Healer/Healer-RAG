@@ -1,0 +1,154 @@
+{
+  "disease_id": "benh-dai",
+  "disease_name": "Bệnh Dại",
+  "disease_alternative_names": ["Hydrophobia", "Rabies", "Bệnh sợ nước"],
+  "disease_definition": "Bệnh dại là một bệnh truyền nhiễm cấp tính do virus dại thuộc họ Rhabdoviridae, gây viêm não và tủy sống tiến triển, gây tử vong. Bệnh lây truyền chủ yếu qua vết cắn của động vật bị nhiễm bệnh, phổ biến nhất là chó. Khi đã xuất hiện triệu chứng, bệnh dại gần như luôn dẫn đến tử vong, tuy nhiên bệnh có thể phòng ngừa hoàn toàn bằng vaccine nếu được tiêm đúng cách và kịp thời sau khi phơi nhiễm.",
+  "symptoms": [
+    {
+      "name": "Giai đoạn tiền triệu",
+      "description": "Xuất hiện 2-10 ngày trước khi có triệu chứng thần kinh: sốt, đau đầu, mệt mỏi, chán ăn, buồn nôn, đau hoặc ngứa ran tại vị trí vết thương."
+    },
+    {
+      "name": "Thể cuồng (70-80% các trường hợp)",
+      "description": "Bệnh nhân kích động, dễ bị kích thích, sợ nước (hydrophobia), sợ gió, tiết nhiều nước bọt, co thắt cơ, hành vi hung hăng bất thường, ảo giác, co giật."
+    },
+    {
+      "name": "Thể liệt (20-30% các trường hợp)",
+      "description": "Tê liệt cơ bắp tiến triển từ vị trí vết thương, dẫn đến tình trạng hôn mê và tử vong. Ít rõ ràng hơn thể cuồng và thường bị chẩn đoán nhầm."
+    },
+    {
+      "name": "Giai đoạn cuối",
+      "description": "Bệnh tiến triển đến rối loạn nhịp tim, ngưng thở, hôn mê sâu và tử vong do tổn thương não và suy hô hấp."
+    }
+  ],
+  "causes": {
+    "main_cause": "Virus dại (Rabies virus) thuộc giống Lyssavirus, họ Rhabdoviridae gây ra bệnh dại.",
+    "related_factors": "Virus dại tấn công hệ thần kinh trung ương, di chuyển theo các dây thần kinh ngoại biên vào não và tủy sống, gây viêm não tủy và tổn thương hệ thần kinh không thể phục hồi.",
+    "transmission_routes": [
+      "Vết cắn từ động vật bị nhiễm bệnh (chủ yếu là chó, chiếm 99% ca bệnh dại ở người)",
+      "Vết cào xước có tiếp xúc với nước bọt của động vật nhiễm bệnh",
+      "Nước bọt chứa virus dại tiếp xúc với niêm mạc (mắt, mũi, miệng) hoặc vết thương hở",
+      "Hiếm gặp: qua ghép tạng từ người hiến tạng bị nhiễm bệnh dại"
+    ]
+  },
+  "risk_factors": [
+    "Không tiêm phòng vắc xin dại sau khi bị động vật cắn",
+    "Sống hoặc du lịch đến vùng có dịch bệnh dại lưu hành",
+    "Nghề nghiệp tiếp xúc nhiều với động vật hoang dã (nhân viên thú y, kiểm lâm, nhân viên phòng thí nghiệm làm việc với virus dại)",
+    "Trẻ em dưới 15 tuổi (chiếm khoảng 40% trường hợp tử vong do dại)",
+    "Vết thương ở vùng đầu, mặt, cổ (gần hệ thần kinh trung ương) có nguy cơ phát bệnh nhanh hơn"
+  ],
+  "complications": [
+    "Viêm não tủy",
+    "Rối loạn thần kinh trung ương nặng",
+    "Rối loạn tự chủ: tăng tiết nước bọt, vã mồ hôi, rối loạn nhịp tim",
+    "Suy hô hấp",
+    "Tử vong (gần như 100% sau khi có triệu chứng lâm sàng)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Chẩn đoán lâm sàng: dựa vào triệu chứng đặc trưng (sợ nước, sợ gió) kết hợp với tiền sử bị động vật cắn",
+      "Xét nghiệm kháng thể miễn dịch huỳnh quang từ mẫu da vùng gáy",
+      "Phản ứng sinh học phân tử PCR hoặc RT-PCR phát hiện ARN virus dại",
+      "Phát hiện thể Negri trong tế bào thần kinh (đặc hiệu nhưng độ nhạy không cao)"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm kháng thể miễn dịch huỳnh quang (FAT)",
+        "description": "Đây là phương pháp tham chiếu được WHO khuyến cáo để chẩn đoán bệnh dại, sử dụng kháng thể đặc hiệu với virus dại."
+      },
+      {
+        "name": "RT-PCR",
+        "description": "Phương pháp nhạy và đặc hiệu để phát hiện RNA virus dại, đặc biệt hữu ích với mẫu bệnh phẩm bị phân hủy."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Không có phương pháp điều trị đặc hiệu cho bệnh dại sau khi đã xuất hiện triệu chứng. Hầu như 100% ca bệnh dẫn đến tử vong.",
+    "methods": [
+      {
+        "name": "Điều trị dự phòng sau phơi nhiễm (PEP)",
+        "description": "Cần thực hiện ngay sau khi bị động vật cắn, bao gồm: rửa vết thương kỹ với xà phòng và nước, tiêm vắc xin dại, và trong một số trường hợp, tiêm huyết thanh kháng dại."
+      },
+      {
+        "name": "Chăm sóc giảm nhẹ",
+        "description": "Với người bệnh đã xuất hiện triệu chứng, chỉ có thể áp dụng điều trị triệu chứng và chăm sóc giảm nhẹ: kiểm soát cơn đau, an thần, hỗ trợ hô hấp, giảm đau."
+      }
+    ],
+    "recommendations": [
+      "Rửa vết thương ngay lập tức với xà phòng và nước sạch trong ít nhất 15 phút",
+      "Sát trùng vết thương bằng cồn 70%, cồn i-ốt hoặc Povidone-Iodine",
+      "Đến cơ sở y tế ngay để được đánh giá và điều trị dự phòng sau phơi nhiễm",
+      "Không đắp lá, bôi thuốc nam hoặc các chất kích thích lên vết thương",
+      "Không băng bó vết thương quá chặt"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly bệnh nhân trong phòng yên tĩnh, tránh kích thích",
+      "Nhân viên y tế cần mặc đồ bảo hộ để tránh tiếp xúc với nước bọt của người bệnh",
+      "Xử lý chất tiết của bệnh nhân theo quy định an toàn sinh học"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Vắc xin dại hiện đại được sản xuất trên tế bào, an toàn và hiệu quả cao. Có hai loại chính là Verorab (Pháp) và Abhayrab (Ấn Độ) hiện đang được sử dụng tại Việt Nam.",
+      "recommended_for": [
+        "Người sau khi bị động vật nghi dại cắn (điều trị dự phòng sau phơi nhiễm)",
+        "Người có nguy cơ cao tiếp xúc với virus dại: nhân viên thú y, kiểm lâm, nhân viên phòng thí nghiệm",
+        "Người sống hoặc du lịch đến vùng có nguy cơ cao về bệnh dại"
+      ]
+    },
+    "general_recommendations": [
+      "Tiêm phòng dại cho chó, mèo và vật nuôi (biện pháp phòng ngừa hiệu quả nhất)",
+      "Tránh tiếp xúc với động vật hoang dã, chó mèo đi lạc",
+      "Giáo dục trẻ em không chơi đùa với động vật lạ",
+      "Rửa vết thương ngay lập tức nếu bị động vật cắn",
+      "Báo cáo với cơ quan thú y khi phát hiện động vật có dấu hiệu bệnh dại",
+      "Đưa vật nuôi đi khám định kỳ và tiêm phòng đầy đủ",
+      "Không thả rông chó, mèo; rọ mõm cho chó khi dắt ra đường"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bị chó cắn có nhất thiết phải tiêm phòng dại không?",
+      "answer": "Nên tiêm phòng dại trong mọi trường hợp bị chó hoặc động vật khác cắn/cào, đặc biệt nếu không rõ tình trạng tiêm phòng của con vật đó. Không nên chủ quan dù là chó nhà vì có thể con vật đã nhiễm bệnh mà chưa biểu hiện triệu chứng."
+    },
+    {
+      "question": "Bệnh dại có triệu chứng gì?",
+      "answer": "Triệu chứng đặc trưng của bệnh dại bao gồm: sợ nước (hydrophobia), sợ gió, kích động bất thường, tiết nhiều nước bọt, khó nuốt, co giật và cuối cùng là tê liệt, hôn mê và tử vong."
+    },
+    {
+      "question": "Sau bao lâu bị chó cắn thì phát bệnh dại?",
+      "answer": "Thời gian ủ bệnh dại trung bình là 2-3 tháng, nhưng có thể ngắn chỉ 1 tuần hoặc dài hơn 1 năm, phụ thuộc vào vị trí vết cắn, lượng virus xâm nhập và khoảng cách từ vết thương đến hệ thần kinh trung ương."
+    },
+    {
+      "question": "Bệnh dại có chữa được không?",
+      "answer": "Khi đã xuất hiện triệu chứng, bệnh dại hầu như không thể chữa khỏi và gần như 100% tử vong. Tuy nhiên, bệnh dại có thể phòng ngừa hoàn toàn bằng cách tiêm vắc xin dại kịp thời sau khi bị phơi nhiễm."
+    },
+    {
+      "question": "Bị chó cắn phải làm gì ngay?",
+      "answer": "Rửa vết thương ngay lập tức với xà phòng và nước sạch kỹ trong ít nhất 15 phút; sát trùng vết thương bằng cồn 70% hoặc Povidone-Iodine; không đắp lá hay bôi thuốc nam; đến cơ sở y tế ngay để được tiêm phòng dại."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Bị chó cắn có nguy hiểm không?",
+      "related_diseases": ["Bệnh dại", "Nhiễm trùng vết thương", "Uốn ván"]
+    },
+    {
+      "question": "Có nên tiêm phòng dại khi bị mèo cào?",
+      "related_diseases": ["Bệnh dại", "Bệnh mèo cào (Cat-scratch disease)"]
+    },
+    {
+      "question": "Biện pháp phòng tránh bệnh dại hiệu quả nhất là gì?",
+      "related_diseases": ["Bệnh dại"]
+    },
+    {
+      "question": "Bị chó cắn bao lâu thì tiêm phòng dại còn hiệu quả?",
+      "related_diseases": ["Bệnh dại"]
+    },
+    {
+      "question": "Bị chuột cắn có cần tiêm phòng dại không?",
+      "related_diseases": ["Bệnh dại", "Bệnh dịch hạch", "Sốt do chuột cắn (Rat-bite fever)"]
+    }
+  ]
+}

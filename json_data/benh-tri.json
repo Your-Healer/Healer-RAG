@@ -1,0 +1,201 @@
+{
+  "disease_id": "benh-tri",
+  "disease_name": "Bệnh trĩ",
+  "disease_alternative_names": [
+    "Hemorrhoids",
+    "Bệnh lòi dom"
+  ],
+  "disease_definition": "Bệnh trĩ là tình trạng giãn ra của các tĩnh mạch ở hậu môn và trực tràng dưới, tương tự như chứng giãn tĩnh mạch chân. Đây là bệnh phổ biến nhất trong số các bệnh thuộc về đại trực tràng ở Việt Nam với tỷ lệ 35-50%.",
+  "symptoms": [
+    {
+      "name": "Búi trĩ sa ra ngoài",
+      "description": "Búi trĩ sa ra ngoài hậu môn khi đi tiêu, khi trĩ nặng có thể xuất hiện ngoài hậu môn thường xuyên."
+    },
+    {
+      "name": "Chảy máu khi đại tiện",
+      "description": "Đại tiện bị chảy máu nhưng không đau. Tùy mức độ chảy máu, bệnh nhân có thể chỉ thấy máu thấm giấy vệ sinh, hoặc nhỏ giọt hay máu bắn thành tia."
+    },
+    {
+      "name": "Ngứa hậu môn",
+      "description": "Thường xuyên bị kích thích hoặc ngứa hậu môn."
+    },
+    {
+      "name": "Đau rát hậu môn",
+      "description": "Khó chịu, đau rát hậu môn tăng dần theo sự tiến triển của búi trĩ."
+    },
+    {
+      "name": "Sưng đau búi trĩ",
+      "description": "Búi trĩ bị tắc mạch hoặc bị sa nghẹt gây sưng đau."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh trĩ phát sinh do tình trạng giãn tĩnh mạch ở vùng hậu môn và trực tràng dưới, thường liên quan đến áp lực tăng cao trong ổ bụng và vùng chậu.",
+    "related_factors": "Các yếu tố liên quan đến bệnh trĩ bao gồm thói quen sinh hoạt, chế độ ăn uống, và các tình trạng bệnh lý khác có thể gây tăng áp lực lên vùng hậu môn trực tràng.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Lối sống ít vận động",
+      "description": "Ngồi nhiều, ít vận động, đặc biệt là dân văn phòng"
+    },
+    {
+      "name": "Chế độ ăn uống không hợp lý",
+      "description": "Uống ít nước, uống nhiều rượu bia, hay ăn đồ cay nóng, chế độ ăn thiếu rau xanh và chất xơ"
+    },
+    {
+      "name": "Béo phì",
+      "description": "Tình trạng thừa cân, béo phì gây tăng áp lực lên vùng hậu môn"
+    },
+    {
+      "name": "Thai kỳ",
+      "description": "Phụ nữ mang thai có nguy cơ cao mắc bệnh trĩ"
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Táo bón hoặc tiêu chảy mãn tính gây tăng áp lực khi đi vệ sinh"
+    },
+    {
+      "name": "Thói quen sinh hoạt không tốt",
+      "description": "Hay quan hệ tình dục qua đường hậu môn, thói quen ngồi bồn cầu lâu hoặc rặn nhiều khi đi đại tiện"
+    },
+    {
+      "name": "Bệnh lý vùng tiểu khung",
+      "description": "U vùng tiểu khung như u đại trực tràng, u xơ tử cung gây tăng áp lực"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Thiếu máu",
+      "description": "Thiếu máu do chảy máu hậu môn thường xuyên"
+    },
+    {
+      "name": "Trĩ sa nghẹt",
+      "description": "Búi trĩ sa ra ngoài và bị nghẹt, gây đau đớn và khó chịu"
+    },
+    {
+      "name": "Tắc mạch và hoại tử",
+      "description": "Tắc mạch và hoại tử búi trĩ gây đau đớn và nguy cơ nhiễm trùng"
+    },
+    {
+      "name": "Viêm nhiễm",
+      "description": "Viêm loét, nhiễm trùng vùng hậu môn có thể lan rộng"
+    },
+    {
+      "name": "Tăng nguy cơ ung thư",
+      "description": "Tăng nguy cơ ung thư đại trực tràng do kích thích và viêm nhiễm mạn tính"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Khám lâm sàng đánh giá tình trạng búi trĩ và các triệu chứng"
+      },
+      {
+        "name": "Thăm trực tràng",
+        "description": "Bác sĩ thăm khám trực tiếp để đánh giá tình trạng bệnh"
+      },
+      {
+        "name": "Soi hậu môn",
+        "description": "Soi hậu môn bằng ống cứng hoặc mềm để đánh giá chi tiết"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh trĩ phụ thuộc vào mức độ nặng của bệnh, có thể bao gồm điều trị nội khoa hoặc can thiệp ngoại khoa.",
+    "methods": [
+      {
+        "name": "Thắt dây cao su",
+        "description": "Bác sĩ dùng dây cao su để thắt gốc búi trĩ, sau 1 tuần búi trĩ sẽ khô và rụng khỏi hậu môn. Thủ thuật này chỉ áp dụng cho bệnh trĩ nhẹ."
+      },
+      {
+        "name": "Chích xơ",
+        "description": "Bác sĩ sẽ tiêm hóa chất vào mô trĩ để làm teo búi trĩ."
+      },
+      {
+        "name": "Phẫu thuật Longo",
+        "description": "Bác sĩ phẫu thuật cắt và treo búi trĩ bằng một loại máy chuyên dụng. Phẫu thuật này ít đau và thời gian phục hồi nhanh."
+      },
+      {
+        "name": "Phẫu thuật cắt trĩ kinh điển",
+        "description": "Thường dùng cho các trường hợp trĩ hỗn hợp hay bệnh nhân có da thừa nhiều, trĩ biến chứng tắc mạch, sa nghẹt."
+      }
+    ],
+    "recommendations": [
+      "Ăn thực phẩm giàu chất xơ",
+      "Uống đủ nước mỗi ngày",
+      "Tránh ngồi lâu một chỗ",
+      "Vận động thể dục thường xuyên",
+      "Không rặn mạnh khi đi đại tiện",
+      "Giữ vệ sinh sạch sẽ vùng hậu môn"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa bệnh trĩ.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì chế độ ăn giàu chất xơ",
+      "Uống đủ 2-3 lít nước mỗi ngày",
+      "Hạn chế ăn cay, nóng, uống rượu, cà phê",
+      "Hạn chế ngồi quá lâu, nên đứng dậy đi lại 30 phút một lần",
+      "Duy trì thói quen vận động, luyện tập thể thao",
+      "Không mặc quần quá chật",
+      "Điều trị táo bón kịp thời"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như búi trĩ sa ra ngoài hậu môn khi đi tiêu và sưng đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh trĩ",
+        "nứt kẽ hậu môn",
+        "áp xe hậu môn",
+        "polyp hậu môn",
+        "ung thư hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ngáy và khó chịu ở hậu môn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh trĩ",
+        "nhiễm nấm hậu môn",
+        "bệnh giun kim",
+        "viêm da hậu môn",
+        "chàm hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy máu khi đi đại tiện và thấy búi trĩ sa ra ngoài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh trĩ",
+        "nứt kẽ hậu môn",
+        "polyp đại trực tràng",
+        "ung thư đại trực tràng",
+        "viêm loét đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau rát, ngứa ngáy và chảy máu ở hậu môn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh trĩ",
+        "nứt kẽ hậu môn",
+        "viêm hậu môn",
+        "áp xe hậu môn",
+        "nhiễm khuẩn hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó chịu khi đi vệ sinh và thấy búi trĩ sa ra ngoài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh trĩ",
+        "sa trực tràng",
+        "polyp hậu môn",
+        "u nhú hậu môn",
+        "sa niêm mạc trực tràng"
+      ]
+    }
+  ]
+}

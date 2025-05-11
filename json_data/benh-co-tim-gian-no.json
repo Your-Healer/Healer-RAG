@@ -1,0 +1,171 @@
+{
+  "disease_id": "benh-co-tim-gian-no",
+  "disease_name": "Bệnh cơ tim giãn nở",
+  "disease_alternative_names": ["Bệnh cơ tim giãn", "Suy cơ tim", "Dilated Cardiomyopathy (DCM)"],
+  "disease_definition": "Bệnh cơ tim giãn nở là một tình trạng trong đó tâm thất trái của tim bị giãn ra và suy yếu, khiến tim không thể bơm máu hiệu quả. Điều này có thể dẫn đến suy tim và các biến chứng tim mạch khác.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Đặc biệt khi gắng sức hoặc khi nằm xuống"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi thường xuyên, không có năng lượng"
+    },
+    {
+      "name": "Sưng phù",
+      "description": "Phù chân, mắt cá chân và bàn chân do tích tụ dịch"
+    },
+    {
+      "name": "Nhịp tim nhanh hoặc không đều",
+      "description": "Cảm giác tim đập nhanh hoặc không đều (hồi hộp, đánh trống ngực)"
+    },
+    {
+      "name": "Đau tức ngực",
+      "description": "Cảm giác đau hoặc khó chịu ở ngực"
+    },
+    {
+      "name": "Chóng mặt, ngất xỉu",
+      "description": "Do lưu lượng máu đến não giảm"
+    },
+    {
+      "name": "Tĩnh mạch cổ nổi",
+      "description": "Dấu hiệu của tăng áp lực tĩnh mạch"
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh cơ tim giãn nở có thể do nhiều nguyên nhân khác nhau gây ra hoặc không rõ nguyên nhân (đối với khoảng 50% trường hợp).",
+    "related_factors": "Các yếu tố liên quan bao gồm di truyền, nhiễm trùng virus, rối loạn tự miễn, tiếp xúc với một số độc tố, và một số tình trạng y tế khác.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tiền sử gia đình mắc bệnh cơ tim",
+    "Các bệnh nhiễm trùng virus như cúm, bệnh viêm gan",
+    "Lạm dụng rượu kéo dài",
+    "Tiếp xúc với một số độc tố và hóa chất",
+    "Bệnh tuyến giáp",
+    "Bệnh tiểu đường",
+    "Huyết áp cao kéo dài",
+    "Thiếu hụt vitamin và khoáng chất",
+    "Bệnh van tim",
+    "Bệnh động mạch vành"
+  ],
+  "complications": [
+    "Suy tim",
+    "Tắc nghẽn mạch máu do cục máu đông",
+    "Rối loạn nhịp tim",
+    "Đột tử do tim",
+    "Suy đa cơ quan"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng",
+      "Tiền sử bệnh",
+      "Xét nghiệm hình ảnh",
+      "Xét nghiệm máu",
+      "Sinh thiết cơ tim (trong một số trường hợp)"
+    ],
+    "tests": [
+      {
+        "name": "Điện tâm đồ (ECG/EKG)",
+        "description": "Đo hoạt động điện của tim để phát hiện rối loạn nhịp tim"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Kiểm tra kích thước, hình dạng và chức năng của tim"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI) tim",
+        "description": "Cung cấp hình ảnh chi tiết về cấu trúc và chức năng tim"
+      },
+      {
+        "name": "Thông tim",
+        "description": "Kiểm tra áp lực trong tim và lấy mẫu mô tim để sinh thiết"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra marker sinh học của tổn thương tim và chức năng các cơ quan khác"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh cơ tim giãn nở thường tập trung vào kiểm soát triệu chứng, làm chậm tiến trình bệnh và ngăn ngừa biến chứng.",
+    "methods": [
+      {
+        "name": "Thuốc",
+        "description": "Bao gồm thuốc ức chế men chuyển (ACE inhibitors), thuốc chẹn beta, thuốc lợi tiểu, thuốc chống đông máu, thuốc chống loạn nhịp tim"
+      },
+      {
+        "name": "Thiết bị cấy ghép",
+        "description": "Máy tạo nhịp tim hai buồng (CRT), máy khử rung tim cấy ghép (ICD) cho bệnh nhân có nguy cơ đột tử"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp nặng, có thể cần phẫu thuật sửa van tim, cấy thiết bị hỗ trợ tâm thất hoặc ghép tim"
+      }
+    ],
+    "recommendations": [
+      "Hạn chế lượng muối tiêu thụ",
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục nhẹ nhàng theo chỉ định của bác sĩ",
+      "Ngưng hút thuốc và hạn chế rượu bia",
+      "Kiểm soát căng thẳng",
+      "Tuân thủ kế hoạch điều trị"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện không có vaccine phòng ngừa bệnh cơ tim giãn nở.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì lối sống lành mạnh",
+      "Kiểm soát các bệnh nền như cao huyết áp, tiểu đường",
+      "Hạn chế sử dụng rượu bia",
+      "Không sử dụng chất kích thích",
+      "Khám sức khỏe định kỳ, đặc biệt nếu có tiền sử gia đình mắc bệnh tim",
+      "Điều trị sớm các bệnh nhiễm trùng"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh cơ tim giãn nở có chữa khỏi được không?",
+      "answer": "Bệnh cơ tim giãn nở thường không thể chữa khỏi hoàn toàn, nhưng có thể kiểm soát bằng thuốc và điều chỉnh lối sống. Trong một số trường hợp, nếu nguyên nhân gây bệnh có thể điều trị được (như nhiễm trùng hoặc lạm dụng rượu), tình trạng có thể cải thiện đáng kể."
+    },
+    {
+      "question": "Bệnh cơ tim giãn nở có di truyền không?",
+      "answer": "Trong khoảng 30-50% trường hợp, bệnh cơ tim giãn nở có yếu tố di truyền. Nếu trong gia đình có người mắc bệnh này, người thân ruột thịt nên được tầm soát định kỳ."
+    },
+    {
+      "question": "Người bị bệnh cơ tim giãn nở có thể tập thể dục không?",
+      "answer": "Tùy thuộc vào mức độ nghiêm trọng của bệnh, nhiều bệnh nhân vẫn có thể tập thể dục nhẹ nhàng. Tuy nhiên, cần tham khảo ý kiến bác sĩ để có chương trình tập luyện phù hợp và an toàn."
+    },
+    {
+      "question": "Bệnh cơ tim giãn nở ảnh hưởng như thế nào đến tuổi thọ?",
+      "answer": "Tiên lượng bệnh phụ thuộc vào nhiều yếu tố như nguyên nhân, mức độ tổn thương tim, tuổi chẩn đoán và đáp ứng với điều trị. Với sự tiến bộ của y học, nhiều bệnh nhân có thể sống nhiều năm với chất lượng cuộc sống tốt nếu được điều trị thích hợp."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó thở, hụt hơi khi gắng sức và sưng phù bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh cơ tim giãn nở", "Suy tim", "Bệnh phổi tắc nghẽn mạn tính"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, không thể tập thể dục như bình thường và nhịp tim không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh cơ tim giãn nở", "Rối loạn nhịp tim", "Thiếu máu"]
+    },
+    {
+      "question": "Tôi hay bị chóng mặt, ngất xỉu và đau tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh cơ tim giãn nở", "Bệnh động mạch vành", "Hạ đường huyết"]
+    },
+    {
+      "question": "Tôi tạo thấy tĩnh mạch cổ nổi lên và thở khò khè. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh cơ tim giãn nở", "Suy tim", "Hen suyễn"]
+    },
+    {
+      "question": "Tôi đang cảm thấy hồi hộp, đánh trống ngực và khó thở khi nằm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh cơ tim giãn nở", "Rối loạn lo âu", "Bệnh van tim"]
+    }
+  ]
+}

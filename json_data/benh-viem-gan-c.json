@@ -1,0 +1,187 @@
+{
+  "disease_id": "benh-viem-gan-c",
+  "disease_name": "Bệnh viêm gan C",
+  "disease_alternative_names": [
+    "Viêm gan siêu vi C",
+    "Hepatitis C",
+    "HCV"
+  ],
+  "disease_definition": "Viêm gan C là tình trạng nhiễm trùng gan do siêu vi viêm gan C (HCV) gây ra. Bệnh khiến các tế bào gan bị viêm, gây rối loạn chức năng gan. Theo thống kê của Bộ y tế, nước ta hiện có khoảng 1 triệu người nhiễm virus viêm gan C. Bệnh có thể ở dạng cấp tính (dưới 6 tháng) hoặc mãn tính (trên 6 tháng).",
+  "symptoms": [
+    {
+      "name": "Sốt nhẹ",
+      "description": "Thường xuất hiện trong giai đoạn cấp tính"
+    },
+    {
+      "name": "Buồn nôn hoặc nôn",
+      "description": "Triệu chứng thường gặp trong giai đoạn cấp tính"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài, đặc biệt trong giai đoạn mãn tính"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, ăn không ngon"
+    },
+    {
+      "name": "Vàng da",
+      "description": "Da và mắt có màu vàng do rối loạn chức năng gan"
+    },
+    {
+      "name": "Nước tiểu đậm",
+      "description": "Nước tiểu có màu sẫm hơn bình thường"
+    },
+    {
+      "name": "Phân nhạt màu",
+      "description": "Phân có màu nhạt bất thường"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau vùng bụng trên bên phải"
+    },
+    {
+      "name": "Đau khớp",
+      "description": "Đau nhức các khớp trong cơ thể"
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh do siêu vi viêm gan C (HCV) gây ra. Virus có 6 kiểu gen chính (1-6), trong đó tại Việt Nam chủ yếu là kiểu gen 1, tiếp theo là kiểu gen 6, 2 và 3.",
+    "related_factors": "Các yếu tố nguy cơ bao gồm tiêm chích ma túy, truyền máu không an toàn, thủ thuật y tế không vô trùng, và quan hệ tình dục không an toàn.",
+    "transmission_routes": [
+      "Lây qua đường máu (dùng chung kim tiêm, truyền máu không an toàn)",
+      "Lây qua quan hệ tình dục không an toàn",
+      "Lây từ mẹ sang con trong thai kỳ"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Tiêm chích ma túy",
+      "description": "Sử dụng chung kim tiêm là nguy cơ cao nhất"
+    },
+    {
+      "name": "Nhân viên y tế",
+      "description": "Tiếp xúc với máu và dịch cơ thể của bệnh nhân"
+    },
+    {
+      "name": "Bệnh nhân chạy thận",
+      "description": "Nguy cơ cao do phải truyền máu và lọc máu thường xuyên"
+    },
+    {
+      "name": "Sinh con từ mẹ nhiễm HCV",
+      "description": "Trẻ có nguy cơ bị lây từ mẹ trong thai kỳ"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Viêm gan mạn tính",
+      "description": "Tình trạng viêm gan kéo dài với các triệu chứng suy chức năng gan từ nhẹ đến nặng"
+    },
+    {
+      "name": "Xơ gan",
+      "description": "15-30% người bệnh tiến triển thành xơ gan trong vòng 20 năm"
+    },
+    {
+      "name": "Ung thư gan",
+      "description": "Nguy cơ ung thư gan cao hơn ở người bị xơ gan do HCV"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Xét nghiệm kháng thể HCV",
+        "description": "Phát hiện kháng thể chống virus viêm gan C"
+      },
+      {
+        "name": "Xét nghiệm HCV-RNA",
+        "description": "Đo tải lượng virus trong máu"
+      },
+      {
+        "name": "Xét nghiệm kiểu gen",
+        "description": "Xác định kiểu gen virus để lựa chọn phương pháp điều trị"
+      },
+      {
+        "name": "Xét nghiệm chức năng gan",
+        "description": "Đánh giá mức độ tổn thương gan"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị viêm gan C hiện nay chủ yếu sử dụng thuốc kháng virus trực tiếp (DAAs) với tỷ lệ điều trị thành công cao (trên 95%). Việc lựa chọn phác đồ điều trị phụ thuộc vào kiểu gen virus và mức độ tổn thương gan.",
+    "methods": [
+      {
+        "name": "Thuốc kháng virus trực tiếp",
+        "description": "Sử dụng các thuốc DAAs như Sofosbuvir, Ledipasvir, Daclatasvir"
+      },
+      {
+        "name": "Điều trị hỗ trợ",
+        "description": "Bổ sung dinh dưỡng và các thuốc bảo vệ gan"
+      },
+      {
+        "name": "Ghép gan",
+        "description": "Áp dụng cho các trường hợp biến chứng nghiêm trọng"
+      }
+    ],
+    "recommendations": [
+      "Chế độ ăn giàu dinh dưỡng",
+      "Hạn chế thức ăn nhanh và dầu mỡ",
+      "Kiêng rượu bia hoàn toàn",
+      "Bỏ thuốc lá",
+      "Nghỉ ngơi hợp lý"
+    ],
+    "prevention_of_transmission": [
+      "Không dùng chung kim tiêm hoặc dụng cụ tiêm chích",
+      "Sử dụng bao cao su khi quan hệ tình dục",
+      "Không dùng chung đồ dùng cá nhân có thể dính máu",
+      "Thông báo tình trạng bệnh cho nhân viên y tế khi khám chữa bệnh"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vắc xin phòng ngừa viêm gan C.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Không dùng chung kim tiêm",
+      "Tránh tiếp xúc trực tiếp với máu",
+      "Không dùng chung vật dụng cá nhân",
+      "Chọn cơ sở y tế uy tín",
+      "Quan hệ tình dục an toàn",
+      "Khám sức khỏe định kỳ"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Có vắc xin phòng viêm gan C không?",
+      "related_diseases": [
+        "viêm gan A",
+        "viêm gan B",
+        "viêm gan C"
+      ]
+    },
+    {
+      "question": "Viêm gan C có lây qua đường tình dục không?",
+      "related_diseases": [
+        "viêm gan B",
+        "viêm gan C",
+        "HIV/AIDS"
+      ]
+    },
+    {
+      "question": "Viêm gan C có chữa được không?",
+      "related_diseases": [
+        "viêm gan C mạn tính",
+        "xơ gan",
+        "ung thư gan"
+      ]
+    },
+    {
+      "question": "Mang thai khi bị viêm gan C có nguy hiểm không?",
+      "related_diseases": [
+        "viêm gan C",
+        "viêm gan B",
+        "HIV/AIDS"
+      ]
+    }
+  ]
+} 

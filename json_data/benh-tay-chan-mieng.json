@@ -1,0 +1,226 @@
+{
+  "disease_id": "benh-tay-chan-mieng",
+  "disease_name": "Bệnh Tay Chân Miệng",
+  "disease_alternative_names": ["HFMD", "Hand, foot and mouth disease"],
+  "disease_definition": "Bệnh tay chân miệng là căn bệnh truyền nhiễm do virus gây ra, đặc trưng bởi tình trạng sốt và sự xuất hiện của các nốt mụn nước, điển hình ở lòng bàn chân, tay và vòm miệng. Bệnh thường gặp ở trẻ nhũ nhi và trẻ nhỏ dưới 5 tuổi, một số ít ở người trưởng thành. Bệnh thường xảy ra quanh năm, nhưng bùng phát cao điểm là khoảng tháng 2 đến tháng 4 và từ tháng 9 đến tháng 12.",
+  "symptoms": [
+    {
+      "name": "Sốt và các triệu chứng ban đầu",
+      "description": "Trong giai đoạn khởi phát, trẻ thường có biểu hiện sốt nhẹ, đau họng, mệt mỏi, biếng ăn, quấy khóc. Nếu trẻ sốt cao liên tục hoặc sốt kéo dài trên 2 ngày, có thể là dấu hiệu của biến chứng viêm não."
+    },
+    {
+      "name": "Lở loét miệng",
+      "description": "Sau khoảng 1-2 ngày sau khi bắt đầu sốt, trẻ xuất hiện những nốt ban đỏ nhỏ ở phía trong miệng, trên đầu lưỡi, hay vòm miệng. Các nốt này nhanh chóng trở thành bóng nước (2-3mm), dễ vỡ và loét, gây đau khi nuốt, chảy nước dãi nhiều và khiến trẻ biếng ăn."
+    },
+    {
+      "name": "Phát ban trên da",
+      "description": "Bề mặt da xuất hiện những chấm tròn đỏ phẳng hoặc gồ, dạng phỏng nước, tập trung chủ yếu ở lòng bàn tay, lòng bàn chân, đầu gối, khuỷu tay, và mông. Đặc điểm của các sang thương da này là thường không ngứa, không đau và đa số không để lại sẹo khi lành."
+    },
+    {
+      "name": "Triệu chứng cảnh báo biến chứng nặng",
+      "description": "Trong trường hợp diễn biến nặng, bệnh có thể kèm theo sốt cao không hạ, trẻ giật mình, tim đập nhanh, khó thở, tay chân run rẩy, da nổi vằn, bị kích thích, quấy khóc liên tục, co giật, yếu chi, nôn ói liên tục, thở mệt."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh tay chân miệng là căn bệnh truyền nhiễm thường xảy ra do sự xâm nhập của virus Coxsackie A16 hoặc enterovirus 71 (EV71) - trong đó EV71 ít gặp nhưng lại gây ra những biến chứng nặng nề hơn. Bệnh cũng có thể được gây ra do một số chủng virus nhóm A khác như Coxsackie A4-A7, A9, A10 hoặc virus Coxsackie nhóm B (B1-B3, và B5).",
+    "related_factors": "Virus gây bệnh tay chân miệng chỉ có thể bị tiêu diệt ở nhiệt độ 560 độ C sau 30 phút. Trong điều kiện nhiệt độ lạnh (-40 độ C), virus sẽ sống được đến 3 tuần ở môi trường bên ngoài. Do đó, trẻ có thể nhiễm bệnh khi tiếp xúc với các bề mặt hoặc vật dụng có chứa virus.",
+    "transmission_routes": [
+      "Tiếp xúc trực tiếp với nước bọt, chất dịch từ các bọng nước, chất nôn của người bệnh",
+      "Qua giọt bắn khi ho hoặc hắt hơi",
+      "Tiếp xúc với đồ ăn, uống, mặt bàn, đồ chơi chung, ghế có chứa virus gây bệnh"
+    ]
+  },
+  "risk_factors": [
+    "Trẻ em dưới 5 tuổi, đặc biệt là nhóm dưới 3 tuổi",
+    "Môi trường đông đúc như trường học, nhà trẻ",
+    "Thời tiết nóng ẩm",
+    "Giai đoạn chuyển mùa",
+    "Tiếp xúc với người bệnh trong giai đoạn có khả năng lây nhiễm",
+    "Vệ sinh kém, không rửa tay thường xuyên"
+  ],
+  "complications": [
+    "Viêm màng não, viêm não và viêm não tủy, gây rối loạn tri giác, mê sảng, co giật và rối loạn vận động",
+    "Viêm cơ tim, tăng huyết áp, suy tim, trụy mạch",
+    "Bội nhiễm do vi khuẩn xâm nhập tại các nốt mụn trên da",
+    "Suy hô hấp do biến chứng thần kinh trung ương",
+    "Tử vong trong trường hợp nặng và không được điều trị kịp thời"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Thăm khám lâm sàng dựa trên các triệu chứng đặc trưng",
+      "Đánh giá độ tuổi và tình trạng bệnh của trẻ",
+      "Kiểm tra các dấu hiệu sinh tồn và biến chứng có thể có"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm dịch hầu họng",
+        "description": "Lấy mẫu dịch từ họng của trẻ để xác định chủng virus gây bệnh thông qua các kỹ thuật PCR hoặc nuôi cấy virus."
+      },
+      {
+        "name": "Xét nghiệm dịch từ vết loét",
+        "description": "Lấy mẫu dịch từ các vết loét, bóng nước trên da, miệng để xác định loại virus gây bệnh."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Trong một số trường hợp cần phân biệt với các bệnh khác hoặc đánh giá mức độ nặng của bệnh."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Hiện nay, bệnh tay chân miệng ở trẻ em vẫn chưa có thuốc đặc trị. Các phương pháp điều trị hiện có đều dựa trên nguyên tắc tập trung điều trị triệu chứng, giúp trẻ cảm thấy thoải mái hơn và ngăn chặn bệnh gây ra các biến chứng nguy hiểm.",
+    "methods": [
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Dùng thuốc hạ sốt, giảm đau (Paracetamol) theo chỉ định của bác sĩ. Không sử dụng thuốc kháng sinh (trừ trường hợp có bội nhiễm)."
+      },
+      {
+        "name": "Điều trị hỗ trợ và chăm sóc tại nhà",
+        "description": "Cho trẻ nghỉ ngơi, uống nhiều nước, súc miệng bằng nước muối ấm, tránh thức ăn cứng, chua cay kích thích vết loét."
+      },
+      {
+        "name": "Bù nước và điện giải",
+        "description": "Đặc biệt quan trọng nếu trẻ bị sốt cao, tiêu chảy, nôn mửa hoặc biếng ăn."
+      },
+      {
+        "name": "Điều trị tại bệnh viện",
+        "description": "Đối với trường hợp nặng có biến chứng thần kinh, tim mạch, hô hấp cần được nhập viện và điều trị tích cực."
+      }
+    ],
+    "recommendations": [
+      "Cách ly trẻ tại nhà trong khoảng 10-14 ngày kể từ ngày phát bệnh để tránh lây lan",
+      "Cho trẻ ăn thức ăn mềm, dễ nuốt và dễ tiêu hóa; chia nhỏ bữa ăn",
+      "Tránh thức ăn quá nóng, chua cay làm tăng đau vết loét miệng",
+      "Bổ sung đủ nước để tránh mất nước, đặc biệt khi trẻ sốt",
+      "Vệ sinh miệng và các vết loét cẩn thận để tránh bội nhiễm",
+      "Theo dõi sát các dấu hiệu biến chứng nguy hiểm để đưa trẻ đến bệnh viện kịp thời",
+      "Tái khám theo lịch hẹn của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly trẻ bệnh với trẻ khác và người trong nhà",
+      "Người chăm sóc trẻ nên đeo khẩu trang, rửa tay sát khuẩn thường xuyên",
+      "Xử lý phân, chất thải, quần áo của trẻ bệnh một cách an toàn và vệ sinh",
+      "Khử trùng đồ chơi, vật dụng mà trẻ bệnh đã tiếp xúc"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện tại chưa có vaccine phòng ngừa bệnh tay chân miệng.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tập cho trẻ thói quen thường xuyên rửa tay với xà phòng hoặc dung dịch khử khuẩn, nhất là trước khi ăn và sau khi đi vệ sinh",
+      "Thường xuyên dọn dẹp, khử trùng môi trường sống và đồ chơi của trẻ",
+      "Tránh tiếp xúc thân mật hoặc dùng chung vật dụng cá nhân với người nhiễm bệnh",
+      "Khi trẻ bệnh, cách ly tại nhà và hạn chế tiếp xúc với người khác",
+      "Dùng tay hoặc khăn giấy che miệng và mũi khi hắt hơi, ho",
+      "Theo dõi các triệu chứng và tình trạng bệnh của trẻ để phản ứng kịp thời",
+      "Giữ vệ sinh thực phẩm, ăn chín uống sôi"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh tay chân miệng có lây không và trẻ lây bệnh trong bao lâu?",
+      "answer": "Bệnh tay chân miệng rất dễ lây lan, đặc biệt trong môi trường đông đúc như trường học, nhà trẻ. Bệnh lây qua đường tiếp xúc với nước bọt, dịch từ bọng nước, phân, và các đồ vật bị nhiễm virus. Trẻ có thể lây nhiễm mạnh nhất trong tuần đầu tiên mắc bệnh, nhưng virus có thể tồn tại trong phân đến vài tháng sau đó. Vì vậy, trẻ mắc bệnh cần được cách ly khoảng 10-14 ngày kể từ khi xuất hiện triệu chứng."
+    },
+    {
+      "question": "Khi nào cần đưa trẻ bị tay chân miệng đến bệnh viện ngay lập tức?",
+      "answer": "Cần đưa trẻ đến bệnh viện ngay khi có các dấu hiệu cảnh báo như: sốt cao liên tục hoặc sốt không hạ sau khi dùng thuốc, trẻ giật mình, tim đập nhanh, khó thở, tay chân run rẩy, da nổi vằn, quấy khóc liên tục, co giật, yếu chi, nôn ói liên tục, thở mệt, lừ đừ hoặc li bì. Đây có thể là các dấu hiệu của biến chứng nguy hiểm như viêm não, viêm màng não hoặc viêm cơ tim cần được xử trí khẩn cấp."
+    },
+    {
+      "question": "Trẻ đã mắc bệnh tay chân miệng có thể bị lại không?",
+      "answer": "Có, trẻ đã từng mắc bệnh tay chân miệng vẫn có thể tái nhiễm nhiều lần. Điều này là do bệnh có thể được gây ra bởi nhiều chủng virus khác nhau như Coxsackie A16, enterovirus 71 (EV71), và các chủng virus Coxsackie A và B khác. Miễn dịch sau khi mắc bệnh chỉ bảo vệ trẻ khỏi chủng virus cụ thể đã gây bệnh trước đó, không bảo vệ chống lại các chủng virus khác. Vì vậy, cần duy trì các biện pháp phòng ngừa ngay cả khi trẻ đã từng mắc bệnh."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sốt nhẹ, mệt mỏi, chán ăn và đau họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tay chân miệng",
+        "cảm cúm",
+        "viêm họng",
+        "nhiễm virus"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau rát răng miệng và biếng ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tay chân miệng",
+        "viêm miệng",
+        "nhiệt miệng",
+        "viêm nha chu"
+      ]
+    },
+    {
+      "question": "Tôi đang bị nổi ban ở tay, chân và miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tay chân miệng",
+        "bệnh chốc lở",
+        "dị ứng da",
+        "thủy đậu"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau khi nuốt và chảy nước dãi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tay chân miệng",
+        "viêm amidan",
+        "viêm họng",
+        "áp xe quanh amidan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị lở loét miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tay chân miệng",
+        "nhiệt miệng",
+        "viêm miệng",
+        "thiếu vitamin B"
+      ]
+    },
+    {
+      "question": "Tôi có triệu chứng phỏng nước ở lòng bàn tay và lòng bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tay chân miệng",
+        "chàm",
+        "dị ứng da",
+        "bệnh ghẻ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sốt cao không hạ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tay chân miệng có biến chứng",
+        "sốt xuất huyết",
+        "nhiễm trùng huyết",
+        "viêm màng não"
+      ]
+    },
+    {
+      "question": "Tôi có triệu chứng co giật và yếu chi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tay chân miệng có biến chứng",
+        "viêm não",
+        "viêm màng não",
+        "động kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị rối loạn tri giác và mê sảng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tay chân miệng có biến chứng",
+        "viêm não",
+        "viêm màng não",
+        "nhiễm trùng huyết"
+      ]
+    },
+    {
+      "question": "Tôi đang yếu chi và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh tay chân miệng có biến chứng",
+        "viêm cơ tim",
+        "viêm não",
+        "bại liệt"
+      ]
+    }
+  ]
+}

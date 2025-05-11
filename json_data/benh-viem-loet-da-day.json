@@ -1,0 +1,269 @@
+{
+  "disease_id": "benh-viem-loet-da-day",
+  "disease_name": "Bệnh Viêm Loét Dạ Dày",
+  "disease_alternative_names": [
+    "Viêm loét dạ dày tá tràng",
+    "Gastric Ulcer",
+    "Peptic Ulcer Disease"
+  ],
+  "disease_definition": "Viêm loét dạ dày là tình trạng niêm mạc dạ dày bị tổn thương, viêm sưng, lâu dần tạo thành các vết loét gây triệu chứng. Những vết loét nhỏ trong giai đoạn đầu có thể tự lành lại mà không cần điều trị. Tuy nhiên, đối với các vết loét lớn, gây nhiều triệu chứng, cần được chẩn đoán và điều trị kịp thời.",
+  "symptoms": [
+    {
+      "name": "Đau thượng vị",
+      "description": "Nóng rát, cồn cào và đau ở vùng bụng trên rốn (đau vùng thượng vị). Thông thường, cơn đau sẽ dữ dội hơn khi dạ dày trống, không chứa thức ăn. Tùy vào mức độ bệnh mà cơn đau có thể kéo dài từ vài phút đến vài giờ."
+    },
+    {
+      "name": "Đầy hơi, khó tiêu",
+      "description": "Cảm giác đầy bụng, khó chịu sau khi ăn, khó tiêu hóa thức ăn."
+    },
+    {
+      "name": "Buồn nôn hoặc nôn",
+      "description": "Cảm giác buồn nôn hoặc nôn ra thức ăn, đôi khi có lẫn máu."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Dễ cảm thấy no khi ăn hoặc không muốn ăn vì cơn đau, dẫn đến tình trạng biếng ăn."
+    },
+    {
+      "name": "Ợ hơi, ợ chua",
+      "description": "Thường xuyên ợ hơi, ợ chua hoặc có cảm giác trào ngược axit từ dạ dày lên thực quản."
+    },
+    {
+      "name": "Rối loạn giấc ngủ",
+      "description": "Khó ngủ, ngủ không ngon giấc do các cơn đau dạ dày, đặc biệt vào ban đêm."
+    },
+    {
+      "name": "Mệt mỏi, suy nhược",
+      "description": "Cơ thể mệt mỏi, suy nhược do thiếu hụt dinh dưỡng hoặc mất máu mạn tính."
+    },
+    {
+      "name": "Phân đen hoặc máu",
+      "description": "Đi cầu phân đen hoặc có máu, là dấu hiệu của xuất huyết tiêu hóa, cần được xử trí cấp cứu ngay."
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân không mong muốn do ăn uống kém, hấp thu dinh dưỡng giảm hoặc do xuất huyết tiêu hóa mạn tính."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính gây viêm loét dạ dày là nhiễm vi khuẩn Helicobacter pylori (HP) và sử dụng thuốc chống viêm không steroid (NSAID) như ibuprofen, naproxen, diclofenac trong thời gian dài.",
+    "related_factors": "Vi khuẩn HP sau khi xâm nhập vào dạ dày sẽ chui vào lớp nhầy của niêm mạc dạ dày, tiết ra độc tố làm tổn thương niêm mạc dạ dày, ức chế sản xuất yếu tố bảo vệ niêm mạc dạ dày hình thành các vết loét. Thuốc NSAID gây ức chế quá trình tổng hợp prostaglandin, làm giảm hiệu quả bảo vệ niêm mạc dạ dày. Các yếu tố khác bao gồm tăng tiết axit trong dạ dày và hiếm gặp hơn là hội chứng Zollinger-Ellison.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Hút thuốc lá thường xuyên",
+    "Uống rượu, bia và các thức uống có cồn",
+    "Căng thẳng, lo lắng kéo dài",
+    "Ăn uống không điều độ, thiếu khoa học",
+    "Thường xuyên bỏ bữa sáng",
+    "Thức khuya",
+    "Lười vận động",
+    "Tuổi trên 50",
+    "Sử dụng lâu dài các thuốc kháng viêm không steroid (NSAID)",
+    "Tiền sử gia đình có người mắc bệnh viêm loét dạ dày"
+  ],
+  "complications": [
+    "Xuất huyết tiêu hóa: Biến chứng phổ biến, có thể dẫn đến mất máu, gây chóng mặt, da nhợt nhạt, nôn ra máu hoặc phân có màu đen",
+    "Thủng dạ dày: Vết loét lâu ngày có thể khiến dạ dày bị thủng, gây đau bụng đột ngột, dữ dội",
+    "Hẹp môn vị: Hình thành các mô viêm xơ ở môn vị, ngăn cản quá trình vận chuyển của thức ăn, gây nôn ói, bụng óc ách thức ăn cũ và sụt cân nhanh",
+    "Ung thư dạ dày: Viêm loét dạ dày mạn tính là yếu tố nguy cơ hình thành các khối u ác tính ở dạ dày"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Đánh giá các triệu chứng và thời gian diễn biến",
+      "Xem xét tiền sử bệnh và các loại thuốc đang sử dụng"
+    ],
+    "tests": [
+      {
+        "name": "Nội soi dạ dày",
+        "description": "Là phương pháp hiệu quả nhất và được áp dụng rộng rãi trong chẩn đoán bệnh viêm loét dạ dày. Giúp bác sĩ có cái nhìn trực quan về tình trạng bên trong dạ dày, đánh giá chính xác vị trí và mức độ tổn thương."
+      },
+      {
+        "name": "Sinh thiết mô dạ dày",
+        "description": "Lấy mẫu mô quanh vị trí tổn thương trong quá trình nội soi để xác định tình trạng nhiễm khuẩn HP hoặc các vấn đề nghi ngờ khác như tế bào ác tính."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Nhằm tìm kháng thể kháng HP và đánh giá tình trạng thiếu máu do mất máu mạn tính."
+      },
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Kiểm tra sự hiện diện của vi khuẩn HP hoặc máu ẩn trong phân."
+      },
+      {
+        "name": "Xét nghiệm hơi thở",
+        "description": "Phát hiện vi khuẩn HP thông qua phân tích hơi thở của người bệnh."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Tùy theo nguyên nhân gây viêm loét mà bác sĩ sẽ lựa chọn phương pháp điều trị phù hợp với người bệnh. Điều quan trọng là bệnh nhân phải đi khám sớm ngay khi có các biểu hiện bất thường.",
+    "methods": [
+      {
+        "name": "Điều trị tiệt trừ vi khuẩn HP",
+        "description": "Phác đồ bao gồm kết hợp các loại kháng sinh và thuốc ức chế bơm proton để tiêu diệt vi khuẩn. Phác đồ phổ biến hiện nay là phác đồ 4 thuốc có Bismuth hoặc có Levofloxacin."
+      },
+      {
+        "name": "Thuốc ức chế bơm proton (PPI)",
+        "description": "Giúp giảm sản xuất axit trong dạ dày, tạo điều kiện cho vết loét lành lại nhanh chóng."
+      },
+      {
+        "name": "Thuốc kháng H2",
+        "description": "Giảm lượng axit dạ dày tiết ra bằng cách ngăn chặn tế bào histamine 2 kích thích việc sản xuất axit."
+      },
+      {
+        "name": "Thuốc bảo vệ niêm mạc dạ dày",
+        "description": "Giúp bảo vệ các mô bị tổn thương khỏi axit dạ dày, thúc đẩy quá trình lành vết loét."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Chỉ được áp dụng trong một số trường hợp hiếm gặp khi điều trị nội khoa không hiệu quả hoặc có biến chứng như thủng dạ dày, xuất huyết không cầm được, hẹp môn vị gây tắc nghẽn."
+      }
+    ],
+    "recommendations": [
+      "Tuyệt đối tuân thủ liệu trình điều trị theo chỉ định của bác sĩ",
+      "Ngừng sử dụng thuốc NSAID nếu được",
+      "Kiêng rượu bia và thuốc lá",
+      "Ăn uống điều độ, chia nhỏ bữa ăn",
+      "Tránh các thực phẩm cay nóng, nhiều axit, đồ chiên rán",
+      "Thực hiện tái khám theo lịch hẹn của bác sĩ",
+      "Quản lý stress hiệu quả",
+      "Uống thuốc đúng liều lượng và thời gian, không tự ý giảm liều hoặc ngừng uống thuốc"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vaccine phòng ngừa bệnh viêm loét dạ dày.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Bỏ hút thuốc lá, tránh rượu và caffein",
+      "Hạn chế sử dụng các thuốc NSAID như Ibuprofen, aspirin và naproxen",
+      "Thường xuyên rửa tay bằng xà phòng và nước để tránh nguy cơ nhiễm trùng HP",
+      "Ăn chín, uống sôi, hạn chế ăn hàng quán không đảm bảo vệ sinh",
+      "Học cách kiểm soát căng thẳng",
+      "Bổ sung trái cây và rau quả trong khẩu phần ăn hàng ngày",
+      "Ăn nhiều thực phẩm giàu chất xơ hòa tan (yến mạch, đậu Hà Lan, táo, cà rốt, lúa mạch...)",
+      "Bổ sung probiotics (lợi khuẩn) từ các thực phẩm như sữa chua, kim chi, kefir",
+      "Tăng cường thực phẩm giàu vitamin C và kẽm",
+      "Tránh ăn uống không đúng giờ, bỏ bữa sáng và thức khuya"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Viêm loét dạ dày có phải mổ không?",
+      "answer": "Tình trạng viêm loét dạ dày thường được điều trị bằng phương pháp nội khoa. Tuy nhiên, trong một số trường hợp hiếm gặp, bệnh vẫn có thể được chỉ định mổ. Đó thường là khi điều trị nội khoa không đem lại hiệu quả tích cực hoặc khi bệnh có biến chứng cần phải can thiệp phẫu thuật như xuất huyết nặng không cầm được bằng nội soi, thủng dạ dày, hoặc hẹp môn vị."
+    },
+    {
+      "question": "Viêm loét dạ dày HP dương tính là gì?",
+      "answer": "Viêm loét dạ dày HP dương tính là tình trạng viêm loét dạ dày có nguyên nhân từ vi khuẩn Helicobacter pylori (HP). Kết quả xét nghiệm dương tính có nghĩa là có vi khuẩn HP trong dạ dày. Vi khuẩn này không chỉ gây viêm loét dạ dày mà còn là nguyên nhân của rất nhiều bệnh lý đường tiêu hóa khác, trong đó có ung thư dạ dày. Khi phát hiện HP dương tính, bác sĩ sẽ chỉ định điều trị tiệt trừ vi khuẩn bằng phác đồ kháng sinh kết hợp thuốc ức chế bơm proton."
+    },
+    {
+      "question": "Siêu âm có phát hiện viêm loét dạ dày không?",
+      "answer": "Siêu âm dạ dày không giúp bác sĩ phát hiện viêm loét dạ dày. Hiện nay, phương pháp tối ưu nhất để chẩn đoán viêm loét dạ dày là nội soi dạ dày. Nhờ hình ảnh được truyền từ camera của ống nội soi, bác sĩ có thể quan sát rõ ràng mức độ và vị trí tổn thương, đồng thời có thể sinh thiết để xét nghiệm HP xác định chẩn đoán."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nóng rát, cồn cào và đau ở vùng bụng trên rốn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh viêm loét dạ dày",
+        "viêm dạ dày cấp",
+        "trào ngược dạ dày thực quản",
+        "viêm tụy",
+        "sỏi mật"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng dữ dội hơn khi dạ dày trống, không chứa thức ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh viêm loét dạ dày",
+        "viêm loét tá tràng",
+        "tăng tiết axit dạ dày",
+        "hội chứng đau thượng vị chức năng"
+      ]
+    },
+    {
+      "question": "Tôi hay ợ hơi, ợ chua hoặc trào ngược axit. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh viêm loét dạ dày",
+        "trào ngược dạ dày thực quản",
+        "viêm dạ dày",
+        "thoát vị hoành",
+        "rối loạn co thắt thực quản"
+      ]
+    },
+    {
+      "question": "Tôi hay cảm thấy no khi ăn hoặc không muốn ăn vì cơn đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh viêm loét dạ dày",
+        "viêm dạ dày mạn tính",
+        "ung thư dạ dày",
+        "hội chứng ruột kích thích",
+        "viêm tụy mạn"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị đi cầu phân đen hoặc máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh viêm loét dạ dày biến chứng xuất huyết",
+        "loét tá tràng xuất huyết",
+        "ung thư đại trực tràng",
+        "trĩ nội",
+        "bệnh trĩ ngoại"
+      ]
+    },
+    {
+      "question": "Tôi đang có tình trạng sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh viêm loét dạ dày mạn tính",
+        "ung thư dạ dày",
+        "bệnh Crohn",
+        "viêm tụy mạn",
+        "lao phổi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vùng bụng trên rốn, khó ngủ, ngủ không ngon giấc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh viêm loét dạ dày",
+        "rối loạn lo âu",
+        "trào ngược dạ dày thực quản",
+        "hội chứng ruột kích thích",
+        "viêm tụy"
+      ]
+    },
+    {
+      "question": "Tôi bị đầy hơi, khó tiêu, dễ cảm thấy no khi ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh viêm loét dạ dày",
+        "rối loạn vận động dạ dày",
+        "hội chứng ruột kích thích",
+        "viêm túi mật",
+        "sỏi mật"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau thượng vị, buồn nôn, đi cầu phân đen hoặc máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh viêm loét dạ dày xuất huyết",
+        "viêm loét tá tràng xuất huyết",
+        "giãn tĩnh mạch thực quản",
+        "ung thư dạ dày",
+        "bệnh lý gan mật"
+      ]
+    },
+    {
+      "question": "Tôi hay ợ hơi, ợ chua, trào ngược axit, đau khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh viêm loét dạ dày",
+        "bệnh trào ngược dạ dày thực quản",
+        "viêm khớp dạng thấp",
+        "lupus ban đỏ hệ thống",
+        "xơ cứng bì"
+      ]
+    }
+  ]
+}

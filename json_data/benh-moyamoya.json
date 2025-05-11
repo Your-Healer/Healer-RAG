@@ -1,0 +1,201 @@
+{
+  "disease_id": "benh-moyamoya",
+  "disease_name": "Bệnh Moyamoya",
+  "disease_alternative_names": ["Hội chứng Moyamoya", "Bệnh tắc nghẽn mạch nền sọ", "Moyamoya Disease"],
+  "disease_definition": "Bệnh Moyamoya là một bệnh lý mạch máu não hiếm gặp, tiến triển mạn tính, đặc trưng bởi tình trạng hẹp hoặc tắc nghẽn của động mạch cảnh trong hộp sọ và các nhánh của nó. Cơ thể bù đắp bằng cách phát triển một mạng lưới mạch máu nhỏ ở nền não, trông giống như 'làn khói mờ' trên phim chụp mạch (từ 'moyamoya' trong tiếng Nhật có nghĩa là đám mây khói). Bệnh có thể dẫn đến đột quỵ do thiếu máu não hoặc xuất huyết não.",
+  "symptoms": [
+    {
+      "name": "Đột quỵ thiếu máu não",
+      "description": "Tắc nghẽn mạch máu dẫn đến thiếu máu cục bộ và tổn thương não, biểu hiện bằng yếu liệt, tê, mất cảm giác hoặc khó nói. Đây là triệu chứng phổ biến ở trẻ em mắc bệnh Moyamoya."
+    },
+    {
+      "name": "Cơn thiếu máu não thoáng qua (TIA)",
+      "description": "Các triệu chứng tương tự như đột quỵ nhưng chỉ kéo dài trong thời gian ngắn (thường dưới một giờ) và hồi phục hoàn toàn. Có thể tái diễn nhiều lần."
+    },
+    {
+      "name": "Xuất huyết não",
+      "description": "Chảy máu trong não do vỡ các mạch máu bất thường đã hình thành. Đây là triệu chứng phổ biến ở người lớn mắc bệnh Moyamoya, biểu hiện bằng đau đầu dữ dội, buồn nôn, nôn, giảm ý thức."
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau đầu thường xuyên do sự giãn nở của các mạch máu não để bù đắp cho lưu lượng máu giảm."
+    },
+    {
+      "name": "Co giật",
+      "description": "Co giật có thể xảy ra do tổn thương não từ các cơn đột quỵ trước đó hoặc do thiếu oxy não."
+    },
+    {
+      "name": "Rối loạn vận động",
+      "description": "Các cử động không tự chủ, run, giật, khó kiểm soát chi."
+    },
+    {
+      "name": "Suy giảm nhận thức",
+      "description": "Khó tập trung, giảm trí nhớ, chậm phát triển trí tuệ ở trẻ em."
+    },
+    {
+      "name": "Rối loạn thị giác",
+      "description": "Nhìn mờ, nhìn đôi, mất thị lực một phần, hoặc mất hoàn toàn tạm thời."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính xác của bệnh Moyamoya vẫn chưa được hiểu rõ. Tuy nhiên, nghiên cứu cho thấy yếu tố di truyền đóng vai trò quan trọng, đặc biệt trong các trường hợp bệnh Moyamoya nguyên phát.",
+    "related_factors": "Bệnh Moyamoya thứ phát có thể liên quan đến một số bệnh lý khác như hội chứng Down, bệnh hồng cầu hình liềm, u xơ thần kinh loại 1, bệnh Graves, viêm mạch máu não, và sau xạ trị vùng đầu. Đột biến gen RNF213 đã được phát hiện ở nhiều bệnh nhân, đặc biệt là người gốc Đông Á.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Có nguồn gốc châu Á, đặc biệt là Nhật Bản, Hàn Quốc và Trung Quốc",
+    "Giới tính nữ (phụ nữ có nguy cơ cao hơn nam giới)",
+    "Tiền sử gia đình có người mắc bệnh Moyamoya",
+    "Mắc các bệnh di truyền như hội chứng Down, u xơ thần kinh loại 1",
+    "Bệnh hồng cầu hình liềm hoặc các bệnh về máu khác",
+    "Viêm mạch máu tự miễn",
+    "Đã từng xạ trị vùng đầu và cổ",
+    "Bệnh tuyến giáp như bệnh Graves"
+  ],
+  "complications": [
+    "Đột quỵ tái phát",
+    "Tổn thương não vĩnh viễn",
+    "Xuất huyết não tái phát",
+    "Suy giảm vận động",
+    "Chậm phát triển trí tuệ ở trẻ em",
+    "Rối loạn ngôn ngữ",
+    "Động kinh",
+    "Rối loạn tầm nhìn",
+    "Tử vong (trong các trường hợp xuất huyết não nặng)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Đánh giá tiền sử và triệu chứng lâm sàng",
+      "Khám thần kinh toàn diện",
+      "Chẩn đoán hình ảnh mạch máu não"
+    ],
+    "tests": [
+      {
+        "name": "Chụp cộng hưởng từ (MRI) não",
+        "description": "Hiển thị cấu trúc não và có thể phát hiện các dấu hiệu của đột quỵ trước đó, các tổn thương não do thiếu máu cục bộ hoặc xuất huyết."
+      },
+      {
+        "name": "Chụp mạch cộng hưởng từ (MRA)",
+        "description": "Cho phép đánh giá mạch máu não không xâm lấn, có thể thấy sự hẹp hoặc tắc nghẽn các động mạch lớn và sự hiện diện của mạng lưới mạch máu bàng hệ (moyamoya)."
+      },
+      {
+        "name": "Chụp mạch máu não (Cerebral Angiography)",
+        "description": "Tiêu chuẩn vàng để chẩn đoán bệnh Moyamoya, cho phép đánh giá chi tiết nhất tình trạng mạch máu não, mức độ hẹp/tắc nghẽn và mạng lưới mạch máu bàng hệ."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT) não",
+        "description": "Có thể phát hiện xuất huyết não, nhồi máu não, nhưng ít chính xác hơn MRI trong việc đánh giá mạch máu não."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính mạch máu (CT Angiography)",
+        "description": "Đánh giá mạch máu não, có thể thấy hẹp/tắc nghẽn và mạch máu bàng hệ."
+      },
+      {
+        "name": "Chụp PET (Positron Emission Tomography)",
+        "description": "Đánh giá tưới máu não và chuyển hóa, giúp xác định các vùng não có nguy cơ thiếu máu cục bộ."
+      },
+      {
+        "name": "Xét nghiệm di truyền",
+        "description": "Phát hiện các đột biến gen liên quan đến bệnh Moyamoya, đặc biệt là gen RNF213 ở bệnh nhân châu Á."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh Moyamoya nhằm mục đích cải thiện lưu lượng máu não, giảm nguy cơ đột quỵ và xuất huyết não, kiểm soát các triệu chứng. Phương pháp điều trị chính là phẫu thuật tái thông mạch máu não, kết hợp với điều trị nội khoa để kiểm soát triệu chứng và yếu tố nguy cơ.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc chống kết tập tiểu cầu (như aspirin) để giảm nguy cơ đột quỵ; thuốc chống co giật nếu có động kinh; và thuốc kiểm soát các yếu tố nguy cơ như tăng huyết áp. Thuốc chẹn kênh canxi có thể giúp giảm đau đầu và các triệu chứng liên quan đến TIA."
+      },
+      {
+        "name": "Phẫu thuật tái thông mạch máu trực tiếp",
+        "description": "Phẫu thuật bắc cầu mạch máu trực tiếp từ động mạch thái dương nông hoặc các động mạch khác ngoài sọ vào động mạch não giữa hoặc các nhánh của nó, tạo đường dẫn máu mới đến não. Phương pháp này thường ưu tiên ở người lớn."
+      },
+      {
+        "name": "Phẫu thuật tái thông mạch máu gián tiếp",
+        "description": "Các kỹ thuật như EDAS (encephaloduroarteriosynangiosis) và EMS (encephalomyosynangiosis) sử dụng mô có mạch máu đặt trên bề mặt não để kích thích sự phát triển của mạch máu mới. Phương pháp này thường được sử dụng ở trẻ em hoặc khi mạch máu quá nhỏ để thực hiện phẫu thuật trực tiếp."
+      },
+      {
+        "name": "Phẫu thuật kết hợp",
+        "description": "Kết hợp cả phương pháp tái thông mạch máu trực tiếp và gián tiếp để tối đa hóa hiệu quả điều trị."
+      },
+      {
+        "name": "Vật lý trị liệu và phục hồi chức năng",
+        "description": "Giúp cải thiện chức năng vận động và khả năng sinh hoạt hàng ngày sau đột quỵ hoặc tổn thương não."
+      },
+      {
+        "name": "Liệu pháp tâm lý và nhận thức",
+        "description": "Hỗ trợ người bệnh đối phó với các khó khăn về nhận thức, cảm xúc và tâm lý liên quan đến bệnh."
+      }
+    ],
+    "recommendations": [
+      "Theo dõi thường xuyên với bác sĩ chuyên khoa thần kinh mạch máu",
+      "Tuân thủ chế độ dùng thuốc được kê đơn",
+      "Kiểm soát các yếu tố nguy cơ tim mạch như tăng huyết áp, đái tháo đường, rối loạn lipid máu",
+      "Tránh các hoạt động có nguy cơ cao gây chấn thương đầu",
+      "Duy trì lối sống lành mạnh: ăn uống cân đối, tập thể dục nhẹ nhàng, không hút thuốc",
+      "Uống đủ nước để tránh mất nước và làm tăng độ nhớt của máu",
+      "Tham gia các chương trình phục hồi chức năng nếu cần thiết"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Không có biện pháp phòng ngừa đặc hiệu cho bệnh Moyamoya do nguyên nhân chưa rõ ràng",
+      "Tầm soát sớm cho người có nguy cơ cao (có tiền sử gia đình, các bệnh lý liên quan)",
+      "Đối với người đã được chẩn đoán bệnh Moyamoya: tránh hút thuốc, phòng tránh thiếu nước, thận trọng khi sử dụng thuốc co mạch",
+      "Tư vấn di truyền có thể được khuyến nghị cho các gia đình có người mắc bệnh",
+      "Thông báo cho các nhân viên y tế về tình trạng bệnh khi cần điều trị y tế",
+      "Tránh các hoạt động có nguy cơ cao gây chấn thương đầu",
+      "Đeo thẻ cảnh báo y tế để nhân viên y tế biết về tình trạng bệnh trong trường hợp khẩn cấp"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh Moyamoya có chữa khỏi được không?",
+      "answer": "Bệnh Moyamoya là một bệnh mạn tính không thể chữa khỏi hoàn toàn. Tuy nhiên, với phẫu thuật tái thông mạch máu não và điều trị nội khoa phù hợp, có thể cải thiện đáng kể lưu lượng máu não, giảm nguy cơ đột quỵ và xuất huyết não, và cải thiện chất lượng cuộc sống. Nhiều bệnh nhân sau khi phẫu thuật có thể sống một cuộc sống gần như bình thường."
+    },
+    {
+      "question": "Bệnh Moyamoya có di truyền không?",
+      "answer": "Có bằng chứng cho thấy bệnh Moyamoya có yếu tố di truyền. Khoảng 10-15% các trường hợp có tính chất gia đình. Một số gen đã được xác định liên quan đến bệnh, đặc biệt là gen RNF213 ở người châu Á. Nếu trong gia đình có người mắc bệnh Moyamoya, các thành viên khác có nguy cơ cao hơn khoảng 30-40 lần so với dân số chung."
+    },
+    {
+      "question": "Đối với trẻ em mắc bệnh Moyamoya, bệnh có ảnh hưởng đến phát triển trí tuệ không?",
+      "answer": "Bệnh Moyamoya có thể ảnh hưởng đến phát triển trí tuệ ở trẻ em, đặc biệt nếu trẻ bị đột quỵ tái phát hoặc thiếu máu não mạn tính. Việc chẩn đoán sớm và điều trị phẫu thuật kịp thời có thể giúp ngăn ngừa tổn thương não tiến triển và bảo tồn chức năng nhận thức. Tuy nhiên, trẻ có thể cần được đánh giá và hỗ trợ giáo dục đặc biệt tùy theo mức độ ảnh hưởng."
+    },
+    {
+      "question": "Phụ nữ mang thai mắc bệnh Moyamoya có nguy cơ gì không?",
+      "answer": "Thai kỳ có thể làm tăng nguy cơ biến chứng ở phụ nữ mắc bệnh Moyamoya do những thay đổi trong hệ thống tuần hoàn và thể tích máu. Phụ nữ mắc bệnh Moyamoya cần được theo dõi chặt chẽ trong thai kỳ bởi đội ngũ bác sĩ chuyên khoa (sản khoa và thần kinh mạch máu). Trong nhiều trường hợp, việc mang thai vẫn an toàn với sự quản lý y tế phù hợp, nhưng quyết định nên dựa trên đánh giá cá nhân về tình trạng bệnh."
+    },
+    {
+      "question": "Liệu hoạt động thể chất có an toàn cho người mắc bệnh Moyamoya không?",
+      "answer": "Hoạt động thể chất với cường độ nhẹ đến trung bình thường an toàn và có lợi cho bệnh nhân Moyamoya. Tuy nhiên, nên tránh các hoạt động gắng sức mạnh, các môn thể thao tiếp xúc có nguy cơ chấn thương đầu, và các hoạt động gây tăng huyết áp đột ngột. Mỗi bệnh nhân nên tham khảo ý kiến bác sĩ để có khuyến nghị cụ thể phù hợp với tình trạng bệnh của mình."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Các triệu chứng đột quỵ ở bệnh Moyamoya khác gì với đột quỵ thông thường?",
+      "related_diseases": ["Đột quỵ thiếu máu não", "Xuất huyết não", "Tắc mạch não"]
+    },
+    {
+      "question": "Phân biệt bệnh Moyamoya với các nguyên nhân hẹp động mạch cảnh khác",
+      "related_diseases": ["Xơ vữa động mạch cảnh", "Viêm động mạch Takayasu", "Bóc tách động mạch cảnh"]
+    },
+    {
+      "question": "Trẻ em bị đau đầu thường xuyên có phải là dấu hiệu của bệnh Moyamoya không?",
+      "related_diseases": ["Đau đầu migraine ở trẻ em", "U não", "Tăng áp lực nội sọ lành tính"]
+    },
+    {
+      "question": "Bệnh Moyamoya có liên quan đến rối loạn miễn dịch không?",
+      "related_diseases": ["Lupus ban đỏ hệ thống", "Viêm mạch", "Bệnh lý tự miễn thần kinh"]
+    },
+    {
+      "question": "Sau phẫu thuật bệnh Moyamoya, bao lâu thì có thể trở lại cuộc sống bình thường?",
+      "related_diseases": ["Phục hồi chức năng sau đột quỵ", "Hồi phục sau phẫu thuật sọ não"]
+    }
+  ]
+}

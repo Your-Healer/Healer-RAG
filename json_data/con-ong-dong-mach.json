@@ -1,0 +1,387 @@
+{
+  "disease_id": "con-ong-dong-mach",
+  "disease_name": "Còn Ống Động Mạch",
+  "disease_alternative_names": [
+    "Patent Ductus Arteriosus",
+    "PDA",
+    "Shunt động tĩnh mạch ống động mạch",
+    "Còn ống Botallo"
+  ],
+  "disease_definition": "Còn ống động mạch (Patent Ductus Arteriosus - PDA) là một bệnh tim bẩm sinh trong đó ống động mạch - một mạch máu nối động mạch phổi với động mạch chủ trong thai nhi - không tự đóng lại sau khi sinh như bình thường. Tình trạng này khiến máu giàu oxy từ động mạch chủ lưu thông trở lại động mạch phổi, khiến tim và phổi phải làm việc nhiều hơn và có thể gây ra các vấn đề về tim mạch.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Trẻ có thể thở nhanh hơn bình thường, thở gấp, hoặc khó thở khi gắng sức. Đặc biệt khó thở tăng khi nằm xuống."
+    },
+    {
+      "name": "Mệt mỏi bất thường",
+      "description": "Trẻ cảm thấy mệt mỏi nhanh chóng khi vận động, ngay cả với hoạt động nhẹ như bú hoặc ăn."
+    },
+    {
+      "name": "Chậm phát triển",
+      "description": "Trẻ thường tăng cân chậm, ăn uống kém và phát triển thể chất chậm hơn so với trẻ cùng độ tuổi."
+    },
+    {
+      "name": "Đổ mồ hôi quá mức",
+      "description": "Trẻ thường đổ mồ hôi nhiều, đặc biệt là khi khóc hoặc ăn, dù ở nhiệt độ bình thường."
+    },
+    {
+      "name": "Nhịp tim nhanh",
+      "description": "Tim đập nhanh hơn bình thường do phải làm việc nhiều hơn để bơm máu."
+    },
+    {
+      "name": "Phù nề",
+      "description": "Có thể xuất hiện phù ở chân và mắt cá chân do tình trạng ứ máu."
+    },
+    {
+      "name": "Tím tái",
+      "description": "Môi, móng tay và da có thể có màu xanh tím, đặc biệt khi trẻ gắng sức, do thiếu oxy."
+    },
+    {
+      "name": "Nhiễm trùng đường hô hấp thường xuyên",
+      "description": "Trẻ dễ bị viêm phổi, viêm phế quản và các bệnh đường hô hấp khác tái phát nhiều lần."
+    },
+    {
+      "name": "Tiếng thổi tim",
+      "description": "Bác sĩ có thể nghe thấy tiếng thổi tim liên tục khi nghe tim bằng ống nghe."
+    },
+    {
+      "name": "Bụng to",
+      "description": "Gan và lách có thể sưng to khiến bụng trẻ to hơn bình thường."
+    },
+    {
+      "name": "Khó bú",
+      "description": "Trẻ khó bú mẹ hoặc bú bình do mệt và khó thở, thường bỏ bú giữa chừng hoặc bú lâu mà không đủ."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bình thường, ống động mạch là mạch máu nối động mạch phổi và động mạch chủ trong thai nhi, giúp máu đi vòng qua phổi chưa hoạt động. Sau khi sinh, khi phổi bắt đầu hoạt động, ống này thường tự đóng lại trong vài ngày. Còn ống động mạch xảy ra khi ống này không đóng lại như dự kiến.",
+    "related_factors": "Nhiều trường hợp còn ống động mạch không có nguyên nhân rõ ràng, nhưng một số yếu tố có thể làm tăng nguy cơ như sinh non, các bệnh di truyền như hội chứng Down, bệnh hồng cầu hình liềm, mẹ bị bệnh Rubella trong thai kỳ, và các bệnh tim bẩm sinh khác.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Sinh non",
+    "Tiền sử gia đình có bệnh tim bẩm sinh",
+    "Mẹ bị nhiễm Rubella (sởi Đức) trong thai kỳ",
+    "Các bệnh di truyền (như hội chứng Down)",
+    "Giới tính nữ (PDA phổ biến ở trẻ gái hơn trẻ trai)",
+    "Sinh ở độ cao (nơi có lượng oxy thấp)",
+    "Mẹ lớn tuổi khi mang thai",
+    "Các bệnh tim bẩm sinh khác"
+  ],
+  "complications": [
+    "Suy tim",
+    "Tăng áp lực động mạch phổi",
+    "Viêm nội tâm mạc nhiễm khuẩn",
+    "Suy dinh dưỡng và chậm phát triển",
+    "Tổn thương phổi từ lưu lượng máu tăng",
+    "Rối loạn nhịp tim",
+    "Nhiễm trùng đường hô hấp tái phát",
+    "Đột quỵ (do cục máu đông từ tĩnh mạch đi qua PDA vào tuần hoàn động mạch)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng bao gồm nghe tiếng thổi tim đặc trưng",
+      "Hỏi bệnh sử và triệu chứng",
+      "Đánh giá các dấu hiệu sinh tồn như nhịp tim, nhịp thở, huyết áp",
+      "Kiểm tra tình trạng tím tái hoặc phù nề"
+    ],
+    "tests": [
+      {
+        "name": "Siêu âm tim (Echocardiogram)",
+        "description": "Phương pháp chẩn đoán chính để xác định còn ống động mạch, đánh giá kích thước ống, luồng máu qua ống và ảnh hưởng đến tim."
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Kiểm tra hoạt động điện của tim, có thể cho thấy dấu hiệu phì đại tâm thất hoặc rối loạn nhịp tim."
+      },
+      {
+        "name": "X-quang ngực",
+        "description": "Có thể cho thấy tim to, tăng lưu lượng máu phổi hoặc các dấu hiệu của phù phổi."
+      },
+      {
+        "name": "Thông tim",
+        "description": "Được thực hiện trong một số trường hợp để đánh giá chính xác áp lực trong buồng tim và động mạch phổi, đặc biệt trước khi can thiệp đóng ống."
+      },
+      {
+        "name": "Công thức máu",
+        "description": "Kiểm tra tình trạng thiếu máu hoặc nhiễm trùng."
+      },
+      {
+        "name": "Xét nghiệm chức năng phổi",
+        "description": "Đánh giá ảnh hưởng của PDA đến khả năng hô hấp."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Mục tiêu điều trị còn ống động mạch là đóng ống để ngăn chặn dòng máu bất thường và ngăn ngừa các biến chứng. Phương pháp điều trị phụ thuộc vào tuổi của bệnh nhân, kích thước của ống động mạch và các vấn đề sức khỏe khác.",
+    "methods": [
+      {
+        "name": "Theo dõi và chờ đợi",
+        "description": "Đối với trẻ sinh đủ tháng có PDA nhỏ không triệu chứng, bác sĩ có thể chỉ định theo dõi vì ống có thể tự đóng trong năm đầu đời."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Thuốc ức chế tổng hợp prostaglandin như Ibuprofen hoặc Indomethacin thường được sử dụng ở trẻ sinh non để thúc đẩy đóng ống động mạch."
+      },
+      {
+        "name": "Thủ thuật bít ống qua catheter",
+        "description": "Một thiết bị nhỏ được đưa vào ống động mạch thông qua ống thông đặt ở tĩnh mạch hoặc động mạch đùi. Thiết bị này sẽ chặn dòng máu qua ống."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật đóng ống động mạch được chỉ định khi PDA lớn, khi bít ống qua catheter không thực hiện được, hoặc khi có các bệnh tim khác cần phẫu thuật đồng thời."
+      },
+      {
+        "name": "Điều trị triệu chứng và biến chứng",
+        "description": "Bao gồm thuốc lợi tiểu, thuốc giãn mạch, và các biện pháp hỗ trợ hô hấp khi cần thiết."
+      }
+    ],
+    "recommendations": [
+      "Đi khám định kỳ theo lịch hẹn của bác sĩ",
+      "Dùng thuốc đúng liều lượng và thời gian chỉ định",
+      "Tiêm phòng đầy đủ, đặc biệt là vaccine phòng các bệnh đường hô hấp",
+      "Tránh tiếp xúc với người bị nhiễm trùng đường hô hấp",
+      "Đảm bảo chế độ dinh dưỡng phù hợp để trẻ tăng cân và phát triển tốt",
+      "Báo cho bác sĩ nếu trẻ có dấu hiệu khó thở, tím tái hoặc mệt mỏi bất thường",
+      "Uống thuốc kháng sinh dự phòng viêm nội tâm mạc trước các thủ thuật răng miệng nếu được chỉ định"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine đặc hiệu để phòng ngừa còn ống động mạch, nhưng tiêm phòng Rubella cho phụ nữ trước khi mang thai có thể giảm nguy cơ một số dị tật tim bẩm sinh bao gồm PDA.",
+      "recommended_for": ["Phụ nữ trong độ tuổi sinh đẻ trước khi mang thai"]
+    },
+    "general_recommendations": [
+      "Khám thai định kỳ và đầy đủ",
+      "Tiêm phòng Rubella trước khi mang thai",
+      "Tránh sử dụng thuốc, rượu, thuốc lá trong thai kỳ",
+      "Kiểm soát tốt các bệnh mãn tính như tiểu đường trong thai kỳ",
+      "Bổ sung đủ acid folic trước và trong thai kỳ",
+      "Chẩn đoán trước sinh bằng siêu âm và các xét nghiệm khác nếu có nguy cơ cao",
+      "Chăm sóc trẻ sinh non đúng cách để giảm nguy cơ PDA tồn tại",
+      "Tham vấn di truyền nếu có tiền sử gia đình có bệnh tim bẩm sinh"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Còn ống động mạch có tự khỏi không?",
+      "answer": "Ở trẻ sinh đủ tháng, ống động mạch có kích thước nhỏ có thể tự đóng trong vài tháng đầu đời. Tuy nhiên, nếu ống lớn hoặc tồn tại quá 1 năm tuổi, khả năng tự đóng rất thấp và thường cần can thiệp y tế. Ở trẻ sinh non, nguy cơ ống động mạch không tự đóng cao hơn và thường cần điều trị bằng thuốc hoặc thủ thuật."
+    },
+    {
+      "question": "Trẻ bị còn ống động mạch có sống bình thường được không?",
+      "answer": "Nhiều trẻ bị còn ống động mạch nhỏ có thể sống hoàn toàn bình thường mà không cần điều trị. Với những trường hợp được điều trị thành công bằng cách đóng ống động mạch (qua thủ thuật hoặc phẫu thuật), hầu hết trẻ có thể phát triển bình thường và có chất lượng cuộc sống tốt. Tuy nhiên, một số trường hợp nghiêm trọng hoặc được chẩn đoán muộn có thể dẫn đến các biến chứng như tăng áp động mạch phổi mà có thể ảnh hưởng đến tuổi thọ và chất lượng cuộc sống."
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm còn ống động mạch ở trẻ sơ sinh?",
+      "answer": "Còn ống động mạch thường được phát hiện trong thời gian trẻ nằm viện sau sinh thông qua khám lâm sàng khi bác sĩ nghe thấy tiếng thổi tim đặc trưng. Ở trẻ sinh non, việc theo dõi sát hơn có thể giúp phát hiện sớm. Với trẻ sinh đủ tháng, PDA có thể không có triệu chứng rõ ràng và được phát hiện sau đó khi trẻ đi khám sức khỏe định kỳ hoặc khi xuất hiện các triệu chứng như khó thở, chậm tăng cân, hay nhiễm trùng đường hô hấp tái phát. Siêu âm tim là phương pháp chẩn đoán xác định."
+    },
+    {
+      "question": "Còn ống động mạch có di truyền không?",
+      "answer": "Còn ống động mạch không phải là bệnh di truyền trực tiếp theo kiểu Mendel, nhưng có thể có yếu tố di truyền ảnh hưởng. Nếu cha mẹ hoặc anh chị em ruột bị bệnh tim bẩm sinh, nguy cơ trẻ bị PDA cao hơn so với dân số chung. Một số hội chứng di truyền như hội chứng Down, hội chứng CHARGE, và hội chứng Noonan cũng làm tăng nguy cơ PDA. Tham vấn di truyền có thể hữu ích cho các gia đình có tiền sử bệnh tim bẩm sinh."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hay bị đổ mồ hôi khi khóc hoặc ăn, và thở nhanh hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Bệnh tim bẩm sinh",
+        "Suy tim",
+        "Thiếu máu",
+        "Rối loạn tuyến mồ hôi"
+      ]
+    },
+    {
+      "question": "Tôi ăn uống kém và tăng trưởng chậm hơn so với các bạn cùng trang lứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Suy dinh dưỡng",
+        "Bệnh tim bẩm sinh",
+        "Suy tuyến giáp",
+        "Rối loạn hấp thu"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên cảm thấy mệt mỏi và khó thở khi vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Hen suyễn",
+        "Bệnh tim bẩm sinh",
+        "Thiếu máu",
+        "Viêm phổi"
+      ]
+    },
+    {
+      "question": "Nhịp tim của tôi đập nhanh hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Rối loạn nhịp tim",
+        "Cường giáp",
+        "Lo âu",
+        "Thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi bị ho dai dẳng và khó thở, nhất là khi nằm xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Suy tim",
+        "Bệnh trào ngược dạ dày thực quản",
+        "Hen suyễn",
+        "Viêm phổi"
+      ]
+    },
+    {
+      "question": "Ngực của tôi cảm thấy đau tức và khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Viêm phế quản",
+        "Đau ngực do tim",
+        "Trào ngược dạ dày",
+        "Lo âu"
+      ]
+    },
+    {
+      "question": "Tôi bị phù nề ở chân và mắt cá chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Suy tim",
+        "Bệnh thận",
+        "Suy tĩnh mạch",
+        "Thiếu protein"
+      ]
+    },
+    {
+      "question": "Môi và móng tay của tôi có màu xanh tím. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Bệnh tim bẩm sinh",
+        "Bệnh phổi mãn tính",
+        "Tăng áp động mạch phổi",
+        "Methemoglobinemia"
+      ]
+    },
+    {
+      "question": "Tôi dễ bị nhiễm trùng đường hô hấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Suy giảm miễn dịch",
+        "Hen suyễn",
+        "Trào ngược dạ dày",
+        "Phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Bụng của tôi to hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Gan to",
+        "Lách to",
+        "Tràn dịch màng bụng",
+        "Tắc nghẽn ruột"
+      ]
+    },
+    {
+      "question": "Tôi chậm phát triển về vận động so với các bạn cùng tuổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Bệnh cơ",
+        "Chậm phát triển toàn diện",
+        "Thiếu oxy não",
+        "Rối loạn phát triển thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nôn trớ sau khi bú hoặc ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Trào ngược dạ dày thực quản",
+        "Hẹp môn vị",
+        "Dị ứng thức ăn",
+        "Rối loạn tiêu hóa"
+      ]
+    },
+    {
+      "question": "Da của tôi nhợt nhạt và xanh xao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Thiếu máu",
+        "Suy tim",
+        "Suy gan",
+        "Suy thận"
+      ]
+    },
+    {
+      "question": "Tôi bị khàn tiếng hoặc mất tiếng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Liệt dây thần kinh thanh quản",
+        "Viêm thanh quản",
+        "U dây thanh",
+        "Trào ngược dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi khó bú mẹ hoặc bú bình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Yếu cơ",
+        "Vấn đề về hàm miệng",
+        "Trào ngược dạ dày",
+        "Bệnh tim bẩm sinh"
+      ]
+    },
+    {
+      "question": "Tôi ngủ không ngon giấc và hay quấy khóc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Đau bụng đầy hơi",
+        "Trào ngược dạ dày",
+        "Rối loạn giấc ngủ",
+        "Lo âu"
+      ]
+    },
+    {
+      "question": "Tôi chậm tăng cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Suy dinh dưỡng",
+        "Rối loạn hấp thu",
+        "Bệnh celiac",
+        "Bệnh tuyến giáp"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm phổi tái đi tái lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Suy giảm miễn dịch",
+        "Hít sặc",
+        "Xơ nang",
+        "Dị vật đường thở"
+      ]
+    },
+    {
+      "question": "Tôi bị suy tim. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Bệnh cơ tim",
+        "Bệnh van tim",
+        "Nhồi máu cơ tim",
+        "Hội chứng Kawasaki"
+      ]
+    },
+    {
+      "question": "Tôi có tiếng thổi ở tim khi bác sĩ khám. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Còn ống động mạch",
+        "Thông liên thất",
+        "Thông liên nhĩ",
+        "Hẹp van tim",
+        "Hở van tim"
+      ]
+    }
+  ]
+}

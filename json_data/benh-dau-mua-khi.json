@@ -1,0 +1,176 @@
+{
+  "disease_id": "benh-dau-mua-khi",
+  "disease_name": "Bệnh đậu mùa khỉ",
+  "disease_alternative_names": ["Monkeypox", "Mpox"],
+  "disease_definition": "Bệnh đậu mùa khỉ là một bệnh truyền nhiễm hiếm gặp do virus đậu mùa khỉ thuộc họ Poxviridae gây ra. Đây là một bệnh lây từ động vật sang người, với các triệu chứng tương tự nhưng nhẹ hơn bệnh đậu mùa. Bệnh đặc trưng bởi sốt, phát ban và sưng hạch bạch huyết. Virus được phát hiện lần đầu vào năm 1958 ở khỉ trong phòng nghiên cứu, và ca bệnh ở người được ghi nhận lần đầu vào năm 1970 tại Cộng hòa Dân chủ Congo.",
+  "symptoms": [
+    {
+      "name": "Sốt cao",
+      "description": "Sốt cao thường là triệu chứng đầu tiên xuất hiện, có thể lên đến 38-40°C"
+    },
+    {
+      "name": "Đau đầu dữ dội",
+      "description": "Đau đầu mạnh, gây khó chịu rõ rệt cho người bệnh"
+    },
+    {
+      "name": "Đau cơ và lưng",
+      "description": "Cảm giác đau nhức ở cơ và lưng, có thể khiến người bệnh mệt mỏi"
+    },
+    {
+      "name": "Sưng hạch bạch huyết",
+      "description": "Hạch bạch huyết sưng to, là triệu chứng đặc trưng giúp phân biệt đậu mùa khỉ với đậu mùa thông thường"
+    },
+    {
+      "name": "Ớn lạnh",
+      "description": "Cảm giác lạnh, rét, rùng mình dù nhiệt độ môi trường bình thường"
+    },
+    {
+      "name": "Mệt mỏi kiệt sức",
+      "description": "Cảm giác mệt mỏi, kiệt sức, không còn năng lượng"
+    },
+    {
+      "name": "Phát ban và mụn nước",
+      "description": "Phát ban xuất hiện 1-3 ngày sau khi sốt, bắt đầu từ mặt rồi lan ra các bộ phận khác của cơ thể, đặc biệt là bàn tay, bàn chân và cơ quan sinh dục. Các nốt phát ban phát triển từ dạng sẩn sang mụn nước, mụn mủ rồi đóng vảy và tự rụng."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh đậu mùa khỉ do virus Monkeypox (thuộc chi Orthopoxvirus trong họ Poxviridae) gây ra. Có hai chủng virus chính gồm chủng Congo (clade I) với tỷ lệ tử vong khoảng 10% và chủng Tây Phi (clade II) với tỷ lệ tử vong khoảng 1%.",
+    "related_factors": "Động vật gặm nhấm và linh trưởng không phải người (như khỉ) được cho là ổ chứa tự nhiên của virus, mặc dù nguồn gốc chính xác vẫn chưa được xác định rõ ràng.",
+    "transmission_routes": [
+      "Tiếp xúc trực tiếp với máu, dịch cơ thể, tổn thương da hoặc niêm mạc của động vật bị nhiễm bệnh",
+      "Tiếp xúc gần với người bệnh thông qua giọt bắn đường hô hấp, tổn thương da hoặc vật dụng bị nhiễm virus",
+      "Tiếp xúc với vật dụng của người bệnh như quần áo, khăn trải giường, khăn mặt",
+      "Qua nhau thai từ mẹ sang thai nhi",
+      "Tiếp xúc gần trong và sau khi sinh"
+    ]
+  },
+  "risk_factors": [
+    "Tiếp xúc với động vật hoang dã ở các khu vực lưu hành bệnh",
+    "Tiếp xúc gần với người mắc bệnh đậu mùa khỉ",
+    "Làm việc trong lĩnh vực y tế và chăm sóc người bệnh đậu mùa khỉ",
+    "Sống hoặc du lịch đến các khu vực có dịch bệnh đậu mùa khỉ",
+    "Hệ miễn dịch suy yếu",
+    "Trẻ em dưới 8 tuổi",
+    "Phụ nữ mang thai và thai nhi"
+  ],
+  "complications": [
+    "Viêm phế quản phổi",
+    "Nhiễm trùng huyết",
+    "Viêm mô não, viêm não",
+    "Nhiễm trùng giác mạc, có thể dẫn đến mất thị lực",
+    "Nhiễm trùng thứ phát tại các vết thương trên da",
+    "Các tổn thương da có thể để lại sẹo",
+    "Ở phụ nữ mang thai có thể dẫn đến đậu mùa khỉ bẩm sinh hoặc thai chết lưu"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Đánh giá tiền sử bệnh và tiếp xúc với nguồn bệnh",
+      "Khám lâm sàng để xác định các triệu chứng đặc trưng",
+      "Xét nghiệm trong phòng thí nghiệm để xác định virus"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm PCR",
+        "description": "Phản ứng chuỗi polymerase (PCR) từ mẫu dịch hoặc tổn thương da để phát hiện virus đậu mùa khỉ"
+      },
+      {
+        "name": "Sinh thiết da",
+        "description": "Lấy mẫu tổn thương da để kiểm tra dưới kính hiển vi nhằm xác định sự hiện diện của virus"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Hiện chưa có phương pháp điều trị đặc hiệu cho bệnh đậu mùa khỉ. Hầu hết trường hợp nhẹ sẽ tự khỏi sau 2-4 tuần mà không cần điều trị đặc biệt.",
+    "methods": [
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Sử dụng thuốc hạ sốt, giảm đau và các biện pháp hỗ trợ khác để giảm các triệu chứng của bệnh"
+      },
+      {
+        "name": "Thuốc kháng virus",
+        "description": "Trong một số trường hợp nặng hoặc ở người có nguy cơ cao, có thể sử dụng thuốc kháng virus như tecovirimat, cidofovir hoặc brincidofovir"
+      },
+      {
+        "name": "Huyết thanh miễn dịch",
+        "description": "Vaccinia immune globulin (VIG) có thể được xem xét sử dụng cho người bị suy giảm miễn dịch nghiêm trọng"
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ",
+      "Uống nhiều nước để tránh mất nước",
+      "Giữ vệ sinh tốt cho các tổn thương da",
+      "Tránh gãi các tổn thương để ngăn ngừa nhiễm trùng thứ phát và hạn chế để lại sẹo",
+      "Cách ly tại nhà cho đến khi tất cả các vết thương đã đóng vảy, vảy đã rụng và đã hình thành lớp da mới"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người bệnh cho đến khi các tổn thương lành hẳn",
+      "Sử dụng khẩu trang khi tiếp xúc với người khác",
+      "Không dùng chung đồ dùng cá nhân với người khác",
+      "Rửa tay thường xuyên bằng xà phòng và nước hoặc dung dịch sát khuẩn",
+      "Khử trùng các bề mặt và vật dụng thường xuyên tiếp xúc"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vắc xin đặc hiệu cho bệnh đậu mùa khỉ, nhưng vắc xin đậu mùa thông thường đã được chứng minh có hiệu quả khoảng 85% trong việc ngăn ngừa bệnh đậu mùa khỉ. Năm 2019, FDA Hoa Kỳ đã phê duyệt vắc xin JYNNEOS™ (Imvamune, Imvanex) để phòng ngừa bệnh đậu mùa và đậu mùa khỉ.",
+      "recommended_for": [
+        "Người có nguy cơ cao phơi nhiễm với virus",
+        "Nhân viên y tế chăm sóc bệnh nhân đậu mùa khỉ",
+        "Người tiếp xúc gần với bệnh nhân đậu mùa khỉ",
+        "Người sống hoặc đi du lịch đến khu vực có dịch bệnh đậu mùa khỉ"
+      ]
+    },
+    "general_recommendations": [
+      "Tránh tiếp xúc với động vật có thể mang virus (đặc biệt là động vật bị bệnh hoặc đã chết ở những khu vực bùng phát dịch)",
+      "Tránh tiếp xúc với bất kỳ vật liệu nào đã tiếp xúc với động vật bị bệnh",
+      "Cách ly bệnh nhân nhiễm bệnh với những người khác",
+      "Rửa tay thường xuyên bằng xà phòng và nước hoặc sử dụng dung dịch khử trùng tay có cồn",
+      "Sử dụng thiết bị bảo hộ cá nhân khi chăm sóc người bệnh",
+      "Nấu chín kỹ thịt và các sản phẩm động vật trước khi tiêu thụ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh đậu mùa khỉ có nguy hiểm không?",
+      "answer": "Bệnh đậu mùa khỉ thường nhẹ và tự khỏi sau 2-4 tuần, nhưng có thể nghiêm trọng ở một số nhóm như trẻ em, phụ nữ mang thai, người có hệ miễn dịch suy yếu. Tỷ lệ tử vong phụ thuộc vào chủng virus, với chủng Congo là khoảng 10% và chủng Tây Phi là khoảng 1%."
+    },
+    {
+      "question": "Bệnh đậu mùa khỉ có dễ lây lan không?",
+      "answer": "Bệnh đậu mùa khỉ không dễ lây lan giữa người với người như Covid-19. Virus chủ yếu lây qua tiếp xúc gần, kéo dài với người bệnh, qua các tổn thương da, dịch cơ thể hoặc giọt bắn đường hô hấp. Người không có triệu chứng không được coi là có khả năng lây nhiễm."
+    },
+    {
+      "question": "Bệnh đậu mùa khỉ có lây qua đường tình dục không?",
+      "answer": "Mặc dù tiếp xúc cơ thể gần gũi là yếu tố nguy cơ lây truyền, hiện chưa có đủ bằng chứng xác định bệnh đậu mùa khỉ lây truyền cụ thể qua đường tình dục. Tuy nhiên, virus có thể lây qua tiếp xúc trực tiếp trong quá trình quan hệ tình dục."
+    },
+    {
+      "question": "Thời gian ủ bệnh của đậu mùa khỉ là bao lâu?",
+      "answer": "Thời gian ủ bệnh của đậu mùa khỉ thường từ 5-21 ngày, nhưng phổ biến nhất là 6-13 ngày. Trong thời gian này, người nhiễm virus không có triệu chứng và không được coi là có khả năng lây nhiễm cho người khác."
+    },
+    {
+      "question": "Có phương pháp nào điều trị đặc hiệu cho bệnh đậu mùa khỉ không?",
+      "answer": "Hiện chưa có phương pháp điều trị đặc hiệu cho bệnh đậu mùa khỉ. Điều trị chủ yếu là hỗ trợ triệu chứng và kiểm soát các biến chứng. Trong các trường hợp nặng hoặc nguy cơ cao, có thể sử dụng một số loại thuốc kháng virus như tecovirimat, cidofovir hoặc brincidofovir."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Sự khác biệt giữa bệnh đậu mùa khỉ và bệnh đậu mùa thông thường là gì?",
+      "related_diseases": ["Bệnh đậu mùa"]
+    },
+    {
+      "question": "Làm thế nào để phân biệt bệnh đậu mùa khỉ với thủy đậu?",
+      "related_diseases": ["Thủy đậu"]
+    },
+    {
+      "question": "Bệnh đậu mùa khỉ có gây dịch toàn cầu như Covid-19 không?",
+      "related_diseases": ["Covid-19"]
+    },
+    {
+      "question": "Bệnh đậu mùa khỉ có dễ nhầm lẫn với bệnh sởi không?",
+      "related_diseases": ["Sởi"]
+    },
+    {
+      "question": "Những ai có nguy cơ cao mắc bệnh đậu mùa khỉ?",
+      "related_diseases": []
+    }
+  ]
+}

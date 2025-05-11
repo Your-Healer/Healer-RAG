@@ -1,0 +1,198 @@
+{
+  "disease_id": "benh-tri-noi",
+  "disease_name": "Bệnh trĩ nội",
+  "disease_alternative_names": [
+    "Trĩ nội",
+    "Internal hemorrhoids"
+  ],
+  "disease_definition": "Trĩ nội là một tình trạng bệnh lý gây ra do tĩnh mạch ở vùng hậu môn trực tràng (trên đường lược) bị sưng/phình to vì co giãn quá mức. Trĩ nội hình thành gần cuối trực tràng, người bệnh không thể nhìn thấy hoặc sờ thấy, trừ trường hợp bị sa ra ngoài.",
+  "symptoms": [
+    {
+      "name": "Chảy máu khi đi đại tiện",
+      "description": "Người bệnh có thể thấy máu đỏ tươi trong phân hoặc trên giấy vệ sinh khi lau. Đây là triệu chứng phổ biến nhất của bệnh trĩ nội."
+    },
+    {
+      "name": "Sa búi trĩ",
+      "description": "Búi trĩ có thể sa ra ngoài trong quá trình đi đại tiện. Tùy theo mức độ, búi trĩ có thể tự thụt vào hoặc cần dùng tay đẩy vào, hoặc không thể đẩy vào được."
+    },
+    {
+      "name": "Ngứa và sưng tấy",
+      "description": "Khi búi trĩ sa ra ngoài có thể gây ngứa và sưng tấy vùng hậu môn."
+    },
+    {
+      "name": "Cảm giác khó chịu",
+      "description": "Người bệnh có thể cảm thấy khó chịu do mô trĩ bị sa, đặc biệt khi đi lại hoặc sinh hoạt."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh trĩ nội có thể là một vấn đề không thể tránh khỏi vì có liên quan đến quá trình lão hóa do thiếu Collagen mô vùng hậu môn trực tràng gây dãn mạch máu trĩ, dây chằng treo trĩ, mô đệm.",
+    "related_factors": "Bệnh trĩ nội phát triển khi có thêm áp lực lên trực tràng, thường do các yếu tố như táo bón, tiêu chảy, mang thai, béo phì, và ngồi lâu một chỗ.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Táo bón và tiêu chảy kéo dài gây tăng áp lực lên vùng hậu môn"
+    },
+    {
+      "name": "Thai kỳ",
+      "description": "Mang thai và sinh nở làm tăng áp lực lên vùng chậu"
+    },
+    {
+      "name": "Béo phì",
+      "description": "Thừa cân, béo phì gây tăng áp lực lên vùng hậu môn"
+    },
+    {
+      "name": "Lối sống ít vận động",
+      "description": "Ngồi lâu một chỗ và thiếu vận động"
+    },
+    {
+      "name": "Độ tuổi",
+      "description": "Tuổi từ 28-50 có nguy cơ mắc bệnh cao hơn"
+    },
+    {
+      "name": "Chế độ ăn",
+      "description": "Chế độ ăn thiếu chất xơ làm tăng nguy cơ táo bón"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Xuất huyết",
+      "description": "Chảy máu nghiêm trọng có thể dẫn đến thiếu máu"
+    },
+    {
+      "name": "Sa trĩ",
+      "description": "Sa trĩ không thể đẩy vào gây đau đớn và khó chịu"
+    },
+    {
+      "name": "Nhiễm trùng",
+      "description": "Nhiễm trùng vùng hậu môn có thể lan rộng"
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Thiếu máu do chảy máu kéo dài"
+    },
+    {
+      "name": "Suy giảm chất lượng sống",
+      "description": "Ảnh hưởng đến chất lượng cuộc sống do các triệu chứng khó chịu"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Kiểm tra trực quan",
+        "description": "Bác sĩ kiểm tra bên ngoài để đánh giá tình trạng hậu môn"
+      },
+      {
+        "name": "Thăm khám trực tràng",
+        "description": "Bác sĩ thăm khám trực tiếp để đánh giá tình trạng bệnh"
+      },
+      {
+        "name": "Nội soi trực tràng",
+        "description": "Sử dụng ống soi để kiểm tra chi tiết tình trạng trực tràng"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Có nhiều phương pháp điều trị bệnh trĩ nội, từ các biện pháp bảo tồn đến can thiệp ngoại khoa. Việc lựa chọn phương pháp điều trị phụ thuộc vào mức độ nghiêm trọng của bệnh.",
+    "methods": [
+      {
+        "name": "Đông tụ bằng tia hồng ngoại",
+        "description": "Bác sĩ chiếu ánh sáng hồng ngoại vào bên trong búi trĩ, sức nóng sẽ làm hình thành mô sẹo, cắt đứt lưu lượng máu đến búi trĩ."
+      },
+      {
+        "name": "Liệu pháp xơ hóa",
+        "description": "Tiêm một dung dịch hóa chất vào các tĩnh mạch bị sưng ở trực tràng, làm tổn thương các tĩnh mạch và khiến chúng co lại."
+      },
+      {
+        "name": "Thắt trĩ bằng phương pháp CRH O'Regan",
+        "description": "Sử dụng một ống nối nhỏ dùng một lần áp dụng lực hút nhẹ nhàng để thắt búi trĩ, không gây đau đớn và không cần thuốc an thần."
+      },
+      {
+        "name": "Thắt búi trĩ truyền thống",
+        "description": "Thắt các búi trĩ nội bằng dây chun và giữ cố định bằng kẹp kim loại nhằm cắt đứt sự lưu thông máu nuôi các mô trĩ."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Được áp dụng khi các phương pháp khác không hiệu quả, có thể sử dụng các kỹ thuật như phẫu thuật Longo, Laser, siêu âm THD."
+      }
+    ],
+    "recommendations": [
+      "Tắm tại chỗ để giảm đau và ngứa",
+      "Sử dụng kem và thuốc mỡ theo chỉ định",
+      "Ngâm hậu môn trong nước ấm",
+      "Tránh ngồi lâu một chỗ",
+      "Vận động, tập thể dục hàng ngày",
+      "Tránh các hoạt động gây áp lực lên vùng hậu môn"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa bệnh trĩ nội.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tăng cường chất xơ trong chế độ ăn",
+      "Uống đủ 2 lít nước mỗi ngày",
+      "Không nên ngồi lâu, nên đứng dậy đi lại mỗi 30 phút",
+      "Không nên nhịn đại tiện",
+      "Không ngồi bồn cầu lâu",
+      "Không rặn khi đại tiện",
+      "Hạn chế ăn thức ăn cay nóng, chát",
+      "Tránh các đồ uống có cồn và nước ngọt",
+      "Không quan hệ tình dục qua đường hậu môn",
+      "Tránh các hoạt động gây áp lực lên vùng hậu môn"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chảy máu khi đi đại tiện và thấy máu đỏ tươi trên giấy vệ sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh trĩ nội",
+        "nứt kẽ hậu môn",
+        "ung thư đại trực tràng",
+        "viêm đại tràng",
+        "polyp đại trực tràng"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy búi trĩ sa ra ngoài khi đi đại tiện và phải dùng tay đẩy vào. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh trĩ nội",
+        "sa trực tràng",
+        "trĩ ngoại",
+        "polyp hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa và sưng tấy ở hậu môn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh trĩ nội",
+        "trĩ ngoại",
+        "viêm hậu môn",
+        "nấm hậu môn",
+        "chàm hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy máu trực tràng và lo lắng về ung thư đại trực tràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh trĩ nội",
+        "ung thư đại trực tràng",
+        "polyp đại trực tràng",
+        "viêm loét đại tràng",
+        "nứt kẽ hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như búi trĩ sa ra ngoài và không thể đẩy vào. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh trĩ nội độ 4",
+        "sa trực tràng",
+        "trĩ ngoại",
+        "u hậu môn"
+      ]
+    }
+  ]
+}

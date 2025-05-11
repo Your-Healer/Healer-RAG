@@ -1,0 +1,229 @@
+{
+  "disease_id": "viem-than-be-than-cap",
+  "disease_name": "Viêm thận bể thận cấp",
+  "disease_alternative_names": ["Nhiễm trùng đường tiết niệu trên", "Viêm bể thận cấp"],
+  "disease_definition": "Viêm thận bể thận cấp là tình trạng nhiễm khuẩn cấp tính hay còn gọi là nhiễm trùng đường tiết niệu trên. Đây là bệnh do vi khuẩn tấn công, dẫn đến tình trạng viêm nhiễm xung quanh các đài thận, bể thận, niệu quản và nhu mô thận. Vi khuẩn này có thể di chuyển từ bàng quang lên niệu quản đến đài bể thận hoặc xâm nhập theo đường máu khi bệnh nhân bị nhiễm khuẩn huyết. Viêm thận bể thận thường biểu hiện đột ngột với các dấu hiệu và triệu chứng của viêm toàn thân, có thể gây biến chứng nghiêm trọng và người bệnh thường biểu hiện đau dữ dội vùng hông lưng.",
+  "symptoms": [
+    {
+      "name": "Sốt cao",
+      "description": "Người bệnh thường sốt cao trên 38,9°C, xuất hiện đột ngột và có thể kèm theo rét run."
+    },
+    {
+      "name": "Đau vùng hông lưng",
+      "description": "Đau ở bụng, lưng, bên hông hoặc bẹn, có thể đau dữ dội lan xuống vùng bàng quang và bộ phận sinh dục ngoài."
+    },
+    {
+      "name": "Rối loạn tiểu tiện",
+      "description": "Đi tiểu đau hoặc rát, tiểu gấp, tiểu nhiều lần, tiểu buốt, tiểu dắt, tiểu khó."
+    },
+    {
+      "name": "Nước tiểu bất thường",
+      "description": "Nước tiểu đục, có mủ hoặc lẫn máu, nước tiểu có thể có mùi tanh."
+    },
+    {
+      "name": "Lạnh run hoặc ớn lạnh",
+      "description": "Cảm giác lạnh run, ớn lạnh xuất hiện cùng với sốt cao."
+    },
+    {
+      "name": "Buồn nôn, nôn mửa",
+      "description": "Người bệnh có thể cảm thấy buồn nôn hoặc nôn mửa do tình trạng nhiễm trùng."
+    },
+    {
+      "name": "Thận to và đau khi ấn",
+      "description": "Có thể sờ thấy thận to, ấn vào gây cảm giác đau nhói cho người bệnh."
+    }
+  ],
+  "causes": {
+    "main_cause": "Viêm thận bể thận cấp là nhiễm trùng thường bắt đầu ở đường tiết niệu dưới dạng nhiễm trùng đường tiết niệu. Vi khuẩn xâm nhập vào cơ thể thông qua niệu đạo và bắt đầu nhân lên, lan lên bàng quang. Từ đó, vi khuẩn đi qua niệu quản đến thận.",
+    "related_factors": "Bệnh viêm thận bể thận có thể trở nên nghiêm trọng hơn ở những người suy giảm hệ miễn dịch, tắc nghẽn đường tiết niệu, phụ nữ mang thai và những người trên 65 tuổi.",
+    "transmission_routes": [
+      "Vi khuẩn gram âm như E.Coli, Klebsiella, Proteus mirabilis, Enterobacter thường là nguyên nhân chính",
+      "Các vi khuẩn Gram dương như tụ cầu, liên cầu cũng có thể gây bệnh nhưng hiếm gặp hơn",
+      "Vi khuẩn di chuyển từ bàng quang lên niệu quản đến đài bể thận",
+      "Vi khuẩn có thể xâm nhập theo đường máu khi bệnh nhân bị nhiễm khuẩn huyết"
+    ]
+  },
+  "risk_factors": [
+    "Người bệnh đang mắc nhiễm khuẩn tiết niệu dưới",
+    "Người vừa phẫu thuật hệ tiết niệu",
+    "Người bị tắc nghẽn đường tiết niệu do các bệnh lý như sỏi, khối u",
+    "Người bệnh có các ổ viêm như viêm nhiễm phụ khoa, viêm tuyến tiền liệt, viêm trực tràng, viêm bàng quang",
+    "Suy giảm hệ miễn dịch",
+    "Phụ nữ mang thai",
+    "Người trên 65 tuổi"
+  ],
+  "complications": [
+    "Áp xe thận: Xuất hiện ổ mủ quanh thận do nhiễm trùng các mô mềm xung quanh thận",
+    "Nhiễm khuẩn huyết: Vi khuẩn lan tràn vào trong máu, gây tình trạng nhiễm trùng toàn thân nặng, có thể dẫn đến sốc nhiễm khuẩn và suy đa tạng",
+    "Suy thận cấp: Biểu hiện bằng thiểu niệu hay vô niệu, nồng độ ure/creatinin tăng cao",
+    "Hoại tử nhú thận: Nhiễm trùng nặng kéo dài gây hoại tử các nhú thận, có thể gây tắc nghẽn ở niệu quản hoặc niệu đạo",
+    "Kháng kháng sinh: Do dùng kháng sinh không phù hợp, không đủ liều và không đủ lâu",
+    "Viêm thận bể thận mạn, suy thận mạn: Nếu không theo dõi, điều trị đúng sẽ dẫn đến tình trạng viêm thận bể thận mạn, suy thận mạn"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng: Đánh giá các triệu chứng nhiễm trùng, triệu chứng bàng quang cấp và triệu chứng đau",
+      "Xét nghiệm cận lâm sàng: Kiểm tra công thức máu, cấy máu, siêu âm và các xét nghiệm khác"
+    ],
+    "tests": [
+      {
+        "name": "Công thức máu",
+        "description": "Kiểm tra chỉ số bạch cầu tăng rõ rệt, đặc biệt là hiện tượng tăng bạch cầu đa nhân trung tính."
+      },
+      {
+        "name": "Cấy máu",
+        "description": "Xác định trường hợp nhiễm trùng tiết niệu do nhóm vi khuẩn nào. Thường 80% nguyên nhân gây bệnh được xác định do nhiễm vi khuẩn Gram (-) E. Coli."
+      },
+      {
+        "name": "Siêu âm thận",
+        "description": "Tìm dấu hiệu giãn đài bể thận, giãn niệu quản, hình ảnh sỏi thận - tiết niệu, khối u chèn ép."
+      },
+      {
+        "name": "Chụp bàng quang",
+        "description": "Xác định trào ngược bàng quang-thận nếu nghi ngờ."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra protein niệu, cấy vi khuẩn niệu để xác định chẩn đoán và có kháng sinh đồ cho điều trị."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Bệnh viêm thận bể thận nếu có biểu hiện rét run hoặc dùng thuốc kháng sinh ngoại trú 3-5 ngày không đáp ứng sẽ được chuyển điều trị nội trú. Ngược lại, triệu chứng thể nhẹ sẽ được theo dõi ngoại trú, dùng kháng sinh.",
+    "methods": [
+      {
+        "name": "Điều trị kháng sinh",
+        "description": "Nếu triệu chứng không nặng, sử dụng kháng sinh trong 1-14 ngày bằng đường uống. Các loại kháng sinh có thể được sử dụng bao gồm Aminopénicillines, Aminoglycosides, Aztréonam, Cephalosporines thế hệ 2 hoặc thế hệ 3, Cotrimoxazole, Fluoroquinolones."
+      },
+      {
+        "name": "Điều trị nội trú tại bệnh viện",
+        "description": "Áp dụng cho trường hợp người nhiễm bệnh có triệu chứng nặng hoặc là phụ nữ có thai, người có bệnh lý nền cần nhập viện theo dõi điều trị."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Được chỉ định khi có tắc nghẽn ở thận hoặc gây tình trạng sốc nhiễm khuẩn. Phẫu thuật được tiến hành để giải quyết nguyên nhân tắc nghẽn."
+      }
+    ],
+    "recommendations": [
+      "Uống đủ nước để tránh mất nước và giúp đào thải vi khuẩn",
+      "Nghỉ ngơi và hạn chế hoạt động mạnh",
+      "Dùng thuốc giảm đau khi cần thiết để giảm đau lưng, hông",
+      "Tuân thủ chính xác liều lượng và thời gian dùng kháng sinh theo chỉ định",
+      "Tái khám theo lịch hẹn của bác sĩ để đánh giá hiệu quả điều trị"
+    ],
+    "prevention_of_transmission": [
+      "Viêm thận bể thận không lây truyền trực tiếp từ người sang người",
+      "Tuy nhiên, việc duy trì vệ sinh cá nhân tốt vẫn rất quan trọng để ngăn ngừa nhiễm trùng"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện không có vắc-xin đặc hiệu để phòng ngừa viêm thận bể thận cấp",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Giữ vệ sinh cơ quan sinh dục-tiết niệu, đặc biệt là nữ giới phải vệ sinh kỹ trong thời kỳ kinh nguyệt, sau quan hệ",
+      "Uống đủ nước mỗi ngày, lượng nước từ 2-2,5 lít",
+      "Đảm bảo lượng nước tiểu từ 1,5-2 lít/ngày, không nhịn tiểu",
+      "Điều trị sớm các triệu chứng nhiễm khuẩn tiết niệu, gây tắc nghẽn đường tiết niệu",
+      "Đối với người có bệnh lý thận-tiết niệu, đặc biệt là sỏi thận, cần uống nhiều nước và hạn chế các thức ăn có chứa nhiều canxi",
+      "Khám sức khỏe định kỳ để phát hiện các nhiễm trùng tiềm ẩn và được điều trị dứt điểm"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Viêm thận bể thận cấp có gây vô sinh không?",
+      "answer": "Viêm thận bể thận cấp không trực tiếp gây vô sinh, nhưng nếu không được điều trị kịp thời và đúng cách, bệnh có thể gây ra các biến chứng ảnh hưởng đến chức năng thận, trong trường hợp nghiêm trọng có thể dẫn đến suy thận mạn. Tuy nhiên, các biến chứng này không liên quan trực tiếp đến khả năng sinh sản."
+    },
+    {
+      "question": "Viêm thận bể thận cấp có thể tự khỏi không?",
+      "answer": "Viêm thận bể thận cấp là một tình trạng nhiễm trùng nghiêm trọng và không thể tự khỏi mà không có điều trị. Nếu không được điều trị bằng kháng sinh thích hợp, bệnh có thể tiến triển nặng và gây ra nhiều biến chứng nguy hiểm như nhiễm khuẩn huyết, suy thận cấp hoặc mạn tính. Vì vậy, nếu nghi ngờ bị viêm thận bể thận cấp, cần đi khám và điều trị ngay."
+    },
+    {
+      "question": "Phụ nữ mang thai mắc viêm thận bể thận cấp có ảnh hưởng đến thai nhi không?",
+      "answer": "Viêm thận bể thận cấp ở phụ nữ mang thai nếu không được điều trị kịp thời có thể gây ra các biến chứng cho cả mẹ và thai nhi, như sinh non, thai nhẹ cân, tăng huyết áp thai kỳ. Tuy nhiên, nếu được chẩn đoán và điều trị đúng cách bằng kháng sinh an toàn cho thai kỳ, hầu hết các phụ nữ đều có thể phục hồi tốt mà không ảnh hưởng đến thai nhi."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sốt cao, đau lưng và đi tiểu buốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "viêm bàng quang", "viêm niệu đạo", "sỏi thận"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ớn lạnh, buồn nôn và đau vùng hông. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "sỏi thận", "viêm túi mật", "viêm ruột thừa"]
+    },
+    {
+      "question": "Tôi hay bị tiểu rắt, tiểu nhiều lần và nước tiểu có màu đục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "viêm bàng quang", "viêm niệu đạo", "nhiễm trùng đường tiết niệu"]
+    },
+    {
+      "question": "Tôi vừa phẫu thuật hệ tiết niệu và hiện đang bị sốt, đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "nhiễm trùng vết mổ", "nhiễm trùng đường tiết niệu"]
+    },
+    {
+      "question": "Tôi bị sỏi thận và đang có triệu chứng sốt cao, đau hông lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "tắc nghẽn đường tiết niệu do sỏi", "nhiễm trùng đường tiết niệu"]
+    },
+    {
+      "question": "Tôi bị viêm bàng quang và hiện đang sốt cao, đau buốt khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "viêm bàng quang nặng", "nhiễm trùng đường tiết niệu lan rộng"]
+    },
+    {
+      "question": "Tôi bị đau dữ dội vùng hông lưng, lan xuống bàng quang và bộ phận sinh dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "sỏi thận", "viêm tuyến tiền liệt"]
+    },
+    {
+      "question": "Tôi bị sốt cao, rét run và mệt mỏi. Nước tiểu có màu đục và mùi tanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "nhiễm trùng đường tiết niệu", "viêm bàng quang"]
+    },
+    {
+      "question": "Tôi bị đau hông lưng, tiểu buốt, tiểu rắt và nước tiểu có lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "sỏi thận", "viêm bàng quang", "viêm niệu đạo"]
+    },
+    {
+      "question": "Tôi đang mang thai và bị sốt, đau lưng, tiểu buốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "nhiễm trùng đường tiết niệu", "viêm bàng quang"]
+    },
+    {
+      "question": "Tôi bị đau bụng, đau lưng và đi tiểu nhiều lần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "viêm bàng quang", "sỏi thận", "viêm ruột thừa"]
+    },
+    {
+      "question": "Tôi bị sốt, buồn nôn và nước tiểu có mủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "nhiễm trùng đường tiết niệu", "viêm niệu đạo"]
+    },
+    {
+      "question": "Tôi bị đau vùng sườn lưng, lan xuống bàng quang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "sỏi thận", "viêm túi mật"]
+    },
+    {
+      "question": "Tôi bị sốt cao, rét run và đau đầu dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "cúm", "nhiễm trùng huyết", "viêm màng não"]
+    },
+    {
+      "question": "Tôi bị đau hông lưng, tiểu khó và nước tiểu có màu hồng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "sỏi thận", "viêm bàng quang", "u bàng quang"]
+    },
+    {
+      "question": "Tôi bị sốt, mệt mỏi và tiểu buốt, tiểu dắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "viêm bàng quang", "nhiễm trùng đường tiết niệu"]
+    },
+    {
+      "question": "Tôi bị đau vùng mạng sườn và tiểu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "sỏi thận", "u thận", "viêm cầu thận"]
+    },
+    {
+      "question": "Tôi bị sốt cao, môi khô và lưỡi bẩn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "nhiễm trùng huyết", "cúm", "viêm phổi"]
+    },
+    {
+      "question": "Tôi bị đau vùng bụng dưới và đi tiểu nhiều lần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "viêm bàng quang", "viêm niệu đạo", "viêm tuyến tiền liệt"]
+    },
+    {
+      "question": "Tôi bị sốt cao, rét run và đau hông lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm thận bể thận cấp", "sỏi thận", "áp xe thận", "nhiễm trùng đường tiết niệu"]
+    }
+  ]
+}

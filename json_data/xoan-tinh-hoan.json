@@ -1,0 +1,215 @@
+{
+  "disease_id": "xoan-tinh-hoan",
+  "disease_name": "Xoắn tinh hoàn",
+  "disease_alternative_names": ["Xoắn thừng tinh", "Xoắn vặn tinh hoàn"],
+  "disease_definition": "Xoắn tinh hoàn là hiện tượng thừng tinh bị xoắn lại, ngăn chặn con đường vận chuyển máu đến tinh hoàn, từ đó làm giảm lưu lượng máu, gây sưng đau đột ngột và dữ dội. Đây là trường hợp cấp cứu ngoại khoa, cần được điều trị kịp thời để tránh biến chứng hoại tử phải cắt bỏ tinh hoàn.",
+  "symptoms": [
+    {
+      "name": "Đau đột ngột và dữ dội một bên bìu",
+      "description": "Cơn đau xuất hiện đột ngột và rất dữ dội ở một bên bìu, thường là triệu chứng đầu tiên và rõ ràng nhất của xoắn tinh hoàn."
+    },
+    {
+      "name": "Đỏ và sưng bìu",
+      "description": "Vùng bìu bị đỏ và sưng do quá trình viêm và ứ máu khi lưu thông máu bị cản trở."
+    },
+    {
+      "name": "Một bên tinh hoàn cao hơn bên còn lại",
+      "description": "Tinh hoàn bị xoắn thường cao hơn so với tinh hoàn bình thường do sự co rút của thừng tinh bị xoắn."
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau có thể lan lên vùng bụng dưới do sự liên quan về mặt thần kinh giữa tinh hoàn và các cơ quan trong ổ bụng."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Triệu chứng phổ biến đi kèm với cơn đau cấp tính ở bìu, do phản xạ thần kinh từ tinh hoàn."
+    },
+    {
+      "name": "Sốt",
+      "description": "Có thể xuất hiện khi cơ thể đáp ứng với tình trạng viêm và thiếu máu cục bộ."
+    },
+    {
+      "name": "Đi tiểu thường xuyên",
+      "description": "Triệu chứng có thể xuất hiện do kích thích gần vùng tiết niệu."
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Do cơn đau dữ dội hoặc đáp ứng của cơ thể với tình trạng stress."
+    },
+    {
+      "name": "Xuất hiện khối u bất thường trong bìu",
+      "description": "Tinh hoàn bị xoắn có thể sưng lên tạo thành khối u bất thường trong bìu."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính xác gây xoắn tinh hoàn vẫn chưa được xác định rõ ràng. Theo sinh lý bệnh học, xoắn tinh hoàn xảy ra khi có hiện tượng xoắn cơ học của thừng tinh, làm cho tinh hoàn bị treo trong bìu ở một vị trí bất thường.",
+    "related_factors": "Xoắn tinh hoàn liên quan đến sự xoay của thừng tinh, làm giảm hoặc ngăn chặn hoàn toàn lưu lượng máu đến tinh hoàn. Mức độ tắc nghẽn động mạch, tĩnh mạch phụ thuộc vào thời gian và mức độ nghiêm trọng của tình trạng xoắn.",
+    "transmission_routes": [
+      "Không phải bệnh lây truyền"
+    ]
+  },
+  "risk_factors": [
+    "Yếu tố di truyền: Gia đình có tiền sử mắc xoắn tinh hoàn",
+    "Chấn thương vùng bìu",
+    "Hoạt động thể chất mạnh như đạp xe đạp",
+    "Tuổi tác: Phổ biến ở trẻ sơ sinh và thanh thiếu niên 12-18 tuổi",
+    "Dị tật hoặc biến thể giải phẫu bẩm sinh ở tinh hoàn (dị dạng 'quả lắc chuông')",
+    "Một tinh hoàn có kích thước lớn hơn",
+    "Khối u xuất hiện trên tinh hoàn",
+    "Thời tiết lạnh",
+    "Giai đoạn dậy thì với sự phát triển nhanh chóng của tinh hoàn"
+  ],
+  "complications": [
+    "Tổn thương tinh hoàn nghiêm trọng",
+    "Cần phải cắt bỏ tinh hoàn nếu không được điều trị kịp thời",
+    "Vô sinh hoặc giảm khả năng sinh sản",
+    "Tổn thương cho bên tinh hoàn còn lại do đáp ứng miễn dịch",
+    "Tổn thương do tái tưới máu",
+    "Nhiễm trùng huyết (hiếm gặp, khoảng 0,03% các trường hợp)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng, đánh giá triệu chứng đau và sưng ở bìu",
+      "Kiểm tra phản xạ co rút tinh hoàn (Phản xạ cơ bìu)",
+      "Đánh giá lâm sàng các yếu tố nguy cơ và tiền sử"
+    ],
+    "tests": [
+      {
+        "name": "Siêu âm Doppler bìu",
+        "description": "Phương pháp chẩn đoán không xâm lấn để kiểm tra lưu lượng máu vận chuyển đến tinh hoàn. Giảm hoặc mất tín hiệu dòng chảy máu trong tinh hoàn bị xoắn."
+      },
+      {
+        "name": "Xạ hình tinh hoàn",
+        "description": "Phương pháp hiếm khi được sử dụng, chỉ trong một số trường hợp đặc biệt khi cần đánh giá chi tiết về sự tưới máu của tinh hoàn."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Xoắn tinh hoàn là một trường hợp cấp cứu ngoại khoa cần được xử lý ngay lập tức. Hiệu quả điều trị phụ thuộc rất nhiều vào thời gian từ khi bắt đầu triệu chứng đến khi được can thiệp.",
+    "methods": [
+      {
+        "name": "Phẫu thuật tháo xoắn",
+        "description": "Phẫu thuật là lựa chọn được ưu tiên số một trong điều trị xoắn tinh hoàn. Được thực hiện dưới gây mê toàn thân, bác sĩ sẽ rạch một đường nhỏ ở bìu, sau đó tháo xoắn và cố định tinh hoàn vào đúng vị trí trong bìu bằng các mũi khâu nhỏ để ngăn tái phát."
+      },
+      {
+        "name": "Cắt bỏ tinh hoàn (Orchiectomy)",
+        "description": "Trong trường hợp tinh hoàn đã bị hoại tử do thiếu máu kéo dài (thường là sau 6 giờ kể từ khi bắt đầu triệu chứng), việc cắt bỏ tinh hoàn có thể là cần thiết để ngăn ngừa các biến chứng nghiêm trọng hơn."
+      }
+    ],
+    "recommendations": [
+      "Tìm kiếm chăm sóc y tế khẩn cấp ngay lập tức khi có triệu chứng đau bìu cấp tính",
+      "Phẫu thuật cần được thực hiện càng sớm càng tốt sau khi chẩn đoán",
+      "Tuân thủ hướng dẫn sau phẫu thuật của bác sĩ",
+      "Theo dõi định kỳ để đánh giá chức năng tinh hoàn sau điều trị"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa xoắn tinh hoàn",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Mặc quần áo bảo hộ khi vận động, chơi thể thao để bảo vệ cơ quan sinh dục khỏi chấn thương",
+      "Thăm khám y tế ngay khi có triệu chứng đau vùng bìu",
+      "Người từng bị xoắn tinh hoàn một bên nên được cố định dự phòng tinh hoàn bên còn lại",
+      "Với người có tiền sử gia đình về xoắn tinh hoàn nên tư vấn với bác sĩ về các biện pháp phòng ngừa"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Xoắn tinh hoàn có phổ biến không?",
+      "answer": "Xoắn tinh hoàn tương đối hiếm gặp nhưng là một cấp cứu ngoại khoa quan trọng. Tình trạng này có thể xảy ra ở mọi lứa tuổi, nhưng phổ biến nhất là ở trẻ sơ sinh và thanh thiếu niên từ 12-18 tuổi, đặc biệt là trong giai đoạn dậy thì khi tinh hoàn phát triển nhanh chóng."
+    },
+    {
+      "question": "Xoắn tinh hoàn có thể tự khỏi không?",
+      "answer": "Không, xoắn tinh hoàn không thể tự khỏi và luôn cần can thiệp y tế khẩn cấp. Mặc dù đôi khi có thể có tình trạng xoắn tự giải quyết tạm thời (xoắn và tự tháo xoắn), nhưng điều này không phải là giải pháp vĩnh viễn và nguy cơ tái phát rất cao. Không điều trị có thể dẫn đến hoại tử tinh hoàn và cần phải cắt bỏ."
+    },
+    {
+      "question": "Sau bao lâu xoắn tinh hoàn sẽ gây ra tổn thương vĩnh viễn?",
+      "answer": "Thời gian là yếu tố cực kỳ quan trọng trong xoắn tinh hoàn. Nếu được điều trị trong vòng 4-6 giờ kể từ khi bắt đầu triệu chứng, khoảng 90% tinh hoàn có thể được bảo tồn. Sau 12 giờ, tỷ lệ này giảm xuống còn khoảng 50%, và sau 24 giờ, chỉ có khoảng 10% tinh hoàn có thể được cứu. Khi dòng máu bị ngưng quá 6 giờ, mô tinh hoàn có nguy cơ cao sẽ chết và tinh hoàn có thể cần phải cắt bỏ."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đột ngột và dữ dội một bên bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "viêm mào tinh hoàn", "viêm tinh hoàn", "thoát vị bẹn nghẹt"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đỏ và sưng bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "viêm mào tinh hoàn", "viêm tinh hoàn", "tràn dịch màng tinh hoàn"]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "viêm ruột thừa", "viêm tụy", "sỏi thận"]
+    },
+    {
+      "question": "Con tôi bị đau bìu, sốt và đi tiểu thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "viêm tinh hoàn", "viêm đường tiết niệu", "viêm bàng quang"]
+    },
+    {
+      "question": "Tôi bị đau bìu sau khi hoạt động mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "chấn thương bìu", "thoát vị bẹn", "giãn tĩnh mạch thừng tinh"]
+    },
+    {
+      "question": "Tôi bị đau bìu sau khi bị chấn thương nhẹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "chấn thương bìu", "tụ máu bìu", "tràn dịch màng tinh hoàn"]
+    },
+    {
+      "question": "Tôi bị đau bìu và có khối u bất thường trong bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "ung thư tinh hoàn", "nang mào tinh", "tràn dịch màng tinh hoàn"]
+    },
+    {
+      "question": "Tôi bị đau bìu và một bên tinh hoàn cao hơn bên còn lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "tinh hoàn ẩn", "thoát vị bẹn"]
+    },
+    {
+      "question": "Tôi bị đau bìu và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "chấn thương bìu nặng", "nhiễm trùng đường tiết niệu nặng"]
+    },
+    {
+      "question": "Tôi bị đau bìu và có tiền sử gia đình mắc bệnh xoắn tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "dị tật bẩm sinh đường sinh dục"]
+    },
+    {
+      "question": "Tôi bị đau bìu và một tinh hoàn có kích thước lớn hơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "ung thư tinh hoàn", "tràn dịch màng tinh hoàn", "viêm tinh hoàn"]
+    },
+    {
+      "question": "Tôi bị đau bìu và có khối u trên tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "ung thư tinh hoàn", "nang mào tinh", "u lành tính tinh hoàn"]
+    },
+    {
+      "question": "Tôi bị đau bìu và đang trong độ tuổi dậy thì. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "viêm tinh hoàn", "chấn thương bìu", "tràn dịch màng tinh hoàn"]
+    },
+    {
+      "question": "Tôi bị đau bìu sau khi đạp xe đạp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "chấn thương bìu", "viêm tinh hoàn", "tụ máu bìu"]
+    },
+    {
+      "question": "Tôi bị đau bìu khi thời tiết lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "co thắt cơ bìu", "giãn tĩnh mạch thừng tinh"]
+    },
+    {
+      "question": "Tôi bị đau bìu và bị tổn thương tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "chấn thương tinh hoàn", "viêm tinh hoàn"]
+    },
+    {
+      "question": "Tôi bị đau bìu và bị vô sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "viêm tinh hoàn mạn tính", "giãn tĩnh mạch thừng tinh", "teo tinh hoàn"]
+    },
+    {
+      "question": "Tôi bị đau bìu và bị tổn thương bên tinh hoàn còn lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn", "viêm tinh hoàn hai bên", "chấn thương bìu"]
+    },
+    {
+      "question": "Tôi bị đau bìu và bị nhiễm trùng huyết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn hoại tử", "áp xe tinh hoàn", "viêm tinh hoàn nặng", "áp xe bìu"]
+    },
+    {
+      "question": "Tôi bị đau bìu và bị tổn thương do tái tưới máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xoắn tinh hoàn sau tháo xoắn", "hội chứng khoang bìu", "tổn thương thiếu máu-tái tưới máu"]
+    }
+  ]
+}

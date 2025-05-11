@@ -1,0 +1,232 @@
+{
+  "disease_id": "benh-giac-mac-hinh-chop",
+  "disease_name": "Bệnh giác mạc hình chóp",
+  "disease_alternative_names": ["Keratoconus", "Giác mạc hình nón", "Giác mạc chóp"],
+  "disease_definition": "Giác mạc hình chóp là một bệnh lý về mắt trong đó giác mạc thay đổi hình dạng từ hình cầu sang hình nón hoặc hình chóp. Bệnh xảy ra khi các sợi protein (collagen) trong giác mạc yếu đi, không còn khả năng giữ giác mạc ở đúng hình dạng, khiến giác mạc biến dạng và phình ra phía trước. Bệnh thường ảnh hưởng đến cả hai mắt và bắt đầu xuất hiện từ độ tuổi 10 đến 25, có thể tiến triển chậm trong nhiều năm.",
+  "symptoms": [
+    {
+      "name": "Thị lực mờ hoặc méo mó",
+      "description": "Người bệnh gặp khó khăn khi nhìn, hình ảnh trở nên mờ hoặc bị méo, đặc biệt khi nhìn xa."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Tăng độ nhạy cảm với ánh sáng, đặc biệt là ánh sáng mạnh, gây khó chịu cho người bệnh."
+    },
+    {
+      "name": "Cận thị tiến triển nhanh",
+      "description": "Độ cận thị tăng nhanh và cần thay kính thường xuyên trong thời gian ngắn."
+    },
+    {
+      "name": "Loạn thị không đều",
+      "description": "Khi giác mạc thay đổi hình dạng từ hình cầu sang hình nón, bề mặt nhẵn sẽ trở nên gợn sóng, gây loạn thị không đều."
+    },
+    {
+      "name": "Song thị",
+      "description": "Nhìn 1 vật thành 2 hình ảnh khi nhìn bằng một hay cả 2 mắt."
+    },
+    {
+      "name": "Quầng sáng và vệt sáng",
+      "description": "Cảm giác có quầng sáng xung quanh bóng đèn đang bật và xuất hiện các vệt sáng trong tầm nhìn."
+    },
+    {
+      "name": "Mỏi mắt và nhức đầu",
+      "description": "Do phải cố gắng nhìn và điều tiết mắt liên tục, người bệnh thường bị mỏi mắt và nhức đầu."
+    }
+  ],
+  "causes": [
+    {
+      "name": "Di truyền",
+      "description": "Các khiếm khuyết di truyền có thể làm suy yếu các sợi protein collagen trong giác mạc. Nếu gia đình có người từng mắc bệnh, nguy cơ thế hệ sau mắc bệnh cao hơn."
+    },
+    {
+      "name": "Dị ứng và dụi mắt",
+      "description": "Bệnh có thể xảy ra nhiều hơn ở người mắc các bệnh dị ứng như hen suyễn, eczema. Dụi mắt quá nhiều theo thời gian có thể làm tổn thương giác mạc, tạo điều kiện cho bệnh phát triển."
+    },
+    {
+      "name": "Thay đổi nội tiết",
+      "description": "Bệnh thường phát triển sau tuổi dậy thì và ở phụ nữ mang thai do sự thay đổi nội tiết tố."
+    },
+    {
+      "name": "Giảm chất chống oxy hóa",
+      "description": "Cơ thể không còn đủ chất chống oxy hóa để bảo vệ giác mạc, khiến collagen yếu đi và giác mạc bị phồng lên."
+    },
+    {
+      "name": "Rối loạn hệ thống",
+      "description": "Liên quan đến các rối loạn toàn thân như hội chứng Down, hội chứng Ehlers-Danlos, và các bệnh lý tạo xương."
+    },
+    {
+      "name": "Viêm nhiễm",
+      "description": "Tình trạng viêm do dị ứng, hen suyễn hoặc bệnh mắt dị ứng có thể phá vỡ mô giác mạc."
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Tuổi trẻ",
+      "description": "Bệnh thường bắt đầu ở tuổi thiếu niên nhưng có thể xuất hiện sớm hơn trong thời thơ ấu hoặc đến độ tuổi 30. Bệnh ít phổ biến ở người từ 40 tuổi trở lên."
+    },
+    {
+      "name": "Tiền sử gia đình",
+      "description": "Nguy cơ mắc bệnh tăng cao nếu có người thân trong gia đình đã mắc bệnh giác mạc hình chóp."
+    },
+    {
+      "name": "Dị ứng mắt và tật dụi mắt",
+      "description": "Những người thường xuyên bị các dị ứng mắt hoặc có thói quen dụi mắt có nguy cơ cao hơn."
+    },
+    {
+      "name": "Chủng tộc",
+      "description": "Một số nghiên cứu cho thấy người da màu có khả năng mắc bệnh cao hơn so với người da trắng."
+    },
+    {
+      "name": "Các bệnh lý nền",
+      "description": "Người mắc một số bệnh lý như hội chứng Down, bệnh tạo xương bất thường có nguy cơ cao hơn."
+    }
+  ],
+  "complications": [
+    {
+      "name": "Suy giảm thị lực nghiêm trọng",
+      "description": "Nếu không được điều trị kịp thời, bệnh có thể dẫn đến suy giảm thị lực nghiêm trọng."
+    },
+    {
+      "name": "Sẹo giác mạc",
+      "description": "Giác mạc phồng lên quá nhanh có thể gây sẹo, làm giảm thị lực đáng kể."
+    },
+    {
+      "name": "Mù lòa",
+      "description": "Ở giai đoạn nặng, nếu không điều trị kịp thời, bệnh có thể dẫn đến mù lòa."
+    },
+    {
+      "name": "Cần ghép giác mạc",
+      "description": "Các trường hợp nặng có thể cần phải ghép giác mạc để phục hồi thị lực."
+    }
+  ],
+  "diagnosis": [
+    {
+      "name": "Kiểm tra mắt toàn diện",
+      "description": "Thăm khám mắt đầy đủ để đánh giá thị lực và tình trạng mắt."
+    },
+    {
+      "name": "Địa hình giác mạc (Corneal topography)",
+      "description": "Phương pháp phổ biến nhất để chẩn đoán, bao gồm việc chụp hình giác mạc và phân tích để phát hiện bất thường. Bác sĩ chụp ảnh giác mạc và kiểm tra kỹ càng."
+    },
+    {
+      "name": "Kiểm tra đèn khe",
+      "description": "Sử dụng kính hiển vi sinh học để kiểm tra giác mạc, tìm kiếm nếp nhăn trong giác mạc (vân Vogt)."
+    },
+    {
+      "name": "Đo độ dày giác mạc",
+      "description": "Đo độ dày giác mạc để đánh giá mức độ tiến triển của bệnh và lập kế hoạch điều trị."
+    },
+    {
+      "name": "Đánh giá khúc xạ",
+      "description": "Kiểm tra các tật khúc xạ như cận thị, loạn thị để đánh giá ảnh hưởng của bệnh đến thị lực."
+    }
+  ],
+  "treatment": [
+    {
+      "name": "Kính gọng hoặc kính áp tròng mềm",
+      "description": "Điều trị đầu tiên cho giác mạc hình chóp nhẹ, giúp điều chỉnh thị lực mờ hoặc méo mó."
+    },
+    {
+      "name": "Kính áp tròng cứng",
+      "description": "Khi bệnh tiến triển, kính áp tròng cứng có tính thấm khí tốt được sử dụng. Loại kính này được thiết kế riêng để phù hợp với giác mạc của từng người."
+    },
+    {
+      "name": "Liên kết chéo collagen giác mạc (Corneal Collagen Cross-linking - CXL)",
+      "description": "Phương pháp sử dụng kết hợp chất cảm quang Riboflavin (Vitamin B2) và tia UVA 370nm để tạo ra các liên kết ngang collagen, làm chậm tiến triển của bệnh. Hiệu quả trong việc tăng cường độ cứng của giác mạc và ngăn chặn sự tiến triển của bệnh."
+    },
+    {
+      "name": "Phân đoạn vòng trong giác mạc (INTACS)",
+      "description": "Đặt các vòng nhỏ vào giác mạc để làm phẳng hình nón và cải thiện thị lực."
+    },
+    {
+      "name": "Ghép giác mạc",
+      "description": "Khi tất cả các phương pháp điều trị không giúp cải thiện thị lực, biện pháp cuối cùng là ghép giác mạc. Bác sĩ sẽ thay thế tâm giác mạc bằng giác mạc từ người hiến tặng và khâu lại giác mạc mới."
+    }
+  ],
+  "prevention": [
+    {
+      "name": "Khám mắt định kỳ",
+      "description": "Khám mắt thường xuyên để phát hiện sớm các dấu hiệu của bệnh, đặc biệt nếu có tiền sử gia đình bị giác mạc hình chóp."
+    },
+    {
+      "name": "Tránh dụi mắt",
+      "description": "Hạn chế dụi mắt, đặc biệt khi bị dị ứng hoặc kích ứng mắt."
+    },
+    {
+      "name": "Kiểm soát dị ứng",
+      "description": "Điều trị và kiểm soát các tình trạng dị ứng để giảm kích ứng mắt và nhu cầu dụi mắt."
+    },
+    {
+      "name": "Bảo vệ mắt",
+      "description": "Đeo kính bảo hộ khi tham gia các hoạt động có thể gây tổn thương mắt."
+    },
+    {
+      "name": "Tầm soát sớm cho trẻ em có nguy cơ cao",
+      "description": "Nếu gia đình có bố mẹ mắc bệnh giác mạc hình chóp, nên khám tầm soát cho trẻ mỗi năm, bắt đầu từ 10 tuổi."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhìn mờ, phải thay kính liên tục và nhạy cảm với ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "answer": "Những triệu chứng như nhìn mờ, thay kính liên tục và nhạy cảm với ánh sáng có thể là dấu hiệu của bệnh giác mạc hình chóp. Bạn nên đến khám tại bác sĩ nhãn khoa để được chẩn đoán chính xác và điều trị kịp thời."
+    },
+    {
+      "question": "Tôi đang cảm thấy tầm nhìn của mình thay đổi, nhìn xa thì mờ ảo, méo mó, nhìn gần thì rõ hơn. Tôi có thể đang bị bệnh gì?",
+      "answer": "Triệu chứng nhìn xa mờ ảo, méo mó nhưng nhìn gần rõ hơn có thể là dấu hiệu của bệnh giác mạc hình chóp. Bệnh này làm thay đổi hình dạng giác mạc từ hình cầu sang hình nón, gây ra tình trạng cận thị tiến triển và loạn thị không đều. Bạn nên đi khám mắt để được chẩn đoán chính xác."
+    },
+    {
+      "question": "Tôi hay nhìn thấy quầng sáng xung quanh bóng đèn và vệt sáng. Tôi có thể đang bị bệnh gì?",
+      "answer": "Hiện tượng nhìn thấy quầng sáng xung quanh bóng đèn và vệt sáng có thể là dấu hiệu của bệnh giác mạc hình chóp. Trong bệnh này, giác mạc bị biến dạng làm ánh sáng không hội tụ đúng trên võng mạc, gây ra các hiện tượng quang học bất thường. Bạn nên đến gặp bác sĩ nhãn khoa để kiểm tra."
+    },
+    {
+      "question": "Tôi đang gặp khó khăn khi lái xe do tầm nhìn mờ. Tôi có thể đang bị bệnh gì?",
+      "answer": "Khó khăn khi lái xe do tầm nhìn mờ có thể là dấu hiệu của nhiều bệnh lý về mắt, trong đó có bệnh giác mạc hình chóp. Bệnh này làm giác mạc biến dạng, gây ra tình trạng nhìn mờ, méo mó, đặc biệt khi nhìn xa, ảnh hưởng đến việc lái xe. Bạn nên đi khám mắt ngay để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Tôi thấy mắt mình nhạy cảm với ánh sáng hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "answer": "Mắt nhạy cảm với ánh sáng hơn bình thường có thể là triệu chứng của bệnh giác mạc hình chóp. Khi giác mạc bị biến dạng, ánh sáng đi vào mắt bị tán xạ nhiều hơn, gây ra tình trạng nhạy cảm với ánh sáng. Bạn nên đến gặp bác sĩ nhãn khoa để kiểm tra mắt."
+    },
+    {
+      "question": "Tôi phải thay kính thường xuyên vì độ cận tăng nhanh. Tôi có thể đang bị bệnh gì?",
+      "answer": "Việc phải thay kính thường xuyên do độ cận tăng nhanh có thể là dấu hiệu của bệnh giác mạc hình chóp. Bệnh này làm giác mạc biến dạng theo thời gian, dẫn đến sự thay đổi nhanh chóng trong tật khúc xạ, đặc biệt là cận thị và loạn thị. Bạn nên đi khám mắt để được chẩn đoán chính xác."
+    },
+    {
+      "question": "Tôi nhìn thấy hình ảnh bị méo mó, không rõ nét. Tôi có thể đang bị bệnh gì?",
+      "answer": "Nhìn thấy hình ảnh bị méo mó, không rõ nét có thể là triệu chứng của bệnh giác mạc hình chóp. Trong bệnh này, giác mạc bị biến dạng thành hình nón, làm cho ánh sáng không hội tụ đúng trên võng mạc, gây ra hình ảnh méo mó. Bạn nên đến gặp bác sĩ nhãn khoa để kiểm tra mắt."
+    },
+    {
+      "question": "Tôi nhìn một vật thành hai hình ảnh. Tôi có thể đang bị bệnh gì?",
+      "answer": "Hiện tượng nhìn một vật thành hai hình ảnh (song thị) có thể là dấu hiệu của bệnh giác mạc hình chóp. Bệnh làm giác mạc biến dạng, ánh sáng không hội tụ đúng trên võng mạc, gây ra hiện tượng song thị. Bạn nên đến gặp bác sĩ nhãn khoa để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Bệnh giác mạc hình chóp có thể chữa khỏi hoàn toàn không?",
+      "answer": "Hiện tại, bệnh giác mạc hình chóp không thể chữa khỏi hoàn toàn, nhưng có thể kiểm soát và làm chậm sự tiến triển bằng nhiều phương pháp điều trị. Các phương pháp như liên kết chéo collagen giác mạc (CXL) có thể giúp ổn định bệnh, kính áp tròng cứng giúp cải thiện thị lực, và trong trường hợp nặng, ghép giác mạc có thể là lựa chọn điều trị cuối cùng."
+    },
+    {
+      "question": "Điều trị liên kết chéo collagen (CXL) là gì và nó hoạt động như thế nào?",
+      "answer": "Liên kết chéo collagen (CXL) là một phương pháp điều trị sử dụng kết hợp chất Riboflavin (Vitamin B2) và tia UVA để tạo ra các liên kết ngang giữa các sợi collagen trong giác mạc. Quá trình này làm tăng độ cứng của giác mạc, giúp ổn định hình dạng và ngăn chặn sự tiến triển của bệnh giác mạc hình chóp. CXL không cải thiện thị lực ngay lập tức nhưng giúp ngăn ngừa sự suy giảm thị lực thêm."
+    }
+  ],
+  "popular_questions": [
+    {
+      "question": "Làm thế nào để phát hiện sớm bệnh giác mạc hình chóp?",
+      "answer": "Để phát hiện sớm bệnh giác mạc hình chóp, cần chú ý các dấu hiệu như thị lực mờ dần, thay đổi số độ kính thường xuyên, nhạy cảm với ánh sáng và nhìn thấy quầng sáng xung quanh bóng đèn. Việc khám mắt định kỳ, đặc biệt là làm bản đồ giác mạc, sẽ giúp phát hiện bệnh ở giai đoạn sớm. Nếu trong gia đình có người mắc bệnh, nên khám tầm soát cho trẻ từ 10 tuổi mỗi năm một lần."
+    },
+    {
+      "question": "Người bị giác mạc hình chóp có nên phẫu thuật Lasik không?",
+      "answer": "Người bị giác mạc hình chóp không nên phẫu thuật Lasik. Phẫu thuật Lasik làm mỏng giác mạc bằng cách cắt đi một phần mô giác mạc, điều này có thể làm trầm trọng thêm tình trạng của người bị giác mạc hình chóp. Thay vào đó, các phương pháp điều trị như liên kết chéo collagen (CXL), kính áp tròng đặc biệt, hoặc trong trường hợp nặng, ghép giác mạc, là những lựa chọn phù hợp hơn."
+    },
+    {
+      "question": "Phương pháp liên kết chéo collagen (CXL) có hiệu quả cho tất cả các giai đoạn của bệnh giác mạc hình chóp không?",
+      "answer": "Phương pháp liên kết chéo collagen (CXL) hiệu quả nhất ở giai đoạn đầu đến trung bình của bệnh giác mạc hình chóp, khi giác mạc chưa quá mỏng (dày ít nhất 400 μm) và chưa có nhiều sẹo. CXL giúp làm chậm hoặc ngăn chặn sự tiến triển của bệnh, không cải thiện thị lực đáng kể. Ở giai đoạn nặng với giác mạc rất mỏng hoặc có nhiều sẹo, ghép giác mạc có thể là lựa chọn phù hợp hơn."
+    },
+    {
+      "question": "Giác mạc hình chóp có di truyền không?",
+      "answer": "Có, giác mạc hình chóp có yếu tố di truyền. Khoảng 10-15% người bệnh có tiền sử gia đình mắc bệnh. Những người có cha mẹ hoặc anh chị em ruột bị giác mạc hình chóp có nguy cơ mắc bệnh cao hơn so với dân số chung. Do đó, nếu trong gia đình có người bị giác mạc hình chóp, các thành viên khác, đặc biệt là con cái, nên được khám mắt định kỳ để phát hiện sớm các dấu hiệu của bệnh."
+    },
+    {
+      "question": "Bệnh giác mạc hình chóp có thể dẫn đến mù không?",
+      "answer": "Trong trường hợp không được điều trị hoặc điều trị không kịp thời, bệnh giác mạc hình chóp có thể tiến triển đến mức gây ra suy giảm thị lực nghiêm trọng, thậm chí là mù lòa. Tuy nhiên, với các phương pháp điều trị hiện đại như liên kết chéo collagen (CXL), kính áp tròng đặc biệt và ghép giác mạc, hầu hết người bệnh có thể duy trì thị lực tốt nếu được chẩn đoán và điều trị sớm."
+    }
+  ]
+}

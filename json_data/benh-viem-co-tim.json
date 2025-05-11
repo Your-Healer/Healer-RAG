@@ -1,0 +1,179 @@
+{
+  "disease_id": "benh-viem-co-tim",
+  "disease_name": "Bệnh viêm cơ tim",
+  "disease_alternative_names": [
+    "Viêm cơ tim",
+    "Viêm cơ tim cấp",
+    "Myocarditis"
+  ],
+  "disease_definition": "Viêm cơ tim là tình trạng viêm toàn bộ hoặc một phần khối cơ tim, là hậu quả của một bệnh nhiễm trùng khác gây nên. Bệnh có thể gặp ở mọi lứa tuổi nhưng gặp nhiều hơn ở người trẻ tuổi (20 – 40), gặp ở nam nhiều hơn nữ, biểu hiện phong phú có thể từ nhẹ đến nặng.",
+  "symptoms": [
+    {
+      "name": "Không có triệu chứng",
+      "description": "Một số trường hợp không có biểu hiện rõ ràng, bệnh diễn biến âm thầm cho đến khi phát hiện thì cơ tim có thể đã bị phì đại"
+    },
+    {
+      "name": "Triệu chứng khởi phát",
+      "description": "Sốt cao, đau nhức đầu, mỏi cơ, chảy nước mắt, nước mũi, tiêu chảy, khó thở và ăn uống kém"
+    },
+    {
+      "name": "Triệu chứng tim mạch",
+      "description": "Đau tức ngực, đánh trống ngực, đau tức vùng gan, khó thở tăng lên sau 1-2 ngày"
+    },
+    {
+      "name": "Triệu chứng nghiêm trọng",
+      "description": "Sốc tim, mạch đập nhanh nhỏ, huyết áp tụt hoặc không đo được, da tái, không đáp ứng điều trị"
+    }
+  ],
+  "causes": {
+    "main_cause": "Viêm cơ tim thường là hậu quả của một bệnh nhiễm trùng khác, không có một loại vi rút riêng biệt nào là vi rút viêm cơ tim.",
+    "related_factors": "Người bị suy giảm hệ miễn dịch, trẻ sơ sinh và trẻ nhỏ thường có nguy cơ nhiều hơn.",
+    "transmission_routes": [
+      "Nhiễm virus từ các bệnh cúm thông thường",
+      "Nhiễm virus viêm gan B, C, virus herpes",
+      "Nhiễm trùng đường tiêu hóa",
+      "Nhiễm vi khuẩn như tụ cầu, liên cầu, bạch hầu",
+      "Nhiễm nấm như Candida, aspergillus"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Tuổi và giới tính",
+      "description": "Gặp nhiều hơn ở người trẻ tuổi (20-40), nam giới có nguy cơ cao hơn nữ giới"
+    },
+    {
+      "name": "Suy giảm miễn dịch",
+      "description": "Người có hệ miễn dịch yếu dễ bị nhiễm trùng dẫn đến viêm cơ tim"
+    },
+    {
+      "name": "Phản ứng thuốc",
+      "description": "Sử dụng một số loại thuốc như thuốc điều trị ung thư, kháng sinh, thuốc chống động kinh"
+    },
+    {
+      "name": "Môi trường",
+      "description": "Tiếp xúc với môi trường độc hại, nhiều loại hóa chất"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Suy tim",
+      "description": "Viêm cơ tim có thể nhanh chóng làm tổn thương cơ tim và dẫn đến suy tim, khiến tim không còn chức năng bơm máu để nuôi cơ thể"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Viêm cơ tim có thể gây rối loạn nhịp tim nghiêm trọng"
+    },
+    {
+      "name": "Đột tử",
+      "description": "Chiếm 20% trong số những nguyên nhân gây đột tử ở người trẻ do rối loạn nhịp tim nghiêm trọng"
+    },
+    {
+      "name": "Nhồi máu cơ tim",
+      "description": "Tổn thương cơ tim có thể dẫn đến hình thành cục máu đông gây tắc động mạch vành"
+    },
+    {
+      "name": "Đột quỵ",
+      "description": "Cục máu đông trong tim có thể di chuyển đến động mạch não gây đột quỵ"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Điện tâm đồ",
+        "description": "Đánh giá hoạt động điện của tim"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Kiểm tra chức năng và cấu trúc của tim"
+      },
+      {
+        "name": "X-quang tim phổi",
+        "description": "Đánh giá kích thước tim và tình trạng phổi"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra nồng độ men tim và kháng thể kháng virus"
+      },
+      {
+        "name": "Sinh thiết cơ tim",
+        "description": "Lấy mẫu mô tim để xác định chính xác nguyên nhân"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị viêm cơ tim tập trung vào kiểm soát triệu chứng, ngăn ngừa biến chứng và điều trị nguyên nhân gây bệnh.",
+    "methods": [
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Tùy từng nguyên nhân và thể trạng người bệnh, bác sĩ sẽ đưa ra những phác đồ điều trị riêng biệt"
+      },
+      {
+        "name": "Tăng cường co bóp cơ tim",
+        "description": "Sử dụng các thuốc hỗ trợ chức năng co bóp của tim"
+      },
+      {
+        "name": "Chống loạn nhịp tim",
+        "description": "Điều trị các rối loạn nhịp tim nếu có"
+      },
+      {
+        "name": "Chống sốc",
+        "description": "Điều trị tích cực trong trường hợp sốc tim"
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi tuyệt đối trong giai đoạn cấp",
+      "Hạn chế vận động mạnh",
+      "Theo dõi chặt chẽ các dấu hiệu sinh tồn",
+      "Uống thuốc đều đặn theo chỉ định",
+      "Tái khám định kỳ theo hẹn"
+    ],
+    "prevention_of_transmission": [
+      "Tránh tiếp xúc gần với người bệnh nhiễm virus",
+      "Rửa tay thường xuyên",
+      "Đeo khẩu trang khi cần thiết"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm phòng các bệnh có thể gây viêm cơ tim như cúm, viêm gan virus",
+      "recommended_for": [
+        "Người có nguy cơ cao",
+        "Người suy giảm miễn dịch",
+        "Người tiếp xúc nhiều với môi trường độc hại"
+      ]
+    },
+    "general_recommendations": [
+      "Điều trị kịp thời các bệnh nhiễm trùng",
+      "Tránh tiếp xúc với môi trường độc hại",
+      "Đến ngay cơ sở y tế khi có triệu chứng đau ngực và khó thở",
+      "Khám sức khỏe định kỳ",
+      "Tiêm phòng các bệnh có thể gây viêm cơ tim"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Viêm cơ tim có nguy hiểm không?",
+      "related_diseases": [
+        "suy tim",
+        "rối loạn nhịp tim",
+        "nhồi máu cơ tim"
+      ]
+    },
+    {
+      "question": "Viêm cơ tim có lây không?",
+      "related_diseases": [
+        "viêm gan virus",
+        "cúm",
+        "viêm đường hô hấp"
+      ]
+    },
+    {
+      "question": "Ai có nguy cơ mắc viêm cơ tim cao nhất?",
+      "related_diseases": [
+        "suy giảm miễn dịch",
+        "bệnh tự miễn",
+        "bệnh tim bẩm sinh"
+      ]
+    }
+  ]
+} 

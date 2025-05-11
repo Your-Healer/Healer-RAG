@@ -1,0 +1,60 @@
+{
+  "disease_id": "bien-the-omicron-tang-hinh",
+  "disease_name": "Biến thể Omicron tàng hình",
+  "disease_alternative_names": ["Omicron BA.2", "Omicron tàng hình", "Stealth Omicron"],
+  "disease_definition": "Omicron tàng hình (BA.2) là biến thể phụ của Omicron, có khả năng lây lan nhanh hơn và gây ra các triệu chứng nhẹ tương tự cảm cúm, thường không gây bệnh nặng ở người đã tiêm đủ vắc xin.",
+  "symptoms": [
+    {"name": "Đau rát và khô khát ở họng", "description": "Cảm giác đau rát, khô họng, khó chịu khi nuốt."},
+    {"name": "Mệt mỏi", "description": "Cảm giác mệt mỏi, thiếu năng lượng."},
+    {"name": "Ê nhức cơ thể", "description": "Đau nhức cơ bắp toàn thân."},
+    {"name": "Hắt hơi", "description": "Hắt hơi liên tục, giống cảm cúm."},
+    {"name": "Sốt nhẹ", "description": "Thường chỉ sốt nhẹ, ít khi sốt cao."}
+  ],
+  "causes": {
+    "main_cause": "Do virus Sars-Cov-2 biến thể Omicron BA.2 gây ra.",
+    "related_factors": "Lây qua đường hô hấp, tiếp xúc trực tiếp hoặc gián tiếp với người nhiễm hoặc vật dụng chứa virus.",
+    "transmission_routes": ["Hô hấp", "Tiếp xúc trực tiếp", "Tiếp xúc với vật dụng chứa virus"]
+  },
+  "risk_factors": ["Người chưa tiêm vắc xin", "Người có bệnh nền", "Người suy giảm miễn dịch", "Người cao tuổi"],
+  "complications": ["Chuyển nặng ở nhóm nguy cơ cao", "Tái nhiễm nhiều lần"],
+  "diagnosis": {
+    "methods": ["Test nhanh Covid-19", "Xét nghiệm PCR"],
+    "tests": [
+      {"name": "Test nhanh Covid-19", "description": "Phát hiện nhiễm Covid-19 nhưng không xác định được biến thể."},
+      {"name": "PCR", "description": "Xác định nhiễm Covid-19, không xác định được biến thể."}
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị triệu chứng, hỗ trợ miễn dịch, sử dụng kháng thể đơn dòng Evusheld cho nhóm nguy cơ cao.",
+    "methods": [
+      {"name": "Kháng thể đơn dòng Evusheld", "description": "Dự phòng và điều trị cho nhóm nguy cơ cao."},
+      {"name": "Điều trị triệu chứng", "description": "Hạ sốt, giảm đau, nghỉ ngơi, bổ sung dinh dưỡng."}
+    ],
+    "recommendations": ["Theo dõi sát triệu chứng", "Cách ly, tuân thủ hướng dẫn y tế"],
+    "prevention_of_transmission": ["Tuân thủ 5K", "Tiêm vắc xin đầy đủ"]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Vắc xin Covid-19 giúp giảm nguy cơ chuyển nặng và tử vong.",
+      "recommended_for": ["Tất cả mọi người, đặc biệt nhóm nguy cơ cao"]
+    },
+    "general_recommendations": ["Đeo khẩu trang", "Khử khuẩn", "Giữ khoảng cách", "Không tụ tập", "Khai báo y tế"]
+  },
+  "faqs": [
+    {"question": "Omicron tàng hình là gì?", "answer": "Là biến thể phụ BA.2 của Omicron, có khả năng lây lan nhanh hơn và triệu chứng nhẹ."},
+    {"question": "Omicron tàng hình có nguy hiểm không?", "answer": "Thường không gây bệnh nặng ở người đã tiêm đủ vắc xin, nhưng lây lan nhanh."},
+    {"question": "Vắc xin có hiệu quả với Omicron tàng hình không?", "answer": "Vắc xin giúp giảm nguy cơ chuyển nặng và tử vong do Omicron tàng hình."}
+  ],
+  "common_questions": [
+    {"question": "Tôi có thể đang bị bệnh gì nếu tôi có các triệu chứng như đau rát và khô khát ở họng, mệt mỏi, ê nhức cơ thể, hắt hơi, sốt nhẹ?", "related_diseases": []},
+    {"question": "Tôi có thể đang bị bệnh gì nếu tôi có các triệu chứng như đau rát và khô khát ở họng, mệt mỏi, ê nhức cơ thể?", "related_diseases": []},
+    {"question": "Tôi có thể đang bị bệnh gì nếu tôi có các triệu chứng như hắt hơi, sốt nhẹ?", "related_diseases": []},
+    {"question": "Tôi có thể đang bị bệnh gì nếu tôi có các triệu chứng như đau rát và khô khát ở họng, mệt mỏi, ê nhức cơ thể, hắt hơi, sốt nhẹ?", "related_diseases": []},
+    {"question": "Tôi có thể đang bị bệnh gì nếu tôi có các triệu chứng như đau rát và khô khát ở họng, mệt mỏi, ê nhức cơ thể?", "related_diseases": []},
+    {"question": "Tôi có thể đang bị bệnh gì nếu tôi có các triệu chứng như hắt hơi, sốt nhẹ?", "related_diseases": []},
+    {"question": "Tôi có thể đang bị bệnh gì nếu tôi có các triệu chứng như đau rát và khô khát ở họng, mệt mỏi, ê nhức cơ thể, hắt hơi, sốt nhẹ?", "related_diseases": []},
+    {"question": "Tôi có thể đang bị bệnh gì nếu tôi có các triệu chứng như đau rát và khô khát ở họng, mệt mỏi, ê nhức cơ thể?", "related_diseases": []},
+    {"question": "Tôi có thể đang bị bệnh gì nếu tôi có các triệu chứng như hắt hơi, sốt nhẹ?", "related_diseases": []},
+    {"question": "Tôi có thể đang bị bệnh gì nếu tôi có các triệu chứng như đau rát và khô khát ở họng, mệt mỏi, ê nhức cơ thể, hắt hơi, sốt nhẹ?", "related_diseases": []}
+  ]
+}

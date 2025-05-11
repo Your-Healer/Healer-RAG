@@ -1,0 +1,251 @@
+{
+  "disease_id": "benh-nhuoc-co",
+  "disease_name": "Bệnh Nhược Cơ",
+  "disease_alternative_names": ["Myasthenia Gravis", "Yếu cơ", "Bệnh yếu cơ"],
+  "disease_definition": "Nhược cơ hay yếu cơ (Myasthenia Gravis) là bệnh lý tự miễn của những điểm nối thần kinh – cơ ở người bệnh, đặc trưng bởi yếu cơ có tính chất dao động theo thời điểm trong ngày, buổi sáng khỏe hơn buổi chiều hoặc yếu tăng khi người bệnh hoạt động quá sức và giảm khi nghỉ ngơi. Khi mắc bệnh, cơ thể sẽ sản sinh ra kháng thể chống lại quá trình gắn thụ thể Acetylcholine (AChR) ở màng sau Synap, làm giảm khả năng dẫn truyền thần kinh qua khe synap, biểu hiện bằng mỏi cơ, yếu cơ hoặc liệt vận động.",
+  "symptoms": [
+    {
+      "name": "Sụp mí mắt",
+      "description": "Hơn 50% người bệnh mắc nhược cơ có biểu hiện ban đầu ở cơ mắt, thường gặp là sụp mi, biểu hiện một bên hoặc không đối xứng."
+    },
+    {
+      "name": "Nhìn đôi",
+      "description": "Người bệnh nhìn 1 vật nhưng lại thấy 2 hình ảnh do yếu cơ vận nhãn."
+    },
+    {
+      "name": "Khó khăn khi nhai và nuốt",
+      "description": "Cơ nhai thường bị yếu rõ hơn khi nhai kéo dài (nhai mệt), đặc biệt khi ăn thức ăn cứng như thịt. Yếu cơ vùng hầu họng gây nuốt khó, có thể dẫn đến sặc và hít sặc thức ăn vào phổi."
+    },
+    {
+      "name": "Nói khó",
+      "description": "Giọng nói thay đổi nghe như giọng mũi khi yếu cơ vòm miệng, nặng hơn khi nói kéo dài."
+    },
+    {
+      "name": "Yếu cơ cổ và tứ chi",
+      "description": "Khó khăn khi giữ đầu ngẩng cao do yếu cơ duỗi cổ, gây ra \"hội chứng đầu rơi\". Khó khăn khi nâng đồ vật, đứng dậy từ tư thế ngồi, leo cầu thang hay đánh răng."
+    },
+    {
+      "name": "Yếu cơ mặt",
+      "description": "Cơ mặt yếu khiến người bệnh có vẻ mặt vô cảm, \"mất nụ cười\" do yếu các cơ vòng môi."
+    },
+    {
+      "name": "Yếu cơ hô hấp",
+      "description": "Biểu hiện nghiêm trọng nhất của bệnh, có thể dẫn đến suy hô hấp đe dọa tính mạng, được gọi là \"cơn nhược cơ\"."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nhược cơ là bệnh tự miễn, khi mắc bệnh, cơ thể sẽ sản sinh ra các tự kháng thể phá hủy những thụ cảm thể của Acetylcholine trên màng tế bào cơ tại màng sau synap, gây trở ngại cho quá trình truyền tín hiệu từ thần kinh đến cơ.",
+    "related_factors": "Có mối liên quan với tuyến ức (nằm ở ngực ngay dưới xương ức), có thể duy trì hay kích hoạt việc sản xuất những kháng thể ngăn chặn acetylcholine. Nhiều người bệnh có kích thước tuyến ức bất thường hoặc có khối u tuyến ức. Bên cạnh đó, yếu tố di truyền cũng góp phần vào cơ chế bệnh sinh, với một số loại kháng nguyên bạch cầu ở người (HLA) có liên quan đến bệnh nhược cơ.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Có tiền sử gia đình mắc bệnh rối loạn tự miễn dịch",
+    "Mắc các bệnh tự miễn khác như lupus ban đỏ hệ thống, viêm khớp dạng thấp, bệnh Graves, viêm tuyến giáp",
+    "Nhiễm trùng",
+    "Phẫu thuật",
+    "Mang thai",
+    "Sinh con",
+    "Sử dụng một số loại thuốc như kháng sinh Fluoroquinolon, Aminoglycoside"
+  ],
+  "complications": [
+    "Cơn nhược cơ (suy hô hấp đe dọa tính mạng)",
+    "Viêm phổi do hít sặc",
+    "Khó khăn trong sinh hoạt hàng ngày",
+    "Khó khăn trong giao tiếp",
+    "Tác động tâm lý do hạn chế vận động và sinh hoạt"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để đánh giá các triệu chứng đặc trưng",
+      "Hỏi tiền sử bệnh và diễn biến triệu chứng",
+      "Kiểm tra dấu hiệu sụp mí, vận động nhãn cầu, yếu cơ mặt, tay chân"
+    ],
+    "tests": [
+      {
+        "name": "Thử nghiệm Prostigmin",
+        "description": "Tiêm thuốc kháng men Cholinesterase để làm chậm quá trình phá hủy phân tử AChR. Kết quả dương tính khi triệu chứng yếu cơ giảm rõ rệt."
+      },
+      {
+        "name": "Test nước đá",
+        "description": "Đặt túi nước đá lên mắt bị sụp mí, test dương tính khi mắt mở to hơn."
+      },
+      {
+        "name": "Đo điện cơ",
+        "description": "Thực hiện test kích thích thần kinh lặp lại hoặc điện cơ sợi đơn độc để đánh giá chức năng thần kinh-cơ."
+      },
+      {
+        "name": "Xét nghiệm huyết thanh",
+        "description": "Tìm kháng thể kháng AChR, MuSK, LPR4, có giá trị cao trong chẩn đoán và theo dõi bệnh."
+      },
+      {
+        "name": "CT ngực",
+        "description": "Tầm soát u tuyến ức, đánh giá kích thước và cấu trúc tuyến ức."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Nhược cơ là một bệnh mạn tính nhưng có thể điều trị được. Mục tiêu chính của điều trị là làm giảm thiểu triệu chứng và tác dụng phụ của thuốc, giúp người bệnh có thể thuyên giảm các triệu chứng một cách bền vững và có đầy đủ các chức năng hoạt động.",
+    "methods": [
+      {
+        "name": "Thuốc ức chế Acetylcholinesterase",
+        "description": "Pyridostigmine (Mestinon) là thuốc thường được dùng, giúp làm chậm quá trình thoái hóa acetylcholine, kéo dài tác dụng của ACh, cải thiện sức cơ ở người bệnh."
+      },
+      {
+        "name": "Liệu pháp ức chế miễn dịch",
+        "description": "Bao gồm Glucocorticoid (steroid) và các thuốc ức chế miễn dịch không steroid như Azathioprine hoặc Mycophenolate, giúp điều hòa rối loạn miễn dịch."
+      },
+      {
+        "name": "Cắt bỏ tuyến ức",
+        "description": "Chỉ định cho người bệnh có u tuyến ức và người bệnh dưới 50 tuổi có kháng thể AChR dương tính. Lợi ích có thể trì hoãn và kéo dài trong vài năm sau phẫu thuật."
+      },
+      {
+        "name": "Thay huyết tương và truyền globulin miễn dịch",
+        "description": "Liệu pháp điều hòa miễn dịch cấp tính với tác dụng ngắn, được chỉ định trong cơn nhược cơ cấp, trước phẫu thuật, hoặc như biện pháp 'cầu nối' trước khi các liệu pháp ức chế miễn dịch khác có tác dụng."
+      }
+    ],
+    "recommendations": [
+      "Tránh sử dụng các thuốc có thể làm trầm trọng thêm bệnh như Aminoglycoside, Benzodiazepine, Opioid, thuốc an thần",
+      "Ăn uống khoa học, bổ sung đầy đủ dưỡng chất, đặc biệt là trái cây và rau xanh",
+      "Nên chủ động khám bác sĩ định kỳ để theo dõi diễn biến bệnh",
+      "Tiêm phòng vắc-xin cúm theo mùa và vắc-xin phế cầu",
+      "Giữ tinh thần thoải mái, tránh căng thẳng",
+      "Tập luyện thể dục thể thao phù hợp để rèn luyện sức khỏe các cơ",
+      "Chăm sóc kỹ răng miệng, duy trì vệ sinh cá nhân"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vaccine phòng ngừa bệnh nhược cơ, nhưng người bệnh nên tiêm phòng cúm theo mùa và vắc-xin phế cầu để tránh nhiễm trùng đường hô hấp có thể làm nặng thêm bệnh.",
+      "recommended_for": [
+        "Người bệnh nhược cơ toàn thể",
+        "Người bệnh nhược cơ thể mắt trong vòng ba năm kể từ khi khởi phát"
+      ]
+    },
+    "general_recommendations": [
+      "Duy trì chế độ ăn uống cân bằng, giàu dinh dưỡng",
+      "Bổ sung đầy đủ khoáng chất và vitamin",
+      "Thường xuyên tập luyện thể dục thể thao phù hợp",
+      "Duy trì lối sống lành mạnh, ngủ đủ giấc",
+      "Hạn chế căng thẳng, stress",
+      "Khi cơ thể có dấu hiệu bất thường, chủ động đi khám bác sĩ",
+      "Tuân thủ lịch uống thuốc và tái khám theo hướng dẫn"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh nhược cơ có chữa khỏi hoàn toàn được không?",
+      "answer": "Nhược cơ là một bệnh mạn tính, hiện chưa có phương pháp chữa khỏi hoàn toàn. Tuy nhiên, bệnh có thể được kiểm soát tốt bằng các liệu pháp điều trị hiện có như thuốc ức chế Acetylcholinesterase, ức chế miễn dịch, cắt bỏ tuyến ức, và thay huyết tương. Nhiều người bệnh có thể đạt được tình trạng thuyên giảm các triệu chứng một cách bền vững và có đầy đủ các chức năng hoạt động bình thường."
+    },
+    {
+      "question": "Người bị nhược cơ có nên tiêm vắc-xin COVID-19 không?",
+      "answer": "Tiêm vắc-xin COVID-19 được khuyến cáo cho những bệnh nhân mắc các bệnh tự miễn như nhược cơ, trừ khi họ có chống chỉ định cụ thể. Người bệnh nên tham khảo ý kiến bác sĩ chuyên khoa thần kinh trước khi tiêm để được tư vấn cụ thể cho trường hợp của mình. Nói chung, lợi ích của việc tiêm phòng (bảo vệ khỏi COVID-19) vượt trội so với nguy cơ tiềm ẩn, đặc biệt khi COVID-19 có thể gây ra cơn nhược cơ cấp ở người bệnh nhược cơ."
+    },
+    {
+      "question": "Cơn nhược cơ là gì và khi nào cần đi cấp cứu?",
+      "answer": "Cơn nhược cơ là tình trạng suy hô hấp đe dọa tính mạng do yếu hoặc liệt các cơ hô hấp (cơ hoành, cơ liên sườn và các cơ thành ngực). Khi người bệnh có các dấu hiệu như khó thở tăng dần, nói ngắt quãng, không thể ho hiệu quả, cảm thấy tức ngực, lo lắng, bồn chồn, thở nhanh nông, hoặc nhịp tim tăng, cần đến cơ sở y tế cấp cứu ngay lập tức. Cơn nhược cơ có thể xảy ra bất ngờ hoặc do các yếu tố như nhiễm trùng, phẫu thuật, mang thai, sinh con, sử dụng một số loại thuốc, hoặc giảm thuốc ức chế miễn dịch."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi bị sụp mí mắt và nhìn đôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh nhược cơ",
+        "u não",
+        "đột quỵ",
+        "tổn thương thần kinh sọ",
+        "viêm đa dây thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi khó khăn khi nhai và nuốt thức ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh nhược cơ",
+        "viêm họng",
+        "u vùng họng",
+        "bệnh teo cơ",
+        "rối loạn nuốt thần kinh cơ"
+      ]
+    },
+    {
+      "question": "Tôi bị nói khó và giọng nói như giọng mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh nhược cơ",
+        "viêm VA",
+        "bệnh đường hô hấp trên",
+        "tổn thương thần kinh sọ",
+        "u vòm họng"
+      ]
+    },
+    {
+      "question": "Tôi khó khăn khi giữ đầu ngẩng cao và dễ bị mỏi cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh nhược cơ",
+        "thoái hóa đốt sống cổ",
+        "đau cơ fibromyalgia",
+        "viêm đĩa đệm cổ",
+        "stress"
+      ]
+    },
+    {
+      "question": "Tôi yếu cơ tay chân và khó khăn khi leo cầu thang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh nhược cơ",
+        "thoái hóa cơ",
+        "bệnh teo cơ",
+        "viêm đa cơ",
+        "thiếu vitamin D"
+      ]
+    },
+    {
+      "question": "Tôi bị khó thở và yếu cơ hô hấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh nhược cơ",
+        "hen suyễn",
+        "bệnh phổi tắc nghẽn mạn tính",
+        "viêm phổi",
+        "suy tim"
+      ]
+    },
+    {
+      "question": "Tôi lo lắng mình có thể bị \"cơn nhược cơ\". Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh nhược cơ",
+        "cơn nhược cơ cấp",
+        "suy hô hấp",
+        "lo âu",
+        "rối loạn hoảng sợ"
+      ]
+    },
+    {
+      "question": "Tôi khó khăn khi cười và biểu lộ cảm xúc trên khuôn mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh nhược cơ",
+        "liệt mặt",
+        "hội chứng Parkinson",
+        "đột quỵ",
+        "trầm cảm"
+      ]
+    },
+    {
+      "question": "Tôi hay bị hít sặc khi ăn uống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh nhược cơ",
+        "rối loạn nuốt",
+        "trào ngược dạ dày thực quản",
+        "bệnh Parkinson",
+        "đột quỵ"
+      ]
+    },
+    {
+      "question": "Tôi dáng đi chậm chạp và dễ bị vấp ngã. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh nhược cơ",
+        "bệnh Parkinson",
+        "đa xơ cứng",
+        "rối loạn tiểu não",
+        "bệnh thoái hóa thần kinh"
+      ]
+    }
+  ]
+}

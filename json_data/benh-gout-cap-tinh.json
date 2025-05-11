@@ -1,0 +1,248 @@
+{
+  "disease_id": "benh-gout-cap-tinh",
+  "disease_name": "Bệnh Gout Cấp Tính",
+  "disease_alternative_names": ["Gút cấp tính", "Acute Gout", "Viêm khớp do gout cấp tính", "Thống phong cấp tính"],
+  "disease_definition": "Bệnh gout cấp tính là một dạng viêm khớp do sự tích tụ của tinh thể acid uric trong khớp, gây ra các đợt viêm đau dữ dội đột ngột, sưng, đỏ và nóng tại vị trí viêm. Bệnh xảy ra khi cơ thể sản xuất quá nhiều acid uric hoặc khi thận không thể loại bỏ đủ acid uric ra khỏi cơ thể. Tinh thể urate hình thành và tích tụ trong khớp, gây viêm và đau.",
+  "symptoms": [
+    {
+      "name": "Đau khớp dữ dội đột ngột",
+      "description": "Cơn đau xuất hiện đột ngột, thường vào ban đêm, cường độ đau tăng nhanh trong 4-12 giờ đầu tiên và có thể kéo dài vài ngày đến vài tuần nếu không được điều trị."
+    },
+    {
+      "name": "Đau tái phát",
+      "description": "Sau đợt viêm đầu tiên, bệnh nhân có thể không có triệu chứng trong thời gian dài. Tuy nhiên, các cơn đau có thể tái phát theo thời gian và trở nên thường xuyên hơn, gây ra tổn thương khớp nếu không điều trị đúng cách."
+    },
+    {
+      "name": "Sưng và viêm",
+      "description": "Khớp bị ảnh hưởng sẽ sưng tấy, đỏ và nóng, rất nhạy cảm khi chạm vào, đôi khi chỉ cần chạm nhẹ vào chăn đắp cũng gây đau."
+    },
+    {
+      "name": "Giảm biên độ vận động khớp",
+      "description": "Khớp bị viêm gây cứng và hạn chế vận động, đặc biệt là khi cơn gout xảy ra ở khớp chịu lực như ngón chân cái, mắt cá chân hoặc đầu gối."
+    },
+    {
+      "name": "Đỏ da vùng khớp",
+      "description": "Da vùng khớp viêm có màu đỏ bầm, căng bóng và có thể bong tróc khi hết cơn đau gout."
+    },
+    {
+      "name": "Sốt nhẹ",
+      "description": "Một số bệnh nhân có thể bị sốt nhẹ trong đợt gout cấp tính, thường kèm theo cảm giác ớn lạnh, mệt mỏi và khó chịu."
+    },
+    {
+      "name": "Cảm giác ngứa hoặc rát bỏng",
+      "description": "Một số người bệnh mô tả cảm giác ngứa hoặc rát bỏng ở khớp bị ảnh hưởng ngay trước khi cơn đau bắt đầu."
+    }
+  ],
+  "causes": [
+    {
+      "name": "Tăng sản xuất acid uric",
+      "description": "Sự tăng sản xuất acid uric trong cơ thể do rối loạn chuyển hóa purin hoặc do nguồn thực phẩm giàu purin nạp vào cơ thể."
+    },
+    {
+      "name": "Giảm đào thải acid uric",
+      "description": "Thận không đào thải đủ acid uric ra khỏi cơ thể, dẫn đến tích tụ acid uric trong máu và hình thành tinh thể trong khớp."
+    },
+    {
+      "name": "Di truyền",
+      "description": "Yếu tố di truyền đóng vai trò quan trọng trong bệnh gout. Người có tiền sử gia đình bị gout có nguy cơ cao hơn."
+    },
+    {
+      "name": "Yếu tố kích hoạt",
+      "description": "Một số yếu tố có thể kích hoạt cơn gout cấp như ăn quá nhiều thực phẩm giàu purin, uống nhiều rượu bia, sử dụng một số loại thuốc, căng thẳng hoặc chấn thương."
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Giới tính và tuổi tác",
+      "description": "Nam giới từ 30-50 tuổi và phụ nữ sau mãn kinh có nguy cơ mắc gout cao hơn. Nam giới có tỷ lệ mắc bệnh cao hơn phụ nữ do hormone estrogen giúp đào thải acid uric tốt hơn."
+    },
+    {
+      "name": "Thừa cân, béo phì",
+      "description": "Cân nặng quá mức làm tăng sản xuất acid uric và giảm khả năng đào thải của thận."
+    },
+    {
+      "name": "Tiền sử gia đình",
+      "description": "Người có người thân trong gia đình từng bị gout sẽ dễ mắc bệnh hơn."
+    },
+    {
+      "name": "Chế độ ăn uống",
+      "description": "Ăn quá nhiều thực phẩm giàu purin như nội tạng động vật, hải sản, thịt đỏ và uống nhiều rượu bia làm tăng nguy cơ mắc bệnh."
+    },
+    {
+      "name": "Một số bệnh lý",
+      "description": "Bệnh thận, đái tháo đường, tăng huyết áp, bệnh tim mạch, rối loạn chuyển hóa làm tăng nguy cơ mắc gout."
+    },
+    {
+      "name": "Sử dụng thuốc",
+      "description": "Một số loại thuốc có thể làm tăng acid uric trong máu như thuốc lợi tiểu, aspirin liều thấp, một số thuốc điều trị ung thư và thuốc ức chế miễn dịch."
+    },
+    {
+      "name": "Phẫu thuật gần đây",
+      "description": "Một số người có thể bị cơn gout cấp tính sau khi phẫu thuật do sự thay đổi mức acid uric trong máu."
+    }
+  ],
+  "complications": [
+    {
+      "name": "Gout mãn tính",
+      "description": "Nếu không được điều trị, gout cấp tính có thể tiến triển thành gout mãn tính với các cơn tấn công thường xuyên hơn và tổn thương khớp lâu dài."
+    },
+    {
+      "name": "Hạt tophi",
+      "description": "Sự tích tụ của tinh thể natri urat dưới da tạo thành các khối cứng gọi là tophi, thường xuất hiện ở ngón tay, bàn chân, khuỷu tay và tai. Hạt tophi có thể gây biến dạng khớp và tổn thương mô xung quanh."
+    },
+    {
+      "name": "Sỏi thận",
+      "description": "Người bị gout có nguy cơ cao bị sỏi thận do acid uric. Khoảng 20% bệnh nhân gout bị sỏi thận, có thể gây đau đớn và nhiễm trùng đường tiết niệu."
+    },
+    {
+      "name": "Tổn thương khớp",
+      "description": "Viêm khớp mãn tính do gout có thể dẫn đến thoái hóa khớp, biến dạng và hạn chế vận động vĩnh viễn."
+    },
+    {
+      "name": "Bệnh thận mãn tính",
+      "description": "Nồng độ acid uric cao kéo dài có thể gây tổn thương thận, làm giảm chức năng thận và dẫn đến bệnh thận mãn tính."
+    },
+    {
+      "name": "Bệnh tim mạch",
+      "description": "Các nghiên cứu cho thấy người bị gout có nguy cơ cao bị bệnh tim mạch, bao gồm đau tim và đột quỵ."
+    },
+    {
+      "name": "Rối loạn tâm lý",
+      "description": "Đau mãn tính và hạn chế vận động do gout có thể dẫn đến trầm cảm và lo âu."
+    }
+  ],
+  "diagnosis": [
+    {
+      "name": "Xét nghiệm dịch khớp",
+      "description": "Bác sĩ có thể lấy dịch khớp từ vị trí bị viêm để kiểm tra sự hiện diện của tinh thể natri urat dưới kính hiển vi. Đây là phương pháp chẩn đoán xác định gout chính xác nhất."
+    },
+    {
+      "name": "Xét nghiệm máu",
+      "description": "Đo nồng độ acid uric trong máu. Tuy nhiên, một số người có acid uric cao nhưng không bị gout, và một số người bị gout lại có nồng độ acid uric bình thường trong cơn gout cấp tính."
+    },
+    {
+      "name": "Chẩn đoán hình ảnh",
+      "description": "X-quang, siêu âm, CT scan hoặc MRI có thể giúp phát hiện tổn thương khớp do gout hoặc loại trừ các bệnh lý khớp khác."
+    },
+    {
+      "name": "Tiêu chuẩn chẩn đoán ACR/EULAR 2015",
+      "description": "Sử dụng các tiêu chí lâm sàng, xét nghiệm và hình ảnh theo tiêu chuẩn của Hiệp hội Thấp khớp học Hoa Kỳ và Liên đoàn Thấp khớp học Châu Âu."
+    },
+    {
+      "name": "Chẩn đoán phân biệt",
+      "description": "Loại trừ các bệnh lý khác có triệu chứng tương tự như viêm khớp nhiễm khuẩn, viêm khớp do lắng đọng calci pyrophosphate (bệnh giả gout), viêm khớp dạng thấp."
+    }
+  ],
+  "treatments": [
+    {
+      "name": "Điều trị cơn gout cấp tính",
+      "description": "Mục tiêu điều trị là giảm đau và viêm trong cơn gout cấp. Các thuốc thường được sử dụng bao gồm thuốc chống viêm không steroid (NSAIDs), Colchicine, và Corticosteroid. Điều trị nên bắt đầu càng sớm càng tốt sau khi có triệu chứng."
+    },
+    {
+      "name": "Thuốc chống viêm không steroid (NSAIDs)",
+      "description": "Như Indomethacin, Naproxen, Ibuprofen giúp giảm đau và viêm. Tuy nhiên, NSAIDs có thể gây tác dụng phụ trên đường tiêu hóa và thận."
+    },
+    {
+      "name": "Colchicine",
+      "description": "Hiệu quả nhất khi sử dụng trong 12-24 giờ đầu tiên của cơn gout cấp tính. Liều thấp colchicine có thể hiệu quả và ít tác dụng phụ hơn liều cao."
+    },
+    {
+      "name": "Corticosteroid",
+      "description": "Prednisone hoặc các corticosteroid khác có thể được sử dụng, đặc biệt khi NSAIDs hoặc colchicine không phù hợp. Có thể dùng đường uống, tiêm vào khớp hoặc tiêm bắp."
+    },
+    {
+      "name": "Thuốc ức chế Interleukin-1",
+      "description": "Trong trường hợp cơn gout cấp tính nghiêm trọng không đáp ứng với các phương pháp điều trị khác, có thể sử dụng Anakinra hoặc Canakinumab."
+    },
+    {
+      "name": "Nghỉ ngơi và chăm sóc khớp",
+      "description": "Nghỉ ngơi khớp bị ảnh hưởng, nâng cao chi bị viêm và sử dụng túi đá có thể giúp giảm đau và sưng."
+    }
+  ],
+  "preventions": [
+    {
+      "name": "Kiểm soát chế độ ăn uống",
+      "description": "Hạn chế thực phẩm giàu purin như nội tạng động vật, hải sản, thịt đỏ. Ăn nhiều rau, trái cây, ngũ cốc nguyên hạt và sản phẩm từ sữa ít béo."
+    },
+    {
+      "name": "Hạn chế rượu bia",
+      "description": "Đặc biệt là bia và rượu mạnh có thể làm tăng sản xuất acid uric và giảm đào thải acid uric qua thận."
+    },
+    {
+      "name": "Duy trì cân nặng hợp lý",
+      "description": "Giảm cân nếu thừa cân hoặc béo phì bằng cách kết hợp chế độ ăn uống lành mạnh và tập thể dục đều đặn."
+    },
+    {
+      "name": "Uống đủ nước",
+      "description": "Uống nhiều nước, ít nhất 2-3 lít mỗi ngày để giúp thận đào thải acid uric hiệu quả hơn."
+    },
+    {
+      "name": "Sử dụng thuốc hạ acid uric",
+      "description": "Đối với người bị gout tái phát thường xuyên hoặc có biến chứng, bác sĩ có thể kê đơn thuốc giảm sản xuất acid uric (Allopurinol, Febuxostat) hoặc thuốc tăng đào thải acid uric (Probenecid)."
+    },
+    {
+      "name": "Tránh các yếu tố kích hoạt",
+      "description": "Tránh căng thẳng, chấn thương, và sử dụng các thuốc có thể làm tăng acid uric như aspirin liều thấp, thuốc lợi tiểu."
+    },
+    {
+      "name": "Kiểm soát các bệnh đi kèm",
+      "description": "Điều trị tốt các bệnh lý như tăng huyết áp, đái tháo đường, rối loạn lipid máu, bệnh thận mãn tính giúp giảm nguy cơ gout tái phát."
+    },
+    {
+      "name": "Theo dõi thường xuyên",
+      "description": "Kiểm tra định kỳ nồng độ acid uric trong máu để đảm bảo duy trì ở mức dưới 6 mg/dL (360 μmol/L) hoặc thấp hơn đối với người có tophi."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Gout cấp tính có phải là bệnh di truyền không?",
+      "answer": "Bệnh gout có yếu tố di truyền đóng vai trò quan trọng. Nếu trong gia đình có người bị gout, bạn có nguy cơ mắc bệnh cao hơn. Tuy nhiên, gout không hoàn toàn là bệnh di truyền, các yếu tố lối sống và môi trường cũng đóng vai trò quan trọng trong việc phát triển bệnh."
+    },
+    {
+      "question": "Tại sao gout thường ảnh hưởng đến ngón chân cái?",
+      "answer": "Gout thường ảnh hưởng đến ngón chân cái vì nhiệt độ ở ngón chân thấp hơn so với các phần khác của cơ thể, tạo điều kiện thuận lợi cho tinh thể acid uric kết tinh. Ngoài ra, ngón chân cái chịu áp lực lớn khi đi lại, có thể làm tăng nguy cơ viêm tại vị trí này."
+    },
+    {
+      "question": "Tôi nên chờ bao lâu trước khi đi khám nếu nghi ngờ bị gout?",
+      "answer": "Nếu bạn nghi ngờ bị gout, nên đi khám càng sớm càng tốt, lý tưởng nhất là trong vòng 24 giờ đầu tiên của cơn đau. Điều trị sớm giúp kiểm soát triệu chứng hiệu quả hơn và ngăn ngừa tổn thương khớp lâu dài."
+    },
+    {
+      "question": "Tôi có phải kiêng thịt hoàn toàn nếu bị gout không?",
+      "answer": "Không nhất thiết phải kiêng thịt hoàn toàn, nhưng nên hạn chế thịt đỏ và nội tạng động vật. Thịt gia cầm (gà, vịt) và cá ít béo có lượng purin thấp hơn nên được ưu tiên hơn. Quan trọng là cân đối chế độ ăn, không ăn quá nhiều thực phẩm giàu purin trong một bữa."
+    },
+    {
+      "question": "Có phải tất cả người có nồng độ acid uric cao đều sẽ bị gout?",
+      "answer": "Không phải vậy. Nhiều người có nồng độ acid uric cao (tăng acid uric máu) nhưng không bao giờ phát triển thành gout. Các yếu tố khác như di truyền, lối sống, và sự lắng đọng tinh thể trong khớp cũng đóng vai trò quan trọng trong việc phát triển bệnh gout."
+    },
+    {
+      "question": "Thuốc điều trị gout có thể gây ra những tác dụng phụ gì?",
+      "answer": "Các thuốc điều trị gout có thể gây ra một số tác dụng phụ: NSAIDs có thể gây kích ứng dạ dày, chảy máu tiêu hóa, tổn thương thận; Colchicine có thể gây buồn nôn, nôn, tiêu chảy; Corticosteroid dài ngày có thể gây tăng huyết áp, tăng đường huyết, loãng xương; Allopurinol có thể gây phát ban, thậm chí phản ứng da nặng ở một số người."
+    },
+    {
+      "question": "Phụ nữ có thể bị gout không?",
+      "answer": "Phụ nữ hoàn toàn có thể bị gout, mặc dù tỷ lệ mắc thấp hơn nam giới. Phụ nữ thường bị gout sau mãn kinh do mất đi tác dụng bảo vệ của hormone estrogen trong việc đào thải acid uric. Khi bị gout, phụ nữ thường có triệu chứng ở nhiều khớp hơn và bệnh thường nặng hơn so với nam giới."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi đột nhiên bị đau dữ dội ở ngón chân cái vào ban đêm, sưng đỏ và không thể chạm vào, đây có phải là triệu chứng của bệnh gì?",
+      "answer": "Triệu chứng bạn mô tả rất giống với cơn gout cấp tính. Gout thường bắt đầu bằng cơn đau dữ dội đột ngột, thường vào ban đêm, kèm theo sưng, đỏ và nóng tại khớp, đặc biệt là khớp ngón chân cái. Bạn nên đến gặp bác sĩ càng sớm càng tốt để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Tôi đã bị đau khớp ngón chân cái nhiều lần, mỗi lần kéo dài vài ngày rồi tự hết. Tôi có nên đi khám không?",
+      "answer": "Đau khớp tái phát, đặc biệt ở ngón chân cái, có thể là dấu hiệu của bệnh gout. Ngay cả khi triệu chứng tự hết, bạn vẫn nên đi khám để được chẩn đoán chính xác và có kế hoạch điều trị phù hợp, ngăn ngừa tổn thương khớp lâu dài và các biến chứng khác."
+    },
+    {
+      "question": "Xét nghiệm máu của tôi cho thấy acid uric cao nhưng tôi không có triệu chứng gì. Tôi có cần điều trị không?",
+      "answer": "Tăng acid uric máu không có triệu chứng không nhất thiết phải điều trị bằng thuốc ngay. Tuy nhiên, bạn nên thay đổi lối sống, chế độ ăn uống để giảm nguy cơ phát triển gout. Hãy trao đổi với bác sĩ về kế hoạch theo dõi và phòng ngừa phù hợp với tình trạng cụ thể của bạn."
+    },
+    {
+      "question": "Tôi bị gout và đang uống thuốc Allopurinol, tại sao tôi vẫn bị cơn gout cấp?",
+      "answer": "Cơn gout cấp tính có thể xảy ra trong giai đoạn đầu sử dụng thuốc hạ acid uric như Allopurinol do sự thay đổi nồng độ acid uric trong máu và sự di chuyển của tinh thể urate. Bác sĩ thường kê đơn thuốc ngăn ngừa cơn gout (như Colchicine) trong giai đoạn đầu sử dụng Allopurinol. Hãy tiếp tục dùng thuốc theo chỉ định và tham khảo ý kiến bác sĩ."
+    },
+    {
+      "question": "Tôi hay bị đau và sưng ở nhiều khớp khác nhau, kèm theo mệt mỏi và sốt nhẹ. Đây có phải là gout không?",
+      "answer": "Mặc dù gout có thể ảnh hưởng đến nhiều khớp, nhưng đau nhiều khớp kèm theo mệt mỏi và sốt nhẹ cũng có thể là dấu hiệu của các bệnh lý khác như viêm khớp dạng thấp, lupus, hoặc các bệnh viêm khớp tự miễn khác. Bạn nên đến gặp bác sĩ chuyên khoa cơ xương khớp để được chẩn đoán chính xác."
+    }
+  ]
+}

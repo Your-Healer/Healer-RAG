@@ -1,0 +1,177 @@
+{
+  "disease_id": "benh-van-tim",
+  "disease_name": "Bệnh van tim",
+  "disease_alternative_names": [
+    "Bệnh lý van tim",
+    "Valvular Heart Disease"
+  ],
+  "disease_definition": "Bệnh van tim là tình trạng một hoặc nhiều van tim bị ảnh hưởng chức năng hoạt động, khiến việc lưu thông máu không thể diễn ra như bình thường. Van tim có vai trò điều hướng dòng máu theo một chiều trong tim, khi bị tổn thương sẽ ảnh hưởng đến khả năng bơm máu và có thể dẫn đến nhiều biến chứng nghiêm trọng nếu không được điều trị kịp thời.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Khó thở, đặc biệt khi nằm hoặc gắng sức, có thể xuất hiện cơn khó thở về đêm. Bệnh nhân thường phải kê cao gối khi ngủ để dễ thở hơn"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Suy nhược và mệt mỏi, không đủ sức để thực hiện các hoạt động hàng ngày"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau hoặc áp lực trong ngực, đặc biệt khi hoạt động hoặc tiếp xúc với không khí lạnh"
+    },
+    {
+      "name": "Đánh trống ngực",
+      "description": "Tim đập nhanh, không đều hoặc cảm giác tim đập lộn xộn trong lồng ngực"
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Cảm giác chóng mặt, xây xẩm hoặc có thể bất tỉnh"
+    },
+    {
+      "name": "Phù nề",
+      "description": "Sưng mắt cá chân, bàn chân hoặc bụng, có thể tăng cân nhanh do giữ nước"
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh van tim có thể xuất hiện ngay từ khi mới sinh (bẩm sinh) hoặc xảy ra ở người trưởng thành do nhiều nguyên nhân khác nhau.",
+    "related_factors": "Các yếu tố liên quan bao gồm nhiễm trùng, thấp tim, viêm nội tâm mạc nhiễm khuẩn, bệnh tim mạch khác và yếu tố di truyền.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Tuổi cao",
+      "description": "Nguy cơ mắc bệnh van tim tăng theo tuổi"
+    },
+    {
+      "name": "Tiền sử bệnh tim",
+      "description": "Người có tiền sử bệnh tim hoặc gia đình có người mắc bệnh tim"
+    },
+    {
+      "name": "Thấp tim",
+      "description": "Tiền sử bị thấp tim do nhiễm liên cầu khuẩn"
+    },
+    {
+      "name": "Nhiễm trùng",
+      "description": "Viêm nội tâm mạc nhiễm khuẩn hoặc các bệnh nhiễm trùng khác"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Suy tim",
+      "description": "Tim phải làm việc nhiều hơn để bù đắp cho van bị hỏng, dẫn đến suy tim"
+    },
+    {
+      "name": "Đột quỵ",
+      "description": "Tăng nguy cơ hình thành cục máu đông gây tắc mạch và đột quỵ"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Nhịp tim không đều hoặc bất thường"
+    },
+    {
+      "name": "Viêm nội tâm mạc",
+      "description": "Tăng nguy cơ nhiễm trùng màng trong tim"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ sẽ nghe tim để phát hiện tiếng thổi do máu di chuyển qua van bị hẹp hoặc hở"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Cho thấy hình ảnh chuyển động của các van và buồng tim"
+      },
+      {
+        "name": "X-quang tim phổi",
+        "description": "Ghi nhận bóng tim to, sung huyết phổi"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Phát hiện dày giãn buồng tim, rung nhĩ"
+      },
+      {
+        "name": "Các xét nghiệm chuyên sâu",
+        "description": "Siêu âm tim qua thực quản, siêu âm tim gắng sức, chụp CT, MRI tim"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh van tim tập trung vào việc kiểm soát triệu chứng, ngăn ngừa biến chứng và khôi phục chức năng van tim thông qua các phương pháp nội khoa hoặc phẫu thuật.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc để kiểm soát triệu chứng và ngăn ngừa tổn thương thêm, bao gồm thuốc lợi tiểu, thuốc chống loạn nhịp, thuốc giãn mạch"
+      },
+      {
+        "name": "Nong van tim",
+        "description": "Thủ thuật nong van tim bằng bóng qua da để mở rộng van bị hẹp"
+      },
+      {
+        "name": "Phẫu thuật sửa van",
+        "description": "Sửa chữa van bị lỗi mà không cần sử dụng van nhân tạo"
+      },
+      {
+        "name": "Phẫu thuật thay van",
+        "description": "Thay thế van bị hỏng bằng van nhân tạo (van cơ học hoặc van sinh học)"
+      }
+    ],
+    "recommendations": [
+      "Theo dõi và điều trị định kỳ theo hướng dẫn của bác sĩ",
+      "Duy trì chế độ ăn uống lành mạnh",
+      "Tập thể dục phù hợp với tình trạng bệnh",
+      "Kiểm soát các bệnh lý đi kèm như tăng huyết áp, đái tháo đường",
+      "Dùng thuốc đúng theo chỉ định của bác sĩ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Khám sức khỏe định kỳ để phát hiện sớm bệnh",
+      "Điều trị kịp thời các bệnh nhiễm trùng, đặc biệt là viêm họng do liên cầu",
+      "Duy trì lối sống lành mạnh",
+      "Kiểm soát các yếu tố nguy cơ như huyết áp cao",
+      "Chăm sóc răng miệng tốt để ngăn ngừa nhiễm trùng",
+      "Thông báo cho nha sĩ về tình trạng bệnh trước khi điều trị răng"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Bệnh van tim có nguy hiểm không?",
+      "related_diseases": [
+        "suy tim",
+        "đột quỵ",
+        "viêm nội tâm mạc"
+      ]
+    },
+    {
+      "question": "Bệnh van tim có chữa được không?",
+      "related_diseases": [
+        "hẹp van tim",
+        "hở van tim",
+        "viêm nội tâm mạc"
+      ]
+    },
+    {
+      "question": "Bệnh van tim có di truyền không?",
+      "related_diseases": [
+        "bệnh tim bẩm sinh",
+        "hở van tim",
+        "hẹp van tim"
+      ]
+    },
+    {
+      "question": "Người bị bệnh van tim sống được bao lâu?",
+      "related_diseases": [
+        "suy tim",
+        "đột quỵ",
+        "viêm nội tâm mạc"
+      ]
+    }
+  ]
+}

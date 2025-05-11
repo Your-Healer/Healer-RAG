@@ -1,0 +1,143 @@
+{
+  "disease_id": "bang-huyet-sau-sinh",
+  "disease_name": "Băng huyết sau sinh",
+  "disease_alternative_names": ["Chảy máu sau sinh", "Xuất huyết hậu sản"],
+  "disease_definition": "Băng huyết sau sinh là tình trạng mất máu quá nhiều sau khi sinh con. Cụ thể, mất trên 500ml máu đối với sinh thường hoặc trên 1000ml đối với sinh mổ. Đây là một trong năm tai biến sản khoa nguy hiểm, là nguyên nhân hàng đầu gây tử vong ở sản phụ.",
+  "symptoms": [
+    {
+      "name": "Ra máu nhiều bất thường",
+      "description": "Ra máu nhiều một cách bất thường trong vòng 24 giờ đầu sau khi sinh, máu chảy có màu đỏ tươi, rỉ ra liên tục"
+    },
+    {
+      "name": "Rối loạn huyết động",
+      "description": "Mạch nhanh, huyết áp tụt, tay chân lạnh, vã mồ hôi, da xanh xao; trường hợp mất máu nhiều có thể gây sốc"
+    },
+    {
+      "name": "Thay đổi ở tử cung",
+      "description": "Máu chảy ứ trong buồng tử cung làm tử cung tăng thể tích: đáy tử cung lên cao dần, tử cung to ra theo bề ngang, mềm nhão, co hồi kém hoặc không co hồi"
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính gây băng huyết sau sinh được tóm tắt theo quy tắc '4T': Tone (đờ tử cung), Tissue (sót mô nhau), Trauma (chấn thương đường sinh dục), Thrombin (rối loạn đông máu).",
+    "related_factors": "Đờ tử cung chiếm khoảng 80% nguyên nhân gây băng huyết sau sinh. Các yếu tố khác bao gồm bất thường của bánh nhau (nhau tiền đạo, nhau cài răng lược), tổn thương đường sinh dục (rách âm đạo, vỡ tử cung), và rối loạn đông máu (tiền sản giật nặng, thai chết lưu, nhau bong non)",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tiền sử băng huyết sau sinh trước đó (tăng nguy cơ 2,2 lần)",
+    "Tuổi cao (trên 35 tuổi)",
+    "Chỉ số khối cơ thể cao (BMI > 30)",
+    "Đa thai, đa ối, thai to",
+    "Chuyển dạ kéo dài hoặc chuyển dạ quá nhanh",
+    "Sử dụng thuốc tăng co trong khi chuyển dạ",
+    "Nhiễm trùng ối",
+    "Tiền sản giật - sản giật",
+    "Sinh mổ",
+    "Đa sản (sinh nhiều lần)",
+    "Bệnh lý nội khoa như tiểu đường, hội chứng Marfan, Ehlers-Danlos"
+  ],
+  "complications": [
+    "Sốc mất máu",
+    "Thiếu máu nặng",
+    "Rối loạn đông máu tiêu thụ",
+    "Suy hô hấp",
+    "Suy đa tạng",
+    "Mất khả năng sinh sản",
+    "Hoại tử tuyến yên",
+    "Tử vong mẹ",
+    "Tăng nguy cơ tử vong cho trẻ sơ sinh trong tháng đầu"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Đánh giá lâm sàng: xác định lượng máu mất, theo dõi các dấu hiệu sinh tồn, đánh giá tình trạng tử cung",
+      "Sử dụng các yếu tố khách quan: theo dõi mạch, huyết áp, nước tiểu, chỉ số Hematocrit"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá mức độ thiếu máu, rối loạn đông máu"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Đánh giá tình trạng tử cung, phát hiện sót nhau hoặc tụ máu"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị băng huyết sau sinh cần tuân thủ nguyên tắc điều trị tích cực, xử trí đa phương thức, phối hợp nhiều biện pháp đồng thời và theo nguyên nhân gây băng huyết.",
+    "methods": [
+      {
+        "name": "Xử trí đờ tử cung",
+        "description": "Xoa bóp tử cung, sử dụng thuốc co hồi tử cung (oxytocin, methylergonovine, prostaglandin), truyền máu và dịch. Trong trường hợp nặng có thể phải phẫu thuật kẹp mạch máu, gây tắc động mạch tử cung, hoặc cắt tử cung nếu các phương pháp khác không hiệu quả."
+      },
+      {
+        "name": "Xử trí bất thường bánh nhau",
+        "description": "Đối với sót nhau, tiến hành kiểm soát tử cung, cho thuốc giảm đau và dùng kháng sinh toàn thân. Với nhau cài răng lược, có thể phải cắt tử cung trong trường hợp chảy máu nhiều."
+      },
+      {
+        "name": "Xử trí chấn thương đường sinh dục",
+        "description": "Khâu phục hồi đường sinh dục, phá khối máu tụ và khâu cầm máu nếu có tụ máu."
+      },
+      {
+        "name": "Xử trí rối loạn đông máu",
+        "description": "Điều trị nội khoa bằng máu tươi, các yếu tố đông máu và điều trị nguyên nhân."
+      }
+    ],
+    "recommendations": [
+      "Theo dõi thai kỳ tốt để phát hiện sớm các yếu tố nguy cơ",
+      "Thực hiện đầy đủ lịch khám thai định kỳ",
+      "Bổ sung sắt, acid folic theo chỉ dẫn của bác sĩ để phòng ngừa thiếu máu",
+      "Duy trì chế độ dinh dưỡng và nghỉ ngơi hợp lý",
+      "Khi có dấu hiệu bất thường như đau bụng, ra nước âm đạo, ra huyết âm đạo, nhức đầu, hoa mắt cần đến ngay cơ sở y tế"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Khám thai định kỳ đầy đủ, đặc biệt trong 3 giai đoạn: 3 tháng đầu, 3 tháng giữa và 3 tháng cuối",
+      "Thực hiện các kiểm tra, siêu âm, xét nghiệm cần thiết",
+      "Bổ sung sắt, acid folic để phòng ngừa thiếu máu",
+      "Chọn cơ sở y tế uy tín có đủ phương tiện cấp cứu để sinh con",
+      "Tránh các yếu tố nguy cơ có thể kiểm soát được như béo phì"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Băng huyết sau sinh có nguy hiểm không?",
+      "answer": "Rất nguy hiểm. Băng huyết sau sinh là một trong năm tai biến sản khoa nặng, là nguyên nhân hàng đầu gây tử vong ở sản phụ. Theo thống kê của WHO, cứ 4 phút có một sản phụ tử vong vì băng huyết sau sinh trên toàn thế giới."
+    },
+    {
+      "question": "Có mấy loại băng huyết sau sinh?",
+      "answer": "Có 2 loại: băng huyết nguyên phát (xảy ra trong 24 giờ đầu sau sinh) và băng huyết thứ phát (xảy ra từ 24 giờ đến 12 tuần sau sinh)."
+    },
+    {
+      "question": "Cần làm gì khi bị băng huyết sau sinh?",
+      "answer": "Cần được cấp cứu ngay lập tức tại cơ sở y tế. Các biện pháp xử trí gồm xoa bóp tử cung, dùng thuốc co hồi tử cung, truyền dịch và máu, nếu cần có thể phải can thiệp phẫu thuật."
+    },
+    {
+      "question": "Sau sinh mấy ngày thì ra ít máu là bình thường?",
+      "answer": "Sau sinh khoảng 2-4 tuần, lượng máu sẽ giảm dần và chuyển màu nâu, hồng nhạt. Thông thường, sản dịch sẽ hết hoàn toàn sau 6-8 tuần."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Băng huyết sau sinh có ảnh hưởng đến khả năng sinh sản không?",
+      "related_diseases": ["Vô sinh", "Suy buồng trứng sớm"]
+    },
+    {
+      "question": "Làm sao phân biệt sản dịch bình thường và băng huyết sau sinh?",
+      "related_diseases": ["Viêm nội mạc tử cung sau sinh"]
+    },
+    {
+      "question": "Những biện pháp phòng ngừa băng huyết sau sinh thật hiệu quả?",
+      "related_diseases": ["Tiền sản giật", "Sinh non"]
+    },
+    {
+      "question": "Băng huyết sau sinh 1 tháng có nguy hiểm không?",
+      "related_diseases": ["Viêm tử cung", "Sót nhau thai"]
+    }
+  ]
+}

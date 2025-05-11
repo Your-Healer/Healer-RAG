@@ -1,0 +1,192 @@
+{
+  "disease_id": "bien-the-omicron",
+  "disease_name": "Biến thể Omicron",
+  "disease_alternative_names": [
+    "Omicron",
+    "Omicron variant",
+    "B.1.1.529"
+  ],
+  "disease_definition": "Biến thể Omicron là biến thể của virus Sars-Cov-2 gây bệnh Covid-19. WHO xác định đây là một biến thể đáng lo ngại, bởi dựa trên những bằng chứng nghiên cứu cho thấy biến thể này có một số đột biến làm thay đổi hành vi của chúng. Biến thể này có mức độ lây lan nhanh, cao hơn chủng Delta gấp 500 lần.",
+  "symptoms": [
+    {
+      "name": "Ho",
+      "description": "Ho là triệu chứng thường gặp nhất"
+    },
+    {
+      "name": "Đau họng",
+      "description": "Cảm giác đau rát họng"
+    },
+    {
+      "name": "Sổ mũi",
+      "description": "Chảy nước mũi, nghẹt mũi"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, uể oải"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau nhức đầu"
+    },
+    {
+      "name": "Đau cơ",
+      "description": "Đau nhức các cơ trong cơ thể"
+    },
+    {
+      "name": "Giảm vị giác",
+      "description": "Giảm khả năng cảm nhận vị"
+    },
+    {
+      "name": "Giảm khứu giác",
+      "description": "Giảm khả năng ngửi mùi"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, thở gấp"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Có thể xuất hiện triệu chứng đau bụng"
+    }
+  ],
+  "causes": {
+    "main_cause": "Biến thể Omicron là kết quả của sự đột biến của virus SARS-CoV-2, với nhiều thay đổi trong cấu trúc protein gai làm thay đổi khả năng lây nhiễm và đặc tính của virus.",
+    "related_factors": "Sự xuất hiện của biến thể mới liên quan đến việc virus tiếp tục lây lan và nhân lên trong cộng đồng, đặc biệt ở những nơi có tỷ lệ tiêm chủng thấp.",
+    "transmission_routes": [
+      "Lây truyền qua đường hô hấp",
+      "Tiếp xúc trực tiếp giữa người với người",
+      "Tiếp xúc với vật thể có lưu giữ virus"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Chưa tiêm vắc xin",
+      "description": "Người chưa được tiêm vắc xin Covid-19 có nguy cơ cao hơn"
+    },
+    {
+      "name": "Bệnh nền",
+      "description": "Người có bệnh nền, các bệnh tự miễn"
+    },
+    {
+      "name": "Suy giảm miễn dịch",
+      "description": "Người có tình trạng suy giảm miễn dịch"
+    },
+    {
+      "name": "Tiếp xúc gần",
+      "description": "Người tiếp xúc gần với ca bệnh"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Suy hô hấp",
+      "description": "Tình trạng khó thở nặng cần hỗ trợ thở oxy"
+    },
+    {
+      "name": "Di chứng hậu Covid-19",
+      "description": "Các triệu chứng kéo dài sau khi khỏi bệnh"
+    },
+    {
+      "name": "Suy đa cơ quan",
+      "description": "Tình trạng suy nhiều cơ quan ở ca bệnh nặng"
+    },
+    {
+      "name": "Tử vong",
+      "description": "Nguy cơ tử vong ở người có bệnh nền, suy giảm miễn dịch"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Test nhanh kháng nguyên",
+        "description": "Phát hiện nhanh nhiễm Covid-19 nhưng không xác định được biến thể"
+      },
+      {
+        "name": "Xét nghiệm PCR",
+        "description": "Xét nghiệm có độ chính xác cao để xác định nhiễm Covid-19"
+      },
+      {
+        "name": "Giải trình tự gene",
+        "description": "Phương pháp chính xác để xác định biến thể Omicron"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị biến thể Omicron tập trung vào kiểm soát triệu chứng và ngăn ngừa biến chứng nặng.",
+    "methods": [
+      {
+        "name": "Kháng thể đơn dòng",
+        "description": "Sử dụng thuốc Evusheld để điều trị và dự phòng"
+      },
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Sử dụng các thuốc giảm đau, hạ sốt, chống viêm"
+      },
+      {
+        "name": "Chăm sóc hỗ trợ",
+        "description": "Nghỉ ngơi, uống đủ nước, bổ sung dinh dưỡng"
+      }
+    ],
+    "recommendations": [
+      "Cách ly theo quy định",
+      "Nghỉ ngơi đầy đủ",
+      "Uống nhiều nước",
+      "Ăn uống đủ chất",
+      "Theo dõi sát triệu chứng"
+    ],
+    "prevention_of_transmission": [
+      "Đeo khẩu trang",
+      "Giữ khoảng cách",
+      "Rửa tay thường xuyên",
+      "Tránh tụ tập đông người",
+      "Khai báo y tế khi có triệu chứng"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm vắc xin Covid-19 là biện pháp phòng ngừa hiệu quả, giúp giảm nguy cơ bệnh nặng và tử vong",
+      "recommended_for": [
+        "Người từ 12 tuổi trở lên",
+        "Người có bệnh nền",
+        "Người cao tuổi",
+        "Nhân viên y tế",
+        "Người làm việc ở khu vực có nguy cơ cao"
+      ]
+    },
+    "general_recommendations": [
+      "Tuân thủ nguyên tắc 5K",
+      "Tiêm vắc xin đầy đủ",
+      "Tránh tụ tập đông người",
+      "Giữ vệ sinh cá nhân",
+      "Tăng cường sức đề kháng"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Tôi có thể đang bị bệnh gì nếu tôi thường xuyên bị ho, đau họng, sổ mũi, hắt xì, mệt mỏi, đau đầu, đau cơ, giảm khả năng vị giác, giảm khứu giác, khó thở và có thể đau bụng?",
+      "related_diseases": [
+        "covid-19",
+        "bien-the-omicron",
+        "viem-phoi",
+        "cum"
+      ]
+    },
+    {
+      "question": "Tôi có thể đang bị bệnh gì nếu tôi giảm khả năng vị giác, giảm khứu giác, khó thở?",
+      "related_diseases": [
+        "bien-the-omicron",
+        "covid-19",
+        "viem-phoi",
+        "viem-xoang"
+      ]
+    },
+    {
+      "question": "Tôi có thể đang bị bệnh gì nếu tôi bị đau đầu, đau cơ, đôi lúc bị đau bụng?",
+      "related_diseases": [
+        "bien-the-omicron",
+        "cum",
+        "viem-da-day",
+        "roi-loan-tieu-hoa"
+      ]
+    }
+  ]
+}

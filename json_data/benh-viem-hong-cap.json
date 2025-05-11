@@ -1,0 +1,216 @@
+{
+  "disease_id": "benh-viem-hong-cap",
+  "disease_name": "Bệnh viêm họng cấp",
+  "disease_alternative_names": [
+    "Viêm họng xung huyết",
+    "Viêm họng cấp tính",
+    "Acute Pharyngitis"
+  ],
+  "disease_definition": "Viêm họng cấp (hay viêm họng xung huyết) là tình trạng tổn thương niêm mạc họng thường do virus tấn công, gây xung huyết, đau rát và sưng tấy. Bệnh xảy ra quanh năm nhưng có tỷ lệ cao hơn vào mùa đông, khi thời tiết trở lạnh.",
+  "symptoms": [
+    {
+      "name": "Sốt",
+      "description": "Sốt trên 38 độ, đau đầu, mệt mỏi, khó thở, ớn lạnh"
+    },
+    {
+      "name": "Đau họng",
+      "description": "Cảm giác đau nhói lên tai khi nói, ho hoặc nuốt"
+    },
+    {
+      "name": "Ho",
+      "description": "Ho từng cơn, ho khan hoặc ho có đờm, ho nhiều về đêm và sáng"
+    },
+    {
+      "name": "Triệu chứng mũi",
+      "description": "Sổ mũi, nghẹt mũi, có thể chảy máu cam"
+    },
+    {
+      "name": "Thay đổi niêm mạc",
+      "description": "Niêm mạc họng tấy đỏ, phù nề; các tổ chức bạch huyết ở thành sau họng nổi rõ"
+    }
+  ],
+  "causes": {
+    "main_cause": "Viêm họng cấp thường do virus (chiếm hơn 60% trường hợp) và vi khuẩn (thường do bội nhiễm sau nhiễm virus). Virus gây bệnh thường là virus cúm, para-influenzae, Adenovirus, Coxsackie và vi khuẩn như liên cầu bêta tan huyết nhóm A, B, C, G; phế cầu, H. Influenza, tụ cầu vàng.",
+    "related_factors": "Thời tiết thay đổi, suy giảm miễn dịch, trào ngược dạ dày, ô nhiễm môi trường và các thói quen không lành mạnh có thể làm tăng nguy cơ mắc bệnh.",
+    "transmission_routes": [
+      "Lây qua đường hô hấp từ người bệnh",
+      "Hít phải virus, vi khuẩn trong không khí",
+      "Tiếp xúc với môi trường ô nhiễm"
+    ]
+  },
+  "risk_factors": [
+    {
+      "name": "Thời tiết",
+      "description": "Thay đổi thời tiết đột ngột, đặc biệt vào mùa đông và giao mùa"
+    },
+    {
+      "name": "Suy giảm miễn dịch",
+      "description": "Người mắc HIV/AIDS, tiểu đường, suy dinh dưỡng, ung thư"
+    },
+    {
+      "name": "Trào ngược dạ dày",
+      "description": "Axit dạ dày trào ngược gây bỏng rát hoặc loét vòm họng"
+    },
+    {
+      "name": "Môi trường",
+      "description": "Tiếp xúc với khói bụi, hóa chất độc hại"
+    },
+    {
+      "name": "Thói quen",
+      "description": "Hút thuốc lá, uống rượu bia, ăn đồ cay nóng"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Viêm nhiễm lan rộng",
+      "description": "Viêm mũi xoang cấp, viêm thanh quản, viêm tai giữa, viêm phổi"
+    },
+    {
+      "name": "Áp xe",
+      "description": "Áp xe thành sau họng và các khoang bên họng"
+    },
+    {
+      "name": "Biến chứng toàn thân",
+      "description": "Nhiễm trùng huyết, viêm màng tim, viêm cầu thận cấp"
+    },
+    {
+      "name": "Hoại tử",
+      "description": "Viêm tấy hoại tử vùng cổ (hiếm gặp nhưng nguy hiểm)"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ khám và đánh giá các triệu chứng, quan sát niêm mạc họng"
+      },
+      {
+        "name": "Xét nghiệm",
+        "description": "Xét nghiệm định loại virus hoặc vi khuẩn gây bệnh"
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "Chụp X-quang, CT scan khi nghi ngờ có biến chứng"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị dựa trên nguyên nhân gây bệnh và mức độ nghiêm trọng của triệu chứng",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc kháng sinh",
+        "description": "Sử dụng kháng sinh như Penicillin V, Penicillin G, Cephalosporin thế hệ 1 hoặc Macrolid theo chỉ định của bác sĩ"
+      },
+      {
+        "name": "Điều trị giảm triệu chứng",
+        "description": "Sử dụng thuốc hạ sốt, giảm đau như Paracetamol, Aspirin, Ibuprofen và thuốc chống viêm như Methylprednisolone khi cần"
+      },
+      {
+        "name": "Điều trị tại chỗ",
+        "description": "Súc họng bằng nước muối sinh lý, ngậm kẹo có tinh dầu bạc hà, gừng"
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ",
+      "Uống nhiều nước ấm",
+      "Tránh thức ăn cay nóng",
+      "Giữ ấm cổ họng",
+      "Không hút thuốc lá",
+      "Tránh nói nhiều"
+    ],
+    "prevention_of_transmission": [
+      "Đeo khẩu trang khi bị bệnh",
+      "Vệ sinh tay thường xuyên",
+      "Cách ly với người khác"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Tiêm phòng các bệnh có thể gây viêm họng như cúm, bạch hầu",
+      "recommended_for": [
+        "Người có nguy cơ cao",
+        "Người làm việc trong môi trường dễ lây nhiễm",
+        "Người có bệnh mãn tính"
+      ]
+    },
+    "general_recommendations": [
+      "Giữ ấm cơ thể khi thời tiết chuyển lạnh",
+      "Vệ sinh răng miệng sạch sẽ",
+      "Súc họng thường xuyên bằng nước muối sinh lý",
+      "Không hút thuốc, hạn chế rượu bia",
+      "Tránh môi trường ô nhiễm, khói bụi",
+      "Xây dựng chế độ ăn uống hợp lý"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Viêm họng cấp có nguy hiểm không?",
+      "related_diseases": [
+        "viêm phổi",
+        "nhiễm trùng huyết",
+        "viêm tai giữa",
+        "viêm xoang"
+      ]
+    },
+    {
+      "question": "Viêm họng cấp có tự khỏi không?",
+      "related_diseases": [
+        "viêm họng virus",
+        "viêm họng vi khuẩn",
+        "cảm cúm"
+      ]
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ?",
+      "related_diseases": [
+        "viêm họng nặng",
+        "viêm amidan",
+        "áp xe họng"
+      ]
+    },
+    {
+      "question": "Viêm họng cấp kiêng ăn gì?",
+      "related_diseases": [
+        "viêm họng mãn tính",
+        "trào ngược dạ dày",
+        "viêm thực quản"
+      ]
+    },
+    {
+      "question": "Tôi bị sốt cao, đau họng và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm họng cấp",
+        "cảm cúm",
+        "COVID-19",
+        "viêm amidan"
+      ]
+    },
+    {
+      "question": "Tôi bị đau họng và sưng hạch cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm họng do vi khuẩn",
+        "bạch hầu",
+        "viêm amidan",
+        "tăng sinh lympho"
+      ]
+    },
+    {
+      "question": "Tôi bị đau họng kèm theo nổi mẩn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm họng do virus",
+        "sởi",
+        "thủy đậu",
+        "tay chân miệng"
+      ]
+    },
+    {
+      "question": "Tôi bị đau họng và ho ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm họng nặng",
+        "lao phổi",
+        "ung thư vòm họng",
+        "viêm phế quản"
+      ]
+    }
+  ]
+}

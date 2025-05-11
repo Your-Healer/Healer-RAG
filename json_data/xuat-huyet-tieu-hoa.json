@@ -1,0 +1,231 @@
+{
+  "disease_id": "xuat-huyet-tieu-hoa",
+  "disease_name": "Xuất Huyết Tiêu Hóa",
+  "disease_alternative_names": [
+    "Chảy máu đường tiêu hóa",
+    "Gastrointestinal bleeding",
+    "GI bleeding"
+  ],
+  "disease_definition": "Xuất huyết tiêu hóa là tình trạng chảy máu xảy ra ở bất kỳ vị trí nào dọc theo đường tiêu hóa, từ thực quản đến trực tràng. Đây là một tình trạng y tế cần được xử trí khẩn cấp, đặc biệt khi xuất huyết tiêu hóa trên, vì nó có thể dẫn đến mất máu nghiêm trọng, sốc và tử vong nếu không được điều trị kịp thời.",
+  "symptoms": [
+    {
+      "name": "Nôn ra máu",
+      "description": "Nôn ra máu tươi hoặc dạng bã cà phê, thường gặp trong xuất huyết tiêu hóa trên."
+    },
+    {
+      "name": "Đi ngoài phân đen",
+      "description": "Phân có màu đen như bã cà phê (melena), thường gặp trong xuất huyết tiêu hóa trên hoặc xuất huyết tiêu hóa dưới phần đầu."
+    },
+    {
+      "name": "Đi ngoài ra máu tươi",
+      "description": "Máu tươi lẫn trong phân hoặc máu tươi không lẫn phân, thường gặp trong xuất huyết tiêu hóa dưới."
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Biểu hiện da xanh, niêm mạc nhợt, mệt mỏi, đánh trống ngực, khó thở khi gắng sức."
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Có thể xuất hiện đau vùng thượng vị, đau quặn bụng tùy theo nguyên nhân gây xuất huyết."
+    },
+    {
+      "name": "Sốc mất máu",
+      "description": "Biểu hiện mạch nhanh nhỏ, huyết áp tụt, da lạnh, vã mồ hôi, thiểu niệu, lơ mơ, hôn mê trong trường hợp xuất huyết nặng."
+    }
+  ],
+  "causes": {
+    "main_cause": "Xuất huyết tiêu hóa có nhiều nguyên nhân khác nhau, trong đó nguyên nhân phổ biến nhất của xuất huyết tiêu hóa trên là loét dạ dày tá tràng, viêm dạ dày, giãn tĩnh mạch thực quản, hội chứng Mallory-Weiss; nguyên nhân thường gặp của xuất huyết tiêu hóa dưới bao gồm bệnh trĩ, polyp đại trực tràng, viêm ruột, túi thừa đại tràng, ung thư đại trực tràng.",
+    "related_factors": "Các yếu tố nguy cơ bao gồm sử dụng thuốc chống viêm không steroid (NSAIDs), aspirin, thuốc chống đông, rượu bia, nhiễm Helicobacter pylori, xơ gan, bệnh viêm ruột mạn tính, tiền sử gia đình có polyp hoặc ung thư đại trực tràng.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Sử dụng thuốc chống viêm không steroid (NSAIDs) và aspirin kéo dài",
+    "Sử dụng thuốc chống đông",
+    "Nhiễm Helicobacter pylori",
+    "Xơ gan",
+    "Viêm ruột mạn tính (viêm loét đại tràng, bệnh Crohn)",
+    "Tiền sử gia đình có polyp hoặc ung thư đại trực tràng",
+    "Tuổi cao",
+    "Lạm dụng rượu bia",
+    "Hút thuốc lá"
+  ],
+  "complications": [
+    "Sốc giảm thể tích do mất máu",
+    "Thiếu máu cấp hoặc mạn tính",
+    "Suy các cơ quan do giảm tưới máu",
+    "Tử vong trong trường hợp xuất huyết nặng không được cấp cứu kịp thời"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng đánh giá tình trạng xuất huyết và các dấu hiệu sinh tồn",
+      "Đặt ống thông dạ dày để đánh giá xuất huyết tiêu hóa trên",
+      "Thăm trực tràng để đánh giá xuất huyết tiêu hóa dưới"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Công thức máu, đông máu toàn bộ, nhóm máu, chức năng gan thận, điện giải đồ để đánh giá mức độ mất máu và xác định khả năng đông máu."
+      },
+      {
+        "name": "Nội soi tiêu hóa",
+        "description": "Nội soi dạ dày tá tràng (đối với xuất huyết tiêu hóa trên) hoặc nội soi đại tràng (đối với xuất huyết tiêu hóa dưới) để xác định vị trí và nguyên nhân chảy máu."
+      },
+      {
+        "name": "Chụp mạch máu",
+        "description": "Kỹ thuật có giá trị trong chẩn đoán và điều trị xuất huyết tiêu hóa cấp tính khi nội soi không xác định được nguyên nhân."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT scan)",
+        "description": "Giúp phát hiện các bất thường cấu trúc, khối u, hoặc nguồn chảy máu mà không thể phát hiện bằng nội soi."
+      },
+      {
+        "name": "Xạ hình hồng cầu đánh dấu",
+        "description": "Giúp xác định vị trí chảy máu trong trường hợp xuất huyết tiêu hóa dưới lượng ít hoặc ngắt quãng."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị xuất huyết tiêu hóa phụ thuộc vào nguyên nhân, vị trí và mức độ nặng của tình trạng xuất huyết. Trong trường hợp xuất huyết nặng cần phải cấp cứu ngay lập tức.",
+    "methods": [
+      {
+        "name": "Hồi sức duy trì các chức năng sống",
+        "description": "Thiết lập đường truyền tĩnh mạch, bù dịch, truyền máu khi cần thiết, hỗ trợ hô hấp và tuần hoàn."
+      },
+      {
+        "name": "Điều trị cầm máu nội soi",
+        "description": "Các phương pháp cầm máu qua nội soi bao gồm tiêm cầm máu, đốt điện, kẹp clip hoặc thắt vòng cao su đối với tổn thương chảy máu."
+      },
+      {
+        "name": "Điều trị can thiệp mạch máu",
+        "description": "Nút mạch qua đường động mạch đối với các trường hợp chảy máu không kiểm soát được bằng nội soi."
+      },
+      {
+        "name": "Điều trị thuốc",
+        "description": "Sử dụng thuốc ức chế bơm proton đối với xuất huyết do loét dạ dày tá tràng, thuốc vận mạch (như octreotide, terlipressin) trong xuất huyết do giãn tĩnh mạch thực quản."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Áp dụng trong trường hợp xuất huyết không kiểm soát được bằng các phương pháp nội soi và can thiệp mạch máu, hoặc do nguyên nhân cần phẫu thuật như ung thư."
+      }
+    ],
+    "recommendations": [
+      "Đến ngay cơ sở y tế khi có dấu hiệu xuất huyết tiêu hóa như nôn ra máu hoặc đi ngoài phân đen",
+      "Tránh sử dụng các thuốc có thể làm tăng nguy cơ xuất huyết như aspirin, NSAIDs, thuốc chống đông",
+      "Kiểm soát các bệnh lý nền như xơ gan, loét dạ dày tá tràng",
+      "Tái khám định kỳ theo hẹn của bác sĩ sau khi xuất viện",
+      "Duy trì lối sống lành mạnh, không hút thuốc, hạn chế rượu bia"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine đặc hiệu để phòng ngừa xuất huyết tiêu hóa. Tuy nhiên, vaccine phòng ngừa viêm gan B có thể giúp giảm nguy cơ xơ gan và giãn tĩnh mạch thực quản, là nguyên nhân gây xuất huyết tiêu hóa.",
+      "recommended_for": [
+        "Tất cả mọi người, đặc biệt là những người có nguy cơ cao mắc viêm gan B"
+      ]
+    },
+    "general_recommendations": [
+      "Tránh sử dụng aspirin, NSAIDs và thuốc chống đông khi không có chỉ định của bác sĩ",
+      "Điều trị diệt Helicobacter pylori nếu được chẩn đoán nhiễm",
+      "Tầm soát và điều trị loét dạ dày tá tràng, polyp đại trực tràng, ung thư đại trực tràng",
+      "Kiểm soát tốt các bệnh lý nền như xơ gan, viêm ruột mạn tính",
+      "Hạn chế sử dụng rượu bia và không hút thuốc lá",
+      "Duy trì chế độ ăn giàu chất xơ, ít chất béo bão hòa và ít thịt đỏ",
+      "Tầm soát đại trực tràng định kỳ đối với người trên 50 tuổi hoặc có yếu tố nguy cơ cao"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Làm thế nào để phân biệt xuất huyết tiêu hóa trên và dưới?",
+      "answer": "Xuất huyết tiêu hóa trên (từ thực quản đến góc Treitz của tá tràng) thường biểu hiện bằng nôn ra máu tươi hoặc máu màu bã cà phê, đi ngoài phân đen (melena). Xuất huyết tiêu hóa dưới (từ sau góc Treitz trở xuống) thường biểu hiện bằng đi ngoài ra máu tươi hoặc máu đỏ sẫm lẫn phân. Tuy nhiên, ranh giới này không tuyệt đối, vì xuất huyết tiêu hóa trên lượng nhiều và nhanh có thể biểu hiện bằng đi ngoài ra máu tươi, trong khi xuất huyết tiêu hóa dưới ở đoạn cuối hồi tràng có thể biểu hiện bằng đi ngoài phân đen."
+    },
+    {
+      "question": "Khi nào cần đi cấp cứu nếu nghi ngờ xuất huyết tiêu hóa?",
+      "answer": "Bạn cần đi cấp cứu ngay lập tức nếu có bất kỳ dấu hiệu nào sau đây: nôn ra máu tươi hoặc dạng bã cà phê, đi ngoài phân đen hoặc phân lẫn máu tươi, đau bụng dữ dội, chóng mặt, ngất xỉu, hụt hơi, nhịp tim nhanh, da lạnh và ẩm ướt, thay đổi ý thức. Đây có thể là dấu hiệu của xuất huyết tiêu hóa cấp tính, một tình trạng cấp cứu y tế cần được xử trí ngay lập tức."
+    },
+    {
+      "question": "Các loại thuốc nào có thể làm tăng nguy cơ xuất huyết tiêu hóa?",
+      "answer": "Nhiều loại thuốc có thể làm tăng nguy cơ xuất huyết tiêu hóa, bao gồm: thuốc chống viêm không steroid (NSAIDs) như ibuprofen, naproxen; aspirin; thuốc chống đông máu như warfarin, heparin, dabigatran, rivaroxaban; steroid; một số thuốc chống trầm cảm như SSRI; và thuốc chống kết tập tiểu cầu như clopidogrel. Nếu bạn đang sử dụng bất kỳ loại thuốc nào trong số này, hãy tham khảo ý kiến bác sĩ trước khi ngừng sử dụng."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như phân lẫn máu và xanh xao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "xuất huyết tiêu hóa",
+        "bệnh trĩ",
+        "polyp đại trực tràng",
+        "ung thư đại trực tràng",
+        "viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt, mệt mỏi và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "xuất huyết tiêu hóa",
+        "thiếu máu",
+        "viêm dạ dày",
+        "loét dạ dày tá tràng",
+        "hội chứng ruột kích thích"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nôn ra máu và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "xuất huyết tiêu hóa trên",
+        "loét dạ dày",
+        "viêm thực quản",
+        "hội chứng Mallory-Weiss",
+        "giãn tĩnh mạch thực quản"
+      ]
+    },
+    {
+      "question": "Tôi bị loét dạ dày tá tràng và hiện đang bị nôn ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "xuất huyết tiêu hóa trên do loét dạ dày tá tràng",
+        "viêm dạ dày cấp",
+        "hội chứng Mallory-Weiss",
+        "loét dạ dày tá tràng biến chứng"
+      ]
+    },
+    {
+      "question": "Tôi bị bệnh trào ngược dạ dày thực quản và hiện đang bị nôn ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "xuất huyết tiêu hóa trên",
+        "viêm thực quản trào ngược",
+        "hội chứng Mallory-Weiss",
+        "loét thực quản",
+        "viêm dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi bị xơ gan và hiện đang bị nôn ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "xuất huyết tiêu hóa do giãn tĩnh mạch thực quản",
+        "xơ gan biến chứng",
+        "tăng áp lực tĩnh mạch cửa",
+        "loét dạ dày do xơ gan"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm thực quản và hiện đang bị nôn ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "xuất huyết tiêu hóa trên",
+        "viêm thực quản trào ngược",
+        "viêm thực quản ăn mòn",
+        "loét thực quản",
+        "thực quản Barrett"
+      ]
+    },
+    {
+      "question": "Tôi bị xuất huyết tiêu hóa và hiện đang bị thiếu máu mãn tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "xuất huyết tiêu hóa mạn tính",
+        "ung thư đại trực tràng",
+        "loét dạ dày mạn tính",
+        "angiodysplasia",
+        "polyp đại trực tràng"
+      ]
+    }
+  ]
+}

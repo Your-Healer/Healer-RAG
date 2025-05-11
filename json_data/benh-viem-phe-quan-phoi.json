@@ -1,0 +1,302 @@
+{
+  "disease_id": "benh-viem-phe-quan-phoi",
+  "disease_name": "Bệnh viêm phế quản phổi",
+  "disease_alternative_names": [
+    "Viêm phế quản phổi",
+    "Bronchopneumonia"
+  ],
+  "disease_definition": "Viêm phế quản phổi là tình trạng viêm khu trú thành từng mảng ở phế quản và phế nang phổi, có thể ảnh hưởng đến các thùy phổi, làm suy yếu chức năng phổi. Bệnh đặc biệt phổ biến ở trẻ em dưới 2 tuổi và người lớn trên 65 tuổi.",
+  "symptoms": [
+    {
+      "name": "Ho",
+      "description": "Ho nhiều, ho dai dẳng, có thể ho ra máu hoặc có dịch nhầy"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở, thở gấp, có thể kèm theo tím tái"
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng thân nhiệt, có thể sốt cao"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Đau tức ngực, đặc biệt khi ho hoặc thở sâu"
+    },
+    {
+      "name": "Các triệu chứng khác",
+      "symptoms_list": [
+        {
+          "name": "Buồn nôn và ói mửa",
+          "description": "Cảm giác buồn nôn và có hiện tượng ói mửa"
+        },
+        {
+          "name": "Đổ mồ hôi",
+          "description": "Ra mồ hôi nhiều"
+        },
+        {
+          "name": "Ớn lạnh",
+          "description": "Cảm giác ớn lạnh, rùng mình"
+        },
+        {
+          "name": "Đau cơ",
+          "description": "Đau nhức các cơ trong cơ thể"
+        },
+        {
+          "name": "Mệt mỏi",
+          "description": "Cảm giác uể oải, không có năng lực cho hoạt động thường ngày"
+        },
+        {
+          "name": "Rối loạn vị giác",
+          "description": "Mất vị giác, không cảm thấy ngon miệng khi ăn"
+        },
+        {
+          "name": "Rối loạn thần kinh",
+          "description": "Đau đầu, chóng mặt, lú lẫn hoặc mất phương hướng (đặc biệt ở người lớn tuổi)"
+        }
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "name": "Vi khuẩn",
+      "types": [
+        "Proteus",
+        "Klebsiella pneumoniae",
+        "Escherichia coli",
+        "Pseudomonas",
+        "Haemophilus",
+        "Staphylococcus aureus"
+      ]
+    },
+    {
+      "name": "Virus",
+      "description": "Các loại virus gây nhiễm trùng đường hô hấp"
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Tuổi tác",
+      "high_risk_groups": [
+        "Người từ 65 tuổi trở lên",
+        "Trẻ em từ 2 tuổi trở xuống"
+      ]
+    },
+    {
+      "name": "Môi trường làm việc",
+      "risk_environments": [
+        "Tiếp xúc với khói bụi",
+        "Môi trường ô nhiễm",
+        "Hóa chất nồng độ cao",
+        "Làm việc trong bệnh viện"
+      ]
+    },
+    {
+      "name": "Lối sống không lành mạnh",
+      "factors": [
+        "Ăn uống thất thường",
+        "Thiếu dinh dưỡng",
+        "Uống rượu",
+        "Hút thuốc lá"
+      ]
+    },
+    {
+      "name": "Sức đề kháng yếu",
+      "conditions": [
+        "Suy giảm hệ miễn dịch",
+        "Đang dùng thuốc kháng sinh",
+        "Vừa phẫu thuật hoặc chấn thương",
+        "Mắc bệnh hô hấp khác",
+        "Bệnh tim mạch",
+        "Tiểu đường",
+        "Rối loạn tự miễn dịch"
+      ]
+    },
+    {
+      "name": "Thời tiết",
+      "risk_conditions": [
+        "Thời tiết chuyển lạnh",
+        "Thay đổi đột ngột từ nóng sang lạnh",
+        "Độ ẩm thấp"
+      ]
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Chụp X-quang",
+        "purpose": "Phát hiện tình trạng viêm nhiễm hay khí tích tụ quanh phổi"
+      },
+      {
+        "name": "Chụp CT ngực",
+        "purpose": "Đánh giá chi tiết các mô phổi đang bị tổn thương"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "purpose": "Kiểm tra số lượng bạch cầu để xác định nhiễm trùng"
+      },
+      {
+        "name": "Nội soi phế quản",
+        "purpose": "Kiểm tra đường dẫn khí và tình trạng phổi"
+      },
+      {
+        "name": "Cấy đờm",
+        "purpose": "Phát hiện nhiễm khuẩn trong dịch đờm"
+      },
+      {
+        "name": "Đo oxy xung",
+        "purpose": "Đo phần trăm oxy trong máu"
+      },
+      {
+        "name": "Khí máu động mạch",
+        "purpose": "Xác định nồng độ oxy trong máu"
+      }
+    ]
+  },
+  "treatment": {
+    "home_care": {
+      "description": "Điều trị tại nhà cho các trường hợp nhẹ",
+      "methods": [
+        "Nghỉ ngơi",
+        "Dùng thuốc theo đơn"
+      ]
+    },
+    "medication": {
+      "antibiotics": [
+        {
+          "condition": "Viêm phế quản phổi do tụ cầu",
+          "drugs": [
+            "Cloxacillin",
+            "Bristopen",
+            "Vancomycin",
+            "Cefobid"
+          ]
+        },
+        {
+          "condition": "Viêm phế quản phổi do vi trùng",
+          "drugs": [
+            "Chloramphenicol"
+          ]
+        },
+        {
+          "condition": "Viêm phế quản phổi do vi khuẩn",
+          "drugs": [
+            "Ampicillin",
+            "Amikacin",
+            "Augmentin",
+            "Tarcefoksym"
+          ]
+        }
+      ]
+    },
+    "hospitalization_criteria": [
+      "Trên 65 tuổi",
+      "Ho ra máu nhiều",
+      "Khó thở, thở nhanh, thở gắng sức",
+      "Cần thở máy",
+      "Đau tức ngực",
+      "Tụt huyết áp",
+      "Lú lẫn, người lơ mơ",
+      "Cần hỗ trợ thở",
+      "Đang điều trị bệnh phổi mãn tính"
+    ]
+  },
+  "complications": [
+    {
+      "name": "Suy hô hấp",
+      "description": "Quá trình trao đổi oxy và carbon dioxide hoạt động kém, gây khó thở"
+    },
+    {
+      "name": "Hội chứng suy hô hấp cấp tính",
+      "description": "Biến chứng nghiêm trọng có thể đe dọa tính mạng"
+    },
+    {
+      "name": "Nhiễm trùng huyết",
+      "description": "Nhiễm trùng máu do phản ứng miễn dịch, có thể dẫn đến suy đa tạng"
+    },
+    {
+      "name": "Áp xe phổi",
+      "description": "Túi dịch chứa mủ tràn vào bên trong phổi"
+    },
+    {
+      "name": "Biến chứng khác",
+      "conditions": [
+        "Suy thận",
+        "Suy tim",
+        "Nhịp tim không đều"
+      ]
+    }
+  ],
+  "prevention": {
+    "methods": [
+      {
+        "name": "Vệ sinh cá nhân",
+        "measures": [
+          "Rửa tay trước khi ăn",
+          "Rửa tay sau khi đi vệ sinh",
+          "Rửa tay sau khi tiếp xúc với người bệnh",
+          "Rửa tay sau khi chạm vào vật dụng công cộng"
+        ]
+      },
+      {
+        "name": "Bảo vệ đường hô hấp",
+        "measures": [
+          "Đeo khẩu trang khi tiếp xúc với người bệnh",
+          "Hạn chế giao tiếp với người bệnh",
+          "Người bệnh cần đeo khẩu trang"
+        ]
+      },
+      {
+        "name": "Lối sống lành mạnh",
+        "recommendations": [
+          "Ngừng hút thuốc lá",
+          "Ăn uống đầy đủ dinh dưỡng",
+          "Nghỉ ngơi hợp lý",
+          "Tránh thức khuya"
+        ]
+      },
+      {
+        "name": "Tiêm phòng",
+        "vaccines": [
+          "Tiêm phòng cúm hàng năm"
+        ]
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Viêm phế quản phổi có nguy hiểm không?",
+      "answer": "Có, bệnh có thể dẫn đến nhiều biến chứng nguy hiểm như suy hô hấp, nhiễm trùng huyết, áp xe phổi và thậm chí tử vong nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Ai là người có nguy cơ mắc bệnh cao nhất?",
+      "answer": "Trẻ em dưới 2 tuổi và người lớn trên 65 tuổi có nguy cơ mắc bệnh cao nhất. Bệnh chiếm khoảng 85% tổng số các bệnh về hô hấp ở trẻ dưới 2 tuổi."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Làm thế nào phân biệt viêm phế quản phổi với cảm cúm thông thường?",
+      "related_diseases": [
+        "viêm phế quản phổi",
+        "cảm cúm",
+        "viêm đường hô hấp"
+      ]
+    },
+    {
+      "question": "Khi nào cần nhập viện điều trị viêm phế quản phổi?",
+      "related_diseases": [
+        "viêm phế quản phổi",
+        "suy hô hấp",
+        "nhiễm trùng huyết"
+      ]
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm phế quản phổi?",
+      "related_diseases": [
+        "viêm phế quản phổi",
+        "viêm phổi",
+        "bệnh đường hô hấp"
+      ]
+    }
+  ]
+} 

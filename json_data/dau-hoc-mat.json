@@ -1,0 +1,385 @@
+{
+  "disease_id": "dau-hoc-mat",
+  "disease_name": "Đau Hốc Mắt",
+  "disease_alternative_names": [
+    "Nhức hốc mắt",
+    "Đau nhức hốc mắt",
+    "Eye socket pain"
+  ],
+  "disease_definition": "Đau hốc mắt là cảm giác đau bên trong mắt hoặc xung quanh mắt, có thể đến một cách đột ngột làm mắt nhức nhối hoặc đau nhói và có thể xảy ra ở một hoặc cả hai mắt. Đau hốc mắt không đơn thuần chỉ là cảm giác mỏi mắt do tiếp xúc với máy tính cả ngày mà thường là cơn đau dữ dội hơn, kéo dài hơn và có thể đi kèm với các triệu chứng khác.",
+  "symptoms": [
+    {
+      "name": "Đau đột ngột, dữ dội",
+      "description": "Cơn đau xảy ra đột ngột và với cường độ mạnh, có thể xuất phát từ nhiều nguyên nhân khác nhau, từ bụi rơi vào mắt cho đến bệnh tăng nhãn áp. Nếu không điều trị đúng cách có thể dẫn đến việc mất thị lực."
+    },
+    {
+      "name": "Đau nhói",
+      "description": "Cảm giác đau như dao đâm, đặc biệt thường thấy trong chứng đau nửa đầu hoặc đau đầu theo chu kỳ. Trong một số trường hợp, viêm hoặc tích tụ chất lỏng trong mắt có thể dẫn đến đau nhói."
+    },
+    {
+      "name": "Chảy nước mắt",
+      "description": "Tiết nước mắt nhiều hơn bình thường, thường xảy ra khi mắt bị viêm hoặc kích ứng, như dị ứng hoặc nhiễm trùng mắt. Nước mắt dư thừa là cách cơ thể cố gắng rửa sạch những tác nhân gây hại cho mắt."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Cảm giác khó chịu khi tiếp xúc với ánh sáng, có thể do mỏi mắt, khô mắt, hoặc do các vấn đề như nhiễm trùng mắt, chấn thương mắt hoặc liên quan đến cấu trúc của mắt."
+    },
+    {
+      "name": "Nóng rát trong mắt",
+      "description": "Cảm giác nóng bỏng, rát bên trong mắt có thể do viêm bờ mi, dị ứng hoặc nhiều tình trạng viêm nhiễm hoặc tổn thương mắt khác."
+    },
+    {
+      "name": "Giảm thị lực đột ngột",
+      "description": "Khả năng nhìn giảm đột ngột, đây là triệu chứng nguy hiểm cần được cấp cứu ngay vì mất thị lực có nghĩa là tổn thương có thể không nằm ở trên bề mặt của mắt mà nằm bên trong mắt."
+    },
+    {
+      "name": "Mắt đỏ",
+      "description": "Tình trạng kết mạc mắt bị đỏ do viêm nhiễm, có thể do nhiều nguyên nhân khác nhau, từ bình thường đến nghiêm trọng và có thể kèm theo thay đổi về thị lực."
+    },
+    {
+      "name": "Đau đầu dai dẳng",
+      "description": "Cơn đau đầu kéo dài, có thể do giãn mạch máu ở vùng mắt. Tình trạng viêm của các dây thần kinh gần đó có thể gây ra cảm giác đau như dao đâm, đau nhói thường thấy ở một bên mắt."
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng nhiệt độ cơ thể kèm theo đau mắt có thể là dấu hiệu của tình trạng bệnh lý nghiêm trọng như viêm màng não, viêm phổi, viêm phế quản, bệnh bạch hầu, đau mắt đỏ hoặc cảm lạnh."
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác muốn nôn kèm theo đau mắt dữ dội, thường thấy trong bệnh tăng nhãn áp góc đóng cấp tính khi áp lực bên trong mắt tăng đột ngột, cần điều trị khẩn cấp để ngăn ngừa mù lòa."
+    },
+    {
+      "name": "Sụp mí mắt",
+      "description": "Mí mắt trên bị sa xuống, thường do nhiễm trùng hốc mắt gây đau mắt, khó cử động mắt. Đây là triệu chứng cần can thiệp y tế khẩn cấp."
+    }
+  ],
+  "causes": {
+    "main_cause": "Đau hốc mắt có thể do nhiều nguyên nhân khác nhau, từ các vấn đề đơn giản như mỏi mắt đến các bệnh lý nghiêm trọng hơn như viêm nhiễm, tổn thương cấu trúc mắt, hoặc áp lực tăng cao bên trong mắt.",
+    "related_factors": "Các yếu tố liên quan đến đau hốc mắt bao gồm tình trạng viêm nhiễm, căng thẳng mắt kéo dài, chấn thương, dị vật, tác động của hóa chất, rối loạn cấu trúc mắt hoặc các bệnh lý nền như viêm xoang, đau nửa đầu, hoặc các bệnh tự miễn.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Sử dụng máy tính kéo dài",
+    "Tiếp xúc với ánh sáng mạnh hoặc màn hình trong thời gian dài",
+    "Sử dụng kính áp tròng không đúng cách hoặc quá lâu",
+    "Tiền sử viêm xoang",
+    "Tiền sử đau nửa đầu hoặc chứng đau đầu mãn tính",
+    "Bệnh tuyến giáp như bệnh Grave",
+    "Tiền sử chấn thương mắt",
+    "Tiếp xúc với môi trường nhiều bụi, khói hoặc hóa chất",
+    "Suy giảm hệ miễn dịch",
+    "Tuổi cao (nguy cơ tăng nhãn áp, thoái hóa điểm vàng)"
+  ],
+  "complications": [
+    "Mất thị lực vĩnh viễn",
+    "Tổn thương dây thần kinh thị giác",
+    "Viêm mạn tính và bệnh lý mắt tiến triển",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Khó khăn trong công việc và sinh hoạt hàng ngày",
+    "Tổn thương giác mạc vĩnh viễn",
+    "Biến chứng do tăng nhãn áp",
+    "Mù lòa do bệnh glaucoma góc đóng cấp tính không được điều trị kịp thời"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám tiền sử bệnh và triệu chứng hiện tại",
+      "Đánh giá cường độ, vị trí, thời gian và đặc điểm của cơn đau",
+      "Kiểm tra tiền sử sử dụng kính áp tròng",
+      "Tìm hiểu các chấn thương hoặc phẫu thuật mắt trước đó",
+      "Đánh giá dị ứng thuốc và thuốc đang sử dụng",
+      "Kiểm tra thị lực và trường thị giác"
+    ],
+    "tests": [
+      {
+        "name": "Kiểm tra thị lực",
+        "description": "Đánh giá khả năng nhìn của bệnh nhân, kiểm tra trực quan mắt và mô xung quanh, đồng thời kiểm tra chuyển động của mắt, trường thị giác và phản ứng của đồng tử với ánh sáng."
+      },
+      {
+        "name": "Máy soi đáy mắt",
+        "description": "Công cụ đặc biệt để quan sát phía sau mắt, bề mặt của dây thần kinh thị giác và các mạch máu, giúp phát hiện các bất thường sâu bên trong mắt."
+      },
+      {
+        "name": "Đèn khe",
+        "description": "Kính hiển vi quan sát bề mặt của mắt, giúp phát hiện vết trầy xước, loét giác mạc và các tổn thương khác, cũng như xem xét khu vực tiền phòng mắt (giữa bề mặt của mắt và con ngươi)."
+      },
+      {
+        "name": "Thuốc nhỏ mắt gây tê",
+        "description": "Được sử dụng cho cả mục đích chẩn đoán và điều trị, giúp xác định xem cơn đau mắt xuất phát từ bề mặt của mắt hay từ các cấu trúc sâu hơn."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị đau hốc mắt phụ thuộc vào nguyên nhân gây bệnh. Trong nhiều trường hợp, đau hốc mắt có thể được điều trị tại nhà, nhưng nếu có các triệu chứng nghiêm trọng như đau dữ dội đột ngột hoặc giảm thị lực, cần đến cơ sở y tế ngay lập tức.",
+    "methods": [
+      {
+        "name": "Thuốc nhỏ mắt kháng sinh",
+        "description": "Điều trị nhiễm trùng mắt do vi khuẩn bằng cách tiêu diệt các thành phần gây nhiễm trùng như nấm, virus và vi khuẩn. Cần sử dụng theo đúng chỉ định của bác sĩ vì chúng chứa dược chất mà thuốc nhỏ mắt thông thường không có."
+      },
+      {
+        "name": "Thuốc mỡ tra mắt",
+        "description": "Điều trị nhiều bệnh về mắt phổ biến như viêm kết mạc, hội chứng khô mắt và lẹo mắt. Thuốc mỡ mắt kháng sinh hoạt động bằng cách nhắm mục tiêu và tiêu diệt vi khuẩn, chỉ hiệu quả trong việc điều trị nhiễm trùng mắt do vi khuẩn."
+      },
+      {
+        "name": "Loại bỏ dị vật trong mắt",
+        "description": "Nếu dị vật nằm trên mí mắt, nhẹ nhàng rửa sạch bằng nước hoặc thuốc nhỏ mắt. Có thể sử dụng miếng gạc bông để loại bỏ. Nếu dị vật nằm trên tròng trắng của mắt, nhẹ nhàng rửa mắt bằng nước hoặc thuốc nhỏ mắt."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Được sử dụng để điều trị nhiều tình trạng khác nhau gây đau hốc mắt, bao gồm đục thủy tinh thể, tăng nhãn áp, bong võng mạc, rách võng mạc, bệnh võng mạc do tiểu đường và các vấn đề về khúc xạ."
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi mắt thường xuyên nếu làm việc lâu với máy tính",
+      "Sử dụng nước mắt nhân tạo nếu bị khô mắt",
+      "Áp dụng quy tắc 20-20-20: Cứ sau 20 phút nhìn vào máy tính, nhìn ra xa 20 feet (khoảng 6 mét) trong 20 giây",
+      "Tránh chạm tay vào mắt khi chưa rửa sạch",
+      "Vệ sinh kính áp tròng đúng cách nếu sử dụng",
+      "Đeo kính chống nắng khi ra ngoài để bảo vệ mắt",
+      "Tránh môi trường nhiều khói, bụi hoặc hóa chất",
+      "Điều trị kịp thời các bệnh lý nền như viêm xoang, đau nửa đầu",
+      "Tuân thủ lịch khám mắt định kỳ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa đau hốc mắt do đây không phải là bệnh truyền nhiễm.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Đeo kính bảo hộ khi làm việc với dụng cụ, hóa chất hoặc trong các hoạt động thể thao có nguy cơ cao",
+      "Vệ sinh kính áp tròng đúng cách, tuân theo hướng dẫn của bác sĩ về việc tháo, lắp và rửa kính",
+      "Khám mắt định kỳ để phát hiện sớm các bất thường",
+      "Nghỉ ngơi mắt thường xuyên khi làm việc với máy tính",
+      "Điều chỉnh ánh sáng màn hình máy tính phù hợp",
+      "Đeo kính chống nắng khi ra ngoài trời nắng",
+      "Duy trì chế độ ăn uống giàu vitamin A, C, E và các chất chống oxy hóa tốt cho mắt",
+      "Tránh môi trường khói, bụi, hóa chất gây kích ứng mắt",
+      "Điều trị kịp thời các bệnh mãn tính như viêm xoang, đái tháo đường, tăng huyết áp"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Làm thế nào để phân biệt đau hốc mắt thông thường và đau hốc mắt nguy hiểm?",
+      "answer": "Đau hốc mắt thông thường thường nhẹ và tạm thời, có thể do mỏi mắt, căng thẳng hoặc dị ứng nhẹ. Đau hốc mắt nguy hiểm thường có các dấu hiệu cảnh báo như: đau đột ngột và dữ dội, giảm thị lực, mắt đỏ kèm đau, buồn nôn và nôn, sụp mí mắt, sốt cao, hoặc đau không đáp ứng với thuốc giảm đau thông thường. Nếu bạn gặp bất kỳ dấu hiệu nào trong số này, hãy đến cơ sở y tế ngay lập tức."
+    },
+    {
+      "question": "Đau hốc mắt có nguy hiểm không?",
+      "answer": "Đau hốc mắt xảy ra bên trong mắt thường không nguy hiểm và hiếm có trường hợp nghiêm trọng. Tuy nhiên, nếu đau hốc mắt kèm theo suy giảm thị lực, đau dữ dội đột ngột, hoặc các triệu chứng như buồn nôn, sốt, mắt đỏ, thì đây có thể là dấu hiệu cảnh báo của các vấn đề nghiêm trọng như tăng nhãn áp góc đóng cấp tính, viêm mống mắt, hoặc nhiễm trùng hốc mắt. Trong những trường hợp này, bạn cần đến gặp bác sĩ ngay để được điều trị kịp thời và ngăn chặn các biến chứng nguy hiểm."
+    },
+    {
+      "question": "Tại sao tôi bị đau hốc mắt khi sử dụng máy tính?",
+      "answer": "Đau hốc mắt khi sử dụng máy tính thường do hiện tượng mỏi mắt kỹ thuật số. Khi bạn tập trung vào màn hình trong thời gian dài, tần suất chớp mắt giảm đáng kể, dẫn đến khô mắt. Ánh sáng xanh từ màn hình, tư thế không đúng, và căng thẳng mắt liên tục cũng góp phần gây đau. Để giảm triệu chứng, hãy áp dụng quy tắc 20-20-20 (cứ 20 phút nhìn xa 20 feet trong 20 giây), điều chỉnh độ sáng màn hình, sử dụng nước mắt nhân tạo nếu cần, và đảm bảo môi trường làm việc được chiếu sáng phù hợp."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ khi bị đau hốc mắt?",
+      "answer": "Bạn nên đến gặp bác sĩ ngay khi gặp các triệu chứng sau: đau mắt đột ngột và dữ dội, giảm thị lực đột ngột, mắt đỏ kèm đau, nhạy cảm với ánh sáng và đau nặng hơn, buồn nôn hoặc nôn kèm đau mắt, đau đầu dữ dội, sụp mí mắt, sốt kèm đau mắt, có tiền sử chấn thương mắt gần đây, hoặc đau không đáp ứng với thuốc giảm đau thông thường. Những triệu chứng này có thể là dấu hiệu của các tình trạng nghiêm trọng cần được điều trị khẩn cấp."
+    },
+    {
+      "question": "Có thể phòng ngừa đau hốc mắt không?",
+      "answer": "Có, bạn có thể phòng ngừa đau hốc mắt bằng cách: đeo kính bảo hộ khi làm việc với dụng cụ hoặc hóa chất, vệ sinh kính áp tròng đúng cách, khám mắt định kỳ, nghỉ ngơi mắt thường xuyên khi làm việc với máy tính, đảm bảo ánh sáng phù hợp khi đọc sách hoặc làm việc, uống đủ nước, duy trì chế độ ăn uống cân bằng giàu vitamin và chất chống oxy hóa, tránh môi trường nhiều khói bụi, và điều trị kịp thời các bệnh lý nền như viêm xoang, đau nửa đầu."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau mắt đột ngột và dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Glaucoma góc đóng cấp tính",
+        "Viêm mống mắt",
+        "Viêm màng bồ đào",
+        "Chấn thương mắt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhói ở mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Đau nửa đầu",
+        "Viêm giác mạc",
+        "Dị vật trong mắt",
+        "Tổn thương giác mạc"
+      ]
+    },
+    {
+      "question": "Tôi hay chảy nước mắt nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Viêm kết mạc",
+        "Dị ứng mắt",
+        "Tắc ống dẫn nước mắt",
+        "Khô mắt nghịch lý"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng nhạy cảm với ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Viêm màng bồ đào",
+        "Viêm giác mạc",
+        "Đau nửa đầu",
+        "Khô mắt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nóng rát trong mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Viêm bờ mi",
+        "Khô mắt",
+        "Viêm kết mạc",
+        "Dị ứng mắt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị giảm thị lực đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Glaucoma góc đóng cấp tính",
+        "Bong võng mạc",
+        "Tắc động mạch võng mạc",
+        "Xuất huyết dịch kính võng mạc"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mắt đỏ và đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Viêm kết mạc",
+        "Viêm mống mắt",
+        "Viêm giác mạc",
+        "Glaucoma góc đóng cấp tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu dai dẳng và đau mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Đau nửa đầu",
+        "Viêm xoang",
+        "Tăng nhãn áp",
+        "Căng thẳng mắt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sốt và đau mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Viêm màng não",
+        "Viêm kết mạc do virus",
+        "Cúm",
+        "Nhiễm trùng hốc mắt"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng buồn nôn và đau mắt dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Glaucoma góc đóng cấp tính",
+        "Đau nửa đầu",
+        "Viêm màng não",
+        "Viêm màng bồ đào"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sụp mí mắt và đau mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Nhiễm trùng hốc mắt",
+        "Bệnh Graves",
+        "Nhược cơ",
+        "Tổn thương dây thần kinh số 3"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau mắt khi đeo kính áp tròng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Viêm giác mạc do kính áp tròng",
+        "Khô mắt",
+        "Dị ứng với dung dịch ngâm kính",
+        "Trầy xước giác mạc"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau mắt và nhìn mờ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Tăng nhãn áp",
+        "Viêm giác mạc",
+        "Đục thủy tinh thể",
+        "Bệnh võng mạc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau mắt và có dịch nhầy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Viêm kết mạc",
+        "Viêm bờ mi",
+        "Tắc ống tuyến lệ",
+        "Dị ứng mắt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau mắt sau khi bơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Viêm kết mạc do hóa chất",
+        "Viêm giác mạc",
+        "Dị ứng với clo",
+        "Khô mắt"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau mắt và ngứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Dị ứng mắt",
+        "Viêm kết mạc",
+        "Viêm bờ mi",
+        "Khô mắt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau mắt khi nhìn vào màn hình máy tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Mỏi mắt kỹ thuật số",
+        "Khô mắt",
+        "Rối loạn khúc xạ",
+        "Hội chứng thị giác máy tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau mắt khi ra ngoài trời nắng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Nhạy cảm ánh sáng",
+        "Viêm giác mạc",
+        "Viêm màng bồ đào",
+        "Đau nửa đầu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau mắt và đau đầu sau khi đọc sách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Căng thẳng mắt",
+        "Rối loạn điều tiết",
+        "Lão thị",
+        "Nhược thị"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau mắt và chảy nước mắt sau khi tiếp xúc với bụi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau Hốc Mắt",
+        "Dị ứng mắt",
+        "Viêm kết mạc",
+        "Dị vật trong mắt",
+        "Tổn thương giác mạc"
+      ]
+    }
+  ]
+}

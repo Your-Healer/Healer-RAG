@@ -1,0 +1,178 @@
+{
+  "disease_id": "quai-bi",
+  "disease_name": "Bệnh Quai Bị",
+  "disease_alternative_names": ["Viêm tuyến mang tai", "Bệnh Mumps", "Parotitis"],
+  "disease_definition": "Bệnh quai bị là một bệnh truyền nhiễm do virus gây ra, chủ yếu ảnh hưởng đến tuyến nước bọt mang tai (tuyến nước bọt lớn nhất nằm ở phía trước tai). Biểu hiện đặc trưng là tình trạng sưng đau ở một hoặc cả hai bên má và góc hàm. Mặc dù triệu chứng thường nhẹ, bệnh quai bị vẫn có thể gây ra các biến chứng nghiêm trọng. Vaccine MMR cung cấp sự bảo vệ hiệu quả chống lại virus gây bệnh quai bị.",
+  "symptoms": [
+    {
+      "name": "Sốt và suy nhược",
+      "description": "Các triệu chứng ban đầu có thể bao gồm sốt, nhức đầu, mệt mỏi, chán ăn, và đau cơ. Những triệu chứng này thường xuất hiện một vài ngày trước khi tuyến nước bọt bắt đầu sưng lên."
+    },
+    {
+      "name": "Sưng tuyến nước bọt mang tai",
+      "description": "Dấu hiệu đặc trưng nhất của bệnh quai bị là sưng đau ở tuyến nước bọt mang tai, nằm giữa tai và hàm. Sưng có thể ảnh hưởng đến một hoặc cả hai bên má, làm cho khuôn mặt trông giống như má sóc. Sưng thường đạt đến đỉnh điểm trong khoảng 1-3 ngày và có thể kéo dài đến một tuần."
+    },
+    {
+      "name": "Đau khi nhai hoặc nuốt",
+      "description": "Các tuyến nước bọt bị sưng có thể gây đau khi nhai, nuốt, hoặc khi nói quá nhiều. Hành động này kích thích tuyến và có thể làm tăng cảm giác đau."
+    },
+    {
+      "name": "Khô miệng",
+      "description": "Do tuyến nước bọt bị ảnh hưởng, bệnh nhân có thể cảm thấy khô miệng và khó khăn khi nuốt nước bọt."
+    },
+    {
+      "name": "Sưng tuyến nước bọt khác",
+      "description": "Đôi khi, bệnh cũng có thể ảnh hưởng đến tuyến nước bọt dưới lưỡi và dưới hàm, mặc dù điều này ít phổ biến hơn."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh quai bị gây ra bởi virus quai bị, một loại paramyxovirus lây từ người sang người thông qua tiếp xúc với nước bọt hoặc các giọt dịch đường hô hấp từ người bị nhiễm bệnh.",
+    "related_factors": "Virus quai bị có thể lây truyền dễ dàng trong môi trường đông đúc, đặc biệt tại trường học, ký túc xá đại học, trại hè và các nơi có sự tiếp xúc gần giữa nhiều người.",
+    "transmission_routes": [
+      "Qua đường hô hấp khi người bệnh ho, hắt hơi hoặc nói chuyện, tạo ra các giọt bắn chứa virus",
+      "Tiếp xúc trực tiếp với nước bọt của người nhiễm bệnh (hôn, dùng chung đồ uống, thức ăn)",
+      "Chạm vào bề mặt có dính nước bọt của người bệnh rồi chạm vào mắt, mũi hoặc miệng"
+    ]
+  },
+  "risk_factors": [
+    "Chưa được tiêm vaccine MMR (sởi, quai bị, rubella)",
+    "Tiếp xúc gần với người mắc bệnh quai bị",
+    "Sống hoặc làm việc trong môi trường đông đúc như trường học, trại hè, ký túc xá",
+    "Du lịch đến các khu vực có dịch quai bị",
+    "Sinh sau năm 1957 và chưa mắc bệnh quai bị trước đây",
+    "Hệ miễn dịch suy yếu"
+  ],
+  "complications": [
+    "Viêm tinh hoàn (orchitis): Có thể gây sưng đau tinh hoàn và trong một số trường hợp hiếm, dẫn đến giảm khả năng sinh sản",
+    "Viêm buồng trứng (oophoritis): Gây đau bụng, nôn mửa và sốt ở phụ nữ sau tuổi dậy thì",
+    "Viêm não (encephalitis): Có thể gây viêm mô não, dẫn đến thay đổi ý thức, co giật và rối loạn vận động",
+    "Viêm màng não (meningitis): Gây viêm màng bao quanh não và tủy sống, với triệu chứng đau đầu, sốt và cứng cổ",
+    "Mất thính lực: Có thể xảy ra đột ngột hoặc từ từ, thường hồi phục sau khi khỏi bệnh",
+    "Viêm tụy (pancreatitis): Gây đau hoặc tức vùng bụng, buồn nôn, nôn và sốt",
+    "Sảy thai: Nhiễm bệnh quai bị trong 12 tuần đầu thai kỳ có thể tăng nguy cơ sảy thai"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để xác định các triệu chứng điển hình như sưng tuyến mang tai",
+      "Thu thập thông tin về tiền sử tiếp xúc với người mắc bệnh quai bị",
+      "Đánh giá tình trạng tiêm chủng của bệnh nhân"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm PCR (Phản ứng chuỗi polymerase)",
+        "description": "Lấy mẫu dịch từ má hoặc họng của bệnh nhân để phát hiện sự hiện diện của virus quai bị."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Có thể được thực hiện để kiểm tra kháng thể chống lại virus quai bị hoặc để loại trừ các bệnh khác có triệu chứng tương tự."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Không có phương pháp điều trị đặc hiệu cho bệnh quai bị. Điều trị chủ yếu tập trung vào việc giảm các triệu chứng và ngăn ngừa biến chứng. Bệnh thường tự khỏi sau khoảng hai tuần.",
+    "methods": [
+      {
+        "name": "Nghỉ ngơi và uống nhiều nước",
+        "description": "Đảm bảo nghỉ ngơi đầy đủ và bổ sung nhiều nước để tránh mất nước, đặc biệt nếu có sốt."
+      },
+      {
+        "name": "Thuốc giảm đau",
+        "description": "Sử dụng thuốc giảm đau không kê đơn như acetaminophen (Tylenol) hoặc ibuprofen (Advil, Motrin) để giảm đau và hạ sốt. Tránh dùng aspirin cho trẻ em vì nguy cơ gây hội chứng Reye khi dùng cho trẻ mắc bệnh virus."
+      },
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Súc miệng bằng nước muối ấm, đắp túi nước đá hoặc chườm ấm lên tuyến nước bọt bị sưng, ăn thức ăn mềm dễ nhai, và tránh thức ăn chua làm tăng tiết nước bọt."
+      }
+    ],
+    "recommendations": [
+      "Cách ly bệnh nhân trong khoảng 5 ngày sau khi bắt đầu sưng tuyến để ngăn lây lan",
+      "Tránh đi học, đi làm hoặc tham gia các hoạt động xã hội trong thời gian lây nhiễm",
+      "Che miệng khi ho hoặc hắt hơi để giảm lây lan virus",
+      "Rửa tay thường xuyên với xà phòng và nước",
+      "Không dùng chung đồ uống, thức ăn hoặc dụng cụ ăn uống",
+      "Nếu tinh hoàn sưng đau, có thể nâng đỡ bằng quần lót hoặc khăn nhỏ gấp lại",
+      "Đảm bảo dinh dưỡng đầy đủ và tránh thực phẩm cứng hoặc chua kích thích tuyến nước bọt"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người bệnh khỏi những người chưa mắc bệnh hoặc chưa tiêm phòng",
+      "Thường xuyên rửa tay và khử trùng các bề mặt thường xuyên chạm vào",
+      "Tránh dùng chung đồ dùng cá nhân với người bệnh"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Vaccine MMR (Sởi-Quai bị-Rubella) là phương pháp phòng ngừa hiệu quả nhất chống lại bệnh quai bị. Vaccine này thường được tiêm làm hai liều trong khuôn khổ lịch tiêm chủng thường quy cho trẻ em. Liều đầu tiên được tiêm khi trẻ từ 12-15 tháng tuổi và liều thứ hai khi trẻ từ 4-6 tuổi.",
+      "recommended_for": [
+        "Tất cả trẻ em theo lịch tiêm chủng quốc gia",
+        "Sinh viên đại học chưa được tiêm phòng đầy đủ",
+        "Người làm việc trong lĩnh vực y tế hoặc giáo dục",
+        "Người du lịch quốc tế chưa được tiêm phòng",
+        "Những người sinh sau năm 1957 chưa mắc bệnh quai bị hoặc chưa tiêm vaccine"
+      ]
+    },
+    "general_recommendations": [
+      "Tiêm vaccine MMR theo lịch tiêm chủng khuyến cáo",
+      "Tránh tiếp xúc với người đã được chẩn đoán mắc bệnh quai bị",
+      "Duy trì thói quen vệ sinh tốt, đặc biệt là rửa tay thường xuyên",
+      "Che miệng khi ho hoặc hắt hơi",
+      "Không dùng chung đồ dùng cá nhân với người khác",
+      "Tăng cường sức đề kháng thông qua chế độ ăn uống lành mạnh và tập thể dục đều đặn"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh quai bị có nguy hiểm không?",
+      "answer": "Bệnh quai bị thường là một bệnh nhẹ ở trẻ em, nhưng có thể gây ra các biến chứng nghiêm trọng, đặc biệt ở người trưởng thành. Các biến chứng có thể bao gồm viêm tinh hoàn (có thể dẫn đến vô sinh), viêm buồng trứng, viêm tụy, viêm màng não, viêm não và mất thính lực. Tiêm phòng vaccine MMR là cách tốt nhất để phòng ngừa bệnh và các biến chứng của nó."
+    },
+    {
+      "question": "Bệnh quai bị có lây không và lây như thế nào?",
+      "answer": "Bệnh quai bị rất dễ lây lan, đặc biệt là trong môi trường đông đúc. Virus quai bị lây truyền qua tiếp xúc với nước bọt hoặc dịch tiết đường hô hấp của người bị nhiễm bệnh, thông qua ho, hắt hơi, nói chuyện, chia sẻ đồ uống hoặc thức ăn, và tiếp xúc gần khác. Người bệnh có thể lây truyền virus từ vài ngày trước khi tuyến nước bọt bắt đầu sưng cho đến khoảng 5 ngày sau khi sưng xuất hiện."
+    },
+    {
+      "question": "Vaccine MMR có an toàn không?",
+      "answer": "Vaccine MMR rất an toàn và hiệu quả. Hầu hết trẻ em không gặp phải bất kỳ tác dụng phụ nào từ vaccine này. Các tác dụng phụ nếu xảy ra thường nhẹ, như phát ban, sốt nhẹ hoặc đau tại chỗ tiêm. Các nghiên cứu khoa học đã chứng minh rằng không có mối liên hệ giữa vaccine MMR và bệnh tự kỷ. Lợi ích của việc phòng ngừa các bệnh nguy hiểm như sởi, quai bị và rubella vượt xa rủi ro của các tác dụng phụ hiếm gặp."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi đang có triệu chứng sưng đau ở một bên má và khó nuốt. Tôi có thể bị bệnh gì?",
+      "related_diseases": ["bệnh quai bị", "viêm tuyến nước bọt", "sâu răng", "áp xe răng", "tắc tuyến nước bọt"]
+    },
+    {
+      "question": "Tôi bị sốt, đau đầu và sưng ở cả hai bên má. Tôi có thể đang mắc bệnh gì?",
+      "related_diseases": ["bệnh quai bị", "viêm tuyến nước bọt", "sốt virus", "nhiễm trùng răng miệng", "viêm xoang"]
+    },
+    {
+      "question": "Con trai tôi 15 tuổi bị sưng và đau ở tinh hoàn sau khi bị sưng má vài ngày. Đây có thể là bệnh gì?",
+      "related_diseases": ["bệnh quai bị", "viêm tinh hoàn", "xoắn tinh hoàn", "tràn dịch màng tinh hoàn"]
+    },
+    {
+      "question": "Tôi đã tiếp xúc với người bị quai bị. Tôi nên làm gì để phòng ngừa?",
+      "related_diseases": ["bệnh quai bị", "tiêm phòng MMR", "cách ly", "tăng cường miễn dịch"]
+    },
+    {
+      "question": "Tôi bị quai bị rồi, liệu tôi có thể bị lại không?",
+      "related_diseases": ["bệnh quai bị", "miễn dịch", "tái nhiễm virus", "quai bị tái phát"]
+    },
+    {
+      "question": "Tôi đang có triệu chứng sốt, mệt mỏi và đau cơ, nhưng chưa thấy sưng má. Có thể là quai bị không?",
+      "related_diseases": ["bệnh quai bị", "cúm", "sốt virus", "COVID-19", "viêm họng"]
+    },
+    {
+      "question": "Tôi đang mang thai và có tiếp xúc với người bị quai bị. Tôi nên làm gì?",
+      "related_diseases": ["bệnh quai bị", "biến chứng thai kỳ", "sảy thai", "tiêm phòng MMR", "miễn dịch trong thai kỳ"]
+    },
+    {
+      "question": "Con tôi bị quai bị, khi nào cháu có thể đi học lại?",
+      "related_diseases": ["bệnh quai bị", "thời gian cách ly", "phòng ngừa lây nhiễm", "hướng dẫn y tế trường học"]
+    },
+    {
+      "question": "Tôi đang có triệu chứng khô miệng, đau khi nhai và sưng dưới hàm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh quai bị", "viêm tuyến nước bọt dưới hàm", "sỏi tuyến nước bọt", "nhiễm trùng răng miệng"]
+    },
+    {
+      "question": "Tôi bị đau tai và sưng ở vùng trước tai. Đây có thể là quai bị không?",
+      "related_diseases": ["bệnh quai bị", "viêm tai giữa", "viêm khớp thái dương hàm", "viêm ống tai ngoài"]
+    }
+  ]
+}

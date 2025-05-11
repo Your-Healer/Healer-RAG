@@ -1,0 +1,176 @@
+{
+  "disease_id": "benh-mu-mau",
+  "disease_name": "Bệnh mù màu",
+  "disease_alternative_names": ["Rối loạn sắc giác", "Khiếm khuyết thị giác màu sắc", "Color blindness", "Color vision deficiency", "CVD"],
+  "disease_definition": "Mù màu là một tình trạng mắt không có khả năng nhìn hoặc gặp khó khăn trong việc phân biệt một số màu nhất định. Người bệnh vẫn nhìn rõ vật thể nhưng khả năng nhận biết màu sắc bị hạn chế. Rất hiếm người mù màu bị rối loạn với tất cả các màu sắc, các màu khiến họ khó phân biệt thường là đỏ, xanh lá cây, xanh dương, hoặc màu được pha lẫn giữa các màu này.",
+  "symptoms": [
+    {
+      "name": "Khó phân biệt màu sắc",
+      "description": "Người bệnh không thể hoặc gặp khó khăn khi phân biệt một số màu nhất định, thường là màu đỏ-xanh lá hoặc màu xanh dương-vàng."
+    },
+    {
+      "name": "Nhạy cảm với điều kiện ánh sáng",
+      "description": "Người bệnh cảm thấy khó chịu hoặc nhạy cảm hơn trong điều kiện ánh sáng quá sáng."
+    },
+    {
+      "name": "Đau mắt, đau đầu",
+      "description": "Khi nhìn vào màu sắc mà người bệnh khó phân biệt, có thể gây đau mắt hoặc đau đầu."
+    },
+    {
+      "name": "Sử dụng sai màu",
+      "description": "Người bệnh dùng sai màu khi vẽ hoặc chọn quần áo, phối đồ không phù hợp về màu sắc."
+    },
+    {
+      "name": "Khó đọc chữ trên nền màu",
+      "description": "Gặp khó khăn khi đọc văn bản khi có nhiều màu sắc trên cùng một trang."
+    },
+    {
+      "name": "Chỉ nhìn thấy màu đen, trắng và xám",
+      "description": "Trong trường hợp hiếm gặp, người bệnh chỉ thấy được màu đen, trắng và xám (mù màu đơn sắc hoàn toàn)."
+    }
+  ],
+  "causes": {
+    "main_cause": "Mù màu chủ yếu do di truyền, khi một hoặc nhiều loại tế bào hình nón cảm nhận màu sắc trong võng mạc bị khiếm khuyết hoặc không hoạt động.",
+    "related_factors": "Mắt con người có 3 loại tế bào hình nón để cảm nhận màu sắc: tế bào nhạy với ánh sáng sóng dài (màu đỏ), tế bào nhạy với ánh sáng sóng trung bình (màu xanh lá), và tế bào nhạy với ánh sáng sóng ngắn (màu xanh dương). Khi một hoặc nhiều loại tế bào này bị khiếm khuyết, gây ra tình trạng mù màu.",
+    "transmission_routes": [
+      "Di truyền gen khiếm khuyết từ cha mẹ, đặc biệt là mù màu đỏ-xanh lá được di truyền qua nhiễm sắc thể X",
+      "Biến chứng của một số bệnh lý như tiểu đường, tăng nhãn áp, bệnh Alzheimer",
+      "Tác dụng phụ của một số loại thuốc",
+      "Lão hóa tự nhiên của mắt",
+      "Tiếp xúc với hóa chất độc hại"
+    ]
+  },
+  "risk_factors": [
+    "Giới tính nam (đối với mù màu đỏ-xanh lá do gen trên nhiễm sắc thể X)",
+    "Tiền sử gia đình có người mắc bệnh mù màu",
+    "Bệnh nhân mắc bệnh lý võng mạc, thần kinh thị giác",
+    "Bệnh nhân tiểu đường, tăng nhãn áp, bệnh tim mạch",
+    "Người cao tuổi",
+    "Người dùng các loại thuốc có tác dụng phụ ảnh hưởng đến thị giác",
+    "Người tiếp xúc nhiều với hóa chất như styrene, disulfua carbon hay phân bón"
+  ],
+  "complications": [
+    "Hạn chế trong lựa chọn nghề nghiệp (một số ngành nghề yêu cầu nhận biết màu sắc chuẩn xác)",
+    "Khó khăn trong việc phân biệt đèn giao thông hoặc biển báo",
+    "Giảm chất lượng cuộc sống do khó khăn trong các hoạt động hàng ngày",
+    "Hạn chế trong việc tham gia các môn thể thao hoặc hoạt động có liên quan đến nhận biết màu sắc",
+    "Tác động đến học tập ở trẻ em"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Hỏi tiền sử bệnh và triệu chứng",
+      "Kiểm tra sức khỏe mắt tổng quát",
+      "Sử dụng các bảng kiểm tra màu sắc"
+    ],
+    "tests": [
+      {
+        "name": "Bảng Ishihara",
+        "description": "Bộ bảng gồm các chấm màu sắc khác nhau tạo thành hình ảnh hoặc số, được thiết kế để phát hiện các loại mù màu đỏ-xanh lá. Người bệnh sẽ được yêu cầu đọc số hoặc nhận biết hình ảnh trong các bảng màu."
+      },
+      {
+        "name": "Kiểm tra Farnsworth-Munsell 100 Hue",
+        "description": "Bài kiểm tra định lượng, người bệnh được yêu cầu sắp xếp các đĩa màu theo thứ tự tăng dần về màu sắc để đánh giá chính xác khả năng phân biệt màu."
+      },
+      {
+        "name": "Bài kiểm tra Cambridge",
+        "description": "Một bài kiểm tra được thực hiện trên máy tính, giúp đánh giá khả năng phân biệt màu sắc của người bệnh."
+      },
+      {
+        "name": "Bài kiểm tra HRR (Hardy-Rand-Rittler)",
+        "description": "Sử dụng các bảng để phát hiện và phân loại các loại khiếm khuyết màu sắc, bao gồm mù màu đỏ-xanh lá và xanh dương-vàng."
+      },
+      {
+        "name": "Kiểm tra D-15 và D-15 nhạt",
+        "description": "Người bệnh xếp 15 miếng màu có sắc độ khác nhau theo thứ tự để đánh giá khả năng phân biệt màu sắc."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Không có phương pháp điều trị dứt điểm cho bệnh mù màu bẩm sinh, nhưng có thể cải thiện khả năng nhận biết màu sắc bằng các phương tiện hỗ trợ.",
+    "methods": [
+      {
+        "name": "Kính lọc màu",
+        "description": "Kính đặc biệt giúp tăng độ tương phản giữa các màu mà người bệnh khó phân biệt, làm cho việc phân biệt các màu dễ dàng hơn."
+      },
+      {
+        "name": "Kính áp tròng lọc màu",
+        "description": "Tương tự như kính lọc màu, kính áp tròng có thể giúp một số người mù màu phân biệt tốt hơn giữa các màu."
+      },
+      {
+        "name": "Ứng dụng hỗ trợ trên điện thoại thông minh",
+        "description": "Các ứng dụng dành cho người mù màu có thể giúp nhận diện và đặt tên cho màu sắc trong môi trường xung quanh."
+      },
+      {
+        "name": "Điều trị nguyên nhân gây bệnh",
+        "description": "Đối với mù màu mắc phải, điều trị bệnh lý nền như tiểu đường, tăng nhãn áp, ngừng sử dụng thuốc gây tác dụng phụ có thể cải thiện tình trạng."
+      }
+    ],
+    "recommendations": [
+      "Học cách ghi nhớ vị trí của các màu sắc (ví dụ: đèn giao thông)",
+      "Nhờ người thân phân loại và đánh dấu quần áo, đồ dùng theo màu sắc",
+      "Sử dụng các ứng dụng công nghệ hỗ trợ người mù màu",
+      "Thông báo cho giáo viên, đồng nghiệp về tình trạng mù màu để được hỗ trợ",
+      "Tránh những nghề nghiệp đòi hỏi phân biệt màu sắc chính xác"
+    ],
+    "prevention_of_transmission": [
+      "Tư vấn di truyền trước khi kết hôn và mang thai",
+      "Xét nghiệm gen để xác định nguy cơ di truyền bệnh cho con cái",
+      "Kiểm tra sàng lọc mù màu sớm cho trẻ em, đặc biệt là bé trai"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa bệnh mù màu.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Kiểm tra thị lực và khả năng nhận biết màu sắc định kỳ",
+      "Bảo vệ mắt khi làm việc trong môi trường có hóa chất độc hại",
+      "Tránh chấn thương đầu và mắt",
+      "Điều trị tích cực các bệnh lý liên quan đến mắt như tăng nhãn áp, bệnh võng mạc",
+      "Kiểm soát tốt bệnh đái tháo đường, tăng huyết áp để giảm thiểu tác động lên mắt",
+      "Thăm khám sức khỏe tiền hôn nhân để phát hiện nguy cơ gen di truyền mù màu",
+      "Không tự ý sử dụng thuốc khi chưa có chỉ định của bác sĩ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh mù màu có chữa được không?",
+      "answer": "Mù màu bẩm sinh không thể chữa khỏi hoàn toàn, nhưng có thể sử dụng các phương tiện hỗ trợ như kính lọc màu, kính áp tròng đặc biệt hoặc ứng dụng công nghệ để cải thiện khả năng phân biệt màu. Đối với mù màu mắc phải, việc điều trị nguyên nhân chính gây bệnh có thể cải thiện tình trạng."
+    },
+    {
+      "question": "Bệnh mù màu có di truyền không?",
+      "answer": "Có, mù màu đỏ-xanh lá được di truyền theo kiểu liên kết với nhiễm sắc thể X, do đó phổ biến hơn ở nam giới (khoảng 8% nam giới và 0.5% nữ giới). Mù màu xanh-vàng di truyền theo kiểu trội trên nhiễm sắc thể thường, nhưng hiếm gặp hơn nhiều."
+    },
+    {
+      "question": "Người mù màu nhìn thấy gì?",
+      "answer": "Người mù màu vẫn nhìn thấy mọi vật, chỉ là họ không thể phân biệt được một số màu sắc cụ thể. Người mù màu đỏ-xanh lá khó phân biệt các sắc thái của đỏ, xanh lá cây và đôi khi là màu vàng. Người mù màu xanh-vàng gặp khó khăn khi phân biệt xanh dương, xanh lá và vàng. Rất hiếm gặp trường hợp chỉ nhìn thấy thế giới qua các sắc độ xám (mù màu hoàn toàn)."
+    },
+    {
+      "question": "Bệnh mù màu có nguy hiểm không?",
+      "answer": "Mù màu không gây nguy hiểm đến tính mạng, nhưng có thể ảnh hưởng đến chất lượng cuộc sống, hạn chế một số lựa chọn nghề nghiệp và gây khó khăn trong các hoạt động hàng ngày. Đối với mù màu mắc phải, nó có thể là dấu hiệu của một số bệnh lý tiềm ẩn cần được điều trị."
+    },
+    {
+      "question": "Làm thế nào để phát hiện bệnh mù màu ở trẻ em?",
+      "answer": "Trẻ em từ 3-5 tuổi nên được kiểm tra khả năng nhận biết màu sắc bằng các bảng kiểm tra đặc biệt thiết kế cho trẻ. Dấu hiệu để phát hiện bao gồm: trẻ gặp khó khăn khi học về màu sắc, sử dụng màu sắc không phù hợp khi vẽ, hoặc bối rối khi được yêu cầu phân biệt màu sắc."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Triệu chứng mù màu là gì?",
+      "related_diseases": ["Bệnh tăng nhãn áp", "Bệnh đái tháo đường", "Thoái hóa điểm vàng"]
+    },
+    {
+      "question": "Mù màu có chữa được không?",
+      "related_diseases": ["Rối loạn sắc giác", "Khiếm khuyết thị giác"]
+    },
+    {
+      "question": "Cách kiểm tra mù màu",
+      "related_diseases": ["Rối loạn thị lực", "Bệnh về mắt"]
+    },
+    {
+      "question": "Người mù màu nhìn thấy gì?",
+      "related_diseases": ["Rối loạn thị giác", "Khiếm khuyết màu sắc"]
+    }
+  ]
+}

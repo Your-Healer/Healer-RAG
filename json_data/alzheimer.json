@@ -1,0 +1,262 @@
+{
+  "disease_id": "alzheimer",
+  "disease_name": "Bệnh Alzheimer",
+  "disease_alternative_names": ["Hội chứng Alzheimer", "Chứng mất trí nhớ Alzheimer", "Sa sút trí tuệ Alzheimer"],
+  "disease_definition": "Bệnh Alzheimer là một căn bệnh về não gây ảnh hưởng đến suy nghĩ, hành vi và trí nhớ của người bệnh. Đây là nguyên nhân phổ biến nhất gây ra sa sút trí tuệ, trong đó các tế bào não bị tổn thương và chết, dẫn đến sự suy giảm dần dần về trí nhớ và các chức năng nhận thức khác, ảnh hưởng nghiêm trọng đến khả năng thực hiện các hoạt động hàng ngày. Bệnh Alzheimer không phải là một phần của quá trình lão hóa bình thường, mặc dù tuổi tác là yếu tố nguy cơ lớn nhất.",
+  "symptoms": [
+    {
+      "name": "Sa sút trí nhớ và khả năng nhận thức",
+      "description": "Người bệnh thường không nhớ các thông tin đã biết gần đây, trí nhớ ngắn hạn bị ảnh hưởng nhiều hơn. Người bệnh quên đi những sự kiện vừa xảy ra, nhưng vẫn có thể nhớ lại những trải nghiệm từ lâu. Trí nhớ dài hạn cũng mất dần theo thời gian. Khả năng tập trung bị ảnh hưởng, khiến việc duy trì định hướng theo thời gian và không gian ngày càng khó khăn hơn."
+    },
+    {
+      "name": "Khó khăn diễn đạt bằng ngôn ngữ",
+      "description": "Người bệnh gặp khó khăn khi theo dõi hay tham gia cuộc trò chuyện. Họ có thể dừng lại khi đang trò chuyện và không có ý tưởng để tiếp tục, hoặc lặp lại những câu chuyện đã nói. Khi bệnh tiến triển, việc nhớ đúng các từ trở nên khó khăn hơn, người bệnh có thể sử dụng các từ hoặc cụm từ không phù hợp với ngữ cảnh, khiến người khác khó hiểu."
+    },
+    {
+      "name": "Thay đổi hành vi, tâm trạng, tính cách",
+      "description": "Tâm trạng và tính cách người bệnh có thể thay đổi đáng kể. Họ có thể trở nên bối rối, nghi ngờ, chán nản, sợ hãi hay lo lắng. Họ dễ nổi nóng ở nhà, tại nơi làm việc hoặc khi ở với bạn bè. Người bệnh cũng có thể bắt đầu từ bỏ các sở thích, hoạt động xã hội, và ngại giao tiếp do các thay đổi mà họ gặp phải."
+    },
+    {
+      "name": "Nhầm lẫn thời gian hoặc địa điểm",
+      "description": "Người bệnh có thể quên mất ngày tháng, mùa và sự chuyển biến thời gian. Họ có thể đang đứng ở một địa điểm nhưng không nhớ làm sao mình đến đây hoặc đến đây để làm gì. Người bệnh cũng gặp nhiều khó khăn trong việc hiểu các sự kiện xảy ra tức thời."
+    },
+    {
+      "name": "Đặt đồ vật sai vị trí và không thể nhớ lại mình đã từng làm gì",
+      "description": "Người bệnh có thể đặt đồ vật ở những nơi khác lạ, làm mất đồ vật và không thể nhớ để tìm lại. Nhiều trường hợp người bệnh cho rằng ai đó đã ăn cắp đồ của mình, và việc này xảy ra với tần suất ngày càng nhiều theo thời gian."
+    },
+    {
+      "name": "Khó khăn trong việc đưa ra quyết định và phán đoán",
+      "description": "Người bệnh gặp khó khăn trong việc đưa ra quyết định và phán đoán đúng đắn. Họ có thể không biết cách xử lý các tình huống đơn giản hàng ngày như thức ăn bị cháy trên bếp hoặc không biết cách điều khiển xe an toàn."
+    },
+    {
+      "name": "Suy giảm khả năng thực hiện các nhiệm vụ quen thuộc",
+      "description": "Các hoạt động thường ngày đòi hỏi thực hiện theo các bước cụ thể trở nên khó khăn. Người bệnh có thể gặp khó khăn trong việc lập kế hoạch và nấu ăn, hoặc chơi một trò chơi yêu thích. Khi bệnh tiến triển nặng, họ quên cách thực hiện các nhiệm vụ cơ bản như mặc quần áo và tắm rửa."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính xác của bệnh Alzheimer chưa được hiểu rõ hoàn toàn, nhưng liên quan đến sự tích tụ bất thường của các protein trong não dưới dạng mảng amyloid và các đám rối sợi thần kinh tau, gây tổn thương và chết tế bào não theo thời gian.",
+    "related_factors": "Bệnh Alzheimer được cho là kết quả của sự tương tác phức tạp giữa nhiều yếu tố, bao gồm di truyền, lối sống và môi trường, ảnh hưởng đến não bộ theo thời gian.",
+    "transmission_routes": [
+      "Tuổi tác là yếu tố nguy cơ chính, với khả năng mắc bệnh tăng đáng kể sau 65 tuổi",
+      "Yếu tố di truyền, đặc biệt gen APOE e4 làm tăng nguy cơ mắc bệnh",
+      "Các vấn đề sức khỏe tim mạch như cao huyết áp, cholesterol cao, đái tháo đường",
+      "Chấn thương đầu nghiêm trọng, đặc biệt là khi dẫn đến mất ý thức",
+      "Các protein bất thường (beta-amyloid và tau) tích tụ trong não, gây ra mảng bám và các đám rối sợi thần kinh",
+      "Viêm nhiễm trong não và stress oxy hóa",
+      "Sự rối loạn của hệ thống miễn dịch trong não"
+    ]
+  },
+  "risk_factors": [
+    "Tuổi cao, đặc biệt trên 65 tuổi",
+    "Tiền sử gia đình có người mắc bệnh Alzheimer",
+    "Mang gen APOE e4",
+    "Hội chứng Down",
+    "Chấn thương đầu nghiêm trọng",
+    "Bệnh tim mạch và các yếu tố nguy cơ tim mạch (cao huyết áp, cholesterol cao, béo phì)",
+    "Đái tháo đường (tiểu đường)",
+    "Hút thuốc lá",
+    "Uống rượu quá mức",
+    "Ít hoạt động thể chất",
+    "Thiếu kích thích trí tuệ và giao tiếp xã hội",
+    "Rối loạn giấc ngủ, đặc biệt là chứng ngưng thở khi ngủ",
+    "Trầm cảm",
+    "Mất thính lực hoặc thị lực không được điều trị"
+  ],
+  "complications": [
+    "Mất khả năng giao tiếp",
+    "Không thể thực hiện các hoạt động hàng ngày",
+    "Phụ thuộc hoàn toàn vào người chăm sóc",
+    "Khó nuốt dẫn đến viêm phổi hít",
+    "Suy dinh dưỡng và mất nước",
+    "Nhiễm trùng",
+    "Té ngã và gãy xương",
+    "Loét tì đè",
+    "Trầm cảm và lo âu",
+    "Hành vi bất thường như đi lang thang, kích động"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Đánh giá tiền sử bệnh cá nhân và gia đình",
+      "Khám sức khỏe tổng quát và thần kinh",
+      "Đánh giá trí nhớ, ngôn ngữ, khả năng giải quyết vấn đề và các kỹ năng tư duy khác",
+      "Đánh giá tâm trạng và hành vi",
+      "Đánh giá khả năng thực hiện các hoạt động hàng ngày"
+    ],
+    "tests": [
+      {
+        "name": "Các bài kiểm tra tâm thần và nhận thức",
+        "description": "Như MMSE (Mini-Mental State Examination), MoCA (Montreal Cognitive Assessment) để đánh giá trí nhớ, khả năng giải quyết vấn đề, ngôn ngữ, sự định hướng và khả năng tập trung."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết về não, có thể phát hiện teo não, đặc biệt là vùng hồi hải mã liên quan đến trí nhớ, hoặc các vấn đề khác như đột quỵ, khối u."
+      },
+      {
+        "name": "Chụp cắt lớp (CT scan)",
+        "description": "Cho thấy hình ảnh não để loại trừ khối u, đột quỵ và các nguyên nhân khác gây ra các triệu chứng giống với bệnh Alzheimer."
+      },
+      {
+        "name": "Chụp cắt lớp phát xạ positron (PET)",
+        "description": "Có thể phát hiện mảng amyloid và các đám rối tau trong não, những dấu hiệu đặc trưng của bệnh Alzheimer."
+      },
+      {
+        "name": "Xét nghiệm máu để đánh giá các dấu ấn sinh học (biomarker)",
+        "description": "Xét nghiệm để phát hiện các dấu ấn sinh học như beta-amyloid và tau, có thể hỗ trợ chẩn đoán bệnh Alzheimer."
+      },
+      {
+        "name": "Xét nghiệm di truyền",
+        "description": "Trong một số trường hợp, có thể xét nghiệm gene APOE để đánh giá nguy cơ mắc bệnh, đặc biệt là ở những người có tiền sử gia đình mắc bệnh Alzheimer."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Hiện tại không có phương pháp chữa trị triệt để bệnh Alzheimer, nhưng có thể điều trị để cải thiện các triệu chứng và làm chậm quá trình tiến triển của bệnh. Liệu pháp điều trị thường bao gồm thuốc và các biện pháp không dùng thuốc.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng các thuốc ức chế cholinesterase (như Donepezil, Rivastigmine, Galantamine) để tăng mức độ chất dẫn truyền thần kinh acetylcholine, giúp cải thiện trí nhớ và khả năng tư duy. Đối với giai đoạn trung bình đến nặng, có thể dùng Memantine để điều chỉnh hoạt động của một chất dẫn truyền thần kinh khác là glutamate, giúp cải thiện trí nhớ, sự chú ý và khả năng thực hiện các nhiệm vụ đơn giản."
+      },
+      {
+        "name": "Điều trị các triệu chứng hành vi và tâm thần",
+        "description": "Có thể sử dụng thuốc chống trầm cảm, thuốc an thần, thuốc chống loạn thần để quản lý các triệu chứng như trầm cảm, lo âu, kích động, hung hăng hoặc ảo giác. Tuy nhiên, cần thận trọng vì một số thuốc có thể làm tăng nguy cơ đột quỵ hoặc tử vong ở người cao tuổi mắc chứng sa sút trí tuệ."
+      },
+      {
+        "name": "Liệu pháp phi dược lý",
+        "description": "Bao gồm hoạt động thể chất, kích thích nhận thức, kích thích cảm giác, liệu pháp hồi tưởng, và các liệu pháp khác nhằm cải thiện các triệu chứng và chất lượng cuộc sống. Các biện pháp này có thể giúp duy trì chức năng, tăng cường tâm trạng và giảm các vấn đề về hành vi."
+      },
+      {
+        "name": "Liệu pháp mới",
+        "description": "Các liệu pháp mới như thuốc kháng amyloid (ví dụ: Lecanemab, Donanemab) nhắm vào việc loại bỏ mảng amyloid trong não, đã được FDA phê duyệt gần đây với kết quả khả quan trong việc làm chậm sự suy giảm nhận thức ở giai đoạn đầu của bệnh."
+      }
+    ],
+    "recommendations": [
+      "Duy trì lịch trình và thói quen đơn giản, có thể dự đoán được",
+      "Giảm thiểu môi trường gây mất tập trung và quá nhiều kích thích",
+      "Tạo môi trường sống an toàn để ngăn ngừa té ngã và các tai nạn khác",
+      "Đảm bảo dinh dưỡng hợp lý và đủ nước",
+      "Khuyến khích hoạt động thể chất thường xuyên phù hợp với khả năng của người bệnh",
+      "Duy trì các hoạt động xã hội và giải trí",
+      "Cung cấp sự hỗ trợ tâm lý cho cả người bệnh và người chăm sóc",
+      "Sử dụng công nghệ hỗ trợ như nhắc nhở điện tử, hệ thống theo dõi",
+      "Tham gia các nhóm hỗ trợ dành cho người bệnh và người chăm sóc",
+      "Lập kế hoạch trước cho việc chăm sóc khi bệnh tiến triển nặng hơn"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện tại không có vaccine phòng ngừa bệnh Alzheimer. Tuy nhiên, các nhà khoa học đang nghiên cứu phát triển các phương pháp ngăn ngừa sự hình thành của mảng amyloid và các đám rối tau trong não.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì hoạt động thể chất thường xuyên, ít nhất 150 phút mỗi tuần",
+      "Tuân theo chế độ ăn lành mạnh như chế độ ăn Địa Trung Hải (nhiều trái cây, rau, ngũ cốc nguyên hạt, cá, dầu ô liu)",
+      "Kiểm soát các bệnh tim mạch như cao huyết áp, cholesterol cao, đái tháo đường",
+      "Duy trì cân nặng hợp lý",
+      "Tránh hút thuốc và hạn chế uống rượu",
+      "Tham gia các hoạt động kích thích trí não (đọc sách, chơi các trò chơi chiến thuật, học ngôn ngữ mới)",
+      "Duy trì kết nối xã hội và tham gia các hoạt động cộng đồng",
+      "Quản lý stress và lo âu",
+      "Đảm bảo giấc ngủ chất lượng",
+      "Điều trị các vấn đề về thính giác và thị giác",
+      "Bảo vệ đầu khỏi chấn thương (đội mũ bảo hiểm khi cần thiết, thắt dây an toàn)",
+      "Kiểm tra sức khỏe định kỳ và điều trị các bệnh lý nếu có"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh Alzheimer có chữa khỏi được không?",
+      "answer": "Hiện tại không có phương pháp chữa khỏi hoàn toàn bệnh Alzheimer. Các phương pháp điều trị hiện có chủ yếu nhằm làm chậm tiến trình của bệnh và cải thiện chất lượng cuộc sống. Tuy nhiên, có những tiến bộ đáng kể trong nghiên cứu, với các liệu pháp mới như Lecanemab và Donanemab đã được phê duyệt gần đây, cho thấy hiệu quả trong việc làm chậm sự suy giảm nhận thức ở giai đoạn đầu của bệnh."
+    },
+    {
+      "question": "Bệnh Alzheimer có di truyền không?",
+      "answer": "Bệnh Alzheimer có thể có yếu tố di truyền trong một số trường hợp. Có hai loại chính: Alzheimer khởi phát muộn (sau 65 tuổi) và Alzheimer khởi phát sớm (trước 65 tuổi). Alzheimer khởi phát muộn (chiếm đa số các trường hợp) có liên quan đến nhiều yếu tố nguy cơ, trong đó di truyền đóng một vai trò nhất định, đặc biệt là gen APOE e4. Alzheimer khởi phát sớm hiếm gặp hơn và có thể do đột biến gen đơn như APP, PSEN1, hoặc PSEN2, với khả năng di truyền cao hơn. Nếu có thành viên gia đình mắc bệnh Alzheimer, đặc biệt là người thân cấp một (bố/mẹ, anh/chị/em), nguy cơ mắc bệnh của bạn sẽ cao hơn."
+    },
+    {
+      "question": "Tuổi thọ trung bình của người mắc bệnh Alzheimer là bao lâu?",
+      "answer": "Tuổi thọ trung bình sau khi được chẩn đoán mắc bệnh Alzheimer thường từ 4 đến 8 năm, nhưng có thể kéo dài đến 20 năm tùy thuộc vào nhiều yếu tố như tuổi tác khi chẩn đoán, tình trạng sức khỏe tổng thể, phương pháp điều trị và chăm sóc. Người được chẩn đoán ở tuổi trẻ hơn thường có tiên lượng tốt hơn. Hầu hết người bệnh không tử vong trực tiếp do Alzheimer mà do các biến chứng như viêm phổi, nhiễm trùng đường tiểu, hoặc các bệnh đồng mắc khác."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như hay quên thông tin vừa tiếp nhận, khó tập trung và định hướng thời gian. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ", "suy giảm nhận thức nhẹ", "rối loạn lo âu", "trầm cảm"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó khăn khi tham gia cuộc hội thoại và hay lặp lại những câu chuyện đã kể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ mạch máu", "suy giảm nhận thức nhẹ", "rối loạn giấc ngủ"]
+    },
+    {
+      "question": "Tôi hay quên nghĩa của từ và không thể theo dõi các cuộc trò chuyện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ thái dương trán", "sa sút trí tuệ do bệnh Parkinson", "đột quỵ"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như thay đổi tâm trạng thất thường, dễ cáu gắt và lo lắng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "trầm cảm", "rối loạn lo âu", "rối loạn lưỡng cực", "sa sút trí tuệ thái dương trán"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chán nản và muốn từ bỏ các sở thích, hoạt động xã hội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "trầm cảm", "rối loạn lo âu xã hội", "sa sút trí tuệ"]
+    },
+    {
+      "question": "Tôi hay quên mất ngày tháng, mùa và sự chuyển biến của thời gian. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ mạch máu", "rối loạn định hướng", "chấn thương sọ não"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó khăn khi lái xe đến địa điểm quen thuộc, không thể tính toán đơn giản. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ", "suy giảm nhận thức nhẹ", "rối loạn định hướng không gian"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó khăn khi đọc hiểu và sử dụng các đồ vật trong gia đình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ", "đột quỵ", "chấn thương sọ não"]
+    },
+    {
+      "question": "Tôi hay đặt đồ vật sai vị trí và không thể nhớ đã để chúng ở đâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ", "suy giảm nhận thức nhẹ", "stress mạn tính"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nghi ngờ người khác lấy cắp đồ của mình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ", "rối loạn paranoid", "rối loạn hoang tưởng"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó khăn trong việc học hỏi điều mới và liên kết chúng với kiến thức cũ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "suy giảm nhận thức nhẹ", "rối loạn học tập", "trầm cảm"]
+    },
+    {
+      "question": "Tôi hay quên mất những sự kiện vừa xảy ra nhưng vẫn nhớ được những trải nghiệm từ lâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ", "rối loạn trí nhớ", "thiếu máu não thoáng qua"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sử dụng từ ngữ không phù hợp với ngữ cảnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ thái dương trán", "rối loạn ngôn ngữ tiến triển", "đột quỵ vùng ngôn ngữ"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngại giao tiếp xã hội do những thay đổi trong nhận thức và hành vi của mình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "trầm cảm", "rối loạn lo âu xã hội", "sa sút trí tuệ thái dương trán"]
+    },
+    {
+      "question": "Tôi hay cảm thấy mệt mỏi vì công việc, gia đình và trách nhiệm xã hội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "trầm cảm", "hội chứng kiệt sức", "rối loạn lo âu"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó khăn trong việc lập kế hoạch và đưa ra quyết định. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ thái dương trán", "rối loạn chức năng điều hành", "trầm cảm"]
+    },
+    {
+      "question": "Tôi đang cảm thấy bối rối và không hiểu bối cảnh xung quanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ", "mê sảng", "rối loạn tâm thần"]
+    },
+    {
+      "question": "Tôi hay quên mất mình đang làm gì và mục đích của hành động đó. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ", "rối loạn chú ý", "stress mạn tính"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như không thể hiểu được sự kiện xảy ra ngay lúc đó. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ", "rối loạn xử lý thông tin", "rối loạn nhận thức"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mất dần trí nhớ dài hạn và khả năng nhận thức suy giảm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh Alzheimer", "sa sút trí tuệ", "bệnh Huntington", "sa sút trí tuệ thái dương trán"]
+    }
+  ]
+}

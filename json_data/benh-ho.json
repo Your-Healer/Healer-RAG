@@ -1,0 +1,183 @@
+{
+  "disease_id": "benh-ho",
+  "disease_name": "Bệnh ho",
+  "disease_alternative_names": ["Ho", "Cough"],
+  "disease_definition": "Ho là một phản xạ tự nhiên của cơ thể giúp loại bỏ các chất gây kích ứng ra khỏi đường hô hấp. Phản xạ ho thông thường cơ thể sẽ hít vào để hơi thở ép vào thanh môn đậy kín, sau khi thanh môn mở ra thì lượng không khí sẽ từ phổi được thoát mạnh ra ngoài và có thể kèm tiếng âm thanh đặc trưng.",
+  "symptoms": [
+    {
+      "name": "Ho khan",
+      "description": "Ho mà không kéo theo chất nhầy hoặc đờm, thường do kích ứng đường thở bởi virus, dị ứng, khói bụi, khói thuốc, trào ngược dạ dày thực quản."
+    },
+    {
+      "name": "Ho có đờm",
+      "description": "Ho bật ra dịch của đường hô hấp, có thể dịch trong hoặc dịch đặc, màu trắng, hoặc vàng, xanh, nâu. Thường gặp ở bệnh lý đường hô hấp dưới như viêm phế quản, viêm phổi, hen phế quản, bệnh phổi tắc nghẽn mạn tính, giãn phế quản, lao phổi."
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Biểu hiện cực kỳ nguy hiểm, có thể là dấu hiệu của bệnh viêm phổi, ung thư phổi, chấn thương ngực, tổn thương động mạch bên trong phổi, giãn phế quản, thuyên tắc mạch phổi, bệnh lao."
+    },
+    {
+      "name": "Các triệu chứng đi kèm",
+      "description": "Sốt, ớn lạnh, nhức mỏi cơ thể, viêm họng, buồn nôn hoặc ói mửa, đau đầu, đổ mồ hôi đêm, sổ mũi, chảy nước mũi sau."
+    }
+  ],
+  "causes": {
+    "main_cause": "Ho thường do viêm hoặc kích ứng đường hô hấp trên và dưới, dẫn đến phản xạ ho để loại bỏ các chất kích thích.",
+    "related_factors": "Nhiễm trùng đường hô hấp do virus hoặc vi khuẩn, dị ứng, hít phải các chất kích thích, hen suyễn, trào ngược dạ dày thực quản, và các bệnh mạn tính về phổi.",
+    "transmission_routes": ["Lây qua đường hô hấp khi ho có nguyên nhân từ vi khuẩn, virus", "Một số loại ho không lây nhiễm, đặc biệt khi là biến chứng của bệnh lý không do vi khuẩn"]
+  },
+  "risk_factors": [
+    "Hút thuốc lá, thuốc lá điện tử, dùng chất kích thích",
+    "Bị bệnh mạn tính, đặc biệt là các bệnh liên quan đến phổi hoặc hệ thần kinh",
+    "Dị ứng",
+    "Trẻ em do hệ miễn dịch non nớt",
+    "Người già do hệ thống hô hấp suy yếu",
+    "Công nhân làm việc trong các nhà máy hạt nhân, mỏ than, hóa chất",
+    "Môi trường ô nhiễm"
+  ],
+  "complications": [
+    "Viêm phổi",
+    "Lao phổi",
+    "Hen suyễn nặng lên",
+    "Xẹp phổi",
+    "Phù phổi",
+    "Ung thư phổi",
+    "Viêm phế quản mạn tính",
+    "Xơ nang"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Chẩn đoán lâm sàng dựa trên triệu chứng, thời gian kéo dài và các dấu hiệu đi kèm",
+      "Chẩn đoán hình ảnh",
+      "Xét nghiệm đờm"
+    ],
+    "tests": [
+      {
+        "name": "Chụp X-quang phổi",
+        "description": "Giúp bác sĩ phát hiện các tổn thương trong phế quản và phổi"
+      },
+      {
+        "name": "Xét nghiệm đờm AFB",
+        "description": "Phân tích mẫu đờm để xác định nguyên nhân gây nhiễm trùng, thường được chỉ định trong chẩn đoán lao phổi"
+      },
+      {
+        "name": "Đo hô hấp ký",
+        "description": "Thở vào và thở ra bằng một ống gắn với máy để giúp xác định đường thở có bị tắc nghẽn hay không, thường chỉ định trong chẩn đoán bệnh hen suyễn hoặc khí phế thủng"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị ho cần nhắm vào nguyên nhân gây bệnh, không nên ức chế phản xạ ho có thể gây tác dụng phụ, đặc biệt là khi bị ho nhiều.",
+    "methods": [
+      {
+        "name": "Thuốc chống dị ứng",
+        "description": "Làm giảm các triệu chứng tắc nghẽn mũi do dị ứng dẫn đến phải thở bằng miệng gây khô họng và ho. Không nên dùng trong thời gian dài."
+      },
+      {
+        "name": "Thuốc long đờm",
+        "description": "Sử dụng khi có quá nhiều đờm gây bít tắc đường thở."
+      },
+      {
+        "name": "Thuốc ức chế ho",
+        "description": "Làm giảm phản xạ ho, các thuốc phổ biến như dextromethorphan và guaifenesin. Tuy nhiên, cần thận trọng vì ho là cơ chế bảo vệ cơ bản của cơ thể."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Nếu ho do nhiễm trùng cần điều trị bằng kháng sinh phù hợp với mầm bệnh."
+      },
+      {
+        "name": "Khí dung albuterol và ipratropium",
+        "description": "Có tác dụng giãn phế quản trong đường thở bị co thắt để giảm triệu chứng trong các tình huống khẩn cấp."
+      },
+      {
+        "name": "Steroid dạng hít hoặc thuốc kháng cholinergic",
+        "description": "Chỉ định để điều trị ho đối với bệnh đường hô hấp do dị ứng."
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ",
+      "Uống nhiều nước",
+      "Giữ ấm cổ họng",
+      "Tránh các yếu tố kích thích như khói thuốc, khói bụi, các chất gây dị ứng",
+      "Điều trị nguyên nhân gây bệnh kịp thời"
+    ],
+    "prevention_of_transmission": [
+      "Đeo khẩu trang khi bị ho để tránh lây lan",
+      "Rửa tay thường xuyên, đặc biệt sau khi ho hoặc hắt hơi",
+      "Tránh tiếp xúc gần với người khác khi đang ho"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin đặc hiệu cho bệnh ho, nhưng có thể tiêm phòng một số bệnh có triệu chứng ho như cúm, ho gà, sởi.",
+      "recommended_for": ["Trẻ em", "Người cao tuổi", "Người có bệnh mạn tính"]
+    },
+    "general_recommendations": [
+      "Giữ ấm mũi, họng bằng cách mặc ấm, quàng khăn khi thời tiết lạnh",
+      "Hạn chế uống rượu, bia, không hút thuốc lá",
+      "Phòng ngừa các bệnh cảm cúm bằng cách tiêm phòng vắc xin, đeo khẩu trang khi đến nơi đông người",
+      "Tránh tiếp xúc với người bệnh để giảm nguy cơ lây nhiễm",
+      "Tránh để mắc bệnh trào ngược dạ dày thực quản gây ho mãn tính",
+      "Tránh mắc các bệnh về tai mũi họng như viêm xoang, viêm mũi dị ứng",
+      "Kiểm tra sức khỏe định kỳ 6 tháng một lần",
+      "Ăn uống điều độ, bổ sung đủ dinh dưỡng tăng cường sức đề kháng",
+      "Đánh răng hàng ngày để bảo vệ răng, miệng và họng khỏi vi khuẩn",
+      "Thường xuyên rửa tay bằng xà phòng sát khuẩn hoặc cồn sát khuẩn",
+      "Súc nước muối ngày 2 lần (sáng và tối)",
+      "Uống mật ong pha với nước ấm vào buổi sáng",
+      "Thêm tỏi, gừng vào chế độ ăn để tăng cường sức đề kháng"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Ho có lây không?",
+      "answer": "Nếu ho do nhiễm các loại virus gây bệnh truyền nhiễm như virus cúm A, B, C; virus cúm gia cầm; virus Corona thì có tính chất lây nhiễm. Các trường hợp ho do vi khuẩn hoặc là biến chứng của một số bệnh lý như ung thư phổi, trào ngược dạ dày thực quản không phải do vi khuẩn HP thì không lây nhiễm."
+    },
+    {
+      "question": "Khi nào bị ho nên tới bệnh viện?",
+      "answer": "Nên đến bệnh viện khi ho kèm theo: thở khò khè; sốt trên 38,5℃ hoặc sốt kéo dài hơn 2-3 ngày; ớn lạnh; đờm có màu vàng, xanh hoặc lẫn máu. Gọi cấp cứu khi: khó thở, phải thở dốc; ho ra máu; đau tức ngực dữ dội."
+    },
+    {
+      "question": "Mang thai có gây ho không?",
+      "answer": "Mang thai không gây ho nhưng do khi mang thai, hệ miễn dịch bị suy yếu nên dễ mắc các bệnh về mũi họng, hô hấp hơn bình thường. Ngoài ra, sự thay đổi hormone trong thai kỳ có thể dẫn đến trào ngược axit dạ dày thực quản gây ho."
+    },
+    {
+      "question": "Hay bị ho khi đang ăn là bị gì?",
+      "answer": "Có thể do khuyết tật bẩm sinh như khuyết tật nắp thanh quản hoặc chứng khó nuốt (dysphagia). Trào ngược dạ dày thực quản cũng có thể gây ho khi ăn. Nếu thường xuyên bị ho, sặc khi ăn uống, cần đến bệnh viện khám."
+    },
+    {
+      "question": "Nhiễm Covid-19 có gây ho không?",
+      "answer": "Covid-19 gây nhiễm trùng đường hô hấp với triệu chứng đặc hiệu là ho, khó thở và kèm theo các triệu chứng khác như mất vị giác, tiêu chảy, đau đầu, chóng mặt, mệt mỏi. Ho có thể kéo dài vài tuần đến vài tháng sau khi điều trị khỏi Covid-19."
+    },
+    {
+      "question": "Ho là dấu hiệu của bệnh gì?",
+      "answer": "Ho thường là triệu chứng của các bệnh viêm họng, viêm phế quản, viêm phổi, ung thư phổi, trào ngược dạ dày thực quản, viêm xoang, hen suyễn, viêm mũi dị ứng. Các bệnh cảm cúm, Covid-19 cũng gây ho."
+    },
+    {
+      "question": "Ho ra máu là bị gì?",
+      "answer": "Ho ra máu ở người lớn thường là triệu chứng của các bệnh viêm phế quản, lao, giãn phế quản, hoại tử phổi, áp xe phổi hoặc ung thư phổi. Ở trẻ em thường do nhiễm trùng đường hô hấp dưới hoặc mắc dị vật đường thở."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Ho khan kéo dài có nguy hiểm không?",
+      "related_diseases": ["Viêm họng", "Hen suyễn", "Viêm phế quản", "Ung thư phổi"]
+    },
+    {
+      "question": "Ho có đờm nên uống thuốc gì?",
+      "related_diseases": ["Viêm phế quản", "Viêm phổi", "Giãn phế quản"]
+    },
+    {
+      "question": "Làm thế nào để giảm ho về đêm?",
+      "related_diseases": ["Trào ngược dạ dày thực quản", "Viêm xoang", "Hen suyễn"]
+    },
+    {
+      "question": "Cách phân biệt ho do cảm lạnh và ho do Covid-19?",
+      "related_diseases": ["Cảm lạnh", "Covid-19", "Cúm"]
+    },
+    {
+      "question": "Trẻ em bị ho kiêng ăn gì?",
+      "related_diseases": ["Viêm họng ở trẻ", "Viêm phế quản ở trẻ", "Hen suyễn ở trẻ"]
+    }
+  ]
+}

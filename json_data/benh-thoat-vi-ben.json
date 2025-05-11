@@ -1,0 +1,107 @@
+{
+  "disease_id": "benh-thoat-vi-ben",
+  "disease_name": "Bệnh thoát vị bẹn",
+  "disease_alternative_names": ["Thoát vị thành bụng vùng bẹn"],
+  "disease_definition": "Thoát vị bẹn là tình trạng một tạng trong bụng (mạc nối, ruột…) không còn nằm ở vị trí thông thường mà chui ra khỏi một điểm yếu trên thành bụng ở vùng bẹn. Thoát vị bẹn có thể gây biến chứng nguy hiểm đến tính mạng khi có tình trạng 'nghẹt', nghĩa là tạng thoát vị không thể chui trở lại vào ổ bụng, gây phù nề dẫn tới thiếu máu nuôi, hoại tử và nhiễm trùng.",
+  "symptoms": [
+    {"name": "Khối phồng vùng bẹn", "description": "Xuất hiện các khối phồng vùng bẹn, tăng kích thước khi đứng lâu, ho, hoặc rặn lúc đi đại tiện và thường mất khi nằm."},
+    {"name": "Đau tức vùng bẹn", "description": "Cảm thấy đau tức khi ho, tập thể dục hoặc cúi xuống."},
+    {"name": "Cảm giác khó chịu", "description": "Cảm giác nóng ran, đau nhói, cảm giác nặng hoặc đầy ở bẹn."},
+    {"name": "Sưng bìu", "description": "Sưng bìu ở nam giới."}
+  ],
+  "causes": {
+    "main_cause": "Trẻ sơ sinh có thể bị thoát vị bẹn nếu một cấu trúc gọi là ống phúc tinh mạc không đóng lại hoàn toàn, tạo thành một điểm yếu trên thành bụng. Người lớn tuổi thường bị thoát vị bẹn trực tiếp vì các cân cơ ở thành bụng yếu đi khi về già.",
+    "related_factors": "Di truyền, giới tính nam, ho hay táo bón mãn tính, hút thuốc lá, phụ nữ có thai, trẻ sinh non, chấn thương vùng bẹn.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Giới tính nam",
+    "Tuổi cao",
+    "Di truyền",
+    "Ho mãn tính",
+    "Táo bón mãn tính",
+    "Hút thuốc lá",
+    "Thai kỳ",
+    "Sinh non",
+    "Chấn thương vùng bẹn"
+  ],
+  "complications": [
+    "Đau tức vùng bẹn khi đứng lâu, gắng sức",
+    "Thoát vị kẹt - tạng thoát vị dính vào mô xung quanh",
+    "Thoát vị nghẹt - tạng thoát vị không thể trở lại ổ bụng",
+    "Tắc ruột",
+    "Hoại tử ruột",
+    "Nhiễm trùng",
+    "Tử vong nếu không điều trị kịp thời"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng khi người bệnh đứng và ho hoặc rặn",
+      "Siêu âm",
+      "Chụp CT",
+      "Chụp MRI"
+    ],
+    "tests": [
+      {"name": "Khám lâm sàng", "description": "Bác sĩ khám khi bệnh nhân đứng và ho/rặn để phát hiện khối phồng."},
+      {"name": "Siêu âm", "description": "Giúp xác định vị trí và kích thước khối thoát vị."},
+      {"name": "CT scan", "description": "Chụp cắt lớp vi tính để có hình ảnh chi tiết."},
+      {"name": "MRI", "description": "Chụp cộng hưởng từ để có hình ảnh rõ nét về các mô mềm."}
+    ]
+  },
+  "treatment": {
+    "note": "Phẫu thuật là phương pháp điều trị chính cho bệnh thoát vị bẹn.",
+    "methods": [
+      {"name": "Phẫu thuật mổ mở", "description": "Rạch một đường lớn ở vùng bẹn để đưa các cơ quan trở về vị trí và gia cố thành bụng bằng cân cơ hoặc lưới nhân tạo."},
+      {"name": "Phẫu thuật nội soi", "description": "Rạch một số đường nhỏ trên bụng, dùng camera và dụng cụ chuyên dụng để gia cố vùng bẹn. Ít xâm lấn, sẹo nhỏ và mau phục hồi."}
+    ],
+    "recommendations": [
+      "Tránh các hoạt động gây áp lực lên vùng bụng",
+      "Duy trì cân nặng hợp lý",
+      "Tránh táo bón",
+      "Theo dõi và tái khám theo lịch hẹn"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng bệnh thoát vị bẹn.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Xây dựng chế độ ăn giàu chất xơ, rau xanh, trái cây",
+      "Uống đủ 2 lít nước mỗi ngày",
+      "Tránh táo bón",
+      "Tránh rượu bia, thuốc lá, chất kích thích",
+      "Tránh các hoạt động gây áp lực lớn lên vùng bụng",
+      "Khám sức khỏe định kỳ"
+    ]
+  },
+  "faqs": [
+    {"question": "Bệnh thoát vị bẹn có nguy hiểm không?", "answer": "Thoát vị bẹn là bệnh lý lành tính, chỉ gây khó chịu cho người bệnh. Tuy nhiên, bệnh thường phát triển theo thời gian và nếu không được điều trị sớm có thể gây biến chứng như nghẹt khối thoát vị làm tắc lưu thông máu dẫn đến hoại tử ruột, viêm phúc mạc. Đây là tình trạng khẩn cấp cần phẫu thuật ngay vì có nguy cơ gây tử vong cao."},
+    {"question": "Bệnh thoát vị bẹn nên ăn gì?", "answer": "Ngoài tránh các đồ ăn thức uống không lành mạnh như rượu bia, chất kích thích, thực phẩm công nghiệp, người bệnh nên ăn nhiều rau xanh, trái cây, hạn chế ăn đồ cay, nóng, khó tiêu hóa để tránh táo bón."},
+    {"question": "Bệnh thoát vị bẹn nên mổ nội soi hay mổ hở?", "answer": "Tùy vào mức độ, tình trạng bệnh cũng như nguyện vọng của bệnh nhân mà bác sĩ có thể chọn lựa phương pháp phẫu thuật thoát vị bẹn. Đối với các ca bệnh không quá phức tạp thì nên thực hiện phẫu thuật nội soi vì ít xâm lấn, ít đau, thời gian hồi phục nhanh và để lại sẹo nhỏ."},
+    {"question": "Thoát vị bẹn có phải là bệnh bẩm sinh không?", "answer": "Thoát vị bẹn đến từ nhiều nguyên nhân, trong đó di truyền (bẩm sinh) là một yếu tố. Nếu trẻ vừa sinh ra đã bị thoát vị bẹn thì được coi là thoát vị bẹn bẩm sinh."}
+  ],
+  "common_questions": [
+    {"question": "Tôi thấy xuất hiện khối phồng ở vùng bẹn, to lên khi đứng lâu. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi cảm thấy đau tức vùng bẹn khi ho hoặc tập thể dục. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị đau nhói và cảm giác nặng ở bẹn, kèm theo nóng rát. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị sưng bìu, đau tức và khó chịu. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Khối phồng ở bẹn của tôi biến mất khi nằm xuống. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi cảm thấy đau khi cúi xuống hoặc nâng vật nặng. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị táo bón và phải rặn nhiều khi đi đại tiện. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị buồn nôn và nôn sau khi ăn. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi thấy khó chịu và đầy bụng. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị sốt nhẹ và mệt mỏi. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị đau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi thấy khó tiểu hoặc tiểu không hết. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị đau lưng. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi thấy khó thở. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị chóng mặt khi đứng lên. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị đau nhức xương khớp. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị ngứa ngáy ở vùng bẹn. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi thấy da vùng bẹn bị đỏ và sưng tấy. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi thấy có dịch chảy ra từ khối phồng ở bẹn. Tôi có thể đang bị bệnh gì?", "related_diseases": []}
+  ]
+}

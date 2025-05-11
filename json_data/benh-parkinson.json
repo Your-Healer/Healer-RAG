@@ -1,0 +1,188 @@
+{
+  "disease_id": "benh-parkinson",
+  "disease_name": "Bệnh Parkinson",
+  "disease_alternative_names": ["Hội chứng Parkinson", "Bệnh run rẩy", "Parkinson's Disease", "PD"],
+  "disease_definition": "Bệnh Parkinson là một rối loạn thần kinh tiến triển ảnh hưởng đến chủ yếu các tế bào thần kinh sản xuất dopamine ('dopaminergic') trong một vùng cụ thể của não gọi là chất đen (substantia nigra). Đây là một trong những bệnh về thần kinh phổ biến nhất, ảnh hưởng đến hơn 10 triệu người trên toàn thế giới, trong đó chủ yếu gặp ở người cao tuổi từ 60 tuổi trở lên.",
+  "symptoms": [
+    {
+      "name": "Run rẩy (tremor)",
+      "description": "Thường bắt đầu ở tay hoặc ngón tay, thỉnh thoảng ở chân hoặc hàm. Người bệnh run khi nghỉ ngơi, giảm khi vận động hoặc khi ngủ. Run có thể tăng khi tập trung quá mức hoặc xúc động."
+    },
+    {
+      "name": "Chậm chạp và ít cử động (bradykinesia)",
+      "description": "Người bệnh gặp khó khăn trong vận động, không thể vận động nhanh và các thao tác trở nên kém linh hoạt hơn. Có thể gây khó khăn khi thực hiện các động tác hàng ngày như đứng dậy từ ghế, tắm rửa hoặc mặc quần áo."
+    },
+    {
+      "name": "Cứng cơ (rigidity)",
+      "description": "Người bệnh có cảm giác cứng ở các cơ, đặc biệt là cơ tay chân. Sự cứng cơ có thể gây đau đớn và hạn chế phạm vi chuyển động."
+    },
+    {
+      "name": "Mất thăng bằng và tư thế không vững (postural instability)",
+      "description": "Tư thế người bệnh thường khòm về phía trước, dễ bị ngã khi bị đẩy hoặc tác động từ phía sau do mất khả năng duy trì thăng bằng."
+    },
+    {
+      "name": "Mất biểu cảm khuôn mặt (facial masking)",
+      "description": "Gương mặt ít biểu cảm, giống như đeo mặt nạ, ít chớp mắt."
+    },
+    {
+      "name": "Thay đổi giọng nói",
+      "description": "Người bệnh nói nhỏ, nhanh, lắp bắp hoặc ngập ngừng. Giọng nói có thể đơn điệu, không có ngữ điệu."
+    },
+    {
+      "name": "Thay đổi chữ viết",
+      "description": "Chữ viết thường nhỏ dần, khó đọc và có vẻ co lại."
+    },
+    {
+      "name": "Rối loạn giấc ngủ",
+      "description": "Người bệnh thường thức giấc nhiều lần trong đêm, có ác mộng và buồn ngủ vào ban ngày. Một số người còn có hành vi bất thường khi ngủ như hành động theo giấc mơ."
+    },
+    {
+      "name": "Mất khứu giác",
+      "description": "Giảm hoặc mất hoàn toàn khả năng nhận biết mùi, thường là một trong những triệu chứng xuất hiện sớm của bệnh."
+    },
+    {
+      "name": "Triệu chứng không liên quan đến vận động",
+      "description": "Bao gồm trầm cảm, lo âu, táo bón, mệt mỏi, rối loạn tiểu tiện, thay đổi nhận thức và các vấn đề về thị giác."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chính xác của bệnh Parkinson vẫn chưa được xác định rõ ràng. Bệnh xảy ra khi các tế bào thần kinh (neurons) trong não bị thoái hóa hoặc chết đi, dẫn đến thiếu hụt dopamine – một chất dẫn truyền thần kinh quan trọng giúp điều khiển vận động.",
+    "related_factors": "Các nhà khoa học tin rằng nguyên nhân bệnh Parkinson là sự kết hợp giữa yếu tố di truyền và môi trường. Trong não người bệnh thường thấy sự hiện diện của các thể Lewy (Lewy bodies) - là các cụm protein alpha-synuclein bất thường tích tụ trong tế bào thần kinh.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi tác (nguy cơ tăng cao ở người trên 60 tuổi)",
+    "Giới tính nam (nam giới có nguy cơ mắc bệnh cao hơn nữ giới)",
+    "Yếu tố di truyền (có người thân trong gia đình mắc bệnh)",
+    "Tiếp xúc thường xuyên với thuốc trừ sâu, thuốc diệt cỏ và các độc tố môi trường",
+    "Tiền sử chấn thương sọ não"
+  ],
+  "complications": [
+    "Rối loạn nhận thức và sa sút trí tuệ",
+    "Khó nuốt và khó nhai dẫn đến suy dinh dưỡng",
+    "Rối loạn giấc ngủ",
+    "Vấn đề về bàng quang và táo bón",
+    "Thay đổi huyết áp đột ngột khi đứng lên (hạ huyết áp tư thế)",
+    "Rối loạn tình dục và vấn đề về ham muốn",
+    "Đau đớn",
+    "Mệt mỏi và suy nhược",
+    "Trầm cảm và thay đổi cảm xúc"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Chẩn đoán chủ yếu dựa vào các triệu chứng lâm sàng và tiền sử bệnh",
+      "Theo dõi phản ứng của bệnh nhân với thuốc điều trị Parkinson như levodopa",
+      "Loại trừ các bệnh lý khác có triệu chứng tương tự"
+    ],
+    "tests": [
+      {
+        "name": "Khám thần kinh",
+        "description": "Bác sĩ sẽ đánh giá các dấu hiệu vận động, cứng cơ, run khi nghỉ và các triệu chứng thần kinh khác."
+      },
+      {
+        "name": "Xét nghiệm chẩn đoán hình ảnh",
+        "description": "CT scan, MRI não để loại trừ các bệnh lý khác có thể gây ra triệu chứng tương tự."
+      },
+      {
+        "name": "Khuếch đại hạt nhân alpha-synuclein",
+        "description": "Kỹ thuật mới có thể phát hiện sự tích tụ của protein alpha-synuclein trong dịch não tủy."
+      },
+      {
+        "name": "Theo dõi phản ứng với thuốc",
+        "description": "Cải thiện triệu chứng sau khi dùng thuốc levodopa có thể hỗ trợ chẩn đoán."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Hiện tại chưa có phương pháp chữa khỏi hoàn toàn bệnh Parkinson, các phương pháp điều trị chủ yếu nhằm kiểm soát triệu chứng, cải thiện chất lượng cuộc sống và làm chậm tiến triển bệnh.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng các thuốc bổ sung dopamine như levodopa; thuốc đồng vận dopamine như ropinirole, pramipexole; thuốc ức chế MAO-B như selegiline; thuốc kháng cholinergic để kiểm soát run; và các thuốc khác tùy theo triệu chứng cụ thể."
+      },
+      {
+        "name": "Phẫu thuật kích thích não sâu (DBS)",
+        "description": "Cấy điện cực vào các vùng cụ thể trong não để điều chỉnh các hoạt động thần kinh bất thường, giúp giảm run, cứng cơ và khó khăn vận động khi thuốc không còn hiệu quả."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Các bài tập giúp cải thiện tính linh hoạt, sức mạnh cơ bắp, tư thế và thăng bằng. Giúp duy trì khả năng vận động và phòng ngừa té ngã."
+      },
+      {
+        "name": "Trị liệu ngôn ngữ",
+        "description": "Giúp cải thiện khả năng nói và nuốt cho bệnh nhân gặp khó khăn trong giao tiếp."
+      },
+      {
+        "name": "Chế độ dinh dưỡng",
+        "description": "Bổ sung thực phẩm giàu chất chống oxy hóa, omega-3, chất xơ và thực phẩm giàu dopamine để hỗ trợ chức năng não và giảm táo bón."
+      }
+    ],
+    "recommendations": [
+      "Tập thể dục thường xuyên để duy trì khả năng vận động",
+      "Tham gia các nhóm hỗ trợ bệnh nhân Parkinson",
+      "Điều chỉnh môi trường sống để giảm nguy cơ té ngã",
+      "Duy trì chế độ ăn uống cân bằng, giàu dinh dưỡng",
+      "Uống thuốc đúng giờ và đúng liều lượng theo chỉ định của bác sĩ",
+      "Tham gia các hoạt động xã hội để giảm trầm cảm và lo âu"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện tại chưa có vaccine phòng ngừa bệnh Parkinson",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tập thể dục thường xuyên, đặc biệt là các bài tập aerobic",
+      "Bổ sung caffeine từ cà phê và trà xanh có thể giúp giảm nguy cơ mắc bệnh",
+      "Tắm nắng đều đặn để bổ sung vitamin D cho cơ thể",
+      "Tránh tiếp xúc với thuốc trừ sâu và các chất hóa học độc hại",
+      "Bổ sung thực phẩm giàu chất chống oxy hóa và flavonoid",
+      "Sử dụng thuốc kháng viêm không steroid (như ibuprofen) có thể liên quan đến giảm nguy cơ mắc bệnh"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh Parkinson có chữa khỏi được không?",
+      "answer": "Hiện tại chưa có phương pháp chữa khỏi hoàn toàn bệnh Parkinson. Các phương pháp điều trị hiện nay chủ yếu tập trung vào kiểm soát triệu chứng, cải thiện chất lượng cuộc sống và làm chậm tiến triển của bệnh. Người bệnh vẫn có thể sống tốt với bệnh nếu được điều trị phù hợp và sớm."
+    },
+    {
+      "question": "Bệnh Parkinson có di truyền không?",
+      "answer": "Có một số trường hợp bệnh Parkinson có liên quan đến di truyền, nhưng không phải tất cả. Khoảng 10-15% người bệnh có tiền sử gia đình mắc bệnh. Những người có người thân mắc bệnh có nguy cơ cao hơn một chút so với dân số chung, nhưng nguy cơ vẫn tương đối thấp trừ khi có nhiều người trong gia đình mắc bệnh."
+    },
+    {
+      "question": "Bệnh Parkinson có mấy giai đoạn?",
+      "answer": "Theo thang đánh giá Hoehn và Yahr, bệnh Parkinson được chia thành 5 giai đoạn: Giai đoạn 1 (triệu chứng nhẹ, một bên cơ thể), Giai đoạn 2 (triệu chứng hai bên cơ thể, còn phản xạ tư thế), Giai đoạn 3 (giảm phản xạ vận động, khó giữ thăng bằng), Giai đoạn 4 (hạn chế vận động, chỉ di chuyển được đoạn ngắn), và Giai đoạn 5 (không thể tự đi lại)."
+    },
+    {
+      "question": "Người bệnh Parkinson nên ăn gì và kiêng gì?",
+      "answer": "Người bệnh nên ăn thực phẩm giàu chất chống oxy hóa (trà xanh, cà chua, súp lơ), thực phẩm giàu dopamine (chuối, các loại hạt, đậu), thực phẩm giàu omega-3 (cá hồi, cá ngừ), và nhiều rau xanh giàu chất xơ. Nên hạn chế thực phẩm có nhiều đường, thực phẩm giàu protein (có thể cạnh tranh với hấp thu levodopa) và các chất kích thích."
+    },
+    {
+      "question": "Kích thích não sâu (DBS) là gì và khi nào nên áp dụng?",
+      "answer": "Kích thích não sâu (Deep Brain Stimulation - DBS) là phương pháp phẫu thuật đặt các điện cực vào các cấu trúc não cụ thể liên quan đến bệnh Parkinson. DBS thường được áp dụng khi thuốc không còn hiệu quả hoặc gây ra nhiều tác dụng phụ. Phương pháp này giúp giảm run, cứng cơ và các vấn đề vận động, cho phép người bệnh giảm liều thuốc và cải thiện chất lượng cuộc sống."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Parkinson và Alzheimer có giống nhau không?",
+      "related_diseases": ["Bệnh Alzheimer"]
+    },
+    {
+      "question": "Bệnh Parkinson có phải là bệnh run tay chân không?",
+      "related_diseases": ["Hội chứng run vô căn"]
+    },
+    {
+      "question": "Bệnh Parkinson có thể gây tử vong không?",
+      "related_diseases": []
+    },
+    {
+      "question": "Làm thế nào để phân biệt bệnh Parkinson với các rối loạn vận động khác?",
+      "related_diseases": ["Hội chứng run vô căn", "Parkinsonism thứ phát", "Bệnh thoái hóa nhiều hệ thống"]
+    },
+    {
+      "question": "Thuốc điều trị bệnh Parkinson có tác dụng phụ gì?",
+      "related_diseases": []
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "disease_id": "benh-san-la-gan",
+  "disease_name": "Bệnh sán lá gan",
+  "disease_alternative_names": [
+    "Sán lá gan nhỏ",
+    "Sán lá gan lớn",
+    "Nhiễm ký sinh trùng đường mật"
+  ],
+  "disease_definition": "Bệnh sán lá gan là bệnh nhiễm ký sinh trùng mãn tính ở đường mật. Bệnh phát sinh khi vật chủ chính (người và động vật ăn cỏ như dê, trâu, bò…) ăn hoặc uống phải thực phẩm có sán lá và nhiễm bệnh. Bệnh được Tổ chức Y tế thế giới (WHO) xếp vào danh sách 20 bệnh nhiệt đới ít được quan tâm và cần phải loại trừ.",
+  "symptoms": [
+    {
+      "name": "Đau vùng thượng vị và hạ sườn phải",
+      "description": "Đau vùng thượng vị hay vùng hạ sườn phải (khi mắc sán lá gan lớn) và gan sưng to dần, kèm đau bụng nếu nhiễm sán nhiều (khi mắc sán lá gan nhỏ)."
+    },
+    {
+      "name": "Gan to",
+      "description": "Gan bị sưng to do sự xâm nhập và tác động của sán lá gan."
+    },
+    {
+      "name": "Tăng bạch cầu ái toan",
+      "description": "Phản ứng miễn dịch của cơ thể với sự hiện diện của ký sinh trùng."
+    },
+    {
+      "name": "Ngứa",
+      "description": "Biểu hiện của phản ứng dị ứng với sự hiện diện của sán lá gan."
+    },
+    {
+      "name": "Sốt và ớn lạnh",
+      "description": "Phản ứng của cơ thể đối với nhiễm trùng và viêm nhiễm do sán lá gan gây ra."
+    },
+    {
+      "name": "Khó chịu và đau bụng",
+      "description": "Biểu hiện khi sán lá gan di chuyển và gây viêm trong gan và đường mật."
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân chủ yếu khiến con người nhiễm bệnh sán lá gan là do thói quen ăn uống. Sử dụng các loại rau mọc dưới nước như rau cần, nhút, cải xoong, rau ôm…, nước có ấu trùng sán, chưa nấu chín. Môi trường nước là điều kiện lý tưởng để trứng sán phát triển thành ấu trùng và sán trưởng thành để gây bệnh.",
+    "related_factors": "Sở thích ăn đồ tái từ thịt lợn, bò, cá, tôm… món ăn sống sushi, sashimi hay nếp sống thiếu vệ sinh, phóng uế bừa bãi, vứt bỏ chất thải chưa được xử lý ra môi trường… cũng là những nguyên nhân khiến sán có điều kiện sinh sôi, xâm nhập vào cơ thể và gây hại cho con người.",
+    "transmission_routes": [
+      "Ăn phải rau sống nhiễm ấu trùng sán chưa được rửa sạch hoặc nấu chín",
+      "Sử dụng thịt động vật nhiễm sán chưa được nấu chín",
+      "Uống nước nhiễm ấu trùng sán"
+    ]
+  },
+  "risk_factors": [
+    "Ô nhiễm nguồn nước do các lò mổ gia súc nhiễm bệnh thải ra",
+    "Tình trạng phơi nhiễm gần giữa người và vật nuôi",
+    "Nhập khẩu không kiểm soát nguồn gia súc từ các quốc gia đang có dịch bệnh",
+    "Môi trường sống ô nhiễm",
+    "Thói quen ăn đồ sống hoặc tái"
+  ],
+  "complications": [
+    "Tắc nghẽn đường mật",
+    "Viêm ống mật",
+    "Ung thư đường mật",
+    "Xơ gan mật",
+    "Tổn thương nhu mô gan"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Thăm khám lâm sàng dựa trên triệu chứng và tiền sử của người bệnh",
+      "Xét nghiệm tìm kiếm kháng thể sán lá gan",
+      "Tìm kiếm trứng sán trong dịch tá tràng và phân"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm sinh hóa máu",
+        "description": "Xác định kháng thể sán lá gan, là protein do cơ thể sản xuất để giúp chống lại bệnh nhiễm trùng (IgG và IgE) và kiểm tra số lượng bạch cầu."
+      },
+      {
+        "name": "Hút dịch tá tràng, xét nghiệm phân trứng",
+        "description": "Tìm kiếm sự xuất hiện của trứng sán trong dịch tá tràng và phân nhằm xác định loại sán lá mà bệnh nhân mắc phải."
+      },
+      {
+        "name": "Xét nghiệm kỹ thuật ELISA",
+        "description": "Xác định nồng độ kháng thể IgG và IgE, được tiết ra khi cơ thể bị nhiễm sán lá gan. Có ưu điểm đơn giản, nhanh chóng và xác định bệnh chính xác."
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "Sử dụng các kỹ thuật như nội soi mật tụy ngược dòng (ERCP), chụp đường mật, chụp cắt lớp vi tính (CT), siêu âm và chụp cộng hưởng từ (MRI) để xác định tổn thương tại gan hay ống mật do sán lá gan gây ra."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Nhiễm sán lá gan có thể điều trị khỏi. Người có biểu hiện nhiễm sán lá gan nên đi khám nếu nghi ngờ mình bị nhiễm để ngăn ngừa biến chứng.",
+    "methods": [
+      {
+        "name": "Điều trị bằng thuốc tẩy giun sán",
+        "description": "Sử dụng các loại thuốc tẩy giun sán như Nitazoxanide, Triclabendazole, Albendazole, Praziquantel để loại bỏ sán lá gan, tùy thuộc vào loại sán lá (lớn hay nhỏ) mà người bệnh nhiễm phải."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp, điều trị bằng thuốc không có hiệu quả, biện pháp phẫu thuật có thể được thực hiện khi có ổ áp xe gan kích thước lớn trên 5cm."
+      }
+    ],
+    "recommendations": [
+      "Đến ngay các cơ sở y tế để được bác sĩ khám và chẩn đoán phân biệt bệnh",
+      "Uống thuốc giảm đau, hạ sốt nếu có triệu chứng sốt hay đau",
+      "Uống nhiều nước để bù nước và các chất điện giải",
+      "Có thể chườm mát để giảm bớt sưng đau",
+      "Tránh ăn các thực phẩm quá cứng, thức ăn nhiều gia vị cay nóng hoặc chua",
+      "Nên ăn những thức ăn lỏng, mềm, dễ ăn, dễ nuốt như cháo hoặc súp",
+      "Không tùy tiện dùng thuốc kháng sinh, chỉ dùng kháng sinh khi có chỉ định của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người bệnh và xử lý phân đúng cách",
+      "Giữ vệ sinh môi trường sống và nguồn nước",
+      "Nấu chín thức ăn, đặc biệt là rau sống và thịt"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vaccine phòng ngừa bệnh sán lá gan.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Rửa tay trước khi ăn, chế biến thức ăn và sau khi đi vệ sinh, tiếp xúc với phân, rác thải",
+      "Không ăn thực phẩm chưa được nấu chín hay các loại rau sống mọc dưới nước",
+      "Quản lý phân người và phân động vật, không dùng phân tươi để bón rau",
+      "Sử dụng nước sạch để ăn uống",
+      "Tẩy giun định kỳ 6 tháng/lần",
+      "Chọn thực phẩm tươi sống từ nguồn mua an toàn",
+      "Nắm bắt thời gian nấu đúng cách cho từng nhóm thực phẩm để đảm bảo các món ăn được nấu chín"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bệnh sán lá gan có lây không?",
+      "answer": "Do cơ chế lây bệnh qua vật trung gian, chỉ khi ăn phải trứng hay ấu trùng của sán thì con người mới nhiễm bệnh nên bệnh này không lây từ người sang người. Đường lây của bệnh là khi chất thải của người nhiễm sán thải ra môi trường, vào nước rồi nhiễm vào động vật trung gian như ốc, cá… Con người ăn phải những loài trung gian này khi chưa được nấu chín thì sẽ bị nhiễm sán."
+    },
+    {
+      "question": "Bệnh sán lá gan điều trị được không?",
+      "answer": "Nhiễm sán lá gan có thể điều trị khỏi. Do đó, người có biểu hiện nhiễm sán lá gan nên đi khám nếu nghi ngờ mình bị nhiễm để ngăn ngừa biến chứng. Thông qua thăm khám, bác sĩ có thể chỉ định người bệnh dùng thuốc như các loại thuốc tẩy giun sán nhằm loại bỏ sán lá gan."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi thường xuyên đau vùng thượng vị và hạ sườn phải, đây có thể là triệu chứng của bệnh gì?",
+      "related_diseases": [
+        "bệnh sán lá gan",
+        "viêm gan",
+        "sỏi mật",
+        "viêm túi mật"
+      ]
+    },
+    {
+      "question": "Làm thế nào để phòng tránh bệnh sán lá gan?",
+      "related_diseases": [
+        "bệnh sán lá gan",
+        "các bệnh ký sinh trùng",
+        "bệnh đường tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi thấy gan to và cảm thấy đau tức vùng gan, có phải tôi bị sán lá gan không?",
+      "related_diseases": [
+        "bệnh sán lá gan",
+        "viêm gan",
+        "gan nhiễm mỡ",
+        "áp xe gan"
+      ]
+    },
+    {
+      "question": "Tôi thường ăn gỏi cá sống và các món rau sống, tôi có nguy cơ mắc bệnh gì?",
+      "related_diseases": [
+        "bệnh sán lá gan",
+        "bệnh giun sán",
+        "viêm dạ dày ruột",
+        "nhiễm ký sinh trùng đường ruột"
+      ]
+    },
+    {
+      "question": "Tôi hay bị buồn nôn, chán ăn và sốt nhẹ, đây có thể là triệu chứng của bệnh gì?",
+      "related_diseases": [
+        "bệnh sán lá gan",
+        "viêm gan virus",
+        "nhiễm trùng đường tiêu hóa",
+        "viêm dạ dày"
+      ]
+    },
+    {
+      "question": "Nếu tôi bị nhiễm sán lá gan, điều trị có khỏi hoàn toàn không?",
+      "related_diseases": [
+        "bệnh sán lá gan",
+        "nhiễm ký sinh trùng",
+        "bệnh gan mật"
+      ]
+    },
+    {
+      "question": "Tôi có nguy cơ bị ung thư gan sau khi nhiễm sán lá gan không?",
+      "related_diseases": [
+        "bệnh sán lá gan",
+        "ung thư đường mật",
+        "ung thư gan",
+        "xơ gan"
+      ]
+    },
+    {
+      "question": "Tôi đang dùng thuốc tẩy giun sán để trị sán lá gan, cần kiêng cữ gì trong thời gian điều trị?",
+      "related_diseases": [
+        "bệnh sán lá gan",
+        "điều trị ký sinh trùng",
+        "chăm sóc gan"
+      ]
+    },
+    {
+      "question": "Làm thế nào để biết chắc chắn tôi đã hết sán lá gan sau điều trị?",
+      "related_diseases": [
+        "bệnh sán lá gan",
+        "kiểm tra sau điều trị ký sinh trùng",
+        "theo dõi bệnh gan"
+      ]
+    },
+    {
+      "question": "Tôi bị ngứa da và phát ban, có thể liên quan đến sán lá gan không?",
+      "related_diseases": [
+        "bệnh sán lá gan",
+        "dị ứng do ký sinh trùng",
+        "bệnh da liễu",
+        "phản ứng miễn dịch"
+      ]
+    }
+  ]
+}

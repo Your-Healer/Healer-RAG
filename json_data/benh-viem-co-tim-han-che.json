@@ -1,0 +1,163 @@
+{
+  "disease_id": "benh-viem-co-tim-han-che",
+  "disease_name": "Bệnh cơ tim hạn chế",
+  "disease_alternative_names": [
+    "Bệnh cơ tim co thắt",
+    "Restrictive Cardiomyopathy",
+    "RCM"
+  ],
+  "disease_definition": "Bệnh cơ tim hạn chế là một dạng bệnh cơ tim trong đó các thành cơ tim trở nên cứng và kém đàn hồi, khiến tim không thể giãn nở đầy đủ và đổ đầy máu giữa các nhịp đập. Điều này dẫn đến giảm lượng máu tim bơm đi và có thể gây suy tim.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Khó thở khi gắng sức và có thể trở nên tồi tệ hơn khi nằm xuống hoặc hoạt động"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi thường xuyên, đặc biệt khi hoạt động thể chất"
+    },
+    {
+      "name": "Phù",
+      "description": "Sưng phù ở chân, mắt cá chân và các bộ phận khác của cơ thể"
+    },
+    {
+      "name": "Đánh trống ngực",
+      "description": "Cảm giác tim đập không đều hoặc nhanh bất thường"
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Cảm giác chóng mặt, choáng váng, đặc biệt khi thay đổi tư thế"
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh cơ tim hạn chế có thể do nhiều nguyên nhân, bao gồm các bệnh thâm nhiễm như amyloidosis, xơ hóa cơ tim sau xạ trị, và các bệnh tự miễn.",
+    "related_factors": "Yếu tố di truyền, tiền sử xạ trị vùng ngực, và một số bệnh lý hệ thống có thể làm tăng nguy cơ mắc bệnh.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Di truyền",
+      "description": "Có người thân trong gia đình mắc bệnh"
+    },
+    {
+      "name": "Xạ trị",
+      "description": "Tiền sử xạ trị vùng ngực"
+    },
+    {
+      "name": "Bệnh thâm nhiễm",
+      "description": "Mắc các bệnh thâm nhiễm như amyloidosis"
+    },
+    {
+      "name": "Bệnh tự miễn",
+      "description": "Mắc các bệnh tự miễn ảnh hưởng đến cơ tim"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Suy tim",
+      "description": "Tim không thể bơm đủ máu đáp ứng nhu cầu cơ thể"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Tim đập không đều hoặc quá nhanh"
+    },
+    {
+      "name": "Tắc mạch",
+      "description": "Hình thành cục máu đông có thể gây tắc mạch"
+    },
+    {
+      "name": "Suy các cơ quan",
+      "description": "Do không được cung cấp đủ máu"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ sẽ khám tổng quát và lắng nghe tim phổi"
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Kiểm tra hoạt động điện của tim"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá cấu trúc và chức năng của tim"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết về cấu trúc tim"
+      },
+      {
+        "name": "Sinh thiết cơ tim",
+        "description": "Lấy mẫu mô tim để xác định nguyên nhân cụ thể"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh cơ tim hạn chế tập trung vào kiểm soát triệu chứng và điều trị nguyên nhân gây bệnh nếu có thể xác định được.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng các loại thuốc như thuốc lợi tiểu, thuốc chống đông máu, thuốc kiểm soát nhịp tim"
+      },
+      {
+        "name": "Điều trị nguyên nhân",
+        "description": "Điều trị bệnh nền nếu có như bệnh thâm nhiễm hoặc bệnh tự miễn"
+      },
+      {
+        "name": "Can thiệp phẫu thuật",
+        "description": "Cấy máy tạo nhịp tim hoặc ghép tim trong các trường hợp nặng"
+      }
+    ],
+    "recommendations": [
+      "Hạn chế muối trong chế độ ăn",
+      "Tập thể dục phù hợp theo hướng dẫn",
+      "Theo dõi cân nặng hàng ngày",
+      "Uống thuốc đều đặn theo chỉ định",
+      "Nghỉ ngơi hợp lý",
+      "Tránh các hoạt động gắng sức"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin đặc hiệu cho bệnh cơ tim hạn chế.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Khám sức khỏe định kỳ",
+      "Kiểm soát tốt các bệnh nền",
+      "Duy trì lối sống lành mạnh",
+      "Tránh các yếu tố nguy cơ",
+      "Theo dõi chặt chẽ nếu có tiền sử gia đình",
+      "Tầm soát sớm khi có các triệu chứng nghi ngờ"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Bệnh cơ tim hạn chế có chữa được không?",
+      "related_diseases": [
+        "suy tim",
+        "bệnh cơ tim giãn nở",
+        "bệnh thâm nhiễm"
+      ]
+    },
+    {
+      "question": "Ai có nguy cơ mắc bệnh cơ tim hạn chế?",
+      "related_diseases": [
+        "bệnh thâm nhiễm",
+        "bệnh tự miễn",
+        "bệnh tim bẩm sinh"
+      ]
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm bệnh cơ tim hạn chế?",
+      "related_diseases": [
+        "suy tim",
+        "rối loạn nhịp tim",
+        "bệnh cơ tim"
+      ]
+    }
+  ]
+} 

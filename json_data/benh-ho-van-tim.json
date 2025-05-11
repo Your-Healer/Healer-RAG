@@ -1,0 +1,209 @@
+{
+  "disease_id": "benh-ho-van-tim",
+  "disease_name": "Bệnh Hở Van Tim",
+  "disease_alternative_names": ["Bệnh van tim", "Bệnh lý van tim", "Valvular Heart Disease", "Heart Valve Disease"],
+  "disease_definition": "Bệnh hở van tim là tình trạng một hoặc nhiều van tim bị tổn thương hoặc không hoạt động bình thường, khiến van không đóng kín khi tim co bóp, làm cho máu trào ngược trở lại buồng tim. Van tim có vai trò điều hướng dòng máu theo một chiều trong tim, khi bị hở sẽ gây ra nhiều biến chứng nghiêm trọng nếu không được điều trị kịp thời.",
+  "symptoms": [
+    {
+      "name": "Khó thở",
+      "description": "Khó thở, đặc biệt khi nằm hoặc khi gắng sức, có thể xuất hiện cơn khó thở về đêm. Bệnh nhân thường phải kê cao gối khi ngủ để dễ thở hơn."
+    },
+    {
+      "name": "Mệt mỏi kéo dài",
+      "description": "Cảm giác mệt mỏi và kiệt sức liên tục ngay cả khi không hoạt động, giảm khả năng gắng sức."
+    },
+    {
+      "name": "Tim đập nhanh và đánh trống ngực",
+      "description": "Cảm giác tim đập nhanh, không đều hoặc đánh trống ngực ngay cả khi không hoạt động."
+    },
+    {
+      "name": "Ho khan",
+      "description": "Ho khan, đặc biệt vào ban đêm, không do cảm lạnh hoặc các bệnh hô hấp khác."
+    },
+    {
+      "name": "Không nằm thấp đầu được",
+      "description": "Người bệnh phải nằm cao đầu hoặc ngồi để dễ thở hơn."
+    },
+    {
+      "name": "Choáng ngất",
+      "description": "Cảm giác chóng mặt, xây xẩm hoặc ngất xỉu."
+    },
+    {
+      "name": "Phù",
+      "description": "Phù ở mắt cá chân, bàn chân hoặc bụng, có thể tăng cân nhanh chóng do giữ nước."
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau hoặc áp lực trong ngực, đặc biệt khi gắng sức hoặc tiếp xúc với không khí lạnh."
+    },
+    {
+      "name": "Sốt",
+      "description": "Trong trường hợp viêm nội tâm mạc nhiễm khuẩn gây hở van tim."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh hở van tim có nhiều nguyên nhân khác nhau, từ bẩm sinh đến mắc phải, bao gồm các tổn thương do quá trình lão hóa, nhiễm trùng, hoặc các bệnh lý tim mạch khác.",
+    "related_factors": "Các nguyên nhân phổ biến nhất gây hở van tim bao gồm: dị tật tim bẩm sinh, quá trình lão hóa, bệnh thấp tim (do biến chứng của viêm họng liên cầu khuẩn), viêm nội tâm mạc nhiễm khuẩn, bệnh cơ tim do tăng huyết áp, nhồi máu cơ tim, chấn thương, hoặc xạ trị vùng ngực.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Tuổi cao (trên 65 tuổi)",
+    "Tiền sử gia đình có người mắc bệnh van tim hoặc các bệnh tim mạch khác",
+    "Tiền sử bản thân mắc bệnh tim mạch như suy tim, nhồi máu cơ tim",
+    "Tăng huyết áp, rối loạn lipid máu, đái tháo đường, hút thuốc lá và béo phì",
+    "Bệnh tim bẩm sinh",
+    "Tiền sử bệnh thấp khớp hoặc viêm nội tâm mạc",
+    "Một số bệnh tự miễn như lupus",
+    "Tiếp xúc với xạ trị vùng ngực trong điều trị ung thư"
+  ],
+  "complications": [
+    "Suy tim: Tim phải hoạt động nhiều hơn để bù đắp lượng máu bị thiếu hụt, dần dẫn đến suy tim",
+    "Rối loạn nhịp tim: Tim đập không đều, quá nhanh hoặc quá chậm, có thể dẫn đến đột tử",
+    "Viêm nội tâm mạc nhiễm khuẩn: Nhiễm trùng màng trong tim và van tim",
+    "Đột quỵ: Hình thành cục máu đông trong tim có thể đi lên não gây đột quỵ",
+    "Phù phổi: Tích tụ dịch trong phổi do suy tim",
+    "Sốc tim: Tình trạng nguy kịch khi tim không thể bơm đủ máu cho cơ thể",
+    "Hạn chế vận động và giảm chất lượng cuộc sống"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và nghe tim bằng ống nghe",
+      "Siêu âm tim Doppler: Phương pháp quan trọng nhất trong chẩn đoán hở van tim",
+      "Điện tâm đồ (ECG/EKG)",
+      "Chụp X-quang ngực",
+      "Thông tim và chụp mạch",
+      "Chụp cộng hưởng từ (MRI) tim",
+      "Chụp CT scanner tim"
+    ],
+    "tests": [
+      {
+        "name": "Siêu âm tim Doppler",
+        "description": "Phương pháp quan trọng nhất trong chẩn đoán, giúp xác định vị trí, mức độ hở van và ảnh hưởng đến chức năng tim."
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Có thể cho thấy dấu hiệu dày nhĩ trái, dày thất trái, rung nhĩ hoặc các rối loạn nhịp tim khác."
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Có thể thấy hình ảnh bóng tim to, phù kẽ, phù phế nang trong trường hợp hở van nặng hoặc suy tim."
+      },
+      {
+        "name": "Thông tim và chụp mạch",
+        "description": "Đánh giá mức độ hở van và chức năng tim khi các phương pháp khác không đủ thông tin hoặc khi chuẩn bị phẫu thuật."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Có thể giúp đánh giá chức năng thận, nhiễm trùng, và các yếu tố nguy cơ khác."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Phương pháp điều trị hở van tim phụ thuộc vào nguyên nhân, mức độ hở van và triệu chứng của bệnh nhân. Mục tiêu điều trị bao gồm: bảo vệ van khỏi tổn thương thêm, giảm các triệu chứng, và sửa chữa hoặc thay thế van khi cần thiết.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Dùng thuốc để kiểm soát triệu chứng và giảm nguy cơ tổn thương thêm. Các loại thuốc thường dùng bao gồm thuốc lợi tiểu (furosemide, spironolactone), thuốc giãn mạch, thuốc chống loạn nhịp tim, thuốc chẹn beta giao cảm, và thuốc chống đông máu."
+      },
+      {
+        "name": "Nong van tim qua da",
+        "description": "Phương pháp ít xâm lấn sử dụng bóng để mở rộng van bị hẹp. Thường áp dụng cho hẹp van hai lá, hẹp van động mạch chủ không thể phẫu thuật, hoặc hẹp van động mạch phổi."
+      },
+      {
+        "name": "Phẫu thuật sửa van tim",
+        "description": "Phương pháp phẫu thuật nhằm sửa chữa van bị lỗi mà không cần sử dụng van nhân tạo. Ưu điểm là giảm nguy cơ nhiễm trùng, không cần dùng thuốc chống đông suốt đời, và bảo tồn sức mạnh cơ tim."
+      },
+      {
+        "name": "Phẫu thuật thay van tim",
+        "description": "Thay thế van bị hỏng bằng van nhân tạo. Có hai loại van thay thế: van cơ học (tuổi thọ 20-30 năm, cần dùng thuốc chống đông suốt đời) và van sinh học (tuổi thọ 10-15 năm, không cần dùng thuốc chống đông lâu dài)."
+      },
+      {
+        "name": "Can thiệp tim qua da",
+        "description": "Một số trường hợp có thể áp dụng kỹ thuật sửa van hai lá qua đường ống thông (MitraClip) mà không cần mổ hở tim."
+      }
+    ],
+    "recommendations": [
+      "Khám tim mạch định kỳ để theo dõi tiến triển của bệnh",
+      "Tuân thủ phác đồ điều trị và uống thuốc đúng liều lượng theo chỉ định",
+      "Kiểm soát huyết áp và các bệnh lý đi kèm",
+      "Thực hiện chế độ ăn nhạt, ít muối, ít chất béo",
+      "Hạn chế sử dụng đồ uống có cồn, cà phê",
+      "Kiểm soát cân nặng, tránh tăng cân, béo phì",
+      "Tiêm kháng sinh dự phòng trước khi làm răng hoặc phẫu thuật (đối với bệnh nhân có nguy cơ cao)"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc-xin đặc hiệu để phòng ngừa bệnh hở van tim.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì chế độ ăn uống lành mạnh, đa dạng và cân đối, giàu rau xanh, trái cây, ngũ cốc nguyên hạt",
+      "Cân bằng giữa nghỉ ngơi và hoạt động, tránh căng thẳng kéo dài",
+      "Tập thể dục đều đặn, vừa sức",
+      "Duy trì cân nặng hợp lý, tránh béo phì",
+      "Hạn chế sử dụng thuốc lá, đồ uống có cồn và các chất kích thích",
+      "Điều trị kịp thời các bệnh nhiễm trùng, đặc biệt là viêm họng do liên cầu khuẩn",
+      "Chăm sóc răng miệng tốt và khám nha khoa định kỳ để ngăn ngừa nhiễm trùng",
+      "Kiểm soát tốt các bệnh mạn tính như tăng huyết áp, đái tháo đường, rối loạn lipid máu",
+      "Khám sức khỏe định kỳ ít nhất 1 năm/lần, đặc biệt đối với người trên 60 tuổi hoặc có yếu tố nguy cơ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Hở van tim có nguy hiểm không?",
+      "answer": "Mức độ nguy hiểm của bệnh hở van tim phụ thuộc vào nhiều yếu tố như loại van bị ảnh hưởng, mức độ hở, và có kèm theo các bệnh lý khác hay không. Hở van tim mức độ nhẹ (1/4) thường không ảnh hưởng nhiều đến sức khỏe. Tuy nhiên, hở van mức độ vừa đến nặng (3/4, 4/4) nếu không được điều trị kịp thời có thể dẫn đến nhiều biến chứng nghiêm trọng như suy tim, rối loạn nhịp tim, đột quỵ, và thậm chí tử vong. Vì vậy, việc phát hiện sớm và điều trị đúng cách là rất quan trọng."
+    },
+    {
+      "question": "Người bị hở van tim sống được bao lâu?",
+      "answer": "Tiên lượng sống của người bệnh hở van tim phụ thuộc vào nhiều yếu tố như loại van bị hở, mức độ hở, thời điểm phát hiện, bệnh nền đi kèm và phương pháp điều trị. Nếu được phát hiện sớm và điều trị kịp thời, nhiều người có thể sống khỏe mạnh trong nhiều năm. Với các kỹ thuật sửa chữa và thay van tim tiên tiến hiện nay, tuổi thọ của bệnh nhân có thể kéo dài gần như bình thường. Tuy nhiên, nếu phát hiện ở giai đoạn muộn, có nhiều biến chứng hoặc người già yếu, tiên lượng có thể kém hơn."
+    },
+    {
+      "question": "Khi nào cần phẫu thuật van tim?",
+      "answer": "Quyết định phẫu thuật van tim phụ thuộc vào nhiều yếu tố. Nói chung, phẫu thuật được chỉ định trong các trường hợp: hở van mức độ nặng (3,5/4 hoặc 4/4), có triệu chứng rõ ràng ảnh hưởng đến chất lượng cuộc sống, có dấu hiệu suy giảm chức năng tim trên siêu âm hoặc các xét nghiệm khác, hoặc có các biến chứng nghiêm trọng. Bác sĩ sẽ cân nhắc giữa lợi ích và nguy cơ của phẫu thuật dựa trên tình trạng cụ thể của từng bệnh nhân, bao gồm tuổi tác, bệnh đồng mắc và khả năng chịu đựng cuộc phẫu thuật."
+    },
+    {
+      "question": "Hở van tim có di truyền không?",
+      "answer": "Một số dạng bệnh van tim có yếu tố di truyền, đặc biệt là các bệnh lý van tim bẩm sinh. Sa van hai lá - một nguyên nhân phổ biến gây hở van tim - có thể có tính chất gia đình. Nếu trong gia đình có người mắc bệnh van tim, nguy cơ mắc bệnh của các thành viên khác sẽ cao hơn. Tuy nhiên, nhiều trường hợp hở van tim là do các nguyên nhân mắc phải như thấp tim, viêm nội tâm mạc nhiễm khuẩn, thoái hóa do tuổi tác, hoặc do biến chứng của các bệnh lý tim mạch khác, không liên quan đến yếu tố di truyền."
+    },
+    {
+      "question": "Người bị hở van tim nên kiêng ăn gì?",
+      "answer": "Người bị hở van tim nên ăn nhạt, hạn chế muối để giảm thiểu nguy cơ phù, tăng huyết áp và các biến chứng tim mạch. Nên hạn chế thực phẩm giàu chất béo bão hòa và cholesterol để ngăn ngừa xơ vữa động mạch. Hạn chế đồ uống có cồn vì có thể gây rối loạn nhịp tim và làm nặng thêm tình trạng bệnh. Cần hạn chế cà phê và các đồ uống có caffeine vì có thể làm tăng nhịp tim. Người bệnh nên tăng cường rau xanh, trái cây, ngũ cốc nguyên hạt, và các loại protein nạc để duy trì sức khỏe tổng thể và kiểm soát cân nặng."
+    },
+    {
+      "question": "Người bị hở van tim có nên tập thể dục không?",
+      "answer": "Người bị hở van tim vẫn có thể và nên tập thể dục, nhưng cần tham khảo ý kiến bác sĩ để có chế độ tập luyện phù hợp. Đối với hở van tim mức độ nhẹ đến vừa mà không có triệu chứng, người bệnh có thể tham gia hầu hết các hoạt động thể chất ở cường độ vừa phải. Đối với hở van tim mức độ nặng hoặc có triệu chứng, cần tránh các bài tập nặng, cường độ cao hoặc các môn thể thao cạnh tranh. Nên tập trung vào các bài tập nhẹ nhàng như đi bộ, bơi lội, yoga nhẹ. Luôn lắng nghe cơ thể và dừng ngay nếu cảm thấy đau ngực, khó thở bất thường, chóng mặt hoặc mệt mỏi quá mức."
+    },
+    {
+      "question": "Người bị hở van tim có thể mang thai không?",
+      "answer": "Phụ nữ bị hở van tim vẫn có thể mang thai, nhưng cần được đánh giá kỹ lưỡng trước khi có kế hoạch mang thai và theo dõi chặt chẽ trong suốt thai kỳ. Đối với hở van tim mức độ nhẹ đến vừa mà không có triệu chứng, nguy cơ trong thai kỳ thường không cao. Tuy nhiên, đối với hở van tim mức độ nặng hoặc có triệu chứng, thai kỳ có thể làm tăng gánh nặng cho tim và làm trầm trọng thêm tình trạng bệnh. Trong mọi trường hợp, phụ nữ bị hở van tim nên được theo dõi bởi đội ngũ bác sĩ tim mạch và sản khoa chuyên khoa trong suốt thai kỳ để đảm bảo an toàn cho cả mẹ và bé."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó thở khi nằm và mệt mỏi kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Hở Van Tim", "Suy tim", "Bệnh phổi tắc nghẽn mạn tính"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tim đập nhanh và đánh trống ngực liên tục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Hở Van Tim", "Rối loạn nhịp tim", "Cường giáp"]
+    },
+    {
+      "question": "Tôi hay ho khan về đêm và không thể nằm thấp đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Hở Van Tim", "Suy tim", "Trào ngược dạ dày thực quản"]
+    },
+    {
+      "question": "Tôi cảm thấy khó thở khi hoạt động mạnh và hay bị choáng ngất. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Hở Van Tim", "Bệnh động mạch vành", "Rối loạn nhịp tim"]
+    },
+    {
+      "question": "Tôi bị phù mắt cá chân và mệt mỏi dù không hoạt động nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Hở Van Tim", "Suy tim", "Bệnh thận", "Suy giáp"]
+    },
+    {
+      "question": "Tôi đang trải qua tình trạng tim đập nhanh, khó thở và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Bệnh Hở Van Tim", "Hẹp động mạch vành", "Nhồi máu cơ tim", "Viêm màng ngoài tim"]
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "disease_id": "dau-nua-dau",
+  "disease_name": "Đau Nửa Đầu",
+  "disease_alternative_names": [
+    "Migraine",
+    "Chứng đau nửa đầu",
+    "Bệnh đau nửa đầu",
+    "Đau đầu từng cụm",
+    "Hemicranias"
+  ],
+  "disease_definition": "Đau nửa đầu là tình trạng một bên đầu xuất hiện cảm giác đau. Cơn đau này có thể là cảm giác đau nhói dữ dội hoặc chỉ là một cơn đau nhẹ, kéo dài hàng giờ liền hoặc diễn ra và kết thúc nhanh chóng. Thông thường, khi bị đau nửa đầu người bệnh thường kèm theo cảm giác buồn nôn, nôn mửa, cảm thấy nhạy cảm và khó chịu với ánh sáng, âm thanh.",
+  "symptoms": [
+    {
+      "name": "Đau theo nhịp mạch đập",
+      "description": "Đau nửa đầu có thể ở mức độ nhẹ, vừa hay dữ dội, thường theo nhịp mạch đập."
+    },
+    {
+      "name": "Đau tăng dần cường độ",
+      "description": "Đau có thể ngày càng tăng dần cường độ hay diễn tiến theo từng đợt: Giảm đau rồi xuất hiện trở lại."
+    },
+    {
+      "name": "Đau vào ban đêm hoặc sáng sớm",
+      "description": "Đau nửa đầu có thể xuất hiện vào nửa đêm về sáng, đặc biệt trong trường hợp u não, máu tụ nội sọ, đau đầu cụm."
+    },
+    {
+      "name": "Đau khi gắng sức hoặc tiếp xúc ánh sáng",
+      "description": "Đau xuất hiện khi gắng sức hoặc tiếp xúc với ánh sáng như màn hình tivi, điện thoại, laptop."
+    },
+    {
+      "name": "Buồn nôn và nôn mửa",
+      "description": "Cảm giác buồn nôn, nôn mửa thường xuất hiện kèm theo cơn đau nửa đầu."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng và âm thanh",
+      "description": "Người bệnh cảm thấy khó chịu, nhạy cảm với ánh sáng mạnh và âm thanh lớn."
+    },
+    {
+      "name": "Rối loạn thị giác",
+      "description": "Có thể xuất hiện cảm giác có ánh sáng nhấp nháy, mắt mờ, mù màu hoặc đau mắt."
+    },
+    {
+      "name": "Rối loạn cảm giác",
+      "description": "Người bệnh có thể gặp tình trạng khó nói, cảm giác ngứa ở một bên mặt, cánh tay, chân."
+    }
+  ],
+  "causes": {
+    "main_cause": "Đau nửa đầu có thể là nguyên phát (bệnh nhẹ không gây chết người nhưng ảnh hưởng chất lượng sống) hay là thứ phát (bệnh nặng có thể gây chết người cần phát hiện sớm điều trị kịp thời). Đau đầu thứ phát có thể do đột quỵ não, dị dạng mạch máu não, u não, máu tụ nội sọ, abces não. Đau đầu nguyên phát thường gặp nhất là chứng đau nửa đầu Migraine, kế đến là đau đầu từng cụm.",
+    "related_factors": "Nhiều yếu tố có thể gây ra hoặc làm nặng thêm tình trạng đau nửa đầu, bao gồm thay đổi nội tiết tố (nhất là ở phụ nữ trong kỳ kinh nguyệt), cảm xúc tiêu cực (căng thẳng, áp lực, mệt mỏi), sức khỏe thể chất suy kém (thiếu ngủ, làm việc quá sức), thức ăn (thức ăn chứa tyramine, bột ngọt, caffeine), tác động từ môi trường (âm thanh ồn ào, ánh sáng mạnh), và sử dụng thuốc (lạm dụng thuốc giảm đau, thuốc tránh thai, thuốc an thần).",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Giới tính nữ (do sự thay đổi nội tiết tố)",
+    "Người thường xuyên căng thẳng, mệt mỏi, áp lực",
+    "Người có tiền sử gia đình về bệnh đau nửa đầu",
+    "Người có giấc ngủ kém, ngủ ít, thường xuyên mất ngủ",
+    "Người làm việc quá sức, không có nhiều thời gian nghỉ ngơi",
+    "Người hay làm việc đêm",
+    "Người vừa di chuyển đến một khu vực khác trái múi giờ",
+    "Người tiêu thụ nhiều thực phẩm chứa tyramine, bột ngọt, cà phê",
+    "Người sống trong môi trường ồn ào, ánh sáng chói, nhiều mùi hương nồng",
+    "Người lạm dụng thuốc giảm đau, thuốc tránh thai, thuốc an thần"
+  ],
+  "complications": [
+    "Co giật: Trong thời gian bị đau nửa đầu hoặc ngay sau đó, người bệnh có thể xuất hiện những cơn co giật như động kinh",
+    "Chóng mặt: Gây hoa mắt chóng mặt, đầu quay cuồng, dẫn đến té ngã",
+    "Mất ngủ: Cơn đau tấn công đột ngột có thể khiến bạn tỉnh giấc giữa đêm hoặc đau đến mất ngủ",
+    "Đột quỵ: Có thể khiến lượng máu cung cấp lên não bị gián đoạn, lượng oxy và dinh dưỡng nuôi các tế bào não bị giảm",
+    "Trầm cảm và lo lắng: Những người bị đau nửa đầu có nhiều khả năng rơi vào trầm cảm và lo lắng",
+    "Suy giảm chức năng não bộ: Gây khó tập trung, suy giảm trí nhớ, khả năng tư duy kém",
+    "Ảnh hưởng đến thị lực: Có thể đối diện với nguy cơ giảm thị lực, mắt mờ hay thậm chí là mù vĩnh viễn"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khai thác tiền sử bệnh nhân và gia đình",
+      "Tìm hiểu thói quen và hoạt động gần đây",
+      "Ghi lại các triệu chứng lâm sàng",
+      "Thực hiện các xét nghiệm để loại trừ nguyên nhân nguy hiểm"
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm công thức máu",
+        "description": "Giúp bác sĩ xác định người bệnh có gặp các vấn đề về viêm nhiễm, chẳng hạn như nhiễm độc, viêm nhiễm tủy sống, viêm não hay không."
+      },
+      {
+        "name": "Chụp X-quang đầu",
+        "description": "Giúp phát hiện những tổn thương xung quanh vùng xương sọ, xương mặt, mũi và xoang của người bệnh."
+      },
+      {
+        "name": "Chụp cộng hưởng từ và CT scan sọ não",
+        "description": "Giúp phát hiện bất thường liên quan đến não bộ và mạch máu, chẩn đoán các bệnh lý như xuất huyết não, viêm màng não, u não, tai biến mạch máu não."
+      },
+      {
+        "name": "Cấy dịch não tủy",
+        "description": "Được chỉ định trong trường hợp nghi ngờ người bệnh nhiễm trùng hay chảy máu trong hệ thần kinh."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điểm mấu chốt của việc điều trị bệnh đau nửa đầu chính là người bệnh phải tìm ra được nguyên nhân gây bệnh. Từ việc xác định nguyên nhân, bác sĩ sẽ có phương pháp điều trị phù hợp. Các trường hợp đau nửa đầu thứ phát cần được xác định sớm để điều trị có hiệu quả.",
+    "methods": [
+      {
+        "name": "Nghỉ ngơi trong không gian yên tĩnh",
+        "description": "Đau nửa đầu có thể khiến bạn nhạy cảm hơn với ánh sáng và âm thanh nên nghỉ ngơi trong một không gian yên tĩnh và ngủ (nếu có thể) sẽ giúp cơn đau được thuyên giảm nhanh hơn."
+      },
+      {
+        "name": "Uống đồ uống có chứa caffeine",
+        "description": "Uống một lượng nhỏ caffeine có thể làm giảm cơn đau nửa đầu trong giai đoạn đầu. Tuy nhiên, không nên uống quá nhiều caffein vì có thể dẫn đến nhiều vấn đề sức khỏe khác."
+      },
+      {
+        "name": "Châm cứu",
+        "description": "Liệu pháp đông y này được biết đến như một phương pháp điều trị chứng đau nửa đầu. Ngoài ra, châm cứu còn giúp bạn thư giãn, xua tan căng thẳng để ngăn chặn các cơn đau nửa đầu diễn ra."
+      },
+      {
+        "name": "Thư giãn tinh thần",
+        "description": "Nếu cơn đau đầu xuất hiện khi đang tập trung làm việc hoặc suy nghĩ đến một vấn đề nào đó, bạn nên tạm dừng làm việc và tìm một hoạt động khác để thư giãn, từ đó làm dịu cơn đau nửa đầu của mình."
+      },
+      {
+        "name": "Sử dụng thuốc theo chỉ định",
+        "description": "Tùy vào nguyên nhân và mức độ đau, bác sĩ có thể kê đơn thuốc giảm đau phù hợp. Đối với đau nửa đầu nguyên phát như Migraine hay đau đầu cụm, có những loại thuốc đặc trị riêng."
+      }
+    ],
+    "recommendations": [
+      "Tìm kiếm không gian yên tĩnh, tối để nghỉ ngơi khi đau",
+      "Chườm lạnh hoặc ấm vùng đau tùy theo cảm giác dễ chịu",
+      "Tránh các kích thích như ánh sáng mạnh, âm thanh lớn, mùi nồng",
+      "Uống đủ nước để tránh tình trạng mất nước",
+      "Thực hiện các bài tập thư giãn như hít thở sâu, yoga nhẹ nhàng",
+      "Đảm bảo ngủ đủ giấc và có chất lượng",
+      "Duy trì lịch ăn uống đều đặn, không bỏ bữa",
+      "Tránh các thức ăn có thể kích hoạt cơn đau như thực phẩm chứa tyramine",
+      "Hạn chế sử dụng màn hình điện thoại, máy tính khi đang có cơn đau",
+      "Không tự ý sử dụng thuốc giảm đau mà không có chỉ định của bác sĩ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện không có vaccine phòng ngừa đau nửa đầu vì đây không phải là bệnh truyền nhiễm.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Cải thiện chất lượng giấc ngủ: Ngủ đủ giấc, đảm bảo chất lượng giấc ngủ để hạn chế các cơn đau đầu",
+      "Tập thể dục thường xuyên: Tập luyện với cường độ vừa phải, thường xuyên có thể làm giảm nhẹ chứng đau nửa đầu",
+      "Hạn chế căng thẳng: Dành thời gian mỗi ngày để thư giãn, thực hiện các hoạt động giúp giảm stress",
+      "Ăn uống lành mạnh: Uống nhiều nước, ăn đủ bữa, không ăn quá mặn, bổ sung đầy đủ các chất dinh dưỡng",
+      "Tránh các thực phẩm gây đau đầu: Hạn chế thực phẩm chứa tyramine, bột ngọt, caffeine",
+      "Ghi nhật ký đau đầu: Ghi lại thời điểm, tần suất và cường độ của các cơn đau đầu",
+      "Tránh tiếp xúc với các yếu tố kích thích: Ánh sáng mạnh, tiếng ồn, mùi hương nồng",
+      "Sử dụng thuốc khoa học: Tham khảo ý kiến bác sĩ trước khi dùng bất kỳ loại thuốc nào",
+      "Duy trì thói quen sinh hoạt lành mạnh: Sinh hoạt điều độ, đúng giờ giấc",
+      "Khám sức khỏe định kỳ: Kiểm tra sức khỏe thường xuyên để phát hiện sớm các vấn đề về sức khỏe"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Đau nửa đầu là dấu hiệu của bệnh gì?",
+      "answer": "Đau nửa đầu có thể là dấu hiệu của các bệnh lý nguy hiểm như đột quỵ, nhiễm trùng não, u não, có cục máu đông trong não. Cơn nửa đầu cũng có thể là biểu hiện của các bệnh lành tính hơn như: Migraine, đau đầu từng cụm, đau thần kinh chẩm, đau dây V (hay đau thần kinh tam thoa), đau do thoái hóa cột sống cổ. Mặc dù lành tính nhưng những cơn đau nửa đầu này xảy ra làm bệnh nhân rất khó chịu và thường tái phát nhiều lần làm ảnh hưởng đến chất lượng sống."
+    },
+    {
+      "question": "Thường xuyên đau nửa đầu, kéo dài có nguy hiểm không?",
+      "answer": "Có! Việc kéo dài các cơn đau nửa đầu mà không đến bệnh viện kiểm tra sức khỏe, chẩn đoán là vô cùng nguy hiểm. Các cơn đau diễn ra thường xuyên và kéo dài liên tục trong nhiều giờ liền sẽ đi kèm với các vấn đề khác như hoa mắt, chóng mặt, buồn nôn, nôn ói, co giật và gây nên những ảnh hưởng xấu đối với sức khỏe. Thậm chí, cơn đau nửa đầu còn có thể gây tử vong nếu không chẩn đoán nguyên nhân và điều trị bệnh."
+    },
+    {
+      "question": "Đau nửa đầu có di truyền không?",
+      "answer": "Có! Có thể nói, di truyền ảnh hưởng không nhỏ đến chứng đau nửa đầu của bạn. Nhiều người bị đau nửa đầu do gen di truyền. Điều này có nghĩa là nếu bố mẹ hoặc các thành viên trong gia đình mắc chứng đau nửa đầu thì nguy cơ cao bạn cũng gặp tình trạng này."
+    },
+    {
+      "question": "Đau nửa đầu có chữa khỏi được không?",
+      "answer": "Nhiều trường hợp đau nửa đầu vẫn có thể chữa khỏi nếu bạn chú ý đến những triệu chứng của cơn đau và kịp thời phát hiện nguyên nhân, có hướng điều trị phù hợp. Do vậy, việc quan trọng nhất là khi xuất hiện cơn đau, người bệnh nên nhanh chóng đến các bệnh viện để được thực hiện kiểm tra, tìm ra nguyên nhân bệnh lý dẫn đến tình trạng đau của bản thân."
+    },
+    {
+      "question": "Các cơn đau nửa đầu thường kéo dài bao lâu?",
+      "answer": "Thông thường, các cơn đau nửa đầu có thể kéo dài từ 4 đến 72 giờ. Các trường hợp đau nhẹ có thể mau kết thúc hơn. Với các trường hợp nghiêm trọng, thời gian đau nửa đầu có thể kéo dài và kèm theo nhiều triệu chứng khác nhau như buồn nôn hay nhạy cảm với ánh sáng, âm thanh, mùi hôi."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu theo nhịp mạch đập, kèm theo buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Migraine",
+        "Đau đầu cụm",
+        "U não",
+        "Viêm màng não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu ngày càng tăng dần cường độ, kèm theo chóng mặt và rối loạn thị giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Migraine có tiền triệu",
+        "Tăng huyết áp",
+        "Thiếu máu não",
+        "Đột quỵ não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu diễn tiến theo từng đợt, kèm theo nhạy cảm ánh sáng và tiếng ồn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Migraine",
+        "Đau đầu do căng thẳng",
+        "Rối loạn tiền đình",
+        "Viêm xoang"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu xuất hiện vào nửa đêm về sáng, kèm theo mệt mỏi và khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Đau đầu cụm",
+        "U não",
+        "Tăng huyết áp",
+        "Máu tụ nội sọ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu khi gắng sức, kèm theo đổ mồ hôi và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Migraine",
+        "Đau đầu do gắng sức",
+        "Tăng huyết áp",
+        "Phình mạch máu não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu khi tiếp xúc với ánh sáng mạnh, kèm theo chóng mặt và nhạy cảm tiếng ồn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Migraine",
+        "Đau đầu do căng thẳng",
+        "Mệt mỏi mắt",
+        "Rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu dữ dội, kèm theo nôn và rối loạn thị giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Migraine",
+        "U não",
+        "Viêm màng não",
+        "Tăng áp lực nội sọ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu âm ỉ kéo dài, kèm theo mệt mỏi và khó tập trung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Đau đầu do căng thẳng",
+        "Mất ngủ mãn tính",
+        "Trầm cảm",
+        "Thiếu máu não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu kèm theo aura, chẳng hạn như nhìn thấy ánh sáng nhấp nháy hoặc điểm mù. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Migraine có tiền triệu",
+        "Rối loạn thần kinh thị giác",
+        "Bệnh võng mạc",
+        "Tăng nhãn áp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu kèm theo tê bì hoặc yếu cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Migraine phức tạp",
+        "Đột quỵ",
+        "Thiếu máu não thoáng qua",
+        "Động kinh"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu kèm theo khó nói hoặc khó hiểu lời nói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Migraine phức tạp",
+        "Đột quỵ",
+        "Thiếu máu não",
+        "Xuất huyết não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu kèm theo thay đổi tâm trạng hoặc trầm cảm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Migraine",
+        "Rối loạn trầm cảm",
+        "Rối loạn lo âu",
+        "Rối loạn tâm thần"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu kèm theo sốt hoặc cứng cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Viêm màng não",
+        "Viêm não",
+        "Cúm",
+        "Nhiễm trùng đường hô hấp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu kèm theo co giật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Động kinh",
+        "U não",
+        "Migraine phức tạp",
+        "Viêm não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu kèm theo mất ý thức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Ngất",
+        "Động kinh",
+        "Đột quỵ",
+        "Tụt huyết áp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu kèm theo đau đầu hàng ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Đau đầu do lạm dụng thuốc",
+        "Đau đầu căng thẳng mãn tính",
+        "Trầm cảm",
+        "Rối loạn lo âu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu kèm theo đau đầu sau chấn thương đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Chấn thương sọ não",
+        "Máu tụ nội sọ",
+        "Rối loạn sau chấn thương sọ não",
+        "Chấn động não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nửa đầu kèm theo đau đầu do thuốc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Đau đầu do lạm dụng thuốc",
+        "Đau đầu phản ứng thuốc",
+        "Đau đầu rebound",
+        "Quá liều thuốc"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nửa đầu kèm theo đau đầu do nhiễm trùng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "Viêm xoang",
+        "Viêm màng não",
+        "Viêm tai giữa",
+        "Cúm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nửa đầu kèm theo đau đầu do khối u. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau nửa đầu",
+        "U não",
+        "Khối u màng não",
+        "U tế bào thần kinh đệm",
+        "Di căn não"
+      ]
+    }
+  ]
+}

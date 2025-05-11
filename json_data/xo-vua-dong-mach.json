@@ -1,0 +1,244 @@
+{
+  "disease_id": "xo-vua-dong-mach",
+  "disease_name": "Xơ vữa động mạch",
+  "disease_alternative_names": ["Vữa xơ động mạch", "Xơ cứng động mạch"],
+  "disease_definition": "Xơ vữa động mạch là tình trạng khi các động mạch bị tắc nghẽn bởi các mảng bám (được hình thành từ các chất béo, cholesterol, canxi và các chất khác) tích tụ trong thành động mạch. Theo thời gian, các mảng bám xơ cứng lại, thu hẹp lỗ mở của động mạch và hạn chế lưu lượng máu. Khi những mảng chất béo này vỡ ra sẽ hình thành một cục huyết khối (cục máu đông) gây tắc nghẽn hơn nữa hoặc thậm chí chặn dòng chảy của máu giàu oxy đến các cơ quan và bộ phận khác trong cơ thể.",
+  "symptoms": [
+    {
+      "name": "Không có triệu chứng ở giai đoạn đầu",
+      "description": "Xơ vữa động mạch thường không gây ra các triệu chứng cho đến khi ở giai đoạn nặng, khi mà tình trạng hẹp động mạch nặng khiến lưu lượng máu bị gián đoạn."
+    },
+    {
+      "name": "Đau thắt ngực",
+      "description": "Cảm giác đau hoặc khó chịu ở ngực, thường xuất hiện khi gắng sức và biến mất khi nghỉ ngơi. Đây là triệu chứng phổ biến khi động mạch vành bị xơ vữa."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, đặc biệt khi gắng sức, có thể là dấu hiệu của sự suy giảm lưu lượng máu đến tim."
+    },
+    {
+      "name": "Yếu hoặc tê ở tay, chân",
+      "description": "Triệu chứng này thường xuất hiện khi xơ vữa động mạch ảnh hưởng đến các động mạch dẫn đến não hoặc các chi."
+    },
+    {
+      "name": "Nói lắp hoặc nói khó",
+      "description": "Có thể xảy ra khi xơ vữa động mạch ảnh hưởng đến các động mạch cảnh dẫn đến não."
+    },
+    {
+      "name": "Đau ở các chi",
+      "description": "Đặc biệt là khi vận động, có thể là dấu hiệu của bệnh động mạch ngoại vi do xơ vữa động mạch."
+    },
+    {
+      "name": "Mất thị lực tạm thời",
+      "description": "Có thể xảy ra khi xơ vữa động mạch ảnh hưởng đến các động mạch đến mắt."
+    },
+    {
+      "name": "Tăng huyết áp",
+      "description": "Khi động mạch thận bị ảnh hưởng, có thể dẫn đến tăng huyết áp và các vấn đề về thận."
+    }
+  ],
+  "causes": {
+    "main_cause": "Xơ vữa động mạch là một quá trình phức tạp, thường bắt đầu từ thời thơ ấu và tiến triển theo tuổi. Bệnh bắt đầu từ tổn thương lớp bên trong của động mạch và liên quan đến nhiều yếu tố nguy cơ.",
+    "related_factors": "Quá trình xơ vữa động mạch xảy ra khi các tế bào nội mô lót thành mạch máu bị tổn thương, tạo điều kiện cho lipoprotein tỷ trọng thấp (LDL) tích tụ vào thành mạch, kích hoạt quá trình viêm và tạo thành mảng xơ vữa.",
+    "transmission_routes": [
+      "Không lây truyền từ người sang người",
+      "Phát triển do nhiều yếu tố nguy cơ như tuổi tác, di truyền, và lối sống"
+    ]
+  },
+  "risk_factors": [
+    "Tuổi cao (nguy cơ tăng theo tuổi, đặc biệt sau 40 tuổi)",
+    "Tiền sử gia đình mắc bệnh tim mạch",
+    "Hút thuốc lá",
+    "Tăng huyết áp",
+    "Rối loạn mỡ máu (cholesterol cao, đặc biệt là LDL cao)",
+    "Đái tháo đường hoặc kháng insulin",
+    "Béo phì",
+    "Ít vận động thể lực",
+    "Chế độ dinh dưỡng kém (nhiều chất béo bão hòa, muối, đường)",
+    "Căng thẳng kéo dài",
+    "Ngưng thở khi ngủ"
+  ],
+  "complications": [
+    "Bệnh động mạch vành (đau thắt ngực, nhồi máu cơ tim, suy tim)",
+    "Bệnh động mạch cảnh (cơn thiếu máu cục bộ thoáng qua, đột quỵ)",
+    "Bệnh động mạch ngoại biên (đau, tê các chi, hoại tử và cắt cụt chi trong trường hợp nặng)",
+    "Phình động mạch (có thể xảy ra ở bất kỳ vị trí nào trong cơ thể)",
+    "Bệnh thận mạn tính (khi động mạch dẫn đến thận bị thu hẹp)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng và hỏi tiền sử bệnh",
+      "Đánh giá các yếu tố nguy cơ",
+      "Kiểm tra các triệu chứng"
+    ],
+    "tests": [
+      {
+        "name": "Chụp mạch vành",
+        "description": "Thủ thuật sử dụng các ống thông để bơm thuốc cản quang vào động mạch vành, giúp hiển thị hình ảnh của hệ động mạch vành và phát hiện các tổn thương như hẹp, tắc. Được coi là tiêu chuẩn vàng để chẩn đoán bệnh mạch vành."
+      },
+      {
+        "name": "Siêu âm Doppler",
+        "description": "Phương pháp đánh giá lưu lượng máu, xác định tình trạng thu hẹp của các mạch máu ở bụng, cổ hoặc chân."
+      },
+      {
+        "name": "Đo vận tốc sóng mạch",
+        "description": "So sánh các phép đo huyết áp ở cổ chân và ở cánh tay để xác định bất kỳ sự co thắt nào trong lưu lượng máu."
+      },
+      {
+        "name": "Ghi hình tưới máu cơ tim",
+        "description": "Phương pháp được tiến hành ở trạng thái nghỉ và gắng sức, nhằm phát hiện, đánh giá tình trạng tưới máu cơ tim."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Kỹ thuật sử dụng tia X-quang, quét theo chiều cắt ngang qua tim, có thể phát hiện vôi hóa mạch vành, gợi ý vấn đề tim mạch."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị xơ vữa động mạch thường bao gồm thay đổi lối sống, dùng thuốc và trong một số trường hợp nặng cần can thiệp hoặc phẫu thuật.",
+    "methods": [
+      {
+        "name": "Thay đổi lối sống",
+        "description": "Bao gồm việc ăn uống lành mạnh, tập thể dục thường xuyên, duy trì cân nặng hợp lý, không hút thuốc, hạn chế rượu bia, kiểm soát căng thẳng và ngủ đủ giấc."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng các loại thuốc như thuốc chống kết tập tiểu cầu, thuốc chống đông máu, thuốc giảm cholesterol (statin), và thuốc hạ huyết áp để kiểm soát các yếu tố nguy cơ và ngăn ngừa biến chứng."
+      },
+      {
+        "name": "Nong mạch vành",
+        "description": "Thủ thuật can thiệp qua da để khôi phục lưu lượng máu của động mạch vành bị tắc nghẽn, bao gồm việc đặt stent (một giá đỡ bằng kim loại) để giữ cho động mạch mở."
+      },
+      {
+        "name": "Phẫu thuật bắc cầu động mạch vành",
+        "description": "Phẫu thuật mổ bắc cầu trên những động mạch vành bị hẹp nặng hoặc tắc nhưng không phù hợp đặt stent. Bác sĩ sử dụng một đoạn ống ghép bằng tĩnh mạch hoặc động mạch làm 'cầu nối' đến phía sau đoạn động mạch vành bị hẹp."
+      }
+    ],
+    "recommendations": [
+      "Thực hiện chế độ ăn uống lành mạnh, ưu tiên trái cây, rau, ngũ cốc nguyên hạt",
+      "Hạn chế chất béo bão hòa, muối, đường",
+      "Tập thể dục thường xuyên, ít nhất 150 phút hoạt động vừa phải mỗi tuần",
+      "Duy trì cân nặng hợp lý",
+      "Bỏ thuốc lá và tránh khói thuốc",
+      "Hạn chế uống rượu bia",
+      "Kiểm soát căng thẳng và thư giãn",
+      "Ngủ đủ 7-9 giờ mỗi ngày",
+      "Tuân thủ điều trị của bác sĩ",
+      "Tái khám đều đặn theo lịch hẹn"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa xơ vữa động mạch",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Chế độ ăn uống lành mạnh, hạn chế chất béo bão hòa, cholesterol, muối, đường",
+      "Tập thể dục thường xuyên, ít nhất 30 phút mỗi ngày, 5 ngày/tuần",
+      "Duy trì cân nặng hợp lý",
+      "Bỏ hút thuốc lá",
+      "Hạn chế uống rượu bia",
+      "Kiểm soát căng thẳng",
+      "Kiểm tra sức khỏe hàng năm tại các cơ sở y tế uy tín",
+      "Kiểm soát các bệnh đái tháo đường, tăng huyết áp, rối loạn mỡ máu",
+      "Ngủ đủ giấc, 7-9 tiếng mỗi ngày"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Xơ vữa động mạch có thể hồi phục được không?",
+      "answer": "Xơ vữa động mạch không thể hồi phục hoàn toàn, nhưng có thể làm chậm hoặc ngừng tiến triển của bệnh thông qua các biện pháp điều trị và thay đổi lối sống. Trong một số trường hợp, với việc kiểm soát tốt các yếu tố nguy cơ như cholesterol, huyết áp, đái tháo đường và bỏ hút thuốc, một số nghiên cứu cho thấy có thể có sự cải thiện nhỏ trong các mảng xơ vữa."
+    },
+    {
+      "question": "Khi nào cần đi khám nếu nghi ngờ bị xơ vữa động mạch?",
+      "answer": "Bạn nên đi khám nếu có các triệu chứng như đau ngực, khó thở, đau ở chân khi đi bộ, yếu hoặc tê ở tay chân, nói khó hoặc mất thị lực tạm thời. Những người từ 40-74 tuổi hoặc có các yếu tố nguy cơ như thừa cân, hút thuốc, tiền sử gia đình mắc bệnh tim mạch, huyết áp cao, rối loạn mỡ máu nên đi khám sức khỏe 1-2 lần/năm để tầm soát nguy cơ xơ vữa động mạch."
+    },
+    {
+      "question": "Xơ vữa động mạch có nguy hiểm không?",
+      "answer": "Xơ vữa động mạch là một bệnh nguy hiểm vì là nguyên nhân chính gây ra các bệnh tim mạch, nhồi máu cơ tim, đột quỵ - những nguyên nhân hàng đầu gây tử vong trên toàn cầu. Tuy nhiên, nếu được phát hiện sớm và điều trị đúng cách, có thể kiểm soát bệnh và giảm nguy cơ các biến chứng nghiêm trọng."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau ngực khi tập thể dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "bệnh động mạch vành", "đau thắt ngực", "nhồi máu cơ tim"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở và mệt mỏi hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "suy tim", "bệnh phổi tắc nghẽn mạn tính", "thiếu máu"]
+    },
+    {
+      "question": "Tôi hay bị đau ngực, chấm dứt khi nghỉ ngơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "đau thắt ngực ổn định", "bệnh động mạch vành"]
+    },
+    {
+      "question": "Tôi hút thuốc lá và hiện đang bị đau ngực khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "bệnh động mạch vành", "đau thắt ngực", "bệnh phổi tắc nghẽn mạn tính"]
+    },
+    {
+      "question": "Tôi bị cholesterol xấu cao và hiện đang bị đau ngực khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "bệnh động mạch vành", "đau thắt ngực"]
+    },
+    {
+      "question": "Tôi bị thừa cân – béo phì và hiện đang bị đau ngực khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "bệnh động mạch vành", "hội chứng chuyển hóa", "tăng huyết áp"]
+    },
+    {
+      "question": "Tôi bị thiếu hoạt động thể chất và hiện đang bị đau ngực khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "bệnh động mạch vành", "đau thắt ngực", "béo phì"]
+    },
+    {
+      "question": "Tôi bị tăng huyết áp và hiện đang bị đau ngực khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "bệnh động mạch vành", "đau thắt ngực", "phì đại thất trái"]
+    },
+    {
+      "question": "Tôi bị bệnh đái tháo đường và hiện đang bị đau ngực khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "bệnh động mạch vành", "đau thắt ngực", "bệnh tim do đái tháo đường"]
+    },
+    {
+      "question": "Tôi bị đau ngực, đau ở cánh tay và khó chịu ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "nhồi máu cơ tim", "đau thắt ngực không ổn định"]
+    },
+    {
+      "question": "Tôi bị đau ngực, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "nhồi máu cơ tim", "hội chứng vành cấp"]
+    },
+    {
+      "question": "Tôi bị đau ngực, tim đập nhanh và đổ mồ hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "nhồi máu cơ tim", "hội chứng vành cấp", "rối loạn nhịp tim"]
+    },
+    {
+      "question": "Tôi bị đau ngực, chóng mặt và ngất xỉu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ vữa động mạch", "nhồi máu cơ tim", "rối loạn nhịp tim", "hẹp van động mạch chủ"]
+    },
+    {
+      "question": "Tôi bị xơ vữa động mạch và hiện đang bị dày lên, hẹp lòng mạch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh động mạch vành", "bệnh động mạch ngoại biên", "bệnh động mạch cảnh"]
+    },
+    {
+      "question": "Tôi bị xơ vữa động mạch và hiện đang bị chặn dòng chảy của máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh động mạch vành", "đau thắt ngực", "bệnh động mạch ngoại biên", "thiếu máu cục bộ"]
+    },
+    {
+      "question": "Tôi bị xơ vữa động mạch và hiện đang bị đau thắt ngực ổn định. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bệnh động mạch vành", "thiếu máu cơ tim", "hẹp động mạch vành"]
+    },
+    {
+      "question": "Tôi bị xơ vữa động mạch và hiện đang bị vỡ mảng bám. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hội chứng vành cấp", "nhồi máu cơ tim", "đột quỵ thiếu máu não"]
+    },
+    {
+      "question": "Tôi bị xơ vữa động mạch và hiện đang bị cục máu đông hình thành. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhồi máu cơ tim", "đột quỵ", "tắc mạch phổi", "huyết khối tĩnh mạch sâu"]
+    },
+    {
+      "question": "Tôi bị xơ vữa động mạch và hiện đang bị tắc nghẽn động mạch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhồi máu cơ tim", "đột quỵ", "bệnh động mạch ngoại biên", "thiếu máu cục bộ chi"]
+    },
+    {
+      "question": "Tôi bị xơ vữa động mạch và hiện đang bị nhồi máu cơ tim. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hội chứng vành cấp", "suy tim", "rối loạn nhịp tim", "sốc tim"]
+    }
+  ]
+}

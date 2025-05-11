@@ -1,0 +1,260 @@
+{
+  "disease_id": "benh-crohn",
+  "disease_name": "Bệnh Crohn",
+  "disease_alternative_names": ["Viêm ruột mạn tính từng vùng", "Regional enteritis", "Regional ileitis"],
+  "disease_definition": "Bệnh Crohn là một bệnh viêm ruột mạn tính gây ra tình trạng viêm trong đường tiêu hóa. Bệnh có thể ảnh hưởng đến bất kỳ phần nào của đường tiêu hóa, từ miệng đến hậu môn, nhưng thường tập trung ở đoạn cuối ruột non (hồi tràng) và phần đầu của ruột già (đại tràng).",
+  "symptoms": [
+    {
+      "name": "Tiêu chảy mạn tính",
+      "description": "Tiêu chảy kéo dài, thường lỏng và có thể lẫn máu hoặc chất nhầy"
+    },
+    {
+      "name": "Đau bụng và chuột rút",
+      "description": "Đau bụng thường xuất hiện ở bên phải, đặc biệt là sau khi ăn"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác kiệt sức, mệt mỏi thường xuyên do tình trạng viêm kéo dài và thiếu hụt dinh dưỡng"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt nhẹ đến cao (39-40°C) trong trường hợp nặng, đặc biệt khi có áp xe ruột"
+    },
+    {
+      "name": "Giảm cân không chủ ý",
+      "description": "Giảm cân không rõ nguyên nhân do kém hấp thu dinh dưỡng hoặc giảm cảm giác thèm ăn"
+    },
+    {
+      "name": "Loét miệng",
+      "description": "Vết loét đau trong khoang miệng do tình trạng viêm lan tới"
+    },
+    {
+      "name": "Có máu trong phân",
+      "description": "Máu lẫn trong phân do tổn thương loét niêm mạc ruột"
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Da xanh, mệt mỏi do thiếu sắt hoặc vitamin B12 vì kém hấp thu"
+    },
+    {
+      "name": "Đau vùng quanh hậu môn",
+      "description": "Đau hoặc thoát dịch gần vùng hậu môn do hình thành lỗ rò hoặc áp xe"
+    },
+    {
+      "name": "Viêm da, mắt và khớp",
+      "description": "Các biểu hiện ngoài đường ruột do phản ứng miễn dịch tự động của cơ thể"
+    }
+  ],
+  "causes": [
+    {
+      "name": "Hệ miễn dịch",
+      "description": "Phản ứng bất thường của hệ miễn dịch khiến cơ thể tấn công không chỉ vi sinh vật xâm nhập mà còn cả các tế bào trong đường tiêu hóa"
+    },
+    {
+      "name": "Di truyền",
+      "description": "Yếu tố gen có thể đóng vai trò quan trọng, khoảng 20% trường hợp có người thân trong gia đình mắc bệnh"
+    },
+    {
+      "name": "Yếu tố môi trường",
+      "description": "Môi trường sống, chế độ ăn uống không lành mạnh, hút thuốc lá có thể làm tăng nguy cơ mắc bệnh"
+    },
+    {
+      "name": "Bất thường vi khuẩn đường ruột",
+      "description": "Sự mất cân bằng vi khuẩn trong đường ruột có thể góp phần gây ra tình trạng viêm"
+    }
+  ],
+  "risk_factors": [
+    {
+      "name": "Tiền sử gia đình",
+      "description": "Nguy cơ mắc bệnh cao hơn nếu có người thân trong gia đình bị bệnh Crohn"
+    },
+    {
+      "name": "Tuổi tác",
+      "description": "Bệnh thường xuất hiện ở người trẻ, phổ biến nhất trong độ tuổi từ 20 đến 30"
+    },
+    {
+      "name": "Hút thuốc lá",
+      "description": "Hút thuốc lá làm tăng gấp đôi nguy cơ mắc bệnh và làm bệnh tiến triển nặng hơn"
+    },
+    {
+      "name": "Sử dụng thuốc",
+      "description": "Thuốc kháng sinh, thuốc tránh thai, thuốc chống viêm không steroid (NSAIDs) có thể làm tăng nguy cơ"
+    },
+    {
+      "name": "Chế độ ăn nhiều chất béo",
+      "description": "Chế độ ăn nhiều chất béo và thực phẩm chế biến sẵn có thể làm tăng nguy cơ mắc bệnh"
+    },
+    {
+      "name": "Sống ở khu vực công nghiệp",
+      "description": "Người sống ở khu vực thành thị hoặc công nghiệp có tỷ lệ mắc bệnh cao hơn"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Tắc ruột",
+      "description": "Viêm kéo dài gây sẹo, hẹp thành ruột dẫn đến tắc nghẽn, ngăn chặn dòng thức ăn đi qua"
+    },
+    {
+      "name": "Loét",
+      "description": "Viêm mạn tính gây loét ở bất kỳ vị trí nào trong đường tiêu hóa, bao gồm miệng và hậu môn"
+    },
+    {
+      "name": "Lỗ rò",
+      "description": "Đường hầm bất thường nối giữa ruột và cơ quan khác như da, bàng quang hoặc âm đạo, hoặc giữa các đoạn ruột"
+    },
+    {
+      "name": "Nứt hậu môn",
+      "description": "Vết nứt ở vùng hậu môn gây đau, ngứa hoặc chảy máu khi đi đại tiện"
+    },
+    {
+      "name": "Suy dinh dưỡng",
+      "description": "Do kém hấp thu chất dinh dưỡng, thiếu máu, thiếu vitamin và khoáng chất"
+    },
+    {
+      "name": "Ung thư đại tràng",
+      "description": "Nguy cơ mắc ung thư đại tràng tăng ở những người bị bệnh Crohn ảnh hưởng đến đại tràng"
+    },
+    {
+      "name": "Huyết khối tĩnh mạch sâu",
+      "description": "Cục máu đông có thể hình thành trong tĩnh mạch sâu ở bắp chân, đùi hoặc vùng chậu"
+    }
+  ],
+  "diagnosis": [
+    {
+      "name": "Xét nghiệm máu",
+      "description": "Kiểm tra tình trạng viêm, thiếu máu và các marker viêm như CRP và ESR"
+    },
+    {
+      "name": "Xét nghiệm phân",
+      "description": "Kiểm tra vi khuẩn, ký sinh trùng, máu trong phân và các marker viêm như calprotectin"
+    },
+    {
+      "name": "Nội soi đại tràng",
+      "description": "Cho phép bác sĩ quan sát toàn bộ đại tràng và lấy mẫu sinh thiết để xác định chẩn đoán"
+    },
+    {
+      "name": "Nội soi dạ dày - ruột non",
+      "description": "Kiểm tra dạ dày và phần đầu ruột non để tìm tổn thương"
+    },
+    {
+      "name": "Nội soi viên nang",
+      "description": "Sử dụng viên nang camera nhỏ để chụp ảnh ruột non khi bệnh nhân nuốt vào"
+    },
+    {
+      "name": "Chụp cắt lớp vi tính (CT)",
+      "description": "Tạo hình ảnh chi tiết của ruột và các cơ quan xung quanh để phát hiện viêm, áp xe hoặc lỗ rò"
+    },
+    {
+      "name": "Chụp cộng hưởng từ (MRI)",
+      "description": "Đặc biệt hữu ích để đánh giá lỗ rò quanh hậu môn và tình trạng ruột non"
+    },
+    {
+      "name": "Chụp X-quang có cản quang",
+      "description": "Giúp đánh giá tình trạng ruột non, ruột già và phát hiện các biến chứng như tắc ruột"
+    }
+  ],
+  "treatments": [
+    {
+      "name": "Thuốc chống viêm",
+      "description": "Giảm viêm trong đường tiêu hóa, bao gồm corticosteroid và aminosalicylates"
+    },
+    {
+      "name": "Thuốc ức chế miễn dịch",
+      "description": "Ức chế phản ứng miễn dịch bất thường gây viêm, như azathioprine, mercaptopurine, methotrexate"
+    },
+    {
+      "name": "Thuốc sinh học",
+      "description": "Nhắm vào các protein cụ thể trong hệ miễn dịch, như adalimumab, infliximab, vedolizumab"
+    },
+    {
+      "name": "Thuốc kháng sinh",
+      "description": "Giúp làm giảm dịch tiết, điều trị nhiễm trùng và chữa lành lỗ rò hoặc áp xe"
+    },
+    {
+      "name": "Thuốc giảm đau",
+      "description": "Kiểm soát cơn đau, tuy nhiên cần tránh NSAID vì có thể làm nặng thêm tình trạng bệnh"
+    },
+    {
+      "name": "Bổ sung dinh dưỡng",
+      "description": "Bổ sung vitamin, khoáng chất, đặc biệt là sắt, vitamin B12, vitamin D và canxi"
+    },
+    {
+      "name": "Phẫu thuật",
+      "description": "Cắt bỏ phần ruột bị tổn thương, điều trị lỗ rò, áp xe hoặc tắc ruột khi không đáp ứng với thuốc"
+    },
+    {
+      "name": "Liệu pháp dinh dưỡng",
+      "description": "Nghỉ ngơi đường ruột bằng cách điều chỉnh chế độ ăn hoặc nuôi dưỡng qua đường tĩnh mạch"
+    }
+  ],
+  "prevention": [
+    {
+      "name": "Bỏ hút thuốc",
+      "description": "Hút thuốc làm tăng nguy cơ mắc bệnh và làm bệnh trầm trọng hơn, ngưng hút thuốc có thể giúp cải thiện"
+    },
+    {
+      "name": "Chế độ ăn uống",
+      "description": "Tránh các thực phẩm có thể gây kích ứng như đồ cay, rượu, caffeine, thực phẩm nhiều chất béo"
+    },
+    {
+      "name": "Ăn nhiều bữa nhỏ",
+      "description": "Giúp giảm áp lực lên hệ tiêu hóa và hấp thu dinh dưỡng tốt hơn"
+    },
+    {
+      "name": "Uống nhiều nước",
+      "description": "Giữ cơ thể đủ nước, tránh đồ uống có gas và chứa caffeine"
+    },
+    {
+      "name": "Quản lý stress",
+      "description": "Thực hành các kỹ thuật thư giãn, tập thể dục, thiền hoặc yoga để giảm căng thẳng"
+    },
+    {
+      "name": "Khám định kỳ",
+      "description": "Theo dõi sức khỏe thường xuyên để phát hiện và điều trị sớm các triệu chứng"
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Bệnh Crohn có lây không?",
+      "answer": "Không, bệnh Crohn không lây truyền từ người sang người, dù với bất kỳ con đường lây nhiễm nào, kể cả qua đường tình dục."
+    },
+    {
+      "question": "Bệnh Crohn có thể chữa khỏi hoàn toàn không?",
+      "answer": "Hiện tại chưa có phương pháp chữa khỏi hoàn toàn bệnh Crohn. Tuy nhiên, với điều trị phù hợp, người bệnh có thể kiểm soát các triệu chứng, đạt được thuyên giảm và duy trì chất lượng cuộc sống tốt."
+    },
+    {
+      "question": "Người bệnh Crohn cần lưu ý gì trong chế độ ăn uống?",
+      "answer": "Người bệnh nên tránh thực phẩm gây kích ứng như đồ cay, rượu, caffeine, đồ uống có gas. Nên ăn chế độ ít chất béo, ít lactose, ít chất xơ khi bệnh đang hoạt động. Chia nhỏ bữa ăn và uống nhiều nước."
+    },
+    {
+      "question": "Bệnh Crohn có ảnh hưởng đến thai kỳ không?",
+      "answer": "Phụ nữ mắc bệnh Crohn vẫn có thể mang thai, nhưng nên tham khảo ý kiến bác sĩ trước khi mang thai. Kiểm soát tốt bệnh trước và trong thai kỳ giúp giảm nguy cơ biến chứng cho mẹ và thai nhi."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ nếu nghi ngờ mắc bệnh Crohn?",
+      "answer": "Nên đi khám khi có các triệu chứng như đau bụng kéo dài, tiêu chảy mãn tính, có máu trong phân, sốt không rõ nguyên nhân, giảm cân không chủ ý, mệt mỏi kéo dài."
+    }
+  ],
+  "common_questions_in_reality": [
+    {
+      "question": "Bệnh Crohn có nguy hiểm không?",
+      "answer": "Bệnh Crohn là bệnh mạn tính nghiêm trọng. Nếu không được điều trị đúng cách, bệnh có thể gây ra các biến chứng nguy hiểm như tắc ruột, lỗ rò, áp xe, suy dinh dưỡng và tăng nguy cơ ung thư đại tràng. Tuy nhiên, với điều trị phù hợp, hầu hết người bệnh có thể kiểm soát tốt triệu chứng và sống khỏe mạnh."
+    },
+    {
+      "question": "Làm thế nào để phân biệt bệnh Crohn với các bệnh đường ruột khác?",
+      "answer": "Bệnh Crohn khác với viêm loét đại tràng ở chỗ nó có thể ảnh hưởng đến bất kỳ phần nào của đường tiêu hóa, tổn thương không liên tục (có vùng lành xen kẽ), viêm xuyên thành và ít khi có máu trong phân. Chẩn đoán chính xác cần dựa vào nội soi, sinh thiết và các xét nghiệm hình ảnh."
+    },
+    {
+      "question": "Bệnh Crohn có di truyền không?",
+      "answer": "Bệnh Crohn có yếu tố di truyền. Người có người thân bậc một (cha mẹ, anh chị em ruột, con cái) mắc bệnh Crohn có nguy cơ cao hơn mắc bệnh. Khoảng 20% người bệnh Crohn có người thân trong gia đình cũng mắc bệnh này."
+    },
+    {
+      "question": "Trẻ em có thể mắc bệnh Crohn không?",
+      "answer": "Có, trẻ em cũng có thể mắc bệnh Crohn. Khi mắc bệnh ở trẻ em, bệnh có thể ảnh hưởng đến sự tăng trưởng và phát triển, gây chậm phát triển thể chất và dậy thì muộn. Điều trị sớm và phù hợp rất quan trọng để giảm thiểu tác động đến sự phát triển của trẻ."
+    },
+    {
+      "question": "Bệnh Crohn có thể dẫn đến ung thư không?",
+      "answer": "Người mắc bệnh Crohn, đặc biệt những người có bệnh ảnh hưởng đến đại tràng và mắc bệnh trong thời gian dài, có nguy cơ cao hơn phát triển ung thư đại tràng. Vì vậy, họ thường được khuyến nghị tầm soát ung thư đại tràng thường xuyên hơn so với người bình thường."
+    }
+  ]
+}

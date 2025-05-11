@@ -1,0 +1,113 @@
+{
+  "disease_id": "benh-than-kinh-ngoai-bien",
+  "disease_name": "Bệnh thần kinh ngoại biên",
+  "disease_alternative_names": [],
+  "disease_definition": "Bệnh thần kinh ngoại biên là thuật ngữ chung cho các bệnh do tổn thương hệ thống thần kinh ngoại vi, gây yếu, tê, đau ở ngoại vi như bàn tay, bàn chân và có thể ảnh hưởng đến các cơ quan nội tạng.",
+  "symptoms": [
+    {"name": "Cảm giác đeo găng tay hoặc mang vớ", "description": "Cảm giác tê bì, như đeo găng tay hoặc mang vớ ở tay chân."},
+    {"name": "Bỏng rát hoặc đau buốt", "description": "Cảm giác bỏng rát hoặc đau buốt ở các chi."},
+    {"name": "Nhức nhối hoặc đau như điện giật", "description": "Nhức nhối hoặc đau như điện giật khi bị kích thích vùng da."},
+    {"name": "Khó ngủ", "description": "Khó ngủ vì mỏi chân và đau chân."},
+    {"name": "Mất thăng bằng", "description": "Mất thăng bằng và phối hợp động tác."},
+    {"name": "Yếu cơ", "description": "Yếu cơ, co cứng hoặc co giật cơ."},
+    {"name": "Khó khăn khi đi bộ hoặc cử động cánh tay", "description": "Khó khăn khi đi bộ hoặc cử động cánh tay."},
+    {"name": "Đổ mồ hôi bất thường", "description": "Đổ mồ hôi bất thường, bất thường về huyết áp hoặc mạch nhanh chậm."},
+    {"name": "Da khô, xanh nhạt", "description": "Da khô, xanh nhạt."}
+  ],
+  "causes": {
+    "main_cause": "Tổn thương thần kinh do các bệnh tự miễn, tiểu đường, nhiễm trùng, rối loạn di truyền, khối u, rối loạn tủy xương, nghiện rượu, tiếp xúc chất độc, dùng thuốc, chấn thương, thiếu hụt vitamin hoặc nguyên nhân vô căn.",
+    "related_factors": "Các yếu tố nguy cơ như bệnh tiểu đường, bệnh tự miễn, nhiễm trùng, di truyền, tiếp xúc hóa chất độc hại, thiếu vitamin B, nghiện rượu, chấn thương, dùng thuốc điều trị ung thư hoặc HIV/AIDS.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Bệnh tiểu đường",
+    "Bệnh tự miễn",
+    "Nhiễm trùng",
+    "Di truyền",
+    "Tiếp xúc hóa chất độc hại",
+    "Thiếu vitamin B",
+    "Nghiện rượu",
+    "Chấn thương",
+    "Dùng thuốc điều trị ung thư hoặc HIV/AIDS"
+  ],
+  "complications": [
+    "Bỏng và vết thương ngoài da do mất cảm giác",
+    "Nhiễm trùng ở các vùng thiếu cảm giác",
+    "Té ngã do mất thăng bằng và yếu cơ"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng thần kinh",
+      "Đo điện thần kinh – cơ",
+      "Xét nghiệm máu",
+      "Sinh thiết dây thần kinh",
+      "Chọc dò tủy sống",
+      "Chụp cộng hưởng từ (MRI)"
+    ],
+    "tests": [
+      {"name": "Điện cơ (EMG)", "description": "Đo lượng điện di chuyển qua cơ để xác định tổn thương thần kinh."},
+      {"name": "Xét nghiệm máu", "description": "Đánh giá vitamin, đường huyết, chức năng tuyến giáp, gan, thận, các kháng thể, HIV/AIDS, viêm gan B và C, gene di truyền."},
+      {"name": "Sinh thiết dây thần kinh", "description": "Lấy mẫu mô thần kinh để soi dưới kính hiển vi."},
+      {"name": "Chụp MRI", "description": "Kiểm tra có vật gì đè lên dây thần kinh như đĩa đệm thoát vị hoặc khối u."}
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị dựa trên nguyên nhân nền, kết hợp giảm triệu chứng và phục hồi chức năng.",
+    "methods": [
+      {"name": "Kiểm soát nguyên nhân nền", "description": "Kiểm soát tốt đường huyết, bổ sung vitamin nếu thiếu, điều trị bệnh tự miễn, loại bỏ chất độc, ngưng rượu."},
+      {"name": "Thuốc giảm đau", "description": "Dùng acetaminophen, NSAIDs, thuốc chống động kinh, thuốc chống trầm cảm, thuốc tiêm corticosteroid."},
+      {"name": "Liệu pháp thay thế huyết tương", "description": "Loại bỏ kháng thể gây kích ứng khỏi máu."},
+      {"name": "Kích thích thần kinh điện tử xuyên da (TENS)", "description": "Truyền điện nhẹ qua da để làm gián đoạn tín hiệu đau."},
+      {"name": "Bó bột hoặc nẹp", "description": "Giúp cải thiện triệu chứng ở chân và tay."},
+      {"name": "Phẫu thuật", "description": "Giải ép, nối, ghép hoặc chuyển đổi dây thần kinh."},
+      {"name": "Các phương pháp hỗ trợ", "description": "Chăm sóc thần kinh cột sống, châm cứu, mát xa, thiền, yoga, tập thể dục nhẹ nhàng."}
+    ],
+    "recommendations": [
+      "Bỏ rượu và thuốc lá",
+      "Giữ an toàn khi sinh hoạt để tránh té ngã hoặc bỏng do mất cảm giác",
+      "Không đi chân đất, kiểm tra nhiệt độ nước bằng khuỷu tay",
+      "Lắp tay vịn, sử dụng thảm chống trơn trượt",
+      "Đứng dậy và đi lại thường xuyên"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng bệnh thần kinh ngoại biên.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Kiểm soát tốt các bệnh nền như tiểu đường, tự miễn",
+      "Ăn uống lành mạnh, bổ sung vitamin B",
+      "Tập thể dục đều đặn",
+      "Tránh tiếp xúc hóa chất độc hại, bỏ rượu và thuốc lá"
+    ]
+  },
+  "faqs": [
+    {"question": "Trì hoãn điều trị bệnh dây thần kinh ngoại biên có sao không?", "answer": "Bệnh có thể tiến triển nặng, gây teo cơ, yếu liệt chi không phục hồi, giảm hay mất cảm giác vùng da chi phối. Khi 85% dây thần kinh đã bị tổn thương thì rất khó điều trị hiệu quả."},
+    {"question": "Tại sao các triệu chứng đau xuất hiện trong một thời gian rồi tự biến mất?", "answer": "Một số bệnh thần kinh cấp tính có triệu chứng đột ngột xuất hiện rồi biến mất, nhưng có thể tái phát nặng hơn về sau."},
+    {"question": "Làm cách nào để kiểm soát cảm giác bỏng rát ở bàn chân và cẳng chân?", "answer": "Có thể dùng kem bôi ngoài da hoặc miếng dán Lidocaine, điều trị đúng cách và quản lý tốt các yếu tố nguy cơ."}
+  ],
+  "common_questions": [
+    {"question": "Tôi hiện đang có các triệu chứng như cảm giác đeo 'găng tay' hoặc 'mang vớ' ở tay chân. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi đang cảm thấy bỏng rát hoặc đau buốt ở bàn chân, đặc biệt là về đêm. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi hay bị nhức nhối hoặc đau như điện giật khi vô tình chạm vào da. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi khó ngủ vì mỏi chân và đau chân dai dẳng. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi cảm thấy mất thăng bằng và phối hợp động tác kém, hay bị vấp ngã. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi thấy cơ bắp tay chân yếu đi, khó thực hiện các hoạt động hàng ngày. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi đang gặp tình trạng co cứng cơ, đặc biệt là ở bắp chân. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi khó khăn khi đi bộ, thường xuyên vấp ngã. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi gặp khó khăn khi cử động cánh tay, cảm giác yếu và tê bì. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi đổ mồ hôi bất thường, ngay cả khi thời tiết không nóng. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Huyết áp của tôi thường xuyên thay đổi thất thường, lúc cao lúc thấp. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Mạch của tôi đập nhanh chậm bất thường, hay cảm thấy hồi hộp. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Da của tôi khô và có màu xanh nhạt, đặc biệt là ở bàn tay và bàn chân. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi không thể cầm nắm vật gì được do tay yếu, cảm giác như không còn sức lực. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Bàn chân tôi luôn bì bì, không còn cảm nhận rõ ràng khi tiếp xúc với mặt đất. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi thường xuyên mang dép rớt mà không hay biết. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi hay bị đau như bị dao đâm ở bàn chân, cơn đau đến đột ngột và dữ dội. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi cảm thấy bàn tay bỏng rát như bị lửa đốt, đặc biệt là vào ban đêm. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi bị chuột rút cơ bắp chân thường xuyên, gây khó khăn khi đi lại. Tôi có thể đang bị bệnh gì?", "related_diseases": []},
+    {"question": "Tôi cảm thấy cơ thể mất dần cảm giác, đặc biệt là ở tay chân. Tôi có thể đang bị bệnh gì?", "related_diseases": []}
+  ]
+}

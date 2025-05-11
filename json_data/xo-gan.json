@@ -1,0 +1,339 @@
+{
+  "disease_id": "xo-gan",
+  "disease_name": "Xơ gan",
+  "disease_alternative_names": ["Cirrhosis", "Xơ gan mất bù", "Xơ gan còn bù"],
+  "disease_definition": "Xơ gan là giai đoạn muộn của quá trình xơ hóa (tạo sẹo) ở gan do nhiều tác nhân khác nhau gây ra. Khi gan bị tổn thương trong thời gian dài, các tế bào gan chết đi và mô sẹo được hình thành. Khi toàn bộ gan bị xơ hóa, gan co lại và cứng lại, được gọi là xơ gan, và thường thì tổn thương này không thể phục hồi. Gan là một cơ quan độc đáo với khả năng tái tạo (tạo mô khỏe mạnh mới), nhưng sau khi hình thành quá nhiều mô sẹo, nó sẽ mất khả năng này.",
+  "symptoms": [
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác thiếu năng lượng, mệt mỏi thường xuyên là triệu chứng phổ biến của xơ gan."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Người bệnh thường cảm thấy không muốn ăn, dẫn đến giảm lượng thức ăn nạp vào cơ thể."
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân không chủ ý, thường đi kèm với chán ăn và suy giảm khối lượng cơ."
+    },
+    {
+      "name": "Vàng da, vàng mắt",
+      "description": "Xuất hiện màu vàng ở da và phần trắng của mắt (vàng da) do gan không thể loại bỏ bilirubin khỏi máu."
+    },
+    {
+      "name": "Ngứa da",
+      "description": "Cảm giác ngứa ngáy trên da do tích tụ độc tố trong máu khi gan không thể lọc chúng."
+    },
+    {
+      "name": "Dễ bị bầm tím và chảy máu",
+      "description": "Gan bị tổn thương không sản xuất đủ protein đông máu, dẫn đến dễ bị bầm tím và chảy máu khi va chạm nhẹ."
+    },
+    {
+      "name": "Lòng bàn tay đỏ rực",
+      "description": "Lòng bàn tay có màu đỏ bất thường, một dấu hiệu của xơ gan tiến triển."
+    },
+    {
+      "name": "Sao mạch trên da",
+      "description": "Xuất hiện các nốt giãn mạch màu đỏ trên da, giống như hình dạng của một con nhện."
+    },
+    {
+      "name": "Sưng (phù) ở chân, bàn chân và mắt cá chân",
+      "description": "Do giữ nước và muối, thường xảy ra khi xơ gan tiến triển."
+    },
+    {
+      "name": "Cổ trướng (báng bụng)",
+      "description": "Tích tụ dịch trong ổ bụng, làm bụng phình to như quả bóng chứa nước, gây khó thở và khó ăn."
+    },
+    {
+      "name": "Nước tiểu sẫm màu",
+      "description": "Nước tiểu có màu sẫm, thường do bilirubin cao trong máu."
+    },
+    {
+      "name": "Phân nhạt màu",
+      "description": "Phân có màu nhạt bất thường do thiếu mật."
+    },
+    {
+      "name": "Lú lẫn, giảm trí nhớ",
+      "description": "Thay đổi ý thức, lú lẫn, hoặc buồn ngủ (bệnh não gan) do tích tụ độc tố trong máu đến não."
+    },
+    {
+      "name": "Giảm ham muốn tình dục",
+      "description": "Ở phụ nữ có thể biểu hiện qua mãn kinh sớm; ở nam giới có thể có tuyến vú phát triển và tinh hoàn teo lại."
+    }
+  ],
+  "causes": {
+    "main_cause": "Xơ gan có thể do bất kỳ bệnh gan nào ảnh hưởng đến gan trong thời gian dài. Khi các tế bào gan bị tổn thương liên tục, sẹo hình thành và gan dần mất chức năng.",
+    "related_factors": "Các nguyên nhân phổ biến nhất của xơ gan là lạm dụng rượu kéo dài và viêm gan virus (B và C). Tuy nhiên, cũng có nhiều nguyên nhân khác như bệnh gan nhiễm mỡ không do rượu, các rối loạn di truyền, và bệnh gan tự miễn.",
+    "transmission_routes": [
+      "Viêm gan virus: Viêm gan B và C mãn tính có thể tiến triển thành xơ gan và ung thư gan. Đây là nguyên nhân hàng đầu gây xơ gan tại Việt Nam.",
+      "Lạm dụng rượu: Rượu gây tổn hại các tế bào gan dần dần. Ban đầu, rượu có thể gây ra gan nhiễm mỡ, sau đó là viêm gan mạn tính và cuối cùng là xơ gan.",
+      "Viêm gan nhiễm mỡ không do rượu: Liên quan đến thừa cân, béo phì, gan thấm mỡ và tiểu đường type 2.",
+      "Viêm gan tự miễn: Hệ thống miễn dịch của cơ thể tấn công các mô gan khỏe mạnh, khiến gan bị tổn thương.",
+      "Lạm dụng thuốc: Bao gồm cả thuốc kê đơn và thuốc không kê đơn (acetaminophen, thuốc kháng sinh và một số loại thuốc chống trầm cảm) có thể dẫn đến xơ gan.",
+      "Xơ gan do ký sinh trùng: Amíp, ký sinh trùng sốt rét và sán lá gan có thể gây tổn thương tế bào gan và dẫn đến xơ gan.",
+      "Bệnh di truyền: Bệnh Wilson, thiếu alpha-1 antitrypsin, hemochromatosis, hội chứng Alagille, các bệnh về dự trữ glycogen có thể gây xơ gan.",
+      "Bệnh đường mật: Viêm đường mật, tắc ống mật, ung thư đường mật có thể gây tổn thương hoặc tắc nghẽn ống dẫn mật trong gan.",
+      "Ứ đọng máu kéo dài: Bệnh suy tim, viêm tắc tĩnh mạch trên gan."
+    ]
+  },
+  "risk_factors": [
+    "Nghiện rượu",
+    "Bị viêm gan siêu vi (viêm gan B hoặc C)",
+    "Mắc bệnh tiểu đường",
+    "Thừa cân, béo phì",
+    "Tiêm chích ma túy, sử dụng chung bơm kim tiêm",
+    "Có tiền sử mắc các bệnh về gan",
+    "Quan hệ tình dục không an toàn",
+    "Tuổi cao",
+    "Tiếp xúc với độc tố môi trường",
+    "Ăn uống không lành mạnh, nhiều chất béo",
+    "Lạm dụng thuốc, đặc biệt là acetaminophen (paracetamol)",
+    "Bệnh tự miễn"
+  ],
+  "complications": [
+    "Tăng áp tĩnh mạch cửa: Làm tăng huyết áp ở tĩnh mạch cửa, có thể dẫn đến xuất huyết tiêu hóa và tử vong.",
+    "Cổ trướng (phù nề): Tích tụ chất lỏng ở bụng và chân, có thể gây khó thở và khó ăn.",
+    "Nhiễm trùng: Người bệnh xơ gan thường dễ bị nhiễm trùng, đặc biệt là viêm phúc mạc do vi khuẩn.",
+    "Hội chứng gan-thận: Suy thận chức năng do xơ gan nặng, có thể dẫn đến tử vong nếu không được điều trị kịp thời.",
+    "Hội chứng gan-phổi: Sự kết hợp của bệnh gan, giãn mạch máu trong phổi và bất thường trong trao đổi khí, gây khó thở và thiếu oxy.",
+    "Vấn đề xương khớp: Yếu xương và tăng nguy cơ gãy xương.",
+    "Ung thư gan: Xơ gan làm tăng đáng kể nguy cơ phát triển ung thư gan.",
+    "Giãn tĩnh mạch thực quản: Các tĩnh mạch ở thực quản và dạ dày giãn ra, có thể vỡ gây xuất huyết nặng.",
+    "Bệnh não gan: Rối loạn chức năng não do gan không lọc được các chất độc, dẫn đến lú lẫn, thay đổi hành vi và có thể hôn mê.",
+    "Rối loạn đông máu: Tăng nguy cơ chảy máu và bầm tím do gan không sản xuất đủ các yếu tố đông máu.",
+    "Suy gan: Gan mất khả năng hoạt động, dẫn đến suy đa cơ quan và tử vong."
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám thể chất: Tìm các dấu hiệu và triệu chứng của xơ gan như vàng da, mạch máu nhện trên da, lòng bàn tay đỏ.",
+      "Hỏi tiền sử bệnh: Tìm hiểu về tiền sử lạm dụng rượu, các loại thuốc đang sử dụng, và tiền sử viêm gan virus.",
+      "Xét nghiệm máu: Kiểm tra chức năng gan, protein, bilirubin và các yếu tố đông máu.",
+      "Xét nghiệm hình ảnh: Siêu âm, CT scan hoặc MRI để đánh giá kích thước, hình dạng và tình trạng xơ của gan.",
+      "Sinh thiết gan: Lấy một mẫu nhỏ mô gan để kiểm tra dưới kính hiển vi, xác định mức độ xơ hóa và nguyên nhân gây bệnh."
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm chức năng gan",
+        "description": "Kiểm tra các enzym gan như ALT, AST, ALP và GGT để đánh giá tình trạng viêm và tổn thương gan."
+      },
+      {
+        "name": "Bilirubin",
+        "description": "Mức độ bilirubin tăng cao trong máu là dấu hiệu gan không hoạt động bình thường, gây ra tình trạng vàng da."
+      },
+      {
+        "name": "Albumin và thời gian prothrombin (PT)",
+        "description": "Nồng độ albumin và các yếu tố đông máu thấp hơn bình thường cho thấy gan không sản xuất đủ các protein quan trọng."
+      },
+      {
+        "name": "Natri và điện giải",
+        "description": "Mức natri thấp hơn có thể là dấu hiệu của xơ gan giai đoạn cuối."
+      },
+      {
+        "name": "Công thức máu",
+        "description": "Số lượng tiểu cầu thấp (giảm tiểu cầu) có thể là dấu hiệu sớm nhất của xơ gan."
+      },
+      {
+        "name": "Alpha-fetoprotein (AFP)",
+        "description": "Mức AFP tăng cao có thể chỉ ra sự hiện diện của ung thư gan phát triển trên nền xơ gan."
+      },
+      {
+        "name": "Siêu âm gan",
+        "description": "Cho thấy kích thước, hình dạng và kết cấu của gan, giúp phát hiện sẹo gan, chất béo trong gan và dịch ổ bụng."
+      },
+      {
+        "name": "Siêu âm đàn hồi gan (FibroScan)",
+        "description": "Đo lường độ cứng của gan để đánh giá mức độ xơ hóa mà không cần sinh thiết."
+      },
+      {
+        "name": "CT scan và MRI",
+        "description": "Cung cấp hình ảnh chi tiết hơn về gan, giúp phát hiện ung thư gan và các biến chứng khác."
+      },
+      {
+        "name": "Nội soi đường tiêu hóa trên",
+        "description": "Kiểm tra tình trạng giãn tĩnh mạch ở thực quản và dạ dày (giãn tĩnh mạch thực quản)."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị xơ gan chủ yếu tập trung vào việc ngăn chặn tiến triển của bệnh, kiểm soát các biến chứng và cải thiện chất lượng sống. Nếu xơ gan ở giai đoạn nặng, ghép gan có thể là giải pháp cuối cùng.",
+    "methods": [
+      {
+        "name": "Điều trị nguyên nhân cơ bản",
+        "description": "Xác định và điều trị nguyên nhân gây xơ gan. Điều này có thể bao gồm cai rượu, điều trị viêm gan virus B và C, kiểm soát bệnh gan nhiễm mỡ thông qua giảm cân, hoặc sử dụng thuốc cho các bệnh tự miễn."
+      },
+      {
+        "name": "Kiểm soát các biến chứng",
+        "description": "Dựa trên các biến chứng cụ thể, các phương pháp điều trị khác nhau sẽ được áp dụng. Ví dụ, sử dụng thuốc lợi tiểu và chế độ ăn ít muối để kiểm soát cổ trướng, sử dụng thuốc beta-blocker để giảm nguy cơ xuất huyết tiêu hóa do giãn tĩnh mạch thực quản."
+      },
+      {
+        "name": "Quản lý bệnh não gan",
+        "description": "Sử dụng thuốc như lactulose và rifaximin để giảm lượng amoniac trong máu, ngăn ngừa và điều trị bệnh não gan."
+      },
+      {
+        "name": "Phòng ngừa và điều trị nhiễm trùng",
+        "description": "Tiêm vắc-xin phòng ngừa, sử dụng kháng sinh khi cần thiết và theo dõi chặt chẽ để phát hiện sớm dấu hiệu nhiễm trùng."
+      },
+      {
+        "name": "Ghép gan",
+        "description": "Khi gan đã bị tổn thương không thể phục hồi và các biến chứng ngày càng nghiêm trọng, ghép gan có thể là lựa chọn điều trị duy nhất để cứu sống người bệnh. Ghép gan bao gồm việc thay thế gan bị bệnh bằng gan khỏe mạnh từ người hiến tặng."
+      },
+      {
+        "name": "Điều trị tăng áp tĩnh mạch cửa",
+        "description": "Sử dụng thuốc hạ huyết áp như carvedilol, propranolol để giảm áp lực tĩnh mạch cửa, hoặc thực hiện thủ thuật TIPS (cầu nối tĩnh mạch cửa-gan qua đường mạch) để giảm áp lực và ngăn xuất huyết."
+      },
+      {
+        "name": "Điều trị cổ trướng",
+        "description": "Bao gồm hạn chế muối, sử dụng thuốc lợi tiểu như spironolactone và furosemide, chọc tháo dịch ổ bụng khi cần thiết."
+      },
+      {
+        "name": "Điều trị giãn tĩnh mạch thực quản",
+        "description": "Nội soi thắt tĩnh mạch thực quản hoặc tiêm xơ tĩnh mạch để ngăn ngừa xuất huyết."
+      }
+    ],
+    "recommendations": [
+      "Tuyệt đối kiêng rượu bia và đồ uống có cồn",
+      "Ăn chế độ ăn cân bằng, ít muối (natri), đủ protein phù hợp",
+      "Hạn chế chất béo và thực phẩm chế biến sẵn",
+      "Duy trì cân nặng hợp lý",
+      "Uống đủ nước",
+      "Tập thể dục nhẹ nhàng theo hướng dẫn của bác sĩ",
+      "Không tự ý sử dụng thuốc, đặc biệt là thuốc giảm đau không kê đơn",
+      "Khám sức khỏe định kỳ",
+      "Tiêm phòng viêm gan A, B, cúm và viêm phổi",
+      "Tránh tiếp xúc với các chất độc có thể gây hại cho gan",
+      "Tuân thủ lịch uống thuốc của bác sĩ",
+      "Kiểm soát các bệnh đi kèm như tiểu đường, huyết áp cao"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc-xin đặc hiệu cho xơ gan, nhưng vắc-xin viêm gan A và B có thể ngăn ngừa nguyên nhân phổ biến gây xơ gan.",
+      "recommended_for": [
+        "Những người chưa mắc viêm gan B",
+        "Người có nguy cơ cao mắc viêm gan B (nhân viên y tế, người sống cùng với người bị viêm gan B)",
+        "Người bị các bệnh gan mạn tính khác",
+        "Những người có hành vi nguy cơ cao"
+      ]
+    },
+    "general_recommendations": [
+      "Hạn chế sử dụng rượu: Kiểm soát lượng rượu tiêu thụ và tần suất sử dụng rượu bia. Người đã mắc bệnh về gan cần kiêng hoàn toàn rượu bia.",
+      "Có chế độ ăn uống cân bằng, bổ sung rau, củ, trái cây, thực phẩm giàu protein và ngũ cốc nguyên hạt.",
+      "Hạn chế chất béo và muối trong chế độ ăn uống.",
+      "Ăn chín, uống sôi, không ăn sống các loại hải sản có vỏ để tránh nhiễm ký sinh trùng gây bệnh gan.",
+      "Duy trì cân nặng hợp lý, tránh thừa cân béo phì.",
+      "Tập thể dục đều đặn, tối thiểu 30 phút mỗi ngày, 5 lần/tuần.",
+      "Kiểm tra sức khỏe định kỳ để phát hiện sớm các vấn đề về gan.",
+      "Bỏ hút thuốc lá.",
+      "Tránh các hành vi nguy cơ lây nhiễm viêm gan B, C như tiêm chích ma túy, quan hệ tình dục không an toàn.",
+      "Tiêm vắc-xin phòng bệnh viêm gan A và B, cúm, viêm phổi.",
+      "Sử dụng thuốc theo chỉ dẫn của bác sĩ. Không lạm dụng thuốc hoặc sử dụng sai liều.",
+      "Tránh tiếp xúc với hóa chất độc hại có thể ảnh hưởng đến gan.",
+      "Quản lý tốt các bệnh mạn tính như tiểu đường, huyết áp cao, rối loạn lipid máu."
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Xơ gan có phục hồi được không?",
+      "answer": "Khả năng phục hồi của xơ gan phụ thuộc vào giai đoạn bệnh. Nếu được phát hiện ở giai đoạn sớm, tình trạng xơ hóa gan có thể phục hồi bằng phương pháp điều trị đúng cách, loại bỏ nguyên nhân gây bệnh. Tuy nhiên, nếu bệnh được phát hiện ở giai đoạn muộn, xơ gan hầu như không thể phục hồi hoàn toàn. Trong trường hợp này, mục tiêu điều trị sẽ là làm chậm tiến triển của bệnh, kiểm soát các biến chứng và cải thiện chất lượng sống."
+    },
+    {
+      "question": "Người bị bệnh xơ gan sống được bao lâu?",
+      "answer": "Tuổi thọ của người bệnh xơ gan phụ thuộc vào nhiều yếu tố khác nhau, bao gồm nguyên nhân và mức độ nghiêm trọng của xơ gan, khả năng đáp ứng với các phương pháp điều trị, độ tuổi của người bệnh và các vấn đề sức khỏe khác. Người bệnh xơ gan ở giai đoạn còn bù (chưa có biến chứng) có thể sống nhiều năm nếu được điều trị đúng cách. Khi bệnh chuyển sang giai đoạn mất bù (có biến chứng), tiên lượng sống còn kém hơn. Để biết thông tin cụ thể về tiên lượng, người bệnh nên tham khảo ý kiến bác sĩ điều trị."
+    },
+    {
+      "question": "Xơ gan có phải là ung thư gan không?",
+      "answer": "Xơ gan không phải là ung thư gan, nhưng là một yếu tố nguy cơ quan trọng dẫn đến ung thư gan. Xơ gan là tình trạng gan bị xơ hóa, các tế bào gan khỏe mạnh bị thay thế bằng mô sẹo, làm giảm chức năng gan. Người bị xơ gan có nguy cơ cao phát triển ung thư gan, đặc biệt nếu nguyên nhân gây xơ gan là viêm gan virus B, C, rượu, hoặc bệnh gan nhiễm mỡ. Vì vậy, người bệnh xơ gan cần được tầm soát ung thư gan định kỳ 6 tháng một lần."
+    },
+    {
+      "question": "Người bị xơ gan nên ăn gì và kiêng gì?",
+      "answer": "Người bị xơ gan nên ăn chế độ cân bằng, đủ dinh dưỡng. Nên ăn: Thực phẩm giàu protein (thịt nạc, cá, trứng, đậu), rau xanh, trái cây tươi, ngũ cốc nguyên hạt. Nên kiêng: Rượu bia và đồ uống có cồn, thực phẩm nhiều muối (đặc biệt khi có cổ trướng), thực phẩm chế biến sẵn, thức ăn nhanh, thực phẩm có nhiều chất béo bão hòa. Lượng protein có thể cần điều chỉnh tùy theo tình trạng bệnh - một số người bị xơ gan nặng có thể cần hạn chế protein nếu có bệnh não gan."
+    },
+    {
+      "question": "Khi nào người bệnh xơ gan cần đến bệnh viện cấp cứu?",
+      "answer": "Người bệnh xơ gan cần đến bệnh viện cấp cứu ngay khi có các dấu hiệu sau: Nôn ra máu hoặc phân đen như hắc ín (dấu hiệu xuất huyết tiêu hóa), lú lẫn hoặc buồn ngủ bất thường (dấu hiệu bệnh não gan), sốt cao và run rẩy (dấu hiệu nhiễm trùng), vàng da tiến triển nhanh, đau bụng dữ dội, khó thở nghiêm trọng. Các tình trạng này có thể đe dọa tính mạng và cần được điều trị khẩn cấp."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như vàng da, vàng mắt và ngứa da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan", "viêm gan", "tắc mật", "ung thư gan", "sỏi mật"]
+    },
+    {
+      "question": "Tôi đang cảm thấy dễ bị bầm tím và chảy máu, lòng bàn tay đỏ rực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan", "rối loạn đông máu", "giảm tiểu cầu", "bệnh máu", "tăng áp tĩnh mạch cửa"]
+    },
+    {
+      "question": "Tôi hay bị sưng ở cẳng chân, bàn chân và mắt cá chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan", "suy tim", "bệnh thận", "huyết khối tĩnh mạch sâu", "suy dinh dưỡng"]
+    },
+    {
+      "question": "Tôi bị viêm gan virus và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan", "viêm gan cấp", "viêm gan mạn tính", "suy gan cấp", "ung thư gan"]
+    },
+    {
+      "question": "Tôi lạm dụng rượu kéo dài và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan do rượu", "viêm gan do rượu", "suy gan", "gan nhiễm mỡ do rượu"]
+    },
+    {
+      "question": "Tôi bị viêm gan nhiễm mỡ không do rượu và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan", "viêm gan mỡ không do rượu", "ung thư gan", "xơ gan còn bù"]
+    },
+    {
+      "question": "Tôi bị viêm gan tự miễn và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan", "đợt cấp của viêm gan tự miễn", "tắc mật", "ung thư gan"]
+    },
+    {
+      "question": "Tôi lạm dụng thuốc và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan do thuốc", "viêm gan do thuốc", "suy gan cấp", "tổn thương gan cấp tính"]
+    },
+    {
+      "question": "Tôi bị xơ gan do ký sinh trùng và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan mất bù", "áp xe gan", "viêm gan", "tắc mật"]
+    },
+    {
+      "question": "Tôi bị xơ gan do bệnh di truyền và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan mất bù", "bệnh Wilson", "hemochromatosis", "thiếu alpha-1 antitrypsin"]
+    },
+    {
+      "question": "Tôi bị xơ gan do tắc nghẽn ống dẫn mật và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan mật tiên phát", "xơ gan xơ đường mật tiên phát", "ung thư đường mật", "viêm đường mật ngược dòng"]
+    },
+    {
+      "question": "Tôi bị suy tim và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan do ứ máu", "gan tim", "suy đa cơ quan", "viêm gan thiếu oxy"]
+    },
+    {
+      "question": "Tôi bị viêm tắc tĩnh mạch trên gan và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan", "hội chứng Budd-Chiari", "tăng áp tĩnh mạch cửa", "suy gan"]
+    },
+    {
+      "question": "Tôi bị xơ gan và hiện đang bị tăng áp tĩnh mạch cửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan mất bù", "giãn tĩnh mạch thực quản", "lách to", "cổ trướng"]
+    },
+    {
+      "question": "Tôi bị xơ gan và hiện đang bị cổ trướng, phù nề. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan mất bù", "tăng áp tĩnh mạch cửa", "suy thận", "giảm albumin máu"]
+    },
+    {
+      "question": "Tôi bị xơ gan và hiện đang bị nhiễm trùng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viêm phúc mạc tự phát do vi khuẩn", "viêm phổi", "nhiễm trùng đường tiết niệu", "nhiễm trùng huyết"]
+    },
+    {
+      "question": "Tôi bị xơ gan và hiện đang bị hội chứng gan – thận. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan mất bù giai đoạn cuối", "suy thận cấp", "suy đa cơ quan"]
+    },
+    {
+      "question": "Tôi bị xơ gan và hiện đang bị hội chứng gan – phổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan mất bù", "giãn mạch phổi", "thiếu oxy máu", "suy hô hấp"]
+    },
+    {
+      "question": "Tôi bị xơ gan và hiện đang bị ung thư gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung thư biểu mô tế bào gan", "ung thư gan thứ phát", "u gan lành tính", "u đường mật"]
+    },
+    {
+      "question": "Tôi bị xơ gan và hiện đang bị giảm ham muốn tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["xơ gan mất bù", "rối loạn hormone", "suy giảm testosterone", "trầm cảm"]
+    }
+  ]
+}

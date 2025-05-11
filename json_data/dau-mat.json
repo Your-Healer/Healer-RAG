@@ -1,0 +1,358 @@
+{
+  "disease_id": "dau-mat",
+  "disease_name": "Đau Mắt",
+  "disease_alternative_names": [
+    "Nhức mắt",
+    "Khó chịu ở mắt",
+    "Eye pain",
+    "Ocular pain"
+  ],
+  "disease_definition": "Đau mắt xảy ra khi vùng mắt cảm thấy nhức, khó chịu, đau nhói ở một hoặc cả hai mắt. Đau có thể xuất hiện ở nhiều vị trí gần mắt, trong mắt hay sau mắt. Đau mắt là triệu chứng của nhiều bệnh về mắt khác nhau và cần được kiểm tra, điều trị sớm.",
+  "symptoms": [
+    {
+      "name": "Khô và đau mắt",
+      "description": "Cảm giác khô, cộm, đau ở mắt, thường do hội chứng khô mắt gây ra. Có thể kèm theo chảy nước mắt sống do mắt phản ứng với tình trạng khô và kích ứng."
+    },
+    {
+      "name": "Ngứa, đỏ và đau mắt",
+      "description": "Mắt đỏ, ngứa và đau, thường do dị ứng, nhiễm trùng mắt hoặc kích ứng do kính áp tròng. Viêm kết mạc do nhiễm trùng là nguyên nhân phổ biến gây đau và đỏ mắt."
+    },
+    {
+      "name": "Đau mắt dữ dội",
+      "description": "Cảm giác đau nhói ở mắt, có thể do chấn thương mắt hoặc là biểu hiện của đau đầu, đau nửa đầu. Trong những trường hợp nghiêm trọng, có thể là triệu chứng của tăng nhãn áp góc đóng cấp tính, khối u não hoặc phình động mạch."
+    },
+    {
+      "name": "Nhức mắt âm ỉ",
+      "description": "Đau mắt âm ỉ, nhức nhối hoặc đau sâu bên trong mắt, thường do mỏi mắt. Nếu cơn đau không giảm có thể báo hiệu các tình trạng nghiêm trọng về mắt."
+    },
+    {
+      "name": "Cảm giác có dị vật trong mắt",
+      "description": "Cảm giác có thứ gì đó trong mắt gây khó chịu và đau. Có thể do dị vật thực sự hoặc do trầy xước giác mạc."
+    }
+  ],
+  "causes": {
+    "main_cause": "Đau mắt có nhiều nguyên nhân, có thể là triệu chứng của nhiều bệnh khác nhau. Các nguyên nhân chính gồm nhiễm trùng, chấn thương, tăng nhãn áp, viêm nhiễm các bộ phận của mắt, và các vấn đề về thần kinh.",
+    "related_factors": "Nhiều yếu tố có thể gây đau mắt như nhiễm trùng do vi khuẩn hoặc virus, kính áp tròng không vệ sinh hoặc đeo quá lâu, dị ứng với phấn hoa hoặc bụi, tiếp xúc với chất độc như khói thuốc lá hoặc hóa chất, tình trạng viêm trong mắt, và tăng nhãn áp.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Làm việc nhiều giờ trước màn hình máy tính",
+    "Đeo kính áp tròng không đúng cách hoặc quá lâu",
+    "Tiếp xúc với môi trường nhiều bụi, khói hoặc hóa chất",
+    "Tiền sử dị ứng",
+    "Hoạt động trong môi trường có nắng mạnh mà không bảo vệ mắt",
+    "Bệnh hệ thống như đái tháo đường, cao huyết áp",
+    "Không khám mắt định kỳ",
+    "Tiền sử bệnh về mắt như tăng nhãn áp hoặc bệnh về giác mạc"
+  ],
+  "complications": [
+    "Giảm thị lực hoặc mù lòa nếu không được điều trị kịp thời",
+    "Tổn thương giác mạc vĩnh viễn",
+    "Tổn thương dây thần kinh thị giác",
+    "Biến chứng do tăng nhãn áp",
+    "Nhiễm trùng lan rộng đến các cấu trúc lân cận",
+    "Hạn chế khả năng làm việc và các hoạt động hàng ngày",
+    "Căng thẳng và lo lắng do đau mắt kéo dài"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Kiểm tra triệu chứng để đánh giá toàn trạng của người bệnh",
+      "Kiểm tra bệnh sử để tìm yếu tố ảnh hưởng gây đau mắt",
+      "Khám mắt tổng quát để đánh giá tình trạng"
+    ],
+    "tests": [
+      {
+        "name": "Đo thị lực",
+        "description": "Kiểm tra khả năng nhìn và phát hiện suy giảm thị lực có thể liên quan đến nguyên nhân gây đau mắt."
+      },
+      {
+        "name": "Kiểm tra kích thước đồng tử",
+        "description": "Đánh giá phản ứng của đồng tử với ánh sáng và các dấu hiệu thần kinh bất thường."
+      },
+      {
+        "name": "Khám mắt bằng đèn khe",
+        "description": "Sử dụng kính hiển vi đặc biệt để kiểm tra cấu trúc bên trong mắt, phát hiện tổn thương và viêm nhiễm."
+      },
+      {
+        "name": "Soi đáy mắt",
+        "description": "Kiểm tra võng mạc, dây thần kinh thị giác và các mạch máu ở đáy mắt, giúp phát hiện nhiều bệnh lý về mắt."
+      },
+      {
+        "name": "Đo nhãn áp",
+        "description": "Kiểm tra áp lực trong mắt, quan trọng để chẩn đoán bệnh tăng nhãn áp - một nguyên nhân phổ biến gây đau mắt."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị đau mắt phụ thuộc vào nguyên nhân gây bệnh. Việc xác định chính xác nguyên nhân là bước đầu tiên và quan trọng nhất để lựa chọn phương pháp điều trị phù hợp.",
+    "methods": [
+      {
+        "name": "Điều trị nhiễm trùng",
+        "description": "Sử dụng thuốc nhỏ mắt kháng sinh, kháng nấm, hoặc kháng virus tùy thuộc vào loại nhiễm trùng. Thuốc giảm đau và thuốc chống dị ứng cũng có thể được sử dụng kèm theo."
+      },
+      {
+        "name": "Điều trị chấn thương mắt",
+        "description": "Trong trường hợp chấn thương, cần đến cơ sở y tế ngay. Có thể đặt một tấm chắn sạch lên mắt trước khi đến bệnh viện. Nếu hóa chất văng vào mắt, cần rửa mắt bằng nước sạch trước khi đi khám."
+      },
+      {
+        "name": "Điều trị khô mắt",
+        "description": "Sử dụng nước mắt nhân tạo giúp mắt dễ chịu hơn. Các thuốc chống viêm và kích thích tiết nước mắt cũng có thể được chỉ định trong một số trường hợp."
+      },
+      {
+        "name": "Điều trị tăng nhãn áp",
+        "description": "Sử dụng thuốc nhỏ mắt giảm nhãn áp hoặc các loại thuốc uống phù hợp. Trong trường hợp nặng, có thể cần can thiệp phẫu thuật."
+      }
+    ],
+    "recommendations": [
+      "Giữ tay chân luôn sạch, không dụi mắt",
+      "Sử dụng khăn giấy sạch vệ sinh mắt thường xuyên",
+      "Tránh sử dụng kính áp tròng khi đang có vấn đề về mắt",
+      "Không trang điểm mắt đến khi lành bệnh",
+      "Hạn chế thời gian nhìn màn hình điện tử",
+      "Đeo kính râm để bảo vệ mắt khi ra ngoài nắng",
+      "Thực hiện quy tắc 20-20-20: sau mỗi 20 phút nhìn màn hình, nhìn xa 20 feet trong 20 giây",
+      "Nghỉ ngơi mắt thường xuyên khi làm việc trước máy tính"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine phòng ngừa đau mắt vì đây không phải là bệnh truyền nhiễm đơn thuần mà là triệu chứng của nhiều bệnh lý khác nhau.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Rửa tay thường xuyên, đặc biệt trước khi chạm vào mắt",
+      "Vệ sinh kính áp tròng đúng cách và thay thế theo khuyến cáo",
+      "Sử dụng kính bảo hộ khi làm việc trong môi trường có nhiều bụi hoặc hóa chất",
+      "Đeo kính râm khi ra ngoài trời nắng",
+      "Hạn chế thời gian sử dụng thiết bị điện tử liên tục",
+      "Bảo đảm môi trường làm việc có ánh sáng phù hợp",
+      "Khám mắt định kỳ, đặc biệt nếu có tiền sử bệnh mắt hoặc bệnh hệ thống ảnh hưởng đến mắt",
+      "Ăn uống đầy đủ dinh dưỡng, đặc biệt các thực phẩm giàu vitamin A, C, E và omega-3"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Khi nào tôi nên đến gặp bác sĩ về tình trạng đau mắt?",
+      "answer": "Bạn nên đến gặp bác sĩ ngay lập tức nếu đau mắt đi kèm với bất kỳ triệu chứng nguy hiểm nào như: đau dữ dội, nhìn mờ, nhạy cảm ánh sáng, buồn nôn hoặc nôn, nhãn cầu lồi, không thể di chuyển mắt, hoặc nếu đau mắt xảy ra sau chấn thương, tiếp xúc với hóa chất. Nếu đau mắt nhẹ hơn nhưng kéo dài hơn 2 ngày dù đã thử các biện pháp tự chăm sóc, bạn cũng nên đi khám."
+    },
+    {
+      "question": "Làm thế nào để phân biệt giữa đau mắt do mệt mỏi và đau mắt do bệnh lý nghiêm trọng?",
+      "answer": "Đau mắt do mệt mỏi thường cảm thấy mỏi, khô, đôi khi ngứa, nhưng thường sẽ giảm sau khi nghỉ ngơi và không đi kèm với các triệu chứng nghiêm trọng khác. Đau mắt do bệnh lý nghiêm trọng thường đi kèm với các triệu chứng như đau nhói dữ dội, nhìn mờ, nhạy cảm ánh sáng, buồn nôn, nôn, sưng đỏ nặng, hoặc có dịch tiết ra từ mắt. Nếu bạn không chắc chắn, tốt nhất nên đi khám để được chẩn đoán chính xác."
+    },
+    {
+      "question": "Có những cách nào để giảm đau mắt tạm thời tại nhà?",
+      "answer": "Để giảm đau mắt tạm thời tại nhà, bạn có thể: nghỉ ngơi mắt, tránh nhìn màn hình điện tử; đắp khăn ấm hoặc lạnh lên mắt (tùy theo nguyên nhân); sử dụng nước mắt nhân tạo nếu mắt khô; tránh dụi mắt; không đeo kính áp tròng; tránh ánh sáng mạnh bằng cách đeo kính râm; và uống nhiều nước để giữ cơ thể đủ nước. Tuy nhiên, nếu đau kéo dài hoặc nghiêm trọng, bạn nên đi khám để được điều trị đúng cách."
+    },
+    {
+      "question": "Đau mắt có phải luôn là dấu hiệu của một vấn đề nghiêm trọng không?",
+      "answer": "Không, đau mắt không phải luôn là dấu hiệu của một vấn đề nghiêm trọng. Đau mắt thường gặp do mỏi mắt, bụi hoặc dị vật nhỏ trong mắt, dị ứng, khô mắt, hoặc viêm kết mạc nhẹ. Tuy nhiên, đau mắt cũng có thể là triệu chứng của các tình trạng nghiêm trọng hơn như tăng nhãn áp góc đóng cấp tính, viêm màng bồ đào, viêm dây thần kinh thị giác, hoặc tổn thương giác mạc. Nếu đau mắt kéo dài, dữ dội, hoặc đi kèm với các triệu chứng khác, bạn nên đi khám."
+    },
+    {
+      "question": "Làm thế nào để loại bỏ cảm giác có dị vật trong mắt?",
+      "answer": "Để loại bỏ cảm giác có dị vật trong mắt, bạn có thể thử: chớp mắt nhanh để kích thích tiết nước mắt và giúp đẩy dị vật ra; rửa mắt bằng nước sạch hoặc dung dịch rửa mắt; không dụi mắt vì có thể làm trầy xước giác mạc; từ từ kéo mi mắt trên ra và nhìn xuống, từ từ kéo mi mắt dưới ra và nhìn lên để kiểm tra có dị vật không. Nếu cảm giác vẫn còn hoặc bạn không thể loại bỏ dị vật, hãy đến gặp bác sĩ ngay lập tức."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khô và đau mắt, kèm theo cảm giác cộm và chảy nước mắt sống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Hội chứng khô mắt",
+        "Viêm kết mạc",
+        "Viêm giác mạc",
+        "Dị ứng mắt",
+        "Bệnh Sjogren"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa, đỏ và đau mắt, kèm theo chảy nước mắt và khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm kết mạc",
+        "Dị ứng mắt",
+        "Viêm bờ mi",
+        "Khô mắt",
+        "Kích ứng do kính áp tròng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau mắt dữ dội, kèm theo nhìn mờ và nhạy cảm ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng nhãn áp góc đóng cấp tính",
+        "Viêm màng bồ đào",
+        "Viêm giác mạc",
+        "Migraine với triệu chứng thị giác",
+        "Viêm dây thần kinh thị giác"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhức mắt âm ỉ, kèm theo đau sâu bên trong mắt và mỏi mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Mỏi mắt",
+        "Tăng nhãn áp",
+        "Viêm dây thần kinh thị giác",
+        "Viêm hốc mắt",
+        "Viêm xoang"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau mắt và có cảm giác có dị vật trong mắt, kèm theo khó chịu và chảy nước mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trợt giác mạc",
+        "Dị vật trong mắt",
+        "Viêm kết mạc",
+        "Hội chứng khô mắt",
+        "Loét giác mạc"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau mắt, kèm theo buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng nhãn áp góc đóng cấp tính",
+        "Migraine",
+        "Viêm màng bồ đào",
+        "Viêm mạch máu não",
+        "Phình động mạch não"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau mắt, kèm theo nhãn cầu lồi và không thể di chuyển mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm hốc mắt",
+        "Viêm mô tế bào hốc mắt",
+        "Bệnh Graves",
+        "Khối u sau nhãn cầu",
+        "Xuất huyết sau nhãn cầu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau mắt, kèm theo mờ mắt và nhạy cảm ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm giác mạc",
+        "Viêm màng bồ đào",
+        "Tăng nhãn áp",
+        "Trợt giác mạc",
+        "Phù giác mạc"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau mắt sau khi đeo kính áp tròng, kèm theo đỏ và ngứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Kích ứng do kính áp tròng",
+        "Viêm giác mạc do kính áp tròng",
+        "Khô mắt",
+        "Dị ứng với dung dịch ngâm kính",
+        "Viêm kết mạc dị ứng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau mắt, kèm theo chảy dịch màu vàng hoặc xanh lá cây. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm kết mạc do vi khuẩn",
+        "Viêm bờ mi",
+        "Viêm túi lệ",
+        "Tắc ống dẫn lệ",
+        "Áp xe mi mắt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau mắt, kèm theo sưng mí mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mí mắt",
+        "Lẹo mắt",
+        "Viêm mô tế bào",
+        "Viêm bờ mi",
+        "Phù mạch"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau mắt khi đọc sách hoặc làm việc trên máy tính, kèm theo mỏi mắt và nhức đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Mỏi mắt",
+        "Hội chứng thị giác máy tính",
+        "Khô mắt",
+        "Lỗi khúc xạ",
+        "Rối loạn điều tiết"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau mắt, kèm theo nhìn đôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Rối loạn thần kinh mắt",
+        "Lác mắt",
+        "Yếu cơ mắt",
+        "Nhược cơ",
+        "Chấn thương sọ não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau mắt, kèm theo nhìn thấy quầng sáng hoặc hào quang xung quanh đèn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng nhãn áp",
+        "Đục thủy tinh thể",
+        "Migraine với triệu chứng thị giác",
+        "Phù giác mạc",
+        "Viêm giác mạc"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau mắt, kèm theo đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Migraine",
+        "Căng thẳng mắt",
+        "Tăng nhãn áp",
+        "Viêm xoang",
+        "Rối loạn thần kinh mắt"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau mắt, kèm theo sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mô tế bào hốc mắt",
+        "Viêm kết mạc do virus",
+        "Viêm màng bồ đào",
+        "Viêm hốc mắt",
+        "Cúm có biến chứng tại mắt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau mắt, kèm theo ho hoặc sổ mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm kết mạc do virus",
+        "Viêm xoang",
+        "Cảm cúm có biến chứng tại mắt",
+        "Viêm mũi dị ứng có ảnh hưởng đến mắt",
+        "Viêm đường hô hấp trên"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau mắt sau khi bơi lội, kèm theo đỏ và ngứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm kết mạc do hóa chất",
+        "Viêm giác mạc",
+        "Dị ứng với clo",
+        "Kích ứng mắt do nước bể bơi",
+        "Khô mắt"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau mắt, kèm theo đau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang",
+        "Viêm mũi họng cấp tính",
+        "Rối loạn khớp thái dương hàm",
+        "Nhiễm trùng đường hô hấp trên",
+        "Bệnh răng miệng có ảnh hưởng đến mắt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau mắt, kèm theo đau răng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang",
+        "Áp xe răng lan đến mắt",
+        "Nhiễm trùng răng miệng lan đến mắt",
+        "Đau dây thần kinh tam thoa",
+        "Viêm mô tế bào"
+      ]
+    }
+  ]
+}

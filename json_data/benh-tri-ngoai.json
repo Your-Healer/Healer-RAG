@@ -1,0 +1,162 @@
+{
+  "disease_id": "benh-tri-ngoai",
+  "disease_name": "Bệnh trĩ ngoại",
+  "disease_alternative_names": [
+    "Trĩ ngoại",
+    "External hemorrhoids"
+  ],
+  "disease_definition": "Trĩ ngoại là bệnh trĩ xuất phát từ tĩnh mạch trĩ dưới đường lược, có thể đi kèm với trĩ nội tạo thành trĩ hỗn hợp. Những búi trĩ này có thể đau và chảy máu do tắc mạch và ngứa. Trĩ ngoại chia thành trĩ ngoại búi (1, 2, 3 búi) hay hết vòng hậu môn.",
+  "symptoms": [
+    {
+      "name": "Đi ngoài ra máu",
+      "description": "Đi ngoài ra máu đỏ tươi, đặc biệt khi đi vệ sinh"
+    },
+    {
+      "name": "Đau rát hậu môn",
+      "description": "Tình trạng đau rát hậu môn xuất hiện nhiều trong và sau khi đi tiêu hoặc đau rát hậu môn âm ỉ cả ngày, đặc biệt là khi ngồi"
+    },
+    {
+      "name": "Búi trĩ sa ra ngoài",
+      "description": "Đi tiêu thấy búi trĩ sa ra ngoài hậu môn, có thể nhìn thấy các mô trông như thịt thừa"
+    },
+    {
+      "name": "Ngứa hậu môn",
+      "description": "Ngứa xung quanh hậu môn hoặc khu vực trực tràng"
+    },
+    {
+      "name": "Sưng đau và nóng rát",
+      "description": "Búi trĩ phình to, thường có màu xanh tím, hậu môn luôn nóng rát"
+    }
+  ],
+  "causes": {
+    "main_cause": "Nguyên nhân phổ biến nhất của bệnh trĩ là bị rặn nhiều lần trong khi đi tiêu, ngồi lâu (nhất là những người làm nghề như IT, văn phòng, lái xe đường dài). Điều này thường do bị táo bón hoặc tiêu chảy nghiêm trọng gây ra.",
+    "related_factors": "Các yếu tố liên quan bao gồm nâng vật nặng, chế độ ăn ít chất xơ, hay ăn đồ cay nóng, béo phì, đứng hoặc ngồi trong thời gian dài, thai kỳ, cổ chướng, uống ít nước, thiếu collagen vùng hậu môn",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    {
+      "name": "Lối sống ít vận động",
+      "description": "Ngồi nhiều, đặc biệt là những người làm việc văn phòng, lái xe đường dài"
+    },
+    {
+      "name": "Chế độ ăn không hợp lý",
+      "description": "Ăn ít chất xơ, uống không đủ nước, hay ăn đồ cay nóng"
+    },
+    {
+      "name": "Béo phì",
+      "description": "Tăng áp lực lên vùng hậu môn do thừa cân"
+    },
+    {
+      "name": "Thai kỳ và sinh con",
+      "description": "Áp lực từ thai nhi và quá trình sinh nở có thể gây trĩ"
+    }
+  ],
+  "complications": [
+    {
+      "name": "Tắc mạch",
+      "description": "Hình thành cục máu đông bên trong búi trĩ, gây đau đớn và có thể dẫn đến hoại tử"
+    },
+    {
+      "name": "Viêm loét và nhiễm trùng",
+      "description": "Búi trĩ bị cọ xát gây viêm da quanh hậu môn, có thể dẫn đến nhiễm trùng"
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Chảy máu hậu môn thường xuyên có thể gây thiếu máu, dẫn đến chóng mặt, mệt mỏi"
+    },
+    {
+      "name": "Trĩ sa nghẹt",
+      "description": "Búi trĩ thò ra ngoài hậu môn, sưng to, căng đỏ có thể gây tắc nghẽn mạch máu"
+    }
+  ],
+  "diagnosis": {
+    "methods": [
+      {
+        "name": "Chẩn đoán lâm sàng",
+        "description": "Bác sĩ chẩn đoán bằng mắt thường và dùng tay sờ vào hậu môn để kiểm tra các búi phồng to màu đỏ sẫm"
+      },
+      {
+        "name": "Soi hậu môn",
+        "description": "Sử dụng van khám hậu môn để quan sát chi tiết"
+      },
+      {
+        "name": "Nội soi",
+        "description": "Có thể thực hiện nội soi trực tràng, nội soi ruột kết hoặc sigmoidoscopy để loại trừ các bệnh lý khác"
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị trĩ ngoại tùy thuộc vào mức độ nghiêm trọng của bệnh, từ điều trị bảo tồn đến phẫu thuật trong trường hợp nặng.",
+    "methods": [
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc bôi, thuốc cải thiện tuần hoàn máu, kết hợp với thay đổi lối sống"
+      },
+      {
+        "name": "Phẫu thuật cắt trĩ",
+        "description": "Sử dụng dao Plasma lạnh để cắt bỏ búi trĩ, ưu điểm là nhiệt độ thấp làm vết thương không bỏng, ít đau và mau lành"
+      }
+    ],
+    "recommendations": [
+      "Ngâm hậu môn trong nước ấm ngày 2-3 lần",
+      "Giữ vệ sinh sạch sẽ vùng hậu môn",
+      "Sử dụng khăn ướt thay vì giấy vệ sinh",
+      "Ngồi gối khoét lỗ khi làm việc lâu",
+      "Bổ sung thực phẩm giàu chất xơ và collagen",
+      "Uống đủ nước mỗi ngày"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin đặc hiệu cho bệnh trĩ ngoại.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Tránh ngồi hoặc đứng quá lâu một chỗ",
+      "Duy trì chế độ ăn giàu chất xơ",
+      "Uống đủ nước mỗi ngày",
+      "Tập thể dục đều đặn",
+      "Không nhịn đi tiêu",
+      "Tránh ăn đồ cay nóng và uống rượu bia"
+    ]
+  },
+  "common_questions": [
+    {
+      "question": "Trĩ ngoại có tự khỏi không?",
+      "related_diseases": [
+        "trĩ ngoại",
+        "trĩ nội",
+        "trĩ hỗn hợp",
+        "nứt kẽ hậu môn"
+      ]
+    },
+    {
+      "question": "Trĩ ngoại có nguy hiểm không?",
+      "related_diseases": [
+        "trĩ ngoại",
+        "trĩ huyết khối",
+        "áp xe hậu môn",
+        "viêm hậu môn"
+      ]
+    },
+    {
+      "question": "Bệnh trĩ ngoại có lây không?",
+      "related_diseases": [
+        "trĩ ngoại",
+        "viêm hậu môn",
+        "nứt kẽ hậu môn",
+        "áp xe hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như đau rát và chảy máu ở hậu môn, có thể là bệnh gì?",
+      "related_diseases": [
+        "trĩ ngoại",
+        "trĩ nội",
+        "nứt kẽ hậu môn",
+        "viêm hậu môn"
+      ]
+    }
+  ]
+}

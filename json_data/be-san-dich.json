@@ -1,0 +1,222 @@
+{
+  "disease_id": "be-san-dich",
+  "disease_name": "Bế sản dịch",
+  "disease_alternative_names": ["Ứ đọng sản dịch", "Tắc sản dịch"],
+  "disease_definition": "Bế sản dịch là tình trạng sản dịch không thoát ra ngoài được sau khi sinh do cổ tử cung đóng sớm, dịch ứ đọng trong buồng tử cung, có thể dẫn đến nhiễm trùng, gây sốt và đau bụng dưới. Đây là một biến chứng sau sinh, nếu không được điều trị kịp thời có thể dẫn đến viêm nội mạc tử cung và các biến chứng nghiêm trọng khác.",
+  "symptoms": [
+    {
+      "name": "Sản dịch ra ít và có mùi hôi",
+      "description": "Sản phụ nhận thấy lượng sản dịch ra ít hơn bình thường hoặc gần như không ra, dịch có mùi hôi do bị nhiễm trùng."
+    },
+    {
+      "name": "Căng tức vùng hạ vị",
+      "description": "Cảm giác căng tức, có áp lực ở vùng bụng dưới, thỉnh thoảng có cơn đau âm ỉ do tử cung chứa sản dịch ứ đọng."
+    },
+    {
+      "name": "Cục cứng ở bụng",
+      "description": "Khi khám có thể cảm nhận một cục cứng ở vùng bụng dưới, đó là tử cung to hơn bình thường do chứa sản dịch ứ đọng."
+    },
+    {
+      "name": "Sốt",
+      "description": "Nhiệt độ cơ thể tăng cao, thường trên 38°C, do phản ứng viêm và nhiễm trùng từ sản dịch ứ đọng."
+    },
+    {
+      "name": "Đau khi ấn đáy tử cung",
+      "description": "Khi khám lâm sàng, sản phụ sẽ cảm thấy đau khi bác sĩ ấn vào đáy tử cung do tình trạng viêm nhiễm."
+    },
+    {
+      "name": "Cổ tử cung đóng kín",
+      "description": "Khi khám, bác sĩ sẽ thấy cổ tử cung đóng kín sớm, ngăn sản dịch thoát ra ngoài theo đường âm đạo."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Sản phụ cảm thấy mệt mỏi, kiệt sức do tình trạng nhiễm trùng và cơ thể phải đối phó với tình trạng viêm nhiễm."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bế sản dịch chủ yếu do cổ tử cung đóng kín quá sớm khi bên trong buồng tử cung vẫn còn sản dịch, khiến sản dịch không thể thoát ra ngoài theo đường tự nhiên.",
+    "related_factors": "Quá trình phục hồi sau sinh không diễn ra bình thường, buồng tử cung có thể còn sót nhau, màng nhau hoặc máu cục làm cản trở sự thoát của sản dịch.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Sinh mổ",
+    "Sót nhau, sót màng nhau sau sinh",
+    "Đẻ khó, can thiệp nhiều trong quá trình sinh",
+    "Tiền sử bị viêm nội mạc tử cung",
+    "Rối loạn co bóp tử cung sau sinh",
+    "Sinh non hoặc sinh quá sớm",
+    "Vệ sinh kém sau sinh",
+    "Sản phụ mắc bệnh mạn tính, suy giảm miễn dịch"
+  ],
+  "complications": [
+    "Viêm nội mạc tử cung",
+    "Nhiễm trùng huyết",
+    "Sốc nhiễm khuẩn",
+    "Viêm phúc mạc",
+    "Áp xe tử cung",
+    "Vô sinh thứ phát",
+    "Huyết khối tĩnh mạch chậu"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng: đánh giá sản dịch, đo nhiệt độ, khám bụng",
+      "Hỏi tiền sử sinh nở, quá trình sau sinh",
+      "Đánh giá tình trạng toàn thân"
+    ],
+    "tests": [
+      {
+        "name": "Siêu âm tử cung",
+        "description": "Kiểm tra sự ứ đọng sản dịch trong buồng tử cung, đánh giá kích thước và tình trạng tử cung."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra công thức máu, chỉ số viêm (CRP, máu lắng), có thể thấy bạch cầu tăng trong trường hợp nhiễm trùng."
+      },
+      {
+        "name": "Cấy dịch cổ tử cung",
+        "description": "Xác định loại vi khuẩn gây nhiễm trùng và độ nhạy cảm với kháng sinh để có phương pháp điều trị phù hợp."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bế sản dịch phải được thực hiện kịp thời để tránh nhiễm trùng lan rộng và các biến chứng nghiêm trọng. Phụ nữ sau sinh cần được theo dõi sát để phát hiện sớm các dấu hiệu bất thường.",
+    "methods": [
+      {
+        "name": "Mở cổ tử cung",
+        "description": "Thủ thuật nong cổ tử cung để giúp dẫn lưu sản dịch ra ngoài, thường được thực hiện bởi bác sĩ sản khoa có kinh nghiệm."
+      },
+      {
+        "name": "Dùng kháng sinh",
+        "description": "Sử dụng kháng sinh phổ rộng để ngăn ngừa hoặc điều trị nhiễm trùng, thường được điều chỉnh sau khi có kết quả cấy dịch."
+      },
+      {
+        "name": "Truyền dịch",
+        "description": "Bù nước và điện giải khi cần thiết, đặc biệt trong trường hợp sốt cao hoặc có dấu hiệu mất nước."
+      },
+      {
+        "name": "Thuốc co hồi tử cung",
+        "description": "Sử dụng thuốc giúp tử cung co bóp tốt hơn, đẩy sản dịch ra ngoài và giúp tử cung trở về kích thước bình thường."
+      }
+    ],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ, hạn chế vận động mạnh trong thời gian điều trị",
+      "Uống nhiều nước để tránh mất nước",
+      "Vệ sinh vùng kín sạch sẽ, thay băng vệ sinh thường xuyên",
+      "Tuân thủ điều trị kháng sinh đầy đủ theo chỉ định",
+      "Theo dõi nhiệt độ và lượng sản dịch sau khi can thiệp",
+      "Tái khám theo hẹn của bác sĩ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vắc xin phòng ngừa bế sản dịch.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Khám thai định kỳ và sinh con tại cơ sở y tế uy tín",
+      "Vệ sinh sạch sẽ vùng kín sau sinh",
+      "Theo dõi sản dịch sau sinh, đảm bảo sản dịch thoát ra bình thường",
+      "Tuân thủ các hướng dẫn chăm sóc sau sinh của nhân viên y tế",
+      "Kiểm tra tử cung và sản dịch tại các lần khám hậu sản",
+      "Báo cáo ngay cho bác sĩ nếu thấy sản dịch ra ít hơn bình thường, có mùi hôi hoặc sốt",
+      "Tránh quan hệ tình dục trong thời gian hậu sản theo hướng dẫn của bác sĩ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Sản dịch bình thường kéo dài bao lâu sau sinh?",
+      "answer": "Sản dịch sau sinh thường kéo dài từ 2-4 tuần (tối đa đến 45 ngày) và giảm dần theo thời gian. Ban đầu, sản dịch có màu đỏ tươi, sau đó chuyển dần sang màu hồng nhạt rồi trắng vàng, và cuối cùng là trắng đục trước khi hết hoàn toàn. Lượng dịch cũng giảm dần từ nhiều ở những ngày đầu đến ít dần và cuối cùng là hết."
+    },
+    {
+      "question": "Làm sao để biết mình bị bế sản dịch?",
+      "answer": "Có thể nhận biết bế sản dịch qua các dấu hiệu như: sản dịch ra ít bất thường hoặc gần như không ra, có mùi hôi, cảm giác căng tức vùng bụng dưới, đau âm ỉ, sờ thấy cục cứng ở bụng, sốt cao. Nếu có các dấu hiệu này, cần đến cơ sở y tế ngay để được khám và điều trị kịp thời."
+    },
+    {
+      "question": "Bế sản dịch có nguy hiểm không?",
+      "answer": "Bế sản dịch có thể gây ra nhiều biến chứng nguy hiểm nếu không được điều trị kịp thời. Sản dịch ứ đọng trong tử cung là môi trường lý tưởng cho vi khuẩn phát triển, dẫn đến viêm nội mạc tử cung, nhiễm trùng huyết, thậm chí là sốc nhiễm khuẩn đe dọa tính mạng. Ngoài ra, tình trạng này còn có thể để lại di chứng về sau như vô sinh thứ phát."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sản dịch chảy rất ít và có mùi hôi khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "nhiễm trùng hậu sản"]
+    },
+    {
+      "question": "Tôi đang cảm thấy căng tức vùng hạ vị và thỉnh thoảng có cơn đau âm ỉ sau sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "sót nhau"]
+    },
+    {
+      "question": "Tôi hay có cảm giác vùng bụng dưới có cục cứng và sờ thấy rõ. Sản dịch ra ít và có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "u xơ tử cung", "viêm phần phụ"]
+    },
+    {
+      "question": "Tôi thấy sản dịch ra ít hơn bình thường, kèm theo sốt nhẹ và đau bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "viêm phần phụ"]
+    },
+    {
+      "question": "Tôi vừa sinh con được 3 tuần nhưng sản dịch vẫn còn ra, có màu lạ và mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm âm đạo", "viêm nội mạc tử cung"]
+    },
+    {
+      "question": "Sau sinh, tôi bị sốt, đau bụng dưới và sản dịch ra rất ít. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "nhiễm trùng hậu sản"]
+    },
+    {
+      "question": "Tôi đang bị đau khi ấn vào vùng bụng dưới, sản dịch ra ít và có màu sậm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "viêm vòi trứng"]
+    },
+    {
+      "question": "Tôi thấy sản dịch ra ít hơn so với những ngày đầu sau sinh và có màu vàng đậm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm âm đạo", "nhiễm trùng đường tiết niệu"]
+    },
+    {
+      "question": "Tôi bị sốt cao, đau bụng dưới dữ dội và sản dịch gần như không ra. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "áp xe tử cung"]
+    },
+    {
+      "question": "Tôi thấy cơ thể mệt mỏi, vùng bụng dưới đau âm ỉ và sản dịch ra ít, có màu nâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "sót nhau"]
+    },
+    {
+      "question": "Tôi đã sinh con được hơn một tháng nhưng vẫn thấy ra sản dịch, kèm theo đau bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "sót nhau"]
+    },
+    {
+      "question": "Tôi thấy sản dịch ra ít, có màu vàng xanh và mùi hôi tanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm âm đạo", "viêm nội mạc tử cung"]
+    },
+    {
+      "question": "Sau sinh, tôi bị sốt cao, ớn lạnh và sản dịch ra rất ít. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "nhiễm trùng huyết"]
+    },
+    {
+      "question": "Tôi cảm thấy đau nhức vùng bụng dưới, sản dịch ra ít và có lẫn máu cục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "sót nhau", "viêm nội mạc tử cung"]
+    },
+    {
+      "question": "Tôi bị đau khi đi tiểu, sản dịch ra ít và có màu đục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm đường tiết niệu", "viêm âm đạo"]
+    },
+    {
+      "question": "Tôi thấy sản dịch ra ít, có mùi hôi và kèm theo khí hư màu vàng xanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm âm đạo", "viêm cổ tử cung"]
+    },
+    {
+      "question": "Tôi bị đau bụng dưới dữ dội, sốt cao và sản dịch gần như ngừng hẳn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "áp xe tử cung"]
+    },
+    {
+      "question": "Tôi thấy sản dịch ra ít, có màu nâu đen và mùi hôi tanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "sót nhau"]
+    },
+    {
+      "question": "Sau sinh, tôi bị sốt, đau đầu và sản dịch ra ít, có màu vàng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm nội mạc tử cung", "nhiễm trùng hậu sản"]
+    },
+    {
+      "question": "Tôi thấy vùng kín sưng đau, sản dịch ra ít và có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["bế sản dịch", "viêm âm đạo", "nhiễm trùng vết khâu tầng sinh môn"]
+    }
+  ]
+}

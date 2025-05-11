@@ -1,0 +1,331 @@
+{
+  "disease_id": "dau-bung-kinh",
+  "disease_name": "Đau Bụng Kinh",
+  "disease_alternative_names": [
+    "Thống kinh",
+    "Dysmenorrhea",
+    "Kinh nguyệt đau"
+  ],
+  "disease_definition": "Đau bụng kinh là thuật ngữ y khoa chỉ tình trạng xuất hiện những cơn đau co thắt, cơn đau quặn ở vùng bụng dưới, thường xuất hiện trước và trong thời gian hành kinh do sự co bóp của tử cung. Đây là hiện tượng phổ biến trong chu kỳ kinh nguyệt ở nữ giới, với hơn một nửa số phụ nữ gặp phải tình trạng này từ 1-2 ngày mỗi tháng.",
+  "symptoms": [
+    {
+      "name": "Đau âm ỉ ở bụng dưới",
+      "description": "Cảm giác đau âm ỉ ở vùng bụng dưới, có thể đau quặn hoặc đau dữ dội. Thông thường xuất hiện 1-2 ngày trước hoặc trong thời gian hành kinh, mức độ đau cao nhất trong 24 giờ đầu và giảm dần sau 2-3 ngày."
+    },
+    {
+      "name": "Đau lan xuống vùng thắt lưng và đùi",
+      "description": "Cơn đau tỷ lệ thuận với mức độ co bóp của tử cung, có thể lan xuống vùng thắt lưng và đùi."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn hoặc nôn có thể xuất hiện kèm theo cơn đau bụng kinh."
+    },
+    {
+      "name": "Đau đầu và chóng mặt",
+      "description": "Đau đầu, hoa mắt, chóng mặt là triệu chứng thường gặp đi kèm với đau bụng kinh."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, kiệt sức trong những ngày hành kinh."
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Tiêu chảy hoặc táo bón tùy theo cơ địa mỗi người."
+    }
+  ],
+  "causes": {
+    "main_cause": "Khi lớp niêm mạc tử cung bong ra trong kỳ kinh nguyệt, tử cung sẽ co bóp để đẩy lớp niêm mạc và trứng ra khỏi cơ thể. Trong quá trình này, mạch máu ở niêm mạc tử cung bị chèn ép, dẫn đến các mô trong tử cung bị thiếu oxy, từ đó phóng ra các chất gây co thắt tử cung mạnh hơn khiến xuất hiện cảm giác đau.",
+    "related_factors": "Vào những ngày đầu hành kinh, cơ thể sẽ gia tăng sản xuất prostaglandin - một chất trung gian hóa học khiến cơ tử cung co bóp mạnh hơn, dẫn đến tăng mức độ đau. Ngoài ra, một số bệnh lý như u xơ tử cung, lạc nội mạc tử cung, bệnh tuyến tử cung, hẹp cổ tử cung, viêm vùng chậu hay dụng cụ tử cung (đặt vòng) có thể làm tăng mức độ nghiêm trọng của tình trạng đau bụng kinh.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "U xơ tử cung",
+    "Lạc nội mạc tử cung",
+    "Bệnh tuyến tử cung",
+    "Hẹp cổ tử cung",
+    "Viêm vùng chậu",
+    "Đặt vòng tránh thai",
+    "Viêm vòi trứng",
+    "Ung thư cổ tử cung"
+  ],
+  "complications": [
+    "Ảnh hưởng đến công việc và sinh hoạt hàng ngày",
+    "Các biến chứng liên quan đến bệnh lý nếu đau bụng kinh thứ phát",
+    "Rối loạn kinh nguyệt",
+    "Khó thụ thai trong trường hợp đau bụng kinh do lạc nội mạc tử cung"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám sức khỏe tổng quát",
+      "Khám phụ khoa",
+      "Khai thác thông tin bệnh sử cá nhân và tiền sử gia đình",
+      "Đánh giá các bất thường ở cơ quan sinh sản"
+    ],
+    "tests": [
+      {
+        "name": "Siêu âm",
+        "description": "Kiểm tra hình ảnh tử cung, cổ tử cung, buồng trứng và ống dẫn trứng để phát hiện bất thường."
+      },
+      {
+        "name": "Chụp CT, MRI",
+        "description": "Được thực hiện trong trường hợp cần thiết để đánh giá các bất thường trong cơ quan sinh sản."
+      },
+      {
+        "name": "Nội soi ổ bụng",
+        "description": "Phát hiện tình trạng u xơ tử cung, lạc nội mạc tử cung, u nang buồng trứng hoặc các bất thường khác."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Đau bụng kinh nguyên phát thường không nguy hiểm và có thể cải thiện bằng các biện pháp tại nhà. Tuy nhiên, nếu cơn đau quá dữ dội, ảnh hưởng đến sinh hoạt hoặc ngày càng trở nên nghiêm trọng hơn, hãy tham khảo ý kiến bác sĩ để được chẩn đoán và điều trị phù hợp.",
+    "methods": [
+      {
+        "name": "Chườm ấm",
+        "description": "Sử dụng túi chườm ấm đặt lên vùng bụng dưới để giảm cảm giác đau."
+      },
+      {
+        "name": "Tắm nước ấm",
+        "description": "Tắm bằng nước ấm giúp thư giãn cơ thể và giảm co thắt tử cung."
+      },
+      {
+        "name": "Tập thư giãn",
+        "description": "Tập các bài tập thư giãn, giải tỏa tâm lý như thiền, yoga để giảm căng thẳng và đau."
+      },
+      {
+        "name": "Thuốc giảm đau",
+        "description": "Sử dụng thuốc giảm đau theo chỉ định của bác sĩ, không tự ý lạm dụng thuốc."
+      },
+      {
+        "name": "Điều trị bệnh lý nền",
+        "description": "Trong trường hợp đau bụng kinh thứ phát, cần điều trị triệt để bệnh lý gây đau bụng kinh như u xơ tử cung, lạc nội mạc tử cung hay viêm vùng chậu."
+      }
+    ],
+    "recommendations": [
+      "Không uống rượu bia, hút thuốc lá hoặc sử dụng chất kích thích",
+      "Ngủ đủ giấc và nghỉ ngơi hợp lý",
+      "Tham khảo ý kiến bác sĩ trước khi sử dụng thuốc giảm đau",
+      "Duy trì chế độ ăn uống cân bằng",
+      "Tập luyện thể dục thể thao điều độ"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Không có vaccine đặc hiệu để phòng ngừa đau bụng kinh.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Duy trì chế độ ăn uống cân bằng, cung cấp đầy đủ chất dinh dưỡng",
+      "Tập luyện thể dục thể thao điều độ",
+      "Giữ vệ sinh vùng kín sạch sẽ trong kỳ kinh nguyệt",
+      "Tránh quan hệ tình dục trong những ngày hành kinh để tránh viêm nhiễm",
+      "Giữ vệ sinh cá nhân, nhất là khi mang thai và sinh con",
+      "Thực hiện các biện pháp tránh thai tại những cơ sở y tế uy tín",
+      "Tầm soát và khám phụ khoa định kỳ 6 tháng/lần"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Đau bụng kinh có nguy hiểm không?",
+      "answer": "Đau bụng kinh nguyên phát (không do bệnh lý) thường không nguy hiểm và là phản ứng tự nhiên của cơ thể trong thời gian hành kinh. Tuy nhiên, đau bụng kinh thứ phát có thể là dấu hiệu của các bệnh lý như u xơ tử cung, lạc nội mạc tử cung, viêm vùng chậu, hẹp cổ tử cung hoặc ung thư cổ tử cung. Nếu cơn đau quá dữ dội, kéo dài, ảnh hưởng đến sinh hoạt hoặc ngày càng trở nên nghiêm trọng hơn, bạn nên đi khám bác sĩ để được chẩn đoán và điều trị phù hợp."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ khi bị đau bụng kinh?",
+      "answer": "Bạn nên đến ngay cơ sở y tế để được thăm khám, kiểm tra tìm nguyên nhân khi: Bị đau bụng dữ dội, ảnh hưởng đến các hoạt động sinh hoạt và công việc thường ngày; Các triệu chứng đau ngày càng trở nên nghiêm trọng hơn; Cơn đau dữ dội và kéo dài hơn so với bình thường."
+    },
+    {
+      "question": "Có cách nào giảm đau bụng kinh tại nhà không?",
+      "answer": "Có nhiều cách để giảm đau bụng kinh tại nhà như: Sử dụng túi chườm ấm đặt lên vùng bụng dưới; Tắm bằng nước ấm; Tập các bài tập thư giãn, giải tỏa tâm lý như thiền, yoga; Không uống rượu bia, hút thuốc lá hoặc sử dụng chất kích thích; Ngủ đủ giấc và nghỉ ngơi hợp lý; Sử dụng thuốc giảm đau (nên tham khảo ý kiến bác sĩ để được hướng dẫn sử dụng thuốc đúng cách)."
+    },
+    {
+      "question": "Đau bụng kinh khi nào là bất thường?",
+      "answer": "Đau bụng kinh có thể là dấu hiệu bất thường khi: Cơn đau bắt đầu sớm trước kỳ kinh và kéo dài hơn so với bình thường; Đau bụng dữ dội, ảnh hưởng đến hoạt động sinh hoạt hàng ngày; Các triệu chứng đau ngày càng trở nên nghiêm trọng hơn; Kèm theo các triệu chứng khác như rối loạn kinh nguyệt, tiết dịch âm đạo bất thường, chóng mặt, buồn nôn nhiều."
+    },
+    {
+      "question": "Có thể phòng ngừa đau bụng kinh không?",
+      "answer": "Đau bụng kinh nguyên phát là phản ứng tự nhiên của cơ thể trong thời gian hành kinh do hoạt động co bóp của tử cung, nên không thể ngăn ngừa hoàn toàn. Tuy nhiên, có thể giảm mức độ đau thông qua: Duy trì chế độ ăn uống cân bằng; Tập luyện thể dục thể thao điều độ; Giữ vệ sinh cá nhân sạch sẽ; Tầm soát và khám phụ khoa định kỳ 6 tháng/lần để phát hiện và điều trị sớm các bệnh lý phụ khoa."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau âm ỉ ở bụng dưới, đau quặn và buồn nôn trước kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "lạc nội mạc tử cung",
+        "hội chứng tiền kinh nguyệt",
+        "viêm vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng dữ dội trong ngày đầu hành kinh, kèm theo mệt mỏi và đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "u xơ tử cung",
+        "lạc nội mạc tử cung",
+        "viêm vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng lan xuống đùi trong những ngày đèn đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "lạc nội mạc tử cung",
+        "viêm dây thần kinh hông",
+        "thoát vị đĩa đệm"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị đau bụng kinh kèm theo chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "thiếu máu",
+        "hạ đường huyết",
+        "rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng quặn từng cơn và tiêu chảy khi đến kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "hội chứng ruột kích thích",
+        "viêm ruột",
+        "rối loạn tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng dữ dội tỷ lệ thuận với mức độ co bóp của tử cung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "lạc nội mạc tử cung",
+        "u xơ tử cung",
+        "hẹp cổ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dưới, buồn nôn và mệt mỏi trong kỳ kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "hội chứng tiền kinh nguyệt",
+        "viêm vùng chậu",
+        "lạc nội mạc tử cung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng âm ỉ, đau lưng và táo bón khi đến chu kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "u xơ tử cung",
+        "hội chứng ruột kích thích",
+        "đau lưng kinh nguyệt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau quặn bụng và đau đầu trong những ngày đèn đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "đau đầu do hormone",
+        "thiếu máu",
+        "hội chứng tiền kinh nguyệt"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị đau bụng kinh kéo dài 2-3 ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "lạc nội mạc tử cung",
+        "u xơ tử cung",
+        "viêm vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dưới, buồn nôn và chóng mặt trong ngày đầu hành kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "thiếu máu",
+        "hạ đường huyết",
+        "hội chứng tiền kinh nguyệt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng dữ dội kèm theo mệt mỏi và tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "hội chứng ruột kích thích",
+        "viêm ruột",
+        "rối loạn tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng lan xuống đùi và đau lưng trong những ngày đèn đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "lạc nội mạc tử cung",
+        "viêm dây thần kinh hông",
+        "thoát vị đĩa đệm"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị đau bụng kinh kèm theo táo bón. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "hội chứng ruột kích thích",
+        "táo bón chức năng",
+        "u xơ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dưới, buồn nôn và đau đầu trong kỳ kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "đau đầu do hormone",
+        "hội chứng tiền kinh nguyệt",
+        "thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng quặn từng cơn và mệt mỏi khi đến chu kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "lạc nội mạc tử cung",
+        "viêm vùng chậu",
+        "hội chứng tiền kinh nguyệt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau dữ dội tỷ lệ thuận với mức độ co bóp của tử cung và đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "lạc nội mạc tử cung",
+        "u xơ tử cung",
+        "hẹp cổ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị đau bụng kinh kéo dài 2-3 ngày kèm theo chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "thiếu máu",
+        "hạ đường huyết",
+        "rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dưới, buồn nôn và tiêu chảy trong ngày đầu hành kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "hội chứng ruột kích thích",
+        "viêm ruột",
+        "rối loạn tiêu hóa kinh nguyệt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng dữ dội kèm theo mệt mỏi và táo bón. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "đau bụng kinh",
+        "táo bón chức năng",
+        "u xơ tử cung",
+        "hội chứng ruột kích thích"
+      ]
+    }
+  ]
+}

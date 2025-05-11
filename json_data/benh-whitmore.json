@@ -1,0 +1,237 @@
+{
+  "disease_id": "benh-whitmore",
+  "disease_name": "Bệnh Whitmore",
+  "disease_alternative_names": [
+    "Melioidosis",
+    "Bệnh nhiễm khuẩn Burkholderia pseudomallei",
+    "Nhiễm khuẩn Whitmore"
+  ],
+  "disease_definition": "Bệnh Whitmore (Melioidosis) là bệnh truyền nhiễm cấp tính do vi khuẩn Burkholderia pseudomallei gây ra. Vi khuẩn này có thể lây truyền sang người và động vật thông qua môi trường nước và đất bị ô nhiễm. Bệnh thường xuất hiện nhiều vào mùa mưa lũ và phổ biến ở vùng nông thôn, nơi người dân tiếp xúc thường xuyên với bùn, đất, nguồn nước bẩn.",
+  "symptoms": [
+    {
+      "name": "Nhiễm trùng cục bộ",
+      "description": "Ở giai đoạn đầu, trên da bệnh nhân xuất hiện những nốt sần đỏ, mưng mủ gây loét da, đau đớn kèm theo sốt, sụt cân, đau bụng hoặc đau ngực, đau cơ hoặc đau khớp, đau đầu và co giật. Vết loét có thể xuất hiện ở nhiều cơ quan như gan, phổi, lá lách và tuyến tiền liệt."
+    },
+    {
+      "name": "Nhiễm trùng phổi",
+      "description": "Khi vi khuẩn xâm nhập vào phổi, người bệnh có các triệu chứng như ho có đờm hoặc không có đờm, đau ngực khi thở, sốt cao, nhức đầu và đau nhức cơ, sụt cân. Bệnh có thể gây viêm phổi, ho ra đờm có máu và xuất hiện mủ hoặc máu trong các mô phổi."
+    },
+    {
+      "name": "Nhiễm trùng máu",
+      "description": "Biến chứng nghiêm trọng với triệu chứng sốt cao kèm theo rùng mình và đổ mồ hôi, đau đầu, đau họng, khó thở, suy hô hấp, đau bụng trên, tiêu chảy, đau khớp và cơ, mất phương hướng, và hình thành vết loét có mủ trên da, bên trong gan, lá lách, cơ hoặc tuyến tiền liệt."
+    },
+    {
+      "name": "Nhiễm trùng toàn thân",
+      "description": "Giai đoạn cuối cùng với triệu chứng đau hoặc sưng ở tuyến mang tai, đau cơ và khớp, tổn thương gan, phổi, lá lách, hạch bạch huyết, tuyến tiền liệt, sốt cao, động kinh, co giật, và xuất hiện vết loét hoặc áp xe trên da và khắp các cơ quan trong cơ thể."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bệnh Whitmore gây ra bởi vi khuẩn Burkholderia pseudomallei, một loại vi khuẩn có thể sống nhiều năm trong đất và nước. Vi khuẩn này không phải là \"vi khuẩn ăn thịt người\" như nhiều người lầm tưởng, mà là vi khuẩn gây bệnh truyền nhiễm cho người và động vật.",
+    "related_factors": "Vi khuẩn Whitmore có thể tồn tại trong thời gian dài trong môi trường đất và nước, đặc biệt trong mùa mưa lũ. Sau khi xâm nhập vào cơ thể, vi khuẩn thường \"ẩn náu\" kỹ, sau 2-4 tuần mới gây ra các triệu chứng bệnh, khiến bệnh khó phát hiện sớm.",
+    "transmission_routes": [
+      "Hít phải bụi hoặc giọt nước nhiễm vi khuẩn",
+      "Uống nước bị ô nhiễm chưa được khử trùng bằng clo",
+      "Chạm vào vùng đất nhiễm khuẩn bằng tay hoặc chân, nhất là khi trên da đang có vết trầy xước"
+    ]
+  },
+  "risk_factors": [
+    "Sống ở khu vực Đông Nam Á và Bắc Úc (như Thái Lan, Malaysia, Singapore, Việt Nam)",
+    "Làm việc tiếp xúc nhiều với đất và nước (quân nhân, công nhân xây dựng, nông dân, ngư dân)",
+    "Mắc bệnh đái tháo đường",
+    "Bệnh thận mạn tính",
+    "Bệnh phổi mạn tính",
+    "Bệnh gan",
+    "Thalassemia",
+    "Ung thư",
+    "Suy tim",
+    "Suy tim sung huyết",
+    "Bệnh u máu phổi",
+    "Bệnh u hạt mãn tính",
+    "Lao",
+    "Người trên 40 tuổi",
+    "Người bị nhiễm trùng phổi mạn tính (xơ nang, COPD, giãn phế quản)"
+  ],
+  "complications": [
+    "Loét da",
+    "Áp xe (trên da và các cơ quan như gan, phổi, lá lách)",
+    "Viêm phổi",
+    "Nhiễm trùng huyết",
+    "Viêm màng não",
+    "Tử vong (tỷ lệ tử vong từ 40-60%)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để xác định các triệu chứng đặc trưng",
+      "Thu thập tiền sử tiếp xúc với đất, nước ô nhiễm",
+      "Kiểm tra các yếu tố nguy cơ như bệnh nền"
+    ],
+    "tests": [
+      {
+        "name": "Nuôi cấy vi khuẩn",
+        "description": "Nuôi cấy vi khuẩn B. pseudomallei được coi là xét nghiệm chẩn đoán tiêu chuẩn vàng. Bác sĩ sẽ lấy các mẫu nhỏ bao gồm máu, đờm, mủ, nước tiểu, chất lỏng hoạt dịch, dịch màng bụng, dịch màng tim của người bệnh. Sau khoảng 24-48 giờ, kết quả của việc nuôi cấy sẽ giúp xác định bệnh."
+      },
+      {
+        "name": "Chụp X-quang phổi",
+        "description": "Kiểm tra tổn thương phổi, mặc dù hình ảnh có thể tương tự như bệnh lao phổi với các đốm nhỏ trong phổi."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Điều trị bệnh Whitmore đòi hỏi sự kiên trì vì phác đồ thường kéo dài. Vi khuẩn Whitmore kháng với nhiều loại kháng sinh thông thường, nên việc được chẩn đoán đúng bệnh và điều trị đúng phác đồ rất quan trọng để ngăn chặn bệnh tiến triển nặng.",
+    "methods": [
+      {
+        "name": "Điều trị kháng sinh đường tĩnh mạch",
+        "description": "Giai đoạn đầu sử dụng kháng sinh qua đường tĩnh mạch (IV) tối thiểu từ 10-14 ngày, có thể kéo dài đến 8 tuần tùy mức độ nặng của bệnh."
+      },
+      {
+        "name": "Điều trị kháng sinh đường uống",
+        "description": "Giai đoạn tiếp theo kéo dài 3-6 tháng với kháng sinh đường uống để đảm bảo vi khuẩn bị tiêu diệt hoàn toàn và giảm nguy cơ tái phát."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp có áp xe lớn hoặc các tổn thương không đáp ứng với kháng sinh, có thể cần phẫu thuật để loại bỏ mô nhiễm trùng."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ nghiêm ngặt phác đồ điều trị kháng sinh",
+      "Không tự ý ngừng thuốc dù cảm thấy đã khỏe",
+      "Uống đủ nước để hỗ trợ quá trình đào thải vi khuẩn",
+      "Nghỉ ngơi đầy đủ trong quá trình điều trị",
+      "Tái khám đúng hẹn để theo dõi diễn tiến bệnh",
+      "Báo ngay cho bác sĩ nếu có các triệu chứng mới hoặc triệu chứng nặng lên"
+    ],
+    "prevention_of_transmission": [
+      "Không dùng chung vật dụng cá nhân (như khăn mặt, bàn chải đánh răng) với người bệnh",
+      "Vệ sinh môi trường xung quanh bằng dung dịch khử trùng",
+      "Lau chùi sạch sẽ bề mặt các vật dụng mà mọi người thường xuyên chạm vào"
+    ]
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện nay, chưa có vắc xin để ngăn ngừa bệnh Whitmore.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Mang ủng và găng tay không thấm nước khi phải thường xuyên ngâm mình trong nước, bùn đất",
+      "Tránh tiếp xúc với đất và nước đọng nếu trên da đang có vết thương hở",
+      "Đặc biệt cẩn trọng nếu bạn bị bệnh đái tháo đường hoặc bệnh thận mạn tính",
+      "Tránh tiếp xúc qua đường hô hấp với những người nghi nhiễm vi khuẩn Whitmore",
+      "Đeo găng tay khi chế biến thức ăn và thường xuyên khử trùng dao, thớt",
+      "Chỉ dùng sữa đã tiệt trùng",
+      "Khám sàng lọc nếu chuẩn bị thực hiện liệu pháp ức chế miễn dịch",
+      "Vệ sinh môi trường sống, đặc biệt sau mùa mưa lũ"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Whitmore có phải là vi khuẩn ăn thịt người hay không?",
+      "answer": "Không, vi khuẩn Whitmore tuy gây ra nhiều biến chứng nguy hiểm nhưng không có khả năng \"ăn thịt người\". Loại vi khuẩn này tương tự như nhiều loại vi khuẩn khác, gây bệnh truyền nhiễm cho người và động vật. Nhiều người nhầm lẫn nên thường gọi whitmore là \"vi khuẩn ăn thịt người\" hay bệnh nhiễm khuẩn ăn thịt người Whitmore."
+    },
+    {
+      "question": "Bệnh Whitmore có chữa được không?",
+      "answer": "Có, bệnh Whitmore có thể chữa khỏi hoàn toàn nếu được phát hiện ở giai đoạn sớm và điều trị đúng phác đồ. Hiện tại, y khoa đã tìm ra các loại thuốc kháng sinh đặc trị bệnh Whitmore. Tuy nhiên, một phác đồ điều trị thường kéo dài tối thiểu 3 tháng. Do đó, người bệnh cần tuân thủ liệu trình để chữa dứt bệnh hoàn toàn và tránh tái phát."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sốt, sụt cân, đau bụng và nổi những nốt sần đỏ trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh Whitmore",
+        "nhiễm khuẩn da",
+        "bệnh thương hàn",
+        "sốt phát ban",
+        "bệnh brucellosis"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ngực khi thở, ho có đờm và nhức đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh Whitmore giai đoạn nhiễm trùng phổi",
+        "viêm phổi",
+        "lao phổi",
+        "viêm phế quản",
+        "COVID-19"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sốt cao, rùng mình, đổ mồ hôi và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh Whitmore giai đoạn nhiễm trùng máu",
+        "sốc nhiễm trùng",
+        "cúm",
+        "viêm phổi",
+        "sốt xuất huyết"
+      ]
+    },
+    {
+      "question": "Tôi đang bị đau cơ, khớp và xuất hiện vết loét trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh Whitmore",
+        "bệnh leptospirosis",
+        "bệnh sarcoidosis",
+        "bệnh tự miễn",
+        "bệnh da do nấm"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau họng, tiêu chảy và mất phương hướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh Whitmore giai đoạn nhiễm trùng máu",
+        "nhiễm trùng huyết",
+        "thương hàn",
+        "sốt xuất huyết",
+        "viêm não"
+      ]
+    },
+    {
+      "question": "Tôi bị sưng tuyến mang tai, động kinh và có những vết loét trên cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh Whitmore giai đoạn nhiễm trùng toàn thân",
+        "quai bị có biến chứng",
+        "viêm não",
+        "uốn ván",
+        "bệnh Chagas"
+      ]
+    },
+    {
+      "question": "Tôi ho ra máu, sụt cân nhanh chóng và sốt về chiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh lao phổi",
+        "bệnh Whitmore",
+        "ung thư phổi",
+        "giãn phế quản",
+        "bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi bị đau ngực, khó thở và có đờm màu xanh hoặc vàng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viêm phổi",
+        "bệnh Whitmore giai đoạn nhiễm trùng phổi",
+        "viêm phế quản",
+        "bệnh phổi tắc nghẽn mạn tính",
+        "áp xe phổi"
+      ]
+    },
+    {
+      "question": "Tôi có vết loét trên da không lành và lan rộng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh Whitmore",
+        "nhiễm trùng mô mềm",
+        "bệnh phong",
+        "loét da do tĩnh mạch",
+        "bệnh da do vi khuẩn ăn thịt người"
+      ]
+    },
+    {
+      "question": "Tôi bị sốt cao liên tục và đau đầu dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "bệnh Whitmore",
+        "viêm màng não",
+        "sốt xuất huyết",
+        "cúm biến chứng",
+        "thương hàn"
+      ]
+    }
+  ]
+}

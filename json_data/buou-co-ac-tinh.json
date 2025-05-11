@@ -1,0 +1,274 @@
+{
+  "disease_id": "buou-co-ac-tinh",
+  "disease_name": "Bướu Cổ Ác Tính",
+  "disease_alternative_names": [
+    "Ung thư tuyến giáp",
+    "Thyroid Cancer",
+    "Carcinoma tuyến giáp"
+  ],
+  "disease_definition": "Bướu cổ ác tính, còn gọi là ung thư tuyến giáp, xảy ra khi các tế bào trong tuyến giáp phát triển đột biến khiến chúng nhân lên nhanh chóng, giết chết các tế bào khỏe mạnh và tích tụ thành khối u. Khối u có thể phát triển xâm lấn mô lân cận và lan rộng, di căn đến các hạch bạch huyết ở cổ, phổi, xương, gan và các cơ quan khác.",
+  "symptoms": [
+    {
+      "name": "Khối u hoặc nốt sần ở cổ",
+      "description": "Một khối u hoặc nốt sần ở vùng cổ là triệu chứng phổ biến nhất của ung thư tuyến giáp, có thể sờ thấy hoặc nhìn thấy rõ ràng qua da."
+    },
+    {
+      "name": "Khàn giọng",
+      "description": "Ung thư tuyến giáp có thể ảnh hưởng đến dây thanh âm, gây khàn tiếng hoặc thay đổi giọng nói, đặc biệt khi khối u phát triển lớn."
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Khi khối u phát triển, nó có thể gây áp lực lên thực quản, dẫn đến cảm giác khó nuốt."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khối u lớn có thể gây áp lực lên khí quản, dẫn đến khó thở, ho hoặc cảm giác ngạt thở, đặc biệt khi nằm hoặc khi gắng sức."
+    },
+    {
+      "name": "Đau cổ",
+      "description": "Cảm giác đau hoặc khó chịu ở cổ, đặc biệt khi ấn vào hoặc nuốt, có thể là dấu hiệu của ung thư tuyến giáp."
+    },
+    {
+      "name": "Sưng hạch bạch huyết ở cổ",
+      "description": "Các hạch bạch huyết ở cổ có thể sưng lên do sự di căn của tế bào ung thư."
+    }
+  ],
+  "causes": {
+    "main_cause": "Bướu cổ ác tính xảy ra khi DNA của tế bào tuyến giáp bị thay đổi, khiến tế bào phát triển và nhân lên một cách không kiểm soát. Các tế bào bất thường này tạo thành khối u có khả năng xâm lấn các mô lân cận hoặc di căn đến các bộ phận khác của cơ thể.",
+    "related_factors": "Mặc dù nguyên nhân chính xác của ung thư tuyến giáp chưa được xác định rõ ràng, một số yếu tố như tiếp xúc với mức bức xạ cao, thiếu iốt kéo dài, và hội chứng di truyền như hội chứng Cowden hay bệnh đa polyp tuyến có thể góp phần vào sự phát triển của bệnh.",
+    "transmission_routes": []
+  },
+  "risk_factors": [
+    "Giới tính: phụ nữ có nguy cơ mắc bệnh cao hơn nam giới, có thể do liên quan đến hormone estrogen",
+    "Tiếp xúc với mức bức xạ cao: điều trị bằng tia xạ lên vùng đầu và cổ làm tăng nguy cơ ung thư tuyến giáp",
+    "Một số hội chứng di truyền: hội chứng Cowden, bệnh đa polyp tuyến...",
+    "Thiếu hụt iốt kéo dài",
+    "Tuổi: thường gặp ở người từ 30-50 tuổi đối với ung thư tuyến giáp thể nhú, và trên 50 tuổi đối với ung thư tuyến giáp thể nang",
+    "Tiền sử gia đình có người mắc ung thư tuyến giáp",
+    "Thiếu iốt trong chế độ ăn uống"
+  ],
+  "complications": [
+    "Di căn đến hạch bạch huyết ở cổ (khoảng 70% ca di căn)",
+    "Di căn ra ngoài cổ đến các cơ quan khác như phổi (phổ biến nhất), xương, gan, não...",
+    "Khó thở do khối u chèn ép khí quản",
+    "Khó nuốt do khối u chèn ép thực quản",
+    "Mất giọng nói do tổn thương dây thanh quản",
+    "Tử vong (hiếm gặp và chủ yếu ở bệnh nhân di căn ra ngoài cổ)"
+  ],
+  "diagnosis": {
+    "methods": [
+      "Khám lâm sàng để phát hiện khối u ở cổ",
+      "Hỏi tiền sử bệnh và tiền sử gia đình",
+      "Đánh giá các triệu chứng như khàn tiếng, khó nuốt..."
+    ],
+    "tests": [
+      {
+        "name": "Xét nghiệm xác định nồng độ hormone",
+        "description": "Đo nồng độ hormone kích thích tuyến giáp (TSH) và hormone do tuyến giáp sản xuất để đánh giá chức năng tuyến giáp, cung cấp thông tin để lựa chọn các xét nghiệm hình ảnh tiếp theo."
+      },
+      {
+        "name": "Xét nghiệm kháng thể",
+        "description": "Phát hiện kháng thể liên quan đến rối loạn tự miễn dịch như bệnh Hashimoto hoặc bệnh Graves, giúp phân biệt nguyên nhân bướu cổ."
+      },
+      {
+        "name": "Siêu âm tuyến giáp",
+        "description": "Sử dụng sóng âm thanh để tạo hình ảnh của tuyến giáp, xác định kích thước, vị trí và đặc điểm của các nhân giáp (rắn hay chứa dịch), cũng như kiểm tra các hạch bạch huyết lân cận."
+      },
+      {
+        "name": "Xạ hình tuyến giáp",
+        "description": "Sử dụng chất phóng xạ để tạo hình ảnh tuyến giáp, giúp xác định khối u có khả năng ác tính hay không và đánh giá tình trạng di căn ở ung thư tuyến giáp thể biệt hóa."
+      },
+      {
+        "name": "Sinh thiết tuyến giáp",
+        "description": "Chọc hút nhân giáp bằng kim nhỏ (FNA) để lấy mẫu tế bào, giúp xác định nhân giáp có phải là ung thư hay không. Thường thực hiện dưới hướng dẫn của siêu âm."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Tạo hình ảnh chi tiết của tuyến giáp và các cấu trúc xung quanh, đánh giá sự lan rộng của khối u và tình trạng di căn."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết của các mô mềm, giúp đánh giá mức độ xâm lấn của khối u và tình trạng di căn."
+      }
+    ]
+  },
+  "treatment": {
+    "note": "Phương pháp điều trị bướu cổ ác tính phụ thuộc vào loại ung thư tuyến giáp, giai đoạn bệnh và tình trạng sức khỏe của người bệnh. Điều trị thường bao gồm phẫu thuật, điều trị bằng i-ốt phóng xạ và/hoặc liệu pháp hormone.",
+    "methods": [
+      {
+        "name": "Phẫu thuật",
+        "description": "Phương pháp điều trị đầu tiên đối với hầu hết các loại ung thư tuyến giáp. Bác sĩ có thể phẫu thuật loại bỏ tất cả hoặc một phần tuyến giáp và các hạch bạch huyết bị ảnh hưởng. Sau phẫu thuật, người bệnh cần nghỉ ngơi vài tuần và tránh các hoạt động tác động lên cổ."
+      },
+      {
+        "name": "Điều trị bằng i-ốt phóng xạ",
+        "description": "Thường được khuyến cáo sau phẫu thuật để tiêu diệt các tế bào ung thư còn sót lại và giảm nguy cơ tái phát. Người bệnh uống i-ốt phóng xạ dạng lỏng hoặc viên nang, tuyến giáp hấp thụ i-ốt và phá hủy các tế bào ung thư."
+      },
+      {
+        "name": "Liệu pháp hormone",
+        "description": "Sau phẫu thuật cắt bỏ tuyến giáp, người bệnh cần uống thuốc thay thế hormone tuyến giáp suốt đời để ngăn ngừa các triệu chứng thiếu hụt hormone như mệt mỏi, tăng cân, khô da."
+      },
+      {
+        "name": "Xạ trị ngoài",
+        "description": "Đối với một số loại ung thư tuyến giáp như ung thư biểu mô tuyến giáp thể tủy hoặc khi ung thư không đáp ứng với i-ốt phóng xạ, xạ trị ngoài có thể được sử dụng để tiêu diệt tế bào ung thư."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Thường được sử dụng cho ung thư biểu mô tuyến giáp không sản sinh hoặc ung thư tiến triển không đáp ứng với các phương pháp điều trị khác để kiểm soát các triệu chứng."
+      },
+      {
+        "name": "Bổ sung canxi",
+        "description": "Trong một số trường hợp, các tuyến cận giáp (điều chỉnh nồng độ canxi trong máu) có thể bị ảnh hưởng trong quá trình phẫu thuật, người bệnh cần bổ sung canxi cho đến khi các tuyến này hoạt động bình thường trở lại."
+      }
+    ],
+    "recommendations": [
+      "Tuân thủ chặt chẽ kế hoạch điều trị và tái khám theo lịch hẹn của bác sĩ",
+      "Uống thuốc thay thế hormone tuyến giáp đúng liều lượng và thời gian",
+      "Tránh các hoạt động gắng sức trong thời gian hồi phục sau phẫu thuật",
+      "Bổ sung đầy đủ các thực phẩm giàu iốt như cá biển, nước mắm, muối iốt",
+      "Khám sức khỏe định kỳ để theo dõi và phát hiện sớm nếu có dấu hiệu tái phát",
+      "Tham gia các nhóm hỗ trợ bệnh nhân ung thư tuyến giáp để chia sẻ kinh nghiệm và nhận hỗ trợ tâm lý",
+      "Duy trì lối sống lành mạnh: ăn uống cân bằng, tập thể dục đều đặn, không hút thuốc",
+      "Ghi chép lại các triệu chứng hoặc tác dụng phụ của thuốc để thông báo cho bác sĩ trong các lần khám tiếp theo"
+    ],
+    "prevention_of_transmission": []
+  },
+  "prevention": {
+    "vaccine": {
+      "description": "Hiện chưa có vaccine phòng ngừa bướu cổ ác tính.",
+      "recommended_for": []
+    },
+    "general_recommendations": [
+      "Bổ sung đầy đủ các thực phẩm giàu iốt như cá biển (cá thu, cá ngừ), nước mắm, muối iốt để giảm nguy cơ thiếu iốt",
+      "Hạn chế tiếp xúc với bức xạ không cần thiết, đặc biệt là vùng đầu và cổ",
+      "Khám sức khỏe định kỳ, đặc biệt là người có tiền sử mắc các bệnh lý tuyến giáp",
+      "Đến cơ sở y tế khi có dấu hiệu bất thường ở cổ như cổ họng bị vướng, đau, nuốt khó, khó thở",
+      "Tuân thủ chỉ định của bác sĩ và không tự ý điều trị theo các cách dân gian",
+      "Duy trì lối sống lành mạnh: ăn uống cân bằng, tập thể dục đều đặn, không hút thuốc",
+      "Người có tiền sử gia đình mắc ung thư tuyến giáp nên tầm soát thường xuyên hơn"
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Bướu cổ ác tính có phổ biến không?",
+      "answer": "Bướu cổ ác tính (ung thư tuyến giáp) tương đối hiếm gặp. Theo Bộ Y tế, ung thư tuyến giáp xếp thứ 9 trong số các loại ung thư phổ biến nhất ở Việt Nam, với hơn 5.400 ca mắc mới trong năm 2020. Đa số các trường hợp bướu cổ là lành tính, chỉ khoảng 5-15% là ác tính. Tỷ lệ mắc ở phụ nữ cao hơn nam giới."
+    },
+    {
+      "question": "Có thể phát hiện bướu cổ ác tính ở giai đoạn sớm không?",
+      "answer": "Có, bướu cổ ác tính có thể được phát hiện ở giai đoạn sớm thông qua các phương pháp chẩn đoán hiện đại. Ở giai đoạn đầu, bướu cổ ác tính thường không gây triệu chứng rõ ràng và có thể được phát hiện tình cờ qua siêu âm, chụp CT, MRI hoặc PET khi khám sức khỏe định kỳ. Phát hiện sớm giúp tăng cơ hội điều trị thành công và cải thiện tiên lượng bệnh."
+    },
+    {
+      "question": "Bướu cổ ác tính có chữa được không?",
+      "answer": "Bướu cổ ác tính hoàn toàn có thể điều trị thành công, đặc biệt nếu được phát hiện ở giai đoạn sớm. Các phương pháp điều trị chính bao gồm phẫu thuật, điều trị bằng i-ốt phóng xạ và liệu pháp hormone. Đối với ung thư tuyến giáp thể biệt hóa (phổ biến nhất), tỷ lệ sống sau 5 năm rất cao, có thể lên đến 98%. Tuy nhiên, tiên lượng phụ thuộc vào loại ung thư, giai đoạn bệnh và đáp ứng với điều trị."
+    },
+    {
+      "question": "Sau phẫu thuật cắt tuyến giáp, tôi có cần uống thuốc suốt đời không?",
+      "answer": "Có, sau khi phẫu thuật cắt bỏ toàn bộ tuyến giáp, cơ thể không còn khả năng sản xuất hormone tuyến giáp. Vì vậy, người bệnh cần uống thuốc thay thế hormone tuyến giáp (levothyroxine) suốt đời để duy trì chức năng bình thường của cơ thể. Việc không dùng thuốc có thể dẫn đến các triệu chứng thiếu hụt hormone như mệt mỏi, tăng cân, sụt cân, khô da và nhiều vấn đề sức khỏe khác."
+    },
+    {
+      "question": "Các loại ung thư tuyến giáp nào nguy hiểm nhất?",
+      "answer": "Trong các loại ung thư tuyến giáp, ung thư biểu mô tuyến giáp không biệt hóa (anaplastic) và ung thư tuyến giáp tế bào tủy (medullary) được coi là nguy hiểm nhất. Ung thư biểu mô không biệt hóa hiếm gặp nhưng phát triển rất nhanh, thường không đáp ứng với điều trị thông thường và có tiên lượng kém. Ung thư tuyến giáp tế bào tủy tiến triển chậm hơn nhưng khó điều trị hơn các loại ung thư tuyến giáp biệt hóa. Ngược lại, ung thư tuyến giáp thể nhú và thể nang (chiếm đa số các trường hợp) thường có tiên lượng tốt hơn nhiều."
+    }
+  ],
+  "common_questions": [
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó thở, ho khan và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bướu cổ ác tính",
+        "Bướu cổ lành tính",
+        "Viêm tuyến giáp",
+        "Ung thư thanh quản",
+        "Bệnh Hodgkin"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sụt cân không rõ nguyên nhân và có hạch ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bướu cổ ác tính",
+        "Ung thư hạch bạch huyết",
+        "Bệnh bạch cầu",
+        "Lao",
+        "Nhiễm trùng mãn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay đau xương, khó thở và có tiền sử bướu cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bướu cổ ác tính di căn xương",
+        "Viêm khớp",
+        "Loãng xương",
+        "Ung thư xương nguyên phát",
+        "Bệnh đa u tủy xương"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khàn tiếng, khó nuốt và có khối u phát triển nhanh ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bướu cổ ác tính",
+        "Ung thư thanh quản",
+        "Ung thư thực quản",
+        "Viêm tuyến giáp cấp tính",
+        "Bệnh bướu cổ ác tính thể không biệt hóa"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lo lắng, tim đập nhanh và sụt cân không rõ lý do. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Cường giáp",
+        "Rối loạn lo âu",
+        "Bướu cổ ác tính",
+        "Suy tim",
+        "Hội chứng carcinoid"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu, mờ mắt và có tiền sử bướu cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bướu cổ ác tính di căn não",
+        "Tăng huyết áp",
+        "U não",
+        "Đau nửa đầu Migraine",
+        "Glôcôm"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như vàng da, đau bụng và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bướu cổ ác tính di căn gan",
+        "Viêm gan",
+        "Ung thư gan",
+        "Sỏi mật",
+        "Tắc mật"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy yếu cơ, khó thở và có hạch ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bướu cổ ác tính",
+        "Nhược cơ",
+        "Ung thư phổi",
+        "Viêm đa cơ",
+        "Hội chứng Guillain-Barré"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ho ra máu, đau ngực và có tiền sử bướu cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bướu cổ ác tính di căn phổi",
+        "Lao phổi",
+        "Viêm phế quản",
+        "Ung thư phổi",
+        "Giãn phế quản"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sưng phù mặt, khó thở và có khối u chèn ép ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bướu cổ ác tính giai đoạn tiến triển",
+        "Hội chứng chèn ép tĩnh mạch chủ trên",
+        "Phù mạch",
+        "Viêm mô tế bào",
+        "Bệnh thận"
+      ]
+    }
+  ]
+}
