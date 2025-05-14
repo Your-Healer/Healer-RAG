@@ -1,39 +1,115 @@
 {
   "disease_id": "hoi-chung-swyer",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng Swyer",
+  "disease_alternative_names": [
+    "Rối loạn phát triển giới tính",
+    "Rối loạn phát triển giới tính 46,XY",
+    "Loạn sản tuyến sinh dục XY thuần"
+  ],
+  "disease_definition": "Hội chứng Swyer hay rối loạn phát triển giới tính, là một bệnh lý bẩm sinh hiếm gặp trong đó có sự phát triển không điển hình của nhiễm sắc thể, tuyến sinh dục hoặc biểu hiện giải phẫu ở cơ quan sinh dục. Người mắc hội chứng này có kiểu gen 46,XY nhưng kiểu hình nữ, với tỷ lệ mắc khoảng 1/80.000 trẻ sinh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Vô kinh",
+      "description": "Hoàn toàn không có kinh nguyệt từ khi bước vào lứa tuổi dậy thì."
+    },
+    {
+      "name": "Dậy thì muộn",
+      "description": "Sự phát triển dậy thì chậm hoặc không diễn ra, thường không phát triển các đặc điểm sinh dục thứ cấp."
+    },
+    {
+      "name": "Tăng chiều cao bất thường",
+      "description": "Chiều cao trung bình của phụ nữ mắc hội chứng Swyer là 173cm so với chiều cao trung bình của phụ nữ là 161cm, thường do sự ảnh hưởng của nhiễm sắc thể Y."
+    },
+    {
+      "name": "Lông mu dài, thưa",
+      "description": "Lông mu phát triển không bình thường, thưa thớt hơn so với phụ nữ khác cùng độ tuổi."
+    },
+    {
+      "name": "Bộ phận sinh dục ngoài nữ điển hình",
+      "description": "Có âm hộ, âm đạo bình thường, nhưng tuyến sinh dục không phát triển hoàn toàn."
+    },
+    {
+      "name": "Buồng trứng teo nhỏ",
+      "description": "Tuyến sinh dục teo nhỏ, không có khả năng nội tiết tố, dẫn đến vô kinh và dậy thì muộn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính là do đột biến gen hoặc sự xóa bỏ trong vùng liên kết DNA của gen SRY trên nhiễm sắc thể Y, khoảng 10-20% phụ nữ bị hội chứng Swyer có một sự xóa đi trong vùng liên kết DNA của gen SRY.",
+    "related_factors": "Nhiều gen gây bệnh đã được xác định như: ARX, ATRX, CBX2, DHH, DMRT1, GATA4, MAMLD1, MAP3K1, NR0B1, NR5A1, SOX9, SRY, WNT4, WT1 và WWOX. Gen SOX9 được biết đến như là một gen xác định giới tính nòng cốt có vai trò quan trọng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố gia đình (có anh chị em mắc bệnh, nhưng chỉ chiếm 4%)",
+    "Đột biến gen SRY",
+    "Đột biến gen SOX9",
+    "Bất thường nhiễm sắc thể"
+  ],
+  "complications": [
+    "Nguy cơ cao phát triển thành ung thư tế bào mầm (15-35%)",
+    "Có thể phát triển thành những bệnh lý ác tính như ung thư tế bào mầm, u quái, ung thư biểu mô phôi",
+    "Giảm mật độ xương do thiếu hụt estrogen",
+    "Không phát triển các đặc điểm tình dục thứ cấp",
+    "Ảnh hưởng tâm lý, mặc cảm xã hội"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng với những bé nữ vô kinh hoặc không dậy thì ở tuổi 14",
+      "Sàng lọc trước sinh khi gia đình có yếu tố nguy cơ",
+      "Xét nghiệm di truyền"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phân tích karyotype máu ngoại vi",
+        "description": "Xác định kiểu gen, cho kết quả 46,XY trên cơ thể có kiểu hình nữ."
+      },
+      {
+        "name": "Xét nghiệm steroid nước tiểu",
+        "description": "Phục vụ cho xem xét sự sinh tổng hợp của cortisol hoặc sự thiếu hụt testosterone."
+      },
+      {
+        "name": "Xét nghiệm dấu ấn ung thư",
+        "description": "Kiểm tra các dấu ấn AFP, beta hCG, LDH, Phosphatase kiềm để phục vụ chẩn đoán và điều trị phẫu thuật."
+      },
+      {
+        "name": "Siêu âm bụng chậu",
+        "description": "Phương tiện tiện lợi và có giá trị chẩn đoán cao để xác định cấu trúc tuyến sinh dục và các cấu trúc ống Mullerian."
+      },
+      {
+        "name": "MRI",
+        "description": "Được chỉ định khi siêu âm không rõ trong việc mô tả mối quan hệ của các cấu trúc ống Mullerian và có những bất thường của đường tiết niệu."
+      },
+      {
+        "name": "CT ổ bụng",
+        "description": "Giúp phát hiện hình ảnh buồng trứng hai bên teo nhỏ, tử cung nhỏ."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc chẩn đoán sớm với hội chứng Swyer rất quan trọng, không chỉ vì nguy cơ phát triển thành ác tính của tuyến sinh dục mà còn phục vụ cho việc dùng liệu pháp hormone để điều trị cho bệnh nhân để thúc đẩy và duy trì sự phát triển dậy thì, phát triển tâm sinh lý, thể chất một cách tối đa.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt bỏ tuyến sinh dục",
+        "description": "Cắt bỏ buồng trứng, vòi trứng hai bên ngay sau khi được chẩn đoán hội chứng Swyer để ngăn ngừa nguy cơ phát triển thành ung thư tế bào mầm."
+      },
+      {
+        "name": "Liệu pháp hormone thay thế",
+        "description": "Cung cấp hormone estrogen để thúc đẩy và duy trì sự phát triển dậy thì, có thể kéo dài đến tuổi mãn kinh."
+      },
+      {
+        "name": "Phẫu thuật thẩm mỹ ngực",
+        "description": "Điều trị cho các bệnh nhân có giảm sản tuyến vú do không phát triển đặc điểm tình dục thứ cấp."
+      },
+      {
+        "name": "Liệu pháp tâm lý",
+        "description": "Giúp bệnh nhân vượt qua các vấn đề tâm lý, cải thiện giao tiếp và giảm mặc cảm xã hội."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Cắt bỏ tuyến sinh dục ngay sau khi được chẩn đoán",
+      "Dùng hormone thay thế lâu dài",
+      "Tham gia vào các hội nhóm về bệnh lý tương tự để chia sẻ kinh nghiệm điều trị và kinh nghiệm sống",
+      "Tư vấn tâm lý thường xuyên"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +117,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Xét nghiệm di truyền sàng lọc trước sinh khi gia đình có tiền sử bệnh",
+      "Thăm khám sớm với bé gái không có kinh nguyệt hoặc không dậy thì ở tuổi 14",
+      "Tư vấn di truyền cho các gia đình có người mắc bệnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng Swyer có thể chẩn đoán từ khi nào?",
+      "answer": "Nên kiểm tra chuyên khoa với những bé nữ vô kinh hoặc không dậy thì ở tuổi 14. Tuy nhiên, thăm khám này có thể gây ảnh hưởng đến tâm lý bệnh nhân, nên cần thăm khám cẩn thận dưới sự tư vấn của bác sĩ chuyên khoa, có thể cần đến bác sĩ tâm lý."
+    },
+    {
+      "question": "Người bị hội chứng Swyer có thể sinh con không?",
+      "answer": "Ở những bệnh nhân có hội chứng Swyer, vẫn có tử cung, âm hộ, âm đạo nên vẫn có thể mang thai nhờ vào sự cho trứng của người khác. Đã có nhiều báo cáo về khả năng mang thai và sinh con với cân nặng bình thường ở bệnh nhân có hội chứng Swyer."
+    },
+    {
+      "question": "Hội chứng Swyer có nguy cơ gì?",
+      "answer": "Ở bệnh nhân mắc hội chứng Swyer, có nguy cơ cao dẫn tới ung thư tế bào mầm (15-35%). Ngoài ra, việc thiếu hụt estrogen gây nên sự dậy thì muộn, giảm mật độ xương và không phát triển các đặc điểm tình dục thứ cấp."
+    },
+    {
+      "question": "Điều trị hội chứng Swyer như thế nào?",
+      "answer": "Điều trị bao gồm phẫu thuật cắt bỏ tuyến sinh dục (buồng trứng, vòi trứng) hai bên để dự phòng khả năng phát triển thành bệnh lý ác tính, liệu pháp hormone thay thế có thể kéo dài đến tuổi mãn kinh, phẫu thuật thẩm mỹ ngực (nếu cần), và liệu pháp tâm lý."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi là nữ, có bộ phận sinh dục nữ bình thường nhưng lại không có kinh nguyệt và dậy thì muộn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-swyer",
+        "suy-buong-trung-som",
+        "thieu-nang-tuyen-sinh-duc"
+      ]
+    },
+    {
+      "question": "Tôi là nữ và có chiều cao vượt trội so với bạn bè cùng trang lứa, khoảng 1m73. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-swyer",
+        "hoi-chung-marfan",
+        "thieu-hormone-sinh-duc"
+      ]
+    },
+    {
+      "question": "Tôi là nữ, dậy thì muộn, lông mu thưa thớt và cao hơn bạn bè. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-swyer",
+        "thieu-hormone-sinh-duc",
+        "suy-buong-trung"
+      ]
+    },
+    {
+      "question": "Tôi là nữ, có kiểu hình nữ bình thường nhưng xét nghiệm karyotype lại cho kết quả 46,XY. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-swyer",
+        "hoi-chung-khang-androgen",
+        "roi-loan-phat-trien-gioi-tinh"
+      ]
+    },
+    {
+      "question": "Tôi là nữ, vô kinh, không dậy thì và có chị gái cũng gặp tình trạng tương tự. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-swyer",
+        "suy-buong-trung-som",
+        "suy-tuyen-yeu"
+      ]
     }
   ]
 }

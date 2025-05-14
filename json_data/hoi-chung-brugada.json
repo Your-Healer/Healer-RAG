@@ -1,39 +1,83 @@
 {
   "disease_id": "hoi-chung-brugada",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng Brugada",
+  "disease_alternative_names": ["Brugada Syndrome", "Hội chứng Brugada đột tử"],
+  "disease_definition": "Hội chứng Brugada là tình trạng gây ra loạn nhịp tim nguy hiểm ở các ngăn dưới của tim (tâm thất) gọi là loạn nhịp thất. Loạn nhịp thất ở bệnh nhân bị hội chứng Brugada thường gặp là rung thất, trong đó tâm thất đập rất nhanh và hỗn loạn có thể gây ngất và dẫn đến đột tử. Hội chứng Brugada là một trong những nguyên nhân gây đột tử ở người trẻ tuổi, đặc biệt ở vùng Đông Nam Á, châu Á.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Hồi hộp do rối loạn nhịp",
+      "description": "Cảm giác tim đập nhanh bất thường, bỏ nhịp hoặc không đều do rối loạn nhịp tim."
+    },
+    {
+      "name": "Ngất hoặc gần ngất",
+      "description": "Tình trạng mất ý thức tạm thời hoặc cảm giác sắp ngất do thiếu máu não nhất thời khi tim không bơm đủ máu lên não."
+    },
+    {
+      "name": "Ngưng tim được cứu sống",
+      "description": "Tiền sử đã từng bị ngưng tim và được thực hiện cấp cứu kịp thời."
+    },
+    {
+      "name": "Không có triệu chứng",
+      "description": "Nhiều người mắc bệnh Brugada không có bất kỳ triệu chứng nào, đa số bệnh nhân chỉ được phát hiện tình cờ do khám sức khỏe tổng quát hoặc đi khám vì bệnh lý khác."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hội chứng Brugada thường do đột biến gen. Đột biến này có thể di truyền lại cho các thế hệ sau. Khi đột biến gen tích tụ đủ sẽ biểu hiện thành hội chứng Brugada.",
+    "related_factors": "Nam giới, người gốc Á, và sốt cao có thể làm tăng nguy cơ hoặc làm biểu hiện bệnh rõ ràng hơn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình mắc hội chứng Brugada",
+    "Nam giới (nguy cơ cao hơn nữ giới từ 8-10 lần)",
+    "Chủng tộc châu Á",
+    "Sốt (có thể kích thích tim và gây ngất xỉu hoặc ngừng tim đột ngột, đặc biệt ở trẻ em)"
+  ],
+  "complications": [
+    "Ngất xỉu",
+    "Ngừng tim đột ngột",
+    "Đột tử",
+    "Rối loạn nhịp tim nguy hiểm",
+    "Rung thất"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Thực hiện các xét nghiệm cận lâm sàng",
+      "Tầm soát di truyền"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Giúp tầm soát, có thể phát hiện các dấu hiệu bất thường trên ECG gợi ý bệnh Brugada."
+      },
+      {
+        "name": "Điện tâm đồ với thuốc",
+        "description": "Một số trường hợp đo ECG không rõ các dấu hiệu bất thường, bác sĩ đo điện tâm đồ với thuốc hoặc làm các nghiệm pháp giúp tăng khả năng bộc lộ bệnh để làm rõ chẩn đoán."
+      },
+      {
+        "name": "Xét nghiệm di truyền",
+        "description": "Giúp phụ chẩn đoán và tiên lượng bệnh. Xét nghiệm này cũng nên được chỉ định cho các thành viên khác trong gia đình của bệnh nhân."
+      },
+      {
+        "name": "Thăm dò điện sinh lý tim",
+        "description": "Bác sĩ chuyên về loạn nhịp tim sẽ dùng điện cực đưa vào buồng tim để khảo sát và kiểm tra xem có khởi phát được cơn loạn nhịp thất nguy hiểm nào không."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nếu được chẩn đoán bị hội chứng Brugada, có tiền sử rối loạn nhịp thất nguy hiểm, tiền căn ngưng tim được cứu sống hoặc khảo sát điện sinh lý ghi nhận có cơn rối loạn nhịp nguy hiểm thì bệnh được xem là nguy cơ đột tử cao.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cấy máy khử rung tim (ICD)",
+        "description": "Đây là phương pháp hữu hiệu nhất để phòng ngừa đột tử do loạn nhịp tim ở bệnh nhân bị hội chứng Brugada. Máy sẽ phát hiện và điều trị các cơn rối loạn nhịp tim nguy hiểm."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Được đánh giá và điều trị bởi các bác sĩ chuyên khoa Loạn nhịp tim giàu kinh nghiệm",
+      "Thăm khám định kỳ với bác sĩ tim mạch",
+      "Tránh các yếu tố có thể gây kích thích bệnh như sốt cao và một số loại thuốc",
+      "Thông báo tình trạng bệnh cho người thân để họ có thể hỗ trợ khi cần thiết"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +85,68 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát bệnh cho những người có tiền sử gia đình bị đột tử do tim hoặc có người trực hệ bị Brugada",
+      "Kiểm tra định kỳ với bác sĩ chuyên khoa tim mạch nếu đã được chẩn đoán mắc hội chứng Brugada",
+      "Xét nghiệm di truyền cho các thành viên trong gia đình của người bệnh",
+      "Kiểm soát sốt kịp thời, đặc biệt ở trẻ em đã được chẩn đoán hội chứng Brugada",
+      "Tránh sử dụng một số loại thuốc có thể gây trầm trọng thêm tình trạng bệnh (theo hướng dẫn của bác sĩ)"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng Brugada là gì?",
+      "answer": "Hội chứng Brugada là tình trạng gây ra loạn nhịp tim nguy hiểm ở các ngăn dưới của tim (tâm thất) gọi là loạn nhịp thất. Loạn nhịp thất ở bệnh nhân bị hội chứng Brugada thường gặp là rung thất, trong đó tâm thất đập rất nhanh và hỗn loạn có thể gây ngất và dẫn đến đột tử. Đây là một bệnh hiếm gặp do đột biến gen di truyền từ cha hoặc mẹ."
+    },
+    {
+      "question": "Hội chứng Brugada có phổ biến không?",
+      "answer": "Hội chứng Brugada là một bệnh hiếm gặp. Bệnh thường gặp ở nam nhiều hơn nữ, với nam giới có nguy cơ mắc bệnh này cao hơn nữ giới từ 8-10 lần. Bệnh cũng phổ biến hơn ở người châu Á so với các chủng tộc khác."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán hội chứng Brugada?",
+      "answer": "Chẩn đoán hội chứng Brugada dựa vào khám lâm sàng và các xét nghiệm như điện tâm đồ (ECG), điện tâm đồ với thuốc, xét nghiệm di truyền và thăm dò điện sinh lý tim. Nhiều bệnh nhân không có triệu chứng và được phát hiện tình cờ khi khám sức khỏe tổng quát."
+    },
+    {
+      "question": "Hội chứng Brugada có thể điều trị được không?",
+      "answer": "Hiện tại, không có phương pháp chữa trị hoàn toàn cho hội chứng Brugada. Biện pháp điều trị chính là cấy máy khử rung tim (ICD) để phòng ngừa đột tử cho những bệnh nhân có nguy cơ cao. Đây là phương pháp hữu hiệu nhất để phòng ngừa đột tử do loạn nhịp tim ở bệnh nhân bị hội chứng Brugada."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị hồi hộp và rối loạn nhịp tim. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-brugada",
+        "roi-loan-nhip-tim",
+        "benh-tim-mach"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngất hoặc gần ngất. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-brugada",
+        "ha-duong-huyet",
+        "roi-loan-nhip-tim"
+      ]
+    },
+    {
+      "question": "Tôi từng bị ngưng tim và được cứu sống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-brugada",
+        "roi-loan-nhip-tim",
+        "nhoi-mau-co-tim"
+      ]
+    },
+    {
+      "question": "Tôi có gia đình người thân đột tử khi còn trẻ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-brugada",
+        "benh-tim-bam-sinh",
+        "roi-loan-nhip-tim"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngất khi bị sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hoi-chung-brugada", "ha-duong-huyet", "suy-tim"]
     }
   ]
 }

@@ -1,39 +1,104 @@
 {
   "disease_id": "kho-khop",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Khô khớp",
+  "disease_alternative_names": ["Suy giảm dịch khớp", "Thiếu chất nhờn khớp"],
+  "disease_definition": "Khô khớp là tình trạng khớp không sản sinh hoặc sản sinh không đủ chất nhờn bôi trơn khi sụn khớp hoạt động. Điều này dẫn tới những triệu chứng như khô cứng khớp, xuất hiện tiếng lạo xạo khi cử động khớp. Các khớp thường bị khô là khớp háng, khớp vai, khớp tay, đặc biệt là khớp gối.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau khớp",
+      "description": "Khi khởi phát, người bệnh sẽ bị đau nhẹ, thoáng qua tại khớp ảnh hưởng mỗi khi thực hiện những động tác co, duỗi, xoay khớp, thay đổi tư thế vận động đột ngột. Lâu dần, tình trạng đau khớp xuất hiện với tần suất dày đặc hơn và dữ dội hơn."
+    },
+    {
+      "name": "Cứng khớp",
+      "description": "Ngoài cảm giác đau nhức, người bệnh còn bị căng cứng khớp. Đặc biệt vào buổi sáng, triệu chứng này sẽ càng nghiêm trọng, rất khó co duỗi khớp."
+    },
+    {
+      "name": "Khớp phát ra tiếng",
+      "description": "Khi thực hiện các cử động cơ thể, những khớp bị khô thường là khớp gối và khớp vai. Các khớp này sẽ phát ra tiếng lục cục, lạo xạo hoặc răng rắc. Đây là triệu chứng khô khớp dễ nhận biết nhất."
+    },
+    {
+      "name": "Hạn chế vận động",
+      "description": "Khi khớp bị khô nghiêm trọng, những hoạt động của người bệnh thường bị hạn chế rất nhiều. Độ linh hoạt của khớp khi đó cũng bị suy giảm."
+    },
+    {
+      "name": "Sưng, nóng, đỏ vùng khớp",
+      "description": "Một số trường hợp còn xuất hiện những triệu chứng liên quan tới viêm khớp như sưng, nóng, đỏ tại vùng da quanh khớp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Khô khớp là tình trạng khớp không sản sinh hoặc sản sinh không đủ chất nhờn bôi trơn khi sụn khớp hoạt động.",
+    "related_factors": "Tuổi tác và thoái hóa khớp, mất cân bằng dinh dưỡng, thói quen sinh hoạt không lành mạnh, thừa cân béo phì, lạm dụng các chất kích thích như rượu bia và hút thuốc lá.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác và thoái hóa khớp",
+    "Mất cân bằng dinh dưỡng, thiếu hụt vitamin, khoáng chất",
+    "Lạm dụng các chất kích thích như rượu bia, hút thuốc lá",
+    "Lối sống lười vận động",
+    "Lạm dụng khớp quá mức, thường xuyên vận động sai tư thế",
+    "Thừa cân béo phì",
+    "Chấn thương khớp trước đó",
+    "Bệnh lý xương khớp khác như viêm khớp, thoái hóa khớp"
+  ],
+  "complications": [
+    "Hạn chế tầm vận động của khớp",
+    "Tình trạng đau nhức, khó chịu kéo dài, gây ảnh hưởng xấu tới sức khỏe thể chất và tinh thần",
+    "Biến dạng khớp và teo cơ",
+    "Chân cong vẹo, đi đứng tập tễnh (trường hợp khô dịch khớp gối)",
+    "Cứng khớp, mất khả năng vận động"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Xét nghiệm máu", "Chẩn đoán hình ảnh"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ thăm khám những biểu hiện bên ngoài khớp, kiểm tra khả năng vận động và phạm vi mở rộng của khớp. Người bệnh cung cấp thông tin về tiền sử bệnh để đánh giá mức độ nghiêm trọng."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Chẩn đoán nguyên nhân gây khô khớp và chẩn đoán loại trừ các bệnh lý khớp viêm khác (viêm khớp dạng thấp, viêm khớp nhiễm khuẩn, viêm xương khớp, bệnh gút…)."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Kiểm tra gai xương, tổn thương xương dưới sụn và đánh giá mức độ tổn thương các mô mềm."
+      },
+      {
+        "name": "Chụp CT scan",
+        "description": "Cung cấp hình ảnh chi tiết hơn về khớp và cấu trúc xung quanh."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Đánh giá tình trạng hao mòn sụn và các bất thường khác làm quá trình tiết dịch khớp không diễn ra."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy theo mức độ và nguyên nhân cụ thể, bác sĩ sẽ lên phác đồ điều trị phù hợp với mỗi người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc",
+        "description": "Trong trường hợp khô khớp kèm đau nhức và viêm khớp, bác sĩ có thể chỉ định người bệnh dùng một số loại thuốc giảm đau, giảm viêm, tăng tiết dịch nhờn để cải thiện tình trạng khô ở các khớp."
+      },
+      {
+        "name": "Tiêm chất nhờn vào khớp",
+        "description": "Bác sĩ thực hiện tiêm chất nhờn Hyaluronic Acid vào khớp để cải thiện tình trạng khô khớp, giảm ma sát những đầu xương, từ đó giúp khớp trơn tru và giảm đau."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Những bài tập vật lý trị liệu được thiết kế riêng giúp gia tăng sức mạnh và độ dẻo dai cho cơ xương khớp. Khi cải thiện được chức năng vận động, việc điều tiết dịch trong khớp sẽ đều đặn hơn."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trường hợp tình trạng khô ở các khớp nghiêm trọng, gần như không còn sụn khớp bao phủ bề mặt xương, bác sĩ có thể cân nhắc chỉ định thay khớp nhân tạo."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng theo hướng dẫn từ bác sĩ",
+      "Tránh tự ý tăng/giảm liều, thay đổi thuốc và kéo dài thời gian dùng thuốc",
+      "Thực hiện đều đặn các bài tập vật lý trị liệu được bác sĩ chỉ định",
+      "Duy trì chế độ sinh hoạt lành mạnh",
+      "Tránh các hoạt động gây áp lực lên khớp quá mức"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +106,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thường xuyên vận động và luyện tập các bài tập với cường độ thích hợp",
+      "Tránh ngồi một chỗ quá lâu, nên vươn vai, đi lại, co duỗi khớp gối mỗi 30 phút/lần",
+      "Hạn chế vận động gắng sức, sắp xếp cân đối giữa thời gian làm việc và nghỉ ngơi",
+      "Không nên mang vác vật nặng quá nhiều để tránh tạo áp lực lớn lên các khớp",
+      "Duy trì cân nặng cơ thể hợp lý",
+      "Thường xuyên xoa bóp để thư giãn và kích thích tăng tiết dịch nhầy ở các khớp",
+      "Điều trị khỏi các chấn thương và bệnh lý đang gặp phải",
+      "Bổ sung glucosamine theo chỉ định từ bác sĩ",
+      "Áp dụng chế độ ăn uống lành mạnh, bổ sung vitamin C, vitamin D, omega-3, chất chống oxy hóa và canxi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khô khớp gối có nên đi bộ, tập thể dục?",
+      "answer": "Khi khớp gối bị khô, vận động nhẹ và tập thể dục với cường độ phù hợp có thể hỗ trợ tốt cho các hoạt động tuần hoàn và lưu thông máu. Mạch máu tại khớp gối được lưu thông tốt sẽ hỗ trợ quá trình tái tạo sụn khớp và tăng tiết dịch tự nhiên. Hơn nữa, vận động đúng cách còn giúp tăng sự dẻo dai cho xương khớp, ngăn ngừa sự bào mòn và thoái hóa ở sụn khớp, hỗ trợ cải thiện khô khớp gối hiệu quả."
+    },
+    {
+      "question": "Khô khớp có ảnh hưởng đến chiều cao không?",
+      "answer": "Hiện vẫn chưa có thông tin nghiên cứu cụ thể về việc khô khớp có ảnh hưởng tới chiều cao. Tuy nhiên, tình trạng này nếu kéo dài có thể khiến xương khớp tổn thương nghiêm trọng. Bệnh có thể gây biến dạng khớp, khiến chân cong vẹo và dáng đi đứng tập tễnh."
+    },
+    {
+      "question": "Đậu bắp có chữa được khô khớp?",
+      "answer": "Có nhiều thông tin cho rằng ăn đậu bắp hoặc các thực phẩm chứa nhiều chất nhờn có thể giúp tăng chất nhờn cho các khớp, từ đó khớp hoạt động trơn tru, điều trị khô khớp. Tuy nhiên, đây chỉ là tin đồn. Hiện tại vẫn chưa có bất kỳ công trình nghiên cứu khoa học nào xác nhận mối tương quan giữa đậu bắp và bệnh khô khớp. Đậu bắp tốt cho sức khỏe nhưng không thể giúp tăng chất nhờn trong khớp, vì chất nhờn từ đậu bắp không đi trực tiếp vào khớp mà được hệ tiêu hóa phân hủy thành các thành phần khác."
+    },
+    {
+      "question": "Khi nào cần đến gặp bác sĩ về tình trạng khô khớp?",
+      "answer": "Bệnh khô khớp không ảnh hưởng đến tính mạng, nhưng khi không có biện pháp can thiệp sớm, người bệnh phải gánh chịu nhiều biến chứng nguy hiểm. Khi những triệu chứng như đau khớp, cứng khớp, tiếng lục cục khi vận động, và hạn chế vận động kéo dài trên 1 tuần, bạn nên nhanh chóng tới những cơ sở y tế chuyên khoa uy tín để được thăm khám, xác định chính xác nguyên nhân, từ đó có hướng điều trị sớm, ngăn ngừa biến chứng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau khớp khi vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-khop", "viem-khop", "thoai-hoa-khop"]
+    },
+    {
+      "question": "Tôi đang cảm thấy cứng khớp vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-khop", "viem-khop-dang-thap", "thoai-hoa-khop"]
+    },
+    {
+      "question": "Tôi hay nghe thấy tiếng lục cục ở khớp gối và khớp vai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-khop", "thoai-hoa-khop", "viem-khop"]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng hạn chế vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-khop", "cung-khop", "thoai-hoa-khop"]
+    },
+    {
+      "question": "Tôi bị đau khớp kèm theo sưng, nóng, đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-khop", "viem-khop", "gut"]
     }
   ]
 }

@@ -1,58 +1,189 @@
 {
   "disease_id": "nhiem-trung-hau-san",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhiễm trùng hậu sản",
+  "disease_alternative_names": ["Nhiễm khuẩn hậu sản", "Viêm nhiễm sau sinh"],
+  "disease_definition": "Nhiễm trùng hậu sản hay nhiễm khuẩn hậu sản là tình trạng vùng kín bị nhiễm khuẩn trong thời kỳ hậu sản. Vi khuẩn xâm nhập từ bộ phận sinh dục theo đường máu, nhiễm khuẩn ngược dòng từ âm đạo, cổ tử cung qua tổn thương đường sinh dục trong và sau sinh. Thường xảy ra trong thời kỳ hậu sản tức là 6 tuần sau sinh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau hạ vị, sốt nhẹ và sản dịch có mùi hôi",
+      "description": "Đây là dấu hiệu điển hình của viêm nội mạc tử cung, một trong những dạng nhiễm trùng hậu sản phổ biến."
+    },
+    {
+      "name": "Đau, cứng, nóng, đỏ ở vú",
+      "description": "Triệu chứng này có thể xuất hiện ở một hoặc cả hai bên vú, thường kèm theo sốt, ớn lạnh, đau cơ, mệt mỏi hay đau đầu, là dấu hiệu của viêm vú sau sinh."
+    },
+    {
+      "name": "Da đỏ, tiết dịch, sưng đau ở vết mổ",
+      "description": "Những thay đổi này xuất hiện xung quanh vết mổ lấy thai, vết khâu tầng sinh môn hoặc vết rách, kèm theo dấu hiệu vết mổ có thể sắp bung."
+    },
+    {
+      "name": "Tiểu khó, tiểu buốt",
+      "description": "Cảm giác phải đi tiểu thường xuyên và khẩn trương nhưng tiểu ra rất ít hoặc không có, nước tiểu nhiều bọt hoặc có máu, là dấu hiệu của nhiễm trùng đường tiết niệu."
+    },
+    {
+      "name": "Sốt cao",
+      "description": "Sốt cao 39-40 độ C, đặc biệt là khi xuất hiện sau sinh từ 2-3 ngày, là dấu hiệu của nhiễm trùng nghiêm trọng."
+    },
+    {
+      "name": "Sản dịch bất thường",
+      "description": "Sản dịch có mùi hôi, có thể lẫn mủ hoặc máu, là triệu chứng của nhiễm trùng buồng tử cung."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nhiễm trùng hậu sản có thể do một số vi khuẩn gây ra như tụ cầu khuẩn (Staphylococcus), liên cầu khuẩn (Streptococcus), E. coli, các vi khuẩn kỵ khí như Clostridium, Bacteroides.",
+    "related_factors": "Nhiễm trùng sau sinh là 1 trong 5 bệnh hậu sản nguy hiểm và thường gặp nhất. Nguyên nhân xuất phát từ việc sót nhau trong khi sinh hoặc nhiễm trùng các vết thương đường sinh dục.",
+    "transmission_routes": [
+      "Đường máu từ bộ phận sinh dục",
+      "Nhiễm khuẩn ngược dòng từ âm đạo, cổ tử cung",
+      "Qua vòi tử cung vào phúc mạc",
+      "Qua chỗ nhau bám vào máu gây nhiễm trùng máu"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Chế độ dinh dưỡng kém",
+    "Thiếu máu",
+    "Nhiễm độc thai nghén",
+    "Béo phì",
+    "Nhiễm khuẩn âm đạo, nhiễm trùng lây qua đường tình dục",
+    "Khám âm đạo nhiều lần trong quá trình chuyển dạ",
+    "Theo dõi thai nhi bằng hình thức xâm nhập vào tử cung",
+    "Chuyển dạ kéo dài",
+    "Chậm trễ khi vỡ ối và sinh",
+    "Bế sản dịch",
+    "Vi khuẩn liên cầu nhóm B trú ở âm đạo",
+    "Còn lại một phần nhau thai trong tử cung sau khi sinh",
+    "Băng huyết sau sinh",
+    "Trẻ tuổi",
+    "Thuộc nhóm kinh tế xã hội thấp"
+  ],
+  "complications": [
+    "Nhiễm khuẩn tầng sinh môn, âm hộ, âm đạo",
+    "Viêm cơ tử cung",
+    "Viêm niêm mạc tử cung",
+    "Viêm dây chằng rộng và phần phụ",
+    "Viêm phúc mạc tiểu khung",
+    "Viêm phúc mạc toàn bộ",
+    "Nhiễm khuẩn huyết (hình thái nặng nhất có thể gây tử vong)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng phát hiện sớm các dấu hiệu nhiễm trùng",
+      "Đo thân nhiệt theo dõi tình trạng sốt",
+      "Theo dõi tử cung co hồi và tình trạng sản dịch"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cấy sản dịch",
+        "description": "Lấy mẫu sản dịch để xác định vi khuẩn gây bệnh và làm kháng sinh đồ"
+      },
+      {
+        "name": "Cấy máu",
+        "description": "Xác định vi khuẩn trong máu và làm kháng sinh đồ, đặc biệt trong trường hợp nghi ngờ nhiễm khuẩn huyết"
+      },
+      {
+        "name": "Xét nghiệm công thức máu",
+        "description": "Kiểm tra tình trạng bạch cầu tăng, đặc biệt bạch cầu đa nhân trung tính, cùng với các chỉ số khác như hồng cầu, hemoglobin"
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "Chụp X-quang bụng, siêu âm tử cung và vùng chậu để đánh giá tình trạng nhiễm trùng"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị nhiễm trùng hậu sản phụ thuộc vào mức độ nghiêm trọng và loại nhiễm trùng. Nhiễm trùng hậu sản là một tai biến sản khoa nguy hiểm nếu không kịp thời được phát hiện và điều trị sẽ gây ảnh hưởng xấu đến sức khỏe của sản phụ, thậm chí có thể khiến mẹ và bé tử vong.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nhiễm khuẩn tầng sinh môn, âm hộ, âm đạo",
+        "description": "Cắt chỉ tầng sinh môn nếu vết khâu tấy đỏ có mủ. Vệ sinh tại chỗ hàng ngày bằng oxy già (vết khâu có mủ), hoặc Betadin. Sử dụng kháng sinh (uống hoặc tiêm) để kiểm soát nhiễm khuẩn."
+      },
+      {
+        "name": "Điều trị viêm niêm mạc tử cung",
+        "description": "Sử dụng kháng sinh toàn thân (tiêm), theo kháng sinh đồ như ampicillin, gentamycin; thuốc làm tăng co bóp tử cung như oxytocin, ergometrine. Nếu nguyên nhân do sót nhau thì phải đợi nhiệt độ giảm mới nong nạo buồng tử cung."
+      },
+      {
+        "name": "Điều trị viêm dây chằng rộng và phần phụ",
+        "description": "Bệnh nhân cần nghỉ ngơi, chườm lạnh, giảm đau, chống viêm. Sử dụng kháng sinh phổ rộng (dựa vào kháng sinh đồ), phối hợp trong 2 tuần. Trong trường hợp nặng có thể chỉ định cắt tử cung."
+      },
+      {
+        "name": "Điều trị nhiễm khuẩn huyết",
+        "description": "Hồi sức chống choáng, kháng sinh phổ rộng, phối hợp (dựa vào kháng sinh đồ), truyền máu, dùng thuốc trợ tim. Khi nhiệt độ trở lại bình thường có thể thực hiện phẫu thuật cắt bỏ tử cung bán phần để loại trừ ổ nhiễm khuẩn tiên phát."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ để phục hồi sức khỏe",
+      "Vệ sinh vùng kín thường xuyên và đúng cách",
+      "Tuân thủ điều trị kháng sinh đầy đủ theo chỉ định",
+      "Kiểm tra vết mổ, vết khâu tầng sinh môn thường xuyên",
+      "Đến cơ sở y tế ngay khi có dấu hiệu bất thường"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly ổ nhiễm khuẩn để tránh lây lan",
+      "Tuân thủ quy tắc vô khuẩn trong chăm sóc vết thương",
+      "Sử dụng dụng cụ y tế riêng biệt cho bệnh nhân"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Trước khi mang thai: Khám phụ khoa và khám sức khỏe định kỳ, điều trị ổn định các bệnh lý viêm nhiễm phụ khoa và nội khoa như thiếu máu, tiểu đường, tim mạch, suy dinh dưỡng",
+      "Trong thai kỳ: Khám thai theo quy định để phát hiện sớm và điều trị kịp thời các bệnh lý viêm nhiễm phụ khoa, bệnh thận, tiểu đường, tăng huyết áp",
+      "Sau sinh: Ăn uống đủ chất, không kiêng khem quá mức; nên vận động đi lại sớm, không nằm một chỗ trong buồng tối",
+      "Vệ sinh và giữ sạch sẽ vùng kín, vết khâu tầng sinh môn, đường mổ thành bụng khô sạch, kiêng quan hệ tình dục",
+      "Chọn nơi sinh đảm bảo điều kiện vô khuẩn khi đỡ đẻ, thăm khám và thực hiện các thủ thuật, phẫu thuật",
+      "Đảm bảo không sót rau trong tử cung, xử trí tốt các tổn thương đường sinh dục",
+      "Phát hiện sớm và điều trị tích cực các trường hợp nhiễm khuẩn đường sinh dục trước, trong và sau sinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhiễm trùng hậu sản có nguy hiểm không?",
+      "answer": "Nhiễm trùng hậu sản là một tai biến sản khoa nguy hiểm nếu không kịp thời được phát hiện và điều trị. Bệnh có thể gây ảnh hưởng xấu đến sức khỏe của sản phụ, thậm chí dẫn đến tử vong. Nhiễm trùng hậu sản là một trong những nguyên nhân hàng đầu gây tử vong cho mẹ bầu. Đặc biệt nguy hiểm là trường hợp nhiễm khuẩn huyết, có thể để lại nhiều di chứng và có nguy cơ tử vong cao nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Khi nào cần đi khám nếu nghi ngờ nhiễm trùng hậu sản?",
+      "answer": "Sản phụ cần đến ngay cơ sở y tế khi có các dấu hiệu như: sốt (đặc biệt sốt sau sinh 1 ngày), ra máu bất thường, sản dịch nhiều, có mùi hôi, đau bụng dưới, vết mổ hoặc vết khâu tầng sinh môn bị sưng đỏ, chảy mủ, vết mổ có dấu hiệu sắp bung, tiểu buốt, tiểu rắt, đau khi đi tiểu. Phát hiện và điều trị sớm giúp tránh những biến chứng nguy hiểm."
+    },
+    {
+      "question": "Làm thế nào để phòng tránh nhiễm trùng hậu sản?",
+      "answer": "Để phòng tránh nhiễm trùng hậu sản, sản phụ nên: khám phụ khoa và sức khỏe định kỳ trước khi mang thai; khám thai theo quy định trong thai kỳ; sau sinh cần ăn uống đủ chất, vận động đi lại sớm, vệ sinh và giữ sạch sẽ vùng kín, vết khâu, kiêng quan hệ tình dục; chọn nơi sinh đảm bảo điều kiện vô khuẩn; và phát hiện sớm, điều trị tích cực các trường hợp nhiễm khuẩn đường sinh dục."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau hạ vị, sốt nhẹ và sản dịch có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-hau-san",
+        "viem-noi-mac-tu-cung",
+        "viem-nhiem-phu-khoa"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ở một bên vú kèm theo sốt và ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiem-trung-hau-san", "viem-vu", "tac-tia-sua"]
+    },
+    {
+      "question": "Tôi hay bị đau, cứng và nóng đỏ ở cả hai bên vú, kèm theo mệt mỏi và đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiem-trung-hau-san", "viem-vu", "ap-xe-vu"]
+    },
+    {
+      "question": "Tôi hiện đang có da đỏ, tiết dịch và sưng đau xung quanh vết mổ lấy thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-hau-san",
+        "nhiem-trung-vet-mo",
+        "nhiem-trung-vung-bung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau hạ vị kèm theo sốt cao và ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-hau-san",
+        "viem-phuc-mac",
+        "nhiem-trung-huyet"
+      ]
     }
   ]
 }

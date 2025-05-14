@@ -1,39 +1,98 @@
 {
   "disease_id": "mun-boc",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn bọc",
+  "disease_alternative_names": [
+    "Acne conglobata",
+    "Mụn trứng cá nang",
+    "Mụn nang"
+  ],
+  "disease_definition": "Mụn bọc là tình trạng mụn viêm lớn, sần và có nốt mụn (nốt nang). Các nốt mụn phát triển sâu dưới da, lan rộng và có kích thước lớn. Đây là dạng mụn trứng cá hiếm gặp nhưng biểu hiện nghiêm trọng hơn so với các loại mụn khác. Các ổ áp xe sâu dưới da có thể liên kết với nhau, tạo sẹo hay gây biến dạng khuôn mặt nếu không điều trị đúng cách.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt mụn sưng đỏ, cứng",
+      "description": "Xuất hiện thành từng cục lớn, nằm sâu dưới da với biểu hiện sưng đỏ, cứng và đau khi chạm vào."
+    },
+    {
+      "name": "Nhân mụn có dịch",
+      "description": "Bên trong mụn chứa dịch màu vàng hoặc trắng, có thể kèm theo mủ và máu."
+    },
+    {
+      "name": "Đau nhức khi chạm vào",
+      "description": "Mụn bọc thường gây cảm giác đau nhức, khó chịu, đặc biệt khi chạm vào hoặc khi mụn ở trạng thái sưng to."
+    },
+    {
+      "name": "Mụn thường liên kết với nhau",
+      "description": "Các nốt mụn có thể liên kết với nhau tạo thành ổ to hơn hoặc tạo 'đường hầm' dưới da."
+    },
+    {
+      "name": "Mụn dễ vỡ để lại vết thâm",
+      "description": "Khi mụn vỡ, dịch tiết ra kèm theo mủ và máu, dễ để lại vết thâm và sẹo rỗ trên da."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chủ yếu là do cơ thể phản ứng quá mức với vi khuẩn Propionibacterium acnes (vi khuẩn gây mụn trứng cá) và gây ra tình trạng viêm nhiễm nghiêm trọng, phát triển thành mụn bọc.",
+    "related_factors": "Các yếu tố liên quan bao gồm nội tiết tố testosterone, sử dụng steroid đồng hóa trong tập thể hình, rối loạn hormone, hội chứng buồng trứng đa nang ở phụ nữ, và yếu tố di truyền.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam giới, đặc biệt là đàn ông da trắng trong độ tuổi 20-30",
+    "Người sử dụng steroid đồng hóa trong quá trình tập thể hình",
+    "Người đang điều trị bằng testosterone hoặc các loại thuốc nội tiết tố",
+    "Phụ nữ mắc hội chứng buồng trứng đa nang",
+    "Người có tiền sử gia đình bị mụn trứng cá nặng",
+    "Người liên quan đến tình trạng viêm tuyến mồ hôi có mủ và viêm da mủ hoại thư"
+  ],
+  "complications": [
+    "Sẹo rỗ và sẹo lõm trên da",
+    "Tăng sắc tố sau viêm (vết thâm, đốm đen)",
+    "Biến dạng vùng da bị tổn thương",
+    "Nhân mụn tồn tại sau điều trị",
+    "Ảnh hưởng tâm lý do mất thẩm mỹ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng da liễu",
+      "Đánh giá tiền sử gia đình về bệnh da liễu",
+      "Xem xét các tổn thương trên da"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Công thức máu",
+        "description": "Kiểm tra mức độ nhiễm trùng trong cơ thể"
+      },
+      {
+        "name": "Soi da",
+        "description": "Xác định tình trạng da nhờn, các tăng sinh mạch máu và sắc tố da"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị mụn bọc cần sự kết hợp giữa thuốc bôi, thuốc uống và đôi khi là phẫu thuật. Thuốc không kê đơn như axit salicylic thường không hiệu quả với mụn bọc vì chỉ tác động lên các lớp da trên.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc bôi",
+        "description": "Sử dụng benzoyl peroxide để loại bỏ bã nhờn và tế bào da chết, corticosteroid để giảm viêm. Thường kết hợp với thuốc uống để hiệu quả hơn."
+      },
+      {
+        "name": "Điều trị bằng thuốc uống",
+        "description": "Kháng sinh như minocycline, tetracycline, doxycycline; thuốc trị mụn theo toa isotretinoin (ngăn chặn bã nhờn dư thừa); thuốc kháng viêm không steroid."
+      },
+      {
+        "name": "Phẫu thuật điều trị sẹo",
+        "description": "Áp dụng khi sẹo nghiêm trọng, có thể sử dụng steroid giảm viêm, kỹ thuật ghép da từ các vùng khác trên cơ thể, mài da hoặc lột da bằng hóa chất."
+      },
+      {
+        "name": "Điều trị bằng laser",
+        "description": "Laser carbon dioxide có thể được chỉ định khi không đáp ứng với các loại thuốc thông thường."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không nặn mụn bọc để tránh viêm nhiễm và để lại sẹo",
+      "Làm sạch da mặt và toàn thân mỗi ngày bằng sản phẩm dịu nhẹ",
+      "Rửa mặt nhẹ nhàng bằng nước ấm và sữa rửa mặt dịu nhẹ 2 lần/ngày",
+      "Tránh dùng các sản phẩm gây kích ứng da",
+      "Không chạm tay lên mặt để tránh làm tình trạng mụn tồi tệ hơn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +100,50 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Làm sạch da mặt và toàn thân mỗi ngày bằng sản phẩm dịu nhẹ",
+      "Rửa mặt bằng tay sạch hoặc khăn mặt sạch, ướt mềm, không dùng khăn khô",
+      "Tránh dùng mỹ phẩm hoặc kem chống nắng gây kích ứng da",
+      "Không chạm tay lên mặt hoặc nặn mụn",
+      "Duy trì chế độ ăn uống lành mạnh và cân bằng",
+      "Quản lý stress và thời gian ngủ nghỉ hợp lý",
+      "Hạn chế sử dụng các sản phẩm chứa dầu có thể làm tắc nghẽn lỗ chân lông"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn bọc có nên nặn không?",
+      "answer": "Không nên nặn mụn bọc. Khi dùng tay chưa được vệ sinh sạch sẽ nặn mụn sẽ khiến vi khuẩn từ tay xâm nhập vào vết thương hở gây viêm nhiễm lỗ chân lông và vùng da đó. Tình trạng viêm nhiễm diễn tiến nặng, lan sâu dưới da có thể tạo thành ổ áp xe. Khi ấy, điều trị sẽ khó khăn, có thể để lại sẹo sau điều trị."
+    },
+    {
+      "question": "Khi nào nên gặp bác sĩ về tình trạng mụn bọc?",
+      "answer": "Bạn nên đi khám bác sĩ khi đã áp dụng các cách điều trị mà không thấy hiệu quả. Ngoài ra, cũng nên đi khám khi nhận thấy tình trạng mụn lan rộng sâu dưới da; mụn bọc xuất hiện cùng với các cơn đau khớp, buồn nôn, sốt, tiêu chảy. Điều trị mụn bọc càng sớm, càng ít nguy cơ phát triển dị tật hay sẹo."
+    },
+    {
+      "question": "Mụn bọc có gây sẹo không?",
+      "answer": "Mụn bọc có nguy cơ cao để lại sẹo, đặc biệt nếu không được điều trị đúng cách hoặc bị nặn. Các loại sẹo có thể bao gồm sẹo rỗ, sẹo lõm, hoặc tăng sắc tố sau viêm (vết thâm, đốm đen). Biến dạng vùng da bị tổn thương cũng có thể là một biến chứng nặng của mụn bọc. Người bệnh nên điều trị mụn bọc càng sớm để giảm nguy cơ hình thành sẹo."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nổi mụn sưng đỏ, cứng, có mủ trắng ở mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-boc", "mun-trung-ca", "mun-viem"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức, khó chịu khi chạm vào mụn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-boc", "mun-mu", "ap-xe-da"]
+    },
+    {
+      "question": "Tôi hay bị mụn mọc thành từng cụm, tập trung ở vùng trán, mũi, cằm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-boc", "mun-trung-ca", "mun-dau-den"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mụn bọc để lại vết thâm, sẹo rỗ trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-boc", "seo-ro", "tang-sac-to-sau-viem"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mụn bọc có mủ, dịch vàng, gây ngứa ngáy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-boc", "mun-mu", "viem-nang-long"]
     }
   ]
 }

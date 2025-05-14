@@ -1,39 +1,103 @@
 {
   "disease_id": "nhau-bam-thap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhau bám thấp",
+  "disease_alternative_names": [
+    "Rau bám thấp",
+    "Nhau tiền đạo",
+    "Placenta previa",
+    "Bánh nhau bám thấp"
+  ],
+  "disease_definition": "Nhau bám thấp là tình trạng bánh nhau không nằm ở vị trí bám đáy tử cung mà một phần của bánh nhau bám ở đoạn dưới của tử cung, nơi gần với cổ tử cung. Đây là một thể của nhau tiền đạo và chẩn đoán khi tuổi thai ở tuần thứ 28 trở đi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chảy máu âm đạo đột ngột",
+      "description": "Ra máu đột ngột và không rõ nguyên nhân, thường không kèm đau bụng. Máu có màu đỏ tươi và đông lại thành cục sau khi ra ngoài."
+    },
+    {
+      "name": "Dễ chảy máu khi vận động",
+      "description": "Thai phụ dễ bị chảy máu khi vận động mạnh, giao hợp, hoặc làm việc nặng."
+    },
+    {
+      "name": "Đau nhói, co thắt ở tử cung",
+      "description": "Cảm giác đau nhói hoặc co thắt ở tử cung có thể xuất hiện kèm theo tình trạng chảy máu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện nay vẫn chưa xác định được rõ ràng nguyên nhân dẫn đến tình trạng nhau bám thấp trong thai kỳ.",
+    "related_factors": "Khi tuổi thai còn nhỏ, nhau bám thấp có thể tự hết khi thai nhi phát triển dần lên và tử cung của người mẹ phát triển về phía đáy thì bánh nhau có thể được đẩy lên cao hơn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ có tiền sử sinh mổ hoặc có vết sẹo trên thành tử cung",
+    "Phụ nữ mang đa thai hoặc từng có tiền sử sảy thai, nạo phá thai",
+    "Phụ nữ từng sinh nở nhiều lần",
+    "Mang thai ở độ tuổi ngoài 35",
+    "Thai phụ bị viêm nhiễm tử cung",
+    "Phụ nữ từng bị nhau thai bám thấp ở lần mang thai trước đây",
+    "Phụ nữ có thói quen hút thuốc, sử dụng nhiều cafein",
+    "Chế độ ăn không đủ chất dẫn đến tình trạng dinh dưỡng tuần hoàn không tốt"
+  ],
+  "complications": [
+    "Xuất huyết nhiều lần trong suốt thai kỳ gây thiếu máu",
+    "Nguy cơ sinh non cao",
+    "Xuất huyết sau sinh nghiêm trọng",
+    "Sốc do mất máu nhiều",
+    "Nhiễm trùng sau sinh",
+    "Có thể phải cắt bỏ tử cung trong trường hợp bánh nhau cài chặt vào cơ tử cung",
+    "Thai nhi có thể bị suy dinh dưỡng, suy thai do mẹ mất máu",
+    "Em bé sinh non có thể gặp nguy cơ suy hô hấp, sức khỏe yếu",
+    "Ngôi thai không thuận, khó sinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thông thường phát hiện qua siêu âm thai từ 20 tuần tuổi",
+      "Khoảng 10% trường hợp sẽ phát triển thành nhau tiền đạo hoàn toàn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm ngã âm đạo",
+        "description": "Phương pháp siêu âm qua đường âm đạo để kiểm tra vị trí của bánh nhau"
+      },
+      {
+        "name": "Siêu âm ổ bụng",
+        "description": "Phương pháp siêu âm qua thành bụng để đánh giá vị trí bánh nhau"
+      },
+      {
+        "name": "Chụp cộng hưởng từ",
+        "description": "Được sử dụng trong một số trường hợp để có hình ảnh chi tiết về vị trí nhau thai"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Khi được chẩn đoán bị nhau bám thấp, mẹ bầu cần phối hợp thực hiện theo chỉ dẫn của bác sĩ. Tùy theo mức độ ra huyết và sự phát triển của thai nhi, bác sĩ sẽ có những phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi và theo dõi",
+        "description": "Với những sản phụ có nhau bám thấp nhưng xuất huyết âm đạo ít hoặc không có, bác sĩ sẽ đề nghị mẹ nghỉ ngơi tại nhà, hạn chế vận động, tránh các hoạt động thể chất mạnh."
+      },
+      {
+        "name": "Nhập viện theo dõi",
+        "description": "Trường hợp chảy máu nặng, mẹ bầu sẽ được đề nghị nhập viện theo dõi, có thể cần truyền máu hoặc dùng thêm thuốc để ngăn chuyển dạ sớm."
+      },
+      {
+        "name": "Mổ lấy thai",
+        "description": "Với thai nhi từ 36 tuần tuổi và mẹ bị chảy máu nặng, bác sĩ sẽ chỉ định chấm dứt thai kỳ sớm và mổ lấy thai để đảm bảo an toàn cho mẹ và bé."
+      },
+      {
+        "name": "Mổ khẩn cấp",
+        "description": "Trường hợp chảy máu mất kiểm soát, bác sĩ sẽ chỉ định chấm dứt thai kỳ và mổ khẩn cấp."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Kiêng quan hệ tình dục trong thai kỳ",
+      "Hạn chế đi lại, vận động mạnh",
+      "Tránh làm việc quá sức",
+      "Ngủ nên để chân gác cao",
+      "Tránh căng thẳng, lo âu",
+      "Duy trì tinh thần lạc quan, vui vẻ",
+      "Theo dõi tình trạng xuất huyết thường xuyên",
+      "Đến ngay cơ sở y tế nếu ra máu nhiều"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +105,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện tốt kế hoạch hóa gia đình, hạn chế sinh nhiều con",
+      "Không nạo phá thai nhiều lần",
+      "Tuân thủ các mốc khám thai định kỳ",
+      "Nắm rõ các dấu hiệu chuyển dạ thực sự để đến bệnh viện kịp thời",
+      "Phân biệt được rỉ ối với chảy dịch âm đạo",
+      "Đến ngay cơ sở y tế khi gặp tình trạng xuất huyết âm đạo",
+      "Cân đối dinh dưỡng, ăn đầy đủ chất",
+      "Bổ sung sắt, canxi theo hướng dẫn của bác sĩ",
+      "Dành thời gian nghỉ ngơi hợp lý, tránh căng thẳng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhau bám thấp có nguy hiểm không?",
+      "answer": "Nhau bám thấp có thể khiến mẹ bầu và thai nhi đối mặt với những biến chứng nguy hiểm có thể ảnh hưởng đến tính mạng, đặc biệt là tình trạng băng huyết trong thai kỳ và khi chuyển dạ sinh con. Mẹ bầu có thể gặp nguy cơ chảy máu nhiều lần, thiếu máu, sinh non, xuất huyết sau sinh, và nhiễm trùng. Thai nhi có thể bị suy dinh dưỡng, suy thai, và sinh non gây suy hô hấp."
+    },
+    {
+      "question": "Nhau bám thấp có quan hệ được không?",
+      "answer": "Theo các chuyên gia, mẹ bầu cần kiêng quan hệ tình dục trong thai kỳ có tình trạng nhau bám thấp để tránh gây tổn thương cho cổ tử cung. Quan hệ tình dục có thể làm trầm trọng thêm nguy cơ xuất huyết âm đạo mà người bị nhau bám thấp đang phải đối mặt."
+    },
+    {
+      "question": "Nhau bám thấp có tự khỏi không?",
+      "answer": "Khi tuổi thai còn nhỏ, nhau bám thấp có thể tự hết khi thai nhi phát triển dần lên và tử cung của người mẹ phát triển về phía đáy, khi đó bánh nhau có thể được đẩy lên cao hơn. Tuy nhiên, nếu tình trạng này vẫn còn khi thai đạt 28 tuần trở lên, đó được coi là nhau bám thấp hoặc nhau tiền đạo và cần được theo dõi và điều trị cẩn thận."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang mang thai 3 tháng cuối và bị chảy máu âm đạo đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-bam-thap", "nhau-tien-dao", "nhau-bong-non"]
+    },
+    {
+      "question": "Tôi bị chảy máu âm đạo không đau khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-bam-thap", "nhau-tien-dao", "viem-co-tu-cung"]
+    },
+    {
+      "question": "Tôi đang mang thai và bị ra máu đông cục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-bam-thap", "nhau-tien-dao", "say-thai"]
+    },
+    {
+      "question": "Tôi dễ bị chảy máu khi vận động mạnh khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-bam-thap", "nhau-tien-dao", "de-doa-say-thai"]
+    },
+    {
+      "question": "Tôi bị chảy máu sau khi quan hệ tình dục khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhau-bam-thap",
+        "viem-co-tu-cung",
+        "polyp-co-tu-cung"
+      ]
     }
   ]
 }

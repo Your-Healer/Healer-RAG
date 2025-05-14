@@ -1,39 +1,135 @@
 {
   "disease_id": "hep-van-hai-la",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hẹp van hai lá",
+  "disease_alternative_names": [
+    "Mitral valve stenosis",
+    "Hẹp van 2 lá",
+    "Hẹp van tim hai lá"
+  ],
+  "disease_definition": "Hẹp van hai lá là tình trạng bất thường của van tim hai lá khi không thể mở hoàn toàn để máu đổ từ buồng tim phía trên bên trái (tâm nhĩ trái) xuống buồng tim phía dưới (tâm thất trái). Điều này khiến cho một lượng máu ứ lại tâm nhĩ trái, tăng áp lực và khiến máu ứ tại phổi gây mệt và khó thở.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó thở khi gắng sức",
+      "description": "Cảm giác thiếu không khí, khó hít thở khi hoạt động gắng sức hoặc thậm chí xuất hiện vào ban đêm (khó thở kịch phát về đêm)."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi và dễ đuối sức khi hoạt động gắng sức như chạy bộ, leo cầu thang."
+    },
+    {
+      "name": "Phù chân",
+      "description": "Sưng phù ở vùng chân, mắt cá chân do ứ dịch, thường nặng hơn vào cuối ngày."
+    },
+    {
+      "name": "Hồi hộp, tim đập nhanh",
+      "description": "Cảm giác tim đập nhanh hơn bình thường, đặc biệt khi gắng sức hoặc khi có thai, căng thẳng hoặc nhiễm trùng."
+    },
+    {
+      "name": "Chóng mặt hoặc ngất",
+      "description": "Cảm giác choáng váng, hoa mắt hoặc ngất xỉu do não không được cung cấp đủ máu."
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Xuất hiện máu trong đờm khi ho do sung huyết phổi."
+    },
+    {
+      "name": "Đau và khó chịu vùng ngực",
+      "description": "Cảm giác đau hoặc khó chịu, nặng nề ở vùng ngực."
+    },
+    {
+      "name": "Âm thổi ở tim",
+      "description": "Tiếng bất thường phát hiện khi bác sĩ nghe tim bằng ống nghe."
+    },
+    {
+      "name": "Sung huyết phổi",
+      "description": "Ứ đọng dịch trong phổi do áp lực tăng trong tâm nhĩ trái."
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Nhịp tim không đều, thường là dấu hiệu của rung nhĩ khi bệnh tiến triển."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây hẹp van hai lá ở người trưởng thành thường do sốt thấp khớp hay viêm nội tâm mạc liên quan đến liên cầu khuẩn tan máu nhóm A (hẹp van 2 lá hậu thấp).",
+    "related_factors": "Vôi hóa vòng van tim (canxi tích tụ làm mất đàn hồi), bệnh tự miễn như lupus ban đỏ hệ thống hay viêm đa khớp dạng thấp, hội chứng rối loạn nội tiết và chuyển hóa U carcinoid. Ở trẻ nhỏ, thường do các dị tật bẩm sinh như van hai lá hình dù, vòng thắt trên van.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử sốt thấp khớp",
+    "Mắc các bệnh tự miễn",
+    "Người cao tuổi",
+    "Hút thuốc lá",
+    "Tăng huyết áp",
+    "Tiểu đường",
+    "Rối loạn lipid máu"
+  ],
+  "complications": [
+    "Tăng áp lực mạch phổi (máu có thể trào ngược vào phổi gây phù phổi cấp)",
+    "Suy tim (đặc biệt là suy tim phải)",
+    "Tim to (nhĩ trái lớn)",
+    "Rung nhĩ (tâm nhĩ co bóp nhanh và hỗn độn)",
+    "Cục máu đông (do ứ máu trong tâm nhĩ trái)",
+    "Đột quỵ (biến chứng nguy hiểm nhất)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh và thăm khám lâm sàng",
+      "Dùng ống nghe tim, nghe phổi",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm tim",
+        "description": "Phương tiện chính giúp xác định chẩn đoán hẹp van hai lá, đánh giá mức độ hẹp dựa trên các thông số như chênh áp trung bình qua van, áp lực động mạch phổi và diện tích lỗ van."
+      },
+      {
+        "name": "Siêu âm tim qua đường thực quản",
+        "description": "Đưa đầu dò vào đường thực quản để khảo sát kỹ càng hơn những hình ảnh mà siêu âm tim qua thành ngực hạn chế khảo sát."
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Xác định nhịp tim và rối loạn nhịp tim, có thể kết hợp với điện tâm đồ gắng sức để đánh giá đáp ứng của tim với tình trạng gắng sức."
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Khảo sát tình trạng tim to và sung huyết phổi."
+      },
+      {
+        "name": "Thông tim",
+        "description": "Không phải chỉ định bắt buộc, thực hiện tùy theo tình trạng bệnh nhân."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện nay bệnh hẹp van tim hai lá có thể được điều trị bằng thuốc, phẫu thuật nong van, sửa hoặc thay thế van tim và thay đổi lối sống. Song, tất cả các phương pháp này đều không thể khiến van tim hết hẹp hoàn toàn. Ngay cả khi đã thay van mới, người bệnh vẫn có nguy cơ bị hẹp van trở lại.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị dùng thuốc",
+        "description": "Sử dụng thuốc lợi tiểu (giảm ứ dịch), kháng đông (ngăn hình thành cục máu đông), thuốc điều chỉnh tần số tim, thuốc chống loạn nhịp tim, kháng sinh phòng ngừa sốt thấp."
+      },
+      {
+        "name": "Nong van hai lá bằng bóng",
+        "description": "Phương pháp không cần mổ hở, giúp làm giảm tình trạng hẹp van tim, giảm triệu chứng, và cần theo dõi định kỳ đến lúc cần một phương pháp điều trị triệt để hơn."
+      },
+      {
+        "name": "Sửa van hai lá",
+        "description": "Phẫu thuật mổ hở để sửa van nếu nong van bằng bóng không được lựa chọn. Phương pháp này cũng tạm thời hiệu quả cho đến khi van tái hẹp."
+      },
+      {
+        "name": "Thay van tim",
+        "description": "Trong trường hợp không thể nong van hay sửa van, bệnh nhân sẽ được thay van cơ học, sinh học hay van tự thân."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế ăn thức ăn, nước uống nhiều muối",
+      "Duy trì cân nặng, cố gắng giảm cân nếu bị béo phì",
+      "Hạn chế tiêu thụ cafein vì làm tăng nguy cơ rối loạn nhịp tim",
+      "Giảm các hoạt động gắng sức, tập luyện thể dục thể thao đều đặn",
+      "Khi thấy khó thở, tức ngực cần đi khám ngay",
+      "Tái khám định kỳ theo chỉ định của bác sĩ",
+      "Không uống rượu, hút thuốc lá, vì làm tăng rối loạn nhịp tim",
+      "Phụ nữ ở lứa tuổi sinh sản nên tư vấn bác sĩ trước khi có thai"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +137,53 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Phòng ngừa sốt thấp khớp (điều trị viêm họng đúng cách)",
+      "Xây dựng môi trường sống lành mạnh, nâng cao chất lượng sống",
+      "Khám sức khỏe định kỳ",
+      "Uống hoặc tiêm kháng sinh liên tục theo chỉ định của bác sĩ tim mạch",
+      "Thực hiện chế độ ăn nhạt và nghỉ ngơi hợp lý",
+      "Sử dụng các loại thuốc lợi tiểu, chẹn beta giao cảm liều thấp theo kê đơn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hẹp van hai lá có chữa được không?",
+      "answer": "Hiện nay bệnh hẹp van tim hai lá có thể được điều trị bằng thuốc, phẫu thuật nong van, sửa hoặc thay thế van tim và thay đổi lối sống. Tuy nhiên, tất cả các phương pháp này đều không thể khiến van tim hết hẹp hoàn toàn. Ngay cả khi đã thay van mới, người bệnh vẫn có nguy cơ bị hẹp van trở lại. Vì vậy, bên cạnh các phương pháp điều trị, người bệnh cần lựa chọn thêm các giải pháp hỗ trợ tăng cường sức khỏe trái tim để bảo vệ van tốt hơn."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ nếu nghi ngờ hẹp van hai lá?",
+      "answer": "Người bệnh nên đi khám hoặc nhập viện ngay khi xuất hiện các triệu chứng khó thở, mệt khi gắng sức thể lực, hồi hộp, hoặc đau ngực. Nếu đã được chẩn đoán hẹp van hai lá nhưng chưa có triệu chứng, nên trao đổi với bác sĩ về kế hoạch theo dõi và điều trị trong tương lai."
+    },
+    {
+      "question": "Phụ nữ mang thai có bị ảnh hưởng gì khi mắc hẹp van hai lá?",
+      "answer": "Phụ nữ ở lứa tuổi sinh sản nếu mắc bệnh hẹp van hai lá nên tư vấn bác sĩ trước khi có thai, vì thai kỳ sẽ làm tăng mức độ nguy hiểm của bệnh tim mạch sẵn có. Khi mang thai, khối lượng máu tăng và nhịp tim nhanh hơn có thể làm trầm trọng thêm các triệu chứng của hẹp van hai lá."
+    },
+    {
+      "question": "Biến chứng nguy hiểm nhất của hẹp van hai lá là gì?",
+      "answer": "Đột quỵ là biến chứng nguy hiểm nhất của bệnh hẹp van hai lá. Khi tâm nhĩ trái lớn và rung nhĩ kéo dài không được điều trị đúng cách sẽ hình thành cục máu đông, có thể vỡ và gây tắc nghẽn tại mạch máu não, dẫn đến đột quỵ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó thở khi gắng sức và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hep-van-hai-la", "suy-tim", "hen-suyen"]
+    },
+    {
+      "question": "Tôi đang cảm thấy hồi hộp và tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hep-van-hai-la", "rung-nhi", "roi-loan-nhip-tim"]
+    },
+    {
+      "question": "Tôi hay bị phù chân và dễ cảm thấy đuối sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hep-van-hai-la", "suy-tim", "suy-than"]
+    },
+    {
+      "question": "Tôi đang bị ho ra máu và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hep-van-hai-la", "lao-phoi", "ung-thu-phoi"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó thở kịch phát về đêm và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hep-van-hai-la", "suy-tim", "tang-huyet-ap"]
     }
   ]
 }

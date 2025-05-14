@@ -1,58 +1,188 @@
 {
   "disease_id": "ho-van-2-la",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hở van 2 lá",
+  "disease_alternative_names": [
+    "Hở van hai lá",
+    "Mitral valve regurgitation",
+    "Mitral valve insufficiency"
+  ],
+  "disease_definition": "Hở van 2 lá là tình trạng 2 lá van đóng không kín, làm dòng máu trào ngược từ thất trái về nhĩ trái khi tim co bóp. Do lượng máu trào ngược về nhĩ trái cộng thêm lượng máu bình thường từ phổi đổ về làm tăng lưu lượng máu ở tim trái, hậu quả là giãn lớn nhĩ trái và thất trái nếu hở van nặng và kéo dài.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mệt mỏi mạn tính",
+      "description": "Cảm giác mệt mỏi kéo dài, giảm khả năng gắng sức khi làm việc hoặc vận động."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở khi làm việc nhẹ, thở hụt hơi, diễn tiến nặng dần đến khó thở khi nằm đầu thấp, khó thở kịch phát ban đêm khi nằm ngủ đột ngột khó thở phải ngồi dậy."
+    },
+    {
+      "name": "Đau thắt ngực",
+      "description": "Cảm giác đau, nhói ngực, đặc biệt khi gắng sức và ở những người hở van do thiếu máu cục bộ cơ tim."
+    },
+    {
+      "name": "Hồi hộp, tim đập nhanh",
+      "description": "Cảm giác tim đập nhanh, không đều do tim bị rung nhĩ, thường gặp ở người hở van 2 lá do sa van."
+    },
+    {
+      "name": "Ho khan, ho ra máu",
+      "description": "Ho khan hoặc ho ra máu, khạc đờm có bọt hồng do sung huyết phổi."
+    },
+    {
+      "name": "Phù chân",
+      "description": "Sưng phù ở vùng chân, mắt cá chân."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hở van 2 lá xảy ra khi van hai lá đóng không kín, làm máu trào ngược từ thất trái về nhĩ trái trong quá trình co bóp tim.",
+    "related_factors": "Bất thường xảy ra do tổn thương ở bất cứ thành phần nào của bộ máy van bao gồm vòng van, lá van, dây chằng, và cơ trụ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử thấp tim",
+    "Nhiễm trùng đường hô hấp trên không được điều trị đúng cách",
+    "Tăng huyết áp",
+    "Đái tháo đường",
+    "Bệnh động mạch vành",
+    "Nhồi máu cơ tim",
+    "Bẩm sinh bất thường van tim",
+    "Tuổi cao",
+    "Hút thuốc lá",
+    "Uống rượu bia"
+  ],
+  "complications": [
+    "Suy tim",
+    "Rung nhĩ",
+    "Tắc mạch (đột quỵ, tắc mạch ở chân, tắc mạch trong ổ bụng)",
+    "Đột tử",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Bác sĩ hỏi bệnh sử, tiền sử",
+      "Khám tim, nghe tim",
+      "Siêu âm tim",
+      "Đo điện tim",
+      "X-quang tim phổi"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm tim",
+        "description": "Phương pháp giúp chẩn đoán xác định, độ nặng và nguyên nhân của hở van trong đa số các trường hợp. Siêu âm tim phân loại hở van 2 lá thành 4 mức: hở 1/4 (nhẹ), hở 2/4 (trung bình), hở 3/4 (nặng), hở 4/4 (rất nặng)."
+      },
+      {
+        "name": "Điện tim",
+        "description": "Giúp phát hiện rung nhĩ, giãn các buồng tim và các bất thường điện học khác của tim."
+      },
+      {
+        "name": "X-quang tim phổi",
+        "description": "Cho thấy bóng tim to, giãn nhĩ trái, thất trái, hình ảnh sung huyết phổi hoặc có dịch trong phổi do suy tim."
+      },
+      {
+        "name": "Siêu âm tim qua thực quản",
+        "description": "Giúp tìm nhiễm trùng trên van tim, đánh giá chi tiết hơn cấu trúc van tim khi cần."
+      },
+      {
+        "name": "Trắc nghiệm gắng sức",
+        "description": "Đánh giá khả năng gắng sức và triệu chứng xuất hiện khi vận động."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị bệnh hở van 2 lá được lựa chọn tùy theo mức độ nặng của bệnh. Hở van 2 lá nhẹ không cần điều trị đặc hiệu, chỉ cần theo dõi siêu âm định kỳ mỗi năm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa (dùng thuốc)",
+        "description": "Bao gồm dùng kháng sinh phòng thấp tim tái phát (nếu hở van do hậu thấp), điều trị các bệnh nội khoa đi kèm, điều trị suy tim bằng thuốc ức chế men chuyển, chẹn thụ thể angiotensin II, chẹn bêta, lợi tiểu và thuốc chống đông nếu có rung nhĩ."
+      },
+      {
+        "name": "Phẫu thuật sửa van",
+        "description": "Được ưu tiên lựa chọn hơn nếu cấu trúc van thích hợp để sửa. Phương pháp này giúp phục hồi chức năng van, bảo tồn cấu trúc tự nhiên của van tim."
+      },
+      {
+        "name": "Thay van nhân tạo",
+        "description": "Thay van bằng van cơ học hoặc sinh học khi van hư nặng, vôi hóa nhiều không thể sửa. Với van cơ học, người bệnh cần uống thuốc chống đông suốt đời; với van sinh học, chỉ cần uống thuốc kháng đông 3 tháng nếu không có rung nhĩ."
+      },
+      {
+        "name": "Sửa van 2 lá qua da (MitraClip)",
+        "description": "Đưa một ống thông theo mạch máu ở đùi đi vào nhĩ trái, sau đó đưa 1 kẹp bằng kim loại vào giữa 2 mép van chỗ bị hở và kẹp lại. Áp dụng cho bệnh nhân nặng không thể phẫu thuật được."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ điều trị thuốc đúng theo chỉ định của bác sĩ",
+      "Tái khám định kỳ sau mổ van tim",
+      "Siêu âm tim định kỳ để theo dõi tình trạng van và chức năng tim",
+      "Duy trì lối sống lành mạnh",
+      "Bệnh nhân thay van cơ học cần theo dõi INR mỗi 1-3 tháng để chỉnh liều thuốc chống đông",
+      "Tiêm vắc xin phòng bệnh cúm mỗi năm, vắc xin phòng viêm phổi do phế cầu mỗi 5 năm",
+      "Điều trị kịp thời khi có dấu hiệu nhiễm trùng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin phòng bệnh cúm mỗi năm, vắc xin phòng viêm phổi do phế cầu mỗi 5 năm cho tất cả bệnh nhân hở van nặng, suy tim.",
+      "recommended_for": [
+        "Người bệnh hở van hai lá nặng",
+        "Người bệnh sau phẫu thuật van tim",
+        "Bệnh nhân suy tim"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Phòng tránh bệnh thấp tim bằng cách sống ở môi trường vệ sinh sạch sẽ",
+      "Tránh nơi ở chật chội, đông người kém vệ sinh",
+      "Giữ vệ sinh răng miệng tốt và điều trị sớm viêm họng",
+      "Uống kháng sinh phòng thấp tim tái phát nếu đã từng bị thấp tim",
+      "Điều trị các bệnh như tăng huyết áp, đái tháo đường, thiếu máu cơ tim",
+      "Không hút thuốc lá, hạn chế uống rượu bia",
+      "Chế độ ăn tốt cho sức khỏe tim mạch",
+      "Tập thể dục đều đặn mỗi ngày (30-45 phút/ngày, 5-7 ngày/tuần)",
+      "Duy trì cân nặng lý tưởng, giảm cân nếu thừa cân - béo phì",
+      "Khám răng miệng định kỳ mỗi 6 tháng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Van 2 lá bị hở điều trị có khỏi được không?",
+      "answer": "Hở van 2 lá nhẹ có thể không tiến triển thêm, chỉ cần theo dõi hàng năm. Hở 2 lá trung bình hậu thấp cần phòng thấp lâu dài để tránh thấp tái phát. Hở van nặng có thể chữa khỏi bằng phẫu thuật sửa hay thay van nhân tạo. Sau phẫu thuật, chức năng của van 2 lá phục hồi gần như hoàn toàn. Bệnh nhân sau mổ sửa hoặc thay van 2 lá cơ học có thể sống thêm 20-30 năm nữa hoặc hơn tùy vào tình trạng sức khỏe và chăm sóc lâu dài."
+    },
+    {
+      "question": "Khi nào cần mổ thay van hoặc sửa van trong bệnh hở van 2 lá?",
+      "answer": "Bệnh nhân hở van 2 lá cần phẫu thuật khi: có triệu chứng suy tim (giảm khả năng gắng sức, mệt, khó thở), có rung nhĩ, hoặc trên siêu âm tim định kỳ thấy phân suất tống máu giảm < 50%, đường kính tâm thất trái cuối tâm thu (LVESD) ≥ 40mm, tăng áp động mạch phổi nặng. Hở van nặng nhưng chưa có triệu chứng, khi siêu âm tim thấy buồng tim giãn dần và phân suất tống máu giảm dần cũng nên cân nhắc mổ sớm. Tuy nhiên, nếu phân suất tống máu < 20%, LVESD ≤ 70mm thì gần như không còn chỉ định mổ được."
+    },
+    {
+      "question": "Thay van cơ học hay van sinh học tốt hơn?",
+      "answer": "Lựa chọn tùy thuộc vào từng cá nhân. Van cơ học có tuổi thọ dài (>20 năm) nhưng phải uống thuốc chống đông suốt đời. Van sinh học có thời gian sử dụng trung bình 10-15 năm, người bệnh không cần uống thuốc kháng đông lâu dài nhưng có nguy cơ mổ lại sau 10-15 năm. Người ≥65 tuổi, người có chống chỉ định dùng thuốc kháng đông, và phụ nữ còn trong độ tuổi sinh đẻ nên ưu tiên van sinh học. Người <65 tuổi không có chống chỉ định dùng thuốc kháng đông nên thay van cơ học."
+    },
+    {
+      "question": "Sau mổ hở van 2 lá cần theo dõi như thế nào?",
+      "answer": "Sau mổ cần: uống thuốc đều đặn và tái khám định kỳ; siêu âm tim ngay sau mổ, tháng thứ 3, thứ 6 và 1 năm sau mổ, sau đó mỗi năm; nếu uống thuốc kháng vitamin K cần đo INR định kỳ mỗi 1-3 tháng; theo dõi các vấn đề có thể xảy ra như hở van tái phát, thoái hóa van (với van sinh học), kẹt van do huyết khối (với van cơ học), nhiễm trùng van tim."
+    },
+    {
+      "question": "Hở van tim 2 lá có nguy hiểm không?",
+      "answer": "Mức độ nguy hiểm phụ thuộc vào độ nặng của hở van. Hở van 2 lá nhẹ (1/4) thường không nguy hiểm và chiếm khoảng 75-80% số người. Hở van mức độ trung bình đến nặng (2/4-3/4) chiếm khoảng 19%. Hở nặng đến rất nặng (3/4-4/4) gặp khoảng 3,5%. Bệnh nhân hở van hai lá nặng nhưng chưa có triệu chứng, sẽ có 50% xuất hiện triệu chứng sau 5 năm. Bệnh nhân hở 2 lá nặng đã có chỉ định phẫu thuật nhưng chỉ điều trị nội khoa thì tỷ lệ còn sống sau 5 năm chỉ 30%."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị mệt mỏi, khó thở khi gắng sức và hồi hộp đánh trống ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ho-van-2-la", "suy-tim", "roi-loan-nhip-tim"]
+    },
+    {
+      "question": "Tôi bị đau thắt ngực, khó thở khi nằm và ho khan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ho-van-2-la", "benh-dong-mach-vanh", "suy-tim"]
+    },
+    {
+      "question": "Tôi bị phù chân, khó thở về đêm và tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ho-van-2-la", "suy-tim", "suy-than"]
+    },
+    {
+      "question": "Tôi bị khó thở, ho ra máu và mệt mỏi kinh niên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ho-van-2-la", "hep-van-hai-la", "lao-phoi"]
+    },
+    {
+      "question": "Tôi bị khó thở khi nằm đầu thấp, phải ngồi dậy mới dễ thở hơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ho-van-2-la", "suy-tim", "tran-dich-mang-phoi"]
     }
   ]
 }

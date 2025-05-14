@@ -1,58 +1,182 @@
 {
   "disease_id": "nhiem-khuan-hp",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhiễm khuẩn H.pylori",
+  "disease_alternative_names": [
+    "Helicobacter pylori",
+    "H.p",
+    "H. pylori",
+    "Nhiễm khuẩn Helicobacter pylori"
+  ],
+  "disease_definition": "Nhiễm khuẩn Helicobacter pylori, hay H. pylori (viết tắt là H.p) là tình trạng nhiễm vi khuẩn hình xoắn ốc (xoắn khuẩn) được tìm thấy trong dạ dày người nhiễm. Helicobacter pylori được xác định lần đầu tiên vào năm 1982 bởi hai bác sĩ người Úc là Barry Marshall và Robin Warren. Tình trạng này hiện diện trong hơn một nửa dân số thế giới. Phần lớn những người bị nhiễm H. pylori không có triệu chứng và không phát triển bất kỳ vấn đề sức khỏe nào, tuy nhiên vi khuẩn H. pylori có khả năng gây ra viêm loét dạ dày tá tràng và ít phổ biến hơn là ung thư dạ dày.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau hoặc khó chịu ở bụng trên",
+      "description": "Cảm giác đau hoặc khó chịu thường tập trung ở vùng bụng trên, đặc biệt khi bị loét dạ dày do nhiễm H.pylori."
+    },
+    {
+      "name": "Phình hoặc trướng bụng",
+      "description": "Cảm giác đầy hơi, phình trướng bụng sau khi ăn, thường gây khó chịu cho người bệnh."
+    },
+    {
+      "name": "Cảm thấy no sau khi ăn lượng nhỏ thức ăn",
+      "description": "Người bệnh nhanh có cảm giác no, không thể ăn nhiều mặc dù chỉ ăn một lượng thức ăn ít."
+    },
+    {
+      "name": "Chán ăn, buồn nôn hoặc nôn",
+      "description": "Mất cảm giác thèm ăn, có thể kèm theo cảm giác buồn nôn hoặc nôn."
+    },
+    {
+      "name": "Phân sẫm màu hoặc màu hắc ín",
+      "description": "Phân có màu đen như hắc ín, đây là dấu hiệu của chảy máu dạ dày do loét."
+    },
+    {
+      "name": "Thiếu máu và mệt mỏi",
+      "description": "Vết loét chảy máu có thể gây thiếu máu và cảm giác mệt mỏi kéo dài."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nhiễm khuẩn H.pylori là do sự xâm nhập và định cư của vi khuẩn Helicobacter pylori trong dạ dày người bệnh.",
+    "related_factors": "H. pylori gây ra những thay đổi đối với dạ dày và tá tràng. Vi khuẩn lây nhiễm sang các mô bảo vệ lót dạ dày, dẫn đến việc giải phóng một số enzyme, chất độc và kích hoạt hệ thống miễn dịch. Những yếu tố này có thể trực tiếp hoặc gián tiếp làm tổn thương các tế bào của dạ dày hoặc tá tràng, gây ra tình trạng viêm mãn tính (viêm dạ dày hoặc viêm tá tràng).",
+    "transmission_routes": [
+      "Đường miệng - miệng: từ miệng của người này sang người khác",
+      "Đường phân - miệng: khi người bệnh không rửa tay kỹ sau khi đi vệ sinh",
+      "Qua thực phẩm hoặc nước bị nhiễm khuẩn"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sống ở khu vực hoặc quốc gia kém/đang phát triển",
+    "Trẻ em dưới 10 tuổi, đặc biệt ở các quốc gia có nguồn lực hạn chế",
+    "Điều kiện vệ sinh kém",
+    "Sống trong môi trường đông đúc",
+    "Tiếp xúc với nước uống không an toàn",
+    "Tiền sử gia đình có người nhiễm H.pylori",
+    "Người gốc Trung Quốc, Hàn Quốc, Nhật Bản hoặc Trung Mỹ (có tỷ lệ mắc ung thư dạ dày cao hơn)"
+  ],
+  "complications": [
+    "Viêm dạ dày mãn tính",
+    "Loét dạ dày và tá tràng",
+    "Chảy máu đường tiêu hóa",
+    "Ung thư dạ dày",
+    "Thiếu máu do chảy máu vết loét"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Nội soi dạ dày - phương pháp chẩn đoán chính",
+      "Đánh giá triệu chứng lâm sàng và tiền sử bệnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Urease test (Clo test)",
+        "description": "Phương pháp thường dùng nhất hiện nay, được thực hiện trong quá trình nội soi dạ dày. Kết quả kiểm tra có ngay trong vòng 30 - 45 phút."
+      },
+      {
+        "name": "Sinh thiết – Mô học",
+        "description": "Lấy mẫu mô dạ dày để phân tích cấu trúc mô, tế bào và phát hiện vi khuẩn H.pylori."
+      },
+      {
+        "name": "Nuôi cấy",
+        "description": "Nuôi cấy vi khuẩn trong môi trường thí nghiệm đặc biệt, phân lập vi khuẩn, định danh và làm thí nghiệm về sự nhạy cảm với kháng sinh. Thường dùng cho trường hợp điều trị H.p thất bại nhiều lần."
+      },
+      {
+        "name": "Kiểm tra hơi thở (Urea breath test)",
+        "description": "Thường gọi là xét nghiệm thổi bóng HP, dùng để kiểm chứng hiệu quả điều trị H.p, hoặc trường hợp hạn chế nội soi."
+      },
+      {
+        "name": "Kháng nguyên H.p trong phân (HPSA)",
+        "description": "Xét nghiệm phát hiện kháng nguyên của vi khuẩn H.pylori trong phân của bệnh nhân."
+      },
+      {
+        "name": "Kháng thể H.p trong huyết thanh",
+        "description": "Thường dùng trong nghiên cứu, ít dùng để chẩn đoán xác định nhiễm H.p hiện tại vì khả năng kháng thể tồn tại kéo dài trong máu."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nhiễm khuẩn H. pylori được điều trị bằng thuốc. Nếu nhiễm khuẩn H. pylori không gây ra vấn đề gì và người nhiễm không thuộc nhóm nguy cơ cao thì có thể không cần điều trị. Tuy nhiên, ở những người có tiền sử bệnh loét dạ dày tá tràng, loét dạ dày tiến triển liên quan đến nhiễm H. pylori, việc điều trị là cần thiết.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Liệu pháp ba thuốc",
+        "description": "Hầu hết các phác đồ điều trị H.p hiện nay đều bao gồm ít nhất 3 loại thuốc trong 14 ngày: một thuốc ức chế bơm proton (như omeprazole, esomeprazole, pantoprazole) và hai loại kháng sinh."
+      },
+      {
+        "name": "Điều trị cho trường hợp thất bại lần đầu",
+        "description": "Khi không diệt trừ hết H.p sau lần điều trị đầu, bác sĩ sẽ khuyến nghị phác đồ thứ hai gồm thuốc ức chế bơm proton và ít nhất một loại kháng sinh khác với những loại đã dùng trong đợt đầu tiên."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Dùng toàn bộ liệu trình của tất cả các loại thuốc",
+      "Không tự ý bỏ thuốc hoặc thay đổi liều lượng",
+      "Tham khảo ý kiến bác sĩ trước khi sử dụng thêm thuốc hoặc các phương pháp hỗ trợ khác",
+      "Nếu gặp tác dụng phụ khó chịu, trao đổi với bác sĩ để điều chỉnh",
+      "Thực hiện xét nghiệm sau điều trị để đảm bảo đã hết nhiễm trùng"
+    ],
+    "prevention_of_transmission": [
+      "Rửa tay bằng xà phòng đúng cách sau khi đi vệ sinh và trước khi ăn",
+      "Không dùng chung đồ ăn, đồ uống",
+      "Tiêu thụ thực phẩm đã được nấu chín kỹ",
+      "Sử dụng nước sạch để ăn uống và chế biến thực phẩm"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa nhiễm khuẩn H.pylori.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Rửa tay bằng xà phòng đúng cách sau khi đi vệ sinh và trước khi ăn",
+      "Không tiêu thụ các thực phẩm chưa được nấu chín kỹ hoặc có dấu hiệu ôi thiu, mốc, nhiễm khuẩn",
+      "Uống nước sạch và sử dụng nước sạch trong quá trình chế biến thức ăn",
+      "Hạn chế tiêu thụ thực phẩm tại các quán vỉa hè, không đảm bảo yếu tố vệ sinh an toàn thực phẩm",
+      "Bổ sung các thực phẩm tốt cho hệ tiêu hóa: rau củ quả, thực phẩm chứa lợi khuẩn, mật ong, tỏi, nghệ",
+      "Hạn chế thực phẩm cay nóng, nhiều dầu mỡ, nhiều acid, rượu bia, cà phê, nước uống có gas"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhiễm H.p dạ dày có nguy hiểm không?",
+      "answer": "Nhiễm khuẩn H.p dạ dày không phải là một tình trạng quá nguy hiểm. Trên thực tế, hầu hết những người bị nhiễm Helicobacter pylori không có triệu chứng và cũng không phát triển bất kỳ vấn đề sức khỏe nào. Dù vậy, nhiễm khuẩn H.p vẫn là một trong những nguyên nhân phổ biến nhất gây viêm loét dạ dày tá tràng và là yếu tố nguy cơ chính gây ung thư dạ dày."
+    },
+    {
+      "question": "Nhiễm khuẩn H.p có chữa được không?",
+      "answer": "Nhiễm khuẩn H.p hoàn toàn có thể chữa khỏi bằng phác đồ điều trị phù hợp. Điều quan trọng là người bệnh cần dùng thuốc đúng giờ, đúng liều theo hướng dẫn của bác sĩ, kết hợp với các biện pháp thay đổi lối sống để vi khuẩn được diệt trừ hoàn toàn, tránh tái phát."
+    },
+    {
+      "question": "Nhiễm khuẩn H.p nên ăn và kiêng gì?",
+      "answer": "Người bệnh nên bổ sung các thực phẩm tốt cho hệ tiêu hóa và có khả năng chống lại vi khuẩn như: rau củ quả (bắp cải, bông cải xanh, súp lơ, củ cải, cà rốt), thực phẩm chứa lợi khuẩn (sữa chua, kim chi, kefir), mật ong, tỏi, nghệ. Đồng thời nên hạn chế đồ ăn cay nóng, chiên rán, nhiều dầu mỡ, nhiều acid, rượu bia, cà phê, nước uống có gas, chocolate và các chất kích thích khác."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau hoặc khó chịu ở bụng trên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-khuan-hp",
+        "viem-loet-da-day",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy phình hoặc trướng bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-khuan-hp",
+        "hoi-chung-ruot-kich-thich",
+        "kho-tieu"
+      ]
+    },
+    {
+      "question": "Tôi hay cảm thấy no sau khi ăn một lượng nhỏ thức ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiem-khuan-hp", "viem-da-day", "roi-loan-tieu-hoa"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chán ăn, buồn nôn hoặc nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiem-khuan-hp", "viem-da-day", "roi-loan-tieu-hoa"]
+    },
+    {
+      "question": "Tôi đang cảm thấy phân sẫm màu hoặc màu hắc ín. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-khuan-hp",
+        "loet-da-day",
+        "chay-mau-duong-tieu-hoa"
+      ]
     }
   ]
 }

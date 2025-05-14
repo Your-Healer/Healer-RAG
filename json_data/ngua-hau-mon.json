@@ -1,58 +1,177 @@
 {
   "disease_id": "ngua-hau-mon",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ngứa hậu môn",
+  "disease_alternative_names": [
+    "Ngứa vùng hậu môn",
+    "Ngứa rát hậu môn",
+    "Anal itching",
+    "Pruritus ani"
+  ],
+  "disease_definition": "Ngứa hậu môn là một tình trạng khó chịu, gây ngứa hoặc kích thích ở vùng hậu môn - khu vực da xung quanh lỗ hậu môn. Đây là một triệu chứng phổ biến, có thể xuất hiện tạm thời hoặc kéo dài, từ nhẹ đến nặng, và có thể ảnh hưởng đáng kể đến chất lượng cuộc sống của người bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ngứa ngáy vùng hậu môn",
+      "description": "Cảm giác ngứa ngáy, khó chịu hoặc rát buốt ở khu vực xung quanh hậu môn, có thể từ nhẹ đến dữ dội."
+    },
+    {
+      "name": "Nóng rát và khó chịu",
+      "description": "Cảm giác nóng rát và khó chịu ở vùng hậu môn, đặc biệt là sau khi đi vệ sinh."
+    },
+    {
+      "name": "Đau và rát buốt",
+      "description": "Đau và rát buốt khi đi vệ sinh hoặc khi vệ sinh vùng hậu môn."
+    },
+    {
+      "name": "Da đỏ và viêm",
+      "description": "Da khu vực hậu môn bị đỏ, sưng tấy, viêm do gãi quá nhiều hoặc do các nguyên nhân gây ngứa."
+    },
+    {
+      "name": "Chảy dịch hoặc chảy máu",
+      "description": "Có thể xuất hiện chảy dịch hay chảy máu từ hậu môn, đặc biệt sau khi gãi mạnh."
+    },
+    {
+      "name": "Tiêu phân không kiểm soát",
+      "description": "Trong một số trường hợp, người bệnh có thể bị tiêu phân không kiểm soát (són phân)."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Ngứa hậu môn có thể do nhiều nguyên nhân khác nhau, bao gồm vệ sinh không đúng cách, các bệnh về da, nhiễm trùng, tác dụng phụ của thuốc, thói quen ăn uống, và các yếu tố khác.",
+    "related_factors": "Tình trạng này có thể do vệ sinh hậu môn không đúng cách (lau quá mạnh hoặc không sạch), các yếu tố liên quan đến thói quen ăn uống (thực phẩm cay, bia rượu), hoặc các bệnh lý cơ bản như trĩ, nứt hậu môn, hoặc bệnh về da.",
+    "transmission_routes": [
+      "Nhiễm ký sinh trùng như giun kim có thể lây truyền qua tiếp xúc với phân của người bị nhiễm hoặc qua các bề mặt bị nhiễm"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Vệ sinh kém: Không vệ sinh sạch sẽ vùng hậu môn sau khi đi vệ sinh",
+    "Vệ sinh quá mức: Lau rửa quá mạnh hoặc sử dụng xà phòng mạnh",
+    "Tiêu chảy hoặc són phân",
+    "Nhiễm trùng: Nấm, vi khuẩn, hoặc ký sinh trùng (như giun kim)",
+    "Thói quen ăn uống: Thực phẩm cay nóng, cà phê, rượu bia, chocolate",
+    "Bệnh về da: Chàm, vảy nến, viêm da",
+    "Bệnh hậu môn: Trĩ, nứt hậu môn, rò hậu môn",
+    "Sử dụng kháng sinh kéo dài",
+    "Môi trường ẩm ướt: Mặc quần áo bó sát, đổ mồ hôi nhiều",
+    "Căng thẳng và lo lắng"
+  ],
+  "complications": [
+    "Nhiễm trùng da thứ phát do gãi nhiều",
+    "Trầm trọng hóa các bệnh da đã có",
+    "Rối loạn giấc ngủ do ngứa ngáy",
+    "Ảnh hưởng tâm lý và chất lượng cuộc sống",
+    "Tăng nguy cơ nứt kẽ hậu môn",
+    "Tổn thương da vùng hậu môn mạn tính"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: Bác sĩ sẽ khám vùng hậu môn để tìm dấu hiệu của bệnh",
+      "Khai thác tiền sử: Thảo luận về các triệu chứng, thói quen vệ sinh, thói quen ăn uống và tiền sử bệnh",
+      "Xét nghiệm để phát hiện nguyên nhân: Vi khuẩn, nấm, ký sinh trùng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm mẫu phân",
+        "description": "Kiểm tra sự hiện diện của ký sinh trùng như giun kim"
+      },
+      {
+        "name": "Xét nghiệm da",
+        "description": "Lấy mẫu da để kiểm tra vi khuẩn hoặc nấm gây bệnh"
+      },
+      {
+        "name": "Soi hậu môn",
+        "description": "Kiểm tra hậu môn và một phần trực tràng để tìm nguyên nhân như trĩ hoặc nứt hậu môn"
+      },
+      {
+        "name": "Nội soi đại tràng",
+        "description": "Trong một số trường hợp, có thể thực hiện để loại trừ các bệnh lý đại tràng"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị ngứa hậu môn tập trung vào việc giải quyết nguyên nhân gây bệnh và giảm triệu chứng ngứa. Phương pháp điều trị sẽ tùy thuộc vào nguyên nhân cơ bản gây ra tình trạng này.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nguyên nhân cơ bản",
+        "description": "Nếu ngứa hậu môn do nhiễm trùng, dị ứng, hoặc bệnh lý khác, việc điều trị sẽ tập trung vào nguyên nhân đó."
+      },
+      {
+        "name": "Thuốc bôi tại chỗ",
+        "description": "Kem hydrocortisone nhẹ, kem kháng nấm, hoặc thuốc mỡ bảo vệ da có thể giúp giảm viêm và ngứa. Tuy nhiên, không nên sử dụng steroid mạnh hoặc kéo dài."
+      },
+      {
+        "name": "Thuốc uống",
+        "description": "Thuốc kháng sinh (nếu do vi khuẩn), thuốc kháng nấm (nếu do nấm), thuốc tẩy giun (nếu do ký sinh trùng như giun kim)."
+      },
+      {
+        "name": "Điều trị các bệnh liên quan",
+        "description": "Nếu ngứa liên quan đến trĩ, nứt hậu môn hoặc bệnh khác, cần điều trị những bệnh này."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Vệ sinh nhẹ nhàng: Sau khi đi vệ sinh, làm sạch vùng hậu môn bằng nước ấm, không xà phòng",
+      "Làm khô cẩn thận: Thấm khô nhẹ nhàng hoặc dùng máy sấy ở chế độ mát",
+      "Tránh gãi: Mặc dù rất khó kiểm soát, nhưng gãi sẽ làm tổn thương da và có thể gây nhiễm trùng",
+      "Mặc quần áo thoáng: Chọn đồ lót cotton, tránh đồ bó sát",
+      "Điều chỉnh chế độ ăn: Tránh thực phẩm có thể gây kích ứng như đồ cay, cà phê, bia rượu",
+      "Sử dụng giấy vệ sinh mềm, không mùi và không màu",
+      "Tránh các sản phẩm gây kích ứng: Như xà phòng có mùi thơm, chất tẩy rửa mạnh"
+    ],
+    "prevention_of_transmission": [
+      "Đối với ngứa hậu môn do ký sinh trùng: Giữ vệ sinh cá nhân, rửa tay thường xuyên",
+      "Tránh sử dụng chung khăn tắm, đồ lót với người nhiễm",
+      "Giặt sạch quần áo, chăn màn, khăn tắm thường xuyên trong nước nóng",
+      "Điều trị cho tất cả các thành viên trong gia đình nếu phát hiện có người bị nhiễm giun kim"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh đúng cách: Rửa sạch vùng hậu môn sau khi đi vệ sinh, không dùng xà phòng có mùi thơm hoặc chất tẩy rửa mạnh",
+      "Giữ vùng hậu môn khô ráo: Thấm khô nhẹ nhàng sau khi vệ sinh",
+      "Tránh gãi: Cố gắng tránh gãi, vì điều này có thể làm tổn thương da và làm ngứa nhiều hơn",
+      "Mặc quần áo thoáng mát: Mặc đồ lót cotton, tránh đồ quá chật hoặc bó sát",
+      "Điều chỉnh chế độ ăn: Tránh các thực phẩm có thể gây kích ứng như đồ cay, cà phê, chocolate, bia rượu",
+      "Giảm căng thẳng: Tìm cách để giảm stress, vì căng thẳng có thể làm trầm trọng thêm tình trạng ngứa",
+      "Duy trì cân nặng hợp lý: Béo phì có thể làm tăng sự ma sát và đổ mồ hôi ở vùng hậu môn",
+      "Tránh ngồi quá lâu: Ngồi lâu có thể tăng áp lực lên vùng hậu môn và gây kích ứng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ngứa hậu môn có nguy hiểm không?",
+      "answer": "Ngứa hậu môn thường không nguy hiểm, nhưng có thể gây khó chịu và ảnh hưởng đến chất lượng cuộc sống. Trong hầu hết các trường hợp, tình trạng này có thể được điều trị hiệu quả. Tuy nhiên, ngứa hậu môn kéo dài hoặc tái phát cần được khám bởi bác sĩ để loại trừ các nguyên nhân nghiêm trọng hơn và ngăn ngừa biến chứng như nhiễm trùng da thứ phát."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ về tình trạng ngứa hậu môn?",
+      "answer": "Bạn nên đi khám bác sĩ nếu ngứa hậu môn: kéo dài hơn một tuần, xuất hiện cùng với các triệu chứng khác như chảy máu, đau, tiêu phân không kiểm soát, hoặc thay đổi thói quen đi vệ sinh; tái phát mặc dù đã thực hiện các biện pháp vệ sinh và tự chăm sóc; kèm theo sưng, nổi mẩn, hoặc có dịch tiết ra từ vùng hậu môn. Những dấu hiệu này có thể cho thấy một vấn đề sức khỏe cơ bản cần được điều trị."
+    },
+    {
+      "question": "Làm thế nào để giảm ngứa hậu môn tại nhà?",
+      "answer": "Để giảm ngứa hậu môn tại nhà, bạn có thể: Vệ sinh nhẹ nhàng vùng hậu môn bằng nước ấm sau khi đi vệ sinh, tránh xà phòng mạnh; Thấm khô cẩn thận thay vì chà xát; Tránh gãi mặc dù rất khó kiểm soát; Mặc đồ lót cotton thoáng mát; Tránh thực phẩm có thể gây kích ứng như đồ cay, cà phê, bia rượu; Sử dụng giấy vệ sinh mềm, không mùi; Áp dụng compresses lạnh hoặc ngâm nước ấm để giảm ngứa tạm thời. Nếu các biện pháp này không hiệu quả sau một tuần, nên đi khám bác sĩ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngứa ngáy vùng hậu môn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngua-hau-mon", "tri", "nurt-ke-hau-mon"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nóng rát và khó chịu ở vùng hậu môn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngua-hau-mon", "viem-da-tiep-xuc", "tri-ngoai"]
+    },
+    {
+      "question": "Tôi hay bị đau và rát buốt khi đi vệ sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngua-hau-mon", "nurt-ke-hau-mon", "tri-noi"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như da vùng hậu môn bị đỏ và viêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngua-hau-mon", "viem-da-tiep-xuc", "cham-hau-mon"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa hậu môn và có dấu hiệu chảy dịch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngua-hau-mon", "ro-hau-mon", "ap-xe-hau-mon"]
     }
   ]
 }

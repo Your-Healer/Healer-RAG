@@ -1,58 +1,203 @@
 {
   "disease_id": "nhiem-trung-duong-ruot",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhiễm trùng đường ruột",
+  "disease_alternative_names": [
+    "Nhiễm khuẩn đường ruột",
+    "Viêm đường tiêu hóa",
+    "Nhiễm trùng tiêu hóa"
+  ],
+  "disease_definition": "Nhiễm trùng đường ruột là tình trạng tổn thương đường tiêu hóa xảy ra do sự xâm nhập của vi sinh vật gây hại. Bệnh lý này có thể xuất hiện ở mọi đối tượng, vào mọi thời điểm bất kỳ, dẫn đến nhiều vấn đề khó chịu và bất tiện. Nếu nhiễm trùng không được điều trị kịp thời, có nguy cơ sẽ dẫn đến nhiều biến chứng nghiêm trọng hơn đối với sức khỏe.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng",
+      "description": "Đau bụng là triệu chứng phổ biến của nhiễm trùng đường ruột, có thể đau quặn theo từng cơn hoặc đau liên tục."
+    },
+    {
+      "name": "Tiêu chảy",
+      "description": "Tiêu chảy thường xuyên, phân lỏng, có thể kèm theo máu hoặc chất nhầy trong phân."
+    },
+    {
+      "name": "Buồn nôn và nôn mửa",
+      "description": "Cảm giác buồn nôn và nôn mửa thường xuất hiện khi cơ thể cố gắng đào thải các vi sinh vật gây hại."
+    },
+    {
+      "name": "Sốt",
+      "description": "Nhiệt độ cơ thể tăng cao là phản ứng của hệ miễn dịch khi chống lại nhiễm trùng."
+    },
+    {
+      "name": "Ớn lạnh",
+      "description": "Cảm giác rét run, ớn lạnh thường đi kèm với sốt."
+    },
+    {
+      "name": "Chuột rút",
+      "description": "Co thắt cơ bụng có thể xảy ra do mất nước và điện giải từ tiêu chảy và nôn mửa."
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau đầu thường xuất hiện kèm theo các triệu chứng khác, có thể do sốt hoặc mất nước."
+    },
+    {
+      "name": "Xuất hiện máu trong phân",
+      "description": "Phân có lẫn máu là dấu hiệu cảnh báo nguy hiểm, có thể do viêm ruột nghiêm trọng hoặc tổn thương đường tiêu hóa."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nhiễm trùng đường ruột xuất phát từ nhiều nguyên nhân khác nhau, trong đó chủ yếu là do hoạt động của vi khuẩn, virus và ký sinh trùng xâm nhập vào đường tiêu hóa.",
+    "related_factors": "Nguyên nhân phổ biến nhất là do ăn uống thực phẩm không đảm bảo vệ sinh, uống nước bị ô nhiễm, hoặc tiếp xúc với người bệnh.",
+    "transmission_routes": [
+      "Qua thực phẩm không đảm bảo vệ sinh an toàn",
+      "Qua nước uống bị ô nhiễm",
+      "Lây truyền từ người sang người qua tiếp xúc trực tiếp",
+      "Tiếp xúc với đồ vật bị nhiễm vi khuẩn, virus"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ nhỏ và trẻ sơ sinh do hệ miễn dịch chưa phát triển hoàn chỉnh",
+    "Người cao tuổi do hệ miễn dịch và hệ tiêu hóa suy yếu",
+    "Những người sống trong môi trường không đảm bảo vệ sinh",
+    "Du lịch đến các vùng có điều kiện vệ sinh kém",
+    "Sử dụng thực phẩm chưa nấu chín",
+    "Uống nước chưa được xử lý sạch",
+    "Hệ miễn dịch suy yếu"
+  ],
+  "complications": [
+    "Sốt cao",
+    "Đau cơ",
+    "Không thể kiểm soát nhu động ruột",
+    "Suy thận",
+    "Chảy máu đường ruột",
+    "Thiếu máu",
+    "Mất nước nghiêm trọng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Xét nghiệm phân để tìm vi khuẩn, virus hoặc ký sinh trùng",
+      "Xét nghiệm máu để kiểm tra tình trạng nhiễm trùng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm phân",
+        "description": "Kiểm tra mẫu phân để tìm vi khuẩn, virus, ký sinh trùng hoặc máu"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra số lượng bạch cầu và các dấu hiệu nhiễm trùng khác"
+      },
+      {
+        "name": "Nội soi đại tràng",
+        "description": "Trong trường hợp nghiêm trọng, bác sĩ có thể thực hiện nội soi để kiểm tra tình trạng ruột"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Bác sĩ sẽ chỉ định phương pháp điều trị nhiễm trùng đường ruột dựa vào nguyên nhân và mức độ nghiêm trọng của các triệu chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Bù nước và điện giải",
+        "description": "Bổ sung nước và điện giải bằng các dung dịch như oresol pha đúng tỷ lệ, nước dừa, nước cháo để bù lại lượng nước và điện giải đã mất do tiêu chảy và nôn mửa."
+      },
+      {
+        "name": "Nghỉ ngơi",
+        "description": "Nghỉ ngơi đầy đủ để đẩy nhanh tốc độ phục hồi cho cơ thể."
+      },
+      {
+        "name": "Chế độ ăn thích hợp",
+        "description": "Chia nhỏ các bữa ăn với thực phẩm dễ tiêu hóa, chẳng hạn như chuối, bánh quy giòn, bánh mì hoặc cơm."
+      },
+      {
+        "name": "Sử dụng kháng sinh",
+        "description": "Trong trường hợp nhiễm trùng do vi khuẩn, bác sĩ có thể chỉ định sử dụng các loại thuốc kháng sinh như Cotrimoxazol, kháng sinh nhóm imidazole."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Uống nhiều nước để tránh mất nước",
+      "Tuân thủ chế độ ăn BRAT (chuối, gạo, sốt táo và bánh mì nướng)",
+      "Tránh các sản phẩm từ sữa, chất béo, rượu",
+      "Chia nhỏ bữa ăn",
+      "Ăn thực phẩm dễ tiêu hóa",
+      "Tránh các loại thức ăn cay, nhiều dầu mỡ",
+      "Không tự ý sử dụng thuốc kháng sinh khi chưa có chỉ định của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Rửa tay sau khi đi vệ sinh hoặc sau khi chạm vào vật nuôi",
+      "Rửa tay trước và sau khi chạm vào bất kỳ thực phẩm nào",
+      "Không chuẩn bị thức ăn cho người khác khi đang bị nhiễm trùng",
+      "Làm sạch và khử trùng các bề mặt bị ô nhiễm",
+      "Tách riêng người bệnh và đồ dùng cá nhân của họ"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Có một số loại vaccine phòng ngừa một số nguyên nhân gây nhiễm trùng đường ruột như vaccine rotavirus cho trẻ em.",
+      "recommended_for": ["Trẻ em dưới 1 tuổi"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Rửa tay sau khi đi vệ sinh hoặc sau khi chạm vào vật nuôi",
+      "Rửa tay trước và sau khi chạm vào bất kỳ thực phẩm nào",
+      "Tránh ăn thịt hoặc trứng chưa được chín mà không đảm bảo vệ sinh",
+      "Uống nước đã được đun sôi hoặc nước đóng chai",
+      "Vệ sinh ga trải giường, mền gối, quần áo thường xuyên",
+      "Làm sạch và khử trùng các bề mặt bị ô nhiễm",
+      "Luôn tách thịt sống, hải sản, thịt gia cầm và trứng ra khỏi các loại thực phẩm đã chế biến",
+      "Tránh ăn đồ ăn ở vỉa hè, các hàng quán không đảm bảo vệ sinh",
+      "Tránh ăn salad tươi, trái cây gọt vỏ, sữa hoặc các sản phẩm từ sữa chưa tiệt trùng khi đi du lịch"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bị nhiễm trùng đường ruột có nguy hiểm không?",
+      "answer": "Nhiễm trùng đường ruột hiếm khi gây nguy hiểm đối với người trưởng thành khỏe mạnh. Tuy nhiên, với đối tượng người cao tuổi và trẻ nhỏ, bệnh có nguy cơ kéo dài đồng thời để lại nhiều biến chứng nghiêm trọng nếu không điều trị sớm (suy thận, thiếu máu…)."
+    },
+    {
+      "question": "Nhiễm trùng đường ruột có lây không?",
+      "answer": "Nhiễm trùng đường ruột do vi khuẩn, virus, ký sinh trùng có nguy cơ lây lan từ người này sang người khác trong quá trình tiếp xúc. Do đó, tất cả mọi người cần hết sức cẩn thận khi có người thân, bạn bè… xung quanh mắc bệnh."
+    },
+    {
+      "question": "Nhiễm trùng đường ruột nên ăn trái cây gì?",
+      "answer": "Một số loại trái cây có lợi cho hệ tiêu hóa khi bị nhiễm trùng đường ruột bao gồm: chuối (cung cấp chất xơ, kali, protein, vitamin B6, mangan), đào (giàu chất chống oxy hóa, vitamin C, chất xơ), táo (nguồn cung cấp chất chống oxy hóa, vitamin, khoáng chất), nam việt quất (giàu chất chống oxy hóa, giúp chống viêm), lựu (giàu chất chống oxy hóa và polyphenol prebiotic), và các loại trái cây nhiều nước như cam, bưởi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, tiêu chảy và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-duong-ruot",
+        "roi-loan-tieu-hoa",
+        "ngo-doc-thuc-pham"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt và ớn lạnh, kèm theo chuột rút. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-duong-ruot",
+        "cam-cum",
+        "sot-xuat-huyet"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu và xuất hiện máu trong phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-duong-ruot",
+        "viem-ruot",
+        "xuat-huyet-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng nôn mửa và tiêu chảy nặng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-duong-ruot",
+        "ngo-doc-thuc-pham",
+        "lien-cau-ruot"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng dữ dội và mất nước. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-duong-ruot",
+        "viem-ruot-thua",
+        "viem-tui-mat"
+      ]
     }
   ]
 }

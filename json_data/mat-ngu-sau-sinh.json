@@ -1,39 +1,153 @@
 {
   "disease_id": "mat-ngu-sau-sinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mất ngủ sau sinh",
+  "disease_alternative_names": [
+    "Chứng mất ngủ sau sinh",
+    "Rối loạn giấc ngủ sau sinh",
+    "Postpartum insomnia"
+  ],
+  "disease_definition": "Mất ngủ sau sinh là tình trạng bạn khó đi vào giấc ngủ, ngủ không đủ giấc, ngủ chập chờn không sâu giấc, hay giấc ngủ không liên tục sau khi sinh con. Đây là hiện tượng phổ biến, khoảng 3/4 phụ nữ mắc phải trong giai đoạn sau sinh, thường gặp trong 2 tháng đầu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó ngủ vào ban đêm",
+      "description": "Khó đi vào giấc ngủ dù đã cảm thấy mệt mỏi và muốn ngủ."
+    },
+    {
+      "name": "Thức dậy trong đêm nhiều lần",
+      "description": "Giấc ngủ bị gián đoạn nhiều lần trong đêm, không ngủ liên tục được."
+    },
+    {
+      "name": "Thức dậy quá sớm",
+      "description": "Tỉnh giấc vào buổi sáng sớm và không thể ngủ lại được."
+    },
+    {
+      "name": "Khó ngủ lại sau khi thức giấc",
+      "description": "Sau khi thức dậy vào ban đêm, khó có thể quay trở lại giấc ngủ."
+    },
+    {
+      "name": "Mệt mỏi sau khi thức giấc",
+      "description": "Cảm giác mệt mỏi, kiệt sức khi thức dậy dù đã ngủ."
+    },
+    {
+      "name": "Buồn ngủ ban ngày nhưng không ngủ được",
+      "description": "Cảm thấy buồn ngủ vào ban ngày nhưng không thể chìm vào giấc ngủ."
+    },
+    {
+      "name": "Cảm giác khó chịu, dễ cáu gắt",
+      "description": "Tâm trạng thất thường, dễ bực bội và cáu gắt với người xung quanh."
+    },
+    {
+      "name": "Lo lắng, trầm cảm",
+      "description": "Cảm giác lo âu và trầm cảm do thiếu ngủ kéo dài."
+    },
+    {
+      "name": "Khó tập trung",
+      "description": "Khó chú ý, tập trung vào công việc, hay mắc lỗi và dễ gây tai nạn."
+    },
+    {
+      "name": "Lo lắng về giấc ngủ",
+      "description": "Cảm giác lo lắng về việc không ngủ được, ngủ không an giấc."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mất ngủ sau sinh là hệ quả của nhiều yếu tố, bao gồm thay đổi nội tiết tố, gián đoạn giấc ngủ do chăm sóc trẻ, đau sau sinh, và căng thẳng tâm lý.",
+    "related_factors": "Trẻ sơ sinh chưa phát triển nhịp sinh học ngày đêm, nồng độ progesterone và melatonin giảm đột ngột, cảm giác đau đớn sau khi sinh, căng thẳng và thay đổi tâm trạng, thức đêm để cho con bú, thiếu sắt sau sinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nội tiết tố thay đổi đột ngột sau sinh",
+    "Chăm sóc con một mình, không có người hỗ trợ",
+    "Thiếu sắt sau sinh",
+    "Căng thẳng, lo lắng quá mức về việc chăm sóc con",
+    "Ảnh hưởng của vết mổ hoặc vết khâu tầng sinh môn",
+    "Cho con bú đêm nhiều lần",
+    "Tiền sử có vấn đề về giấc ngủ",
+    "Căng thẳng về tài chính hoặc lo lắng về vai trò làm mẹ"
+  ],
+  "complications": [
+    "Suy nhược cơ thể, suy giảm sức đề kháng",
+    "Khó tỉnh táo để chăm sóc trẻ đúng cách",
+    "Thiếu sữa cho con bú",
+    "Tâm trạng buồn bã, thất vọng, chán nản",
+    "Dễ cáu gắt với người xung quanh",
+    "Có thể dẫn đến trầm cảm sau sinh",
+    "Khó phục hồi sức khỏe sau sinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá triệu chứng mất ngủ",
+      "Kiểm tra tình trạng cảm xúc, lo âu, trầm cảm",
+      "Loại trừ các nguyên nhân y tế khác"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đánh giá lâm sàng",
+        "description": "Bác sĩ đánh giá các triệu chứng mất ngủ, thời gian xuất hiện và mức độ ảnh hưởng đến cuộc sống."
+      },
+      {
+        "name": "Kiểm tra sức khỏe tổng quát",
+        "description": "Kiểm tra các vấn đề sức khỏe có thể gây mất ngủ như thiếu máu, thiếu sắt, rối loạn tuyến giáp."
+      },
+      {
+        "name": "Đánh giá tâm lý",
+        "description": "Kiểm tra tình trạng lo âu, trầm cảm có thể góp phần gây mất ngủ."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị mất ngủ sau sinh cần kết hợp nhiều phương pháp, nhằm cải thiện chất lượng giấc ngủ và ngăn ngừa biến chứng như trầm cảm sau sinh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều chỉnh thói quen giấc ngủ",
+        "description": "Cố gắng lên giường sớm và duy trì một khung giờ ngủ - thức nhất định, giúp cơ thể quen với nhịp sinh hoạt này. Tận dụng thời gian bé ngủ ban ngày để ngủ bù lại, đảm bảo ngủ đủ 7-8 giờ mỗi ngày."
+      },
+      {
+        "name": "Chia sẻ công việc chăm sóc con",
+        "description": "Nhờ sự hỗ trợ của người thân để chia thời gian trông con, giúp có nhiều thời gian nghỉ ngơi hơn."
+      },
+      {
+        "name": "Tránh căng thẳng",
+        "description": "Áp dụng các liệu pháp thư giãn như nghe nhạc, đọc sách, nấu ăn hoặc tâm sự cùng bạn bè để giảm lo lắng."
+      },
+      {
+        "name": "Điều chỉnh không gian ngủ",
+        "description": "Giữ phòng mát mẻ, tối và yên tĩnh vào ban đêm, đầu tư vào nệm, gối và chăn thoải mái."
+      },
+      {
+        "name": "Thay đổi chế độ dinh dưỡng",
+        "description": "Ăn uống đầy đủ dinh dưỡng, hạn chế thực phẩm nhiều dầu mỡ, không sử dụng rượu bia, trà, cà phê, thuốc lá."
+      },
+      {
+        "name": "Tập thở sâu và thư giãn",
+        "description": "Thực hiện các kỹ thuật thở sâu, thiền và các kỹ thuật thư giãn khác để dễ đi vào giấc ngủ."
+      },
+      {
+        "name": "Massage và tắm nước ấm",
+        "description": "Massage lưng, tay, chân, bấm huyệt và tắm nước ấm trước khi ngủ để thư giãn cơ thể."
+      },
+      {
+        "name": "Tập thể dục nhẹ nhàng",
+        "description": "Thực hiện các bài tập nhẹ nhàng ban ngày giúp lấy lại vóc dáng và tạo cảm giác sảng khoái, giúp ngủ tốt hơn vào ban đêm."
+      },
+      {
+        "name": "Bổ sung khoáng chất",
+        "description": "Bổ sung magie và sắt qua thực phẩm hoặc viên uống bổ sung để ngăn ngừa trầm cảm, lo âu, căng thẳng."
+      },
+      {
+        "name": "Sử dụng trà thảo dược",
+        "description": "Uống các loại trà thảo dược như trà hoa cúc, trà hoa oải hương, trà bạc hà giúp an thần và giảm căng thẳng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Ngủ khi trẻ ngủ, tận dụng thời gian con ngủ để nghỉ ngơi",
+      "Duy trì lịch trình ngủ đều đặn trong khả năng cho phép",
+      "Tìm cách giải tỏa căng thẳng như tâm sự với người thân, bạn bè",
+      "Tránh sử dụng caffeine, rượu và nicotine",
+      "Tập thể dục nhẹ nhàng ban ngày, tránh tập ngay trước khi ngủ",
+      "Tránh sử dụng thiết bị điện tử trong hai giờ trước khi ngủ",
+      "Nếu mất ngủ kéo dài và có dấu hiệu trầm cảm, cần tìm kiếm sự giúp đỡ y tế",
+      "Ăn các thực phẩm có lợi cho giấc ngủ: các loại hạt, cá béo, kiwi"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +155,72 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ngủ khi trẻ ngủ, tận dụng thời gian nghỉ ngơi tối đa",
+      "Duy trì thói quen vệ sinh giấc ngủ như đi ngủ và thức dậy đúng giờ",
+      "Tìm cách giảm lo lắng và căng thẳng",
+      "Hạn chế caffeine, rượu và nicotine",
+      "Tập thể dục nhẹ nhàng hàng ngày",
+      "Tránh sử dụng thiết bị điện tử trước khi ngủ",
+      "Chuẩn bị tinh thần và có kế hoạch hỗ trợ từ gia đình trước khi sinh",
+      "Điều chỉnh chế độ ăn uống, bổ sung các thực phẩm giúp ngủ ngon",
+      "Tạo môi trường ngủ thoải mái, yên tĩnh và tối"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bị mất ngủ sau sinh có khỏi được không?",
+      "answer": "Chứng mất ngủ sau sinh có thể khỏi trong điều kiện được điều trị đúng cách. Nếu bị mất ngủ sau sinh, bạn nên đến bệnh viện thăm khám để tìm ra nguyên nhân và có cách điều trị phù hợp. Người sinh xong bị mất ngủ cũng nên kiên trì thực hiện các biện pháp điều trị bệnh để có thể chữa khỏi bệnh trong thời gian sớm nhất."
+    },
+    {
+      "question": "Mất ngủ sau sinh có làm sao không?",
+      "answer": "Mất ngủ sau sinh có thể ảnh hưởng đến sức khỏe thể chất và tinh thần của người mẹ và cả trẻ sơ sinh. Ngủ ít, thường xuyên mất ngủ sẽ dẫn đến suy nhược cơ thể, suy giảm sức đề kháng, khó có sữa để cho con bú. Tình trạng này còn ảnh hưởng trực tiếp đến tâm trạng, khiến bạn cảm thấy buồn bã, thất vọng, chán nản, không còn muốn chăm sóc con cái và dễ cáu gắt với những người xung quanh."
+    },
+    {
+      "question": "Thiếu ngủ, khó ngủ và mất ngủ sau sinh có giống nhau không?",
+      "answer": "Thiếu ngủ, khó ngủ, mất ngủ là những triệu chứng chung của tình trạng rối loạn giấc ngủ. Sau sinh, phụ nữ có thể gặp cả 3 triệu chứng này."
+    },
+    {
+      "question": "Mất ngủ sau sinh thường xuyên có bị trầm cảm không?",
+      "answer": "Có! Tình trạng mất ngủ kéo dài không chỉ làm suy nhược cơ thể mà còn ảnh hưởng đến sức khỏe tinh thần. Khi bị mất ngủ quá nhiều, bạn dễ cảm thấy bực bội, cáu gắt, tâm trạng khó chịu, suy nghĩ theo hướng tiêu cực. Lâu dài, tình trạng này có thể dẫn đến trầm cảm."
+    },
+    {
+      "question": "Mất ngủ sau sinh kéo dài khoảng bao lâu?",
+      "answer": "Sau sinh bị mất ngủ có thể kéo dài vài tuần, vài tháng hay thậm chí trong suốt một vài năm đầu tiên khi trẻ vừa chào đời. Điều này còn phụ thuộc vào nguyên nhân mất ngủ sau sinh là gì, sức khỏe thể chất và tâm lý của bạn cũng như cách chữa mất ngủ sau sinh có hiệu quả hay không."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó ngủ vào ban đêm và thức dậy nhiều lần trong đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-ngu-sau-sinh",
+        "roi-loan-giac-ngu",
+        "tram-cam-sau-sinh"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi sau khi thức giấc và buồn ngủ ban ngày nhưng không thể ngủ được. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-ngu-sau-sinh", "suy-nhuoc-co-the", "thieu-mau"]
+    },
+    {
+      "question": "Tôi hay thức dậy quá sớm và khó ngủ lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-ngu-sau-sinh", "roi-loan-giac-ngu", "lo-au"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó chịu, dễ cáu gắt và lo lắng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-ngu-sau-sinh",
+        "tram-cam-sau-sinh",
+        "roi-loan-lo-au"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy trầm cảm và khó ngủ vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-ngu-sau-sinh",
+        "tram-cam-sau-sinh",
+        "roi-loan-giac-ngu"
+      ]
     }
   ]
 }

@@ -1,39 +1,90 @@
 {
   "disease_id": "mun-cam",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn cám",
+  "disease_alternative_names": ["Mụn đầu trắng", "Mụn li ti"],
+  "disease_definition": "Mụn cám là tình trạng lỗ chân lông bị tắc, biểu hiện bằng những nốt nhỏ li ti, thường xuất hiện ở các vùng da mũi, cằm, má khiến da sần sùi, thô ráp. Mụn cám có nhân màu trắng hoặc vàng đục, không sưng, không viêm hay đau nhức.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Da sần sùi, thô ráp",
+      "description": "Da có cảm giác không mịn màng, xuất hiện nhiều nốt nhỏ li ti làm bề mặt da thô ráp, sần sùi."
+    },
+    {
+      "name": "Những nốt nhỏ li ti",
+      "description": "Xuất hiện các nốt nhỏ li ti màu trắng hoặc vàng đục, đôi khi ngả về màu đen, thường tập trung ở vùng mũi, cằm, má."
+    },
+    {
+      "name": "Lỗ chân lông to",
+      "description": "Các lỗ chân lông bị giãn rộng, dễ nhìn thấy bằng mắt thường, thường ở vùng chữ T trên mặt."
+    },
+    {
+      "name": "Da tiết nhiều dầu",
+      "description": "Da thường xuyên bóng nhờn, đặc biệt là vùng chữ T (trán, mũi, cằm)."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mụn cám hình thành khi lỗ chân lông bị tắc nghẽn do tế bào da chết, mồ hôi nhờn hoặc bụi bẩn bị mắc kẹt, không thể thoát ra ngoài.",
+    "related_factors": "Các yếu tố làm tăng nguy cơ mọc mụn cám bao gồm tăng tiết bã nhờn, vệ sinh da không đúng cách, môi trường nóng ẩm, rối loạn hormone, sử dụng mỹ phẩm không phù hợp, chế độ ăn uống và sinh hoạt không hợp lý.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giai đoạn dậy thì",
+    "Mang thai và thay đổi nội tiết tố",
+    "Da tiết nhiều dầu, tuyến bã nhờn hoạt động mạnh",
+    "Vệ sinh da không đúng cách",
+    "Môi trường nóng ẩm, nhiều bụi bẩn",
+    "Sử dụng mỹ phẩm không phù hợp với loại da",
+    "Căng thẳng, stress kéo dài",
+    "Chu kỳ kinh nguyệt không đều",
+    "Tiền sử gia đình có da dầu hoặc nhiều mụn",
+    "Chế độ ăn uống nhiều dầu mỡ, cay nóng"
+  ],
+  "complications": [
+    "Mụn đầu đen: lỗ chân lông giãn to và thông với môi trường bên ngoài, nhân mụn bị oxy hóa thành màu đen",
+    "Mụn mủ: bụi bẩn bên trong lỗ chân lông dẫn đến viêm nhiễm, sưng tấy và mưng mủ",
+    "Da sạm màu: sau khi nặn mụn không đúng cách",
+    "Lỗ chân lông to hơn: do nặn hoặc lột mụn không đúng cách",
+    "Sẹo rỗ: trong trường hợp da bị tổn thương nặng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Kiểm tra trực quan bằng mắt thường",
+      "Khám với bác sĩ da liễu để được chẩn đoán chính xác tình trạng da"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra lâm sàng",
+        "description": "Bác sĩ da liễu đánh giá tình trạng mụn cám qua quan sát trực tiếp về kích thước, màu sắc và vị trí của mụn"
+      },
+      {
+        "name": "Đánh giá loại da",
+        "description": "Xác định loại da (da dầu, da hỗn hợp) để có phương pháp điều trị phù hợp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị mụn cám cần phù hợp với từng loại da và mức độ nghiêm trọng. Không nên tự ý nặn mụn hoặc lột mụn tại nhà vì có thể gây tổn thương da, để lại sẹo hoặc vết thâm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chăm sóc da thường xuyên",
+        "description": "Rửa mặt nhẹ nhàng 2 lần/ngày bằng sữa rửa mặt phù hợp (giảm nhờn hoặc kiểm soát nhờn) với nước ấm. Sử dụng kem dưỡng ẩm thích hợp."
+      },
+      {
+        "name": "Điều trị bằng thuốc bôi và thuốc uống",
+        "description": "Theo chỉ định của bác sĩ da liễu, sử dụng thuốc bôi hoặc thuốc uống điều trị mụn cám. Các thuốc này có thể chứa tretinoin, axit salicylic hoặc benzoyl peroxide."
+      },
+      {
+        "name": "Các thủ thuật da liễu",
+        "description": "Trong trường hợp mụn cám nhiều, bác sĩ có thể thực hiện các thủ thuật như lấy nhân mụn, điều trị bằng laser hoặc peel da hóa học."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không tự ý nặn mụn cám tại nhà",
+      "Sử dụng sản phẩm dưỡng da không gây bít tắc lỗ chân lông (non-comedogenic)",
+      "Tẩy tế bào chết đều đặn 1-2 lần/tuần",
+      "Sử dụng nước hoa hồng để se khít lỗ chân lông",
+      "Bảo vệ da khỏi ánh nắng mặt trời",
+      "Không chạm tay vào mặt khi chưa rửa sạch"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +92,57 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh da sạch sẽ hai lần mỗi ngày",
+      "Sử dụng các sản phẩm chăm sóc da phù hợp với loại da",
+      "Tẩy trang kỹ trước khi đi ngủ",
+      "Tẩy tế bào chết đều đặn",
+      "Giữ lối sống lành mạnh, ăn uống cân bằng",
+      "Hạn chế thức ăn cay nóng, nhiều dầu mỡ",
+      "Uống đủ nước mỗi ngày",
+      "Tránh stress kéo dài",
+      "Không chạm tay vào mặt khi chưa rửa sạch",
+      "Khám da liễu định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn cám có nên nặn không?",
+      "answer": "Không nên tự nặn mụn cám tại nhà. Nặn mụn cám không đúng cách có thể khiến da dễ viêm, sẹo, sạm màu và sần sùi. Nếu cần lấy nhân mụn, hãy đến gặp bác sĩ da liễu để được hướng dẫn cách chăm sóc da, điều trị mụn và được thực hiện một cách an toàn."
+    },
+    {
+      "question": "Có nên lột mụn cám không?",
+      "answer": "Tương tự như nặn mụn, lột mụn cám cũng cần thận trọng. Lột mụn có thể gây tổn thương da, kích ứng, làm giãn lỗ chân lông, hoặc gây viêm da. Nếu muốn lột mụn, hãy sử dụng các sản phẩm gel lột mụn an toàn, vệ sinh da sạch sẽ và thao tác nhẹ nhàng. Tuy nhiên, cách lột mụn cám khó lấy sạch nhân mụn sâu."
+    },
+    {
+      "question": "Nặn mụn cám xong nên làm gì?",
+      "answer": "Sau khi nặn mụn, cần: sát khuẩn da, dùng nước hoa hồng để se khít lỗ chân lông, sử dụng mặt nạ giúp da phục hồi, bôi thuốc trị mụn theo chỉ định của bác sĩ, và nhớ dùng kem chống nắng khi ra ngoài để bảo vệ da không bị tổn thương thêm."
+    },
+    {
+      "question": "Mụn cám có tự hết không?",
+      "answer": "Mụn cám thường lành tính và có thể tự hết nếu biết chăm sóc da đúng cách, bao gồm vệ sinh da sạch sẽ và thường xuyên tẩy tế bào chết với sản phẩm an toàn. Tuy nhiên, nhiều trường hợp dù chăm sóc da đúng cách, ăn uống khoa học nhưng da vẫn tiết nhiều dầu gây mụn cám. Trong những trường hợp này, nên khám với bác sĩ da liễu để được tư vấn và điều trị phù hợp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da sần sùi, thô ráp với những nốt nhỏ li ti màu trắng hoặc vàng ở mũi và cằm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-cam", "mun-dau-den", "mun-trung-ca"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da mặt mình tiết nhiều dầu hơn bình thường, đặc biệt là vùng chữ T. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-cam", "mun-dau-den", "da-dau"]
+    },
+    {
+      "question": "Tôi hay thức khuya và ăn đồ cay nóng, dạo gần đây da mặt xuất hiện nhiều nốt nhỏ li ti. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-cam", "mun-trung-ca", "mun-dau-den"]
+    },
+    {
+      "question": "Tôi đang mang thai và nhận thấy da mặt xuất hiện nhiều mụn nhỏ li ti. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-cam", "mun-thai-ky", "mun-noi-tiet"]
+    },
+    {
+      "question": "Tôi hay rửa mặt mạnh tay và sử dụng mỹ phẩm không phù hợp với loại da. Gần đây da tôi xuất hiện nhiều mụn nhỏ li ti. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-cam", "mun-kich-ung", "viem-da"]
     }
   ]
 }

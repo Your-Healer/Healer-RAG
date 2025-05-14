@@ -1,39 +1,155 @@
 {
   "disease_id": "khi-phe-thung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Khí phế thũng",
+  "disease_alternative_names": [
+    "Khí phổi thũng",
+    "Emphysema",
+    "Bệnh phổi tắc nghẽn mạn tính"
+  ],
+  "disease_definition": "Khí phế thũng là bệnh ở đường hô hấp dưới, cụ thể là bệnh của phế nang và các tiểu phế quản. Phế nang gồm nhiều túi nhỏ chứa khí. Bệnh xảy ra khi những vách ngăn giữa các túi khí này suy yếu dần và vỡ ra – tạo nên các khoảng không khí lớn thay vì nhiều khe nhỏ. Điều này làm giảm diện tích bề mặt của phổi và do đó, hạn chế lượng oxy từ phổi đến máu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó thở",
+      "description": "Khó thở ngay cả khi thực hiện hoạt động nhỏ, trở nên nặng hơn theo thời gian. Ở giai đoạn nặng, có thể khó thở khi ngủ hoặc ngồi yên."
+    },
+    {
+      "name": "Thở khò khè",
+      "description": "Tiếng rít hoặc khò khè khi hít thở, đặc biệt khi gắng sức."
+    },
+    {
+      "name": "Ho nhiều",
+      "description": "Ho kéo dài, có thể đi kèm với đờm hoặc không."
+    },
+    {
+      "name": "Tức hoặc đau ngực",
+      "description": "Cảm giác tức, nặng hoặc đau ở vùng ngực."
+    },
+    {
+      "name": "Ăn mất ngon",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn như bình thường."
+    },
+    {
+      "name": "Vấn đề trong quan hệ tình dục",
+      "description": "Khó khăn trong hoạt động tình dục do khó thở."
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Nhịp tim tăng cao, đặc biệt khi hoạt động."
+    },
+    {
+      "name": "Ngủ không ngon",
+      "description": "Khó ngủ, thường thức giấc do khó thở."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi thường xuyên, thiếu năng lượng."
+    },
+    {
+      "name": "Nhức đầu",
+      "description": "Đau đầu, thường xuất hiện vào buổi sáng."
+    },
+    {
+      "name": "Giảm cân",
+      "description": "Sụt cân không rõ nguyên nhân."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Khí phế thũng xảy ra khi những vách ngăn giữa các túi khí trong phổi (phế nang) suy yếu dần và vỡ ra, tạo nên các khoảng không khí lớn thay vì nhiều khe nhỏ, làm giảm diện tích bề mặt của phổi và hạn chế lượng oxy đến máu.",
+    "related_factors": "Hút thuốc lá là nguyên nhân chính gây bệnh. Khói thuốc làm tê liệt những sợi lông mao có nhiệm vụ quét vi trùng, hóa chất và các tác nhân gây khó chịu ra khỏi đường thở, dẫn đến tổn thương phổi. Thiếu protein Alpha-1 antitrypsin (AAT) cũng là một nguyên nhân quan trọng, khi cơ thể không tạo đủ AAT, các tế bào bạch cầu bình thường sẽ làm hỏng phổi.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá (nguy cơ cao gấp 6 lần so với người không hút thuốc)",
+    "Hút thuốc lá thụ động",
+    "Ô nhiễm không khí",
+    "Sống hoặc làm việc trong khu vực có không khí ô nhiễm cao",
+    "Thiếu protein Alpha-1 antitrypsin (AAT)",
+    "Tiếp xúc với khói hóa chất độc hại",
+    "Tuổi trên 40 (đặc biệt 45-60 tuổi đối với người hút thuốc)"
+  ],
+  "complications": [
+    "Xẹp phổi (tình trạng đe dọa tính mạng đối với người bệnh nặng)",
+    "Vấn đề về tim (tăng áp lực trong các động mạch kết nối tim và phổi, gây rối loạn nhịp tim)",
+    "Các lỗ lớn trên phổi (bullae) làm tăng nguy cơ tràn khí màng phổi",
+    "Suy hô hấp mãn tính",
+    "Viêm phế quản mãn tính"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Xét nghiệm hình ảnh",
+      "Đo chức năng phổi",
+      "Xét nghiệm máu",
+      "Đánh giá mức oxy trong máu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang phổi",
+        "description": "Kiểm tra hình ảnh phổi để phát hiện các bất thường."
+      },
+      {
+        "name": "Chụp CT phổi",
+        "description": "Cung cấp hình ảnh chi tiết hơn về cấu trúc phổi và mức độ tổn thương."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Xác định phổi đang truyền oxy đến máu như thế nào."
+      },
+      {
+        "name": "Đo oxy xung",
+        "description": "Đo hàm lượng oxy trong máu không xâm lấn."
+      },
+      {
+        "name": "Đo phế dung",
+        "description": "Đo lượng không khí mà phổi có thể hít vào và thở ra, giúp xác định mức độ phổi cung cấp oxy cho máu."
+      },
+      {
+        "name": "Xét nghiệm khí máu động mạch",
+        "description": "Đo lượng máu và carbon dioxide trong máu."
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Kiểm tra chức năng tim và loại trừ bệnh tim."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không có cách chữa trị hiệu quả cho bệnh khí phế thũng. Tất cả mọi biện pháp điều trị, từ sử dụng thuốc cho đến phẫu thuật, đều nhằm mục đích giảm thiểu triệu chứng và làm chậm sự tiến triển của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Bỏ thuốc lá",
+        "description": "Bước đầu tiên và quan trọng nhất trong điều trị, giúp làm chậm sự tiến triển của bệnh."
+      },
+      {
+        "name": "Dùng thuốc",
+        "description": "Bao gồm thuốc giãn phế quản (mở đường thở, giúp thở dễ dàng hơn), steroid (cải thiện khó thở), thuốc làm loãng đờm (mucolytics), và thuốc kháng sinh (chống nhiễm trùng)."
+      },
+      {
+        "name": "Liệu pháp phổi",
+        "description": "Tập thể dục cường độ vừa phải như đi bộ nhẹ, yoga, thái cực quyền, và hít thở sâu đúng cách giúp tăng cường cơ thở và giảm triệu chứng."
+      },
+      {
+        "name": "Liệu pháp oxy",
+        "description": "Giúp người bệnh thở dễ dàng hơn, đặc biệt cho những người mắc bệnh mức độ trung bình đến nặng."
+      },
+      {
+        "name": "Liệu pháp protein",
+        "description": "Truyền protein alpha-1 antitrypsin (AAT) cho những người thiếu protein này nhằm làm chậm quá trình tổn thương phổi."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Áp dụng khi các liệu pháp khác không hiệu quả hoặc bệnh ở giai đoạn nặng, bao gồm phẫu thuật giảm thể tích phổi (LVRS), cắt bỏ túi khí, và cấy ghép phổi."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Bỏ thuốc lá hoàn toàn",
+      "Tránh môi trường có khói thuốc",
+      "Duy trì tập thể dục nhẹ nhàng thường xuyên",
+      "Theo dõi chặt chẽ các triệu chứng và tái khám định kỳ",
+      "Tuân thủ đúng phác đồ điều trị của bác sĩ",
+      "Hoàn thành chương trình phục hồi chức năng phổi",
+      "Tiêm phòng đầy đủ các bệnh về đường hô hấp"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +157,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bỏ thuốc lá - biện pháp hiệu quả nhất để phòng tránh bệnh",
+      "Tránh khói thuốc thụ động, tránh tiếp xúc với người đang hút thuốc",
+      "Chú ý đến chất lượng không khí, tránh môi trường ô nhiễm",
+      "Hạn chế ăn các loại thịt đã qua chế biến như xúc xích, thịt xông khói, giăm bông",
+      "Có chế độ ăn nhiều chất xơ, ăn nhiều trái cây và rau quả chứa chất chống oxy hóa",
+      "Duy trì độ ẩm trong nhà từ 40-50%",
+      "Vệ sinh bộ lọc của máy điều hòa 6 tháng/lần",
+      "Tránh tiếp xúc với khói bụi, mùi sơn, nước hoa, mùi của nến và nhang"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khí phế thũng có chữa được không?",
+      "answer": "Không có cách chữa trị hiệu quả cho bệnh khí phế thũng. Tất cả mọi biện pháp điều trị, từ sử dụng thuốc cho đến phẫu thuật, đều nhằm mục đích giảm thiểu triệu chứng và làm chậm sự tiến triển của bệnh. Điều trị sớm và bỏ thuốc lá sẽ giúp kiểm soát tốt hơn các triệu chứng và cải thiện chất lượng cuộc sống."
+    },
+    {
+      "question": "Khí phế thũng có nguy hiểm không?",
+      "answer": "Khí phế thũng là một bệnh nguy hiểm có thể gây ra nhiều biến chứng nghiêm trọng nếu không được điều trị kịp thời. Biến chứng bao gồm xẹp phổi (đe dọa tính mạng đối với người bệnh nặng), vấn đề về tim, và các lỗ lớn trên phổi (bullae) làm tăng nguy cơ tràn khí màng phổi. Bệnh xếp hàng thứ 4 trong các nguyên nhân gây tử vong trên thế giới."
+    },
+    {
+      "question": "Làm thế nào để phòng tránh khí phế thũng?",
+      "answer": "Biện pháp phòng tránh hiệu quả nhất là bỏ thuốc lá. Ngoài ra, nên tránh khói thuốc thụ động, chú ý đến chất lượng không khí, hạn chế ăn các loại thịt đã qua chế biến, có chế độ ăn nhiều chất xơ, duy trì độ ẩm trong nhà từ 40-50%, vệ sinh bộ lọc của máy điều hòa 6 tháng/lần, và tránh tiếp xúc với khói bụi, mùi sơn, nước hoa, mùi của nến và nhang."
+    },
+    {
+      "question": "Người bệnh khí phế thũng nên ăn gì?",
+      "answer": "Người bệnh nên có chế độ ăn nhiều chất xơ, nghiên cứu cho thấy ăn khoảng 27g chất xơ/ngày giúp giảm 15% nguy cơ phổi bị phế thũng. Nên ăn nhiều trái cây và rau quả chứa chất chống oxy hóa, có tác dụng bảo vệ phổi. Hạn chế ăn các loại thịt đã qua chế biến như xúc xích, thịt xông khói, giăm bông vì chúng chứa nitrit tạo ra các gốc tự do gây hại cho tế bào."
+    },
+    {
+      "question": "Dấu hiệu nào cho thấy khí phế thũng đang trở nặng?",
+      "answer": "Dấu hiệu cho thấy bệnh đang trở nặng bao gồm: khó thở ngay cả khi ngồi yên, khó thở khi ngủ, ăn mất ngon và sụt cân, mệt mỏi nghiêm trọng, nhức đầu vào buổi sáng, tim đập nhanh, và giảm khả năng hoạt động hàng ngày. Nếu xuất hiện các dấu hiệu này, người bệnh cần đến ngay cơ sở y tế để được kiểm tra và điều trị kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị khó thở khi vận động nhẹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["khi-phe-thung", "hen-suyen", "suy-tim"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ho nhiều và tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["khi-phe-thung", "viem-phe-quan", "viem-phoi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và khó thở khi ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["khi-phe-thung", "ngung-tho-khi-ngu", "suy-tim"]
+    },
+    {
+      "question": "Tôi hay bị thở khò khè và ho có đờm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["khi-phe-thung", "hen-suyen", "viem-phe-quan"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ăn mất ngon và sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["khi-phe-thung", "ung-thu-phoi", "lao-phoi"]
     }
   ]
 }

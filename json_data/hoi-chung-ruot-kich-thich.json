@@ -1,39 +1,139 @@
 {
   "disease_id": "hoi-chung-ruot-kich-thich",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng ruột kích thích",
+  "disease_alternative_names": [
+    "Irritable Bowel Syndrome",
+    "IBS",
+    "Hội chứng đại tràng kích thích"
+  ],
+  "disease_definition": "Hội chứng ruột kích thích (IBS) là một trong những bệnh đường ruột phổ biến nhất, với tỷ lệ mắc từ 5-20% dân số. Đây là một bệnh lý tiêu hóa đặc trưng bởi tình trạng đau bụng tái đi tái lại, thay đổi thói quen đi tiêu, cảm giác chướng và khó chịu ở bụng. Đây là hiện tượng ruột bị rối loạn chức năng, tái đi tái lại nhiều lần mà khi người bệnh đi khám, làm các xét nghiệm đều không tìm thấy các tổn thương thực thể ở ruột.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng tái phát",
+      "description": "Đau không có đặc điểm gì cụ thể, không có vị trí nhất định, đau dọc khung đại tràng, đau nhiều hơn sau khi ăn hoặc đôi khi chưa ăn xong đã có cảm giác đau. Đau thường vào buổi sáng và có thể giảm đau sau đi tiêu. Cơn đau tái phát với tần suất phải ít nhất 1 lần trong tuần và kéo dài trong 3 tháng gần đây nhất."
+    },
+    {
+      "name": "Táo bón",
+      "description": "Tình trạng đi tiêu < 3 lần/tuần, có thể kèm theo hình dạng phân thay đổi từ cục, đặc."
+    },
+    {
+      "name": "Tiêu chảy",
+      "description": "Đi tiêu >= 3 lần/ngày, kèm theo phân nhầy mềm, lỏng nước."
+    },
+    {
+      "name": "Chướng bụng, đầy hơi",
+      "description": "Cảm giác bụng căng, đầy hoặc có nhiều hơi trong bụng."
+    },
+    {
+      "name": "Chuột rút",
+      "description": "Cảm giác co thắt ở vùng bụng."
+    },
+    {
+      "name": "Trung tiện nhiều",
+      "description": "Đánh hơi nhiều lần trong ngày."
+    },
+    {
+      "name": "Cảm giác đi tiêu không hết phân",
+      "description": "Dù đã đi tiêu xong vẫn còn cảm giác chưa đi hết phân."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác thiếu năng lượng, mệt mỏi thường xuyên."
+    },
+    {
+      "name": "Đau mỏi cơ",
+      "description": "Cảm giác đau và mỏi các nhóm cơ trong cơ thể."
+    },
+    {
+      "name": "Rối loạn giấc ngủ",
+      "description": "Khó ngủ, ngủ không sâu giấc hoặc dễ thức giấc."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân hội chứng ruột kích thích chưa được xác định rõ. Đây là một bệnh do sự kết hợp từ các yếu tố sinh lý và tâm lý xã hội.",
+    "related_factors": "Căng thẳng, rối loạn nội tiết tố, phản ứng với thực phẩm, tiền sử gia đình có người bị bệnh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thường xuyên bị căng thẳng, lo lắng",
+    "Gặp các vấn đề về sức khỏe tâm thần như trầm cảm, rối loạn lo âu",
+    "Có bệnh sử hoặc đang bị nhiễm trùng đường tiêu hóa nặng",
+    "Có chế độ ăn uống không điều độ, không khoa học hoặc thói quen bỏ bữa, nhịn ăn",
+    "Người có người nhà từng bị hội chứng ruột kích thích",
+    "Tuổi từ 20-50",
+    "Giới tính: nữ có nguy cơ gấp đôi nam giới"
+  ],
+  "complications": [
+    "Ảnh hưởng chất lượng cuộc sống",
+    "Giảm sức khỏe tổng thể",
+    "Rối loạn tâm lý, lo âu, trầm cảm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán lâm sàng dựa trên triệu chứng",
+      "Loại trừ các bệnh lý thực thể tại đường tiêu hóa"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tiêu hóa",
+        "description": "Nội soi thực quản - dạ dày - tá tràng và nội soi đại trực tràng để loại trừ các tổn thương thực thể."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Nhằm loại trừ rối loạn do cơ thể nhạy cảm với protein, loại trừ những rối loạn do bệnh lý toàn thân khác."
+      },
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Kiểm tra trong phân có vi khuẩn hoặc ký sinh trùng hay không, xét nghiệm calprotectin phân."
+      },
+      {
+        "name": "Xét nghiệm không dung nạp lactose",
+        "description": "Kiểm tra khả năng tiêu hóa lactose của cơ thể."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị hội chứng ruột kích thích tập trung vào việc kiểm soát triệu chứng và cải thiện chất lượng cuộc sống. Không có phương pháp điều trị duy nhất hiệu quả cho tất cả bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc chống co thắt",
+        "description": "Giúp giảm đau và co thắt ruột."
+      },
+      {
+        "name": "Thuốc điều trị tiêu chảy",
+        "description": "Giúp kiểm soát tình trạng tiêu chảy ở bệnh nhân IBS thể tiêu chảy."
+      },
+      {
+        "name": "Thuốc điều trị táo bón",
+        "description": "Giúp cải thiện tình trạng táo bón ở bệnh nhân IBS thể táo bón."
+      },
+      {
+        "name": "Thực phẩm chức năng bổ sung chất xơ",
+        "description": "Bổ sung chất xơ giúp cải thiện tình trạng táo bón và điều hòa nhu động ruột."
+      },
+      {
+        "name": "Thuốc an thần, giảm lo âu",
+        "description": "Giúp giảm căng thẳng và lo âu, yếu tố làm trầm trọng các triệu chứng IBS."
+      },
+      {
+        "name": "Lợi khuẩn đường ruột",
+        "description": "Probiotics giúp cân bằng hệ vi sinh đường ruột, cải thiện các triệu chứng IBS."
+      },
+      {
+        "name": "Chế độ ăn FODMAP thấp",
+        "description": "Chế độ kiêng ăn các loại thực phẩm là carbohydrate chuỗi ngắn như táo, dưa hấu, sữa tươi có lactose, fructose và các loại trái cây có lượng fructose cao, mật ong, các loại cây họ đậu, củ dền, bông cải xanh, lúa mì và các loại đồ uống có cồn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì chế độ ăn uống khoa học, điều độ",
+      "Hạn chế các thực phẩm gây kích ứng đường ruột",
+      "Ăn chậm, nhai kỹ thức ăn",
+      "Tránh ăn đồ cay nóng, nhiều dầu mỡ",
+      "Hạn chế rượu bia và đồ uống có gas",
+      "Kiểm soát căng thẳng, lo âu",
+      "Tập thể dục đều đặn",
+      "Uống đủ nước mỗi ngày"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +141,76 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế tối đa bỏ bữa ăn, ăn uống không điều độ",
+      "Nên ăn chậm, không nên ăn quá nhanh",
+      "Hạn chế ăn các thực phẩm cay nóng nhiều, dầu mỡ và các thực phẩm đóng hộp, chế biến sẵn",
+      "Hạn chế rượu bia và đồ uống có gas",
+      "Kiểm soát căng thẳng, stress",
+      "Tập thể dục đều đặn",
+      "Kiểm soát lượng tiêu thụ trái cây có hàm lượng fructose cao, không nên ăn quá 240g mỗi ngày",
+      "Uống đủ nước hàng ngày",
+      "Thực hiện chế độ ăn FODMAP thấp nếu được bác sĩ khuyến nghị"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng ruột kích thích có nguy hiểm không?",
+      "answer": "Hội chứng ruột kích thích không phải là một bệnh nguy hiểm. Các ca bệnh IBS thường được phát hiện ở mức độ nhẹ, người bệnh có những triệu chứng là cơn đau bụng tái phát và rối loạn đại tiện, ngoài ra rất hiếm các trường hợp ảnh hưởng nghiêm trọng đến thể chất. Ở một số trường hợp nhẹ, bệnh cũng có thể tự khỏi mà không cần điều trị bằng thuốc, chỉ cần điều chỉnh chế độ dinh dưỡng."
+    },
+    {
+      "question": "Hội chứng ruột kích thích có mấy loại?",
+      "answer": "Hội chứng ruột kích thích được chia thành bốn loại dựa trên các triệu chứng của người bệnh: Hội chứng ruột kích thích thể táo bón, Hội chứng ruột kích thích thể tiêu chảy, Hội chứng ruột kích thích thể hỗn hợp (có cả tiêu chảy và táo bón), và Hội chứng ruột kích thích không xác định."
+    },
+    {
+      "question": "Chế độ ăn nào phù hợp cho người bị hội chứng ruột kích thích?",
+      "answer": "Người bệnh IBS được khuyến khích ăn theo chế độ FODMAP thấp để ổn định ruột già và cải thiện sức khỏe hệ tiêu hóa. Đây là chế độ kiêng ăn các loại thực phẩm là carbohydrate chuỗi ngắn như táo, dưa hấu, hoa quả đóng hộp, sữa tươi có lactose, phô mai, sữa chua, các loại trái cây có lượng fructose cao, mật ong, các loại cây họ đậu, củ dền, bông cải xanh, lúa mì và các loại đồ uống có cồn. Ngoài ra, nên tăng cường chất xơ, hạn chế thực phẩm cay nóng, nhiều dầu mỡ."
+    },
+    {
+      "question": "Làm thế nào để phân biệt hội chứng ruột kích thích với các bệnh tiêu hóa khác?",
+      "answer": "Hội chứng ruột kích thích được chẩn đoán thông qua triệu chứng lâm sàng và loại trừ các bệnh lý thực thể tại đường tiêu hóa. Các dấu hiệu báo động cần lưu ý để phân biệt với các bệnh nguy hiểm khác bao gồm: khởi phát triệu chứng sau 50 tuổi, có máu trong phân, sút cân ngoài ý muốn, sờ thấy u bụng hay trực tràng, triệu chứng về đêm, thiếu máu, sốt, báng bụng, tiền sử gia đình có người mắc ung thư đại tràng hoặc bệnh viêm ruột mạn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng tái phát liên quan đến việc đi tiêu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ruot-kich-thich",
+        "viem-dai-trang",
+        "benh-crohn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng không có vị trí nhất định, đau dọc khung đại tràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ruot-kich-thich",
+        "viem-dai-trang",
+        "hoi-chung-ruot-kich-ung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiêu chảy (đi tiêu >= 3 lần/ ngày), kèm theo phân nhầy mềm, lỏng nước. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ruot-kich-thich",
+        "viem-ruot",
+        "nhiem-khuan-duong-ruot"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chướng bụng, đầy hơi và chuột rút. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ruot-kich-thich",
+        "roi-loan-tieu-hoa",
+        "kho-tieu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị trung tiện nhiều và cảm giác đi tiêu không hết phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ruot-kich-thich",
+        "tao-bon",
+        "roi-loan-chuc-nang-dai-trang"
+      ]
     }
   ]
 }

@@ -1,58 +1,241 @@
 {
   "disease_id": "gai-xuong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Gai Xương",
+  "disease_alternative_names": ["Bone spurs", "Osteophytes", "Mấu xương thừa"],
+  "disease_definition": "Gai xương (bone spurs hoặc osteophytes) là những cấu trúc xương cứng, nhẵn hình thành ở đầu xương có khớp bị thương tổn. Chúng có thể hình thành ở nhiều bộ phận trên cơ thể, nhưng thường gặp nhất ở cột sống, đầu gối, cổ, gót chân, háng, vai và cổ tay. Hầu hết trường hợp, người có gai xương nhỏ thường không gặp vấn đề quá nguy hiểm. Tuy nhiên, nếu kích thước quá lớn, những cấu trúc xương lồi ra này có thể cọ xát vào các xương khác khi vận động hoặc chèn ép rễ thần kinh và tủy sống gần đó, khiến bệnh nhân cảm thấy đau yếu và cứng khớp.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau và cứng khớp",
+      "description": "Gai xương phát triển quá mức có thể gây đau và cứng ở khớp bị ảnh hưởng, đặc biệt khi vận động."
+    },
+    {
+      "name": "Tê bì và ngứa ran",
+      "description": "Khi gai xương chèn ép rễ thần kinh, bệnh nhân có thể cảm thấy tê bì, ngứa ran hoặc cảm giác châm chích ở tay, chân tùy theo dây thần kinh bị ảnh hưởng."
+    },
+    {
+      "name": "Hạn chế vận động",
+      "description": "Gai xương có thể hạn chế khả năng vận động của khớp, như khó khăn khi co duỗi đầu gối hoặc giơ tay."
+    },
+    {
+      "name": "Nốt sần dưới da",
+      "description": "Ở một số vị trí như ngón tay, có thể nhìn thấy hoặc cảm nhận được nốt sần (u) hình thành bên dưới da."
+    },
+    {
+      "name": "Yếu cơ",
+      "description": "Trong trường hợp gai cột sống chèn ép tủy sống, người bệnh có thể bị suy nhược, yếu cơ."
+    },
+    {
+      "name": "Viêm gân hoặc rách cơ",
+      "description": "Gai xương ở vai có thể chèn ép gân và dây chằng, gây viêm gân hoặc thậm chí rách cơ chóp xoay vai."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Gai xương hình thành khi cơ thể tự chữa lành thương tổn bằng cách thúc đẩy quá trình tạo ra những đoạn xương mới. Lớp sụn khớp bị bào mòn sẽ làm lộ các đầu xương, khiến chúng trực tiếp cọ xát vào nhau mỗi khi cơ thể cử động, lâu ngày dẫn đến mất xương.",
+    "related_factors": "Các yếu tố liên quan đến sự hình thành gai xương bao gồm thoái hoá khớp, viêm khớp, chấn thương vật lý ảnh hưởng đến xương khớp, lão hóa, thừa cân béo phì, cong vẹo cột sống, hoạt động không đúng tư thế, tiền sử gãy xương, thói quen đi giày không vừa chân, và yếu tố di truyền.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (đặc biệt từ 60 tuổi trở lên)",
+    "Thừa cân, béo phì",
+    "Cong vẹo cột sống",
+    "Hoạt động, sinh hoạt không đúng tư thế",
+    "Tiền sử gãy xương",
+    "Thói quen đi giày không vừa chân",
+    "Yếu tố di truyền",
+    "Các bệnh lý về khớp như thoái hóa khớp, viêm khớp"
+  ],
+  "complications": [
+    "Chèn ép rễ thần kinh gây đau, tê bì và yếu chi",
+    "Chèn ép tủy sống dẫn đến suy nhược, yếu cơ, đau nhức",
+    "Viêm gân hoặc rách cơ chóp xoay vai",
+    "Hạn chế khả năng vận động của khớp",
+    "Biến dạng khớp",
+    "Đau mạn tính khó kiểm soát",
+    "Giảm chất lượng cuộc sống"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Kiểm tra và đánh giá bệnh sử",
+      "Khám sức khỏe tổng quát",
+      "Quan sát và sờ, cảm nhận vùng da quanh khớp bị đau"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Phương pháp chẩn đoán hình ảnh cơ bản giúp phát hiện các gai xương ở khớp và cột sống."
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Cung cấp hình ảnh chi tiết hơn về xương và các mô khác mà phim X-quang không thể hiện rõ, giúp đánh giá chính xác vị trí và kích thước của gai xương."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Giúp kiểm tra tình trạng cụ thể ở lớp sụn và dây chằng, đồng thời xác định mức độ chèn ép rễ thần kinh hoặc tủy sống do gai xương."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hầu hết bệnh nhân bị chèn ép rễ thần kinh bởi gai xương ở mức độ nhẹ, trung bình có thể kiểm soát tốt các triệu chứng mà không cần áp dụng đến phẫu thuật. Mục tiêu của hướng điều trị bảo tồn là chấm dứt các đợt đau viêm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng thuốc giảm đau",
+        "description": "Paracetamol có thể là lựa chọn đầu tay cho đau nhẹ. Trường hợp có viêm, có thể dùng thuốc kháng viêm không steroid (NSAIDs) như ibuprofen, naproxen để ức chế enzyme liên quan đến tình trạng viêm gây đau nhức. Cần tuân thủ đúng liều lượng và chỉ định của bác sĩ để tránh tác dụng phụ lên dạ dày, thận và tim mạch."
+      },
+      {
+        "name": "Tiêm steroid vào khớp",
+        "description": "Khi thuốc giảm đau không hiệu quả, tiêm steroid vào khớp có thể được chỉ định để tạm thời giảm sưng viêm và đau. Tuy nhiên, chỉ được tiêm tối đa ba mũi trên cùng một khớp trong vòng một năm, và steroid chỉ có tác dụng giảm đau, kháng viêm chứ không chữa gai xương tận gốc."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Giúp thư giãn cơ, khớp, tăng cường sức mạnh và tính linh hoạt, cải thiện khả năng vận động. Chương trình tập luyện sẽ được điều chỉnh riêng tùy theo tình trạng và vị trí gai xương, bao gồm các bài tập căng giãn cơ, tập tư thế đúng và tăng cường cơ xung quanh khớp."
+      },
+      {
+        "name": "Nghỉ ngơi hợp lý",
+        "description": "Kết hợp giữa luyện tập và nghỉ ngơi để cơ thể có thời gian hồi phục. Cần tham vấn bác sĩ để xây dựng quy trình hoạt động - nghỉ ngơi xen kẽ hợp lý."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Chỉ được đề xuất khi các phương pháp điều trị bảo tồn không hiệu quả, dây thần kinh bị chèn ép nặng, hoặc biên độ hoạt động của khớp bị hạn chế nghiêm trọng. Tùy vào nguyên nhân, có thể áp dụng các kỹ thuật như phẫu thuật nội soi khớp gối, nội soi khớp vai, kỹ thuật SUPERPATH trong thay khớp háng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân theo phác đồ điều trị của bác sĩ",
+      "Duy trì cân nặng hợp lý để giảm áp lực lên khớp",
+      "Kết hợp luyện tập và chế độ ăn giàu dưỡng chất tốt cho xương khớp",
+      "Hạn chế bia rượu và thực phẩm nhiều đường, muối, chất béo bão hòa",
+      "Nghỉ ngơi đầy đủ khi có dấu hiệu đau nhức",
+      "Điều chỉnh tư thế sinh hoạt, làm việc phù hợp",
+      "Tái khám đúng lịch hẹn để theo dõi tiến triển của bệnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine phòng ngừa gai xương.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Mang giày vừa với chân, có đệm và phần hỗ trợ vòm bàn chân tốt",
+      "Xây dựng thực đơn ăn uống đầy đủ dinh dưỡng, nhiều canxi và vitamin D",
+      "Thường xuyên vận động, rèn luyện thể chất để tăng cường sức mạnh cơ",
+      "Duy trì cân nặng hợp lý",
+      "Thực hiện các bài tập tăng cường cơ xung quanh khớp",
+      "Giữ tư thế đúng khi sinh hoạt và làm việc",
+      "Thăm khám sớm khi có bất kỳ dấu hiệu bất thường nào ở khớp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Gai xương có thể chữa khỏi không cần phẫu thuật không?",
+      "answer": "Bản thân gai xương không thể biến mất hoàn toàn khi đã hình thành mà không cần phẫu thuật. Tuy nhiên, các triệu chứng do gai xương gây ra thường có thể được kiểm soát bằng các phương pháp điều trị bảo tồn như dùng thuốc giảm đau, tiêm steroid, vật lý trị liệu và nghỉ ngơi hợp lý. Phần lớn người bệnh không cần phẫu thuật nếu các triệu chứng không quá nghiêm trọng."
+    },
+    {
+      "question": "Gai xương có tự biến mất không?",
+      "answer": "Không, gai xương không tự biến mất. Một khi đã hình thành, gai xương thường tồn tại lâu dài. Tuy nhiên, không phải tất cả gai xương đều gây triệu chứng. Nhiều người có gai xương nhưng không biết vì không có bất kỳ dấu hiệu đau nhức nào. Các phương pháp điều trị chủ yếu nhằm kiểm soát triệu chứng và ngăn không cho gai xương phát triển thêm."
+    },
+    {
+      "question": "Bệnh gai xương được chẩn đoán như thế nào?",
+      "answer": "Bác sĩ sẽ bắt đầu bằng cách kiểm tra và đánh giá bệnh sử của người bệnh, sau đó tiến hành khám sức khỏe tổng quát. Đôi khi, gai xương có thể phát hiện bằng cách quan sát và cảm nhận, nhưng hầu hết trường hợp cần các xét nghiệm chẩn đoán hình ảnh như chụp X-quang, CT hoặc MRI để xác định chính xác vị trí và kích thước của gai xương cũng như mức độ ảnh hưởng đến các mô xung quanh."
+    },
+    {
+      "question": "Khi nào cần phẫu thuật điều trị gai xương?",
+      "answer": "Phẫu thuật điều trị gai xương thường chỉ được cân nhắc khi các phương pháp điều trị bảo tồn không đem lại hiệu quả, dây thần kinh bị chèn ép nặng gây tổn thương, hoặc biên độ hoạt động của khớp bị hạn chế nghiêm trọng. Phẫu thuật có thể mang lại kết quả tốt nhưng cũng tiềm ẩn các rủi ro như nhiễm trùng, xuất huyết, hình thành huyết khối, nên chỉ là lựa chọn cuối cùng khi các phương pháp khác đã thất bại."
+    },
+    {
+      "question": "Tôi có thể làm gì để ngăn ngừa gai xương?",
+      "answer": "Mặc dù không thể hoàn toàn ngăn ngừa gai xương hình thành nếu liên quan đến thoái hóa khớp hoặc cột sống, nhưng có thể giảm thiểu nguy cơ bằng cách: mang giày vừa với chân có đệm tốt; xây dựng chế độ ăn giàu canxi và vitamin D; duy trì hoạt động thể chất thường xuyên; kiểm soát cân nặng; duy trì tư thế đúng khi làm việc và sinh hoạt; và thăm khám sớm khi có bất kỳ triệu chứng bất thường nào ở khớp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau vai, khó cử động cánh tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Xương",
+        "Viêm quanh khớp vai",
+        "Hội chứng chèn ép dây thần kinh trên vai",
+        "Rách gân cơ chóp xoay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu gối, khó khăn khi co duỗi chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Xương",
+        "Thoái hóa khớp gối",
+        "Viêm khớp gối",
+        "Tổn thương sụn chêm"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức, tê bì ở tay và chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Xương",
+        "Thoái hóa cột sống",
+        "Thoát vị đĩa đệm",
+        "Hội chứng ống cổ tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau vùng cổ, lan xuống bả vai và cánh tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Xương",
+        "Thoái hóa đốt sống cổ",
+        "Thoát vị đĩa đệm cổ",
+        "Viêm quanh khớp vai"
+      ]
+    },
+    {
+      "question": "Tôi có một nốt sần cứng dưới da ở ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Xương",
+        "U bao hoạt dịch",
+        "Hạt Heberden",
+        "Viêm khớp dạng thấp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau lưng, lan xuống mông và chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Xương",
+        "Thoát vị đĩa đệm",
+        "Hẹp ống sống",
+        "Đau thần kinh tọa"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức xương khớp khi thay đổi thời tiết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Xương",
+        "Viêm khớp dạng thấp",
+        "Thoái hóa khớp",
+        "Bệnh gút"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau cổ tay, hạn chế vận động cổ tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Xương",
+        "Hội chứng ống cổ tay",
+        "Viêm bao hoạt dịch",
+        "Viêm gân cổ tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau gối, khó khăn khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Xương",
+        "Thoái hóa khớp gối",
+        "Viêm màng hoạt dịch",
+        "Đứt dây chằng gối"
+      ]
+    },
+    {
+      "question": "Tôi bị đau nhức xương khớp, kèm theo sưng tấy đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Xương",
+        "Viêm khớp dạng thấp",
+        "Bệnh gút",
+        "Viêm khớp nhiễm khuẩn"
+      ]
     }
   ]
 }

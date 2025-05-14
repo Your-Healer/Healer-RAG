@@ -1,39 +1,124 @@
 {
   "disease_id": "mat-ngu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mất ngủ",
+  "disease_alternative_names": [
+    "Chứng mất ngủ",
+    "Bệnh mất ngủ",
+    "Insomnia",
+    "Rối loạn giấc ngủ"
+  ],
+  "disease_definition": "Mất ngủ là một dạng rối loạn giấc ngủ với nhiều dạng thức khác nhau như khó đi vào giấc ngủ, không thể ngủ sâu giấc, thường xuyên thức dậy sớm dù ngủ chưa đủ giấc, không thể quay lại giấc ngủ bình thường.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó ngủ vào ban đêm",
+      "description": "Người bệnh khó đi vào giấc ngủ vào mỗi tối, thường phải trằn trọc trên giường lâu (trên 20 phút) mới có thể ngủ được."
+    },
+    {
+      "name": "Dễ tỉnh giấc vào ban đêm hoặc thức dậy quá sớm",
+      "description": "Thường xuyên tỉnh giấc giữa đêm hoặc thức dậy quá sớm vào buổi sáng dù chưa ngủ đủ giấc."
+    },
+    {
+      "name": "Mệt mỏi sau khi ngủ",
+      "description": "Mệt mỏi, uể oải, không thấy thư giãn sau khi ngủ dậy dù đã nằm trên giường đủ thời gian."
+    },
+    {
+      "name": "Lo lắng về giấc ngủ",
+      "description": "Thường xuyên lo lắng, suy nghĩ về các vấn đề liên quan đến giấc ngủ."
+    },
+    {
+      "name": "Buồn ngủ vào ban ngày",
+      "description": "Thường xuyên cảm thấy mệt mỏi, buồn ngủ trong các hoạt động ban ngày."
+    },
+    {
+      "name": "Cáu gắt, tâm trạng thất thường",
+      "description": "Dễ cáu gắt, lo lắng, tâm trạng thay đổi thất thường do thiếu ngủ."
+    },
+    {
+      "name": "Khó tập trung và mau quên",
+      "description": "Người bệnh khó duy trì sự tập trung, hay quên và không thể hoàn thành công việc hiệu quả."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mất ngủ xuất phát từ nhiều nguyên nhân khác nhau, có thể là do vấn đề tâm lý, thói quen sinh hoạt không lành mạnh, bệnh lý nền hoặc do tác dụng phụ của thuốc.",
+    "related_factors": "Căng thẳng, áp lực trong công việc và cuộc sống, thói quen ngủ không phù hợp, ăn quá nhiều vào buổi tối, thay đổi nhịp sinh học, bệnh mạn tính, các loại thuốc, chất kích thích (cà phê, thuốc lá), ít hoạt động thể chất.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người cao tuổi (trên 60-65 tuổi)",
+    "Người đang mắc các bệnh lý mạn tính (tiểu đường, viêm khớp, Parkinson...)",
+    "Phụ nữ (do các vấn đề như chu kỳ kinh nguyệt, thai kỳ, rối loạn nội tiết tố)",
+    "Người đang gặp các vấn đề tâm lý như căng thẳng, áp lực",
+    "Người làm ca đêm hoặc thường xuyên thay đổi múi giờ",
+    "Người có lối sống thiếu khoa học (hút thuốc lá, uống rượu bia, ít vận động)"
+  ],
+  "complications": [
+    "Mệt mỏi, uể oải, luôn trong trạng thái lờ đờ, không tỉnh táo",
+    "Hệ miễn dịch suy giảm, dễ mắc bệnh",
+    "Tăng nguy cơ bị rối loạn nhịp tim, tăng huyết áp, nhồi máu cơ tim",
+    "Tăng nguy cơ mắc tiểu đường, đột quỵ",
+    "Tăng nguy cơ mắc bệnh ung thư",
+    "Da khô ráp, dễ lão hóa, vết thương khó lành",
+    "Dễ cáu kỉnh, tâm trạng thất thường, nguy cơ trầm cảm cao",
+    "Tăng cân do rối loạn ăn uống",
+    "Nguy cơ cao gặp tai nạn khi tham gia giao thông"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá thói quen ngủ",
+      "Khám lâm sàng",
+      "Đánh giá các triệu chứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đánh giá lâm sàng",
+        "description": "Dựa trên các biểu hiện như thường xuyên trằn trọc, nằm trên giường lâu (trên 20 phút) mới đi vào giấc ngủ, ngủ chập chờn không sâu giấc, hay tỉnh giấc giữa đêm, giấc ngủ ngắn, khó ngủ lại sau khi tỉnh giấc."
+      },
+      {
+        "name": "Điện não đồ",
+        "description": "Giúp phát hiện nguyên nhân gây mất ngủ hay rối loạn giấc ngủ."
+      },
+      {
+        "name": "Điện cơ",
+        "description": "Kỹ thuật giúp phát hiện nguyên nhân gây mất ngủ hay rối loạn giấc ngủ."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Có 2 cách chữa mất ngủ chính là chữa mất ngủ không dùng thuốc và chữa mất ngủ có sử dụng các loại thuốc Đông hoặc Tây y, thuốc Nam.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Liệu pháp thư giãn",
+        "description": "Áp dụng các biện pháp thư giãn như nghe nhạc, đọc sách, vẽ tranh trước khi ngủ."
+      },
+      {
+        "name": "Tập luyện nhẹ nhàng",
+        "description": "Tập yoga, vận động nhẹ nhàng 30 phút mỗi ngày để cải thiện chất lượng giấc ngủ."
+      },
+      {
+        "name": "Sử dụng trà thảo mộc",
+        "description": "Dùng các loại trà thảo mộc như trà hoa đậu biếc, trà hoa cúc, trà mộc lan có tác dụng an thần, giúp ngủ ngon."
+      },
+      {
+        "name": "Liệu pháp dùng thuốc",
+        "description": "Bác sĩ có thể kê đơn thuốc để hỗ trợ giấc ngủ trong trường hợp cần thiết, nhưng cần tuân thủ đúng chỉ dẫn và không tự ý mua thuốc hay thay đổi liều lượng."
+      },
+      {
+        "name": "Massage và thư giãn",
+        "description": "Massage trước khi ngủ hoặc ngâm chân với nước ấm giúp thư giãn và dễ đi vào giấc ngủ."
+      },
+      {
+        "name": "Sử dụng tinh dầu",
+        "description": "Dùng các loại tinh dầu giúp ngủ ngon, cải thiện chứng mất ngủ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tạo không gian ngủ thoải mái, mát mẻ, yên tĩnh và tối",
+      "Không sử dụng các thiết bị điện tử trước khi ngủ ít nhất 30 phút",
+      "Duy trì giờ đi ngủ và giờ thức nhất quán hàng ngày, kể cả cuối tuần",
+      "Không ngủ trưa quá mức (thời gian lý tưởng 20-40 phút, không quá 60 phút)",
+      "Tránh hoặc hạn chế caffeine, rượu và nicotine",
+      "Không ăn uống quá nhiều vào buổi tối, đặc biệt là trước khi ngủ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +126,61 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì giờ đi ngủ và giờ thức nhất quán hàng ngày, kể cả cuối tuần",
+      "Vận động nhẹ nhàng thúc đẩy giấc ngủ ngon hơn",
+      "Kiểm tra các loại thuốc đang uống xem có gây mất ngủ không",
+      "Không ngủ trưa quá mức (20-40 phút, không quá 60 phút)",
+      "Tránh hoặc hạn chế caffeine, rượu và nicotine",
+      "Không ăn uống quá nhiều vào buổi tối",
+      "Không cài đặt quá nhiều thiết bị điện tử trong phòng ngủ",
+      "Thư giãn nhẹ trước khi đi ngủ (tắm nước ấm, đọc sách, nghe nhạc nhẹ)",
+      "Sử dụng thực phẩm tốt cho giấc ngủ như cá béo, kiwi, hạnh nhân, quả óc chó, chuối",
+      "Tránh môi trường ngủ quá ồn ào hoặc nhiệt độ không phù hợp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khó ngủ, thiếu ngủ có khác với mất ngủ không?",
+      "answer": "Khó ngủ, thiếu ngủ cũng là một dạng mất ngủ ở những người bị rối loạn giấc ngủ. Người bị khó ngủ, thiếu ngủ sẽ mất nhiều thời gian hơn để đi vào giấc ngủ, thậm chí nằm và nhắm mắt rất lâu nhưng vẫn không thể ngủ được dẫn đến giấc ngủ ngắn, không đủ để tái tạo năng lượng cho một ngày làm việc hiệu quả."
+    },
+    {
+      "question": "Mất ngủ thường gặp ở người già phải không?",
+      "answer": "Đúng vậy, theo Trung tâm Thông tin Công nghệ sinh học Quốc gia Hoa Kỳ, tỷ lệ mất ngủ ở người già thường cao hơn so với nhóm đối tượng thanh thiếu niên, người trẻ tuổi. Có đến 50% những người cao tuổi thường xuyên phàn nàn các vấn đề về giấc ngủ. Nhiều người cao tuổi chỉ có thể ngủ 4 tiếng mỗi đêm hoặc thậm chí ít hơn. Nguyên nhân do người già thường có nhiều thời gian nhàn rỗi vào ban ngày, có thể mắc các bệnh như rối loạn lo âu, đau nhức xương khớp, và do lão hóa não dẫn đến rối loạn chức năng hoạt động."
+    },
+    {
+      "question": "Mất ngủ khi nào cần đi gặp bác sĩ?",
+      "answer": "Nếu tình trạng mất ngủ diễn ra liên tục, tần suất từ 3 lần/tuần trở lên và kéo dài trong 1 tháng liên tục, hay người bệnh vẫn khó ngủ dù môi trường ngủ thoải mái và đã áp dụng các biện pháp cải thiện chất lượng giấc ngủ, thì nên đến các cơ sở y tế để được thăm khám. Ngoài ra, nếu chứng mất ngủ làm ảnh hưởng đến các hoạt động vào buổi sáng và cuộc sống hàng ngày, bạn cũng nên đi khám bác sĩ."
+    },
+    {
+      "question": "Có mấy loại mất ngủ thường gặp?",
+      "answer": "Có nhiều dạng mất ngủ khác nhau, phổ biến nhất bao gồm: Mất ngủ ban đêm (khó đi vào giấc ngủ vào mỗi tối, ngủ chập chờn không sâu giấc), Mất ngủ kéo dài/mất ngủ kinh niên (tình trạng mất ngủ kéo dài, khó điều trị), Mất ngủ sau sinh (phụ nữ sau sinh bị mất ngủ do nhiều nguyên nhân), và Rối loạn giấc ngủ (bao gồm mất ngủ, ngủ rũ ban ngày và ngủ quá nhiều nhưng không cảm thấy đủ)."
+    },
+    {
+      "question": "Tác hại của mất ngủ là gì?",
+      "answer": "Mất ngủ gây nhiều tác hại như: mệt mỏi, uể oải, hệ miễn dịch suy giảm, tăng nguy cơ bị rối loạn nhịp tim, tăng huyết áp, nhồi máu cơ tim, tiểu đường, đột quỵ, ung thư, da khô ráp dễ lão hóa, cáu kỉnh, tâm trạng thất thường, trầm cảm, tăng cân do rối loạn ăn uống, và tăng nguy cơ gặp tai nạn do ảo giác và chóng mặt. Nhìn chung, mất ngủ ảnh hưởng nghiêm trọng đến cả sức khỏe thể chất lẫn tinh thần."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó ngủ vào ban đêm và dễ tỉnh giấc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-ngu", "roi-loan-lo-au", "tram-cam"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và uể oải sau khi ngủ dậy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-ngu", "suy-nhuoc-co-the", "roi-loan-giac-ngu"]
+    },
+    {
+      "question": "Tôi hay lo lắng về giấc ngủ của mình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-ngu", "roi-loan-lo-au", "roi-loan-giac-ngu"]
+    },
+    {
+      "question": "Tôi thường xuyên buồn ngủ vào ban ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-ngu", "ngung-tho-khi-ngu", "suy-gian-noi-tiet"]
+    },
+    {
+      "question": "Tôi hay thức giấc giữa đêm và khó ngủ lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-ngu", "tram-cam", "stress"]
     }
   ]
 }

@@ -1,39 +1,99 @@
 {
   "disease_id": "nang-co-nang-buong-trung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nang cơ năng buồng trứng",
+  "disease_alternative_names": [
+    "Nang chức năng buồng trứng",
+    "U nang cơ năng buồng trứng",
+    "Functional ovarian cyst"
+  ],
+  "disease_definition": "Nang cơ năng buồng trứng (Functional ovarian cyst) là một dạng nang lành tính, hình thành và phát triển ở bề mặt buồng trứng của phụ nữ trong và sau khi trứng rụng. Thông thường, nang buồng trứng cơ năng sẽ tự biến mất sau một hoặc vài chu kỳ kinh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm giác đầy bụng",
+      "description": "Cảm giác bị đầy hoặc nặng ở vùng bụng, gây khó chịu cho người bệnh."
+    },
+    {
+      "name": "Đau vùng chậu",
+      "description": "Đau ở vùng chậu, cảm giác đau âm ỉ hoặc đau nhói ở vùng có u nang."
+    },
+    {
+      "name": "Rối loạn kinh nguyệt",
+      "description": "Chu kỳ kinh nguyệt thay đổi thất thường, có thể chậm kinh."
+    },
+    {
+      "name": "Đi tiểu nhiều lần",
+      "description": "Cảm giác muốn đi tiểu thường xuyên do u nang chèn ép bàng quang."
+    },
+    {
+      "name": "Triệu chứng nghiêm trọng (khi cần gặp bác sĩ ngay)",
+      "description": "Đau bụng đột ngột và dữ dội, buồn nôn và nôn, chóng mặt, người yếu ớt, chảy máu âm đạo bất thường."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "U nang buồng trứng cơ năng phát triển là do kết quả của chu kỳ kinh nguyệt. Nang noãn đã trưởng thành nhưng không vỡ, không giải phóng trứng hoặc sau khi trứng rụng nhưng nang không tiết dịch và co lại sẽ sưng lên, tạo thành u nang cơ năng.",
+    "related_factors": "Có 3 loại u nang cơ năng, gồm: nang bọc noãn (nang noãn đã trưởng thành nhưng không vỡ), nang hoàng thể (hoàng thể vẫn tiếp tục phát triển sau phóng noãn), và nang hoàng tuyến (thường gặp ở bệnh nhân bị thai trứng hoặc ung thư nguyên bào nuôi).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Gia đình có người mắc bệnh lý này",
+    "Tiền sử từng mắc căn bệnh này dễ bị tái phát",
+    "Sử dụng Clomiphene (như Clomid hoặc Serophene) - một chất có tác dụng cản trở việc phóng noãn",
+    "Sử dụng phương pháp tránh thai có thành phần Progestin liều thấp (thuốc tránh thai, vòng tránh thai, que cấy tránh thai)"
+  ],
+  "complications": [
+    "Xoắn cuống u nang: Đối với các u nang có cuống dài, khi di chuyển hoặc vận động mạnh, các u nang dễ xoắn vào nhau làm tắc mạch máu đi nuôi buồng trứng",
+    "Vỡ u nang buồng trứng: Khi áp lực dịch bên trong khối u nang quá lớn có thể gây vỡ u nang, dẫn đến đau bụng dữ dội",
+    "Chèn ép nội tạng trong tiểu khung: Khi khối u nang phát triển lớn và chèn ép các nội tạng như bàng quang (gây đau buốt khi tiểu), trực tràng (gây táo bón), hoặc niệu quản",
+    "Biến chứng khi mang thai: Nếu có u nang cơ năng khi mang thai, khối u to dần có thể gây vỡ u nang, chèn ép thai nhi, sảy thai hoặc sinh non"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám phụ khoa định kỳ",
+      "Theo dõi trong vòng 1-2 tháng xem u nang có tự biến mất hay không",
+      "Khai thác tiền sử bệnh lý bản thân và gia đình",
+      "Đánh giá các triệu chứng như rối loạn kinh nguyệt, đau vùng chậu và các vấn đề tiểu tiện"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Xác định vị trí, hình dạng, kích thước và tính chất bên trong khối u nang, giúp gợi ý đây là khối u lành tính hay ác tính"
+      },
+      {
+        "name": "CT scan hoặc MRI",
+        "description": "Được chỉ định cho những khối u nang to hơn để có kết quả chính xác hơn, đồng thời xác định mức độ lan rộng và di căn của khối u nang"
+      },
+      {
+        "name": "Xét nghiệm dấu ấn ung thư",
+        "description": "Tìm gợi ý ác tính của khối u nang thông qua các chỉ số như CA-125, HE4, AFP"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "U nang cơ năng buồng trứng không cần điều trị, khối u nang sẽ tự biến mất sau vài chu kỳ kinh nguyệt. Người bệnh được yêu cầu theo dõi sự phát triển của khối u nang bằng cách siêu âm lặp lại sau khi hành kinh xong.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi định kỳ",
+        "description": "Theo dõi sự phát triển của u nang trong khoảng 1-2 tháng, kiểm tra lại sau khi hết kinh."
+      },
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc giảm đau để làm giảm cơn đau do khối u chèn ép các cơ quan xung quanh hoặc thuốc tránh thai để ngăn chặn sự rụng trứng, giảm nguy cơ hình thành u nang mới."
+      },
+      {
+        "name": "Phẫu thuật nội soi",
+        "description": "Phương pháp được ưu tiên sử dụng vì ít gây đau đớn, thời gian nằm viện ngắn, hồi phục nhanh. Chỉ định khi u nang không quá to, không quá dính và không nghi ngờ ác tính."
+      },
+      {
+        "name": "Phẫu thuật mở bụng",
+        "description": "Áp dụng cho trường hợp có yếu tố nguy cơ cao, kích thước u nang lớn và có hình dạng bất thường. Đòi hỏi thời gian hồi phục lâu hơn và theo dõi sau mổ kỹ lưỡng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ theo dõi định kỳ theo chỉ định của bác sĩ",
+      "Không tự ý sử dụng thuốc khi chưa có chỉ định của bác sĩ",
+      "Đến bệnh viện ngay khi có triệu chứng nghiêm trọng như đau bụng dữ dội, buồn nôn, chóng mặt hoặc chảy máu âm đạo bất thường",
+      "Với phụ nữ mang thai có u nang, cần tuân thủ lịch khám thai đều đặn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +101,67 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám sức khỏe phụ khoa định kỳ 6 tháng/lần để phát hiện sớm",
+      "Theo dõi những bất thường trong chu kỳ kinh nguyệt",
+      "Chú ý các thay đổi của cơ thể, đặc biệt là các triệu chứng đau bụng, đau vùng chậu",
+      "Sử dụng thuốc theo đúng chỉ định của bác sĩ, đặc biệt là thuốc kích trứng và thuốc tránh thai"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nang cơ năng buồng trứng có nguy hiểm không?",
+      "answer": "Bản chất u nang cơ năng buồng trứng là lành tính, ít gây nguy hiểm, người bệnh vẫn có thể có kinh nguyệt và mang thai bình thường. Tuy nhiên, vẫn có trường hợp ít gặp u nang biến chứng, người bệnh có thể đối mặt với những nguy hiểm như xoắn cuống u nang, vỡ u nang, hoặc chèn ép nội tạng trong tiểu khung."
+    },
+    {
+      "question": "Bị nang cơ năng buồng trứng có thụ thai được không?",
+      "answer": "Hầu hết các trường hợp nang cơ năng buồng trứng phải hoặc nang cơ năng buồng trứng trái đều là lành tính, không ảnh hưởng đến sức khỏe cũng như chức năng sinh sản của phụ nữ. Đối với trường hợp mắc u nang cơ năng hai bên buồng trứng đã mổ bóc tách khối u và để lại buồng trứng khỏe mạnh, chị em vẫn có khả năng thụ thai nhưng tỷ lệ mang thai thấp hơn so với bình thường."
+    },
+    {
+      "question": "Nang cơ năng buồng trứng khi mang thai có nguy hiểm không?",
+      "answer": "Trong trường hợp mắc phải u nang cơ năng buồng trứng khi mang thai, nếu khối u to dần lên có thể gây nhiều biến chứng nguy hiểm như vỡ u nang, khối u nang chèn ép thai nhi, sảy thai, sinh non. Do đó, chị em cần tuân thủ chặt chẽ lịch hẹn khám thai của bác sĩ để được theo dõi sát sao, bảo vệ thai kỳ an toàn và khỏe mạnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như cảm giác đầy bụng và đau âm ỉ ở vùng chậu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nang-co-nang-buong-trung",
+        "viem-phu-khoa",
+        "u-xa-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhói ở vùng bụng dưới và chu kỳ kinh nguyệt không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nang-co-nang-buong-trung",
+        "roi-loan-kinh-nguyet",
+        "viem-buong-trung"
+      ]
+    },
+    {
+      "question": "Tôi hay đi tiểu nhiều lần trong ngày và cảm thấy nặng bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nang-co-nang-buong-trung",
+        "viem-duong-tiet-nieu",
+        "u-xa-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dữ dội và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nang-co-nang-buong-trung",
+        "viem-ruot-thua",
+        "viem-tui-mat"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy máu âm đạo bất thường và đau bụng đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nang-co-nang-buong-trung",
+        "roi-loan-kinh-nguyet",
+        "viem-vung-chau"
+      ]
     }
   ]
 }

@@ -1,39 +1,111 @@
 {
   "disease_id": "hoi-chung-hellp",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng HELLP",
+  "disease_alternative_names": [
+    "HELLP Syndrome",
+    "Hội chứng tan máu tăng men gan giảm tiểu cầu"
+  ],
+  "disease_definition": "Hội chứng HELLP là rối loạn liên quan tới tiền sản giật, một biến thể của tiền sản giật thường xảy ra trong tam cá nguyệt cuối của thai kỳ hoặc sau khi sinh con. Tên gọi HELLP là viết tắt của ba đặc điểm chính: Hemolysis (tan máu), Elevated Liver enzymes (tăng men gan) và Low Platelets (giảm tiểu cầu).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mệt mỏi, khó chịu",
+      "description": "Cảm giác mệt mỏi, khó chịu kéo dài trong vài ngày."
+    },
+    {
+      "name": "Buồn nôn, nôn ói",
+      "description": "Cảm giác buồn nôn và nôn thường xuyên."
+    },
+    {
+      "name": "Đau nhức cơ",
+      "description": "Đau nhức ở vùng vai, cổ, thượng vị hoặc một phần tư trên bên phải vùng bụng."
+    },
+    {
+      "name": "Đau bụng trên bên phải",
+      "description": "Đau thượng vị hoặc đau ¼ trên phải vùng bụng, có thể do tắc nghẽn dòng máu lưu thông ở xoang gan gây ra bởi sự lắng đọng của fibrin nội mạch."
+    },
+    {
+      "name": "Đau đầu và rối loạn thị giác",
+      "description": "Cảm giác đau đầu và các vấn đề về thị lực."
+    },
+    {
+      "name": "Sưng phù",
+      "description": "Tăng cân do phù toàn thân, và protein niệu trên 1+ (trong 90% các trường hợp)."
+    },
+    {
+      "name": "Sưng tấy",
+      "description": "Sưng tấy, đặc biệt là ở khu vực tay hoặc mặt."
+    },
+    {
+      "name": "Đau khi hít thở sâu",
+      "description": "Cảm giác đau khi hít thở sâu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện vẫn chưa xác định chính xác nguyên nhân của HELLP, tuy nhiên sự xuất hiện của hiện tượng đông máu được xem là yếu tố chủ yếu.",
+    "related_factors": "Một số chuyên gia cho rằng đây là một dạng tiền sản giật nặng, một tai biến sản khoa do huyết áp cao. Khoảng 10-20% phụ nữ gặp tiền sản giật sẽ tiến triển thành hội chứng HELLP trong sản khoa.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ trên 35 tuổi",
+    "Béo phì",
+    "Tiền sử mắc các bệnh tiểu đường hoặc bệnh thận",
+    "Huyết áp cao trong thai kỳ",
+    "Tiền sử mắc tiền sản giật trước khi sinh"
+  ],
+  "complications": [
+    "Vỡ gan",
+    "Máu tụ dưới bao gan, nứt gan",
+    "Suy thận",
+    "Suy hô hấp cấp tính",
+    "Chảy máu (băng huyết) quá nhiều trong khi sinh",
+    "Đột quỵ",
+    "Nhau bong non",
+    "Phù phổi cấp",
+    "Ngạt chu sinh gây tử vong cả mẹ và thai nhi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Xét nghiệm máu", "Kiểm tra nước tiểu"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm tan máu",
+        "description": "Kiểm tra sự chuyển vận của các tế bào hồng cầu trong lòng các mao mạch máu bị tổn thương, quan sát mảnh hồng cầu vỡ, hồng cầu bị biến dạng (schistocytes) trên tiêu bản máu đàn. Đo mức haptoglobin, bilirubin, LDH."
+      },
+      {
+        "name": "Xét nghiệm men gan",
+        "description": "Kiểm tra mức độ tăng men gan, đánh giá tình trạng thiếu máu tại gan dẫn đến nhồi máu."
+      },
+      {
+        "name": "Đếm tiểu cầu",
+        "description": "Đánh giá tình trạng giảm tiểu cầu do tổn thương vi mạch chủ yếu là tổn thương nội mạch và co thắt mạch."
+      },
+      {
+        "name": "Kiểm tra protein niệu",
+        "description": "Kiểm tra sự xuất hiện của protein trong nước tiểu, một dấu hiệu của tiền sản giật."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp can thiệp hội chứng HELLP sau sinh là chấm dứt thai kỳ và nhanh chóng đưa thai nhi ra khỏi tử cung. Phần lớn các trường hợp hồi phục hoàn toàn trong vòng 24-48 giờ hoặc trong vòng 5 ngày sau sinh, tuy nhiên một số trường hợp có thể kéo dài các triệu chứng đến 14 ngày.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chấm dứt thai kỳ",
+        "description": "Đây là phương pháp chính để điều trị HELLP, đưa thai nhi ra khỏi tử cung càng sớm càng tốt để bảo vệ sức khỏe của mẹ."
+      },
+      {
+        "name": "Xử trí ổn định huyết áp",
+        "description": "Kiểm soát huyết áp nếu có tăng huyết áp kèm theo."
+      },
+      {
+        "name": "Kiểm soát biến chứng",
+        "description": "Điều trị các biểu hiện khác của HELLP như cơn co giật, DIC (đông máu nội mạch rải rác) cũng như theo dõi thai."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi chặt chẽ sau sinh để đánh giá bệnh đã được điều trị hoàn toàn",
+      "Kiểm tra định kỳ các chỉ số máu và chức năng gan",
+      "Nghỉ ngơi đầy đủ trong thời gian hồi phục",
+      "Theo dõi sát những dấu hiệu bất thường sau sinh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +113,60 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chuẩn bị sức khỏe và thể chất tốt trước khi mang thai",
+      "Đi khám thai định kỳ",
+      "Cung cấp cho bác sĩ sản khoa tiền sử mắc HELLP của gia đình, tiền sản giật hoặc các rối loạn tăng huyết áp khác",
+      "Nhận ra các dấu hiệu bất thường và đến ngay các cơ sở y tế để được thăm khám và điều trị",
+      "Duy trì lối sống lành mạnh, chế độ vận động và dinh dưỡng hợp lý giúp phòng ngừa tình trạng tiểu đường thai kỳ hay huyết áp cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng HELLP ảnh hưởng đến trẻ sơ sinh như thế nào?",
+      "answer": "Những em bé sơ sinh có cân nặng dưới 2000 gram được sinh ra từ mẹ mắc bệnh cần nằm viện lâu hơn và có thể phải chăm sóc bằng máy thở. Ở các nước phát triển, tỷ lệ thai chết lưu (trẻ chết trong tử cung sau 20 tuần) là 51/1.000 ca mang thai. Tỷ lệ này cao hơn cả tiền sản giật nặng và sản giật. Tử vong chu sinh nói chung (thai chết lưu cộng với tử vong sơ sinh) dao động từ 7,7% – 60%. Hầu hết những ca tử vong này được cho là do nhau bong non (bánh nhau tách sớm khỏi tử cung), nhau bong non do ngạt trong tử cung (thai nhi không nhận đủ oxy) và sinh quá sớm."
+    },
+    {
+      "question": "Nguy cơ mắc phải HELLP khi trong lần mang thai sau?",
+      "answer": "Nguy cơ tái phát tất cả các dạng tiền sản giật sẽ cao hơn đối với các phụ nữ có tiền sử mắc bệnh. Tỷ lệ tiền sản giật trong những lần mang thai tiếp theo dao động từ 16-52%, với tỷ lệ cao hơn nếu khởi phát hội chứng HELLP trong tam cá nguyệt thứ hai. Tỷ lệ HELLP tái phát dao động từ 2-19% tùy thuộc vào đối tượng bệnh nhân được nghiên cứu."
+    },
+    {
+      "question": "HELLP là bệnh gì?",
+      "answer": "HELLP là viết tắt của Hemolysis (tan máu), Elevated Liver enzymes (tăng men gan) và Low Platelets (giảm tiểu cầu). Đây là một hội chứng liên quan đến tiền sản giật, thường xuất hiện trong ba tháng cuối của thai kỳ hoặc sau khi sinh. Hội chứng này ảnh hưởng dưới 1% tổng số thai kỳ nhưng có thể gây ra những biến chứng nghiêm trọng cho cả mẹ và thai nhi nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Có cách nào phòng ngừa hội chứng HELLP không?",
+      "answer": "Hiện nay chưa có phương pháp phòng ngừa nào giúp phòng ngừa hội chứng này hiệu quả. Tuy nhiên, sản phụ có thể hạn chế nguy cơ mắc bệnh bằng cách duy trì lối sống lành mạnh, chế độ vận động và dinh dưỡng hợp lý để phòng ngừa tình trạng tiểu đường thai kỳ hay huyết áp cao. Bên cạnh đó, việc khám thai định kỳ giúp bác sĩ phát hiện kịp thời nguy cơ tiền sản giật tiến triển thành sản giật hoặc HELLP để can thiệp kịp thời, tránh biến chứng nguy hiểm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang mang thai và cảm thấy mệt mỏi, buồn nôn và đau vùng bụng trên bên phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-hellp",
+        "viem-gan-thai-ky",
+        "tien-san-giat"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và bị đau đầu, rối loạn thị giác, sưng phù và protein niệu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hoi-chung-hellp", "tien-san-giat", "san-giat"]
+    },
+    {
+      "question": "Tôi đang mang thai và cảm thấy mệt mỏi, khó chịu, buồn nôn, nôn và đau cơ vai, cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hoi-chung-hellp", "cum", "viem-da-day"]
+    },
+    {
+      "question": "Tôi đang mang thai và bị đau bụng trên bên phải, đau đầu, rối loạn thị giác và sưng phù. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-hellp",
+        "tien-san-giat",
+        "gan-nhiem-mo-thai-ky"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và bị sưng phù, protein niệu, đau đầu và rối loạn thị giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hoi-chung-hellp", "tien-san-giat", "benh-than"]
     }
   ]
 }

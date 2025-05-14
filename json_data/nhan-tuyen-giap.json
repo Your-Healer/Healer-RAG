@@ -1,39 +1,101 @@
 {
   "disease_id": "nhan-tuyen-giap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhân tuyến giáp",
+  "disease_alternative_names": ["Nang giáp", "Bướu cổ nốt", "Thyroid nodules"],
+  "disease_definition": "Nhân tuyến giáp là tình trạng các tế bào nang tuyến giáp tăng sản tạo thành khối u trong tuyến giáp. Phần lớn (khoảng 90%) nhân tuyến giáp là lành tính, chỉ một tỷ lệ nhỏ (5-10%) nhân giáp là nhân ác tính. Tuyến giáp là tuyến nội tiết hình con bướm nằm ở giữa và trước cổ, có chức năng sản xuất hormone giáp giúp cơ thể sử dụng năng lượng, giữ ấm, và giúp nhiều cơ quan hoạt động bình thường.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối u vùng cổ",
+      "description": "Một số người bệnh phát hiện khi soi gương thấy vùng cổ có khối to hoặc khi cài cúc áo thấy chật chội."
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Nhân tuyến giáp đủ lớn có thể gây chèn ép thực quản, gây khó khăn khi nuốt."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Nhân tuyến giáp lớn có thể chèn ép đường thở gây khó thở."
+    },
+    {
+      "name": "Khàn giọng",
+      "description": "Nhân giáp chèn ép thần kinh thanh quản gây khàn giọng, thường liên quan đến nhân ác tính."
+    },
+    {
+      "name": "Ho",
+      "description": "Ho có thể xuất hiện khi nhân tuyến giáp gây chèn ép."
+    },
+    {
+      "name": "Đau vùng cổ",
+      "description": "Đau vùng cổ, hàm, tai có thể xảy ra khi có xuất huyết trong nang giáp."
+    },
+    {
+      "name": "Các triệu chứng cường giáp",
+      "description": "Một số nhân giáp có thể gia tăng hoạt động, sản xuất quá thừa hormone giáp gây cường giáp với biểu hiện sụt cân, hồi hộp đánh trống ngực, run tay, yếu cơ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hầu hết các trường hợp bị nhân tuyến giáp đều không rõ nguyên nhân. Thiếu hụt iốt là một yếu tố đã được xác định gây bệnh, đặc biệt ở những người sống ở vùng thiếu iốt.",
+    "related_factors": "Nhiều ý kiến cho rằng tuyến giáp có nhân là do cấu tạo giải phẫu của cơ thể nữ trải qua nhiều cột mốc thay đổi nội tiết tố: dậy thì, kinh nguyệt, mang thai và sinh con, cho con bú và mãn kinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ (tỷ lệ phụ nữ bị nhân giáp cao hơn nam giới 5:1)",
+    "Tuổi cao (đến tuổi 60, một nửa dân số bị nhân tuyến giáp)",
+    "Thiếu iốt trong chế độ ăn",
+    "Tiền sử xạ trị vùng đầu mặt cổ",
+    "Tiền sử gia đình có người bị ung thư tuyến giáp",
+    "Tuổi quá trẻ (<14 tuổi) hoặc quá già (>70 tuổi)"
+  ],
+  "complications": [
+    "Ung thư tuyến giáp (5-10% nhân giáp có thể là ác tính)",
+    "Cường giáp do nhân giáp hoạt động quá mức",
+    "Chèn ép đường thở hoặc thực quản",
+    "Chèn ép thần kinh thanh quản gây khàn giọng",
+    "Xuất huyết trong nang giáp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám vùng cổ bao gồm sờ tuyến giáp",
+      "Siêu âm tuyến giáp để phát hiện các nhân giáp không sờ thấy được",
+      "Xét nghiệm nồng độ hormone tuyến giáp"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm tuyến giáp",
+        "description": "Sử dụng sóng âm có tần số cao để đánh giá nhân tuyến giáp, xác định số lượng, kích thước, đặc điểm nhân giáp là đặc hay nang, và các đặc điểm nghi ngờ nhân giáp là ác tính hay lành tính"
+      },
+      {
+        "name": "Xét nghiệm hormone tuyến giáp",
+        "description": "Xét nghiệm hormone tuyến giáp (Thyroxine, hoặc T4) và hormone kích thích tuyến giáp (TSH) trong máu để xác định tuyến giáp có hoạt động bình thường hay không"
+      },
+      {
+        "name": "Chọc hút tế bào tuyến giáp bằng kim nhỏ (FNA)",
+        "description": "Thủ thuật sử dụng kim nhỏ dưới hướng dẫn của siêu âm để hút các tế bào từ nhân tuyến giáp, giúp đánh giá bước đầu bản chất tế bào của nhân giáp là lành tính hay ác tính"
+      },
+      {
+        "name": "CT vùng cổ",
+        "description": "Giúp phát hiện nhân tuyến giáp khi làm các xét nghiệm khác không liên quan"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị nhân tuyến giáp phụ thuộc vào bản chất của nhân (lành tính hay ác tính) và các triệu chứng mà người bệnh gặp phải.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi định kỳ",
+        "description": "Đối với nhân giáp lành tính thường được theo dõi mà không cần phẫu thuật. Người bệnh được theo dõi bằng siêu âm, giai đoạn đầu từ 12-24 tháng, sau đó tăng dần theo thời gian từ 2-5 năm."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong trường hợp nhân giáp ác tính (ung thư tuyến giáp), người bệnh cần được phẫu thuật cắt bỏ. Một số trường hợp nhân lành tính nhưng có các triệu chứng chèn ép hoặc tăng trưởng đáng kể cũng cần được xem xét phẫu thuật."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi định kỳ với bác sĩ nội tiết",
+      "Siêu âm tuyến giáp định kỳ để theo dõi sự phát triển của nhân giáp",
+      "Thông báo cho bác sĩ nếu nhận thấy nhân giáp phát triển nhanh về kích thước",
+      "Thông báo cho bác sĩ nếu xuất hiện các triệu chứng mới như khàn giọng, khó thở, khó nuốt"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +103,51 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Đảm bảo đủ iốt trong chế độ ăn, đặc biệt ở vùng thiếu iốt",
+      "Tầm soát định kỳ đối với các đối tượng có nguy cơ cao",
+      "Tránh tiếp xúc với bức xạ vùng cổ nếu có thể",
+      "Thường xuyên khám sức khỏe để phát hiện sớm các bất thường ở tuyến giáp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhân tuyến giáp có nguy hiểm không?",
+      "answer": "Phần lớn nhân tuyến giáp (khoảng 90%) là lành tính và không nguy hiểm. Tuy nhiên, khoảng 5-10% nhân giáp có thể là ác tính (ung thư tuyến giáp). Ngoài ra, nhân giáp kích thước lớn có thể gây các triệu chứng chèn ép như khó thở, khó nuốt, khàn giọng. Một số nhân giáp có thể tăng hoạt động, gây cường giáp. Hầu hết các trường hợp ung thư tuyến giáp đều có thể chữa được và hiếm khi gây ra các vấn đề nguy hiểm đến tính mạng nếu được phát hiện sớm và điều trị kịp thời."
+    },
+    {
+      "question": "Ai cần tầm soát ung thư tuyến giáp?",
+      "answer": "Các đối tượng cần tầm soát ung thư tuyến giáp (nhân giáp ác tính) bao gồm: người trẻ dưới 14 tuổi hoặc người già trên 70 tuổi phát hiện nhân giáp, người có nhân giáp phát triển nhanh kích thước, người có các triệu chứng khàn giọng, người có tiền căn xạ trị vùng đầu mặt cổ, hoặc người có tiền sử gia đình có người bị ung thư tuyến giáp."
+    },
+    {
+      "question": "Làm thế nào để phát hiện nhân tuyến giáp?",
+      "answer": "Cách tốt nhất để phát hiện nhân tuyến giáp là thăm khám vùng cổ bao gồm sờ tuyến giáp và siêu âm tuyến giáp để phát hiện các nhân giáp không sờ thấy được. Ngoài ra, có thể phát hiện nhân giáp thông qua khám sức khỏe tổng quát, chụp chiếu phim như CT vùng cổ, hoặc xét nghiệm chức năng tuyến giáp bất thường. Một số người tự phát hiện khi soi gương thấy vùng cổ có khối to hoặc khi cài cúc áo thấy chật chội."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi tình cờ phát hiện có khối u ở vùng cổ khi soi gương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhan-tuyen-giap", "u-vung-co", "buou-co"]
+    },
+    {
+      "question": "Tôi cảm thấy khó nuốt và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhan-tuyen-giap", "viem-hong", "u-thanh-quan"]
+    },
+    {
+      "question": "Tôi bị ho và khàn giọng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhan-tuyen-giap",
+        "viem-thanh-quan",
+        "ung-thu-thanh-quan"
+      ]
+    },
+    {
+      "question": "Tôi thấy vùng cổ có khối to khi cài cúc áo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhan-tuyen-giap", "buou-co", "u-vung-co"]
+    },
+    {
+      "question": "Tôi đi khám sức khỏe tổng quát và phát hiện có nhân tuyến giáp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhan-tuyen-giap", "buou-co", "ung-thu-tuyen-giap"]
     }
   ]
 }

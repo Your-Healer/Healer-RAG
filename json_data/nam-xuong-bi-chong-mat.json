@@ -1,39 +1,110 @@
 {
   "disease_id": "nam-xuong-bi-chong-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nằm xuống bị chóng mặt",
+  "disease_alternative_names": [
+    "Chóng mặt khi nằm xuống",
+    "Chóng mặt tư thế kịch phát lành tính",
+    "BPPV"
+  ],
+  "disease_definition": "Nằm xuống bị chóng mặt là một dạng chóng mặt thường gặp ở người mắc chứng chóng mặt tư thế kịch phát lành tính (BPPV). Đây là một dạng rối loạn hệ thống tiền đình xảy ra khi người bệnh đột ngột thay đổi vị trí của đầu, như khi đang ngồi và nằm xuống. Lúc này, người bệnh cảm thấy bản thân đang xoay quanh các vật thể khác hoặc các vật thể đang xoay quanh mình.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chóng mặt khi thay đổi tư thế",
+      "description": "Cảm giác chóng mặt, choáng váng khi nằm xuống hoặc thay đổi tư thế đầu."
+    },
+    {
+      "name": "Cảm giác quay xoay",
+      "description": "Cảm giác mọi thứ xung quanh đang xoay tròn hoặc di chuyển."
+    },
+    {
+      "name": "Cơn chóng mặt ngắn",
+      "description": "Cơn chóng mặt diễn ra ở nhiều mức độ nhưng thường không kéo dài quá vài phút."
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Cơ thể mất thăng bằng, đứng không vững, lảo đảo."
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác buồn nôn hoặc nôn mửa có thể xuất hiện cùng với cơn chóng mặt."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chủ yếu của tình trạng nằm xuống bị chóng mặt là do chóng mặt tư thế kịch phát lành tính (BPPV), xảy ra khi các tinh thể canxi (otolith) trong tai bị dịch chuyển, gây rối loạn hệ thống tiền đình.",
+    "related_factors": "Ngoài BPPV, tình trạng này còn có thể do các bệnh lý khác như đau nửa đầu migraine, bệnh Ménière, viêm mê đạo tai, viêm dây thần kinh tiền đình, u não, chấn thương sọ não, hay do lưu lượng máu giảm đột ngột.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thiếu máu não",
+    "Stress, căng thẳng quá mức",
+    "Mất ngủ, thiếu ngủ trong một thời gian dài",
+    "Suy nhược cơ thể",
+    "Say nắng",
+    "Say rượu, bia",
+    "Bệnh lý thần kinh",
+    "Bệnh lý tim mạch như xơ vữa động mạch, suy tim",
+    "Loãng xương",
+    "Tuổi cao (thường gặp hơn ở người lớn tuổi)"
+  ],
+  "complications": [
+    "Té ngã do mất thăng bằng",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Giảm khả năng làm việc và sinh hoạt",
+    "Nguy cơ tai nạn khi lái xe hoặc vận hành máy móc",
+    "Trầm cảm hoặc lo âu do sợ các cơn chóng mặt tái phát"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác tiền sử bệnh và các triệu chứng",
+      "Khám thần kinh",
+      "Đánh giá tần suất và mức độ chóng mặt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Có thể được yêu cầu để kiểm tra các vấn đề như thiếu máu hoặc nhiễm trùng"
+      },
+      {
+        "name": "Chụp CT hoặc MRI não",
+        "description": "Được thực hiện nếu nghi ngờ có vấn đề về não như u não hoặc đột quỵ"
+      },
+      {
+        "name": "Nghiệm pháp Dix-Hallpike",
+        "description": "Đánh giá phản ứng chóng mặt khi thay đổi tư thế đầu, giúp chẩn đoán BPPV"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị tình trạng nằm xuống bị chóng mặt còn phụ thuộc vào nguyên nhân bệnh. Thông thường, tình trạng này không quá nghiêm trọng và có thể tự khỏi sau một khoảng thời gian.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phương pháp tái định vị sỏi tai",
+        "description": "Nếu bị chóng mặt khi nằm xuống do bệnh chóng mặt tư thế kịch phát lành tính, bác sĩ có thể thực hiện các thủ thuật như thủ thuật Epley, Semont hoặc Semont cải tiến để tái định vị các tinh thể canxi trong tai."
+      },
+      {
+        "name": "Tập các bài tập tiền đình",
+        "description": "Các bài tập Brandt-Daroff có thể giúp cải thiện triệu chứng và ngăn ngừa tái phát."
+      },
+      {
+        "name": "Sử dụng thuốc",
+        "description": "Trong một số trường hợp, bác sĩ có thể kê các loại thuốc chống chóng mặt, chống nôn, hoặc thuốc an thần để giảm các triệu chứng."
+      },
+      {
+        "name": "Bổ sung vitamin và khoáng chất",
+        "description": "Nếu chóng mặt do mệt mỏi, suy nhược cơ thể, thiếu máu, bác sĩ có thể kê thêm các loại vitamin và khoáng chất, đồng thời hướng dẫn về chế độ dinh dưỡng và sinh hoạt phù hợp."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Khi nằm xuống bị chóng mặt, nên nằm im không cử động trong 5-10 phút để cơn chóng mặt qua đi",
+      "Không cố gắng ngồi dậy hoặc di chuyển trong lúc đang chóng mặt",
+      "Có chế độ nghỉ ngơi hợp lý, ngủ đủ 8 tiếng mỗi ngày",
+      "Thay đổi tư thế từ từ, không đột ngột",
+      "Khi tỉnh giấc giữa đêm và muốn nằm xuống, nên nằm thật nhẹ nhàng và chậm rãi",
+      "Giảm tải các áp lực trong công việc và cuộc sống",
+      "Xây dựng chế độ dinh dưỡng lành mạnh",
+      "Hạn chế các chất kích thích như rượu, bia, cà phê và đồ ngọt",
+      "Vận động thường xuyên, có thể đi bộ nhẹ, tập gym hoặc yoga khoảng 20-30 phút mỗi ngày"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +112,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không thay đổi tư thế đột ngột, nên thay đổi từ từ dù cho chuyển từ ngồi sang nằm hay ngược lại",
+      "Khi đang nằm, nếu muốn xoay người sang một bên thì cũng nên thực hiện chậm rãi",
+      "Không sử dụng rượu bia và các chất kích thích",
+      "Có một chế độ ăn uống lành mạnh và khoa học, uống nhiều nước, không ăn thức ăn mặn",
+      "Ăn nhiều rau củ quả và trái cây",
+      "Bổ sung thêm các loại vitamin và dưỡng chất",
+      "Sinh hoạt và nghỉ ngơi điều độ, tránh thức khuya, làm việc quá sức",
+      "Theo dõi các cơn chóng mặt để báo cáo cho bác sĩ khi đi khám"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nằm xuống bị chóng mặt có nguy hiểm không?",
+      "answer": "Nhìn chung, chóng mặt khi nằm xuống không phải là một triệu chứng quá nguy hiểm. Trong hầu hết các trường hợp, tình trạng này không nghiêm trọng và có thể tự khỏi sau vài tuần hoặc vài tháng. Tuy nhiên, nếu cơn chóng mặt đi kèm với các triệu chứng như đau đầu dữ dội, suy giảm thính giác hay các dấu hiệu đột quỵ (không thể cử động tay chân, méo mặt, méo miệng, khó nói), thì nên lập tức đến bệnh viện để kiểm tra và can thiệp."
+    },
+    {
+      "question": "Nằm xuống bị chóng mặt là bệnh gì?",
+      "answer": "Nằm xuống bị chóng mặt thường là dấu hiệu của chứng chóng mặt tư thế kịch phát lành tính (BPPV), một dạng rối loạn hệ thống tiền đình xảy ra khi đột ngột thay đổi vị trí của đầu. Ngoài ra, tình trạng này còn có thể do các bệnh khác như đau nửa đầu migraine, bệnh Ménière, viêm mê đạo tai, lưu lượng máu giảm đột ngột, viêm dây thần kinh tiền đình, u não, hoặc do các yếu tố như thiếu máu não, stress, mất ngủ, suy nhược cơ thể, say nắng, say rượu, v.v."
+    },
+    {
+      "question": "Khi nào nên đi khám bác sĩ vì chóng mặt khi nằm?",
+      "answer": "Bạn nên đến thăm khám bác sĩ nếu cơn chóng mặt đi kèm với các triệu chứng như đau đầu dữ dội, suy giảm thính giác, hoặc các dấu hiệu đột quỵ (không thể cử động tay chân, méo mặt, méo miệng, khó nói). Ngoài ra, nếu tình trạng nằm xuống bị chóng mặt lặp lại thường xuyên trong một thời gian dài cũng nên đến thăm khám để có hướng xử trí phù hợp nhất."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chóng mặt và choáng váng khi nằm xuống hoặc thay đổi tư thế đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nam-xuong-bi-chong-mat",
+        "roi-loan-tien-dinh",
+        "thieu-mau-nao"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mọi thứ xung quanh xoay tròn khi tôi nằm xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nam-xuong-bi-chong-mat",
+        "chong-mat-tu-the",
+        "benh-meniere"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chóng mặt vài phút sau khi thay đổi tư thế nằm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nam-xuong-bi-chong-mat",
+        "roi-loan-tien-dinh",
+        "ha-huyet-ap-tu-the"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chóng mặt và mất thăng bằng khi đứng dậy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nam-xuong-bi-chong-mat",
+        "ha-huyet-ap-tu-the",
+        "thieu-mau-nao"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy buồn nôn và chóng mặt khi nằm xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nam-xuong-bi-chong-mat",
+        "benh-meniere",
+        "viem-tai-trong"
+      ]
     }
   ]
 }

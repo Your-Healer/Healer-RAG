@@ -1,39 +1,120 @@
 {
   "disease_id": "hoi-chung-sudeck",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng Sudeck",
+  "disease_alternative_names": [
+    "Đau loạn dưỡng do thần kinh giao cảm",
+    "Hội chứng vai-tay",
+    "Loạn dưỡng phản xạ giao cảm",
+    "Complex Regional Pain Syndrome (CRPS)"
+  ],
+  "disease_definition": "Hội chứng Sudeck hay đau loạn dưỡng do thần kinh giao cảm là tình trạng đau và loạn dưỡng do rối loạn chức năng hệ thần kinh giao cảm, dẫn tới mất canxi nặng của xương, khiến khả năng vận động giảm sút. Bệnh có các triệu chứng điển hình như đau bỏng, sưng nề chi, các rối loạn dưỡng trên da như teo da, tăng tiết mồ hôi đi kèm các dấu hiệu rối loạn vận mạch.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhức",
+      "description": "Cơn đau không cụ thể ở một phần cụ thể mà gần như là lan ra khắp những chi bị thương. Người bệnh có cảm giác từ tê tê như kiến bò đến rát bỏng hay điện giật."
+    },
+    {
+      "name": "Sưng nề và thay đổi da",
+      "description": "Vùng da tại vị trí chấn thương sẽ căng bóng, mất những nếp nhăn. Da có thể thay đổi màu sắc: khi đỏ sẫm, khi nhợt nhạt hay tím tái."
+    },
+    {
+      "name": "Rối loạn nhiệt độ da",
+      "description": "Nhiệt độ da lúc nóng lúc lạnh hơn bên đối diện. Khi vận động, chi sẽ sưng nóng, đỏ dù không có dấu hiệu nhiễm trùng."
+    },
+    {
+      "name": "Rối loạn tiết mồ hôi",
+      "description": "Mồ hôi tiết nhiều hơn bình thường ở thời kỳ đầu, sau đó khô ráo lại."
+    },
+    {
+      "name": "Hạn chế vận động khớp",
+      "description": "Các khớp bị hạn chế vận động. Khi người bệnh vận động thụ động hay chủ động các khớp sẽ làm cơn đau gia tăng."
+    },
+    {
+      "name": "Teo cơ và thay đổi ở móng và lông",
+      "description": "Vào giai đoạn muộn, cơ bị teo, móng tay bị khô xù xì, có vết nứt dễ gãy; lông phát triển mạnh ban đầu rồi rụng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hội chứng Sudeck xảy ra do rối loạn chức năng hệ thần kinh giao cảm. Khi có những kích thích đau thường xuyên, mạn tính từ khu vực ngoại vi, phản xạ thần kinh giao cảm tại khu vực tủy sống có khả năng bị rối loạn, dẫn đến những rối loạn giao cảm tại khu vực ngoại vi.",
+    "related_factors": "Chấn thương vai, tay, cổ; bệnh lý vùng khớp vai; thoái hóa cột sống cổ; chấn thương khớp gối; phẫu thuật; hội chứng ống cổ tay; bệnh nhồi máu cơ tim; đột quỵ não; ung thư vú; sử dụng thuốc điều trị lao hoặc barbiturat; gãy xương không được điều trị hoặc nắn chỉnh không hoàn hảo về mặt giải phẫu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử chấn thương",
+    "Phẫu thuật gần đây",
+    "Bệnh lý khớp vai",
+    "Thoái hóa cột sống cổ",
+    "Sử dụng thuốc điều trị lao hoặc barbiturat",
+    "Gãy xương không được điều trị đúng cách",
+    "Tuổi từ 40-60 (phổ biến nhất)",
+    "Bệnh lý tim mạch, đột quỵ",
+    "Ung thư vú"
+  ],
+  "complications": [
+    "Teo cơ vĩnh viễn",
+    "Cứng khớp không hồi phục",
+    "Hạn chế vận động kéo dài",
+    "Đau mạn tính",
+    "Vai bị bất động hoàn toàn",
+    "Tổn thương vĩnh viễn không phục hồi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Chẩn đoán hình ảnh"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp MRI",
+        "description": "Giúp bác sĩ quan sát và nhận biết những bất thường bên trong cơ thể, nhất là sự thay đổi của các mô."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Giúp bác sĩ xác định tình trạng mất khoáng chất trong xương, thường được chỉ định ở giai đoạn sau của bệnh."
+      },
+      {
+        "name": "Kiểm tra mồ hôi",
+        "description": "Kiểm tra xem có hiện tượng mồ hôi ở một bên cơ thể nhiều hơn bên còn lại không."
+      },
+      {
+        "name": "Kiểm tra nhiệt độ",
+        "description": "Đánh giá nhiệt độ hay lưu lượng máu tại vị trí tổn thương so với những vị trí khác của cơ thể."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện nay chưa có phương pháp chữa trị dứt điểm hội chứng Sudeck. Điều trị chủ yếu nhằm thuyên giảm triệu chứng cho người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng kem gây tê (Lidocaine), thuốc chống trầm cảm, thuốc chống viêm không steroid (NSAIDs), thuốc chống co giật, thuốc corticosteroid (methylprednisolone, prednisolone), thuốc xịt mũi chống mất xương, thuốc tiêm chặn dây thần kinh, thuốc giảm đau (oxycodone morphine, Hydrocodone, fentanyl), thuốc không cần toa (aspirin, ibuprofen, naproxen)."
+      },
+      {
+        "name": "Kích thích điện",
+        "description": "Đặt những điện cực trên tủy sống, gây ra những cú sốc điện nhỏ nhằm giảm đau cho người bệnh."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Tập vật lý trị liệu giúp đi lại dễ dàng hơn và cải thiện tình trạng đau nhức."
+      },
+      {
+        "name": "Liệu pháp tâm lý",
+        "description": "Hướng dẫn người bệnh các phương pháp thư giãn phù hợp để đối phó với tình trạng đau."
+      },
+      {
+        "name": "Nẹp đỡ",
+        "description": "Sử dụng nẹp đỡ giúp giảm đau tại vị trí chấn thương."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Cắt dây thần kinh giao cảm trong trường hợp không đáp ứng với các phương pháp điều trị khác. Bác sĩ sẽ cắt bỏ một số dây thần kinh nhất định xung quanh những mạch máu nhằm giúp cải thiện lưu lượng máu."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng phác đồ điều trị",
+      "Thực hiện đầy đủ bài tập vật lý trị liệu",
+      "Sử dụng thuốc theo đúng chỉ định của bác sĩ",
+      "Hạn chế vận động mạnh tại vị trí tổn thương",
+      "Thực hiện các phương pháp thư giãn để giảm căng thẳng",
+      "Theo dõi và báo cáo các thay đổi về triệu chứng cho bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +122,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Điều trị đúng cách và kịp thời các chấn thương",
+      "Đảm bảo nắn chỉnh hoàn hảo về mặt giải phẫu sau gãy xương",
+      "Tái khám định kỳ sau chấn thương hoặc phẫu thuật",
+      "Vận động nhẹ nhàng và dần dần sau chấn thương",
+      "Thận trọng khi sử dụng thuốc điều trị lao hoặc barbiturat",
+      "Tuân thủ chế độ phục hồi chức năng sau chấn thương hoặc phẫu thuật"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng Sudeck có chữa khỏi được không?",
+      "answer": "Hiện nay chưa có phương pháp chữa trị dứt điểm hội chứng Sudeck. Tuy nhiên, nếu được phát hiện sớm và điều trị kịp thời, đúng cách, phần lớn người bệnh sẽ kiểm soát tốt triệu chứng và giảm thiểu các tác động tiêu cực của hội chứng này đến sức khỏe. Tình trạng đau loạn dưỡng ở chân thường được kiểm soát tốt hơn so với ở tay."
+    },
+    {
+      "question": "Hội chứng Sudeck kéo dài bao lâu?",
+      "answer": "Thời gian từ khi phát bệnh tới khi kiểm soát tốt tình trạng bệnh khác nhau tùy vị trí: trung bình khoảng 12 tháng đối với bàn chân, 7 tháng với khớp gối và 5 tháng với khớp háng. Ở chi trên, tình trạng có thể kéo dài từ vài tuần đến vài tháng ở giai đoạn sưng tấy, sau đó chuyển sang giai đoạn teo. Trong một số trường hợp, tổn thương có thể kéo dài vĩnh viễn, không phục hồi."
+    },
+    {
+      "question": "Hội chứng Sudeck thường xảy ra ở đâu?",
+      "answer": "Hội chứng Sudeck thường xảy ra tại một số vị trí như bàn tay, ngón tay, bàn chân và cổ chân, vùng vai. Bệnh cũng có thể ảnh hưởng đến khớp gối và khớp háng. Triệu chứng và mức độ nghiêm trọng có thể khác nhau tùy thuộc vào vị trí bị ảnh hưởng."
+    },
+    {
+      "question": "Ai là người có nguy cơ mắc hội chứng Sudeck?",
+      "answer": "Hội chứng Sudeck là tình trạng hiếm gặp, có thể xảy ra ở mọi lứa tuổi, nhưng phổ biến nhất trong độ tuổi 40-60. Người có tiền sử chấn thương, phẫu thuật gần đây, bệnh lý khớp vai, thoái hóa cột sống cổ, đang sử dụng thuốc điều trị lao hoặc barbiturat, bị gãy xương không được điều trị đúng cách, mắc bệnh lý tim mạch, đột quỵ hoặc ung thư vú có nguy cơ cao hơn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi bị đau nhức, sưng tấy và da căng bóng ở vùng bàn tay sau khi bị chấn thương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-sudeck",
+        "viem-khop-ban-tay",
+        "viem-gan-bao"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau nhức lan tỏa khắp cánh tay sau khi bị gãy xương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-sudeck",
+        "viem-gan-co",
+        "chan-thuong-day-than-kinh"
+      ]
+    },
+    {
+      "question": "Vùng da ở chân tôi bị thay đổi màu sắc, lúc nóng lúc lạnh sau chấn thương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-sudeck",
+        "roi-loan-tuan-hoan",
+        "viem-tinh-mach-huyet-khoi"
+      ]
+    },
+    {
+      "question": "Các khớp ở chân tôi bị hạn chế vận động và sưng đau sau chấn thương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hoi-chung-sudeck", "viem-khop", "thoai-hoa-khop"]
+    },
+    {
+      "question": "Tôi bị đau nhức kéo dài và teo cơ ở bàn chân sau chấn thương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-sudeck",
+        "teo-co",
+        "ton-thuong-day-than-kinh"
+      ]
     }
   ]
 }

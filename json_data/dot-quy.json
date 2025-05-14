@@ -1,58 +1,282 @@
 {
   "disease_id": "dot-quy",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Đột Quỵ",
+  "disease_alternative_names": [
+    "Tai biến mạch máu não",
+    "Stroke",
+    "Cerebrovascular accident"
+  ],
+  "disease_definition": "Đột quỵ còn gọi là tai biến mạch máu não, là bệnh lý cấp tính nguy hiểm thường xảy ra đột ngột khi nguồn máu cung cấp cho não bị tắc nghẽn, gián đoạn hoặc suy giảm. Khi đó, não bị thiếu oxy, dinh dưỡng và các tế bào não bắt đầu chết trong vòng vài phút. Người bị đột quỵ có nguy cơ tử vong cao nếu không được phát hiện và cấp cứu kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Méo miệng",
+      "description": "Khuôn mặt của người bệnh bị méo, không cân đối. Dấu hiệu này trở nên rõ ràng hơn khi người bệnh cười."
+    },
+    {
+      "name": "Yếu hoặc liệt tay chân",
+      "description": "Tay chân bị liệt, tê một bên cơ thể, đôi khi vẫn điều khiển được tay nhưng kém chính xác. Có thể có các dấu hiệu ở chân như không nhấc chân được, đi rớt dép."
+    },
+    {
+      "name": "Rối loạn ngôn ngữ",
+      "description": "Người bệnh bị 'á khẩu' hay nói đớ, nói lắp, khó khăn trong việc diễn đạt hoặc hiểu lời nói."
+    },
+    {
+      "name": "Rối loạn tri giác",
+      "description": "Người bệnh có thể bị lẫn lộn, sảng, hôn mê hoặc mất phương hướng."
+    },
+    {
+      "name": "Rối loạn thị giác",
+      "description": "Thị lực giảm sút, hoa mắt, nhìn mờ hoặc nhìn đôi."
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Chóng mặt, không thể đứng vững, đi lại loạng choạng."
+    },
+    {
+      "name": "Đau đầu dữ dội",
+      "description": "Đau đầu bất thường, đột ngột và dữ dội."
+    },
+    {
+      "name": "Buồn nôn, nôn ói",
+      "description": "Cảm giác buồn nôn và nôn ói đột ngột kèm theo các triệu chứng khác."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hai nguyên nhân chủ yếu gây nên hiện tượng đột quỵ là do thiếu máu cục bộ (tắc nghẽn động mạch) hoặc do xuất huyết não (mạch máu bị vỡ). Đột quỵ do thiếu máu cục bộ chiếm khoảng 85% các trường hợp, trong khi đột quỵ do xuất huyết não chiếm khoảng 15%.",
+    "related_factors": "Đột quỵ do thiếu máu cục bộ xảy ra khi tắc nghẽn động mạch do huyết khối (cục máu đông tại chỗ) hoặc do thuyên tắc (cục máu đông từ nơi khác đến). Đột quỵ do xuất huyết não xảy ra khi mạch máu não bị vỡ làm chảy máu vào nhu mô não, khoang dưới nhện hay não thất.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Các bệnh lý tim mạch như hở van tim, rung tâm nhĩ, nhịp tim không đều, suy tim",
+    "Tăng huyết áp",
+    "Tiểu đường",
+    "Rối loạn Lipid máu, cholesterol cao",
+    "Tiền sử cá nhân hoặc gia đình từng bị đột quỵ, thiếu máu não thoáng qua",
+    "Lạm dụng chất kích thích như rượu, ma túy",
+    "Hút thuốc lá, tiếp xúc với khói thuốc lá",
+    "Thừa cân, béo phì, ít vận động",
+    "Chế độ ăn uống không hợp lý",
+    "Tuổi trên 55",
+    "Giới tính (nam giới có nguy cơ cao hơn phụ nữ)",
+    "Sử dụng thuốc tránh thai hoặc liệu pháp điều chỉnh hormone"
+  ],
+  "complications": [
+    "Tử vong",
+    "Liệt (một tay, một chân hoặc liệt hoàn toàn)",
+    "Suy giảm khả năng vận động",
+    "Mất ngôn ngữ, nói ngọng, khó khăn trong giao tiếp",
+    "Rối loạn thị giác",
+    "Các vấn đề tâm lý như trầm cảm, rối loạn cảm xúc",
+    "Sống thực vật (trong trường hợp nặng)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá bệnh sử và khởi phát triệu chứng",
+      "Thăm khám lâm sàng: đánh giá tình trạng liệt, tê bì, khó nói, rối loạn tri giác",
+      "Đánh giá theo phương pháp FAST (Face-Arms-Speech-Time)",
+      "Kiểm tra các dấu hiệu sinh tồn, ý thức và chức năng thần kinh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Bao gồm công thức máu, đông máu toàn bộ, đường huyết, điện giải đồ, chức năng thận, men gan, men tim, bilan Lipid máu."
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Đánh giá tình trạng tim mạch để tìm các bất thường có thể là nguyên nhân gây đột quỵ như rung nhĩ."
+      },
+      {
+        "name": "CT scan sọ não không cản quang",
+        "description": "Phương pháp chẩn đoán hình ảnh nhanh, giúp phân biệt rõ giữa đột quỵ xuất huyết não với thiếu máu não cục bộ."
+      },
+      {
+        "name": "CT scan mạch máu não (CTA)",
+        "description": "Sử dụng thuốc cản quang để khảo sát hình ảnh toàn bộ động mạch não, phát hiện các bất thường như hẹp, phình mạch hay bóc tách mạch."
+      },
+      {
+        "name": "Chụp cộng hưởng từ não (MRI)",
+        "description": "Được sử dụng khi nghi ngờ nhồi máu não tuần hoàn sau hoặc khi CT scan không ghi nhận tổn thương rõ ràng."
+      },
+      {
+        "name": "Siêu âm động mạch cảnh",
+        "description": "Xác định tình trạng tắc, hẹp động mạch cảnh và động mạch đốt sống đoạn ngoài sọ."
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Tìm bất thường tại tim có thể là nguyên nhân gây đột quỵ như huyết khối trong tim."
+      },
+      {
+        "name": "Siêu âm Doppler xuyên sọ (TCD)",
+        "description": "Xác định các tình trạng hẹp, tắc mạch máu hoặc tái thông tại các mạch máu lớn trong sọ."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục đích chính của việc điều trị đột quỵ là giảm tỷ lệ tử vong, hạn chế tối đa các biến chứng nghiêm trọng. Nguyên tắc điều trị là: cấp cứu nhanh chóng và chính xác, hạn chế ổ tổn thương lan rộng, tối ưu hóa tình trạng thần kinh, đảm bảo tưới máu não, phòng ngừa biến chứng, giúp phục hồi chức năng và phòng ngừa tái phát.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị thuốc tiêu sợi huyết",
+        "description": "Đối với đột quỵ thiếu máu cục bộ, thuốc tiêu sợi huyết có thể được sử dụng trong 'thời gian vàng' (thường trong vòng 3-4.5 giờ sau khi khởi phát) để phá vỡ cục máu đông."
+      },
+      {
+        "name": "Can thiệp nội mạch",
+        "description": "Các kỹ thuật như lấy huyết khối cơ học có thể được sử dụng trong trường hợp tắc nghẽn các mạch máu lớn, đặc biệt khi đã quá thời gian sử dụng thuốc tiêu sợi huyết."
+      },
+      {
+        "name": "Điều trị nội khoa đột quỵ xuất huyết",
+        "description": "Trong trường hợp đột quỵ do xuất huyết não, việc kiểm soát huyết áp, ngừng các thuốc chống đông, điều chỉnh rối loạn đông máu là rất quan trọng."
+      },
+      {
+        "name": "Phẫu thuật thần kinh",
+        "description": "Trong một số trường hợp xuất huyết não, có thể cần phẫu thuật để giảm áp lực nội sọ hoặc loại bỏ cục máu đông."
+      },
+      {
+        "name": "Phục hồi chức năng",
+        "description": "Trị liệu vật lý, ngôn ngữ và nghề nghiệp giúp người bệnh phục hồi các chức năng và kỹ năng bị ảnh hưởng sau đột quỵ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Người bệnh cần được đưa đến bệnh viện càng sớm càng tốt",
+      "Không tự ý điều trị như đánh gió, bấm huyệt, châm cứu, uống thuốc",
+      "Theo dõi sát các biểu hiện của bệnh nhân",
+      "Đặt bệnh nhân nằm nghiêng để bảo vệ đường thở",
+      "Không cho bệnh nhân ăn uống gì khi chưa được bác sĩ chỉ định",
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Tham gia các chương trình phục hồi chức năng theo hướng dẫn",
+      "Thay đổi lối sống và chế độ ăn uống để ngăn ngừa tái phát"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine đặc hiệu để phòng ngừa đột quỵ.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập thể dục thường xuyên, tối thiểu 30 phút/lần và 3-4 lần/tuần",
+      "Duy trì chế độ ăn uống hợp lý, giảm thức ăn chiên xào, đồ dầu mỡ, rượu bia",
+      "Ăn nhiều rau xanh, trái cây, thịt trắng, hải sản, ngũ cốc và các loại đậu",
+      "Duy trì thói quen ngủ đúng giờ, ngủ đủ giấc",
+      "Không sử dụng các chất kích thích như thuốc lá, ma túy",
+      "Hạn chế tắm đêm, đặc biệt là sau 23h",
+      "Kiểm tra sức khỏe định kỳ, tầm soát cholesterol, huyết áp, tim mạch, tiểu đường",
+      "Tuân thủ điều trị nếu đã được chẩn đoán mắc các bệnh nguy cơ như tăng huyết áp, đái tháo đường",
+      "Giảm cân nếu thừa cân, béo phì",
+      "Giảm stress và lo âu thông qua các biện pháp thư giãn phù hợp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tắm đêm có dẫn đến đột quỵ hay không?",
+      "answer": "Tắm đêm không phải là nguyên nhân trực tiếp gây ra đột quỵ nhưng có thể là yếu tố xúc tác, thúc đẩy gián tiếp. Không nên tắm đêm, đặc biệt là sau 23h, vì đây là thời điểm nhiệt độ xuống thấp nhất trong ngày, đồng thời huyết áp lên cao. Sự thay đổi nhiệt độ, trạng thái và huyết áp cơ thể sẽ ảnh hưởng đến sự lưu thông của máu, các mạch máu bị co lại và rất dễ gây thiếu máu não cục bộ, dẫn tới đột quỵ."
+    },
+    {
+      "question": "Tại sao đột quỵ ngày càng trẻ hóa?",
+      "answer": "Người trẻ ngày nay với lối sống thiếu khoa học trong chế độ ăn uống và sinh hoạt như: uống nhiều bia rượu, hút thuốc, sử dụng chất kích thích, ít vận động, làm tăng nguy cơ mỡ máu, béo phì, lượng cholesterol quá cao. Thêm vào đó, ngày càng nhiều bạn trẻ mắc các bệnh lý tim mạch và huyết áp cao - hai nguyên nhân hàng đầu dẫn đến đột quỵ."
+    },
+    {
+      "question": "Thực hư về thử thách đứng một chân để chẩn đoán đột quỵ như thế nào?",
+      "answer": "Thử thách này bắt nguồn từ một nghiên cứu tại Nhật Bản vào năm 2014. Tuy nhiên, nghiên cứu này chỉ được khảo sát ở một nhóm nhỏ đối tượng trong độ tuổi trên 60 và có các bệnh lý nền như đái tháo đường, tăng huyết áp. Do đó, thử thách đứng một chân để chẩn đoán đột quỵ cần được thử nghiệm lại với nhóm đối tượng đa dạng và mở rộng hơn. Để có sự chẩn đoán chính xác đột quỵ, người bệnh cần được thăm khám và thực hiện các xét nghiệm, chỉ định cận lâm sàng chuyên sâu."
+    },
+    {
+      "question": "Đột quỵ có di truyền không?",
+      "answer": "Đột quỵ không phải là một bệnh lý có tính di truyền trực tiếp. Tuy nhiên, những nguyên nhân dẫn đến đột quỵ như cao huyết áp, tiểu đường, rối loạn mỡ trong máu thường mang yếu tố gia đình. Do đó, những gia đình có người bị đột quỵ thì người thân cũng có nguy cơ mắc bệnh cao hơn."
+    },
+    {
+      "question": "Đột quỵ có cứu được không?",
+      "answer": "Đột quỵ có thể cứu được nếu được phát hiện và can thiệp kịp thời. Theo Tổ chức Y tế thế giới, mỗi năm có khoảng 6,5 triệu người tử vong do đột quỵ, và đây là nguyên nhân gây tử vong cao thứ 2 trên thế giới. Tuy nhiên, không phải trường hợp bị đột quỵ nào cũng dẫn đến tử vong. Nếu người bị đột quỵ được phát hiện và can thiệp kịp thời ngay khi có những dấu hiệu đầu tiên, hoặc được tầm soát, chẩn đoán để có biện pháp phòng tránh từ đầu, thì có thể hạn chế nguy cơ tử vong hoặc gặp các biến chứng nguy hiểm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mặt bị méo, cười khó khăn và tê một bên tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột Quỵ",
+        "Liệt mặt Bell",
+        "Viêm dây thần kinh",
+        "U não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt, mất thăng bằng và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột Quỵ",
+        "Rối loạn tiền đình",
+        "Viêm tai trong",
+        "Hạ đường huyết"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu dữ dội và thị lực giảm sút. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột Quỵ",
+        "Đau nửa đầu (Migraine)",
+        "Tăng nhãn áp",
+        "U não"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nói lắp, khó khăn trong việc diễn đạt lời nói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột Quỵ",
+        "Rối loạn ngôn ngữ",
+        "Động kinh",
+        "Rối loạn tâm lý"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy yếu liệt một bên chân, khó khăn khi di chuyển. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột Quỵ",
+        "Thoát vị đĩa đệm",
+        "Xơ cứng rải rác",
+        "Viêm đa dây thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tê cứng môi lưỡi và cảm giác mất kiểm soát cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột Quỵ",
+        "Thiếu máu não thoáng qua",
+        "Rối loạn lo âu",
+        "Hạ đường huyết"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như hoa mắt, chóng mặt và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột Quỵ",
+        "Rối loạn tiền đình",
+        "Chóng mặt tư thế kịch phát lành tính",
+        "Đau nửa đầu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lú lẫn, khó tập trung và mất phương hướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột Quỵ",
+        "Sa sút trí tuệ",
+        "Nhiễm trùng não",
+        "Rối loạn tâm thần"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu dữ dội kèm theo nôn ói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột Quỵ",
+        "Xuất huyết não",
+        "Đau nửa đầu",
+        "Viêm màng não"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như méo miệng, nói khó và tê bì tay chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột Quỵ",
+        "Liệt mặt Bell",
+        "Thiếu máu não thoáng qua",
+        "U não"
+      ]
     }
   ]
 }

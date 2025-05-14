@@ -1,39 +1,119 @@
 {
   "disease_id": "gan-nhiem-mo-do-3",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Gan nhiễm mỡ độ 3",
+  "disease_alternative_names": [
+    "Bệnh gan nhiễm mỡ cấp độ 3",
+    "Gan nhiễm mỡ cấp 3"
+  ],
+  "disease_definition": "Gan nhiễm mỡ độ 3 là cấp độ cao nhất, được xem là giai đoạn nặng nhất của bệnh. Lượng mỡ tích tụ trong gan lúc này chiếm từ 66% trở lên trọng lượng gan. Ở cấp độ này, lượng mỡ thừa đã xâm nhập gần như toàn bộ gan và có mặt ở phần lớn các tế bào gan, ảnh hưởng nghiêm trọng đến khả năng hoạt động của gan.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Hiếm có triệu chứng rõ ràng",
+      "description": "Người bệnh hiếm khi tự nhận biết được triệu chứng gan nhiễm mỡ độ 3 mà bệnh thường được phát hiện nhờ vào siêu âm."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, thiếu năng lượng thường xuyên."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Không còn cảm giác ngon miệng, không muốn ăn."
+    },
+    {
+      "name": "Đau tức vùng gan",
+      "description": "Cảm giác đau hoặc tức ở vùng hạ sườn phải, nơi vị trí của gan."
+    },
+    {
+      "name": "Vàng da, vàng mắt",
+      "description": "Ở giai đoạn tiến triển nặng, có thể xuất hiện tình trạng vàng da, vàng mắt do gan không thể xử lý bilirubin hiệu quả."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tích tụ lượng mỡ chiếm từ 66% trở lên trọng lượng gan, gây ảnh hưởng nghiêm trọng đến chức năng gan.",
+    "related_factors": "Lạm dụng bia rượu, dùng thuốc không đúng cách, chế độ ăn uống dinh dưỡng thiếu khoa học, béo phì, các bệnh lý như tiểu đường, máu nhiễm mỡ, huyết áp cao, hội chứng đa nang buồng trứng, rối loạn tuyến yên.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Lạm dụng bia rượu và đồ uống có cồn",
+    "Dùng thuốc không đúng cách (thuốc giảm viêm steroid, Tamoxifen)",
+    "Chế độ ăn nhiều chất béo, nhiều cholesterol, nhiều đường, giàu tinh bột",
+    "Thừa cân, béo phì, đặc biệt là béo bụng",
+    "Tiểu đường",
+    "Máu nhiễm mỡ",
+    "Huyết áp cao",
+    "Hội chứng đa nang buồng trứng",
+    "Rối loạn tuyến yên",
+    "Người lớn tuổi",
+    "Hút thuốc lá",
+    "Yếu tố di truyền",
+    "Tiền sử mắc viêm gan C",
+    "Tiếp xúc nhiều với các chất độc hại",
+    "Lười vận động"
+  ],
+  "complications": [
+    "Xơ gan",
+    "Ung thư gan",
+    "Suy gan",
+    "Có thể cần phải ghép gan để duy trì sự sống trong trường hợp nặng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Xét nghiệm máu kiểm tra men gan",
+      "Siêu âm bụng",
+      "Chụp CT (chụp cắt lớp vi tính)",
+      "Quét MRI (chụp cộng hưởng từ)",
+      "Sinh thiết gan (trong một số trường hợp đặc biệt)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra men gan và các chỉ số khác để đánh giá tình trạng sức khỏe của gan."
+      },
+      {
+        "name": "Siêu âm bụng",
+        "description": "Phương pháp chẩn đoán phổ biến để kiểm tra tình trạng gan xem có bị nhiễm mỡ hoặc xơ gan không."
+      },
+      {
+        "name": "Chụp CT scan",
+        "description": "Chụp cắt lớp vi tính cung cấp hình ảnh chi tiết hơn về gan."
+      },
+      {
+        "name": "Quét MRI",
+        "description": "Chụp cộng hưởng từ giúp đánh giá chi tiết tình trạng gan nhiễm mỡ và mức độ tổn thương."
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Chỉ thực hiện trong một số trường hợp đặc biệt để xác định chính xác mức độ tổn thương và viêm của gan."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Ở mức độ này người bệnh cần đến sự thăm khám và chỉ định điều trị y tế từ bác sĩ để có thể kiểm soát triệu chứng và ngăn chặn bệnh phát sinh biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Điều trị các bệnh đi kèm như đái tháo đường type 2, rối loạn mỡ máu, hội chứng chuyển hóa. Trong một số trường hợp đặc biệt có thể sử dụng vitamin E và nhóm thuốc thiazolidinediones để phục hồi tế bào gan."
+      },
+      {
+        "name": "Thay đổi chế độ ăn uống",
+        "description": "Kiêng rượu bia và đồ uống có cồn hoàn toàn, tăng cường chất xơ, bổ sung thực phẩm giàu omega-3, hạn chế thực phẩm nhiều dầu mỡ, cholesterol, tinh bột, và thực phẩm nhiều đường/muối."
+      },
+      {
+        "name": "Rèn luyện thể chất",
+        "description": "Tập thể dục đều đặn mỗi ngày, ít nhất 30 phút, giúp giảm mỡ thừa và tăng cường trao đổi chất."
+      },
+      {
+        "name": "Bỏ thuốc lá",
+        "description": "Không hút thuốc lá để giảm áp lực cho gan và cải thiện sức khỏe tổng thể."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ nghiêm túc phác đồ điều trị từ bác sĩ",
+      "Duy trì chế độ ăn uống lành mạnh và tập luyện đều đặn",
+      "Kiểm tra sức khỏe định kỳ để theo dõi tình trạng gan",
+      "Điều trị các bệnh đi kèm như đái tháo đường, rối loạn mỡ máu"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +121,74 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế hoặc không uống rượu bia và đồ uống có cồn",
+      "Quản lý cân nặng, không nên để thừa cân/béo phì",
+      "Ăn uống lành mạnh (ít chất béo bão hòa, chất béo chuyển hóa và carbohydrate tinh chế)",
+      "Điều trị bệnh tiểu đường nếu mắc bệnh",
+      "Tập thể dục thể thao ít nhất 30 phút mỗi ngày",
+      "Kiểm tra sức khỏe gan định kỳ, đặc biệt nếu có yếu tố nguy cơ",
+      "Không hút thuốc lá",
+      "Tăng cường chất xơ trong chế độ ăn",
+      "Bổ sung thực phẩm giàu omega-3",
+      "Tránh tiếp xúc với các chất độc hại"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Gan nhiễm mỡ độ 3 có nguy hiểm không?",
+      "answer": "Gan nhiễm mỡ phần lớn không gây nguy hiểm ngay lập tức cho người bệnh. Tuy nhiên gan nhiễm mỡ độ 3 có thể tiến triển thành xơ gan. Xơ gan nếu không điều trị sớm sẽ diễn tiến nặng hơn hoặc ung thư gan. Lúc này tính mạng của người bệnh sẽ bị đe dọa, có thể cần phải ghép gan để duy trì sự sống."
+    },
+    {
+      "question": "Gan nhiễm mỡ độ 3 có chữa khỏi được không?",
+      "answer": "Nếu tuân thủ nghiêm túc phác đồ điều trị, ăn uống tập luyện điều độ, hợp lý thì người bệnh nặng như gan nhiễm mỡ cấp độ 3 có thể giảm tiến triển và cải thiện một phần sau nhiều tháng. Tuy không thể chữa khỏi hoàn toàn như giai đoạn nhẹ hơn, nhưng việc kiểm soát tốt có thể ngăn chặn biến chứng nguy hiểm."
+    },
+    {
+      "question": "Làm thế nào để phát hiện gan nhiễm mỡ độ 3?",
+      "answer": "Gan nhiễm mỡ độ 3 hiếm khi có triệu chứng rõ ràng và thường được phát hiện qua siêu âm. Các phương pháp chẩn đoán chính bao gồm xét nghiệm máu kiểm tra men gan, siêu âm bụng, chụp CT scan, quét MRI hoặc sinh thiết gan trong một số trường hợp đặc biệt."
+    },
+    {
+      "question": "Người bệnh gan nhiễm mỡ độ 3 nên ăn gì?",
+      "answer": "Người bệnh nên tăng cường chất xơ từ rau xanh, trái cây, bổ sung thực phẩm giàu omega-3 như cá hồi, hạt chia, hạt lanh, và chọn các loại protein nạc. Nên sử dụng dầu olive hoặc dầu hạt cải thay cho dầu động vật, ưu tiên các món hấp, luộc thay vì chiên xào, và uống đủ nước mỗi ngày."
+    },
+    {
+      "question": "Người bệnh gan nhiễm mỡ độ 3 nên kiêng ăn gì?",
+      "answer": "Người bệnh nên kiêng hoàn toàn rượu bia và đồ uống có cồn, tránh thực phẩm nhiều dầu mỡ, cholesterol như nội tạng động vật, đồ chiên xào, thức ăn nhanh. Hạn chế thực phẩm nhiều đường, muối, tinh bột tinh chế như bánh kẹo, nước ngọt, bột mì trắng, và không sử dụng thuốc lá."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi cảm thấy mệt mỏi, chán ăn và đau tức hạ sườn phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo-do-3", "viem-gan", "xo-gan"]
+    },
+    {
+      "question": "Tôi bị thừa cân, béo phì và hay cảm thấy mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gan-nhiem-mo-do-3",
+        "dai-thao-duong",
+        "tang-huyet-ap"
+      ]
+    },
+    {
+      "question": "Tôi bị tiểu đường, mỡ máu cao và gan to. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gan-nhiem-mo-do-3",
+        "xo-gan",
+        "hoi-chung-chuyen-hoa"
+      ]
+    },
+    {
+      "question": "Tôi bị vàng da, vàng mắt và nước tiểu sẫm màu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gan-nhiem-mo-do-3",
+        "viem-gan",
+        "xo-gan",
+        "ung-thu-gan"
+      ]
+    },
+    {
+      "question": "Tôi hay cảm thấy mệt mỏi, khó thở và da dẻ xanh xao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo-do-3", "thieu-mau", "suy-tim"]
     }
   ]
 }

@@ -1,39 +1,103 @@
 {
   "disease_id": "leo-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Lẹo mắt",
+  "disease_alternative_names": ["Mụt lẹo mắt", "Stye", "Hordeolum"],
+  "disease_definition": "Lẹo mắt là tình trạng sưng bờ mi mắt cấp tính, có thể ở bên ngoài hoặc trong mí mắt. Lẹo mắt do nhiễm vi khuẩn tụ cầu vàng gây ra dẫn đến sưng đỏ, đau nhức. Lẹo mắt trong giống như cục u hoặc mụn mủ ở rìa mí mắt. Tình trạng này thường kéo dài từ 1-2 tuần, có thể tự khỏi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mụn mủ ở gốc lông mi",
+      "description": "Lẹo mắt bắt đầu với mụn mủ nhỏ màu vàng nhạt phát triển ở gốc lông mi có xung huyết xung quanh."
+    },
+    {
+      "name": "Mụn chai cứng và phù nề",
+      "description": "Vùng mụn lẹo trở nên cứng và sưng phù xung quanh."
+    },
+    {
+      "name": "Chảy nước mắt",
+      "description": "Sau 1-2 ngày có thể chảy nước mắt và cảm giác cộm trong mắt."
+    },
+    {
+      "name": "Viêm nhiễm",
+      "description": "Tình trạng viêm có thể nghiêm trọng đôi khi kèm theo sốt hoặc ớn lạnh."
+    },
+    {
+      "name": "Vùng mủ màu vàng",
+      "description": "Kiểm tra kết mạc sẽ thấy một vùng nhỏ màu vàng nhô trên mụt lẹo."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Lẹo mắt thường do vi khuẩn Staphylococcus aureus (vi khuẩn tụ cầu vàng) gây nhiễm trùng nang lông mi.",
+    "related_factors": "Mụn lẹo mắt ở mi ngoài thường do sự tắc nghẽn của tuyến bã nhờn (Zeis) hoặc tuyến mồ hôi (Moll). Mụn lẹo mắt ở mí trong do sự tắc nghẽn của các tuyến meibomian và mụn mủ hình thành trên bề mặt trong của mí mắt.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Đeo kính áp tròng không vệ sinh sạch sẽ",
+    "Vệ sinh kém, thói quen dụi mắt",
+    "Trang điểm mắt cũ hoặc bị bẩn",
+    "Viêm bờ mi, viêm hoặc nhiễm trùng mí mắt",
+    "Bệnh hồng ban",
+    "Viêm da tiết bã",
+    "Bệnh tiểu đường"
+  ],
+  "complications": [
+    "Nhiễm trùng lan rộng",
+    "Viêm mô tế bào quanh hốc mắt",
+    "Ảnh hưởng tới thị lực",
+    "Tổn thương giác mạc nếu nặn mụn"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác lịch sử bệnh",
+      "Kiểm tra bên ngoài mắt",
+      "Đánh giá viền mí mắt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra bên ngoài mắt",
+        "description": "Đánh giá cấu trúc mí mắt, kết cấu da, hình dạng và lông mi."
+      },
+      {
+        "name": "Đánh giá viền mí mắt",
+        "description": "Kiểm tra lông mi, các lỗ tuyến dầu bằng máy kiểm tra mắt chuyên biệt."
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Một số trường hợp có thể cần sinh thiết nếu nghi ngờ ung thư."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Trong nhiều trường hợp mắt lên lẹo sẽ tự tiêu mà không cần điều trị. Nhưng nếu điều trị tại nhà không khỏi, người bệnh cần gặp bác sĩ khoa Mắt để được thăm khám và đưa ra phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chườm ấm",
+        "description": "Chườm ấm bằng vải sạch trên mí mắt từ 5-10 phút. Mỗi ngày làm từ 3-5 lần, thực hiện hằng ngày đến khi lẹo giảm sưng. Chườm ấm có vai trò làm mềm mô tạo điều kiện thông các tuyến dầu."
+      },
+      {
+        "name": "Thuốc mỡ kháng sinh",
+        "description": "Sử dụng kem hoặc thuốc mỡ bôi chống vi khuẩn cho mắt, giúp rút ngắn thời gian và mức độ nghiêm trọng. Một số loại thuốc mỡ kháng sinh như macrolide, thuốc nhỏ mắt erythromycin thường được sử dụng."
+      },
+      {
+        "name": "Thuốc steroid",
+        "description": "Nếu lẹo sưng to và gây áp lực lên giác mạc có thể sử dụng steroid tại chỗ trong thời gian ngắn."
+      },
+      {
+        "name": "Kháng sinh toàn thân",
+        "description": "Dùng thuốc kháng sinh toàn thân được chỉ định khi nhiễm trùng lan rộng và tiến triển thành viêm mô tế bào quanh hốc mắt."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Nếu uống kháng sinh không hiệu quả cần tiểu phẫu rạch và dẫn lưu dịch."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giữ tay sạch, rửa tay sau khi chạm vào nhiều đồ vật và sau khi đi vệ sinh",
+      "Rửa mặt hàng ngày, rửa sạch vùng da mắt",
+      "Không dùng tay chạm vào mắt, khu vực nổi lẹo mắt",
+      "Không nặn mụn và cố gắng nặn mụt lẹo để tránh kích ứng hoặc biến dạng giác mạc",
+      "Không trang điểm đến khi lẹo lành",
+      "Không dụi mắt, không tự ý bôi bất kỳ thứ gì lên mắt"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +105,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ mí mắt và lông mi sạch sẽ, tẩy trang mắt trước khi ngủ",
+      "Rửa tay trước khi chạm vào vùng quanh mắt",
+      "Không dùng chung đồ trang điểm mắt",
+      "Thay đồ trang điểm mắt 3 tháng 1 lần",
+      "Giữ kính áp tròng sạch sẽ, không đeo kính áp tròng nhiều",
+      "Nếu bị viêm bờ mi cần thăm khám và điều trị theo hướng dẫn của bác sĩ",
+      "Không dùng chung khăn mặt hay vật dụng sinh hoạt với người bị lẹo mắt",
+      "Tẩy tế bào chết nhẹ nhàng cho mắt",
+      "Che chắn cho mắt tránh bụi bẩn bằng kính bảo vệ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Lẹo mắt có giống chắp mắt không?",
+      "answer": "Lẹo mắt và chắp mắt là 2 bệnh khác nhau thường khó phân biệt. Chắp mắt hình thành xung quanh tuyến bã nhờn và giữa mí mắt do sự phân hủy của các chất tiết trong tuyến dầu bị rò rỉ hay tắc nghẽn gây sưng nhưng ít đau. Chắp mắt thường phát triển thành nốt u hạt không đau được coi là tình trạng viêm mạn tính, vô khuẩn. Trong khi lẹo mắt hình thành do nhiễm khuẩn ở tuyến dầu hay bờ mi."
+    },
+    {
+      "question": "Lẹo mắt có tự khỏi không?",
+      "answer": "Lẹo mắt có thể tự khỏi nếu biết chăm sóc mắt đúng cách. Giữ cho mắt luôn sạch, bờ mi thông thoáng. Không chạm vào mụt lẹo ở mắt. Nên che chắn cho mắt tránh bụi bẩn bằng kính bảo vệ. Ngoài ra, chườm ấm cũng giúp mụt lẹo tiêu nhanh hơn khi tự điều trị tại nhà."
+    },
+    {
+      "question": "Mụt lẹo mắt có lây không?",
+      "answer": "Mụt lẹo không lây, do vậy không cần e ngại khi tiếp xúc, giao tiếp với người đang bị lẹo mắt."
+    },
+    {
+      "question": "Chế độ dinh dưỡng khi mắt bị lẹo thế nào?",
+      "answer": "Khi mắt bị lẹo, người bệnh nên bổ sung những thực phẩm có chứa vitamin tốt cho mắt và tăng sức đề kháng như: vitamin A (cà rốt, rau ngót, mồng tơi, cải bó xôi, bí đỏ), vitamin C (cam, quýt, dâu, đu đủ), vitamin E (cà chua, hạt bí, hạnh nhân, bơ). Nên ăn thực phẩm giúp làm mát cơ thể, giảm viêm sưng như: lê, dưa hấu, đậu xanh, khổ qua, hạt sen, hạt chia. Tránh ăn thực phẩm có tính nóng như xoài, nhãn, ổi, đồ cay nóng, hành, thịt dê, hải sản, đồ uống có cồn, gas, nhiều đường."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mụn mủ nhỏ màu vàng nhạt ở gốc lông mi và xung huyết xung quanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["leo-mat", "viem-bo-mi", "nhiem-khuan-mat"]
+    },
+    {
+      "question": "Tôi hay bị chảy nước mắt, cộm mắt, và viêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["leo-mat", "viem-ket-mac", "viem-mi-mat"]
+    },
+    {
+      "question": "Tôi cảm thấy cộm mắt, viêm, và có mụn mủ ở gốc lông mi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["leo-mat", "viem-bo-mi", "chap-mat"]
+    },
+    {
+      "question": "Tôi đang gặp phải tình trạng xung huyết xung quanh mụt, sốt, và ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["leo-mat", "viem-mo-bao-mat", "nhiem-khuan-mat"]
+    },
+    {
+      "question": "Tôi cảm thấy mụn mủ ở gốc lông mi, cộm mắt, và phù nề. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["leo-mat", "viem-mi-mat", "nhiem-khuan-mat"]
     }
   ]
 }

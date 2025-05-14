@@ -1,39 +1,106 @@
 {
   "disease_id": "hoi-chung-than-hu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng thận hư",
+  "disease_alternative_names": [
+    "Nephrotic Syndrome",
+    "Hội chứng thận hư nguyên phát",
+    "Hội chứng thận hư thứ phát"
+  ],
+  "disease_definition": "Hội chứng thận hư là tình trạng cơ thể mất protein qua nước tiểu > 3g protein/ngày. Nguyên nhân là do tổn thương cầu thận kèm theo phù và giảm albumin máu. Hội chứng này phổ biến hơn ở trẻ em, ngoài ra có cả nguyên nhân nguyên phát và nguyên nhân thứ phát.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng phù",
+      "description": "Triệu chứng này thường xuất hiện quanh vùng mắt, mắt cá chân và bàn chân, có thể kèm theo tràn dịch màng bụng, màng phổi."
+    },
+    {
+      "name": "Nước tiểu xuất hiện bọt",
+      "description": "Nước tiểu có nhiều bọt do protein rò rỉ qua cầu thận."
+    },
+    {
+      "name": "Tăng trọng lượng cơ thể",
+      "description": "Cân nặng tăng do lượng nước dư thừa không thoát được ra ngoài."
+    },
+    {
+      "name": "Kém ăn, mệt mỏi",
+      "description": "Người bệnh cảm thấy ăn không ngon miệng và thường xuyên mệt mỏi."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây hội chứng thận hư là do màng lọc của cầu thận viêm, tổn thương. Chức năng của màng lọc cầu thận là lọc máu trong cơ thể khi đi qua thận. Màng lọc cầu thận khi viêm sẽ để quá nhiều protein trong máu thấm qua màng lọc, dẫn tới hội chứng thận hư.",
+    "related_factors": "Đa phần trường hợp mắc hội chứng thận hư ở người trẻ không có nguyên nhân (hội chứng thận hư nguyên phát). Các nguyên nhân thứ phát bao gồm bệnh lý toàn thân, thuốc, nhiễm trùng, và ung thư.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Mắc một số bệnh lý ảnh hưởng toàn thân như đái tháo đường, lupus, amyloidosis",
+    "Dùng một số loại thuốc lâu dài như thuốc chống viêm không steroid, thuốc kháng sinh",
+    "Mắc một số bệnh lý nhiễm trùng như HIV, viêm gan B, viêm gan C, sốt rét",
+    "Một số loại ung thư",
+    "Trẻ em có nguy cơ mắc hội chứng thận hư cao hơn người lớn"
+  ],
+  "complications": [
+    "Tăng cao cholesterol máu và triglyceride máu",
+    "Suy dinh dưỡng",
+    "Huyết áp cao",
+    "Suy thận cấp",
+    "Bệnh thận mạn tính",
+    "Nhiễm trùng",
+    "Tăng tình trạng đông máu, huyết khối tĩnh mạch",
+    "Thiếu máu",
+    "Thiếu vitamin D và canxi",
+    "Tắc mạch phổi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán dựa trên các tiêu chuẩn lâm sàng",
+      "Chẩn đoán thể lâm sàng",
+      "Chẩn đoán theo nguyên nhân",
+      "Chẩn đoán qua mô bệnh học"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm protein niệu",
+        "description": "Đo lượng protein trong nước tiểu 24 giờ, chẩn đoán khi protein niệu > 3,5g/24 giờ."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra lượng protein, albumin và cholesterol trong máu. Giảm protein máu dưới 60g/lít, albumin máu dưới 30g/lít, tăng cholesterol máu từ 6,5mmol/lít trở lên."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Tìm hạt mỡ lưỡng chiết, trụ mỡ trong nước tiểu."
+      },
+      {
+        "name": "Sinh thiết thận",
+        "description": "Lấy mẫu mô thận để xác định nguyên nhân và mức độ tổn thương cầu thận, nhất là khi không đáp ứng với điều trị corticoid."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị hội chứng thận hư nhằm kiểm soát triệu chứng, ngăn ngừa biến chứng và điều trị nguyên nhân. Cách tiếp cận điều trị phụ thuộc vào nguyên nhân gây bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị đặc hiệu hội chứng thận hư nguyên phát",
+        "description": "Sử dụng liệu pháp corticoid (prednisolon) trong ít nhất 4 tuần ở giai đoạn tấn công, sau đó giảm dần liều nếu đáp ứng tốt. Duy trì dùng prednisolon kéo dài theo chỉ định của bác sĩ."
+      },
+      {
+        "name": "Điều trị hội chứng thận hư thứ phát",
+        "description": "Điều trị theo nguyên nhân gây ra hội chứng thận hư như bệnh đái tháo đường, lupus, hoặc nhiễm trùng."
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch",
+        "description": "Dùng trong trường hợp hội chứng thận hư hay tái phát, phụ thuộc, kháng thuốc corticoid hay xuất hiện biểu hiện có tác dụng phụ nghiêm trọng khi sử dụng corticoid."
+      },
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Giảm phù (ăn nhạt, thuốc lợi tiểu), giảm protein trong khẩu phần ăn, truyền plasma, albumin, hạ huyết áp, điều trị nhiễm khuẩn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Chế độ ăn ít chất béo, ít muối",
+      "Trao đổi kỹ với bác sĩ về lượng protein cần bổ sung và lượng nước cần nạp mỗi ngày",
+      "Hạn chế nằm nhiều, thay vào đó nên tích cực hoạt động nhằm giúp thải nước và ngăn ngừa tình trạng máu đông",
+      "Sử dụng thuốc theo chỉ định từ bác sĩ, không tự ý bỏ sử dụng thuốc hoặc tự ý mua thuốc để điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +108,57 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giảm natri: Giảm lượng muối trong chế độ ăn để cải thiện trạng tăng huyết áp và phù",
+      "Chọn các thực phẩm giàu protein nạc: trứng, thịt gia cầm, cá, cua, tôm, các loại đậu; giảm thịt đỏ",
+      "Hạn chế lượng nước uống vào khi đang phù",
+      "Hạn chế bổ sung kali và photpho đối với các trường hợp có suy thận do hội chứng thận hư",
+      "Không ăn các loại thức ăn chứa chất béo có hại",
+      "Giảm cholesterol thông qua việc ăn nhiều trái cây tươi và rau quả giàu chất xơ",
+      "Giữ ấm cho cơ thể, đặc biệt là khi mùa đông",
+      "Vệ sinh da sạch sẽ, tránh nhiễm trùng",
+      "Theo dõi cân nặng mỗi ngày",
+      "Theo dõi số lượng và màu sắc nước tiểu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng thận hư có chữa được không?",
+      "answer": "Hội chứng thận hư có thể được điều trị hiệu quả, đặc biệt khi được phát hiện sớm. Đối với hội chứng thận hư nguyên phát, điều trị bằng corticoid thường mang lại hiệu quả tốt. Đối với hội chứng thận hư thứ phát, cần điều trị nguyên nhân gây bệnh. Một số trường hợp có thể khỏi hoàn toàn, trong khi những trường hợp khác có thể cần điều trị dài hạn để kiểm soát triệu chứng."
+    },
+    {
+      "question": "Hội chứng thận hư có biến chứng gì nguy hiểm không?",
+      "answer": "Có, hội chứng thận hư có thể gây nhiều biến chứng nguy hiểm như: tăng cao cholesterol máu và triglyceride máu, suy dinh dưỡng, huyết áp cao, suy thận cấp, bệnh thận mạn tính, nhiễm trùng, tăng tình trạng đông máu dẫn đến hình thành huyết khối tĩnh mạch. Nếu không được điều trị kịp thời, người bệnh có thể cần chạy thận nhân tạo hoặc ghép thận."
+    },
+    {
+      "question": "Người bị hội chứng thận hư nên ăn gì và kiêng gì?",
+      "answer": "Người bệnh nên ăn thực phẩm giàu protein nạc như trứng, thịt gia cầm, cá, cua, tôm, các loại đậu; tăng cường rau quả giàu chất xơ. Nên kiêng ăn mặn, hạn chế thức ăn chứa chất béo có hại như mỡ động vật, dầu hydro hóa; hạn chế thịt đỏ và thức ăn chế biến sẵn. Lượng protein và nước uống cần được điều chỉnh theo từng giai đoạn bệnh và cần tham khảo ý kiến bác sĩ."
+    },
+    {
+      "question": "Khi nào cần đi khám nếu nghi ngờ mắc hội chứng thận hư?",
+      "answer": "Nên đi khám ngay khi xuất hiện các triệu chứng như sưng phù quanh mắt, mắt cá chân và bàn chân; nước tiểu có bọt; tăng cân nhanh chóng không rõ nguyên nhân; mệt mỏi và chán ăn. Chẩn đoán và điều trị sớm sẽ làm chậm tiến triển bệnh, giúp phục hồi sức khỏe nhanh hơn và tránh các biến chứng đáng tiếc."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi bị sưng phù quanh mắt, mắt cá chân và bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hoi-chung-than-hu", "suy-tim", "benh-gan"]
+    },
+    {
+      "question": "Tôi thấy nước tiểu có bọt, sưng phù và tăng cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hoi-chung-than-hu", "benh-than", "dai-thao-duong"]
+    },
+    {
+      "question": "Tôi bị sưng phù, mệt mỏi, kém ăn và nước tiểu có bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hoi-chung-than-hu", "suy-than", "viem-cau-than"]
+    },
+    {
+      "question": "Tôi bị tràn dịch màng bụng, màng phổi và sưng phù. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hoi-chung-than-hu", "xo-gan", "suy-tim"]
+    },
+    {
+      "question": "Tôi bị sưng phù, đi tiểu ít và tăng cân nhanh chóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hoi-chung-than-hu", "suy-than-cap", "benh-than-man"]
     }
   ]
 }

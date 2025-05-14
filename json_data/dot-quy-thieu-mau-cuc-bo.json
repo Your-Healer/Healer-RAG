@@ -1,58 +1,364 @@
 {
   "disease_id": "dot-quy-thieu-mau-cuc-bo",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Đột Quỵ Thiếu Máu Cục Bộ",
+  "disease_alternative_names": [
+    "Đột quỵ nhồi máu não",
+    "Nhồi máu não",
+    "Đột quỵ thiếu máu não",
+    "Ischemic stroke"
+  ],
+  "disease_definition": "Đột quỵ thiếu máu cục bộ là tình trạng xảy ra khi có cục máu đông làm tắc nghẽn mạch máu hoặc mạch máu não bị chít hẹp gây cản trở quá trình lưu thông máu lên não. Tình trạng thiếu máu cục bộ ở não sẽ khiến các tế bào não chết hàng loạt do thiếu oxy và dưỡng chất. Nếu kéo dài sẽ gây hoại tử mô não, sau đó hiện tượng phù não có thể xuất hiện trong khoảng 2 đến 4 ngày tiếp theo.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đột ngột yếu liệt hoặc tê bì",
+      "description": "Yếu liệt hoặc tê bì ở chân, tay hoặc một bên của cơ thể, xuất hiện đột ngột và rõ rệt."
+    },
+    {
+      "name": "Lú lẫn",
+      "description": "Tình trạng đột nhiên bị lú lẫn, khó khăn trong việc tập trung hoặc mất phương hướng."
+    },
+    {
+      "name": "Khó khăn vận động",
+      "description": "Khó khăn trong quá trình vận động và di chuyển, đi lại loạng choạng."
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Mất thăng bằng, mất khả năng phối hợp giữa tứ chi, chóng mặt khi đứng hoặc di chuyển."
+    },
+    {
+      "name": "Rối loạn thị giác",
+      "description": "Đột ngột mất thị lực một phần hoặc toàn bộ, nhìn mờ hoặc nhìn đôi."
+    },
+    {
+      "name": "Buồn nôn và nôn ói",
+      "description": "Cảm giác buồn nôn và nôn ói đột ngột, thường đi kèm với chóng mặt."
+    },
+    {
+      "name": "Tê cứng môi lưỡi",
+      "description": "Môi lưỡi tê cứng khiến việc nói chuyện trở nên khó khăn, phát âm không rõ ràng."
+    },
+    {
+      "name": "Rối loạn ngôn ngữ",
+      "description": "Khó khăn trong việc diễn đạt hoặc hiểu lời nói, nói đớ hoặc lắp bắp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đột quỵ thiếu máu cục bộ xảy ra khi nguồn cung cấp máu đến não bị giảm thiểu hoặc tắc nghẽn, thường do cục máu đông hoặc do mạch máu bị chít hẹp, khiến tế bào não không nhận đủ oxy và dưỡng chất để duy trì sự sống.",
+    "related_factors": "Đột quỵ thiếu máu cục bộ có thể chia thành hai loại chính: đột quỵ huyết khối (do cục máu đông hình thành trong lòng động mạch não) và đột quỵ tắc mạch (do cục máu đông hình thành ở bất kỳ vị trí nào trong cơ thể di chuyển đến não). Các nguyên nhân cụ thể bao gồm xơ vữa động mạch lớn, tắc mạch do tim, nhồi máu ổ khuyết, viêm màng não, tách động mạch, rối loạn tăng độ nhớt trong máu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tăng huyết áp",
+    "Bệnh đái tháo đường",
+    "Béo phì",
+    "Rối loạn mỡ máu",
+    "Bệnh viêm mạch",
+    "Hút thuốc lá",
+    "Lạm dụng rượu bia",
+    "Chế độ ăn uống kém khoa học (nhiều chất béo bão hòa)",
+    "Lối sống ít vận động",
+    "Tác dụng phụ của estrogen ngoại sinh",
+    "Tuổi cao (trên 50 tuổi)",
+    "Bệnh tim mạch (đặc biệt là rung tâm nhĩ)",
+    "Tiền sử đột quỵ hoặc cơn thiếu máu não thoáng qua (TIA)"
+  ],
+  "complications": [
+    "Tổn thương hệ thần kinh: mất khả năng nhận biết cơn đau, mất cảm giác lạnh/nóng, thị lực suy giảm, khó nói, sa sút trí tuệ, mất trí nhớ, không kiểm soát được cảm xúc, trầm cảm",
+    "Tổn thương hệ cơ: giảm khả năng vận động của một số bộ phận trên cơ thể hoặc yếu liệt nửa bên người, yếu liệt toàn thân",
+    "Tổn thương hệ hô hấp: khó hô hấp hoặc ngừng hô hấp",
+    "Tổn thương hệ tuần hoàn: các vấn đề tim mạch do lạm dụng bia rượu, thuốc lá hoặc bệnh tăng huyết áp, đái tháo đường",
+    "Tổn thương hệ tiêu hóa: táo bón, chậm tiêu hóa thức ăn, mất hoặc hạn chế chức năng của ruột",
+    "Tổn thương hệ tiết niệu: tiểu tiện mất kiểm soát, tiểu tiện nhiều lần trong ngày, tiểu tiện trong lúc ngủ",
+    "Tổn thương hệ sinh sản: giảm ham muốn tình dục"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá các triệu chứng",
+      "Đánh giá tình trạng thần kinh",
+      "Kiểm tra tiền sử bệnh và các yếu tố nguy cơ",
+      "Đánh giá các dấu hiệu sinh tồn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp cắt lớp vi tính (CT Scanner)",
+        "description": "Kỹ thuật chụp hình ảnh nhanh chóng giúp xác định vùng não bị tổn thương do thiếu máu cục bộ và loại trừ nguyên nhân khác như xuất huyết não hoặc khối u."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết hơn về tổn thương não, đặc biệt hiệu quả trong việc phát hiện những tổn thương sớm do đột quỵ thiếu máu cục bộ."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp xem xét dấu hiệu nhiễm trùng hoặc tổn thương tim, kiểm tra khả năng đông máu, lượng đường trong máu, chức năng gan và thận."
+      },
+      {
+        "name": "Đo điện tâm đồ (ECG hoặc EKG)",
+        "description": "Để kiểm tra tình trạng sức khỏe của tim và phát hiện những bất thường ở tim nếu có, đặc biệt là rung tâm nhĩ."
+      },
+      {
+        "name": "Đo điện não đồ (EEG)",
+        "description": "Xét nghiệm này giúp bác sĩ có thể loại trừ nguy cơ xảy ra động kinh hoặc các vấn đề liên quan đến hoạt động điện của não."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu của điều trị đột quỵ do thiếu máu cục bộ là phục hồi khả năng lưu thông máu đến vùng não bị ảnh hưởng. Khi tuần hoàn máu não được khôi phục kịp thời sẽ giúp hạn chế tổn thương mô não. Việc điều trị cần được thực hiện trong thời gian 'vàng' (3-6 giờ, có thể mở rộng lên 24 giờ trong một số trường hợp) kể từ khi khởi phát đột quỵ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc tiêu sợi huyết",
+        "description": "Tiêm thuốc tiêu sợi huyết vào đường tĩnh mạch trong khoảng thời gian từ 3 giờ đến 4,5 giờ đầu tiên (có thể mở rộng lên 6 giờ) sau khi đột quỵ khởi phát. Thuốc có tác động làm tái thông mạch máu bị tắc, có thể phá vỡ cục máu đông nhỏ trong khoảng 1 giờ, giúp phục hồi tuần hoàn não."
+      },
+      {
+        "name": "Lấy huyết khối bằng dụng cụ cơ học",
+        "description": "Kỹ thuật loại bỏ cục máu đông lớn ra khỏi mạch máu não bằng cách sử dụng ống thông dưới hướng dẫn của máy chụp mạch máu số hóa xóa nền DSA. Thường được áp dụng trong khung giờ 'vàng' từ 6 đến 24 giờ đầu tiên sau khi xảy ra đột quỵ."
+      },
+      {
+        "name": "Hạ thân nhiệt người bệnh",
+        "description": "Việc kiểm soát thân nhiệt cơ thể người bệnh đạt mức ổn định sẽ giúp bảo vệ mô não trước những tổn thương liên quan đến đột quỵ. Khi nhiệt độ cơ thể tăng cao đột ngột sẽ khiến tế bào não có nguy cơ chết đi."
+      },
+      {
+        "name": "Kiểm soát lượng đường trong máu",
+        "description": "Tế bào não cần glucose để nuôi sống mô não. Quá ít glucose trong máu sẽ làm chậm quá trình phục hồi não, tuy nhiên, quá nhiều glucose trong máu cũng có thể ảnh hưởng xấu đến khả năng tự phục hồi của tế bào não."
+      },
+      {
+        "name": "Sử dụng thuốc làm loãng máu",
+        "description": "Thuốc có tác động giúp máu lưu thông trong động mạch và tĩnh mạch tốt hơn bằng cách giữ cục máu đông không gia tăng kích thước. Việc sử dụng thuốc làm loãng máu theo chỉ định của bác sĩ có thể hỗ trợ điều trị đột quỵ thiếu máu cục bộ do huyết khối hiệu quả."
+      },
+      {
+        "name": "Cung cấp oxy kịp thời",
+        "description": "Đột quỵ do thiếu máu cục bộ sẽ làm giảm lượng oxy có sẵn trong máu một cách đột ngột. Việc cung cấp oxy kịp thời sẽ giúp bổ sung oxy lên não, duy trì sự sống cho tế bào não."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Cần được cấp cứu trong thời gian vàng (3-6 giờ đầu, có thể mở rộng lên 24 giờ)",
+      "Tuân thủ theo phác đồ điều trị của bác sĩ",
+      "Tích cực tham gia các chương trình phục hồi chức năng sau đột quỵ",
+      "Thường xuyên tái khám theo lịch hẹn",
+      "Kiểm soát các yếu tố nguy cơ như tăng huyết áp, đái tháo đường, rối loạn mỡ máu",
+      "Duy trì lối sống lành mạnh: ăn uống khoa học, tập thể dục đều đặn",
+      "Tránh xa thuốc lá, rượu bia",
+      "Duy trì cân nặng hợp lý"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa đột quỵ thiếu máu cục bộ.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Cải thiện lối sống: xây dựng chế độ ăn lành mạnh, thường xuyên tập thể dục thể thao, ngủ đủ giấc (từ 7 đến 8 giờ mỗi ngày)",
+      "Tránh xa các yếu tố rủi ro: thuốc lá, rượu bia, thuốc giảm đau, chất kích thích như ma túy, cần sa",
+      "Kiểm soát những bệnh nền có nguy cơ gây đột quỵ: béo phì, tăng huyết áp, đái tháo đường, cholesterol trong máu cao, trầm cảm",
+      "Thăm khám sức khỏe định kỳ 6 tháng/lần để sớm phát hiện những vấn đề về sức khỏe",
+      "Chủ động tầm soát đột quỵ định kỳ để kiểm soát chặt chẽ các yếu tố nguy cơ và nguyên nhân gây bệnh",
+      "Hạn chế ăn mặn, thực phẩm nhiều chất béo bão hòa",
+      "Tăng cường ăn rau xanh, trái cây, ngũ cốc nguyên hạt",
+      "Duy trì cân nặng lý tưởng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Đột quỵ thiếu máu cục bộ và đột quỵ xuất huyết có gì khác nhau?",
+      "answer": "Đột quỵ thiếu máu cục bộ xảy ra khi một cục máu đông làm tắc nghẽn mạch máu não, gây thiếu máu và oxy cho các tế bào não. Đây là loại đột quỵ phổ biến nhất, chiếm khoảng 85% các trường hợp. Trong khi đó, đột quỵ xuất huyết xảy ra khi mạch máu não bị vỡ, gây chảy máu vào não. Phương pháp điều trị hai loại đột quỵ này khác nhau hoàn toàn: đột quỵ thiếu máu cục bộ có thể được điều trị bằng thuốc tiêu sợi huyết, trong khi thuốc này có thể gây nguy hiểm cho bệnh nhân đột quỵ xuất huyết."
+    },
+    {
+      "question": "Thời gian vàng để điều trị đột quỵ thiếu máu cục bộ là gì?",
+      "answer": "Thời gian vàng để điều trị đột quỵ thiếu máu cục bộ thường là trong 3-6 giờ đầu tiên sau khi khởi phát triệu chứng, và có thể mở rộng đến 24 giờ trong một số trường hợp cụ thể. Trong khoảng thời gian này, việc sử dụng thuốc tiêu sợi huyết hoặc lấy huyết khối bằng dụng cụ cơ học có thể giúp phục hồi lưu lượng máu đến não và giảm thiểu tổn thương não vĩnh viễn. Càng điều trị sớm, khả năng phục hồi càng cao và nguy cơ biến chứng càng thấp."
+    },
+    {
+      "question": "Làm thế nào để nhận biết đột quỵ thiếu máu cục bộ?",
+      "answer": "Để nhận biết đột quỵ thiếu máu cục bộ, bạn có thể sử dụng phương pháp FAST: Face (Mặt) - Yêu cầu người bệnh cười, xem mặt có bị méo một bên không; Arms (Cánh tay) - Yêu cầu người bệnh giơ cả hai tay lên, xem có tay nào bị rũ xuống không; Speech (Lời nói) - Yêu cầu người bệnh nói một câu đơn giản, xem có khó khăn khi nói hoặc nói không rõ ràng không; Time (Thời gian) - Nếu thấy bất kỳ dấu hiệu nào trên, hãy gọi cấp cứu ngay lập tức. Ngoài ra còn có các dấu hiệu khác như đột ngột tê liệt một bên cơ thể, chóng mặt, mất thăng bằng, nhìn mờ hoặc mất thị lực đột ngột."
+    },
+    {
+      "question": "Đột quỵ thiếu máu cục bộ có di chứng gì không?",
+      "answer": "Đột quỵ thiếu máu cục bộ có thể để lại nhiều di chứng tùy thuộc vào vị trí và mức độ tổn thương não. Các di chứng phổ biến bao gồm: yếu liệt hoặc tê bì một bên cơ thể, khó khăn trong việc nói hoặc hiểu ngôn ngữ (aphasia), mất thị lực hoặc thị trường thu hẹp, rối loạn trí nhớ và nhận thức, khó nuốt, mất kiểm soát cảm xúc, trầm cảm, và trong những trường hợp nặng có thể dẫn đến liệt vĩnh viễn hoặc mất khả năng sinh hoạt độc lập. Phục hồi chức năng sớm và liên tục có thể giúp cải thiện đáng kể các di chứng này."
+    },
+    {
+      "question": "Ai là người có nguy cơ cao bị đột quỵ thiếu máu cục bộ?",
+      "answer": "Những người có nguy cơ cao bị đột quỵ thiếu máu cục bộ bao gồm: người mắc bệnh tăng huyết áp, đái tháo đường, rối loạn mỡ máu; người hút thuốc lá, lạm dụng rượu bia; người béo phì, ít vận động; người trên 50 tuổi (mặc dù đột quỵ cũng đang gia tăng ở người trẻ); người có bệnh tim mạch, đặc biệt là rung tâm nhĩ; người có tiền sử đột quỵ hoặc cơn thiếu máu não thoáng qua (TIA); người có tiền sử gia đình bị đột quỵ; và người có lối sống không lành mạnh như ăn nhiều thức ăn giàu chất béo bão hòa, nhiều muối và ít rau quả."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đột ngột yếu liệt hoặc tê bì chân tay một bên cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Đột quỵ xuất huyết não",
+        "Cơn thiếu máu não thoáng qua",
+        "U não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lú lẫn, khó khăn trong việc di chuyển và mất thăng bằng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Nhiễm trùng não",
+        "Chấn thương đầu",
+        "Rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chóng mặt, buồn nôn và nôn ói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Rối loạn tiền đình",
+        "Viêm tai trong",
+        "Tăng huyết áp đột ngột"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đột ngột mất thị lực hoặc nhìn mờ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Bong võng mạc",
+        "Tắc động mạch võng mạc",
+        "Đục thủy tinh thể cấp tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy môi lưỡi tê cứng, khó khăn trong việc nói chuyện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Cơn thiếu máu não thoáng qua",
+        "Đau nửa đầu có tiền triệu",
+        "Viêm dây thần kinh mặt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mất khả năng phối hợp giữa các chi, đi lại loạng choạng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Tiểu não bị tổn thương",
+        "Đa xơ cứng",
+        "Hội chứng Guillain-Barré"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tê bì mặt, yếu liệt tay chân và khó nói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Đột quỵ xuất huyết não",
+        "Cơn thiếu máu não thoáng qua",
+        "U não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mất thăng bằng, chóng mặt và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Viêm tai trong",
+        "Chóng mặt tư thế kịch phát lành tính",
+        "Thiếu máu não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu dữ dội, nôn ói và mất ý thức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Đột quỵ xuất huyết não",
+        "Xuất huyết dưới nhện",
+        "Viêm màng não"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đột ngột yếu liệt một bên cơ thể và khó khăn khi di chuyển. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Đột quỵ xuất huyết não",
+        "Cơn thiếu máu não thoáng qua",
+        "Viêm não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lú lẫn, khó khăn trong việc tập trung và mất phương hướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Sa sút trí tuệ",
+        "Thiếu máu não",
+        "Nhiễm trùng hệ thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mờ mắt, nhìn một thành hai và đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Tăng huyết áp",
+        "Đau nửa đầu",
+        "Viêm dây thần kinh thị giác"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tê bì tay chân, khó khăn khi vận động và mất cảm giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Đa xơ cứng",
+        "Bệnh đa dây thần kinh ngoại biên",
+        "Hội chứng Guillain-Barré"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy choáng váng, mất ý thức tạm thời và không thể kiểm soát cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Ngất",
+        "Động kinh",
+        "Rối loạn nhịp tim"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu dữ dội, buồn nôn và nôn ói liên tục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Đau nửa đầu",
+        "Xuất huyết não",
+        "Tăng áp lực nội sọ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó khăn trong việc nói chuyện, phát âm không rõ ràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Cơn thiếu máu não thoáng qua",
+        "Bệnh Parkinson",
+        "Xơ cứng cột bên teo cơ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mất thị lực đột ngột và không thể nhìn thấy gì. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Tắc động mạch võng mạc",
+        "Bong võng mạc",
+        "Viêm dây thần kinh thị giác"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu, chóng mặt và mất thăng bằng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Rối loạn tiền đình",
+        "Tăng huyết áp",
+        "Đau nửa đầu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó khăn trong việc diễn đạt và hiểu lời nói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Sa sút trí tuệ",
+        "Cơn thiếu máu não thoáng qua",
+        "Viêm não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy yếu liệt nửa người, khó khăn khi di chuyển và mất kiểm soát cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đột quỵ thiếu máu cục bộ",
+        "Đột quỵ xuất huyết não",
+        "Cơn thiếu máu não thoáng qua",
+        "Viêm tủy sống cấp tính"
+      ]
     }
   ]
 }

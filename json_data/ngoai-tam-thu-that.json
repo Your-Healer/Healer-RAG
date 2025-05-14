@@ -1,39 +1,116 @@
 {
   "disease_id": "ngoai-tam-thu-that",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ngoại tâm thu thất",
+  "disease_alternative_names": [
+    "Nhịp tim không đều",
+    "Loạn nhịp thất",
+    "Ventricular Extrasystole"
+  ],
+  "disease_definition": "Ngoại tâm thu thất là hiện tượng nhịp tim đập quá sớm do tâm thất tự động phát nhịp, làm rối loạn nhịp bình thường của tim. Trái tim bị ngoại tâm thu thất sẽ có một nhịp bình thường, một nhịp phụ, một khoảng dừng nhẹ, sau đó là một nhịp mạnh hơn bình thường. Tim phải nạp nhiều máu hơn trong thời gian tạm dừng, tạo thêm lực cho nhịp đập tiếp theo. Quy trình này có thể xảy ra ngẫu nhiên hoặc lặp lại với tần suất xác định.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm giác bất thường ở ngực",
+      "description": "Cảm nhận rõ rệt về sự bất thường trong nhịp đập của tim, thường biểu hiện như một cảm giác khác thường ở vùng ngực."
+    },
+    {
+      "name": "Đánh trống ngực",
+      "description": "Cảm giác tim đập mạnh hơn bình thường, nhất là sau khoảng dừng của nhịp tim."
+    },
+    {
+      "name": "Cảm giác hụt nhịp",
+      "description": "Nhận thấy nhịp tim có lúc dừng lại hoặc bỏ nhịp, tạo cảm giác hụt hẫng."
+    },
+    {
+      "name": "Nghẹn cổ họng",
+      "description": "Cảm giác nghẹn hoặc tắc nghẽn ở vùng cổ họng khi xuất hiện cơn ngoại tâm thu."
+    },
+    {
+      "name": "Thắt nghẹn vùng ngực",
+      "description": "Cảm giác bó chặt hoặc thắt nghẹn ở vùng ngực có thể xuất hiện cùng với các cơn ngoại tâm thu."
+    },
+    {
+      "name": "Nhịp bị bỏ qua",
+      "description": "Cảm nhận rõ ràng về một hoặc nhiều nhịp tim bị bỏ qua trong chuỗi nhịp đập bình thường."
+    },
+    {
+      "name": "Rớt nhịp",
+      "description": "Nhịp tim có lúc như rớt xuống hoặc ngừng lại đột ngột, tạo cảm giác không đều."
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Có thể xuất hiện cảm giác chóng mặt, đặc biệt khi có nhiều cơn ngoại tâm thu liên tiếp."
+    },
+    {
+      "name": "Đau và khó chịu ở ngực",
+      "description": "Người bệnh có thể cảm thấy đau nhức hoặc khó chịu ở vùng ngực khi xuất hiện cơn ngoại tâm thu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ngoại tâm thu thất xảy ra khi tâm thất tự động phát nhịp sớm hơn so với nhịp bình thường, gây ra rối loạn trong chu kỳ tim đập thông thường.",
+    "related_factors": "Trong hầu hết các trường hợp ngoại tâm thu thất không thường xuyên, nguyên nhân cơ bản không thể xác định được. Với những cơn ngoại tâm thu thất lặp lại, nguyên nhân thường do thuốc, chất kích thích, tăng adrenaline, tổn thương cơ tim hoặc rối loạn nội tiết.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sử dụng thuốc thông mũi, thuốc kháng histamine",
+    "Lạm dụng rượu hoặc ma túy",
+    "Sử dụng chất kích thích như caffeine, thuốc lá",
+    "Tập thể dục gắng sức",
+    "Lo lắng, căng thẳng thái quá",
+    "Bệnh tim mạch như tim bẩm sinh, bệnh mạch vành, suy tim, bệnh cơ tim",
+    "Rối loạn nội tiết như cường giáp"
+  ],
+  "complications": [
+    "Có thể là biểu hiện của các bệnh lý tim mạch nghiêm trọng như suy tim, bệnh mạch vành",
+    "Ngoại tâm thu thất quá nhiều, lâu ngày sẽ làm giảm chức năng tim dẫn đến suy tim",
+    "Nguy cơ gây tử vong nếu liên quan đến các bệnh tim mạch nghiêm trọng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác bệnh sử",
+      "Nghe tim",
+      "Theo dõi các triệu chứng và thời điểm xuất hiện"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG hoặc EKG)",
+        "description": "Kiểm tra cận lâm sàng giúp ghi lại hoạt động điện của tim, cho biết tim có đập quá nhanh hoặc quá chậm hay không. Quá trình ghi điện tâm đồ thường chỉ kéo dài vài phút và không gây đau đớn hay khó chịu cho bệnh nhân."
+      },
+      {
+        "name": "Điện tâm đồ 24-48h",
+        "description": "Theo dõi điện tim liên tục tại nhà nhằm tăng khả năng phát hiện ngoại tâm thu thất, nhất là những trường hợp ngoại tâm thu xảy ra không thường xuyên. Bệnh nhân sẽ được đeo một thiết bị theo dõi điện tim liên tục trong vòng 24-48h hoặc dài ngày hơn."
+      },
+      {
+        "name": "Nghiệm pháp gắng sức điện tim",
+        "description": "Bệnh nhân được yêu cầu đi bộ trên thảm lăn song song với đo điện tim liên tục. Nghiệm pháp này thường giúp phát hiện một số loạn nhịp tim liên quan đến gắng sức."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hầu hết bệnh nhân ngoại tâm thu thất thể nhẹ với triệu chứng ít thường không cần điều trị. Tuy nhiên, người bệnh cần được tái khám định kỳ để theo dõi diễn tiến của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi và tái khám định kỳ",
+        "description": "Đối với ngoại tâm thu thất thể nhẹ, bệnh nhân chỉ cần theo dõi và tái khám định kỳ, không cần điều trị đặc biệt."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Đối với những bệnh nhân có ngoại tâm thu thất nhiều, triệu chứng nặng hoặc ngoại tâm thu thất do bệnh tim nặng, bác sĩ có thể sử dụng một số thuốc làm chậm nhịp tim hoặc các thuốc chống loạn nhịp tim."
+      },
+      {
+        "name": "Can thiệp triệt tiêu ổ phát nhịp",
+        "description": "Trong nhiều trường hợp khi người bệnh không đáp ứng với thuốc hoặc không muốn dùng thuốc, bác sĩ có thể thực hiện can thiệp triệt tiêu ổ phát nhịp trong tâm thất thông qua sóng radio cao tần với tỷ lệ thành công khá cao."
+      },
+      {
+        "name": "Thay đổi lối sống",
+        "description": "Bệnh nhân được khuyến cáo nghỉ ngơi giảm stress, tránh xa thuốc lá, rượu bia và các chất kích thích để cải thiện tình trạng bệnh."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Ghi nhật ký về thời điểm xuất hiện triệu chứng bệnh để xác định những tác nhân gây ngoại tâm thu thất",
+      "Hạn chế hoặc tránh sử dụng caffeine, rượu bia, thuốc lá và các chất kích thích",
+      "Kiểm soát căng thẳng, lo lắng để giảm bớt các cơn ngoại tâm thu thất",
+      "Tái khám đều đặn theo chỉ định của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +118,58 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ghi nhật ký theo dõi thời điểm xuất hiện các cơn ngoại tâm thu thất để xác định tác nhân gây bệnh",
+      "Hạn chế sử dụng caffeine, rượu bia, thuốc lá và các chất kích thích",
+      "Học cách kiểm soát căng thẳng, lo lắng",
+      "Tránh tập thể dục gắng sức quá mức",
+      "Kiểm soát các bệnh lý nội tiết như cường giáp",
+      "Kiểm soát tốt các bệnh lý tim mạch nền",
+      "Thăm khám định kỳ với bác sĩ tim mạch"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ngoại tâm thu thất có nguy hiểm không?",
+      "answer": "Ngoại tâm thu thất nếu chỉ tồn tại riêng lẻ thì không phải bệnh lý nguy hiểm tính mạng. Nhưng khi có một bệnh tim mạch khác đi kèm, nó có thể gây ra biến chứng nghiêm trọng nếu không được kiểm soát tốt. Ngoại tâm thu thất quá nhiều, lâu ngày sẽ làm giảm chức năng tim dẫn đến suy tim. Điều quan trọng là cần xác định nguyên nhân khiến các cơn ngoại tâm thu thất xuất hiện, từ đó có biện pháp điều trị và phòng ngừa hiệu quả."
+    },
+    {
+      "question": "Làm thế nào để giảm bớt các cơn ngoại tâm thu thất?",
+      "answer": "Để giảm bớt các cơn ngoại tâm thu thất, bạn nên: (1) Hạn chế hoặc tránh sử dụng caffeine, rượu bia, thuốc lá và các chất kích thích; (2) Học cách kiểm soát căng thẳng, lo lắng thông qua các phương pháp như thiền, yoga, thở sâu; (3) Ghi nhật ký về thời điểm xuất hiện các cơn ngoại tâm thu thất để xác định và tránh các tác nhân gây bệnh; (4) Tránh tập thể dục gắng sức quá mức; (5) Tuân thủ điều trị nếu bạn có các bệnh lý tim mạch hoặc nội tiết kèm theo."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ vì ngoại tâm thu thất?",
+      "answer": "Bạn nên đến gặp bác sĩ tim mạch khi xuất hiện các triệu chứng như cảm giác bất thường ở ngực, đánh trống ngực, cảm giác hụt nhịp, nghẹn cổ họng, thắt nghẹn vùng ngực, nhịp bị bỏ qua, rớt nhịp, chóng mặt, đau và khó chịu ở ngực. Đặc biệt nếu các triệu chứng này xảy ra thường xuyên, kéo dài, hoặc kèm theo khó thở, đau ngực dữ dội, ngất xỉu, thì cần đến cấp cứu ngay lập tức."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay cảm thấy hụt nhịp và đánh trống ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngoai-tam-thu-that", "rung-nhi", "loan-nhip-tim"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nhịp tim bất thường và khó chịu ở ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngoai-tam-thu-that", "rung-nhi", "dau-that-nguc"]
+    },
+    {
+      "question": "Tôi hay bị chóng mặt và nhịp tim bỏ qua. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngoai-tam-thu-that",
+        "roi-loan-nhip-tim",
+        "ha-huyet-ap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy thắt nghẹn vùng ngực và đánh trống ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngoai-tam-thu-that",
+        "loan-nhip-tim",
+        "thieu-mau-co-tim"
+      ]
+    },
+    {
+      "question": "Tôi hay bị rớt nhịp và cảm giác bất thường ở ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngoai-tam-thu-that", "roi-loan-nhip-tim", "lo-au"]
     }
   ]
 }

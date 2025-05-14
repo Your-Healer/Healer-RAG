@@ -1,58 +1,180 @@
 {
   "disease_id": "mun-coc-o-chan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn cóc ở chân",
+  "disease_alternative_names": [
+    "Mụn cóc ở lòng bàn chân",
+    "Mụn cóc bàn chân",
+    "Mụn cóc gót chân"
+  ],
+  "disease_definition": "Mụn cóc ở chân là những sẩn nhỏ, phẳng hoặc sần sùi trên bàn chân, thường xuất hiện ở mu bàn chân và gót chân (những vùng chịu nhiều áp lực khi di chuyển nhất). Mụn cóc ở chân do HPV xâm nhập qua các vết cắt hoặc vết đứt nhỏ ở dưới lòng bàn chân gây ra.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt mụn nhỏ gồ ghề",
+      "description": "Xuất hiện dưới lòng bàn chân, thường ở phần gốc ngón chân, phần đệm ở đế chân, lòng bàn chân hoặc gót chân."
+    },
+    {
+      "name": "Da dày cứng và chai",
+      "description": "Mụn cóc mọc khiến cho da bị dày, cứng và chai, gây khó chịu khi di chuyển."
+    },
+    {
+      "name": "Chấm đen trên bề mặt mụn",
+      "description": "Nhiều mạch máu nhỏ liên kết với nhau tạo thành những chấm đen trên bề mặt mụn cóc."
+    },
+    {
+      "name": "Mọc đơn lẻ hoặc thành cụm",
+      "description": "Mụn cóc có thể mọc thành từng nốt riêng biệt hoặc mọc thành từng cụm."
+    },
+    {
+      "name": "Phá vỡ nếp vân da",
+      "description": "Các nốt mụn phá vỡ các nếp vân da tự nhiên của bàn chân."
+    },
+    {
+      "name": "Màu sắc đặc trưng",
+      "description": "Mụn cóc có thể có màu nâu, đen hoặc nhạt màu hơn vùng da xung quanh."
+    },
+    {
+      "name": "Đau khi di chuyển",
+      "description": "Gây cảm giác đau hoặc nhói buốt khi đứng lên hoặc đi lại, đặc biệt khi mụn nằm ở vị trí chịu nhiều áp lực."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Mụn cóc ở chân do một trong 100 chủng virus u nhú ở người (HPV) gây ra. Virus này xâm nhập qua các vết cắt hoặc vết đứt nhỏ ở dưới lòng bàn chân.",
+    "related_factors": "Tùy vào hệ thống miễn dịch của mỗi người mà mụn có khả năng phát triển hay không, vì vậy không phải ai tiếp xúc với virus HPV cũng sẽ bị mụn cóc.",
+    "transmission_routes": [
+      "Qua vết trầy xước khi da bị tổn thương",
+      "Tiếp xúc trực tiếp với người đã bị nhiễm bệnh",
+      "Tự lây nhiễm từ một vài mụn cóc ban đầu lan rộng ra các vùng da lân cận",
+      "Tiếp xúc gián tiếp với các đồ vật hoặc bề mặt bị ô nhiễm như khu vực xung quanh bể bơi, khăn tắm"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em và thanh thiếu niên khi chưa hình thành khả năng miễn dịch với virus",
+    "Người có hệ thống miễn dịch suy yếu (người nhiễm HIV/AIDS, người ghép tạng)",
+    "Người bị rối loạn chuyển hóa như tiểu đường, mỡ máu cao",
+    "Đi chân trần ở các khu vực công cộng như hồ bơi, phòng thay đồ",
+    "Dùng chung vật dụng cá nhân với người bị nhiễm",
+    "Đi giày không thoáng khí",
+    "Có vết thương hoặc tổn thương ở chân"
+  ],
+  "complications": [
+    "Gây đau đớn và khó khăn khi đi lại",
+    "Lây lan sang các vùng khác trên cơ thể",
+    "Nhiễm trùng da ở chân",
+    "Ảnh hưởng thẩm mỹ",
+    "Tái phát sau điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng qua các dấu hiệu nhận biết bên ngoài",
+      "Cạo lớp trên cùng của mụn cóc để kiểm tra các chấm nhỏ, sẫm màu",
+      "Sinh thiết trong một số trường hợp đặc biệt",
+      "Chẩn đoán phân biệt với các tình trạng như chai chân, lichen phẳng, dày sừng tiết bã"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ kiểm tra trực tiếp mụn cóc thông qua quan sát hình dạng, kích thước và vị trí mụn"
+      },
+      {
+        "name": "Cạo sinh thiết",
+        "description": "Loại bỏ một phần nhỏ của mụn cóc và xét nghiệm để phân tích, nhằm loại trừ các loại khối u khác trên da"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mụn cóc ở chân có thể tự khỏi, nhưng có nhiều trường hợp mụn to dần theo thời gian gây đau đớn, đi lại khó khăn nên cần được phát hiện và điều trị kịp thời.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Axit salicylic",
+        "description": "Axit này sẽ phá hủy từ từ các tế bào sừng giúp bong tróc các tế bào. Phương pháp này hoạt động hiệu quả hơn khi kết hợp với liệu pháp áp lạnh."
+      },
+      {
+        "name": "Liệu pháp áp lạnh",
+        "description": "Làm đông lạnh mụn cóc bằng nitơ lỏng, tạo thành vết phồng rộp. Quá trình hồi phục mất từ một tuần trở lên để mụn cóc bong ra."
+      },
+      {
+        "name": "Đốt điện",
+        "description": "Sử dụng dòng điện cao tần để tiêu diệt mụn cóc có kích thước nhỏ hơn 1cm. Vết thương sau đốt cần được chăm sóc kỹ để tránh nhiễm trùng."
+      },
+      {
+        "name": "Tiểu phẫu",
+        "description": "Sau khi gây tê, loại bỏ mụn cóc bằng dao. Phương pháp này ít được sử dụng do có nguy cơ để lại sẹo ở lòng bàn chân, gây đau lâu dài."
+      },
+      {
+        "name": "Laser",
+        "description": "Sử dụng laser để hóa hơi tổ chức mô và quang đông mạch máu, làm hoại tử và bong mô tổn thương. Phương pháp này có thể cần lặp lại do khả năng tái phát."
+      },
+      {
+        "name": "Vaccine HPV",
+        "description": "Mặc dù mục đích ban đầu không phải để loại bỏ mụn cóc ở bàn chân, nhưng vaccine HPV đã được sử dụng thành công để ngăn ngừa và điều trị mụn cóc."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Không tự nặn, cạo hoặc cắt mụn cóc để tránh lây lan",
+      "Giữ vùng da bị mụn cóc sạch sẽ và khô ráo",
+      "Đảm bảo vệ sinh vùng da bị điều trị theo hướng dẫn của bác sĩ",
+      "Theo dõi vết mụn sau điều trị và tái khám theo lịch",
+      "Tránh đi chân trần tại nơi công cộng để ngăn lây lan hoặc tái nhiễm"
+    ],
+    "prevention_of_transmission": [
+      "Không tiếp xúc trực tiếp với mụn cóc của bản thân hay người khác",
+      "Rửa tay và sát khuẩn kỹ càng sau khi chạm vào mụn cóc",
+      "Không dùng chung các vật dụng cá nhân như dụng cụ cắt móng, dũa móng",
+      "Không dùng chung giày dép, tất vớ với người khác"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Vaccine HPV, mặc dù không phải được phát triển đặc biệt để phòng mụn cóc ở chân, nhưng đã được chứng minh có hiệu quả trong việc ngăn ngừa nhiễm virus HPV, nguyên nhân gây mụn cóc.",
+      "recommended_for": [
+        "Thanh thiếu niên chưa có tiếp xúc với HPV",
+        "Người có hệ miễn dịch suy yếu"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không nên tiếp xúc trực tiếp với mụn cóc dù là của bản thân hay của người khác",
+      "Rửa tay và sát khuẩn kỹ càng sau khi chạm vào mụn cóc",
+      "Giữ cho chân luôn sạch sẽ và khô ráo",
+      "Không sử dụng chung các vật dụng cá nhân như dụng cụ cắt móng, dũa móng",
+      "Không đi chân trần tại những nơi ẩm thấp, có khả năng bị nhiễm virus HPV ở các nơi công cộng",
+      "Không sử dụng chung giày dép với người khác",
+      "Thay vớ thường xuyên và vệ sinh giày dép định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn cóc ở chân có nguy hiểm không?",
+      "answer": "Mụn cóc thường vô hại và không gây nguy hiểm đến tính mạng. Tuy nhiên, mụn cóc có thể lây truyền từ người này sang người khác và lây lan từ vùng này sang vùng khác trên cơ thể, gây đau đớn khi đi lại và ảnh hưởng đến chất lượng cuộc sống. Nguy hiểm lớn nhất là khi mụn cóc xuất hiện ở mặt hoặc bộ phận sinh dục (sùi mào gà), có thể dẫn đến ung thư."
+    },
+    {
+      "question": "Mụn cóc ở chân có lây không?",
+      "answer": "Có, mụn cóc có thể lây lan. Mặc dù không quá dễ lây, nhưng khi tiếp xúc trực tiếp qua da hoặc gián tiếp qua các đồ vật bị ô nhiễm như khu vực xung quanh bể bơi, khăn tắm thì nguy cơ bị nhiễm bệnh là có thể. Khi da bị ướt hoặc tổn thương, khả năng truyền nhiễm cao hơn. Có thể mất từ vài tuần đến vài tháng kể từ khi bị nhiễm virus HPV đến khi mụn cóc xuất hiện."
+    },
+    {
+      "question": "Nên làm gì khi phát hiện mụn cóc ở chân?",
+      "answer": "Khi phát hiện mụn cóc ở chân, nên đến khám tại chuyên khoa Da liễu để được thăm khám và điều trị kịp thời. Đặc biệt cần đi khám ngay nếu mụn cóc gây đau, lan sang các vị trí khác trên cơ thể, hoặc nếu bạn có các bệnh lý khác như tiểu đường hoặc suy giảm miễn dịch. Các bác sĩ sẽ xác định mức độ phát triển của mụn cóc và đưa ra phác đồ điều trị phù hợp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da chân xuất hiện nốt sần sùi, màu nâu hoặc đen, gây đau khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-o-chan", "chai-chan", "u-da"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ngáy ở vùng da chân có nốt sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-o-chan", "viem-da", "nam-da"]
+    },
+    {
+      "question": "Tôi hay đi chân trần và da chân xuất hiện nốt sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-o-chan", "nam-ban-chan", "viem-da"]
+    },
+    {
+      "question": "Tôi thấy da chân mình xuất hiện nốt sần sùi ở lòng bàn chân và gót chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-o-chan", "chai-chan", "nam-ban-chan"]
+    },
+    {
+      "question": "Tôi cảm thấy đau nhói khi dẫm chân xuống đất. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-o-chan", "viem-gan-ban-chan", "chai-chan"]
     }
   ]
 }

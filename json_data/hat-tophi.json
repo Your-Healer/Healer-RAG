@@ -1,39 +1,100 @@
 {
   "disease_id": "hat-tophi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hạt tophi",
+  "disease_alternative_names": ["Nốt tophi", "Tophi"],
+  "disease_definition": "Hạt tophi hay nốt tophi là tập hợp những tinh thể của hợp chất sodium urate monohydrate, kết tủa trong mô liên kết, tăng dần trong nhiều năm, lắng đọng tại các vị trí khớp xương và phần mềm quanh khớp. Chúng trông như các nốt sần nhỏ, căng phồng và phát triển ngay bên dưới da tại vị trí các khớp xương.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt sần dưới da",
+      "description": "Hình dạng tròn hoặc ovan, số lượng có thể từ 1 đến rất nhiều hạt. Kích thước thay đổi, từ rất nhỏ (0.5-1mm) đến rất to (3-10cm). Qua lớp da có thể thấy màu trắng nhạt của tinh thể urat trong nốt tophi."
+    },
+    {
+      "name": "Sưng đau và nóng quanh khớp",
+      "description": "Khu vực xung quanh hạt tophi thường sưng đau, nóng và mềm, đặc biệt trong giai đoạn viêm cấp."
+    },
+    {
+      "name": "Hạn chế vận động khớp",
+      "description": "Khó cử động khớp bị ảnh hưởng trong nhiều ngày, kể cả khi cơn đau đã thuyên giảm. Biên độ chuyển động của khớp bị giảm đáng kể."
+    },
+    {
+      "name": "Đau khớp dữ dội",
+      "description": "Cường độ đau có thể trở nên nghiêm trọng, đặc biệt là trong vài giờ đầu khi đợt cấp bắt đầu."
+    },
+    {
+      "name": "Tiết dịch từ hạt tophi",
+      "description": "Hạt tophi có thể ở tình trạng viêm cấp, chảy ra chất nhão màu trắng như phấn, hoặc rỉ dịch vàng khi vỡ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Lắng đọng tinh thể axit uric trong khớp và mô mềm do tình trạng tăng axit uric máu kéo dài. Khi thận không thể lọc hết hoặc cơ thể sản sinh quá nhiều axit uric, một lượng axit uric sẽ rời khỏi máu và lắng đọng thành tinh thể sắc nhọn ở khớp và mô mềm xung quanh.",
+    "related_factors": "Hạt tophi xuất hiện ở giai đoạn cuối của bệnh gout mạn tính, thường sau khoảng 10 năm từ khi bệnh khởi phát nếu không được điều trị hiệu quả.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính: nam giới dễ mắc bệnh hơn nữ giới",
+    "Tuổi tác: nam giới thường mắc ở độ tuổi 30-45, nữ giới ở độ tuổi 55-70",
+    "Chế độ ăn uống: nhiều thực phẩm chứa purin, đường và đồ uống có cồn",
+    "Bệnh nền: tăng huyết áp, bệnh thận, tim mạch, rối loạn chuyển hóa, béo phì",
+    "Một số loại thuốc: thuốc lợi tiểu, thuốc chẹn beta, aspirin, cyclosporin",
+    "Yếu tố di truyền: tăng 20% nguy cơ mắc bệnh nếu bố mẹ bị viêm khớp do vi tinh thể"
+  ],
+  "complications": [
+    "Nhiễm trùng, lở loét, đặc biệt khi nốt tophi vỡ",
+    "Chèn ép dây thần kinh gây đau và tê yếu",
+    "Phá hủy lớp sụn và gây xói mòn đầu xương",
+    "Tổn thương hoặc biến dạng khớp dẫn đến tàn phế",
+    "Sỏi thận",
+    "Suy giảm chức năng thận"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Chụp CT hoặc MRI",
+      "Phân tích thành phần bên trong nốt tophi"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ có thể dễ dàng nhận ra các nốt tophi và sự biến dạng của khớp bị ảnh hưởng qua quan sát và khám trực tiếp."
+      },
+      {
+        "name": "Chụp CT hoặc MRI",
+        "description": "Giúp đánh giá các hạt tophi có kích thước lớn và mức độ thương tổn của xương, sụn khớp."
+      },
+      {
+        "name": "Phân tích dưới kính hiển vi",
+        "description": "Lấy mẫu thành phần bên trong nốt tophi để phân tích dưới kính hiển vi, giúp chẩn đoán chính xác và chi tiết tình trạng gout mạn tính."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị hạt tophi là một phần trong phác đồ chữa bệnh gout, thường tùy thuộc vào kích thước của nốt sần.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc ức chế tổng hợp axit uric (allopurinol, febuxostat) hoặc pegloticase để giảm lượng axit uric trong máu xuống dưới 5 mg/dL, giúp làm tan các hạt tophi. Có thể kèm theo thuốc kiểm soát đợt cấp như colchicine, NSAIDs, corticosteroid."
+      },
+      {
+        "name": "Thay đổi lối sống",
+        "description": "Uống đủ nước để hỗ trợ đào thải axit uric, tránh thực phẩm chứa nhiều purin hoặc đường, hạn chế đồ uống có cồn, duy trì thể dục cường độ thấp và duy trì cân nặng hợp lý."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Đối với tophi kích thước lớn, gây lở loét, biến dạng khớp hoặc hạn chế vận động, có thể cần phẫu thuật cắt bỏ và dẫn lưu. Một số trường hợp nặng có thể cần phẫu thuật thay khớp."
+      },
+      {
+        "name": "Xử lý hạt tophi vỡ",
+        "description": "Vệ sinh vết thương bằng nước muối sinh lý, sát trùng, băng bó bằng gạc tiệt trùng và đến gặp bác sĩ càng sớm càng tốt để tránh nhiễm trùng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi nồng độ axit uric thường xuyên",
+      "Tuân thủ đúng phác đồ điều trị",
+      "Duy trì lối sống lành mạnh",
+      "Vệ sinh cơ thể sạch sẽ, đặc biệt là khu vực nổi các nốt tophi",
+      "Không tự ý chọc vỡ các nốt sần",
+      "Tránh gây va chạm làm vỡ tophi"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +102,58 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm soát nồng độ axit uric trong máu",
+      "Uống đủ nước để hỗ trợ đào thải axit uric",
+      "Tránh thực phẩm giàu purin và đường",
+      "Hạn chế hoặc tránh hoàn toàn đồ uống có cồn",
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục đều đặn với cường độ phù hợp",
+      "Tuân thủ chế độ điều trị bệnh gout"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hạt tophi là gì?",
+      "answer": "Hạt tophi hay nốt tophi là tập hợp những tinh thể của hợp chất sodium urate monohydrate, kết tủa trong mô liên kết, tăng dần trong nhiều năm, lắng đọng tại các vị trí khớp xương và phần mềm quanh khớp. Chúng trông như các nốt sần nhỏ, căng phồng và phát triển ngay bên dưới da tại vị trí các khớp xương."
+    },
+    {
+      "question": "Hạt tophi có nguy hiểm không?",
+      "answer": "Nếu không được kiểm soát tốt, hạt tophi có thể gây nhiều biến chứng nguy hiểm như nhiễm trùng, lở loét, chèn ép dây thần kinh, phá hủy sụn và xương, gây biến dạng khớp dẫn đến tàn phế, sỏi thận, và suy giảm chức năng thận."
+    },
+    {
+      "question": "Làm thế nào để điều trị hạt tophi?",
+      "answer": "Điều trị hạt tophi bao gồm dùng thuốc giảm axit uric, thay đổi lối sống (uống đủ nước, tránh thực phẩm chứa nhiều purin, hạn chế đồ uống có cồn), và trong một số trường hợp nặng có thể cần phẫu thuật cắt bỏ hạt tophi hoặc thay khớp."
+    },
+    {
+      "question": "Hạt tophi thường xuất hiện ở đâu?",
+      "answer": "Hạt tophi thường xuất hiện ở bàn chân, đầu gối, cổ tay, ngón tay, gân gót chân (gân Achilles) và tai. Ngoài ra, chúng cũng có thể xuất hiện ở gân liên kết khớp và cơ, sụn quanh khớp, màng hoạt dịch, dây chằng hoặc mô mỡ, túi hoạt dịch, và đôi khi ở củng mạc, tháp thận, van tim."
+    },
+    {
+      "question": "Làm thế nào để xử lý khi hạt tophi bị vỡ?",
+      "answer": "Khi hạt tophi vỡ, cần vệ sinh vết thương bằng nước muối sinh lý, sát trùng bằng dung dịch chuyên dụng, băng bó vết thương bằng băng gạc tiệt trùng, và đến gặp bác sĩ càng sớm càng tốt để được thăm khám và điều trị kịp thời, tránh nhiễm trùng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các hạt nhỏ nổi lên dưới da, hình tròn hoặc ovan, đôi khi thấy màu trắng bên trong. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hat-tophi", "gout", "u-co-duoi-da"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức ở các khớp, đặc biệt là khớp ngón chân cái, kèm theo sưng đỏ và nóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hat-tophi", "gout", "viem-khop-dang-thap"]
+    },
+    {
+      "question": "Tôi hay bị sưng khớp, đau nhức và khó chịu, kèm theo xuất hiện các hạt tophi dưới da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hat-tophi", "gout", "viem-khop-man-tinh"]
+    },
+    {
+      "question": "Tôi hiện đang có các hạt tophi bị viêm, da xung quanh nóng, đỏ và đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hat-tophi", "gout", "nhiem-trung-da"]
+    },
+    {
+      "question": "Tôi hay bị đau khớp sau khi ăn nhiều thực phẩm giàu purin như thịt đỏ, hải sản. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hat-tophi", "gout", "tang-acid-uric-mau"]
     }
   ]
 }

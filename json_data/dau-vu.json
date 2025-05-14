@@ -1,58 +1,336 @@
 {
   "disease_id": "dau-vu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Đau Vú",
+  "disease_alternative_names": [
+    "Đau ngực",
+    "Đau tuyến vú",
+    "Breast pain",
+    "Mastalgia"
+  ],
+  "disease_definition": "Đau vú là tình trạng đau tức quanh vú, gây cảm giác khó chịu, lo lắng cho các chị em gặp phải. Theo nghiên cứu đăng tải trên Thư viện Y học Quốc gia Hoa Kỳ, 70% phụ nữ phải trải qua cảm giác đau ở vú vào một thời điểm bất kỳ trong cuộc đời. Cơn đau có thể theo chu kỳ (liên quan đến kinh nguyệt) hoặc không theo chu kỳ, với các mức độ từ nhẹ đến nặng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhói ở vú",
+      "description": "Cảm giác đau nhói, rát hoặc đau nhức ở tuyến vú, có thể ở một hoặc cả hai bên vú."
+    },
+    {
+      "name": "Căng tức ở mô vú",
+      "description": "Cảm giác căng, chặt, nặng nề ở vú, đặc biệt trước kỳ kinh nguyệt."
+    },
+    {
+      "name": "Đau lan tỏa",
+      "description": "Cơn đau có thể lan từ vú đến nách, vai hoặc cánh tay, đặc biệt là với đau vú theo chu kỳ."
+    },
+    {
+      "name": "Xuất hiện cụm vón cục",
+      "description": "Cảm giác có những chỗ vón cục trong vú, thường kết hợp với đau theo chu kỳ."
+    },
+    {
+      "name": "Đau tập trung vào một vị trí",
+      "description": "Trong trường hợp đau vú không theo chu kỳ, cơn đau thường tập trung vào một vị trí cụ thể trong vú."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đau vú có thể bắt nguồn từ nhiều nguyên nhân khác nhau, phổ biến nhất là sự thay đổi hormone trong chu kỳ kinh nguyệt. Khoảng 80-90% trường hợp bị đau ở vú không phải là bệnh lý mà liên quan đến các thay đổi sinh lý bình thường.",
+    "related_factors": "Ngoài sự thay đổi nội tiết tố, đau vú còn có thể liên quan đến chấn thương vùng ngực, mặc áo ngực không phù hợp, viêm và nhiễm trùng vú (đặc biệt khi cho con bú), tác dụng phụ của thuốc, đặt túi ngực, nang vú, và hiếm khi do ung thư vú dạng viêm.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phẫu thuật ngực (đặt túi nâng ngực, thu gọn, tái tạo vú)",
+    "Mất cân bằng axit béo trong tế bào",
+    "Sử dụng quá nhiều caffeine",
+    "Sử dụng liệu pháp hormone (thuốc tránh thai, hormone thay thế)",
+    "Mặc áo ngực quá chật hoặc không đúng kích cỡ",
+    "Thời kỳ cho con bú",
+    "Tuổi sinh sản (đặc biệt 20-30 và khoảng 40 tuổi)",
+    "Thời kỳ tiền mãn kinh và mãn kinh",
+    "Sử dụng một số loại thuốc như Oxymethone, Chlorpromazine, thuốc lợi tiểu"
+  ],
+  "complications": [
+    "Ảnh hưởng đến chất lượng cuộc sống hàng ngày",
+    "Gián đoạn giấc ngủ",
+    "Ảnh hưởng đến hoạt động tình dục",
+    "Ảnh hưởng đến công việc và sinh hoạt",
+    "Lo lắng về khả năng mắc ung thư vú",
+    "Căng thẳng tâm lý và suy giảm tinh thần"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám vú lâm sàng để kiểm tra các thay đổi bất thường",
+      "Đánh giá tiền sử bệnh và mối liên hệ với chu kỳ kinh nguyệt",
+      "Ghi lại thời điểm xuất hiện cơn đau và các triệu chứng kèm theo",
+      "Đánh giá mức độ đau theo thang điểm từ 1-10",
+      "Đánh giá nguy cơ ung thư vú cá nhân"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang tuyến vú (nhũ ảnh)",
+        "description": "Được chỉ định khi bác sĩ phát hiện khối u hoặc dày bất thường trong mô vú, đặc biệt ở phụ nữ trong độ tuổi tầm soát ung thư vú."
+      },
+      {
+        "name": "Siêu âm tuyến vú hai bên",
+        "description": "Sử dụng sóng âm thanh để tạo hình ảnh của vú, thường được thực hiện cùng với chụp X-quang tuyến vú, giúp đánh giá vùng đau ngay cả khi chụp X-quang bình thường."
+      },
+      {
+        "name": "Sinh thiết vú",
+        "description": "Lấy mẫu mô vú từ khu vực nghi ngờ bất thường để phân tích trong phòng xét nghiệm, được chỉ định khi phát hiện khối u hoặc vùng bất thường qua kiểm tra hình ảnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Với phần lớn bệnh nhân đau vú, cơn đau tự khỏi theo thời gian và có thể không cần bất kỳ điều trị nào. Trường hợp cần hỗ trợ kiểm soát cơn đau, phương pháp điều trị sẽ phụ thuộc vào nguyên nhân cụ thể và mức độ đau.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Loại bỏ nguyên nhân",
+        "description": "Giải quyết nguyên nhân gốc rễ gây đau vú, như thay đổi áo ngực sang loại có sự hỗ trợ tốt hơn, điều chỉnh chế độ ăn uống, giảm caffeine."
+      },
+      {
+        "name": "Sử dụng thuốc chống viêm không steroid (NSAID)",
+        "description": "Có thể sử dụng kem NSAID bôi trực tiếp lên vùng đau hoặc uống thuốc giảm đau không kê đơn như acetaminophen (Tylenol, Panadol) hoặc ibuprofen (Advil, Mobic) khi cơn đau dữ dội."
+      },
+      {
+        "name": "Điều chỉnh thuốc tránh thai",
+        "description": "Với sự chỉ dẫn của bác sĩ, có thể bỏ qua tuần không dùng thuốc hoặc chuyển đổi phương pháp ngừa thai để giảm triệu chứng đau vú."
+      },
+      {
+        "name": "Giảm liều liệu pháp hormone",
+        "description": "Đối với phụ nữ sau mãn kinh, có thể cân nhắc giảm liều hormone thay thế hoặc ngừng hoàn toàn để giảm đau vú."
+      },
+      {
+        "name": "Thuốc theo toa",
+        "description": "Danazol là thuốc theo toa duy nhất được FDA chấp thuận điều trị u xơ vú, nhưng có thể gây tác dụng phụ nghiêm trọng. Tamoxifen cũng có thể hữu ích nhưng có tác dụng phụ khó chịu."
+      },
+      {
+        "name": "Bổ sung vitamin và thảo dược",
+        "description": "Một số phụ nữ thấy hiệu quả khi bổ sung tinh dầu hoa anh thảo hoặc vitamin E để cải thiện đau vú theo chu kỳ, nhưng cần tham khảo ý kiến bác sĩ về liều lượng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Mặc áo ngực vừa vặn với gọng thép vào ban ngày và áo ngực mềm, có khả năng nâng đỡ vào ban đêm",
+      "Khi tập thể thao, nên mặc áo ngực chuyên dụng",
+      "Hạn chế hoặc loại bỏ caffeine trong chế độ ăn",
+      "Xây dựng chế độ ăn ít chất béo, giảm muối và tăng carbohydrate phức hợp",
+      "Thử bôi kem chống viêm không steroid tại vùng đau",
+      "Nghỉ ngơi đầy đủ và hạn chế các hoạt động gây áp lực lên vùng ngực",
+      "Ghi chép nhật ký theo dõi mối liên hệ giữa đau vú và chu kỳ kinh nguyệt",
+      "Đi tầm soát bệnh vú định kỳ, đặc biệt khi trên 40 tuổi hoặc có yếu tố nguy cơ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine nào để phòng ngừa đau vú.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh liệu pháp hormone: Giảm liều hoặc ngừng dùng thuốc có chứa estrogen sau khi tham khảo ý kiến bác sĩ",
+      "Tránh các loại thuốc kích ứng vú: Hạn chế sử dụng thuốc giảm đau kéo dài",
+      "Mặc áo ngực vừa vặn: Chọn áo ngực có kích cỡ phù hợp và hỗ trợ tốt",
+      "Thay đổi chế độ ăn: Giảm caffeine, giảm chất béo, giảm muối, tăng carbohydrate phức hợp",
+      "Thăm khám và tầm soát bệnh vú định kỳ: Từ 40 tuổi nên tầm soát 1 năm/lần, dưới 40 tuổi có thể 2-3 năm/lần",
+      "Đối tượng có nguy cơ cao nên thăm khám 6 tháng/lần",
+      "Thực hiện tự kiểm tra vú hàng tháng để phát hiện các thay đổi bất thường sớm",
+      "Duy trì cân nặng hợp lý và tập thể dục đều đặn",
+      "Tránh thức khuya và căng thẳng kéo dài"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Đau vú có phải là dấu hiệu của ung thư vú không?",
+      "answer": "Khoảng 80-90% trường hợp bị đau ở vú không phải là bệnh lý. Ung thư vú hiếm khi gây đau vú, ngoại trừ ung thư vú dạng viêm (chiếm 1-5% các trường hợp ung thư vú). Trong khi đó, những trường hợp không đau, không xuất hiện bất kỳ thay đổi nào trên ngực nhưng đã hình thành u vú, bướu vú nguy hiểm mới cần đáng lo ngại. Tuy nhiên, nếu bạn thấy đau kèm theo các thay đổi như núm vú tụt vào trong, da vú lõm, có bướu hoặc u ở vú, tiết dịch bất thường ở núm vú, bạn nên đi khám ngay."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ vì đau vú?",
+      "answer": "Bạn cần đến gặp bác sĩ khi: vú bị đau ngày trong một vài tuần; cơn đau xảy ra ở một khu vực cụ thể của vú; mức độ đau có xu hướng trở nên nghiêm trọng hơn theo thời gian; ảnh hưởng đến các hoạt động hàng ngày; cảm giác đau vú dữ dội làm gián đoạn giấc ngủ; hoặc khi có các dấu hiệu đáng lo ngại khác như khối u ở vú, tiết dịch từ núm vú, thay đổi hình dạng núm vú hoặc da vú có màu sắc khác thường."
+    },
+    {
+      "question": "Có cách nào giảm đau vú tại nhà không?",
+      "answer": "Có nhiều cách có thể giúp giảm đau vú tại nhà như: mặc áo ngực vừa vặn với sự hỗ trợ tốt; hạn chế hoặc loại bỏ caffeine; dùng thuốc giảm đau không kê đơn như ibuprofen khi cần thiết; áp dụng chườm nóng hoặc lạnh; thực hiện các bài tập nhẹ nhàng; bổ sung vitamin E hoặc tinh dầu hoa anh thảo (sau khi tham khảo ý kiến bác sĩ); giữ chế độ ăn uống cân bằng với ít muối và ít chất béo; và giảm stress thông qua các kỹ thuật thư giãn như yoga hoặc thiền."
+    },
+    {
+      "question": "Đau vú theo chu kỳ khác với đau vú không theo chu kỳ như thế nào?",
+      "answer": "Đau vú theo chu kỳ liên quan đến chu kỳ kinh nguyệt và thay đổi nồng độ hormone; thường gây cơn đau âm ỉ kèm cảm giác nặng nề, sưng/căng vú; ảnh hưởng đến cả hai vú; xuất hiện chủ yếu ở phần vú trên và có thể lan xuống nách; mức độ đau tăng trong hai tuần trước khi bắt đầu chu kỳ kinh nguyệt; và thường gặp ở phụ nữ ở độ tuổi 20-30 và 40. Trong khi đó, đau vú không theo chu kỳ không liên quan đến chu kỳ kinh nguyệt; cơn đau diễn ra liên tục hoặc không liên tục với cảm giác căng hoặc rát; thường chỉ ảnh hưởng một bên vú; cảm giác đau rõ nhất ở bên trong hoặc bên dưới vú; và phổ biến ở phụ nữ sau khi mãn kinh."
+    },
+    {
+      "question": "Caffeine có ảnh hưởng gì đến đau vú không?",
+      "answer": "Mối liên hệ giữa caffeine và đau vú vẫn chưa được chứng minh đầy đủ trong nghiên cứu khoa học, tuy nhiên, một số người nhận thấy tình trạng đau vú được cải thiện khi họ giảm hoặc loại bỏ caffeine. Caffeine có thể làm tăng căng thẳng và kích thích cơ thể, điều này có thể làm trầm trọng thêm đau vú ở một số phụ nữ. Nếu bạn bị đau vú, có thể thử giảm lượng caffeine từ cà phê, trà, chocolate và nước ngọt có ga trong vài tuần để xem liệu có cải thiện hay không."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau âm ỉ ở cả hai vú, cảm giác nặng nề và sưng vú trước kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau vú theo chu kỳ",
+        "Thay đổi hormone",
+        "Hội chứng tiền kinh nguyệt",
+        "Đau vú do bất thường nội tiết"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau vú theo chu kỳ, mức độ đau tăng dần trong hai tuần trước kỳ kinh và giảm dần sau đó. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau vú theo chu kỳ",
+        "Thay đổi nội tiết tố",
+        "Mastalgia theo chu kỳ",
+        "Hội chứng tiền kinh nguyệt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vú, cảm giác đau lan từ phần trên vú xuống nách và xuất hiện vón cục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau vú theo chu kỳ",
+        "U xơ vú",
+        "Nang vú",
+        "Đau vú do thay đổi hormone"
+      ]
+    },
+    {
+      "question": "Tôi ở độ tuổi 20 và thường xuyên bị đau vú theo chu kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau vú theo chu kỳ",
+        "Thay đổi hormone ở tuổi 20",
+        "Hội chứng tiền kinh nguyệt",
+        "Rối loạn nội tiết tố"
+      ]
+    },
+    {
+      "question": "Tôi đang trong độ tuổi 40 và cảm thấy đau vú, sưng vú trước kỳ kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau vú theo chu kỳ",
+        "Thay đổi hormone tiền mãn kinh",
+        "Mastalgia ở phụ nữ tiền mãn kinh",
+        "Rối loạn nội tiết tố"
+      ]
+    },
+    {
+      "question": "Tôi bị đau vú không theo chu kỳ kinh nguyệt, cảm giác đau rát và căng tức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau vú không theo chu kỳ",
+        "Viêm vú",
+        "Áo ngực không phù hợp",
+        "Chấn thương vùng ngực"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau ở một bên vú, cơn đau xuất hiện liên tục hoặc không liên tục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau vú không theo chu kỳ",
+        "Nang vú",
+        "U xơ vú",
+        "Viêm tuyến vú"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bên trong hoặc bên dưới vú, cảm giác đau có thể lan rộng ra toàn bộ vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau vú không theo chu kỳ",
+        "Viêm vú",
+        "Chấn thương thành ngực",
+        "Đau liên sườn"
+      ]
+    },
+    {
+      "question": "Tôi đã mãn kinh và thường xuyên bị đau vú không theo chu kỳ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau vú không theo chu kỳ",
+        "Tác dụng phụ của liệu pháp hormone thay thế",
+        "Viêm vú",
+        "Chấn thương vùng ngực"
+      ]
+    },
+    {
+      "question": "Tôi bị đau vú, kèm theo cảm giác ngứa ran và nóng rát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm vú",
+        "Viêm da vùng vú",
+        "Phản ứng dị ứng với áo ngực",
+        "Viêm tuyến vú"
+      ]
+    },
+    {
+      "question": "Tôi thấy xuất hiện dịch tiết bất thường ở núm vú và cảm thấy đau vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến vú",
+        "Viêm ống dẫn sữa",
+        "Ung thư vú",
+        "U nhú ống dẫn sữa"
+      ]
+    },
+    {
+      "question": "Tôi sờ thấy một khối u nhỏ trong vú và cảm thấy đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U xơ vú", "Nang vú", "U tuyến vú", "Ung thư vú"]
+    },
+    {
+      "question": "Da vùng vú của tôi bị thay đổi màu sắc và cảm thấy đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm vú",
+        "Viêm da vùng vú",
+        "Ung thư vú dạng viêm",
+        "Áp xe vú"
+      ]
+    },
+    {
+      "question": "Núm vú của tôi bị tụt vào trong và cảm thấy đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư vú",
+        "Viêm tuyến vú",
+        "Bệnh Paget của núm vú",
+        "Bất thường ở núm vú"
+      ]
+    },
+    {
+      "question": "Tôi bị đau vú sau khi tập thể dục mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chấn thương vùng ngực",
+        "Áo ngực không phù hợp khi tập luyện",
+        "Căng cơ vùng ngực",
+        "Viêm gân cơ ngực"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau vú sau khi mặc áo ngực quá chật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Áo ngực không phù hợp",
+        "Chèn ép mạch máu và thần kinh vùng ngực",
+        "Viêm da do ma sát",
+        "Đau do áp lực cơ học"
+      ]
+    },
+    {
+      "question": "Tôi đang cho con bú và cảm thấy đau vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm vú khi cho con bú",
+        "Tắc ống dẫn sữa",
+        "Áp xe vú",
+        "Nứt đầu núm vú"
+      ]
+    },
+    {
+      "question": "Tôi đang dùng thuốc tránh thai và cảm thấy đau vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tác dụng phụ của thuốc tránh thai",
+        "Thay đổi nội tiết tố",
+        "Căng vú do nội tiết",
+        "Phản ứng với estrogen"
+      ]
+    },
+    {
+      "question": "Tôi đang điều trị hormone và cảm thấy đau vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tác dụng phụ của liệu pháp hormone",
+        "Thay đổi nội tiết tố",
+        "Căng vú do nội tiết",
+        "U xơ vú"
+      ]
+    },
+    {
+      "question": "Tôi bị stress và cảm thấy đau vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau vú do tâm lý",
+        "Hội chứng căng thẳng",
+        "Rối loạn nội tiết do stress",
+        "Suy nhược thần kinh"
+      ]
     }
   ]
 }

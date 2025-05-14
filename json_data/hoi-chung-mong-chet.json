@@ -1,39 +1,117 @@
 {
   "disease_id": "hoi-chung-mong-chet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng mông chết",
+  "disease_alternative_names": [
+    "Dead Butt Syndrome (DBS)",
+    "Hội chứng mông mất trí nhớ",
+    "Bệnh lý gân cơ mông"
+  ],
+  "disease_definition": "Hội chứng mông chết (DBS) là tình trạng mông quên mất việc mình phải làm (hỗ trợ xương chậu và giữ cho cơ thể đứng thẳng), còn các cơ mông rơi vào trạng thái tê liệt, không thể phản ứng hay hoạt động như bình thường. Thuật ngữ lâm sàng cho tình trạng này là bệnh lý gân cơ mông, cũng thường được gọi là chứng hay quên cơ mông.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm giác tê hoặc đau nhẹ ở mông",
+      "description": "Cảm giác tê tê hoặc hơi đau ở mông nhưng khi đứng dậy di chuyển hay thực hiện một số động tác kéo giãn nhẹ có thể khiến các cơ nhanh chóng hoạt động trở lại."
+    },
+    {
+      "name": "Đau và cứng ở hông, lưng dưới và đầu gối",
+      "description": "Cảm giác đau và cứng ở một hoặc cả hai hông, vùng lưng dưới và đầu gối."
+    },
+    {
+      "name": "Đau lan xuống chân",
+      "description": "Cảm giác đau lan xuống chân, giống như đau thần kinh tọa. Cơ mông và cơ gập hông cũng có thể bị ảnh hưởng."
+    },
+    {
+      "name": "Đau khi nằm nghiêng",
+      "description": "Nếu một bên hông bị ảnh hưởng nặng nề, cảm giác đau có thể xuất hiện khi bạn nằm nghiêng về bên đó."
+    },
+    {
+      "name": "Viêm bao hoạt dịch hông",
+      "description": "Hội chứng mông chết có thể dẫn đến viêm bao hoạt dịch hông gây đau và sưng tấy xung quanh vùng bị ảnh hưởng."
+    },
+    {
+      "name": "Đau ở cẳng chân, hông và lưng",
+      "description": "Đau ở cẳng chân, hông và lưng là triệu chứng thường gặp."
+    },
+    {
+      "name": "Thay đổi dáng đi",
+      "description": "Bạn thay đổi sải chân bình thường khi đi bộ hoặc chạy để giảm đau nhưng lại gây căng thẳng cho đầu gối, mắt cá chân và bàn chân."
+    },
+    {
+      "name": "Yếu cơ mông ngoài",
+      "description": "Khi nâng một chân lên phía trước, nếp mông bên chân co thấp hơn nếp mông chân còn lại, chứng tỏ cơ mông ngoài ở bên chân co bị yếu."
+    },
+    {
+      "name": "Cong quá mức ở lưng",
+      "description": "Cột sống vùng thắt lưng cong quá mức có thể là dấu hiệu cho thấy cơ hông thắt chặt, co kéo cột sống."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân hàng đầu của Hội chứng mông chết là do thời gian ngồi quá lâu khiến cho cơ gấp quanh hông bị siết chặt và ngắn lại, vì thế cơ mông phải dài ra để bù lại.",
+    "related_factors": "Cơ gấp mông là nhóm cơ xuất phát từ lưng dưới, đến xương chậu và mặt trước của đùi, chịu trách nhiệm di chuyển chân khi đi bộ, chạy và leo cầu thang. Nếu cơ gấp hông không được kéo căng, đi bộ nhanh cũng có thể là nguyên nhân gây hội chứng mông chết. Cơ mông vốn có cấu tạo mảnh và nhỏ, các gân hỗ trợ cũng dễ bị tổn thương nên chấn thương dễ dàng xảy ra.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Ngồi quá lâu",
+    "Chạy nhiều",
+    "Tập các động tác cho vùng đùi trước và sau với cường độ cao (như squat)",
+    "Chạy bộ hay tập luyện quá sức trong thời gian dài",
+    "Tập luyện ở cùng một vị trí",
+    "Là vận động viên hoặc vũ công ba lê"
+  ],
+  "complications": [
+    "Béo phì",
+    "Các bệnh liên quan đến tim mạch",
+    "Tiểu đường",
+    "Ung thư"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Chẩn đoán hình ảnh"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ sẽ xem xét các triệu chứng, tìm hiểu về lối sống, tiền sử bệnh lý và kiểm tra các khu vực bị đau và cứng."
+      },
+      {
+        "name": "Đánh giá chức năng vận động",
+        "description": "Người bệnh có thể được yêu cầu đi lại, duỗi chân hoặc thực hiện một số cử động để đánh giá."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Được chỉ định để loại trừ các vấn đề tiềm ẩn khác."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Giúp phát hiện ra những tổn thương nhỏ nhất như viêm sưng của cơ mông nhỡ nơi bám vào đầu trên xương đùi."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Để điều trị hiệu quả hội chứng mông chết, bác sĩ sẽ căn cứ vào mức độ tiến triển của hội chứng và mục tiêu hoạt động thể chất của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi và chườm lạnh",
+        "description": "Tạm ngưng tập thể dục, thể thao, nghỉ ngơi, chườm lạnh, nén chỗ đau bằng cách quấn đầu gối hoặc lưng bị đau, giữ chân cao bằng các sản phẩm hỗ trợ."
+      },
+      {
+        "name": "Vận động và kéo giãn",
+        "description": "Vận động thường xuyên và kéo giãn cơ trước và sau khi tập thể dục, đặc biệt chú ý đến việc kéo căng cơ hông."
+      },
+      {
+        "name": "Vật lý trị liệu và xoa bóp",
+        "description": "Với trường hợp chấn thương nặng, vật lý trị liệu và liệu pháp xoa bóp có thể cần thiết."
+      },
+      {
+        "name": "Chế độ làm việc xen kẽ",
+        "description": "Cứ sau khoảng 1 tiếng ngồi làm việc, dành 10 phút nghỉ giải lao, đứng lên, vươn vai và đi lại để kích hoạt và giữ cho cơ mông không bị chìm vào giấc ngủ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đứng dậy, đi lại định kỳ sau mỗi giờ ngồi làm việc",
+      "Kéo giãn cơ trước và sau khi tập thể dục",
+      "Tập các bài tập tác động đến cả 3 loại cơ mông",
+      "Vận động cơ thể thường xuyên để kích thích máu lưu thông",
+      "Theo dõi chấn thương nếu tập luyện cường độ cao"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +119,72 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thay đổi thói quen ngồi quá lâu",
+      "Vận động thường xuyên như đi lên xuống cầu thang, đi bộ nhẹ nhàng",
+      "Đặt hẹn giờ báo thức sau khoảng 1 giờ làm việc để đứng dậy và vận động",
+      "Thực hiện các bài tập cho cơ mông thường xuyên",
+      "Tập các bài tập như ngồi xổm tư thế nhảy rộng, tập chân cùng dây đeo, side lunge, squats, nâng chân"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng mông chết là gì?",
+      "answer": "Hội chứng mông chết (DBS) là tình trạng mông quên mất việc mình phải làm (hỗ trợ xương chậu và giữ cho cơ thể đứng thẳng), còn các cơ mông rơi vào trạng thái tê liệt, không thể phản ứng hay hoạt động như bình thường. Thuật ngữ lâm sàng cho tình trạng này là bệnh lý gân cơ mông, cũng thường được gọi là chứng hay quên cơ mông."
+    },
+    {
+      "question": "Hội chứng mông chết có nguy hiểm không?",
+      "answer": "Hội chứng mông mất trí nhớ sẽ trở nên nguy hiểm nếu tình trạng bệnh kéo dài và \"kích hoạt\" các bệnh khác phát triển. Các biến chứng nguy hại xảy ra khi bạn ngồi nhiều, cơ thể ít vận động sẽ là nguy cơ đối diện với các bệnh như béo phì, các bệnh liên quan đến tim mạch, tiểu đường, thậm chí ung thư."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa hội chứng mông chết?",
+      "answer": "Thay đổi thói quen ngồi quá lâu chính là cách phòng ngừa đơn giản nhất, kết hợp cùng việc vận động thường xuyên như đi lên xuống cầu thang, đi bộ nhẹ nhàng. Hãy đặt hẹn giờ trên điện thoại hoặc máy tính để báo cho bạn sau khoảng 1 giờ làm việc. Vận động cơ thể sẽ kích thích máu lưu thông và hồi sinh \"trí nhớ\" cho mông. Ngoài ra, thực hiện các bài tập như ngồi xổm tư thế nhảy rộng, tập chân cùng dây đeo, side lunge, squats, nâng chân cũng là cách ngăn ngừa hội chứng mông chết."
+    },
+    {
+      "question": "Ai có nguy cơ mắc hội chứng mông chết?",
+      "answer": "Những người ngồi làm việc nhiều giờ mỗi ngày có nguy cơ cao mắc hội chứng mông chết. Ngoài ra, những người chạy nhiều, tập các động tác cho vùng đùi trước và sau với cường độ cao (như squat), người chạy bộ hay tập luyện quá sức trong thời gian dài, vận động viên và vũ công ba lê cũng có nguy cơ mắc bệnh cao hơn so với những người khác."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như cảm giác tê tê hoặc hơi đau ở mông khi ngồi lâu, nhưng khi đứng dậy di chuyển thì cảm giác này biến mất. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-mong-chet",
+        "dau-than-kinh-toa",
+        "chuoi-cot-song-that-lung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau và cứng ở hông, vùng lưng dưới và đầu gối. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-mong-chet",
+        "thoai-hoa-khop-goi",
+        "viem-cot-song-dinh-khop"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lan xuống chân, giống như đau thần kinh tọa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-mong-chet",
+        "dau-than-kinh-toa",
+        "thoat-vi-dia-dem"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tê ở mông khi ngồi lâu và kèm theo đau lưng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-mong-chet",
+        "dau-than-kinh-toa",
+        "thoai-hoa-cot-song"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng cơ mông yếu và khó khăn khi đứng lên ngồi xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-mong-chet",
+        "thoai-hoa-khop-hang",
+        "yeu-co"
+      ]
     }
   ]
 }

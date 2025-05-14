@@ -1,39 +1,114 @@
 {
   "disease_id": "hep-van-dong-mach-phoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hẹp van động mạch phổi",
+  "disease_alternative_names": [
+    "Pulmonary Valve Stenosis",
+    "Hẹp van phổi",
+    "Hẹp động mạch phổi"
+  ],
+  "disease_definition": "Hẹp van động mạch phổi là tình trạng van động mạch phổi không mở đúng cách hoặc đủ rộng, khiến dòng máu lưu thông bị chậm lại. Đa số các trường hợp bị hẹp động mạch phổi là do bẩm sinh. Van phổi nằm giữa tâm thất phải và động mạch phổi, hoạt động như một cánh cửa, cho phép máu chảy vào và đi ra khỏi tim.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, đặc biệt khi gắng sức do lưu lượng máu từ tim đến phổi bị cản trở."
+    },
+    {
+      "name": "Tiếng rít ở tim",
+      "description": "Âm thanh bất thường như tiếng rít hay tiếng lách cách ở tim, nghe được khi dùng ống nghe."
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau tức vùng ngực, thường xuất hiện khi gắng sức."
+    },
+    {
+      "name": "Ngất xỉu",
+      "description": "Mất ý thức tạm thời do não không nhận đủ oxy từ máu."
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Nhịp tim tăng nhanh do tim phải làm việc nhiều hơn để bơm máu qua van bị hẹp."
+    },
+    {
+      "name": "Da xanh xao",
+      "description": "Da có màu nhợt nhạt do thiếu oxy trong máu."
+    },
+    {
+      "name": "Mệt mỏi không rõ nguyên nhân",
+      "description": "Cảm giác mệt mỏi, kiệt sức mà không có lý do rõ ràng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Bệnh thường xảy ra khi van động mạch phổi không phát triển đúng cách trong quá trình phát triển của thai nhi. Đa số các trường hợp là do bẩm sinh.",
+    "related_factors": "Người lớn cũng có thể gặp tình trạng này bởi biến chứng của các bệnh lý khác như hội chứng Carcinoid, thấp khớp, hoặc hội chứng Noonan.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Dị tật tim bẩm sinh",
+    "Tiền sử mắc thấp khớp",
+    "Hội chứng Carcinoid",
+    "Hội chứng Noonan",
+    "Yếu tố di truyền"
+  ],
+  "complications": [
+    "Nhiễm trùng màng trong tim (viêm nội tâm mạc nhiễm trùng)",
+    "Phì đại tâm thất phải do tim phải bơm mạnh hơn để đẩy máu",
+    "Suy tim với các biểu hiện như sưng chân và bụng, mệt mỏi, khó thở",
+    "Loạn nhịp tim",
+    "Có thể gây đột tử trong trường hợp nặng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng (nghe tim phát hiện tiếng thổi bất thường)",
+      "Chụp X-quang ngực",
+      "Điện tâm đồ (ECG)",
+      "Siêu âm tim",
+      "Chụp cộng hưởng từ (MRI)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ dùng ống nghe để phát hiện tiếng thổi ở tim giống như tiếng lách cách, rít từng hồi, có thể là dấu hiệu ban đầu của bệnh."
+      },
+      {
+        "name": "X-quang ngực",
+        "description": "Giúp quan sát cấu trúc tim và các bất thường về kích thước, hình dạng."
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Ghi lại hoạt động điện của tim để phát hiện các bất thường trong nhịp tim."
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Tạo hình ảnh chi tiết của tim, bao gồm cả van động mạch phổi để đánh giá mức độ hẹp."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết về cấu trúc tim và máu lưu thông qua van động mạch phổi."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Bệnh ở giai đoạn nhẹ, không có triệu chứng cụ thể thường chưa cần can thiệp y tế. Nhưng nếu xuất hiện những cơn đau ngực, khó thở hoặc ngất xỉu, cho thấy tình trạng hẹp van động mạch phổi đang tiến triển và cần được điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Bác sĩ có thể kê đơn thuốc giúp máu lưu thông dễ dàng hơn, làm loãng máu để giảm đông máu, giảm lượng chất lỏng dư thừa trong máu, hoặc phòng ngừa tình trạng nhịp tim không đều."
+      },
+      {
+        "name": "Phẫu thuật tạo hình van",
+        "description": "Bác sĩ tiến hành kéo căng thành van động mạch phổi để cải thiện lưu lượng máu."
+      },
+      {
+        "name": "Thay van động mạch phổi",
+        "description": "Trong trường hợp nặng, bệnh nhân có thể phải thay van động mạch phổi bằng van cơ học hoặc van sinh học."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi thường xuyên với bác sĩ tim mạch",
+      "Uống thuốc đúng liều lượng theo chỉ định",
+      "Tránh các hoạt động thể chất nặng nếu có triệu chứng nghiêm trọng",
+      "Báo cho bác sĩ biết nếu triệu chứng trở nên tồi tệ hơn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +116,68 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không để tình trạng sốt thấp khớp xảy ra bằng cách điều trị viêm họng triệt để",
+      "Giải quyết các yếu tố nguy cơ như huyết áp cao, béo phì và mức cholesterol cao",
+      "Chăm sóc răng và nướu để tránh nhiễm trùng",
+      "Thay đổi lối sống: tránh thuốc lá, tập thể dục thường xuyên, ăn nhiều trái cây, ngũ cốc và rau xanh",
+      "Kiểm tra sức khỏe tim mạch mỗi 6 tháng/lần nếu có người thân bị các bệnh lý về tim"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hẹp van động mạch phổi có thể chữa khỏi không?",
+      "answer": "Người bị hẹp van động mạch phổi có thể sống khỏe mạnh nếu kiểm soát bệnh tốt và kiểm tra sức khỏe định kỳ. Bệnh ở giai đoạn nhẹ thường không cần can thiệp y tế và có thể chữa khỏi bằng thuốc. Trường hợp vừa và nặng cần được cân nhắc phẫu thuật, nhưng tỷ lệ thành công khi điều trị các ca bệnh này thường rất cao."
+    },
+    {
+      "question": "Hẹp van động mạch phổi có phổ biến không?",
+      "answer": "Trong các loại bệnh lý tim bẩm sinh, hẹp van động mạch phổi chiếm tỷ lệ từ 8–12%. Bệnh thường được phát hiện từ khi còn nhỏ, nhưng cũng có thể không có biểu hiện gì cho đến khi trưởng thành."
+    },
+    {
+      "question": "Trẻ em bị hẹp van động mạch phổi có nguy hiểm không?",
+      "answer": "Đa số trẻ mắc bệnh này có tình trạng nhẹ và không có triệu chứng. Tuy nhiên, nếu không được phát hiện và điều trị kịp thời, các trường hợp nặng có thể dẫn đến những biến chứng nguy hiểm như nhiễm trùng nội tâm mạc, suy tim, loạn nhịp tim, và trong trường hợp nghiêm trọng có thể gây đột tử."
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm bệnh hẹp van động mạch phổi?",
+      "answer": "Bệnh có thể được phát hiện qua việc nghe tim và phát hiện tiếng thổi bất thường. Nếu nghi ngờ, bác sĩ sẽ chỉ định thêm các xét nghiệm như X-quang ngực, điện tâm đồ, siêu âm tim, hoặc chụp cộng hưởng từ để xác định chẩn đoán. Đặc biệt, nếu có tiền sử gia đình mắc bệnh tim, cần kiểm tra sức khỏe tim mạch định kỳ mỗi 6 tháng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó thở và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-van-dong-mach-phoi",
+        "hen-suyen",
+        "dau-that-nguc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi không rõ nguyên nhân và da xanh xao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hep-van-dong-mach-phoi", "thieu-mau", "suy-tim"]
+    },
+    {
+      "question": "Tôi hay bị ngất xỉu và tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-van-dong-mach-phoi",
+        "roi-loan-nhip-tim",
+        "ha-duong-huyet"
+      ]
+    },
+    {
+      "question": "Tôi đang có tiếng rít ở tim và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-van-dong-mach-phoi",
+        "hep-van-tim",
+        "benh-van-tim"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy da xanh xao và tiếng rít ở tim. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-van-dong-mach-phoi",
+        "thieu-mau",
+        "benh-van-tim"
+      ]
     }
   ]
 }

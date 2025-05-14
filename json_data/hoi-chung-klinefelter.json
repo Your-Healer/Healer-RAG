@@ -1,39 +1,130 @@
 {
   "disease_id": "hoi-chung-klinefelter",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng Klinefelter",
+  "disease_alternative_names": [
+    "Klinefelter Syndrome",
+    "Hội chứng XXY",
+    "Hội chứng 47,XXY"
+  ],
+  "disease_definition": "Hội chứng Klinefelter là tình trạng bất thường nhiễm sắc thể (NST) gây nên thiểu năng sinh dục và vô sinh ở nam giới. Với nam giới bình thường, bộ NST sẽ có 46 NST với cặp NST giới tính là XY. Với nam giới có hội chứng Klinefelter có 2 hoặc nhiều hơn nhiễm sắc thể X trong bộ NST (XXY). Kiểu hình lâm sàng của những bệnh nhân có hội chứng Klinefelter là tầm vóc cao, quan sát tinh hoàn nhỏ và nữ hóa tuyến vú, không tìm thấy tinh trùng trong tinh dịch.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Dáng người cao, tay chân dài",
+      "description": "Dấu hiệu điển hình là dáng người cao, tay chân dài so với người cùng độ tuổi."
+    },
+    {
+      "name": "Tinh hoàn nhỏ và cứng",
+      "description": "Tinh hoàn không phát triển, teo nhỏ và cứng do sự hyaline và xơ hóa."
+    },
+    {
+      "name": "Tuyến vú to",
+      "description": "Mô vú phì đại, dáng người giống nữ, đây là một trong những dấu hiệu rõ rệt của hội chứng Klinefelter ở nam giới."
+    },
+    {
+      "name": "Vô sinh",
+      "description": "Thường không có tinh trùng hoặc rất ít tinh trùng trong tinh dịch, dẫn đến vô sinh."
+    },
+    {
+      "name": "Lông tóc ít",
+      "description": "Sự phát triển lông tóc kém, đặc biệt là lông trên mặt và cơ thể."
+    },
+    {
+      "name": "Giảm ham muốn tình dục",
+      "description": "Do mức testosterone thấp dẫn đến giảm ham muốn tình dục."
+    },
+    {
+      "name": "Chậm phát triển vận động và trí tuệ ở trẻ em",
+      "description": "Trẻ em có dấu hiệu yếu cơ, chậm phát triển về vận động và trí tuệ như chậm biết bò, đi, nói so với trẻ cùng độ tuổi."
+    },
+    {
+      "name": "Tinh hoàn không xuống bìu",
+      "description": "Ở một số trẻ, tinh hoàn không xuống bìu hoặc xuống không hoàn toàn."
+    },
+    {
+      "name": "Mào tinh hoàn lớn hơn tinh hoàn",
+      "description": "Mào tinh hoàn thường có kích thước lớn hơn tinh hoàn, đây là dấu hiệu bất thường."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hội chứng Klinefelter xảy ra do bất thường nhiễm sắc thể. Nam giới mắc hội chứng này có bộ nhiễm sắc thể 47,XXY thay vì 46,XY như bình thường.",
+    "related_factors": "Việc xuất hiện thêm nhiễm sắc thể X là do ngẫu nhiên và do sự không phân tách trong quá trình giảm phân hoặc không phân tách sau hợp tử. Dạng nhiễm sắc thể đồ hay gặp nhất là 47, XXY (chiếm đến 90%). Các dạng khác bao gồm nhiễm sắc thể dạng khảm như 46, XY/47, XXY, và các lệch bội khác như 48, XXXY, và 49, XXXXY.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi mẹ cao làm tăng bất thường ở giảm phân I",
+    "Nguồn gốc NST bất thường từ bố chiếm khoảng 53%",
+    "Do rối loạn giảm phân I ở mẹ (34%)",
+    "Do rối loạn giảm phân II ở mẹ (9%)",
+    "Do rối loạn phân cắt hợp tử (3%)"
+  ],
+  "complications": [
+    "Trương lực cơ thấp (nhược cơ)",
+    "Chậm phát triển kỹ năng vận động",
+    "Trở ngại trong học tập, chậm phát triển ngôn ngữ",
+    "Lo lắng, trầm cảm, suy giảm kỹ năng xã hội",
+    "Rối loạn tăng động giảm chú ý (ADHD)",
+    "Chứng rối loạn phổ tự kỷ (khoảng 10%)",
+    "Hội chứng chuyển hóa (gần 50%)",
+    "Bệnh đái tháo đường type 2",
+    "Tăng huyết áp",
+    "Rối loạn lipid máu",
+    "Chứng run không tự chủ",
+    "Ung thư vú (nếu chứng to vú ở nam giới phát triển)",
+    "Loãng xương",
+    "Rối loạn tự miễn dịch như bệnh lupus ban đỏ hệ thống và bệnh thấp khớp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán trước hoặc sau sinh",
+      "Xét nghiệm di truyền",
+      "Phân tích nhiễm sắc thể"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "NIPT (Non-Invasive Prenatal Testing)",
+        "description": "Xét nghiệm trước sinh không xâm lấn để xác định các bất thường NST giới tính, giá trị tiên đoán dương với hội chứng Klinefelter là 67%."
+      },
+      {
+        "name": "Phân tích di truyền tế bào bộ NST",
+        "description": "Xét nghiệm quan trọng để chẩn đoán xác định hội chứng Klinefelter thông qua kiểm tra bộ nhiễm sắc thể."
+      },
+      {
+        "name": "Phân tích lai huỳnh quang tại chỗ",
+        "description": "Phương pháp kiểm tra để xác định các bất thường nhiễm sắc thể cụ thể."
+      },
+      {
+        "name": "Phân tích vi mảng nhiễm sắc thể",
+        "description": "Kỹ thuật giúp phát hiện các bất thường nhiễm sắc thể chi tiết hơn."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không thể chữa khỏi hoàn toàn hội chứng Klinefelter vì đây là bệnh do bất thường nhiễm sắc thể, nhưng có thể điều trị để giảm thiểu các triệu chứng và biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Liệu pháp thay thế testosterone",
+        "description": "Điều trị bổ sung testosterone dưới chỉ định của bác sĩ có thể ngăn ngừa một số biểu hiện bất thường về kiểu hình, giảm thiểu chứng nữ hóa tuyến vú và cải thiện hàm lượng hormone."
+      },
+      {
+        "name": "Micro-TESE (Microsurgical Testicular Sperm Extraction)",
+        "description": "Kỹ thuật vi phẫu tiên tiến trích tinh trùng từ tinh hoàn, mang đến cơ hội làm cha cho hơn phân nửa nam giới mắc hội chứng Klinefelter."
+      },
+      {
+        "name": "Liệu pháp hỗ trợ tâm lý",
+        "description": "Hỗ trợ từ nhà trị liệu gia đình, cố vấn hoặc nhà tâm lý học giúp giải quyết các vấn đề về tâm lý, tình cảm và cởi bỏ những mặc cảm."
+      },
+      {
+        "name": "Liệu pháp ngôn ngữ và vật lý trị liệu",
+        "description": "Điều trị sớm giúp cải thiện các vấn đề về ngôn ngữ, vận động và các kỹ năng khác."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám thường xuyên với bác sĩ",
+      "Tham gia các hoạt động thể thao và thể chất",
+      "Tham gia các hoạt động nhóm để phát triển kỹ năng xã hội",
+      "Kết nối với các nhóm hỗ trợ hoặc cộng đồng trợ giúp",
+      "Kiểm tra sức khỏe định kỳ để ngăn ngừa các biến chứng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +132,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hội chứng Klinefelter không thể phòng ngừa vì đây là bệnh xảy ra do bất thường di truyền",
+      "Phụ nữ mang thai sau 35 tuổi nên tham khảo ý kiến của bác sĩ và lên kế hoạch mang thai",
+      "Sàng lọc NIPT trước sinh có thể giúp phát hiện sớm",
+      "Chẩn đoán và điều trị sớm sẽ giúp trẻ phát triển khỏe mạnh và hạn chế các biến chứng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng Klinefelter có nguy hiểm không?",
+      "answer": "Hội chứng Klinefelter có thể gây ra nhiều biến chứng như trương lực cơ thấp, chậm phát triển kỹ năng vận động, trở ngại trong học tập, lo lắng, trầm cảm, rối loạn chuyển hóa, tăng nguy cơ loãng xương và các rối loạn tự miễn dịch. Tuy nhiên, với chẩn đoán sớm và điều trị kịp thời, người mắc hội chứng Klinefelter vẫn có thể sống khỏe mạnh và hạn chế các biến chứng."
+    },
+    {
+      "question": "Người mắc hội chứng Klinefelter có thể sinh con không?",
+      "answer": "Trước đây nam giới mắc hội chứng Klinefelter thường được chỉ định xin tinh trùng để có thể có con. Nhưng hiện nay, với y học hiện đại, có thể tìm kiếm tinh trùng cho những người Klinefelter thông qua phương pháp Micro TESE. Khoảng 75% bệnh nhân đã tìm được tinh trùng nhờ phẫu thuật này, mang lại cơ hội làm cha cho họ."
+    },
+    {
+      "question": "Khi nào nên chẩn đoán và điều trị hội chứng Klinefelter?",
+      "answer": "Chẩn đoán và điều trị được bắt đầu càng sớm thì lợi ích càng lớn. Ngay từ giai đoạn trẻ sơ sinh hoặc trẻ nhỏ, việc can thiệp sớm có thể giúp giải quyết các vấn đề về phát triển ngôn ngữ và vận động. Tuy nhiên, không bao giờ là quá muộn để bắt đầu điều trị. Ngay cả khi được chẩn đoán ở tuổi trưởng thành, các phương pháp điều trị vẫn có thể giúp cải thiện chất lượng cuộc sống."
+    },
+    {
+      "question": "Tại sao nam giới mắc hội chứng Klinefelter thường vô sinh?",
+      "answer": "Việc có thêm một NST X dẫn tới quá trình hyaline hóa và xơ hóa tinh hoàn, giảm khả năng sinh tinh. Điều này làm cho hầu hết nam giới mắc hội chứng Klinefelter không có hoặc rất ít tinh trùng trong tinh dịch, dẫn đến vô sinh. Tuy nhiên, với kỹ thuật trích tinh trùng từ tinh hoàn như Micro-TESE, vẫn có thể tìm được tinh trùng để thực hiện thụ tinh trong ống nghiệm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi cao, gầy, tay chân dài và tinh hoàn nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-klinefelter",
+        "suy-sinh-duc",
+        "roi-loan-noi-tiet"
+      ]
+    },
+    {
+      "question": "Tôi có tuyến vú to, ít lông tóc và ham muốn tình dục thấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-klinefelter",
+        "suy-sinh-duc",
+        "roi-loan-noi-tiet-nam"
+      ]
+    },
+    {
+      "question": "Tôi bị vô sinh, tinh hoàn nhỏ và cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-klinefelter",
+        "vo-tinh",
+        "suy-sinh-duc-nam"
+      ]
+    },
+    {
+      "question": "Con trai tôi chậm phát triển vận động và trí tuệ, tinh hoàn không xuống bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-klinefelter",
+        "tinh-hoan-an",
+        "cham-phat-trien"
+      ]
+    },
+    {
+      "question": "Tôi có mô vú phì đại, tinh hoàn nhỏ và ham muốn tình dục thấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-klinefelter",
+        "suy-sinh-duc",
+        "roi-loan-noi-tiet"
+      ]
     }
   ]
 }

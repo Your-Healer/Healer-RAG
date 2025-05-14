@@ -1,39 +1,105 @@
 {
   "disease_id": "mat-loan-thi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mắt loạn thị",
+  "disease_alternative_names": ["Loạn thị", "Astigmatism"],
+  "disease_definition": "Loạn thị là tật khúc xạ ở mắt do giác mạc ghi nhận những hình dạng khác thường so với hình thực tế. Những tia sáng khi đi vào mắt thay vì hội tụ lại một điểm lại bị khuếch tán trên võng mạc, khiến hình ảnh thu được có hình dạng méo mó và nhòe. Loạn thị rất phổ biến, cứ 3 người thì có 1 người bị loạn thị.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mờ mắt",
+      "description": "Đây là triệu chứng phổ biến, người bệnh khó nhìn thấy chi tiết trên các vật thể."
+    },
+    {
+      "name": "Nhìn thấy ánh sáng chói hoặc quầng sáng",
+      "description": "Người bệnh nhìn thấy ánh sáng chói hoặc quầng sáng xung quanh đèn."
+    },
+    {
+      "name": "Tầm nhìn mờ hoặc méo mó",
+      "description": "Hình ảnh thu được có thể bị méo mó, gợn sóng hoặc không rõ nét."
+    },
+    {
+      "name": "Khó nhìn vào ban đêm",
+      "description": "Tầm nhìn kém hơn trong điều kiện thiếu sáng hoặc vào buổi tối."
+    },
+    {
+      "name": "Mỏi mắt",
+      "description": "Người bệnh có thể cảm thấy mỏi mắt sau khi tập trung nhìn trong một thời gian dài."
+    },
+    {
+      "name": "Nhức đầu",
+      "description": "Đau đầu thường xuyên, đặc biệt sau khi phải tập trung nhìn lâu."
+    },
+    {
+      "name": "Nheo mắt",
+      "description": "Người bệnh thường nheo mắt để cố gắng nhìn rõ hơn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Loạn thị xảy ra khi giác mạc hoặc thủy tinh thể có hình dạng không đều khiến ánh sáng không thể tập trung đúng vào võng mạc. Tiêu điểm không đồng đều làm các đối tượng trông mờ hoặc gợn sóng.",
+    "related_factors": "Di truyền (trẻ có cha mẹ bị loạn thị sẽ dễ bị loạn thị hơn), chấn thương ở mắt, bệnh Keratoconus (giác mạc lồi ra ngoài giống hình nón), thoái hóa giác mạc, biến chứng sau phẫu thuật mắt.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Di truyền (có tiền sử gia đình bị loạn thị)",
+    "Chấn thương mắt",
+    "Bệnh Keratoconus",
+    "Thoái hóa giác mạc",
+    "Biến chứng sau phẫu thuật mắt"
+  ],
+  "complications": [
+    "Lác mắt (khi loạn thị ở một mắt hoặc mức độ loạn thị không đều giữa hai mắt và không được điều trị)",
+    "Mỏi mắt mạn tính",
+    "Đau đầu thường xuyên",
+    "Nhược thị (mắt lười) nếu không điều trị",
+    "Mất thị lực trong trường hợp nặng và không điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám mắt toàn diện",
+      "Hỏi về thay đổi tầm nhìn",
+      "Xét nghiệm để chẩn đoán loạn thị"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra thị lực",
+        "description": "Bài kiểm tra thực hiện bằng cách nhìn vào biểu đồ treo tường gồm các chữ cái hoặc ký hiệu."
+      },
+      {
+        "name": "Kiểm tra khúc xạ",
+        "description": "Đo lượng ánh sáng tập trung và bẻ cong khi đi vào mắt."
+      },
+      {
+        "name": "Bản đồ giác mạc",
+        "description": "Đo đường cong giác mạc. Công nghệ này cung cấp thông tin chi tiết về hình dạng giác mạc bằng cách thu thập hàng nghìn phép đo nhỏ."
+      },
+      {
+        "name": "Đèn khe",
+        "description": "Kính hiển vi đặc biệt có ánh sáng mạnh chiếu vào mắt, giúp bác sĩ nhìn thấy các lớp và các phần khác nhau của mắt."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Loạn thị được khắc phục bằng cách đeo kính mắt, kính áp tròng hoặc phẫu thuật. Đeo kính hoặc kính áp tròng sẽ điều chỉnh tầm nhìn nhưng không làm thay đổi hình dạng của mắt.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kính mắt",
+        "description": "Tròng kính mắt được uốn cong để chống lại hình dạng của giác mạc hoặc thủy tinh thể gây mờ mắt. Đây là phương pháp có chi phí rẻ hơn so với các phương pháp điều trị khác, nhưng có thể bị mất, hư, gãy hoặc bể."
+      },
+      {
+        "name": "Kính áp tròng",
+        "description": "Thấu kính bằng nhựa hoặc thủy tinh mỏng, vừa với giác mạc của mắt và điều chỉnh thị lực. Có thể là kính áp tròng mềm (thấu kính toric) hoặc kính áp tròng cứng (thấu kính thấm khí cứng). Là lựa chọn tốt với người đang vận động, nhưng có nguy cơ nhiễm trùng mắt nếu vệ sinh kém."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Bao gồm phẫu thuật mắt LASIK, phẫu thuật cắt giác mạc bằng ánh sáng và phẫu thuật mắt PRK. Hiệu quả có khi vĩnh viễn, là lựa chọn tốt cho người bệnh có vấn đề về thị lực nghiêm trọng, nhưng tốn kém hơn và có thể có biến chứng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đeo kính hoặc kính áp tròng theo chỉ định của bác sĩ",
+      "Thực hiện khám mắt định kỳ để kiểm tra sự thay đổi của thị lực",
+      "Người bệnh bắt đầu đeo kính vào buổi sáng, vài giờ mỗi lần và điều chỉnh từ từ",
+      "Nếu thị lực không khá hơn, hãy gặp bác sĩ để điều chỉnh lại",
+      "Vệ sinh kính áp tròng đúng cách để tránh nhiễm trùng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +107,60 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không thể ngăn ngừa loạn thị, nhưng cần đến bác sĩ thăm khám định kỳ để kịp thời điều trị",
+      "Hạn chế dụi mắt nhiều nếu có nguy cơ mắc bệnh keratoconus",
+      "Nếu gia đình có người loạn thị, hãy tầm soát cho những thành viên còn lại trong gia đình",
+      "Đến gặp bác sĩ nếu gặp phải các dấu hiệu của loạn thị",
+      "Tuân thủ theo hướng dẫn điều trị của bác sĩ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Loạn thị có chữa được không?",
+      "answer": "Người bị loạn thị được khắc phục bệnh bằng cách đeo kính mắt, kính áp tròng hoặc phẫu thuật. Đeo kính hoặc kính áp tròng sẽ điều chỉnh tầm nhìn nhưng không làm thay đổi hình dạng của mắt. Phẫu thuật điều chỉnh thị lực như LASIK, cắt giác mạc bằng ánh sáng hoặc PRK sử dụng tia laser để thay đổi hình dạng giác mạc, giúp ánh sáng chiếu đúng vào võng mạc."
+    },
+    {
+      "question": "Loạn thị có tiến triển theo thời gian không?",
+      "answer": "Loạn thị thường thay đổi theo thời gian và có thể trở nên tồi tệ hơn. Vì vậy, người bệnh cần đeo kính hoặc kính áp tròng ngay cả khi không cảm thấy cần thiết. Việc thăm khám mắt định kỳ rất quan trọng để theo dõi sự thay đổi của thị lực và điều chỉnh độ kính phù hợp."
+    },
+    {
+      "question": "Loạn thị có thể gây biến chứng gì?",
+      "answer": "Loạn thị có thể gây ra các biến chứng nếu không được điều trị như lác mắt (khi loạn thị ở một mắt hoặc mức độ loạn thị không đều giữa hai mắt), mỏi mắt và đau đầu mạn tính, nhược thị (mắt lười), và nặng hơn là mất thị lực. Ngoài ra, phẫu thuật điều trị loạn thị cũng có thể gây tác dụng phụ như khô mắt, nhạy cảm với ánh sáng và các vấn đề về thị lực ban đêm."
+    },
+    {
+      "question": "Loạn thị có nguyên nhân từ việc đọc sách trong ánh sáng yếu không?",
+      "answer": "Một số người lầm tưởng việc đọc sách trong điều kiện môi trường có ánh sáng yếu hoặc ngồi gần tivi sẽ gây loạn thị hoặc làm tình trạng loạn thị trở nên tệ hơn. Tuy nhiên, hầu hết loạn thị tự xuất hiện mà các bác sĩ không biết nguyên nhân chính xác. Nguyên nhân chủ yếu là do di truyền, chấn thương ở mắt, bệnh Keratoconus, thoái hóa giác mạc, hoặc biến chứng sau phẫu thuật mắt."
+    },
+    {
+      "question": "Phương pháp nào là tốt nhất để điều trị loạn thị?",
+      "answer": "Không có cách tốt nhất để điều trị chứng loạn thị, mà cách điều trị thích hợp nhất là điều chỉnh sao cho phù hợp nhất với nhu cầu thị lực và lối sống của người bệnh. Các phương pháp điều trị bao gồm kính mắt, kính áp tròng (mềm hoặc cứng), và phẫu thuật (LASIK, PRK). Người bệnh và bác sĩ nên thảo luận chi tiết về các lựa chọn sau khi khám để tìm ra phương pháp phù hợp nhất."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mờ mắt và nhìn thấy quầng sáng xung quanh đèn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-loan-thi", "duc-thuy-tinh-the", "glocom"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tầm nhìn của mình bị méo mó. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-loan-thi",
+        "thoai-hoa-diem-vang",
+        "benh-giac-mac"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mỏi mắt sau khi tập trung nhìn một thời gian. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-loan-thi", "mat-can-thi", "kho-khan-mat"]
+    },
+    {
+      "question": "Tôi khó nhìn rõ vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-loan-thi", "mat-can-thi", "duc-thuy-tinh-the"]
+    },
+    {
+      "question": "Tôi hay nheo mắt để nhìn rõ hơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-loan-thi", "mat-can-thi", "mat-vien-thi"]
     }
   ]
 }

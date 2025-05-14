@@ -1,39 +1,88 @@
 {
   "disease_id": "hep-bao-quy-dau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hẹp bao quy đầu",
+  "disease_alternative_names": ["Phimosis"],
+  "disease_definition": "Hẹp bao quy đầu (phimosis) là tình trạng da bao quy đầu không thể tuột lên hoàn toàn khỏi quy đầu. Hẹp bao quy đầu có thể là sinh lý (bao quy đầu không tuột trong suốt quá trình phát triển sinh lý bình thường) hoặc bệnh lý (do các bệnh lý như bệnh sừng hóa gây xơ teo bao quy đầu, viêm quy đầu bạch sản xơ hóa, sẹo do dùng sức để tuột bao quy đầu lên trước đó).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Bao quy đầu không tuột được ra sau",
+      "description": "Bao quy đầu không thể kéo lên để lộ quy đầu hoặc chỉ tuột được một phần."
+    },
+    {
+      "name": "Đau dương vật khi cương",
+      "description": "Cảm giác đau khi dương vật cương cứng do bao quy đầu hẹp gây căng kéo."
+    },
+    {
+      "name": "Viêm nhiễm, sưng, đau",
+      "description": "Do vệ sinh khó khăn và tích tụ cặn bã bẩn, bã nhờn và nước tiểu bên trong bao quy đầu."
+    },
+    {
+      "name": "Căng phồng khi đi tiểu",
+      "description": "Nước tiểu không thoát hết ra ngoài, tạo thành túi phồng ở bao quy đầu khi đi tiểu."
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Khó khăn và đau đớn khi quan hệ tình dục do bao quy đầu hẹp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tình trạng da bao quy đầu không thể tuột lên hoàn toàn khỏi quy đầu, thường là do phát triển sinh lý chưa hoàn thiện hoặc do các bệnh lý gây ra.",
+    "related_factors": "Bệnh lý như bệnh sừng hóa gây xơ teo bao quy đầu, viêm quy đầu bạch sản xơ hóa, sẹo do dùng sức để tuột bao quy đầu lên trước đó.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi (80% trường hợp hẹp bao quy đầu có thể tự khỏi khi lớn lên)",
+    "Cố gắng tuột da quy đầu sớm gây chấn thương",
+    "Viêm nhiễm tái phát ở quy đầu và bao quy đầu",
+    "Vệ sinh không đúng cách",
+    "Dị tật bẩm sinh"
+  ],
+  "complications": [
+    "Hẹp nghẹt bao quy đầu (bao quy đầu tạo thành vòng thắt siết chặt lấy quy đầu)",
+    "Hoại tử quy đầu (nếu không điều trị hẹp nghẹt)",
+    "Nước tiểu ứ đọng",
+    "Viêm nhiễm quy đầu, bao quy đầu, đường tiết niệu",
+    "Ảnh hưởng đến thận",
+    "Có thể dẫn đến ung thư dương vật",
+    "Cản trở quá trình cương và gây đau",
+    "Khó khăn khi quan hệ tình dục"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng để phân loại mức độ hẹp bao quy đầu"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Phân loại hẹp bao quy đầu theo 4 mức độ của Meuli: Mức 1 (bao quy đầu kéo lên được hoàn toàn nhưng khó khăn), Mức 2 (bao quy đầu kéo lên được một phần để lộ đầu dương vật), Mức 3 (bao quy đầu kéo lên được ít, chỉ để lộ miệng sáo), Mức 4 (bao quy đầu hoàn toàn không kéo lùi được)."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Quan điểm điều trị hẹp bao quy đầu hiện đại đang có nhiều thay đổi. Hẹp bao quy đầu ở trẻ em thường là hiện tượng sinh lý bình thường, không nên can thiệp sớm nếu không cần thiết.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng kem thoa steroid",
+        "description": "Sử dụng kem steroid (0,1% betamethasone) thoa lên bao quy đầu trong 4-6 tuần. Phương pháp này dễ áp dụng, giá thành rẻ, ít rủi ro, hiệu quả cao so với phẫu thuật."
+      },
+      {
+        "name": "Nong bao quy đầu",
+        "description": "Nong bao quy đầu bằng tay, bằng bong bóng hoặc dụng cụ khác. Ban đầu, bác sĩ thực hiện nhưng sau đó người nhà có thể làm cho trẻ. Phương pháp này nhẹ nhàng, không gây sang chấn nếu thực hiện đúng cách."
+      },
+      {
+        "name": "Phẫu thuật cắt bao quy đầu",
+        "description": "Phẫu thuật cắt bỏ một phần hay toàn bộ bao quy đầu, được chỉ định khi các phương pháp khác không hiệu quả hoặc bao quy đầu vẫn còn hẹp, căng phồng khi đi tiểu hoặc thường xuyên bị viêm."
+      },
+      {
+        "name": "Tạo hình bao quy đầu",
+        "description": "Phương pháp điều trị bằng phẫu thuật nhưng bảo tồn bao quy đầu, thay vì cắt bỏ hoàn toàn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hẹp bao quy đầu ở trẻ em thường là sinh lý bình thường",
+      "Tình trạng thường tự ổn định khi trẻ trưởng thành",
+      "Chỉ cần lưu ý vệ sinh, tắm rửa hàng ngày cho trẻ",
+      "Không nên cố gắng tuột da quy đầu sớm để tránh chấn thương",
+      "Người lớn nên điều trị nếu gây cản trở đi tiểu hoặc quan hệ tình dục"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +90,68 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không nên cố gắng tuột da quy đầu sớm",
+      "Vệ sinh sạch sẽ hàng ngày",
+      "Đi khám nếu có vấn đề như căng phồng khi đi tiểu, viêm nhiễm tái phát",
+      "Ở trẻ nhỏ dưới 6 tuổi, hẹp da quy đầu thường là sinh lý và chỉ cần điều trị khi gây cản trở đường tiểu hoặc viêm nhiễm",
+      "Cần phân biệt giữa hẹp bao quy đầu và dây thắng ngắn, mặc dù hai tình trạng này thường đi kèm nhau"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hẹp bao quy đầu quan hệ có thai được không?",
+      "answer": "Hẹp bao quy đầu có thể ảnh hưởng đến đời sống tình dục do viêm nhiễm, sưng, đau, hoặc khó khăn khi quan hệ. Tuy nhiên, nếu nam giới vẫn có thể xuất tinh bình thường, thì khả năng sinh sản không bị ảnh hưởng trực tiếp. Người bệnh nên điều trị hẹp bao quy đầu để cải thiện chất lượng đời sống tình dục."
+    },
+    {
+      "question": "Nên khám hẹp bao quy đầu ở đâu?",
+      "answer": "Nên khám hẹp bao quy đầu tại các cơ sở y tế chuyên khoa Nam học, nơi có đội ngũ các chuyên gia, bác sĩ giỏi chuyên môn cùng trang thiết bị hiện đại để được chẩn đoán chính xác và điều trị hiệu quả, an toàn."
+    },
+    {
+      "question": "Hẹp bao quy đầu có tự khỏi không?",
+      "answer": "Ở trẻ em, 80% trường hợp hẹp bao quy đầu có thể tự khỏi khi lớn lên và không cần xử trí trước sáu tuổi. Khoảng 90% trẻ em sau 3 tuổi và 99% ở trẻ 17 tuổi có thể tuột bao quy đầu dễ dàng. Nếu đến tuổi trưởng thành mà vẫn còn hẹp, đó là hẹp bệnh lý và cần được điều trị."
+    },
+    {
+      "question": "Khi nào nên cắt bao quy đầu?",
+      "answer": "Nên cắt bao quy đầu trong các trường hợp: hẹp nghẹt bao quy đầu, viêm quy đầu hoặc viêm bao quy đầu tái phát nhiều lần, căng phồng khi đi tiểu, gây đau khi quan hệ tình dục hoặc vì lý do cá nhân. Ở trẻ nhỏ dưới 6 tuổi, hẹp da quy đầu thường là sinh lý và chỉ cần điều trị khi gây cản trở đường tiểu hoặc viêm nhiễm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi năm nay 18 tuổi và bao quy đầu của tôi vẫn không thể tuột xuống được. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-bao-quy-dau",
+        "viem-quy-dau",
+        "viem-bao-quy-dau"
+      ]
+    },
+    {
+      "question": "Tôi 25 tuổi và cảm thấy đau khi cố gắng tuột bao quy đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-bao-quy-dau",
+        "viem-quy-dau",
+        "viem-bao-quy-dau"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau khi quan hệ tình dục và bao quy đầu của tôi hẹp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hep-bao-quy-dau", "viem-quy-dau", "dau-khi-quan-he"]
+    },
+    {
+      "question": "Tôi thấy khó chịu khi đi tiểu và bao quy đầu của tôi hẹp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-bao-quy-dau",
+        "viem-duong-tiet-nieu",
+        "viem-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy khó khăn khi vệ sinh vùng kín do bao quy đầu hẹp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-bao-quy-dau",
+        "viem-quy-dau",
+        "viem-bao-quy-dau"
+      ]
     }
   ]
 }

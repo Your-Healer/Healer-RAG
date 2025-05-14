@@ -1,58 +1,187 @@
 {
   "disease_id": "ngo-doc-thuc-pham",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ngộ độc thực phẩm",
+  "disease_alternative_names": ["Ngộ độc thức ăn", "Trúng thực"],
+  "disease_definition": "Ngộ độc thực phẩm hay còn gọi là ngộ độc thức ăn hoặc trúng thực, là tình trạng người bệnh bị trúng độc, ngộ độc do ăn uống phải những thức ăn, nước uống bị nhiễm khuẩn, nhiễm độc hoặc các loại thực phẩm bị biến chất, ôi thiu, vượt quá liều lượng cho phép các chất bảo quản, chất phụ gia. Nếu ngộ độc ở mức độ nhẹ, người bệnh có thể khỏe lại sau vài ngày; trong trường hợp nặng sẽ gây ảnh hưởng nghiêm trọng đến sức khỏe, thậm chí có thể dẫn đến tử vong nếu không được điều trị kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng dữ dội",
+      "description": "Cơn đau có thể xuất hiện sau khi ăn phải thực phẩm nhiễm độc, từ vài phút đến vài giờ, thậm chí 1-2 ngày tùy theo nguyên nhân."
+    },
+    {
+      "name": "Nôn mửa",
+      "description": "Người bệnh có cảm giác buồn nôn và nôn mửa, thường xảy ra sau khi ăn phải thực phẩm nhiễm độc."
+    },
+    {
+      "name": "Tiêu chảy",
+      "description": "Tiêu chảy nhiều lần, có thể kèm theo máu và chất nhầy lẫn trong phân trong những trường hợp nghiêm trọng."
+    },
+    {
+      "name": "Mất nước",
+      "description": "Do nôn mửa và tiêu chảy nhiều lần, người bệnh có thể bị mất nước với các biểu hiện như khát nước, khô môi."
+    },
+    {
+      "name": "Sốt và vã mồ hôi",
+      "description": "Nhiễm trùng do vi sinh vật trong thực phẩm có thể gây sốt và liên tục vã mồ hôi."
+    },
+    {
+      "name": "Triệu chứng thần kinh",
+      "description": "Đau đầu, chóng mặt, trong trường hợp nghiêm trọng có thể gây co giật, rối loạn ý thức."
+    },
+    {
+      "name": "Rối loạn tim mạch",
+      "description": "Nhịp tim nhanh bất thường, trụy mạch, tụt huyết áp, có thể dẫn đến suy hô hấp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Ngộ độc thực phẩm xảy ra khi ăn uống phải thức ăn, nước uống bị nhiễm khuẩn, nhiễm độc hoặc các loại thực phẩm biến chất, ôi thiu, chứa chất bảo quản, phụ gia vượt quá liều lượng cho phép.",
+    "related_factors": "Theo thống kê của Bộ Y tế, nguyên nhân ngộ độc được xác định chủ yếu là do thực phẩm bị nhiễm vi sinh vật (33%), thực phẩm bị ô nhiễm hóa chất (27%), thực phẩm chứa các chất độc tự nhiên (37,5%), thức ăn bị nhiễm thuốc trừ sâu hoặc các chất phụ gia với dư lượng độc tố cao.",
+    "transmission_routes": [
+      "Ăn uống phải thực phẩm nhiễm khuẩn như vi khuẩn Salmonella, độc tố tụ cầu Staphylococcus, vi khuẩn Clostridium botulinum",
+      "Tiêu thụ thực phẩm nhiễm độc tố vi nấm Aflatoxin",
+      "Ăn các loại thực phẩm chứa virus viêm gan A (HAV) và Norwalk",
+      "Tiêu thụ thực phẩm có chứa ký sinh trùng như sán lá gan nhỏ",
+      "Ăn thực phẩm nhiễm kim loại nặng như asen, chì, thủy ngân, selenium",
+      "Ăn rau quả có tồn dư thuốc bảo vệ thực vật cao",
+      "Sử dụng thực phẩm có chất phụ gia, chất bảo quản không được phép hoặc quá liều lượng"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Ăn thực phẩm từ nguồn không đảm bảo vệ sinh an toàn",
+    "Bảo quản thực phẩm không đúng cách, để thức ăn ngoài môi trường quá 2 giờ",
+    "Chế biến thực phẩm không đảm bảo vệ sinh",
+    "Không tuân thủ nguyên tắc ăn chín uống sôi",
+    "Trẻ nhỏ dưới 2 tuổi, người lớn tuổi, người đang điều trị bệnh có miễn dịch suy giảm",
+    "Người bị suy dinh dưỡng, mắc bệnh lý dạ dày tá tràng, bệnh gan, rối loạn sắc tố"
+  ],
+  "complications": [
+    "Rối loạn thần kinh: nhìn mờ, nhìn đôi, nói khó, nói ngọng, tê liệt cơ, co giật, đau đầu, chóng mặt",
+    "Rối loạn tim mạch: tụt huyết áp, loạn nhịp tim, khó thở, đau ngực",
+    "Ảnh hưởng hệ tiêu hóa: máu và chất nhầy lẫn trong phân, đau bụng dữ dội",
+    "Suy giảm đề kháng nghiêm trọng, đặc biệt ở trẻ nhỏ, người già và người đang điều trị bệnh khác",
+    "Tử vong nếu không được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Nhận biết các triệu chứng bất thường sau khi ăn uống",
+      "Quan sát các biểu hiện giống nhau ở những người cùng ăn chung một loại thực phẩm",
+      "Đánh giá các triệu chứng đặc trưng như đau bụng dữ dội, nôn mửa, tiêu chảy",
+      "Kiểm tra thực phẩm vừa ăn có mùi vị lạ, ôi thiu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm mẫu thực phẩm",
+        "description": "Lấy mẫu thực phẩm nghi ngờ và mẫu thức ăn người bệnh vừa nôn để xác định nguyên nhân gây ngộ độc"
+      },
+      {
+        "name": "Nội soi tiêu hóa",
+        "description": "Giúp bác sĩ quan sát trực tiếp tình trạng của đường tiêu hóa trong trường hợp nghiêm trọng"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp đánh giá tình trạng nhiễm trùng, mất nước và các rối loạn điện giải"
+      },
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Giúp phát hiện vi khuẩn, virus, ký sinh trùng gây bệnh"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Ngộ độc thực phẩm nếu không được phát hiện sớm và điều trị kịp thời có thể dẫn đến các biến chứng nguy hiểm, thậm chí tử vong. Phương pháp điều trị phụ thuộc vào nguyên nhân và mức độ ngộ độc.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Gây nôn",
+        "description": "Đối với những người có triệu chứng nôn mửa ngay sau khi ăn phải thực phẩm nhiễm độc, hoặc những người bệnh còn tỉnh táo, cần lập tức dùng mọi biện pháp kích thích để nôn hết những thức ăn ra khỏi dạ dày."
+      },
+      {
+        "name": "Bù nước",
+        "description": "Người bị ngộ độc thực phẩm có thể nôn và tiêu chảy nhiều lần dẫn đến mất nước, cần cho người bệnh uống nhiều nước và nghỉ ngơi. Có thể bù nước bằng dung dịch oresol được pha theo chỉ dẫn."
+      },
+      {
+        "name": "Điều trị tại cơ sở y tế",
+        "description": "Trong trường hợp nghiêm trọng, người bệnh cần được đưa đến cơ sở y tế để được chẩn đoán chính xác nguyên nhân và có hướng điều trị kịp thời, có thể bao gồm truyền dịch, dùng thuốc kháng sinh hoặc thuốc kháng virus tùy theo nguyên nhân."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Nếu người bệnh có triệu chứng nôn mửa, nên để nằm nghiêng và kê cao đầu để tránh sặc",
+      "Giữ lại mẫu thực phẩm nghi ngờ gây ngộ độc để xét nghiệm",
+      "Khi bù nước với oresol, cần pha đúng liều lượng và không dùng dung dịch đã pha quá 24 tiếng",
+      "Nếu có các triệu chứng nghiêm trọng như co giật, rối loạn ý thức, suy hô hấp, cần đưa đến cơ sở y tế ngay lập tức",
+      "Nghỉ ngơi và ăn nhẹ sau khi các triệu chứng đã giảm"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly thực phẩm gây ngộ độc để tránh người khác tiếp xúc",
+      "Vệ sinh tay sạch sẽ sau khi tiếp xúc với người bị ngộ độc",
+      "Khử trùng các bề mặt và dụng cụ đã tiếp xúc với thực phẩm nghi ngờ gây ngộ độc"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Không có vaccine đặc hiệu cho ngộ độc thực phẩm, nhưng có thể tiêm phòng viêm gan A để phòng ngừa ngộ độc do virus viêm gan A trong thực phẩm.",
+      "recommended_for": [
+        "Người thường xuyên đi du lịch",
+        "Người làm việc trong ngành thực phẩm",
+        "Người có hệ miễn dịch suy giảm"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Lựa chọn thực phẩm an toàn, có nguồn gốc xuất xứ rõ ràng, còn hạn sử dụng",
+      "Không chọn những thực phẩm nhiễm chất độc hóa học, hoặc các loại thực phẩm chứa độc như nấm lạ, khoai tây mọc mầm, cá nóc",
+      "Bảo quản thực phẩm trong tủ lạnh ở nhiệt độ phù hợp và trong thời gian cho phép",
+      "Không để thức ăn ở ngoài quá hai giờ, quá một giờ khi thời tiết nắng nóng",
+      "Rửa tay trước khi tiếp xúc, trong và sau khi chế biến thực phẩm",
+      "Làm sạch các nguyên vật liệu trước khi chế biến món ăn",
+      "Vệ sinh sạch sẽ dụng cụ nấu nướng, ăn uống",
+      "Đảm bảo nguyên tắc ăn chín uống sôi, chỉ ăn ở những nơi đảm bảo vệ sinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ngộ độc thực phẩm có nguy hiểm không?",
+      "answer": "Ngộ độc thực phẩm có thể rất nguy hiểm, đặc biệt nếu không được phát hiện sớm và điều trị kịp thời. Nếu ngộ độc ở mức độ nhẹ, người bệnh có thể khỏe lại sau vài ngày; trong trường hợp nặng có thể gây ra các biến chứng nghiêm trọng như rối loạn thần kinh, rối loạn tim mạch, suy hô hấp và thậm chí có thể dẫn đến tử vong. Theo thống kê của Bộ Y tế, từ năm 2010-2019, Việt Nam ghi nhận 1.556 vụ ngộ độc thức ăn với hơn 47.400 người mắc, trong đó 40.190 trường hợp phải nhập viện điều trị và 271 trường hợp tử vong."
+    },
+    {
+      "question": "Làm thế nào để nhận biết ngộ độc thực phẩm?",
+      "answer": "Ngộ độc thực phẩm có thể nhận biết qua các dấu hiệu sau: (1) Xuất hiện các triệu chứng bất thường sau khi ăn uống như đau bụng dữ dội, nôn mửa, tiêu chảy; (2) Những người cùng ăn chung một loại thực phẩm có biểu hiện giống nhau; (3) Thực phẩm vừa ăn có mùi vị lạ, ôi thiu; (4) Có thể kèm theo các triệu chứng khác như sốt, vã mồ hôi, đau đầu, chóng mặt, nhịp tim nhanh bất thường, tùy thuộc vào nguyên nhân gây ngộ độc."
+    },
+    {
+      "question": "Cần làm gì khi bị ngộ độc thực phẩm?",
+      "answer": "Khi bị ngộ độc thực phẩm, cần thực hiện các biện pháp sau: (1) Gây nôn để loại bỏ độc tố khỏi cơ thể, để người bệnh nằm nghiêng tránh sặc; (2) Bù nước bằng dung dịch oresol để tránh mất nước; (3) Nhanh chóng đưa người bệnh đến cơ sở y tế, đặc biệt nếu có triệu chứng nghiêm trọng như co giật, rối loạn ý thức, suy hô hấp; (4) Giữ lại mẫu thực phẩm nghi ngờ để giúp bác sĩ xác định nguyên nhân chính xác."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dữ dội và nôn mửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngo-doc-thuc-pham", "viem-da-day", "viem-ruot-thua"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tiêu chảy và khát nước. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-thuc-pham",
+        "tieu-chay-cap",
+        "nhiem-trung-duong-ruot"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-thuc-pham",
+        "roi-loan-tien-dinh",
+        "moi-tim-mach"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nhịp tim nhanh bất thường và trụy mạch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-thuc-pham",
+        "roi-loan-nhip-tim",
+        "soc-nhiem-trung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng dữ dội và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngo-doc-thuc-pham", "viem-da-day", "viem-tui-mat"]
     }
   ]
 }

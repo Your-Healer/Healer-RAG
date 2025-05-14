@@ -1,39 +1,131 @@
 {
   "disease_id": "nhiem-trung-ban-chan-tieu-duong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhiễm trùng bàn chân tiểu đường",
+  "disease_alternative_names": [
+    "Nhiễm khuẩn bàn chân đái tháo đường",
+    "Loét bàn chân tiểu đường",
+    "Biến chứng bàn chân tiểu đường"
+  ],
+  "disease_definition": "Nhiễm trùng bàn chân tiểu đường là bàn chân của người bệnh đái tháo đường bị các tổn thương do nhiễm khuẩn, loét, và/hoặc sự phá hủy các mô sâu liên quan tới các bất thường về thần kinh, một số giai đoạn của bệnh mạch máu ngoại vi và/hoặc các biến chứng chuyển hóa của bệnh xảy ra ở chân.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đỏ lan rộng quanh vết thương",
+      "description": "Khu vực xung quanh vết thương đỏ lên, lan rộng ra khỏi vị trí ban đầu."
+    },
+    {
+      "name": "Đau và nhạy cảm",
+      "description": "Người bị nhiễm trùng bàn chân tiểu đường sẽ cảm thấy đau và nhạy cảm tại vị trí vết thương."
+    },
+    {
+      "name": "Chảy mủ",
+      "description": "Vết thương ban đầu có thể chảy mủ, là dấu hiệu của nhiễm trùng."
+    },
+    {
+      "name": "Sốt và ớn lạnh",
+      "description": "Khi nhiễm trùng phát triển, người bệnh có thể bị sốt, ớn lạnh và đổ mồ hôi."
+    },
+    {
+      "name": "Hụt hơi và nghẹt mũi",
+      "description": "Các triệu chứng khác khi nhiễm trùng phát triển bao gồm hụt hơi và nghẹt mũi."
+    },
+    {
+      "name": "Cổ cứng",
+      "description": "Trong một số trường hợp nhiễm trùng nặng, người bệnh có thể bị cổ cứng."
+    },
+    {
+      "name": "Xuất hiện vết loét mới",
+      "description": "Sự xuất hiện của các vết loét mới là dấu hiệu của tình trạng nhiễm trùng đang tiến triển."
+    },
+    {
+      "name": "Mô đen xung quanh vết loét",
+      "description": "Người bị nhiễm trùng bàn chân tiểu đường có thể nhận thấy mô đen (hoại tử) bao quanh vết loét, hình thành do thiếu máu đến nuôi."
+    },
+    {
+      "name": "Hoại tử tổ chức",
+      "description": "Hoại tử một phần hoặc toàn bộ có thể xuất hiện xung quanh vết loét, tạo ra dịch tiết, đau và tê."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính khiến bàn chân tiểu đường bị nhiễm trùng là do biến chứng thần kinh, thiếu máu cục bộ, rối loạn chức năng dinh dưỡng và nhiễm trùng. Cơ chế chính là do bàn chân tiểu đường bị thiếu máu đến nuôi.",
+    "related_factors": "Tổn thương thần kinh ngoại biên là một biến chứng thường gặp của đái tháo đường, xuất hiện ở khoảng 50%-70% ca bệnh. Tổn thương này làm ảnh hưởng đến các sợi thần kinh cảm giác, vận động và tự chủ, khiến bàn chân người bệnh không còn nhạy cảm với những kích thích đau thông thường. Các vết loét thường xuất phát từ những chấn thương nhỏ, dần dần tổn thương các sợi vận động gây yếu cơ, teo cơ và liệt nhẹ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Đứng lâu trong tình trạng lạnh và ẩm ướt, tăng tình trạng tê chân và khô da",
+    "Ngâm chân, đặc biệt trong muối tắm Epsom",
+    "Không đi tất, mất cơ hội bảo vệ da chân",
+    "Mang giày không thoải mái gây phồng rộp",
+    "Không rửa chân thường xuyên và kỹ lưỡng",
+    "Uống rượu, bia",
+    "Hút thuốc lá, ức chế lưu thông máu",
+    "Cắt móng chân không đúng cách gây rách da",
+    "Mắc bệnh tim, thận, bệnh về mắt do tiểu đường",
+    "Là đàn ông lớn tuổi",
+    "Béo phì",
+    "Vi chấn thương",
+    "Dị dạng cấu trúc bàn chân",
+    "Giới hạn vận động khớp",
+    "Xuất hiện các vết chai",
+    "Tăng đường huyết kéo dài hoặc không kiểm soát được",
+    "Tiền sử loét bàn chân hoặc cắt cụt chi"
+  ],
+  "complications": [
+    "Nhiễm trùng lan rộng",
+    "Hoại tử tổ chức",
+    "Cắt cụt chi",
+    "Viêm tủy xương mãn tính",
+    "Nhiễm trùng mô mềm hoại tử cấp tính",
+    "Tăng nguy cơ tử vong (tỷ lệ tử vong sau cắt cụt bàn chân trong 5 năm là 50% – 60%)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để tìm các dấu hiệu nhiễm trùng tại chỗ như sưng tấy, tiết dịch",
+      "Đánh giá các dấu hiệu toàn thân, sốt",
+      "Loại bỏ mô hoại tử và làm sạch vết thương"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm vi sinh",
+        "description": "Lấy mẫu bệnh phẩm để xác định loại vi khuẩn, vi trùng gây nhiễm trùng và chỉ định kháng sinh phù hợp"
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Để tìm kiếm các dấu hiệu nhiễm trùng xương khi nghi ngờ tình trạng nhiễm trùng nghiêm trọng"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị nhiễm trùng bàn chân tiểu đường cần được thực hiện sớm, đặc biệt ở người bệnh cao tuổi và mắc kèm thêm bệnh khác. Nguy cơ tử vong cao hơn ở những người bệnh bị viêm tủy xương mãn tính hay nhiễm trùng mô mềm hoại tử cấp tính.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng kháng sinh",
+        "description": "Hầu hết các bệnh nhiễm trùng điều trị bằng kháng sinh. Thời gian điều trị thường từ 2 – 4 tuần. Người bị viêm tủy xương cần ít nhất 6 tuần điều trị. Người bệnh được kê thuốc kháng sinh tiểu cầu, thuốc chống đông máu khi tình trạng nhiễm trùng tiến triển."
+      },
+      {
+        "name": "Điều trị cơ bản",
+        "description": "Bác sĩ sẽ thực hiện các bước vệ sinh, điều trị cơ bản như làm sạch vết thương và khu vực xung quanh, loại bỏ vết loét, loại bỏ da chết và dị vật, băng vết thương bằng các phương pháp điều trị như kem bạc, sulfadiazine, gel polyhexamethylene biguanide (PHMB) và i-ốt."
+      },
+      {
+        "name": "Liệu pháp oxy cao áp",
+        "description": "Giúp tăng cường cung cấp oxy cho các mô thiếu máu cục bộ hoặc thiếu oxy, tăng cường tiêu diệt vi khuẩn, hình thành mạch, tăng tổng hợp collagen, tăng trưởng nguyên bào sợi và giảm phù nề."
+      },
+      {
+        "name": "Sử dụng vật dụng hỗ trợ",
+        "description": "Mang giày, bó bột, sử dụng băng ép và miếng lót giày được thiết kế riêng để ngăn vết chai, vì sự hiện diện của vết chai làm tăng khả năng hình thành vết loét gấp 11 lần."
+      },
+      {
+        "name": "Phẫu thuật cắt lọc",
+        "description": "Trong một số trường hợp cần phẫu thuật để điều trị vết loét. Trong trường hợp cực kỳ nghiêm trọng, cần phải cắt cụt chi để loại bỏ vùng da bị hoại tử và ngăn vết nhiễm trùng lan sang các bộ phận khác."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân theo chỉ định của bác sĩ khi điều trị",
+      "Kiểm tra bàn chân thường xuyên",
+      "Rửa chân thường xuyên và sử dụng kem dưỡng ẩm để ngăn ngừa nứt da",
+      "Mang giày thoải mái, không đi chân trần và vớ chật",
+      "Cắt móng tay thường xuyên, tránh nhiệt độ quá cao",
+      "Xử lý vết chai khi có thể"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +133,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm tra bàn chân thường xuyên, tạo thành thói quen hàng ngày",
+      "Rửa chân thường xuyên và sử dụng kem dưỡng ẩm để ngăn ngừa nứt da",
+      "Mang giày thoải mái, không đi chân trần và vớ chật",
+      "Cắt móng tay thường xuyên và đúng cách",
+      "Tránh nhiệt độ quá cao",
+      "Xử lý vết chai bất cứ khi nào có thể",
+      "Gặp bác sĩ nếu thấy bàn chân có bất kỳ vấn đề gì hoặc vết thương không lành khi điều trị tại nhà"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhiễm trùng bàn chân tiểu đường nguy hiểm như thế nào?",
+      "answer": "Nhiễm trùng bàn chân tiểu đường rất nguy hiểm nếu không được điều trị kịp thời. Khoảng 60% người bệnh tiểu đường phải cắt bỏ bàn chân do nhiễm trùng, và sau khi cắt cụt bàn chân, tỷ lệ tử vong trong 5 năm là 50% – 60%. Nếu vết thương không được bác sĩ điều trị, nhiễm trùng sẽ lan rộng, gây đau, khó chịu, hoại tử và trường hợp xấu nhất phải cắt cụt chi."
+    },
+    {
+      "question": "Tại sao người tiểu đường dễ bị nhiễm trùng bàn chân?",
+      "answer": "Người tiểu đường dễ bị nhiễm trùng bàn chân vì tổn thương thần kinh ngoại biên (xuất hiện ở 50%-70% ca bệnh) làm ảnh hưởng đến cảm giác, vận động và tự chủ, khiến bàn chân không còn nhạy cảm với kích thích đau. Khi có chấn thương nhỏ, người tiểu đường khó nhận biết, dẫn đến tổn thương da, chai chân, loét, và nhiễm trùng. Đồng thời, bệnh lý mạch máu ngoại vi (hơn 30% trường hợp) cũng làm giảm lưu lượng máu đến bàn chân, gây khó lành vết thương."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa nhiễm trùng bàn chân tiểu đường?",
+      "answer": "Để phòng ngừa nhiễm trùng bàn chân tiểu đường, bạn nên: kiểm tra bàn chân thường xuyên (hàng ngày); rửa chân thường xuyên và dưỡng ẩm để tránh nứt da; mang giày thoải mái và vớ sạch, tránh đi chân trần; cắt móng chân đúng cách và thường xuyên; tránh nhiệt độ quá cao; xử lý vết chai khi có thể; không hút thuốc và hạn chế uống rượu bia; kiểm soát tốt đường huyết; và đến gặp bác sĩ ngay khi phát hiện bất kỳ vấn đề nào ở bàn chân."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có vết thương ở bàn chân bị đỏ và lan rộng, kèm theo đau và nhạy cảm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-ban-chan-tieu-duong",
+        "viem-da",
+        "nhiem-trung-da"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt, ớn lạnh và đổ mồ hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-ban-chan-tieu-duong",
+        "cam-cum",
+        "sot-virus"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có vết loét mới xuất hiện ở bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-ban-chan-tieu-duong",
+        "loet-ban-chan",
+        "viem-da"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tê bì và mất cảm giác ở bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-ban-chan-tieu-duong",
+        "benh-than-kinh-ngoai-bien",
+        "dai-thao-duong"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mô đen bao quanh vết loét ở bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-trung-ban-chan-tieu-duong",
+        "hoai-tu-mo",
+        "thieu-mau-cuc-bo"
+      ]
     }
   ]
 }

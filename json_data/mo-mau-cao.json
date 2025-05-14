@@ -1,39 +1,96 @@
 {
   "disease_id": "mo-mau-cao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mỡ máu cao",
+  "disease_alternative_names": [
+    "Tăng mỡ máu",
+    "Tăng lipid máu",
+    "Rối loạn lipid máu",
+    "Rối loạn mỡ máu"
+  ],
+  "disease_definition": "Mỡ máu cao là tình trạng gia tăng cholesterol xấu (Lipoprotein tỷ trọng thấp – LDL) hay chất béo trung tính (triglycerides) hoặc cả hai ở trong máu. Điều này có thể dẫn đến tắc nghẽn mạch máu và gây ảnh hưởng nghiêm trọng cho sức khỏe tim mạch.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Xuất hiện các khối u hoặc nếp nhăn màu vàng",
+      "description": "Các khối u hoặc nếp nhăn màu vàng xuất hiện ở bên dưới lớp da, hình thành do sự tích tụ chất béo xung quanh gân và khớp."
+    },
+    {
+      "name": "Vòng cung màu trắng quanh giác mạc",
+      "description": "Có một vòng cung màu trắng ở xung quanh giác mạc của mắt, là dấu hiệu của mỡ máu cao."
+    },
+    {
+      "name": "Nổi các cục u ở góc trong của mắt",
+      "description": "Sự xuất hiện của các cục u ở góc trong của mắt là triệu chứng của tình trạng mỡ máu rất cao."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mỡ máu cao xảy ra do sự tích tụ của cholesterol xấu (LDL) và chất béo trung tính (triglycerides) trong máu, dẫn đến hình thành mảng bám trong mạch máu.",
+    "related_factors": "Mỡ máu cao có thể do yếu tố di truyền (nguyên phát) hoặc do lối sống và các bệnh lý khác (thứ phát).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình mắc bệnh mạch vành sớm hoặc đột quỵ",
+    "Tiền sử gia đình có tình trạng tăng mỡ máu gia đình",
+    "Chế độ ăn uống không lành mạnh, nhiều chất béo bão hòa",
+    "Tiêu thụ nhiều thực phẩm chứa chất béo chuyển hóa",
+    "Lười tập thể dục thể thao, ít vận động",
+    "Sử dụng thuốc lá, uống nhiều rượu bia",
+    "Thừa cân, béo phì",
+    "Mắc các bệnh như: bệnh thận, bệnh gan, suy giáp, đa u tủy, hội chứng buồng trứng đa nang, xơ gan mật tiên phát, bệnh thận mãn tính, tiểu đường, lupus, ngưng thở khi ngủ"
+  ],
+  "complications": [
+    "Bệnh động mạch vành dẫn đến nhồi máu cơ tim hoặc suy tim",
+    "Bệnh động mạch cảnh dẫn đến thiếu máu não thoáng qua hoặc đột quỵ",
+    "Bệnh động mạch ngoại biên gây đau, mỏi hoặc yếu ở chân",
+    "Tăng huyết áp do động mạch cứng và thu hẹp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xét nghiệm máu để đo lượng cholesterol và chất béo",
+      "Đánh giá nguy cơ bệnh tim mạch dựa trên nhiều yếu tố"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm cholesterol toàn phần",
+        "description": "Được coi là 'cao ở mức giới hạn' nếu từ 200-239 mg/dL và 'cao' nếu trên 240 mg/dL"
+      },
+      {
+        "name": "Xét nghiệm cholesterol LDL (xấu)",
+        "description": "Được coi là 'cao ở mức giới hạn' nếu từ 130-159 mg/dL và 'cao' nếu trên 160 mg/dL"
+      },
+      {
+        "name": "Xét nghiệm cholesterol HDL (tốt)",
+        "description": "Được coi là 'kém' nếu dưới 40 mg/dL"
+      },
+      {
+        "name": "Xét nghiệm triglyceride",
+        "description": "Đo lượng chất béo trung tính trong máu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị mỡ máu cao thường bắt đầu bằng việc thay đổi lối sống. Nếu sau vài tháng mức mỡ máu không giảm, bác sĩ có thể kê đơn thuốc giảm cholesterol.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Áp dụng chế độ ăn uống ít chất béo bão hòa, cân bằng dinh dưỡng, tăng cường hoạt động thể chất, bỏ thuốc lá và giảm rượu bia."
+      },
+      {
+        "name": "Sử dụng thuốc Statin",
+        "description": "Thuốc chính được sử dụng để giảm mỡ máu, ngăn gan sản xuất cholesterol LDL. Có thể cần dùng suốt đời nếu có nguy cơ cao mắc bệnh tim."
+      },
+      {
+        "name": "Sử dụng thuốc Ezetimibe",
+        "description": "Thuốc ngăn sự hấp thụ cholesterol từ thức ăn và dịch mật trong ruột vào máu. Có thể dùng kết hợp với statin hoặc thay thế statin."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì chế độ ăn uống cân bằng, ít chất béo bão hòa",
+      "Tập thể dục thường xuyên, ít nhất 30 phút mỗi ngày, 5 ngày một tuần",
+      "Kiểm soát cân nặng ở mức lý tưởng",
+      "Bỏ hút thuốc lá",
+      "Hạn chế uống rượu bia (không quá hai ly mỗi ngày với nam giới và một ly với phụ nữ)",
+      "Kiểm tra mỡ máu định kỳ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +98,64 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chế độ ăn uống khoa học, cân bằng với nhiều chất xơ và chất béo không bão hòa",
+      "Hoạt động thể dục thể thao thường xuyên, ít nhất 30 phút mỗi ngày, 5 ngày mỗi tuần",
+      "Bỏ thuốc lá hoàn toàn",
+      "Hạn chế uống rượu bia",
+      "Duy trì vóc dáng cân đối, chỉ số BMI trong khoảng 18,5-24,9",
+      "Kiểm tra mức mỡ máu định kỳ từ 4-6 năm một lần đối với người từ 20 tuổi trở lên",
+      "Kiểm tra thường xuyên hơn nếu có tiền sử mỡ máu cao hoặc các yếu tố nguy cơ của bệnh tim mạch"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mỡ máu cao có nguy hiểm không?",
+      "answer": "Mỡ máu cao rất nguy hiểm nếu không được điều trị. Nó là nguyên nhân chính của nhiều bệnh tim mạch nghiêm trọng như nhồi máu cơ tim, đột quỵ, bệnh động mạch vành, động mạch cảnh, động mạch ngoại biên và tăng huyết áp. Mỡ máu cao tạo ra mảng bám trong mạch máu, làm thu hẹp hoặc tắc nghẽn mạch máu, cản trở lưu thông máu đến các bộ phận quan trọng của cơ thể như tim và não."
+    },
+    {
+      "question": "Làm thế nào để biết mình bị mỡ máu cao?",
+      "answer": "Mỡ máu cao thường không có triệu chứng rõ ràng và chỉ được phát hiện thông qua xét nghiệm máu định kỳ. Trong một số ít trường hợp, khi mức mỡ máu rất cao, có thể xuất hiện các triệu chứng như: khối u hoặc nếp nhăn màu vàng dưới da, vòng cung màu trắng quanh giác mạc mắt, hoặc các cục u ở góc trong của mắt. Cách chắc chắn nhất để biết là thực hiện xét nghiệm máu kiểm tra cholesterol và triglyceride."
+    },
+    {
+      "question": "Tôi phải làm gì để giảm mỡ máu?",
+      "answer": "Để giảm mỡ máu, bạn nên thực hiện các thay đổi lối sống như: áp dụng chế độ ăn ít chất béo bão hòa và chất béo chuyển hóa, tăng cường thực phẩm giàu chất xơ và chất béo không bão hòa; tập thể dục đều đặn ít nhất 30 phút mỗi ngày, 5 ngày một tuần; bỏ thuốc lá; hạn chế uống rượu bia; duy trì cân nặng hợp lý. Nếu các biện pháp này không hiệu quả, bác sĩ có thể kê đơn thuốc hạ mỡ máu như statin hoặc ezetimibe."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện các khối u hoặc nếp nhăn màu vàng ở bên dưới lớp da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mo-mau-cao", "roi-loan-mo-mau", "benh-gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy có một vòng cung màu trắng ở xung quanh giác mạc của mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mo-mau-cao", "tang-mo-mau", "roi-loan-lipid-mau"]
+    },
+    {
+      "question": "Tôi hay thấy nổi các cục u ở góc trong của mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mo-mau-cao",
+        "tang-cholesterol",
+        "roi-loan-lipid-mau"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, khó thở khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mo-mau-cao",
+        "benh-tim-mach",
+        "tang-huyet-ap",
+        "benh-phoi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ngực, tê bì chân tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mo-mau-cao",
+        "benh-dong-mach-ngoai-bien",
+        "thieu-mau-co-tim",
+        "dot-quy"
+      ]
     }
   ]
 }

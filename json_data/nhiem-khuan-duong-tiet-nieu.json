@@ -1,58 +1,198 @@
 {
   "disease_id": "nhiem-khuan-duong-tiet-nieu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhiễm khuẩn đường tiết niệu",
+  "disease_alternative_names": [
+    "Nhiễm trùng đường tiết niệu",
+    "Nhiễm trùng tiểu",
+    "UTI",
+    "Urinary Tract Infection"
+  ],
+  "disease_definition": "Nhiễm khuẩn đường tiết niệu là tình trạng viêm nhiễm ở bất kỳ bộ phận nào của hệ tiết niệu – thận, niệu quản, bàng quang và niệu đạo. Hầu hết các bệnh nhiễm khuẩn thường liên quan đến đường tiết niệu dưới gồm bàng quang và niệu đạo. Đây là bệnh rất phổ biến, xuất hiện trên 50 – 60% phụ nữ và đứng thứ 3 trong các bệnh nhiễm trùng ở trẻ em.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nóng rát khi đi tiểu",
+      "description": "Cảm giác nóng rát, khó chịu khi đi tiểu, là một trong những triệu chứng phổ biến nhất của nhiễm khuẩn đường tiết niệu."
+    },
+    {
+      "name": "Tăng tần suất đi tiểu",
+      "description": "Đi tiểu thường xuyên hơn bình thường nhưng mỗi lần lại đi được rất ít."
+    },
+    {
+      "name": "Nước tiểu có máu",
+      "description": "Nước tiểu có thể chứa máu, khiến màu nước tiểu đỏ, hồng hoặc nâu đỏ như màu nước trà đặc."
+    },
+    {
+      "name": "Nước tiểu đục và có mùi khó chịu",
+      "description": "Nước tiểu đục và có mùi nặng, khó chịu do sự hiện diện của vi khuẩn."
+    },
+    {
+      "name": "Đau vùng chậu",
+      "description": "Đối với phụ nữ, có thể cảm thấy áp lực hoặc đau ở vùng chậu, đặc biệt là ở trung tâm của vùng xương chậu và xung quanh xương mu."
+    },
+    {
+      "name": "Đau trực tràng",
+      "description": "Đối với nam giới, cảm giác đau có thể xuất hiện ở vùng trực tràng."
+    },
+    {
+      "name": "Sốt và ớn lạnh",
+      "description": "Nếu nhiễm khuẩn lan đến thận, có thể gây sốt cao rét run, ớn lạnh, đau lưng, buồn nôn và nôn mửa."
+    },
+    {
+      "name": "Đau ở phần lưng trên và hai bên",
+      "description": "Đau ở vùng thận (lưng trên và hai bên) thường là dấu hiệu của nhiễm khuẩn đường tiết niệu trên (viêm bể thận)."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nhiễm khuẩn đường tiết niệu thường xảy ra khi vi khuẩn xâm nhập vào đường tiết niệu qua niệu đạo và bắt đầu tăng tốc phát triển trong bàng quang. Mặc dù hệ thống tiết niệu đã được thiết kế để ngăn chặn những 'kẻ xâm lược' này, nhưng các biện pháp phòng thủ đôi khi trở nên thất bại.",
+    "related_factors": "Nhiễm trùng bàng quang hay viêm bàng quang thường do Escherichia coli (E. coli), một loại vi khuẩn được tìm thấy trong đường tiêu hóa, gây ra. Tình trạng này xảy ra khi vi khuẩn được lây lan từ hậu môn đến niệu đạo. Bên cạnh đó, do cấu tạo niệu đạo của phụ nữ gần với âm đạo nên các tác nhân gây ra bệnh lây truyền qua đường tình dục (STDs) dễ tấn công niệu đạo gây viêm.",
+    "transmission_routes": [
+      "Vi khuẩn từ đường tiêu hóa (đặc biệt là E. coli) di chuyển từ hậu môn đến niệu đạo",
+      "Lây lan qua đường tình dục với các tác nhân gây bệnh lây truyền qua đường tình dục"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ - do cấu tạo niệu đạo ngắn hơn nam giới",
+    "Hoạt động tình dục thường xuyên, đặc biệt là khi có bạn tình mới hoặc nhiều bạn tình",
+    "Sử dụng màng chắn tránh thai hoặc thuốc diệt tinh trùng",
+    "Thời kỳ mãn kinh - sự suy giảm estrogen gây ra những thay đổi trong đường tiết niệu",
+    "Đường tiết niệu có bất thường bẩm sinh",
+    "Sỏi thận hoặc tăng sinh tuyến tiền liệt gây tắc nghẽn đường tiết niệu",
+    "Hệ thống miễn dịch bị ức chế (như ở người bệnh tiểu đường)",
+    "Sử dụng ống thông tiểu",
+    "Phẫu thuật tiết niệu hoặc các thủ thuật kiểm tra đường tiết niệu"
+  ],
+  "complications": [
+    "Nhiễm trùng tái phát, đặc biệt ở phụ nữ mắc bệnh từ 2 lần trở lên trong 6-12 tháng",
+    "Nhiễm trùng thận cấp tính hoặc mạn tính gây tổn thương thận vĩnh viễn",
+    "Viêm đường tiết niệu khi mang thai có thể gây viêm bể thận, sảy thai, sinh non, trẻ nhẹ cân",
+    "Viêm niệu đạo tái phát gây hẹp niệu đạo, nhất là ở nam giới",
+    "Nhiễm trùng huyết và thậm chí tử vong nếu thận bị viêm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Phân tích triệu chứng và bệnh sử",
+      "Khám lâm sàng vùng bụng dưới và thận"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phân tích nước tiểu",
+        "description": "Xét nghiệm mẫu nước tiểu để tìm tế bào bạch cầu, hồng cầu hoặc vi khuẩn"
+      },
+      {
+        "name": "Cấy nước tiểu",
+        "description": "Xác định loại vi khuẩn gây nhiễm trùng và xác định loại kháng sinh hiệu quả nhất"
+      },
+      {
+        "name": "Chụp chiếu hình ảnh",
+        "description": "Siêu âm, chụp cắt lớp vi tính (CT) hoặc chụp cộng hưởng từ (MRI) để kiểm tra bất thường của đường tiết niệu"
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Sử dụng ống soi giúp bác sĩ khảo sát bên trong các bộ phận của đường tiết niệu khi nhiễm trùng tái phát nhiều lần"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Thuốc kháng sinh là phương pháp điều trị đầu tiên cho nhiễm trùng đường tiết niệu. Các nhóm thuốc và thời gian dùng tùy thuộc vào tình trạng sức khỏe và loại vi khuẩn được tìm thấy trong nước tiểu của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nhiễm trùng đơn giản",
+        "description": "Sử dụng kháng sinh như Trimethoprim/sulfamethoxazole, Fosfomycin, Nitrofurantoin, Cephalexin, hoặc Ceftriaxone. Thường các triệu chứng giảm trong vài ngày, nhưng có thể phải tiếp tục dùng thuốc trong một tuần hoặc nhiều hơn."
+      },
+      {
+        "name": "Điều trị nhiễm trùng thường xuyên",
+        "description": "Có thể bao gồm sử dụng kháng sinh liều thấp trong 6 tháng hoặc lâu hơn, dùng một liều kháng sinh duy nhất sau khi quan hệ tình dục, hoặc liệu pháp estrogen nếu đang trong thời kỳ mãn kinh."
+      },
+      {
+        "name": "Điều trị nhiễm trùng nặng",
+        "description": "Có thể cần tiêm kháng sinh tĩnh mạch tại bệnh viện, đặc biệt khi nhiễm trùng đã lan đến thận hoặc vào máu."
+      },
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Sử dụng thuốc giảm đau để giảm cảm giác khó chịu khi đi tiểu bằng cách làm tê bàng quang và niệu đạo."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Uống nhiều nước để giúp đào thải vi khuẩn khỏi đường tiết niệu",
+      "Sử dụng thuốc giảm đau khi cần thiết để giảm khó chịu",
+      "Tránh các chất kích thích bàng quang như caffeine, rượu và đồ cay",
+      "Sử dụng miếng đệm làm ấm để giảm đau ở vùng bụng",
+      "Hoàn thành toàn bộ liệu trình kháng sinh dù triệu chứng đã biến mất"
+    ],
+    "prevention_of_transmission": [
+      "Vệ sinh vùng kín đúng cách, lau từ trước ra sau sau khi đi vệ sinh",
+      "Đi tiểu ngay sau khi quan hệ tình dục",
+      "Tránh quan hệ tình dục khi đang điều trị nhiễm khuẩn đường tiết niệu"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine đặc hiệu cho nhiễm khuẩn đường tiết niệu.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bổ sung nhiều chất lỏng, đặc biệt là nước để làm loãng nước tiểu và đi tiểu thường xuyên hơn",
+      "Dùng các thực phẩm có khả năng chống nhiễm khuẩn như nam việt quất, tỏi, sữa chua không đường, trái cây họ cam quýt, kiwi",
+      "Vệ sinh vùng kín đúng cách bằng cách lau từ trước ra sau sau khi đi vệ sinh",
+      "Đi tiểu và uống nước ngay sau khi quan hệ tình dục",
+      "Tránh các sản phẩm có khả năng gây kích ứng vùng sinh dục như xịt khử mùi, dung dịch vệ sinh có tính kháng khuẩn mạnh",
+      "Cân nhắc thay đổi phương pháp ngừa thai nếu đang sử dụng màng film, bao cao su không được bôi trơn hoặc chất diệt tinh trùng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhiễm khuẩn đường tiết niệu có tự khỏi không?",
+      "answer": "Mặc dù có những trường hợp nhẹ có thể tự khỏi, nhưng nhiễm khuẩn đường tiết niệu thường cần được điều trị bằng thuốc kháng sinh để ngăn ngừa biến chứng. Nếu không được điều trị, nhiễm trùng có thể lan đến thận và gây tổn thương nghiêm trọng. Vì vậy, nếu bạn có triệu chứng của UTI, tốt nhất nên tham khảo ý kiến của bác sĩ."
+    },
+    {
+      "question": "Tại sao phụ nữ dễ bị nhiễm khuẩn đường tiết niệu hơn nam giới?",
+      "answer": "Phụ nữ dễ bị nhiễm khuẩn đường tiết niệu hơn nam giới chủ yếu do cấu tạo giải phẫu. Niệu đạo của phụ nữ ngắn hơn (3,8-5,1 cm so với 20 cm ở nam giới), khiến vi khuẩn dễ dàng di chuyển đến bàng quang. Ngoài ra, lỗ niệu đạo của phụ nữ nằm gần hậu môn, tạo điều kiện cho vi khuẩn từ đường tiêu hóa xâm nhập vào đường tiết niệu. Hoạt động tình dục, sử dụng màng chắn tránh thai, và những thay đổi nội tiết tố trong thời kỳ mãn kinh cũng làm tăng nguy cơ nhiễm trùng ở phụ nữ."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa nhiễm khuẩn đường tiết niệu tái phát?",
+      "answer": "Để phòng ngừa nhiễm khuẩn đường tiết niệu tái phát, bạn nên: Uống nhiều nước (ít nhất 2 lít mỗi ngày); Đi tiểu ngay khi có nhu cầu và không nên nhịn tiểu; Đi tiểu sau khi quan hệ tình dục; Vệ sinh vùng kín từ trước ra sau; Tránh các sản phẩm vệ sinh phụ nữ có mùi thơm; Có thể bổ sung nam việt quất, sữa chua không đường vào chế độ ăn; Nếu bạn bị nhiễm trùng thường xuyên, bác sĩ có thể kê đơn kháng sinh liều thấp dài hạn, hoặc kháng sinh sau khi quan hệ tình dục."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nóng rát khi đi tiểu và tăng tần suất đi tiểu mà không tiểu được nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-khuan-duong-tiet-nieu",
+        "viem-bang-quang",
+        "viem-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau vùng chậu và nước tiểu có màu như nước trà đặc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-khuan-duong-tiet-nieu",
+        "viem-bang-quang",
+        "soi-than"
+      ]
+    },
+    {
+      "question": "Tôi hay tiểu buốt, tiểu gắt và nước tiểu có mùi khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-khuan-duong-tiet-nieu",
+        "viem-bang-quang",
+        "viem-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ớn lạnh, sốt và đau ở phần lưng trên và hai bên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-khuan-duong-tiet-nieu",
+        "viem-be-than",
+        "soi-than"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sốt cao rét run, kèm theo đau đầu và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-khuan-duong-tiet-nieu",
+        "viem-be-than",
+        "nhiem-trung-huyet"
+      ]
     }
   ]
 }

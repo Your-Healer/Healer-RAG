@@ -1,39 +1,117 @@
 {
   "disease_id": "nhip-nhanh-that",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhịp nhanh thất",
+  "disease_alternative_names": [
+    "Ventricular Tachycardia",
+    "VT",
+    "Loạn nhịp thất",
+    "Nhịp tim nhanh thất"
+  ],
+  "disease_definition": "Nhịp nhanh thất là tình trạng loạn nhịp tim nhanh xuất phát từ buồng tâm thất của tim, với nhịp tim đập nhanh hơn 100 nhịp mỗi phút. Có nhiều loại nhịp nhanh thất, nhưng thường liên quan đến bệnh tim cấu trúc hoặc bệnh mạch vành. Đây là một tình trạng nguy hiểm đe dọa đến tính mạng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chóng mặt, lâng lâng",
+      "description": "Cảm giác chóng mặt, lâng lâng do não không được cung cấp đủ máu khi tim đập quá nhanh."
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau, tức hoặc nặng nề ở vùng ngực do tim không hoạt động hiệu quả hoặc do thiếu máu cơ tim."
+    },
+    {
+      "name": "Hụt hơi",
+      "description": "Khó thở hoặc cảm giác thiếu không khí do tim không bơm đủ máu đến phổi và các cơ quan khác."
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Nhịp tim đập nhanh hơn bình thường, thường trên 100 nhịp/phút, có thể cảm nhận được."
+    },
+    {
+      "name": "Đánh trống ngực",
+      "description": "Cảm giác tim đập mạnh, như đánh trống trong ngực."
+    },
+    {
+      "name": "Ngất xỉu",
+      "description": "Mất ý thức tạm thời do não không được cung cấp đủ máu, có thể xảy ra đột ngột."
+    },
+    {
+      "name": "Tim ngừng đập",
+      "description": "Trong trường hợp nặng, nhịp nhanh thất có thể dẫn đến tim ngừng đập hoàn toàn, đe dọa tính mạng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nhịp nhanh thất xảy ra khi các xung điện bất thường từ tâm thất khiến tim đập nhanh hơn bình thường, thường do các tế bào cơ tim bị tổn thương, xơ hóa hoặc thay thế bằng sẹo, tạo điều kiện gây ra và duy trì cơn nhịp nhanh thất.",
+    "related_factors": "Bệnh thường gặp ở những bệnh nhân có bệnh tim cấu trúc, bệnh lý các kênh ion của tim hoặc bệnh nhân suy tim với chức năng bơm máu giảm. Trong suy tim, bệnh mạch vành và các bệnh lý cơ tim, nhiều vùng cơ tim có thể bị dày, giãn, thiếu máu nuôi và làm giảm chức năng co bóp.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Van tim bất thường",
+    "Bệnh cơ tim",
+    "Suy tim",
+    "Tiền sử nhồi máu cơ tim",
+    "Bệnh động mạch vành",
+    "Lưu lượng máu đến cơ tim kém",
+    "Mất cân bằng các chất điện giải (như kali, magiê)",
+    "Tác dụng phụ của thuốc",
+    "Tiền sử gia đình bị nhịp tim nhanh hoặc các rối loạn nhịp tim khác"
+  ],
+  "complications": [
+    "Suy tim: Nếu không điều trị, các cơn nhịp nhanh thất có thể dẫn đến suy tim. Ở người bệnh suy tim, các loại loạn nhịp thất cũng làm tình trạng suy tim nặng nề hơn.",
+    "Đột tử do tim: Nhịp nhanh thất kéo dài có liên quan đến nguy cơ đột tử.",
+    "Biến chứng liên quan đến tụt huyết áp",
+    "Tổn thương não do thiếu máu cục bộ khi ngất"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng để đánh giá các triệu chứng",
+      "Nghe tim để phát hiện nhịp tim bất thường",
+      "Đánh giá tiền sử bệnh và tiền sử gia đình"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Phương pháp chẩn đoán nhanh chóng và không đau, sử dụng các cảm biến (điện cực) gắn vào ngực và tay, chân để đo hoạt động điện của tim, giúp xác định loại nhịp tim nhanh."
+      },
+      {
+        "name": "Holter ECG",
+        "description": "Máy theo dõi điện tim liên tục trong 24-48 giờ, ghi lại hoạt động điện của tim để phát hiện các cơn loạn nhịp không xuất hiện trong lúc khám."
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Phương pháp giúp ghi nhận hình ảnh về cấu trúc tim, các van tim và chức năng co bóp của tim nhằm gợi ý đến nguyên nhân gây ra loạn nhịp."
+      },
+      {
+        "name": "Khảo sát điện sinh lý trong tim (EPS)",
+        "description": "Thủ thuật đưa các điện cực từ tĩnh mạch đùi vào tim để đánh giá các hoạt động điện của tim và khởi kích các cơn loạn nhịp tim, giúp chẩn đoán chính xác nguyên nhân loạn nhịp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị sẽ phụ thuộc vào nguyên nhân gây ra loạn nhịp. Trong một số bệnh lý loạn nhịp, người bệnh có thể được tư vấn tránh uống rượu bia, không vận động thể lực quá mức hoặc tránh sử dụng một số loại thuốc.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sốc điện",
+        "description": "Bác sĩ sử dụng một cú sốc điện để đưa nhịp tim trở lại bình thường. Đây là cách điều trị cấp cứu phổ biến, đặc biệt nếu nhịp nhanh thất khiến người bệnh ngất xỉu hoặc tụt huyết áp."
+      },
+      {
+        "name": "Thuốc chống loạn nhịp",
+        "description": "Các loại thuốc được sử dụng để kiểm soát nhịp tim và ngăn ngừa các cơn loạn nhịp tái phát."
+      },
+      {
+        "name": "Máy khử rung tim cấy được (ICD)",
+        "description": "Thiết bị nhỏ thường được đặt dưới da ngực, giúp phát hiện các cơn loạn nhịp thất đe doạ tính mạng và tạo ra các cú sốc điện để cứu mạng bệnh nhân và đưa nhịp tim trở về bình thường."
+      },
+      {
+        "name": "Cắt đốt ổ loạn nhịp",
+        "description": "Còn được gọi là triệt phá loạn nhịp qua ống thông (catheter). Bác sĩ đưa các điện cực vào trong tim để dò tìm vị trí ổ loạn nhịp và sử dụng năng lượng nhiệt để tiêu diệt vùng mô cơ tim gây ra loạn nhịp."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ hướng dẫn điều trị của bác sĩ",
+      "Uống thuốc đúng liều và đúng giờ",
+      "Thăm khám đúng lịch hẹn để bác sĩ kiểm tra, điều chỉnh thuốc",
+      "Báo cáo ngay cho bác sĩ nếu xuất hiện các triệu chứng bất thường",
+      "Duy trì lối sống lành mạnh với chế độ ăn uống khoa học và sinh hoạt điều độ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +119,55 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hành chế độ ăn ít chất béo, giàu chất xơ",
+      "Tập thể dục thường xuyên",
+      "Kiểm soát cân nặng, tránh thừa cân, béo phì",
+      "Bỏ thuốc lá, tránh hít khói thuốc thụ động, không dùng thuốc lá điện tử",
+      "Tuân thủ điều trị của bác sĩ nếu mắc các bệnh như tăng huyết áp, đái tháo đường, rối loạn mỡ máu",
+      "Thăm khám sức khỏe định kỳ để phát hiện và điều trị sớm các vấn đề tim mạch",
+      "Quản lý stress hiệu quả",
+      "Hạn chế uống rượu bia"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhịp nhanh thất và rung thất khác nhau như thế nào?",
+      "answer": "Nhịp nhanh thất và rung thất đều là những loại loạn nhịp tim nặng, nhưng rung thất nghiêm trọng hơn. Với nhịp nhanh thất, nhịp tim nhanh và khả năng co bóp yếu hơn bình thường làm giảm khả năng cung cấp máu cho các cơ quan khác. Trong khi đó, cơn rung thất sẽ khiến tim ngừng đập và gây đột tử. Trong một số bệnh lý, cơn nhịp nhanh thất kéo dài cũng có thể chuyển dạng thành rung thất."
+    },
+    {
+      "question": "Nhịp nhanh thất vô căn là gì?",
+      "answer": "Nhịp nhanh thất vô căn là tình trạng nhịp nhanh thất xuất hiện ở những người không có các bệnh lý tim mạch với cơ tim bình thường (do đó được gọi là vô căn). Dạng nhịp nhanh thất này thường dễ điều trị hơn và ít khi đe dọa đến tính mạng."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ nếu nghi ngờ bị nhịp nhanh thất?",
+      "answer": "Bạn cần thăm khám bác sĩ ngay khi gặp bất kỳ vấn đề nào với nhịp tim và có các triệu chứng như đau ngực, hụt hơi, lâng lâng, chóng mặt, ngất xỉu, hoặc nhịp tim nhanh liên tục. Đây có thể là dấu hiệu của tình trạng nhịp nhanh thất cần được điều trị kịp thời để tránh các biến chứng nguy hiểm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chóng mặt, lâng lâng và tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhip-nhanh-that",
+        "nhip-nhanh-tren-that",
+        "roi-loan-nhip-tim"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ngực và hụt hơi kèm theo tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhip-nhanh-that", "thieu-mau-co-tim", "suy-tim"]
+    },
+    {
+      "question": "Tôi hay bị đánh trống ngực và ngất xỉu đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhip-nhanh-that", "rung-nhi", "roi-loan-nhip-tim"]
+    },
+    {
+      "question": "Tôi cảm thấy chóng mặt, lâng lâng và hụt hơi, kèm theo tim đập rất nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhip-nhanh-that", "nhip-nhanh-tren-that", "suy-tim"]
+    },
+    {
+      "question": "Tôi bị đau ngực và ngất xỉu, tim đập nhanh và không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhip-nhanh-that", "rung-nhi", "roi-loan-nhip-tim"]
     }
   ]
 }

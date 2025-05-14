@@ -1,39 +1,126 @@
 {
   "disease_id": "mun-trung-ca-o-tuoi-day-thi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn trứng cá ở tuổi dậy thì",
+  "disease_alternative_names": [
+    "Mụn tuổi teen",
+    "Acne vulgaris ở tuổi dậy thì",
+    "Trứng cá tuổi dậy thì"
+  ],
+  "disease_definition": "Mụn trứng cá ở tuổi dậy thì là tình trạng da phổ biến xuất hiện trong giai đoạn dậy thì (từ 8-25 tuổi) - thời điểm mà hầu hết nam nữ đều có mụn trứng cá ở nhiều mức độ. Đây là giai đoạn mà cơ thể có nhiều thay đổi về hormone khiến tuyến dầu nhờn ở da hoạt động mạnh hơn, kết hợp với vi khuẩn gây mụn sinh ra khi lỗ chân lông bị bít tắc.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Bít tắc lỗ chân lông",
+      "description": "Lỗ chân lông bị bít tắc bởi dầu nhờn, tế bào chết và vi khuẩn, tạo điều kiện cho mụn hình thành."
+    },
+    {
+      "name": "Mụn đầu đen",
+      "description": "Vi khuẩn, tế bào chết hoặc các chất bã nhờn bị oxy hóa trên bề mặt da ở vị trí nang lông mở tạo thành các đốm mụn màu đen."
+    },
+    {
+      "name": "Mụn đầu trắng",
+      "description": "Lỗ chân lông bị bít tắc bởi tế bào chết, dầu thừa hay vi khuẩn nhưng nang lông đóng lại tạo nên đầu mụn màu trắng."
+    },
+    {
+      "name": "Mụn sần",
+      "description": "Những nốt mụn sưng nhỏ, có màu đỏ hoặc hồng, nhạy cảm với tác động bên ngoài. Xuất hiện nhiều mụn sần là dấu hiệu cảnh báo tình trạng mụn trứng cá từ mức trung bình đến nặng."
+    },
+    {
+      "name": "Mụn mủ",
+      "description": "Giống mụn đầu trắng nhưng có vòng tròn nhỏ màu đỏ quanh chân mụn (dấu hiệu viêm) và chứa dịch mủ có màu vàng hoặc trắng thay vì nhân mụn cứng."
+    },
+    {
+      "name": "Mụn bọc",
+      "description": "Xuất hiện khi vi khuẩn viêm tấn công sâu vào cấu trúc da, thường gặp ở nam giới và có thể xuất hiện ở mặt, ngực và lưng. Gây đau nhức, sưng tấy đỏ nặng, dễ tái phát."
+    },
+    {
+      "name": "Mụn dạng nang (u nang)",
+      "description": "Mụn dưới da có kích thước lớn (có khi bằng hạt đậu) chứa đầy mủ hoặc dịch và gây đau nhiều. Xuất hiện khi tình trạng viêm đã ở mức nặng và có nguy cơ cao để lại sẹo."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính gây mụn trứng cá ở tuổi dậy thì là do sự gia tăng hormone androgen - một hormone sinh dục - gây kích thích hoạt động của các tuyến dầu nhờn trên da, khiến da sản sinh quá mức bã nhờn và dầu thừa.",
+    "related_factors": "Ngoài yếu tố hormone, các yếu tố khác như vệ sinh da mặt kém, khí hậu nóng ẩm, hoạt động mạnh gây đổ mồ hôi, stress, sử dụng mỹ phẩm không phù hợp, chế độ sinh hoạt không lành mạnh cũng góp phần làm tăng nguy cơ mụn trứng cá tuổi dậy thì.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giai đoạn tuổi dậy thì (8-25 tuổi)",
+    "Thay đổi nội tiết tố",
+    "Vệ sinh da mặt không đúng cách hoặc không đủ",
+    "Sử dụng mỹ phẩm không phù hợp",
+    "Căng thẳng, stress thường xuyên",
+    "Chế độ ăn uống nhiều dầu mỡ",
+    "Thức khuya, sinh hoạt không điều độ",
+    "Uống ít nước",
+    "Tiếp xúc nhiều với môi trường nóng ẩm"
+  ],
+  "complications": [
+    "Để lại sẹo mụn, đặc biệt với mụn bọc và mụn dạng nang",
+    "Tổn thương da khi tự nặn mụn không đúng cách",
+    "Nhiễm trùng da",
+    "Ảnh hưởng tâm lý, tự ti về ngoại hình",
+    "Rối loạn cảm xúc, lo lắng quá mức"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng da liễu",
+      "Đánh giá mức độ nặng nhẹ của mụn",
+      "Xác định loại mụn (không viêm hay viêm)",
+      "Tìm hiểu tiền sử bệnh và các yếu tố liên quan"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám da liễu",
+        "description": "Bác sĩ da liễu sẽ khám và đánh giá tình trạng mụn, phân loại các loại mụn và mức độ ảnh hưởng đến da"
+      },
+      {
+        "name": "Kiểm tra nội tiết tố",
+        "description": "Trong một số trường hợp, bác sĩ có thể yêu cầu kiểm tra hormone để đánh giá xem có sự mất cân bằng nội tiết tố hay không"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị mụn trứng cá ở tuổi dậy thì cần đúng cách với các phương pháp phù hợp để hạn chế thấp nhất tổn thương da. Có thể cần mất từ 6-8 tuần mới bắt đầu nhận thấy rõ hiệu quả, từ 6 tháng trở lên để da hết mụn hoàn toàn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Trị mụn bằng thuốc bôi chứa Acid Salicylic",
+        "description": "Axit salicylic có khả năng ngăn ngừa tắc nghẽn lỗ chân lông, giúp nang lông thông thoáng hơn cũng như kiểm soát những tác nhân như da chết và bã nhờn."
+      },
+      {
+        "name": "Trị mụn bằng thuốc bôi chứa Acid Azelaic",
+        "description": "Giúp làm sạch lỗ chân lông, gom còi mụn và hạn chế nguy cơ mụn tái phát. Thành phần này chỉ có tác dụng tốt với mụn từ nhẹ tới vừa."
+      },
+      {
+        "name": "Trị mụn bằng thuốc bôi chứa Benzoyl Peroxide (BPO)",
+        "description": "Có công dụng diệt khuẩn và làm bong lớp sừng, thường được sử dụng để điều trị các loại mụn như mụn đầu đen, đầu trắng, mụn bọc, mụn viêm."
+      },
+      {
+        "name": "Trị mụn bằng thuốc bôi chứa Retinol",
+        "description": "Dẫn xuất từ vitamin A, giúp giảm dầu thừa, thông thoáng nang lông, kiểm soát mụn, đặc biệt là u nang và nốt sần. Còn có công dụng chống lão hóa, làm sáng và đều màu da."
+      },
+      {
+        "name": "Trị mụn bằng thuốc kháng sinh Clindamycin",
+        "description": "Ức chế hoạt động của vi khuẩn, giảm tổn thương da do viêm. Có ở cả dạng bôi hoặc uống, thường dùng cho mụn mức độ vừa tới nặng."
+      },
+      {
+        "name": "Trị mụn bằng nước chanh tươi",
+        "description": "Có thể dùng tăm bông chấm và thoa nhẹ nước chanh lên đầu mụn, giữ vài giây và rửa sạch sau đó. Chỉ nên dùng trong thời gian ngắn và cần tránh nắng kỹ."
+      },
+      {
+        "name": "Trị mụn bằng mật ong",
+        "description": "Đặc tính kháng khuẩn và làm dịu của mật ong giúp tiêu diệt vi khuẩn gây mụn và giảm mẩn đỏ, sưng tấy. Có thể kết hợp với sữa chua, chuối hay yến mạch để tạo mặt nạ hoặc chấm trực tiếp lên mụn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ liệu trình điều trị theo đúng chỉ định của bác sĩ",
+      "Dùng sữa rửa mặt phù hợp với tình trạng da (da nhờn, khô hoặc hỗn hợp) 2 lần mỗi ngày",
+      "Dùng sản phẩm có chứa adapalene để làm thông thoáng lỗ chân lông sau bước rửa mặt",
+      "Tránh tẩy tế bào chết quá nhiều hoặc rửa mặt quá thường xuyên để tránh kích ứng da mụn",
+      "Hạn chế chạm tay vào vùng da mụn",
+      "Nên đeo và thay thường xuyên khẩu trang",
+      "Gội đầu mỗi ngày nếu có tóc dài hoặc da đầu đổ nhờn nhiều",
+      "Không nên dùng nhiều mỹ phẩm",
+      "Bảo vệ da khỏi khói bụi, ánh nắng mặt trời, các vật dụng gây ma sát"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +128,64 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì vệ sinh da sạch sẽ, rửa mặt hai lần mỗi ngày với sữa rửa mặt phù hợp",
+      "Tránh dùng các sản phẩm chứa nhiều dầu hoặc chất béo",
+      "Uống đủ nước mỗi ngày",
+      "Hạn chế thức khuya, duy trì giấc ngủ đủ và đều đặn",
+      "Giảm stress và lo lắng",
+      "Ăn uống lành mạnh, tránh thực phẩm nhiều dầu mỡ",
+      "Tập thể dục thường xuyên để cải thiện tuần hoàn máu",
+      "Không tự ý nặn mụn để tránh viêm nhiễm và sẹo",
+      "Đến gặp bác sĩ da liễu khi tình trạng mụn nặng hoặc không thuyên giảm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn trứng cá ở tuổi dậy thì có tự khỏi không?",
+      "answer": "Mụn trứng cá ở tuổi dậy thì phần lớn có thể tự điều trị ở mức độ nhẹ. Tuy nhiên, trong nhiều trường hợp, đặc biệt là khi mụn ở mức độ trung bình và nặng, bệnh cần được điều trị bằng thuốc uống, thuốc bôi và chăm sóc da đúng cách. Có thể cần mất từ 6-8 tuần mới bắt đầu nhận thấy rõ hiệu quả, và từ 6 tháng trở lên để da hết mụn hoàn toàn."
+    },
+    {
+      "question": "Khi nào nên đến gặp bác sĩ về mụn trứng cá tuổi dậy thì?",
+      "answer": "Bạn nên đến gặp bác sĩ khi: tình trạng mụn nặng với số lượng mụn viêm, mụn mủ hay mụn bọc nhiều; thời gian bị mụn kéo dài, khó dứt điểm; không có hiệu quả cao khi áp dụng các phương pháp điều trị không kê đơn sau vài tháng; mụn xuất hiện như tác dụng phụ sau khi sử dụng thuốc; mụn để lại nhiều sẹo; hoặc khi tâm lý bị ảnh hưởng mạnh vì mụn khiến bạn tự ti, lo lắng quá mức."
+    },
+    {
+      "question": "Liệu có cách nào ngăn ngừa mụn trứng cá ở tuổi dậy thì?",
+      "answer": "Có nhiều cách để ngăn ngừa mụn trứng cá ở tuổi dậy thì như: dùng sữa rửa mặt phù hợp 2 lần mỗi ngày; dùng sản phẩm có chứa adapalene để làm thông thoáng lỗ chân lông; tránh tẩy tế bào chết quá nhiều; hạn chế chạm tay vào vùng da mụn; gội đầu mỗi ngày nếu có tóc dài; hạn chế mỹ phẩm; bảo vệ da khỏi khói bụi, ánh nắng; và giảm stress. Duy trì chế độ ăn uống lành mạnh và sinh hoạt điều độ cũng rất quan trọng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như bít tắc lỗ chân lông, xuất hiện mụn nhọt, mụn đầu đen, mụn đầu trắng ở mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca-o-tuoi-day-thi", "mun-cam", "mun-an"]
+    },
+    {
+      "question": "Tôi đang cảm thấy xuất hiện mụn mủ và u nang ở ngực và lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-trung-ca-o-tuoi-day-thi",
+        "mun-boc",
+        "viem-nang-long"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mụn trứng cá ở vai và cánh tay trên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-trung-ca-o-tuoi-day-thi",
+        "mun-trung-ca-o-lung",
+        "viem-nang-long"
+      ]
+    },
+    {
+      "question": "Tôi có mụn đầu đen và mụn đầu trắng ở trán, số lượng nhiều và kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-trung-ca-o-tuoi-day-thi",
+        "mun-cam",
+        "mun-dau-den"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng mụn mủ và u nang ở mặt, gây đau và sưng tấy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca-o-tuoi-day-thi", "mun-boc", "mun-viem"]
     }
   ]
 }

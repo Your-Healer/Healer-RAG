@@ -1,39 +1,99 @@
 {
   "disease_id": "mong-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mộng mắt",
+  "disease_alternative_names": ["Mộng thịt", "Kéo mây"],
+  "disease_definition": "Mộng mắt (mộng thịt) là sự tăng sinh các tế bào kết mạc tạo thành vùng mô hình cánh hoặc tam giác nhô lên phần lòng trắng của mắt. Bệnh phát triển từ khóe mắt, sau đó lan ra bên ngoài hoặc hướng đến giác mạc. Mộng thịt có thể ảnh hưởng đến 1 hoặc 2 mắt nhưng thường không xảy ra đồng thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mảng nhỏ màu hồng trên mắt",
+      "description": "Một mảng nhỏ màu hồng hơi nhô lên trên bề mặt mắt, thường xuất hiện ở phần lòng trắng."
+    },
+    {
+      "name": "Đỏ mắt và cảm giác khó chịu",
+      "description": "Mắt có thể bị đỏ, khó chịu hoặc sưng tấy do phản ứng viêm tại khu vực bị mộng thịt."
+    },
+    {
+      "name": "Khô, ngứa hoặc nóng mắt",
+      "description": "Cảm giác khô rát, ngứa ngáy hoặc nóng ở mắt, thường xuất hiện khi mộng thịt đang phát triển."
+    },
+    {
+      "name": "Cảm giác có vật lạ trong mắt",
+      "description": "Cảm giác như có cát hoặc sạn trong mắt, gây khó chịu khi nhìn hoặc chớp mắt."
+    },
+    {
+      "name": "Chảy nước mắt",
+      "description": "Mắt có thể tiết nhiều nước mắt như một phản ứng đối với kích thích do mộng thịt gây ra."
+    },
+    {
+      "name": "Thị lực bị ảnh hưởng",
+      "description": "Khi mộng mắt tăng kích thước và lan rộng đến giác mạc có thể gây mờ mắt hoặc nhìn đôi."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính gây mộng mắt là do tiếp xúc lâu dài với tia cực tím (UV) từ ánh nắng mặt trời.",
+    "related_factors": "Các yếu tố khác như di truyền, tiền sử khô mắt và tiếp xúc với các chất kích thích như bụi, cát và gió cũng có thể làm trầm trọng thêm tình trạng mộng mắt.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi từ 20 đến 40: Người trong độ tuổi này có nhiều khả năng bị mộng mắt",
+    "Giới tính: Nam giới có nguy cơ mắc bệnh cao gấp 2 lần so với phụ nữ",
+    "Vị trí địa lý: Những người sống gần xích đạo có nguy cơ cao hơn do tiếp xúc với ánh sáng cực tím mạnh hơn",
+    "Nghề nghiệp: Những người làm việc ngoài trời thường xuyên tiếp xúc với ánh nắng",
+    "Tiền sử gia đình mắc bệnh mộng thịt",
+    "Tiền sử bệnh khô mắt",
+    "Tiếp xúc thường xuyên với các chất kích thích như bụi, cát và gió"
+  ],
+  "complications": [
+    "Cản trở tầm nhìn khi mộng thịt phát triển trên giác mạc",
+    "Biến dạng hình dạng của giác mạc gây loạn thị (astigmatism)",
+    "Ảnh hưởng thị lực vĩnh viễn nếu mộng thịt gây sẹo giác mạc",
+    "Ảnh hưởng thẩm mỹ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám bằng đèn khe để kiểm tra giác mạc, mống mắt và thủy tinh thể",
+      "Kiểm tra thị lực để đánh giá ảnh hưởng đến khả năng nhìn",
+      "Đánh giá hình dạng giác mạc bằng bản đồ 3D để phát hiện bất thường",
+      "Chụp ảnh mắt để theo dõi sự phát triển của mộng thịt theo thời gian"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám đèn khe",
+        "description": "Bác sĩ sử dụng đèn khe để kiểm tra chi tiết các cấu trúc của mắt, đánh giá mức độ xâm lấn của mộng thịt vào giác mạc"
+      },
+      {
+        "name": "Bảng kiểm tra thị lực",
+        "description": "Kiểm tra xem bệnh nhân có thể nhìn thấy các chữ cái hoặc biểu tượng trên biểu đồ cách xa 6m"
+      },
+      {
+        "name": "Topography giác mạc",
+        "description": "Sử dụng máy tính để tạo bản đồ 3D của giác mạc, phát hiện sự biến dạng do mộng thịt gây ra"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị mộng mắt phụ thuộc vào mức độ nghiêm trọng của tình trạng bệnh. Mộng thịt nhỏ có thể không cần điều trị nếu không gây khó chịu hoặc ảnh hưởng đến thị lực.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc nhỏ mắt",
+        "description": "Sử dụng thuốc nhỏ mắt để điều trị kích ứng nhẹ và làm dịu giác mạc. Với tình trạng nặng, bác sĩ có thể kê đơn thuốc nhỏ mắt steroid trong thời gian ngắn theo chỉ định."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật là phương pháp điều trị duy nhất có thể loại bỏ mộng thịt. Nên loại bỏ mộng thịt trước khi bệnh phát triển lên giác mạc để tránh sẹo giác mạc và ảnh hưởng thị lực vĩnh viễn."
+      },
+      {
+        "name": "Bảo vệ chống bức xạ tia cực tím",
+        "description": "Đối với mộng thịt nhỏ, không đau và không gây vấn đề về thị lực, người bệnh nên đội mũ và đeo kính râm khi tiếp xúc với ánh nắng để ngăn sự phát triển của mộng thịt."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sử dụng kính râm có tròng được thiết kế ngăn tia cực tím khi ở ngoài trời",
+      "Đội mũ rộng vành để che chắn mắt khỏi ánh nắng trực tiếp",
+      "Sử dụng thuốc nhỏ mắt theo chỉ định của bác sĩ",
+      "Tránh môi trường nhiều bụi, khói và gió",
+      "Theo dõi định kỳ sự phát triển của mộng thịt"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +101,54 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chủ động bảo vệ mắt khỏi bức xạ cực tím bằng cách đội mũ rộng vành và đeo kính râm có tròng ngăn tia UV",
+      "Luôn đeo kính râm khi ra ngoài để bảo vệ mắt khỏi gió, bụi và cát",
+      "Tránh khí hậu khô hoặc ấm, môi trường nhiều khói và gió",
+      "Thường xuyên theo dõi các thay đổi trong mắt, đặc biệt là kích thước, màu sắc và hình dạng của mộng thịt nếu có",
+      "Khám mắt định kỳ để phát hiện và điều trị kịp thời các vấn đề về mắt",
+      "Hạn chế tiếp xúc với tia cực tím sau phẫu thuật để giảm thiểu nguy cơ tái phát"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mộng mắt có nguy hiểm không?",
+      "answer": "Mộng thịt giai đoạn đầu không ảnh hưởng đến thị lực nhưng không thẩm mỹ. Tuy nhiên, nếu mộng thịt phát triển, nó có thể cản trở tầm nhìn, làm biến dạng giác mạc và gây loạn thị. Mộng thịt là khối u lành tính, không phải ung thư, nên chỉ ảnh hưởng cục bộ đến mắt và không lan sang các bộ phận khác trên cơ thể."
+    },
+    {
+      "question": "Mộng mỡ và mộng thịt có gì khác nhau?",
+      "answer": "Mộng mỡ là khối u màu trắng hoặc vàng nổi lên trên tròng trắng của mắt, không chồng lên giác mạc và không có bất kỳ triệu chứng nào. Mộng thịt là sự phát triển kích thước của kết mạc, có nhiều mạch máu bên trong và có thể lan rộng đến giác mạc, gây các triệu chứng khó chịu."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa mộng mắt?",
+      "answer": "Để phòng ngừa mộng mắt, bạn nên: Bảo vệ mắt khỏi bức xạ UV bằng kính râm chống tia UV và mũ rộng vành; Tránh môi trường khói, bụi và gió; Thường xuyên theo dõi các thay đổi ở mắt; Đi khám mắt định kỳ để phát hiện sớm các vấn đề; Hạn chế tiếp xúc với tia UV sau phẫu thuật để giảm nguy cơ tái phát."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có một mảng nhỏ màu hồng hơi nhô trên mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mong-mat", "viem-ket-mac", "khoi-u-ket-mac"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mắt đỏ và khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mong-mat", "viem-ket-mac", "kho-mat", "viem-mi-mat"]
+    },
+    {
+      "question": "Tôi hay cảm thấy mắt bị khô và ngứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mong-mat", "kho-mat", "viem-ket-mac", "di-ung-mat"]
+    },
+    {
+      "question": "Tôi đang cảm thấy như có cát hoặc sạn trong mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mong-mat",
+        "kho-mat",
+        "viem-giac-mac",
+        "tram-tich-ket-mac"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy có khối u phát triển trên bề mặt mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mong-mat", "u-ket-mac", "mong-mo", "nang-ket-mac"]
     }
   ]
 }

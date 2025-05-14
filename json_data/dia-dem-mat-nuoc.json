@@ -1,58 +1,356 @@
 {
   "disease_id": "dia-dem-mat-nuoc",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Đĩa Đệm Mất Nước",
+  "disease_alternative_names": [
+    "Khô đĩa đệm",
+    "Xẹp đĩa đệm",
+    "Thoái hóa đĩa đệm",
+    "Degenerative disc disease"
+  ],
+  "disease_definition": "Đĩa đệm mất nước là tình trạng những đĩa đệm giữa các đốt sống bị mất nước, dần mỏng hơn và mất khả năng đàn hồi. Đây là một trong các biểu hiện của quá trình lão hóa đĩa đệm. Bệnh tiến triển qua ba giai đoạn: giai đoạn đầu với mất nước nhẹ, giai đoạn hai với sự xẹp đĩa đệm và thu hẹp khoảng cách giữa các đốt xương, và giai đoạn cuối khi các đốt xương dính liền nhau gây đau dữ dội.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau âm ỉ vùng cột sống",
+      "description": "Người bệnh cảm thấy đau âm ỉ hoặc dữ dội tại vùng cột sống cổ hoặc cột sống lưng, đặc biệt ở thời điểm mới khởi phát có thể chỉ là những cơn đau nhẹ âm ỉ."
+    },
+    {
+      "name": "Cứng lưng và khó vận động",
+      "description": "Khi đĩa đệm bị mỏng dần, người bệnh sẽ bị cứng ở lưng, gây nhiều khó khăn khi vận động, đứng lên ngồi xuống hoặc xoay người."
+    },
+    {
+      "name": "Đau tăng khi cử động",
+      "description": "Cơn đau thường tăng lên khi người bệnh thực hiện các cử động như cúi người, đứng lên, ngồi xuống hoặc khi ho, hắt hơi."
+    },
+    {
+      "name": "Đau lan tỏa",
+      "description": "Đau có thể lan tới những bộ phận khác như tay, vai, hông, mông, bắp đùi và bàn chân do sự chèn ép lên dây thần kinh."
+    },
+    {
+      "name": "Tê bì và ngứa ran",
+      "description": "Khi đĩa đệm quá mỏng, xương sẽ chèn ép lên những dây thần kinh, gây tê bì và ngứa ran ở tay, chân."
+    },
+    {
+      "name": "Yếu cơ",
+      "description": "Sự chèn ép dây thần kinh cũng có thể dẫn đến tình trạng suy yếu cơ ở tay hoặc chân, gây khó khăn khi thực hiện các hoạt động thông thường."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Quá trình lão hóa là nguyên nhân chủ yếu gây xẹp đĩa đệm. Khi tuổi tác càng cao, đĩa đệm sẽ dần trở nên suy yếu. Nhân nhầy bên trong đĩa đệm suy giảm cùng với áp lực từ những đốt sống, khiến đĩa đệm bị xẹp đi, mất đi các chức năng vốn có.",
+    "related_factors": "Ngoài quá trình lão hóa tự nhiên, đĩa đệm mất nước còn có thể do các bệnh xương khớp, chấn thương, thói quen sinh hoạt không lành mạnh, hoặc di truyền. Thường xuyên ngồi nhiều, tư thế ngồi không đúng, nâng vác vật nặng không đúng cách tạo áp lực lớn lên cột sống, dẫn đến thoái hóa đĩa đệm sớm.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác cao (quá trình lão hóa tự nhiên)",
+    "Mắc các bệnh xương khớp như loãng xương, thoái hóa cột sống",
+    "Chấn thương cột sống do thể thao, té ngã, tai nạn",
+    "Ngồi quá nhiều hoặc tư thế ngồi không đúng",
+    "Làm các công việc nặng nhọc, thường xuyên nâng vác vật nặng",
+    "Thừa cân, béo phì gây áp lực lên cột sống",
+    "Hút thuốc lá làm tăng tốc độ thoái hóa đĩa đệm",
+    "Chế độ ăn uống thiếu lành mạnh, thiếu nước",
+    "Tiền sử gia đình có người mắc bệnh về cột sống"
+  ],
+  "complications": [
+    "Đau mãn tính ảnh hưởng đến chất lượng cuộc sống",
+    "Hạn chế vận động",
+    "Chèn ép dây thần kinh",
+    "Thoát vị đĩa đệm",
+    "Thoái hóa khớp mặt",
+    "Hẹp ống sống",
+    "Mất ổn định cột sống",
+    "Dính các đốt sống với nhau",
+    "Suy giảm chức năng thần kinh (tê liệt, rối loạn cảm giác, rối loạn cơ tròn)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng, trao đổi thông tin với người bệnh về vị trí và tính chất cơn đau",
+      "Kiểm tra sức mạnh cơ bắp để đánh giá tình trạng teo cơ hoặc bất thường",
+      "Đánh giá cơn đau khi thực hiện các động tác khác nhau",
+      "Kiểm tra chức năng thần kinh bằng búa phản xạ và kích thích nhiệt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Giúp phát hiện ra bất thường trong cấu trúc cột sống và hình dạng của xương đĩa đệm."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT scan)",
+        "description": "Hỗ trợ bác sĩ xác định cụ thể hình ảnh đốt sống đĩa đệm và mức độ lún của đĩa đệm."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết về đĩa đệm và dây thần kinh, giúp xác định mức độ chèn ép dây thần kinh và tình trạng mất nước của đĩa đệm."
+      },
+      {
+        "name": "Điện cơ (EMG)",
+        "description": "Kiểm tra hoạt động điện của cơ và dây thần kinh, giúp xác định mức độ tổn thương thần kinh do chèn ép."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị đĩa đệm mất nước tập trung vào việc giảm đau, cải thiện chức năng và ngăn ngừa tổn thương thêm. Đối với hầu hết người bệnh, các phương pháp không phẫu thuật thường được áp dụng trước. Phẫu thuật chỉ được cân nhắc khi các biện pháp bảo tồn không hiệu quả hoặc trong trường hợp nghiêm trọng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc giảm đau",
+        "description": "Thuốc giảm đau không kê đơn như ibuprofen hay naproxen có thể giúp cải thiện triệu chứng đau và viêm. Thuốc giãn cơ cũng được sử dụng để giảm co thắt cơ và hỗ trợ thư giãn cột sống."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Các bài tập tăng cường sức mạnh cơ lưng, cải thiện tư thế và tăng tính linh hoạt có thể giúp giảm đau và ngăn ngừa tổn thương thêm. Chuyên gia vật lý trị liệu sẽ hướng dẫn các bài tập phù hợp với từng cá nhân."
+      },
+      {
+        "name": "Massage trị liệu",
+        "description": "Xoa bóp và massage có thể làm giảm cơn đau do khô đĩa đệm, giúp thư giãn những đốt sống và cải thiện lưu thông máu đến vùng bị ảnh hưởng."
+      },
+      {
+        "name": "Trị liệu thần kinh cột sống",
+        "description": "Bác sĩ sẽ tiến hành nắn chỉnh cấu trúc sai lệch của khớp xương và đĩa đệm, giải phóng sự chèn ép lên rễ dây thần kinh và ống sống, kích thích khả năng tự phục hồi của cơ thể."
+      },
+      {
+        "name": "Tiêm corticosteroid ngoài màng cứng",
+        "description": "Phương pháp này giúp giảm viêm, sưng và đau lưng. Thuốc được tiêm dưới sự hướng dẫn của X-quang để đảm bảo tính chính xác."
+      },
+      {
+        "name": "Thay thế đĩa đệm nhân tạo",
+        "description": "Đây là thủ thuật phẫu thuật thay thế toàn bộ đĩa đệm. Bác sĩ sẽ loại bỏ đĩa đệm bị hư hỏng và thay bằng một đĩa đệm nhân tạo."
+      },
+      {
+        "name": "Phẫu thuật hợp nhất cột sống",
+        "description": "Bác sĩ loại bỏ đĩa đệm tổn thương, sau đó hợp nhất hai đốt sống với nhau bằng cách ghép xương và cố định bằng vít, que, móc vào cột sống để tạo sự ổn định."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì cân nặng hợp lý để giảm áp lực lên cột sống",
+      "Cải thiện tư thế khi ngồi, đứng và nằm",
+      "Tránh nâng vật nặng hoặc học cách nâng đúng kỹ thuật",
+      "Tập luyện thường xuyên để tăng cường sức mạnh cơ lưng và cải thiện tính linh hoạt",
+      "Áp dụng nguyên tắc ergonomics (công thái học) tại nơi làm việc",
+      "Nghỉ ngơi đầy đủ khi có cơn đau cấp tính",
+      "Tránh các hoạt động gây căng thẳng quá mức cho cột sống",
+      "Sử dụng đệm lưng hoặc gối hỗ trợ khi ngồi lâu",
+      "Thay đổi tư thế thường xuyên, tránh ngồi hoặc đứng quá lâu một chỗ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa đĩa đệm mất nước vì đây là một quá trình thoái hóa tự nhiên, không phải bệnh lây nhiễm.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Uống đủ nước hàng ngày để cung cấp độ ẩm cho đĩa đệm",
+      "Không hút thuốc lá vì các hóa chất trong thuốc lá có thể làm tăng tốc độ thoái hóa đĩa đệm",
+      "Kiểm soát tốt cân nặng để tránh tạo áp lực lớn lên lưng và cột sống",
+      "Duy trì tư thế đúng khi ngồi, đứng hoặc khi khuân vác vật nặng",
+      "Thường xuyên tập thể dục để tăng cường sức khỏe cơ bắp và hỗ trợ cột sống",
+      "Sử dụng nệm và gối phù hợp, hỗ trợ tốt cho cột sống khi ngủ",
+      "Tránh ngồi quá lâu, nên đứng dậy và vận động mỗi 30-60 phút",
+      "Ăn uống cân bằng, bổ sung canxi và vitamin D cho sức khỏe xương",
+      "Tránh nâng vật nặng hoặc nếu cần, hãy sử dụng kỹ thuật nâng đúng cách"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Đĩa đệm mất nước có thể hồi phục được không?",
+      "answer": "Đĩa đệm mất nước là một phần của quá trình lão hóa tự nhiên và không thể đảo ngược hoàn toàn. Tuy nhiên, có thể làm chậm tiến trình và giảm thiểu các triệu chứng thông qua các biện pháp như uống đủ nước, duy trì cân nặng hợp lý, tập thể dục đều đặn và cải thiện tư thế. Các phương pháp điều trị y khoa cũng có thể giúp giảm đau và cải thiện chức năng cột sống."
+    },
+    {
+      "question": "Khi nào cần phẫu thuật cho tình trạng đĩa đệm mất nước?",
+      "answer": "Phẫu thuật thường chỉ được cân nhắc khi các phương pháp điều trị bảo tồn không mang lại hiệu quả sau 6-12 tháng, hoặc khi có các dấu hiệu nghiêm trọng như: đau không kiểm soát được bằng thuốc, yếu cơ tiến triển, tê liệt, mất kiểm soát đại tiểu tiện, hoặc có bằng chứng rõ ràng về tổn thương thần kinh trên hình ảnh chẩn đoán và khám lâm sàng."
+    },
+    {
+      "question": "Tôi có thể tập thể dục khi bị đĩa đệm mất nước không?",
+      "answer": "Có, tập thể dục thích hợp thực sự được khuyến khích cho người bị đĩa đệm mất nước. Các bài tập nhẹ nhàng như đi bộ, bơi lội, yoga, và các bài tập tăng cường cơ lưng có thể giúp cải thiện sức mạnh, tính linh hoạt và lưu thông máu. Tuy nhiên, bạn nên tham khảo ý kiến bác sĩ hoặc chuyên gia vật lý trị liệu để được hướng dẫn các bài tập phù hợp với tình trạng cụ thể của mình và tránh các hoạt động có thể làm trầm trọng thêm triệu chứng."
+    },
+    {
+      "question": "Đĩa đệm mất nước có gây thoát vị đĩa đệm không?",
+      "answer": "Đĩa đệm mất nước và thoát vị đĩa đệm là hai tình trạng khác nhau nhưng có liên quan. Khi đĩa đệm mất nước, nó trở nên kém đàn hồi và mỏng hơn, dễ bị tổn thương hơn. Trong một số trường hợp, phần nhân nhầy bên trong đĩa đệm có thể đẩy qua các vết rách trên vòng sợi bên ngoài, dẫn đến thoát vị đĩa đệm. Vì vậy, đĩa đệm mất nước có thể là yếu tố nguy cơ cho thoát vị đĩa đệm, nhưng không phải tất cả người bị đĩa đệm mất nước đều sẽ phát triển thoát vị."
+    },
+    {
+      "question": "Liệu tình trạng đĩa đệm mất nước có thể gây đau suốt đời không?",
+      "answer": "Không nhất thiết. Mặc dù đĩa đệm mất nước là một tình trạng vĩnh viễn, nhưng đau không phải là kết quả không thể tránh khỏi hoặc kéo dài suốt đời. Nhiều người có thể quản lý thành công các triệu chứng đau thông qua kết hợp các phương pháp như điều trị vật lý, thuốc giảm đau, tiêm corticosteroid, và thay đổi lối sống. Thậm chí, một số nghiên cứu cho thấy trong nhiều trường hợp, cơn đau có thể giảm dần theo thời gian khi cơ thể thích nghi với những thay đổi ở cột sống."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau âm ỉ vùng cột sống lưng, khó khăn khi vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Thoát vị đĩa đệm",
+        "Thoái hóa cột sống",
+        "Viêm khớp cột sống"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cứng lưng, đau tăng khi cúi người hoặc đứng lên ngồi xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Thoái hóa khớp mặt",
+        "Viêm cột sống dính khớp",
+        "Đau cơ mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lan xuống mông, đùi, và bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Thoát vị đĩa đệm",
+        "Hẹp ống sống",
+        "Đau dây thần kinh tọa"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tê bì chân tay, yếu cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Chèn ép rễ thần kinh",
+        "Hẹp ống sống",
+        "Bệnh thần kinh ngoại biên"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhói vùng cột sống cổ, lan lên vai và cánh tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước ở cổ",
+        "Thoát vị đĩa đệm cổ",
+        "Viêm khớp cột sống cổ",
+        "Hội chứng chèn ép rễ thần kinh cổ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị hạn chế vận động, khó xoay người hoặc cúi gập người. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Thoái hóa cột sống",
+        "Viêm cột sống dính khớp",
+        "Cứng khớp cột sống"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau tăng khi ho hoặc hắt hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Thoát vị đĩa đệm",
+        "Gãy đốt sống",
+        "Vết nứt vòng sợi đĩa đệm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhiều hơn khi ngồi lâu hoặc đứng lâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Thoái hóa cột sống",
+        "Trượt đốt sống",
+        "Hẹp ống sống"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mất cảm giác ở một số vùng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Chèn ép thần kinh",
+        "Viêm dây thần kinh",
+        "Hội chứng ống cổ tay"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như yếu cơ chân, khó khăn khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Hẹp ống sống",
+        "Chèn ép tủy sống",
+        "Bệnh lý thần kinh cơ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức lan xuống cánh tay, kèm theo tê bì ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước ở cổ",
+        "Thoát vị đĩa đệm cổ",
+        "Hẹp lỗ tiếp hợp cột sống cổ",
+        "Viêm rễ thần kinh cổ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu, chóng mặt do đau cột sống cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước ở cổ",
+        "Thoái hóa đốt sống cổ",
+        "Chứng đau đầu do cổ",
+        "Rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như rối loạn đại tiểu tiện do chèn ép thần kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Hội chứng đuôi ngựa",
+        "Chèn ép tủy sống",
+        "Thoát vị đĩa đệm trung tâm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng tăng lên khi mang vác vật nặng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Thoát vị đĩa đệm",
+        "Căng cơ cạnh sống",
+        "Viêm dây chằng cột sống"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lưng về đêm, khó khăn khi nằm ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Viêm khớp cột sống",
+        "Đau lưng do viêm",
+        "U tủy sống"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau lưng kèm theo sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm đĩa đệm",
+        "Viêm cột sống",
+        "Áp xe cột sống",
+        "Bệnh lý nhiễm trùng cột sống"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lo lắng, căng thẳng do đau kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Đau lưng mạn tính",
+        "Rối loạn lo âu",
+        "Trầm cảm do đau mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay gặp khó khăn khi thực hiện các động tác sinh hoạt hàng ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Thoái hóa cột sống",
+        "Viêm khớp",
+        "Bệnh lý thần kinh cơ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau lưng, kèm theo sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tủy sống",
+        "Ung thư di căn cột sống",
+        "Bệnh lý nhiễm trùng cột sống",
+        "Viêm cột sống dạng thấp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng kéo dài, không đáp ứng với thuốc giảm đau thông thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đĩa đệm mất nước",
+        "Viêm khớp cột sống",
+        "Bệnh lý tủy sống",
+        "Đau thần kinh mạn tính"
+      ]
     }
   ]
 }

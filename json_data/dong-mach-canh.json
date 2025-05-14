@@ -1,58 +1,264 @@
 {
   "disease_id": "dong-mach-canh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Bệnh Động Mạch Cảnh",
+  "disease_alternative_names": [
+    "Hẹp động mạch cảnh",
+    "Xơ vữa động mạch cảnh",
+    "Carotid Artery Disease"
+  ],
+  "disease_definition": "Bệnh động mạch cảnh là tình trạng thu hẹp hoặc tắc nghẽn của các động mạch cảnh - những động mạch chính ở cổ cung cấp máu giàu oxy cho não, mặt và cổ. Sự thu hẹp thường do sự tích tụ của các chất béo và cặn cholesterol (mảng bám) trong lòng mạch, làm cản trở quá trình lưu thông máu và có thể dẫn đến đột quỵ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng rõ ràng",
+      "description": "Bệnh động mạch cảnh thường không có triệu chứng cho đến khi bị cơn thiếu máu não thoáng qua hoặc đột quỵ. Đó là lý do tại sao việc tầm soát và khám bác sĩ thường xuyên là rất quan trọng."
+    },
+    {
+      "name": "Cơn thiếu máu não thoáng qua (TIA)",
+      "description": "Đây là tình trạng mất máu đột ngột, tạm thời đến một vùng não, thường kéo dài vài phút đến một giờ. Các triệu chứng biến mất hoàn toàn trong vòng 24 giờ với sự phục hồi hoàn toàn."
+    },
+    {
+      "name": "Yếu hoặc liệt một bên cơ thể",
+      "description": "Đột ngột yếu, vụng về hoặc liệt ở một bên tay hoặc chân, gây khó khăn trong việc di chuyển."
+    },
+    {
+      "name": "Rối loạn ý thức",
+      "description": "Khả năng tập trung giảm, hay nhầm lẫn, mất khả năng chuyển động."
+    },
+    {
+      "name": "Đau đầu và chóng mặt",
+      "description": "Đau đầu dữ dội, chóng mặt, ngất xỉu có thể là dấu hiệu của bệnh động mạch cảnh."
+    },
+    {
+      "name": "Tê hoặc mất cảm giác",
+      "description": "Tê hoặc mất cảm giác ở mặt, cánh tay hoặc chân, thường xuất hiện ở một bên cơ thể."
+    },
+    {
+      "name": "Mờ mắt hoặc mất thị lực tạm thời",
+      "description": "Suy giảm thị lực hoặc mất thị lực tạm thời ở một hoặc cả hai mắt."
+    },
+    {
+      "name": "Rối loạn ngôn ngữ",
+      "description": "Không có khả năng nói rõ ràng hoặc nói lắp, khó khăn trong việc diễn đạt lời nói."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Bệnh động mạch cảnh phần lớn do xơ vữa động mạch gây ra - một quá trình mà các mảng bám (cặn cholesterol béo) tích tụ trong lòng mạch máu, làm thu hẹp động mạch và hạn chế lưu lượng máu đến não. Khi mảng bám vỡ ra, nó có thể tạo thành cục máu đông và gây tắc nghẽn mạch máu, dẫn đến đột quỵ.",
+    "related_factors": "Sự hình thành mảng bám xơ vữa trong động mạch cảnh xảy ra dần dần theo thời gian. Khi mảng bám dày lên, nó sẽ thu hẹp dòng máu và có thể dẫn đến tắc nghẽn hoàn toàn. Các mảnh của mảng bám cũng có thể bong ra và di chuyển lên não, gây tắc nghẽn các mạch máu nhỏ hơn và hạn chế lưu lượng máu đến các tế bào não.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tăng huyết áp",
+    "Tuổi tác cao",
+    "Hút thuốc lá",
+    "Lipid bất thường hoặc cholesterol cao",
+    "Kháng insulin",
+    "Bệnh đái tháo đường",
+    "Béo phì",
+    "Lối sống ít vận động",
+    "Tiền sử gia đình bị xơ vữa động mạch, bệnh động mạch vành hoặc bệnh động mạch cảnh",
+    "Nam giới dưới 75 tuổi có nguy cơ mắc bệnh cao hơn phụ nữ cùng độ tuổi",
+    "Phụ nữ trên 75 tuổi có nguy cơ cao hơn nam giới cùng độ tuổi",
+    "Người bị bệnh động mạch vành"
+  ],
+  "complications": [
+    "Đột quỵ - nguyên nhân tử vong đứng hàng thứ 5 ở Mỹ",
+    "Cơn thiếu máu não thoáng qua (TIA)",
+    "Liệt vĩnh viễn một bên cơ thể",
+    "Mất thị lực vĩnh viễn",
+    "Rối loạn ngôn ngữ kéo dài",
+    "Tổn thương não vĩnh viễn",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Nghe tiếng thổi ở cổ bằng ống nghe",
+      "Khám lâm sàng để kiểm tra các triệu chứng",
+      "Đánh giá tiền sử bệnh và các yếu tố nguy cơ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm động mạch cảnh",
+        "description": "Đây là bước đầu tiên sàng lọc không xâm lấn, không đau. Phương pháp này sử dụng sóng âm thanh tần số cao để xem các động mạch cảnh, giúp tìm kiếm các mảng bám và cục máu đông, xác định xem các động mạch có bị hẹp hay bị tắc nghẽn hay không."
+      },
+      {
+        "name": "Siêu âm Doppler",
+        "description": "Cho thấy sự chuyển động của máu qua các động mạch. Hình ảnh siêu âm không sử dụng tia X nên an toàn với người bệnh."
+      },
+      {
+        "name": "Chụp mạch cộng hưởng từ (MRA)",
+        "description": "Kỹ thuật hình ảnh này nhằm thu thập thông tin chính xác về não và động mạch. Sau đó, một máy tính sử dụng thông tin này để tạo ra hình ảnh có độ phân giải cao. MRA thường có thể phát hiện các dấu hiệu đột quỵ."
+      },
+      {
+        "name": "Chụp mạch cắt lớp vi tính (CTA)",
+        "description": "Chụp CT sử dụng tia X và công nghệ máy tính để tạo ra hình ảnh cắt ngang của các động mạch cảnh. Hình ảnh của bộ não cũng có thể được thu thập. Với kỹ thuật hình ảnh này, quá trình quét có thể tiết lộ các vùng tổn thương trên não."
+      },
+      {
+        "name": "Chụp động mạch não (chụp động mạch cảnh)",
+        "description": "Thủ thuật này được coi là tiêu chuẩn vàng để tạo hình động mạch cảnh. Đây là một thủ thuật xâm lấn cho phép bác sĩ xem dòng máu chảy qua các động mạch cảnh trong thời gian thực. Chụp động mạch não sẽ nhìn thấy được sự thu hẹp hoặc tắc nghẽn khi thuốc cản quang được bơm vào động mạch cảnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu trong điều trị bệnh động mạch cảnh là ngăn ngừa đột quỵ. Phương pháp điều trị cụ thể tùy thuộc vào mức độ tắc nghẽn trong động mạch cảnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Nếu tắc nghẽn nhẹ đến trung bình, bác sĩ sẽ đề nghị thay đổi lối sống để làm chậm tiến triển của xơ vữa động mạch, bao gồm: bỏ thuốc lá, giảm cân, giảm muối, ăn thức ăn lành mạnh và tập thể dục thường xuyên."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc để kiểm soát huyết áp hoặc giảm cholesterol. Bác sĩ cũng có thể khuyên dùng aspirin hàng ngày hoặc thuốc làm loãng máu khác để ngăn ngừa cục máu đông."
+      },
+      {
+        "name": "Cắt nội mạc động mạch cảnh",
+        "description": "Đây là phương pháp điều trị phổ biến nhất cho bệnh động mạch cảnh nặng. Sau khi rạch một đường dọc phía trước cổ, bác sĩ phẫu thuật sẽ mở động mạch cảnh bị ảnh hưởng và loại bỏ các mảng xơ vữa. Động mạch được sửa chữa bằng cách khâu hoặc ghép."
+      },
+      {
+        "name": "Tạo hình và đặt stent động mạch cảnh",
+        "description": "Nếu khó tiếp cận chỗ tắc bằng phẫu thuật cắt bỏ nội mạc động mạch cảnh hoặc người bệnh có tình trạng sức khỏe khác khiến phẫu thuật trở nên rủi ro, bác sĩ sẽ chọn phương án can thiệp bằng cách đặt stent. Theo đó, người bệnh được gây tê cục bộ và một quả bóng nhỏ được luồn bằng ống thông vào khu vực tắc nghẽn. Quả bóng được bơm căng để mở rộng động mạch và một cuộn lưới thép nhỏ (stent) được đưa vào để giữ cho động mạch không bị chít hẹp trở lại."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng phác đồ điều trị của bác sĩ",
+      "Uống thuốc đúng liều lượng và thời gian",
+      "Tái khám định kỳ theo lịch hẹn",
+      "Thông báo với bác sĩ nếu có bất kỳ tác dụng phụ nào của thuốc",
+      "Giám sát huyết áp, đường huyết và cholesterol thường xuyên",
+      "Thực hiện thay đổi lối sống theo hướng dẫn của bác sĩ",
+      "Tránh các hoạt động có thể gây tăng huyết áp đột ngột",
+      "Cần được cấp cứu ngay lập tức nếu có dấu hiệu của đột quỵ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa bệnh động mạch cảnh.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá: Trong vòng vài năm sau khi bỏ thuốc lá, nguy cơ đột quỵ của một người từng hút thuốc lá tương tự như người không hút thuốc lá",
+      "Duy trì cân nặng khỏe mạnh",
+      "Phòng tránh các yếu tố nguy cơ khác như tăng huyết áp, bệnh tim mạch, đái tháo đường và chứng ngưng thở khi ngủ",
+      "Hạn chế cholesterol và chất béo: Đặc biệt, việc cắt giảm chất béo bão hòa có thể làm giảm sự tích tụ các mảng bám trong lòng động mạch",
+      "Ăn nhiều loại trái cây và rau quả: Cung cấp nhiều chất dinh dưỡng như kali, folate và chất chống oxy hóa, có thể chống lại cơn thiếu máu thoáng qua hoặc đột quỵ",
+      "Hạn chế muối: Tình trạng dư thừa muối (natri) có thể làm tăng huyết áp ở những người nhạy cảm với natri. Các chuyên gia khuyên rằng người trưởng thành, khỏe mạnh nên ăn ít hơn 1,5g muối/ngày",
+      "Tập thể dục thường xuyên: Có thể giúp ổn định huyết áp, tăng tỷ trọng HDL – cholesterol tốt và cải thiện sức khỏe tổng thể của mạch máu, tim",
+      "Hạn chế rượu bia",
+      "Kiểm soát các bệnh mạn tính: Quản lý tốt các bệnh đái tháo đường và tăng huyết áp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh động mạch cảnh có nguy hiểm không?",
+      "answer": "Bệnh động mạch cảnh có thể rất nguy hiểm nếu không được điều trị. Hẹp động mạch cảnh là nguyên nhân gây ra khoảng 10-20% các cơn đột quỵ, có thể để lại biến chứng nặng nề cho người bệnh, thậm chí đe dọa tính mạng. Khi động mạch cảnh bị thu hẹp hoặc tắc nghẽn, máu không thể đến não một cách hiệu quả, dẫn đến nguy cơ đột quỵ - một trong năm nguyên nhân gây tử vong hàng đầu."
+    },
+    {
+      "question": "Làm thế nào để phát hiện bệnh động mạch cảnh sớm?",
+      "answer": "Bệnh động mạch cảnh thường không có triệu chứng cho đến khi bị cơn thiếu máu não thoáng qua hoặc đột quỵ. Vì vậy, tầm soát là rất quan trọng, đặc biệt nếu bạn có các yếu tố nguy cơ như hút thuốc, tăng huyết áp, cholesterol cao, đái tháo đường hoặc tiền sử gia đình. Khám sức khỏe định kỳ, trong đó bác sĩ có thể lắng nghe tiếng thổi ở cổ, là một cách đơn giản để sàng lọc. Các phương pháp chẩn đoán không xâm lấn như siêu âm động mạch cảnh cũng có thể được sử dụng để kiểm tra."
+    },
+    {
+      "question": "Bệnh động mạch cảnh có thể điều trị khỏi không?",
+      "answer": "Bệnh động mạch cảnh là một tình trạng mãn tính không thể chữa khỏi hoàn toàn, nhưng có thể được kiểm soát hiệu quả để ngăn ngừa đột quỵ. Điều trị bao gồm thay đổi lối sống, thuốc và can thiệp nếu cần thiết. Thay đổi lối sống như bỏ thuốc lá, kiểm soát huyết áp và cholesterol, ăn uống lành mạnh và tập thể dục đều đặn có thể làm chậm tiến triển của bệnh. Trong trường hợp hẹp nghiêm trọng, phẫu thuật cắt nội mạc động mạch cảnh hoặc đặt stent có thể được thực hiện để mở rộng động mạch và cải thiện lưu lượng máu."
+    },
+    {
+      "question": "Bệnh động mạch cảnh khác với đột quỵ như thế nào?",
+      "answer": "Bệnh động mạch cảnh và đột quỵ có mối quan hệ nhân quả. Bệnh động mạch cảnh là tình trạng thu hẹp hoặc tắc nghẽn của các động mạch cảnh do sự tích tụ mảng bám, là một trong những nguyên nhân chính gây đột quỵ. Đột quỵ xảy ra khi não không nhận đủ máu, dẫn đến tổn thương tế bào não và các triệu chứng cấp tính như yếu một bên cơ thể, khó nói, mất thị lực. Trong khi đó, bệnh động mạch cảnh thường phát triển từ từ và có thể không có triệu chứng cho đến khi gây ra cơn thiếu máu não thoáng qua hoặc đột quỵ."
+    },
+    {
+      "question": "Các dấu hiệu cảnh báo của đột quỵ mà tôi nên biết là gì?",
+      "answer": "Đột quỵ là một tình trạng cấp cứu y tế đòi hỏi sự chăm sóc ngay lập tức. Hãy nhớ từ viết tắt FAST để nhận biết các dấu hiệu cảnh báo: Face (Mặt) - một bên mặt bị xệ xuống khi cười; Arms (Tay) - yếu hoặc tê một bên tay; Speech (Lời nói) - nói lắp hoặc khó hiểu; Time (Thời gian) - cần gọi cấp cứu ngay lập tức. Các dấu hiệu khác bao gồm: đột ngột mờ mắt hoặc mất thị lực, chóng mặt dữ dội, mất thăng bằng, đau đầu dữ dội không rõ nguyên nhân, và đột ngột tê hoặc yếu ở mặt, tay hoặc chân, đặc biệt là ở một bên cơ thể."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu, chóng mặt và suy giảm thị lực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh động mạch cảnh",
+        "Tăng huyết áp",
+        "Thiếu máu não",
+        "Migraine"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy yếu, vụng về ở một bên tay và chân, kèm theo đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh động mạch cảnh",
+        "Đột quỵ",
+        "Cơn thiếu máu não thoáng qua",
+        "U não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mất khả năng chuyển động đột ngột, sau đó hồi phục hoàn toàn trong vòng 24 giờ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh động mạch cảnh",
+        "Cơn thiếu máu não thoáng qua",
+        "Động kinh",
+        "Đa xơ cứng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó tập trung, nhầm lẫn và đau đầu dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh động mạch cảnh",
+        "Đột quỵ",
+        "Tăng huyết áp",
+        "Nhiễm trùng não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tê bì hoặc mất cảm giác ở mặt và cánh tay, kèm theo chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh động mạch cảnh",
+        "Cơn thiếu máu não thoáng qua",
+        "Đột quỵ",
+        "Viêm dây thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mờ mắt hoặc mất thị lực tạm thời, sau đó hồi phục hoàn toàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh động mạch cảnh",
+        "Cơn thiếu máu não thoáng qua",
+        "Migraine có tiền triệu",
+        "Tăng nhãn áp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nói lắp, khó khăn trong việc diễn đạt lời nói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh động mạch cảnh",
+        "Đột quỵ",
+        "Cơn thiếu máu não thoáng qua",
+        "Rối loạn ngôn ngữ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy yếu liệt một bên cơ thể, khó khăn khi di chuyển và đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh động mạch cảnh",
+        "Đột quỵ",
+        "Xuất huyết não",
+        "U não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngất xỉu, chóng mặt và mất ý thức tạm thời. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh động mạch cảnh",
+        "Rối loạn nhịp tim",
+        "Hạ đường huyết",
+        "Thiếu máu não"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tê bì mặt, yếu liệt tay chân và khó nói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh động mạch cảnh",
+        "Đột quỵ",
+        "Cơn thiếu máu não thoáng qua",
+        "Viêm đa dây thần kinh"
+      ]
     }
   ]
 }

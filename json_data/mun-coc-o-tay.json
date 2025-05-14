@@ -1,58 +1,156 @@
 {
   "disease_id": "mun-coc-o-tay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn cóc ở tay",
+  "disease_alternative_names": ["Mụn cóc ở ngón tay", "Mụn cóc bàn tay"],
+  "disease_definition": "Mụn cóc ở tay là bệnh nhiễm trùng da do vi rút HPV ở người gây ra. Mụn cóc hình thành những nốt sần nhỏ trên da, cảm thấy khô ráp khi chạm vào. Đây không phải bệnh nguy hiểm và đa phần mọi người sẽ tự khỏi mụn cóc ở tay trong vòng 2-3 năm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mụn cóc thông thường",
+      "description": "Có bề ngoài thô, sần sùi, đỉnh tròn và xám hơn các vùng da xung quanh. Thường xuất hiện ở mặt sau ngón tay, kích thước từ 1mm đến 1cm. Không gây đau và đôi khi có mạch máu bị vón cục trông giống những đốm đen nhỏ."
+    },
+    {
+      "name": "Mụn cóc phẳng",
+      "description": "Thường mọc ở cánh tay, đùi hoặc trên mặt do HPV tuýp 3, 10 và 28. Có màu hồng, nâu hoặc hơi vàng, không gây đau đớn, và thường mọc thành cụm với hình tròn hoặc bầu dục trên da."
+    },
+    {
+      "name": "Mụn cóc quanh móng",
+      "description": "Bắt đầu nhỏ bằng đầu kim châm sau đó lớn dần, có xu hướng phát triển thành cụm và lan rộng. Thường gặp ở những người có thói quen cắn móng tay và có thể phát triển sâu dưới lớp móng gây tổn thương vĩnh viễn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Vi rút HPV xâm nhập qua vết trầy xước nhỏ ở bàn tay hoặc ngón tay, gây sự tăng sinh quá mức các tế bào. Lúc này lớp da ở ngoài trở nên dày và cứng, cuối cùng hình thành mụn cóc.",
+    "related_factors": "Mụn cóc ở tay dễ xuất hiện ở những người có hệ miễn dịch kém, suy dinh dưỡng hoặc mắc các bệnh truyền nhiễm, ung thư máu.",
+    "transmission_routes": [
+      "Lây lan từ bộ phận này sang bộ phận khác trên cơ thể",
+      "Tiếp xúc trực tiếp với người bị mụn cóc",
+      "Sử dụng chung đồ dùng cá nhân với người bị mụn cóc"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em và thanh thiếu niên",
+    "Người có vết thương hở trên da tay",
+    "Người thường xuyên cắn hay cạy móng tay",
+    "Tiếp xúc trực tiếp với người bị mụn cóc",
+    "Sử dụng chung vật dụng cá nhân như khăn tắm, kìm bấm móng",
+    "Hệ thống miễn dịch suy yếu (HIV/AIDS, tiểu đường, bệnh chàm)"
+  ],
+  "complications": [
+    "Đau, nhức khi mụn cóc phát triển",
+    "Chảy máu, có mủ hoặc đóng vảy",
+    "Lây lan sang các bộ phận khác trên cơ thể",
+    "Tổn thương vĩnh viễn đối với móng tay (mụn cóc quanh móng)",
+    "Nhiễm trùng thứ phát",
+    "Ảnh hưởng đến thẩm mỹ và sinh hoạt hàng ngày"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng bởi bác sĩ da liễu",
+      "Cạo lớp trên cùng của mụn cóc để xác định dấu hiệu đặc trưng",
+      "Sinh thiết trong một số trường hợp đặc biệt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ da liễu quan sát những tổn thương do mụn cóc ở tay gây ra và cạo lớp trên để xác định các dấu hiệu đặc trưng như chấm nhỏ, sẫm màu, mạch máu vón cục"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy một phần nhỏ mụn cóc ở tay ra khỏi cơ thể và đưa đi xét nghiệm để loại trừ các bệnh nghiêm trọng khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Người bệnh không cần quá lo lắng về mụn cóc ở tay vì hiện nay có rất nhiều phương pháp điều trị. Không nên tự điều trị tại nhà bằng các phương pháp không được khoa học chứng minh như tỏi, giấm táo, nước chanh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc chứa Axit salicylic",
+        "description": "Giúp thâm nhập vào sâu bên trong mụn cóc để loại bỏ vi rút HPV. Trước khi sử dụng cần loại bỏ lớp da chết và bôi thuốc trực tiếp lên mụn cóc. Mất vài tuần để mụn cóc tự bong ra."
+      },
+      {
+        "name": "Làm lạnh (Nitơ lỏng)",
+        "description": "Sử dụng nitơ lỏng ở nhiệt độ -196°C để đóng băng mụn cóc, khiến chúng bong ra. Điều trị chia làm nhiều đợt, mỗi đợt cách nhau 1-2 tuần. Có thể để lại sẹo và thay đổi sắc tố da."
+      },
+      {
+        "name": "Đốt điện",
+        "description": "Sử dụng dòng điện cao tần để loại bỏ mụn cóc ở tay, thường áp dụng cho mụn cóc dưới 1cm hoặc ở kẽ ngón tay. Phương pháp đơn giản, nhanh chóng nhưng cần chăm sóc vết thương cẩn thận."
+      },
+      {
+        "name": "Laser",
+        "description": "Sử dụng bước sóng ánh sáng chiếu trực tiếp lên da, phá hủy tế bào mụn cóc. Có hai loại: laser xung nhuộm phá vỡ mạch máu trong mụn cóc, và laser cacbon dioxit (CO2) làm bốc hơi và phá hủy mô mụn cóc."
+      },
+      {
+        "name": "Tiểu phẫu",
+        "description": "Phương pháp cắt bỏ áp dụng với mụn cóc ở tay có đường kính trên 2cm, mọc tại vị trí bằng phẳng. Ưu điểm là nhanh hơn đốt điện và ít nhiễm trùng, nhưng có thể để lại sẹo và dễ tái phát."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Không tự ý điều trị mụn cóc tại nhà bằng các phương pháp chưa được chứng minh",
+      "Tuân theo lời khuyên và phác đồ điều trị của bác sĩ",
+      "Che chắn vết thương sau điều trị để tránh nhiễm trùng",
+      "Không chạm vào mụn cóc để tránh lây lan",
+      "Hoàn thành toàn bộ quá trình điều trị dù mụn cóc có vẻ đã biến mất"
+    ],
+    "prevention_of_transmission": [
+      "Không chạm vào mụn cóc trên người khác và bản thân",
+      "Không dùng chung khăn tắm, quần áo với người bị mụn cóc",
+      "Không dùng chung dụng cụ cắt móng tay hoặc các vật dụng cá nhân khác"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin HPV có thể giúp ngăn ngừa một số chủng HPV gây mụn cóc, mặc dù vắc xin HPV được phát triển chủ yếu để phòng ngừa các bệnh nghiêm trọng hơn.",
+      "recommended_for": [
+        "Trẻ em từ 9-14 tuổi",
+        "Thanh thiếu niên chưa tiếp xúc với HPV"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh bàn tay sạch sẽ thường xuyên",
+      "Che chắn vết thương khi đứt tay hoặc trầy xước",
+      "Mang giày hoặc dép trong phòng tắm công cộng hoặc hồ bơi",
+      "Không cạy hay cắn móng tay vì mụn cóc dễ hình thành xung quanh móng",
+      "Không chạm vào mụn cóc của bản thân hoặc người khác",
+      "Tuân theo lời khuyên của bác sĩ sau khi điều trị"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn cóc ở tay có nguy hiểm không?",
+      "answer": "Không! Mụn cóc ở tay là bệnh ngoài da chỉ gây đau nhức, khó chịu không ảnh hưởng nhiều đến sức khỏe và có thể biến mất sau 2-3 năm. Tuy nhiên, mụn cóc ở tay dễ lây lan khắp cơ thể và sang người khác khi tiếp xúc, gây trở ngại trong sinh hoạt và mất thẩm mỹ cho đôi tay. Vì thế, người bệnh nên điều trị nhanh chóng để tránh bệnh tiến triển nặng hơn."
+    },
+    {
+      "question": "Mụn cóc ở ngón tay có tự rụng không?",
+      "answer": "Có! Khi có vi rút gây mụn cóc ở tay tấn công, cơ thể từ hình thành sức đề kháng chống lại mụn cóc. Thường mất vài tháng hoặc ít nhất 2 năm để mụn cóc ở tay biến mất. Ở người lớn mụn cóc ở tay tồn tại lâu hơn, vài năm hoặc hơn. Ở một số người, mụn cóc tự rụng."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ về mụn cóc ở tay?",
+      "answer": "Bạn nên đến gặp bác sĩ khi mụn cóc ở tay gây đau, nhức; có sự thay đổi màu sắc; có hiện tượng chảy máu, có mủ hoặc đóng vảy; khi bạn bị bệnh tiểu đường, HIV; hoặc khi mụn cóc xuất hiện ở tay sau đó lan sang các bộ phận khác trên cơ thể như cơ quan sinh dục, miệng, lỗ mũi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da tay xuất hiện nốt sần sùi, màu xám, hơi cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-o-tay", "viem-da", "nam-da"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ngáy ở vùng da tay có nốt sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-o-tay", "viem-da", "di-ung-da"]
+    },
+    {
+      "question": "Tôi hay cắn móng tay và da tay xuất hiện nốt sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-o-tay", "viem-da", "viem-quanh-mong"]
+    },
+    {
+      "question": "Tôi có vết trầy xước trên da tay và sau đó xuất hiện nốt sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-o-tay", "viem-da", "nhiem-trung-da"]
+    },
+    {
+      "question": "Tôi tiếp xúc với người bị mụn cóc ở tay và sau đó da tay tôi cũng xuất hiện nốt sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-coc-o-tay",
+        "lay-nhiem-virus-hpv",
+        "ton-thuong-da"
+      ]
     }
   ]
 }

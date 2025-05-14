@@ -1,39 +1,127 @@
 {
   "disease_id": "nao-ung-thuy",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Não úng thủy",
+  "disease_alternative_names": ["Hydrocephalus", "Bệnh tích nước não"],
+  "disease_definition": "Não úng thủy (Hydrocephalus) là một tình trạng bệnh lý của hệ thần kinh trung ương, là kết quả của sự gián đoạn, mất cân bằng giữa sự hình thành, lưu thông dòng chảy hoặc hấp thu dịch não tủy. Nói cách khác, đó là tình trạng tích tụ quá nhiều dịch não tủy trong não thất do rối loạn các quá trình sản xuất, lưu thông và hấp thụ dịch não tủy.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đầu to bất thường (ở trẻ sơ sinh)",
+      "description": "Ở trẻ nhũ nhi do các khớp sọ chưa đóng kín nên kích thước của đầu tăng lên nhanh bất thường, da đầu trẻ mỏng và sáng bóng, thóp trước giãn rộng và căng."
+    },
+    {
+      "name": "Dấu hiệu mặt trời lặn",
+      "description": "Mắt trẻ thường ở tư thế nhìn xuống tạo nên dấu hiệu này, là một biểu hiện đặc trưng của bệnh."
+    },
+    {
+      "name": "Đau đầu và nôn",
+      "description": "Nhức đầu là dấu hiệu nổi bật, trẻ thường đau đầu nhiều vào buổi sáng kèm nôn, đặc biệt khi thức dậy vào buổi sáng."
+    },
+    {
+      "name": "Vấn đề về thị giác",
+      "description": "Mờ mắt, có thể có hội chứng não giữa (Parinaud syndrome), phù gai thị có thể teo gai thị, nhìn đôi do liệt dây thần kinh số VI."
+    },
+    {
+      "name": "Thay đổi dáng đi và rối loạn điều phối",
+      "description": "Khó giữ thăng bằng, đi lại không vững và hay bị ngã, rối loạn trong phối hợp các động tác vận động."
+    },
+    {
+      "name": "Chậm phát triển tâm lý-vận động",
+      "description": "Thoái lui hoặc chậm phát triển tâm lý-vận động, trẻ có thể không đạt được các cột mốc phát triển đúng thời điểm."
+    },
+    {
+      "name": "Rối loạn phát triển thể chất",
+      "description": "Béo phì, dậy thì sớm hoặc chậm dậy thì do ảnh hưởng đến các trung tâm điều khiển nội tiết trong não."
+    },
+    {
+      "name": "Triệu chứng ở người trưởng thành",
+      "description": "Đau đầu, mệt mỏi, mất thăng bằng, bàng quang hoạt động kém hiệu quả, tiểu nhiều lần, gặp các vấn đề về thị lực và suy giảm trí nhớ, khả năng tập trung."
+    },
+    {
+      "name": "Triệu chứng ở người cao tuổi",
+      "description": "Tiểu không kiểm soát, tiểu nhiều lần, suy giảm, mất trí nhớ, mất khả năng tập trung hay suy luận, đi lại khó khăn và khả năng giữ thăng bằng kém."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tích tụ quá nhiều dịch não tủy trong não thất do rối loạn các quá trình sản xuất, lưu thông và hấp thụ dịch não tủy.",
+    "related_factors": "Não úng thủy có thể gặp ở mọi dân tộc, mọi quốc gia và mọi lứa tuổi do hai nhóm căn nguyên bẩm sinh và mắc phải gây nên.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ sơ sinh với tỷ lệ mắc khoảng 1/500 trẻ",
+    "Người lớn tuổi trên 60 tuổi",
+    "Tiền sử gia đình có người mắc bệnh não úng thủy",
+    "Mẹ bị nhiễm trùng trong thai kỳ",
+    "Xuất huyết não thất ở trẻ sinh non",
+    "Chấn thương đầu hoặc nội sọ",
+    "Tiền sử bị viêm màng não do vi khuẩn"
+  ],
+  "complications": [
+    "Viêm màng não mủ",
+    "Mù lòa",
+    "Điếc",
+    "Liệt",
+    "Chậm phát triển tâm thần",
+    "Động kinh",
+    "Tổn thương não vĩnh viễn",
+    "Suy giảm trí tuệ và phát triển thể chất"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám bệnh và xem xét bệnh sử",
+      "Khám thần kinh toàn diện",
+      "Đánh giá mức độ nghiêm trọng của tình trạng bệnh nhân"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp CT (Cắt lớp vi tính)",
+        "description": "Sử dụng tia X để tạo ra hình ảnh các lát cắt ngang của não, giúp phát hiện não thất bị phình to do dịch não tủy nhiều"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Phương pháp này chỉ định trong trường hợp thóp của trẻ vẫn còn mở, giúp quan sát hình ảnh não"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Phương pháp này được chỉ định để tìm các dấu hiệu của sự dư thừa dịch não tủy"
+      },
+      {
+        "name": "Chọc dịch não tủy",
+        "description": "Có ý nghĩa trong chẩn đoán và điều trị, giúp tiên lượng được các bệnh của hệ thần kinh trung ương"
+      },
+      {
+        "name": "Đo và theo dõi áp lực nội sọ",
+        "description": "Giúp xác định mức độ tăng áp lực nội sọ do não úng thủy"
+      },
+      {
+        "name": "Soi đáy mắt",
+        "description": "Thủ thuật khám để quan sát cấu trúc bên trong của nhãn cầu, có thể phát hiện các bệnh lý của dịch kính, võng mạc, thần kinh"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Não úng thủy có thể được điều trị bằng nhiều cách khác nhau. Sau khi điều trị, trẻ cần được chăm sóc và theo dõi kỹ cùng với quá trình hồi phục chức năng cũng như giáo dục đặc biệt.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đặt ống thông (shunt)",
+        "description": "Phương pháp điều trị gián tiếp bằng cách cấy một thiết bị gọi là ống thông để chuyển hướng dịch não tủy dư thừa ra khỏi não, thường đến khoang phúc mạc (khu vực xung quanh các cơ quan trong ổ bụng)."
+      },
+      {
+        "name": "Nội soi phá sàn não thất ba",
+        "description": "Phẫu thuật thay thế sử dụng một ống nội soi mềm có gắn máy quay nhỏ để quan sát bên trong hệ thống não thất, tạo ra một con đường mới cho dòng chảy dịch não tủy."
+      },
+      {
+        "name": "Điều trị nguyên nhân gây tắc nghẽn",
+        "description": "Loại bỏ trực tiếp các nguyên nhân gây tắc nghẽn dịch não tủy như khối u não."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi sát tình trạng sau phẫu thuật",
+      "Khám định kỳ theo lịch hẹn của bác sĩ",
+      "Hồi phục chức năng nếu có di chứng sau bệnh",
+      "Giáo dục đặc biệt cho trẻ nếu cần thiết",
+      "Theo dõi và chăm sóc kỹ lưỡng tại nhà",
+      "Báo cho bác sĩ ngay khi có các triệu chứng bất thường"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +129,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám sức khỏe định kỳ trong thời gian mang thai",
+      "Không bỏ lỡ buổi hẹn của bác sĩ khi mang thai và theo sát lịch trình siêu âm",
+      "Tiêm chủng trong thời gian mang thai theo chỉ định của bác sĩ",
+      "Bảo vệ trẻ không bị chấn thương đầu",
+      "Loại bỏ những vật thể không an toàn khi trẻ tập bò, tập đi",
+      "Sử dụng nôi có lan can bảo vệ hoặc thanh chắn để ngăn trẻ bị ngã",
+      "Tiêm chủng đầy đủ cho trẻ để bảo vệ khỏi các bệnh nhiễm trùng ảnh hưởng đến não"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Não úng thủy có chữa được không?",
+      "answer": "Não úng thủy có thể được điều trị bằng nhiều cách khác nhau, chủ yếu qua phẫu thuật như đặt ống thông (shunt) để chuyển hướng dịch não tủy dư thừa ra khỏi não, hoặc nội soi phá sàn não thất ba để tạo đường dẫn lưu mới. Nếu được phát hiện sớm và điều trị bằng các phương pháp phù hợp sẽ mang lại kết quả khả quan. Trẻ có thể đến trường và học tập như các trẻ bình thường khác, tuy nhiên có thể vẫn cần theo dõi và chăm sóc đặc biệt."
+    },
+    {
+      "question": "Não úng thủy có nguy hiểm không?",
+      "answer": "Não úng thủy là bệnh lý nguy hiểm nếu không được điều trị. Nếu không phẫu thuật sớm để làm giảm áp lực ở não, não úng thủy sẽ làm tổn thương trực tiếp đến hệ thần kinh trung ương nên sẽ để lại nhiều di chứng trầm trọng như viêm màng não mủ, mù, điếc, liệt, chậm phát triển tâm thần, động kinh. Ngay cả khi được chữa trị, bệnh não úng thủy bẩm sinh vẫn có thể ảnh hưởng đến sự phát triển cả về thể chất và trí tuệ của trẻ."
+    },
+    {
+      "question": "Não úng thủy có thể phát hiện từ lúc nào?",
+      "answer": "Não úng thủy có thể được phát hiện ngay khi thai nhi còn trong bụng mẹ với trợ giúp của phương pháp siêu âm. Sau khi trẻ ra đời, siêu âm não là phương tiện rất hữu hiệu giúp tầm soát bệnh lý này. Vì vậy, việc khám thai định kỳ và siêu âm thai đúng hẹn rất quan trọng để phát hiện sớm các bất thường của não thai nhi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đầu to bất thường và da đầu mỏng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nao-ung-thuy",
+        "tang-ap-luc-noi-so",
+        "xuong-so-bat-thuong"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó chịu, nôn mửa và đầu to lên nhanh chóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nao-ung-thuy", "u-nao", "tang-ap-luc-noi-so"]
+    },
+    {
+      "question": "Tôi hay bị đau đầu, nôn vào buổi sáng và chậm phát triển. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nao-ung-thuy", "u-nao", "tang-ap-luc-noi-so"]
+    },
+    {
+      "question": "Tôi thấy mờ mắt và khó đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nao-ung-thuy",
+        "roi-loan-than-kinh",
+        "benh-ly-thi-giac"
+      ]
+    },
+    {
+      "question": "Tôi bị suy giảm trí nhớ và khó tập trung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nao-ung-thuy",
+        "sa-sut-tri-tue",
+        "roi-loan-than-kinh"
+      ]
     }
   ]
 }

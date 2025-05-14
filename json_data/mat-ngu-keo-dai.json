@@ -1,39 +1,131 @@
 {
   "disease_id": "mat-ngu-keo-dai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mất ngủ kéo dài",
+  "disease_alternative_names": [
+    "Insomnia",
+    "Chứng mất ngủ liên tục",
+    "Rối loạn giấc ngủ kéo dài"
+  ],
+  "disease_definition": "Mất ngủ kéo dài (tên tiếng anh là insomnia) là tình trạng rối loạn giấc ngủ khiến người bệnh gặp các vấn đề về sức khỏe, tinh thần giảm sút và tăng nguy cơ mắc nhiều bệnh lý khác nhau liên quan tới thần kinh, tim mạch.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu",
+      "description": "Đau đầu thường xuất hiện vào ban đêm hoặc buổi sáng sau một đêm không ngon giấc, do tế bào thần kinh không được cung cấp đủ máu và căng thẳng thần kinh."
+    },
+    {
+      "name": "Mệt mỏi, chán ăn",
+      "description": "Khi không ngủ ngon, cơ thể không được hồi phục năng lượng nên thường cảm thấy mệt mỏi uể oải và mất cảm giác thèm ăn."
+    },
+    {
+      "name": "Khó đi vào giấc ngủ",
+      "description": "Người bệnh thường khó đi vào giấc ngủ dù đã lên giường và cố gắng ngủ."
+    },
+    {
+      "name": "Dễ tỉnh giấc giữa đêm",
+      "description": "Thức giấc nhiều lần trong đêm và mỗi lần kéo dài khoảng 30 phút, khó ngủ lại sau khi thức giấc."
+    },
+    {
+      "name": "Thức dậy sớm vào buổi sáng",
+      "description": "Tỉnh giấc quá sớm vào buổi sáng và không thể ngủ lại được."
+    },
+    {
+      "name": "Khó ngủ vào buổi trưa",
+      "description": "Khó đi vào giấc ngủ trưa dù cơ thể đã mệt mỏi, khiến tinh thần khó chịu và cơ thể uể oải hơn."
+    },
+    {
+      "name": "Suy giảm trí nhớ và khó tập trung",
+      "description": "Không thể tập trung vào công việc và học tập, khó ghi nhớ thông tin."
+    },
+    {
+      "name": "Rối loạn tâm lý",
+      "description": "Dễ cáu gắt, bực bội, lo âu và có nguy cơ mắc trầm cảm cao hơn."
+    },
+    {
+      "name": "Chất lượng giấc ngủ suy giảm",
+      "description": "Ngủ không đủ sâu, ngủ dậy vẫn thấy mệt."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mất ngủ kéo dài có nhiều nguyên nhân khác nhau, có thể do căng thẳng tâm lý, thói quen sinh hoạt không lành mạnh, hoặc do các bệnh lý nền.",
+    "related_factors": "Stress trong công việc và cuộc sống, sử dụng rượu bia và chất kích thích, lạm dụng thuốc điều trị tăng huyết áp, corticoid, thuốc chống trầm cảm, thói quen sinh hoạt không hợp lý, môi trường sống ồn ào, các bệnh lý mạn tính như viêm dạ dày, trào ngược dạ dày thực quản, đái tháo đường, tăng huyết áp, suy thận mãn, phì đại tuyến tiền liệt.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Căng thẳng kéo dài trong công việc và cuộc sống",
+    "Sử dụng rượu bia, cà phê, chất kích thích",
+    "Lạm dụng một số loại thuốc",
+    "Môi trường sống ồn ào, không phù hợp",
+    "Thói quen sinh hoạt không hợp lý",
+    "Các bệnh lý mạn tính như đái tháo đường, tăng huyết áp, viêm dạ dày",
+    "Tiền sử bệnh lý tâm thần như trầm cảm, lo âu"
+  ],
+  "complications": [
+    "Suy giảm hiệu suất làm việc và học tập",
+    "Rối loạn tâm lý, dễ cáu gắt, bực bội",
+    "Tăng nguy cơ tai nạn do giảm khả năng tập trung và thời gian phản ứng",
+    "Rối loạn thăng bằng, dễ té ngã",
+    "Rối loạn nhịp tim, tăng huyết áp",
+    "Tăng nguy cơ nhồi máu cơ tim",
+    "Béo phì, đái tháo đường",
+    "Ảnh hưởng đến da và tóc",
+    "Tăng nguy cơ trầm cảm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá tiền sử bệnh",
+      "Khám lâm sàng",
+      "Đánh giá mức độ rối loạn giấc ngủ",
+      "Loại trừ các nguyên nhân gây mất ngủ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khai thác thông tin tiền sử",
+        "description": "Các nhân viên y tế khai thác thông tin liên quan đến nghề nghiệp, môi trường sống, sang chấn tâm lý, tiền sử bệnh tật để tìm kiếm nguyên nhân gây mất ngủ."
+      },
+      {
+        "name": "Phân loại tình trạng mất ngủ",
+        "description": "Xác định mất ngủ cấp tính (diễn ra trong một đêm hoặc vài tuần) hay mất ngủ mạn tính (ít nhất 3 đêm/tuần trong suốt một tháng hoặc lâu hơn)."
+      },
+      {
+        "name": "Đánh giá mức độ ảnh hưởng",
+        "description": "Xác định mức độ ảnh hưởng của mất ngủ đến chất lượng cuộc sống, công việc và sức khỏe của người bệnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị mất ngủ kéo dài cần kết hợp điều trị triệu chứng và điều trị nguyên nhân gây bệnh. Thông thường, để điều trị mất ngủ kéo dài cần phối hợp nhiều phương pháp khác nhau.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc điều trị mất ngủ",
+        "description": "Các loại thuốc như Zolpidem, Eszopiclone, Zaleplon, Doxepin, Diphenhydramine, Melatonin có thể được sử dụng để cải thiện triệu chứng mất ngủ. Tuy nhiên không nên dùng thuốc trong thời gian dài do có thể gây tác dụng phụ."
+      },
+      {
+        "name": "Liệu pháp hành vi nhận thức (CBT)",
+        "description": "Liệu pháp này giúp kiểm soát hay loại bỏ những suy nghĩ tiêu cực và nỗi lo gây mất ngủ, phát triển thói quen ngủ tốt. Bao gồm các kỹ thuật như viết lo lắng trước khi ngủ, kiểm soát kích thích, hạn chế ngủ, thư giãn, và ý định nghịch lý."
+      },
+      {
+        "name": "Thay đổi chế độ ăn uống",
+        "description": "Tránh caffeine, nicotine và rượu vào cuối ngày. Tăng cường rau xanh, hoa quả tươi, bổ sung thực phẩm cải thiện giấc ngủ như mật ong, tâm sen, nụ hoa tam thất. Không ăn nhiều bữa vào cuối ngày hay ăn quá no vào buổi tối."
+      },
+      {
+        "name": "Vận động thể dục thể thao",
+        "description": "Thường xuyên vận động thể dục thể thao giúp duy trì cân nặng hợp lý, tăng tuần hoàn máu, giải tỏa căng thẳng và cải thiện giấc ngủ. Nên tập thể dục ít nhất 3-4 giờ trước khi đi ngủ."
+      },
+      {
+        "name": "Châm cứu và bấm huyệt",
+        "description": "Châm cứu giúp tăng cường máu lưu thông, đả thông kinh mạch và cải thiện bệnh mất ngủ. Cơ chế tác dụng nhờ vào sự giải phóng serotonin, endorphin giúp thư giãn, an thần và giảm đau."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đi ngủ và thức dậy vào cùng một giờ mỗi ngày",
+      "Không nên ngủ trưa quá lâu, tối đa 60 phút",
+      "Không sử dụng thiết bị điện tử trước khi đi ngủ",
+      "Tránh caffeine, nicotine và rượu vào buổi tối",
+      "Tạo không gian phòng ngủ thoải mái, yên tĩnh và nhiệt độ phù hợp",
+      "Thực hiện thói quen thư giãn trước khi ngủ như đọc sách, nghe nhạc, tắm hoặc thiền",
+      "Chỉ sử dụng giường cho việc ngủ và tình dục",
+      "Nếu không thể ngủ được sau 20 phút, hãy rời khỏi giường và làm việc gì đó thư giãn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +133,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì nhịp sinh học ổn định với thời gian ngủ và thức dậy cố định",
+      "Hạn chế ngủ trưa quá lâu (không quá 60 phút)",
+      "Tránh sử dụng thiết bị điện tử trước khi đi ngủ",
+      "Kiêng caffeine, nicotine và rượu vào cuối ngày",
+      "Tập thể dục thường xuyên nhưng không tập quá gần giờ đi ngủ",
+      "Không ăn quá no vào buổi tối",
+      "Tạo môi trường ngủ thoải mái, tối, yên tĩnh và nhiệt độ phù hợp",
+      "Thực hiện thói quen thư giãn trước khi ngủ",
+      "Lập danh sách việc cần làm trước khi đi ngủ để giảm lo lắng",
+      "Không sử dụng giường cho các hoạt động khác ngoài ngủ và tình dục"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mất ngủ kéo dài bao lâu được coi là bất thường?",
+      "answer": "Mất ngủ cấp tính có thể chỉ là một đêm hoặc vài tuần. Mất ngủ mãn tính là tình trạng mất ngủ ít nhất 3 đêm/tuần trong suốt một tháng hoặc lâu hơn. Tình trạng mất ngủ được coi là bất thường khi nó diễn ra từ vài tuần cho tới vài tháng và có đi kèm với các triệu chứng như buồn ngủ vào ban ngày, mệt mỏi, gắt gỏng, các vấn đề về trí nhớ hoặc sự tập trung."
+    },
+    {
+      "question": "Bệnh mất ngủ kéo dài bao lâu?",
+      "answer": "Mất ngủ có thể kéo dài trong thời gian ngắn (1 ngày hoặc 1 tuần) và thời gian dài (vài tuần đến vài tháng). Nếu tình trạng mất ngủ cấp tính không được can thiệp điều trị thì sẽ tiến triển thành mãn tính và ảnh hưởng đến sức khỏe cũng như đời sống sinh hoạt hằng ngày của người bệnh."
+    },
+    {
+      "question": "Khám và điều trị mất ngủ kéo dài ở đâu?",
+      "answer": "Điều trị chứng mất ngủ kéo dài được thực hiện bởi các bác sĩ chuyên khoa thần kinh. Do đó, nếu bạn nghi ngờ bản thân hoặc người xung quanh bị mất ngủ kéo dài, hãy đến thăm khám, tư vấn và điều trị các cơ sở y tế có bác sĩ chuyên khoa thần kinh."
+    },
+    {
+      "question": "Mất ngủ kéo dài có gây trầm cảm không?",
+      "answer": "Mối quan hệ giữa giấc ngủ và sức khỏe tâm thần, cụ thể là bệnh trầm cảm là mối quan hệ hai chiều. Tình trạng mất ngủ kéo dài hoặc giấc ngủ bị gián đoạn gây ra bệnh trầm cảm hoặc làm trầm trọng thêm các triệu chứng trầm cảm. Người thường xuyên bị mất ngủ và không có tiền sử trầm cảm trước đó có nguy cơ bị trầm cảm cao hơn gấp 4 lần so với những người không có tiền sử mất ngủ kéo dài."
+    },
+    {
+      "question": "Mất ngủ kéo dài có sao không và nên làm gì?",
+      "answer": "Nếu chứng mất ngủ kéo dài mà không được can thiệp sẽ gây ra một số biến chứng như: nguy cơ cao mắc những vấn đề sức khỏe khác như đái tháo đường, huyết áp cao, béo phì và trầm cảm, nguy cơ ngã cao, lo ngại, gắt gỏng, thời gian phản ứng chậm có thể dẫn đến tai nạn giao thông. Khi không may mắc phải tình trạng mất ngủ kéo dài, bạn cần đến ngay các cơ sở y tế để được chẩn đoán và điều trị kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu về đêm và khó đi vào giấc ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-ngu-keo-dai", "roi-loan-lo-au", "stress"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn và thường xuyên thức giấc giữa đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-ngu-keo-dai", "tram-cam", "suy-nhuoc-than-kinh"]
+    },
+    {
+      "question": "Tôi hay bị tỉnh giấc sớm vào buổi sáng và không thể ngủ lại được. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-ngu-keo-dai",
+        "tram-cam",
+        "roi-loan-nhip-sinh-hoc"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp vấn đề về trí nhớ và khó tập trung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-ngu-keo-dai",
+        "tram-cam",
+        "roi-loan-tang-dong-giam-chu-y"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên cảm thấy lo lắng và dễ cáu gắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-ngu-keo-dai", "roi-loan-lo-au", "stress"]
     }
   ]
 }

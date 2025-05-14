@@ -1,39 +1,107 @@
 {
   "disease_id": "kho-am-dao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Khô âm đạo",
+  "disease_alternative_names": [
+    "Khô vùng kín",
+    "Khô hạn ở phụ nữ",
+    "Teo âm đạo"
+  ],
+  "disease_definition": "Khô âm đạo hay khô vùng kín là tình trạng âm đạo bị mất đi độ ẩm thông thường do các mô trong âm đạo bị khô, mỏng và giảm tiết dịch khiến người phụ nữ cảm thấy khó chịu và đau rát, đặc biệt là khó khăn trong hoạt động sinh hoạt tình dục.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ngứa ngáy và viêm nhiễm âm đạo",
+      "description": "Âm đạo khô khiến các vi khuẩn lành tính thường trú không sống được, từ đó các vi khuẩn gây bệnh dễ dàng xâm nhập vào vùng kín, gây ra cảm giác ngứa ngáy khó chịu, gây ra các tình trạng viêm nhiễm với biểu hiện là âm đạo tiết dịch xanh, dịch vàng, có thể có mùi hôi."
+    },
+    {
+      "name": "Nóng rát âm đạo",
+      "description": "Khi âm đạo bị khô sẽ mất đi độ ẩm thông thường dẫn đến tình trạng khô, nóng và đau rát trong âm đạo."
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Khi quan hệ tình dục, nếu thời gian dạo đầu kích thích không đủ lâu để tiết đủ lượng dịch âm đạo bôi trơn, có thể gây tổn thương mô trong âm đạo dẫn đến đau rát hoặc chảy máu."
+    },
+    {
+      "name": "Chảy máu sau khi quan hệ tình dục",
+      "description": "Do các mô ở thành âm đạo bị trầy xước khi quan hệ tình dục mà không có đủ độ ẩm."
+    },
+    {
+      "name": "Đau nhức ở âm hộ",
+      "description": "Cảm giác đau nhức, khó chịu ở vùng âm hộ."
+    },
+    {
+      "name": "Tiểu nhiều lần hoặc nhiễm trùng đường tiết niệu tái phát",
+      "description": "Đi tiểu thường xuyên hơn hoặc bị nhiễm trùng đường tiết niệu tái phát."
+    },
+    {
+      "name": "Dễ nhiễm nấm",
+      "description": "Môi trường âm đạo mất cân bằng dẫn đến tăng nguy cơ nhiễm nấm."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đa phần các trường hợp khô âm đạo xảy ra do nồng độ Estrogen suy giảm. Khi nồng độ Estrogen suy giảm, da và các mô của âm hộ và âm đạo trở nên mỏng hơn, kém đàn hồi hơn, khiến âm đạo bị khô.",
+    "related_factors": "Sự suy giảm Estrogen có thể xảy ra tự nhiên khi phụ nữ lớn tuổi, bước vào thời kỳ mãn kinh. Các yếu tố khác bao gồm sau sinh, cho con bú, tác dụng phụ của thuốc tránh thai, vệ sinh vùng kín sai cách, đái tháo đường, hội chứng Sjogren, điều trị ung thư, cắt buồng trứng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ thời kỳ mãn kinh hoặc tiền mãn kinh",
+    "Phụ nữ sau sinh và đang cho con bú",
+    "Phụ nữ đang sử dụng thuốc tránh thai hoặc bất kỳ phương pháp tránh thai nội tiết nào",
+    "Thói quen vệ sinh vùng kín sai cách, thụt rửa âm đạo nhiều",
+    "Thời gian dạo đầu kích thích trước quan hệ không đủ",
+    "Mắc bệnh đái tháo đường",
+    "Mắc hội chứng Sjogren (rối loạn tự miễn)",
+    "Sử dụng thuốc kháng Estrogen",
+    "Sử dụng thuốc chống trầm cảm hoặc thuốc kháng Histamine",
+    "Đang được điều trị ung thư",
+    "Đã phẫu thuật cắt buồng trứng"
+  ],
+  "complications": [
+    "Chảy máu sau khi quan hệ tình dục",
+    "Đau nhức ở âm hộ",
+    "Nhiễm trùng đường tiết niệu tái phát",
+    "Dễ nhiễm nấm",
+    "Giảm ham muốn hoặc sợ quan hệ tình dục",
+    "Khó chịu khi mặc quần lót hoặc trong các hoạt động sinh hoạt hàng ngày như đi bộ hoặc ngồi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khai thác tiền sử bệnh lý", "Khám lâm sàng", "Xét nghiệm"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám vùng chậu",
+        "description": "Đánh giá tình trạng khô âm đạo qua quan sát mô bên trong âm đạo có mỏng, khô và đỏ hay không."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Xác định nồng độ hormone hoặc những tình trạng sức khỏe khác gây khô âm đạo."
+      },
+      {
+        "name": "Xét nghiệm mẫu dịch tiết âm đạo",
+        "description": "Loại trừ các nguyên nhân khác, cũng như kiểm tra các dấu hiệu nhiễm trùng."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Chị em nên trao đổi và thảo luận với bác sĩ điều trị để được hướng dẫn phương pháp điều trị phù hợp và hiệu quả nhất.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng chất bôi trơn",
+        "description": "Sử dụng chất bôi trơn không chứa nội tiết, bôi vào âm đạo tạo sự ẩm tại chỗ giúp giảm tình trạng khô và khó chịu. Không chọn chất bôi trơn có chứa nước hoa, chiết xuất thảo mộc hoặc màu nhân tạo vì có thể gây kích ứng vùng kín."
+      },
+      {
+        "name": "Liệu pháp Estrogen",
+        "description": "Sử dụng liệu pháp Estrogen dưới dạng viên uống, kem bôi hoặc vòng để giải phóng Estrogen, giúp phục hồi độ ẩm và đàn hồi của âm đạo."
+      },
+      {
+        "name": "Sử dụng thuốc tránh thai",
+        "description": "Được chỉ định trong những trường hợp phụ nữ có những triệu chứng mãn kinh khác như bốc hỏa."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Trao đổi với bác sĩ để được hướng dẫn phương pháp điều trị phù hợp",
+      "Chọn chất bôi trơn phù hợp theo tư vấn của bác sĩ",
+      "Tuân thủ đầy đủ hướng dẫn của bác sĩ, không tự ý sử dụng thuốc hoặc ngừng thuốc kê đơn",
+      "Tái khám đúng hẹn để được bác sĩ theo dõi tình trạng sức khỏe"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +109,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Uống nhiều nước",
+      "Vệ sinh vùng kín sạch sẽ thường xuyên và đúng cách",
+      "Không sử dụng các sản phẩm gây kích ứng âm đạo",
+      "Không sử dụng các chất bôi trơn hoặc dưỡng ẩm âm đạo mà không có chỉ định của bác sĩ",
+      "Quan hệ tình dục với đầy đủ màn dạo đầu chất lượng để tăng tiết dịch âm đạo",
+      "Không sử dụng bao cao su có chứa nonoyxnol-9 hoặc N-9",
+      "Thăm khám ngay khi có các triệu chứng khô âm đạo"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khô âm đạo có phổ biến không?",
+      "answer": "Khô âm đạo xảy ra ở mọi lứa tuổi, phổ biến nhất ở phụ nữ sau sinh hoặc trong thời kỳ mãn kinh khi nồng độ Estrogen giảm. Thống kê cho thấy, khoảng 17% phụ nữ từ 18-50 tuổi gặp phải tình trạng âm đạo khô khi quan hệ tình dục, ngay cả trước khi thời kỳ mãn kinh diễn ra. Hơn một nửa số phụ nữ bị khô âm đạo sau khi mãn kinh."
+    },
+    {
+      "question": "Khi nào cần đến gặp bác sĩ khi bị khô âm đạo?",
+      "answer": "Bạn nên đến ngay cơ sở y tế để được bác sĩ thăm khám nếu: tình trạng khô vùng kín ảnh hưởng nặng nề đến các hoạt động sinh hoạt hàng ngày; tác động tiêu cực đến đời sống quan hệ tình dục và mối quan hệ lứa đôi; tình trạng không được cải thiện khi đã áp dụng các phương pháp điều trị không kê đơn; xuất hiện triệu chứng chảy máu âm đạo lặp lại hoặc nghiêm trọng."
+    },
+    {
+      "question": "Khô âm đạo có chữa được không?",
+      "answer": "Khô âm đạo có thể điều trị được. Hiện nay có nhiều chất bôi trơn không chứa nội tiết, dùng bôi vào âm đạo tạo sự ẩm tại chỗ giúp giảm tình trạng khô và khó chịu. Trong một số trường hợp, bác sĩ có thể chỉ định liệu pháp Estrogen dưới dạng viên uống, kem bôi hoặc vòng nhằm giải phóng Estrogen. Chị em nên trao đổi với bác sĩ để được hướng dẫn phương pháp điều trị phù hợp và hiệu quả nhất."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa khô âm đạo?",
+      "answer": "Để phòng ngừa khô âm đạo, bạn nên: uống nhiều nước; vệ sinh vùng kín sạch sẽ thường xuyên và đúng cách; không sử dụng các sản phẩm gây kích ứng âm đạo; quan hệ tình dục với đầy đủ màn dạo đầu; không sử dụng bao cao su có chứa nonoyxnol-9 hoặc N-9; thăm khám ngay khi có các triệu chứng khô âm đạo; tuân thủ đầy đủ hướng dẫn của bác sĩ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngứa ngáy và viêm nhiễm âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-am-dao", "viem-am-dao", "nhiem-trung-nam-men"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nóng rát âm đạo và đau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "kho-am-dao",
+        "viem-am-dao",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khô âm đạo và sợ quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-am-dao", "roi-loan-noi-tiet", "man-kinh"]
+    },
+    {
+      "question": "Tôi đang trong giai đoạn mãn kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-am-dao", "man-kinh", "teo-am-dao"]
+    },
+    {
+      "question": "Tôi vừa sinh con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "kho-am-dao",
+        "roi-loan-noi-tiet-sau-sinh",
+        "tram-cam-sau-sinh"
+      ]
     }
   ]
 }

@@ -1,39 +1,108 @@
 {
   "disease_id": "nghe-kem",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nghe kém",
+  "disease_alternative_names": [
+    "Khiếm thính",
+    "Mất thính lực",
+    "Giảm thính lực"
+  ],
+  "disease_definition": "Nghe kém (khiếm thính) là tình trạng bệnh nhân có thể nghe âm thanh, nhưng rất kém hoặc có thể không nghe thấy ai đó nói, ngay cả khi họ đang sử dụng giọng nói bình thường hoặc có thể chỉ nghe thấy những âm thanh rất lớn. Trên biểu đồ đo thính lực đơn âm chủ quan, nghe kém xảy ra khi cường độ sức nghe của tai ≥ 25 dB (decibel).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm nhận tiếng nói, âm thanh nhỏ lại",
+      "description": "Người bệnh cảm thấy tiếng nói, âm thanh nhỏ lại, khó nghe rõ những âm thanh bình thường."
+    },
+    {
+      "name": "Khó hiểu lời người khác nói",
+      "description": "Đặc biệt khó nghe rõ lời nói trong môi trường đông đúc, ồn ào, thường phải yêu cầu người khác nói lại, nói chậm hơn, nói rõ hơn."
+    },
+    {
+      "name": "Nghe thông tin lẫn lộn",
+      "description": "Khó phân biệt âm thanh, dễ bị lẫn lộn thông tin khi tiếp nhận."
+    },
+    {
+      "name": "Tai có tiếng ù ù",
+      "description": "Tai thường xuyên có tiếng ù ù, è è hoặc những âm thanh không có thực."
+    },
+    {
+      "name": "Tăng âm lượng thiết bị",
+      "description": "Thường xuyên tăng âm lượng điện thoại, tivi, loa đài khiến người khác khó chịu vì quá to."
+    },
+    {
+      "name": "Khó theo kịp cuộc đàm thoại",
+      "description": "Không thể tiếp nhận kịp cuộc đàm thoại vì không hiểu người khác nói gì, cảm thấy mệt mỏi khi phải cố gắng nghe."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nghe kém là kết quả của sự tổn thương cấu trúc tai hoặc sự suy giảm chức năng của các tế bào lông trong ốc tai, dẫn đến giảm khả năng tiếp nhận và xử lý âm thanh.",
+    "related_factors": "Nghe kém có thể do nhiều nguyên nhân khác nhau như di truyền, biến chứng từ thai kỳ, chấn thương đầu, viêm nhiễm tai, tích tụ ráy tai, sử dụng thuốc, và quá trình lão hóa tự nhiên.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người cao tuổi trên 55-60 tuổi",
+    "Người làm việc trong môi trường tiếng ồn (thợ mỏ, thợ mộc, thợ khai thác đá, thợ hàn xì, thợ xây, lái tàu hỏa, người làm việc trong công xưởng sản xuất)",
+    "Người mắc các bệnh về tai, viêm nhiễm tai, viêm mũi họng biến chứng lên tai",
+    "Người mắc các bệnh lý về tim mạch, huyết áp và tiểu đường",
+    "Người phải dùng thuốc điều trị lao, tim mạch, ung thư",
+    "Người bị chấn thương vùng đầu và tai",
+    "Người có tiền sử gia đình bị nghe kém",
+    "Trẻ em bị nhiễm trùng tai, viêm tai giữa, viêm tai trong, viêm màng não"
+  ],
+  "complications": [
+    "Khó khăn trong giao tiếp xã hội",
+    "Trầm cảm do tự thu mình, ít giao tiếp",
+    "Mệt mỏi do phải tập trung cao độ để nghe",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Ở trẻ em có thể dẫn đến chậm phát triển ngôn ngữ và lời nói"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Kiểm tra lâm sàng", "Kiểm tra chức năng tai"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đo thính lực đơn âm",
+        "description": "Xác định khả năng nghe âm thanh ở các tần số và cường độ khác nhau"
+      },
+      {
+        "name": "Đo nhĩ lực",
+        "description": "Đánh giá chức năng của màng nhĩ và xương con tai giữa"
+      },
+      {
+        "name": "Đo âm ốc tai OAE",
+        "description": "Kiểm tra chức năng của các tế bào lông trong ốc tai"
+      },
+      {
+        "name": "Đo điện thính giác thân não ABR",
+        "description": "Đánh giá đường dẫn truyền thính giác từ tai đến não"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị nghe kém phụ thuộc vào nguyên nhân gây nên hiện tượng đó. Không phải mọi trường hợp nghe kém đều có thể điều trị hoàn toàn, nhưng có nhiều biện pháp có thể cải thiện khả năng nghe.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Loại bỏ ráy tai",
+        "description": "Sử dụng phương pháp hút hoặc dụng cụ nhỏ có vòng ở đầu để loại bỏ ráy tai bít ống tai."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Bao gồm vá màng nhĩ, chỉnh hình chuỗi xương con. Nếu bị nhiễm trùng nhiều lần với chất dịch dai dẳng, bác sĩ có thể đặt ống thông nhĩ giúp tai thoát dịch."
+      },
+      {
+        "name": "Thiết bị trợ thính",
+        "description": "Nếu nghe kém do tổn thương tai trong, máy trợ thính sẽ phát huy hữu ích bằng cách khuếch đại âm thanh."
+      },
+      {
+        "name": "Cấy ghép ốc tai điện tử",
+        "description": "Không giống như máy trợ thính khuếch đại âm thanh, ốc tai điện tử giúp thay thế chức năng của các bộ phận bị hư hỏng và trực tiếp kích thích dây thần kinh thính giác."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thăm khám định kỳ để theo dõi tình trạng thính lực",
+      "Sử dụng thiết bị trợ thính đúng cách theo hướng dẫn của bác sĩ",
+      "Học cách đọc khẩu hình để hỗ trợ giao tiếp",
+      "Thông báo cho người xung quanh về tình trạng nghe kém để họ có thể điều chỉnh cách giao tiếp",
+      "Tránh môi trường quá ồn ào"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +110,51 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát, kiểm tra chức năng nghe thường xuyên",
+      "Với trẻ sơ sinh: thực hiện sàng lọc thính lực trước khi rời bệnh viện",
+      "Với trẻ lớn hơn: kiểm tra thính giác từ 2 đến 2,5 tuổi, đặc biệt trẻ có nguy cơ cao",
+      "Phòng ngừa khi mang thai: tiêm ngừa đầy đủ, tránh nhiễm virus trong 3 tháng đầu thai kỳ",
+      "Chăm sóc, vệ sinh tai thường xuyên nhưng đúng cách, không tự ý chọc ngoáy lấy ráy tai",
+      "Đeo tai nghe đúng cách: hạn chế đeo tai nghe mở nhạc mức độ lớn, nên đeo ở mức độ vừa phải",
+      "Bảo vệ tai khi ở nơi quá ồn ào: sử dụng nút bịt tai chống tiếng ồn",
+      "Khám và kiểm tra thính lực thường xuyên sau 30 tuổi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nghe kém có phải là tình trạng nguy hiểm không?",
+      "answer": "Nghe kém không phải là bệnh nguy hiểm, ảnh hưởng nhiều đến sức khỏe người trưởng thành, nhưng lại gây khó khăn trong giao tiếp ảnh hưởng chất lượng cuộc sống. Về lâu dài, bệnh không được chữa trị thì người giảm thính lực có nguy cơ bệnh trầm cảm do họ tự thu mình, ít giao tiếp. Riêng đối với trẻ sơ sinh, trẻ nhỏ, nếu nghe kém không phát hiện kịp thời sẽ dẫn đến khiếm khuyết suốt đời trong ngôn ngữ, lời nói."
+    },
+    {
+      "question": "Tại sao người cao tuổi thường bị nghe kém?",
+      "answer": "Nghe kém ảnh hưởng nhiều hơn ở độ tuổi trên 55-60 tuổi, nhưng có thể xuất hiện từ sau 30 tuổi và cứ 10 năm, mức nghe kém lại tăng dần. Nguyên nhân là con người càng có tuổi thì các cơ quan sẽ bị lão hóa, trong đó dây thần kinh thính giác cũng bị lão hóa hoặc bị phá hủy hoàn toàn. Điều này dẫn đến giảm khả năng tiếp nhận, dẫn truyền thông tin của tai, từ đó xảy ra tình trạng nghe kém."
+    },
+    {
+      "question": "Làm thế nào để phát hiện nghe kém ở trẻ em?",
+      "answer": "Đối với trẻ sơ sinh, cần sàng lọc thính lực trước khi rời bệnh viện. Nếu trẻ không vượt qua được kiểm tra sàng lọc, bố mẹ phải đưa trẻ khám chuyên khoa Tai Mũi Họng. Đối với trẻ lớn hơn, khi xuất hiện các triệu chứng mất thính lực hoặc chậm phát triển ngôn ngữ, phụ huynh nên đưa trẻ đến bệnh viện kiểm tra kịp thời. Trẻ có nguy cơ cao mất thính giác hoặc chậm phát triển nên cần được kiểm tra thính giác từ 2 đến 2,5 tuổi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như cảm thấy tiếng nói nhỏ lại và khó hiểu lời người khác nói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nghe-kem", "viem-tai-giua", "tac-ray-tai"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tai có tiếng ù ù và khó nghe rõ âm thanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nghe-kem", "u-tai", "roi-loan-tien-dinh"]
+    },
+    {
+      "question": "Tôi hay phải yêu cầu người khác nói lại vì không nghe rõ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nghe-kem", "viem-tai-giua", "tac-ray-tai"]
+    },
+    {
+      "question": "Tôi thấy khó khăn khi nghe điện thoại và phải tăng âm lượng lên rất cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nghe-kem", "lao-hoa-tai", "viem-tai-giua"]
+    },
+    {
+      "question": "Tôi thấy khả năng nghe của mình giảm sút theo thời gian. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nghe-kem", "lao-hoa-tai", "roi-loan-thong-tin-tai"]
     }
   ]
 }

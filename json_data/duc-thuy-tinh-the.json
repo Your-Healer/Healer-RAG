@@ -1,58 +1,256 @@
 {
   "disease_id": "duc-thuy-tinh-the",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Đục Thủy Tinh Thể",
+  "disease_alternative_names": [
+    "Đục nhân mắt",
+    "Cườm khô",
+    "Cườm đá",
+    "Cataracts"
+  ],
+  "disease_definition": "Đục thủy tinh thể (hay đục nhân mắt, bệnh cườm đá, cườm khô) là tình trạng rối loạn thị lực do cấu trúc protein của thủy tinh thể bị thay đổi dưới tác động của các chất gây hại sinh ra từ bên trong cơ thể hoặc từ môi trường bên ngoài. Cấu trúc protein bị xáo trộn làm thay đổi độ cong, độ trong, độ đàn hồi và độ dày của thủy tinh thể, khiến thủy tinh thể mờ đục. Từ đó cản trở, không cho ánh sáng đi qua, gây suy giảm thị lực, người bệnh khó khăn trong các hoạt động thường ngày như lái xe, đọc sách báo…, thậm chí gây biến chứng mất hẳn thị lực nếu tình trạng kéo dài.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mờ mắt",
+      "description": "Thị lực giảm dần, người bệnh cảm thấy nhìn mờ khi đọc sách báo, lái xe hay thực hiện các hoạt động thường ngày."
+    },
+    {
+      "name": "Khó khăn khi lái xe vào ban đêm",
+      "description": "Người bệnh gặp khó khăn đặc biệt khi lái xe vào ban đêm do ánh đèn xe gây chói mắt và giảm thị lực trong điều kiện ánh sáng yếu."
+    },
+    {
+      "name": "Cảm giác như có màng che",
+      "description": "Cảm giác như có một màng mỏng đang che phủ trước mắt, làm mất đi độ rõ nét của hình ảnh."
+    },
+    {
+      "name": "Màu sắc nhạt dần",
+      "description": "Người bệnh nhận thấy màu sắc trở nên nhạt nhòa, không còn rõ nét và sống động như trước."
+    },
+    {
+      "name": "Nhìn thấy chấm đen trước mắt",
+      "description": "Xuất hiện các chấm đen hoặc đốm mờ trước mắt, làm cản trở tầm nhìn."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Ánh sáng mạnh dễ gây chói, lóa mắt, khó chịu khi ra ngoài trời nắng hoặc nơi có ánh sáng mạnh."
+    },
+    {
+      "name": "Nhìn thấy quầng sáng",
+      "description": "Nhìn thấy quầng sáng xung quanh nguồn sáng như đèn đường, đèn xe."
+    },
+    {
+      "name": "Song thị (nhìn đôi)",
+      "description": "Nhìn một vật nhưng thấy thành hai hình ảnh, thường xảy ra khi đục thủy tinh thể tiến triển."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính của đục thủy tinh thể là quá trình lão hóa tự nhiên của cơ thể, khiến cấu trúc protein trong thủy tinh thể bị thay đổi và mất độ trong suốt.",
+    "related_factors": "Ngoài yếu tố tuổi tác, bệnh còn có thể do rối loạn bẩm sinh, chấn thương mắt, biến chứng của các bệnh lý toàn thân, tác dụng phụ của thuốc như corticoid, tiếp xúc kéo dài với tia UV từ ánh nắng mặt trời, tiếp xúc thường xuyên với ánh sáng xanh từ màn hình điện tử, và các bệnh mạn tính như tiểu đường.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (đặc biệt trên 65 tuổi)",
+    "Tiểu đường",
+    "Cao huyết áp",
+    "Béo phì",
+    "Thường xuyên tiếp xúc với ánh sáng xanh từ các thiết bị điện tử",
+    "Tiếp xúc nhiều với tia cực tím từ mặt trời",
+    "Sử dụng thuốc có tác dụng phụ cho mắt (như corticoid)",
+    "Cận thị thoái hóa",
+    "Chấn thương mắt hoặc phẫu thuật mắt trước đó",
+    "Sử dụng chất kích thích như rượu bia, thuốc lá",
+    "Thiếu hụt các chất dinh dưỡng cho mắt",
+    "Tiếp xúc với môi trường khói bụi ô nhiễm",
+    "Căng thẳng kéo dài"
+  ],
+  "complications": [
+    "Mù lòa hoàn toàn nếu không được điều trị",
+    "Suy giảm chất lượng cuộc sống",
+    "Tăng nguy cơ té ngã và chấn thương do thị lực kém",
+    "Khó khăn trong các hoạt động hàng ngày như đọc sách, lái xe",
+    "Tăng áp lực nội nhãn",
+    "Viêm màng bồ đào"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xem xét lịch sử bệnh lý",
+      "Khám mắt toàn diện",
+      "Đánh giá các triệu chứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra thị lực",
+        "description": "Sử dụng biểu đồ hoặc thiết bị chuyên dụng với bảng chữ cái nhỏ dần để đánh giá mức độ suy giảm thị lực của bệnh nhân."
+      },
+      {
+        "name": "Kiểm tra mắt bằng kính hiển vi",
+        "description": "Sử dụng kính hiển vi phóng đại các cấu trúc ở phía trước của mắt, giúp bác sĩ dễ dàng phát hiện ra những bất thường bên trong mắt và mức độ đục của thủy tinh thể."
+      },
+      {
+        "name": "Đo nhãn áp",
+        "description": "Kiểm tra áp lực trong nhãn cầu để loại trừ các bệnh lý khác như glaucoma."
+      },
+      {
+        "name": "Khám đáy mắt",
+        "description": "Kiểm tra tình trạng võng mạc và đánh giá các tổn thương khác có thể kèm theo đục thủy tinh thể."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Dựa trên các giai đoạn của bệnh, người bệnh sẽ được tư vấn biện pháp cải thiện thị lực và điều trị đục nhân mắt một cách thích hợp. Hiện chưa có phương pháp nào giúp đảo ngược tình trạng đục thủy tinh thể, và phẫu thuật là biện pháp điều trị chính khi bệnh ảnh hưởng nghiêm trọng đến thị lực.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng kính hỗ trợ",
+        "description": "Trong giai đoạn sớm, thị lực chưa suy giảm nhiều, các bác sĩ thường cho người bệnh đeo kính hoặc sử dụng kính lúp hỗ trợ song song với việc cung cấp dưỡng chất thiết yếu cho mắt. Người bệnh nên làm việc trong môi trường ánh sáng tốt để giảm thiểu các rối loạn thị giác."
+      },
+      {
+        "name": "Phẫu thuật Phaco",
+        "description": "Phương pháp an toàn và hiệu quả trong việc cải thiện thị lực cho người mắc bệnh. Bác sĩ sẽ sử dụng sóng siêu âm để phá vỡ thủy tinh thể đục và hút ra, sau đó cấy ghép thủy tinh thể nhân tạo vào vị trí cũ."
+      },
+      {
+        "name": "Phẫu thuật thay thế thủy tinh thể nhân tạo",
+        "description": "Trường hợp người bệnh không thể sử dụng thuốc hoặc đeo kính thì cần phải phẫu thuật thay thế thủy tinh thể nhân tạo. Phẫu thuật giúp loại bỏ hoàn toàn thủy tinh thể đã bị đục và thay thế bằng thủy tinh thể nhân tạo vĩnh viễn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Ăn uống bình thường sau phẫu thuật, tăng cường thực phẩm giàu vitamin và khoáng chất tốt cho mắt",
+      "Không sử dụng rượu bia, chất kích thích, thức ăn cay nóng sau phẫu thuật",
+      "Tránh các hoạt động làm tăng áp lực nội nhãn sau phẫu thuật như nâng vật nặng, cúi đầu",
+      "Sử dụng thuốc nhỏ mắt theo chỉ định của bác sĩ",
+      "Đeo kính bảo vệ khi ra ngoài trời",
+      "Tái khám theo lịch hẹn để theo dõi quá trình phục hồi",
+      "Nghỉ ngơi đầy đủ sau phẫu thuật"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa đục thủy tinh thể.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám mắt định kỳ, đặc biệt khi trên 40 tuổi",
+      "Khám mắt ngay khi có những dấu hiệu như mỏi mắt, nhìn mờ, nhòe, nhức mắt, khô mắt, rát mắt",
+      "Kiểm soát tốt các bệnh mạn tính như đái tháo đường, cao huyết áp",
+      "Bổ sung dinh dưỡng thiết yếu cho mắt thông qua chế độ ăn đa dạng thực phẩm",
+      "Đeo kính râm, nón khi ra ngoài trời nắng để tránh tác hại của tia UV",
+      "Trang bị các thiết bị bảo hộ chuyên dụng theo đặc thù công việc",
+      "Tránh xa các yếu tố nguy cơ như thuốc lá, rượu bia",
+      "Giảm thời gian tiếp xúc với ánh sáng xanh từ các thiết bị điện tử",
+      "Duy trì lối sống lành mạnh, tránh căng thẳng quá mức"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Chế độ ăn uống cho người sau phẫu thuật đục thủy tinh thể?",
+      "answer": "Người bệnh có thể ăn uống bình thường sau khi mổ đục thủy tinh thể. Nên tăng cường những thực phẩm giàu vitamin và khoáng chất tốt cho mắt như vitamin A, B, C có nhiều trong rau củ quả (cà chua, cà rốt, bơ, các loại hạt, cải xoăn, súp lơ, rau bina). Không nên sử dụng rượu bia, chất kích thích và thức ăn cay nóng sau phẫu thuật."
+    },
+    {
+      "question": "Bệnh đục thủy tinh thể có nguy hiểm không?",
+      "answer": "Theo thống kê, đục thể thủy tinh là nguyên nhân gây mù chủ yếu (chiếm tới 66,1%). Việc phát hiện chậm trễ, chủ quan, phớt lờ các dấu hiệu ban đầu của bệnh là nguyên nhân chính khiến quá trình điều trị trở nên phức tạp hoặc không thể cứu vãn. Mù lòa là biến chứng nghiêm trọng gây gánh nặng cho bản thân người bệnh, gia đình và xã hội."
+    },
+    {
+      "question": "Đục thủy tinh thể có chữa được không?",
+      "answer": "Đục thủy tinh thể hiện không thể chữa khỏi bằng thuốc, nhưng có thể điều trị hiệu quả bằng phẫu thuật. Phẫu thuật Phaco là phương pháp hiện đại và an toàn nhất hiện nay, giúp loại bỏ thủy tinh thể đục và thay thế bằng thủy tinh thể nhân tạo, giúp người bệnh lấy lại thị lực. Tỉ lệ thành công của phẫu thuật rất cao khi được thực hiện bởi bác sĩ có kinh nghiệm và tại cơ sở y tế chuyên nghiệp."
+    },
+    {
+      "question": "Bao lâu sau phẫu thuật đục thủy tinh thể thì nhìn rõ?",
+      "answer": "Sau phẫu thuật đục thủy tinh thể, nhiều người bệnh có thể nhận thấy sự cải thiện thị lực ngay trong ngày đầu tiên. Tuy nhiên, quá trình phục hồi hoàn toàn thường kéo dài từ 4-6 tuần. Trong thời gian này, thị lực sẽ dần ổn định và cải thiện. Một số người có thể cần thêm kính để điều chỉnh tật khúc xạ còn sót lại sau phẫu thuật để đạt được thị lực tốt nhất."
+    },
+    {
+      "question": "Đục thủy tinh thể có di truyền không?",
+      "answer": "Đục thủy tinh thể do tuổi tác không mang tính di truyền, tuy nhiên đục thủy tinh thể bẩm sinh có thể liên quan đến yếu tố di truyền. Nếu trong gia đình có người bị đục thủy tinh thể bẩm sinh, các thành viên khác có thể có nguy cơ cao hơn. Ngoài ra, một số bệnh di truyền như hội chứng Down, hội chứng Marfan, bệnh galactosemia có thể làm tăng nguy cơ đục thủy tinh thể."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mờ mắt, khó khăn khi lái xe vào ban đêm và cảm giác như có màng che trước mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đục Thủy Tinh Thể",
+        "Thoái hóa điểm vàng",
+        "Bệnh Glaucoma",
+        "Khô mắt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy màu sắc nhạt dần, nhìn thấy chấm đen trước mắt và nhạy cảm hơn với ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đục Thủy Tinh Thể",
+        "Bong võng mạc",
+        "Thoái hóa điểm vàng",
+        "Viêm màng bồ đào"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy mọi vật có màu vàng nhạt hoặc nâu nhạt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đục Thủy Tinh Thể",
+        "Vàng da",
+        "Tác dụng phụ của thuốc",
+        "Bệnh võng mạc đái tháo đường"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhìn một thành hai, khó khăn khi nhìn gần và nhìn xa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đục Thủy Tinh Thể",
+        "Lão thị",
+        "Loạn thị",
+        "Rối loạn vận nhãn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mắt bị lóa khi nhìn vào ánh đèn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đục Thủy Tinh Thể",
+        "Viêm giác mạc",
+        "Khô mắt",
+        "Thoái hóa võng mạc"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy quầng sáng xung quanh nguồn sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đục Thủy Tinh Thể",
+        "Glaucoma",
+        "Viêm giác mạc",
+        "Astigmatism"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhìn mờ, khó khăn khi đọc sách và nhìn vào màn hình máy tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đục Thủy Tinh Thể",
+        "Viễn thị",
+        "Lão thị",
+        "Khô mắt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mắt bị khô và khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Khô mắt",
+        "Viêm kết mạc",
+        "Đục Thủy Tinh Thể",
+        "Dị ứng mắt"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy khó khăn khi phân biệt màu sắc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đục Thủy Tinh Thể",
+        "Mù màu",
+        "Bệnh võng mạc sắc tố",
+        "Thoái hóa hoàng điểm"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhìn mờ vào ban đêm và khó khăn khi lái xe. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đục Thủy Tinh Thể",
+        "Cận thị",
+        "Rối loạn thích nghi ánh sáng",
+        "Thoái hóa võng mạc"
+      ]
     }
   ]
 }

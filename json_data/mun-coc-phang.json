@@ -1,58 +1,164 @@
 {
   "disease_id": "mun-coc-phang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn cóc phẳng",
+  "disease_alternative_names": ["Flat warts", "Verruca plana"],
+  "disease_definition": "Mụn cóc phẳng do 4 tuýp vi rút HPV khác nhau (3, 10, 28 và 49) gây ra, tạo thành các sẩn nhẵn trên da. Chúng phẳng và nhỏ hơn các mụn cóc khác, thường xuất hiện thành nhóm trên tay hoặc da mặt. Mụn cóc phẳng thường tự khỏi sau vài tháng hoặc vài năm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt mụn nhỏ, phẳng",
+      "description": "Mụn cóc phẳng nhỏ, hình tròn hoặc bầu dục, kích thước chỉ bằng đầu ghim và không nhô cao lên khỏi bề mặt da."
+    },
+    {
+      "name": "Màu sắc đặc trưng",
+      "description": "Mụn có màu vàng, nâu hoặc hồng, khá khó phân biệt với màu da bình thường."
+    },
+    {
+      "name": "Xuất hiện thành cụm",
+      "description": "Mụn cóc phẳng thường xuất hiện thành cụm, từ 20 đến 200 mụn tại một khu vực."
+    },
+    {
+      "name": "Vị trí điển hình",
+      "description": "Xuất hiện phổ biến trên mặt, chân, mu bàn tay hoặc bao quanh các vết trầy xước, vết thương trên da."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Mụn cóc phẳng do vi rút u nhú ở người (HPV) gây ra, cụ thể là HPV tuýp 3, 10, 28 và 49. Các chủng này lành tính không có nguy cơ gây ung thư và không phải cùng chủng với mụn cóc sinh dục.",
+    "related_factors": "HPV phát triển tốt trong môi trường nóng và ẩm ướt. Khi xâm nhập vào cơ thể vật chủ, vi rút bắt đầu làm lớp da trên cùng dày lên và tạo thành mụn cóc phẳng. Người có hệ thống miễn dịch suy yếu dễ nhiễm vi rút HPV hơn.",
+    "transmission_routes": [
+      "Qua vết xước trên cơ thể",
+      "Dùng chung vật dụng cá nhân với người có mụn cóc phẳng",
+      "Lây lan từ bộ phận này sang bộ phận khác trên cơ thể",
+      "Tiếp xúc trực tiếp với người bệnh"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em và tuổi vị thành niên",
+    "Vết thương ngoài da, vết trầy xước",
+    "Tiếp xúc trực tiếp với người bị mụn cóc phẳng",
+    "Hệ thống miễn dịch suy yếu do bệnh tật, hóa trị, xạ trị, thuốc ức chế miễn dịch",
+    "Lối sống không vệ sinh, không tắm rửa thường xuyên",
+    "Vết xước do cạo râu, lông tay hay lông chân"
+  ],
+  "complications": [
+    "Lây lan sang các vùng khác trên cơ thể",
+    "Lây nhiễm cho người xung quanh",
+    "Ảnh hưởng thẩm mỹ gây tâm lý kém tự tin",
+    "Khó điều trị dứt điểm, có thể tái phát sau điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá lâm sàng qua quan sát các vết sẩn",
+      "Hỏi về triệu chứng và lịch sử tiếp xúc",
+      "Cạo lớp trên cùng của mụn cóc phẳng để kiểm tra các dấu hiệu đặc trưng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sinh thiết",
+        "description": "Lấy một phần nhỏ mụn cóc đem đi xét nghiệm để loại trừ các bệnh nguy hiểm khác"
+      },
+      {
+        "name": "Khám da liễu",
+        "description": "Bác sĩ chuyên khoa da liễu kiểm tra và chẩn đoán phân biệt với các bệnh lý da khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện có nhiều phương pháp khác nhau để điều trị mụn cóc phẳng, từ bôi thuốc đến nhiều phác đồ khác tại bệnh viện. Một số phương pháp cần mất vài tuần hoặc vài tháng để phát huy tác dụng. Các phương pháp điều trị chỉ loại bỏ mụn cóc tại vị trí xuất hiện và không tiêu diệt hoàn toàn vi rút, nên có thể tái phát.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Axit salicylic",
+        "description": "Làm mụn cóc tự bong ra, phù hợp cho vùng da dày. Người bệnh làm ướt mụn trong nước từ 10-15 phút, loại bỏ lớp da chết, sau đó thoa axit. Cần thực hiện 1-2 lần trong 12 tuần."
+      },
+      {
+        "name": "Thuốc bôi imiquimod",
+        "description": "Kích thích hệ miễn dịch, làm mụn tự rụng đi. Thường được kết hợp với phương pháp áp lạnh để tăng hiệu quả. Cần có chỉ định của bác sĩ."
+      },
+      {
+        "name": "Liệu pháp làm lạnh",
+        "description": "Sử dụng nitơ lỏng ở nhiệt độ -196°C hoặc hỗn hợp dimethyl ether và propane (DMEP) phun lên vùng mụn cóc, làm tổn thương mô và phá hủy mụn cóc."
+      },
+      {
+        "name": "Laser",
+        "description": "Laser CO2 hoặc laser xung nhuộm được chiếu vào mụn cóc phẳng để bốc hơi và phá hủy mô hoặc đốt các mạch máu nhỏ bên trong mụn cóc."
+      },
+      {
+        "name": "Đốt điện",
+        "description": "Sử dụng dòng điện để lấy các nhân mụn cóc phẳng, thích hợp với mụn ở vị trí khó tiểu phẫu, đường kính dưới 1cm."
+      },
+      {
+        "name": "Tiểu phẫu",
+        "description": "Áp dụng với mụn cóc phẳng có đường kính dưới 2cm, mọc ở vị trí bằng phẳng. Thực hiện nhanh hơn đốt điện nhưng có thể để lại sẹo."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Không tự ý điều trị tại nhà mà không có chỉ định của bác sĩ",
+      "Không nên chạm, cạy hoặc gãi vào bất kỳ mụn cóc nào",
+      "Thăm khám bác sĩ khi mụn cóc phẳng có dấu hiệu chảy máu hoặc lớn dần",
+      "Thăm khám khi các biện pháp điều trị tại nhà không cải thiện",
+      "Thăm khám nếu sau điều trị mụn cóc phẳng có dấu hiệu nhiễm trùng"
+    ],
+    "prevention_of_transmission": [
+      "Không nên chạm, cạy hoặc gãi vào mụn cóc phẳng",
+      "Tránh chạm vào người bị nhiễm bệnh",
+      "Không dùng chung vật dụng cá nhân như khăn tắm, quần áo với người bệnh"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng vắc-xin HPV có thể ngăn ngừa một số loại mụn cóc phẳng do vi rút HPV gây ra.",
+      "recommended_for": [
+        "Trẻ em và thanh thiếu niên trước khi có nguy cơ phơi nhiễm với HPV",
+        "Người có hệ miễn dịch suy yếu"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh tay sạch sẽ và khô ráo",
+      "Không nên chạm, cạy hoặc gãi vào bất kỳ mụn cóc phẳng nào",
+      "Tránh chạm vào người bị nhiễm bệnh",
+      "Không dùng chung khăn tắm, quần áo, các vật dụng cá nhân với người khác",
+      "Rửa sạch đồ chơi của trẻ em thường xuyên",
+      "Mang dép xỏ ngón tại bể bơi, phòng tắm công cộng và phòng thay đồ",
+      "Tiêm phòng vắc-xin HPV để ngăn mụn cóc phẳng xuất hiện"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn cóc phẳng có nguy hiểm không?",
+      "answer": "Không! Mụn cóc phẳng do các tuýp vi rút HPV nguy cơ thấp gây ra nên không phát triển thành các bệnh nguy hiểm khác. Chúng chỉ gây ra một số triệu chứng khó chịu và gây mất thẩm mỹ ảnh hưởng đến tâm lý cho người gặp phải, có khả năng lây nhiễm cho người xung quanh."
+    },
+    {
+      "question": "Mụn cóc phẳng có lây không?",
+      "answer": "Có! Vi rút HPV gây mụn cóc phẳng rất dễ lây lan. Khi một người bình thường chạm vào mụn cóc ở người khác, ngay lúc này vi rút bắt đầu xâm nhập. Bệnh còn lây qua việc dùng chung vật dụng cá nhân như quần áo, khăn tắm. Ngoài ra, vi rút HPV có thể xâm nhập vào cơ thể qua vết thương, vết trầy xước nhỏ trên da."
+    },
+    {
+      "question": "Mụn cóc phẳng có điều trị được không?",
+      "answer": "Có, hiện có nhiều phương pháp khác nhau để điều trị mụn cóc phẳng, từ bôi thuốc đến các phác đồ tại bệnh viện như làm lạnh, laser, đốt điện hay tiểu phẫu. Một số phương pháp cần mất vài tuần hoặc vài tháng để phát huy tác dụng. Tuy nhiên, các phương pháp điều trị chỉ giúp loại bỏ mụn cóc ở vị trí chúng xuất hiện và ngăn chặn vi rút bùng phát chứ không tiêu diệt hoàn toàn. Một số trường hợp, mụn cóc vẫn xuất hiện trở lại sau khi điều trị."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da xuất hiện các nốt mụn nhỏ, phẳng, màu hồng hoặc nâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-phang", "viem-da", "nam-da"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ngáy ở vùng da có nốt mụn phẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-phang", "viem-da", "di-ung-da"]
+    },
+    {
+      "question": "Tôi hay cạo râu và lông chân, dạo gần đây da xuất hiện nhiều nốt mụn phẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-phang", "viem-da", "viem-nang-long"]
+    },
+    {
+      "question": "Tôi có vết trầy xước trên da và sau đó xuất hiện nốt mụn phẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc-phang", "viem-da", "nhiem-trung-da"]
+    },
+    {
+      "question": "Tôi tiếp xúc với người bị mụn cóc phẳng và sau đó da tôi cũng xuất hiện nốt mụn phẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-coc-phang",
+        "lay-nhiem-virus-hpv",
+        "ton-thuong-da"
+      ]
     }
   ]
 }

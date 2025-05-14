@@ -1,39 +1,124 @@
 {
   "disease_id": "ngung-tho-khi-ngu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng ngưng thở khi ngủ",
+  "disease_alternative_names": [
+    "Chứng ngưng thở khi ngủ",
+    "Rối loạn ngưng thở lúc ngủ",
+    "Sleep apnea"
+  ],
+  "disease_definition": "Ngưng thở khi ngủ là hội chứng rối loạn giấc ngủ phổ biến gây ra tình trạng ngừng thở thường xuyên trong khi ngủ. Bệnh liên quan đến sự tắc nghẽn đường hô hấp và có thể gây ra nhiều biến chứng nghiêm trọng, thậm chí tử vong ở cả người lớn và trẻ em. Hội chứng này có mối quan hệ đặc biệt mật thiết với bệnh béo phì và là yếu tố nguy cơ của bệnh tim mạch, bệnh chuyển hóa và ung thư.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ngáy to",
+      "description": "Ngáy to thường được ngắt quãng bởi tiếng thở hổn hển hoặc nghẹt thở, là triệu chứng phổ biến của ngưng thở khi ngủ do tắc nghẽn."
+    },
+    {
+      "name": "Buồn ngủ vào ban ngày",
+      "description": "Ngủ ngày quá nhiều, thường xuyên cảm thấy mệt mỏi và buồn ngủ trong suốt cả ngày do giấc ngủ bị gián đoạn liên tục vào ban đêm."
+    },
+    {
+      "name": "Nhức đầu buổi sáng",
+      "description": "Đau đầu vào buổi sáng có thể kéo dài vài giờ sau khi thức dậy, thường do thiếu oxy trong đêm."
+    },
+    {
+      "name": "Khô miệng khi thức dậy",
+      "description": "Miệng khô sau khi thức dậy vào buổi sáng do thở bằng miệng trong đêm."
+    },
+    {
+      "name": "Thức giấc giữa đêm",
+      "description": "Hay thức giấc giữa đêm, ngủ không yên giấc do các đợt ngưng thở làm gián đoạn giấc ngủ."
+    },
+    {
+      "name": "Tiểu đêm",
+      "description": "Thường xuyên phải thức dậy vào ban đêm để đi tiểu."
+    },
+    {
+      "name": "Giảm tập trung",
+      "description": "Khó tập trung vào các nhiệm vụ trong ngày do thiếu ngủ hoặc giấc ngủ chất lượng kém."
+    },
+    {
+      "name": "Thở bất thường khi ngủ",
+      "description": "Kiểu thở bất thường, thở chậm lại, tăng tốc và tạm dừng trong khi ngủ, thường gặp trong ngưng thở khi ngủ trung ương."
+    },
+    {
+      "name": "Khó thở đột ngột hoặc đau ngực vào ban đêm",
+      "description": "Cảm giác khó thở đột ngột hoặc đau ngực khi ngủ, đặc biệt trong trường hợp ngưng thở khi ngủ trung ương."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ngưng thở khi ngủ do tắc nghẽn xảy ra khi các cơ ở phía sau cổ họng thư giãn trong khi ngủ, thu hẹp không gian cho luồng không khí đi qua. Ngưng thở khi ngủ trung ương phát sinh do các vấn đề về cách não giao tiếp với các cơ chịu trách nhiệm hô hấp.",
+    "related_factors": "Ngưng thở khi ngủ có 3 dạng chính gồm ngưng thở khi ngủ do tắc nghẽn (OSA), ngưng thở khi ngủ trung ương (CSA) và ngưng thỏ khi ngủ hỗn hợp. Béo phì là nguyên nhân lớn nhất dẫn đến hội chứng ngưng thở khi ngủ do tắc nghẽn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác: Nguy cơ tăng theo tuổi, đặc biệt sau 60-70 tuổi",
+    "Giới tính: Nam giới có nguy cơ cao hơn nữ giới, đặc biệt trong giai đoạn đầu của tuổi trưởng thành",
+    "Cấu tạo đầu cổ: Lưỡi lớn, hàm dưới ngắn có thể làm tăng nguy cơ",
+    "Béo phì: Chỉ số khối cơ thể (BMI) cao liên quan mật thiết đến nguy cơ mắc bệnh",
+    "Hút thuốc lá: Người hút thuốc có nguy cơ cao hơn",
+    "Bất thường về nội tiết tố: Các tình trạng như suy giáp hoặc hormone tăng trưởng quá mức",
+    "Tư thế ngủ: Ngủ nằm ngửa làm tăng nguy cơ",
+    "Tiền sử gia đình: Yếu tố di truyền có thể đóng vai trò quan trọng",
+    "Nghẹt mũi: Khó thở bằng mũi làm tăng nguy cơ",
+    "Sử dụng rượu và một số loại thuốc: Rượu và thuốc an thần làm tăng nguy cơ",
+    "Bệnh lý cơ bản: Nhiễm trùng hoặc chấn thương não, suy tim, suy thận, đột quỵ (đối với ngưng thở khi ngủ trung ương)"
+  ],
+  "complications": [
+    "Tai nạn giao thông do buồn ngủ hoặc ngủ gật khi lái xe",
+    "Bệnh tim mạch như huyết áp cao, đột quỵ, suy tim, bệnh tim và rối loạn nhịp tim",
+    "Rối loạn chuyển hóa bao gồm bệnh tiểu đường type 2",
+    "Tăng huyết áp phổi gây căng thẳng quá mức cho tim",
+    "Suy giảm trí nhớ và khả năng tập trung",
+    "Rối loạn tâm trạng, dễ cáu gắt và tăng nguy cơ trầm cảm",
+    "Bệnh gan nhiễm mỡ không do rượu",
+    "Tăng nguy cơ biến chứng khi gây mê trong phẫu thuật"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá tiền sử và triệu chứng lâm sàng",
+      "Khám sức khỏe tổng quát, tập trung vào các yếu tố nguy cơ",
+      "Đánh giá độ nặng của triệu chứng để xác định hướng điều trị"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghiệm pháp đa ký giấc ngủ",
+        "description": "Xét nghiệm chính để chẩn đoán ngưng thở khi ngủ, sử dụng nhiều cảm biến để theo dõi nhịp thở, mức oxy trong máu, giai đoạn giấc ngủ và các yếu tố khác trong khi ngủ tại phòng khám"
+      },
+      {
+        "name": "Nghiệm pháp về giấc ngủ tại nhà",
+        "description": "Phương pháp theo dõi đơn giản hơn có thể được thực hiện tại nhà, thường dành cho bệnh nhân nghi ngờ mắc ngưng thở khi ngủ do tắc nghẽn mức độ nặng"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu điều trị chứng ngưng thở khi ngủ là làm giảm tình trạng gián đoạn hô hấp và cải thiện giấc ngủ. Cách tiếp cận điều trị sẽ khác nhau giữa ngưng thở khi ngủ do tắc nghẽn và ngưng thở khi ngủ trung ương.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Liệu pháp áp lực đường thở dương (PAP)",
+        "description": "Phương pháp điều trị chính cho hầu hết người mắc chứng ngưng thở khi ngủ do tắc nghẽn. Sử dụng thiết bị CPAP, BiPAP hoặc APAP để giữ cho đường thở luôn mở với không khí có áp suất được bơm qua mặt nạ đeo trên mặt."
+      },
+      {
+        "name": "Dụng cụ cố định hàm hoặc lưỡi",
+        "description": "Thiết bị giúp giữ hàm và lưỡi ở vị trí không gây áp lực lên khí quản, thường được áp dụng cho người bệnh mắc chứng ngưng thở khi ngủ dạng nhẹ đến trung bình."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Loại bỏ mô trong cổ họng và mở rộng đường thở, hoặc cấy ghép thiết bị kích thích dây thần kinh kiểm soát hơi thở, áp dụng cho các trường hợp không đáp ứng với các phương pháp khác."
+      },
+      {
+        "name": "Điều trị nguyên nhân cơ bản cho CSA",
+        "description": "Đối với ngưng thở khi ngủ trung ương, điều trị tập trung vào việc giải quyết các vấn đề gây ra tình trạng thở bất thường, có thể bao gồm liệu pháp oxy bổ sung hoặc sử dụng thuốc làm tăng tốc độ thở."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giảm cân nếu thừa cân hoặc béo phì",
+      "Tập thể dục thường xuyên",
+      "Thay đổi tư thế ngủ, tránh nằm ngửa",
+      "Kiêng rượu bia, thuốc lá",
+      "Phối hợp chặt chẽ với bác sĩ trong quá trình điều trị",
+      "Vệ sinh, bảo trì thiết bị điều trị đúng cách",
+      "Tránh các hoạt động có nguy cơ cao như lái xe khi buồn ngủ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +126,52 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm soát cân nặng: Giữ cân nặng ở mức tiêu chuẩn, hoặc giảm cân nếu cân nặng vượt mức khuyến nghị",
+      "Thay đổi tư thế ngủ: Tránh nằm ngửa khi ngủ nếu tư thế này làm tăng triệu chứng",
+      "Bỏ thuốc lá: Không hút thuốc lá có thể giúp giảm nguy cơ mắc bệnh",
+      "Hạn chế uống rượu: Tránh uống rượu, đặc biệt là trước khi đi ngủ",
+      "Khám sức khỏe định kỳ: Những người có yếu tố nguy cơ nên đi khám mỗi năm 2 lần"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ngưng thở khi ngủ có nguy hiểm không?",
+      "answer": "Ngưng thở khi ngủ không phải là bệnh nan y ác tính nhưng các nguy cơ tiềm ẩn do bệnh gây ra có thể để lại nhiều hậu quả nghiêm trọng. Rõ nhất là nguy cơ tai nạn giao thông cao khi ngủ không đủ giấc ban đêm, dẫn đến ban ngày ngủ gà ngủ gật. Nguy cơ mắc các bệnh lý về tim mạch, huyết áp, gan nhiễm mỡ, tăng áp phổi, đái tháo đường… đều là các bệnh lý nghiêm trọng. Đặc biệt, suy tim, đột quỵ là các hệ quả do ngưng thở khi ngủ gây ra đặc biệt nguy hiểm, gây tỷ lệ tử vong cao."
+    },
+    {
+      "question": "Ngưng thở khi ngủ có di truyền không?",
+      "answer": "Các nghiên cứu cho thấy, chứng ngưng thở khi ngủ tắc nghẽn có thể có yếu tố di truyền. Sự di truyền này có thể liên quan đến các đặc điểm giải phẫu ở đầu và cổ di truyền qua các thế hệ, thành viên trong gia đình."
+    },
+    {
+      "question": "Hội chứng ngưng thở khi ngủ khám ở đâu?",
+      "answer": "Ở các nước phát triển, hội chứng ngưng thở khi ngủ được thăm khám và điều trị bởi chuyên gia về giấc ngủ. Tại Việt Nam, bệnh ngưng thở khi ngủ thường được thăm khám và điều trị bởi bác sĩ Tai Mũi Họng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngủ ngày quá nhiều, ngáy to và thường xuyên thức giấc giữa đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngung-tho-khi-ngu", "roi-loan-giac-ngu", "lo-au"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, uể oải vào buổi sáng và hay bị nhức đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngung-tho-khi-ngu",
+        "thieu-mau",
+        "roi-loan-giac-ngu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khô miệng khi thức dậy và giảm tập trung trong ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngung-tho-khi-ngu", "kho-mieng", "thieu-nuoc"]
+    },
+    {
+      "question": "Tôi thường xuyên tiểu đêm và ngủ không yên giấc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngung-tho-khi-ngu", "tieu-dem", "tang-huyet-ap"]
+    },
+    {
+      "question": "Người ngủ cùng giường nói rằng tôi hay ngừng thở khi ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngung-tho-khi-ngu", "ngu-ngay", "roi-loan-ho-hap"]
     }
   ]
 }

@@ -1,39 +1,121 @@
 {
   "disease_id": "lech-vach-ngan-mui",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Lệch vách ngăn mũi",
+  "disease_alternative_names": [
+    "Vẹo vách ngăn mũi",
+    "Hẹp vách ngăn mũi",
+    "Mào vách ngăn mũi"
+  ],
+  "disease_definition": "Lệch vách ngăn mũi là tình trạng vách ngăn mũi bị dịch chuyển đáng kể sang một bên, làm cho một đường dẫn không khí một bên mũi nhỏ hơn bên còn lại. Tình trạng lệch xảy ra khi vách ngăn mũi chia đôi 2 cánh mũi được dịch chuyển, mũi bị xiêu vẹo, biến dạng bất thường.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nghẹt mũi",
+      "description": "Cảm thấy khó thở bằng mũi, mũi bị tắc nghẽn 1 bên hoặc cả 2 bên. Tình trạng nghẹt mũi này thường xuyên diễn ra, dù mũi không bị viêm nhiễm."
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Tình trạng đau đầu có thể bên phải hay bên trái, tùy theo mũi bị vẹo bên nào hoặc có thể bị đau trong hốc mắt cùng bên với vách ngăn vẹo, có trường hợp nhức cả hai bên rồi lan ra vùng chẩm phía sau."
+    },
+    {
+      "name": "Viêm mũi, viêm xoang thường xuyên",
+      "description": "Lệch vách ngăn mũi gây tắc nghẽn ở lỗ mũi dẫn đến viêm nhiễm thường xuyên."
+    },
+    {
+      "name": "Chảy máu mũi thường xuyên",
+      "description": "Vách ngăn lệch có thể gây chảy máu mũi, đặc biệt là khi có gai hoặc mào vách ngăn chạm vào niêm mạc mũi."
+    },
+    {
+      "name": "Ngủ ngáy",
+      "description": "Tình trạng lệch vách ngăn gây cản trở đường thở, dẫn đến ngủ ngáy."
+    },
+    {
+      "name": "Giảm độ nhạy khứu giác",
+      "description": "Khả năng nhận biết mùi giảm do dòng không khí bị cản trở."
+    },
+    {
+      "name": "Nằm ngủ theo một hướng",
+      "description": "Người bị lệch vách ngăn mũi thường chỉ nằm ngủ nghiêng về một bên để dễ thở."
+    },
+    {
+      "name": "Khô ở một bên mũi",
+      "description": "Một bên mũi bị khô do không khí lưu thông không đều qua hai lỗ mũi."
+    },
+    {
+      "name": "Chảy nước mũi sau",
+      "description": "Tình trạng nước mũi chảy xuống họng thay vì chảy ra phía trước."
+    },
+    {
+      "name": "Tiếng ồn khi hít vào hoặc thở ra",
+      "description": "Âm thanh bất thường khi hít vào hoặc thở ra do hẹp đường thở."
+    },
+    {
+      "name": "Tiếng thở ồn ào khi ngủ",
+      "description": "Đặc biệt ở trẻ sơ sinh và trẻ nhỏ, có thể nghe thấy tiếng thở ồn ào khi ngủ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Lệch vách ngăn mũi xảy ra khi vách ngăn chia đôi 2 cánh mũi bị dịch chuyển, cong, lệch, gây ra tình trạng một bên lỗ mũi bị thu hẹp hơn bên còn lại.",
+    "related_factors": "Lệch vách ngăn mũi có thể do bẩm sinh, chấn thương vùng mũi, lão hóa, viêm nhiễm hoặc phẫu thuật chỉnh hình nâng mũi thất bại.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bẩm sinh - phát triển bất thường trong quá trình mẹ mang thai",
+    "Chấn thương thể thao",
+    "Không thắt dây an toàn khi lái xe",
+    "Chấn thương khi sinh nở",
+    "Lão hóa tự nhiên",
+    "Viêm mũi dị ứng, viêm xoang",
+    "Quẹt mũi thường xuyên khi còn nhỏ",
+    "Phẫu thuật làm đẹp như nâng mũi, thu hẹp cánh mũi thất bại"
+  ],
+  "complications": [
+    "Dễ mắc bệnh đường hô hấp",
+    "Viêm họng do phải thở bằng miệng",
+    "Viêm mũi xoang",
+    "Chảy máu mũi",
+    "Ngủ ngáy",
+    "Hội chứng ngưng thở khi ngủ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Nội soi tai-mũi-họng",
+      "Chụp X-quang vùng mặt",
+      "Chụp CT mũi xoang"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai-mũi-họng",
+        "description": "Sử dụng dụng cụ nội soi chuyên biệt để trực tiếp theo dõi toàn bộ vách ngăn mũi, từ đó chẩn đoán bệnh lý lệch vách ngăn mũi."
+      },
+      {
+        "name": "Chụp X-quang vùng mặt",
+        "description": "Kết quả hình ảnh sẽ phản ánh tình trạng lệch vách ngăn phần xương."
+      },
+      {
+        "name": "Chụp CT mũi xoang",
+        "description": "Cung cấp hình ảnh rõ nét giúp bác sĩ quan sát chi tiết bên trong khoang mũi, kể cả phần hẹp nhất và sâu nhất của mũi, đồng thời khảo sát tình trạng biến chứng viêm các xoang do lệch vách ngăn gây ra."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Lệch vách ngăn mũi mức độ nhẹ không cần điều trị, tuy nhiên nếu có các triệu chứng như nghẹt mũi, chảy máu mũi, viêm xoang thì người bệnh cần đến bệnh viện để được thăm khám và điều trị kịp thời.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Giúp giảm triệu chứng nghẹt mũi do phù nề niêm mạc, viêm mũi xoang, viêm mũi dị ứng. Bao gồm thuốc nhỏ mũi co mạch, thuốc xịt mũi chứa corticosteroid, và thuốc kháng histamin."
+      },
+      {
+        "name": "Phẫu thuật chỉnh hình vách ngăn",
+        "description": "Được thực hiện khi điều trị nội khoa bằng thuốc thất bại. Bác sĩ sẽ tách các phần niêm mạc phủ 2 bên của vách ngăn mũi ra, lấy bỏ phần vách ngăn bị lệch và đặt lại niêm mạc vào vị trí ban đầu."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sau phẫu thuật, tránh máy quạt máy lạnh quay trực tiếp vào mặt",
+      "Nhỏ mũi xịt mũi nhẹ nhàng, hạn chế xì mũi mạnh",
+      "Tránh các hoạt động chạy nhảy trong 1 tuần sau phẫu thuật",
+      "Có thể đi làm, đi học lại trong vòng 2-3 ngày sau mổ nếu cảm thấy sẵn sàng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +123,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Đội mũ bảo hiểm hoặc mặt nạ bảo hiểm khi chơi các môn thể thao như bóng đá, bóng chuyền, bóng chày",
+      "Đeo dây an toàn khi đi xe ô tô",
+      "Hạn chế các chấn thương tại mũi",
+      "Chú ý trong quá trình sinh nở để tránh chấn thương vùng mũi mặt cho trẻ sơ sinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Lệch vách ngăn mũi có nguy hiểm không?",
+      "answer": "Lệch vách ngăn mũi thông thường không ảnh hưởng đến sức khỏe, tuy nhiên, nếu không được chữa trị có thể dẫn đến biến chứng nghiêm trọng như dễ mắc bệnh đường hô hấp, viêm họng, viêm mũi xoang, chảy máu mũi, ngủ ngáy, và hội chứng ngưng thở khi ngủ. Đây là hậu quả của việc lỗ mũi biến dạng, đường thở bị thu hẹp, khiến hệ hô hấp bị ảnh hưởng."
+    },
+    {
+      "question": "Khi nào cần phẫu thuật lệch vách ngăn mũi?",
+      "answer": "Phẫu thuật chỉnh hình vách ngăn được chỉ định khi điều trị nội khoa bằng thuốc thất bại. Đa số trường hợp lệch vách ngăn ảnh hưởng chức năng mũi xoang, gây ngủ ngáy, thường xuyên chảy máu điểm mạch mũi thì cần can thiệp phẫu thuật. Nếu lệch vách ngăn mũi ở mức độ nhẹ và không gây triệu chứng khó chịu, có thể không cần phẫu thuật."
+    },
+    {
+      "question": "Phẫu thuật lệch vách ngăn mũi có nguy hiểm không?",
+      "answer": "Phẫu thuật chỉnh hình vách ngăn là một thủ thuật tương đối an toàn. Bệnh nhân được gây mê, sau đó bác sĩ phẫu thuật sẽ tách các phần niêm mạc phủ 2 bên của vách ngăn mũi ra, lấy bỏ phần vách ngăn bị lệch và đặt lại niêm mạc vào vị trí ban đầu. Thông thường bệnh nhân được xuất viện sau 1 ngày và tái khám sau 1 tuần."
+    },
+    {
+      "question": "Sau phẫu thuật lệch vách ngăn mũi cần lưu ý gì?",
+      "answer": "Sau khi mổ vách ngăn, bệnh nhân có thể nghẹt mũi nhẹ, thường kéo dài từ 2 đến 3 ngày. Nên tránh máy quạt máy lạnh quay trực tiếp vào mặt, nhỏ mũi xịt mũi nhẹ nhàng, hạn chế xì mũi mạnh. Tránh các hoạt động chạy nhảy trong 1 tuần sau phẫu thuật. Bệnh nhân có thể đi làm, đi học lại trong vòng 2 đến 3 ngày sau mổ nếu cảm thấy sẵn sàng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lech-vach-ngan-mui", "viem-mui", "viem-xoang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lech-vach-ngan-mui",
+        "viem-xoang",
+        "dau-dau-migraine"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm mũi, viêm xoang thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lech-vach-ngan-mui",
+        "viem-mui-di-ung",
+        "viem-xoang-man"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng chảy máu mũi thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lech-vach-ngan-mui", "cao-huyet-ap", "viem-mui"]
+    },
+    {
+      "question": "Tôi bị ngủ ngáy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lech-vach-ngan-mui",
+        "ngung-tho-khi-ngu",
+        "viem-amidan"
+      ]
     }
   ]
 }

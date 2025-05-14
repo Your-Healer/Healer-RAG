@@ -1,58 +1,182 @@
 {
   "disease_id": "nam-ong-tai-ngoai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nấm ống tai ngoài",
+  "disease_alternative_names": [
+    "Nhiễm nấm ống tai ngoài",
+    "Viêm nấm tai ngoài"
+  ],
+  "disease_definition": "Nấm ống tai ngoài là tình trạng nhiễm trùng của ống tai ngoài gây ra bởi tác nhân vi nấm. Đây là một bệnh lý tai mũi họng khá thường gặp, gây khó chịu dai dẳng cho bệnh nhân nếu không được điều trị đúng cách. Bệnh thường xuất hiện ở các nước khí hậu nhiệt đới với đặc điểm độ ẩm cao. Mặc dù triệu chứng thường chỉ xảy ra trong ống tai ngoài, không đe dọa tính mạng nhưng có thể tiến triển nặng gây thủng màng nhĩ làm giảm thính lực, xâm lấn nhiễm trùng xương thái dương nếu không được nhận biết và điều trị kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ngứa tai",
+      "description": "Cảm giác ngứa ngáy trong tai, có thể dai dẳng và gây khó chịu."
+    },
+    {
+      "name": "Chảy dịch tai",
+      "description": "Tai tiết dịch có mùi hôi, thường đục hoặc có màu đặc trưng."
+    },
+    {
+      "name": "Đau tai",
+      "description": "Đau tăng khi kích thích như kéo vành tai hoặc ấn vào nắp bình tai; có thể gây đau lan tới khớp thái dương hàm."
+    },
+    {
+      "name": "Ù tai",
+      "description": "Cảm giác ù tai kèm theo cảm giác đầy tai, khó chịu."
+    },
+    {
+      "name": "Giảm thính lực",
+      "description": "Khả năng nghe giảm, đặc biệt khi mảng nấm bít tắc ống tai."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nấm ống tai ngoài là tình trạng nhiễm trùng của ống tai ngoài gây ra bởi tác nhân vi nấm. Vi nấm Aspergillus và Candida là 2 tác nhân thường gây bệnh nấm ống tai ngoài.",
+    "related_factors": "Khi có các tác động làm thay đổi môi trường ống tai, có thể dẫn tới nhiễm nấm ống tai ngoài, như nút ráy tai, viêm tai giữa thủng nhĩ mạn tính, sau phẫu thuật tai, sử dụng thuốc nhỏ tai kéo dài, xạ trị vùng đầu cổ, hoặc tổn thương ống tai do ngoáy tai.",
+    "transmission_routes": [
+      "Tiếp xúc trực tiếp với nấm, đặc biệt ở bệnh nhân suy giảm miễn dịch",
+      "Dùng chung dụng cụ lấy ráy tai",
+      "Dụng cụ phẫu thuật tai không được tiệt trùng kỹ lưỡng"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bệnh nhân có nút ráy tai",
+    "Viêm tai giữa thủng nhĩ mạn tính với triệu chứng chảy dịch tai kéo dài",
+    "Bệnh nhân sau phẫu thuật có tạo hình thành ống tai",
+    "Sử dụng thuốc nhỏ tai diệt khuẩn kéo dài",
+    "Bệnh nhân xạ trị vùng đầu cổ",
+    "Tổn thương ống tai do chấn thương hoặc thói quen móc ngoáy vệ sinh tai",
+    "Sử dụng tai nghe, máy trợ thính thường xuyên",
+    "Người hay chơi các môn thể thao dưới nước",
+    "Người mắc các bệnh về da liên quan tới tai ngoài",
+    "Bệnh lý về nấm ở cơ quan khác",
+    "Bệnh nhân suy giảm miễn dịch (HIV, đái tháo đường, sử dụng thuốc corticoid kéo dài, hóa trị ung thư)"
+  ],
+  "complications": [
+    "Thủng màng nhĩ làm giảm thính lực",
+    "Xâm lấn hoại tử xương chũm gây viêm tai xương chũm",
+    "Nhiễm trùng xương thái dương",
+    "Nhiễm trùng lan lên nội sọ gây viêm màng não",
+    "Viêm màng não đe dọa tính mạng (đặc biệt ở trẻ em và người suy giảm miễn dịch)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khai thác các triệu chứng", "Nội soi tai"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai",
+        "description": "Hình ảnh nội soi bao gồm: ống tai sưng nề, sung huyết, lòng ống tai đọng dịch mủ và đặc biệt thấy có các sợi tơ nấm hoặc mảng nấm màu xanh, đen trắng rất đặc trưng"
+      },
+      {
+        "name": "Xét nghiệm dịch tai",
+        "description": "Trong một số trường hợp cần xác định loại nấm cụ thể gây bệnh, bác sĩ có thể lấy mẫu dịch tai để xét nghiệm"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị nấm ống tai ngoài chủ yếu điều trị tại chỗ, hiếm khi cần tới thuốc kháng sinh với kháng nấm đường uống. Việc điều trị viêm nấm ống tai ngoài bằng thuốc cần theo kê đơn của bác sĩ, không nên tự mua thuốc kháng sinh điều trị để tránh tình trạng kháng kháng sinh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Loại bỏ và làm sạch mủ nấm",
+        "description": "Bác sĩ sẽ làm sạch ống tai, loại bỏ các mảng nấm và dịch mủ trước khi điều trị bằng thuốc"
+      },
+      {
+        "name": "Sử dụng thuốc nhỏ tai kháng nấm",
+        "description": "Thuốc nhỏ tai có thành phần thuốc diệt nấm được sử dụng để tiêu diệt vi nấm trong ống tai"
+      },
+      {
+        "name": "Thuốc bôi ngoài da",
+        "description": "Trong trường hợp dịch nấm chảy ra kích thích gây viêm vành tai, có thể cần sử dụng thuốc bôi để loại bỏ nấm và giảm triệu chứng"
+      },
+      {
+        "name": "Thuốc giảm triệu chứng",
+        "description": "Một số trường hợp có thể sử dụng thêm thuốc giảm đau, kháng viêm, kháng dị ứng ngắn ngày để giảm nhanh các triệu chứng"
+      },
+      {
+        "name": "Thuốc kháng nấm đường uống",
+        "description": "Ở bệnh nhân suy giảm miễn dịch không đáp ứng với liệu pháp tại chỗ, có thể cần kết hợp với thuốc kháng nấm đường uống theo toa bác sĩ"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Khi có biến chứng viêm ống tai ngoài hoại tử xâm lấn, có thể cần phẫu thuật để làm sạch nấm, kết hợp với uống thuốc kháng nấm toàn thân"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ điều trị theo kê đơn của bác sĩ",
+      "Không tự mua thuốc kháng sinh điều trị",
+      "Giữ tai khô và sạch trong quá trình điều trị",
+      "Tránh ngoáy tai hoặc đưa bất kỳ vật gì vào tai",
+      "Tái khám theo lịch hẹn của bác sĩ",
+      "Tiếp tục điều trị đủ thời gian dù triệu chứng đã giảm"
+    ],
+    "prevention_of_transmission": [
+      "Không dùng chung dụng cụ lấy ráy tai để tránh lây nhiễm",
+      "Đảm bảo tiệt trùng kỹ lưỡng các dụng cụ y tế liên quan đến tai"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh tai sạch sẽ, đúng cách",
+      "Khi đi bơi nên sử dụng nút bịt tai và làm khô sạch tai sau đó",
+      "Không làm tổn thương tai bằng các vật sắc nhọn",
+      "Không nên dùng chung dụng cụ lấy ráy tai",
+      "Ở bệnh nhân suy giảm miễn dịch, cần chăm sóc tai kỹ lưỡng và kiểm tra tai thường xuyên",
+      "Bệnh nhân đái tháo đường nên kiểm soát lượng đường trong máu để ngăn ngừa biến chứng",
+      "Bệnh nhân sau phẫu thuật xương chũm nên kiểm tra tai thường xuyên để vệ sinh làm sạch ráy, vảy tai",
+      "Phát hiện sớm các tình trạng viêm tai giúp điều trị kịp thời"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh nấm tai ngoài có lây không?",
+      "answer": "Nấm tai ngoài là một bệnh nhiễm trùng do nấm. Bệnh có thể lây lan từ người này sang người khác nếu tiếp xúc với nấm, đặc biệt là ở các bệnh nhân bị suy giảm miễn dịch. Việc dùng chung dụng cụ lấy ráy tai làm tăng nguy cơ lây nhiễm nấm. Các dụng cụ phẫu thuật tai không được tiệt trùng kỹ lưỡng cũng có thể dẫn đến nguy cơ này."
+    },
+    {
+      "question": "Bệnh nấm tai ngoài có nguy hiểm không?",
+      "answer": "Thông thường, nhiễm nấm ống tai ngoài chỉ gây khó chịu dai dẳng giới hạn ở ống tai ngoài của bệnh nhân. Mặc dù hiếm gặp, nhưng bệnh có thể biến chứng xâm lấn gây hủy xương, nhiễm trùng xương chũm, nhiễm trùng xương thái dương không được điều trị kịp thời, nhiễm trùng lan lên nội sọ có thể gây viêm màng não. Viêm màng não là mối đe dọa tới tính mạng, đặc biệt ở trẻ em và người mắc các bệnh suy giảm miễn dịch."
+    },
+    {
+      "question": "Bệnh nấm tai ngoài có tự khỏi không?",
+      "answer": "Nhiễm nấm tai ngoài hiếm khi tự khỏi mà không cần điều trị. Người bệnh cần đi khám để được bác sĩ chẩn đoán và điều trị phù hợp. Phác đồ điều trị thường là vệ sinh tai sạch sẽ kết hợp điều trị bằng các loại thuốc nhỏ tai kháng nấm. Trường hợp có biến chứng nhiễm trùng xương chũm và xương thái dương, có thể cần can thiệp bằng phẫu thuật."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngứa tai và chảy dịch tai có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nam-ong-tai-ngoai",
+        "viem-tai-giua",
+        "viem-tai-ngoai"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tai khi kéo vành tai hoặc ấn vào nắp bình tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nam-ong-tai-ngoai",
+        "viem-tai-ngoai",
+        "viem-ong-tai-ngoai"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ù tai và cảm giác đầy tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nam-ong-tai-ngoai", "viem-tai-giua", "nghet-tai"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như giảm thính lực và ngứa tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nam-ong-tai-ngoai",
+        "viem-tai-giua",
+        "di-vat-trong-tai"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức trong tai và chảy dịch màu vàng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nam-ong-tai-ngoai",
+        "viem-tai-giua",
+        "viem-tai-ngoai"
+      ]
     }
   ]
 }

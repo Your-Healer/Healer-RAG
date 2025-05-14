@@ -1,39 +1,120 @@
 {
   "disease_id": "nghe-kem-mot-ben-tai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nghe kém một bên tai",
+  "disease_alternative_names": [
+    "Giảm thính lực một bên",
+    "Điếc một bên tai",
+    "SSD (Single-Sided Deafness)"
+  ],
+  "disease_definition": "Nghe kém một bên tai là khả năng nghe của một bên tai kém hơn tai còn lại. Người bệnh có thể bị giảm thính lực 1 bên tai bẩm sinh, bộc phát đột ngột hoặc dần dần từ nhẹ đến nặng. Mức độ nghiêm trọng nhất của bệnh lý này là điếc một bên tai. Điếc một bên tai (SSD) là tình trạng mất thính lực thần kinh giác quan một bên tai, nặng đến mức không thể nghe được về mặt lâm sàng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó nghe ở một bên tai",
+      "description": "Một bên tai nghe kém hoặc không nghe được âm thanh, trong khi bên còn lại hoạt động bình thường."
+    },
+    {
+      "name": "Khó xác định vị trí âm thanh",
+      "description": "Người bệnh gặp khó khăn trong việc xác định nguồn gốc âm thanh vì bộ não cần sử dụng cả hai tai để định vị âm thanh chính xác."
+    },
+    {
+      "name": "Khó nghe trong môi trường ồn ào",
+      "description": "Não bộ khó lắng nghe có chọn lọc và lọc ra những tiếng ồn không hữu ích, dẫn đến khó tập trung vào giọng nói của người khác trong môi trường nhiều tiếng ồn."
+    },
+    {
+      "name": "Ù tai",
+      "description": "Cảm giác có tiếng reo, tiếng ồn liên tục trong tai, thường đi kèm với việc giảm thính lực."
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Trong một số trường hợp, nghe kém một bên tai có thể đi kèm với cảm giác chóng mặt, đặc biệt khi nguyên nhân liên quan đến bệnh Ménière."
+    },
+    {
+      "name": "Khó đa nhiệm",
+      "description": "Tăng áp lực nhận thức lên não, dẫn đến mệt mỏi khi nghe và khó thực hiện nhiều nhiệm vụ cùng lúc."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nghe kém một bên tai có thể xuất phát từ nhiều nguyên nhân khác nhau, bao gồm các vấn đề ở tai ngoài, tai giữa, tai trong hoặc dây thần kinh thính giác.",
+    "related_factors": "Mặc dù bản chất của điếc một bên tai thường là vô căn nhưng các bệnh lý như bất thường ốc tai, chấn thương xương thái dương, bệnh Meniere, bệnh schwannoma tiền đình, thiếu máu cục bộ mạch máu, rối loạn tự miễn dịch và nhiễm trùng thường được biết đến là các nguyên nhân gây điếc một bên tai.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác (cả người già và trẻ nhỏ)",
+    "Tiền sử nhiễm trùng tai",
+    "Tiếp xúc với tiếng ồn cường độ cao",
+    "Chấn thương đầu",
+    "Tiền sử gia đình có người bị giảm thính lực",
+    "Mắc các bệnh lý như hội chứng Reye, viêm động mạch thái dương",
+    "Sử dụng một số loại thuốc có thể gây tổn thương thính giác"
+  ],
+  "complications": [
+    "Giảm khả năng nghe trong không gian",
+    "Khó hiểu lời nói khi có tiếng ồn xen vào",
+    "Giảm khả năng định vị âm thanh",
+    "Ảnh hưởng đến khả năng giao tiếp xã hội",
+    "Ảnh hưởng đến khả năng học tập và năng suất làm việc",
+    "Tăng áp lực nhận thức và mệt mỏi khi nghe",
+    "Suy giảm nhận thức ở trẻ em nếu không được quản lý tốt"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Chẩn đoán lâm sàng", "Chẩn đoán hình ảnh", "Đo thính lực đồ"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đo thính lực đồ",
+        "description": "Kiểm tra khả năng nghe âm thanh ở các cường độ và tần số khác nhau, ghi lại tần số âm thanh dưới dạng biểu đồ để chẩn đoán"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Được thực hiện khi nghi ngờ mất thính lực một bên thần kinh đột ngột khởi phát, giúp loại trừ bệnh lý sau ốc tai"
+      },
+      {
+        "name": "Kiểm tra lâm sàng",
+        "description": "Xác định nguyên nhân mất thính lực một bên tai do nhiễm virus hoặc vi khuẩn, đặc biệt khi có các triệu chứng như tai chảy dịch, đau nhức"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tình trạng 1 bên tai nghe kém có thể xuất phát từ rất nhiều nguyên nhân phức tạp. Do vậy, các lựa chọn điều trị có thể khác nhau tùy vào từng nguyên nhân cụ thể. Trước khi can thiệp các phương pháp hỗ trợ thính lực, các chỉ định điều trị căn nguyên gây mất thính lực cần được xử lý trước.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị mất thính lực đột ngột",
+        "description": "Nếu mất thính lực một bên thần kinh đột ngột khởi phát, điều trị bằng thuốc steroid tiêm màng não hoặc đường uống có thể giúp phục hồi thính giác một phần hoặc toàn bộ."
+      },
+      {
+        "name": "Điều trị viêm tai giữa",
+        "description": "Thuốc kháng sinh sẽ được chỉ định để điều trị nhiễm trùng trong trường hợp nghe kém do viêm tai giữa."
+      },
+      {
+        "name": "Điều trị khối u",
+        "description": "Phẫu thuật sẽ được chỉ định để cắt bỏ khối u, kết hợp với điều trị kháng sinh sau đó để phòng ngừa nguy cơ nhiễm trùng."
+      },
+      {
+        "name": "Điều trị ráy tai",
+        "description": "Giảm thính lực do tích tụ ráy tai có thể được điều trị bằng cách dùng thuốc nhỏ tai làm tan ráy tai."
+      },
+      {
+        "name": "Máy trợ thính định tuyến tín hiệu theo bên (CROS)",
+        "description": "Đặt một micrô phía sau hoặc trong tai nghe kém/điếc để thu âm thanh và truyền âm thanh đến thiết bị thu đeo trong tai tốt hơn."
+      },
+      {
+        "name": "Hệ thống thính giác dẫn truyền qua xương",
+        "description": "Bộ xử lý âm thanh thu nhận âm thanh từ bên có thính giác kém hơn và gửi đến tai nghe tốt hơn bằng cách dẫn truyền qua xương."
+      },
+      {
+        "name": "Cấy điện cực ốc tai",
+        "description": "Cung cấp kích thích điện trực tiếp đến tai bị điếc thông qua một điện cực đặt trong ốc tai bị suy giảm, có thể mang lại lợi ích về thính giác hai tai."
+      },
+      {
+        "name": "Hệ thống điều chế tần số (FM)",
+        "description": "Sử dụng sóng vô tuyến để gửi lời nói và các tín hiệu khác từ micrô trực tiếp đến máy thu, giúp nghe rõ hơn trong môi trường ồn ào."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nếu sau vài ngày điều trị nhưng khả năng nghe không cải thiện, nên đến bệnh viện thăm khám",
+      "Không nên dùng các sản phẩm làm sạch ráy tai kéo dài vì có thể gây kích ứng tai",
+      "Không tự ý lấy dị vật ra khỏi tai mà phải tới bệnh viện để được xử lý chuyên khoa",
+      "Điều chỉnh môi trường giao tiếp để hiệu quả hơn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +122,67 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh tiếng ồn: Môi trường tiếng ồn là nguyên nhân hàng đầu gây suy giảm thính lực",
+      "Bảo vệ tai khỏi các bệnh nhiễm trùng: Tránh nhiễm vi khuẩn, virus gây viêm tai giữa, viêm mũi xoang",
+      "Giữ tai khô ráo, sạch sẽ: Thấm khô tai sau khi bơi, sau khi tắm để phòng ngừa viêm tai",
+      "Vệ sinh tai đúng cách: Tránh vệ sinh tai, lấy ráy tai sai cách có thể gây nhiễm trùng hoặc thủng màng nhĩ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mất thính lực một bên tai ảnh hưởng như thế nào đến thính giác?",
+      "answer": "Mất thính lực một bên tai gây khó khăn cho việc xác định nguồn gốc âm thanh vì bộ não sử dụng cả hai tai để định vị âm thanh. Người bệnh sẽ gặp khó khăn khi nghe trong môi trường ồn ào, khó phân biệt mức độ lớn của âm thanh, và khó thực hiện nhiều nhiệm vụ cùng lúc do tăng áp lực nhận thức lên não, dẫn đến mệt mỏi khi nghe."
+    },
+    {
+      "question": "Nghe kém một bên tai mức nặng (điếc 1 bên tai) có chữa được không?",
+      "answer": "Điếc một bên tai khó chữa khỏi được mà chỉ có thể phục hồi chức năng nghe bằng các phương pháp như dùng máy trợ thính, cấy điện cực ốc tai hoặc hệ thống thính giác dẫn truyền qua xương. Nghe kém một bên tai xảy ra ở khoảng 12-27/1.000.000 người trên thế giới mỗi năm. Nếu không được quản lý tốt và có biện pháp phục hồi thính lực, về lâu dài sẽ gây ảnh hưởng đến sự giao tiếp xã hội, khả năng tập trung, đặc biệt có thể làm suy giảm nhận thức ở trẻ em."
+    },
+    {
+      "question": "Khi nào cần đi khám nếu nghi ngờ nghe kém một bên tai?",
+      "answer": "Khi thính giác gặp vấn đề bất thường, nghĩ rằng có khả năng bị nghe kém một bên tai hoặc điếc một bên thì nên liên hệ với chuyên gia thính giác để được kiểm tra thính lực. Đặc biệt bị mất thính giác một bên đột ngột cần phải có sự điều trị của y tế càng sớm càng tốt. Nếu sau vài ngày điều trị nhưng khả năng nghe không cải thiện, cũng nên đến bệnh viện để thăm khám và có phương pháp điều trị phù hợp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nghe kém một bên tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nghe-kem-mot-ben-tai",
+        "viem-tai-giua",
+        "tac-ray-tai"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó khăn khi nghe bằng tai trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nghe-kem-mot-ben-tai",
+        "viem-tai-giua",
+        "thung-mang-nhi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ù tai và nghe kém một bên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nghe-kem-mot-ben-tai",
+        "benh-meniere",
+        "u-day-than-kinh"
+      ]
+    },
+    {
+      "question": "Tôi bị chóng mặt và nghe kém một bên tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nghe-kem-mot-ben-tai",
+        "benh-meniere",
+        "roi-loan-tien-dinh"
+      ]
+    },
+    {
+      "question": "Tôi bị mất thính lực đột ngột ở một bên tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nghe-kem-mot-ben-tai",
+        "viem-than-kinh-thinh-giac",
+        "thieu-mau-cuc-bo"
+      ]
     }
   ]
 }

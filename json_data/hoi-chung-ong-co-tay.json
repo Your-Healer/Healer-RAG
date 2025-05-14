@@ -1,39 +1,106 @@
 {
   "disease_id": "hoi-chung-ong-co-tay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng ống cổ tay",
+  "disease_alternative_names": [
+    "Hội chứng đường hầm cổ tay",
+    "Carpal Tunnel Syndrome",
+    "Viêm ống cổ tay"
+  ],
+  "disease_definition": "Hội chứng ống cổ tay là tình trạng bệnh lý chèn ép dây thần kinh ngoại biên hay gặp nhất. Hội chứng này xảy ra khi thần kinh giữa bị chèn ép khi đi ngang qua ống cổ tay. Hậu quả của việc chèn ép là gây viêm, đau, tê, giảm hoặc mất cảm giác vùng da bàn tay thuộc chi phối của thần kinh giữa, khiến người bệnh khó chịu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tê bì tay, dị cảm",
+      "description": "Cảm giác tê bì, dị cảm, đau buốt do kim châm hoặc rát bỏng ở vùng da thuộc chi phối của dây thần kinh giữa (ngón cái, ngón trỏ, ngón giữa và một nửa ngón áp út)."
+    },
+    {
+      "name": "Các triệu chứng tăng về đêm",
+      "description": "Triệu chứng về cảm giác thường tăng về đêm, làm cho người bệnh thức giấc, gây mất ngủ."
+    },
+    {
+      "name": "Tê tay khi hoạt động",
+      "description": "Các động tác gấp hoặc ngửa cổ tay quá hoặc tỳ đè lên vùng ống cổ tay như đi xe máy làm cảm giác tê tăng lên."
+    },
+    {
+      "name": "Cầm nắm khó khăn",
+      "description": "Xuất hiện trong giai đoạn muộn, người bệnh cảm thấy cầm nắm khó khăn, các động tác khéo léo của bàn tay giảm, hay đánh rơi đồ vật."
+    },
+    {
+      "name": "Đau từ cổ tay đến các ngón",
+      "description": "Cảm giác đau lan từ cổ tay đến các ngón tay thuộc chi phối của thần kinh giữa."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Chèn ép dây thần kinh giữa khi đi ngang qua ống cổ tay, có thể do nhiều nguyên nhân khác nhau.",
+    "related_factors": "Phần lớn do nguyên nhân vô căn (chiếm 70%), số còn lại do các nguyên nhân nội sinh (ứ dịch lúc mang thai, bệnh gout, suy giáp, viêm khớp dạng thấp, chạy thận nhân tạo định kỳ) hoặc ngoại sinh (biến dạng khớp, chấn thương vùng cổ tay, khối u).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ ở tuổi trung niên",
+    "Công việc đòi hỏi sử dụng nhiều tới độ linh hoạt, tỉ mỉ và lặp đi lặp lại của cổ tay",
+    "Mang thai do ứ dịch",
+    "Bệnh gout",
+    "Suy giáp",
+    "Viêm khớp dạng thấp",
+    "Chạy thận nhân tạo định kỳ",
+    "Chấn thương vùng cổ tay",
+    "Hemophilia, bệnh u tủy",
+    "Các loại u ở vùng cổ tay"
+  ],
+  "complications": [
+    "Đau, tê kéo dài",
+    "Giảm hoặc mất cảm giác vùng da tay thuộc chi phối của thần kinh giữa",
+    "Teo cơ",
+    "Giảm chức năng và vận động bàn tay",
+    "Khó khăn trong sinh hoạt và công việc hàng ngày"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Thăm dò điện sinh lý thần kinh",
+      "Các nghiệm pháp đặc hiệu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghiệm pháp Phalen",
+        "description": "Để người bệnh gấp hai cổ tay 90 độ sát vào nhau trong thời gian ít nhất là 60 giây. Nghiệm pháp dương tính nếu bệnh nhân xuất hiện hoặc tăng các triệu chứng về cảm giác thuộc chi phối của dây thần kinh giữa ở bàn tay."
+      },
+      {
+        "name": "Nghiệm pháp Tinel",
+        "description": "Gõ vào vùng ống cổ tay (có thể dùng tay hoặc búa phản xạ), nghiệm pháp dương tính khi gõ sẽ gây cảm giác tê hoặc đau theo vùng da chi phối của dây thần kinh giữa ở bàn tay."
+      },
+      {
+        "name": "Nghiệm pháp Durkan",
+        "description": "Người khám trực tiếp làm tăng áp lực tại cổ tay bệnh nhân bằng cách sử dụng ngón cái ấn vào vị trí giữa nếp gấp cổ tay. Nghiệm pháp được coi là dương tính khi bệnh nhân thấy tê bì, đau tăng lên theo sự phân bố thần kinh khi ấn và giữ trên 30 giây."
+      },
+      {
+        "name": "Đo hiệu tiềm vận động và cảm giác thần kinh",
+        "description": "Đo hiệu tiềm vận động và cảm giác thần kinh giữa với thần kinh trụ để so sánh với chỉ số bình thường."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc lựa chọn phương pháp điều trị phụ thuộc vào tình trạng của người bệnh. Điều trị càng sớm, bệnh có thể khỏi hoàn toàn, tránh được những tổn thương và di chứng kéo dài.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Được chỉ định trong giai đoạn đầu của bệnh. Bác sĩ có thể chỉ định dùng thuốc chống viêm phi steroid, hoặc dùng corticoid đường uống; đồng thời hạn chế các vận động làm gấp hoặc ngửa cổ tay quá mức nhằm giảm áp lực trong ống cổ tay."
+      },
+      {
+        "name": "Dùng nẹp cổ tay",
+        "description": "Có thể thực hiện vào ban đêm hoặc liên tục cả ngày. Những nghiên cứu cho thấy dùng nẹp cổ tay có thể làm cải thiện các triệu chứng sau 4 tuần điều trị."
+      },
+      {
+        "name": "Điều trị ngoại khoa",
+        "description": "Được áp dụng cho người bệnh ở giai đoạn nặng, có dấu hiệu rối loạn cảm giác, teo cơ hoặc đã điều trị nội khoa nhiều tháng mà tình trạng bệnh không thuyên giảm. Phương pháp mổ nội soi là phương pháp điều trị được sử dụng rộng rãi hiện nay, với ưu điểm ít xâm lấn, ít tai biến, giảm thiểu nguy cơ nhiễm trùng, yếu tố thẩm mỹ đảm bảo, thời gian phục hồi nhanh hơn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi hợp lý khi thấy xuất hiện các triệu chứng",
+      "Dùng thuốc theo đúng chỉ định của bác sĩ",
+      "Sử dụng nẹp cổ tay đúng cách",
+      "Tránh các động tác làm gấp hoặc ngửa cổ tay quá mức",
+      "Thực hiện các bài tập nhẹ nhàng duỗi và xoa bóp cổ tay"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +108,77 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Sử dụng chuột máy tính phù hợp với bàn tay để cảm thấy thoải mái, không bị căng đau cổ tay trong thời gian làm việc dài",
+      "Nhẹ nhàng duỗi và xoa bóp cổ tay định kỳ trong 10 đến 30 giây sau mỗi 15 – 30 phút làm việc nhiều bằng tay",
+      "Ngồi ở tư thế đúng, vì việc ngồi sai tư thế thường xuyên có thể ảnh hưởng đến các dây thần kinh ở vùng cổ",
+      "Duy trì cân nặng hợp lý (chỉ số BMI từ 18,5 – 23)",
+      "Ăn nhiều loại rau củ quả",
+      "Ăn đủ thức ăn giàu đạm",
+      "Uống 2-3 ly sữa mỗi ngày (sữa tách béo nếu thừa cân hoặc có cholesterol máu cao)",
+      "Tránh ăn quá mặn, quá ngọt",
+      "Hạn chế sử dụng thức ăn nhanh",
+      "Tránh rượu bia và các đồ uống có cồn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng ống cổ tay có nguy hiểm không?",
+      "answer": "Tuy không nguy hiểm đến tính mạng nhưng nếu không được điều trị sớm, hiện tượng viêm ống cổ tay có thể gây biến chứng teo cơ, tàn phế do tổn thương dây thần kinh mạch máu. Do đó, người bệnh không nên chủ quan với các triệu chứng ban đầu và cần đi khám đúng chuyên khoa để được can thiệp kịp thời."
+    },
+    {
+      "question": "Triệu chứng nào của hội chứng ống cổ tay cần đi khám ngay?",
+      "answer": "Nếu bạn gặp phải các triệu chứng như tê bì tay, dị cảm, đau buốt vùng bàn tay, đặc biệt là khi các triệu chứng này tăng về đêm làm bạn thức giấc, hoặc khi bạn bắt đầu thấy cầm nắm khó khăn, hay đánh rơi đồ vật, thì đó là lúc bạn nên đến gặp bác sĩ ngay để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Ai là người có nguy cơ cao mắc hội chứng ống cổ tay?",
+      "answer": "Đối tượng dễ mắc bệnh ống cổ tay là phụ nữ ở tuổi trung niên, người có công việc đòi hỏi sử dụng nhiều tới độ linh hoạt, tỉ mỉ và lặp đi lặp lại của cổ tay, phụ nữ mang thai do ứ dịch, người mắc bệnh gout, suy giáp, viêm khớp dạng thấp, và người phải chạy thận nhân tạo định kỳ."
+    },
+    {
+      "question": "Hội chứng ống cổ tay có điều trị được không?",
+      "answer": "Có, hội chứng ống cổ tay hoàn toàn có thể điều trị được. Trong giai đoạn đầu, điều trị nội khoa với thuốc chống viêm, hạn chế vận động quá mức và sử dụng nẹp cổ tay có thể giúp cải thiện triệu chứng. Với các trường hợp nặng hơn, phẫu thuật nội soi ít xâm lấn là phương pháp điều trị hiệu quả, giúp người bệnh phục hồi nhanh chóng và tránh được các biến chứng lâu dài."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tê bì tay chân, dị cảm, đau buốt do kim châm hoặc rát bỏng ở vùng da thuộc chi phối của dây thần kinh giữa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ong-co-tay",
+        "viem-day-than-kinh",
+        "chen-ep-re-than-kinh"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy các triệu chứng này tăng về đêm và làm cho tôi thức giấc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ong-co-tay",
+        "viem-day-than-kinh",
+        "roi-loan-than-kinh-ngoai-bien"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tê bì tay khi đi xe máy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ong-co-tay",
+        "chen-ep-than-kinh",
+        "thoai-hoa-cot-song-co"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng cầm nắm khó, các động tác khéo léo của bàn tay giảm, hay đánh rơi đồ vật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ong-co-tay",
+        "viem-khop-dang-thap",
+        "benh-parkinson"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tê bì ngón cái, ngón trỏ, ngón giữa và một nửa ngón áp út. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ong-co-tay",
+        "chen-ep-than-kinh-giua",
+        "thoai-hoa-cot-song-co"
+      ]
     }
   ]
 }

@@ -1,39 +1,101 @@
 {
   "disease_id": "mun-trung-ca",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn trứng cá",
+  "disease_alternative_names": ["Acne vulgaris", "Acne", "Trứng cá"],
+  "disease_definition": "Mụn trứng cá là tình trạng viêm mạn tính của nang lông tuyến bã, với các tổn thương da do sự tăng tiết chất bã nhờn, đọng lại ở các lỗ chân lông, kèm theo hiện tượng viêm nhiễm ở nang lông tuyến bã. Bệnh gặp ở mọi lứa tuổi, đặc biệt là tuổi dậy thì, hay người có cơ địa da dầu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mụn đầu trắng",
+      "description": "Do lỗ chân lông tắc nghẽn, thành nang phồng lên tạo thành mụn đầu trắng."
+    },
+    {
+      "name": "Mụn đầu đen",
+      "description": "Do lỗ chân lông mở rộng, khi tiếp xúc với không khí, tắc nghẽn bởi dầu và vi khuẩn sẽ chuyển sang màu nâu đen."
+    },
+    {
+      "name": "Sẩn",
+      "description": "Các nốt mụn nhỏ màu đỏ, mềm xuất hiện trên da."
+    },
+    {
+      "name": "Mụn mủ",
+      "description": "Mụn nhọt là những nốt sẩn có mủ ở đầu, thường gây đau nhức."
+    },
+    {
+      "name": "Nốt sần",
+      "description": "Các cục u lớn, rắn, gây đau dưới da, thường xuất hiện khi tình trạng viêm nặng hơn."
+    },
+    {
+      "name": "Tổn thương dạng nang",
+      "description": "Gây đau, có mủ dưới da, là tình trạng nghiêm trọng hơn của mụn và có khả năng để lại sẹo cao."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mụn trứng cá hình thành do 4 yếu tố chính: tăng tiết chất bã nhờn, rối loạn sừng hóa ống bã làm tắc đường thoát chất bã, vi khuẩn Cuti Bacterium acnes phát triển trong môi trường kỵ khí, và tình trạng viêm nhiễm khi vi khuẩn tạo ra các chất sinh học.",
+    "related_factors": "Các yếu tố liên quan bao gồm thay đổi nội tiết tố, đặc biệt là testosterone kích thích tiết bã nhờn, ảnh hưởng từ môi trường, ma sát hoặc áp lực lên da, lối sống và chế độ dinh dưỡng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác: đặc biệt là giai đoạn dậy thì khi nội tiết tố chưa được cân bằng",
+    "Thay đổi nội tiết tố trong chu kỳ kinh nguyệt hoặc thai kỳ",
+    "Yếu tố di truyền: nếu cả bố và mẹ đều bị mụn trứng cá, khả năng con cái cũng bị cao",
+    "Lạm dụng xà bông, chất tẩy rửa quá mạnh",
+    "Môi trường nóng ẩm, tiếp xúc với dầu nhờn",
+    "Chế độ ăn uống có chỉ số đường huyết cao, thực phẩm từ sữa",
+    "Ma sát hoặc áp lực lên da (như điện thoại, mũ bảo hiểm, khẩu trang)",
+    "Stress và căng thẳng",
+    "Sử dụng mỹ phẩm có chứa dầu, không phù hợp với da"
+  ],
+  "complications": [
+    "Sẹo rỗ (da rỗ) hoặc sẹo lồi (da dày) có thể tồn tại lâu dài sau khi mụn đã lành",
+    "Thay đổi sắc tố da: vùng da bị ảnh hưởng có thể sẫm màu hơn (tăng sắc tố) hoặc sáng hơn (giảm sắc tố)",
+    "Ảnh hưởng tâm lý: mặc cảm, tự ti trong giao tiếp, giảm hiệu quả công việc"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng bởi bác sĩ da liễu",
+      "Đánh giá mức độ mụn: nhẹ, vừa hoặc nặng",
+      "Xác định loại mụn: mụn đầu đen, mụn đầu trắng, mụn viêm, mụn bọc"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Soi da",
+        "description": "Sử dụng máy soi da thế hệ mới để đánh giá tình trạng của da và mức độ nghiêm trọng của mụn"
+      },
+      {
+        "name": "Xét nghiệm nội tiết tố",
+        "description": "Trong một số trường hợp, có thể cần xét nghiệm nội tiết tố để xác định nguyên nhân gây mụn"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị mụn trứng cá phụ thuộc vào tình trạng và mức độ của mụn. Trong nhiều trường hợp, cần sự kết hợp giữa các phương pháp điều trị để đạt hiệu quả tối ưu.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị mức độ nhẹ",
+        "description": "Sử dụng các loại kem, sữa rửa mặt hoặc thuốc điều trị tại chỗ không kê đơn chứa benzoyl peroxide (giúp làm khô mụn, tiêu diệt vi khuẩn) hoặc axit salicylic (giúp tẩy tế bào chết, ngăn tắc nghẽn lỗ chân lông)."
+      },
+      {
+        "name": "Điều trị mức độ vừa",
+        "description": "Sử dụng benzoyl peroxide (liều dùng theo toa), thuốc kháng sinh (như erythromycin hoặc clindamycin), retinoids (như retinol), hoặc thuốc kháng sinh uống, thuốc ngừa thai nội tiết tố trong một số trường hợp."
+      },
+      {
+        "name": "Điều trị mức độ nặng",
+        "description": "Kết hợp kháng sinh uống, benzoyl peroxide, thuốc kháng sinh tại chỗ, retinoids tại chỗ, thuốc kiểm soát nội tiết hoặc isotretinoin uống (Accutane) - một loại vitamin A dùng điều trị mụn trứng cá nặng khi các phương pháp khác không hiệu quả."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Rửa mặt hàng ngày bằng sữa rửa mặt không chứa dầu",
+      "Dùng sữa rửa mặt trị mụn không kê đơn để giúp loại bỏ dầu thừa",
+      "Sử dụng mỹ phẩm trang điểm gốc nước hoặc gắn mác \"không gây dị ứng\"",
+      "Tránh các sản phẩm chăm sóc da và trang điểm có chứa dầu",
+      "Tẩy trang và làm sạch da thật sạch trước khi ngủ",
+      "Tắm hoặc rửa mặt sau khi tập thể dục",
+      "Cột tóc (nếu tóc dài) để không che khuất khuôn mặt",
+      "Tránh đội mũ, băng đô bó sát đầu, quần áo ở các khu vực dễ nổi mụn",
+      "Không nặn mụn để tránh sẹo và nhiễm trùng",
+      "Duy trì chế độ ăn uống cân bằng và uống đủ nước",
+      "Giảm căng thẳng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +103,58 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh da đúng cách: rửa mặt hai lần mỗi ngày bằng sữa rửa mặt nhẹ",
+      "Tránh các sản phẩm chăm sóc da và mỹ phẩm chứa dầu",
+      "Dùng kem dưỡng và kem chống nắng không gây mụn",
+      "Tẩy trang kỹ trước khi đi ngủ",
+      "Chế độ ăn uống cân bằng, hạn chế đồ ăn có chỉ số đường huyết cao",
+      "Hạn chế thực phẩm từ sữa nếu nhận thấy liên quan đến mụn",
+      "Tăng cường omega-3 và omega-6 trong chế độ ăn",
+      "Vận động thể chất thường xuyên",
+      "Quản lý stress hiệu quả",
+      "Giữ tóc sạch và không để tóc che mặt",
+      "Tránh chạm tay lên mặt khi chưa rửa sạch"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn trứng cá có thể tự khỏi không?",
+      "answer": "Với một số người, mụn trứng cá có thể tự khỏi, đặc biệt là sau tuổi 20 khi nội tiết tố đã ổn định. Ở phụ nữ, mụn trứng cá thường bùng phát vào thời điểm một tuần trước kỳ kinh nguyệt và có thể tự khỏi mà không cần điều trị. Tuy nhiên, đối với nhiều người, điều trị y tế là cần thiết để kiểm soát mụn và ngăn ngừa sẹo."
+    },
+    {
+      "question": "Khi nào nên đi khám bác sĩ về mụn trứng cá?",
+      "answer": "Bạn nên đến gặp bác sĩ da liễu nếu các biện pháp tự chăm sóc kéo dài không làm sạch mụn hoặc tình trạng mụn diễn biến nghiêm trọng. Ở người lớn tuổi, sự khởi phát đột ngột của mụn trứng cá nặng có thể báo hiệu một bệnh lý có từ trước cần được điều trị. Ngoài ra, nếu gặp phải các phản ứng nghiêm trọng sau khi sử dụng sản phẩm chăm sóc da như ngất xỉu, khó thở, sưng mắt hoặc mặt, cần tìm kiếm sự chăm sóc y tế khẩn cấp."
+    },
+    {
+      "question": "Chế độ ăn uống có ảnh hưởng đến mụn trứng cá không?",
+      "answer": "Có, chế độ ăn uống có thể ảnh hưởng đến mụn trứng cá. Nghiên cứu chỉ ra rằng chế độ ăn có chỉ số đường huyết thấp, cắt bỏ thịt chế biến và carbs tinh chế có thể giúp giảm tổn thương do mụn. Các sản phẩm từ sữa và chế phẩm từ sữa cũng có thể làm trầm trọng thêm tình trạng mụn ở một số người. Bổ sung axit béo omega-3 và omega-6 có thể giúp giảm mụn trứng cá."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mụn đầu trắng và mụn đầu đen trên mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca", "mun-cam", "mun-an"]
+    },
+    {
+      "question": "Tôi đang cảm thấy xuất hiện các nốt mụn nhỏ màu đỏ, mềm (sẩn) ở trán. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca", "viem-nang-long", "viem-da-co-dia"]
+    },
+    {
+      "question": "Tôi hay bị mụn nhọt (mụn mủ) ở ngực và lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-trung-ca",
+        "mun-trung-ca-o-lung",
+        "viem-nang-long"
+      ]
+    },
+    {
+      "question": "Tôi có các cục u lớn, rắn, gây đau dưới da (nốt sần) ở mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca", "mun-boc", "viem-nang-long"]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau, có mủ dưới da (tổn thương dạng nang) ở lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca", "mun-trung-ca-o-lung", "ap-xe"]
     }
   ]
 }

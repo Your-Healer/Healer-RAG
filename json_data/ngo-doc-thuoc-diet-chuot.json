@@ -1,39 +1,193 @@
 {
   "disease_id": "ngo-doc-thuoc-diet-chuot",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ngộ độc thuốc diệt chuột",
+  "disease_alternative_names": [
+    "Ngộ độc rodenticide",
+    "Ngộ độc thuốc chuột",
+    "Rodenticide poisoning"
+  ],
+  "disease_definition": "Ngộ độc thuốc diệt chuột là tình trạng độc chất của thuốc diệt chuột tác động đến cơ quan mục tiêu (thần kinh, tim mạch, thận, hô hấp, huyết học, tiêu hóa, da,...) hoặc ảnh hưởng gây độc (gây ung thư, đột biến, tổn thương tạng,...). Có nhiều loại thuốc diệt chuột khác nhau với cơ chế gây độc và triệu chứng khác nhau, có thể gây ra biến chứng nguy hiểm đến tính mạng nếu không được cấp cứu kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Viêm ruột cấp tính",
+      "description": "Đau bụng dữ dội, tiêu chảy, thường xuất hiện trong vòng 48 giờ sau khi nhiễm độc thallium."
+    },
+    {
+      "name": "Rụng tóc",
+      "description": "Triệu chứng đặc trưng của ngộ độc thallium, xảy ra sau khi tiếp xúc với liều cao."
+    },
+    {
+      "name": "Run rẩy, giảm thị lực",
+      "description": "Triệu chứng thần kinh do ngộ độc thallium mạn tính, kèm theo mất điều hòa và yếu cơ."
+    },
+    {
+      "name": "Co thắt cơ bắp không kiểm soát",
+      "description": "Triệu chứng điển hình của ngộ độc strychnin, xảy ra 10-20 phút sau khi nhiễm độc."
+    },
+    {
+      "name": "Cứng hàm và co cứng hàm mặt",
+      "description": "Dấu hiệu của ngộ độc strychnin, tạo nét cười gượng gạo."
+    },
+    {
+      "name": "Ưỡn cong người ra sau (Opisthotonos)",
+      "description": "Đầu và cột sống ưỡn cong ra sau, là dấu hiệu của ngộ độc strychnin nghiêm trọng."
+    },
+    {
+      "name": "Tiêu cơ vân",
+      "description": "Tình trạng các tế bào cơ bị phá hủy, dẫn đến giải phóng nội dung tế bào vào máu, gây tổn thương thận."
+    },
+    {
+      "name": "Viêm dạ dày cấp tính và bỏng da",
+      "description": "Triệu chứng của ngộ độc phốt pho, có thể kèm theo tác động trực tiếp gây tổn thương mô."
+    },
+    {
+      "name": "Phân phát quang (phân bốc khói)",
+      "description": "Dấu hiệu đặc trưng của ngộ độc phốt pho trắng, do phốt pho phát sáng khi tiếp xúc với oxy."
+    },
+    {
+      "name": "Loạn nhịp tim",
+      "description": "Xuất hiện trong nhiều loại ngộ độc thuốc diệt chuột, đặc biệt là phốt pho, thạch tín và bari cacbonat."
+    },
+    {
+      "name": "Nôn mửa và tiêu chảy ra máu",
+      "description": "Triệu chứng tiêu hóa trong ngộ độc thạch tín, xuất hiện sau 1-3 giờ nhiễm độc."
+    },
+    {
+      "name": "Mùi tỏi trong hơi thở",
+      "description": "Dấu hiệu đặc trưng của ngộ độc thạch tín khi nuốt phải một lượng đáng kể."
+    },
+    {
+      "name": "Huyết áp thấp",
+      "description": "Triệu chứng tim mạch trong nhiều loại ngộ độc thuốc diệt chuột, có thể dẫn đến sốc."
+    },
+    {
+      "name": "Co giật và hôn mê",
+      "description": "Triệu chứng thần kinh nghiêm trọng, thường gặp trong ngộ độc TETS, thạch tín, và một số loại thuốc diệt chuột khác."
+    },
+    {
+      "name": "Suy hô hấp",
+      "description": "Tình trạng hô hấp nguy hiểm có thể dẫn đến tử vong nếu không được hỗ trợ kịp thời."
+    },
+    {
+      "name": "Sùi bọt mép và chảy nước mắt",
+      "description": "Triệu chứng của ngộ độc Aldicarb, loại thuốc diệt chuột có độc tính cao."
+    },
+    {
+      "name": "Tiểu ra máu, ho ra máu, chảy máu cam",
+      "description": "Dấu hiệu của rối loạn đông máu do ngộ độc thuốc diệt chuột kháng đông như Superwarfarin hoặc Warfarin."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ngộ độc thuốc diệt chuột xảy ra khi người hoặc động vật tiếp xúc với các hóa chất độc hại được sử dụng để diệt chuột. Mỗi loại thuốc diệt chuột có cơ chế gây độc khác nhau, tác động lên các hệ cơ quan khác nhau trong cơ thể.",
+    "related_factors": "Thuốc diệt chuột có nhiều loại khác nhau như thallium, sodium fluoroacetate, strychnine, phosphua kẽm, phosphua nhôm, phốt pho, thạch tín, bari cacbonat, TETS, aldicarb, alpha-cloralose, super warfarin, và các loại khác. Mỗi loại có cơ chế tác động khác nhau nhưng đều có độc tính cao đối với cơ thể con người.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em không được giám sát",
+    "Người có vấn đề tâm lý hoặc trầm cảm",
+    "Môi trường làm việc tiếp xúc với thuốc diệt chuột",
+    "Bảo quản không đúng cách thuốc diệt chuột trong nhà",
+    "Sử dụng thuốc diệt chuột không rõ nguồn gốc",
+    "Sử dụng thuốc diệt chuột gần khu vực chuẩn bị thực phẩm",
+    "Người có ý định tự tử",
+    "Người bị rối loạn tâm thần hoặc hội chứng lú lẫn"
+  ],
+  "complications": [
+    "Suy thận",
+    "Suy gan",
+    "Tổn thương thần kinh vĩnh viễn",
+    "Bệnh tiểu đường type 1",
+    "Nhiễm toan lactic",
+    "Rối loạn đông máu",
+    "Tăng thân nhiệt ác tính",
+    "Sốc giảm thể tích",
+    "Xuất huyết não",
+    "Suy đa tạng",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán lâm sàng dựa trên triệu chứng và tiền sử tiếp xúc",
+      "Xác định loại thuốc diệt chuột dựa trên bao bì, vỏ thuốc (nếu có)",
+      "Đánh giá các triệu chứng đặc trưng của từng loại thuốc diệt chuột"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm đường huyết",
+        "description": "Hạ đường huyết liên quan đến ngộ độc kẽm phosphide hoặc nhôm phosphide; tăng đường huyết là dấu hiệu của hợp chất pyriminil"
+      },
+      {
+        "name": "Công thức máu toàn phần",
+        "description": "Thiếu máu là dấu hiệu của ngộ độc kẽm phosphide"
+      },
+      {
+        "name": "Đánh giá chức năng chuyển hóa (BMP)",
+        "description": "Kiểm tra rối loạn điện giải như hạ canxi máu (phốt pho trắng, SMFA), hạ kali máu (bari cacbonat, kẽm hoặc nhôm phosphide)"
+      },
+      {
+        "name": "Xét nghiệm định lượng phốt pho huyết thanh",
+        "description": "Tăng phosphat máu liên quan đến thuốc diệt chuột chứa phốt pho trắng"
+      },
+      {
+        "name": "Xét nghiệm chức năng gan",
+        "description": "Men gan tăng cao liên quan đến ngộ độc thallium, thạch tín, phốt pho trắng, kẽm hoặc nhôm phosphide"
+      },
+      {
+        "name": "Xét nghiệm đông máu",
+        "description": "Xác định rối loạn đông máu do ngộ độc thuốc diệt chuột có thành phần Super Warfarin, Warfarin"
+      },
+      {
+        "name": "Khí huyết động mạch",
+        "description": "Phát hiện nhiễm toan lactic do SMFA hoặc fluoroacetamide"
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Kéo dài QTc gợi ý ngộ độc SMFA, fluoroacetamide, phốt pho trắng hoặc thạch tín"
+      },
+      {
+        "name": "Chụp X-quang ngực và bụng",
+        "description": "Xác định các chất cản quang như bari cacbonat, asen hoặc thallium"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị ngộ độc thuốc diệt chuột cần được thực hiện khẩn cấp và tùy thuộc vào loại thuốc diệt chuột gây ngộ độc. Nếu không được cấp cứu kịp thời, nạn nhân có thể gặp biến chứng nghiêm trọng hoặc tử vong.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sơ cấp cứu ban đầu",
+        "description": "Đưa nạn nhân đến khu vực an toàn, thu thập thông tin về loại thuốc diệt chuột, gọi cấp cứu và đưa bệnh nhân đến bệnh viện gần nhất."
+      },
+      {
+        "name": "Hỗ trợ đường thở, hô hấp và tuần hoàn",
+        "description": "Đảm bảo đường thở thông thoáng, hỗ trợ hô hấp và duy trì tuần hoàn ổn định. Trong trường hợp nghiêm trọng có thể phải đặt ống nội khí quản và sử dụng máy thở."
+      },
+      {
+        "name": "Loại bỏ chất độc",
+        "description": "Rửa dạ dày (hiệu quả nhất trong 60 phút đầu), sử dụng than hoạt tính để hấp thụ chất độc, và thuốc nhuận tràng để tống chất độc ra ngoài."
+      },
+      {
+        "name": "Sử dụng thuốc giải độc",
+        "description": "Thuốc giải độc đặc hiệu tùy theo loại thuốc diệt chuột, ví dụ Vitamin K cho ngộ độc Super Warfarin hoặc Warfarin."
+      },
+      {
+        "name": "Gia tăng thải trừ độc chất",
+        "description": "Tùy theo chỉ định có thể thực hiện bài niệu tích cực, lọc máu ngoài thận, thay huyết tương hoặc thay máu, lọc máu hấp phụ."
+      },
+      {
+        "name": "Điều trị triệu chứng và hồi sức toàn diện",
+        "description": "Bao gồm điều trị dinh dưỡng, điều chỉnh rối loạn đường huyết và điện giải, điều trị rối loạn nhịp tim, hỗ trợ hô hấp, điều chỉnh chức năng gan, thận, huyết học."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không gây nôn nếu nạn nhân lờ đờ, hôn mê hay co giật hoặc không rõ về cơ chế của thuốc diệt chuột",
+      "Nếu dính thuốc chuột vào da hoặc quần áo, cần cởi bỏ quần áo và rửa sạch ngay lập tức trong vòng 15-20 phút",
+      "Nếu dính thuốc diệt chuột vào mắt, nên rửa mắt bằng nước sạch trong 15-20 phút",
+      "Ghi nhớ tên hóa chất trên bao bì để giúp bác sĩ xác định chính xác hóa chất",
+      "Ghi nhớ số lượng, thời gian tiếp xúc hóa chất và triệu chứng ban đầu",
+      "Không cho bất cứ thứ gì vào miệng nếu nạn nhân bất tỉnh",
+      "Không sử dụng bất kỳ loại thuốc giải độc nào khi chưa có chỉ định của bác sĩ",
+      "Quan sát và giữ lại chất nôn để xét nghiệm"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +195,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ưu tiên sử dụng phương pháp diệt chuột bằng bẫy thay vì hóa chất",
+      "Chỉ mua hóa chất diệt chuột có nguồn gốc xuất xứ rõ ràng ở cửa hàng kinh doanh hóa chất bảo vệ thực vật hoặc cơ sở có đăng ký",
+      "Đặt thuốc diệt chuột cách xa nơi ở, ăn uống và ngoài tầm với của trẻ em",
+      "Không dự trữ các hóa chất độc hại, bao gồm thuốc diệt chuột tại gia đình",
+      "Bảo quản thực phẩm cẩn thận, phát quang bụi rậm xung quanh nhà, đậy kín thùng rác để tránh chuột",
+      "Tìm kiếm hỗ trợ tâm lý nếu có ý định tự tử",
+      "Giáo dục nhận thức về nguy hiểm của thuốc diệt chuột cho cả người lớn và trẻ em",
+      "Quản lý chặt chẽ việc sản xuất, mua bán và sử dụng thuốc diệt chuột"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khi nào cần đưa người bị ngộ độc thuốc diệt chuột đến bệnh viện?",
+      "answer": "Bạn cần đưa người bị ngộ độc thuốc diệt chuột đến bệnh viện ngay lập tức, bất kể mức độ nghiêm trọng của triệu chứng. Ngộ độc thuốc diệt chuột là tình trạng cấp cứu y tế, thời gian là yếu tố sống còn. Triệu chứng ngộ độc có thể phát triển nhanh chóng, và trong nhiều trường hợp, các dấu hiệu ban đầu có vẻ nhẹ nhưng có thể nhanh chóng trở nên nghiêm trọng nếu không được điều trị."
+    },
+    {
+      "question": "Làm cách nào để phân biệt các loại ngộ độc thuốc diệt chuột khác nhau?",
+      "answer": "Việc phân biệt các loại ngộ độc thuốc diệt chuột khác nhau dựa vào triệu chứng cụ thể rất khó đối với người không chuyên. Mỗi loại thuốc diệt chuột gây ra các triệu chứng khác nhau như: ngộ độc Thallium gây viêm ruột cấp và rụng tóc; Strychnin gây co thắt cơ không kiểm soát và cứng hàm; Super Warfarin gây chảy máu bất thường; và Phosphua kẽm gây nôn mửa, tiêu chảy và suy hô hấp. Cách tốt nhất là mang theo bao bì thuốc diệt chuột hoặc mẫu chất đến bệnh viện để bác sĩ xác định chính xác loại độc chất."
+    },
+    {
+      "question": "Ngộ độc thuốc diệt chuột có thể gây ra hậu quả lâu dài nào?",
+      "answer": "Ngộ độc thuốc diệt chuột có thể gây nhiều hậu quả lâu dài nghiêm trọng tùy thuộc vào loại thuốc và mức độ ngộ độc. Các biến chứng có thể bao gồm: suy thận vĩnh viễn, suy gan, tổn thương thần kinh không hồi phục, bệnh tiểu đường type 1, rối loạn đông máu kéo dài, suy hô hấp mạn tính, và suy giảm chức năng tim. Một số nạn nhân có thể phải điều trị và theo dõi suốt đời. Vì vậy, việc cấp cứu và điều trị kịp thời rất quan trọng để giảm thiểu các tổn thương lâu dài."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm ruột cấp tính và rụng tóc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-thuoc-diet-chuot",
+        "ngo-doc-thallium",
+        "benh-auto-mien-dich"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy run rẩy và giảm thị lực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-thuoc-diet-chuot",
+        "ngo-doc-thallium",
+        "benh-parkinson"
+      ]
+    },
+    {
+      "question": "Tôi hay bị co thắt cơ bắp không kiểm soát và cứng hàm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-thuoc-diet-chuot",
+        "ngo-doc-strychnin",
+        "uon-van"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cơ thể ưỡn cong ra sau và tiêu cơ vân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-thuoc-diet-chuot",
+        "ngo-doc-strychnin",
+        "uon-van"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nôn mửa và tiêu chảy ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-thuoc-diet-chuot",
+        "ngo-doc-thach-tin",
+        "viem-ruot-cap"
+      ]
     }
   ]
 }

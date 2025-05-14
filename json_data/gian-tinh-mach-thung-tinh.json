@@ -1,39 +1,92 @@
 {
   "disease_id": "gian-tinh-mach-thung-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Giãn tĩnh mạch thừng tinh",
+  "disease_alternative_names": ["Varicocele"],
+  "disease_definition": "Giãn tĩnh mạch thừng tinh là tình trạng giãn của đám rối các tĩnh mạch sinh tinh và tĩnh mạch thừng tinh, nằm phía trên tinh hoàn. Hiện tượng này thường xuất hiện ở tinh hoàn bên trái, chiếm tỉ lệ 90%. Khoảng 10% còn lại là các trường hợp mắc cả hai bên.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng rõ ràng",
+      "description": "Hầu hết, giãn tĩnh mạch thừng tinh không có triệu chứng cụ thể, đặc biệt trong giai đoạn đầu."
+    },
+    {
+      "name": "Đau nhẹ hay cảm giác nặng ở vùng bìu",
+      "description": "Cảm giác đau nhẹ hoặc nặng nề ở vùng bìu, đặc biệt sau khi đứng lâu hoặc hoạt động thể lực."
+    },
+    {
+      "name": "Đau nhiều hơn vào buổi chiều tối",
+      "description": "Triệu chứng đau có thể tăng lên vào buổi chiều tối sau một ngày hoạt động."
+    },
+    {
+      "name": "Đau sau khi làm việc gắng sức hoặc ngồi nhiều",
+      "description": "Cơn đau có thể xuất hiện hoặc tăng lên sau khi thực hiện công việc nặng hoặc ngồi trong thời gian dài."
+    },
+    {
+      "name": "Sưng ở phía trên bìu",
+      "description": "Nếu tĩnh mạch thừng tinh giãn lớn, có thể thấy sưng ở phía trên bìu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đây là bệnh tự phát (idiopathy), nguyên nhân trực tiếp vẫn đang được nghiên cứu. Cơ chế bệnh sinh chính là do sự suy yếu hệ thống van tĩnh mạch, dẫn đến trào ngược máu từ hệ thống tĩnh mạch chủ vào hệ thống tĩnh mạch tinh.",
+    "related_factors": "Một số giả thuyết về nguyên nhân như: suy van tĩnh mạch, bất thường vị trí đổ của tĩnh mạch tinh vào tĩnh mạch thận trái hoặc tĩnh mạch chủ bụng. Có thể do các nguyên nhân gây tăng áp lực ổ bụng như khối u vùng tiểu khung, sau phúc mạc.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam giới trưởng thành (chiếm 15-17%)",
+    "Vị trí bên trái (chiếm 90% các trường hợp)",
+    "Yếu tố giải phẫu học (do cấu trúc tĩnh mạch)",
+    "Các yếu tố làm tăng áp lực ổ bụng",
+    "Thanh thiếu niên (chiếm 20%)"
+  ],
+  "complications": [
+    "Vô sinh nam (chiếm 40% trường hợp nam giới vô sinh)",
+    "Teo tinh hoàn",
+    "Giảm số lượng và chất lượng tinh trùng",
+    "Ảnh hưởng đến sức khỏe sinh sản",
+    "Hủy hoại tinh trùng do tăng nhiệt độ ở tinh hoàn"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Siêu âm",
+      "Siêu âm Doppler",
+      "Nghiệm pháp Valsava"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thăm khám lâm sàng",
+        "description": "Phát hiện búi tĩnh mạch giãn khi bệnh nhân đứng hoặc thực hiện nghiệm pháp Valsava."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Đánh giá tình trạng giãn tĩnh mạch, khi đường kính tĩnh mạch tinh lớn hơn 2,5mm thì được coi là giãn."
+      },
+      {
+        "name": "Siêu âm Doppler",
+        "description": "Đánh giá dòng chảy ngược trong tĩnh mạch thừng tinh, phân loại mức độ giãn theo Sarteschi."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không phải bệnh nhân nào bị giãn tĩnh mạch thừng tinh cũng cần phẫu thuật. Điều trị phụ thuộc vào mức độ khó chịu và ảnh hưởng đến khả năng sinh sản.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi",
+        "description": "Nếu không đau hoặc không có trở ngại trong vấn đề sinh sản, bác sĩ có thể khuyên theo dõi tiếp trong một thời gian."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Bác sĩ sẽ thắt tĩnh mạch thừng tinh giãn ở phía trên hoặc xung quanh tinh hoàn. Đây là phẫu thuật có thể về ngay trong ngày với thời gian thực hiện dưới 1 giờ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Trở lại công việc sau 48 giờ sau mổ",
+      "Tránh hoạt động gắng sức trong 48 giờ sau phẫu thuật",
+      "Hoạt động bình thường trở lại sau 5-7 ngày, kể cả chơi thể thao",
+      "Có thể tắm 24 giờ sau mổ (không ngâm xà bông trong bồn tắm trong vòng 5 ngày)",
+      "Dùng thuốc giảm đau theo chỉ dẫn trong 48 giờ",
+      "Tái khám để kiểm tra tình trạng vết mổ sau 2 tuần",
+      "Ba tháng sau mổ, thử tinh dịch đồ, đếm số lượng tinh trùng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +94,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không có biện pháp phòng ngừa cụ thể vì nguyên nhân chính xác của bệnh chưa được xác định rõ",
+      "Khám sức khỏe định kỳ để phát hiện sớm nếu có vấn đề",
+      "Nếu có vấn đề về sinh sản, nên thăm khám sớm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Giãn tĩnh mạch thừng tinh có nguy hiểm không?",
+      "answer": "Giãn tĩnh mạch thừng tinh là bệnh thường gặp ở nam giới nhưng không quá nguy hiểm. Thực tế, có tới 15% nam giới trưởng thành bị giãn tĩnh mạch thừng tinh và nhiều trường hợp không gây ra bất kỳ vấn đề nào trong cuộc sống."
+    },
+    {
+      "question": "Giãn tĩnh mạch thừng tinh có con được không?",
+      "answer": "Khoảng 1/10 nam giới bị giãn tĩnh mạch thừng tinh. Nhiều người bị giãn tĩnh mạch thừng tinh không có bất thường về số lượng tinh trùng và khả năng sinh sản. Tuy nhiên, 40% trường hợp nam giới vô sinh là do giãn tĩnh mạch thừng tinh."
+    },
+    {
+      "question": "Giãn tĩnh mạch thừng tinh gây teo tinh hoàn?",
+      "answer": "Một số chuyên gia cho rằng giãn tĩnh mạch thừng tinh gây teo tinh hoàn. Thực tế một số trường hợp thể tích tinh hoàn giảm < 20ml. Tuy nhiên kết luận này vẫn còn đang được nghiên cứu."
+    },
+    {
+      "question": "Sau phẫu thuật giãn tĩnh mạch thừng tinh cần lưu ý gì?",
+      "answer": "Sau phẫu thuật, nên trở lại công việc sau 48 giờ, tránh hoạt động gắng sức trong 48 giờ, có thể hoạt động bình thường sau 5-7 ngày, tắm sau 24 giờ và dùng thuốc giảm đau theo chỉ định. Nên tái khám sau 2 tuần và kiểm tra tinh dịch đồ sau 3 tháng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có cảm giác nặng ở vùng bìu, đặc biệt là sau khi đứng lâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gian-tinh-mach-thung-tinh",
+        "thoat-vi-ben",
+        "viem-tinh-hoan"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy đau nhẹ ở bìu vào buổi chiều tối. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gian-tinh-mach-thung-tinh",
+        "viem-mao-tinh-hoan",
+        "viem-tinh-hoan"
+      ]
+    },
+    {
+      "question": "Tôi thấy tĩnh mạch ở bìu nổi rõ hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gian-tinh-mach-thung-tinh",
+        "gian-tinh-mach-biu",
+        "pheu"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau ở bìu sau khi làm việc gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gian-tinh-mach-thung-tinh",
+        "thoat-vi-ben",
+        "viem-tinh-hoan"
+      ]
+    },
+    {
+      "question": "Tôi thấy bìu sưng to hơn vào buổi tối. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gian-tinh-mach-thung-tinh",
+        "thoat-vi-ben",
+        "tran-dich-mang-tinh-hoan"
+      ]
     }
   ]
 }

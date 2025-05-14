@@ -1,58 +1,351 @@
 {
   "disease_id": "di-tieu-ra-mau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Đi Tiểu Ra Máu",
+  "disease_alternative_names": [
+    "Đái máu",
+    "Tiểu máu",
+    "Đái ra máu",
+    "Hematuria"
+  ],
+  "disease_definition": "Đi tiểu ra máu (hay còn được gọi là đái máu) là hiện tượng nước tiểu đào thải ra ngoài có lẫn máu hoặc màu nâu sẫm. Đây là những triệu chứng của các bệnh liên quan đến hệ tiết niệu ở người, có thể là thận bàng quang hoặc cơ quan sinh dục. Tiểu ra máu có thể nhìn thấy bằng mắt thường (đái máu đại thể) hoặc chỉ phát hiện qua xét nghiệm (đái máu vi thể).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nước tiểu màu hồng hoặc đỏ",
+      "description": "Dấu hiệu lâm sàng rõ ràng nhất của tiểu ra máu đại thể là nước tiểu màu hồng nhạt hoặc đỏ. Đôi khi, có thể kèm theo cục máu đông trong nước tiểu."
+    },
+    {
+      "name": "Không có triệu chứng rõ ràng",
+      "description": "Đối với tình trạng tiểu ra máu vi thể, người bệnh sẽ không có dấu hiệu nào để nhận biết bệnh, cho đến khi thực hiện xét nghiệm nước tiểu."
+    },
+    {
+      "name": "Đau vùng chậu hoặc bụng dưới",
+      "description": "Nếu người bệnh có kèm những cơn đau ở vùng chậu, bụng dưới cùng lúc với triệu chứng tiểu ra máu, đấy có thể là dấu hiệu của bệnh thận, bàng quang."
+    },
+    {
+      "name": "Đau thắt lưng",
+      "description": "Đau thắt lưng kèm theo tiểu máu thường gặp trong bệnh lý thận như sỏi thận, viêm thận."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Triệu chứng này thường xuất hiện cùng với đau bụng, tiểu ra máu trong các bệnh lý cấp tính của đường tiết niệu."
+    },
+    {
+      "name": "Sốt và ớn lạnh",
+      "description": "Sốt và ớn lạnh kèm tiểu máu thường gặp trong các trường hợp nhiễm trùng đường tiết niệu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đi tiểu ra máu là một triệu chứng của hầu hết các bệnh liên quan đến cơ quan trong hệ tiết niệu. Trong đó, bệnh thận và niệu đạo là nhóm bệnh chắc chắn gây ra tình trạng đi tiểu ra máu. Đối với viêm cầu thận, tiểu ra máu là hiện tượng do cầu thận suy giảm chức năng lọc máu, làm rò rỉ hồng cầu vào trong nước tiểu.",
+    "related_factors": "Các nguyên nhân chính gây tiểu máu bao gồm viêm bàng quang, nhiễm trùng trong bàng quang, thận, niệu đạo hoặc tuyến tiền liệt, sỏi tiết niệu, u bướu thận, phì đại tuyến tiền liệt, bệnh thận (viêm cầu thận, viêm thận) và một số trường hợp vô căn không xác định được nguyên nhân. Sỏi tiết niệu làm ma sát với niêm mạc tiết niệu theo dòng nước tiểu gây tổn thương và chảy máu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác (nam giới trên 50 tuổi có nguy cơ cao bị phì đại tuyến tiền liệt)",
+    "Người vừa bị nhiễm trùng gần đây (viêm thận do vi khuẩn hoặc viêm cầu thận)",
+    "Người đang bị hoặc có tiền sử bị sỏi tiết niệu",
+    "Gia đình có bệnh sử các bệnh tiết niệu hoặc thận kèm triệu chứng tiểu ra máu",
+    "Sử dụng các loại thuốc chống viêm NSAID hoặc kháng sinh tự phát",
+    "Vận động viên chạy bộ có khả năng bị tiểu máu nhiều hơn người khác"
+  ],
+  "complications": [
+    "Thiếu máu do mất máu kéo dài",
+    "Bệnh lý tiết niệu tiến triển thành mạn tính",
+    "Suy giảm chức năng thận",
+    "Tăng nguy cơ ung thư đường tiết niệu nếu không được điều trị",
+    "Sỏi tiết niệu gây tắc nghẽn đường tiểu",
+    "Nhiễm trùng lan rộng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng đánh giá các triệu chứng và tiền sử bệnh",
+      "Xét nghiệm nước tiểu để tìm hồng cầu",
+      "Cấy nước tiểu tìm vi khuẩn",
+      "Xét nghiệm tế bào nước tiểu tìm tế bào bất thường",
+      "Thăm khám các cơ quan tiết niệu bằng hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Xét nghiệm nồng độ các chất bên trong nước tiểu, tìm hồng cầu và các chỉ số bất thường khác."
+      },
+      {
+        "name": "Cấy nước tiểu",
+        "description": "Kiểm tra tình trạng nhiễm trùng, vi khuẩn bên trong mẫu nước tiểu người bệnh."
+      },
+      {
+        "name": "Xét nghiệm tế bào nước tiểu",
+        "description": "Xét nghiệm tìm ra những tế bào bất thường trong nước tiểu."
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Kiểm tra trực tiếp bên trong bàng quang để phát hiện các tổn thương, u bướu hoặc sỏi."
+      },
+      {
+        "name": "Siêu âm thận, tiết niệu, bàng quang",
+        "description": "Dùng sóng âm để tạo hình ảnh các cơ quan trong hệ tiết niệu, giúp phát hiện sỏi, u bướu, hoặc các bất thường khác."
+      },
+      {
+        "name": "Chụp cắt lớp CT",
+        "description": "Cung cấp hình ảnh chi tiết về thận, bàng quang và các cơ quan khác của hệ tiết niệu."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Sử dụng từ trường để tạo hình ảnh chi tiết của các cơ quan trong hệ tiết niệu."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Vì tiểu ra máu được gây ra bởi những bệnh lý đường tiết niệu, vì vậy để điều trị tiểu máu, người bệnh cần điều trị dứt điểm nguyên nhân gây tiểu máu này. Không có sự khác nhau giữa phác đồ điều trị tiểu máu ở người lớn và trẻ em. Phương pháp điều trị sẽ được chỉ định dựa trên loại bệnh lý mà người bệnh mắc phải.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nhiễm trùng",
+        "description": "Sử dụng thuốc kháng sinh để điều trị nhiễm trùng đường tiết niệu, thận, bàng quang hoặc tuyến tiền liệt theo chỉ định của bác sĩ."
+      },
+      {
+        "name": "Điều trị sỏi thận",
+        "description": "Tùy vào kích thước sỏi, bác sĩ có thể chỉ định tán sỏi, phẫu thuật lấy sỏi hoặc uống nhiều nước để đào thải sỏi nhỏ ra ngoài."
+      },
+      {
+        "name": "Điều trị phì đại tuyến tiền liệt",
+        "description": "Sử dụng thuốc hoặc phẫu thuật trong trường hợp phì đại tuyến tiền liệt gây tiểu máu."
+      },
+      {
+        "name": "Điều trị bệnh thận",
+        "description": "Điều trị bệnh thận như viêm cầu thận, viêm thận bằng các thuốc chống viêm, thuốc ức chế miễn dịch hoặc các biện pháp khác tùy theo nguyên nhân."
+      },
+      {
+        "name": "Điều trị khối u",
+        "description": "Nếu tiểu máu do khối u thận hoặc bàng quang, cần phẫu thuật hoặc các phương pháp điều trị ung thư khác."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đến gặp bác sĩ ngay khi phát hiện tiểu ra máu",
+      "Uống nhiều nước để đào thải sỏi nhỏ và ngăn ngừa nhiễm trùng",
+      "Tuân thủ đúng liều lượng thuốc theo chỉ định của bác sĩ",
+      "Tái khám định kỳ để theo dõi tình trạng sức khỏe",
+      "Thực hiện đầy đủ các xét nghiệm theo yêu cầu của bác sĩ",
+      "Đi tiểu sau khi quan hệ tình dục để ngăn ngừa nhiễm trùng đường tiết niệu",
+      "Không tự ý dùng thuốc mà không có chỉ định từ bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine đặc hiệu để phòng ngừa tình trạng tiểu ra máu vì đây là triệu chứng của nhiều bệnh lý khác nhau, không phải bệnh lây nhiễm.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế nhịn tiểu hoặc đi tiểu sau khi quan hệ tình dục để ngăn ngừa nhiễm trùng",
+      "Uống nhiều nước và giảm độ mặn trong khẩu vị ăn để ngừa sỏi thận",
+      "Hạn chế hoặc không hút thuốc, lạm dụng rượu bia và các chất kích thích khác",
+      "Thực hiện khám sức khỏe định kỳ, đặc biệt với người có tiền sử bệnh tiết niệu",
+      "Duy trì cân nặng hợp lý và tập thể dục đều đặn",
+      "Điều trị kịp thời các bệnh lý đường tiết niệu khi mới xuất hiện",
+      "Vệ sinh vùng kín sạch sẽ để ngăn ngừa nhiễm trùng đường tiết niệu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tiểu ra máu có nguy hiểm không?",
+      "answer": "Đi tiểu ra máu tự thân không nguy hiểm. Đây một triệu chứng của bệnh lý thuộc hệ tiết niệu. Triệu chứng có thể điều trị dứt điểm khi bệnh tiết niệu của người bệnh được kiểm soát và điều trị. Phần lớn những bệnh tiết niệu gây ra tiểu máu ở dạng cấp tính đều có thể điều trị nội khoa bằng thuốc hoặc tự khỏi sau một thời gian. Tuy nhiên, tiểu máu kéo dài có thể dẫn đến thiếu máu và tiềm ẩn nguy cơ ung thư nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ khi bị tiểu ra máu?",
+      "answer": "Người bệnh khi phát hiện bị tiểu máu cần đến thăm khám với bác sĩ chuyên môn ngay lập tức. Trường hợp người bệnh bị viêm cấp tính ở những cơ quan như bàng quang, thận, cầu thận, niệu đạo nhưng không được điều trị kịp thời sẽ tiến triển thành mạn tính. Không chỉ thế, việc tiểu ra máu nếu kéo dài sẽ dẫn đến tình trạng thiếu máu, gây suy giảm sức khỏe đáng kể."
+    },
+    {
+      "question": "Triệu chứng đi tiểu ra máu khác nhau như thế nào giữa tiểu máu đại thể và vi thể?",
+      "answer": "Tiểu máu đại thể là hiện tượng xảy ra khi số lượng hồng cầu trong nước tiểu đủ để nhìn bằng mắt thường, nước tiểu có màu hồng nhạt hoặc đỏ, đôi khi có cục máu đông. Ngược lại, tiểu máu vi thể là dạng đi tiểu ra máu nhưng số lượng hồng cầu trong nước tiểu khá ít, không thể nhìn thấy bằng mắt thường (thường trên 10.000 hồng cầu/ml) và chỉ phát hiện được qua xét nghiệm dưới kính hiển vi."
+    },
+    {
+      "question": "Các nguyên nhân phổ biến nhất gây tiểu ra máu là gì?",
+      "answer": "Các nguyên nhân phổ biến nhất gây tiểu ra máu bao gồm: viêm bàng quang (nhất là viêm bàng quang xuất huyết), nhiễm trùng đường tiết niệu, sỏi thận và tiết niệu (do ma sát gây tổn thương niêm mạc), u bướu thận (lành hoặc ác tính), phì đại tuyến tiền liệt ở nam giới, các bệnh thận như viêm cầu thận hoặc viêm thận, và một số trường hợp vô căn không xác định được nguyên nhân rõ ràng."
+    },
+    {
+      "question": "Có cách nào phòng ngừa tình trạng tiểu ra máu không?",
+      "answer": "Để phòng ngừa tình trạng tiểu ra máu, bạn có thể áp dụng các biện pháp sau: hạn chế nhịn tiểu hoặc đi tiểu sau khi quan hệ tình dục để ngăn ngừa nhiễm trùng; uống nhiều nước và giảm độ mặn trong khẩu phần ăn để ngừa sỏi thận; hạn chế hoặc không hút thuốc, lạm dụng rượu bia và các chất kích thích khác; thực hiện khám sức khỏe định kỳ, đặc biệt với người có tiền sử bệnh tiết niệu; duy trì cân nặng hợp lý và tập thể dục đều đặn; và điều trị kịp thời các bệnh lý đường tiết niệu ngay khi mới xuất hiện."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đi tiểu ra máu, nước tiểu màu hồng nhạt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bàng quang",
+        "Sỏi thận",
+        "Nhiễm trùng đường tiết niệu",
+        "U bướu thận"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ở vùng chậu, bụng dưới hoặc thắt lưng kèm theo tiểu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Sỏi thận",
+        "Viêm thận",
+        "Viêm bàng quang",
+        "Viêm niệu đạo"
+      ]
+    },
+    {
+      "question": "Tôi hay bị buồn nôn, nôn, sốt, ớn lạnh và đau bụng hoặc lưng dưới cùng lúc tiểu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thận",
+        "Sỏi thận",
+        "Nhiễm trùng đường tiết niệu",
+        "Viêm bể thận"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đi tiểu buốt, tiểu rắt và tiểu nhiều lần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bàng quang",
+        "Nhiễm trùng đường tiết niệu",
+        "Viêm niệu đạo",
+        "Viêm tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, xanh xao và sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U bướu thận",
+        "Suy thận",
+        "Thiếu máu",
+        "Ung thư đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khi xuất tinh, tiểu ra máu sau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Viêm niệu đạo",
+        "Bệnh lây qua đường tình dục",
+        "Viêm bàng quang"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đi tiểu ra máu, kèm theo sưng đau tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Xoắn tinh hoàn",
+        "Viêm tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng dữ dội, kèm theo tiểu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Sỏi thận",
+        "Viêm thận",
+        "Viêm bể thận",
+        "U bướu thận"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu ra máu, kèm theo sốt cao và rét run. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thận",
+        "Viêm bể thận",
+        "Nhiễm trùng đường tiết niệu",
+        "Nhiễm khuẩn huyết"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tiểu ra máu, kèm theo nước tiểu đục và có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Nhiễm trùng đường tiết niệu",
+        "Viêm bàng quang",
+        "Viêm niệu đạo",
+        "Viêm tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tiểu khó, dòng nước tiểu yếu và ngắt quãng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Phì đại tuyến tiền liệt",
+        "Sỏi niệu đạo",
+        "Hẹp niệu đạo",
+        "U bướu bàng quang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu ra máu, kèm theo cảm giác nóng rát khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bàng quang",
+        "Viêm niệu đạo",
+        "Nhiễm trùng đường tiết niệu",
+        "Viêm tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tiểu ra máu, kèm theo phù nề chân và mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm cầu thận",
+        "Hội chứng thận hư",
+        "Suy thận",
+        "Bệnh lupus ban đỏ hệ thống"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khi đi tiểu, tiểu ra máu sau khi tập thể dục nặng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu máu do vận động",
+        "Viêm bàng quang",
+        "Sỏi tiết niệu",
+        "Chấn thương đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu ra máu, kèm theo đau vùng xương chậu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bàng quang",
+        "Sỏi niệu quản",
+        "U bàng quang",
+        "Viêm tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tiểu ra máu, kèm theo tiểu són và tiểu không tự chủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bàng quang",
+        "Tăng sinh tuyến tiền liệt",
+        "Bệnh thần kinh bàng quang",
+        "U bàng quang"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tiểu ra máu, kèm theo đau bụng dưới âm ỉ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bàng quang",
+        "Viêm niệu đạo",
+        "Sỏi tiết niệu",
+        "Viêm tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu ra máu, kèm theo buồn nôn và nôn sau khi ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Sỏi thận",
+        "Viêm thận",
+        "Viêm bể thận",
+        "U bướu thận"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tiểu ra máu, kèm theo đau khi đi đại tiện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Viêm trực tràng",
+        "Trĩ nội",
+        "Bệnh lý vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tiểu ra máu, kèm theo đau tức vùng hạ sườn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Sỏi thận",
+        "Viêm thận",
+        "Viêm bể thận",
+        "U bướu thận"
+      ]
     }
   ]
 }

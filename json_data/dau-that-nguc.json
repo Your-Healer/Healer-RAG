@@ -1,58 +1,352 @@
 {
   "disease_id": "dau-that-nguc",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Đau Thắt Ngực",
+  "disease_alternative_names": [
+    "Angina Pectoris",
+    "Đau tim",
+    "Đau ngực",
+    "Chest Pain"
+  ],
+  "disease_definition": "Đau thắt ngực là thuật ngữ dùng để chỉ cơn đau hoặc khó chịu ở vùng ngực, xảy ra khi khả năng cung cấp máu của động mạch vành không có đủ máu đến nuôi tim, thường do mảng xơ vữa trong thành mạch máu. Những mảng xơ vữa này làm hẹp động mạch và hạn chế cung cấp máu cho tim, đặc biệt khi gắng sức.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau ngực",
+      "description": "Cảm giác như đang có một áp lực rất lớn đè ép lên vùng ngực, đặc biệt là vùng ngực trái và sau xương ức, thời gian đau kéo dài từ vài phút đến vài giây."
+    },
+    {
+      "name": "Đau lan tỏa",
+      "description": "Cơn đau có thể lan ra cổ, hàm, vai, cánh tay hoặc vùng lưng."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, hụt hơi thường đi kèm với cơn đau thắt ngực."
+    },
+    {
+      "name": "Đổ mồ hôi",
+      "description": "Vã mồ hôi, đặc biệt là đổ mồ hôi lạnh."
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác buồn nôn, có khi kèm theo nôn."
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Cảm giác chóng mặt, choáng váng, có thể dẫn đến ngất xỉu."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, kiệt sức, thiếu năng lượng."
+    },
+    {
+      "name": "Cảm giác đầy bụng",
+      "description": "Một số người có thể cảm thấy đầy bụng, khó tiêu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính của đau thắt ngực là do tim không được cung cấp đủ máu và oxy, thường do xơ vữa động mạch vành. Đây là quá trình mảng bám tích tụ trong động mạch vành làm giảm lưu lượng máu đến cơ tim, khiến tim phải làm việc trong môi trường thiếu oxy gây ra cơn đau.",
+    "related_factors": "Có 90% cơn đau ngực là do hẹp động mạch vành. Ngoài ra, đau thắt ngực còn có thể do bệnh vi mạch vành, bóc tách động mạch chủ, phì đại cơ tim, viêm màng ngoài tim, đau cơ sau khi vận động, viêm khớp sụn sườn, bệnh Zona, và các vấn đề đường tiêu hóa như ợ nóng, trào ngược acid dạ dày, loét dạ dày, hội chứng ruột kích thích.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Cao tuổi",
+    "Tăng huyết áp",
+    "Rối loạn mỡ máu (rối loạn lipid máu)",
+    "Đái tháo đường",
+    "Hút thuốc lá",
+    "Béo phì",
+    "Lối sống thiếu lành mạnh",
+    "Tiền sử gia đình có người mắc bệnh tim",
+    "Stress và căng thẳng kéo dài",
+    "Thiếu vận động thể chất"
+  ],
+  "complications": [
+    "Nhồi máu cơ tim",
+    "Rối loạn nhịp tim",
+    "Đột tử do tim",
+    "Suy tim",
+    "Giảm chất lượng cuộc sống",
+    "Rối loạn tâm lý do lo lắng về tình trạng sức khỏe"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để đánh giá tình trạng đau ngực",
+      "Khai thác tiền sử bệnh và tiền sử gia đình",
+      "Đánh giá các triệu chứng đi kèm",
+      "Tìm hiểu các yếu tố kích hoạt cơn đau"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Ghi lại hoạt động điện của tim để phát hiện các bất thường trong nhịp tim và cung cấp thông tin về tình trạng cung cấp máu cho tim."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra các chỉ điểm sinh học như Troponin T hoặc I để xác định xem tim có bị tổn thương không, đặc biệt trong trường hợp nhồi máu cơ tim."
+      },
+      {
+        "name": "Chụp động mạch vành tim",
+        "description": "Đặt một ống mỏng trong mạch máu ở tay hoặc đùi và đưa lên tim, sau đó bơm thuốc cản quang để xem mạch máu nuôi tim có bị tắc nghẽn không."
+      },
+      {
+        "name": "Chụp cắt lớp điện toán đa lát cắt (MSCT)",
+        "description": "Sử dụng thuốc cản quang để phát hiện mạch máu nuôi tim bị tắc nghẽn, cục máu đông trong động mạch phổi và một số nguyên nhân khác."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục đích chính của điều trị đau thắt ngực là ngăn ngừa và giảm đau nhanh chóng, hạn chế các mảng xơ vữa tích tụ thêm, giúp phòng ngừa và làm chậm tiến triển bệnh, giảm nguy cơ bị nhồi máu cơ tim.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc giảm đau và thuốc giãn mạch",
+        "description": "Thuốc nitrogLycerin thường được sử dụng để điều trị cơn đau thắt ngực cấp tính, giúp giãn mạch máu và cải thiện lưu lượng máu đến tim."
+      },
+      {
+        "name": "Can thiệp đặt stent mạch vành",
+        "description": "Khi thuốc không kiểm soát được cơn đau thắt ngực, bác sĩ có thể chỉ định chụp và đặt stent mạch vành để mở rộng động mạch bị hẹp và cải thiện lưu lượng máu."
+      },
+      {
+        "name": "Phẫu thuật bắc cầu mạch vành",
+        "description": "Trong trường hợp nghiêm trọng, phẫu thuật bắc cầu có thể được thực hiện để tạo đường dẫn máu mới đến tim."
+      },
+      {
+        "name": "Phẫu thuật sửa chữa bóc tách động mạch chủ",
+        "description": "Nếu cơn đau thắt ngực do bóc tách động mạch chủ, cần can thiệp phẫu thuật để sửa chữa."
+      },
+      {
+        "name": "Điều trị nguyên nhân cụ thể",
+        "description": "Nếu cơn đau ngực do trào ngược acid dạ dày hoặc do hoảng loạn, cần điều trị đúng nguyên nhân bằng thuốc ức chế tiết acid hoặc thuốc chống trầm cảm."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi khi xuất hiện cơn đau, ngồi ở tư thế nửa nằm nửa ngồi",
+      "Sử dụng thuốc nitrogLycerin nếu được bác sĩ chỉ định trước đó",
+      "Gọi cấp cứu nếu cơn đau mới xuất hiện, mức độ nặng, kéo dài hơn vài phút hoặc đi kèm với khó thở",
+      "Tránh gắng sức quá mức để không kích hoạt cơn đau thắt ngực",
+      "Tuân thủ đầy đủ các chỉ định điều trị của bác sĩ",
+      "Dùng thuốc đúng liều lượng và thời gian quy định",
+      "Đi tái khám theo lịch hẹn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa đau thắt ngực.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thư giãn và nghỉ ngơi, tránh làm việc nặng hoặc gắng sức để tim luôn khỏe mạnh",
+      "Tránh căng thẳng, stress kéo dài, giữ tâm lý thoải mái",
+      "Xây dựng chế độ dinh dưỡng khoa học, ăn nhiều rau quả, chất xơ, nhiều cá",
+      "Hạn chế ăn chất béo, thức ăn mặn, nhiều đồ ngọt, đặc biệt đồ chiên rán",
+      "Bỏ thuốc lá, bỏ rượu bia, cố gắng giảm cân nếu bị thừa cân, béo phì",
+      "Điều trị các bệnh gây nguy cơ đau thắt ngực như cao huyết áp, tiểu đường, rối loạn mỡ máu",
+      "Tập thể dục thể thao thường xuyên, ít nhất 30 phút mỗi ngày bằng các môn vừa sức như yoga, đi bộ, đạp xe",
+      "Dùng thuốc theo đúng chỉ định của bác sĩ để kiểm soát huyết áp, cholesterol, đường máu",
+      "Xây dựng thói quen khám sức khỏe định kỳ, làm điện tâm đồ, siêu âm tim, đo huyết áp 6 tháng một lần"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Đau thắt ngực có nguy hiểm không?",
+      "answer": "Đau thắt ngực là dấu hiệu điển hình nhất cảnh báo bệnh tim mạch, đặc biệt là nhồi máu cơ tim. Bệnh tim sẽ trở nên nguy hiểm khi xảy ra các cơn đau thắt ngực không ổn định. Khi các triệu chứng đau thắt ngực tiến triển trầm trọng, kéo dài trên 15 phút và không suy giảm dù có uống thuốc và nghỉ ngơi, đây là dấu hiệu cảnh báo cơn nhồi máu cơ tim sắp xảy ra. Thời gian 'vàng' đối với nhồi máu cơ tim là trong vòng 1-2 giờ kể từ khi xuất hiện các triệu chứng đầu tiên."
+    },
+    {
+      "question": "Có mấy loại đau thắt ngực?",
+      "answer": "Có 4 loại đau thắt ngực: 1) Đau thắt ngực ổn định: phổ biến nhất, thường xuất hiện khi gắng sức và giảm khi nghỉ ngơi. 2) Đau thắt ngực không ổn định: dữ dội, kéo dài hơn, với tần suất ngày càng tăng, có thể dẫn đến nhồi máu cơ tim cấp. 3) Đau thắt ngực Prinzmetal: hiếm gặp, xuất hiện đột ngột vào nửa đêm, kéo dài khoảng 30 phút. 4) Đau thắt vi mạch máu: kéo dài hơn, gây tổn thương tim nghiêm trọng hơn, thường kèm theo khó thở, khó ngủ, mệt mỏi và khởi phát do căng thẳng."
+    },
+    {
+      "question": "Khi nào cần đi cấp cứu khi bị đau thắt ngực?",
+      "answer": "Bạn cần gọi cấp cứu ngay khi: 1) Cơn đau ngực mới xuất hiện hoặc mức độ nặng. 2) Xảy ra đi kèm với triệu chứng khó thở. 3) Kéo dài hơn vài phút. 4) Đau ngực nặng hơn khi đi bộ, leo cầu thang, hoặc những hoạt động gắng sức khác. 5) Cơn đau ngực làm bạn sợ hãi hoặc lo lắng. Đặc biệt, nếu các triệu chứng đau thắt ngực kéo dài trên 15 phút và không giảm dù có uống thuốc và nghỉ ngơi, đây có thể là dấu hiệu của nhồi máu cơ tim, cần được cấp cứu ngay lập tức."
+    },
+    {
+      "question": "Đau thắt ngực khác gì với nhồi máu cơ tim?",
+      "answer": "Đau thắt ngực là triệu chứng cảnh báo khi tim không được cung cấp đủ máu và oxy, còn nhồi máu cơ tim xảy ra khi một phần cơ tim bị chết do thiếu máu cục bộ kéo dài. Đau thắt ngực thường giảm khi nghỉ ngơi hoặc dùng thuốc, trong khi đau do nhồi máu cơ tim thường kéo dài trên 15-20 phút và không đáp ứng với nghỉ ngơi hoặc thuốc nitrogLycerin. Đau thắt ngực là dấu hiệu cảnh báo, còn nhồi máu cơ tim là tình trạng cấp cứu đe dọa tính mạng."
+    },
+    {
+      "question": "Làm thế nào để phân biệt đau thắt ngực với các cơn đau ngực khác?",
+      "answer": "Đau thắt ngực thường có đặc điểm: 1) Đau hoặc khó chịu ở vùng ngực, thường là ngực trái và sau xương ức. 2) Có thể lan ra cánh tay trái, cổ, hàm, vai hoặc lưng. 3) Thường xuất hiện khi gắng sức và giảm khi nghỉ ngơi. 4) Có thể kèm theo khó thở, đổ mồ hôi, buồn nôn hoặc chóng mặt. Trong khi đó, đau ngực do các nguyên nhân khác như trào ngược acid, viêm cơ hoặc lo âu thường không có đặc điểm này và thường không liên quan đến hoạt động thể chất."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau thắt ngực, lan xuống cánh tay trái và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Nhồi máu cơ tim",
+        "Bệnh động mạch vành",
+        "Bóc tách động mạch chủ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ngực dữ dội, kèm theo đổ mồ hôi và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Nhồi máu cơ tim",
+        "Bệnh động mạch vành",
+        "Bóc tách động mạch chủ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau sau xương ức khi leo cầu thang, nhưng giảm khi nghỉ ngơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực ổn định",
+        "Bệnh động mạch vành",
+        "Đau thắt ngực do gắng sức",
+        "Viêm cơ xương khớp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang trải qua cơn đau thắt ngực kéo dài hơn bình thường và tần suất ngày càng tăng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực không ổn định",
+        "Hội chứng mạch vành cấp",
+        "Tiền nhồi máu cơ tim",
+        "Bệnh động mạch vành tiến triển"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau thắt ngực đột ngột vào ban đêm, kéo dài khoảng 30 phút. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực Prinzmetal",
+        "Co thắt động mạch vành",
+        "Đau thắt ngực biến thể",
+        "Rối loạn nhịp tim"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau thắt ngực kèm theo khó thở và mệt mỏi, đặc biệt khi căng thẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt vi mạch máu",
+        "Bệnh động mạch vành",
+        "Rối loạn lo âu",
+        "Hội chứng X tim"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau ngực, lan ra lưng và vai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Bóc tách động mạch chủ",
+        "Viêm màng ngoài tim",
+        "Thoái hóa cột sống cổ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đầy bụng, khó tiêu và đau thắt ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Trào ngược dạ dày thực quản",
+        "Co thắt thực quản",
+        "Viêm dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi hay bị choáng váng và ngất xỉu khi đau thắt ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Rối loạn nhịp tim",
+        "Hẹp van động mạch chủ",
+        "Tụt huyết áp tư thế"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng đau thắt ngực nghiêm trọng, có thể dẫn đến nhồi máu cơ tim. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực không ổn định",
+        "Hội chứng mạch vành cấp",
+        "Thiếu máu cơ tim cấp",
+        "Tắc nghẽn động mạch vành"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau thắt ngực, kèm theo khó thở và ngất xỉu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Tắc động mạch phổi",
+        "Suy tim",
+        "Tràn khí màng phổi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau thắt ngực khi hoạt động gắng sức, nhưng giảm khi dùng thuốc giãn mạch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực ổn định",
+        "Bệnh động mạch vành",
+        "Đau thắt ngực do gắng sức",
+        "Thiếu máu cơ tim"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng đau thắt ngực không thể đoán trước và ngày càng nặng hơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực không ổn định",
+        "Hội chứng mạch vành cấp",
+        "Tiền nhồi máu cơ tim",
+        "Bệnh động mạch vành tiến triển"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau thắt ngực kèm theo mệt mỏi và thiếu năng lượng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Suy tim",
+        "Thiếu máu",
+        "Rối loạn tuyến giáp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau thắt ngực khi căng thẳng và stress. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Đau thắt vi mạch máu",
+        "Rối loạn lo âu",
+        "Hội chứng X tim"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng đau thắt ngực lan xuống lưng và cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Bóc tách động mạch chủ",
+        "Thoát vị đĩa đệm cổ",
+        "Viêm khớp cột sống cổ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau thắt ngực và khó thở, kèm theo buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Nhồi máu cơ tim",
+        "Tắc động mạch phổi",
+        "Viêm phổi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau thắt ngực khi đi bộ nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực ổn định",
+        "Bệnh động mạch vành",
+        "Đau thắt ngực do gắng sức",
+        "Bệnh van tim"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng đau thắt ngực kéo dài hơn so với trước đây. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực không ổn định",
+        "Bệnh động mạch vành tiến triển",
+        "Tiền nhồi máu cơ tim",
+        "Hẹp động mạch vành"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau thắt ngực và khó ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Đau thắt ngực",
+        "Trào ngược dạ dày thực quản",
+        "Rối loạn lo âu",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
     }
   ]
 }

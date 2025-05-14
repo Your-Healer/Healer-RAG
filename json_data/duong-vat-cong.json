@@ -1,58 +1,240 @@
 {
   "disease_id": "duong-vat-cong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Dương Vật Cong",
+  "disease_alternative_names": [
+    "Bệnh Peyronie",
+    "Cong dương vật",
+    "Penile curvature",
+    "Peyronie's disease"
+  ],
+  "disease_definition": "Dương vật cong là bệnh lý lành tính. Bệnh do các mảng xơ hoặc cục xơ cứng phát triển giữa hai lớp áo của tổ chức cương ở dương vật (vật hang) gây co kéo và dính chắc. Điều này khiến dương vật bị cong, biến dạng khi cương lên. Mảng xơ nếu phát triển tại mặt lưng dương vật sẽ khiến dương vật cong gấp khúc lên trên. Trong khi, mảng xơ phát triển tại mặt bụng dương vật sẽ khiến dương vật cong gấp khúc xuống dưới. Một số trường hợp mảng xơ phát triển ở cả hai mặt làm khiến dương vật lồi lõm, ngắn lại.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối u cứng trên trục dương vật",
+      "description": "Người bệnh có thể cảm nhận được các khối u cứng hoặc vùng dày lên trên thân dương vật."
+    },
+    {
+      "name": "Dương vật cong khi cương cứng",
+      "description": "Khi cương cứng, dương vật có thể cong lên trên, xuống dưới, sang trái hoặc sang phải tùy theo vị trí của mảng xơ. Dương vật của người bệnh có thể cong một góc từ 15° đến hơn 90°."
+    },
+    {
+      "name": "Đau dương vật",
+      "description": "Người bệnh cảm thấy đau khi dương vật cương cứng, đặc biệt là khi quan hệ tình dục."
+    },
+    {
+      "name": "Dương vật lệch sang trái hoặc phải",
+      "description": "Dương vật có thể bị lệch sang một bên khi cương cứng do vị trí của mảng xơ."
+    },
+    {
+      "name": "Thu hẹp chiều dài hoặc đường kính",
+      "description": "Dương vật có thể bị ngắn lại hoặc thu hẹp đường kính do sự co rút của các mảng xơ."
+    },
+    {
+      "name": "Biến dạng dương vật",
+      "description": "Dương vật có thể bị biến dạng với các vết lõm hoặc hình dạng bất thường như chữ C hoặc chữ S."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính gây dương vật cong là do các mảng xơ hoặc cục xơ cứng phát triển giữa hai lớp áo của tổ chức cương ở dương vật (vật hang) gây co kéo và dính chắc, làm dương vật bị cong và biến dạng khi cương lên.",
+    "related_factors": "Có nhiều yếu tố liên quan đến tình trạng cong dương vật bao gồm bệnh Peyronie (xuất hiện mô sẹo trên dương vật), bẩm sinh (do yếu tố di truyền), gãy dương vật (do tai nạn hoặc chấn thương), rối loạn mô liên kết, và quan hệ tình dục quá mức hoặc thô bạo gây tổn thương dương vật.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố di truyền và bẩm sinh",
+    "Chấn thương dương vật (do tai nạn hoặc quan hệ tình dục thô bạo)",
+    "Gãy dương vật (vỡ vật hang)",
+    "Rối loạn mô liên kết",
+    "Quan hệ tình dục quá mức hoặc sai tư thế",
+    "Sử dụng chất kích thích khi quan hệ tình dục",
+    "Tuổi tác (nguy cơ tăng theo tuổi)"
+  ],
+  "complications": [
+    "Rối loạn cương dương",
+    "Khó khăn hoặc không thể quan hệ tình dục",
+    "Đau khi quan hệ tình dục",
+    "Giảm kích thước dương vật",
+    "Rối loạn tâm lý, căng thẳng và lo lắng",
+    "Ảnh hưởng đến mối quan hệ tình cảm và hôn nhân",
+    "Vô sinh (gián tiếp do không thể quan hệ tình dục)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng và hỏi bệnh sử về các triệu chứng và tiền sử chấn thương",
+      "Kiểm tra tình trạng dương vật",
+      "Đo mức độ cong của dương vật",
+      "Siêu âm dương vật để đánh giá mức độ tổn thương và mảng xơ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Tiêm thuốc kích thích cương dương",
+        "description": "Bác sĩ tiêm thuốc vào dương vật để gây cương cứng và có thể đo góc cong, đánh giá mức độ nghiêm trọng của tình trạng."
+      },
+      {
+        "name": "Siêu âm dương vật",
+        "description": "Sử dụng sóng âm để tạo hình ảnh của các mô bên trong dương vật, giúp xác định vị trí và kích thước của các mảng xơ cứng."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị dương vật cong phụ thuộc vào mức độ nghiêm trọng của tình trạng, mức độ đau và ảnh hưởng đến chức năng tình dục. Trong nhiều trường hợp, bệnh có thể tự cải thiện mà không cần can thiệp y học. Bác sĩ thường chỉ định điều trị với các trường hợp dương vật có đường cong từ 30° trở lên, đi kèm những vấn đề trong quan hệ tình dục.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc kháng viêm corticoid và vitamin E kết hợp giảm đau. Phương pháp này thích hợp cho người bệnh cong dương vật ở mức độ nhẹ, không bị đau hoặc không ảnh hưởng tới chức năng tình dục."
+      },
+      {
+        "name": "Liệu pháp sốc sóng ngoại bào (ESWT)",
+        "description": "Bác sĩ dùng máy quét siêu âm chiếu trực tiếp lên vùng khối u hay những mảng lồi lên trên dương vật. Phương pháp này có tính an toàn cao, tuy nhiên hiệu quả còn đang cần đánh giá kỹ lưỡng."
+      },
+      {
+        "name": "Phẫu thuật cắt khối u và ghép mảng da",
+        "description": "Phẫu thuật cắt bỏ những khối u, ghép mảng da hay nối tĩnh mạch để làm thẳng dương vật. Phương pháp này được chỉ định cho những trường hợp nghiêm trọng, dương vật cong nhiều, bị đau hoặc ảnh hưởng tới khả năng tình dục."
+      },
+      {
+        "name": "Phẫu thuật cấy thiết bị làm thẳng dương vật",
+        "description": "Cấy một thiết bị có khả năng làm thẳng vào trong dương vật để khắc phục tình trạng cong."
+      },
+      {
+        "name": "Phẫu thuật tác động vùng đối diện",
+        "description": "Tác động vùng đối diện với vị trí dương vật có khối u để ngăn dương vật uốn cong. Phương pháp này có thể làm thay đổi kích thước của dương vật."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi tình trạng ít nhất 12 tháng trước khi quyết định phẫu thuật vì trong nhiều trường hợp, bệnh có thể được cải thiện mà không cần điều trị",
+      "Điều chỉnh tư thế quan hệ tình dục để giảm đau và khó chịu",
+      "Tránh quan hệ tình dục trong giai đoạn bệnh đang diễn tiến nặng",
+      "Liên hệ với bác sĩ ngay khi tình trạng cong dương vật trở nên tồi tệ hơn hoặc gây đau đớn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine phòng ngừa bệnh dương vật cong.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ưu tiên chọn các loại quần lót rộng và thoáng, có thể không mặc quần lót khi ngủ",
+      "Tránh thủ dâm hoặc quan hệ tình dục quá thô bạo",
+      "Chọn những tư thế quan hệ tình dục thoải mái và an toàn cho cả hai",
+      "Không sử dụng các chất kích thích, rượu bia và không hút thuốc lá",
+      "Xử trí, điều trị đúng cách và kịp thời các chấn thương xảy ra ở vùng kín",
+      "Thực hiện tầm soát khi trong gia đình có thành viên bị cong dương vật",
+      "Khi thấy khó chịu trong lúc đi tiểu và quan hệ hệ tình dục, nên nhanh chóng đi khám",
+      "Không tự ý dùng thuốc khi không có chỉ định từ bác sĩ, đặc biệt là các bài thuốc dân gian không rõ nguồn gốc"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Dương vật cong có bình thường không?",
+      "answer": "Trường hợp dương vật cong nhẹ, không gây ra triệu chứng khó chịu nào thì được coi là bình thường và không cần đi khám. Tuy nhiên, nếu đường cong của dương vật gây khó khăn, đau đớn hoặc không thể quan hệ tình dục, người bệnh nên nhanh chóng đi tới các cơ sở y tế uy tín để thăm khám. Bác sĩ thường chỉ định điều trị với các trường hợp dương vật có đường cong từ 30° trở lên, đi kèm những vấn đề trong quan hệ tình dục."
+    },
+    {
+      "question": "Khi nào nên đi khám bác sĩ khi phát hiện dương vật cong?",
+      "answer": "Nam giới nên đi khám sớm khi tình trạng cong dương vật mới xuất hiện gần đây, góc cong của dương vật quá lớn, độ cong dương vật tăng dần, đau khi cương cứng (nhất là khi quan hệ tình dục), xuất hiện các vết lõm ở dương vật hoặc xuất hiện những nốt sần trong mô của dương vật. Các triệu chứng này có thể là dấu hiệu cảnh báo bị chấn thương hoặc mắc bệnh peyronie, không phải dương vật có độ cong bẩm sinh."
+    },
+    {
+      "question": "Dương vật cong có thể tự khỏi không?",
+      "answer": "Trong nhiều trường hợp, bệnh dương vật cong có thể được cải thiện mà không cần can thiệp y học. Bác sĩ thường yêu cầu người bệnh tiếp tục theo dõi ít nhất 12 tháng trước khi quyết định phẫu thuật. Tuy nhiên, nếu tình trạng cong dương vật gây đau đớn hoặc ảnh hưởng đến chức năng tình dục, người bệnh nên nhanh chóng tìm kiếm sự tư vấn y tế."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa dương vật cong?",
+      "answer": "Để hạn chế nguy cơ bị dương vật cong, nam giới nên: ưu tiên chọn quần lót rộng và thoáng; tránh thủ dâm hoặc quan hệ tình dục quá thô bạo; chọn những tư thế quan hệ tình dục thoải mái và an toàn; không sử dụng chất kích thích, rượu bia và thuốc lá; xử trí, điều trị đúng cách và kịp thời các chấn thương ở vùng kín; thực hiện tầm soát khi trong gia đình có người bị cong dương vật; và đi khám ngay khi có dấu hiệu bất thường."
+    },
+    {
+      "question": "Dương vật cong có ảnh hưởng đến khả năng sinh sản không?",
+      "answer": "Dương vật cong không trực tiếp ảnh hưởng đến chất lượng tinh trùng hay khả năng sinh sản. Tuy nhiên, nếu tình trạng cong quá nghiêm trọng đến mức gây khó khăn hoặc không thể quan hệ tình dục, thì có thể gián tiếp ảnh hưởng đến khả năng thụ thai tự nhiên. Trong trường hợp này, việc điều trị để khắc phục tình trạng cong dương vật có thể giúp cải thiện khả năng quan hệ tình dục và tăng cơ hội thụ thai."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như có khối u cứng trên trục dương vật và dương vật cong khi cương cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dương Vật Cong",
+        "Bệnh Peyronie",
+        "U dương vật",
+        "Xơ cứng dương vật"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau dương vật, đặc biệt là khi cương cứng và dương vật bị cong lên trên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dương Vật Cong",
+        "Bệnh Peyronie",
+        "Viêm dương vật",
+        "Chấn thương dương vật"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy dương vật bị lệch sang trái hoặc sang phải khi cương cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dương Vật Cong",
+        "Bệnh Peyronie",
+        "Dị tật bẩm sinh dương vật",
+        "Chấn thương dương vật"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như dương vật bị thu hẹp chiều dài và đường kính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dương Vật Cong",
+        "Bệnh Peyronie",
+        "Xơ hóa dương vật",
+        "Rối loạn tình dục nam"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khi cương cứng, dương vật cong và có khối u cứng trên thân dương vật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dương Vật Cong",
+        "Bệnh Peyronie",
+        "Viêm dương vật",
+        "U dương vật"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy dương vật bị cong xuống dưới khi cương cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dương Vật Cong",
+        "Bệnh Peyronie",
+        "Chấn thương dương vật",
+        "Dị tật bẩm sinh dương vật"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó khăn khi quan hệ tình dục do dương vật bị cong. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dương Vật Cong",
+        "Bệnh Peyronie",
+        "Rối loạn cương dương",
+        "Chấn thương dương vật"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy dương vật bị cong sang một bên và có cảm giác đau khi chạm vào. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dương Vật Cong",
+        "Bệnh Peyronie",
+        "Viêm dương vật",
+        "Chấn thương dương vật"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy dương vật bị co rút và ngắn lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dương Vật Cong",
+        "Bệnh Peyronie",
+        "Xơ hóa dương vật",
+        "Bệnh La Peyronie"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện mảng xơ cứng trên thân dương vật và dương vật bị cong. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dương Vật Cong",
+        "Bệnh Peyronie",
+        "Xơ cứng dương vật",
+        "Bệnh La Peyronie"
+      ]
     }
   ]
 }

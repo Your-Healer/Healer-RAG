@@ -1,39 +1,113 @@
 {
   "disease_id": "mang-thai-ngoai-tu-cung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mang thai ngoài tử cung",
+  "disease_alternative_names": [
+    "Chửa ngoài tử cung",
+    "Thai ngoài tử cung",
+    "Ectopic pregnancy"
+  ],
+  "disease_definition": "Mang thai ngoài tử cung hay chửa ngoài tử cung là tình trạng trứng sau khi thụ tinh lại làm tổ và phát triển ở một vị trí khác ở bên ngoài buồng tử cung, không phải bên trong tử cung của người mẹ. Tình trạng này có thể gây chảy máu ồ ạt trong ổ bụng, thậm chí đe dọa tính mạng thai phụ nếu không được cấp cứu can thiệp kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Trễ kinh, căng tức ngực",
+      "description": "Trong thời gian đầu, thai phụ có thai ngoài tử cung có thể có những biểu hiện giống thai kỳ bình thường như trễ kinh, căng tức ngực, buồn nôn."
+    },
+    {
+      "name": "Chảy máu âm đạo bất thường",
+      "description": "Thai phụ có thể ra máu trước ngày hành kinh và kéo dài trong nhiều ngày liền (rong huyết). Máu ra ít, thường có màu nâu, đen."
+    },
+    {
+      "name": "Đau vai hoặc muốn đi tiêu",
+      "description": "Trường hợp máu rò rỉ từ ống dẫn trứng (vòi trứng), thai phụ có thể cảm thấy đau vai hoặc muốn đi tiêu. Các triệu chứng cụ thể hơn sẽ phụ thuộc vào vị trí máu tụ và dây thần kinh nào bị kích thích."
+    },
+    {
+      "name": "Đau vùng chậu",
+      "description": "Thai ngoài tử cung có thể gây ra các cơn đau vùng bụng dưới, đau bụng một bên. Cơn đau thường âm ỉ, thỉnh thoảng có cơn đau nhói."
+    },
+    {
+      "name": "Đau bụng dữ dội khi thai vỡ",
+      "description": "Nếu khối thai vẫn tiếp tục phát triển, nó có thể bị vỡ, gây chảy máu ồ ạt bên trong ổ bụng. Lúc này thai phụ có thể gặp phải những cơn đau bụng dữ dội, đột ngột."
+    },
+    {
+      "name": "Choáng váng hoặc ngất xỉu",
+      "description": "Khi thai ngoài tử cung bị vỡ, thai phụ có thể bị choáng váng, ngất xỉu do mất máu nhiều. Đây là tình trạng khẩn cấp, đe dọa đến tính mạng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mang thai ngoài tử cung xảy ra khi trứng đã thụ tinh không về làm tổ bên trong tử cung mà làm tổ và phát triển ở một vị trí khác, thường gặp nhất là ở ống dẫn trứng.",
+    "related_factors": "Ống dẫn trứng bị viêm và có sẹo do thai phụ từng trải qua phẫu thuật hoặc bị nhiễm trùng trước đó; sự thay đổi hoặc hoạt động bất thường của nội tiết tố; dị dạng cơ quan sinh dục; một số vấn đề có liên quan đến di truyền; thai phụ đang mắc phải các tình trạng bệnh lý gây ảnh hưởng đến hình dáng hoặc hoạt động của ống dẫn trứng/cơ quan sinh sản khác.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Lớn tuổi: Phụ nữ càng lớn tuổi thì nguy cơ chửa ngoài tử cung càng cao",
+    "Tiền sử mắc bệnh: Phụ nữ đã từng có một lần mang thai ngoài tử cung thì sẽ có 10% nguy cơ gặp lại tình trạng này trong lần mang thai kế tiếp",
+    "Nhiễm trùng: Phụ nữ đã từng bị viêm hoặc nhiễm trùng ống dẫn trứng, tử cung hoặc buồng trứng",
+    "Viêm vùng chậu (PID) và viêm vòi trứng",
+    "Mắc các bệnh lý lây truyền qua đường tình dục như bệnh lậu, chlamydia",
+    "Hút thuốc lá",
+    "Đang điều trị vô sinh: Sử dụng thuốc kích thích rụng trứng",
+    "Các bất thường ở ống dẫn trứng có thể do bẩm sinh hoặc phẫu thuật",
+    "Từng phẫu thuật ở vùng chậu: Mổ lấy thai hoặc phẫu thuật cắt bỏ u xơ",
+    "Dùng thuốc tránh thai hoặc dụng cụ tránh thai (IUD)",
+    "Thắt ống dẫn trứng"
+  ],
+  "complications": [
+    "Chảy máu trong: Khối thai ngoài tử cung nếu vỡ sẽ khiến thai phụ bị chảy máu trong ồ ạt, đe dọa tính mạng",
+    "Tổn thương ống dẫn trứng: Việc điều trị chậm trễ sẽ gây tổn thương đến ống dẫn trứng, làm tăng đáng kể các nguy cơ thai ngoài tử cung ở những lần mang thai kế tiếp",
+    "Trầm cảm: Cú sốc tâm lý do bị mất thai và sự lo lắng cho những lần mang thai tiếp theo trong tương lai có thể khiến thai phụ rơi vào trạng thái trầm cảm, stress kéo dài"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thử thai: Xét nghiệm máu để định lượng nồng độ hormone HCG (βhCG)",
+      "Siêu âm: Xác định chính xác vị trí của thai nhi",
+      "Các xét nghiệm máu khác: Kiểm tra tình trạng thiếu máu, nhóm máu",
+      "Nội soi ổ bụng: Phát hiện một bên ống dẫn trứng căng phồng, tím đen"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu định lượng hormone HCG",
+        "description": "HCG là hormone chỉ xuất hiện khi phụ nữ mang thai, xét nghiệm này sẽ cho biết thai phụ có mang thai hay không. Tuy nhiên chưa thể cung cấp thông tin thai nằm trong hay ngoài tử cung."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Siêu âm giúp xác định chính xác vị trí của thai nhi. Kết quả siêu âm sẽ cho thấy trong buồng tử cung có hoặc không có túi thai, hoặc thấy được hình ảnh túi thai nằm ở ống dẫn trứng. Phương pháp này còn giúp phát hiện và đánh giá tình trạng chảy máu trong trường hợp thai ngoài tử cung bị vỡ."
+      },
+      {
+        "name": "Xét nghiệm máu kiểm tra tình trạng thiếu máu",
+        "description": "Giúp đánh giá tình trạng thiếu máu của thai phụ, cũng như kiểm tra nhóm máu trong trường hợp cần truyền máu."
+      },
+      {
+        "name": "Nội soi ổ bụng",
+        "description": "Nội soi ổ bụng là phương pháp hiện đại giúp chẩn đoán thai nằm ngoài tử cung một cách nhanh chóng và chính xác. Trong trường hợp thai ngoài tử cung, soi ổ bụng sẽ phát hiện được một bên ống dẫn trứng căng phồng, tím đen."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Thai ngoài tử cung không thể phát triển bình thường, không thể sinh ra cũng như không thể đưa khối thai trở về lại tử cung, do đó cần được loại bỏ để ngăn ngừa các biến chứng nguy hiểm đến tính mạng thai phụ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc Methotrexate",
+        "description": "Đối với các trường hợp thai ngoài tử cung được phát hiện sớm, có kích thước bé (đường kính không quá 3cm) và chưa bị vỡ thường được điều trị bằng thuốc. Methotrexate có tác dụng ngăn chặn sự phân chia và phát triển của tế bào, giúp khối thai tự tiêu biến sau 4-6 tuần điều trị."
+      },
+      {
+        "name": "Phẫu thuật nội soi",
+        "description": "Phẫu thuật nội soi được áp dụng trong trường hợp khối thai có kích thước lớn nhưng chưa bị vỡ. Hai dạng phẫu thuật nội soi là phẫu thuật mở thông vòi trứng (loại bỏ khối thai, bảo tồn vòi trứng) và phẫu thuật cắt bỏ vòi trứng (loại bỏ cả khối thai lẫn vòi trứng)."
+      },
+      {
+        "name": "Phẫu thuật mở bụng",
+        "description": "Những trường hợp thai ngoài tử cung phát triển lớn và bị vỡ, gây xuất huyết trong nghiêm trọng thì bắt buộc cần tiến hành phẫu thuật mở bụng để điều trị. Thông thường, ống dẫn trứng trong trường hợp này đã bị hư hỏng nên cần được loại bỏ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giữ vết mổ sạch sẽ, khô ráo trong khi chúng lành lại",
+      "Kiểm tra vết mổ hàng ngày để chắc chắn chúng không bị nhiễm trùng",
+      "Uống nhiều nước để ngăn ngừa chứng táo bón",
+      "Nghỉ ngơi càng nhiều càng tốt, nhất là trong tuần đầu tiên sau phẫu thuật",
+      "Không nâng, mang, vác vật nặng",
+      "Không quan hệ tình dục và sử dụng tampon cho đến khi được sự cho phép của bác sĩ",
+      "Không thụt rửa âm đạo",
+      "Thông báo ngay cho bác sĩ nếu cơn đau tăng lên hoặc có những dấu hiệu bất thường khác"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +115,80 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Quan hệ tình dục an toàn, hạn chế số lượng bạn tình để giảm nguy cơ mắc các bệnh lây truyền qua đường tình dục",
+      "Không hút thuốc lá và hạn chế việc hút thuốc lá thụ động",
+      "Khám phụ khoa định kỳ, tầm soát STDs thường xuyên",
+      "Phát hiện và xử lý sớm các vấn đề bất thường hoặc các bệnh lý phụ khoa",
+      "Không lạm dụng thuốc tránh thai khẩn cấp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thai ngoài tử cung tự tiêu như thế nào?",
+      "answer": "Thông thường, khi phát hiện có thai ngoài tử cung, thai phụ sẽ được điều trị bằng thuốc hoặc phẫu thuật để loại bỏ khối thai. Tuy nhiên, trong một số trường hợp thai ngoài tử cung có thể tự tiêu mà không cần bất kỳ phương pháp điều trị nào. Điều này sẽ xảy ra khi khối thai nhỏ (dưới 3cm), nồng độ hormone thai kỳ thấp, không đủ tế bào để nuôi thai. Lúc này thai sẽ không có đủ điều kiện để tiếp tục phát triển và sẽ tự tiêu đi."
+    },
+    {
+      "question": "Thai ngoài tử cung thì niêm mạc tử cung có dày lên không?",
+      "answer": "Niêm mạc tử cung (hay còn gọi là nội mạc tử cung) là lớp mô lót toàn bộ bề mặt bên trong tử cung. Đối với trường hợp thai ngoài tử cung, trứng đã thụ tinh không về làm tổ bên trong tử cung mà sẽ 'đóng đô' ở vị trí khác trong ổ bụng. Tuy nhiên, dù trứng có về tử cung hay không thì dưới sự gia tăng của các hormone sinh dục, niêm mạc tử cung vẫn sẽ dày lên và thay đổi cấu trúc để hỗ trợ nhau thai và phôi thai phát triển."
+    },
+    {
+      "question": "Phát hiện thai ngoài tử cung ở tuần thứ mấy?",
+      "answer": "Thai ngoài tử cung có thể được phát hiện từ tuần thứ 5-8 của thai kỳ. Do đó, nếu phụ nữ có các dấu hiệu của mang thai như trễ kinh, tăng thân nhiệt, căng cứng vùng ngực… hoặc que thử thai hiện 2 vạch thì nên đi thăm khám ngay để xác định chính xác mình có mang thai hay không, cũng như biết được vị trí làm tổ của thai, giúp phát hiện sớm thai ngoài tử cung để có biện pháp xử lý kịp thời."
+    },
+    {
+      "question": "Thai ngoài tử cung bao lâu thì vỡ?",
+      "answer": "Việc xác định chính xác thai ngoài tử cung bao lâu thì vỡ là rất khó, phụ thuộc vào vị trí khối thai, sự phát triển của thai nhi cũng như sức khỏe và cơ địa của từng thai phụ. Thai ngoài tử cung vỡ sẽ gây ra nhiều biến chứng rất nguy hiểm, khiến mẹ bầu bị mất máu, tổn thương các cơ quan sinh sản, ảnh hưởng đến khả năng mang thai trong tương lai, thậm chí đe dọa tính mạng thai phụ."
+    },
+    {
+      "question": "Chửa ngoài tử cung có phải mổ không?",
+      "answer": "Phẫu thuật là một trong các phương pháp dùng để loại bỏ thai ngoài tử cung, đặc biệt là khi thai phát triển lớn hoặc bị vỡ, dẫn đến xuất huyết trong ổ bụng. Tùy theo từng trường hợp cụ thể mà bác sĩ sẽ lựa chọn phẫu thuật nội soi hoặc phẫu thuật mở bụng để điều trị cho bệnh nhân."
+    },
+    {
+      "question": "Bị thai ngoài tử cung khi nào thì mang thai lại?",
+      "answer": "Phần lớn phụ nữ có thai ngoài tử cung có thể mang thai lại sau 3-4 tháng sau kết thúc điều trị. Trường hợp phải can thiệp phẫu thuật, bệnh nhân có thể mang thai lại sau 6 tháng đến 1 năm kể từ khi lành vết mổ. Tuy nhiên, cơ địa của mỗi người là khác nhau, do đó khuyến cáo phụ nữ chỉ nên mang thai khi cơ thể thực sự hồi phục và khỏe mạnh để đảm bảo an toàn cho cả mẹ và con."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như trễ kinh, đau bụng dưới và chảy máu âm đạo bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mang-thai-ngoai-tu-cung",
+        "say-thai",
+        "roi-loan-noi-tiet"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng một bên, buồn nôn và ra máu màu nâu đen. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mang-thai-ngoai-tu-cung",
+        "u-nang-buong-trung",
+        "viem-phu-khoa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng âm ỉ, rong huyết và đau vai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mang-thai-ngoai-tu-cung",
+        "u-xa-tu-cung",
+        "viem-voi-trung"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như trễ kinh, căng tức ngực và đau bụng dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mang-thai-ngoai-tu-cung",
+        "say-thai",
+        "viem-ruot-thua"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy choáng váng, ngất xỉu và đau bụng đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mang-thai-ngoai-tu-cung",
+        "xuat-huyet-noi-tang",
+        "viem-ruot-thua"
+      ]
     }
   ]
 }

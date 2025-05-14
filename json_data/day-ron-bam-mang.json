@@ -1,58 +1,227 @@
 {
   "disease_id": "day-ron-bam-mang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Dây Rốn Bám Màng",
+  "disease_alternative_names": [
+    "Bám màng rau",
+    "Velamentous cord insertion",
+    "VCI",
+    "Bất thường bám rau"
+  ],
+  "disease_definition": "Dây rốn bám màng là một bất thường của thai kỳ trong đó dây rốn bám vào màng ối (màng rau) thay vì bám vào giữa bánh rau như bình thường. Các mạch máu từ dây rốn chạy qua màng ối không được bảo vệ trước khi đến bánh rau, làm tăng nguy cơ chảy máu và các biến chứng khác trong thai kỳ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng ở mẹ",
+      "description": "Dây rốn bám màng thường không gây ra các triệu chứng cụ thể ở mẹ trong quá trình mang thai."
+    },
+    {
+      "name": "Chảy máu âm đạo",
+      "description": "Trong một số trường hợp, đặc biệt là khi kết hợp với mạch máu trước rau (vasa previa), có thể gây chảy máu âm đạo khi màng ối vỡ."
+    },
+    {
+      "name": "Thai chậm phát triển",
+      "description": "Thai nhi có thể phát triển chậm do hạn chế lưu lượng máu và dưỡng chất từ mẹ sang con."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác của tình trạng dây rốn bám màng vẫn chưa được hiểu rõ. Tình trạng này xảy ra trong quá trình phát triển ban đầu của thai khi dây rốn không bám vào vị trí thông thường ở trung tâm bánh rau.",
+    "related_factors": "Quá trình hình thành và phát triển bất thường của bánh rau trong những tuần đầu của thai kỳ có thể góp phần gây ra tình trạng này. Các yếu tố nguy cơ bao gồm đa thai, bánh rau bất thường, và một số bất thường về tử cung.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Mang thai đa thai (đặc biệt là song thai cùng trứng)",
+    "Đã từng có thai kỳ với dây rốn bám màng",
+    "Tuổi mẹ cao",
+    "Tiền sử hút thuốc",
+    "Rau tiền đạo",
+    "Bất thường về hình dạng tử cung",
+    "Thụ tinh ống nghiệm (IVF)",
+    "Đặt phôi không đúng vị trí trong kỹ thuật hỗ trợ sinh sản"
+  ],
+  "complications": [
+    "Mạch máu trước rau (vasa previa)",
+    "Chảy máu trong khi sinh, đặc biệt khi màng ối vỡ",
+    "Thai chậm phát triển trong tử cung",
+    "Trẻ sinh ra nhẹ cân",
+    "Dị tật bẩm sinh",
+    "Chết thai trong tử cung",
+    "Sinh non",
+    "Rau bong non",
+    "Đẻ khó do bất thường bánh rau"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Siêu âm thai thường quy có thể phát hiện bất thường vị trí bám dây rốn",
+      "Siêu âm Doppler màu để quan sát dòng chảy của mạch máu rốn",
+      "Chẩn đoán tiền sản",
+      "Đánh giá sau sinh bằng cách kiểm tra bánh rau"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm 2D và 3D",
+        "description": "Siêu âm hai chiều và ba chiều giúp quan sát vị trí bám của dây rốn vào bánh rau, có thể phát hiện dây rốn bám màng từ tam cá nguyệt thứ hai của thai kỳ."
+      },
+      {
+        "name": "Siêu âm Doppler màu",
+        "description": "Kỹ thuật này cho phép quan sát dòng chảy trong các mạch máu rốn, giúp xác định chính xác vị trí bám của dây rốn và phát hiện các mạch máu chạy qua màng ối."
+      },
+      {
+        "name": "MRI thai nhi",
+        "description": "Chụp cộng hưởng từ có thể được sử dụng trong những trường hợp phức tạp để đánh giá chi tiết hơn vị trí bám của dây rốn và phát hiện các bất thường đi kèm."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không có phương pháp điều trị cụ thể để sửa chữa dây rốn bám màng sau khi đã được chẩn đoán. Quản lý thai kỳ tập trung vào theo dõi chặt chẽ và lên kế hoạch sinh phù hợp để giảm thiểu nguy cơ biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi thai nhi thường xuyên",
+        "description": "Thực hiện siêu âm định kỳ và các biện pháp theo dõi khác để đánh giá sự phát triển của thai nhi và phát hiện sớm các biến chứng."
+      },
+      {
+        "name": "Mổ lấy thai chủ động",
+        "description": "Đối với trường hợp có mạch máu trước rau hoặc nguy cơ chảy máu cao, phương pháp mổ lấy thai có kế hoạch trước khi chuyển dạ thường được khuyến nghị."
+      },
+      {
+        "name": "Theo dõi chặt chẽ trong khi chuyển dạ",
+        "description": "Nếu sinh thường được xem xét, cần theo dõi sát sao dấu hiệu sinh tồn của thai nhi và sẵn sàng can thiệp nếu có biểu hiện suy thai."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch khám thai định kỳ",
+      "Theo dõi chặt chẽ sự phát triển của thai nhi",
+      "Thông báo cho nhân viên y tế nếu có bất kỳ triệu chứng bất thường nào như chảy máu âm đạo",
+      "Thảo luận với bác sĩ về kế hoạch sinh phù hợp",
+      "Chuẩn bị tinh thần cho khả năng can thiệp y tế nếu cần thiết",
+      "Nghỉ ngơi đầy đủ, hạn chế căng thẳng trong thai kỳ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine hoặc biện pháp phòng ngừa cụ thể cho tình trạng dây rốn bám màng.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám tiền sản đầy đủ và đều đặn",
+      "Siêu âm thai định kỳ để phát hiện sớm bất thường",
+      "Tránh hút thuốc lá và các chất kích thích",
+      "Duy trì chế độ ăn uống lành mạnh và cân bằng",
+      "Theo dõi đặc biệt đối với thai phụ có các yếu tố nguy cơ",
+      "Tham vấn bác sĩ di truyền nếu có tiền sử gia đình có dây rốn bám màng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Dây rốn bám màng có nguy hiểm không?",
+      "answer": "Dây rốn bám màng có thể tiềm ẩn nguy cơ cho cả mẹ và bé, đặc biệt nếu kết hợp với mạch máu trước rau (vasa previa). Các mạch máu không được bảo vệ chạy qua màng ối có thể bị tổn thương khi màng ối vỡ, dẫn đến chảy máu nghiêm trọng. Tuy nhiên, nhiều trường hợp dây rốn bám màng được phát hiện sớm và quản lý tốt sẽ có kết quả thai kỳ bình thường."
+    },
+    {
+      "question": "Dây rốn bám màng có thể phát hiện khi nào?",
+      "answer": "Dây rốn bám màng có thể được phát hiện trong quá trình siêu âm thai thường quy, thường là từ tam cá nguyệt thứ hai của thai kỳ. Siêu âm Doppler màu giúp quan sát dòng chảy trong các mạch máu và xác định chính xác vị trí bám của dây rốn. Tuy nhiên, không phải tất cả các trường hợp đều được phát hiện trước khi sinh, một số chỉ được xác định khi kiểm tra bánh rau sau sinh."
+    },
+    {
+      "question": "Tôi có thể sinh thường khi bị dây rốn bám màng không?",
+      "answer": "Khả năng sinh thường với dây rốn bám màng phụ thuộc vào nhiều yếu tố, bao gồm vị trí chính xác của dây rốn, sự hiện diện của các biến chứng như mạch máu trước rau, và tình trạng tổng thể của thai kỳ. Trong nhiều trường hợp không có biến chứng nghiêm trọng, sinh thường vẫn có thể an toàn với sự theo dõi chặt chẽ. Tuy nhiên, nếu có mạch máu trước rau hoặc nguy cơ chảy máu cao, mổ lấy thai thường được khuyến nghị để đảm bảo an toàn cho cả mẹ và bé."
+    },
+    {
+      "question": "Dây rốn bám màng có di truyền không?",
+      "answer": "Hiện tại không có bằng chứng mạnh mẽ cho thấy dây rốn bám màng là một tình trạng di truyền trực tiếp. Tuy nhiên, một số yếu tố nguy cơ có thể có thành phần di truyền, như bất thường về hình dạng tử cung. Nếu bạn đã từng có thai kỳ với dây rốn bám màng, có thể có nguy cơ cao hơn một chút trong các thai kỳ sau, nhưng điều này không nhất thiết do di truyền mà có thể liên quan đến các yếu tố cấu trúc."
+    },
+    {
+      "question": "Dây rốn bám màng có ảnh hưởng đến sự phát triển của thai nhi không?",
+      "answer": "Dây rốn bám màng có thể ảnh hưởng đến sự phát triển của thai nhi trong một số trường hợp. Do các mạch máu từ dây rốn phải chạy qua màng ối trước khi đến bánh rau, lưu lượng máu và dưỡng chất từ mẹ sang con có thể bị hạn chế. Điều này có thể dẫn đến thai chậm phát triển trong tử cung và trẻ sinh ra nhẹ cân. Tuy nhiên, nhiều trường hợp dây rốn bám màng không ảnh hưởng đến sự phát triển của thai nhi, đặc biệt khi được theo dõi chặt chẽ trong suốt thai kỳ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi được chẩn đoán có dây rốn bám màng, điều này có nguy hiểm không?",
+      "related_diseases": [
+        "Dây rốn bám màng",
+        "Mạch máu trước rau",
+        "Thai chậm phát triển",
+        "Rau bong non"
+      ]
+    },
+    {
+      "question": "Siêu âm cho thấy tôi có dây rốn bám màng, tôi có thể sinh thường không?",
+      "related_diseases": [
+        "Dây rốn bám màng",
+        "Mạch máu trước rau",
+        "Rau tiền đạo",
+        "Chảy máu khi sinh"
+      ]
+    },
+    {
+      "question": "Tôi bị dây rốn bám màng và mang song thai, tôi cần lưu ý gì?",
+      "related_diseases": [
+        "Dây rốn bám màng",
+        "Song thai",
+        "Thai chậm phát triển",
+        "Sinh non"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và có dây rốn bám màng, tôi cần theo dõi như thế nào?",
+      "related_diseases": [
+        "Dây rốn bám màng",
+        "Thai chậm phát triển",
+        "Theo dõi thai nhi",
+        "Siêu âm Doppler"
+      ]
+    },
+    {
+      "question": "Tôi có tiền sử dây rốn bám màng ở lần mang thai trước, lần này có nguy cơ cao không?",
+      "related_diseases": [
+        "Dây rốn bám màng",
+        "Thai kỳ nguy cơ cao",
+        "Theo dõi thai nhi",
+        "Siêu âm chuyên sâu"
+      ]
+    },
+    {
+      "question": "Tôi có dây rốn bám màng và bị chảy máu âm đạo, tôi nên làm gì?",
+      "related_diseases": [
+        "Dây rốn bám màng",
+        "Mạch máu trước rau",
+        "Chảy máu âm đạo",
+        "Cấp cứu sản khoa"
+      ]
+    },
+    {
+      "question": "Siêu âm phát hiện tôi có dây rốn bám màng ở tuần 20, cần làm thêm xét nghiệm gì không?",
+      "related_diseases": [
+        "Dây rốn bám màng",
+        "Siêu âm Doppler",
+        "Chẩn đoán tiền sản",
+        "Theo dõi thai nhi"
+      ]
+    },
+    {
+      "question": "Tôi được chẩn đoán có dây rốn bám màng và mạch máu trước rau, tôi cần biết điều gì?",
+      "related_diseases": [
+        "Dây rốn bám màng",
+        "Mạch máu trước rau",
+        "Mổ lấy thai",
+        "Chảy máu khi sinh"
+      ]
+    },
+    {
+      "question": "Tôi có dây rốn bám màng, thai nhi có bị ảnh hưởng không?",
+      "related_diseases": [
+        "Dây rốn bám màng",
+        "Thai chậm phát triển",
+        "Trẻ nhẹ cân",
+        "Theo dõi phát triển thai nhi"
+      ]
+    },
+    {
+      "question": "Tôi có dây rốn bám màng, khi nào cần đến bệnh viện ngay?",
+      "related_diseases": [
+        "Dây rốn bám màng",
+        "Chảy máu âm đạo",
+        "Vỡ ối sớm",
+        "Cơn co tử cung"
+      ]
     }
   ]
 }

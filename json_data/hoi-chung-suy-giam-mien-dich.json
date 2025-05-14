@@ -1,58 +1,203 @@
 {
   "disease_id": "hoi-chung-suy-giam-mien-dich",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng suy giảm miễn dịch",
+  "disease_alternative_names": [
+    "Rối loạn suy giảm miễn dịch",
+    "Suy giảm hệ miễn dịch"
+  ],
+  "disease_definition": "Hội chứng suy giảm miễn dịch là tình trạng miễn dịch của cơ thể bị suy giảm, dẫn đến cơ thể không có đủ khả năng ngăn ngừa bảo vệ trước sự tấn công của các mầm bệnh vi sinh từ bên ngoài như: vi khuẩn, virus, nấm mốc, ký sinh trùng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nhiễm trùng tái phát",
+      "description": "Người bệnh dễ bị nhiễm trùng, viêm nhiễm liên tiếp hết đợt này đến đợt khác và khó điều trị hơn người bình thường."
+    },
+    {
+      "name": "Mắt hồng (viêm kết mạc)",
+      "description": "Tình trạng viêm nhiễm ở mắt, gây đỏ, ngứa, khó chịu."
+    },
+    {
+      "name": "Viêm xoang",
+      "description": "Viêm nhiễm các xoang mũi, gây đau, nghẹt mũi, chảy mũi."
+    },
+    {
+      "name": "Tưa miệng",
+      "description": "Nhiễm nấm miệng gây đau, đỏ và có các mảng trắng trong miệng."
+    },
+    {
+      "name": "Cảm lạnh",
+      "description": "Dễ mắc cảm lạnh hơn người bình thường và thường kéo dài, khó điều trị."
+    },
+    {
+      "name": "Viêm nướu",
+      "description": "Viêm nhiễm nướu răng, gây đau, sưng, chảy máu."
+    },
+    {
+      "name": "Viêm phổi",
+      "description": "Nhiễm trùng phổi gây ho, sốt, khó thở."
+    },
+    {
+      "name": "Nhiễm trùng nấm men",
+      "description": "Nhiễm trùng do nấm, đặc biệt là nấm Candida, có thể xảy ra trên da, miệng, đường tiêu hóa hoặc bộ phận sinh dục."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hệ miễn dịch suy yếu khiến các tế bào bạch cầu và đặc biệt là các lympho T và B hoạt động bất thường, cơ thể không sản xuất đủ kháng thể để bảo vệ cơ thể.",
+    "related_factors": "Có nhiều nguyên nhân gây suy giảm miễn dịch, bao gồm các yếu tố di truyền (nguyên phát), các bệnh mãn tính, nhiễm HIV, suy dinh dưỡng, lão hóa, thuốc men, và ghép tạng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Các bệnh mãn tính (tiểu đường, suy thận, ung thư)",
+    "Hóa trị, xạ trị ung thư với thuốc corticosteroid",
+    "Cắt bỏ lá lách",
+    "Nhiễm HIV",
+    "Nghiện ma túy",
+    "Nằm viện lâu ngày",
+    "Ghép tạng phải dùng thuốc ức chế miễn dịch",
+    "Suy dinh dưỡng, đặc biệt là thiếu protein",
+    "Người cao tuổi",
+    "Đột biến gen (suy giảm miễn dịch nguyên phát)"
+  ],
+  "complications": [
+    "Nhiễm trùng tái phát nặng hơn",
+    "Nhiễm trùng cơ hội (nhiễm trùng mà người bình thường không mắc)",
+    "Khả năng tử vong cao nếu không điều trị kịp thời",
+    "Tổn thương các cơ quan",
+    "Viêm nhiễm toàn thân",
+    "Phát triển tế bào ung thư (trong trường hợp ghép tạng)",
+    "Tăng nguy cơ mắc bệnh tim mạch",
+    "Tử vong do nhiễm trùng không kiểm soát được"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Kiểm tra bệnh sử",
+      "Thực hiện bài kiểm tra thể chất",
+      "Xét nghiệm máu",
+      "Xét nghiệm da"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Xác định số lượng tế bào máu trắng, tế bào T và nồng độ miễn nhiễm để đưa ra chẩn đoán chính xác."
+      },
+      {
+        "name": "Xét nghiệm da",
+        "description": "Tiêm một lượng nhỏ protein từ các sinh vật lây nhiễm thông thường (nấm men) ngay dưới da. Nếu không có phản ứng (sưng hoặc đỏ) trong vòng 2 ngày, có thể đây là dấu hiệu của bệnh do bất thường tế bào T."
+      },
+      {
+        "name": "Xét nghiệm gen",
+        "description": "Xác định nguy cơ đột biến gen gây ra rối loạn suy giảm miễn dịch."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị thường là ngăn ngừa nhiễm trùng, điều trị nhiễm trùng, tăng cường cải thiện chức năng của các cơ quan trong hệ thống miễn dịch.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị kháng sinh",
+        "description": "Dùng kháng sinh để điều trị nhiễm trùng."
+      },
+      {
+        "name": "Thuốc kháng vi rút",
+        "description": "Sử dụng thuốc kháng vi rút như oseltamivir, acyclovir, interferon để điều trị nhiễm vi rút."
+      },
+      {
+        "name": "Liệu pháp immunoglobulin",
+        "description": "Sử dụng kháng thể để tăng cường hệ miễn dịch và phòng ngừa nhiễm trùng."
+      },
+      {
+        "name": "Cấy ghép tủy xương",
+        "description": "Thực hiện trong trường hợp tủy xương không sản xuất đủ tế bào lympho."
+      },
+      {
+        "name": "Kháng thể đơn dòng",
+        "description": "Sử dụng kháng thể đơn dòng như Evusheld để dự phòng bệnh truyền nhiễm như Covid-19 ở người suy giảm miễn dịch."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Điều trị sớm các bệnh nhiễm trùng",
+      "Tiêm phòng đầy đủ các loại vắc xin (khi có thể)",
+      "Duy trì lối sống lành mạnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Vắc xin là phương pháp đặc hiệu giúp cơ thể sản sinh ra kháng thể chống lại các vi rút gây hại. Tuy nhiên, nhiều người bị suy giảm miễn dịch không thể tiêm một số loại vắc xin do có tiền sử dị ứng nặng hoặc do tình trạng suy giảm miễn dịch.",
+      "recommended_for": [
+        "Người không có tiền sử dị ứng nặng với bất kỳ thành phần nào của vắc xin",
+        "Người không có các tình trạng gây ra hội chứng suy giảm miễn dịch từ trung bình đến nặng"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh cơ thể sạch sẽ hàng ngày, rửa tay kỹ bằng xà phòng",
+      "Vệ sinh môi trường sống và làm việc, đảm bảo không gian sinh hoạt sạch sẽ, thoáng đãng",
+      "Chăm sóc răng miệng ít nhất hai lần mỗi ngày, thường xuyên súc miệng bằng nước muối",
+      "Xây dựng chế độ ăn uống lành mạnh với các thực phẩm an toàn cho sức khỏe",
+      "Tập luyện thể dục thể thao thường xuyên",
+      "Chăm sóc tốt cho giấc ngủ, cố gắng đi ngủ và thức dậy vào một giờ cố định hàng ngày",
+      "Giảm căng thẳng thông qua các liệu pháp mát xa, thiền, yoga",
+      "Đeo khẩu trang khi cần thiết và hạn chế tiếp xúc với người đang bị cảm cúm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng suy giảm miễn dịch nguyên phát có thể phòng ngừa được không?",
+      "answer": "Hội chứng suy giảm miễn dịch nguyên phát do di truyền nên không có cách để ngăn ngừa. Tuy nhiên, bạn có thể theo dõi sức khỏe để sớm phát hiện, kiểm soát và điều trị."
+    },
+    {
+      "question": "Làm thế nào để biết mình có bị suy giảm miễn dịch hay không?",
+      "answer": "Nếu bạn thường xuyên bị ốm, nhiễm trùng kéo dài hoặc khó điều trị, dễ bị viêm nhiễm lặp đi lặp lại như: viêm kết mạc, viêm xoang, tưa miệng, cảm lạnh, viêm nướu, viêm phổi, nhiễm trùng nấm men, thì đó có thể là dấu hiệu của suy giảm miễn dịch. Bạn nên đi khám tại các cơ sở y tế uy tín để được chẩn đoán chính xác."
+    },
+    {
+      "question": "Người bị suy giảm miễn dịch có thể tiêm vắc xin không?",
+      "answer": "Nhiều người bị suy giảm miễn dịch không thể tiêm một số loại vắc xin do có tiền sử dị ứng nặng với thành phần của vắc xin, hoặc do các tình trạng gây ra hội chứng suy giảm miễn dịch từ trung bình đến nặng như: ung thư tạng, bệnh lý máu ác tính đang điều trị tích cực, điều trị chống thải sau ghép tạng, các bệnh khiếm khuyết miễn dịch nguyên phát. Trong những trường hợp này, cần tham khảo ý kiến bác sĩ."
+    },
+    {
+      "question": "Làm thế nào để nâng cao hệ miễn dịch?",
+      "answer": "Để nâng cao hệ miễn dịch, bạn có thể: vệ sinh cơ thể và môi trường sạch sẽ, xây dựng chế độ ăn uống lành mạnh, tập luyện thể dục thể thao thường xuyên, chăm sóc tốt giấc ngủ, giảm căng thẳng thông qua các liệu pháp như mát xa, thiền, yoga, đeo khẩu trang và hạn chế tiếp xúc với người đang bị bệnh truyền nhiễm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị cảm lạnh, viêm xoang, tưa miệng và viêm phổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-suy-giam-mien-dich",
+        "nhiem-hiv",
+        "suy-dinh-duong"
+      ]
+    },
+    {
+      "question": "Tôi dễ bị nhiễm trùng, viêm nhiễm liên tục và thường xuyên bị nấm men. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-suy-giam-mien-dich",
+        "dai-thao-duong",
+        "suy-than"
+      ]
+    },
+    {
+      "question": "Tôi có hệ miễn dịch yếu và dễ mắc các bệnh truyền nhiễm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-suy-giam-mien-dich",
+        "ung-thu",
+        "suy-dinh-duong"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị viêm kết mạc, viêm họng và các bệnh nhiễm trùng khác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-suy-giam-mien-dich",
+        "nhiem-hiv",
+        "benh-u-hat-man-tinh"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên phải dùng thuốc kháng sinh do dễ bị nhiễm trùng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-suy-giam-mien-dich",
+        "suy-giam-mien-dich-ket-hop-nghiem-trong",
+        "suy-giam-mien-dich-da-dang-pho-bien"
+      ]
     }
   ]
 }

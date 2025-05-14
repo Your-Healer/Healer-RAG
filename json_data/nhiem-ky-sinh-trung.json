@@ -1,58 +1,187 @@
 {
   "disease_id": "nhiem-ky-sinh-trung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhiễm ký sinh trùng",
+  "disease_alternative_names": [
+    "Bệnh do ký sinh trùng",
+    "Nhiễm giun sán",
+    "Parasitic infection"
+  ],
+  "disease_definition": "Nhiễm ký sinh trùng là bệnh lý phổ biến thường gặp ở quốc gia có khí hậu nhiệt đới, cận nhiệt đới do các loại giun, sán, bọ chét, chí, ve, rận… sống ký sinh ở người thông qua các đường lây nhiễm như lây qua đất, qua da, đường tiêu hóa, từ động vật sang người. Khi ký sinh trùng xâm nhập vào cơ thể người, chúng hút máu hoặc chất dinh dưỡng của con người để sinh sôi, phát triển, gây ra nhiều tác hại cho cơ thể như tổn thương gan, não, phổi, thận, suy dinh dưỡng, thiếu máu nếu không phát hiện, điều trị kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt kéo dài",
+      "description": "Nhiễm ký sinh trùng thường có dấu hiệu sốt kéo dài, có thể sốt cao kèm cơ thể rét run hoặc có thể sốt trong thời gian ngắn rồi cắt cơn. Đôi khi sốt kèm đau bụng, tiêu chảy, chán ăn."
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Rối loạn tiêu hóa hoặc có các biểu hiện tiêu chảy, đầy hơi, chướng bụng, đau bụng, buồn nôn là dấu hiệu thường gặp ở người nhiễm ký sinh trùng đường tiêu hóa. Chất thải ký sinh trùng có thể gây táo bón, đầy hơi, buồn nôn."
+    },
+    {
+      "name": "Biểu hiện ngứa hoặc nổi mề đay",
+      "description": "Bệnh ký sinh trùng ở người sẽ gây ra một số vấn đề trên da như phát ban đỏ, chàm, dị ứng. Ngoài ra, các chất thải từ ký sinh trùng tích tụ trong da, lâu ngày dẫn đến sưng tấy, tổn thương da, viêm nhiễm."
+    },
+    {
+      "name": "Sụt cân, suy dinh dưỡng",
+      "description": "Nhiễm ký sinh trùng gây ảnh hưởng đến hoạt động đường ruột. Cơ thể người bệnh dễ gặp triệu chứng như táo bón, chán ăn, đau bụng, tiêu chảy, ngoài ra, một số loài ký sinh trùng hút máu, dinh dưỡng từ vật chủ sẽ khiến vật chủ sụt cân, thậm chí suy dinh dưỡng."
+    },
+    {
+      "name": "Ngứa vùng hậu môn",
+      "description": "Ngứa hậu môn là đặc trưng của người nhiễm giun, đặc biệt là giun kim. Người nhiễm thường bị ngứa quanh hậu môn vào ban đêm, khi giun cái đẻ trứng."
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Phần lớn ký sinh trùng sau khi ký sinh vào cơ thể người sẽ hút máu của vật chủ để duy trì sự sống, phát triển và sinh sôi. Do đó, người nhiễm ký sinh trùng không được phát hiện có thể dẫn đến tình trạng thiếu máu, mệt mỏi."
+    },
+    {
+      "name": "Thay đổi tính cách",
+      "description": "Nếu nhiễm ký sinh trùng, tâm lý của người bệnh sẽ thay đổi trở nên lo lắng, bất an, thậm chí ảnh hưởng thần kinh qua các biểu hiện kém tập trung, suy giảm trí nhớ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nhiễm ký sinh trùng do các loại ký sinh trùng như giun, sán, bọ chét, chí, ve, rận xâm nhập vào cơ thể người. Đây là bệnh phổ biến tại các quốc gia có khí hậu nhiệt đới, nóng ẩm như Việt Nam.",
+    "related_factors": "Tại Việt Nam do điều kiện khí hậu và tập tục sinh hoạt của một số địa phương còn lạc hậu dễ tạo điều kiện cho các loại ký sinh trùng phát triển. Điển hình như việc lấy phân động vật bón cho cây trồng như rau, cây ăn trái chưa qua xử lý, tạo điều kiện ký sinh trùng xâm nhiễm. Ngoài ra, nhiều người không tuân thủ ăn chín, uống sôi.",
+    "transmission_routes": [
+      "Đường tiêu hóa: Ký sinh trùng có thể có mặt trong thực phẩm hoặc nguồn nước, khi ăn thực phẩm chưa nấu chín, nước uống chưa nấu sôi",
+      "Tiếp xúc bề mặt da: Một số loài ký sinh trùng tấn công vào cơ thể thông qua tiếp xúc bề mặt da như bọ chét, chí, rận, ve",
+      "Lây qua động vật: Nhiều loài ký sinh sống trên động vật như giun đũa của chó, mèo, khi chúng ta ôm hôn, vuốt ve, tiếp xúc với động vật, vô tình sẽ nhiễm bệnh",
+      "Du lịch: Khi đi du lịch, tham quan đến các địa điểm có các loại ký sinh trùng đặc trưng cho khu vực đó"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sống ở vùng nhiệt đới, cận nhiệt đới có khí hậu nóng ẩm",
+    "Thói quen ăn thịt tái, đồ sống như thịt bò, thịt heo, cá, cua, ếch hay rau sống chưa được xử lý kỹ",
+    "Lấy phân động vật bón cho cây trồng chưa qua xử lý",
+    "Không tuân thủ ăn chín, uống sôi",
+    "Vệ sinh cá nhân kém, không rửa tay thường xuyên",
+    "Du lịch đến vùng có nguy cơ nhiễm ký sinh trùng cao",
+    "Thói quen ngậm hay mút tay, sờ tay lên vùng mắt, mũi miệng",
+    "Sử dụng chung đồ dùng cá nhân không vệ sinh kỹ"
+  ],
+  "complications": [
+    "Giun đi lạc chỗ đến cơ quan quan trọng",
+    "Tắc ruột, tắc ống mật",
+    "Viêm màng não",
+    "Rối loạn tim mạch",
+    "Viêm phổi, viêm ruột",
+    "Thiếu máu, suy dinh dưỡng",
+    "Tử vong ở người suy giảm miễn dịch nếu không phát hiện và điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xét nghiệm ký sinh trùng là biện pháp được sử dụng nhiều nhất để chẩn đoán chính xác nhất về loại ký sinh trùng trong cơ thể",
+      "Tùy mỗi loại ký sinh trùng khác nhau, sẽ có phương pháp xét nghiệm phù hợp"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm phân",
+        "description": "Xét nghiệm tìm ký sinh trùng đường ruột để tìm trứng, ấu trùng, kén (bào nang), thể hoạt động của ký sinh trùng đào thải qua phân. Phương pháp này thường dùng kính hiển vi quan sát."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Có 2 phương pháp: xét nghiệm huyết thanh học giúp tìm kháng thể hoặc kháng nguyên của ký sinh trùng, và phết máu ngoại vi để kiểm tra bạch cầu ái toan trong máu tăng cao hay không."
+      },
+      {
+        "name": "Xét nghiệm mẫu da, tóc, móng, dịch tiết",
+        "description": "Tùy từng loại ký sinh trùng sẽ có phương pháp xét nghiệm mẫu khác nhau, như sử dụng kỹ thuật nhuộm mực, nuôi cấy mô tìm các vi nấm."
+      },
+      {
+        "name": "Nội soi đại tràng",
+        "description": "Nội soi đại tràng với máy móc hiện đại, camera sắc nét, chức năng phóng đại sẽ giúp phát hiện ký sinh trùng trong đường ruột."
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "X-quang, MRI, CT, siêu âm để chẩn đoán hỗ trợ các tổn thương, biến chứng mà ký sinh trùng tấn công các cơ quan chủ chốt như tim, gan, phổi, não."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị nhiễm ký sinh trùng tùy thuộc vào từng loại ký sinh trùng cụ thể. Một số bệnh ký sinh trùng có thể điều trị tại nhà, một số cần can thiệp điều trị tại cộng đồng, và một số trường hợp nghiêm trọng phải điều trị tại cơ sở y tế theo phác đồ của Bộ Y tế.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị tại nhà",
+        "description": "Với các trường hợp nhẹ, có thể điều trị tại nhà bằng thuốc tẩy giun sán theo chỉ định của bác sĩ."
+      },
+      {
+        "name": "Điều trị tại cộng đồng",
+        "description": "Một số chương trình tẩy giun sán được thực hiện tại cộng đồng, đặc biệt ở các vùng có tỷ lệ nhiễm cao."
+      },
+      {
+        "name": "Điều trị tại cơ sở y tế",
+        "description": "Với các trường hợp nghiêm trọng, người bệnh cần được điều trị tại bệnh viện theo phác đồ của Bộ Y tế, có thể bao gồm thuốc kháng sinh, thuốc kháng ký sinh trùng, hoặc can thiệp phẫu thuật nếu cần."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Hoàn thành đầy đủ liệu trình điều trị theo chỉ định của bác sĩ",
+      "Thực hiện tẩy giun định kỳ theo hướng dẫn",
+      "Tăng cường vệ sinh cá nhân và môi trường xung quanh",
+      "Ăn uống đủ chất dinh dưỡng để nâng cao sức đề kháng",
+      "Thực hiện tái khám theo lịch để đảm bảo việc điều trị hiệu quả"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người bệnh nếu cần thiết",
+      "Không dùng chung đồ dùng cá nhân",
+      "Giữ gìn vệ sinh cá nhân, thường xuyên rửa tay",
+      "Xử lý phân người và động vật đúng cách",
+      "Vệ sinh nguồn nước và thực phẩm sạch sẽ"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa nhiễm ký sinh trùng",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Rèn luyện thói quen giữ gìn vệ sinh cá nhân: cắt móng tay gọn gàng, bỏ thói quen ngậm hay mút tay, rửa tay thường xuyên",
+      "Dùng bộ đồ vệ sinh cá nhân riêng: bàn chải đánh răng, khăn mặt, lược chải đầu",
+      "Thực hiện ăn chín uống sôi, không ăn thực phẩm tươi sống",
+      "Thường xuyên vệ sinh đồ dùng cá nhân: đồ chơi, quần áo, vật dụng cá nhân",
+      "Tẩy giun định kỳ cho trẻ em và người lớn (ngoại trừ trẻ nhỏ dưới 1 tuổi và phụ nữ mang thai trong 3 tháng đầu thai kỳ)",
+      "Trang bị kín khi đi khám phá những nơi hoang dã",
+      "Tránh ăn uống tại các hàng quán không đảm bảo vệ sinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhiễm ký sinh trùng có nguy hiểm không?",
+      "answer": "Nhiễm ký sinh trùng có thể gây nhiều biến chứng nguy hiểm nếu không được phát hiện và chữa trị kịp thời. Các biến chứng bao gồm: giun đi lạc chỗ đến các cơ quan quan trọng, tắc ruột, tắc ống mật, viêm màng não, rối loạn tim mạch, viêm phổi, viêm ruột, thiếu máu, suy dinh dưỡng. Đặc biệt, với người bệnh suy giảm miễn dịch, nhiễm ký sinh trùng có thể dẫn đến tử vong nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa nhiễm ký sinh trùng?",
+      "answer": "Để phòng ngừa nhiễm ký sinh trùng, bạn nên: thực hiện ăn chín uống sôi; rửa tay thường xuyên trước khi ăn, khi chế biến thức ăn, sau khi đi vệ sinh; cắt móng tay gọn gàng, sạch sẽ; vệ sinh đồ dùng cá nhân thường xuyên; tẩy giun định kỳ; trang bị kín khi đi khám phá những nơi hoang dã; tránh ăn uống tại các hàng quán không đảm bảo vệ sinh."
+    },
+    {
+      "question": "Làm sao để biết mình bị nhiễm ký sinh trùng?",
+      "answer": "Nhiễm ký sinh trùng có thể có các dấu hiệu như: sốt kéo dài, rối loạn tiêu hóa (tiêu chảy, đầy hơi, chướng bụng), ngứa hoặc nổi mề đay, sụt cân, suy dinh dưỡng, ngứa vùng hậu môn (đặc biệt vào ban đêm), thiếu máu, thay đổi tính cách. Tuy nhiên, nhiều trường hợp, bệnh không có triệu chứng rõ ràng và chỉ được phát hiện khi đi khám sức khỏe định kỳ hoặc xét nghiệm phân, máu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sốt kéo dài, có thể sốt cao kèm cơ thể rét run. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiem-ky-sinh-trung", "sot-ret", "viem-gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy rối loạn tiêu hóa hoặc có các biểu hiện tiêu chảy, đầy hơi, chướng bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-ky-sinh-trung",
+        "roi-loan-tieu-hoa",
+        "viem-ruot"
+      ]
+    },
+    {
+      "question": "Tôi hay bị phát ban đỏ, chàm, dị ứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiem-ky-sinh-trung", "di-ung", "viem-da"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sụt cân, suy dinh dưỡng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-ky-sinh-trung",
+        "suy-dinh-duong",
+        "dai-thao-duong"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa vùng hậu môn, đặc biệt là vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiem-ky-sinh-trung", "giun-kim", "ngua-hau-mon"]
     }
   ]
 }

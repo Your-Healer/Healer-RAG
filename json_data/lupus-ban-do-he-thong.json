@@ -1,58 +1,245 @@
 {
   "disease_id": "lupus-ban-do-he-thong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Lupus ban đỏ hệ thống",
+  "disease_alternative_names": [
+    "SLE",
+    "Lupus",
+    "Systemic Lupus Erythematosus",
+    "Bệnh lupus toàn thân"
+  ],
+  "disease_definition": "Lupus ban đỏ hệ thống, hay còn được gọi là SLE hoặc lupus, là một bệnh mạn tính kéo dài có thể biểu hiện ở bất kỳ cơ quan nào trong cơ thể. Đôi khi lupus được gọi là \"the great imitator\" (\"kẻ bắt chước vĩ đại\"), vì người ta thường nhầm bệnh này với các vấn đề sức khỏe khác. Hầu hết bệnh nhân cảm thấy mệt mỏi và xuất hiện vết hồng ban hình cánh bướm, đau, sưng khớp và sốt.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau khớp",
+      "description": "Khớp đau, cứng và sưng tấy, đặc biệt là vào buổi sáng. Mức độ có thể nhẹ và dần dần tăng nặng với các biểu hiện rõ ràng hơn, các triệu chứng này cũng có thể đến và tự thoái lui trong một khoảng thời gian."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Có đến 90% người bị lupus ban đỏ chia sẻ rằng họ đã trải qua những giai đoạn vô cùng mệt mỏi. Nhiều người ngủ quá nhiều vào buổi trưa và mất ngủ vào buổi tối, tình trạng này kéo dài dẫn đến suy nhược cơ thể."
+    },
+    {
+      "name": "Sốt không rõ nguyên nhân",
+      "description": "Đây là một trong những triệu chứng khởi phát và thường gặp ở những người bị bệnh, những cơn sốt nhẹ xảy ra thường xuyên và lặp đi lặp lại, vì là cơn sốt nhẹ nên nhiều người thờ ơ và bỏ qua nó."
+    },
+    {
+      "name": "Rụng tóc",
+      "description": "Rụng tóc, thậm chí rụng từng mảng tóc lớn lộ da đầu, đây là tình trạng xảy ra khi viêm da, không chỉ tóc mà ở một số người còn bị tình trạng thưa râu, lông mi, lông mày. Bệnh có thể làm tóc trở nên yếu, cứng và dễ gãy rụng."
+    },
+    {
+      "name": "Khô miệng, khô mắt",
+      "description": "Bệnh nhân có thể phát triển hội chứng Sjogren, đây là một hội chứng rối loạn tự miễn dịch khác, bệnh này làm cho các tuyến chịu trách nhiệm về nước mắt và nước bọt hoạt động sai, và các tế bào lympho có thể tích tụ trong các tuyến."
+    },
+    {
+      "name": "Phát ban trên da",
+      "description": "Phát ban dạng \"cánh bướm\" xuất hiện ở hơn 50% số người bị lupus ban đỏ. Phát ban chủ yếu xuất hiện trên má và sống mũi và trở nên xấu hơn khi tiếp xúc với ánh sáng mặt trời."
+    },
+    {
+      "name": "Loét miệng",
+      "description": "Xuất hiện các vết loét ở miệng hoặc mũi kéo dài từ vài ngày đến hơn một tháng."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng mặt trời",
+      "description": "Phản ứng nhạy cảm khi tiếp xúc với ánh nắng, có thể làm trầm trọng thêm các triệu chứng khác như phát ban."
+    },
+    {
+      "name": "Sưng hạch bạch huyết",
+      "description": "Các hạch bạch huyết trở nên sưng, to và có thể gây đau."
+    },
+    {
+      "name": "Vấn đề thần kinh",
+      "description": "Xuất hiện cơn đau đầu, suy nhược, tê, ngứa ran, co giật, các vấn đề về thị lực, trí nhớ và thay đổi tính cách."
+    },
+    {
+      "name": "Vấn đề tiêu hóa",
+      "description": "Bệnh nhân đau bụng, buồn nôn và nôn."
+    },
+    {
+      "name": "Vấn đề tim mạch",
+      "description": "Xuất hiện các vấn đề về van tim, viêm cơ tim hoặc nội mạc tim, màng ngoài tim."
+    },
+    {
+      "name": "Vấn đề hô hấp",
+      "description": "Tràn dịch màng phổi, khó thở, ho ra máu."
+    },
+    {
+      "name": "Hiện tượng Raynaud",
+      "description": "Tím lạnh đầu ngón tay và ngón chân khi tiếp xúc với nhiệt độ lạnh hoặc căng thẳng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Lupus ban đỏ hệ thống là bệnh tự miễn, hệ miễn dịch của cơ thể tấn công các mô lành mạnh. Thay vì tạo kháng thể phòng bệnh, hệ miễn dịch lại tự tấn công ngược lại các mô lành của cơ thể, dẫn tới quá trình viêm và tổn thương các mô trong hệ thống.",
+    "related_factors": "Bệnh được cho là do sự kết hợp giữa các yếu tố di truyền, nội tiết tố (đặc biệt là estrogen ở phụ nữ) và môi trường. Yếu tố môi trường có thể là virus, ánh nắng, dị ứng, ô nhiễm hay bụi. Người bệnh lupus cũng có thể suy giảm khả năng đào thải các tế bào cũ và bị tổn thương ra ngoài cơ thể.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ từ 15 đến 44 tuổi (phụ nữ mắc bệnh nhiều hơn nam giới với tỷ lệ 9:1)",
+    "Một số nhóm chủng tộc hoặc dân tộc nhất định (người Mỹ gốc Phi, người Mỹ gốc Á, người Tây Ban Nha/La tinh, người Mỹ bản địa, người dân đảo Thái Bình Dương)",
+    "Người có thành viên trong gia đình mắc bệnh lupus hoặc một bệnh tự miễn dịch khác",
+    "Tiếp xúc với tia cực tím từ mặt trời hoặc ánh đèn huỳnh quang",
+    "Sử dụng thuốc Sulfamid làm tăng nhạy cảm với ánh nắng",
+    "Nhiễm trùng, cảm lạnh hoặc bệnh do virus",
+    "Mệt mỏi, kiệt sức kéo dài",
+    "Căng thẳng cảm xúc, trải qua biến cố trong cuộc sống"
+  ],
+  "complications": [
+    "Xơ vữa động mạch",
+    "Nhồi máu cơ tim",
+    "Suy tim",
+    "Đột quỵ",
+    "Bệnh thận, suy thận",
+    "Viêm thận lupus, cần lọc máu hoặc ghép thận",
+    "Block tim bẩm sinh (ở trẻ sơ sinh mẹ bị lupus)",
+    "Tổn thương não và thần kinh",
+    "Tràn dịch màng phổi, viêm phổi",
+    "Viêm màng ngoài tim",
+    "Thiếu máu, giảm bạch cầu, giảm tiểu cầu"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác tiền sử và triệu chứng",
+      "Khám lâm sàng",
+      "Xét nghiệm máu",
+      "Xét nghiệm nước tiểu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kháng thể kháng nhân (ANA)",
+        "description": "Hầu hết các bệnh nhân mắc lupus ban đỏ đều cho kết quả dương tính với xét nghiệm này, giúp phát hiện kháng thể tấn công nhân tế bào của cơ thể."
+      },
+      {
+        "name": "Kháng thể kháng DNA chuỗi kép (anti-dsDNA)",
+        "description": "Xét nghiệm này giúp phát hiện kháng thể đặc hiệu cho lupus, thường liên quan đến tình trạng viêm thận."
+      },
+      {
+        "name": "Kháng thể anti-Smith (anti-Sm)",
+        "description": "Một loại kháng thể đặc hiệu khác giúp chẩn đoán lupus ban đỏ hệ thống."
+      },
+      {
+        "name": "Kháng thể kháng phospholipid",
+        "description": "Giúp đánh giá nguy cơ đông máu bất thường, một biến chứng của lupus."
+      },
+      {
+        "name": "Công thức máu toàn bộ",
+        "description": "Kiểm tra tình trạng thiếu máu, giảm bạch cầu hoặc giảm tiểu cầu, thường gặp trong lupus."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra sự xuất hiện của máu hoặc protein trong nước tiểu, dấu hiệu của tổn thương thận do lupus."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện nay vẫn chưa có phương pháp điều trị dứt điểm bệnh lupus. Tuy nhiên, do cải thiện khả năng chẩn đoán và quản lý bệnh, hầu hết những người mắc bệnh sẽ tiếp tục sống một cuộc sống bình thường. Việc điều trị chủ yếu là điều trị triệu chứng và mức độ nghiêm trọng, biến chứng của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc chống viêm và thuốc giảm đau",
+        "description": "Giúp làm giảm nhiều triệu chứng của bệnh lupus bằng cách giảm viêm và đau. Các thuốc này bao gồm Aspirin và Acetaminophen (Tylenol®). Đây là những loại thuốc phổ biến nhất được sử dụng để điều trị các triệu chứng lupus như sốt, viêm khớp hoặc viêm màng phổi."
+      },
+      {
+        "name": "Thuốc chống viêm không Steroid (NSAID)",
+        "description": "Bao gồm Ibuprofen (Motrin®), naproxen (Naprosyn®), indomethacin (Indocin®), nabumetone (Relafen®) và celecoxib (Celebrex®). Giúp giảm viêm, đặc biệt hữu ích cho chứng đau khớp và cứng khớp."
+      },
+      {
+        "name": "Corticosteroid",
+        "description": "Thuốc hoạt động giống như cortisol, một loại hormone tự nhiên do tuyến thượng thận sản xuất. Steroid hoạt động nhanh chóng để giảm sưng, nóng, đau liên quan đến viêm bằng cách làm giảm phản ứng của hệ thống miễn dịch. Prednisone là steroid được kê đơn phổ biến nhất cho bệnh lupus."
+      },
+      {
+        "name": "Thuốc chống sốt rét",
+        "description": "Hydroxychloroquine (Plaquenil®) và chloroquine (Aralen®) là thuốc được sử dụng cùng với steroid. Chúng cải thiện bệnh lupus bằng cách giảm sản xuất kháng thể, bảo vệ chống lại tác hại của tia cực tím và cải thiện các tổn thương trên da."
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch",
+        "description": "Được sử dụng để kiểm soát tình trạng viêm và hệ thống miễn dịch hoạt động quá mức. Chúng đặc biệt được sử dụng khi steroid không thể kiểm soát được các triệu chứng lupus, hoặc khi một người không thể dùng steroid liều cao."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi: Giúp giảm mệt mỏi, giảm nguy cơ bùng phát và giảm nhạy cảm với cơn đau",
+      "Tránh tiếp xúc trực tiếp với ánh nắng mặt trời và ánh sáng huỳnh quang",
+      "Bổ sung Vitamin D để ngăn ngừa loãng xương",
+      "Rửa tay thường xuyên để ngăn ngừa nhiễm trùng",
+      "Kiểm soát cơn đau bằng các biện pháp như tắm nước nóng, bồn tắm, châm cứu, yoga",
+      "Quản lý sức khỏe tâm thần, tìm kiếm lời khuyên từ chuyên gia sức khỏe tâm thần",
+      "Tập thể dục thường xuyên: Làm giảm độ cứng của cơ bắp, ngăn ngừa loãng xương, giảm căng thẳng",
+      "Tuân thủ kế hoạch điều trị và dùng thuốc theo quy định"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin để nâng cao hệ thống miễn dịch, tuy nhiên cần tham khảo ý kiến bác sĩ vì một số vắc xin có thể không phù hợp với người bệnh lupus.",
+      "recommended_for": [
+        "Người có nguy cơ cao mắc lupus",
+        "Người thân của bệnh nhân lupus"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế tiếp xúc ánh nắng mặt trời, sử dụng kem chống nắng",
+      "Mặc quần áo dài tay, đội khăn và mũ che chắn khi ra ngoài",
+      "Có lối sống khoa học, lành mạnh",
+      "Hạn chế dung nạp quá nhiều các thức ăn từ mỡ động vật",
+      "Kiêng các chất kích thích như rượu, bia, thuốc lá",
+      "Theo dõi sức khỏe thường xuyên nếu có tiền sử gia đình mắc bệnh tự miễn",
+      "Phát hiện sớm triệu chứng để được chẩn đoán và điều trị kịp thời"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Lupus ban đỏ có lây không?",
+      "answer": "Lupus ban đỏ là bệnh không lây nhiễm. Bạn không thể lây nhiễm nó từ người khác ngay cả khi tiếp xúc rất gần hoặc quan hệ tình dục. Các chuyên gia cho rằng căn bệnh tự miễn này bắt đầu do sự kết hợp giữa gen và môi trường và nội tiết trong cơ thể."
+    },
+    {
+      "question": "Lupus ban đỏ có nguy hiểm không?",
+      "answer": "Đây là một căn bệnh nguy hiểm vì tổn thương của bệnh xuất hiện ở nhiều mô và bộ phận của cơ thể và hiện nay vẫn chưa có thuốc đặc trị bệnh. Theo nghiên cứu, có khoảng 10-15% những người mắc bệnh lupus sẽ tử vong do các biến chứng của bệnh. Căn bệnh ảnh hưởng đến da, khớp, tim, phổi, thận; khiến toàn bộ cơ thể bị tàn phá."
+    },
+    {
+      "question": "Lupus ban đỏ có di truyền không?",
+      "answer": "Các nhà nghiên cứu đã tìm thấy hơn 50 gen mà họ tin rằng có liên quan đến tình trạng bệnh này. Những gen này thường thấy ở những người mắc bệnh lupus hơn những người không mắc bệnh. Hầu hết các gen này không được chứng minh là trực tiếp gây ra bệnh lupus nhưng chúng được cho là góp phần gây ra bệnh."
+    },
+    {
+      "question": "Bệnh lupus ban đỏ có sinh con được không?",
+      "answer": "Phụ nữ bị lupus ban đỏ có thể mang thai một cách an toàn nếu bệnh được kiểm soát. Bệnh nhân nên được kiểm soát hoặc lui bệnh trong sáu tháng trước khi mang thai. Mang thai khi bệnh lupus đang hoạt động có thể dẫn đến sẩy thai, thai chết lưu hoặc các vấn đề sức khỏe nghiêm trọng khác. Mang thai rất rủi ro đối với phụ nữ lupus bị huyết áp cao, bệnh phổi, suy tim, suy thận mạn tính, bệnh thận hoặc tiền sử tiền sản giật."
+    },
+    {
+      "question": "Bệnh lupus ban đỏ có ngứa không?",
+      "answer": "Phần lớn người bệnh bị lupus ban đỏ không có cảm giác ngứa, hoặc ngứa rất ít, mặc dù bệnh thường có các phát ban trên da."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau khớp, mệt mỏi và sốt nhẹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lupus-ban-do-he-thong",
+        "viem-khop-dang-thap",
+        "sot-xuat-huyet"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức cơ, rụng tóc và phát ban hình cánh bướm trên mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lupus-ban-do-he-thong",
+        "lupus-ban-do-dang-dia",
+        "viem-da-co"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khớp vào buổi sáng, mệt mỏi kéo dài và sưng hạch bạch huyết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lupus-ban-do-he-thong",
+        "viem-khop-dang-thap",
+        "lymphoma"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khô mắt, khô miệng và phát ban trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lupus-ban-do-he-thong",
+        "hoi-chung-sjogren",
+        "viem-da-co-dia"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu, loét miệng và nhạy cảm với ánh sáng mặt trời. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lupus-ban-do-he-thong", "migraine", "nong-ran-da"]
     }
   ]
 }

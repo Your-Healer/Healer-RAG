@@ -1,39 +1,130 @@
 {
   "disease_id": "hoi-chung-loi-thoat-long-nguc",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng lối thoát lồng ngực",
+  "disease_alternative_names": [
+    "Thoracic Outlet Syndrome",
+    "TOS",
+    "Hội chứng đầu ra lồng ngực"
+  ],
+  "disease_definition": "Hội chứng lối thoát lồng ngực là tập hợp các rối loạn xảy ra khi các dây thần kinh hoặc mạch máu bị nén bởi xương sườn, xương đòn hoặc cơ cổ ở đầu lối thoát lồng ngực. Lối thoát lồng ngực bao gồm không gian từ hố thượng đòn đến hố nách, được tạo thành bởi các xương sườn trên cùng, ngay dưới xương đòn. Đặc trưng bởi đau và dị cảm tại bàn tay, cổ, vai, hoặc cánh tay.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau hoặc yếu ở vai và cánh tay",
+      "description": "Triệu chứng phổ biến của TOS thần kinh (nTOS), thường trở nên tồi tệ hơn khi cánh tay được giơ lên."
+    },
+    {
+      "name": "Ngứa ran hoặc khó chịu ở các ngón tay",
+      "description": "Cảm giác tê hoặc châm chích ở đầu ngón tay, triệu chứng điển hình của nTOS."
+    },
+    {
+      "name": "Teo cơ lòng bàn tay",
+      "description": "Teo - co rút và yếu đệm ngón tay cái, cơ của lòng bàn tay, ngón cái (hiếm gặp, còn gọi là bàn tay Gilliatt-Sumner)."
+    },
+    {
+      "name": "Phù (sưng) cánh tay, bàn tay hoặc các ngón tay",
+      "description": "Triệu chứng thường gặp của TOS tĩnh mạch (vTOS), có thể do cục máu đông."
+    },
+    {
+      "name": "Da tay xanh xao",
+      "description": "Màu sắc bàn tay và cánh tay hơi xanh xao, dấu hiệu của vTOS hoặc aTOS."
+    },
+    {
+      "name": "Đau nhói ở bàn tay và cánh tay",
+      "description": "Cảm giác đau nhói đặc biệt khi cánh tay chuyển động trên cao."
+    },
+    {
+      "name": "Các tĩnh mạch nổi rõ",
+      "description": "Tĩnh mạch xuất hiện nổi rõ ở vai, cổ và bàn tay, thường gặp trong vTOS."
+    },
+    {
+      "name": "Bàn tay lạnh và nhợt nhạt",
+      "description": "Triệu chứng phổ biến của TOS động mạch (aTOS)."
+    },
+    {
+      "name": "Thuyên tắc động mạch",
+      "description": "Tắc nghẽn động mạch ở bàn tay hoặc cánh tay, dấu hiệu nghiêm trọng của aTOS."
+    },
+    {
+      "name": "Yếu cánh tay hoặc cổ",
+      "description": "Triệu chứng thường gặp, đặc biệt là khi giữ tay ở tư thế cao lâu."
+    },
+    {
+      "name": "Khối u nhói gần xương đòn",
+      "description": "Có thể xuất hiện ở một số bệnh nhân TOS."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính là do chèn ép các dây thần kinh (đám rối thần kinh cánh tay) hoặc mạch máu (động mạch và tĩnh mạch dưới đòn, động mạch và tĩnh mạch nách) ở đường ra lồng ngực, ngay dưới xương đòn.",
+    "related_factors": "Chấn thương (tai nạn xe hơi), biến thể giải phẫu (xương sườn cổ, bất thường xương sườn), duy trì tư thế kéo dài không đúng ('tư thế khổ sở'), các chuyển động lặp đi lặp lại, áp lực quá mức lên các khớp (do béo phì, mang vác nặng), và thay đổi sinh lý trong thai kỳ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Vận động viên thể thao (bơi lội, ném bóng, bóng bầu dục)",
+    "Nhạc công (nghệ sĩ chơi vĩ cầm, thổi sáo)",
+    "Người có công việc đặc thù về cánh tay (thợ máy, thợ làm tóc, giáo viên, công nhân dây chuyền lắp ráp)",
+    "Người tập tạ sai cách gây mất cân bằng cơ bắp",
+    "Người làm nghề khuân vác nặng",
+    "Người có biến thể giải phẫu như xương sườn cổ",
+    "Người thường xuyên làm việc với tư thế đầu hướng về phía trước quá lâu",
+    "Người béo phì gây áp lực lên các khớp",
+    "Phụ nữ mang thai"
+  ],
+  "complications": [
+    "Huyết khối gắng sức (Hội chứng Paget-Schroetter)",
+    "Huyết khối tĩnh mạch sâu",
+    "Tắc nghẽn động mạch ở tay hoặc bàn tay",
+    "Phình động mạch dưới đòn",
+    "Nguy cơ tạo huyết khối, tắc mạch máu tim, phổi, não và thận",
+    "Teo cơ và suy yếu vĩnh viễn ở bàn tay nếu không được điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám lâm sàng", "Chẩn đoán hình ảnh"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm Doppler mạch máu",
+        "description": "Phương pháp không xâm lấn, có độ nhạy và độ đặc hiệu cao để đánh giá TOS mạch máu."
+      },
+      {
+        "name": "X-quang cổ - lồng ngực",
+        "description": "Giúp đánh giá các biến thể giải phẫu của xương vùng nền cổ."
+      },
+      {
+        "name": "CT có tiêm thuốc cản quang",
+        "description": "Đánh giá các bất thường của khung xương lồng ngực và phát hiện bất thường động mạch và tĩnh mạch như hẹp/tắc, huyết khối, phình động mạch."
+      },
+      {
+        "name": "MRI",
+        "description": "Đặc biệt hữu ích với TOS thần kinh, giúp đánh giá đám rối thần kinh cánh tay và các cấu trúc xung quanh, phát hiện phù nề thần kinh khi tay giơ lên cao."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Trong hầu hết các trường hợp, phương pháp điều trị bảo tồn sẽ có hiệu quả nếu được chẩn đoán sớm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Vật lý trị liệu",
+        "description": "Phương pháp điều trị đầu tiên cho hội chứng đầu ra lồng ngực do thần kinh. Bao gồm các bài tập tăng cường và kéo căng cơ vai để mở đường thoát khí ở ngực, cải thiện phạm vi chuyển động và cải thiện tư thế."
+      },
+      {
+        "name": "Sử dụng thuốc",
+        "description": "Bác sĩ có thể kê đơn thuốc chống viêm, thuốc giảm đau hoặc thuốc giãn cơ để giảm viêm, giảm đau và khuyến khích thư giãn cơ."
+      },
+      {
+        "name": "Thuốc làm tan cục máu đông",
+        "description": "Trong trường hợp hội chứng tĩnh mạch hoặc động mạch ngực và có cục máu đông, bác sĩ có thể kê thuốc làm tan cục máu đông (thuốc làm tan huyết khối), sau đó dùng thuốc chống đông máu."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong trường hợp nghiêm trọng hoặc khi các phương pháp không xâm lấn thất bại, có thể cần can thiệp phẫu thuật."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì tư thế tốt khi làm việc và sinh hoạt",
+      "Thường xuyên nghỉ giải lao tại nơi làm việc để di chuyển và căng cơ",
+      "Thực hiện các bài tập vật lý trị liệu đều đặn tại nhà",
+      "Tránh các hoạt động làm trầm trọng thêm triệu chứng",
+      "Thực hành các bài tập thư giãn như hít thở sâu, thiền và kéo giãn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +132,80 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì tư thế tốt khi làm việc và sinh hoạt hàng ngày",
+      "Thường xuyên nghỉ giải lao khi làm việc để di chuyển và căng cơ",
+      "Duy trì cân nặng hợp lý",
+      "Tránh mang vác túi, balo quá nặng trên vai",
+      "Tránh các hoạt động gây trầm trọng thêm triệu chứng",
+      "Nhẹ nhàng xoa bóp vai và vùng lối thoát lồng ngực",
+      "Đắp khăn nóng lên khu vực đau",
+      "Thực hành các bài tập thư giãn",
+      "Tăng cường và hỗ trợ các cơ xung quanh đường thoát lồng ngực"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng lối thoát lồng ngực có mấy loại?",
+      "answer": "Hội chứng TOS được phân thành 3 loại dựa trên sinh lý bệnh: TOS do thần kinh (nTOS) là loại phổ biến nhất, chiếm 90-95%, xảy ra khi thần kinh vùng đám rối bị chèn ép; TOS do tĩnh mạch (vTOS) xảy ra khi tĩnh mạch dưới xương đòn bị nén; TOS do động mạch (aTOS) hay hội chứng đầu ra lồng ngực tranh chấp, khi động mạch dưới xương đòn bị nén."
+    },
+    {
+      "question": "Hội chứng lối thoát lồng ngực có nguy hiểm không?",
+      "answer": "Trong một số trường hợp nghiêm trọng, bệnh nhân có thể đối diện với nguy cơ tử vong do tạo huyết khối, tắc mạch máu tim, phổi, não và thận. Đặc biệt khi xảy ra biến chứng như huyết khối tĩnh mạch sâu (Hội chứng Paget-Schroetter) hoặc phình động mạch dưới đòn. Việc chẩn đoán và điều trị sớm là rất quan trọng để phòng ngừa các biến chứng này."
+    },
+    {
+      "question": "Ai dễ mắc hội chứng lối thoát lồng ngực?",
+      "answer": "Những đối tượng dễ mắc hội chứng TOS bao gồm: vận động viên thể thao (bơi lội, ném bóng, bóng bầu dục); nhạc công (nghệ sĩ chơi vĩ cầm, thổi sáo); người có công việc đặc thù về cánh tay (thợ máy, thợ làm tóc, giáo viên, công nhân dây chuyền lắp ráp); người tập tạ sai cách gây mất cân bằng cơ bắp; và người làm nghề khuân vác nặng."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán hội chứng lối thoát lồng ngực?",
+      "answer": "Chẩn đoán TOS thường bắt đầu với thăm khám lâm sàng, kết hợp cùng các phương pháp chẩn đoán hình ảnh như siêu âm Doppler mạch máu, X-quang cổ – lồng ngực, CT có tiêm thuốc cản quang, và MRI. MRI đặc biệt hữu ích với TOS thần kinh, trong khi siêu âm Doppler mạch máu là lựa chọn hàng đầu cho TOS mạch máu do có độ nhạy và độ đặc hiệu cao, không xâm lấn và chi phí thấp."
+    },
+    {
+      "question": "Làm gì để phòng ngừa hội chứng lối thoát lồng ngực?",
+      "answer": "Để phòng ngừa TOS, cần duy trì tư thế tốt, thường xuyên nghỉ giải lao khi làm việc, duy trì cân nặng hợp lý, tránh mang vác túi/balo quá nặng trên vai, tránh các hoạt động gây trầm trọng thêm triệu chứng. Ngoài ra, nhẹ nhàng xoa bóp vai và đường thoát lồng ngực, đắp khăn nóng lên khu vực đau, và thực hành các bài tập thư giãn cũng rất hữu ích."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau hoặc yếu ở vai và cánh tay, ngứa ran hoặc khó chịu ở các ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-loi-thoat-long-nguc",
+        "thoai-hoa-dot-song-co",
+        "hoi-chung-ong-co-tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tê và yếu ở đệm ngón tay cái, cơ của lòng bàn tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-loi-thoat-long-nguc",
+        "hoi-chung-ong-co-tay",
+        "viem-day-than-kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau ở vai và cánh tay khi giơ tay lên cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-loi-thoat-long-nguc",
+        "viem-gan-bao-khop-vai",
+        "thoai-hoa-khop-vai"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng phù (sưng) cánh tay, bàn tay hoặc các ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-loi-thoat-long-nguc",
+        "huyet-khoi-tinh-mach-sau",
+        "phu-bach-huyet"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tê hoặc ngứa ran ở cánh tay hoặc ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-loi-thoat-long-nguc",
+        "hoi-chung-ong-co-tay",
+        "chen-ep-re-than-kinh"
+      ]
     }
   ]
 }

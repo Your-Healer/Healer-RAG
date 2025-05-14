@@ -1,39 +1,145 @@
 {
   "disease_id": "lupus-ban-do-dang-dia",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Lupus ban đỏ dạng đĩa",
+  "disease_alternative_names": [
+    "Discoid Lupus Erythematosus",
+    "DLE",
+    "Lupus da mạn tính"
+  ],
+  "disease_definition": "Lupus ban đỏ dạng đĩa (tên tiếng Anh là Discoid Lupus Erythematosus – DLE) là dạng lupus da mạn tính phổ biến nhất với những điểm đặc trưng như: các mảng vảy hình đĩa dai dẳng trên da đầu, mặt và tai; có thể gây ra các thay đổi sắc tố, sẹo và rụng tóc. Những bệnh nhân có thể kèm theo hiện tượng nhạy cảm với ánh sáng và có khuynh hướng bị teo thứ phát.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tổn thương hình tròn để lại sẹo",
+      "description": "Các mảng da đỏ, thô ráp, hình tròn xuất hiện trên da và có thể để lại sẹo sau khi lành."
+    },
+    {
+      "name": "Xuất hiện vảy dày trên da và da đầu",
+      "description": "Trên bề mặt da, đặc biệt là da đầu, xuất hiện các mảng vảy dày, dai dẳng."
+    },
+    {
+      "name": "Vùng tổn thương phồng rộp, bong tróc",
+      "description": "Các vùng da bị tổn thương có thể phồng rộp, bong tróc, nhất là quanh khuỷu tay và đầu ngón tay."
+    },
+    {
+      "name": "Da bị mỏng",
+      "description": "Vùng da bị tổn thương trở nên mỏng hơn bình thường."
+    },
+    {
+      "name": "Thay đổi sắc tố da",
+      "description": "Sắc tố da có thể sáng hơn hoặc tối hơn tại vùng bị tổn thương."
+    },
+    {
+      "name": "Da đầu dày lên, rụng tóc",
+      "description": "Da đầu bị dày lên, gây rụng tóc và tóc có thể không mọc lại ở những vùng bị tổn thương."
+    },
+    {
+      "name": "Móng tay giòn, dễ gãy",
+      "description": "Móng tay trở nên yếu, giòn và dễ gãy hơn."
+    },
+    {
+      "name": "Có vết loét bên trong môi",
+      "description": "Có thể xuất hiện các tổn thương dạng loét ở niêm mạc miệng, đặc biệt là bên trong môi."
+    },
+    {
+      "name": "Ngứa da",
+      "description": "Một số người có biểu hiện ngứa da tại vùng tổn thương."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Giống như tất cả các dạng lupus khác, lupus ban đỏ dạng đĩa không có một nguyên nhân rõ ràng, nhưng được xem là một bệnh tự miễn, trong đó hệ miễn dịch của cơ thể tấn công các mô lành mạnh.",
+    "related_factors": "Khuynh hướng di truyền, giới tính (phụ nữ mắc bệnh nhiều hơn nam giới), tiếp xúc với ánh sáng mặt trời, độc tố của khói thuốc lá, nội tiết tố, tình trạng căng thẳng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ (phụ nữ mắc bệnh nhiều hơn nam giới với tỷ lệ 5:1)",
+    "Độ tuổi (thường gặp ở phụ nữ từ 40-50 tuổi)",
+    "Chủng tộc (người Mỹ gốc Phi có tỷ lệ mắc cao hơn)",
+    "Tiếp xúc với ánh nắng mặt trời",
+    "Hút thuốc lá",
+    "Căng thẳng tâm lý",
+    "Nhiễm trùng",
+    "Chấn thương"
+  ],
+  "complications": [
+    "Viêm cơ, khớp gây hạn chế vận động",
+    "Tổn thương huyết học (thiếu máu, giảm tiểu cầu, giảm bạch cầu)",
+    "Tổn thương thận (tiểu đạm, tiểu máu, viêm thận lupus)",
+    "Rối loạn tâm thần kinh (đau đầu, chóng mặt, co giật, ảo giác)",
+    "Viêm màng ngoài tim, viêm cơ tim",
+    "Tổn thương phổi (viêm màng phổi, tràn dịch màng phổi)",
+    "Suy giảm miễn dịch",
+    "Tăng nguy cơ ung thư"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Xét nghiệm huyết thanh",
+      "Xét nghiệm nước tiểu",
+      "Sinh thiết da"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm kháng thể kháng nhân (ANA, ANF)",
+        "description": "Kiểm tra sự hiện diện của kháng thể kháng nhân trong máu, thường có hiệu giá thấp ở bệnh nhân lupus ban đỏ dạng đĩa."
+      },
+      {
+        "name": "Xét nghiệm kháng thể kháng hạt nhân có thể chiết xuất (ENA)",
+        "description": "Giúp phát hiện các kháng thể đặc hiệu khác nhau liên quan đến bệnh lupus."
+      },
+      {
+        "name": "Xét nghiệm kháng thể kháng phospholipid (APLs)",
+        "description": "Kiểm tra sự hiện diện của kháng thể kháng phospholipid trong máu."
+      },
+      {
+        "name": "Công thức máu hoàn chỉnh",
+        "description": "Xác định các bất thường về số lượng tế bào bạch cầu và hồng cầu."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Đánh giá ảnh hưởng của bệnh lupus đối với thận thông qua kiểm tra protein, albumin, creatinin và các chỉ số khác trong nước tiểu."
+      },
+      {
+        "name": "Sinh thiết da",
+        "description": "Lấy mẫu mô da để kiểm tra dưới kính hiển vi, giúp phát hiện các lắng đọng globulin miễn dịch IgM, IgG và bổ thể đặc trưng của bệnh lupus."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị lupus ban đỏ dạng đĩa nhằm giảm viêm, ngăn chặn sự tổn thương và kiểm soát các triệu chứng. Phác đồ điều trị thường được xây dựng theo trình tự từ liệu pháp tại chỗ đến toàn thân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc bôi Steroid",
+        "description": "Steroid được sử dụng để giúp giảm viêm. Bệnh nhân có thể bôi thuốc corticoid dạng mỡ, dạng kem hoặc được tiêm Steroid trực tiếp vào vùng da bị tổn thương. Cần sử dụng đúng liều lượng dưới sự giám sát y tế để tránh tác dụng phụ như làm mỏng da."
+      },
+      {
+        "name": "Thuốc bôi không Steroid",
+        "description": "Thuốc mỡ và kem bôi không steroid, như thuốc ức chế Calcineurin (tacrolimus), giúp giảm viêm. Có thể được kê đơn lẻ hoặc kết hợp với Methotrexate cho người lớn. Với trẻ em, cần sử dụng tiết chế."
+      },
+      {
+        "name": "Thuốc Pimecrolimus",
+        "description": "Thuốc dạng kem bôi không chứa steroid, có tác dụng kháng viêm và điều hòa hệ miễn dịch. Có thể điều trị ngắn hoặc dài hạn với một số tác dụng phụ như đau rát và tăng nguy cơ nhiễm trùng."
+      },
+      {
+        "name": "Thuốc chống sốt rét",
+        "description": "Các thuốc uống như hydroxychloroquine, chloroquine và quinacrine giúp giảm viêm hệ thống, giảm tăng sinh tế bào lympho, giảm sản xuất tự kháng thể và tạo hàng rào bảo vệ quang vật lý. Người bệnh nên kiểm tra mắt định kỳ hàng năm để tầm soát tác dụng phụ."
+      },
+      {
+        "name": "Thuốc Corticosteroid toàn thân",
+        "description": "Các thuốc như Prednisolone và Prednisone được sử dụng để kháng viêm, ức chế miễn dịch và ngăn tổn thương lan rộng. Cần lưu ý các tác dụng phụ như tăng nhãn áp, đục thủy tinh thể, loãng xương và loét dạ dày."
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch",
+        "description": "Thuốc như mycophenolate mofetil, azathioprine và tacrolimus giúp giảm sản xuất tế bào viêm, giảm đáp ứng miễn dịch quá mức, cải thiện tình trạng ngứa, sưng viêm và phù nề."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ hướng dẫn của bác sĩ khi dùng thuốc",
+      "Cẩn trọng với một số loại thuốc như kháng sinh và thuốc lợi tiểu có thể làm da nhạy cảm hơn với ánh nắng",
+      "Xây dựng chế độ dinh dưỡng cân bằng, giảm chất béo, cholesterol, muối, đường",
+      "Tăng cường rau xanh, trái cây, thực phẩm giàu chất chống oxy hóa, Omega-3, chất xơ, vitamin và khoáng chất",
+      "Tham khảo ý kiến bác sĩ trước khi sử dụng mỹ phẩm trang điểm",
+      "Tham khảo bác sĩ da liễu hoặc chuyên gia thẩm mỹ khi muốn xử lý các vết sẹo hay vùng da bị thay đổi sắc tố"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +147,65 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh tiếp xúc trực tiếp với ánh nắng mặt trời quá nhiều",
+      "Sử dụng kem chống nắng có chỉ số SPF70 hoặc cao hơn, bôi trước khi ra ngoài 30 phút và bôi lại sau mỗi 2 giờ hoặc khi bị ướt",
+      "Đội mũ và mặc quần áo bảo vệ da, ngay cả trong những ngày nhiều mây hay khu vực mát mẻ",
+      "Không hút thuốc lá vì các chất độc trong thuốc có thể làm trầm trọng thêm tình trạng bệnh",
+      "Giảm căng thẳng thông qua các hoạt động thư giãn và nghỉ ngơi hợp lý",
+      "Tránh các yếu tố kích thích có thể làm trầm trọng thêm bệnh như nhiễm trùng và chấn thương"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Lupus ban đỏ dạng đĩa có lây không?",
+      "answer": "Không, lupus ban đỏ dạng đĩa là một bệnh tự miễn không lây truyền từ người sang người. Bệnh xảy ra khi hệ thống miễn dịch tấn công các tế bào và mô lành mạnh của cơ thể."
+    },
+    {
+      "question": "Lupus ban đỏ dạng đĩa có chuyển thành lupus ban đỏ hệ thống không?",
+      "answer": "Có, khoảng 1% - 5% bệnh nhân lupus dạng đĩa có thể phát triển thành lupus ban đỏ hệ thống. Ngược lại, khoảng 25% bệnh nhân bị lupus ban đỏ hệ thống có thể phát triển các tổn thương điển hình trên da dạng đĩa tại một số thời điểm trong thời gian bị bệnh."
+    },
+    {
+      "question": "Ai là người dễ mắc bệnh lupus ban đỏ dạng đĩa?",
+      "answer": "Lupus ban đỏ dạng đĩa có thể ảnh hưởng đến nam và nữ ở mọi lứa tuổi nhưng hiếm gặp ở trẻ em. Bệnh đặc biệt phổ biến ở nữ giới, với tỷ lệ cao hơn gấp 5 lần nam giới và thường khởi phát ở độ tuổi trung niên (40-50 tuổi). Người Mỹ gốc Phi có tỷ lệ mắc bệnh cao hơn so với người da trắng."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa lupus ban đỏ dạng đĩa?",
+      "answer": "Để phòng ngừa lupus ban đỏ dạng đĩa, bạn nên: Tránh tiếp xúc trực tiếp với ánh nắng mặt trời quá nhiều; Sử dụng kem chống nắng có chỉ số SPF70 hoặc cao hơn; Đội mũ và mặc quần áo bảo vệ da; Không hút thuốc lá; Giảm căng thẳng; và Tránh các yếu tố kích thích như nhiễm trùng và chấn thương."
+    },
+    {
+      "question": "Liệu lupus ban đỏ dạng đĩa có thể chữa khỏi hoàn toàn không?",
+      "answer": "Lupus ban đỏ dạng đĩa là một bệnh mạn tính không thể chữa khỏi hoàn toàn, nhưng có thể kiểm soát tốt bằng các phương pháp điều trị hiện đại. Việc điều trị sớm và đúng cách có thể giúp giảm các triệu chứng, ngăn chặn tổn thương lan rộng và cải thiện chất lượng cuộc sống cho người bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mảng da đỏ, thô ráp và hình tròn trên cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lupus-ban-do-dang-dia", "vay-nen", "viem-da-co-dia"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa da, da đầu dày lên và rụng tóc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lupus-ban-do-dang-dia", "viem-da-dau", "nam-da-dau"]
+    },
+    {
+      "question": "Tôi hay bị tổn thương da bong tróc, phồng rộp quanh khuỷu tay và đầu ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lupus-ban-do-dang-dia",
+        "viem-da-co-dia",
+        "benh-eczema"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như vảy da dày trên da đầu và da bị mỏng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lupus-ban-do-dang-dia",
+        "vay-nen-da-dau",
+        "viem-da-dau"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tổn thương da hình tròn, để lại sẹo và thay đổi sắc tố da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lupus-ban-do-dang-dia", "benh-bach-bien", "nam-da"]
     }
   ]
 }

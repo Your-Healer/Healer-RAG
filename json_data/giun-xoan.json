@@ -1,58 +1,169 @@
 {
   "disease_id": "giun-xoan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Bệnh giun xoắn",
+  "disease_alternative_names": ["Trichinellosis", "Trichinella Spiralis"],
+  "disease_definition": "Bệnh giun xoắn là bệnh ký sinh trùng gây ra bởi giun xoắn (Trichinella Spiralis), lây nhiễm do ăn thịt sống hoặc chưa nấu chín, chủ yếu là thịt heo có chứa ấu trùng ký sinh trùng. Người nhiễm bệnh có thể gặp các triệu chứng tiêu hóa, đau cơ, sốt toàn thân và có thể dẫn đến các biến chứng nghiêm trọng như viêm cơ tim, viêm não.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Rối loạn tiêu hóa",
+      "description": "Đau bụng, tiêu chảy kéo dài 1-2 ngày khi giun trưởng thành ký sinh trong ruột."
+    },
+    {
+      "name": "Sốt cao",
+      "description": "Sốt cao xuất hiện khi ấu trùng di chuyển trong cơ thể."
+    },
+    {
+      "name": "Đau cơ và khớp",
+      "description": "Đau ở các cơ, khớp khi ấu trùng di chuyển và tấn công cơ vân."
+    },
+    {
+      "name": "Khó nhai, nuốt, thở",
+      "description": "Khó khăn khi nhai, nuốt và thở do ấu trùng ký sinh ở các cơ liên quan."
+    },
+    {
+      "name": "Phù ở mặt và mí mắt",
+      "description": "Sưng phù ở vùng mặt và mí mắt, thường xuất hiện trong giai đoạn ấu trùng di chuyển."
+    },
+    {
+      "name": "Suy nhược cơ thể",
+      "description": "Cảm giác suy nhược nhanh chóng, mệt mỏi rõ rệt."
+    },
+    {
+      "name": "Ngứa và cảm giác như kiến bò",
+      "description": "Ngứa da, cảm giác như có kiến bò, thường xuất hiện khi ấu trùng hóa nang."
+    },
+    {
+      "name": "Mất ngủ và đổ mồ hôi",
+      "description": "Khó ngủ và đổ mồ hôi nhiều, thường xuất hiện trong giai đoạn ấu trùng hóa nang."
+    },
+    {
+      "name": "Da nổi đốm xuất huyết",
+      "description": "Các đốm xuất huyết trên da, xuất hiện trong giai đoạn ấu trùng hóa nang."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Ăn thịt động vật (đặc biệt là thịt heo) còn sống hoặc chưa nấu chín có chứa ấu trùng giun xoắn.",
+    "related_factors": "Ấu trùng giun xoắn được giải phóng khỏi kén tại dạ dày, di chuyển đến ruột non, phát triển thành giun trưởng thành và bắt đầu chu trình sinh sản, tạo ra ấu trùng mới xâm nhập vào các cơ.",
+    "transmission_routes": [
+      "Qua đường ăn uống, nhất là thói quen ăn tiết canh heo, thịt heo còn sống, ăn thịt tái có nhiễm ấu trùng giun xoắn."
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Du lịch hoặc sống trong vùng dịch tễ có bệnh giun xoắn lưu hành",
+    "Thói quen ăn tiết canh heo, thịt heo nấu chưa chín",
+    "Ăn các món gỏi, tái từ thịt heo chưa chín",
+    "Săn bắt và ăn thịt động vật hoang dã"
+  ],
+  "complications": [
+    "Viêm cơ tim",
+    "Loạn nhịp tim",
+    "Viêm phổi",
+    "Viêm thận",
+    "Viêm não",
+    "Tiêu chảy mạn tính",
+    "Trong trường hợp nặng có thể dẫn đến tử vong do suy tim"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xét nghiệm máu phát hiện tăng bạch cầu ái toan",
+      "Sinh thiết cơ tìm ấu trùng giun xoắn",
+      "Xét nghiệm tìm kháng thể ấu trùng giun xoắn trong máu bằng phương pháp ELISA"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra mức độ tăng bạch cầu ái toan, với người bệnh thể nhẹ tăng 15%-30%, thể nặng tăng 50%-60%."
+      },
+      {
+        "name": "Sinh thiết cơ",
+        "description": "Lấy mẫu mô cơ để tìm kiếm ấu trùng hoặc kén giun xoắn."
+      },
+      {
+        "name": "Phương pháp ELISA",
+        "description": "Phát hiện kháng thể chống lại ấu trùng giun xoắn trong máu."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Bệnh giun xoắn điều trị dễ dàng với thuốc đặc hiệu nếu được phát hiện sớm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc diệt ký sinh trùng",
+        "description": "Sử dụng các thuốc đặc hiệu như Praziquantel, Albendazole, Thiabendazole, thường kéo dài từ 5-7 ngày."
+      },
+      {
+        "name": "Điều trị hỗ trợ",
+        "description": "Bù nước, điện giải, dùng thuốc hạ sốt để giảm triệu chứng."
+      },
+      {
+        "name": "Điều trị giảm viêm",
+        "description": "Sử dụng thuốc corticoid để giảm đau, giảm sưng viêm trong trường hợp nặng."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ đúng liệu trình điều trị",
+      "Tái khám để đánh giá hiệu quả điều trị",
+      "Thay đổi thói quen ăn uống để tránh tái nhiễm"
+    ],
+    "prevention_of_transmission": [
+      "Bệnh không lây truyền trực tiếp từ người sang người"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không ăn tiết canh heo hoặc thịt heo chưa nấu chín",
+      "Nấu chín kỹ thịt ở nhiệt độ ít nhất 77 độ C để tiêu diệt ấu trùng giun xoắn",
+      "Hạn chế sử dụng thịt hun khói, thui nóng vì những phương pháp này không đủ để tiêu diệt ấu trùng",
+      "Tránh săn bắt động vật hoang dã, vì chúng dễ nhiễm giun xoắn",
+      "Nâng cao ý thức về an toàn thực phẩm trong cộng đồng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Giun xoắn có lây từ người sang người không?",
+      "answer": "Không, giun xoắn không lây trực tiếp từ người này sang người khác. Bệnh lây truyền qua đường ăn uống, chủ yếu do ăn thịt động vật, nhất là thịt heo còn sống, chưa nấu chín có chứa ấu trùng giun xoắn."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa nhiễm giun xoắn?",
+      "answer": "Để phòng ngừa nhiễm giun xoắn, cần tránh ăn tiết canh heo, thịt heo sống hoặc chưa nấu chín. Thịt cần được nấu ở nhiệt độ ít nhất 77 độ C để tiêu diệt ấu trùng giun xoắn. Hạn chế sử dụng thịt hun khói, thui nóng vì những phương pháp này không đủ để tiêu diệt ấu trùng."
+    },
+    {
+      "question": "Bệnh giun xoắn có nguy hiểm không?",
+      "answer": "Có, bệnh giun xoắn có thể nguy hiểm, đặc biệt nếu không được điều trị kịp thời. Bệnh có thể gây ra các biến chứng nghiêm trọng như viêm cơ tim, loạn nhịp tim, viêm phổi, viêm thận, viêm não và trong trường hợp nặng có thể dẫn đến tử vong. Thế giới đã ghi nhận nhiều ca tử vong do giun xoắn, Việt Nam có ít nhất 8 ca tử vong trong 126 người mắc bệnh."
+    },
+    {
+      "question": "Triệu chứng của bệnh giun xoắn là gì?",
+      "answer": "Bệnh giun xoắn thường trải qua 3 giai đoạn với các triệu chứng: Giai đoạn đầu với rối loạn tiêu hóa như đau bụng, tiêu chảy; giai đoạn hai khi ấu trùng di chuyển trong cơ có triệu chứng sốt cao, suy nhược, đau cơ và khớp, khó nhai/nuốt/thở, phù mặt và mí mắt; giai đoạn cuối khi ấu trùng hóa nang với triệu chứng suy kiệt, ngứa, cảm giác kiến bò, mất ngủ, đổ mồ hôi, phù nề mặt, và xuất huyết da."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang bị đau bụng, tiêu chảy và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "giun-xoan",
+        "roi-loan-tieu-hoa",
+        "ngo-doc-thuc-pham"
+      ]
+    },
+    {
+      "question": "Tôi bị sốt cao, đau nhức cơ thể và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["giun-xoan", "viem-phoi", "cum"]
+    },
+    {
+      "question": "Tôi cảm thấy mệt mỏi, suy nhược và phù nề ở mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["giun-xoan", "suy-than", "di-ung"]
+    },
+    {
+      "question": "Tôi bị đau bụng, buồn nôn và nôn ra giun. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["giun-xoan", "giun-dua", "giun-kim"]
+    },
+    {
+      "question": "Tôi cảm thấy ngứa ngáy khắp người, khó ngủ và đổ mồ hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["giun-xoan", "viem-da", "di-ung"]
     }
   ]
 }

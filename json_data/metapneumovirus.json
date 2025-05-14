@@ -1,58 +1,166 @@
 {
   "disease_id": "metapneumovirus",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Metapneumovirus",
+  "disease_alternative_names": ["Human Metapneumovirus", "hMPV"],
+  "disease_definition": "Metapneumovirus (Human Metapneumovirus – hMPV) ở người là một chủng virus thuộc họ Paramyxovirus (cùng họ với virus hợp bào hô hấp) được phát hiện vào năm 2001 bởi các nhà khoa học ở Hà Lan. Đây là một trong những virus gây viêm đường hô hấp cấp ở mọi lứa tuổi, bao gồm viêm đường hô hấp trên và viêm đường hô hấp dưới. Virus này lây lan nhanh chóng vào mùa đông và đầu mùa xuân.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Giai đoạn đầu (sau 3-5 ngày ủ bệnh)",
+      "description": "Các triệu chứng ban đầu giống cảm lạnh thông thường bao gồm ho, nghẹt mũi, sổ mũi, rát họng và sốt nhẹ."
+    },
+    {
+      "name": "Giai đoạn nặng hơn (viêm đường hô hấp dưới)",
+      "description": "Có thể xuất hiện các triệu chứng nghiêm trọng hơn như sốt cao, khò khè, ho có đờm đặc, khó thở, da tím tái và có dấu hiệu suy hô hấp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Metapneumovirus ở người là một chủng virus thuộc họ Paramyxovirus gây ra bệnh viêm đường hô hấp cấp tính.",
+    "related_factors": "Khoảng 10-12% trẻ mắc bệnh về đường hô hấp do Metapneumovirus gây ra. Phần lớn các trường hợp này đều dưới 5 tuổi, trong đó, có khoảng 5-16% trẻ bị viêm đường hô hấp dưới (viêm phổi).",
+    "transmission_routes": [
+      "Lây truyền trực tiếp từ người này sang người khác thông qua các giọt bắn có chứa virus được người bệnh giải phóng ra khỏi cơ thể khi ho, hắt hơi, sổ mũi, nói chuyện",
+      "Virus có thể tồn tại khá lâu trong không khí, trên các bề mặt, đồ vật và xâm nhập vào cơ thể khi tiếp xúc với chúng"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ nhỏ dưới 5 tuổi, nhất là trẻ sơ sinh",
+    "Người lớn tuổi, trên 65 tuổi",
+    "Người có hệ thống miễn dịch suy yếu",
+    "Người có tiền sử mắc bệnh phổi, hen suyễn, khí phế thũng",
+    "Bệnh nhân COPD",
+    "Người đang thực hiện hóa trị hay đã từng thực hiện phẫu thuật ghép tạng"
+  ],
+  "complications": [
+    "Viêm phế quản phổi",
+    "Viêm phổi nặng gây suy hô hấp",
+    "Viêm tiểu phế quản",
+    "Khởi phát những cơn hen cấp ở bệnh nhân có bệnh nền là hen phế quản"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng và kiểm tra tiền sử bệnh",
+      "Thu thập mẫu dịch tiết từ mũi hoặc cổ họng của bệnh nhân",
+      "Nội soi phế quản trong một số trường hợp"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm kháng nguyên nhanh",
+        "description": "Phát hiện nhanh sự hiện diện của virus trong mẫu bệnh phẩm"
+      },
+      {
+        "name": "Xét nghiệm PCR (phản ứng chuỗi polymerase)",
+        "description": "Phương pháp chính xác cao để phát hiện vật liệu di truyền của virus"
+      },
+      {
+        "name": "Panel 2 về các dị nguyên đường hô hấp",
+        "description": "Xét nghiệm này thường sẽ có kết quả trong vòng 24 giờ và giúp phát hiện ra các loại virus gây bệnh đường hô hấp, trong đó có Metapneumovirus"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Các bệnh lý do Metapneumovirus gây ra hiện vẫn chưa có thuốc đặc trị. Các phương pháp điều trị hiện có đều chủ yếu hướng đến điều trị các triệu chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị hạ sốt",
+        "description": "Trong trường hợp bệnh nhân sốt cao, trên 38.5 độ, có thể dùng Acetaminophen hoặc Ibuprofen với liều lượng phù hợp để hạ thân nhiệt"
+      },
+      {
+        "name": "Hỗ trợ hô hấp",
+        "description": "Thực hiện phương pháp thông mũi, khí dung; Hỗ trợ hô hấp bằng các biện pháp thở oxy khi bệnh nhân có tình trạng suy hô hấp; Nếu bệnh nhân suy hô hấp mức độ nặng, sẽ được hỗ trợ thở máy"
+      },
+      {
+        "name": "Bù nước và điện giải",
+        "description": "Đảm bảo bệnh nhân được bù đủ nước và điện giải để tránh tình trạng mất nước"
+      },
+      {
+        "name": "Các biện pháp hỗ trợ khác",
+        "description": "Vật lý trị liệu hỗ trợ hô hấp, điều trị dinh dưỡng để nâng cao thể trạng cho bệnh nhân"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ tại nhà",
+      "Bổ sung đủ nước",
+      "Ăn thực phẩm giàu dinh dưỡng và dễ tiêu hóa",
+      "Theo dõi sát các triệu chứng và tình trạng bệnh",
+      "Đến cơ sở y tế ngay khi có dấu hiệu chuyển nặng như khó thở, tím tái, sốt cao kéo dài"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người bệnh khi đang có triệu chứng",
+      "Đeo khẩu trang khi ho hoặc hắt hơi",
+      "Che miệng khi ho hoặc hắt hơi bằng khăn giấy và vứt bỏ đúng cách",
+      "Rửa tay thường xuyên bằng xà phòng hoặc dung dịch khử khuẩn"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện nay, Metapneumovirus chưa có vaccine phòng ngừa đặc hiệu.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện chế độ dinh dưỡng đủ chất",
+      "Cung cấp đủ nước cho cơ thể mỗi ngày",
+      "Tiêm phòng vaccine đầy đủ nhằm tăng sức đề kháng, giảm nguy cơ mắc bệnh",
+      "Tạo môi trường sống thông thoáng, sạch sẽ",
+      "Đeo khẩu trang khi đến những nơi đông người",
+      "Hạn chế đến những nơi đông người khi có dịch bệnh",
+      "Thường xuyên lau dọn, khử khuẩn các bề mặt trong gia đình, đồ dùng cá nhân và đồ chơi của trẻ",
+      "Xây dựng thói quen rửa tay hằng ngày, nhất là sau khi đi vệ sinh và trước khi ăn",
+      "Tập luyện thể dục, thể thao đều đặn mỗi ngày"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Metapneumovirus có nguy hiểm không?",
+      "answer": "Thông thường, các trường hợp mắc bệnh do nhiễm Metapneumovirus ở các thể bệnh nhẹ và có thể tự giới hạn sau khoảng 7 ngày khi được chăm sóc và hỗ trợ điều trị phù hợp. Tuy nhiên, một số trường hợp bệnh chuyển biến nặng có thể gây biến chứng như viêm phế quản phổi, viêm phổi nặng gây suy hô hấp, viêm tiểu phế quản. Những đối tượng có nguy cơ cao như trẻ nhỏ, người già, người có hệ miễn dịch suy yếu cần được theo dõi cẩn thận."
+    },
+    {
+      "question": "Khi nào nên đưa người bệnh Metapneumovirus đến bệnh viện?",
+      "answer": "Nên đưa bệnh nhân đến bệnh viện ngay khi có các dấu hiệu nghiêm trọng như sốt cao liên tục, khó thở, tím tái, mất nước, hoặc có dấu hiệu suy hô hấp. Đặc biệt với các đối tượng nguy cơ cao như trẻ nhỏ dưới 5 tuổi, người lớn tuổi trên 65 tuổi, người có hệ miễn dịch suy yếu cần được thăm khám sớm khi có triệu chứng."
+    },
+    {
+      "question": "Bệnh Metapneumovirus kéo dài bao lâu?",
+      "answer": "Sau khi nhiễm Metapneumovirus, bệnh thường có thời gian ủ bệnh khoảng 3-5 ngày. Với hầu hết các trường hợp, bệnh sẽ tự giới hạn sau khoảng 7 ngày khi được chăm sóc và điều trị phù hợp. Các triệu chứng nhẹ như ho, nghẹt mũi có thể kéo dài đến 1-2 tuần trong một số trường hợp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ho, nghẹt mũi, sổ mũi và rát họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "metapneumovirus",
+        "cam-cum",
+        "viem-hong",
+        "covid-19"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt nhẹ và ho. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "metapneumovirus",
+        "cam-cum",
+        "viem-hong",
+        "covid-19"
+      ]
+    },
+    {
+      "question": "Tôi hay khò khè và ho có đờm đặc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "metapneumovirus",
+        "viem-phoi",
+        "viem-phe-quan",
+        "hen-suyen"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó thở và da tím tái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "metapneumovirus",
+        "viem-phoi",
+        "suy-ho-hap",
+        "hen-suyen-cap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt cao và có dấu hiệu suy hô hấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["metapneumovirus", "viem-phoi", "covid-19", "cum"]
     }
   ]
 }

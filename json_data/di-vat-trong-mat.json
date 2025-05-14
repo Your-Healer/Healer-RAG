@@ -1,58 +1,364 @@
 {
   "disease_id": "di-vat-trong-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Dị Vật Trong Mắt",
+  "disease_alternative_names": [
+    "Dị vật mắt",
+    "Chấn thương dị vật mắt",
+    "Foreign body in the eye"
+  ],
+  "disease_definition": "Dị vật trong mắt là hiện tượng các vật thể bên ngoài rơi vào mắt, đó có thể là bụi, cát, côn trùng hay những đồ vật nhỏ trong cuộc sống hàng ngày, làm ảnh hưởng đến giác mạc hoặc kết mạc của mắt. Giác mạc là lớp trong suốt bên ngoài, phía trước mắt và cũng là phần dễ bị tổn thương nhất ở vùng mắt. Kết mạc là lớp mỏng bao phủ phần bên trong của mí mắt và phần lòng trắng của mắt.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhói trong mắt",
+      "description": "Cảm giác đau nhói, xót ở mắt khi có dị vật rơi vào."
+    },
+    {
+      "name": "Nóng rát và kích ứng",
+      "description": "Mắt có cảm giác nóng rát, khó chịu và bị kích thích liên tục."
+    },
+    {
+      "name": "Cảm giác có vật lạ trong mắt",
+      "description": "Luôn cảm thấy có thứ gì đó cộm ở trong mắt, khiến người bệnh khó chịu."
+    },
+    {
+      "name": "Chảy nước mắt và đỏ mắt",
+      "description": "Mắt bị kích thích tiết nước mắt nhiều và bị đỏ, nhằm làm trôi dị vật ra ngoài."
+    },
+    {
+      "name": "Nháy mắt liên tục",
+      "description": "Phản ứng tự nhiên của mắt khi có dị vật là chớp mắt liên tục để loại bỏ dị vật."
+    },
+    {
+      "name": "Cảm giác khó chịu khi chớp mắt",
+      "description": "Khi nhắm hoặc mở mắt, người bệnh cảm thấy đau hoặc khó chịu vì dị vật cọ xát vào mắt."
+    },
+    {
+      "name": "Mờ mắt hoặc mất thị lực",
+      "description": "Dị vật có thể gây cản trở tầm nhìn hoặc làm hỏng giác mạc, dẫn đến thị lực bị giảm sút."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Khi có dị vật trong mắt, người bệnh thường cảm thấy chói và khó chịu khi tiếp xúc với ánh sáng."
+    },
+    {
+      "name": "Chảy máu vào lòng trắng mắt",
+      "description": "Xuất huyết kết mạc có thể xảy ra khi dị vật gây tổn thương mạch máu trong mắt."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Dị vật trong mắt xảy ra khi các vật thể từ môi trường bên ngoài rơi, bay hoặc văng vào mắt, gây tổn thương hoặc kích ứng cho các cấu trúc của mắt như giác mạc và kết mạc.",
+    "related_factors": "Dị vật có thể vào mắt trong nhiều tình huống khác nhau, từ sinh hoạt thường ngày đến những hoạt động đặc thù như lao động, thể thao, hoặc do các yếu tố môi trường không thuận lợi.",
+    "transmission_routes": [
+      "Gió thổi bụi, cát bay vào mắt",
+      "Dị vật văng vào mắt khi làm việc với gỗ, kim loại, thủy tinh, xi măng",
+      "Côn trùng bay vào mắt",
+      "Mỹ phẩm rơi vào mắt",
+      "Kính áp tròng bị tuột vào trong mắt"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Làm việc trong môi trường nhiều bụi, mảnh vụn bay",
+    "Làm việc với máy móc không có thiết bị bảo hộ",
+    "Tham gia các hoạt động có nguy cơ cao như hàn xì, khoan cắt, mài",
+    "Chơi các môn thể thao tiếp xúc mạnh như bóng quần, quần vợt",
+    "Không đeo kính bảo hộ khi làm việc trong môi trường nguy hiểm",
+    "Đi ngoài trời có gió lớn mà không đeo kính",
+    "Sử dụng kính áp tròng không đúng cách"
+  ],
+  "complications": [
+    "Nhiễm trùng và sẹo giác mạc",
+    "Trầy xước giác mạc",
+    "Loét giác mạc",
+    "Áp xe giác mạc",
+    "Tổn thương nhãn cầu",
+    "Giảm thị lực tạm thời hoặc vĩnh viễn",
+    "Thủng nhãn cầu trong trường hợp nghiêm trọng",
+    "Xói mòn giác mạc tái phát",
+    "Sẹo giác mạc gây ảnh hưởng thị lực"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám mắt bằng đèn soi",
+      "Đánh giá tổn thương giác mạc và kết mạc",
+      "Kiểm tra thị lực",
+      "Xác định vị trí và loại dị vật"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra thị lực",
+        "description": "Đánh giá mức độ ảnh hưởng của dị vật đến khả năng nhìn."
+      },
+      {
+        "name": "Soi đèn khe",
+        "description": "Quan sát chi tiết cấu trúc mắt để phát hiện dị vật và đánh giá tổn thương."
+      },
+      {
+        "name": "Lật mi mắt",
+        "description": "Kiểm tra bên trong mi mắt để tìm dị vật có thể bị kẹt ở đó."
+      },
+      {
+        "name": "Nhỏ thuốc nhuộm Fluorescein",
+        "description": "Giúp phát hiện các vết trầy xước trên giác mạc do dị vật gây ra."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Thực hiện để kiểm tra xem dị vật đã đi vào nhãn cầu chưa, đặc biệt với các dị vật kim loại."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị dị vật trong mắt cần được thực hiện cẩn thận để tránh gây thêm tổn thương. Trong trường hợp nhẹ, có thể thử xử lý tại nhà, nhưng nếu không thể lấy được dị vật hoặc có biểu hiện bất thường, cần đến gặp bác sĩ ngay.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Tự xử lý tại nhà",
+        "description": "Đối với dị vật đơn giản như bụi, cát, có thể thử chớp mắt nhanh, kéo mi mắt trên đặt lên mi mắt dưới, hoặc rửa mắt nhẹ nhàng bằng nước ấm sạch để loại bỏ dị vật."
+      },
+      {
+        "name": "Điều trị tại cơ sở y tế",
+        "description": "Bác sĩ sẽ nhỏ thuốc tê mắt, sau đó tiến hành tìm và loại bỏ dị vật bằng các dụng cụ chuyên dụng. Sau khi lấy dị vật, bác sĩ sẽ vệ sinh mắt bằng nước muối và có thể băng mắt để bảo vệ."
+      },
+      {
+        "name": "Nhỏ thuốc kháng sinh",
+        "description": "Sau khi lấy dị vật, bác sĩ có thể kê thuốc nhỏ mắt kháng sinh để ngăn ngừa nhiễm trùng."
+      },
+      {
+        "name": "Thuốc giảm đau",
+        "description": "Nếu cảm thấy khó chịu ở mắt, có thể dùng thuốc giảm đau như paracetamol hoặc ibuprofen theo chỉ định."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong trường hợp dị vật lớn hoặc đã gây tổn thương nghiêm trọng, có thể cần phẫu thuật để lấy dị vật và sửa chữa tổn thương."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không dụi mắt khi có cảm giác dị vật trong mắt",
+      "Không cố gắng lấy dị vật nếu cảm thấy đã đâm sâu vào mắt",
+      "Không sử dụng dụng cụ như nhíp, tăm bông để lấy dị vật",
+      "Không đeo kính áp tròng khi có dị vật trong mắt",
+      "Đến gặp bác sĩ ngay nếu không thể lấy được dị vật hoặc mắt vẫn đau sau khi dị vật đã được lấy ra",
+      "Tuân thủ chỉ định của bác sĩ về việc dùng thuốc và tái khám",
+      "Nghỉ ngơi và tránh các hoạt động có thể gây áp lực lên mắt",
+      "Tránh lái xe cho đến khi tháo băng che mắt và lấy lại được tầm nhìn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa dị vật trong mắt.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Đeo kính bảo hộ khi làm việc ở những nơi nhiều bụi, gió hoặc mảnh vụn bay",
+      "Sử dụng kính an toàn hoặc kính bảo hộ có tấm chắn thay vì kính thường",
+      "Tránh đứng hoặc đến gần nơi đang khoan hay làm hàn sắt",
+      "Đeo kính an toàn khi chơi các môn thể thao có nguy cơ cao như quần vợt hoặc bóng quần",
+      "Giữ khoảng cách an toàn khi sử dụng các thiết bị phun, xịt",
+      "Sử dụng đúng cách và vệ sinh kính áp tròng theo hướng dẫn",
+      "Giữ móng tay sạch sẽ, tránh dụi mắt khi tay bẩn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Có nên dụi mắt khi bị dị vật rơi vào không?",
+      "answer": "Không nên dụi mắt khi bị dị vật rơi vào vì điều này có thể gây nguy hiểm. Dụi mắt có thể khiến dị vật đẩy sâu hơn vào mắt, đâm vào mắt hoặc làm xước giác mạc. Nếu mắt bị tổn thương, bạn có thể cảm thấy đau nhức và trong những trường hợp nghiêm trọng, có thể dẫn đến tổn thương vĩnh viễn hoặc mù lòa."
+    },
+    {
+      "question": "Khi nào tôi nên đến gặp bác sĩ nếu bị dị vật trong mắt?",
+      "answer": "Bạn nên đến gặp bác sĩ ngay lập tức nếu: không thể lấy được dị vật trong mắt tại nhà; tầm nhìn bị mờ hoặc bất thường sau khi lấy dị vật ra; có sự thay đổi bất thường về thị lực; xuất hiện chất lỏng trong suốt hoặc có máu chảy ra từ nhãn cầu; hoặc cảm thấy đau đớn kéo dài sau khi dị vật đã được lấy ra."
+    },
+    {
+      "question": "Làm thế nào để phòng tránh dị vật rơi vào mắt?",
+      "answer": "Để phòng tránh dị vật rơi vào mắt, bạn nên: luôn đeo kính bảo hộ khi làm việc ở những nơi nhiều bụi, gió hoặc mảnh vụn bay; sử dụng kính an toàn hoặc kính bảo hộ có tấm chắn; tránh đứng hoặc đến gần nơi đang khoan hay làm hàn sắt; đeo kính an toàn khi chơi các môn thể thao có nguy cơ cao; và thường xuyên vệ sinh môi trường làm việc để giảm thiểu bụi bẩn."
+    },
+    {
+      "question": "Có thể tự lấy dị vật trong mắt tại nhà không?",
+      "answer": "Có thể tự lấy một số dị vật đơn giản như bụi, cát hoặc lông mi tại nhà bằng cách chớp mắt nhanh để tạo nước mắt, kéo nhẹ mi mắt trên đặt lên mi mắt dưới, hoặc rửa mắt nhẹ nhàng bằng nước ấm sạch. Tuy nhiên, không nên chà xát mắt, sử dụng nhíp hoặc tăm bông trên bề mặt mắt. Nếu không thể lấy được dị vật hoặc mắt vẫn đau sau khi dị vật đã được lấy ra, hãy đến gặp bác sĩ ngay."
+    },
+    {
+      "question": "Dị vật trong mắt có thể gây ra những biến chứng gì?",
+      "answer": "Dị vật trong mắt nếu không được xử lý đúng có thể gây ra nhiều biến chứng như: nhiễm trùng và sẹo giác mạc, trầy xước giác mạc, loét giác mạc, áp xe giác mạc, tổn thương nhãn cầu, giảm thị lực tạm thời hoặc vĩnh viễn, thủng nhãn cầu trong trường hợp nghiêm trọng, và sẹo giác mạc gây ảnh hưởng thị lực. Nhất là khi dị vật có nguồn gốc thực vật dễ gây viêm loét do nấm, để lại sẹo giác mạc và giảm thị lực."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhói trong mắt, cảm giác có dị vật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm giác mạc",
+        "Trầy xước giác mạc",
+        "Loét giác mạc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nóng rát và kích ứng mắt, chảy nước mắt liên tục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm kết mạc",
+        "Khô mắt",
+        "Dị ứng mắt"
+      ]
+    },
+    {
+      "question": "Tôi hay dụi mắt liên tục, cảm thấy khó chịu khi chớp mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm bờ mi",
+        "Lẹo mắt",
+        "Viêm kết mạc"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhìn mờ, nhạy cảm với ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm giác mạc",
+        "Đục thủy tinh thể",
+        "Viêm màng bồ đào"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cộm mắt, chảy nước mắt và có ghèn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm kết mạc",
+        "Viêm bờ mi",
+        "Lẹo mắt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khi liếc mắt, cảm giác có vật lạ cọ xát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Trầy xước giác mạc",
+        "Viêm giác mạc",
+        "Loét giác mạc"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chảy máu lòng trắng mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Xuất huyết kết mạc",
+        "Chấn thương mắt",
+        "Tăng huyết áp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sợ ánh sáng, phải nheo mắt khi nhìn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm giác mạc",
+        "Viêm màng bồ đào",
+        "Đục thủy tinh thể"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng mí mắt, đau nhức vùng mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm bờ mi",
+        "Lẹo mắt",
+        "Viêm tuyến lệ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như giảm thị lực, nhìn mờ một phần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Đục thủy tinh thể",
+        "Thoái hóa hoàng điểm",
+        "Bong võng mạc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó khăn khi đeo kính áp tròng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm giác mạc",
+        "Khô mắt",
+        "Dị ứng với dung dịch ngâm kính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu do mỏi mắt, khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Tật khúc xạ",
+        "Nhược thị điều tiết",
+        "Tăng nhãn áp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mắt đỏ ngầu, kèm theo cảm giác cộm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm kết mạc",
+        "Viêm bờ mi",
+        "Viêm giác mạc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lo lắng, sợ hãi vì dị vật trong mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Lo âu",
+        "Chấn thương tâm lý",
+        "Rối loạn căng thẳng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy nước mắt sống, mắt liên tục bị kích thích. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm kết mạc",
+        "Dị ứng mắt",
+        "Hẹp lệ quản"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó mở mắt, mí mắt sưng húp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Viêm bờ mi",
+        "Lẹo mắt",
+        "Mề đay quanh mắt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau rát như bị bỏng ở mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Bỏng hóa chất",
+        "Viêm giác mạc",
+        "Viêm kết mạc"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy nước mắt, kèm theo sổ mũi và hắt hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Dị ứng mắt",
+        "Viêm mũi dị ứng",
+        "Cảm lạnh"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mắt mờ đi nhanh chóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Xuất huyết dịch kính",
+        "Bong võng mạc",
+        "Tắc động mạch võng mạc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức mắt tăng lên khi nhìn gần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị vật trong mắt",
+        "Lão thị",
+        "Mỏi mắt điều tiết",
+        "Viêm giác mạc"
+      ]
     }
   ]
 }

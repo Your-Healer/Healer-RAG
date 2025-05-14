@@ -1,39 +1,130 @@
 {
   "disease_id": "ha-duong-huyet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hạ đường huyết",
+  "disease_alternative_names": [
+    "Tụt đường huyết",
+    "Glucose máu thấp",
+    "Hypoglycemia"
+  ],
+  "disease_definition": "Hạ đường huyết là tình trạng lượng đường (glucose) trong máu hạ dưới mức 70 mg/dL. Mức đường huyết bình thường của cơ thể trước khi ăn dao động từ 90-130mg/dL, giữa bữa ăn 70-100 mg/dL, sau khi ăn 1-2 giờ phải dưới 180 mg/dL.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tim đập mạnh",
+      "description": "Cảm giác tim đập nhanh, đập mạnh do cơ thể giải phóng epinephrine (adrenaline) khi đường huyết thấp."
+    },
+    {
+      "name": "Đổ mồ hôi",
+      "description": "Đổ mồ hôi nhiều, có khi là mồ hôi lạnh, do phản ứng của cơ thể khi đường huyết giảm."
+    },
+    {
+      "name": "Lo lắng và run rẩy",
+      "description": "Cảm giác lo lắng, bồn chồn và run tay chân."
+    },
+    {
+      "name": "Da tái nhợt",
+      "description": "Da có thể trở nên nhợt nhạt, xanh xao do lưu lượng máu thay đổi."
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác buồn nôn hoặc nôn khi đường huyết giảm mạnh."
+    },
+    {
+      "name": "Tê lưỡi, môi, má",
+      "description": "Cảm giác tê bì hoặc ngứa ran ở lưỡi, môi hoặc má."
+    },
+    {
+      "name": "Mờ mắt",
+      "description": "Thị lực giảm, mờ nhìn do não không nhận đủ glucose."
+    },
+    {
+      "name": "Khó tập trung",
+      "description": "Khả năng tập trung suy giảm, khó suy nghĩ hoặc xử lý thông tin."
+    },
+    {
+      "name": "Suy nghĩ lẫn lộn",
+      "description": "Trở nên bối rối, khó suy nghĩ rõ ràng, có thể có những hành vi bất thường."
+    },
+    {
+      "name": "Nói lắp",
+      "description": "Khó khăn khi nói, nói không rõ ràng hoặc lắp bắp."
+    },
+    {
+      "name": "Buồn ngủ",
+      "description": "Cảm giác buồn ngủ, mệt mỏi hoặc uể oải."
+    },
+    {
+      "name": "Co giật",
+      "description": "Trong trường hợp nghiêm trọng, hạ đường huyết có thể gây co giật toàn thân."
+    },
+    {
+      "name": "Hôn mê",
+      "description": "Mất ý thức do não không có đủ glucose để hoạt động, đây là tình trạng nghiêm trọng cần cấp cứu ngay lập tức."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân hạ đường huyết phổ biến nhất là tác dụng phụ của thuốc điều trị bệnh đái tháo đường. Việc dùng quá nhiều insulin hoặc vô tình tiêm sai loại insulin cũng dẫn đến hạ đường huyết.",
+    "related_factors": "Nhiều yếu tố có thể gây hạ đường huyết như dùng thuốc không đúng cách, uống nhiều rượu, bệnh mạn tính (viêm gan nặng, xơ gan, nhiễm trùng nặng, bệnh thận, bệnh tim), nhịn đói quá lâu, khối u tuyến tụy (insulinoma), thiếu hụt hormone do rối loạn tuyến thượng thận và khối u tuyến yên.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người bệnh đái tháo đường sử dụng thuốc không đúng theo chỉ định",
+    "Sử dụng quá liều insulin hoặc sai loại insulin",
+    "Luyện tập thể dục thể thao quá sức mà không có chế độ ăn uống đầy đủ",
+    "Uống nhiều rượu bia",
+    "Mắc các bệnh mạn tính như xơ gan, bệnh thận, bệnh tim",
+    "Nhịn đói trong thời gian dài",
+    "Người có khối u tuyến tụy (insulinoma)",
+    "Rối loạn tuyến thượng thận và tuyến yên",
+    "Người đã phẫu thuật cắt dạ dày (hạ đường huyết sau ăn)"
+  ],
+  "complications": [
+    "Hạ đường huyết không nhận biết: cơ thể và não không còn tạo ra các dấu hiệu cảnh báo khi đường huyết thấp",
+    "Co giật do não thiếu glucose",
+    "Hôn mê do thiếu glucose kéo dài",
+    "Tử vong (trong trường hợp hạ đường huyết nghiêm trọng và kéo dài không được điều trị)",
+    "Ảnh hưởng đến kế hoạch điều trị đái tháo đường (người bệnh sợ hãi nên tự ý dùng ít insulin)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xét nghiệm đường máu mao mạch (biện pháp sàng lọc nhanh)",
+      "Xét nghiệm định lượng nồng độ glucose máu tĩnh mạch (chính xác hơn)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm đường máu mao mạch",
+        "description": "Biện pháp sàng lọc nhanh, xác định nồng độ glucose máu. Tuy nhiên, khi nồng độ glucose máu thấp < 50 mg/dL, các máy đo thông thường có thể không phát hiện chính xác."
+      },
+      {
+        "name": "Xét nghiệm định lượng glucose máu tĩnh mạch",
+        "description": "Lấy mẫu máu tĩnh mạch để định lượng chính xác nồng độ glucose máu, đặc biệt trong trường hợp nghi ngờ hạ đường huyết nặng."
+      },
+      {
+        "name": "Xét nghiệm tìm nguyên nhân gây hạ đường huyết",
+        "description": "Có thể bao gồm các xét nghiệm tìm dấu hiệu nhiễm trùng, nhồi máu cơ tim, tai biến mạch máu não, rối loạn chức năng thận, các bệnh nội tiết khác, hoặc quá liều insulin/thuốc hạ đường huyết."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Khi bị hạ đường huyết, người bệnh cần được điều trị ngay lập tức bằng quy tắc 15-15: ăn/uống 15 gam carbohydrate để tăng lượng đường trong máu và kiểm tra lại sau 15 phút.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Quy tắc 15-15",
+        "description": "Ăn/uống 15 gam carbohydrate để tăng lượng đường trong máu và kiểm tra sau 15 phút. Nếu đường huyết vẫn dưới 70 mg/dL, tiếp tục dùng một khẩu phần khác. Lặp lại các bước đến khi lượng đường trong máu ít nhất là 70 mg/dL."
+      },
+      {
+        "name": "Tiêm glucagon",
+        "description": "Trong trường hợp hạ đường huyết nghiêm trọng, cần tiêm glucagon - một loại hormone kích thích gan giải phóng glucose dự trữ vào máu."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Ăn 5-6 viên kẹo hoặc 2-3 viên đường",
+      "Uống nửa ly nước ngọt hoặc một ly sữa",
+      "Dùng 1 muỗng canh đường hoặc mật ong",
+      "Kiểm tra lại đường huyết sau 15 phút",
+      "Nếu đường huyết vẫn dưới 70mg/dL, tiếp tục dùng thêm 1 suất tương tự",
+      "Lặp lại đến khi đường huyết về mức bình thường",
+      "Không nên tiêm insulin vì sẽ làm hạ lượng đường huyết nghiêm trọng hơn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +132,61 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thường xuyên đo đường huyết khi thấy cơ thể có dấu hiệu bất thường",
+      "Kiểm tra đường huyết trước và sau bữa ăn, trước và sau khi tập thể dục, trước khi ngủ",
+      "Sử dụng máy theo dõi đường huyết liên tục (CGM) nếu có điều kiện",
+      "Mang theo thức ăn chứa carbohydrate tác dụng nhanh (kẹo, viên đường, nước trái cây)",
+      "Dùng thuốc đúng cách, đúng liều lượng theo chỉ định của bác sĩ",
+      "Kiểm soát tốt các bệnh nhiễm trùng, u tụy, u tuyến yên, rối loạn tuyến thượng thận",
+      "Hạn chế hoặc không uống rượu bia",
+      "Không nhịn đói quá lâu",
+      "Tái khám định kỳ theo chỉ định của bác sĩ",
+      "Điều chỉnh liều insulin khi thay đổi lịch trình hoạt động, ăn uống, tập luyện"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khi nào nên đến cơ sở y tế khi bị hạ đường huyết?",
+      "answer": "Người bệnh nên đến cơ sở y tế khi đường huyết lúc đói là 70 mg/dL hoặc thấp hơn, hoặc khi có các triệu chứng choáng váng, chóng mặt, đau đầu, vã mồ hôi, da tái nhợt. Trong trường hợp nghiêm trọng như co giật, hôn mê, cần cấp cứu ngay lập tức."
+    },
+    {
+      "question": "Cách điều trị hạ đường huyết tại nhà như thế nào?",
+      "answer": "Khi bị hạ đường huyết, người bệnh nên ăn 5-6 viên kẹo hoặc 2-3 viên đường hoặc uống nửa ly nước ngọt hoặc ly sữa hoặc dùng 1 muỗng canh đường/mật ong để tăng lượng đường trong máu. Sau 15 phút, kiểm tra lại đường huyết, nếu vẫn dưới 70mg/dL, tiếp tục dùng thêm 1 suất tương tự. Lặp lại đến khi đường huyết về mức bình thường."
+    },
+    {
+      "question": "Làm sao để phòng ngừa hạ đường huyết?",
+      "answer": "Để phòng ngừa hạ đường huyết, người bệnh đái tháo đường nên thường xuyên đo đường huyết, dùng thuốc đúng theo chỉ định, mang theo thức ăn chứa carbohydrate tác dụng nhanh. Người không bị đái tháo đường nên tránh uống rượu bia, không nhịn đói quá lâu, kiểm soát tốt các bệnh mạn tính và thăm khám định kỳ."
+    },
+    {
+      "question": "Hạ đường huyết có gây nguy hiểm đến tính mạng không?",
+      "answer": "Có, hạ đường huyết nghiêm trọng và kéo dài có thể gây nguy hiểm đến tính mạng nếu không được điều trị kịp thời. Khi não không có glucose trong thời gian dài, có thể dẫn đến co giật, hôn mê và thậm chí tử vong. Đặc biệt nguy hiểm là tình trạng hạ đường huyết không nhận biết, khi cơ thể không còn tạo ra các dấu hiệu cảnh báo."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang cảm thấy tim đập nhanh, đổ mồ hôi, lo lắng và run rẩy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ha-duong-huyet", "roi-loan-lo-au", "cuong-giap"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt, hoa mắt, da xanh xao và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ha-duong-huyet", "thieu-mau", "ha-huyet-ap"]
+    },
+    {
+      "question": "Tôi hay bị đói đột ngột, run tay chân và khó tập trung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ha-duong-huyet",
+        "roi-loan-an-uong",
+        "thieu-duong-huyet"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang cảm thấy mệt mỏi, yếu ớt và muốn ngủ li bì. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ha-duong-huyet", "suy-gian", "thieu-mau"]
+    },
+    {
+      "question": "Tôi hay bị co giật, ngất xỉu và mất ý thức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ha-duong-huyet", "dong-kinh", "roi-loan-nhip-tim"]
     }
   ]
 }

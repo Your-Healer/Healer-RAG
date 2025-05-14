@@ -1,39 +1,99 @@
 {
   "disease_id": "nhau-tien-dao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhau tiền đạo",
+  "disease_alternative_names": ["Rau tiền đạo", "Placenta previa"],
+  "disease_definition": "Nhau tiền đạo (còn được gọi là rau tiền đạo) là tình trạng nhau thai bám vào đoạn dưới tử cung và cổ tử cung, che mất một phần hoặc che kín cổ tử cung, làm cản trở đường đi của thai nhi khi chuyển dạ. Đối với thai kỳ bình thường, nhau thai sẽ bám vào mặt trước hoặc mặt sau của phần đáy tử cung.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Xuất huyết âm đạo bất thường",
+      "description": "Máu có màu đỏ tươi, đôi khi có lẫn máu cục, nhưng không gây đau đớn, thường xảy ra ở 3 tháng cuối thai kỳ."
+    },
+    {
+      "name": "Xuất huyết tự phát và tự cầm",
+      "description": "Hiện tượng xuất huyết có thể xảy ra tự nhiên và tự cầm đột ngột mà không cần điều trị."
+    },
+    {
+      "name": "Xuất huyết tái phát",
+      "description": "Tình trạng xuất huyết có thể tái phát sau vài ngày hoặc vài tuần với lượng máu ngày càng tăng."
+    },
+    {
+      "name": "Xuất huyết kèm đau bụng",
+      "description": "Một số thai phụ có thể đối mặt với tình trạng xuất huyết kèm các cơn đau bụng do tử cung co thắt."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nhau thai có thể phát triển ở bất cứ nơi nào mà phôi làm tổ trong tử cung. Trường hợp phôi làm tổ ngay phần dưới của tử cung sẽ dẫn đến nhau thai phát triển ở đó, đây chính là nguyên nhân dẫn đến hiện tượng nhau tiền đạo.",
+    "related_factors": "Nhau tiền đạo được phân chia thành 4 loại: Nhau bám thấp (bờ bánh nhau bám vào đoạn dưới tử cung, chưa đến lỗ trong cổ tử cung), Nhau bám mép (bờ bánh nhau bám đến bờ lỗ trong cổ tử cung), Nhau tiền đạo bán trung tâm (bánh nhau che kín một phần lỗ trong cổ tử cung), và Nhau tiền đạo trung tâm (bánh nhau che kín hoàn toàn lỗ trong cổ tử cung, chiếm tỷ lệ 20-30% các trường hợp).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trải qua sinh nở nhiều lần",
+    "Có tiền sử bị sảy thai hoặc nạo thai nhiều lần",
+    "Tiền sử bị viêm nhiễm tử cung",
+    "Thai phụ đã từng mắc nhau tiền đạo ở những lần mang thai trước",
+    "Nhau thai lớn do mang đa thai",
+    "Tử cung có hình dạng bất thường",
+    "Thai phụ mang thai khi lớn tuổi (trên 35 tuổi)",
+    "Thai phụ sử dụng nhiều chất kích thích, đặc biệt là hút thuốc lá",
+    "Dây rốn bám màng"
+  ],
+  "complications": [
+    "Đối với thai phụ: Xuất huyết tái phát nhiều lần trong thai kỳ gây thiếu máu",
+    "Sinh non",
+    "Nhiễm trùng sau sinh",
+    "Nguy cơ phải cắt bỏ tử cung nếu bánh nhau cài chặt vào cơ tử cung",
+    "Đối với thai nhi: Suy dinh dưỡng, suy thai do mẹ thiếu máu",
+    "Sinh non có nguy cơ suy hô hấp",
+    "Ngôi thai ngược (ngôi mông hoặc ngôi ngang) khó khăn cho quá trình sinh nở"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám thai định kỳ",
+      "Chú ý các dấu hiệu xuất huyết âm đạo bất thường trong thai kỳ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Thực hiện siêu âm để xác định vị trí bánh nhau bám ở vùng nào của tử cung như mặt trước, mặt sau, đáy, thân, bám thấp, bán trung tâm hay tiền đạo trung tâm."
+      },
+      {
+        "name": "Siêu âm Doppler",
+        "description": "Giúp chẩn đoán biến chứng nhau cài răng lược, cho thấy khoảng cách giữa bánh nhau và thành bàng quang thu hẹp lại, mạch máu xuyên qua thành cơ tử cung đến thành bàng quang."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nguyên tắc chung của điều trị nhau tiền đạo là thực hiện cầm máu cứu thai phụ. Tùy vào tuổi thai, mức độ xuất huyết, khả năng nuôi dưỡng sơ sinh cũng như đánh giá mức độ truyền bù máu phù hợp mà các bác sĩ sẽ chỉ định nên kéo dài tuổi thai hoặc mổ lấy thai.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi và hạn chế đi lại",
+        "description": "Thai phụ cần nghỉ ngơi, hạn chế đi lại, thực hiện chế độ ăn uống bổ sung các chất dinh dưỡng."
+      },
+      {
+        "name": "Sử dụng thuốc giảm co",
+        "description": "Như spasmaverine 40mg (1-4 viên/ngày), salbutamol, progesterone để giảm co thắt tử cung."
+      },
+      {
+        "name": "Sử dụng corticoid",
+        "description": "Giúp phổi thai nhi trưởng thành sớm trong trường hợp cần sinh non."
+      },
+      {
+        "name": "Mổ lấy thai",
+        "description": "Được chỉ định trong trường hợp nhau tiền đạo trung tâm hoặc khi thai phụ xuất huyết nhiều, đe dọa tính mạng."
+      },
+      {
+        "name": "Điều trị nhau cài răng lược",
+        "description": "Trường hợp biến chứng nhau cài răng lược cần mổ lấy thai chủ động khi thai đủ tháng, mổ dọc thân tử cung phía trên chỗ bánh nhau thai bám và có thể phải cắt tử cung để hạn chế mất máu."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nhập viện theo dõi khi được chẩn đoán mắc bệnh ở những tháng cuối thai kỳ",
+      "Hạn chế hoạt động mạnh",
+      "Kiêng quan hệ tình dục",
+      "Tránh các công việc nặng nhọc",
+      "Đến ngay cơ sở y tế khi có dấu hiệu xuất huyết",
+      "Thực hiện sinh mổ chủ động nếu được chỉ định"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +101,49 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế mang thai khi đã lớn tuổi, không khuyến cáo mang thai khi đã có đủ con",
+      "Tuân thủ đúng các chỉ định mổ lấy thai để tránh sẹo tử cung không cần thiết",
+      "Không hút thuốc lá, cũng như tránh hít phải khói thuốc lá khi mang thai",
+      "Nghỉ ngơi, tránh việc nặng nhọc",
+      "Đến ngay các cơ sở y tế uy tín để được thăm khám khi có dấu hiệu bất thường",
+      "Khám thai định kỳ để phát hiện sớm các bất thường"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhau tiền đạo có thể gây nguy hiểm gì cho mẹ và thai nhi?",
+      "answer": "Nhau tiền đạo có thể dẫn đến tình trạng băng huyết trong thai kỳ và ngay cả khi sinh, gây nhiều nguy hiểm, đe dọa tính mạng cả thai phụ và thai nhi. Đối với thai phụ, bệnh gây xuất huyết tái phát nhiều lần trong thai kỳ khiến thiếu máu, dễ sinh non, có thể nhiễm trùng sau sinh, thậm chí phải cắt bỏ tử cung. Đối với thai nhi, mẹ bị thiếu máu có thể khiến thai nhi suy dinh dưỡng, suy thai, sinh non có nguy cơ suy hô hấp."
+    },
+    {
+      "question": "Nhau tiền đạo có mấy loại?",
+      "answer": "Dựa vào vị trí bám, nhau tiền đạo được phân chia thành 4 loại: Nhau bám thấp (bờ bánh nhau bám vào đoạn dưới tử cung, chưa đến lỗ trong cổ tử cung); Nhau bám mép (bờ bánh nhau bám đến bờ lỗ trong cổ tử cung); Nhau tiền đạo bán trung tâm (bánh nhau che kín một phần lỗ trong cổ tử cung); Nhau tiền đạo trung tâm (bánh nhau che kín hoàn toàn lỗ trong cổ tử cung, chiếm tỷ lệ 20-30% các trường hợp)."
+    },
+    {
+      "question": "Khi bị nhau tiền đạo cần làm gì?",
+      "answer": "Khi được chẩn đoán nhau tiền đạo, thai phụ cần: Nghỉ ngơi, hạn chế đi lại; Thực hiện chế độ ăn uống bổ sung các chất dinh dưỡng; Có thể sử dụng thuốc giảm co theo chỉ định của bác sĩ; Nhập viện theo dõi ở những tháng cuối thai kỳ; Đến ngay cơ sở y tế uy tín khi có dấu hiệu xuất huyết; Tuân thủ phương pháp sinh mổ nếu được chỉ định."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như xuất huyết âm đạo bất thường với máu có màu đỏ tươi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-tien-dao", "nhau-bong-non", "nhau-bam-thap"]
+    },
+    {
+      "question": "Tôi đang cảm thấy xuất huyết âm đạo tự nhiên và tự cầm đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-tien-dao", "nhau-bam-thap", "viem-co-tu-cung"]
+    },
+    {
+      "question": "Tôi hay xuất huyết âm đạo tái phát sau vài ngày hoặc vài tuần với lượng máu ngày càng tăng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-tien-dao", "nhau-bong-non", "u-tu-cung"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như xuất huyết âm đạo kèm các cơn đau bụng do tử cung co thắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-tien-dao", "nhau-bong-non", "say-thai"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chảy máu âm đạo không đau ở 3 tháng cuối thai kỳ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-tien-dao", "nhau-bam-thap", "viem-am-dao"]
     }
   ]
 }

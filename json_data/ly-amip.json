@@ -1,58 +1,186 @@
 {
   "disease_id": "ly-amip",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Lỵ amip",
+  "disease_alternative_names": [
+    "Amoebiasis",
+    "Entamoeba histolytica infection",
+    "Amebic dysentery"
+  ],
+  "disease_definition": "Lỵ amip là tình trạng nhiễm trùng đường ruột, xảy ra do sự xâm nhập của ký sinh trùng Entamoeba histolytica. Bệnh có thể dẫn đến tiêu chảy, buồn nôn, sốt và đau bụng cấp, nhiều trường hợp còn xuất hiện với triệu chứng không rõ ràng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng",
+      "description": "Cảm giác đau có thể từ nhẹ đến dữ dội ở vùng bụng, thường xuất hiện sau khi nhiễm ký sinh trùng."
+    },
+    {
+      "name": "Tiêu chảy",
+      "description": "Đi ngoài phân lỏng nhiều lần, có thể kéo dài trong vài ngày đến vài tuần."
+    },
+    {
+      "name": "Chảy máu trực tràng",
+      "description": "Phân có lẫn máu do ký sinh trùng gây tổn thương niêm mạc ruột."
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng thân nhiệt, thường đi kèm với các triệu chứng khác của bệnh."
+    },
+    {
+      "name": "Phân lỏng",
+      "description": "Phân có thể có máu, nhầy và có mùi hôi đặc trưng."
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác khó chịu ở vùng bụng và thường đi kèm với nôn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân gây bệnh lỵ amip là do sự xâm nhập của ký sinh trùng Entamoeba histolytica vào hệ thống tiêu hóa.",
+    "related_factors": "Ký sinh trùng Entamoeba histolytica hình thành các bào nang và đi ra bên ngoài môi trường theo phân. Khi thức ăn hoặc nước chứa bào nang xâm nhập vào đường tiêu hóa, amip ngay lập tức sẽ được giải phóng và tiến hành quá trình lây nhiễm.",
+    "transmission_routes": [
+      "Ăn thực phẩm, uống đồ uống nhiễm ký sinh trùng",
+      "Chạm tay vào bề mặt chứa trứng ký sinh trùng sau đó đưa vào miệng",
+      "Tiếp xúc với phân nhiễm khuẩn, đặc biệt khi quan hệ tình dục qua đường hậu môn",
+      "Sống hoặc đi du lịch đến nơi có điều kiện vệ sinh không đảm bảo"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người từng đi du lịch đến những vùng nhiệt đới có điều kiện vệ sinh không đảm bảo",
+    "Người nhập cư, du khách đến từ các vùng nhiệt đới có điều kiện vệ sinh không đảm bảo",
+    "Những người đang sinh sống trong khu vực có điều kiện vệ sinh kém",
+    "Nam giới có quan hệ tình dục đồng giới",
+    "Quan hệ tình dục qua đường hậu môn",
+    "Sống trong điều kiện vệ sinh không đảm bảo với phòng vệ sinh không sạch",
+    "Thiếu vật dụng rửa tay đảm bảo vệ sinh",
+    "Xử lý nước thải không đúng cách"
+  ],
+  "complications": [
+    "Áp xe gan (ký sinh trùng và mủ hình thành trong gan)",
+    "Lây lan ký sinh trùng qua máu đến gan, phổi, não và các cơ quan khác",
+    "Viêm đại tràng, phình đại tràng nhiễm độc",
+    "Rò trực tràng âm đạo",
+    "Hình thành ổ áp xe não",
+    "Thủng ruột",
+    "Xuất huyết tiêu hóa",
+    "Viêm phúc mạc"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác tiền sử du lịch và tình trạng sức khỏe gần đây",
+      "Xét nghiệm phân",
+      "Xét nghiệm máu",
+      "Chẩn đoán hình ảnh",
+      "Nội soi đại tràng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm phân",
+        "description": "Người bệnh cần cung cấp mẫu phân trong vài ngày để sàng lọc ký sinh trùng Entamoeba histolytica."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp xác định tình trạng lây lan nhiễm trùng ra ngoài ruột và các cơ quan khác. Ký sinh trùng khi lan ra khỏi ruột, nguy cơ cao sẽ không còn xuất hiện trong phân."
+      },
+      {
+        "name": "Siêu âm, chụp CT",
+        "description": "Kiểm tra các tổn thương trên gan hay lây lan đến các cơ quan khác trong ổ bụng và toàn thân."
+      },
+      {
+        "name": "Nội soi đại tràng",
+        "description": "Phương pháp này được thực hiện để kiểm tra tổn thương của ký sinh trùng trên đại tràng."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Kháng sinh được dùng để điều trị bệnh lỵ amip, ngoài ra còn có các loại thuốc điều trị triệu chứng đường tiêu hóa. Người bệnh cần đến gặp bác sĩ để có điều trị phù hợp, tránh biến chứng nguy hiểm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kháng sinh",
+        "description": "Dùng kháng sinh theo chỉ định của bác sĩ để tiêu diệt ký sinh trùng Entamoeba histolytica."
+      },
+      {
+        "name": "Điều trị triệu chứng đường tiêu hóa",
+        "description": "Dùng thuốc giảm triệu chứng tiêu chảy, đau bụng và các biểu hiện khác liên quan đến đường tiêu hóa."
+      },
+      {
+        "name": "Bù nước và điện giải",
+        "description": "Uống nhiều nước và dung dịch điện giải để bù đắp lượng nước mất đi do tiêu chảy."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Ngưng mọi hoạt động đi học, đi làm khi phát hiện mắc bệnh",
+      "Rửa tay thật kỹ sau khi sử dụng nhà vệ sinh, phòng tắm",
+      "Tránh uống sữa và các sản phẩm từ sữa không rõ nguồn gốc",
+      "Tránh ăn rau sống, đồ uống lạnh hoặc có gas trong thời gian điều trị",
+      "Duy trì chế độ ăn kiêng trong vài ngày cho đến khi bác sĩ cho phép",
+      "Uống đủ nước để tránh tình trạng mất nước do tiêu chảy"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người nhiễm bệnh hoặc mang mầm bệnh không có triệu chứng",
+      "Tránh chế biến thực phẩm khi đang nhiễm bệnh",
+      "Không tham gia chăm sóc trẻ em, người già, người suy giảm miễn dịch khi đang mắc bệnh"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vắc-xin phòng ngừa bệnh lỵ amip.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện vệ sinh tay sạch sẽ trước khi xử lý, chế biến thực phẩm, ăn uống và sau khi đi vệ sinh",
+      "Rửa tay bằng xà phòng và nước, chà xát trong vòng ít nhất 20 giây",
+      "Vệ sinh tay thường xuyên bằng cồn 70-80 độ",
+      "Áp dụng công thức xử lý thực phẩm đúng chuẩn: chọn nguyên liệu sạch, giữ tay và dụng cụ chế biến sạch sẽ, tách biệt thực phẩm sống và chín, nấu kỹ trước khi ăn",
+      "Chỉ uống nước đun sôi hoặc nước uống đóng chai có nguồn gốc đảm bảo",
+      "Tránh uống đồ uống có đá không rõ nguồn gốc",
+      "Bảo quản thực phẩm ở nhiệt độ an toàn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh lỵ amip có nguy hiểm không?",
+      "answer": "Bệnh lỵ amip hoàn toàn có thể chữa khỏi nếu điều trị đúng cách. Trong trường hợp ngược lại, tình trạng này có thể dẫn đến nhiều biến chứng nguy hiểm, thậm chí gây tử vong. Do đó, người bệnh cần liên hệ ngay với cơ sở y tế trong trường hợp nghi ngờ."
+    },
+    {
+      "question": "Bệnh amip có lây không?",
+      "answer": "Ký sinh trùng Entamoeba histolytica chỉ sống ở người và lây truyền qua phân vi khuẩn. Con đường lây nhiễm cụ thể như sau: Chạm vào phân mang mầm bệnh và tiếp tục tiếp xúc với miệng, ăn uống thực phẩm hoặc nước nhiễm ký sinh trùng, quan hệ tình dục miệng – hậu môn."
+    },
+    {
+      "question": "Mắc bệnh lỵ amip có thể đi học, đi làm bình thường không?",
+      "answer": "Mọi hoạt động đi học và đi làm cần ngưng ngay lập tức khi phát hiện mắc bệnh amip. Đi kèm với đó, người bệnh nên rửa tay thật kỹ sau khi sử dụng nhà vệ sinh, phòng tắm hoặc xử lý tã, chất thải. Điều quan trọng là cần trao đổi với bác sĩ về tình trạng sức khỏe, thời điểm có thể quay trở lại đi học, đi làm sau khi dùng kháng sinh."
+    },
+    {
+      "question": "Lỵ amip không nên ăn gì?",
+      "answer": "Người mắc lỵ amip cần tránh uống sữa và các sản phẩm từ sữa không rõ nguồn gốc, rau sống, đồ uống lạnh hoặc có gas. Điều này cần được duy trì trong vài ngày cho đến khi bác sĩ cho phép."
+    },
+    {
+      "question": "Thời gian khởi phát bệnh lỵ amip là bao lâu?",
+      "answer": "Thời gian khởi phát ở các trường hợp thường rất khác nhau. Người bệnh có thể nhận thấy các dấu hiệu điển hình trong vòng 4 tuần kể từ ngày nhiễm. Tuy nhiên, nhiễm trùng không có triệu chứng trung bình có thể kéo dài hơn một năm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, tiêu chảy và phân lỏng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ly-amip", "viem-ruot", "tieu-chay-cap"]
+    },
+    {
+      "question": "Tôi đang cảm thấy buồn nôn và sốt kèm theo đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ly-amip", "ngo-doc-thuc-pham", "viem-da-day"]
+    },
+    {
+      "question": "Tôi hay bị đau bụng và tiêu chảy, đặc biệt sau khi đi du lịch đến vùng vệ sinh kém. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ly-amip",
+        "tieu-chay-do-vi-khuan",
+        "viem-ruot-nhiemtrung"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chảy máu trực tràng và phân lỏng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ly-amip", "viem-dai-trang", "benh-triu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và sốt, kèm theo tiêu chảy kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ly-amip", "thuong-han", "sot-ret"]
     }
   ]
 }

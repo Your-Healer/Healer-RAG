@@ -1,58 +1,198 @@
 {
   "disease_id": "nhiem-au-trung-san-lon",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhiễm ấu trùng sán lợn",
+  "disease_alternative_names": [
+    "Nang sán lợn",
+    "Cysticercus cellulosae",
+    "Bệnh lợn gạo ở người"
+  ],
+  "disease_definition": "Bệnh ấu trùng sán lợn là bệnh thuộc loại nhiễm ký sinh trùng gây ra bởi trứng và ấu trùng của sán dây lợn (Taenia solium). Khi đi vào cơ thể, ấu trùng này có thể trú ngụ tại nhiều bộ phận và gây ra những mối nguy về sức khỏe nghiêm trọng cho con người.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Triệu chứng ở da và cơ",
+      "description": "Thường không có triệu chứng hoặc đôi khi đau cơ, nốt dưới da có thể sờ thấy được, phát hiện nhờ X-quang khi nang đã hóa vôi."
+    },
+    {
+      "name": "Triệu chứng thần kinh",
+      "description": "Khi xâm nhập vào hệ thần kinh trung ương, có thể gây ra các triệu chứng như động kinh co giật. Ấu trùng sán lợn là nguyên nhân gây ra 30% các trường hợp động kinh ở những vùng có dịch bệnh."
+    },
+    {
+      "name": "Triệu chứng ở mắt",
+      "description": "Nang có thể cư trú ở mí mắt, trong hốc mắt, kết mạc, gây nhìn mờ, nhìn đôi, giảm thị lực, chảy nước mắt, sụp mí hoặc đau nhức hốc mắt."
+    },
+    {
+      "name": "Triệu chứng ở não",
+      "description": "Tùy vào vị trí ký sinh trong não, người nhiễm có thể bị động kinh, nhức đầu, tăng áp lực nội sọ, rối loạn tâm thần hoặc các vấn đề thần kinh khác."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Bệnh ấu trùng sán lợn do ấu trùng của sán dây lợn Taenia solium gây ra, xâm nhập vào cơ thể con người khi ăn phải trứng hoặc ấu trùng sán.",
+    "related_factors": "Khi nuốt phải trứng sán, trứng sẽ đi vào ruột, phôi 6 móc được phóng thích, sau đó xuyên qua vách ruột vào hệ tuần hoàn, theo mạch máu đến định vị và phát triển thành nang ở các bộ phận như hệ thần kinh trung ương, mắt, mô dưới da, bắp thịt.",
+    "transmission_routes": [
+      "Vô tình nuốt phải trứng sán dây lợn có trong thức ăn, rau sống, nước uống",
+      "Tự nhiễm qua đường phân - miệng từ những người đã nhiễm sán trưởng thành",
+      "Ăn thịt heo sống hay nấu chưa chín có chứa nang ấu trùng"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sống trong vùng có dịch bệnh sán lợn",
+    "Ăn thịt heo chưa được nấu chín",
+    "Ăn phải thức ăn có dính trứng sán (rau sống, thịt, cá sống chưa nấu chín)",
+    "Vệ sinh cá nhân kém, không thường xuyên rửa tay sạch bằng xà phòng",
+    "Không rửa tay sau khi đi tiêu, ói mửa",
+    "Sống trong môi trường có người nhiễm sán dây lợn"
+  ],
+  "complications": [
+    "Tổn thương các cơ quan khi ấu trùng thoát ra khỏi ruột và lây nhiễm sang các mô khác",
+    "Bệnh nhiễm ấu trùng sán dây thần kinh (neurocysticerci) - biến chứng nguy hiểm ảnh hưởng não và hệ thần kinh",
+    "Nhức đầu, các vấn đề về thị lực, co giật, viêm màng não và lú lẫn",
+    "Trường hợp nghiêm trọng có thể dẫn đến tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Dựa vào yếu tố dịch tễ: sống trong vùng bệnh",
+      "Bệnh ở da, cơ: chẩn đoán bằng phương pháp sinh thiết",
+      "Mắt: dùng máy soi đáy mắt",
+      "Não: chẩn đoán bằng kỹ thuật CT scan, MRI",
+      "Chẩn đoán miễn dịch"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Xem xét tình trạng tăng bạch cầu ái toan"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô ở vị trí nghi ngờ có nang sán để xác định"
+      },
+      {
+        "name": "Soi đáy mắt",
+        "description": "Phát hiện nang ấu trùng ở mắt"
+      },
+      {
+        "name": "CT scan",
+        "description": "Tìm các hình ảnh bất thường trong não như nốt tròn hóa vôi, vòng tròn dạng nhẫn, phù não"
+      },
+      {
+        "name": "MRI (cộng hưởng từ)",
+        "description": "Cung cấp hình ảnh chi tiết để phát hiện nang sán trong não"
+      },
+      {
+        "name": "Xét nghiệm phân (soi tìm KST)",
+        "description": "Phát hiện trứng hoặc đoạn sán trong phân"
+      },
+      {
+        "name": "Xét nghiệm huyết thanh chẩn đoán KST",
+        "description": "Phát hiện kháng thể chống lại sán lợn trong máu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị nhiễm ấu trùng sán lợn cần tuân theo chỉ định của bác sĩ về liều lượng và cách dùng thuốc để đảm bảo hiệu quả và an toàn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc đặc trị",
+        "description": "Dùng thuốc đặc trị bệnh sán lợn như thuốc chứa hoạt chất Niclosamid để tiêu diệt ấu trùng"
+      },
+      {
+        "name": "Kháng viêm corticoid",
+        "description": "Phối hợp cùng thuốc kháng viêm corticoid nếu nhiễm trùng ảnh hưởng đến các mô ngoài ruột"
+      },
+      {
+        "name": "Điều trị triệu chứng thần kinh",
+        "description": "Sử dụng thuốc điều trị triệu chứng ở não như thuốc chống động kinh"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong trường hợp người bệnh bị u nang đe dọa tính mạng đã phát triển trong các cơ quan quan trọng như phổi hoặc gan, có thể phải phẫu thuật để loại bỏ u nang"
+      },
+      {
+        "name": "Tiêm thuốc vào u nang",
+        "description": "Bác sĩ có thể tiêm thuốc vào u nang (như formalin) để tiêu diệt ấu trùng trước khi loại bỏ u nang"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ nghiêm ngặt phác đồ điều trị của bác sĩ",
+      "Tái khám định kỳ để theo dõi tiến triển của bệnh",
+      "Thông báo cho bác sĩ về các tác dụng phụ của thuốc nếu có",
+      "Tăng cường dinh dưỡng để nâng cao sức đề kháng",
+      "Duy trì vệ sinh cá nhân tốt để tránh tái nhiễm"
+    ],
+    "prevention_of_transmission": [
+      "Điều trị triệt để người bệnh để chặn nguồn gây bệnh",
+      "Tránh đi tiêu bừa bãi",
+      "Cách ly người bệnh khi cần thiết",
+      "Vệ sinh cá nhân và ngoại cảnh tốt"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa bệnh ấu trùng sán lợn",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực phẩm sạch sẽ: Rửa tay sạch bằng xà phòng và nước sạch sau khi đi vệ sinh và trước khi ăn",
+      "Để riêng thực phẩm sống và thực phẩm đã nấu chín",
+      "Thịt heo/thịt bò nên được nấu ở nhiệt độ ít nhất là 70 độ C để tiêu diệt ấu trùng hoặc trứng",
+      "Lưu giữ thực phẩm ở nhiệt độ an toàn",
+      "Sử dụng nguồn nước và nguyên liệu sạch, an toàn",
+      "Điều trị sán dây cho thú cưng và nấu chín thức ăn cho thú",
+      "Thường xuyên vệ sinh tất cả các bề mặt trong gian bếp, lau chùi sạch sẽ và khử trùng",
+      "Xử lý phân động vật và phân người đúng cách",
+      "Rửa và nấu tất cả trái cây và rau quả bằng nước sạch",
+      "Chăn nuôi hợp vệ sinh, không thả rông động vật"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ấu trùng sán lợn có nguy hiểm không?",
+      "answer": "Có, ấu trùng sán lợn rất nguy hiểm. Khi vào cơ thể, ấu trùng có thể thoát ra khỏi ruột và lây nhiễm sang các mô và cơ quan khác, gây tổn thương nghiêm trọng. Đặc biệt nguy hiểm khi ấu trùng xâm nhập vào não và hệ thần kinh trung ương (neurocysticercosis), gây các triệu chứng như nhức đầu, các vấn đề về thị lực, co giật, viêm màng não và lú lẫn. Trong trường hợp nghiêm trọng, nhiễm trùng có thể gây tử vong."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa nhiễm ấu trùng sán lợn?",
+      "answer": "Để phòng ngừa nhiễm ấu trùng sán lợn, cần tuân thủ 5 yếu tố của WHO: giữ thực phẩm sạch sẽ, để riêng thực phẩm sống và đã nấu chín, nấu thịt ở nhiệt độ ít nhất 70°C, lưu giữ thực phẩm ở nhiệt độ an toàn, và sử dụng nguồn nước và nguyên liệu sạch. Ngoài ra, cần rửa tay sạch bằng xà phòng sau khi đi vệ sinh và trước khi ăn, rửa và nấu chín tất cả rau quả, tránh ăn thịt sống, và thực hiện chăn nuôi hợp vệ sinh."
+    },
+    {
+      "question": "Bệnh ấu trùng sán lợn lây truyền như thế nào?",
+      "answer": "Ấu trùng sán dây lợn xâm nhập vào cơ thể con người qua hai cơ chế chính: vô tình nuốt phải trứng sán dây lợn có trong thức ăn, rau sống, nước uống... hoặc tự nhiễm qua đường phân-miệng. Người cũng có thể mắc bệnh do ăn thịt heo sống hay nấu chưa chín có chứa nang ấu trùng Taenia solium. Khi nuốt phải trứng sán, trứng sẽ đi vào ruột, phôi 6 móc được phóng thích, xuyên qua vách ruột vào hệ tuần hoàn, và đến định vị ở các bộ phận của cơ thể."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau cơ, nốt dưới da có thể sờ thấy được. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-au-trung-san-lon",
+        "ky-sinh-trung-duoi-da",
+        "u-mo-duoi-da"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy động kinh co giật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-au-trung-san-lon",
+        "dong-kinh",
+        "roi-loan-than-kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay nhìn mờ, nhìn đôi, giảm thị lực, chảy nước mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-au-trung-san-lon",
+        "glauco-ma",
+        "duc-thuy-tinh-the"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhức đầu, tăng áp lực nội sọ, rối loạn tâm thần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiem-au-trung-san-lon", "u-nao", "viem-mang-nao"]
+    },
+    {
+      "question": "Tôi đang cảm thấy động kinh, nhức đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-au-trung-san-lon",
+        "dong-kinh",
+        "chan-thuong-so-nao"
+      ]
     }
   ]
 }

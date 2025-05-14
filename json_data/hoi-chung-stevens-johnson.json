@@ -1,39 +1,141 @@
 {
   "disease_id": "hoi-chung-stevens-johnson",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng Stevens Johnson",
+  "disease_alternative_names": [
+    "SJS",
+    "Hội chứng Lyell Stevens-Johnson",
+    "Hoại tử biểu bì nhiễm độc Stevens-Johnson",
+    "Phổ hoại tử biểu bì nhiễm độc Stevens-Johnson",
+    "Stevens-Johnson do thuốc",
+    "Stevens-Johnson do mycoplasma"
+  ],
+  "disease_definition": "Hội chứng Stevens-Johnson (SJS) là tình trạng da nghiêm trọng đặc trưng bởi những nốt ban đỏ trên da, nốt bóng nước, sau đó bong tróc. Những vùng da xung quanh mắt, cơ quan sinh dục và miệng cũng bị ảnh hưởng. Là loại bệnh hiếm gặp, tỷ lệ 2/1.000.000 người nhưng tới 5% – 30% ca tử vong.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt lở loét ở các lỗ tự nhiên",
+      "description": "Xuất hiện lở loét ở các lỗ tự nhiên của cơ thể như mắt, mũi, miệng, họng, đường tiểu."
+    },
+    {
+      "name": "Lở loét âm hộ, âm đạo",
+      "description": "Ở nữ giới, tình trạng lở loét âm hộ, âm đạo có thể xảy ra kèm chảy máu."
+    },
+    {
+      "name": "Loét đường tiểu",
+      "description": "Ở nam giới, tình trạng loét có thể xuất hiện ở đường tiểu với biểu hiện rát, buốt khi đi tiểu."
+    },
+    {
+      "name": "Ban đỏ trên da",
+      "description": "Xuất hiện các vết ban đỏ trên da, dẫn đến bóng nước và bong tróc."
+    },
+    {
+      "name": "Sốt",
+      "description": "Người bệnh có thể bị sốt cao."
+    },
+    {
+      "name": "Đau cơ",
+      "description": "Cảm giác đau nhức các cơ trên cơ thể."
+    },
+    {
+      "name": "Ho",
+      "description": "Triệu chứng ho do tổn thương ở niêm mạc đường hô hấp."
+    },
+    {
+      "name": "Da bong tróc",
+      "description": "Da bị bong tróc do tổn thương nặng, có thể ảnh hưởng đến nhiều vùng trên cơ thể."
+    },
+    {
+      "name": "Chảy nước dãi",
+      "description": "Xảy ra do khó khăn khi ngậm miệng do loét miệng."
+    },
+    {
+      "name": "Sung huyết kết mạc",
+      "description": "Đỏ mắt, khó chịu ở mắt do tổn thương kết mạc."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính là phản ứng dị ứng với thuốc, có thể xuất hiện ngay sau khi uống thuốc khoảng 30-60 phút, hoặc sau 3-14 ngày.",
+    "related_factors": "Sự kết hợp của yếu tố môi trường và di truyền như kháng nguyên bạch cầu người (HLA) cụ thể. Các thuốc có nguy cơ cao gây bệnh bao gồm: Allopurinol, Trimethoprim-sulfamethoxazole, kháng sinh sulfonamid, aminopenicillin, cephalosporin, quinolon, carbamazepine, phenytoin, phenobarbital và nhóm thuốc kháng viêm không steroid (NSAID) thuộc họ Oxicam. Nguyên nhân ít gặp: nhiễm virus (virus Herpes, HIV, viêm gan A), mắc bệnh nhiễm khuẩn, mắc bệnh ký sinh trùng, bệnh miễn dịch, rối loạn nội tiết.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em",
+    "Người lớn dưới 30 tuổi",
+    "Người già",
+    "Nam giới (tỷ lệ mắc cao hơn nữ)",
+    "Trẻ mắc phải tình trạng nhiễm trùng (như viêm phổi)",
+    "Người đang sử dụng các loại thuốc có nguy cơ cao gây dị ứng"
+  ],
+  "complications": [
+    "Tử vong (tỷ lệ tử vong do SJS là 16,9%; do TEN là 29,4%)",
+    "Nhiễm trùng huyết",
+    "Sốc phản vệ",
+    "Suy đa tạng",
+    "Viêm phổi",
+    "Da khô, ngứa, thay đổi màu da sau phục hồi",
+    "Biến chứng ở mắt: sưng và/hoặc khô mãn tính, kích ứng mãn tính, khó nhìn, nhạy cảm với ánh sáng",
+    "Đổ quá nhiều mồ hôi",
+    "Tổn thương phổi, bệnh phổi tắc nghẽn mãn tính, hen suyễn",
+    "Mất hoặc biến dạng móng",
+    "Rụng tóc",
+    "Khô màng nhầy, gây vấn đề khi đi tiểu",
+    "Hội chứng mệt mỏi mãn tính",
+    "Vấn đề với vị giác"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xem xét vùng da và niêm mạc bị ảnh hưởng",
+      "Đánh giá mức độ đau của người bệnh",
+      "Đánh giá mức độ tổn thương da"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sinh thiết da",
+        "description": "Lấy mẫu da để xác định tình trạng bệnh lý và mức độ tổn thương."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Để xem xét tình trạng nhiễm trùng hay dị ứng ở người bệnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị hội chứng Stevens-Johnson cần được thực hiện kịp thời để tránh các biến chứng nguy hiểm có thể gây tử vong. Trường hợp nặng, bệnh nhân có thể sẽ phải nhập viện điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Ngừng sử dụng thuốc gây dị ứng",
+        "description": "Ngừng ngay việc uống loại thuốc đã gây ra tình trạng dị ứng."
+      },
+      {
+        "name": "Thay thế chất điện giải",
+        "description": "Dùng dịch truyền tĩnh mạch (IV) để bù nước và điện giải."
+      },
+      {
+        "name": "Chăm sóc vết thương",
+        "description": "Sử dụng băng gạc không dính trên vùng da bị tổn thương."
+      },
+      {
+        "name": "Dinh dưỡng",
+        "description": "Sử dụng thực phẩm có hàm lượng calo cao, tăng sức đề kháng để thúc đẩy quá trình chữa lành bệnh."
+      },
+      {
+        "name": "Điều trị hỗ trợ",
+        "description": "Sử dụng kháng sinh, kháng histamin khi cần thiết để ngăn ngừa nhiễm trùng. Dùng thuốc giảm đau."
+      },
+      {
+        "name": "Chăm sóc đặc biệt",
+        "description": "Điều trị tại bệnh viện/phòng chăm sóc đặc biệt/phòng bỏng với sự tham gia của đội ngũ bác sĩ chuyên khoa da liễu, hồi sức tích cực, bác sĩ mắt."
+      },
+      {
+        "name": "Điều trị nâng cao",
+        "description": "Trong một số trường hợp: immunoglobulin IV, cyclosporin, steroid IV hoặc ghép màng ối (cho mắt)."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giữ sạch vùng da nổi bóng nước",
+      "Làm sạch bằng povidine hoặc xanh methylen nếu nốt bóng nước còn hở",
+      "Giữ vệ sinh sạch sẽ nếu nốt bóng nước đã đóng mài",
+      "Ưu tiên ăn uống nhóm thực phẩm tăng sức đề kháng để cơ thể mau hồi phục"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +143,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không sử dụng loại thuốc đã từng gây ra tình trạng dị ứng",
+      "Tham khảo ý kiến bác sĩ trước khi sử dụng thuốc nếu từng có tiền sử dị ứng",
+      "Ngưng dùng thuốc và tái khám ngay khi thấy biểu hiện nổi mẩn ngứa, nổi ban da sau khi uống thuốc",
+      "Thông báo cho nhân viên y tế về tiền sử dị ứng thuốc trước khi dùng bất kỳ thuốc mới nào"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng Stevens Johnson có nguy hiểm không?",
+      "answer": "Hội chứng Stevens Johnson là bệnh hiếm gặp nhưng rất nguy hiểm với tỷ lệ tử vong từ 5% đến 30%. Biến chứng nặng nhất là tử vong, ngoài ra còn có nhiễm trùng huyết, sốc phản vệ, suy đa tạng, viêm phổi và nhiều tác động lâu dài đến da, mắt, phổi và các bộ phận khác của cơ thể."
+    },
+    {
+      "question": "Làm thế nào để phân biệt Hội chứng Stevens Johnson và hoại tử thượng bì nhiễm độc (TEN)?",
+      "answer": "Hội chứng Stevens Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN) được coi là cùng một bệnh nhưng ở mức độ nặng nhẹ khác nhau. Tình trạng lột da ở người bệnh SJS ảnh hưởng ít hơn 10% cơ thể, trong khi TEN ảnh hưởng hơn 30% cơ thể. TEN có tỷ lệ tử vong cao hơn so với SJS."
+    },
+    {
+      "question": "Sau khi hồi phục từ hội chứng Stevens Johnson, có thể có các vấn đề sức khỏe lâu dài nào?",
+      "answer": "Sau khi hồi phục, người bệnh có thể gặp các vấn đề lâu dài như: da khô, ngứa, thay đổi màu da; vấn đề về mắt (sưng, khô, kích ứng, khó nhìn, nhạy cảm với ánh sáng); đổ quá nhiều mồ hôi; tổn thương phổi; mất hoặc biến dạng móng; rụng tóc; khô màng nhầy; hội chứng mệt mỏi mãn tính; và vấn đề với vị giác."
+    },
+    {
+      "question": "Hội chứng Stevens Johnson có thể phòng ngừa được không?",
+      "answer": "Hội chứng Stevens Johnson không thể phòng ngừa hoàn toàn vì nguyên nhân chủ yếu đến từ dị ứng thuốc. Cách phòng ngừa tốt nhất là tránh sử dụng lại loại thuốc đã từng gây ra tình trạng dị ứng, vì nếu tái sử dụng có thể gây ra phản ứng nặng hơn, thậm chí dẫn đến tử vong."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nốt lở loét ở mắt, mũi, miệng, họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-stevens-johnson",
+        "benh-behcet",
+        "nhiem-virus-herpes"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lở loét âm hộ, âm đạo kèm chảy máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-stevens-johnson",
+        "nhiem-trung-duong-sinh-duc",
+        "benh-lay-truyen-qua-duong-tinh-duc"
+      ]
+    },
+    {
+      "question": "Tôi hay bị rát, buốt khi đi tiểu và lở loét đường tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-stevens-johnson",
+        "viem-duong-tiet-nieu",
+        "benh-lay-truyen-qua-duong-tinh-duc"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng ban đỏ trên da, sốt và đau cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-stevens-johnson",
+        "sot-phat-ban",
+        "lupus-ban-do"
+      ]
+    },
+    {
+      "question": "Tôi thấy da mình bong tróc và chảy nước dãi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-stevens-johnson",
+        "viem-da-do-di-ung",
+        "hoai-tu-thuong-bi-nhiem-doc"
+      ]
     }
   ]
 }

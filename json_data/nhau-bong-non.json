@@ -1,39 +1,104 @@
 {
   "disease_id": "nhau-bong-non",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhau bong non",
+  "disease_alternative_names": ["Rau bong non", "Placental Abruption"],
+  "disease_definition": "Nhau bong non hay rau bong non (Placental Abruption) là tai biến sản khoa nguy hiểm, xảy ra khi nhau thai bám đúng vị trí nhưng bị bong sớm trước khi thai nhi sẵn sàng sổ ra ngoài. Tai biến này thường xảy ra đột ngột, tiến triển nhanh, nếu không được can thiệp xử trí kịp thời có thể đe dọa tính mạng thai phụ lẫn thai nhi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chảy máu âm đạo",
+      "description": "Triệu chứng phổ biến nhất, lượng máu có thể khác nhau tùy trường hợp. Đôi khi không thấy máu ở âm đạo do máu bị giữ lại giữa nhau thai và thành tử cung."
+    },
+    {
+      "name": "Đau bụng dưới đột ngột",
+      "description": "Cơn đau đột ngột và kéo dài, đôi khi thai phụ thấy đau vật vã, muốn ngất xỉu."
+    },
+    {
+      "name": "Đau lưng",
+      "description": "Đau lưng có thể xuất hiện cùng với đau bụng hoặc riêng biệt, là triệu chứng thường gặp."
+    },
+    {
+      "name": "Co thắt tử cung",
+      "description": "Các cơn co tử cung kéo dài hơn và dữ dội hơn so với cơn co chuyển dạ bình thường."
+    },
+    {
+      "name": "Giảm cử động thai nhi",
+      "description": "Thai nhi ít cử động hơn bình thường do bị ảnh hưởng bởi tình trạng bong nhau."
+    },
+    {
+      "name": "Tử cung cứng",
+      "description": "Trong trường hợp nặng, tử cung co cứng như gỗ, khi thăm khám bác sĩ sẽ phát hiện tử cung căng cứng bất thường."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện tại vẫn chưa biết được nguyên nhân chính xác gây nhau bong non. Tuy nhiên, sự xuất huyết ở màng rụng đáy dẫn đến hình thành khối máu tụ ở màng bụng là khởi đầu của sự bong non. Khi diện tích xuất huyết tăng dần sẽ hình thành khối máu tụ ở màng rụng, tách màng đệm khỏi lớp cơ tử cung.",
+    "related_factors": "Tiền sản giật, chấn thương ở vùng bụng (như tai nạn giao thông, té ngã), và các thủ thuật can thiệp xâm lấn trong thai kỳ (như chọc ối, lấy máu cuống rốn, thủ thuật ngoại xoay thai) có thể góp phần gây nhau bong non.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử bị nhau bong non ở những lần mang thai trước (tăng nguy cơ khoảng 10%)",
+    "Hút thuốc lá (tăng 40% nguy cơ mắc bệnh)",
+    "Sử dụng cocain và các chất kích thích",
+    "Huyết áp cao khi mang thai",
+    "Tiểu đường thai kỳ",
+    "Hội chứng HELLP",
+    "Mang thai khi lớn tuổi (đặc biệt trên 35 tuổi, phần lớn trên 40 tuổi)",
+    "Mang thai đôi hoặc đa thai"
+  ],
+  "complications": [
+    "Thai nhi bị sinh non (trước tuần thứ 37)",
+    "Thai nhi gặp vấn đề về phát triển do sinh non",
+    "Thai chết lưu",
+    "Thai phụ bị sốc do mất máu",
+    "Rối loạn đông máu ở thai phụ",
+    "Phong huyết tử cung nhau, có thể phải cắt tử cung",
+    "Tăng huyết áp, suy gan thận cấp, suy tuyến thượng thận"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng để kiểm tra triệu chứng",
+      "Hỏi thăm về tình trạng chảy máu âm đạo, vị trí đau và mức độ đau",
+      "Theo dõi huyết áp thai phụ",
+      "Theo dõi nhịp tim và chuyển động của thai nhi",
+      "Theo dõi các cơn co thắt tử cung"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Phương pháp phổ biến và thuận tiện nhất để xác định vị trí chảy máu và kiểm tra tình trạng thai nhi"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá lượng máu mất, tình trạng đông máu và các chỉ số quan trọng khác"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra các bất thường liên quan đến tiền sản giật và các vấn đề khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Khi nhau bong non xảy ra, tức là nhau thai bong tách khỏi thành tử cung sẽ không có phương pháp nào đưa nhau thai trở lại vào trong. Phụ thuộc vào tuổi thai nhi, mức độ nghiêm trọng của bong nhau, tình trạng sức khỏe của mẹ và bé mà bác sĩ sẽ có chỉ định điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị với thai nhi chưa đủ tháng (dưới 34 tuần)",
+        "description": "Nhập viện để theo dõi chặt chẽ, nghỉ ngơi tại bệnh viện, có thể sử dụng thuốc tăng trưởng phổi cho thai nhi. Nếu bong nhau thai nghiêm trọng, cần can thiệp sinh ngay lập tức."
+      },
+      {
+        "name": "Điều trị với thai nhi đủ tháng (từ 34 tuần trở lên)",
+        "description": "Nếu chuyển dạ nhẹ nhàng và nhịp tim thai nhi ổn định, có thể sinh thường qua ngả âm đạo. Nếu chuyển dạ khó khăn hoặc thai nhi gặp nguy hiểm, sẽ mổ lấy thai khẩn cấp."
+      },
+      {
+        "name": "Xử trí sau sinh",
+        "description": "Dựa trên lượng máu mất, tình trạng các cơ quan bị ảnh hưởng và bệnh lý nền trước đó của thai phụ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi chặt chẽ tình trạng sức khỏe của thai phụ và nhịp tim thai nhi",
+      "Bổ sung các chất dinh dưỡng cần thiết cho cả mẹ và bé",
+      "Nghỉ ngơi hoàn toàn tại giường",
+      "Tránh các hoạt động gắng sức",
+      "Tuân thủ chỉ định của bác sĩ về cách chăm sóc thai kỳ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +106,52 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá, uống rượu bia, sử dụng cocain hoặc các chất kích thích trong suốt quá trình mang thai",
+      "Luôn thắt dây an toàn khi đi xe, đặc biệt là vào 3 tháng cuối thai kỳ",
+      "Đến ngay cơ sở y tế khi bị chấn thương do tai nạn, té ngã hoặc có vật đập mạnh vào vùng bụng",
+      "Nếu có tiền sử tăng huyết áp mạn tính hoặc tăng huyết áp thai kỳ, thông báo với bác sĩ để được theo dõi thai kỳ chặt chẽ",
+      "Nếu có tiền sử nhau bong non ở những lần mang thai trước, tham khảo ý kiến bác sĩ trước khi mang thai lần tiếp theo"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Từng bị nhau bong non có bị lần nữa không?",
+      "answer": "Thống kê cho thấy, khoảng 15% trường hợp bị bong nhau lần nữa nếu từng bị một lần nhau bong non. Nếu bị bong nhau 2 lần, nguy cơ này tăng lên khoảng 25%. Chính vì thế, các chuyên gia y tế khuyến cáo, nếu từng bị nhau bong non trước đó thai phụ cần thông báo với bác sĩ Sản khoa để được theo dõi thai kỳ chặt chẽ."
+    },
+    {
+      "question": "Tỷ lệ sống sót của thai nhi khi mẹ bị bong nhau non là bao nhiêu?",
+      "answer": "Hai yếu tố ảnh hưởng đến tỷ lệ sống sót của thai nhi là tuổi thai khi sinh và mức độ nghiêm trọng của ca bong nhau non. Do đó, phát hiện sớm và điều trị kịp thời là yếu tố tiên quyết giúp giảm thiểu biến chứng, tăng tỷ lệ sống sót của thai nhi sau khi sổ ra ngoài."
+    },
+    {
+      "question": "Quan hệ tình dục khi mang thai có gây bong nhau không?",
+      "answer": "Quan hệ tình dục không phải là nguyên nhân gây nhau bong nhau. Hầu hết trường hợp quan hệ tình dục khi mang thai là an toàn. Tuy nhiên cần tránh các hoạt động có nguy cơ bị té ngã hoặc chấn thương ở vùng bụng."
+    },
+    {
+      "question": "Hắt hơi có gây bong nhau thai không?",
+      "answer": "Hắt hơi là phản ứng cơ thể bình thường và hoàn toàn không phải nguy cơ gây bong nhau. Nếu thai phụ có bất kỳ lo lắng nào về việc thường xuyên hắt hơi, ho mạnh… thai phụ có thể thăm khám với bác sĩ Sản khoa để được xác định tình trạng và sức khỏe thai nhi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang mang thai và bị chảy máu âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-bong-non", "nhau-tien-dao", "say-thai"]
+    },
+    {
+      "question": "Tôi bị đau bụng dưới đột ngột và kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-bong-non", "doa-say-thai", "chuyen-da-som"]
+    },
+    {
+      "question": "Tôi đang mang thai và cảm thấy đau lưng, co thắt tử cung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-bong-non", "chuyen-da", "viem-duong-tiet-nieu"]
+    },
+    {
+      "question": "Thai nhi trong bụng tôi ít cử động hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-bong-non", "suy-thai", "giam-nuoc-oi"]
+    },
+    {
+      "question": "Tôi bị chảy máu âm đạo và đau bụng dữ dội khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhau-bong-non", "nhau-tien-dao", "say-thai"]
     }
   ]
 }

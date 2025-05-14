@@ -1,39 +1,126 @@
 {
   "disease_id": "insulinoma",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Insulinoma",
+  "disease_alternative_names": [
+    "U tụy nội tiết Insulinoma",
+    "U tiết insulin",
+    "U tế bào tiết insulin"
+  ],
+  "disease_definition": "Insulinoma là một loại u thần kinh nội tiết bắt nguồn từ các tế bào tiểu đảo tụy. Trong số tất cả các u tiết insulin, 80% là đơn lẻ và có thể được ghép lại nếu được xác định. Chỉ có 10% u tiết insulin là ác tính. U tiết insulin xảy ra ở 1/250.000 người với tuổi trung bình là 50, ngoại trừ trong trường hợp đa u tuyến nội tiết (MEN) típ 1 (khoảng 10% u tiết insulin) lại xảy ra ở lứa tuổi 20.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Hạ đường huyết khi đói",
+      "description": "Triệu chứng chính của insulinoma, thường gặp khi người bệnh đói."
+    },
+    {
+      "name": "Choáng váng, mệt lả, run rẩy, đổ mồ hôi",
+      "description": "Các triệu chứng kích thích giao cảm thường xuất hiện do hạ đường huyết."
+    },
+    {
+      "name": "Đánh trống ngực, đói bụng và lo lắng",
+      "description": "Biểu hiện của sự kích thích hệ thần kinh giao cảm do phản ứng với hạ đường huyết."
+    },
+    {
+      "name": "Nhức đầu, lú lẫn, rối loạn thị giác",
+      "description": "Các rối loạn thần kinh trung ương do tình trạng thiếu đường trong máu."
+    },
+    {
+      "name": "Nhược cơ, bại liệt",
+      "description": "Biểu hiện thần kinh do thiếu năng lượng cho hoạt động thần kinh cơ."
+    },
+    {
+      "name": "Mất ngủ, thay đổi nhân cách",
+      "description": "Rối loạn tâm thần do não thiếu năng lượng để duy trì chức năng bình thường."
+    },
+    {
+      "name": "Mất ý thức, động kinh và hôn mê",
+      "description": "Biến chứng nghiêm trọng khi hạ đường huyết kéo dài, không được điều trị kịp thời."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác gây bệnh u tụy nội tiết đến nay vẫn chưa rõ ràng. Insulinoma xảy ra khi các tế bào nội tiết trong tuyến tụy tạo ra insulin bắt đầu tăng trưởng không kiểm soát.",
+    "related_factors": "Insulinoma có liên quan đến các hội chứng và tình trạng di truyền như đa u tuyến nội tiết tuýp 1 (MEN1), hội chứng Von Hippel-Lindau, bệnh u xơ thần kinh tuýp 1 (NF1), và phức hợp xơ cứng củ (TCS).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố di truyền (tiền sử gia đình có người mắc bệnh)",
+    "Đa u tuyến nội tiết tuýp 1 (MEN1)",
+    "Hội chứng Von Hippel-Lindau",
+    "Bệnh u xơ thần kinh tuýp 1 (NF1)",
+    "Phức hợp xơ cứng củ (TCS)"
+  ],
+  "complications": [
+    "Hạ đường huyết kéo dài gây tổn thương vĩnh viễn hệ thần kinh trung ương",
+    "Di chứng tâm thần kinh nặng, thậm chí gây tàn phế",
+    "Tổn thương thần kinh không hồi phục ở người lớn",
+    "Khối u có thể trở thành ác tính (hiếm gặp, dưới 10%)",
+    "Di căn đến các hạch bạch huyết và gan"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Kiểm tra lượng đường trong máu",
+      "Nghiệm pháp nhịn ăn",
+      "Các kỹ thuật chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm đường máu",
+        "description": "Kiểm tra lượng đường trong máu, thường thấp dưới 3.0 mmol/L (có triệu chứng) hoặc dưới 2,2 mmol/L (không triệu chứng) ở người bệnh insulinoma."
+      },
+      {
+        "name": "Nghiệm pháp nhịn ăn",
+        "description": "Phương pháp chuẩn để chẩn đoán u tiết insulin, thường kéo dài 72 giờ, theo dõi đường máu và các hormone liên quan. Nghiệm pháp dương tính khi đường máu < 2,5 mmol/l, insulin huyết thanh > 10mmol/l, C-peptid > 2,5 nmol/l, Proinsulin > 0,5 mmol/l."
+      },
+      {
+        "name": "Siêu âm nội soi (EUS)",
+        "description": "Kỹ thuật kết hợp siêu âm và nội soi để quan sát bên trong ống dẫn thức ăn, dạ dày, tuyến tụy và giúp phát hiện khối u nhỏ."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính đa dãy (CT scan)",
+        "description": "Phương pháp chẩn đoán hình ảnh có tiêm thuốc cản quang để phát hiện khối u tụy."
+      },
+      {
+        "name": "Chụp cộng hưởng từ tuyến tụy (MRI)",
+        "description": "Giúp phát hiện khối u tụy, đặc biệt là các khối u nhỏ."
+      },
+      {
+        "name": "Quét phóng xạ octreotide (octreoscan)/PET gallium",
+        "description": "Thực hiện bằng cách tiêm một chất phóng xạ liều thấp vào cơ thể, chất này được tế bào u thần kinh nội tiết hấp thụ và hiển thị trên bản quét."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hầu hết các u tụy nội tiết có thể được chữa khỏi bằng phẫu thuật. Các bác sĩ sẽ xem xét các yếu tố như kích thước, vị trí khối u trước khi quyết định phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt bỏ nhân",
+        "description": "Phẫu thuật được thực hiện bằng cách cắt bỏ nhân, giống như lấy lòng đỏ từ trong một quả trứng luộc chín."
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ một phần tuyến tụy",
+        "description": "Phẫu thuật này bao gồm việc loại bỏ một phần tuyến tụy bị bệnh."
+      },
+      {
+        "name": "Phẫu thuật Whipple",
+        "description": "Bác sĩ phẫu thuật sẽ loại bỏ một phần tuyến tụy, túi mật, các hạch bạch huyết gần đó và một phần dạ dày, ruột non, ống mật nếu u tụy là ác tính."
+      },
+      {
+        "name": "Liệu pháp hạt nhân phóng xạ thụ thể peptit",
+        "description": "Phương pháp điều trị tiêm một loại thuốc kết hợp với nguyên tử phóng xạ và axit amin vào máu, có thể nhắm mục tiêu và tiêu diệt các tế bào biểu mô."
+      },
+      {
+        "name": "Sử dụng thuốc",
+        "description": "Bác sĩ có thể chỉ định các loại thuốc như Diazoxide, Octreotide/Lanreotide, Verapamil, và Phenytoin để kiểm soát tình trạng hạ đường huyết và các triệu chứng khác."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ hướng dẫn của bác sĩ sau phẫu thuật",
+      "Nghỉ ngơi nhiều nhất có thể trong quá trình hồi phục",
+      "Duy trì chế độ ăn uống lành mạnh, cân bằng",
+      "Tham khảo ý kiến chuyên gia dinh dưỡng nếu gặp khó khăn trong ăn uống",
+      "Tìm kiếm hỗ trợ tâm lý nếu gặp vấn đề về cảm xúc",
+      "Thông báo cho bác sĩ nếu có triệu chứng bất thường trong quá trình điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +128,53 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát định kỳ nếu có tiền sử gia đình mắc bệnh",
+      "Theo dõi những thay đổi của cơ thể, đặc biệt là dấu hiệu hạ đường huyết",
+      "Duy trì tâm lý thoải mái, tránh căng thẳng kéo dài",
+      "Hạn chế uống rượu",
+      "Tránh sử dụng nhiều thức ăn chứa hàm lượng chất béo cao",
+      "Duy trì tập luyện và dinh dưỡng hợp lý"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khi nào nên đến cơ sở y tế?",
+      "answer": "Người bệnh nên đi khám lại nếu xuất hiện khác thường trong quá trình điều trị hay sau khi phẫu thuật, ví như người bệnh cảm thấy đau kéo dài dù đã dùng thuốc giảm đau theo chỉ định; hạ đường huyết... Bác sĩ cũng có thể đề nghị người bệnh tái khám sau phẫu thuật, khoảng 3 – 4 tháng. Ngoài ra, người bệnh cũng nên tiếp cận dịch vụ cấp cứu khi thấy xuất hiện các triệu chứng sau: đột nhiên cảm thấy khó thở, sốt cao hơn 38,3 độ C (có thể là dấu hiệu bị nhiễm trùng), nôn ói nhiều tiêu chảy kéo dài."
+    },
+    {
+      "question": "Insulinoma có thể trở thành ác tính không?",
+      "answer": "Trên 90% các khối u insulinoma là khối u lành tính, chỉ có khoảng 1%-2% người bệnh tiến triển thành u ác tính. U lành được chữa khỏi sau phẫu thuật."
+    },
+    {
+      "question": "Insulinoma có mối liên hệ với yếu tố di truyền không?",
+      "answer": "Có, insulinoma có liên quan đến các hội chứng và tình trạng di truyền như đa u tuyến nội tiết tuýp 1 (MEN1), hội chứng Von Hippel-Lindau, bệnh u xơ thần kinh tuýp 1 (NF1), và phức hợp xơ cứng củ (TCS)."
+    },
+    {
+      "question": "Insulinoma được chẩn đoán như thế nào?",
+      "answer": "Insulinoma được chẩn đoán thông qua kiểm tra lượng đường trong máu, nghiệm pháp nhịn ăn 72 giờ, và các kỹ thuật chẩn đoán hình ảnh như siêu âm nội soi, chụp cắt lớp vi tính, chụp cộng hưởng từ, và quét phóng xạ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị choáng váng, mệt lả, run rẩy và đổ mồ hôi khi đói bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["insulinoma", "ha-duong-huyet", "roi-loan-noi-tiet"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như lú lẫn, rối loạn thị giác và nhược cơ khi đói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["insulinoma", "ha-duong-huyet", "roi-loan-than-kinh"]
+    },
+    {
+      "question": "Tôi đang cảm thấy lo lắng, đánh trống ngực và đói bụng dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["insulinoma", "ha-duong-huyet", "roi-loan-lo-au"]
+    },
+    {
+      "question": "Tôi hay bị ngất xỉu và co giật khi chưa kịp ăn gì. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["insulinoma", "ha-duong-huyet", "dong-kinh"]
+    },
+    {
+      "question": "Tôi hay bị hạ đường huyết đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["insulinoma", "dai-thao-duong", "suy-giap"]
     }
   ]
 }

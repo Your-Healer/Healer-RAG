@@ -1,39 +1,131 @@
 {
   "disease_id": "lom-nguc-bam-sinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Lõm ngực bẩm sinh",
+  "disease_alternative_names": [
+    "Ngực hình phễu",
+    "Lõm xương ức",
+    "Pectus Excavatum"
+  ],
+  "disease_definition": "Lõm ngực là bệnh lý ​​dị dạng lồng ngực bẩm sinh, được phát hiện ở cả trẻ em và người lớn. Khiếm khuyết hình thành khi có sự phát triển quá mức hoặc không cân bằng của các sụn sườn phía dưới, đẩy xương ức ra phía sau tạo nên sự cong ra sau đột ngột và sâu của thân xương ức ngay trước chỗ tiếp nối với mỏm mũi kiếm. Bệnh phổ biến ở nam giới hơn nữ giới.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Vết lõm ở ngực",
+      "description": "Dấu hiệu nhận biết duy nhất ở đa số trẻ là xuất hiện vết lõm nhẹ ở ngực. Độ sâu của vết lõm trầm trọng hơn khi trẻ bước vào tuổi vị thành niên và tiếp tục tiến triển xấu hơn khi trưởng thành."
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Nhịp tim tăng nhanh do tim bị chèn ép bởi lồng ngực bị biến dạng."
+    },
+    {
+      "name": "Nhiễm trùng đường hô hấp tái đi tái lại",
+      "description": "Trẻ thường xuyên bị các bệnh nhiễm trùng đường hô hấp do chức năng phổi bị ảnh hưởng."
+    },
+    {
+      "name": "Thở khò khè hoặc ho",
+      "description": "Khó khăn trong hô hấp, phát ra tiếng khò khè khi thở hoặc ho dai dẳng."
+    },
+    {
+      "name": "Tức ngực",
+      "description": "Cảm giác đau hoặc khó chịu ở vùng ngực."
+    },
+    {
+      "name": "Tiếng thổi ở tim",
+      "description": "Âm thanh bất thường phát ra khi tim đập, thường do van tim không đóng kín hoàn toàn."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, thiếu năng lượng thường xuyên."
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Cảm giác chóng mặt, hoa mắt, đặc biệt khi vận động."
+    },
+    {
+      "name": "Hụt hơi, đuối sức khi tập thể dục",
+      "description": "Khó thở, hụt hơi và cảm thấy đuối sức nhanh chóng khi tham gia các hoạt động thể chất."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác của lõm ngực vẫn chưa được xác định, nhưng nhiều khả năng đây là một tình trạng di truyền.",
+    "related_factors": "Bệnh thường liên quan đến các yếu tố di truyền và có thể kết hợp với một số hội chứng di truyền khác.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hội chứng Marfan",
+    "Hội chứng Ehlers-Danlos",
+    "Bệnh xương thủy tinh",
+    "Hội chứng Noonan",
+    "Hội chứng Turner",
+    "Tiền sử gia đình có người bị lõm ngực"
+  ],
+  "complications": [
+    "Chèn ép phổi và tim",
+    "Giảm khả năng bơm máu hiệu quả của tim",
+    "Ảnh hưởng đến hoạt động thể lực",
+    "Đau do biến dạng xương, căng cơ",
+    "Ảnh hưởng tâm lý, thiếu tự tin, ngại giao tiếp",
+    "Mất thẩm mỹ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Kiểm tra hình dáng ngực",
+      "Chụp X-quang ngực",
+      "Chụp CT hoặc MRI",
+      "Điện tâm đồ",
+      "Siêu âm tim",
+      "Xét nghiệm chức năng hô hấp",
+      "Bài tập gắng sức"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "X-quang ngực",
+        "description": "Cung cấp hình ảnh về phần lõm của xương ức và xem tim có bị chèn ép dẫn tới dịch chuyển sang bên trái của ngực hay không."
+      },
+      {
+        "name": "Chụp CT hoặc MRI",
+        "description": "Giúp xác định mức độ nghiêm trọng của vết lõm trên ngực và xem tim hoặc phổi có bị chèn ép không. CT ngực giúp đo chỉ số Haller (HI). Chỉ số bình thường là 2,5. Nếu lớn hơn 3,2 là tình trạng lõm ngực nặng."
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Cho biết nhịp tim đập bình thường hay không đều, các tín hiệu điện điều khiển nhịp tim có phát đúng cách hay không."
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Giúp bác sĩ xem thành ngực ảnh hưởng đến chức năng tim và lưu lượng máu qua tim như thế nào. Còn giúp kiểm tra các dị tật khác như sa van hai lá, đánh giá gốc và van động mạch chủ trong hội chứng Marfan."
+      },
+      {
+        "name": "Xét nghiệm chức năng hô hấp",
+        "description": "Đo các dòng khí khi hít vào/thở ra, từ đó tính toán được các chỉ số chức năng phổi quan trọng như lượng không khí mà phổi có thể giữ, tốc độ làm trống phổi."
+      },
+      {
+        "name": "Bài tập gắng sức",
+        "description": "Theo dõi xem tim và phổi hoạt động như thế nào khi bệnh nhân tập thể dục, thường là trên xe đạp hoặc máy chạy bộ tại chỗ."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Lõm ngực có thể chữa khỏi hoàn toàn nếu được phát hiện sớm và có phác đồ điều trị phù hợp. Tùy theo mức độ lõm và hình thái ngực lõm, có ảnh hưởng tới chức năng của tim phổi hay không, có kết hợp các dị tật bẩm sinh khác không, bác sĩ sẽ quyết định thời điểm để phẫu thuật điều trị lõm ngực.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật Ravitch",
+        "description": "Bác sĩ lấy bỏ sụn sườn quá phát nhưng giữ lại màng sụn và cố định xương ức ở vị trí bình thường. Các sụn sườn sau đó sẽ phát triển theo các màng sụn để lại và tạo một khung mới, giữ xương ức ở vị trí đã được chỉnh sửa và cố định. Phương pháp này có nhược điểm là để lại sẹo lớn."
+      },
+      {
+        "name": "Phẫu thuật Nuss",
+        "description": "Phương pháp phẫu thuật xâm lấn tối thiểu. Bác sĩ chỉ mở các vết mổ nhỏ ở hai bên ngực để đưa camera vào lồng ngực, từ đó quan sát rõ tim và các mạch máu lớn. So với phương pháp Ravitch, phẫu thuật Nuss hạn chế chảy máu, giảm đau và đảm bảo thẩm mỹ cho người bệnh."
+      },
+      {
+        "name": "Bài tập thể chất",
+        "description": "Đối với những trẻ bị lõm ngực từ nhẹ đến trung bình và chưa có chỉ định phẫu thuật, một số bài tập có thể giúp cải thiện hình dáng ngực cũng như giảm triệu chứng khó chịu, như bài tập lưng thẳng và bài tập mở rộng ngực."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sau phẫu thuật, trẻ cần giữ tư thế ngực thẳng, tránh xoay vặn, gù vẹo, làm lệch thanh nâng ngực",
+      "Hạn chế tập những môn thể thao đối kháng, gắng sức nhằm giảm thiểu nguy cơ xẹp phổi",
+      "Đưa trẻ đi tái khám theo lịch",
+      "Khoảng 2 năm sau mổ, khi xương ức ổn định, cứng chắc ở tư thế phẳng, trẻ sẽ được thực hiện phẫu thuật lần hai để rút thanh nâng ngực",
+      "Trường hợp trẻ phẫu thuật sau 18 tuổi thường từ 3-4 năm mới có thể rút thanh nâng ngực"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +133,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không có cách phòng bệnh hiệu quả do bệnh có tính chất di truyền",
+      "Phát hiện sớm và điều trị kịp thời để ngăn ngừa biến chứng",
+      "Đối với trẻ bị lõm ngực nhẹ, có thể tập các bài tập thể lực nhẹ nhàng để cải thiện tình trạng",
+      "Theo dõi sức khỏe của trẻ thường xuyên nếu gia đình có tiền sử bệnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Lõm ngực có nguy hiểm không?",
+      "answer": "Lõm ngực mức độ nhẹ thường không biểu hiện triệu chứng và không ảnh hưởng đến sức khỏe. Tuy nhiên, nếu không được điều trị thì tùy theo mức độ bệnh sẽ gây đau do biến dạng xương, căng cơ hoặc chèn ép tim phổi, đẩy tim sang bên trái lồng ngực và làm giảm khả năng bơm máu hiệu quả, ảnh hưởng đến hoạt động thể lực của trẻ. Không chỉ gây mất thẩm mỹ, dị tật này còn ảnh hưởng không nhỏ đến tâm sinh lý trẻ."
+    },
+    {
+      "question": "Lõm ngực có chữa được không?",
+      "answer": "Lõm ngực có thể chữa khỏi hoàn toàn nếu được phát hiện sớm và có phác đồ điều trị phù hợp. Hai phương pháp phẫu thuật lõm xương ức phổ biến nhất là Ravitch và Nuss. Ngoài ra, đối với những trẻ bị lõm ngực từ nhẹ đến trung bình và chưa có chỉ định phẫu thuật, một số bài tập thể chất có thể giúp cải thiện hình dáng ngực cũng như giảm triệu chứng khó chịu."
+    },
+    {
+      "question": "Thời điểm nào thích hợp để phẫu thuật lõm ngực?",
+      "answer": "Những trường hợp lõm ngực mức độ nặng, ảnh hưởng chức năng tim phổi hay kết hợp dị tật tim bẩm sinh nên được điều trị sớm. Trường hợp chỉ lõm ngực đơn thuần và mức độ vừa phải, độ tuổi phù hợp để điều trị là từ 6-18 tuổi. Nếu phẫu thuật sớm quá, xương chưa phát triển hoàn thiện; ngược lại nếu điều trị muộn quá khi khung xương đã định hình, bệnh nhi sẽ rất đau."
+    },
+    {
+      "question": "Có những rủi ro gì khi phẫu thuật sửa chữa lõm ngực?",
+      "answer": "Giống như những ca phẫu thuật lớn khác, phẫu thuật sửa chữa lõm ngực cũng tiềm ẩn rủi ro. Các biến chứng có thể xảy ra là: tràn khí màng phổi, tràn dịch màng phổi, chảy nhiều máu, nhiễm trùng, tái phát lõm ngực sau khi gỡ bỏ thanh nâng, và tổn thương các cơ quan lân cận như tim, phổi, các mạch máu lớn."
+    },
+    {
+      "question": "Sau phẫu thuật lõm ngực cần lưu ý gì?",
+      "answer": "Sau phẫu thuật, trẻ cần giữ tư thế ngực thẳng, tránh xoay vặn, gù vẹo, làm lệch thanh nâng ngực. Trẻ nên hạn chế tập những môn thể thao đối kháng, gắng sức nhằm giảm thiểu nguy cơ xẹp phổi. Bố mẹ cần đưa trẻ đi tái khám theo lịch. Khoảng 2 năm sau mổ, khi xương ức ổn định, cứng chắc ở tư thế phẳng, trẻ sẽ được thực hiện phẫu thuật lần hai để rút thanh nâng ngực."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện vết lõm nhẹ ở ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lom-nguc-bam-sinh",
+        "loi-nguc-bam-sinh",
+        "di-dang-long-nguc"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tim đập nhanh, nhiễm trùng đường hô hấp tái đi tái lại, và thở khò khè. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lom-nguc-bam-sinh", "hen-suyen", "viem-phe-quan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tức ngực, tiếng thổi ở tim, và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lom-nguc-bam-sinh", "roi-loan-van-tim", "suy-tim"]
+    },
+    {
+      "question": "Tôi thường xuyên bị chóng mặt, hụt hơi, và đuối sức khi tập thể dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lom-nguc-bam-sinh",
+        "thieu-mau",
+        "roi-loan-nhip-tim"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy ho, tim đập nhanh, và tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["lom-nguc-bam-sinh", "viem-phoi", "hen-suyen"]
     }
   ]
 }

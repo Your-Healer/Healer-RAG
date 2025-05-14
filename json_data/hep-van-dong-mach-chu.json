@@ -1,39 +1,108 @@
 {
   "disease_id": "hep-van-dong-mach-chu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hẹp van động mạch chủ",
+  "disease_alternative_names": ["Hẹp van ĐMC", "Aortic stenosis"],
+  "disease_definition": "Hẹp van động mạch chủ là tình trạng van không thể mở ra hoàn toàn. Tình trạng này sẽ làm giảm hoặc chặn lưu lượng máu từ tim (thất trái) đi nuôi cơ thể. Ban đầu, tim sẽ làm việc nhiều hơn để có thể bù đắp lại lượng máu thiếu hụt, đưa đến các cơ quan trong cơ thể. Tuy nhiên, đến một thời điểm nào đó, tim sẽ bị quá sức, dẫn đến phì đại cơ tim thất trái hoặc suy tim.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau ngực",
+      "description": "Cảm giác đau ở vùng ngực, thường xuất hiện khi gắng sức như chơi thể thao hoặc khi sinh nở."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, đặc biệt khi hoạt động gắng sức, do tim không thể bơm đủ máu đến các cơ quan."
+    },
+    {
+      "name": "Mệt, xây xẩm hoặc ngất",
+      "description": "Cảm giác mệt mỏi, chóng mặt hoặc ngất xỉu, nhất là khi gắng sức do máu không lên đủ nuôi não."
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Cảm giác hồi hộp, tim đập nhanh hoặc bất thường do tim phải làm việc nhiều hơn để bơm máu qua van bị hẹp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hẹp van động mạch chủ do van không mở hoàn toàn, làm giảm lưu lượng máu từ tim đến các cơ quan trong cơ thể.",
+    "related_factors": "Thoái hóa vôi ở người lớn tuổi, dị tật tim bẩm sinh (van ĐMC hai mảnh, một mảnh hoặc bốn mảnh), và hậu thấp (biến chứng của viêm họng do liên cầu khuẩn).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao",
+    "Bệnh tim bẩm sinh (như van động mạch chủ hai mảnh)",
+    "Tiền sử nhiễm trùng ảnh hưởng đến tim",
+    "Đái tháo đường",
+    "Cholesterol cao",
+    "Huyết áp cao",
+    "Bệnh thận mạn tính",
+    "Tiền sử xạ trị vùng ngực"
+  ],
+  "complications": [
+    "Suy tim",
+    "Viêm nội tâm mạc",
+    "Loạn nhịp tim",
+    "Đột quỵ",
+    "Cục máu đông",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Nghe tim", "Kiểm tra cận lâm sàng"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm tim",
+        "description": "Khảo sát van và động mạch chủ, xác định nguyên nhân và mức độ của bệnh, cũng như phát hiện các bệnh van tim khác."
+      },
+      {
+        "name": "Siêu âm tim qua thực quản",
+        "description": "Giúp khảo sát van động mạch chủ chi tiết hơn so với siêu âm tim thông thường."
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Phát hiện dày, giãn các buồng tim, loạn nhịp tim và các bất thường khác."
+      },
+      {
+        "name": "X-quang ngực",
+        "description": "Kiểm tra tim hoặc động mạch chủ có giãn không và tình trạng của phổi."
+      },
+      {
+        "name": "Trắc nghiệm gắng sức",
+        "description": "Xem triệu chứng có xuất hiện khi hoạt động thể chất không và giúp xác định tình trạng bệnh (không áp dụng cho bệnh nhân hẹp van ĐMC nặng có triệu chứng)."
+      },
+      {
+        "name": "Cộng hưởng từ (MRI), CT scan tim",
+        "description": "Cho hình ảnh chi tiết về tim, gồm cả van và động mạch chủ."
+      },
+      {
+        "name": "Thông tim",
+        "description": "Áp dụng nếu các cận lâm sàng khác không thể chẩn đoán hoặc xác định mức độ nghiêm trọng của bệnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị hẹp van động mạch chủ phụ thuộc vào tình trạng của mỗi người bệnh. Nếu triệu chứng nhẹ, cần theo dõi thường xuyên. Khi bệnh nặng thì cần phẫu thuật thay van.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay van động mạch chủ",
+        "description": "Phẫu thuật thay van bệnh bằng van cơ học hoặc van sinh học (làm từ mô tim của bò, lợn hoặc người, hoặc sử dụng van động mạch phổi của chính bệnh nhân)."
+      },
+      {
+        "name": "Thay van qua ống thông",
+        "description": "Thay van qua ống thông mà không cần phẫu thuật mở ngực, thường áp dụng cho những trường hợp không thể phẫu thuật thông thường."
+      },
+      {
+        "name": "Theo dõi và điều trị nội khoa",
+        "description": "Đối với trường hợp hẹp van nhẹ hoặc vừa, bác sĩ có thể khuyến nghị theo dõi thường xuyên, thay đổi lối sống, phòng ngừa nhiễm trùng ở tim và dùng thuốc để điều trị các triệu chứng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám định kỳ để được bác sĩ theo dõi",
+      "Tuân thủ chế độ ăn có lợi cho tim mạch: nhiều rau quả, sản phẩm từ sữa ít béo, thịt gia cầm, cá và ngũ cốc nguyên hạt",
+      "Duy trì cân nặng hợp lý",
+      "Hoạt động thể chất theo hướng dẫn của bác sĩ",
+      "Kiểm soát căng thẳng (stress)",
+      "Tránh thuốc lá",
+      "Kiểm soát huyết áp",
+      "Phụ nữ tuổi sinh đẻ có hẹp van tim cần thảo luận với bác sĩ trước khi mang thai"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +110,75 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thăm khám sức khỏe định kỳ mỗi 6 tháng/lần",
+      "Điều trị viêm họng do liên cầu khuẩn kịp thời và đúng cách",
+      "Kiểm soát các yếu tố nguy cơ tim mạch: đái tháo đường, huyết áp cao, béo phì và cholesterol cao",
+      "Chăm sóc răng và nướu để phòng ngừa nhiễm trùng",
+      "Duy trì chế độ ăn có lợi cho tim mạch",
+      "Hoạt động thể chất thường xuyên theo chỉ dẫn của bác sĩ",
+      "Kiểm soát căng thẳng (stress)",
+      "Tránh thuốc lá"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hẹp van động mạch chủ có nguy hiểm không?",
+      "answer": "Hẹp van động mạch chủ là một trong những bệnh van tim nguy hiểm hàng đầu. Khi không được điều trị, bệnh có thể dẫn đến nhiều biến chứng nghiêm trọng như suy tim, viêm nội tâm mạc, loạn nhịp tim, đột quỵ, cục máu đông, và thậm chí tử vong. Khi đã có triệu chứng, tiên lượng sống còn không điều trị rất kém: khi có đau ngực, sống còn trung bình là 5 năm, ngất là 3 năm và suy tim chỉ còn 2 năm."
+    },
+    {
+      "question": "Triệu chứng của hẹp van động mạch chủ là gì?",
+      "answer": "Khi hẹp van động mạch chủ nhẹ, người bệnh thường không có dấu hiệu. Khi bệnh nặng hơn, các triệu chứng thường xuất hiện khi gắng sức, bao gồm: đau ngực, khó thở, mệt mỏi, xây xẩm hoặc ngất, và có thể có rối loạn nhịp (hồi hộp). Các triệu chứng này là dấu hiệu cảnh báo quan trọng và cần được thăm khám ngay."
+    },
+    {
+      "question": "Khi nào cần phẫu thuật thay van động mạch chủ?",
+      "answer": "Phẫu thuật thay van động mạch chủ được chỉ định khi bệnh ở mức độ nặng và có triệu chứng. Đối với trường hợp hẹp van nặng nhưng chưa có triệu chứng, bác sĩ sẽ cân nhắc dựa trên các yếu tố nguy cơ và kết quả kiểm tra chức năng tim. Nếu hẹp van nặng, dù có hay không có triệu chứng, việc thay van thường được khuyến cáo theo đúng hướng dẫn lâm sàng hiện hành."
+    },
+    {
+      "question": "Phụ nữ mang thai bị hẹp van động mạch chủ cần lưu ý gì?",
+      "answer": "Phụ nữ tuổi sinh đẻ có hẹp van tim phải thảo luận kỹ với bác sĩ trước khi mang thai, về loại thuốc có thể dùng an toàn và nhu cầu điều trị trước khi mang thai. Cần được bác sĩ Tim mạch và bác sĩ Sản khoa phối hợp theo dõi chặt chẽ trong suốt quá trình mang thai và sinh con. Nếu bị hẹp van quá nặng, bác sĩ có thể khuyến cáo không mang thai để tránh nguy cơ biến chứng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị đau ngực và khó thở khi chơi thể thao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-van-dong-mach-chu",
+        "benh-dong-mach-vanh",
+        "hen-suyen"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên cảm thấy mệt mỏi và chóng mặt, đặc biệt là khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-van-dong-mach-chu",
+        "thieu-mau-nao",
+        "roi-loan-nhip-tim"
+      ]
+    },
+    {
+      "question": "Tôi bị ngất xỉu sau khi chạy bộ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-van-dong-mach-chu",
+        "roi-loan-nhip-tim",
+        "ha-duong-huyet"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy tim đập nhanh và hồi hộp khi leo cầu thang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-van-dong-mach-chu",
+        "roi-loan-nhip-tim",
+        "suy-tim"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên cảm thấy khó thở khi nằm xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-van-dong-mach-chu",
+        "suy-tim",
+        "benh-phoi-tac-nghen-man-tinh"
+      ]
     }
   ]
 }

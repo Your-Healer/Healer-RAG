@@ -1,39 +1,116 @@
 {
   "disease_id": "nhip-nhanh-nhi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhịp nhanh nhĩ",
+  "disease_alternative_names": [
+    "Rối loạn nhịp nhanh nhĩ",
+    "Atrial tachycardia",
+    "AT"
+  ],
+  "disease_definition": "Nhịp nhanh nhĩ là một rối loạn nhịp tim bắt nguồn từ tâm nhĩ, được định nghĩa là nhịp tim nhanh do các ổ phát nhịp bất thường từ tâm nhĩ gây ra. Bệnh thường có nhịp tim nhanh từ 150-250 nhịp mỗi phút. Trong nhịp nhanh nhĩ, tầng trên của tim (tâm nhĩ) có thể đập nhanh hơn hoặc bằng tầng dưới (tâm thất). Ổ phát nhịp bất thường ở tâm nhĩ có tần số cao hơn các ổ phát nhịp bình thường khác (như nút xoang) và do đó sẽ chiếm quyền điều khiển nhịp tim, gây ra tình trạng tim đập nhanh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Hồi hộp",
+      "description": "Cảm giác tim đập mạnh, nhanh hoặc không đều ở ngực."
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Nhịp tim nhanh bất thường, có thể từ 150-250 nhịp/phút."
+    },
+    {
+      "name": "Chóng mặt, lâng lâng",
+      "description": "Cảm giác choáng váng, mất thăng bằng do tim đập nhanh làm giảm lượng máu đến não."
+    },
+    {
+      "name": "Ngất xỉu, bất tỉnh",
+      "description": "Mất ý thức tạm thời do lưu lượng máu đến não bị giảm đáng kể."
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau, tức hoặc khó chịu ở vùng ngực."
+    },
+    {
+      "name": "Hụt hơi",
+      "description": "Khó thở, thở gấp hoặc cảm giác thiếu không khí."
+    },
+    {
+      "name": "Triệu chứng ở trẻ nhỏ",
+      "description": "Ở trẻ sơ sinh và trẻ nhỏ, nhịp nhanh nhĩ thường biểu hiện bằng quấy khóc, bú kém và thở nhanh."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nhịp nhanh nhĩ xảy ra do các ổ phát nhịp bất thường xuất hiện trong tâm nhĩ, chiếm quyền điều khiển nhịp tim và gây ra tình trạng tim đập nhanh. Chúng có thể xuất hiện theo 3 cơ chế: tăng tính tự động, hoạt động khởi kích, và hiện tượng vòng vào lại.",
+    "related_factors": "Nhịp nhanh nhĩ thường gặp ở những người bệnh mắc bệnh tim bẩm sinh hoặc sau phẫu thuật. Đôi khi bệnh xuất hiện ở trẻ em, người trẻ tuổi và những người có trái tim khỏe mạnh, và trong một số trường hợp không thể xác định nguyên nhân cụ thể.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao, đặc biệt ở người lớn tuổi",
+    "Tâm nhĩ giãn lớn do tăng huyết áp hoặc bệnh cơ tim",
+    "Từng bị nhồi máu cơ tim trước đó",
+    "Sử dụng quá nhiều rượu",
+    "Sử dụng cocain và các chất kích thích khác",
+    "Bệnh tim bẩm sinh",
+    "Tiền sử phẫu thuật tim"
+  ],
+  "complications": [
+    "Bệnh cơ tim (cơ tim bị yếu đi) nếu nhịp nhanh nhĩ kéo dài",
+    "Suy tim",
+    "Rung nhĩ (một loại rối loạn nhịp tim nghiêm trọng hơn)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Ghi nhận tiền sử bệnh",
+      "Phỏng vấn người bệnh về các triệu chứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra rối loạn tuyến giáp, bệnh tim hoặc các tình trạng khác liên quan đến nhịp tim nhanh nhĩ."
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Đo hoạt động điện của tim và tần số tim, giúp chẩn đoán chính xác cơn nhịp nhanh."
+      },
+      {
+        "name": "Holter ECG",
+        "description": "Một thiết bị theo dõi điện tâm đồ di động được đeo trong một ngày hoặc hơn để ghi lại hoạt động điện tim trong các sinh hoạt hàng ngày."
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Kiểm tra cấu trúc và hoạt động của tim."
+      },
+      {
+        "name": "Nghiệm pháp gắng sức",
+        "description": "Theo dõi hoạt động của tim khi đi bộ trên thảm lăn hoặc chạy xe đạp lực kế."
+      },
+      {
+        "name": "Khảo sát điện sinh lý và lập bản đồ điện học buồng tim",
+        "description": "Cho phép bác sĩ khảo sát hoạt động điện trong tim và xác định vị trí ổ loạn nhịp, thường kết hợp với triệt phá ổ loạn nhịp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị nhịp nhanh nhĩ phụ thuộc vào loại nhịp nhanh nhĩ, mức độ triệu chứng và tình trạng sức khỏe tổng thể của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Triệt phá ổ loạn nhịp",
+        "description": "Phương pháp này đặc biệt hiệu quả với nhịp nhanh nhĩ đơn ổ, có tỷ lệ chữa khỏi rất cao."
+      },
+      {
+        "name": "Điều trị bệnh lý nền",
+        "description": "Đặc biệt quan trọng với nhịp nhanh nhĩ đa ổ, việc điều trị các bệnh khác (là nguyên nhân gây ra tình trạng này) có thể giải quyết nhịp nhanh nhĩ."
+      },
+      {
+        "name": "Theo dõi",
+        "description": "Nếu không có triệu chứng và cơn nhịp nhanh nhĩ chỉ kéo dài trong thời gian ngắn, bác sĩ có thể chỉ cần theo dõi tình trạng của người bệnh kết hợp với điều chỉnh các bệnh lý nội khoa kèm theo."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám đúng hẹn để theo dõi diễn tiến bệnh",
+      "Uống thuốc đầy đủ và đúng liều, đặc biệt quan trọng đối với những bệnh nhân bị nhịp nhanh nhĩ điều trị bằng thuốc",
+      "Quản lý sức khỏe tổng thể với chế độ ăn uống và tập thể dục phù hợp",
+      "Báo ngay cho bác sĩ khi có triệu chứng bất thường"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +118,57 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế uống rượu vì uống quá nhiều rượu có tác động tiêu cực đến tim",
+      "Hạn chế chất kích thích như caffeine, cocaine, methamphetamine, sôcôla",
+      "Không lạm dụng thuốc theo toa",
+      "Bỏ thuốc lá và không sử dụng các sản phẩm từ thuốc lá, bao gồm thuốc lá điện tử và thuốc lá không khói",
+      "Quản lý sức khỏe bằng chế độ ăn uống lành mạnh và tập thể dục đều đặn",
+      "Kiểm soát các bệnh lý nền như tăng huyết áp, bệnh cơ tim"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhịp nhanh nhĩ có giống rung nhĩ không?",
+      "answer": "Nhịp nhanh nhĩ khác rung nhĩ. Nhịp nhanh nhĩ thường khiến các buồng trên của tim đập từ 100-250 nhịp/phút. Mặc dù tần số tim nhanh một cách bất thường nhưng ít gây cản trở khả năng bơm máu bình thường của tim. Còn rung nhĩ rất nguy hiểm vì khiến các ngăn trên của tim đập từ 350-600 nhịp/phút, khiến tầng trên của tim hầu như không hoạt động, dẫn đến hình thành cục máu đông và có thể gây đột quỵ."
+    },
+    {
+      "question": "Nhịp nhanh nhĩ có chữa được không?",
+      "answer": "Có, nhịp nhanh nhĩ có thể chữa được. Tùy thuộc vào loại nhịp nhanh nhĩ sẽ có phương pháp điều trị khác nhau. Nhịp nhanh nhĩ đơn ổ có tỷ lệ chữa khỏi rất cao, nhất là khi áp dụng kỹ thuật triệt phá ổ loạn nhịp. Nhịp nhanh nhĩ đa ổ khó điều trị hơn vì có nhiều ổ loạn nhịp khác nhau, nhưng điều trị các bệnh nền có thể giải quyết được vấn đề. Trong một số trường hợp, nhịp nhanh nhĩ cũng có thể tự biến mất."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ nếu nghi ngờ bị nhịp nhanh nhĩ?",
+      "answer": "Người bệnh nên thăm khám chuyên khoa Tim mạch ngay khi đột nhiên có các triệu chứng như khó thở, hồi hộp/đánh trống ngực, nhịp tim nhanh, đau ngực, chóng mặt nhiều, hoặc bất tỉnh không rõ lý do. Các triệu chứng này không chỉ gặp trong nhịp nhanh nhĩ mà cũng xuất hiện ở nhiều bệnh lý tim mạch nghiêm trọng khác."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị hồi hộp và tim đập nhanh đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhip-nhanh-nhi", "nhip-nhanh-tren-that", "rung-nhi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt, lâng lâng và tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhip-nhanh-nhi",
+        "nhip-nhanh-tren-that",
+        "ha-duong-huyet"
+      ]
+    },
+    {
+      "question": "Tôi bị ngất xỉu, bất tỉnh và tim đập nhanh không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhip-nhanh-nhi", "rung-nhi", "nhip-nhanh-that"]
+    },
+    {
+      "question": "Tôi hay cảm thấy đau ngực và hụt hơi kèm theo tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhip-nhanh-nhi", "thieu-mau-co-tim", "suy-tim"]
+    },
+    {
+      "question": "Con tôi hay quấy khóc và bú kém kèm theo thở nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhip-nhanh-nhi",
+        "viem-phoi-tre-em",
+        "sot-virus-o-tre"
+      ]
     }
   ]
 }

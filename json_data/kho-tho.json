@@ -1,39 +1,118 @@
 {
   "disease_id": "kho-tho",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Khó thở",
+  "disease_alternative_names": [
+    "Hụt hơi",
+    "Đói không khí",
+    "Shortness of Breath"
+  ],
+  "disease_definition": "Khó thở, đôi khi được mô tả là \"đói không khí\" hoặc hụt hơi là một vấn đề về hô hấp khá phổ biến. Triệu chứng này khiến người bệnh luôn trong tình trạng thiếu oxy, mệt mỏi, tức ngực, hô hấp khó khăn, hơi thở đứt quãng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm thấy ngột ngạt hoặc ngạt thở",
+      "description": "Cảm giác không thể hít đủ không khí, như bị nghẹn hoặc ngạt thở."
+    },
+    {
+      "name": "Thở gấp",
+      "description": "Nhịp thở nhanh và gấp gáp, cảm giác không thể lấy đủ không khí."
+    },
+    {
+      "name": "Tức ngực",
+      "description": "Cảm giác đè nặng, tức hoặc đau ở vùng ngực."
+    },
+    {
+      "name": "Thở nhanh, nông",
+      "description": "Hơi thở nhanh nhưng không sâu, không lấy được đủ khí vào phổi."
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Nhịp tim tăng nhanh bất thường, có thể cảm nhận được nhịp đập mạnh."
+    },
+    {
+      "name": "Thở khò khè",
+      "description": "Phát ra tiếng rít hoặc khò khè khi hít thở, thường do đường thở bị thu hẹp."
+    },
+    {
+      "name": "Ho",
+      "description": "Ho liên tục hoặc từng cơn, có thể kèm theo đờm hoặc không."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tình trạng thiếu oxy hoặc giảm oxy trong máu, khiến não và các cơ quan không nhận đủ oxy cần thiết để hoạt động bình thường.",
+    "related_factors": "Khó thở cấp tính có thể do lo lắng, căng thẳng quá độ, viêm phổi, nghẹt thở, dị ứng, thiếu máu, tiếp xúc carbon monoxide, hạ huyết áp, thuyên tắc phổi, vỡ phổi, thoát vị gián đoạn. Khó thở mãn tính thường do hen suyễn, phổi tắc nghẽn mãn tính (COPD), bệnh tim mạch, béo phì, xơ phổi mô kẽ, ung thư phổi, lao phổi, COVID-19 và các biến chứng hậu COVID.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ mang thai",
+    "Người mắc bệnh lý mạn tính (ung thư, đái tháo đường, bệnh về gan, thận)",
+    "Trẻ sơ sinh",
+    "Người hút thuốc lá",
+    "Người làm việc trong môi trường có chất lượng không khí kém",
+    "Người bị thừa cân, béo phì",
+    "Người bị các bệnh lý tim phổi sẵn có",
+    "Người lớn tuổi"
+  ],
+  "complications": [
+    "Suy giảm nhận thức tạm thời hoặc vĩnh viễn",
+    "Tổn thương não",
+    "Hoại tử não",
+    "Đột quỵ",
+    "Ngừng thở",
+    "Suy hô hấp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám sức khỏe toàn diện", "Thăm khám lâm sàng"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang ngực",
+        "description": "Để chẩn đoán cụ thể hơn về tình trạng bệnh, đồng thời đánh giá sức khỏe tim, phổi và các hệ thống liên quan."
+      },
+      {
+        "name": "Chụp cắt lớp (CT scanner)",
+        "description": "Cung cấp hình ảnh chi tiết hơn về tim, phổi và các cấu trúc trong lồng ngực."
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Nhằm xác định bất kỳ dấu hiệu nào của cơn đau tim hoặc các vấn đề về tim khác."
+      },
+      {
+        "name": "Xét nghiệm đo xoắn ốc",
+        "description": "Để đo luồng không khí và dung tích phổi của bệnh nhân, từ đó xác định các vấn đề về hô hấp."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp xem xét mức độ oxy trong máu cũng như khả năng vận chuyển oxy của máu."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Để điều trị dứt điểm khó thở, bạn cần điều chỉnh lối sống, trước khi tiến hành các biện pháp can thiệp y khoa.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chế độ ăn uống và tập luyện hợp lý",
+        "description": "Hướng đến thực đơn ăn uống lành mạnh hơn và tập thể dục thường xuyên nhằm đưa cân nặng trở về giới hạn bình thường, đặc biệt quan trọng nếu nguyên nhân khó thở do thừa cân - béo phì."
+      },
+      {
+        "name": "Phục hồi chức năng phổi",
+        "description": "Chương trình \"tập thể dục cho phổi\", qua đó chuyên gia sẽ hướng dẫn bạn về kỹ thuật thở nhằm giúp phổi hoạt động hiệu quả hơn. Có thể cần thở oxy để cải thiện tình trạng."
+      },
+      {
+        "name": "Phục hồi chức năng tim",
+        "description": "Giúp kiểm soát chứng suy tim và các bệnh lý tim mạch. Trong những trường hợp suy tim nghiêm trọng, có thể cần sử dụng máy bơm nhân tạo để đảm nhận nhiệm vụ bơm máu của tim bị suy yếu."
+      },
+      {
+        "name": "Điều trị nguyên nhân gây bệnh",
+        "description": "Tùy thuộc vào nguyên nhân gây khó thở, bác sĩ sẽ có phương pháp điều trị phù hợp như thuốc, liệu pháp oxy, phẫu thuật, v.v."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đi khám ngay khi tình trạng khó thở kéo dài không rõ nguyên nhân",
+      "Đi khám ngay khi khó thở khởi phát đột ngột và nghiêm trọng",
+      "Đi khám ngay khi có các triệu chứng đi kèm như đau tức ngực, buồn nôn",
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Học cách quản lý stress nếu căng thẳng là nguyên nhân gây khó thở",
+      "Tránh các yếu tố gây kích ứng đường hô hấp"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +120,68 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá và tránh khói thuốc lá thụ động",
+      "Đeo khẩu trang khi ra đường hoặc làm việc trong môi trường có chất lượng không khí kém",
+      "Đảm bảo nơi làm việc luôn sạch sẽ, thông thoáng",
+      "Duy trì cân nặng hợp lý bằng chế độ dinh dưỡng - tập luyện khoa học",
+      "Tránh tiếp xúc với các chất gây dị ứng nếu bạn bị hen suyễn hoặc dị ứng",
+      "Tiêm phòng đầy đủ các bệnh về đường hô hấp như cúm, viêm phổi",
+      "Khám sức khỏe định kỳ để phát hiện sớm các vấn đề về tim và phổi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khi nào cần gặp bác sĩ khi bị khó thở?",
+      "answer": "Bạn cần đi khám ngay khi gặp phải bất kỳ triệu chứng nào sau đây: Tình trạng khó thở kéo dài không rõ nguyên nhân; Khó thở khởi phát đột ngột nhưng rất nghiêm trọng; Mất khả năng hoạt động do khó hô hấp; Đau tức ngực; Buồn nôn; Khó hoặc không thở được khi nằm; Sưng bàn chân và mắt cá chân; Sốt, ớn lạnh và ho; Thở khò khè."
+    },
+    {
+      "question": "Khó thở khi mang thai có nguy hiểm không?",
+      "answer": "Khó thở nhẹ là triệu chứng rất thường gặp khi mang thai. Có nhiều nguyên nhân dẫn đến hiện tượng này: thai phụ thở nhanh hơn do sự gia tăng của hormone progesterone, tim phải làm việc nhiều hơn, thể tích phổi giảm đi vào cuối thai kỳ. Tuy nhiên, nếu khó thở đột ngột, nghiêm trọng hoặc kèm theo đau ngực, ho ra máu, thì nên đi khám ngay."
+    },
+    {
+      "question": "Khó thở có phải là triệu chứng của COVID-19 không?",
+      "answer": "Đúng vậy, khó thở là một trong những triệu chứng của COVID-19. Nhiều người bệnh còn gặp tình trạng hụt hơi, khó thở hậu COVID kéo dài sau khi đã khỏi bệnh. Nếu bạn bị khó thở kèm theo sốt, ho, đau họng hoặc mất vị giác/khứu giác, hãy đi xét nghiệm COVID-19 và tham khảo ý kiến bác sĩ."
+    },
+    {
+      "question": "Làm thế nào để phân biệt khó thở bình thường do vận động với khó thở bệnh lý?",
+      "answer": "Khó thở bình thường do vận động sẽ cải thiện nhanh chóng sau khi bạn nghỉ ngơi, thường trong vòng vài phút. Khó thở bệnh lý thường kéo dài, không cải thiện sau khi nghỉ ngơi, hoặc xuất hiện khi bạn không hoạt động gì. Ngoài ra, khó thở bệnh lý thường kèm theo các triệu chứng khác như đau ngực, ho, sốt, thở khò khè hoặc chóng mặt."
+    },
+    {
+      "question": "Biến chứng nguy hiểm của khó thở kéo dài là gì?",
+      "answer": "Khó thở là kết quả của tình trạng thiếu oxy hoặc giảm oxy trong máu. Nếu không được điều trị, não sẽ không được cung cấp đủ oxy để hoạt động trong thời gian dài, dẫn đến suy giảm nhận thức tạm thời hoặc vĩnh viễn. Các biến chứng nguy hiểm khác bao gồm tổn thương não, hoại tử não, đột quỵ, suy hô hấp, và trong trường hợp nghiêm trọng có thể dẫn đến tử vong."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như cảm thấy ngột ngạt hoặc ngạt thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-tho", "hen-suyen", "viem-phoi", "lo-au"]
+    },
+    {
+      "question": "Tôi đang cảm thấy thở gấp và tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-tho", "suy-tim", "hen-suyen", "dau-tim"]
+    },
+    {
+      "question": "Tôi hay thở nhanh và nông, kèm theo tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "kho-tho",
+        "roi-loan-lo-au",
+        "cuong-giap",
+        "thieu-mau"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng thở khò khè và ho. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["kho-tho", "hen-suyen", "viem-phe-quan", "copd"]
+    },
+    {
+      "question": "Tôi cảm thấy khó thở khi vận động mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "kho-tho",
+        "suy-tim",
+        "thieu-mau",
+        "benh-phoi-man-tinh"
+      ]
     }
   ]
 }

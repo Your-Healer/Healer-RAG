@@ -1,39 +1,78 @@
 {
   "disease_id": "gan-nhiem-mo-do-1",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Gan nhiễm mỡ độ 1",
+  "disease_alternative_names": [
+    "Bệnh gan nhiễm mỡ cấp độ 1",
+    "Gan nhiễm mỡ cấp 1"
+  ],
+  "disease_definition": "Gan nhiễm mỡ là tình trạng dư thừa lượng mỡ tích tụ trong gan. Chỉ số mỡ chiếm 5-10% trọng lượng gan, đây được xem là gan nhiễm mỡ độ 1. Ở cấp độ này, lượng chất béo dư thừa chỉ mới tập trung ở bề mặt ngoài của gan và chưa thật sự ảnh hưởng tới chức năng gan.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng rõ ràng",
+      "description": "Do ở mức độ nhẹ nên hầu như gan nhiễm mỡ cấp độ 1 không có triệu chứng rõ ràng. Thường phát hiện qua các xét nghiệm chẩn đoán khi kiểm tra sức khỏe."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Người bệnh có thể thường xuyên thấy mệt mỏi hơn."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Không còn cảm giác ăn ngon miệng."
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác buồn nôn có thể xuất hiện ở một số bệnh nhân."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tích tụ lượng mỡ thừa chiếm 5-10% trọng lượng gan, lượng chất béo dư thừa tập trung ở bề mặt ngoài của gan.",
+    "related_factors": "Lạm dụng rượu, thừa cân/béo phì, đái tháo đường tuýp 2, di truyền, tăng lipid máu, thói quen ăn uống nhiều thực phẩm giàu chất béo và dầu mỡ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Uống rượu bia, đồ uống có cồn",
+    "Thừa cân, béo phì",
+    "Đái tháo đường tuýp 2",
+    "Yếu tố di truyền",
+    "Tăng lipid máu",
+    "Chế độ ăn giàu chất béo và dầu mỡ"
+  ],
+  "complications": [
+    "Tiến triển sang gan nhiễm mỡ độ 2 và độ 3",
+    "Viêm gan",
+    "Xơ gan"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Phát hiện qua các xét nghiệm chẩn đoán khi kiểm tra sức khỏe định kỳ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm chẩn đoán",
+        "description": "Kiểm tra gan qua các xét nghiệm trong quá trình kiểm tra sức khỏe định kỳ."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Gan nhiễm mỡ độ 1 có thể điều trị khỏi hoàn toàn thông qua việc ăn uống, rèn luyện đúng cách.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Giảm cân",
+        "description": "Giảm bớt 10% cân nặng cơ thể hiện tại giúp giảm hiệu quả tình trạng mỡ gan, song song đó là giảm bớt nguy cơ viêm và xơ gan. Nên giảm cân một cách khoa học thông qua ăn uống và rèn luyện thể dục thể thao hợp lý."
+      },
+      {
+        "name": "Kiểm soát đường huyết",
+        "description": "Thường xuyên kiểm tra đường huyết nếu bị đái tháo đường. Kể cả khi không bệnh cũng cần chú ý theo dõi đường huyết cũng như hạn chế lượng đường trong ăn uống."
+      },
+      {
+        "name": "Ăn kiêng đúng cách",
+        "description": "Hạn chế tiêu thụ đồ ăn nhiều dầu mỡ/chất béo, tăng cường các thực phẩm lành mạnh có nguồn gốc thực vật."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Ở cấp độ bệnh nhẹ, gan nhiễm mỡ độ 1 vẫn chưa cần dùng tới thuốc trong điều trị",
+      "Có thể cân nhắc sử dụng các sản phẩm giúp cải thiện chức năng gan như vitamin E, nhóm thuốc hạ men gan dưới sự tư vấn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +80,65 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ cân nặng hợp lý (giảm cân nếu bị béo phì)",
+      "Hạn chế thấp nhất việc uống rượu bia",
+      "Tập thể dục ít nhất 30 phút mỗi ngày",
+      "Dùng thuốc theo đúng chỉ định nếu mắc phải các bệnh mạn tính như đái tháo đường",
+      "Xây dựng chế độ ăn lành mạnh: tăng cường rau, đậu, các loại hạt",
+      "Sử dụng dầu lành mạnh như dầu hạt cải, dầu ô liu thay vì những sản phẩm có nguồn gốc động vật",
+      "Chọn thịt trắng và cá làm nguồn protein",
+      "Kiêng hoặc hạn chế đồ ăn chế biến sẵn, thức ăn nhanh, bánh kẹo, thịt xông khói, nước ngọt",
+      "Thay thế bột mì tinh chế, cơm trắng, bánh mì trắng bằng bột mì nguyên cám, gạo lứt, các loại ngũ cốc",
+      "Chọn phương pháp luộc/hấp thay vì chiên xào"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Gan nhiễm mỡ độ 1 có cần uống thuốc không?",
+      "answer": "Ở cấp độ bệnh nhẹ khi chất béo mới bắt đầu tích tụ, gan nhiễm mỡ độ 1 vẫn chưa cần dùng tới thuốc trong điều trị. Người bệnh có thể cân nhắc tới các sản phẩm giúp cải thiện chức năng gan như vitamin E, nhóm thuốc hạ men gan… Tuy nhiên khi dùng bất kỳ loại thuốc/thực phẩm chức năng nào cũng cần tham khảo tư vấn từ bác sĩ."
+    },
+    {
+      "question": "Gan nhiễm mỡ độ 1 có chữa được không?",
+      "answer": "Có, bệnh có thể điều trị khỏi hoàn toàn thông qua việc ăn uống, rèn luyện đúng cách. 3 điều vô cùng quan trọng trong cách chữa gan nhiễm mỡ độ 1 là: giảm cân, kiểm soát đường huyết và ăn kiêng đúng cách."
+    },
+    {
+      "question": "Người bệnh gan nhiễm mỡ độ 1 nên ăn gì?",
+      "answer": "Chế độ ăn nên kết hợp nhiều loại rau, đậu, các loại hạt. Rau củ, trái cây cung cấp vitamin và chất xơ dồi dào giúp kiểm soát cân nặng và giảm mỡ thừa. Nên chuyển sang dầu hạt cải, dầu ô liu thay vì những sản phẩm có nguồn gốc động vật. Về chất đạm, thịt trắng và cá là nguồn protein ít chất béo gây hại rất tốt."
+    },
+    {
+      "question": "Người bệnh gan nhiễm mỡ độ 1 nên kiêng ăn gì?",
+      "answer": "Rượu bia, đồ uống có cồn đứng đầu trong danh sách cần kiêng. Hạn chế chất béo bão hòa như mỡ động vật. Kiêng thực phẩm tinh chế và carbohydrate trắng như bột mì tinh chế, cơm trắng, bánh mì trắng; thức ăn chiên, xào. Hạn chế đồ ăn chế biến sẵn như thức ăn nhanh, bánh kẹo, thịt xông khói, nước ngọt."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, chán ăn và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo-do-1", "viem-gan", "rối loạn tiêu hóa"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó tiêu, đầy bụng và ăn không ngon miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gan-nhiem-mo-do-1",
+        "rối loạn tiêu hóa",
+        "viêm dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mệt mỏi, uể oải và không muốn vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo-do-1", "thiếu máu", "suy nhược cơ thể"]
+    },
+    {
+      "question": "Tôi thường xuyên cảm thấy mệt mỏi, thiếu năng lượng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo-do-1", "suy nhược cơ thể", "thiếu máu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chán ăn, ăn không ngon miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gan-nhiem-mo-do-1",
+        "rối loạn tiêu hóa",
+        "viêm dạ dày"
+      ]
     }
   ]
 }

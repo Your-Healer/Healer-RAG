@@ -1,39 +1,133 @@
 {
   "disease_id": "mat-can-thi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mắt cận thị",
+  "disease_alternative_names": ["Cận thị", "Myopia"],
+  "disease_definition": "Cận thị (myopia) là tật khúc xạ phổ biến khiến người bệnh khó nhìn thấy vật ở xa nhưng lại nhìn rõ vật rất gần. Cận thị thường gặp ở lứa tuổi đi học, thanh thiếu niên, nhất là từ 8-12 tuổi. Ở tuổi thiếu niên, khi cơ thể phát triển nhanh chóng, tình trạng mắt cận trở nên trầm trọng hơn. Tuy nhiên, đến 20 tuổi trở đi, độ cận ít thay đổi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mờ mắt khi nhìn vật ở xa",
+      "description": "Khó nhìn thấy các vật ở xa như biển báo, bảng đèn, không thể nhìn rõ khi lái xe vào ban đêm."
+    },
+    {
+      "name": "Nheo mắt",
+      "description": "Nhìn mọi thứ với đôi mắt khép hờ để tập trung nhìn rõ hơn các vật ở xa."
+    },
+    {
+      "name": "Mỏi mắt",
+      "description": "Xảy ra khi nhìn tập trung vào một chỗ trong một thời gian dài mà không chớp mắt. Điều này làm mắt khô và mệt mỏi."
+    },
+    {
+      "name": "Nhức đầu",
+      "description": "Người bệnh có cảm giác đau khắp đầu hoặc một vùng cụ thể trên đầu, thường xuất hiện sau khi phải cố gắng nhìn trong thời gian dài."
+    },
+    {
+      "name": "Chớp mắt thường xuyên",
+      "description": "Tốc độ chớp mắt tăng cao hơn bình thường (trên 14-17 lần/phút ở tuổi thiếu niên và trên 15-30 lần/phút ở tuổi trưởng thành)."
+    },
+    {
+      "name": "Dụi mắt thường xuyên",
+      "description": "Đặc biệt ở trẻ em, thường hay dụi mắt do cảm thấy khó chịu khi không nhìn rõ."
+    },
+    {
+      "name": "Ngồi gần tivi",
+      "description": "Có xu hướng ngồi rất gần tivi hoặc màn hình để có thể nhìn rõ hơn."
+    },
+    {
+      "name": "Cận thị ban đêm",
+      "description": "Một số người bệnh bị mờ mắt trong ánh sáng mờ như khi lái xe vào ban đêm nhưng lại nhìn rõ vào ban ngày."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mắt người cận thị khi hình ảnh của vật vào mắt được hội tụ phía trước võng mạc thay vì trên võng mạc, dẫn đến tình trạng không nhìn rõ được những vật ở xa.",
+    "related_factors": "Di truyền (trẻ em có ba mẹ bị cận thị thì dễ bị cận hơn), thiếu thời gian tham gia các hoạt động ngoài trời, hoạt động cận cảnh kéo dài (đọc sách trong thời gian dài), sử dụng màn hình điện tử kéo dài.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố di truyền",
+    "Thiếu hoạt động ngoài trời",
+    "Đọc sách, sử dụng máy tính và thiết bị điện tử kéo dài",
+    "Đọc sách trong điều kiện ánh sáng không đủ",
+    "Thói quen nhìn gần kéo dài",
+    "Tuổi học đường (8-12 tuổi)"
+  ],
+  "complications": [
+    "Giảm chất lượng cuộc sống",
+    "Mỏi mắt mạn tính",
+    "Nguy hiểm khi lái xe hoặc vận hành thiết bị nặng",
+    "Bong võng mạc",
+    "Tăng nhãn áp",
+    "Đục thủy tinh thể",
+    "Mù lòa (trong các biến chứng nghiêm trọng)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám mắt cơ bản",
+      "Kiểm tra thị lực",
+      "Kiểm tra khúc xạ",
+      "Khám mắt trong"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra mắt",
+        "description": "Kiểm tra mức độ sắc nét của tầm nhìn ở khoảng cách xa. Người bệnh che một mắt, bác sĩ yêu cầu đọc biểu đồ mắt với các chữ cái hoặc ký hiệu có kích thước khác nhau."
+      },
+      {
+        "name": "Kiểm tra khúc xạ",
+        "description": "Thường thực hiện trong khám mắt định kỳ. Kiểm tra này giúp bác sĩ biết chính xác độ kính người bệnh cần đeo."
+      },
+      {
+        "name": "Khám mắt trong",
+        "description": "Bác sĩ sử dụng một thấu kính có đèn để kiểm tra tình trạng của võng mạc và thần kinh thị giác, đồng thời nhỏ thuốc vào mắt để làm giãn đồng tử."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị cận thị giúp cải thiện thị lực bằng việc tập trung ánh sáng vào võng mạc thông qua kính để điều chỉnh hoặc phẫu thuật khúc xạ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kính mắt",
+        "description": "Cách đơn giản, an toàn để cải thiện thị lực do cận thị gây ra. Tròng kính đeo mắt cũng có thể được thiết kế điều chỉnh sự kết hợp của các tật khúc xạ như cận thị, loạn thị và viễn thị."
+      },
+      {
+        "name": "Kính áp tròng",
+        "description": "Những đĩa nhựa nhỏ được đặt trực tiếp trên giác mạc. Kính áp tròng có thể điều chỉnh được nhiều tật khúc xạ, có nhiều loại vật liệu và yêu cầu bảo quản kỹ lưỡng."
+      },
+      {
+        "name": "Phẫu thuật LASIK",
+        "description": "Bác sĩ tạo một vạt mỏng có bản lề vào giác mạc và dùng tia laser để loại bỏ mô giác mạc nhằm làm phẳng hình dạng vòm. Phục hồi sau phẫu thuật LASIK thường nhanh hơn và ít gây khó chịu hơn so với các phẫu thuật giác mạc khác."
+      },
+      {
+        "name": "Phẫu thuật LASEK",
+        "description": "Bác sĩ chỉ tạo vạt siêu mỏng ở lớp vỏ bảo vệ bên ngoài của giác mạc (biểu mô). Sau đó, bác sĩ sử dụng tia laser để định hình lại và làm phẳng đường cong của giác mạc rồi thay thế biểu mô."
+      },
+      {
+        "name": "Phẫu thuật PRK",
+        "description": "Tương tự như LASEK, ngoại trừ phẫu thuật viên loại bỏ hoàn toàn biểu mô, sau đó sử dụng tia laser để tạo hình lại giác mạc. Kính áp tròng tạm thời bao phủ giác mạc để bảo vệ mắt đến khi biểu mô phát triển trở lại."
+      },
+      {
+        "name": "Phẫu thuật SMILE",
+        "description": "Phương pháp này không có vạt hoặc loại bỏ biểu mô. Thay vào đó, bác sĩ dùng tia laser để cắt một mảnh giác mạc nhỏ hình đĩa. Sau đó, được lấy ra thông qua một vết rạch giác mạc nhỏ."
+      },
+      {
+        "name": "Atropin",
+        "description": "Thuốc nhỏ atropine dùng để làm giãn đồng tử mắt, có thể giúp làm chậm sự tiến triển của cận thị ở trẻ em và thanh thiếu niên."
+      },
+      {
+        "name": "Kính áp tròng tiêu điểm kép",
+        "description": "Một loại kính áp tròng đặc biệt đã cho thấy một số tác dụng trong việc làm chậm sự tiến triển của cận thị."
+      },
+      {
+        "name": "Chỉnh hình giác mạc",
+        "description": "Kính áp tròng cứng đeo vào ban đêm sẽ tạm thời định hình lại giác mạc. Kính không được đeo trong ngày. Liệu pháp này có thể làm chậm sự tiến triển của cận thị."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Khám mắt thường xuyên để theo dõi tình trạng mắt",
+      "Đeo kính theo toa bác sĩ chỉ định",
+      "Vệ sinh và bảo quản kính mắt hoặc kính áp tròng theo chỉ dẫn",
+      "Sau phẫu thuật, tuân thủ hướng dẫn của bác sĩ về chăm sóc mắt",
+      "Cho mắt nghỉ ngơi thường xuyên khi làm việc nhiều với màn hình"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +135,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám mắt thường xuyên",
+      "Bảo vệ đôi mắt khỏi ánh nắng mặt trời",
+      "Đeo kính bảo vệ khi chơi thể thao hoặc làm việc",
+      "Sử dụng ánh sáng phù hợp khi đọc và làm việc",
+      "Đeo kính theo toa chỉ dẫn",
+      "Vệ sinh và bảo quản kính mắt hoặc kính áp tròng theo chỉ dẫn",
+      "Áp dụng quy tắc 20-20-20: rời khỏi màn hình máy tính sau mỗi 20 phút, nhìn vào vật cách xa 600cm trong 20 giây",
+      "Ăn đồ ăn có lợi cho sức khỏe mắt",
+      "Tập thể dục thường xuyên",
+      "Tăng thời gian hoạt động ngoài trời, đặc biệt cho trẻ em",
+      "Kiểm soát các tình trạng sức khỏe như huyết áp cao hoặc tiểu đường",
+      "Không hút thuốc"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Cận thị có chữa được không?",
+      "answer": "Cận thị không thể tự khỏi được; tuy nhiên bác sĩ giúp điều chỉnh lại thị lực thông qua đeo kính cận hoặc mổ cận. Các phương pháp điều trị bao gồm kính mắt, kính áp tròng và phẫu thuật khúc xạ như LASIK, LASEK, PRK và SMILE. Ngoài ra còn có các phương pháp làm chậm tiến triển của cận thị ở trẻ em như thuốc nhỏ atropine, kính áp tròng tiêu điểm kép và chỉnh hình giác mạc."
+    },
+    {
+      "question": "Cận thị có di truyền không?",
+      "answer": "Có, yếu tố di truyền đóng vai trò trong việc phát triển cận thị. Trẻ em có ba mẹ bị cận thị thì có nguy cơ mắc cận thị cao hơn. Tuy nhiên, có một số trường hợp trẻ em có ba mẹ không cận thị vẫn bị cận thị. Điều này cho thấy cận thị có nhiều nguyên nhân và di truyền chỉ là một phần."
+    },
+    {
+      "question": "Cận thị có những biến chứng gì?",
+      "answer": "Cận thị có thể dẫn đến nhiều biến chứng, từ giảm chất lượng cuộc sống, mỏi mắt thường xuyên, đến các vấn đề nghiêm trọng hơn như bong võng mạc, tăng nhãn áp và đục thủy tinh thể. Người cận thị có nguy cơ cao bị bong võng mạc, đặc biệt nếu cận nặng. Ngoài ra, cận thị còn có thể gây nguy hiểm khi lái xe hoặc vận hành thiết bị nặng do khả năng nhìn xa bị hạn chế."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa cận thị?",
+      "answer": "Để phòng ngừa cận thị, bạn nên: khám mắt thường xuyên; bảo vệ mắt khỏi ánh nắng; sử dụng ánh sáng phù hợp khi đọc và làm việc; áp dụng quy tắc 20-20-20 (nhìn xa 20 giây sau mỗi 20 phút nhìn gần); tăng thời gian hoạt động ngoài trời; hạn chế thời gian sử dụng thiết bị điện tử; và duy trì chế độ ăn uống tốt cho sức khỏe mắt."
+    },
+    {
+      "question": "Cận thị ở trẻ em có thể làm chậm tiến triển được không?",
+      "answer": "Có, cận thị ở trẻ em có thể được làm chậm tiến triển bằng một số phương pháp như: sử dụng thuốc nhỏ atropine; tăng thời gian hoạt động ngoài trời; sử dụng kính áp tròng tiêu điểm kép; và áp dụng chỉnh hình giác mạc (kính áp tròng cứng đeo vào ban đêm). Các nghiên cứu đã chứng minh những phương pháp này có thể làm chậm sự tiến triển của cận thị, mặc dù không thể ngăn chặn hoàn toàn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay nheo mắt khi nhìn xa và cảm thấy mỏi mắt khi tập trung nhìn một chỗ lâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-can-thi", "met-moi-mat", "kho-khan-mat"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhìn mờ khi nhìn vật ở xa, nhức đầu và chớp mắt thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-can-thi", "met-moi-mat", "roi-loan-khuc-xa"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó nhìn biển báo giao thông khi lái xe và phải nheo mắt để nhìn rõ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-can-thi", "mat-vien-thi", "mat-loan-thi"]
+    },
+    {
+      "question": "Tôi thường xuyên dụi mắt, ngồi gần tivi và gặp khó khăn khi nhìn bảng ở lớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-can-thi", "nhiem-trung-mat", "met-moi-mat"]
+    },
+    {
+      "question": "Tôi hay bị nhức đầu sau khi đọc sách hoặc làm việc trên máy tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mat-can-thi", "hoi-chung-mat-kho", "met-moi-mat"]
     }
   ]
 }

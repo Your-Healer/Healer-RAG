@@ -1,58 +1,163 @@
 {
   "disease_id": "mun-coc",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn cóc",
+  "disease_alternative_names": ["U nhú", "Verruca vulgaris"],
+  "disease_definition": "Mụn cóc là bệnh da liễu phổ biến, lành tính, do thượng bì nhiễm Papilloma virus ở người (HPV) qua vết thương hở hoặc vết trầy xước, làm kích thích tăng sinh tế bào nhanh chóng dẫn đến hình thành mụn cóc. Có hơn 100 loại HPV khác nhau, gây ra nhiều loại mụn cóc khác nhau trên các vùng da khác nhau.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt sần sùi trên da",
+      "description": "Xuất hiện các nốt sần sùi màu da hoặc xám trắng, hình dạng đôi khi giống súp lơ với nhiều nhú, hoặc phẳng tùy loại."
+    },
+    {
+      "name": "Cảm giác đau hoặc khó chịu",
+      "description": "Một số loại mụn cóc có thể gây đau, đặc biệt khi đi lại hoặc tì đè, như trường hợp mụn cóc ở lòng bàn chân."
+    },
+    {
+      "name": "Chảy máu và kích ứng",
+      "description": "Mụn cóc có thể chảy máu nhẹ, gây cảm giác bỏng rát, ngứa hoặc kích ứng, đặc biệt tại vùng da nhạy cảm."
+    },
+    {
+      "name": "Mụn mọc thành nhóm",
+      "description": "Mụn cóc có thể mọc đơn lẻ hoặc tập hợp thành nhóm, có loại rất lớn với hình dạng giống như thân cây."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Mụn cóc do vi-rút nhú ở người (HPV) gây ra. Khi vi-rút xâm nhập vào vết cắt hoặc vết thương hở trên da, gây nhiễm trùng và hình thành mụn cóc.",
+    "related_factors": "Tuỳ vào vị trí và loại mụn cóc mà có các chủng virus HPV khác nhau gây ra. Mụn cóc ở tay, chân thường do nhóm HPV 1, 2, 4, 7, 27 hoặc 57 gây ra, trong khi mụn cóc sinh dục thường do nhóm HPV 6, 11 gây ra.",
+    "transmission_routes": [
+      "Tiếp xúc trực tiếp với mụn cóc",
+      "Dùng chung các vật dụng vệ sinh cá nhân như khăn tắm, dao cạo râu",
+      "Quan hệ tình dục không an toàn với người nhiễm mụn cóc (mụn cóc sinh dục)",
+      "Cắn móng tay và cạy lớp biểu bì",
+      "Cạo râu"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em và thanh thiếu niên",
+    "Hệ thống miễn dịch suy yếu",
+    "Người mắc bệnh tự miễn dịch",
+    "Người cao tuổi",
+    "Người sử dụng các vật dụng công cộng như: bể bơi, phòng thay đồ công cộng",
+    "Người hay đi chân trần",
+    "Người thường xuyên cắn móng tay hoặc cạy da quanh móng tay"
+  ],
+  "complications": [
+    "Ung thư: Một số loại HPV, đặc biệt là HPV 16 và 18, liên quan đến ung thư hậu môn, ung thư cổ tử cung, ung thư vòm họng",
+    "Biến dạng: Người có hệ miễn dịch suy yếu có thể bị mụn cóc biến dạng trên tay, mặt và cơ thể",
+    "Nhiễm trùng: Nếu tác động đến mụn cóc như cạy, cắt, có thể gây nhiễm trùng",
+    "Đau: Đặc biệt là mụn cóc lòng bàn chân gây đau khi di chuyển"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng qua quan sát các triệu chứng ngoài da",
+      "Xác định vị trí, kích thước và các đặc điểm của mụn cóc"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ sẽ kiểm tra vết sưng nhỏ trên da có kích thước từ 1-10mm, bề mặt sần sùi hoặc nhẵn, mọc đơn lẻ hoặc theo cụm"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy một mẫu mô để xét nghiệm, nhưng hiếm khi cần thiết vì hầu hết mụn cóc có thể được chẩn đoán bằng quan sát"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mụn cóc có thể tự biến mất nhưng rất hiếm. Người bệnh nên đến các cơ sở y tế để được tư vấn những phương pháp điều trị phù hợp, tránh tự chữa tại nhà gây biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Acid salicylic",
+        "description": "Thuốc bôi giúp phá hủy bã nhờn và tế bào da chết. Trước khi thoa thuốc, nên ngâm mụn cóc trong nước ấm, sau đó bôi thuốc trực tiếp lên vị trí tổn thương. Dùng đều đặn 2-3 tháng để đạt hiệu quả."
+      },
+      {
+        "name": "Cantharidin",
+        "description": "Chất béo không mùi, không màu từ bọ cánh cứng, làm phồng rộp vùng da quanh mụn cóc, sau đó mụn sẽ bong ra. Chỉ nên được thực hiện bởi bác sĩ da liễu."
+      },
+      {
+        "name": "Áp lạnh (Nitơ lỏng)",
+        "description": "Phun nitơ lỏng vào mụn cóc, tạo vết phồng rộp. Sau thời gian, vết phồng rộp và mụn cóc sẽ tự bong tróc. Phương pháp này thường được chia thành nhiều lần."
+      },
+      {
+        "name": "Phẫu thuật điện/nạo",
+        "description": "Kết hợp giữa đốt cháy bằng điện và nạo thủ công, áp dụng cho mụn cóc ở vị trí bằng phẳng, kích thước dưới 2cm. Người bệnh được gây tê tại chỗ trước khi thực hiện."
+      },
+      {
+        "name": "Cắt bỏ",
+        "description": "Sử dụng dao mổ để cạo hoặc cắt bỏ mụn cóc, đặc biệt hiệu quả với mụn cóc dạng nhú (filiform)."
+      },
+      {
+        "name": "Laser",
+        "description": "Sử dụng ánh sáng từ máy Laser CO2 để đốt nóng và phá hủy các mạch máu nhỏ bên trong mụn cóc. Phương pháp này áp dụng cho bệnh nhân có mụn cóc nặng."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Không nên tự ý nặn, cắt hoặc cạy mụn cóc tại nhà",
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Giữ vệ sinh khu vực có mụn cóc",
+      "Tránh tác động vào mụn cóc để ngăn sự lây lan",
+      "Tiếp tục điều trị đến khi loại bỏ hoàn toàn mụn cóc"
+    ],
+    "prevention_of_transmission": [
+      "Không chạm vào mụn cóc của mình hoặc người khác",
+      "Không dùng chung khăn tắm, quần áo, bấm móng tay, dao cạo râu",
+      "Rửa tay thường xuyên, đặc biệt sau khi chạm vào mụn cóc"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Vắc-xin HPV có thể giúp phòng ngừa một số loại mụn cóc gây ra bởi các chủng HPV đặc biệt, nhưng chủ yếu nhắm vào việc phòng ngừa mụn cóc sinh dục và ung thư liên quan đến HPV.",
+      "recommended_for": [
+        "Thanh thiếu niên trước khi có hoạt động tình dục",
+        "Người chưa nhiễm HPV"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh cạo trên mụn cóc",
+      "Bỏ thói quen cắn móng tay hoặc cạy lớp biểu bì",
+      "Không dùng chung khăn tắm, quần áo, bấm móng tay, dao cạo râu hoặc các vật dụng cá nhân khác",
+      "Không chạm vào mụn cóc của người khác",
+      "Tiêm vaccine HPV và sử dụng bao cao su khi quan hệ tình dục để ngăn ngừa mụn cóc sinh dục",
+      "Giữ bàn chân khô ráo để ngăn mụn cóc lây lan",
+      "Không gãi, cắt hoặc cạy mụn cóc",
+      "Mang dép xỏ ngón hoặc giày khi sử dụng phòng thay đồ công cộng, khu vực hồ bơi",
+      "Duy trì chế độ ăn uống lành mạnh để tăng cường hệ miễn dịch"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn cóc có nguy hiểm không?",
+      "answer": "Mụn cóc thường không gây nguy hiểm. Đa phần chúng sẽ biến mất và không xảy ra bất kỳ vấn đề nào đáng kể sau khi được điều trị. Tuy nhiên, một số loại HPV liên quan đến mụn cóc sinh dục có thể gây ung thư hậu môn, ung thư cổ tử cung hoặc ung thư vòm họng. Ngoài ra, mụn cóc cũng có thể gây đau, nhiễm trùng hoặc biến dạng trong một số trường hợp."
+    },
+    {
+      "question": "Mụn cóc có lây không?",
+      "answer": "Có, mụn cóc rất dễ lây lan và chủ yếu lây truyền qua tiếp xúc trực tiếp với da như cạy rồi chạm vào vùng khác trên cơ thể. Người bệnh cũng có thể lây qua việc dùng chung khăn tắm, dao cạo đã chạm vào mụn cóc trên cơ thể người bệnh hoặc người khác, hoặc qua tiếp xúc trực tiếp với mụn cóc."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ về mụn cóc?",
+      "answer": "Bạn nên đi gặp bác sĩ trong các trường hợp sau: khi phát hiện mụn cóc xuất hiện trên mặt, miệng, mũi, thân mình hoặc bộ phận sinh dục; khi có dấu hiệu chảy máu, nhiễm trùng như có mủ, đóng vảy xung quanh mụn cóc; khi mụn cóc gây đau đớn; hoặc nếu bạn bị mụn cóc đi kèm với các bệnh khác như tiểu đường, suy giảm miễn dịch như HIV/AIDS."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da xuất hiện nốt sần sùi, màu da hoặc xám trắng, có hình dạng như súp lơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc", "u-nhu", "u-lanh-tinh-da"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ngáy ở vùng da có nốt sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc", "viem-da", "di-ung-da"]
+    },
+    {
+      "question": "Tôi hay cắn móng tay và da tay xuất hiện nốt sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc", "mun-coc-o-tay", "viem-da"]
+    },
+    {
+      "question": "Tôi có vết trầy xước trên da và sau đó xuất hiện nốt sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc", "nhiem-virus-hpv", "viem-da"]
+    },
+    {
+      "question": "Tôi tiếp xúc với người bị mụn cóc và sau đó da tôi cũng xuất hiện nốt sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-coc", "lay-nhiem-virus-hpv", "viem-da"]
     }
   ]
 }

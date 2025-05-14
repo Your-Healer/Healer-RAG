@@ -1,58 +1,207 @@
 {
   "disease_id": "hoi-chung-fournier",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng Fournier",
+  "disease_alternative_names": [
+    "Fournier Gangrene",
+    "Nhiễm trùng hoại tử lan tỏa tầng sinh môn"
+  ],
+  "disease_definition": "Hội chứng Fournier là một bệnh nhiễm trùng do vi khuẩn hiếm gặp nhưng có khả năng đe dọa đến tính mạng, cần được can thiệp y tế khẩn cấp. Bệnh có xu hướng tiến triển nhanh chóng trên bộ phận sinh dục và các vùng lân cận (dương vật, đáy chậu), gây phá hủy mô, thậm chí dẫn đến nhiều biến chứng nguy hiểm khác.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đột ngột vùng sinh dục",
+      "description": "Cơn đau xuất hiện đột ngột tại vùng sinh dục, thường là dấu hiệu ban đầu của bệnh."
+    },
+    {
+      "name": "Thay đổi màu da",
+      "description": "Tình trạng nhiễm trùng tiến triển nhanh chóng, vùng da chuyển sang màu tím đỏ hoặc xám xanh."
+    },
+    {
+      "name": "Mùi hôi",
+      "description": "Vùng da bị nhiễm trùng có mùi hôi khó chịu, đặc trưng của tình trạng hoại tử mô."
+    },
+    {
+      "name": "Sưng tấy",
+      "description": "Vùng bị nhiễm trùng sưng phồng lên rõ rệt."
+    },
+    {
+      "name": "Rò mủ",
+      "description": "Vùng da bị tổn thương có thể tiết ra dịch mủ."
+    },
+    {
+      "name": "Tim đập loạn nhịp",
+      "description": "Nhịp tim không đều, là dấu hiệu của đáp ứng hệ thống đối với nhiễm trùng nghiêm trọng."
+    },
+    {
+      "name": "Sốt cao",
+      "description": "Tăng thân nhiệt đáng kể, thường đi kèm với các triệu chứng nhiễm trùng nghiêm trọng."
+    },
+    {
+      "name": "Tinh hoàn bị lộ ra ngoài",
+      "description": "Trong trường hợp nặng, tình trạng hoại tử da có thể dẫn đến lộ tinh hoàn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Vi khuẩn kỵ khí hoặc hiếu khí là nguyên nhân gây ra hội chứng Fournier, bao gồm các loại phổ biến như E. coli, Klebsiella, Proteus, Tụ cầu, Liên cầu, Clostridium, Peptostreptococcus.",
+    "related_factors": "Vi khuẩn có thể xâm nhập vào cơ thể qua nhiều đường khác nhau như áp xe, rò hậu môn và viêm túi thừa, nhiễm trùng bàng quang hoặc đường tiết niệu, thương tích gây xước hoặc bỏng, vết cắn của côn trùng, ung thư trực tràng, quan hệ tình dục, vết loét, cắt bao quy đầu (ở trẻ em).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiểu đường (20-70% trường hợp bị Fournier cũng đồng thời mắc bệnh tiểu đường)",
+    "Lạm dụng rượu bia (25-50% mắc chứng Fournier có thói quen lạm dụng rượu bia)",
+    "Rối loạn tim mạch",
+    "Xơ gan",
+    "HIV",
+    "Huyết áp cao",
+    "Suy thận",
+    "Từ 50 tuổi trở lên",
+    "Béo phì",
+    "Hút thuốc",
+    "Đang dùng Steroid hoặc đang trong quá trình hóa trị",
+    "Chấn thương",
+    "Ức chế miễn dịch",
+    "Bệnh Crohn",
+    "Suy dinh dưỡng"
+  ],
+  "complications": [
+    "Suy thận cấp tính",
+    "Hội chứng suy giảm hô hấp cấp tính",
+    "Tắc động mạch",
+    "Suy tim và rối loạn nhịp tim",
+    "Rối loạn chức năng tình dục",
+    "Tai biến mạch máu não",
+    "Nhiễm trùng đường tiết niệu",
+    "Nhiễm khuẩn huyết",
+    "Suy đa tạng",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe tổng quát",
+      "Kiểm tra các triệu chứng trên da và bộ phận sinh dục"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Được thực hiện để phát hiện dịch bất thường trong cơ thể, từ đó hỗ trợ xác định chính xác nguyên nhân gây bệnh."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Được tiến hành để xác định chính xác tình trạng đang gặp phải là chứng Fournier hay các rối loạn tương tự (viêm mào tinh, viêm tinh hoàn)."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Công thức máu toàn bộ (CBC), bảng trao đổi chất toàn diện (CMP) được thực hiện để xác định số lượng bạch cầu, phát hiện những bất thường liên quan đến chất điện giải, sốc nhiễm trùng, khí máu động mạch, chức năng gan và thận."
+      },
+      {
+        "name": "Cấy máu và cấy mủ",
+        "description": "Cấy máu khi có sốt và cấy mủ khi có rò mủ để xác định loại vi khuẩn gây bệnh và làm kháng sinh đồ."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hội chứng Fournier là trường hợp khẩn cấp có thể dẫn đến tử vong nếu không được can thiệp y tế kịp thời. Trong nhiều trường hợp, bác sĩ sẽ chỉ định bỏ qua quá trình chẩn đoán và chuyển thẳng đến phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Đây là phương pháp điều trị luôn được ưu tiên số một. Các mô tổn thương hoại tử sẽ được loại bỏ để ngăn vi khuẩn lây lan. Một số ít trường hợp toàn bộ dương vật phải cắt bỏ nhưng rất hiếm. Sau phẫu thuật, người bệnh cần trải qua phẫu thuật tái tạo để định hình đáy chậu, dương vật trở về hình dạng ban đầu."
+      },
+      {
+        "name": "Liệu pháp Oxy cao áp",
+        "description": "Cơ thể được tiếp xúc với 100% oxy, giúp ngăn vi khuẩn phát triển, làm giảm tổn thương mạch máu và đẩy nhanh quá trình chữa lành vết thương. Tuy nhiên, liệu pháp này vẫn còn gây tranh cãi nên chưa được khuyến khích áp dụng phổ biến."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Thuốc kháng sinh phổ rộng được chỉ định sử dụng ngay từ sớm, bao gồm: Vancomycin, Ampicillin-sulbactam natri, Ticarcillin và clavulanate kali, Piperacillin và tazobactam, Gentamicin, Metronidazole, Clindamycin."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ nghiêm ngặt phác đồ điều trị của bác sĩ",
+      "Chăm sóc vết thương đúng cách sau phẫu thuật",
+      "Duy trì vệ sinh cá nhân tốt",
+      "Kiểm soát tốt các bệnh nền như tiểu đường, HIV nếu có",
+      "Tái khám định kỳ theo chỉ định của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Fournier không phải là một bệnh truyền nhiễm, không có khả năng lây nhiễm từ người sang người"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ gìn vệ sinh tốt: Bộ phận sinh dục và đáy chậu luôn luôn được giữ gìn vệ sinh, sạch sẽ, khô thoáng",
+      "Bảo vệ bộ phận sinh dục khỏi các chấn thương nguy hiểm, trầy xước",
+      "Chăm sóc tốt cho vết thương trên bộ phận sinh dục và các vùng lân cận (nếu có) để tránh sự xâm nhập của vi khuẩn",
+      "Duy trì cân nặng ở mức hợp lý",
+      "Ngưng hút thuốc",
+      "Liên hệ ngay với bác sĩ nếu phát hiện thấy bộ phận sinh dục hoặc các khu vực xung quanh có dấu hiệu đỏ, sưng tấy",
+      "Kiểm soát tốt các bệnh lý nền như tiểu đường"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng Fournier có nguy hiểm không?",
+      "answer": "Nếu Fournier không được điều trị kịp thời, tình trạng nhiễm trùng có thể lan vào máu (nhiễm khuẩn huyết), dẫn đến suy đa tạng và tử vong. Vì vậy, ngay khi nhận thấy những dấu hiệu ban đầu, người bệnh nên liên hệ trực tiếp với bác sĩ để được chẩn đoán sớm. Các nghiên cứu kết luận rằng 3-50% người bệnh mắc Fournier có khả năng tử vong."
+    },
+    {
+      "question": "Bệnh Fournier có lây không?",
+      "answer": "Fournier không phải là một bệnh truyền nhiễm. Do đó, khả năng lây nhiễm từ hội chứng này hoàn toàn không xảy ra."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ nếu nghi ngờ mắc hội chứng Fournier?",
+      "answer": "Ngay khi nhận thấy bộ phận sinh dục hoặc đáy chậu bị đỏ, mềm hoặc sưng, có thể kèm theo sốt và cơ thể mệt mỏi, người bệnh cần liên hệ ngay lập tức với bác sĩ. Hội chứng Fournier có nguy cơ dẫn đến nhiều biến chứng nguy hiểm, thậm chí là tử vong nếu không được điều trị sớm."
+    },
+    {
+      "question": "Ai là người có nguy cơ cao mắc hội chứng Fournier?",
+      "answer": "Nam giới có khả năng mắc bệnh cao gấp 10 lần so với nữ giới. Nhóm nguy cơ cao bao gồm người bệnh tiểu đường (20-70% trường hợp), người lạm dụng rượu bia (25-50% trường hợp), người mắc các bệnh như rối loạn tim mạch, xơ gan, HIV, huyết áp cao, suy thận. Ngoài ra, người trên 50 tuổi, người béo phì, người hút thuốc, người đang dùng Steroid hoặc đang trong quá trình hóa trị cũng có nguy cơ cao."
+    },
+    {
+      "question": "Hội chứng Fournier được điều trị như thế nào?",
+      "answer": "Phẫu thuật là phương pháp điều trị ưu tiên hàng đầu, nhằm loại bỏ các mô tổn thương hoại tử để ngăn vi khuẩn lây lan. Ngoài ra, bệnh nhân cũng được điều trị bằng thuốc kháng sinh phổ rộng và có thể áp dụng liệu pháp oxy cao áp trong một số trường hợp. Sau khi phẫu thuật loại bỏ mô hoại tử, người bệnh cần trải qua phẫu thuật tái tạo để định hình đáy chậu, dương vật trở về hình dạng ban đầu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang cảm thấy đau đớn đột ngột ở vùng sinh dục và da chuyển sang màu tím đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-fournier",
+        "nhiem-trung-co-quan-sinh-duc",
+        "viem-tinh-hoan"
+      ]
+    },
+    {
+      "question": "Tôi thấy vùng sinh dục sưng tấy, có mùi hôi và da chuyển màu xám xanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-fournier",
+        "nhiem-trung-co-quan-sinh-duc",
+        "viem-da-sinh-duc"
+      ]
+    },
+    {
+      "question": "Tôi bị đau vùng sinh dục, sốt cao, tim đập loạn nhịp và vùng da bị nhiễm trùng chuyển màu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-fournier",
+        "nhiem-trung-huyet",
+        "nhiem-trung-co-quan-sinh-duc"
+      ]
+    },
+    {
+      "question": "Tôi thấy vùng sinh dục sưng tấy, có mùi hôi và rò mủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-fournier",
+        "ap-xe-sinh-duc",
+        "viem-da-sinh-duc"
+      ]
+    },
+    {
+      "question": "Tôi bị đau vùng sinh dục, sốt cao, da chuyển màu và tinh hoàn bị lộ ra ngoài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-fournier",
+        "hoai-tu-da-scrotum",
+        "chan-thuong-sinh-duc"
+      ]
     }
   ]
 }

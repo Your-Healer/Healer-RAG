@@ -1,58 +1,190 @@
 {
   "disease_id": "gian-phe-quan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Giãn phế quản",
+  "disease_alternative_names": ["Bronchiectasis", "Giãn phế quản phổi"],
+  "disease_definition": "Giãn phế quản là tình trạng giãn không hồi phục một phần của cây phế quản, có thể giãn ở phế quản lớn trong khi phế quản nhỏ vẫn bình thường, hoặc giãn ở phế quản nhỏ trong khi phế quản lớn bình thường.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ho và khạc đờm kéo dài",
+      "description": "Triệu chứng điển hình và thường gặp nhất, ho khạc đờm kéo dài nhiều năm. Đờm mủ có màu xanh hoặc màu vàng, có thể lẫn máu."
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Có thể là triệu chứng duy nhất của bệnh, ho ra máu tái phát nhiều lần và có thể kéo dài nhiều năm. Mức độ có thể từ nhẹ đến rất nặng."
+    },
+    {
+      "name": "Khó thở và tiếng thở rít",
+      "description": "Thường xuất hiện muộn, là biểu hiện của suy hô hấp do tổn thương lan tỏa hai phổi, có thể có tím."
+    },
+    {
+      "name": "Sốt",
+      "description": "Xuất hiện khi có tình trạng viêm nhiễm đường hô hấp dưới, thường kèm theo khạc đờm tăng và/hoặc thay đổi màu sắc của đờm."
+    },
+    {
+      "name": "Đau ngực hoặc tức ngực",
+      "description": "Dấu hiệu của nhiễm khuẩn phổi ở vùng gần màng phổi hoặc túi phế quản giãn căng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Giãn phế quản là tình trạng giãn không hồi phục của cây phế quản, có thể do nhiều nguyên nhân khác nhau gây ra.",
+    "related_factors": "Ô nhiễm môi trường không khí, biến đổi khí hậu, nhiễm khuẩn phế quản.",
+    "transmission_routes": [
+      "Có khả năng lây nhiễm từ người bệnh sang người lành do các virus gây bệnh thông qua đường hô hấp."
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm khuẩn đường hô hấp tái phát",
+    "Ô nhiễm môi trường, khí hậu",
+    "Hút thuốc lá, thuốc lào",
+    "Tiền sử mắc lao phổi",
+    "Dị vật trong phế quản",
+    "Dị tật bẩm sinh ở cấu trúc phế quản",
+    "Sẹo cũ của các chấn thương, viêm nhiễm",
+    "U trong lòng phế quản"
+  ],
+  "complications": [
+    "Suy hô hấp khi phổi không cung cấp đủ oxy cho cơ thể",
+    "Suy tim phải với khó thở ngày càng nặng",
+    "Viêm phổi tái phát",
+    "Ho ra máu nặng, đe dọa tính mạng",
+    "Áp xe phổi",
+    "Mủ màng phổi",
+    "Xơ phổi",
+    "Khí phế thũng",
+    "Mủ phế quản",
+    "Nhiễm mủ phổi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá triệu chứng lâm sàng",
+      "Chẩn đoán hình ảnh",
+      "Đánh giá chức năng phổi",
+      "Xét nghiệm vi sinh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp cắt lớp vi tính ngực độ phân giải cao",
+        "description": "Cho hình ảnh giãn phế quản, giúp xác định vị trí và mức độ tổn thương."
+      },
+      {
+        "name": "Soi phế quản",
+        "description": "Nhằm phát hiện dị vật, các phế quản bị gấp khúc, bị chít hẹp, xác định vị trí chảy máu và hút dịch phế quản tìm vi khuẩn."
+      },
+      {
+        "name": "Xét nghiệm đờm",
+        "description": "Tìm vi khuẩn, nấm, trực khuẩn lao, từ đó giúp lựa chọn kháng sinh điều trị phù hợp."
+      },
+      {
+        "name": "Điện tâm đồ và siêu âm tim",
+        "description": "Phát hiện sớm biến chứng ở tim."
+      },
+      {
+        "name": "Đo chức năng hô hấp",
+        "description": "Đánh giá chức năng và hoạt động của phổi, xác định mức độ tổn thương."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Giãn phế quản là tổn thương không thể hồi phục được. Tuy nhiên, việc điều trị sẽ giúp giảm triệu chứng và sự tiến triển của bệnh, ngăn chặn vòng luẩn quẩn của việc nhiễm trùng lặp đi lặp lại, nâng cao chất lượng cuộc sống cho người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dẫn lưu đờm mủ phế quản",
+        "description": "Hướng dẫn người bệnh cách ho khạc đờm và vỗ rung lồng ngực kết hợp với dẫn lưu theo tư thế."
+      },
+      {
+        "name": "Điều trị bằng kháng sinh",
+        "description": "Sử dụng trong đợt cấp tính của giãn phế quản có bội nhiễm."
+      },
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Sử dụng thuốc giãn phế quản khi nghe phổi có ran rít, ngáy và thở oxy trong đợt cấp khi có thiếu oxy máu."
+      },
+      {
+        "name": "Điều trị ho ra máu",
+        "description": "Có phác đồ điều trị khác nhau tùy theo mức độ ho máu nhẹ, trung bình, nặng và rất nặng."
+      },
+      {
+        "name": "Điều trị ngoại khoa",
+        "description": "Cắt thùy phổi hoặc một bên phổi trong trường hợp ho ra máu nặng hoặc dai dẳng, tắc do khối u."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị",
+      "Tái khám theo lịch hẹn",
+      "Duy trì lối sống lành mạnh để tăng cường sức đề kháng",
+      "Tập luyện thể dục thể thao phù hợp",
+      "Vệ sinh răng miệng, tai mũi họng sạch sẽ"
+    ],
+    "prevention_of_transmission": [
+      "Vệ sinh cá nhân tốt",
+      "Đeo khẩu trang khi có triệu chứng ho, khạc đờm",
+      "Tránh tiếp xúc gần với người có hệ miễn dịch yếu"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin phòng cúm, phế cầu hàng năm giúp giảm nguy cơ nhiễm trùng đường hô hấp.",
+      "recommended_for": [
+        "Người có bệnh lý hô hấp mạn tính",
+        "Người cao tuổi",
+        "Người có hệ miễn dịch yếu"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá, thuốc lào",
+      "Tránh môi trường có nhiều khói bụi",
+      "Vệ sinh răng miệng, tai mũi họng sạch sẽ",
+      "Điều trị sớm các bệnh lý nhiễm khuẩn vùng tai mũi họng, răng miệng",
+      "Điều trị sớm các bệnh đường hô hấp như viêm phế quản cấp, áp xe phổi",
+      "Tập luyện thể dục thể thao, tăng cường sức đề kháng",
+      "Giữ ấm cổ ngực để đề phòng các đợt bội nhiễm",
+      "Đề phòng và lấy sớm các dị vật trong phế quản",
+      "Điều trị sớm lao sơ nhiễm ở trẻ em"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Giãn phế quản có chữa khỏi được không?",
+      "answer": "Giãn phế quản là tổn thương không thể hồi phục được. Tuy nhiên, việc điều trị sẽ giúp giảm triệu chứng và sự tiến triển của bệnh, ngăn chặn vòng luẩn quẩn của việc nhiễm trùng lặp đi lặp lại, nâng cao chất lượng cuộc sống cho người bệnh."
+    },
+    {
+      "question": "Giãn phế quản có lây không?",
+      "answer": "Bệnh có khả năng lây nhiễm từ người bệnh sang người lành do các virus gây bệnh thông qua đường hô hấp. Tuy nhiên, không phải ai tiếp xúc với người bệnh cũng sẽ mắc bệnh giãn phế quản."
+    },
+    {
+      "question": "Giãn phế quản có nguy hiểm không?",
+      "answer": "Nếu không được phát hiện sớm và điều trị kịp thời, đúng cách, người bệnh có thể gặp nhiều biến chứng nguy hiểm như viêm phổi tái phát, ho ra máu nặng, khó thở và suy hô hấp, áp xe phổi, mủ màng phổi, xơ phổi, khí phế thũng, thậm chí ảnh hưởng chức năng tim, gây suy tim."
+    },
+    {
+      "question": "Những ai có nguy cơ mắc bệnh giãn phế quản?",
+      "answer": "Bệnh thường gặp ở người lớn tuổi, đặc biệt là những người có tiền sử nhiễm khuẩn phế quản tái phát, từng mắc lao phổi, sống trong môi trường ô nhiễm không khí, hút thuốc lá/thuốc lào, có dị tật bẩm sinh ở cấu trúc phế quản, hoặc từng bị dị vật đường thở."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay ho và khạc đờm kéo dài nhiều năm, đờm có màu vàng hoặc xanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gian-phe-quan", "viem-phe-quan-man", "viem-phoi"]
+    },
+    {
+      "question": "Tôi thường xuyên bị ho, đặc biệt là vào buổi sáng, và khạc ra đờm đặc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gian-phe-quan", "viem-phe-quan-man", "hen-suyen"]
+    },
+    {
+      "question": "Tôi bị ho dai dẳng, khạc đờm màu vàng hoặc xanh, và thỉnh thoảng có lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gian-phe-quan", "lao-phoi", "ung-thu-phoi"]
+    },
+    {
+      "question": "Tôi hay bị viêm phổi tái đi tái lại và ho có đờm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gian-phe-quan", "suy-giam-mien-dich", "hen-suyen"]
+    },
+    {
+      "question": "Tôi bị ho ra máu và cảm thấy mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gian-phe-quan",
+        "lao-phoi",
+        "ung-thu-phoi",
+        "viem-phoi"
+      ]
     }
   ]
 }

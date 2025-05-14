@@ -1,58 +1,358 @@
 {
   "disease_id": "dau-tinh-hoan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Đau Tinh Hoàn",
+  "disease_alternative_names": [
+    "Đau dịch hoàn",
+    "Đau bìu",
+    "Đau dái",
+    "Testicular Pain"
+  ],
+  "disease_definition": "Đau tinh hoàn là tình trạng đau nhức xảy ra ở một phần hoặc một hoặc cả hai tinh hoàn, có thể khởi phát đột ngột hay kéo dài tùy theo từng trường hợp. Vấn đề này thường gây ảnh hưởng đến nam giới trong mọi độ tuổi. Cơn đau có thể là cấp tính (xuất hiện đột ngột và không kéo dài) hoặc mãn tính (từ từ và kéo dài). Đa phần các trường hợp đều xuất phát từ chấn thương bất ngờ, nhưng cũng có thể bắt nguồn từ nhiều yếu tố khác.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau tinh hoàn",
+      "description": "Mức độ cơn đau sẽ khác nhau tùy thuộc vào từng nguyên nhân. Một chấn thương đột ngột thường gây ra cảm giác đau buốt sau đó âm ỉ. Trong khi đó, đau do viêm mào tinh hoàn sẽ trở nên trầm trọng theo thời gian. Sỏi thận thường gây đau nhói ở lưng, lan dần đến tinh hoàn và đầu dương vật."
+    },
+    {
+      "name": "Bầm tím bìu",
+      "description": "Dấu hiệu bầm tím có thể xuất hiện trên bìu nếu tinh hoàn bị chấn thương hoặc tổn thương."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Đây là triệu chứng của nhiều bệnh lý, bao gồm chấn thương tinh hoàn, sỏi thận hoặc viêm tinh hoàn."
+    },
+    {
+      "name": "Sưng tấy",
+      "description": "Vùng bìu có thể xuất hiện cục u, bề mặt bóng và màu đỏ. Đây thường là dấu hiệu của chấn thương, viêm tinh hoàn, viêm mào tinh hoàn hoặc khối u tinh hoàn."
+    },
+    {
+      "name": "Sốt",
+      "description": "Đau tinh hoàn kèm sốt là dấu hiệu của bệnh viêm tinh hoàn hoặc viêm mào tinh hoàn."
+    },
+    {
+      "name": "Rối loạn tiểu tiện",
+      "description": "Một số loại sỏi thận có thể gây ra tình trạng đi tiểu tiện thường xuyên, nóng rát khi tiểu hoặc xuất hiện máu trong nước tiểu."
+    },
+    {
+      "name": "Khối u bất thường",
+      "description": "Xuất hiện khối u hoặc dấu hiệu sưng tấy xung quanh tinh hoàn, vùng bìu có thể là dấu hiệu của nhiều bệnh lý khác nhau."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đau tinh hoàn có thể xuất phát từ nhiều nguyên nhân khác nhau, từ chấn thương trực tiếp đến các bệnh lý viêm nhiễm, rối loạn mạch máu, và các vấn đề khác liên quan đến hệ thống sinh dục - tiết niệu của nam giới.",
+    "related_factors": "Bên cạnh nguyên nhân rõ ràng do bị chấn thương hoặc tai nạn, cơn đau tinh hoàn cũng có thể xuất phát từ viêm tinh hoàn, thoát vị bẹn, viêm mào tinh hoàn, nang mào tinh hoàn, tràn dịch màng tinh hoàn, khối tụ máu, giãn tĩnh mạch thừng tinh, xoắn tinh hoàn, sỏi thận, hội chứng đau sau thắt ống dẫn tinh, nhiễm trùng đường tiết niệu, và ung thư tinh hoàn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em trai và nam giới ở mọi lứa tuổi",
+    "Công việc nặng nhọc",
+    "Chơi các môn thể thao tiếp xúc hoàn toàn",
+    "Không sử dụng dụng cụ bảo hộ khi hoạt động thể thao",
+    "Quan hệ tình dục không an toàn",
+    "Tình trạng suy giảm hệ miễn dịch",
+    "Tiền sử bệnh lý tinh hoàn",
+    "Tiền sử phẫu thuật đường tiết niệu hoặc sinh dục"
+  ],
+  "complications": [
+    "Tổn thương vĩnh viễn đến tinh hoàn",
+    "Ảnh hưởng đến khả năng sinh sản",
+    "Giảm hoặc mất chức năng tinh hoàn",
+    "Nhiễm trùng lan rộng khắp cơ thể",
+    "Buộc phải cắt bỏ tinh hoàn trong trường hợp nghiêm trọng",
+    "Ảnh hưởng tâm lý, lo lắng, căng thẳng",
+    "Đau mãn tính ảnh hưởng đến chất lượng cuộc sống"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng với các động tác đứng lên, nằm xuống",
+      "Khai thác bệnh sử về thời điểm cơn đau bắt đầu, thời gian kéo dài, mức độ đau, vị trí đau",
+      "Hỏi về tiền sử tình dục, phẫu thuật và các hoạt động làm cơn đau trầm trọng hơn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Giúp loại trừ nguyên nhân tinh hoàn bị đau do nhiễm trùng, đánh giá các chỉ số viêm."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Tìm bằng chứng của nhiễm trùng đường tiết niệu hoặc sự hiện diện của máu trong nước tiểu."
+      },
+      {
+        "name": "Siêu âm bìu",
+        "description": "Phương pháp hình ảnh không xâm lấn giúp phát hiện các bất thường trong cấu trúc tinh hoàn, mào tinh, có thể xác định nguyên nhân đau do xoắn tinh hoàn, tràn dịch màng tinh hoàn, khối u tinh hoàn, hoặc giãn tĩnh mạch thừng tinh."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết hơn của các mô mềm, giúp phát hiện các bất thường nhỏ mà siêu âm có thể bỏ sót."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị đau tinh hoàn phụ thuộc vào nguyên nhân cụ thể gây ra cơn đau. Cần được bác sĩ chuyên khoa tiết niệu đánh giá để có chỉ định phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị tại nhà",
+        "description": "Chườm đá vào vị trí đau, đặt một chiếc khăn cuộn dưới bìu khi nằm, tắm nước ấm để giảm đau và sưng tấy."
+      },
+      {
+        "name": "Dùng thuốc giảm đau",
+        "description": "Acetaminophen, thuốc chống viêm không steroid (NSAID) như Aspirin, Ibuprofen và Naproxen có thể giúp giảm đau và viêm. Thường được kê đơn trong trường hợp cơn đau xuất hiện do chấn thương hoặc viêm tinh hoàn."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Được chỉ định đối với trường hợp đau do viêm tinh hoàn, viêm mào tinh hoàn hoặc nhiễm trùng đường tiết niệu."
+      },
+      {
+        "name": "Phẫu thuật tháo xoắn thừng tinh",
+        "description": "Bác sĩ sẽ tiến hành tháo xoắn thừng tinh và khôi phục lưu lượng máu đến tinh hoàn, sau đó là khâu các mũi xung quanh tinh hoàn để tránh tình trạng tổn thương lặp lại."
+      },
+      {
+        "name": "Phẫu thuật sửa chữa thoát vị",
+        "description": "Thủ tục này được thực hiện nếu khối thoát vị không thể đẩy trở lại vào ổ bụng hoặc thu nhỏ kích thước."
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ mào tinh hoàn",
+        "description": "Có thể được thực hiện nếu xuất hiện dấu hiệu đau mãn tính ở mào tinh hoàn mà không đáp ứng với thuốc điều trị."
+      },
+      {
+        "name": "Phẫu thuật nối lại ống dẫn tinh",
+        "description": "Đây là phương pháp được chỉ định trong trường hợp nam giới đau tinh hoàn do bị thắt ống dẫn tinh."
+      },
+      {
+        "name": "Tán sỏi bằng sóng xung kích",
+        "description": "Đây là thủ thuật xâm lấn tối thiểu sử dụng sóng xung kích để phá vỡ sỏi thận gây đau tinh hoàn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ và hạn chế hoạt động thể chất nặng nề",
+      "Nâng đỡ bìu bằng quần lót chặt vừa hoặc băng hỗ trợ bìu",
+      "Chườm đá lên vùng đau đớn mỗi 4 giờ trong 15-20 phút",
+      "Tuân thủ đúng liều lượng thuốc theo chỉ định của bác sĩ",
+      "Tránh quan hệ tình dục cho đến khi cơn đau hoàn toàn biến mất",
+      "Duy trì vệ sinh cá nhân tốt, đặc biệt là vùng bìu",
+      "Tái khám định kỳ theo lịch hẹn với bác sĩ",
+      "Đi tiểu thường xuyên và không nhịn tiểu"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Không có vaccine đặc hiệu để phòng ngừa đau tinh hoàn. Tuy nhiên, vaccine HPV có thể giúp giảm nguy cơ một số bệnh lây truyền qua đường tình dục có thể gây viêm nhiễm đường sinh dục.",
+      "recommended_for": ["Nam giới từ 9-26 tuổi"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Luôn mặc đồ bảo hộ thể thao để tránh gây chấn thương tinh hoàn",
+      "Quan hệ tình dục an toàn, đặc biệt là cần sử dụng bao cao su trong khi giao hợp",
+      "Kiểm tra tinh hoàn mỗi tháng một lần để phát hiện sớm những thay đổi bất thường",
+      "Luôn làm rỗng bàng quang hoàn toàn khi đi tiểu để ngăn ngừa nhiễm trùng đường tiết niệu",
+      "Liên hệ bác sĩ để được thăm khám kịp thời ngay khi xuất hiện triệu chứng đau nhức ở tinh hoàn",
+      "Bổ sung các thực phẩm tốt cho sức khỏe tinh hoàn như ớt chuông, cà rốt, khoai lang, cá mòi, tôm, tỏi, hành tây",
+      "Tránh mặc quần quá chật gây áp lực lên vùng bìu",
+      "Duy trì cân nặng hợp lý và tập thể dục thường xuyên"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khi nào đau tinh hoàn được coi là nghiêm trọng và cần đến bệnh viện ngay?",
+      "answer": "Cần đến bệnh viện ngay lập tức nếu bạn gặp phải các triệu chứng sau: Đau tinh hoàn đột ngột và dữ dội; Đau kèm theo buồn nôn, nôn; Đau kèm sốt cao và ớn lạnh; Xuất hiện sưng tấy hoặc vết bầm tím trên bìu; Đau đi kèm với máu trong nước tiểu; Đau tinh hoàn kéo dài hơn một giờ. Đặc biệt, đau tinh hoàn đột ngột và dữ dội có thể là dấu hiệu của xoắn tinh hoàn - một cấp cứu y khoa cần được phẫu thuật trong vòng 6 giờ để tránh hoại tử tinh hoàn."
+    },
+    {
+      "question": "Đau tinh hoàn có ảnh hưởng đến khả năng sinh sản không?",
+      "answer": "Đau tinh hoàn tự nó không ảnh hưởng đến khả năng sinh sản, nhưng nguyên nhân gây đau có thể ảnh hưởng. Một số tình trạng như viêm tinh hoàn, viêm mào tinh, xoắn tinh hoàn nếu không được điều trị kịp thời có thể gây tổn thương vĩnh viễn đến cấu trúc và chức năng của tinh hoàn, ảnh hưởng đến khả năng sản xuất tinh trùng. Ung thư tinh hoàn và việc điều trị ung thư cũng có thể ảnh hưởng đến khả năng sinh sản. Do đó, phát hiện sớm và điều trị kịp thời là rất quan trọng để bảo tồn chức năng sinh sản."
+    },
+    {
+      "question": "Có cách nào giảm đau tinh hoàn tại nhà không?",
+      "answer": "Có một số cách giảm đau tinh hoàn tại nhà bao gồm: Nghỉ ngơi đủ; Chườm đá lên vùng bìu (qua lớp khăn mỏng) trong 15-20 phút mỗi 1-2 giờ; Nâng bìu bằng khăn cuộn khi nằm hoặc sử dụng đồ lót hỗ trợ; Tắm nước ấm; Uống thuốc giảm đau không kê đơn như acetaminophen hoặc ibuprofen theo hướng dẫn. Tuy nhiên, những biện pháp này chỉ áp dụng cho đau nhẹ. Nếu cơn đau kéo dài, dữ dội hoặc kèm theo các triệu chứng khác như sốt, buồn nôn, sưng tấy thì cần đến gặp bác sĩ ngay lập tức."
+    },
+    {
+      "question": "Xoắn tinh hoàn là gì và tại sao nó nguy hiểm?",
+      "answer": "Xoắn tinh hoàn là tình trạng xoắn của thừng tinh, khiến nguồn cung cấp máu đến tinh hoàn bị cắt đứt. Đây là một cấp cứu y khoa vì khi tinh hoàn không được cung cấp đủ máu, tế bào tinh hoàn sẽ bắt đầu chết đi sau khoảng 6 giờ, có thể dẫn đến hoại tử tinh hoàn và buộc phải cắt bỏ. Xoắn tinh hoàn thường gây đau dữ dội, đột ngột ở bìu, có thể kèm theo buồn nôn, nôn, sưng và đỏ vùng bìu. Nếu nghi ngờ xoắn tinh hoàn, cần đến phòng cấp cứu ngay lập tức. Phẫu thuật càng sớm càng tốt (lý tưởng là trong vòng 6 giờ) để tháo xoắn và cố định tinh hoàn vào thành bìu, giúp ngăn ngừa tình trạng tái phát."
+    },
+    {
+      "question": "Tuổi nào thường gặp vấn đề đau tinh hoàn nhiều nhất?",
+      "answer": "Đau tinh hoàn có thể xảy ra ở nam giới ở mọi lứa tuổi, từ trẻ sơ sinh đến người cao tuổi, tùy thuộc vào nguyên nhân. Tuy nhiên, một số tình trạng cụ thể thường xảy ra ở các nhóm tuổi nhất định: Xoắn tinh hoàn phổ biến nhất ở trẻ từ 12-18 tuổi, nhưng cũng có thể xảy ra ở trẻ nhỏ và người trưởng thành; Viêm mào tinh và viêm tinh hoàn thường gặp ở thanh thiếu niên và nam giới trưởng thành có hoạt động tình dục; Thoát vị bẹn có thể xảy ra ở mọi lứa tuổi nhưng phổ biến hơn ở trẻ sơ sinh, trẻ nhỏ và người cao tuổi; Ung thư tinh hoàn thường phát triển ở nam giới từ 15-35 tuổi. Nhìn chung, nam giới trẻ tuổi và thanh thiếu niên có xu hướng gặp vấn đề về đau tinh hoàn nhiều hơn do mức độ hoạt động cao và sự phát triển của hệ sinh dục trong giai đoạn này."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau buốt tinh hoàn, sau đó âm ỉ, kèm theo bầm tím ở bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chấn thương tinh hoàn",
+        "Xoắn tinh hoàn",
+        "Tụ máu bìu",
+        "Vỡ tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tinh hoàn ngày càng trầm trọng, kèm theo sưng tấy và bề mặt bìu bóng đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Xoắn tinh hoàn",
+        "Áp xe tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhói ở lưng lan xuống tinh hoàn và đầu dương vật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Sỏi thận",
+        "Sỏi niệu quản",
+        "Viêm thận",
+        "Viêm bể thận"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang trải qua cơn đau tinh hoàn, kèm theo buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Xoắn tinh hoàn",
+        "Viêm tinh hoàn",
+        "Sỏi thận",
+        "Viêm ruột thừa"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tinh hoàn, kèm theo sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Nhiễm trùng đường tiết niệu",
+        "Áp xe tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tinh hoàn, kèm theo đi tiểu thường xuyên và nóng rát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Nhiễm trùng đường tiết niệu",
+        "Viêm niệu đạo",
+        "Viêm tuyến tiền liệt",
+        "Viêm bàng quang"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang trải qua cơn đau tinh hoàn, kèm theo xuất hiện cục u ở bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư tinh hoàn",
+        "Nang mào tinh hoàn",
+        "Tràn dịch màng tinh hoàn",
+        "U tinh hoàn lành tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tinh hoàn, kèm theo máu trong nước tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Sỏi thận",
+        "Viêm bàng quang",
+        "Ung thư bàng quang",
+        "Viêm thận"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tinh hoàn, kèm theo sưng bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Tràn dịch màng tinh hoàn",
+        "Thoát vị bẹn",
+        "Viêm mào tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang trải qua cơn đau tinh hoàn, kèm theo khó chịu khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Giãn tĩnh mạch thừng tinh",
+        "Xoắn tinh hoàn",
+        "Thoát vị bẹn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tinh hoàn, kèm theo đau bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm ruột thừa",
+        "Viêm tuyến tiền liệt",
+        "Thoát vị bẹn",
+        "Sỏi thận"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tinh hoàn, kèm theo sốt và ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Áp xe tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Nhiễm trùng huyết"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang trải qua cơn đau tinh hoàn, kèm theo thay đổi màu sắc bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tụ máu bìu",
+        "Hoại tử tinh hoàn",
+        "Xoắn tinh hoàn",
+        "Hoại tử da bìu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tinh hoàn, kèm theo đau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Viêm mào tinh hoàn",
+        "Giãn tĩnh mạch thừng tinh",
+        "Viêm niệu đạo"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tinh hoàn, kèm theo tiểu buốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niệu đạo",
+        "Viêm bàng quang",
+        "Viêm tuyến tiền liệt",
+        "Nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang trải qua cơn đau tinh hoàn, kèm theo sưng hạch bạch huyết ở bẹn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh lây truyền qua đường tình dục",
+        "Viêm hạch bạch huyết",
+        "Ung thư tinh hoàn",
+        "Viêm bìu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tinh hoàn, kèm theo mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư tinh hoàn",
+        "Viêm tinh hoàn",
+        "Xoắn tinh hoàn",
+        "Nhiễm trùng huyết"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tinh hoàn sau khi vận động mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Giãn tĩnh mạch thừng tinh",
+        "Thoát vị bẹn",
+        "Chấn thương tinh hoàn",
+        "Đụng dập tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang trải qua cơn đau tinh hoàn, kèm theo đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Sỏi thận",
+        "Đau thần kinh tọa",
+        "Thoát vị đĩa đệm",
+        "Ung thư tinh hoàn di căn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tinh hoàn, kèm theo khó tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Viêm niệu đạo",
+        "U tuyến tiền liệt",
+        "Sỏi đường tiết niệu"
+      ]
     }
   ]
 }

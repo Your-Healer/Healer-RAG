@@ -1,39 +1,121 @@
 {
   "disease_id": "ngu-ngay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ngủ ngáy",
+  "disease_alternative_names": ["Ngáy khi ngủ", "Chứng ngáy ngủ", "Snoring"],
+  "disease_definition": "Ngủ ngáy là tình trạng vừa ngủ vừa phát ra âm thanh gây ồn ào trong vô thức. Tiếng ngáy là âm thanh khàn khàn được tạo ra trong vòm họng khi ngủ, dao động từ rất nhỏ, hầu như không nghe thấy cho đến tiếng ồn cực kỳ khó chịu, có thể đủ lớn để ảnh hưởng đến phòng bên cạnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Âm thanh rung, lạch cạch khi thở",
+      "description": "Tạo ra âm thanh rung, lạch cạch, ồn ào khi thở trong lúc ngủ do sự rung động của các phần khác nhau ở đường hô hấp trên."
+    },
+    {
+      "name": "Ngừng thở trong khi ngủ",
+      "description": "Hay bị ngừng thở, giật mình thức giấc khi ngủ, đặc biệt ở người bị ngưng thở khi ngủ do tắc nghẽn (OSA)."
+    },
+    {
+      "name": "Buồn ngủ vào ban ngày",
+      "description": "Cảm thấy buồn ngủ và mệt mỏi vào ban ngày do giấc ngủ bị gián đoạn bởi tiếng ngáy và các đợt ngưng thở."
+    },
+    {
+      "name": "Nhức đầu buổi sáng",
+      "description": "Cảm thấy đau đầu khi thức dậy vào buổi sáng, thường do thiếu oxy trong quá trình ngủ."
+    },
+    {
+      "name": "Mệt mỏi khi thức dậy",
+      "description": "Buổi sáng thức dậy cảm thấy mệt mỏi, uể oải do chất lượng giấc ngủ kém."
+    },
+    {
+      "name": "Tỉnh giấc giữa đêm",
+      "description": "Bị thức giấc nhiều lần trong đêm, có thể do chính tiếng ngáy của bản thân hoặc do các đợt ngưng thở."
+    },
+    {
+      "name": "Khó tập trung vào ban ngày",
+      "description": "Không thể tập trung vào công việc hoặc học tập vào ban ngày do thiếu ngủ hoặc chất lượng giấc ngủ kém."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ngủ ngáy là kết quả của sự rung động các mô mềm của vòm họng do luồng không khí gây ra, đặc biệt là vòm khẩu cái mềm. Khi trương lực cơ giảm trong lúc ngủ, không thể giữ cho đường thở mở để đáp ứng với áp suất âm trong lòng phổi do hít vào, đường thở trên sẽ bị thu hẹp lại.",
+    "related_factors": "Ngủ ngáy có thể do ngáy nguyên phát (không kèm theo thức giấc hoặc kích thích quá mức) hoặc do rối loạn nhịp thở khi ngủ (bao gồm hội chứng tắc nghẽn đường hô hấp trên và chứng ngưng thở khi ngủ do tắc nghẽn - OSA).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác cao",
+    "Béo phì",
+    "Sử dụng rượu hoặc thuốc an thần khác",
+    "Nghẹt mũi mạn tính hoặc tắc nghẽn",
+    "Hàm nhỏ hoặc lẹm về phía sau",
+    "Giới tính nam (nam giới có nguy cơ cao gấp 2 lần nữ giới)",
+    "Phụ nữ tiền mãn kinh",
+    "Thai kỳ",
+    "Các cấu trúc bất thường có thể chặn luồng không khí (amiđan lớn, lệch vách ngăn mũi, polyp mũi, lưỡi to, vòm khẩu cái mềm mở rộng, hẹp hầu bên)",
+    "Yếu tố gia đình và di truyền"
+  ],
+  "complications": [
+    "Ngưng thở khi ngủ do tắc nghẽn (OSA)",
+    "Tăng huyết áp",
+    "Đột quỵ",
+    "Rối loạn nhịp tim",
+    "Suy thận",
+    "Buồn ngủ vào ban ngày gây nguy hiểm trong công việc và lái xe",
+    "Các vấn đề tim mạch",
+    "Tiểu đường",
+    "Trầm cảm",
+    "Ảnh hưởng đến chất lượng cuộc sống và các mối quan hệ xã hội"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng tai mũi họng để kiểm tra mũi họng, cổ",
+      "Đánh giá âm lượng và tần suất ngáy",
+      "Đánh giá các tư thế ngủ làm ngáy trở nên tồi tệ hơn",
+      "Đánh giá các vấn đề do giấc ngủ bị ảnh hưởng",
+      "Tìm hiểu về các dấu hiệu ngưng thở trong khi ngủ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghiên cứu giấc ngủ (Polysomnography)",
+        "description": "Theo dõi các hoạt động của cơ thể trong khi ngủ, bao gồm nhịp thở, mức oxy trong máu, nhịp tim, chuyển động mắt và chuyển động chân"
+      },
+      {
+        "name": "Nội soi mũi họng",
+        "description": "Kiểm tra đường thở trên để xác định các cấu trúc gây tắc nghẽn"
+      },
+      {
+        "name": "Chỉ số ngưng thở/giảm thở (AHI)",
+        "description": "Đánh giá mức độ nghiêm trọng của ngưng thở khi ngủ: nhẹ (5-15 đợt/giờ), trung bình (16-30 đợt/giờ), nặng (>30 đợt/giờ)"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị ngủ ngáy bao gồm các biện pháp chung để quản lý các yếu tố rủi ro cộng với các phương pháp vật lý để mở rộng đường thở và/hoặc cố định các cấu trúc liên quan.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Các biện pháp chung",
+        "description": "Tránh uống rượu và thuốc an thần trong vài giờ trước khi đi ngủ, gối đầu cao khi ngủ, ngủ ở tư thế nằm nghiêng, giảm cân, điều trị chứng nghẹt mũi."
+      },
+      {
+        "name": "Thiết bị kéo xương hàm dưới",
+        "description": "Dụng cụ giúp di chuyển hàm dưới và lưỡi về phía trước so với hàm trên, làm tăng đường kính đường thở trong khi ngủ."
+      },
+      {
+        "name": "Dụng cụ giữ lưỡi",
+        "description": "Sử dụng lực hút để duy trì lưỡi ở vị trí phía trước, ngăn lưỡi rơi về phía sau gây tắc nghẽn đường thở."
+      },
+      {
+        "name": "Thiết bị CPAP (Continuous Positive Airway Pressure)",
+        "description": "Duy trì áp suất dương không đổi ở đường hô hấp trên thông qua một mặt nạ nhỏ áp vào mũi hoặc mũi và miệng, ngăn ngừa hẹp hoặc xẹp đường hô hấp trên trong khi ngủ."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Các phương pháp phẫu thuật như phẫu thuật tạo hình hầu họng, phẫu thuật với sự hỗ trợ của Coblator và tia laser (LAUP), phẫu thuật tạo hình bằng thuốc tiêm, và phẫu thuật gia cố vòm miệng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nếu ngáy xảy ra ba lần trở lên mỗi tuần, nên đi khám bác sĩ",
+      "Khi ngáy kèm theo tiếng thở hổn hển, nghẹt thở hoặc khịt mũi, cần được kiểm tra y tế",
+      "Người bị béo phì hoặc tăng cân gần đây nên kiểm tra tình trạng ngủ ngáy",
+      "Hạn chế ăn bữa tối quá no và không ăn trước giờ đi ngủ",
+      "Người bị buồn ngủ ban ngày, thiếu tập trung, nhức đầu buổi sáng, huyết áp cao cần được đánh giá về chứng ngủ ngáy"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +123,51 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm soát cân nặng, tránh béo phì",
+      "Không uống rượu bia, hút thuốc lá",
+      "Tránh sử dụng thuốc an thần trước khi ngủ",
+      "Tránh căng thẳng, stress, thức khuya",
+      "Điều trị triệt để các bệnh mũi xoang, bệnh lý ở miệng họng, hô hấp",
+      "Ngủ nghiêng, tránh nằm ngửa",
+      "Nâng cao đầu giường khoảng 10cm",
+      "Sử dụng gối đặc biệt để giữ đúng tư thế đầu và cổ khi ngủ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ngủ ngáy có nguy hiểm không?",
+      "answer": "Mức độ nguy hiểm của ngủ ngáy phụ thuộc vào loại, mức độ nghiêm trọng và tần suất của nó. Ngáy nhẹ và không thường xuyên thường không cần điều trị y tế. Ngáy nguyên phát xảy ra hơn ba đêm mỗi tuần có thể gây khó chịu cho người ngủ chung giường. Tuy nhiên, ngáy liên quan đến ngưng thở khi ngủ do tắc nghẽn (OSA) đáng lo ngại hơn vì nếu không được điều trị, nó có thể dẫn đến buồn ngủ ban ngày nguy hiểm và các vấn đề sức khỏe nghiêm trọng như bệnh tim mạch, huyết áp cao, tiểu đường, đột quỵ và trầm cảm."
+    },
+    {
+      "question": "Ngủ ngáy có lây không? Ngủ ngáy có di truyền không?",
+      "answer": "Ngủ ngáy là bệnh không lây truyền nhưng có thể có tính chất di truyền. Ví dụ, nếu gia đình bạn có tiền sử béo phì thì bạn cũng có nguy cơ tương tự. Béo phì là một trong các nguyên nhân dẫn đến ngáy ngủ. Ngoài ra, cấu trúc xương mặt và đường thở cũng có thể di truyền, làm tăng khả năng ngủ ngáy ở những người trong cùng một gia đình."
+    },
+    {
+      "question": "Khi nào cần điều trị ngủ ngáy?",
+      "answer": "Nếu ngáy ngủ là triệu chứng của chứng ngưng thở khi ngủ, người bệnh cần được điều trị sớm để tránh các biến chứng nguy hiểm. Bạn nên đến bệnh viện khi: ngáy xảy ra ba lần trở lên mỗi tuần; ngáy rất to hoặc khó chịu; ngáy kèm theo tiếng thở hổn hển, nghẹt thở hoặc khịt mũi; béo phì hoặc tăng cân gần đây; buồn ngủ ban ngày; thiếu tập trung; nhức đầu buổi sáng; huyết áp cao; nghiến răng ban đêm; thường xuyên đi tiểu đêm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay tạo ra âm thanh rung, lạch cạch khi thở lúc ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngu-ngay", "ngung-tho-khi-ngu", "viem-amidan"]
+    },
+    {
+      "question": "Tôi ngáy to và thường xuyên bị ngừng thở khi ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngu-ngay", "ngung-tho-khi-ngu", "hoi-chung-osa"]
+    },
+    {
+      "question": "Tôi hay bị giật mình thức giấc và buồn ngủ vào ban ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngu-ngay", "ngung-tho-khi-ngu", "roi-loan-giac-ngu"]
+    },
+    {
+      "question": "Tôi ngáy to và thường bị nhức đầu vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngu-ngay", "ngung-tho-khi-ngu", "tang-huyet-ap"]
+    },
+    {
+      "question": "Tôi ngủ không ngon giấc và hay bị tỉnh giấc bởi tiếng ngáy của chính mình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngu-ngay", "ngung-tho-khi-ngu", "roi-loan-giac-ngu"]
     }
   ]
 }

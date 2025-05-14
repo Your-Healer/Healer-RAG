@@ -1,58 +1,149 @@
 {
   "disease_id": "men-gan-cao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Men gan cao",
+  "disease_alternative_names": ["Tăng men gan", "Enzym gan tăng cao"],
+  "disease_definition": "Men gan cao là khi các protein mà gan sản xuất có nồng độ cao bất thường trong máu. Đây thường là dấu hiệu cảnh báo gan đang hoạt động không bình thường, khi các tế bào gan bị tổn thương hoặc bị viêm sẽ giải phóng các enzym vào máu, gây tình trạng men gan cao.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ngứa da",
+      "description": "Có thể bị ngứa ở cánh tay dưới hoặc ngứa toàn thân. Ngứa liên tục có thể cản trở giấc ngủ và dẫn đến các vấn đề khác."
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Các vấn đề tiêu hóa như đau bụng, đầy hơi, khó tiêu, buồn nôn có thể xảy ra khi men gan cao."
+    },
+    {
+      "name": "Vàng da, vàng mắt",
+      "description": "Xảy ra khi có quá nhiều bilirubin (một sắc tố màu vàng) trong máu, có thể liên quan đến tình trạng men gan tăng cao."
+    },
+    {
+      "name": "Phân có màu vàng nhạt",
+      "description": "Phân màu vàng nhạt hoặc màu đất sét có thể là dấu hiệu của các vấn đề về gan và hệ thống dẫn mật."
+    },
+    {
+      "name": "Mệt mỏi và chán ăn",
+      "description": "Cảm giác mệt mỏi, suy nhược và không muốn ăn uống thường gặp ở người bị men gan cao."
+    },
+    {
+      "name": "Nước tiểu sẫm màu",
+      "description": "Nước tiểu có màu sẫm bất thường có thể là dấu hiệu của vấn đề về gan."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Men gan tăng cao xảy ra khi các tế bào gan bị viêm hoặc bị tổn thương, giải phóng các enzym vào máu làm tăng nồng độ men gan khi xét nghiệm.",
+    "related_factors": "Các yếu tố liên quan bao gồm: sử dụng một số loại thuốc, thực phẩm bổ sung thảo dược, viêm gan, uống rượu, bệnh gan nhiễm mỡ, bệnh Wilson, hemochromatosis, xơ gan, ung thư gan, và bệnh tuyến giáp.",
+    "transmission_routes": [
+      "Viêm gan virus (A, B, C, D, E) có thể lây truyền qua đường máu, qua đường tiêu hóa hoặc tiếp xúc với chất dịch cơ thể."
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sử dụng nhiều rượu bia",
+    "Béo phì",
+    "Hội chứng chuyển hóa",
+    "Sử dụng một số loại thuốc (như acetaminophen, thuốc kháng sinh, thuốc giảm cholesterol)",
+    "Bổ sung thảo dược (sắt, vitamin A, comfrey, chaparral)",
+    "Mắc các bệnh viêm gan"
+  ],
+  "complications": ["Xơ gan", "Viêm gan", "Ung thư gan"],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xét nghiệm máu để kiểm tra nồng độ men gan",
+      "Chụp hình ảnh gan",
+      "Sinh thiết gan trong một số trường hợp"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm ALT (GPT)",
+        "description": "Chỉ số bình thường: dưới hoặc bằng 35 UI/l (nam giới) và dưới hoặc bằng 25 UI/l (nữ giới)"
+      },
+      {
+        "name": "Xét nghiệm AST (GOT)",
+        "description": "Chỉ số bình thường: dưới hoặc bằng 35 UI/l (nam giới) và dưới hoặc bằng 25 UI/l (nữ giới)"
+      },
+      {
+        "name": "Xét nghiệm GGT",
+        "description": "Chỉ số bình thường: từ 5-60 UI/l"
+      },
+      {
+        "name": "Xét nghiệm ALP",
+        "description": "Chỉ số bình thường: từ 35-115 UI/l"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị men gan tăng cao tùy thuộc vào từng nguyên nhân. Trong nhiều trường hợp, nồng độ men gan tự trở lại bình thường trong vòng khoảng một tháng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nguyên nhân gốc",
+        "description": "Tùy thuộc vào nguyên nhân, có thể cần chuyển thuốc, ngừng uống thực phẩm bổ sung hoặc cắt giảm uống rượu."
+      },
+      {
+        "name": "Thay đổi lối sống",
+        "description": "Giảm uống rượu hoặc bỏ hẳn rượu, thận trọng với các loại thuốc và chất bổ sung, duy trì hoạt động thể chất, bổ sung thực phẩm tốt cho gan và duy trì cân nặng vừa phải."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Giảm hoặc bỏ hẳn rượu khỏi chế độ ăn uống",
+      "Thận trọng với các loại thuốc và chất bổ sung",
+      "Duy trì hoạt động thể chất, tập thể dục thường xuyên",
+      "Bổ sung thực phẩm tốt cho gan và duy trì cân nặng hợp lý"
+    ],
+    "prevention_of_transmission": [
+      "Đối với viêm gan virus: không dùng chung kim tiêm hoặc các vật dụng bị dính máu"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm đầy đủ các loại vaccine viêm gan virus A và viêm gan virus B để phòng ngừa viêm gan do virus, là một trong những nguyên nhân gây tăng men gan.",
+      "recommended_for": [
+        "Người chưa được tiêm phòng viêm gan A và B",
+        "Người có nguy cơ cao mắc viêm gan virus"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không nên uống rượu bia, hoặc uống trong chừng mực cho phép",
+      "Tuyệt đối không dùng chung kim tiêm hoặc các vật dụng bị dính máu",
+      "Ăn uống lành mạnh, khoa học, tăng cường ăn những thực phẩm tốt cho gan",
+      "Nếu bị đái tháo đường nên quản lý tốt lượng đường trong máu",
+      "Thận trọng khi sử dụng bất kỳ loại thuốc nào hoặc các chất bổ sung",
+      "Theo dõi và duy trì cân nặng ở mức hợp lý",
+      "Tập thể dục thể thao hàng ngày nhằm nâng cao sức khỏe toàn diện"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Men gan cao có nguy hiểm không?",
+      "answer": "Men gan tăng cao trong thời gian dài nếu không được kiểm soát, điều trị kịp thời có thể gây ra biến chứng nguy hiểm như xơ gan, gan bị viêm, thậm chí gây ung thư gan."
+    },
+    {
+      "question": "Làm thế nào để biết mình bị men gan cao?",
+      "answer": "Men gan cao thường được phát hiện qua xét nghiệm máu. Trong nhiều trường hợp, đặc biệt khi men gan chỉ tăng nhẹ, có thể không có triệu chứng rõ ràng. Khi men gan tăng cao hơn, có thể xuất hiện các triệu chứng như ngứa da, rối loạn tiêu hóa, vàng da, phân có màu vàng nhạt."
+    },
+    {
+      "question": "Tôi phải làm gì khi bị men gan cao?",
+      "answer": "Nếu xét nghiệm cho thấy men gan cao, bạn nên tham khảo ý kiến bác sĩ để xác định nguyên nhân và phương pháp điều trị phù hợp. Đồng thời, nên thay đổi lối sống như giảm uống rượu, thận trọng với thuốc và thực phẩm bổ sung, tập thể dục đều đặn, và duy trì chế độ ăn uống lành mạnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngứa da, đặc biệt là cánh tay dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["men-gan-cao", "viem-gan", "xo-gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn, buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["men-gan-cao", "viem-gan", "roi-loan-tieu-hoa"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như vàng da, vàng mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["men-gan-cao", "viem-gan", "vang-da"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nước tiểu sẫm màu, phân nhạt màu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["men-gan-cao", "viem-gan", "soi-mat"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau tức hạ sườn phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["men-gan-cao", "viem-gan", "soi-mat", "viem-tui-mat"]
     }
   ]
 }

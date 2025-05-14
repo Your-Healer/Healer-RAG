@@ -1,39 +1,88 @@
 {
   "disease_id": "nang-don-than",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nang đơn thận",
+  "disease_alternative_names": ["Nang thận đơn độc", "Nang thận đơn thuần"],
+  "disease_definition": "Nang đơn thận là một nang chỉ có thùy thận nằm riêng biệt, thường xuất hiện ở vùng vỏ thận, bao gồm một lớp mô mỏng ở thành nang, có chứa dịch bên trong và không thông với bể thận. Khác với bệnh thận đa nang, nang thận đơn thuần có nguyên nhân phần lớn không phải từ rối loạn di truyền. Bệnh cũng không phát triển ở toàn bộ thận hay thay thế cấu trúc của thận, cũng không làm giảm chức năng thận như ở những người bị thận đa nang.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng trên và đau lưng",
+      "description": "Triệu chứng hay gặp khi kích thước nang lớn, khiến bệnh nhân phải đi khám vì cảm giác đau ở vùng bụng trên và lưng hoặc cảm giác nặng vùng thắt lưng."
+    },
+    {
+      "name": "Sốt và ớn lạnh",
+      "description": "Xảy ra trong trường hợp nang thận bị nhiễm trùng, gây ảnh hưởng đến sức khỏe người bệnh."
+    },
+    {
+      "name": "Huyết áp cao",
+      "description": "Nang thận có kích thước lớn, nằm ở vùng nhu mô thận làm chèn lên một vùng thận hoặc chèn ép động mạch thận, dẫn đến tăng bài tiết Renin gây tăng huyết áp thứ phát."
+    },
+    {
+      "name": "Thận to",
+      "description": "Kích thước nang thận quá to, có thể sờ bằng tay hoặc nhìn thấy khối u nhô ra bên ngoài vùng bụng."
+    },
+    {
+      "name": "Vấn đề về đường tiết niệu",
+      "description": "Như bí tiểu, tiểu rắt, tiểu ra máu hoặc nước tiểu đục, xảy ra khi nang thận chèn vào niệu quản (ống dẫn nước tiểu) từ thận xuống bàng quang."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện nay chưa có nghiên cứu nào chỉ ra chính xác về nguyên nhân gây nang đơn thận, nhưng có hai giả thuyết chuyên khoa được các nhà nghiên cứu công bố: nguyên nhân bẩm sinh và nguyên nhân tự mắc phải.",
+    "related_factors": "Nang đơn thận bẩm sinh có thể do khiếm khuyết của mầm hậu thận với ống trung thận, hoặc do một phần của ống lượn bị tách ra khỏi ống góp. Nang đơn thận tự mắc phải có thể do viêm nhiễm, tắc ống thận hoặc nhiễm độc ở hệ thống bài tiết nước tiểu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao: 25% người trên 40 tuổi, 50% người trên 50 tuổi và 90% người trên 70 tuổi có nguy cơ mắc bệnh",
+    "Giới tính nam: nam giới có khả năng bị nang thận đơn độc gấp đôi phụ nữ"
+  ],
+  "complications": [
+    "Nang thận quá lớn chèn lên xương hoặc các cơ quan nội tạng, gây đau hoặc khó chịu",
+    "Tắc nghẽn dòng chảy của máu hoặc nước tiểu qua thận hoặc niệu quản",
+    "Nhiễm trùng nếu nang thận bị vỡ, gây sốt và đau nhức",
+    "Vỡ nang thận dẫn đến đau hoặc tiểu máu, các bệnh về tiết niệu",
+    "Huyết áp cao ảnh hưởng đến tim mạch"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Phát hiện qua khám tầm soát sức khỏe bằng chẩn đoán hình ảnh",
+      "Khám lâm sàng khi xuất hiện triệu chứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm thận",
+        "description": "Là kỹ thuật thường được lựa chọn để chẩn đoán và tầm soát, cho thấy hình ảnh khối trống âm, hình tròn hoặc bầu dục, thành nang nhẵn, mỏng, bờ đều rõ"
+      },
+      {
+        "name": "Chụp thận thuốc - tĩnh mạch (UIV)",
+        "description": "Cho thấy bóng của nang thận và hình ảnh chèn vào hệ thống đài bể thận, được chỉ định cho nang thận kích thước từ 4cm trở lên"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT scanner)",
+        "description": "Giúp quan sát chi tiết nhu mô, đài bể thận, các đường bài xuất, niệu quản và các cấu trúc liên quan khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy vào tình trạng, kích thước và sự ảnh hưởng của nang đơn thận, các bác sĩ sẽ chẩn đoán và tư vấn phác đồ điều trị phù hợp cho người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi định kỳ",
+        "description": "Nếu nang thận dưới 3cm và không có triệu chứng thì không cần điều trị, chỉ cần theo dõi định kỳ bằng siêu âm, xét nghiệm nước tiểu và đánh giá chức năng thận"
+      },
+      {
+        "name": "Liệu pháp gây xơ hóa",
+        "description": "Nếu nang có kích thước trên 6cm và xuất hiện các dấu hiệu, hoặc gây chèn ép đài bể thận và niệu quản, nang thận sẽ được dẫn lưu hết dịch bằng kim chọc qua da"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Nếu nang thận quá lớn, các bác sĩ sẽ tiến hành phương pháp mổ nội soi để dẫn lưu dịch hoặc cắt bỏ nang thận"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tránh các va chạm mạnh vào vùng thận khi đã phát hiện nang",
+      "Khám sức khỏe và kiểm tra chức năng thận thường xuyên",
+      "Liên hệ ngay với bác sĩ khi xuất hiện các triệu chứng bất thường",
+      "Giữ gìn vệ sinh cá nhân để tránh nhiễm trùng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +90,47 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bệnh liên quan về nang thận không thể phòng ngừa",
+      "Giữ gìn vệ sinh cá nhân",
+      "Thăm khám và tầm soát sức khỏe thường xuyên để phát hiện sớm và tránh biến chứng",
+      "Theo dõi định kỳ nếu đã phát hiện có nang thận"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nang đơn thận có nguy hiểm không?",
+      "answer": "Tình trạng nang đơn thận hiếm khi ảnh hưởng tới chức năng thận. Phần lớn các nang thận đơn thuần là lành tính và không gây ra triệu chứng. Tuy nhiên, trong một số trường hợp, khi nang thận phát triển quá lớn có thể gây ra các biến chứng như đau, nhiễm trùng, tắc nghẽn dòng chảy của nước tiểu hoặc máu, và huyết áp cao. Vì vậy, nếu được chẩn đoán mắc nang đơn thận, bạn nên thăm khám định kỳ để theo dõi."
+    },
+    {
+      "question": "Khi nào cần phải điều trị nang đơn thận?",
+      "answer": "Không phải mọi nang đơn thận đều cần điều trị. Nếu nang thận dưới 3cm và không gây ra triệu chứng, bác sĩ thường chỉ khuyên theo dõi định kỳ. Tuy nhiên, nếu nang thận có kích thước trên 6cm hoặc gây ra các triệu chứng như đau bụng trên, đau lưng, sốt, huyết áp cao, hoặc các vấn đề về đường tiết niệu, bạn cần được điều trị bằng liệu pháp gây xơ hóa hoặc phẫu thuật."
+    },
+    {
+      "question": "Làm thế nào để phát hiện nang đơn thận?",
+      "answer": "Nang đơn thận thường không gây ra triệu chứng và thường được phát hiện tình cờ trong quá trình khám sức khỏe định kỳ hoặc khi kiểm tra các vấn đề sức khỏe khác. Các phương pháp chẩn đoán hình ảnh như siêu âm thận, chụp thận thuốc tĩnh mạch (UIV), hoặc chụp cắt lớp vi tính (CT scanner) thường được sử dụng để phát hiện nang thận. Nếu nang thận đủ lớn và gây ra các triệu chứng, bạn có thể cảm thấy đau bụng trên, đau lưng, nặng vùng thắt lưng, hoặc thậm chí có thể sờ thấy khối u ở vùng bụng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng trên và đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nang-don-than", "soi-than", "viem-than"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nặng vùng thắt lưng và khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nang-don-than", "soi-than", "viem-dai-be-than"]
+    },
+    {
+      "question": "Tôi hay bị sốt và ớn lạnh kèm theo đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nang-don-than", "viem-than", "viem-bang-quang"]
+    },
+    {
+      "question": "Tôi thấy huyết áp cao hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nang-don-than", "tang-huyet-ap", "benh-than"]
+    },
+    {
+      "question": "Tôi sờ thấy một khối u ở vùng bụng và cảm thấy lo lắng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nang-don-than", "u-than", "u-bung"]
     }
   ]
 }

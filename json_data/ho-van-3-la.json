@@ -1,58 +1,202 @@
 {
   "disease_id": "ho-van-3-la",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hở van 3 lá",
+  "disease_alternative_names": [
+    "Hở van ba lá",
+    "Hở van tim ba lá",
+    "Tricuspid valve regurgitation"
+  ],
+  "disease_definition": "Hở van 3 lá là tình trạng xảy ra khi van không đóng kín. Tức là, sau khi tâm nhĩ phải bơm máu xuống buồng tâm thất phải, lá van không đóng khít lại nên khiến máu chảy ngược vào tâm nhĩ – nơi nó vừa được bơm đi. Theo thời gian, hở van ba lá mức độ nhiều nếu không được chữa trị đúng cách sẽ dẫn tới suy chức năng tâm thất phải và sau đó có thể suy tim toàn bộ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó thở",
+      "description": "Khó thở, đặc biệt khi người bệnh nằm hoặc gắng sức."
+    },
+    {
+      "name": "Đau tức ngực",
+      "description": "Cảm giác đau hoặc tức ở vùng ngực."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, nhất là khi hoạt động mạnh."
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Cảm giác hoa mắt, chóng mặt."
+    },
+    {
+      "name": "Ho",
+      "description": "Ho, đặc biệt là vào ban đêm hoặc khi nằm xuống."
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Cảm giác tim đập như trống dồn."
+    },
+    {
+      "name": "Sưng bàn chân/mắt cá chân hoặc tĩnh mạch ở cổ",
+      "description": "Phù nề ở bàn chân, mắt cá chân hoặc có thể thấy tĩnh mạch cổ nổi rõ."
+    },
+    {
+      "name": "Tiếng thổi tim",
+      "description": "Âm thanh bất thường phát hiện được khi dùng ống nghe để nghe tim."
+    },
+    {
+      "name": "Phù chi dưới hoặc toàn thân",
+      "description": "Sưng phù ở chân hoặc toàn thân, kèm theo giảm lượng nước tiểu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân phổ biến nhất là sự giãn nở tâm thất phải. Khi tâm thất phải buộc phải làm việc nhiều hơn, nó cần phải tăng kích thước và tăng lực co bóp, lâu dần gây giãn buồng tim phải. Kết quả là vòng mô hỗ trợ khả năng đóng mở của van 3 lá cũng bị giãn theo.",
+    "related_factors": "Suy tim, bệnh cơ tim, khí phế thũng, tăng áp phổi, hẹp van động mạch phổi, viêm nội tâm mạc nhiễm trùng, van tim có cấu tạo bất thường, hội chứng carcinoid, dây dẫn thiết bị cấy ghép, sinh thiết nội tâm mạc, chấn thương, thấp khớp, và dị tật tim bẩm sinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tình trạng nhiễm trùng, như viêm nội tâm mạc nhiễm trùng hoặc sốt thấp khớp",
+    "Tăng huyết áp mạn tính, đặc biệt khi người bệnh không được theo dõi chặt chẽ",
+    "Sử dụng thuốc, bao gồm một số loại thuốc điều trị bệnh Parkinson và chứng đau nửa đầu",
+    "Bức xạ, đặc biệt là bức xạ vùng ngực",
+    "Dị tật tim bẩm sinh như dị tật Ebstein, hẹp van động mạch chủ",
+    "Hội chứng Marfan và các rối loạn di truyền khác"
+  ],
+  "complications": [
+    "Suy tim: Máu chảy ngược vào tâm nhĩ phải và ít máu chảy về phía trước qua tâm thất phải để vào phổi. Điều này làm tăng áp lực cho tâm thất phải, khiến nó bị giãn nở và suy yếu theo thời gian, dẫn đến suy tim.",
+    "Rung nhĩ: Một số bệnh nhân ở mức độ nặng có thể bị rối loạn nhịp tim, gọi là rung nhĩ."
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Kiểm tra sức khỏe toàn diện",
+      "Nghe tim bằng ống nghe",
+      "Điện tâm đồ",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ",
+        "description": "Đo các xung điện của tim để phát hiện bất thường."
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Đánh giá kích thước và hình dạng của tim cũng như tình trạng của phổi."
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Quan sát cấu trúc của tim, giúp đánh giá mức độ hở van."
+      },
+      {
+        "name": "Siêu âm tim qua thực quản",
+        "description": "Đưa một ống siêu nhỏ có thiết bị phát siêu âm vào thực quản (gần tim), giúp hiển thị hình ảnh chi tiết của tim."
+      },
+      {
+        "name": "Thông tim",
+        "description": "Một ống thông được đưa vào bẹn, cánh tay hoặc cổ và dẫn đến tim, giúp xác định nguyên nhân gây hở van 3 lá."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Sử dụng từ trường và sóng vô tuyến để tạo ra hình ảnh chi tiết của tim."
+      },
+      {
+        "name": "Các bài kiểm tra gắng sức",
+        "description": "Giúp xác định khả năng chịu đựng của tim trong lúc tập thể dục và đo lường phản ứng của tim khi gắng sức."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Có những trường hợp hở van 3 lá không cần điều trị (hở van mức độ nhẹ). Thay vào đó, bạn cần kiểm tra sức khỏe tim mạch thường xuyên để đảm bảo bệnh không tiến triển nặng thêm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Một số loại thuốc đặc trị như: thuốc lợi tiểu, thuốc chống loạn nhịp tim, thuốc trợ tim, thuốc ức chế men chuyển angiotensin, thuốc chống đông máu."
+      },
+      {
+        "name": "Sửa van tim",
+        "description": "Bác sĩ sẽ tiến hành sửa van tim bằng cách sửa các lá van, khâu nhỏ vòng van lại để chúng có thể đóng kín, ngăn máu chảy ngược trở lại."
+      },
+      {
+        "name": "Thay van tim",
+        "description": "Van bị hỏng sẽ bị loại bỏ và thay thế bằng van cơ học hoặc van sinh học (làm từ mô tim của bò, lợn hoặc người)."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Không hút thuốc",
+      "Hạn chế hoặc không uống rượu",
+      "Bổ sung thực phẩm tốt cho tim mạch",
+      "Hạn chế natri (muối) trong chế độ ăn",
+      "Tập thể dục theo chỉ dẫn của bác sĩ",
+      "Tiêm vắc xin phòng bệnh theo khuyến cáo",
+      "Tham khảo ý kiến bác sĩ trước khi dùng thuốc mới"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm đầy đủ vắc xin phòng các bệnh như cúm, viêm phổi do phế cầu, viêm gan B theo khuyến cáo của bác sĩ.",
+      "recommended_for": [
+        "Bệnh nhân hở van 3 lá",
+        "Người có các yếu tố nguy cơ"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Quản lý các yếu tố nguy cơ có khả năng gây bệnh, như viêm khớp dạng thấp, viêm nội tâm mạc nhiễm trùng và hội chứng Marfan",
+      "Điều trị triệt để viêm họng do liên cầu khuẩn để tránh sốt thấp khớp, thấp tim",
+      "Tham khảo ý kiến bác sĩ trước khi dùng bất kỳ loại thuốc mới nào",
+      "Duy trì cân nặng hợp lý",
+      "Không hút thuốc",
+      "Hạn chế hoặc không uống rượu",
+      "Tập thể dục đều đặn theo chỉ dẫn của bác sĩ",
+      "Kiểm tra sức khỏe tim mạch định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hở van 3 lá sinh con được không?",
+      "answer": "Nếu bạn bị hở van 3 lá và có dự định mang thai, hãy tham khảo ý kiến bác sĩ. Khi thai nhi càng lớn, tim phải hoạt động nhiều hơn, có thể ảnh hưởng đến sức khỏe người mẹ. Trong trường hợp xấu, bệnh tình của bạn trở nặng, không chỉ ảnh hưởng tới tính mạng bản thân mà còn có nguy cơ sinh non, lưu thai hoặc thai nhi bị dị tật bẩm sinh. Vì thế, dựa trên tình trạng bệnh lý và sức khỏe của bạn; đồng thời đánh giá rủi ro có thể xảy ra với một thai phụ mắc bệnh, bác sĩ sẽ quyết định bạn có thể mang thai hay không."
+    },
+    {
+      "question": "Hở van 3 lá sống được bao lâu?",
+      "answer": "Nhìn chung, tiên lượng của hở van 3 lá là khá tốt, nhất là với những trường hợp hở van 3 lá sinh lý hoặc can thiệp điều trị từ giai đoạn sớm. Do đó, chủ động khám sức khỏe định kỳ và tuân thủ hướng dẫn của bác sĩ sẽ giúp bạn có một trái tim khỏe mạnh."
+    },
+    {
+      "question": "Sau phẫu thuật thay van bao lâu có thể sinh hoạt bình thường?",
+      "answer": "Quá trình hồi phục hoàn toàn sau mổ có thể mất một đến vài tuần, tùy thuộc vào tốc độ lành vết thương và loại phẫu thuật được thực hiện. Hiện nay, các bệnh viện hiện đại áp dụng kỹ thuật mổ tim ít xâm lấn, gây tê mặt phẳng cơ dựng sống (ESP), chăm sóc sau mổ tích cực… giúp bệnh nhân hồi phục nhanh, xuất viện sớm sau khoảng 3-5 ngày."
+    },
+    {
+      "question": "Hở van 3 lá có nguy hiểm không?",
+      "answer": "Hở van 3 lá sinh lý và hở van ở mức độ nhẹ không nguy hiểm tính mạng nếu được kiểm soát tốt. Tuy nhiên, nếu bệnh không được theo dõi và điều trị đúng cách sẽ kéo dài, tiến triển đến mức độ trung bình và nặng, gây ra các biến chứng nghiêm trọng như suy tim và rung nhĩ."
+    },
+    {
+      "question": "Hở van 3 lá mức độ nào cần phẫu thuật?",
+      "answer": "Hở van 3 lá 1/4 và 2/4 thường không cần phẫu thuật, chỉ cần theo dõi định kỳ. Hở van 3 lá 3/4 có thể điều trị bằng nội khoa nhưng bác sĩ có thể xem xét phương pháp ngoại khoa. Hở van 3 lá 4/4 là mức độ nặng nhất, nếu triệu chứng không thuyên giảm sau khi uống thuốc, bác sĩ sẽ cân nhắc phẫu thuật sửa chữa van tim hoặc thay van tim nhân tạo."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị khó thở khi nằm hoặc gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ho-van-3-la", "suy-tim", "hen-suyen"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau tức ngực và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ho-van-3-la",
+        "benh-dong-mach-vanh",
+        "viem-mang-phoi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tim đập nhanh và sưng phù chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ho-van-3-la", "suy-tim", "suy-than"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như phù nề toàn thân và lượng nước tiểu ít. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ho-van-3-la", "suy-than", "suy-tim"]
+    },
+    {
+      "question": "Tôi hay bị ho khan kéo dài và khó thở khi leo cầu thang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ho-van-3-la",
+        "suy-tim",
+        "benh-phoi-tac-nghen-man-tinh"
+      ]
     }
   ]
 }

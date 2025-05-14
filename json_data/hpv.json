@@ -1,58 +1,171 @@
 {
   "disease_id": "hpv",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Human Papilloma Virus (HPV)",
+  "disease_alternative_names": [
+    "Virus u nhú ở người",
+    "Virus HPV",
+    "Papillomavirus"
+  ],
+  "disease_definition": "HPV là tên viết tắt của Human Papilloma Virus – virus gây u nhú ở người. Có khoảng 100 loại HPV ảnh hưởng đến các bộ phận khác nhau của cơ thể. Khoảng 40 loại HPV có thể gây ra các bệnh về đường sinh dục bao gồm: Âm hộ, âm đạo, cổ tử cung, dương vật, bìu, cũng như trực tràng và hậu môn. Trong số đó, khoảng 15 loại được coi là có \"nguy cơ cao\" dẫn đến ung thư cổ tử cung.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mụn cóc sinh dục",
+      "description": "Xuất hiện dưới dạng vết sưng không đau, tiết dịch và gây ngứa. Ở phụ nữ, mụn cóc sinh dục chủ yếu xuất hiện ở âm hộ nhưng cũng có thể gặp ở gần hậu môn, trên cổ tử cung hoặc trong âm đạo. Ở nam giới, mụn cóc sinh dục hình thành trên dương vật và bìu hoặc xung quanh hậu môn."
+    },
+    {
+      "name": "Mụn cóc thông thường",
+      "description": "Xuất hiện trên bàn tay và ngón tay dưới dạng những nốt sần sùi, gồ lên. Trong hầu hết các trường hợp, mụn cóc dạng này chỉ gây mất thẩm mỹ, nhưng đôi lúc cũng gây đau đớn hoặc chảy máu."
+    },
+    {
+      "name": "Mụn cóc Plantar",
+      "description": "Là những mụn cứng, sần sùi, thường xuất hiện ở gót chân hoặc lòng bàn chân, gây ngứa ngáy khó chịu."
+    },
+    {
+      "name": "Mụn cóc phẳng",
+      "description": "Là những nốt có đầu phẳng, hơi nhô cao. Chúng có thể xuất hiện ở bất cứ đâu. Trẻ em thường bị ở mặt, phụ nữ bị ở chân còn nam giới có xu hướng nổi ở vùng râu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nhiễm HPV xảy ra khi virus xâm nhập vào cơ thể, thường là qua vết thương hở trên da. Trong khi đó, virus HPV sinh dục lây nhiễm qua quan hệ tình dục (bao gồm quan hệ tình dục ngả âm đạo, đường hậu môn và các tiếp xúc da kề da khác ở vùng sinh dục).",
+    "related_factors": "Các chủng HPV khác nhau có thể gây ra các loại mụn cóc khác nhau. HPV 6 và HPV 11 là những chủng nguy cơ thấp liên quan đến khoảng 90% tình trạng mụn cóc sinh dục. HPV 16 và HPV 18 là những chủng nguy cơ cao và là căn nguyên của khoảng 70% trường hợp ung thư cổ tử cung trên toàn thế giới.",
+    "transmission_routes": [
+      "Quan hệ tình dục qua đường âm đạo, hậu môn và miệng",
+      "Tiếp xúc da kề da",
+      "Từ mẹ sang con qua quá trình sinh nở (hiếm gặp)"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Có nhiều bạn tình",
+    "Quan hệ tình dục với người có nhiều bạn tình",
+    "Tuổi tác (mụn cóc thông thường chủ yếu ở trẻ em, mụn cóc sinh dục phổ biến ở thanh thiếu niên và thanh niên)",
+    "Hệ thống miễn dịch suy yếu (HIV/AIDS hoặc thuốc ức chế miễn dịch)",
+    "Da bị tổn thương (vùng da bị hở hoặc có vết xước)",
+    "Tiếp xúc không an toàn với bề mặt có chứa virus HPV"
+  ],
+  "complications": [
+    "Tổn thương miệng và đường hô hấp trên",
+    "Ung thư cổ tử cung",
+    "Ung thư hậu môn",
+    "Ung thư dương vật",
+    "Ung thư âm hộ",
+    "Ung thư âm đạo",
+    "Ung thư vòm họng",
+    "Ung thư miệng, lưỡi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Xét nghiệm tế bào học"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm Pap Smear",
+        "description": "Xét nghiệm tế bào học nhằm thu thập và phân tích các tế bào ở cổ tử cung, phát hiện các bất thường cấu trúc và hình thái như dị sản, loạn sản, là mầm mống của tế bào ung thư."
+      },
+      {
+        "name": "Xét nghiệm Thinprep",
+        "description": "Phương pháp cải tiến của Pap Smear, dùng chổi tế bào để lấy các mẫu tế bào ở khu vực cổ tử cung, thu thập được nhiều tế bào hơn và xử lý tự động."
+      },
+      {
+        "name": "Xét nghiệm DNA của HPV",
+        "description": "Sử dụng hệ thống máy tách chiết DNA tự động và công nghệ hiện đại nhằm phân tích, xác định chính xác sự hiện diện virus HPV."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Trong nhiều trường hợp, tình trạng nhiễm HPV sẽ tự khỏi mà không cần điều trị gì. Trên thực tế, khoảng 70-90% người nhiễm HPV được hệ thống miễn dịch loại bỏ virus khỏi cơ thể.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật lạnh",
+        "description": "Làm đông lạnh mụn cóc bằng nitơ lỏng."
+      },
+      {
+        "name": "Quy trình cắt bỏ phẫu thuật điện vòng (LEEP)",
+        "description": "Sử dụng một vòng dây đặc biệt để loại bỏ các tế bào bất thường."
+      },
+      {
+        "name": "Đốt điện",
+        "description": "Đốt mụn cóc bằng dòng điện."
+      },
+      {
+        "name": "Liệu pháp laser",
+        "description": "Sử dụng ánh sáng cường độ cao để tiêu diệt mụn cóc và các tế bào bất thường."
+      },
+      {
+        "name": "Thuốc bôi",
+        "description": "Bôi kem thuốc trực tiếp lên mụn cóc (lưu ý không sử dụng các phương pháp điều trị mụn cóc không được kê đơn trên bộ phận sinh dục)."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Không nên quan hệ tình dục cho đến khi mụn cóc được loại bỏ hoàn toàn",
+      "Tái khám định kỳ để theo dõi tình trạng bệnh",
+      "Tuân thủ đúng phác đồ điều trị"
+    ],
+    "prevention_of_transmission": [
+      "Sử dụng bao cao su đúng cách mỗi khi quan hệ tình dục",
+      "Tránh quan hệ tình dục khi có mụn cóc sinh dục",
+      "Không dùng chung đồ dùng cá nhân với người nhiễm HPV"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tại Việt Nam đang lưu hành vắc xin phòng ung thư cổ tử cung, âm hộ, âm đạo, các tổn thương tiền ung thư và loạn sản, mụn cóc sinh dục và bệnh lý do nhiễm virus HPV.",
+      "recommended_for": [
+        "Nữ giới từ 9-26 tuổi, bất kể đã từng quan hệ tình dục hay chưa",
+        "Các bé trai trong độ tuổi dậy thì để phòng ngừa nguy cơ nhiễm HPV dẫn tới ung thư vòm họng, ung thư miệng, lưỡi, ung thư đường sinh dục nam giới"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Quan hệ tình dục an toàn, tránh việc quan hệ với nhiều bạn tình cùng lúc",
+      "Phụ nữ nên làm xét nghiệm Pap/Thinprep/HPV DNA định kỳ hàng năm hoặc mỗi 3 năm",
+      "Nam và nữ nên dừng quan hệ tình dục ngay khi biết hoặc nghĩ mình mắc bệnh sùi mào gà",
+      "Tiêm ngừa vắc xin phòng HPV",
+      "Tầm soát sức khỏe định kỳ để phát hiện sớm tổn thương do nhiễm virus HPV"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Virus HPV có phổ biến không?",
+      "answer": "HPV là tên của một nhóm virus rất phổ biến. Có khoảng hơn 100 chủng HPV. Người ta ước tính rằng cứ 10 người thì có khoảng 8 người bị nhiễm HPV vào một thời điểm nào đó trong đời. Tuy nhiên, nó thường không gây ra bất kỳ triệu chứng nào và hầu hết mọi người sẽ không bao giờ biết họ đã mắc bệnh. Nhiễm HPV không có nghĩa là chắc chắn sẽ bị ung thư."
+    },
+    {
+      "question": "Nhiễm HPV khi mang thai có ảnh hưởng đến thai nhi không?",
+      "answer": "Phụ nữ nhiễm HPV khi mang thai có thể lo lắng rằng loại virus này có thể gây hại cho thai nhi, nhưng trong hầu hết các trường hợp, nó sẽ không ảnh hưởng đến em bé đang phát triển. Nguy cơ lây truyền HPV cho em bé trong lúc sinh là rất thấp. Trường hợp hiếm hoi, trẻ có thể phát triển mụn cóc ở cổ họng, gọi là u nhú đường hô hấp, cần được phẫu thuật laser để ngăn các mụn cóc chặn đường thở."
+    },
+    {
+      "question": "Đã nhiễm HPV có thể tự khỏi không?",
+      "answer": "Thông thường, HPV tự biến mất mà không gây ra các vấn đề sức khỏe. Đối với hầu hết những người có hệ miễn dịch khỏe mạnh, virus HPV sẽ tự hết trong vòng 1-2 năm. Tuy nhiên, nếu bị ức chế miễn dịch hoặc nhiễm các chủng HPV nguy cơ cao, virus có thể không tự biến mất và dẫn đến các biến chứng nghiêm trọng hơn."
+    },
+    {
+      "question": "HPV có gây ung thư không?",
+      "answer": "Ung thư cổ tử cung là loại ung thư phổ biến ở phụ nữ liên quan đến virus HPV. Hầu hết các trường hợp ung thư cổ tử cung đều do loại virus này gây nên. Ngoài ra, các bệnh ung thư âm đạo, ung thư âm hộ, ung thư dương vật và ung thư hậu môn cũng bắt nguồn từ virus HPV. HPV cũng làm tăng nguy cơ mắc ung thư miệng và ung thư cổ họng."
+    },
+    {
+      "question": "Ai nên tiêm vắc xin phòng ngừa HPV?",
+      "answer": "Tiêm phòng HPV được khuyến cáo ở lứa tuổi 9-26. Tiêm ngừa HPV trong độ tuổi này mang lại nhiều lợi ích hơn, vì nhiều người chưa từng tiếp xúc với virus HPV. Nữ giới từ 9-26 tuổi, bất kể đã từng quan hệ tình dục hay chưa, và các bé trai trong độ tuổi dậy thì đều nên tiêm vắc xin này để phòng ngừa các bệnh lý do HPV gây ra."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi thấy xuất hiện các nốt sùi, không đau ở bộ phận sinh dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hpv",
+        "sui-mao-ga",
+        "benh-lay-truyen-qua-duong-tinh-duc"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ngứa ngáy và nổi mụn cóc ở vùng kín. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hpv", "sui-mao-ga", "viem-nhiem-phu-khoa"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó chịu vì các nốt sần sùi trên tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hpv", "mun-coc", "benh-da-lien"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nổi mụn cóc ở lòng bàn chân và gây đau khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hpv", "mun-coc-plantar", "benh-da-lien"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nổi mụn cóc ở bộ phận sinh dục và lo lắng về nguy cơ ung thư. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hpv", "sui-mao-ga", "ung-thu-co-tu-cung"]
     }
   ]
 }

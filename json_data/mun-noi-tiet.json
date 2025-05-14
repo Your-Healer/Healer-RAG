@@ -1,39 +1,102 @@
 {
   "disease_id": "mun-noi-tiet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn nội tiết",
+  "disease_alternative_names": ["Mụn trứng cá nội tiết", "Hormonal acne"],
+  "disease_definition": "Mụn nội tiết (hormonal acne) là tình trạng da liễu hình thành do sự thay đổi các hormon trong cơ thể. Mụn nội tiết ảnh hưởng đến mọi nhóm tuổi, phổ biến vẫn là lứa tuổi dậy thì, phụ nữ trước và sau sinh, tiền mãn kinh - mãn kinh hoặc trong chu kỳ kinh nguyệt.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mụn trên vùng chữ T ở tuổi dậy thì",
+      "description": "Ở tuổi dậy thì, mụn nội tiết thường xuất hiện ở vùng chữ T (gồm trán, mũi, cằm), thường là mụn đầu đen, đầu trắng."
+    },
+    {
+      "name": "Mụn ở phần dưới khuôn mặt ở người trưởng thành",
+      "description": "Với người trưởng thành, mụn mọc ở phần dưới khuôn mặt, gồm 2 má và vùng da quanh xương hàm, thường có nhân nằm sâu dưới da, viêm, sưng đỏ gây đau."
+    },
+    {
+      "name": "Mụn bọc và nốt mụn dạng nang",
+      "description": "Mụn ở thời kỳ mãn kinh chủ yếu là mụn bọc, mụn đầu trắng hoặc nốt mụn dạng nang ẩn sâu dưới da, thường viêm và đau."
+    },
+    {
+      "name": "Mụn xuất hiện ở nhiều vị trí khác nhau",
+      "description": "Mụn nội tiết có thể xuất hiện trên mặt, lưng, cổ, má, ngực, quai hàm, cằm và các vùng khác, đi kèm với các triệu chứng như rối loạn kinh nguyệt hoặc các bệnh của tuyến nội tiết."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mụn nội tiết hình thành do sự thay đổi của các hormone trong cơ thể, đặc biệt là khi có sự gia tăng quá mức nồng độ androgen làm kích thích tuyến bã nhờn hoạt động mạnh hơn.",
+    "related_factors": "Các yếu tố liên quan bao gồm da tăng sản xuất bã nhờn, vi khuẩn tích tụ và phát triển trên da khiến lỗ chân lông bít tắc, hệ thống miễn dịch phản ứng với vi khuẩn dẫn đến viêm nhiễm, và lỗ chân lông tắc nghẽn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi dậy thì",
+    "Thời kỳ kinh nguyệt",
+    "Tiền mãn kinh - mãn kinh",
+    "Hội chứng buồng trứng đa nang",
+    "Thời kỳ mang thai",
+    "Cường androgen (nội tiết tố kích thích sự tăng tiết bã nhờn)",
+    "Stress, mệt mỏi kéo dài",
+    "Chế độ ăn uống, sinh hoạt không khoa học",
+    "Sử dụng quá nhiều các sản phẩm chăm sóc da",
+    "Tác dụng phụ của thuốc (steroid)"
+  ],
+  "complications": [
+    "Sẹo thâm sau viêm",
+    "Mất tự tin do ảnh hưởng thẩm mỹ",
+    "Rối loạn tâm lý",
+    "Khả năng tái phát cao"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng da liễu để đánh giá tình trạng mụn",
+      "Kiểm tra tiền sử bệnh và tiền sử gia đình",
+      "Đánh giá các triệu chứng đi kèm như rối loạn kinh nguyệt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng da liễu",
+        "description": "Bác sĩ sẽ kiểm tra loại mụn, vị trí mụn và các đặc điểm của mụn để chẩn đoán mụn nội tiết"
+      },
+      {
+        "name": "Xét nghiệm nội tiết tố",
+        "description": "Trong một số trường hợp, bác sĩ có thể chỉ định xét nghiệm nội tiết tố để kiểm tra mức độ rối loạn hormone"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mụn nội tiết không phải là vấn đề da liễu nguy hiểm nhưng khiến nhiều người tự ti về vẻ ngoài của mình. Mỗi bệnh nhân sẽ có một phác đồ điều trị mụn riêng biệt. Người bệnh không tự ý mua thuốc chữa mụn nội tiết khi chưa thăm khám và tham khảo ý kiến của bác sĩ da liễu – thẩm mỹ da và bác sĩ nội tiết.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị tự nhiên",
+        "description": "Sử dụng tinh dầu trà xanh để giảm viêm, uống trà xanh mỗi ngày kết hợp với chăm sóc da đúng cách. Các sản phẩm chiết xuất từ thiên nhiên thường không có tác dụng phụ đáng lo ngại và ít gây kích ứng da."
+      },
+      {
+        "name": "Thuốc tránh thai đường uống",
+        "description": "Hiệu quả trong điều trị mụn nội tiết do có chứa ethinyl estradiol cùng với drospirenone, norgestimate và norethindrone. Các chất này có khả năng cân bằng hormone trong cơ thể, giúp giảm mụn nội tiết trong chu kỳ kinh nguyệt."
+      },
+      {
+        "name": "Thuốc kháng androgen",
+        "description": "Hoạt động dựa trên cơ chế giảm nội tiết tố nam androgen. Aldactone, dù được sử dụng để điều trị tăng huyết áp, cũng làm giảm androgen và giúp ổn định nồng độ hormone."
+      },
+      {
+        "name": "Retinoids cream/gel",
+        "description": "Trong trường hợp mụn nội tiết nhẹ, có thể sử dụng thuốc bôi ngoài da có chứa retinoids. Retinoids có nguồn gốc từ vitamin A, giúp ngăn ngừa tắc nghẽn lỗ chân lông."
+      },
+      {
+        "name": "Công nghệ cao",
+        "description": "Đối với mụn nội tiết nặng, dai dẳng, các công nghệ như laser CO2 vi điểm, oxy jet, ánh sáng IPL, điện di có thể được áp dụng và mang lại hiệu quả tốt."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Rửa mặt không quá 2 lần/ngày và sau khi đổ mồ hôi",
+      "Sử dụng sữa rửa mặt dịu nhẹ và nước ấm, không dùng nước nóng",
+      "Tránh chà xát, nặn mụn vì gây viêm hoặc làm tình trạng nặng hơn",
+      "Sử dụng mỹ phẩm được đánh dấu không tạo nhân mụn",
+      "Tránh môi trường có độ ẩm cao làm đổ nhiều mồ hôi",
+      "Vệ sinh sạch sẽ các đồ dùng sinh hoạt",
+      "Uống đủ nước mỗi ngày 1,5 – 2 lít",
+      "Hạn chế trang điểm, nếu có cần tẩy trang sạch",
+      "Sử dụng kem dưỡng ẩm, chống nắng phù hợp",
+      "Không chạm tay lên mặt để tránh vi khuẩn xâm nhập"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +104,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ngủ đủ 8 tiếng/ngày, hạn chế thức khuya",
+      "Tránh tình trạng căng thẳng, stress, áp lực",
+      "Bổ sung thực phẩm có chứa kẽm, vitamin C, B, E giúp da sáng khỏe",
+      "Ăn nhiều rau xanh, trái cây",
+      "Hạn chế thực phẩm ngọt, cay nóng, chiên rán, dầu mỡ, đồ uống có cồn",
+      "Sử dụng các loại trà, thực phẩm thanh nhiệt, giải độc như trà xanh, trà atiso",
+      "Thăm khám với bác sĩ da liễu để được lên phác đồ điều trị phù hợp",
+      "Duy trì chế độ ăn uống, sinh hoạt, nghỉ ngơi hợp lý"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn nội tiết tố có tự hết không?",
+      "answer": "Có! Khi các rối loạn về nội tiết được kiểm soát thì mụn sẽ dần hết nhưng quá trình này thường rất lâu. Để mụn nội tiết tự lành, bên cạnh những phương pháp chăm sóc da, người bệnh cần một chế độ ăn uống, sinh hoạt, nghỉ ngơi hợp lý. Đồng thời thăm khám bác sĩ da liễu – thẩm mỹ da để được thiết kế liệu trình phù hợp, tránh mụn bùng phát khó kiểm soát."
+    },
+    {
+      "question": "Mụn nội tiết có trị dứt điểm được không?",
+      "answer": "Có! Quá trình điều trị kéo dài đòi hỏi sự kiên nhẫn của người bệnh. Điều này khiến nhiều người chán nản, từ bỏ việc điều trị khiến mụn mãi không hết, thậm chí ngày càng nặng. Tuy nhiên, mụn nội tiết có thể chữa trị dứt điểm. Do đó, ngay khi xuất hiện các dấu hiệu của mụn nội tiết, người bệnh nên tìm đến bác sĩ chuyên khoa Da liễu – Thẩm mỹ Da hoặc bác sĩ chuyên khoa Nội tiết để được tư vấn, thăm khám kịp thời."
+    },
+    {
+      "question": "Đối tượng nào dễ bị mụn nội tiết?",
+      "answer": "Phụ nữ! Nữ giới là đối tượng dễ bị mụn nội tiết hơn nam giới. Khoảng 50% phụ nữ từ 20-29 tuổi xuất hiện mụn nội tiết, tỷ lệ này ở độ tuổi 40-49 là khoảng 25%. Bên cạnh đó, lứa tuổi dậy thì, phụ nữ đang mang thai hoặc trong giai đoạn tiền mãn kinh – mãn kinh, người có chức năng gan suy yếu, hay căng thẳng, lo âu,… là những đối tượng có nguy cơ bị mụn nội tiết."
+    },
+    {
+      "question": "Khi nào cần đi khám?",
+      "answer": "Ngay khi bị mụn nội tiết, người bệnh nên đến khám bác sĩ chuyên khoa Da liễu – Thẩm mỹ Da. Điều trị càng sớm, khả năng để lại sẹo càng ít, đồng thời ngăn mụn tái phát."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mụn đầu trắng, đầu đen, mụn mủ và nốt sần trên mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-noi-tiet", "mun-trung-ca", "mun-cam"]
+    },
+    {
+      "question": "Tôi đang cảm thấy có những nốt mụn viêm, sưng tấy ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-noi-tiet", "viem-nang-long", "mun-boc"]
+    },
+    {
+      "question": "Tôi hay bị mụn mọc ở lưng, kèm theo rối loạn kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-noi-tiet",
+        "roi-loan-noi-tiet",
+        "hoi-chung-buong-trung-da-nang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mụn nội tiết ở quai hàm, kèm theo rối loạn nội tiết tố. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-noi-tiet",
+        "roi-loan-noi-tiet",
+        "hoi-chung-buong-trung-da-nang"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy xuất hiện mụn viêm ở quai hàm, kèm theo thay đổi nội tiết tố. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-noi-tiet", "roi-loan-noi-tiet", "man-kinh"]
     }
   ]
 }

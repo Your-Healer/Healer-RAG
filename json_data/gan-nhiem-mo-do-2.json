@@ -1,58 +1,154 @@
 {
   "disease_id": "gan-nhiem-mo-do-2",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Gan nhiễm mỡ độ 2",
+  "disease_alternative_names": [
+    "Bệnh gan nhiễm mỡ cấp độ 2",
+    "Gan nhiễm mỡ cấp 2"
+  ],
+  "disease_definition": "Gan nhiễm mỡ cấp độ 2 là giai đoạn trung bình, là \"cầu nối\" chuyển tiếp giữa mức độ gan nhiễm mỡ nhẹ (độ 1) và mức độ nghiêm trọng (cấp độ 3). Lượng mỡ tích tụ trong gan lúc này có thể chiếm từ 10-25% khối lượng gan cùng với tình trạng nhiều chức năng gan bị suy giảm nặng hơn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chán ăn",
+      "description": "Người bệnh cảm thấy không muốn ăn, ăn không ngon miệng."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, thiếu năng lượng thường xuyên."
+    },
+    {
+      "name": "Đau khi nhấn vào vùng gan",
+      "description": "Khi nhấn tay vào vị trí lá gan sẽ cảm thấy đau."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tích tụ lượng mỡ chiếm từ 10-25% trọng lượng gan, gây ảnh hưởng đến chức năng gan.",
+    "related_factors": "Đồ uống có cồn, thói quen ăn uống nhiều chất béo, đường huyết cao/thấp, lười vận động, thai kỳ, tác dụng từ thuốc, nhiễm trùng viêm gan C, tiền sử bệnh lý gia đình.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Uống nhiều bia rượu và đồ uống có cồn",
+    "Tiêu thụ quá nhiều thực phẩm nhiều chất béo",
+    "Đái tháo đường hoặc rối loạn đường huyết",
+    "Lười vận động, ít tập thể dục",
+    "Thai kỳ",
+    "Sử dụng một số loại thuốc",
+    "Nhiễm trùng viêm gan C",
+    "Tiền sử gia đình có người mắc bệnh gan"
+  ],
+  "complications": [
+    "Tiến triển thành gan nhiễm mỡ độ 3",
+    "Viêm gan",
+    "Xơ gan",
+    "Suy gan"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Xét nghiệm máu đánh giá men gan và rối loạn chuyển hóa lipid",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá men gan cao, là dấu hiệu cho thấy gan đang bị tổn thương và kiểm tra tình trạng rối loạn chuyển hóa lipid trong máu."
+      },
+      {
+        "name": "Siêu âm hoặc chụp CT scan",
+        "description": "Chụp cắt lớp vi tính cung cấp hình ảnh của gan để đánh giá mức độ tổn thương."
+      },
+      {
+        "name": "MRI gan",
+        "description": "Cộng hưởng từ có độ nhạy và độ chuyên cao để đánh giá chính xác tình trạng gan nhiễm mỡ và các bệnh lý tại gan."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Gan nhiễm mỡ độ 2 có thể chữa được nếu phát hiện và điều trị sớm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc điều trị gan nhiễm mỡ",
+        "description": "Sử dụng thuốc điều trị rối loạn chuyển hóa lipoprotein, vitamin E liều cao để tăng cường dưỡng chất, thải độc gan, phục hồi tế bào gan tổn thương, ngăn chặn mỡ hóa ở gan. Việc sử dụng thuốc cần có chỉ định từ bác sĩ."
+      },
+      {
+        "name": "Thay đổi chế độ ăn uống",
+        "description": "Kiêng bia rượu, giảm lượng carbohydrate (tinh bột và đường), hạn chế tiêu thụ thực phẩm giàu cholesterol, uống đủ nước, bổ sung omega-3, tăng cường chất xơ."
+      },
+      {
+        "name": "Tập thể dục thường xuyên",
+        "description": "Rèn luyện thể dục thể thao ít nhất 30 phút mỗi ngày để giảm mỡ thừa và tăng cường trao đổi chất."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không tự ý sử dụng thuốc, cần có chỉ định từ bác sĩ",
+      "Điều trị kết hợp giữa dùng thuốc, thay đổi chế độ ăn và tập luyện",
+      "Kiểm tra gan định kỳ để theo dõi tiến triển của bệnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng viêm gan B để giảm nguy cơ tổn thương gan",
+      "recommended_for": [
+        "Người chưa tiêm phòng viêm gan B",
+        "Người có nguy cơ cao mắc bệnh gan"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thay đổi chế độ ăn uống, tăng cường rau xanh và hạn chế thực phẩm giàu chất béo",
+      "Kiêng hoàn toàn rượu bia và đồ uống có cồn",
+      "Tăng cường vận động, tập thể dục ít nhất 30 phút mỗi ngày",
+      "Kiểm tra đường huyết và điều trị nếu bị tiểu đường",
+      "Kiểm tra gan định kỳ, đặc biệt khi có yếu tố nguy cơ",
+      "Duy trì cân nặng hợp lý",
+      "Hạn chế sử dụng thuốc không cần thiết"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Gan nhiễm mỡ độ 2 có nguy hiểm không?",
+      "answer": "Gan nhiễm mỡ độ 2 là mức độ trung bình. Mặc dù chưa nguy hiểm tới tính mạng nhưng nếu không điều trị thì tình trạng nhiễm mỡ ở gan sẽ có nguy cơ chuyển biến nhanh sang mức độ nặng hơn, nguy cơ viêm gan, xơ gan cũng tăng lên."
+    },
+    {
+      "question": "Gan nhiễm mỡ độ 2 có chữa được không?",
+      "answer": "Gan nhiễm mỡ có thể chữa được nhưng với điều kiện cần phát hiện và điều trị sớm để tăng hiệu quả hồi phục cho gan. Điều trị bao gồm thay đổi lối sống, chế độ ăn uống và dùng thuốc theo chỉ định của bác sĩ."
+    },
+    {
+      "question": "Người bệnh gan nhiễm mỡ độ 2 nên ăn gì?",
+      "answer": "Người bệnh nên ăn trái cây, rau xanh (táo, chuối, rau lá xanh, bông cải xanh, khoai tây, cà rốt, cà chua, các loại đậu); cá và thịt nạc (thịt gà); các loại ngũ cốc chưa qua chế biến (bánh mì nguyên cám, yến mạch, gạo lứt, quinoa); và chất béo lành mạnh (dầu oliu, dầu hạt cải, dầu dừa, bơ, các loại quả hạch)."
+    },
+    {
+      "question": "Người bệnh gan nhiễm mỡ độ 2 nên kiêng ăn gì?",
+      "answer": "Người bệnh nên kiêng rượu bia và đồ uống có cồn, hạn chế tiêu thụ chất béo bão hòa như mỡ động vật, kiêng thực phẩm tinh chế và carbohydrate trắng (bột mì tinh chế, cơm trắng, bánh mì trắng), hạn chế thức ăn chiên xào, và kiêng hoặc hạn chế đồ ăn chế biến sẵn (thức ăn nhanh, bánh kẹo, thịt xông khói, nước ngọt)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chán ăn, mệt mỏi và đau tức vùng gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo-do-2", "viem-gan", "xo-gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy buồn nôn, ăn không ngon miệng và hay bị đầy bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gan-nhiem-mo-do-2",
+        "viem-da-day",
+        "roi-loan-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi hay uống nhiều rượu bia và cảm thấy mệt mỏi, chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo-do-2", "viem-gan-do-ruou", "xo-gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, khó chịu và đau tức hạ sườn phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo-do-2", "viem-gan", "soi-mat"]
+    },
+    {
+      "question": "Tôi bị tiểu đường và cảm thấy mệt mỏi, chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gan-nhiem-mo-do-2",
+        "suy-than",
+        "roi-loan-duong-huyet"
+      ]
     }
   ]
 }

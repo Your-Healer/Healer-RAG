@@ -1,39 +1,113 @@
 {
   "disease_id": "loang-xuong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Loãng xương",
+  "disease_alternative_names": ["Xốp xương", "Giòn xương", "Osteoporosis"],
+  "disease_definition": "Loãng xương (xốp xương, giòn xương) là tình trạng xương liên tục mỏng dần. Mật độ xương giảm dần theo thời gian khiến xương giòn hơn, dễ tổn thương và bị gãy dù chỉ với chấn thương nhẹ. Gãy xương do loãng xương có thể xảy ra ở bất kỳ xương nào. Trong đó, thường gặp là gãy xương cột sống, xương đùi và xương cẳng tay.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Giảm mật độ xương",
+      "description": "Tình trạng này khiến xương cột sống có thể bị xẹp, gãy lún. Người bệnh thường bị các cơn đau lưng cấp, giảm chiều cao, dáng đi lom khom, gù lưng."
+    },
+    {
+      "name": "Đau nhức đầu xương",
+      "description": "Đây là triệu chứng người bệnh dễ nhận thấy nhất khi bị giảm mật độ xương. Bệnh sẽ gây mỏi dọc các xương dài, thậm chí là bị đau nhức toàn thân như kim chích."
+    },
+    {
+      "name": "Đau tại vùng xương chịu trọng lực",
+      "description": "Đau tại vùng xương chịu trọng lực của cơ thể, các xương này gồm: xương cột sống, thắt lưng, xương chậu, xương hông, đầu gối."
+    },
+    {
+      "name": "Đau âm ỉ kéo dài",
+      "description": "Các cơn đau tái phát nhiều lần sau chấn thương. Người bệnh thường bị đau âm ỉ kéo dài. Cơn đau tăng dần khi vận động, di chuyển, đứng ngồi lâu; thuyên giảm khi nghỉ ngơi."
+    },
+    {
+      "name": "Đau tại cột sống, thắt lưng hay hai bên liên sườn",
+      "description": "Tình trạng này làm ảnh hưởng tới những dây thần kinh liên sườn, dây thần kinh đùi và thần kinh tọa. Các cơn đau ở lưng trở nặng khi người bệnh vận động mạnh hay bất ngờ thay đổi tư thế."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tuổi tác là nguyên nhân hàng đầu dẫn tới tình trạng mật độ xương bị suy giảm. Khi càng lớn tuổi, quá trình chuyển hóa xương có nhiều biến đổi gây ra các rối loạn trong quá trình tạo xương và hủy xương, dẫn tới giảm mật độ xương.",
+    "related_factors": "Phụ nữ sau mãn kinh do suy giảm nội tiết tố estrogen, nam giới có nồng độ testosterone thấp, chế độ ăn thiếu dưỡng chất, tác dụng phụ của thuốc corticosteroid và heparin, lối sống lười vận động, rượu bia, thuốc lá, lao động nặng, thiếu canxi trong giai đoạn phát triển.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ, đặc biệt sau mãn kinh",
+    "Tuổi cao",
+    "Cơ thể nhỏ, gầy",
+    "Tiền sử gia đình có người bị loãng xương",
+    "Mãn kinh sớm (trước 45 tuổi)",
+    "Tiền sử gãy xương",
+    "Nồng độ hormone giới tính thấp",
+    "Chế độ ăn thiếu canxi và vitamin D",
+    "Rối loạn ăn uống",
+    "Sử dụng thuốc (corticosteroid, heparin) lâu dài",
+    "Lười vận động",
+    "Hút thuốc lá",
+    "Lạm dụng rượu bia",
+    "Các bệnh nội tiết, viêm khớp dạng thấp, bệnh thận",
+    "Người da trắng hoặc châu Á"
+  ],
+  "complications": [
+    "Gãy xương dễ dàng sau các sang chấn nhỏ",
+    "Lún xẹp đốt sống dẫn đến tàn phế vĩnh viễn",
+    "Chèn ép rễ dây thần kinh gây đau nhức kéo dài",
+    "Suy giảm khả năng vận động",
+    "Giảm chất lượng cuộc sống",
+    "Các biến chứng khác như viêm phổi, hoại tử, tắc mạch chi do nằm bất động"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Đo mật độ xương (BMD)", "Xét nghiệm máu và nước tiểu"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đo mật độ xương (BMD)",
+        "description": "Kỹ thuật dùng tia X năng lượng kép (DXA hoặc DEXA) hoặc chụp CT để xác định hàm lượng canxi, các khoáng chất có trong xương. Các khu vực thường được thực hiện đo mật độ xương là cột sống, hông hay xương cẳng tay."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp kiểm tra lượng nội tiết tố và tìm kiếm những nguy cơ làm tăng sự mất xương như tình trạng thiếu hụt các loại vitamin hay khoáng chất trong cơ thể."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Giúp đánh giá sự hấp thu canxi và các khoáng chất khác của cơ thể."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị loãng xương bằng cách kết hợp giữa phương pháp không dùng thuốc và dùng thuốc. Quá trình điều trị có thể kéo dài khoảng 3-5 năm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chế độ ăn uống",
+        "description": "Bổ sung các loại thực phẩm giàu canxi theo nhu cầu của cơ thể và tránh uống rượu bia, hút thuốc lá. Ngoài ra, bạn cũng nên kiểm soát tốt cân nặng, tránh tình trạng thừa cân hoặc thiếu cân."
+      },
+      {
+        "name": "Chế độ sinh hoạt",
+        "description": "Vận động cơ thể thường xuyên để tăng sự dẻo dai cho cơ bắp. Ngoài ra, người bệnh cần cẩn trọng trong sinh hoạt để phòng tránh té ngã. Có thể sử dụng những dụng cụ, nẹp chỉnh hình giảm sự tỳ đè lên cột sống, đầu xương, xương vùng hông."
+      },
+      {
+        "name": "Bổ sung canxi và vitamin D",
+        "description": "Bổ sung đủ lượng canxi khoảng 1.000-1.200 mg/ngày và lượng vitamin D cần thiết khoảng 800-1000 IU/ngày cho cơ thể."
+      },
+      {
+        "name": "Dùng thuốc chống hủy xương",
+        "description": "Bác sĩ có thể chỉ định người bệnh sử dụng thêm các loại thuốc chống hủy xương như Alendronate (Fosamax), Zoledronic acid, Calcitonin, Raloxifene (Evista), Strontium ranelate (Protelos), Deca-Durabolin và Durabolin."
+      },
+      {
+        "name": "Điều trị đau",
+        "description": "Điều trị dựa vào bậc thang giảm đau của Tổ chức Y tế Thế giới (WHO) kết hợp Calcitonin."
+      },
+      {
+        "name": "Điều trị gãy xương",
+        "description": "Áp dụng những phương pháp điều trị như đeo nẹp, bơm xi măng vào thân đốt sống, thay đốt sống nhân tạo. Một số trường hợp bác sĩ có thể cân nhắc phẫu thuật thay xương hoặc thay khớp nếu có chỉ định."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi, tuân thủ tốt các chỉ định của bác sĩ trong suốt quá trình điều trị",
+      "Kiểm tra lại mật độ xương định kỳ để đánh giá kết quả điều trị",
+      "Duy trì chế độ ăn uống lành mạnh",
+      "Tập thể dục đều đặn với cường độ phù hợp",
+      "Thực hiện các biện pháp phòng ngừa té ngã",
+      "Thường xuyên tái khám theo lịch hẹn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +115,74 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bổ sung đủ canxi và vitamin D cho cơ thể thông qua chế độ ăn uống",
+      "Người trong nhóm đối tượng nguy cơ nên được đo loãng xương để kiểm tra và sớm phát hiện ra dấu hiệu loãng xương",
+      "Thường xuyên tập thể dục với cường độ phù hợp",
+      "Không hút thuốc lá, lạm dụng rượu bia và các chất kích thích",
+      "Khi xuất hiện các vấn đề cơ xương khớp, bạn nên đi đến bệnh viện để được thăm khám và điều trị kịp thời",
+      "Tránh lạm dụng thuốc giảm đau, chống viêm xương khớp, đặc biệt là corticoid",
+      "Thận trọng khi sinh hoạt và làm việc, tránh xảy ra các tai nạn đáng tiếc",
+      "Hạn chế ra ngoài một mình, không di chuyển trên nền đất trơn trượt, nhiều đá, sỏi, gập ghềnh",
+      "Đảm bảo tất cả các khu vực trong nhà luôn có đủ ánh sáng",
+      "Lắp thêm tay vịn ở cầu thang hay nhà tắm",
+      "Đi giày có đế chống trượt"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Loãng xương có nguy hiểm không?",
+      "answer": "Khi người bệnh không được điều trị kịp thời hay điều trị không đúng cách, loãng xương có thể gây ra những biến chứng nguy hiểm như gãy xương dễ dàng sau các sang chấn nhỏ, lún xẹp đốt sống dẫn đến tàn phế vĩnh viễn, chèn ép rễ dây thần kinh gây đau nhức kéo dài, suy giảm khả năng vận động, và các biến chứng khác do nằm bất động như viêm phổi, hoại tử, tắc mạch chi."
+    },
+    {
+      "question": "Loãng xương làm gãy xương nào nhiều nhất?",
+      "answer": "Gãy xương do loãng xương có thể xảy ra ở bất kỳ xương nào. Trong đó, thường gặp nhất là gãy xương cột sống, xương đùi và xương cẳng tay. Một số xương khi bị gãy sẽ không có khả năng lành lại như xương cột sống và xương đùi."
+    },
+    {
+      "question": "Loãng xương có chữa được không?",
+      "answer": "Loãng xương có thể kiểm soát và điều trị được nhưng cần phát hiện sớm và điều trị kịp thời. Điều trị loãng xương bằng cách kết hợp giữa phương pháp không dùng thuốc (chế độ ăn uống, vận động) và dùng thuốc (bổ sung canxi, vitamin D, thuốc chống hủy xương). Quá trình điều trị thường kéo dài khoảng 3-5 năm và cần có sự theo dõi, đánh giá định kỳ từ bác sĩ."
+    },
+    {
+      "question": "Làm thế nào để phòng tránh loãng xương?",
+      "answer": "Để phòng tránh loãng xương, bạn nên: Bổ sung đủ canxi và vitamin D cho cơ thể; Thường xuyên tập thể dục với cường độ phù hợp; Không hút thuốc lá, lạm dụng rượu bia; Kiểm tra mật độ xương định kỳ nếu thuộc nhóm đối tượng nguy cơ cao; Tránh lạm dụng thuốc giảm đau và corticoid; Thận trọng trong sinh hoạt để tránh té ngã."
+    },
+    {
+      "question": "Ai là người có nguy cơ cao mắc bệnh loãng xương?",
+      "answer": "Người có nguy cơ cao mắc loãng xương bao gồm: Phụ nữ sau mãn kinh; Người cao tuổi; Người có cơ thể nhỏ, gầy; Người có tiền sử gia đình bị loãng xương; Phụ nữ mãn kinh sớm (trước 45 tuổi); Người có nồng độ hormone giới tính thấp; Người có chế độ ăn thiếu canxi và vitamin D; Người lười vận động; Người hút thuốc, lạm dụng rượu bia; Người mắc các bệnh nội tiết, viêm khớp dạng thấp, bệnh thận; Người thuộc chủng tộc da trắng hoặc châu Á."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức đầu xương, mỏi dọc các xương dài, và đau âm ỉ kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["loang-xuong", "viem-khop", "thoai-hoa-xuong-khop"]
+    },
+    {
+      "question": "Tôi hay bị đau tại vùng xương cột sống, thắt lưng, xương chậu và đầu gối, đặc biệt là khi vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "loang-xuong",
+        "thoat-vi-dia-dem",
+        "thoai-hoa-cot-song"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng cấp, giảm chiều cao, và dáng đi lom khom. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["loang-xuong", "gut", "veo-cot-song"]
+    },
+    {
+      "question": "Tôi thường xuyên bị đau nhức toàn thân như kim chích, đặc biệt là sau chấn thương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "loang-xuong",
+        "viem-khop-dang-thap",
+        "thieu-vitamin-d"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau tại cột sống, thắt lưng và hai bên liên sườn, kèm theo khó khăn khi cúi gập và xoay người. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "loang-xuong",
+        "thoai-hoa-cot-song",
+        "thoat-vi-dia-dem"
+      ]
     }
   ]
 }

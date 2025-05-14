@@ -1,39 +1,129 @@
 {
   "disease_id": "hiem-muon",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hiếm muộn",
+  "disease_alternative_names": ["Vô sinh", "Infertility"],
+  "disease_definition": "Hiếm muộn theo định nghĩa của Tổ chức Y tế Thế giới (WHO) là tình trạng một cặp vợ chồng không thể có thai sau một năm chung sống, giao hợp thường xuyên và không sử dụng bất kỳ biện pháp tránh thai nào. Nếu người vợ trên 35 tuổi, thời gian này được rút ngắn lại chỉ còn 6 tháng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có dấu hiệu mang thai sau một năm",
+      "description": "Cặp vợ chồng không có thai sau một năm chung sống, quan hệ tình dục thường xuyên và không sử dụng biện pháp tránh thai."
+    },
+    {
+      "name": "Kinh nguyệt thất thường ở nữ giới",
+      "description": "Lượng kinh nguyệt nhiều, thời gian kéo dài hoặc ngắn hơn bình thường, hoặc vô kinh."
+    },
+    {
+      "name": "Thay đổi về ham muốn tình dục",
+      "description": "Giảm ham muốn tình dục ở cả nam và nữ, có thể là dấu hiệu của rối loạn nội tiết tố."
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Đau khi quan hệ tình dục ở nữ giới có thể là dấu hiệu của các vấn đề như lạc nội mạc tử cung hoặc viêm vùng chậu."
+    },
+    {
+      "name": "Tinh hoàn bất thường ở nam giới",
+      "description": "Tinh hoàn bị nhỏ lại, teo, sưng đau hoặc nổi cục."
+    },
+    {
+      "name": "Vấn đề về cương dương hoặc xuất tinh",
+      "description": "Nam giới gặp khó khăn trong việc cương dương hoặc xuất tinh, có thể dẫn đến giảm khả năng thụ thai."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiếm muộn có thể xuất phát từ vợ và chồng, với khoảng 40% nguyên nhân đến từ vợ, 40% nguyên nhân đến từ chồng, còn lại đến từ cả hai vợ chồng hoặc hiếm muộn không rõ nguyên nhân.",
+    "related_factors": "Ở nữ giới: rối loạn phóng noãn, lạc nội mạc tử cung, suy buồng trứng sớm, viêm vùng chậu, tắc nghẽn ống dẫn trứng, bất thường về tử cung, tăng prolactin máu. Ở nam giới: chất lượng và số lượng tinh trùng không đảm bảo, giãn tĩnh mạch thừng tinh, nhiễm trùng, tinh hoàn ẩn, mất cân bằng hormone, rối loạn cương dương, xuất tinh sớm, bệnh di truyền.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (đặc biệt là nữ trên 35 tuổi)",
+    "Lạm dụng rượu, bia, chất kích thích",
+    "Sử dụng thuốc lá",
+    "Thiếu vận động, thừa cân, béo phì",
+    "Tiếp xúc với môi trường nhiệt độ cao hoặc hóa chất công nghiệp",
+    "Lối sống không lành mạnh, dinh dưỡng kém",
+    "Bệnh lý di truyền",
+    "Căng thẳng kéo dài",
+    "Bệnh nhiễm trùng đường sinh dục không được điều trị",
+    "Rối loạn nội tiết tố"
+  ],
+  "complications": [
+    "Trầm cảm, căng thẳng về tâm lý",
+    "Áp lực gia đình, xã hội",
+    "Ảnh hưởng đến mối quan hệ vợ chồng",
+    "Tổn thương thể chất do các biện pháp điều trị hỗ trợ sinh sản",
+    "Tăng nguy cơ mang thai ngoài tử cung trong một số trường hợp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Xét nghiệm cơ bản",
+      "Siêu âm",
+      "Chụp X-quang",
+      "Nội soi"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nữ giới",
+        "description": "Xét nghiệm miễn dịch, xét nghiệm AMH, xét nghiệm Chlamydia, xét nghiệm tuyến giáp (TSH, T3, FT4), xét nghiệm nội tiết FSH, LH, E2, Prolactin, P4, xét nghiệm sàng lọc ung thư cổ tử cung và ung thư vú."
+      },
+      {
+        "name": "Siêu âm nữ giới",
+        "description": "Siêu âm phụ khoa, siêu âm đếm nang thứ cấp, siêu âm theo dõi sự phát triển của nang noãn, siêu âm bơm nước buồng tử cung."
+      },
+      {
+        "name": "Chụp X-quang tử cung - vòi trứng (HSG)",
+        "description": "Đánh giá sự thông thương của các ống dẫn trứng."
+      },
+      {
+        "name": "Nội soi buồng tử cung",
+        "description": "Quan sát buồng tử cung, giúp chẩn đoán và điều trị các bất thường ở tử cung."
+      },
+      {
+        "name": "Xét nghiệm nam giới",
+        "description": "Xét nghiệm tinh dịch đồ, xét nghiệm miễn dịch, xét nghiệm nội tiết, xét nghiệm nước tiểu sau xuất tinh, xét nghiệm di truyền, xét nghiệm kiểm tra mức độ đứt gãy DNA của tinh trùng (Halosperm Test)."
+      },
+      {
+        "name": "Siêu âm nam giới",
+        "description": "Siêu âm tinh hoàn, siêu âm bụng để đánh giá cấu trúc và phát hiện bất thường."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiếm muộn có thể điều trị được nếu được chẩn đoán kịp thời. Khả năng thành công phụ thuộc vào độ tuổi của người phụ nữ, bệnh lý và sức khỏe của vợ chồng, trình độ chuyên môn của đội ngũ chuyên gia, trang thiết bị và phác đồ điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Bơm tinh trùng vào buồng tử cung (IUI)",
+        "description": "Kỹ thuật đưa tinh trùng vào buồng tử cung vào thời điểm phóng noãn để tăng cơ hội thụ thai."
+      },
+      {
+        "name": "Thụ tinh trong ống nghiệm (IVF)",
+        "description": "Lấy trứng và tinh trùng để thụ tinh trong phòng thí nghiệm, sau đó cấy phôi vào tử cung."
+      },
+      {
+        "name": "Tiêm tinh trùng vào bào tương noãn (ICSI)",
+        "description": "Tiêm trực tiếp một tinh trùng vào bào tương của trứng để thụ tinh."
+      },
+      {
+        "name": "Trưởng thành trứng non IVM",
+        "description": "Kỹ thuật trưởng thành trứng non trong phòng thí nghiệm trước khi thụ tinh."
+      },
+      {
+        "name": "Phẫu thuật nội soi, soi buồng tử cung trong vô sinh",
+        "description": "Phẫu thuật để điều trị các bất thường ở tử cung, ống dẫn trứng hoặc buồng trứng."
+      },
+      {
+        "name": "Phẫu thuật nội soi trong vô sinh",
+        "description": "Phẫu thuật để điều trị các bệnh lý ảnh hưởng đến khả năng sinh sản như lạc nội mạc tử cung, u xơ tử cung, giãn tĩnh mạch thừng tinh."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thực hiện lối sống lành mạnh, tránh rượu bia và chất kích thích",
+      "Kiểm soát cân nặng, duy trì chế độ dinh dưỡng cân bằng",
+      "Thường xuyên tập thể dục thể thao để nâng cao sức khỏe",
+      "Thăm khám sớm khi nghi ngờ có vấn đề về sinh sản",
+      "Tuân thủ chặt chẽ phác đồ điều trị của bác sĩ",
+      "Giữ tinh thần lạc quan trong quá trình điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +131,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện lối sống lành mạnh, không lạm dụng rượu bia, các đồ uống thực phẩm chứa cồn hay các chất kích thích, không sử dụng thuốc lá",
+      "Thường xuyên luyện tập thể dục thể thao để có sức khỏe tốt và nâng cao đề kháng",
+      "Bổ sung dinh dưỡng đầy đủ, ăn thực phẩm tốt cho sức khỏe, hạn chế ăn quá nhiều đường, muối, thực phẩm chứa chất bảo quản và đồ ăn nhiều dầu mỡ",
+      "Hạn chế tiếp xúc với môi trường độc hại, ô nhiễm, dùng đồ bảo hộ khi làm việc với hóa chất",
+      "Thực hiện quan hệ tình dục lành mạnh, một vợ một chồng, tần suất quan hệ thường xuyên 2-3 lần/tuần",
+      "Đi khám sớm khi có dấu hiệu bất thường liên quan đến sinh sản",
+      "Nữ giới nên có kế hoạch sinh con trước 35 tuổi để tận dụng thời kỳ sinh sản tốt nhất"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hiếm muộn có chữa được không?",
+      "answer": "Hiếm muộn có thể điều trị được nếu được chẩn đoán kịp thời. Khả năng thành công phụ thuộc vào nhiều yếu tố như: độ tuổi của người phụ nữ (tuổi càng trẻ thì khả năng thành công càng cao), các bệnh lý và sức khỏe của vợ chồng, trình độ chuyên môn của đội ngũ chuyên gia hỗ trợ sinh sản, trang thiết bị và phòng Lab đạt tiêu chuẩn, cũng như phác đồ điều trị phù hợp với từng trường hợp cụ thể. Các cặp vợ chồng nên chủ động thăm khám sớm và giữ tinh thần lạc quan trong quá trình điều trị."
+    },
+    {
+      "question": "Khi nào cần đi khám hiếm muộn?",
+      "answer": "Với những cặp vợ chồng dưới 35 tuổi và đang cố gắng có con trong ít nhất một năm, hoặc trên 35 tuổi đã cố gắng có con trong 6 tháng mà không có kết quả nên đến gặp các bác sĩ chuyên khoa hỗ trợ sinh sản để được tư vấn và thăm khám hiếm muộn. Không nên trì hoãn thời gian thăm khám quá lâu vì khả năng sinh sản giảm dần theo tuổi, đặc biệt ở phụ nữ."
+    },
+    {
+      "question": "Tuổi tác ảnh hưởng như thế nào đến khả năng sinh sản?",
+      "answer": "Khả năng sinh sản của nam giới và nữ giới giảm dần theo tuổi. Đối với phụ nữ, khả năng sinh sản giảm dần khi bước sang độ tuổi 30, và giảm nhanh sau 35 tuổi, đến tuổi 40 cơ hội có thai giảm đi một nửa. Lý do là khi phụ nữ lớn tuổi thì số lượng và chất lượng noãn ở hai bên buồng trứng bị suy giảm đáng kể, khoảng 75% tổng số noãn bị bất thường về nhiễm sắc thể ở độ tuổi 40. Ở nam giới, sự giảm khả năng sinh sản bắt đầu muộn hơn và khó nhận thấy hơn, nhưng người chồng trên 45 tuổi thì thời gian để người vợ có thai kéo dài gấp 5 lần thời gian của những người đàn ông độ tuổi 20."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa hiếm muộn?",
+      "answer": "Để phòng ngừa hiếm muộn, cần thực hiện lối sống lành mạnh, không lạm dụng rượu bia và chất kích thích, không hút thuốc lá; thường xuyên tập thể dục thể thao; bổ sung dinh dưỡng đầy đủ; hạn chế tiếp xúc với môi trường độc hại, ô nhiễm; thực hiện quan hệ tình dục lành mạnh với tần suất 2-3 lần/tuần; đi khám sớm khi có dấu hiệu bất thường. Nữ giới nên có kế hoạch sinh con trước 35 tuổi để tận dụng thời kỳ sinh sản tốt nhất."
+    },
+    {
+      "question": "Có những phương pháp hỗ trợ sinh sản nào hiện nay?",
+      "answer": "Hiện nay có nhiều phương pháp hỗ trợ sinh sản như: Bơm tinh trùng vào buồng tử cung (IUI); Thụ tinh trong ống nghiệm (IVF); Tiêm tinh trùng vào bào tương noãn (ICSI); Trưởng thành trứng non IVM; Trữ lạnh phôi, noãn và tinh trùng; Hỗ trợ phôi thoát màng (AH); Chuyển phôi giai đoạn Blastocyst (ngày 5); Xét nghiệm di truyền tiền làm tổ (PGT); Phẫu thuật nội soi, soi buồng tử cung trong vô sinh; và Phẫu thuật tạo hình trong bất thường sinh dục – vô sinh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Đã quan hệ không dùng biện pháp tránh thai hơn một năm mà chưa có con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hiem-muon",
+        "roi-loan-noi-tiet",
+        "roi-loan-phong-noãn"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên đau bụng dưới và kinh nguyệt thất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hiem-muon", "lac-noi-mac-tu-cung", "u-xo-tu-cung"]
+    },
+    {
+      "question": "Tôi đau khi quan hệ tình dục và khó thụ thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hiem-muon", "viem-vung-chau", "lac-noi-mac-tu-cung"]
+    },
+    {
+      "question": "Tôi và vợ đã cố gắng có con hơn một năm mà không thành công. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hiem-muon",
+        "gian-tinh-mach-thung-tinh",
+        "roi-loan-tinh-trung"
+      ]
+    },
+    {
+      "question": "Tôi không còn hứng thú với tình dục và bác sĩ nói tinh trùng của tôi ít và yếu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hiem-muon",
+        "roi-loan-noi-tiet-nam",
+        "gian-tinh-mach-thung-tinh"
+      ]
     }
   ]
 }

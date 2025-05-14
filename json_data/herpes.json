@@ -1,58 +1,187 @@
 {
   "disease_id": "herpes",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Herpes",
+  "disease_alternative_names": [
+    "Herpes simplex (HSV)",
+    "Herpes zoster",
+    "Mụn rộp",
+    "Zona"
+  ],
+  "disease_definition": "Herpes là tên gọi của một chủng virus lây truyền qua hình thức tiếp xúc trực tiếp và gây nên các bệnh ngoài da; virus có ái lực (thích) da và thần kinh. Họ virus Herpes có vài loại thường gây bệnh cho người gồm: Herpes simplex (HSV) gây bệnh mụn rộp, Herpes zoster (còn gọi là Varicella zoster virus) gây bệnh zona, thủy đậu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng hạch bạch huyết",
+      "description": "Hạch bạch huyết trong cơ thể sưng lên, thường xuất hiện trong giai đoạn nhiễm bệnh nguyên phát."
+    },
+    {
+      "name": "Đau đầu và đau nhức toàn thân",
+      "description": "Cảm giác đau nhức ở đầu và các vùng cơ thể, tương tự như triệu chứng của bệnh cúm."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, kiệt sức, thiếu năng lượng."
+    },
+    {
+      "name": "Sốt",
+      "description": "Nhiệt độ cơ thể tăng cao, thường xuất hiện trong giai đoạn nhiễm bệnh nguyên phát."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác ngon miệng, không muốn ăn."
+    },
+    {
+      "name": "Ngứa ran và nóng rát",
+      "description": "Cảm giác ngứa ran, nóng rát xuất hiện ở một số vùng da trước khi mụn nước hình thành."
+    },
+    {
+      "name": "Mụn nước nhỏ",
+      "description": "Xuất hiện các mụn nước nhỏ, có thể mọc thành cụm hoặc lan ra thành mảng. Các mụn nước này sẽ vỡ ra và đóng vảy sau một thời gian."
+    },
+    {
+      "name": "Đau buốt khi đi tiểu",
+      "description": "Cảm giác đau buốt khi đi tiểu, thường gặp nếu mụn rộp xuất hiện ở bộ phận sinh dục."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Virus Herpes simplex (HSV), bao gồm HSV-1 (thường gây mụn rộp miệng) và HSV-2 (thường gây mụn rộp sinh dục).",
+    "related_factors": "Tiếp xúc trực tiếp với người mang virus, qua vết thương hở hoặc dịch tiết của người nhiễm.",
+    "transmission_routes": [
+      "Hôn nhau",
+      "Quan hệ tình dục qua đường miệng",
+      "Quan hệ tình dục không an toàn",
+      "Tiếp xúc da với da",
+      "Sử dụng chung các đồ dùng cá nhân như dao cạo râu, son dưỡng môi",
+      "Sử dụng chung đồ chơi tình dục",
+      "Từ mẹ sang con trong quá trình mang thai hoặc sinh nở"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Quan hệ tình dục với người nhiễm HSV-1 hoặc HSV-2",
+    "Quan hệ tình dục bằng miệng, hậu môn hoặc âm đạo mà không sử dụng biện pháp bảo vệ",
+    "Có nhiều bạn tình",
+    "Quan hệ tình dục với người lạ",
+    "Tiền sử mắc các bệnh lây truyền qua đường tình dục",
+    "Phụ nữ có nguy cơ mắc bệnh mụn rộp sinh dục từ bạn tình nam cao hơn",
+    "Hệ miễn dịch suy giảm"
+  ],
+  "complications": [
+    "Tăng nguy cơ nhiễm HIV (gấp 3 lần)",
+    "Viêm màng não",
+    "Nhiễm trùng lan tỏa",
+    "Viêm não",
+    "Viêm giác mạc",
+    "Herpes ở trẻ sơ sinh có thể dẫn đến khuyết tật thần kinh hoặc tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám lâm sàng", "Xét nghiệm bệnh phẩm", "Xét nghiệm máu"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thăm khám lâm sàng",
+        "description": "Bác sĩ kiểm tra vùng da nổi mụn nước và hỏi về các triệu chứng như ngứa ran, nóng rát hoặc triệu chứng giống bệnh cảm cúm."
+      },
+      {
+        "name": "Xét nghiệm bệnh phẩm",
+        "description": "Lấy dịch từ mô liên kết nghi ngờ nhiễm bệnh hoặc dịch trong các mụn nước để xác định sự hiện diện của virus."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp xác định liệu có kháng thể HSV tồn tại trong cơ thể hay không, nhưng có thể không phát hiện chính xác trong 12 tuần đầu sau khi nhiễm virus."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện nay bệnh Herpes vẫn chưa có cách chữa trị triệt để. Tuy nhiên, có nhiều phương pháp giúp cải thiện các triệu chứng và kiểm soát bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng virus",
+        "description": "Các thuốc như Aciclovir (acyclovir), Famciclovir, Valacyclovir giúp giảm khả năng lây truyền HSV và giảm thời gian các triệu chứng tồn tại. Trong trường hợp nhiễm HSV kháng thuốc, có thể dùng Foscarnet hoặc Cidofovir."
+      },
+      {
+        "name": "Chườm nóng hoặc lạnh",
+        "description": "Giúp giảm đau và khó chịu tại vùng bị tổn thương."
+      },
+      {
+        "name": "Bổ sung Lysin",
+        "description": "Một số nghiên cứu cho thấy bổ sung 1-3 gam Lysin hàng ngày có thể giúp kiểm soát triệu chứng và giảm tái phát."
+      },
+      {
+        "name": "Các liệu pháp tại nhà",
+        "description": "Sử dụng hỗn hợp baking soda với nước và bột ngô, tỏi nghiền trộn dầu ô liu, lô hội, hoặc tinh dầu bạc hà, dầu bạch đàn, dầu cây trà (đã pha loãng) để giảm đau và kích ứng."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Dùng thuốc kháng virus theo chỉ định của bác sĩ",
+      "Giữ vùng bị tổn thương sạch sẽ và khô ráo",
+      "Tránh chạm vào vùng bị tổn thương để tránh lây lan sang các vùng khác trên cơ thể",
+      "Rửa tay thường xuyên, đặc biệt là sau khi chạm vào vùng bị nhiễm",
+      "Tránh quan hệ tình dục khi có triệu chứng",
+      "Áp dụng các liệu pháp tại nhà để giảm đau và khó chịu"
+    ],
+    "prevention_of_transmission": [
+      "Sử dụng bao cao su khi quan hệ tình dục",
+      "Tránh quan hệ tình dục khi có triệu chứng",
+      "Thông báo cho bạn tình về tình trạng nhiễm virus",
+      "Không dùng chung đồ dùng cá nhân như dao cạo, son môi",
+      "Không dùng chung đồ chơi tình dục hoặc rửa sạch trước và sau khi sử dụng"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh tiếp xúc cơ thể với người đang có mụn rộp",
+      "Không dùng chung sản phẩm chăm sóc cá nhân",
+      "Sử dụng các biện pháp an toàn khi quan hệ tình dục (bao cao su, màng chắn miệng)",
+      "Chung thủy một vợ một chồng, hạn chế số lượng bạn tình",
+      "Xét nghiệm HSV khi thấy dấu hiệu bất thường",
+      "Tránh hôn trẻ em nếu bạn đang có mụn rộp ở miệng",
+      "Tăng cường hệ miễn dịch thông qua chế độ ăn uống và lối sống lành mạnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Liệu Herpes có thể chữa khỏi hoàn toàn không?",
+      "answer": "Hiện nay bệnh Herpes vẫn chưa có cách chữa trị triệt để. Virus sẽ tồn tại trong cơ thể suốt đời, nhưng có thể kiểm soát được các triệu chứng bằng thuốc kháng virus và các biện pháp hỗ trợ khác. Các đợt bùng phát thường giảm dần theo thời gian khi cơ thể tạo ra kháng thể."
+    },
+    {
+      "question": "Làm thế nào để biết mình bị nhiễm Herpes?",
+      "answer": "Dấu hiệu điển hình là xuất hiện các mụn nước nhỏ ở môi, miệng hoặc bộ phận sinh dục, kèm theo cảm giác ngứa ran, nóng rát. Giai đoạn đầu có thể có các triệu chứng giống cúm như sốt, đau đầu, mệt mỏi và sưng hạch bạch huyết. Tuy nhiên, nhiều người nhiễm virus không có triệu chứng rõ ràng nên cần xét nghiệm để chẩn đoán chính xác."
+    },
+    {
+      "question": "Herpes lây truyền như thế nào?",
+      "answer": "Herpes lây truyền qua tiếp xúc trực tiếp với người nhiễm virus, đặc biệt khi tiếp xúc với mụn nước hoặc vết thương hở. HSV-1 (mụn rộp miệng) lây qua hôn, dùng chung đồ dùng cá nhân, quan hệ tình dục bằng miệng. HSV-2 (mụn rộp sinh dục) chủ yếu lây qua quan hệ tình dục. Cả hai loại đều có thể lây khi người nhiễm không có triệu chứng."
+    },
+    {
+      "question": "Tại sao bệnh Herpes tái phát?",
+      "answer": "Sau lần nhiễm đầu tiên, virus Herpes ẩn náu trong các tế bào thần kinh gần vùng nhiễm ban đầu. Khi hệ miễn dịch suy yếu hoặc cơ thể gặp các yếu tố kích hoạt như stress, mệt mỏi, sốt, kinh nguyệt, chấn thương tại chỗ, tiếp xúc với ánh nắng mặt trời, virus có thể tái hoạt động và gây bùng phát. Tuy nhiên, các đợt tái phát thường ít nghiêm trọng hơn và giảm dần theo thời gian."
+    },
+    {
+      "question": "Herpes có nguy hiểm không?",
+      "answer": "Đối với hầu hết người trưởng thành khỏe mạnh, Herpes không gây nguy hiểm đến tính mạng, mặc dù có thể gây khó chịu và ảnh hưởng tâm lý. Tuy nhiên, Herpes có thể nguy hiểm trong một số trường hợp: làm tăng nguy cơ nhiễm HIV gấp 3 lần, gây biến chứng nghiêm trọng ở người suy giảm miễn dịch, và đặc biệt nguy hiểm đối với trẻ sơ sinh khi lây từ mẹ sang con trong quá trình sinh nở."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sưng hạch bạch huyết và đau nhức toàn thân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["herpes", "viem-hong", "cum"]
+    },
+    {
+      "question": "Tôi hay bị sốt và ngứa ran ở một số vùng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["herpes", "thuy-dau", "di-ung-da"]
+    },
+    {
+      "question": "Tôi đang có mụn nước ở bộ phận sinh dục và cảm thấy đau buốt khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["herpes", "herpes-sinh-duc", "viem-duong-tiet-nieu"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu và xuất hiện các mụn nước nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["herpes", "thuy-dau", "zona"]
+    },
+    {
+      "question": "Tôi đang có mụn nước ở môi và cảm thấy đau rát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["herpes", "mun-nuoc-doi", "viem-da-tiep-xuc"]
     }
   ]
 }

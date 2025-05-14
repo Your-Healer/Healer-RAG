@@ -1,58 +1,366 @@
 {
   "disease_id": "dau-tinh-hoan-ben-trai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Đau Tinh Hoàn Bên Trái",
+  "disease_alternative_names": [
+    "Đau tinh hoàn trái",
+    "Đau dái bên trái",
+    "Đau bìu trái",
+    "Left testicular pain"
+  ],
+  "disease_definition": "Đau tinh hoàn bên trái là tình trạng đau nhức chỉ xảy ra ở tinh hoàn phía bên trái và hoàn toàn bình thường ở bên ngược lại. Hiện tượng này thường hiếm gặp nhưng vẫn có thể là dấu hiệu cảnh báo về một số vấn đề nghiêm trọng cần được phát hiện, điều trị sớm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đột ngột và dữ dội",
+      "description": "Cơn đau xuất hiện đột ngột và dữ dội ở tinh hoàn bên trái, đặc biệt khi bị xoắn tinh hoàn."
+    },
+    {
+      "name": "Đau âm ỉ, lan lên vùng bụng dưới",
+      "description": "Cảm giác đau âm ỉ từ tinh hoàn trái, có thể lan tỏa sang vùng bụng dưới, thường gặp trong các trường hợp viêm nhiễm hoặc giãn tĩnh mạch thừng tinh."
+    },
+    {
+      "name": "Sưng và đỏ ở tinh hoàn",
+      "description": "Tinh hoàn sưng to, đỏ và đau khi chạm vào, đặc biệt trong trường hợp viêm nhiễm hoặc chấn thương."
+    },
+    {
+      "name": "Tinh hoàn nằm ở vị trí bất thường",
+      "description": "Tinh hoàn có thể nằm ở vị trí bất thường hoặc nằm cao hơn bình thường trong bìu, thường gặp trong trường hợp xoắn tinh hoàn."
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Cơn đau có thể xuất hiện trước và trong sinh hoạt tình dục, đặc biệt là sau khi xuất tinh."
+    },
+    {
+      "name": "Đau sau khi tập thể dục hoặc chấn thương",
+      "description": "Cơn đau xuất hiện sau khi tập thể dục hoặc sau chấn thương, có thể dẫn đến đau dữ dội ban đầu sau đó chuyển sang âm ỉ."
+    },
+    {
+      "name": "Đau khi thay đổi tư thế",
+      "description": "Nam giới có thể bị đau khi thức dậy, ngủ, đứng, ngồi hoặc di chuyển tùy theo nguyên nhân gây đau."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đau tinh hoàn bên trái có thể do nhiều nguyên nhân khác nhau, từ các vấn đề cấu trúc đến viêm nhiễm, chấn thương hoặc các bệnh lý nghiêm trọng hơn.",
+    "related_factors": "Các yếu tố liên quan đến đau tinh hoàn bên trái bao gồm giãn tĩnh mạch thừng tinh, viêm tinh hoàn, u nang biểu mô, xoắn tinh hoàn, tràn dịch tinh mạc, chấn thương và ung thư tinh hoàn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử bệnh lý tinh hoàn",
+    "Từng bị chấn thương vùng bìu",
+    "Hoạt động thể chất mạnh mà không có đồ bảo hộ",
+    "Quan hệ tình dục không an toàn",
+    "Tiếp xúc với người mắc quai bị",
+    "Giải phẫu tĩnh mạch bất thường ở vùng bìu",
+    "Cấu tạo cơ thể có tinh hoàn nằm cao (cryptorchidism)",
+    "Thói quen nâng vật nặng thường xuyên",
+    "Tinh hoàn trái thường nằm ở vị trí thấp hơn bên phải nên dễ bị tổn thương hơn"
+  ],
+  "complications": [
+    "Tổn thương vĩnh viễn đến tinh hoàn",
+    "Giảm khả năng sinh sản hoặc vô sinh",
+    "Hoại tử mô tinh hoàn do thiếu máu",
+    "Nhiễm trùng lan rộng đến các cơ quan khác",
+    "Cần phải cắt bỏ tinh hoàn (trong trường hợp nghiêm trọng như ung thư hoặc hoại tử)",
+    "Tụ máu bìu mạn tính",
+    "Đau mạn tính ở tinh hoàn và vùng bìu",
+    "Ảnh hưởng đến chất lượng cuộc sống và sức khỏe tâm lý"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng ở tư thế đứng và nằm",
+      "Khai thác tiền sử bệnh, thói quen sinh hoạt và tình dục",
+      "Kiểm tra các hoạt động làm tăng hoặc giảm cơn đau"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm Doppler",
+        "description": "Siêu âm Doppler bìu, tinh hoàn và mào tinh hoàn để kiểm tra cấu trúc và lưu lượng máu, phát hiện các bất thường như giãn tĩnh mạch thừng tinh, xoắn tinh hoàn, tràn dịch, u..."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính hoặc cộng hưởng từ",
+        "description": "Được chỉ định trong trường hợp nghi ung thư tinh hoàn để xác định rõ cấu trúc khối u và hình ảnh di căn nếu có."
+      },
+      {
+        "name": "Sinh thiết tinh hoàn",
+        "description": "Thực hiện để xác định bản chất khối u tinh hoàn, chỉ được thực hiện khi có chỉ định cụ thể."
+      },
+      {
+        "name": "Xét nghiệm công thức máu",
+        "description": "Giúp xác định tình trạng nhiễm trùng hoặc viêm trong cơ thể thông qua số lượng bạch cầu và các chỉ số viêm."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Giúp phát hiện nhiễm trùng đường tiết niệu có thể liên quan đến cơn đau tinh hoàn."
+      },
+      {
+        "name": "Nuôi cấy dịch màng tinh hoàn, dịch niệu đạo",
+        "description": "Giúp tìm vi khuẩn và làm kháng sinh đồ để xác định nguồn gốc nhiễm trùng và lựa chọn kháng sinh phù hợp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị đau tinh hoàn bên trái được bác sĩ chỉ định dựa trên nguyên nhân cụ thể và mức độ nghiêm trọng của tình trạng. Trong trường hợp xoắn tinh hoàn, cần can thiệp y tế khẩn cấp trong vòng 6 giờ để tránh hoại tử mô.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật giãn tĩnh mạch thừng tinh",
+        "description": "Phẫu thuật thường được ưu tiên cho trường hợp giãn tĩnh mạch thừng tinh, giúp cải thiện triệu chứng đau nhức và khôi phục hoạt động bình thường của tinh hoàn. Trường hợp bị tái phát sau mổ không vượt quá 10%."
+      },
+      {
+        "name": "Điều trị viêm tinh hoàn",
+        "description": "Nếu nhiễm trùng do vi khuẩn, bác sĩ có thể chỉ định điều trị bằng thuốc kháng sinh. Trong trường hợp viêm do virus, tình trạng sẽ tự cải thiện theo thời gian hoặc điều trị tích cực nếu nghiêm trọng."
+      },
+      {
+        "name": "Phẫu thuật loại bỏ u nang biểu mô",
+        "description": "Khi đau tinh hoàn do u nang biểu mô, phẫu thuật loại bỏ u nang sẽ được tiến hành. Tuy nhiên, thủ thuật có nguy cơ ảnh hưởng đến khả năng sinh sản."
+      },
+      {
+        "name": "Phẫu thuật xoắn tinh hoàn",
+        "description": "Trường hợp xoắn tinh hoàn cần phẫu thuật càng sớm càng tốt để tháo xoắn cuống tinh hoàn, phục hồi cấp máu cho tinh hoàn và cố định tinh hoàn bằng chỉ khâu vào thành trong của bìu để tránh tái phát."
+      },
+      {
+        "name": "Phẫu thuật tràn dịch tinh mạc",
+        "description": "Phẫu thuật được chỉ định để dẫn lưu dịch hoặc máu xung quanh tinh hoàn, sau đó khâu lộn màng tinh hoàn để tránh tái phát."
+      },
+      {
+        "name": "Điều trị chấn thương",
+        "description": "Bác sĩ căn cứ vào mức độ nghiêm trọng của chấn thương để chỉ định dùng thuốc giảm đau hoặc can thiệp phẫu thuật."
+      },
+      {
+        "name": "Điều trị ung thư tinh hoàn",
+        "description": "Tùy vào mức độ tiến triển của ung thư, bác sĩ có thể chỉ định phẫu thuật, xạ trị hay hóa trị liệu."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Liên hệ với bác sĩ ngay khi phát hiện cơn đau đột ngột và dữ dội ở tinh hoàn",
+      "Tránh các hoạt động gắng sức trong thời gian điều trị",
+      "Mặc quần lót hỗ trợ để nâng đỡ bìu, giảm đau",
+      "Tuân thủ đúng liệu trình điều trị và uống thuốc theo chỉ định của bác sĩ",
+      "Kiểm tra lại sau điều trị theo lịch hẹn với bác sĩ",
+      "Thực hiện khám định kỳ nếu từng bị đau tinh hoàn bên trái",
+      "Duy trì chế độ vệ sinh sạch sẽ vùng kín để tránh nhiễm trùng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm chủng ngừa quai bị có thể giúp làm giảm tỷ lệ mắc viêm tinh hoàn do virus, một trong những nguyên nhân gây đau tinh hoàn bên trái.",
+      "recommended_for": [
+        "Trẻ em theo lịch tiêm chủng quốc gia",
+        "Nam giới chưa được tiêm phòng quai bị"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm tra tinh hoàn đều đặn, tốt nhất là mỗi tháng một lần để phát hiện sớm các dấu hiệu bất thường",
+      "Luôn mang đồ bảo hộ khi chơi thể thao, làm việc để tránh gây chấn thương tinh hoàn",
+      "Ngăn ngừa nhiễm trùng đường tiết niệu bằng cách làm rỗng bàng quang hoàn toàn mỗi lần đi tiểu",
+      "Luôn giữ vệ sinh vùng sinh dục, bao gồm cả tinh hoàn, thay đồ lót thường xuyên",
+      "Quan hệ tình dục an toàn, sử dụng bao cao su trong quá trình giao hợp",
+      "Khám sức khỏe định kỳ để phát hiện sớm tình trạng bệnh lý tinh hoàn",
+      "Tránh nâng vật nặng không đúng cách để giảm áp lực lên vùng bìu",
+      "Uống đủ nước để giảm nguy cơ nhiễm trùng đường tiết niệu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Đau tinh hoàn bên trái có nguy hiểm không?",
+      "answer": "Mức độ nguy hiểm của tình trạng đau tinh hoàn trái phụ thuộc vào từng nguyên nhân. Đau nhẹ sau hoạt động thể chất thường không nghiêm trọng. Đau kèm theo cảm giác nóng rát khi tiểu có thể là dấu hiệu của nhiễm trùng đường tiết niệu. Tuy nhiên, những triệu chứng đau dữ dội, đột ngột ở tinh hoàn trái có thể là dấu hiệu của xoắn tinh hoàn, đây là trường hợp khẩn cấp cần được điều trị ngay lập tức trong vòng 6 giờ để tránh phải cắt bỏ tinh hoàn."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ vì đau tinh hoàn bên trái?",
+      "answer": "Bạn cần liên hệ bác sĩ ngay lập tức nếu: Cơn đau xuất hiện đột ngột và dữ dội; Không có khả năng xác định vị trí của cả hai tinh hoàn; Triệu chứng đau hoặc sưng xuất hiện sau một giờ chấn thương; Đau kèm triệu chứng buồn nôn hoặc nôn; Đau và sốt; Bìu đau, đỏ, xuất hiện cảm giác ấm; Sờ thấy u, cục bất thường; Gặp khó khăn khi đi tiểu; Xuất hiện máu hoặc chất thải bất thường trong nước tiểu; Triệu chứng đau càng ngày càng nặng."
+    },
+    {
+      "question": "Tại sao tinh hoàn bên trái dễ bị đau hơn bên phải?",
+      "answer": "Tinh hoàn bên trái thường được treo ở vị trí thấp hơn tinh hoàn bên phải do cấu trúc giải phẫu, khiến nó dễ bị tổn thương hơn khi chơi thể thao hoặc va chạm. Ngoài ra, giãn tĩnh mạch thừng tinh hình thành bó mạch nuôi dưỡng tinh hoàn trái hay gặp hơn ở bên phải do những bất thường về mặt giải phẫu bẩm sinh hoặc mắc phải, đây là một trong những nguyên nhân phổ biến gây đau tinh hoàn bên trái."
+    },
+    {
+      "question": "Đau tinh hoàn bên trái có ảnh hưởng đến khả năng sinh sản không?",
+      "answer": "Đau tinh hoàn bên trái có thể ảnh hưởng đến khả năng sinh sản nếu nguyên nhân là do các tình trạng như xoắn tinh hoàn, viêm tinh hoàn, hoặc giãn tĩnh mạch thừng tinh. Những tình trạng này nếu không được điều trị kịp thời và đúng cách có thể gây tổn thương vĩnh viễn đến mô tinh hoàn, ảnh hưởng đến quá trình sản xuất tinh trùng. Tuy nhiên, với một tinh hoàn còn lại khỏe mạnh, khả năng sinh sản vẫn có thể được duy trì."
+    },
+    {
+      "question": "Có thể phòng ngừa đau tinh hoàn bên trái bằng cách nào?",
+      "answer": "Để phòng ngừa đau tinh hoàn bên trái, bạn có thể: Kiểm tra tinh hoàn đều đặn mỗi tháng để phát hiện sớm các dấu hiệu bất thường; Luôn mang đồ bảo hộ khi chơi thể thao hoặc làm việc nặng; Ngăn ngừa nhiễm trùng đường tiết niệu bằng cách uống đủ nước và đi tiểu khi có nhu cầu; Luôn giữ vệ sinh vùng sinh dục và thay đồ lót thường xuyên; Quan hệ tình dục an toàn, sử dụng bao cao su; Khám sức khỏe định kỳ; Tránh nâng vật nặng không đúng cách; Tiêm phòng quai bị theo lịch tiêm chủng quốc gia."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đột ngột và dữ dội ở tinh hoàn bên trái, kèm theo sưng và đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Xoắn tinh hoàn",
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Chấn thương tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau âm ỉ ở tinh hoàn trái, cơn đau lan xuống vùng bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Giãn tĩnh mạch thừng tinh",
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Sỏi thận"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tinh hoàn trái, kèm theo cảm giác nóng rát khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niệu đạo",
+        "Viêm tuyến tiền liệt",
+        "Viêm bàng quang",
+        "Nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi thấy tinh hoàn trái của mình nằm ở vị trí bất thường và cảm thấy đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Xoắn tinh hoàn",
+        "Tinh hoàn ẩn",
+        "Tụt tinh hoàn",
+        "U tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi bị sốt và ớn lạnh, kèm theo đau tinh hoàn trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Quai bị",
+        "Nhiễm trùng huyết"
+      ]
+    },
+    {
+      "question": "Tôi bị buồn nôn và nôn, kèm theo đau tinh hoàn trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Xoắn tinh hoàn",
+        "Viêm tinh hoàn",
+        "Sỏi niệu quản",
+        "Viêm ruột thừa"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy cơ thể mệt mỏi và đau tinh hoàn trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Giãn tĩnh mạch thừng tinh",
+        "Nhiễm trùng"
+      ]
+    },
+    {
+      "question": "Tôi thấy dương vật tiết dịch bất thường và đau tinh hoàn trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niệu đạo",
+        "Lậu",
+        "Chlamydia",
+        "Viêm tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tần suất đi tiểu của tôi thay đổi và tôi bị đau tinh hoàn trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Viêm bàng quang",
+        "U tuyến tiền liệt",
+        "Viêm niệu đạo"
+      ]
+    },
+    {
+      "question": "Tôi thấy xuất hiện máu trong nước tiểu và đau tinh hoàn trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bàng quang",
+        "Sỏi thận",
+        "Ung thư bàng quang",
+        "Viêm thận"
+      ]
+    },
+    {
+      "question": "Nước tiểu của tôi có màu đục và tôi bị đau tinh hoàn trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Nhiễm trùng đường tiết niệu",
+        "Viêm niệu đạo",
+        "Viêm tuyến tiền liệt",
+        "Viêm bàng quang"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy ngứa và kích ứng bên trong dương vật, kèm theo đau tinh hoàn trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niệu đạo",
+        "Bệnh lây truyền qua đường tình dục",
+        "Nấm candida",
+        "Viêm bao quy đầu"
+      ]
+    },
+    {
+      "question": "Tôi bị đau tinh hoàn trái sau khi tập thể dục mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chấn thương tinh hoàn",
+        "Giãn tĩnh mạch thừng tinh",
+        "Thoát vị bẹn",
+        "Viêm mào tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi bị đau tinh hoàn trái sau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Viêm mào tinh hoàn",
+        "Giãn tĩnh mạch thừng tinh",
+        "Xung huyết vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi bị đau tinh hoàn trái khi đi xe đạp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chấn thương áp lực",
+        "Viêm tinh hoàn",
+        "Thoát vị bẹn",
+        "Giãn tĩnh mạch thừng tinh"
+      ]
+    },
+    {
+      "question": "Tôi bị đau tinh hoàn trái sau khi bị va đập mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Chấn thương tinh hoàn",
+        "Tụ máu bìu",
+        "Vỡ tinh hoàn",
+        "Xoắn tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi bị đau tinh hoàn trái và sờ thấy một khối u. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư tinh hoàn",
+        "Nang mào tinh",
+        "Tràn dịch màng tinh hoàn",
+        "U nang thừng tinh"
+      ]
+    },
+    {
+      "question": "Tinh hoàn trái của tôi sưng to và cảm thấy đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Tràn dịch màng tinh hoàn",
+        "Thoát vị bẹn"
+      ]
+    },
+    {
+      "question": "Bìu của tôi bị đỏ và sưng, kèm theo đau tinh hoàn trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bìu",
+        "Viêm tinh hoàn",
+        "Chấn thương tinh hoàn",
+        "Tụ máu bìu"
+      ]
+    },
+    {
+      "question": "Tôi bị đau tinh hoàn trái kéo dài nhiều ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mào tinh hoàn mạn tính",
+        "Viêm tinh hoàn mạn tính",
+        "Đau tinh hoàn mạn tính",
+        "Giãn tĩnh mạch thừng tinh"
+      ]
     }
   ]
 }

@@ -1,39 +1,153 @@
 {
   "disease_id": "nhiem-toan-ceton",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhiễm toan ceton",
+  "disease_alternative_names": [
+    "Nhiễm toan ceton do đái tháo đường",
+    "Ketoacidosis",
+    "Diabetic ketoacidosis",
+    "DKA"
+  ],
+  "disease_definition": "Nhiễm toan ceton là sự tích tụ axit trong máu của người bệnh. Xảy ra khi lượng đường trong máu quá cao và diễn ra trong thời gian quá dài. Bệnh phổ biến ở người bệnh đái tháo đường tuýp 1 và ít phổ biến hơn ở những người bệnh đái tháo đường tuýp 2. Đây là biến chứng nghiêm trọng có thể đe dọa tính mạng nếu không được điều trị kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khát nước",
+      "description": "Cảm giác khát nước dữ dội, thường xuyên, là một trong những triệu chứng ban đầu của nhiễm toan ceton."
+    },
+    {
+      "name": "Đi tiểu thường xuyên",
+      "description": "Tăng số lần đi tiểu, thường đi kèm với cảm giác khát nước."
+    },
+    {
+      "name": "Thở nhanh và sâu",
+      "description": "Thở nhanh và sâu (Kussmaul breathing) là triệu chứng xuất hiện khi tình trạng nhiễm toan tiến triển, cơ thể cố gắng điều chỉnh tình trạng nhiễm toan bằng cách thải CO2."
+    },
+    {
+      "name": "Da và miệng khô",
+      "description": "Da và miệng khô do mất nước nghiêm trọng, một hậu quả của việc đi tiểu nhiều."
+    },
+    {
+      "name": "Mặt đỏ bừng",
+      "description": "Mặt có thể đỏ bừng do tình trạng nhiễm toan và mất nước."
+    },
+    {
+      "name": "Hơi thở có mùi trái cây",
+      "description": "Hơi thở có mùi trái cây hoặc ngọt (mùi acetone) do sự hiện diện của ceton trong hơi thở."
+    },
+    {
+      "name": "Đau đầu và cứng cơ",
+      "description": "Đau đầu, cứng cơ hoặc đau nhức cơ thể là những triệu chứng thường gặp."
+    },
+    {
+      "name": "Mệt mỏi và buồn nôn",
+      "description": "Cảm giác mệt mỏi, kiệt sức và buồn nôn do mất nước và rối loạn điện giải."
+    },
+    {
+      "name": "Nôn và đau bụng",
+      "description": "Nôn mửa và đau bụng có thể xuất hiện khi tình trạng tiến triển."
+    },
+    {
+      "name": "Lượng đường trong máu cao",
+      "description": "Tăng đường huyết là dấu hiệu chắc chắn, thường đo được trên 250 mg/dL."
+    },
+    {
+      "name": "Lú lẫn và mất phương hướng",
+      "description": "Rối loạn ý thức do ảnh hưởng của tình trạng nhiễm toan đến não."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nhiễm toan ceton xảy ra khi cơ thể không sản xuất đủ insulin hoặc sử dụng insulin không hiệu quả. Không có đủ insulin, cơ thể bắt đầu phân hủy chất béo làm nhiên liệu, gây ra sự tích tụ axit trong máu gọi là ceton.",
+    "related_factors": "Nhiễm toan ceton thường xảy ra khi có các bệnh kèm theo làm tăng nhu cầu insulin hoặc khi người bệnh quên tiêm insulin, tiêm không đủ liều hoặc dùng sai liều insulin.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bị đái tháo đường tuýp 1",
+    "Thường bỏ lỡ liều insulin",
+    "Mắc bệnh khác như viêm phổi hoặc nhiễm trùng đường tiết niệu",
+    "Đau tim hoặc đột quỵ",
+    "Chấn thương thể chất hoặc tinh thần",
+    "Lạm dụng rượu hoặc ma túy, đặc biệt là cocaine",
+    "Sử dụng một số loại thuốc như thuốc lợi tiểu hoặc corticosteroid",
+    "Viêm tụy",
+    "Thai kỳ",
+    "Đôi khi xảy ra với người bệnh đái tháo đường tuýp 2"
+  ],
+  "complications": [
+    "Mất nước nghiêm trọng",
+    "Rối loạn điện giải có thể ảnh hưởng đến chức năng tim",
+    "Tổn thương não do thay đổi nồng độ đường và các chất điện giải trong máu",
+    "Suy thận",
+    "Vấn đề về phổi",
+    "Tử vong nếu không được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe tổng quát",
+      "Kiểm tra ceton khi lượng đường trong máu trên 250mg/dL",
+      "Xét nghiệm ceton trong nước tiểu hoặc máu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm đường huyết",
+        "description": "Đo lượng đường trong máu, thường cao hơn 250 mg/dL trong trường hợp nhiễm toan ceton"
+      },
+      {
+        "name": "Xét nghiệm ceton trong máu",
+        "description": "Đo lượng ceton trong máu, tăng cao trong nhiễm toan ceton"
+      },
+      {
+        "name": "Xét nghiệm độ axit của máu",
+        "description": "Kiểm tra pH máu, thường giảm (axit hóa) trong nhiễm toan ceton"
+      },
+      {
+        "name": "Xét nghiệm điện giải máu",
+        "description": "Kiểm tra mức độ các chất điện giải như natri, kali, clorua trong máu"
+      },
+      {
+        "name": "X-quang ngực",
+        "description": "Kiểm tra các vấn đề về phổi có thể liên quan hoặc gây nhiễm toan ceton"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Kiểm tra hoạt động điện của tim"
+      },
+      {
+        "name": "Khí huyết động mạch",
+        "description": "Đánh giá tình trạng trao đổi khí và cân bằng axit-bazơ"
+      },
+      {
+        "name": "Xét nghiệm dấu hiệu nhiễm trùng",
+        "description": "Kiểm tra các chỉ số nhiễm trùng có thể là nguyên nhân gây nhiễm toan ceton"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Người bệnh nhiễm toan ceton sẽ được điều trị tại phòng cấp cứu hoặc nhập viện. Điều trị cần được thực hiện ngay để giảm nguy cơ biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Bù dịch",
+        "description": "Thay thế chất lỏng đã mất do đi tiểu thường xuyên và làm loãng lượng đường dư thừa trong máu. Dịch có thể được cung cấp thông qua miệng hoặc tĩnh mạch."
+      },
+      {
+        "name": "Thay thế chất điện giải",
+        "description": "Bổ sung các khoáng chất trong máu như natri, kali, clorua mang điện tích, giúp tim, cơ và tế bào thần kinh hoạt động bình thường."
+      },
+      {
+        "name": "Truyền Insulin",
+        "description": "Insulin được cung cấp thông qua tĩnh mạch để đảo ngược các điều kiện gây ra nhiễm toan ceton. Có thể trở lại điều trị insulin thông thường khi lượng đường trong máu giảm xuống khoảng 200mg/dL và máu không còn tính axit."
+      },
+      {
+        "name": "Điều trị bệnh nền",
+        "description": "Dùng thuốc cho bất kỳ căn bệnh tiềm ẩn nào gây ra nhiễm toan ceton, như thuốc kháng sinh để điều trị nhiễm trùng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Luôn theo dõi chặt chẽ lượng đường trong máu",
+      "Uống nhiều nước khi bị ốm",
+      "Dùng thuốc tiểu đường hoặc insulin theo chỉ dẫn của bác sĩ",
+      "Trao đổi với bác sĩ về cách điều chỉnh liều lượng insulin khi cần thiết",
+      "Tái khám theo lịch hẹn",
+      "Liên hệ bác sĩ ngay khi có dấu hiệu của nhiễm toan ceton"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +155,61 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Quản lý bệnh tiểu đường: duy trì ăn uống lành mạnh và hoạt động thể chất đều đặn hàng ngày",
+      "Dùng thuốc tiểu đường hoặc insulin theo chỉ dẫn của bác sĩ",
+      "Theo dõi lượng đường trong máu: kiểm tra và ghi lại lượng đường trong máu ít nhất 3–4 lần/ngày và thường xuyên hơn nếu đang bệnh hoặc căng thẳng",
+      "Điều chỉnh liều lượng insulin khi cần thiết: trao đổi với bác sĩ về việc điều chỉnh liều lượng insulin phù hợp",
+      "Chuẩn bị để hành động nhanh chóng nếu nghi ngờ bị nhiễm toan ceton",
+      "Đảm bảo luôn có insulin dự phòng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhiễm toan ceton có nguy hiểm không?",
+      "answer": "Có, nhiễm toan ceton là biến chứng nghiêm trọng có thể đe dọa tính mạng nếu không được phát hiện và điều trị nhanh chóng. Khi tình trạng này xảy ra, các chất ceton tích tụ trong cơ thể có thể gây ra nhiều biến chứng nguy hiểm như mất nước nghiêm trọng, rối loạn điện giải, tổn thương não, suy thận và thậm chí tử vong nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Làm thế nào để phát hiện nhiễm toan ceton?",
+      "answer": "Nhiễm toan ceton có thể được phát hiện thông qua các triệu chứng như khát nước, đi tiểu thường xuyên, thở nhanh và sâu, da và miệng khô, mặt đỏ bừng, hơi thở có mùi trái cây, đau đầu, cứng cơ, mệt mỏi, buồn nôn và nôn, đau bụng. Tuy nhiên, cách chắc chắn nhất là kiểm tra ceton khi lượng đường trong máu trên 250mg/dL hoặc khi có các triệu chứng kể trên. Nên đến bệnh viện ngay để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Ai có nguy cơ cao bị nhiễm toan ceton?",
+      "answer": "Những người có nguy cơ cao bị nhiễm toan ceton bao gồm: người bị đái tháo đường tuýp 1, người thường bỏ lỡ liều insulin, người mắc bệnh khác (đặc biệt là viêm phổi hoặc nhiễm trùng đường tiết niệu), người bị đau tim hoặc đột quỵ, người trải qua chấn thương thể chất hoặc tinh thần, người lạm dụng rượu hoặc ma túy, người sử dụng một số loại thuốc như thuốc lợi tiểu hoặc corticosteroid, người bị viêm tụy, phụ nữ mang thai, và đôi khi là người bị đái tháo đường tuýp 2."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khát nước và đi tiểu thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiem-toan-ceton", "dai-thao-duong", "tieu-duong"]
+    },
+    {
+      "question": "Tôi đang cảm thấy thở nhanh và sâu, kèm theo da và miệng khô. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhiem-toan-ceton", "mat-nuoc", "soc-nhiem-trung"]
+    },
+    {
+      "question": "Tôi hay bị mặt đỏ bừng và hơi thở có mùi trái cây. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-toan-ceton",
+        "roi-loan-chuyen-hoa",
+        "dai-thao-duong"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như lượng đường trong máu cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-toan-ceton",
+        "dai-thao-duong",
+        "roi-loan-noi-tiet"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lú lẫn và mất phương hướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-toan-ceton",
+        "ha-duong-huyet",
+        "roi-loan-dien-giai"
+      ]
     }
   ]
 }

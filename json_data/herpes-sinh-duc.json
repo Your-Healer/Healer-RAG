@@ -1,58 +1,152 @@
 {
   "disease_id": "herpes-sinh-duc",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Herpes sinh dục",
+  "disease_alternative_names": ["Mụn rộp sinh dục", "Genital Herpes"],
+  "disease_definition": "Herpes sinh dục là bệnh truyền nhiễm lây qua đường tình dục do virus Herpes Simplex (HSV) gây ra. Bệnh gây bùng phát mụn nước hoặc vết loét trên bộ phận sinh dục và hậu môn. Bệnh thường tái phát/tái nhiễm thành nhiều đợt trong suốt cuộc đời, nhất là khi sức đề kháng giảm (lo lắng, mất ngủ, ăn uống không đủ chất).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mụn rộp ở bộ phận sinh dục",
+      "description": "Ở nam giới, mụn rộp xuất hiện trên dương vật, bìu, mông, vùng da xung quanh hoặc gần hậu môn. Ở nữ giới, mụn nước xuất hiện ở vùng âm đạo, hậu môn, mông hoặc các vùng da lân cận."
+    },
+    {
+      "name": "Mụn rộp ở vùng miệng và mặt",
+      "description": "Mụn rộp có thể xuất hiện trong miệng, trên môi, mặt và bất kỳ nơi nào khác tiếp xúc với vùng da nhiễm bệnh."
+    },
+    {
+      "name": "Cảm giác ngứa hoặc ngứa ran",
+      "description": "Khu vực nhiễm bệnh thường bắt đầu ngứa hoặc ngứa ran trước khi mụn nước thực sự xuất hiện."
+    },
+    {
+      "name": "Vết loét hở",
+      "description": "Các mụn nước vỡ tạo thành vết loét hở và chảy dịch, sau đó một lớp vảy xuất hiện tại vị trí vết loét trong vòng một tuần sau khi bùng phát."
+    },
+    {
+      "name": "Sưng hạch bạch huyết",
+      "description": "Các tuyến bạch huyết bị sưng lên, đặc biệt là ở vùng bẹn."
+    },
+    {
+      "name": "Triệu chứng giống cúm",
+      "description": "Bệnh gây đau đầu, đau nhức cơ thể và sốt, đặc biệt trong lần bùng phát đầu tiên."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Herpes sinh dục lây lan qua tiếp xúc da kề da với người có virus HSV, thường do quan hệ tình dục bằng đường sinh dục hoặc đường miệng.",
+    "related_factors": "Có 2 loại HSV, cả 2 loại virus này đều ảnh hưởng đến môi, miệng, bộ phận sinh dục hoặc hậu môn. HSV-1 thường gây ra vết loét lạnh trên môi hoặc mặt. HSV-2 thường gây ra mụn rộp ở bộ phận sinh dục.",
+    "transmission_routes": [
+      "Quan hệ tình dục qua đường dương vật – âm đạo",
+      "Quan hệ tình dục qua đường hậu môn",
+      "Quan hệ tình dục bằng miệng",
+      "Tiếp xúc da kề da với người nhiễm bệnh",
+      "Tiếp xúc với dịch tiết cơ thể chứa virus (tinh dịch, nước bọt, dịch tiết âm đạo)"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiếp xúc với bộ phận sinh dục qua quan hệ tình dục bằng miệng, âm đạo hoặc hậu môn không sử dụng biện pháp an toàn",
+    "Phụ nữ có nguy cơ mắc mụn rộp sinh dục cao hơn nam giới",
+    "Virus lây lan dễ dàng hơn từ nam sang nữ hơn từ nữ sang nam",
+    "Quan hệ tình dục với nhiều đối tác",
+    "Có bạn tình mắc bệnh mụn rộp sinh dục nhưng không dùng thuốc điều trị",
+    "Suy giảm hệ miễn dịch"
+  ],
+  "complications": [
+    "Tái phát nhiều lần trong đời",
+    "Rối loạn tâm lý, tự ti",
+    "Tăng nguy cơ lây nhiễm HIV",
+    "Nguy cơ cao cho phụ nữ mang thai: có thể gây sinh non, thai nhi bị nhiễm trùng hoặc chết trong bụng mẹ",
+    "Biến chứng nguy hiểm cho trẻ sơ sinh: mù lòa, tổn thương não, tử vong nếu lây nhiễm trong quá trình sinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng - kiểm tra trực quan các sang thương da",
+      "Xét nghiệm trong phòng thí nghiệm"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm PCR HSV",
+        "description": "Kiểm tra trong phòng thí nghiệm để xác nhận chẩn đoán bằng cách phát hiện DNA của virus HSV."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Có thể chẩn đoán HSV trước khi bùng phát bằng cách phát hiện kháng thể chống lại HSV-1 hoặc HSV-2."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Herpes sinh dục không thể chữa khỏi hoàn toàn do virus Herpes có xu hướng trốn (ngủ) ở các hạch thần kinh. Tuy nhiên, có thể kiểm soát các triệu chứng bằng thuốc kháng virus.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng virus",
+        "description": "Giúp đẩy nhanh thời gian chữa lành vết loét và giảm đau. Thuốc được dùng khi có dấu hiệu bùng phát đầu tiên (ngứa và các triệu chứng khác). Với những người tái phát thường xuyên, bác sĩ có thể kê đơn thuốc để giảm khả năng bùng phát trong tương lai."
+      },
+      {
+        "name": "Chăm sóc tại nhà",
+        "description": "Tắm trong nước ấm và sử dụng chất tẩy rửa nhẹ, giữ cho khu vực nổi mụn rộp sạch sẽ và khô ráo, mặc quần áo cotton rộng rãi để giúp cơ thể thoải mái hơn."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tắm trong nước ấm và sử dụng chất tẩy rửa nhẹ",
+      "Giữ cho khu vực nổi mụn rộp sạch sẽ và khô ráo",
+      "Mặc quần áo cotton rộng rãi",
+      "Dùng thuốc đúng liều lượng và thời gian theo chỉ định của bác sĩ",
+      "Tránh quan hệ tình dục khi đang có triệu chứng để tránh lây nhiễm cho người khác"
+    ],
+    "prevention_of_transmission": [
+      "Không quan hệ tình dục khi đang có triệu chứng mụn rộp",
+      "Sử dụng bao cao su và tấm chắn miệng (dental dams) khi quan hệ tình dục",
+      "Thông báo cho bạn tình về tình trạng nhiễm HSV"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Sử dụng các phương pháp bảo vệ khi quan hệ tình dục như bao cao su, tấm chắn miệng (dental dams)",
+      "Không quan hệ tình dục với người đang có triệu chứng mụn rộp",
+      "Hạn chế số lượng bạn tình, chung thủy với đối tác",
+      "Trao đổi với bạn tình về tình trạng sức khỏe tình dục",
+      "Thực hiện xét nghiệm sàng lọc các bệnh lây truyền qua đường tình dục định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nên làm gì khi phát hiện nhiễm Herpes sinh dục trong quá trình mang thai?",
+      "answer": "Nếu phát hiện nhiễm Herpes sinh dục trong quá trình mang thai, cần trao đổi thẳng thắn với bác sĩ điều trị để được tư vấn, áp dụng các biện pháp phòng ngừa nhằm ngăn chặn virus lây truyền sang thai nhi. Nếu người mẹ có mụn rộp dọc theo đường sinh, các bác sĩ đề xuất phương pháp sinh mổ thay vì sinh thường qua đường âm đạo."
+    },
+    {
+      "question": "Điều gì xảy ra nếu Herpes sinh dục không được điều trị?",
+      "answer": "Mụn rộp sinh dục không quá nguy hiểm với người trưởng thành. Trong một số ít trường hợp, Herpes sinh dục có thể gây ra các biến chứng, tuy nhiên tình trạng này sẽ không trầm trọng thêm theo thời gian. Tuy nhiên, tình trạng bệnh kéo dài gây đau đớn, khiến người bệnh cảm thấy tự ti. Các phương pháp điều trị bằng thuốc kháng virus giúp giảm các triệu chứng và mức độ nghiêm trọng của các đợt bùng phát."
+    },
+    {
+      "question": "Herpes sinh dục phổ biến như thế nào?",
+      "answer": "Mụn rộp sinh dục khá phổ biến. Tổ chức Y tế thế giới (WHO) ước tính có 491,5 triệu người nhiễm HSV-2 vào năm 2016, chiếm hơn 1/10 dân số thế giới trong độ tuổi từ 15 – 49. WHO cũng ước tính rằng 3,7 tỷ người nhiễm HSV-1 trong cùng năm, chiếm khoảng 2/3 dân số thế giới dưới 50 tuổi."
+    },
+    {
+      "question": "Herpes sinh dục lây truyền như thế nào?",
+      "answer": "Herpes sinh dục lây truyền chủ yếu qua quan hệ tình dục không an toàn, gồm quan hệ tình dục qua đường dương vật – âm đạo, quan hệ tình dục qua đường hậu môn, quan hệ tình dục bằng miệng, và bất kỳ hoạt động nào khác liên quan đến sự tiếp xúc giữa các bộ phận sinh dục. Virus HSV thường lây truyền qua tiếp xúc da kề da, nhưng virus này cũng được tìm thấy trong tinh dịch, nước bọt và dịch tiết âm đạo của người bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mụn rộp ở vùng âm đạo và đau nhức cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["herpes-sinh-duc", "viem-am-dao", "giang-mai"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ran ở vùng da xung quanh hậu môn và xuất hiện mụn nước. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["herpes-sinh-duc", "sui-mao-ga", "chung-nam-hau-mon"]
+    },
+    {
+      "question": "Tôi hay bị sốt và sưng hạch bạch huyết ở vùng bẹn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["herpes-sinh-duc", "hiv", "giang-mai"]
+    },
+    {
+      "question": "Tôi đang có mụn rộp trên dương vật và mông. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["herpes-sinh-duc", "sui-mao-ga", "viem-bao-quy-dau"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ngáy ở vùng kín và xuất hiện mụn nước. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["herpes-sinh-duc", "nam-candida", "viem-am-dao"]
     }
   ]
 }

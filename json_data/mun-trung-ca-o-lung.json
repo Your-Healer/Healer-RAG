@@ -1,39 +1,96 @@
 {
   "disease_id": "mun-trung-ca-o-lung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn trứng cá ở lưng",
+  "disease_alternative_names": ["Mụn lưng", "Bacne"],
+  "disease_definition": "Mụn trứng cá ở lưng là những mụn trứng cá hình thành và phát triển ở vùng lưng, chủ yếu là vùng lưng trên, đôi khi có cả ở cánh tay. Cũng giống như mụn trứng cá ở nhiều vị trí khác trên cơ thể, mụn trứng cá trên lưng có thể là mụn đầu đen, mụn đầu trắng, mụn thịt hoặc u nang.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nổi mụn dọc theo vai và lưng trên",
+      "description": "Biểu hiện thường thấy là nổi mụn trứng cá dọc theo vai và vùng lưng trên, có thể lan xuống vùng thắt lưng theo thời gian."
+    },
+    {
+      "name": "Đa dạng loại mụn",
+      "description": "Có thể xuất hiện nhiều loại mụn trứng cá cùng một lúc như mụn đầu đen, mụn đầu trắng, mụn thịt hoặc u nang."
+    },
+    {
+      "name": "Mụn mọc riêng lẻ hoặc thành cụm",
+      "description": "Mụn có thể mọc riêng lẻ hoặc phát triển thành từng cụm gây đau nhức và khó chịu."
+    },
+    {
+      "name": "Viêm và đỏ da",
+      "description": "Trong giai đoạn trung bình và nặng, da có thể bị viêm, đỏ và sưng tấy xung quanh các nốt mụn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Cơ chế hình thành mụn trứng cá ở lưng cũng từ bã nhờn và tế bào chết tích tụ gây bít tắc nang lông.",
+    "related_factors": "Các nguyên nhân chính gây mụn ở lưng bao gồm rối loạn nội tiết tố, hoạt động quá mức của tuyến mồ hôi, vệ sinh kém, quần áo bó quá sát, không tắm sau khi đổ mồ hôi, sử dụng sản phẩm không phù hợp.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi dậy thì và thay đổi nội tiết tố",
+    "Mang thai hoặc trong thời kỳ kinh nguyệt",
+    "Vệ sinh cơ thể không sạch sẽ",
+    "Mặc quần áo bó sát, không thông thoáng",
+    "Không tắm sau khi hoạt động đổ nhiều mồ hôi",
+    "Sử dụng mỹ phẩm không phù hợp",
+    "Di truyền",
+    "Giới tính nam (thường dễ bị mụn nhiều hơn nữ)",
+    "Chế độ ăn nhiều đồ ngọt hoặc thực phẩm bơ sữa",
+    "Thừa cân, béo phì",
+    "Stress và căng thẳng",
+    "Tiếp xúc nhiều với ánh nắng mặt trời",
+    "Lạm dụng bia rượu và chất kích thích"
+  ],
+  "complications": [
+    "Mất thẩm mỹ với những vết sưng đỏ",
+    "Để lại vết thâm mụn và sẹo",
+    "Gây ngứa ngáy, khó chịu, đau nhức khi nằm",
+    "Có thể gây nhiễm trùng da và kéo dài thời gian điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và quan sát trực tiếp vùng da bị mụn",
+      "Xác định mức độ nghiêm trọng của mụn qua các giai đoạn phát triển"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám da liễu",
+        "description": "Bác sĩ sẽ kiểm tra vùng da bị mụn và xác định loại mụn, mức độ viêm và giai đoạn phát triển của mụn"
+      },
+      {
+        "name": "Tìm nguyên nhân sâu xa",
+        "description": "Trong trường hợp mụn nặng, bác sĩ có thể tìm nguyên nhân như rối loạn nội tiết hoặc kiểm tra chức năng gan, thận"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hầu hết các trường hợp mụn trứng cá lưng nếu ở mức độ nhẹ hoặc trung bình thì có thể loại bỏ được bằng cách thay đổi lối sống kết hợp với một số phương pháp điều trị tại nhà.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Giữ vệ sinh cơ thể",
+        "description": "Tắm rửa sạch sau khi vận động, tập thể thao hay hoạt động đổ nhiều mồ hôi để loại bỏ bụi bẩn, mồ hôi, vi khuẩn giúp thông thoáng nang lông."
+      },
+      {
+        "name": "Tẩy tế bào chết",
+        "description": "Sử dụng các sản phẩm tẩy tế bào chết có thành phần axit salicylic giúp loại bỏ chất bẩn, dầu thừa và da chết hiệu quả, nên thực hiện 2-3 lần/tuần."
+      },
+      {
+        "name": "Dùng thuốc không kê đơn",
+        "description": "Sử dụng các sản phẩm có Benzoyl peroxide và Retinoid (gel adapalene 0,1%) để kiểm soát mụn và ngăn ngừa tái phát."
+      },
+      {
+        "name": "Điều trị y tế chuyên sâu",
+        "description": "Đối với tình trạng nặng, cần tham khảo ý kiến bác sĩ da liễu để có phương pháp điều trị phù hợp như thuốc kháng sinh, retinoids hoặc các thủ thuật điều trị khác."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Mặc quần áo rộng rãi, chất liệu thông thoáng",
+      "Chọn đúng kem chống nắng không chứa dầu, lành tính cho da",
+      "Dưỡng ẩm với sản phẩm không gây mụn và không chứa hương liệu",
+      "Không nặn mụn để tránh tổn thương và lây nhiễm vi khuẩn",
+      "Giặt quần áo bẩn và phơi khô càng sớm càng tốt",
+      "Thay ga trải giường, vỏ gối thường xuyên"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +98,64 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Áp dụng chế độ ăn uống lành mạnh, hạn chế thực phẩm có chỉ số đường huyết cao",
+      "Bổ sung nhiều rau xanh, trái cây, thịt nạc và ngũ cốc nguyên hạt",
+      "Ngủ đủ giấc và giữ tinh thần thoải mái",
+      "Uống đủ nước và bổ sung vitamin/khoáng chất cần thiết",
+      "Vận động thể chất thường xuyên",
+      "Giữ vệ sinh cơ thể sạch sẽ",
+      "Tránh mặc quần áo bó sát hoặc xõa tóc xuống lưng",
+      "Sử dụng các sản phẩm dưỡng da không gây dị ứng",
+      "Luôn dùng kem chống nắng khi ra ngoài"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn trứng cá ở lưng có nguy hiểm không?",
+      "answer": "Mụn trứng cá ở lưng thường không gây nguy hiểm đến sức khỏe, nhưng có thể ảnh hưởng đến sinh hoạt hằng ngày. Nó có thể gây mất thẩm mỹ, để lại vết thâm và sẹo, gây ngứa ngáy, khó chịu, đau nhức khi nằm hoặc ma sát. Ở mức độ nghiêm trọng, mụn có thể gây nhiễm trùng da khiến thời gian điều trị kéo dài."
+    },
+    {
+      "question": "Làm thế nào để điều trị mụn trứng cá ở lưng tại nhà?",
+      "answer": "Để điều trị mụn lưng tại nhà, bạn nên: giữ vệ sinh cơ thể thường xuyên, tẩy tế bào chết 2-3 lần/tuần với sản phẩm có axit salicylic, mặc quần áo rộng rãi và thoáng khí, chọn đúng kem chống nắng không chứa dầu, dưỡng ẩm với sản phẩm không gây mụn, và sử dụng thuốc không kê đơn có thành phần Benzoyl peroxide hoặc Retinoid theo chỉ dẫn."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ về mụn trứng cá ở lưng?",
+      "answer": "Bạn nên đến gặp bác sĩ da liễu khi: mụn ở mức độ nặng với nhiều mụn bọc hoặc mụn nang, mụn thường xuyên tái phát hoặc không đáp ứng với các cách điều trị tại nhà, vùng da mụn có dấu hiệu viêm sưng tấy nặng hoặc nhiễm trùng. Trong một số trường hợp, mụn nổi quá nhiều có thể là dấu hiệu của vấn đề sức khỏe khác như rối loạn nội tiết hoặc suy giảm chức năng gan, thận."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nổi mụn trứng cá dọc theo vai và vùng lưng trên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-trung-ca-o-lung",
+        "viem-nang-long",
+        "viem-da-dau-mo"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mụn lan xuống vùng thắt lưng và phát triển thành từng cụm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca-o-lung", "viem-nang-long", "viem-da"]
+    },
+    {
+      "question": "Tôi hay bị mụn trứng cá ở lưng gây đau nhức, có cả mụn đầu đen, mụn mủ và u nang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-trung-ca-o-lung",
+        "mun-trung-ca",
+        "viem-nang-long"
+      ]
+    },
+    {
+      "question": "Tôi có mụn mọc riêng lẻ ở vùng lưng trên, gây ngứa và khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca-o-lung", "viem-nang-long", "viem-da"]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng mụn trứng cá tập trung nhiều ở vùng vai, gây mất thẩm mỹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-trung-ca-o-lung",
+        "mun-trung-ca",
+        "roi-loan-noi-tiet"
+      ]
     }
   ]
 }

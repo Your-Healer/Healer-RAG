@@ -1,39 +1,93 @@
 {
   "disease_id": "hat-xo-day-thanh-quan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hạt xơ dây thanh quản",
+  "disease_alternative_names": ["U xơ dây thanh quản"],
+  "disease_definition": "Hạt xơ dây thanh quản là tình trạng xuất hiện các hạt xơ nhỏ ở hai bên dây thanh. Chúng thường có chân rộng, nằm ở ⅓ giữa dây thanh, kích thước tương tự và thường mọc đối xứng nhau. Bệnh lý dây thanh này thường xuất hiện ở những ngành nghề đòi hỏi sử dụng giọng nói nhiều với tần suất và cường độ lớn, nhất là ca sĩ, giáo viên, người dẫn chương trình, người bán hàng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khàn giọng",
+      "description": "Sự xuất hiện của các hạt xơ ở hai bên dây thanh làm cho dây thanh không thể khép kín và rung không đều khi phát âm, gây ra tình trạng khàn tiếng hoặc mất tiếng."
+    },
+    {
+      "name": "Hụt hơi khi nói",
+      "description": "Cảm thấy mệt khi nói, khó phát âm, nói không ra tiếng hoặc nói không rõ, đặc biệt khi phải nói nhiều hoặc lâu."
+    },
+    {
+      "name": "Cảm giác vướng víu trong cổ họng",
+      "description": "Cảm giác có dị vật hoặc khó chịu trong cổ họng, nhất là khi nuốt hoặc nói."
+    },
+    {
+      "name": "Cổ họng sưng đau",
+      "description": "Tình trạng đau họng và sưng tấy, đặc biệt khi người bệnh la hét, ca hát hay nuốt thức ăn."
+    },
+    {
+      "name": "Ho khan hoặc ho có đờm",
+      "description": "Các cơn ho xuất hiện khi nói nhiều, đặc biệt sau khi dùng giọng quá sức."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sử dụng giọng nói liên tục, làm cho các niêm mạc không còn khả năng co hồi, các mô tăng sinh dẫn tới sự xuất hiện của các hạt xơ, u xơ ở dây thanh.",
+    "related_factors": "Viêm thanh quản, viêm họng, viêm xoang mạn tính mà chưa được điều trị dứt điểm. Thường xuyên sử dụng rượu, bia và các chất kích thích. Trào ngược dạ dày thực quản, trào ngược họng-thanh quản kéo dài.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Ngành nghề đòi hỏi sử dụng giọng nói nhiều (ca sĩ, giáo viên, người dẫn chương trình, người bán hàng)",
+    "Thói quen sử dụng giọng không đúng cách (la hét, gằn giọng, nói liên tục)",
+    "Viêm thanh quản, viêm họng mạn tính",
+    "Thường xuyên sử dụng rượu, bia và các chất kích thích",
+    "Trào ngược dạ dày thực quản kéo dài",
+    "Nữ giới có nguy cơ cao hơn nam giới",
+    "Môi trường có khói, bụi hoặc hóa chất"
+  ],
+  "complications": [
+    "Khàn tiếng, mất tiếng kéo dài",
+    "Viêm thanh quản mạn tính",
+    "Xuất huyết thanh quản",
+    "Biến chứng trên đường thở",
+    "Ảnh hưởng đến khả năng giao tiếp",
+    "Ung thư thanh quản (rất hiếm gặp)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Nội soi thanh quản",
+      "Đánh giá giọng nói"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi thanh quản",
+        "description": "Phát hiện hạt xơ ở hai bên dây thanh, thường đối xứng, nằm ở vị trí 1/3 giữa dây thanh. Quan sát thấy thanh môn không khép chặt khi phát âm, hai dây thanh tạo thành hình thoi hoặc hình chữ V."
+      },
+      {
+        "name": "Đánh giá chức năng giọng nói",
+        "description": "Xác định mức độ khàn tiếng, thay đổi giọng nói và ảnh hưởng đến khả năng giao tiếp của người bệnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị hạt xơ dây thanh quản càng sớm càng tốt để khắc phục các triệu chứng và ngăn ngừa biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc kháng viêm, giảm đau và kháng sinh khi cần thiết. Bệnh nhân cần hạn chế sử dụng giọng nói hay nghỉ giọng, súc miệng và cổ họng thường xuyên bằng nước muối sinh lý."
+      },
+      {
+        "name": "Phẫu thuật nội soi vi phẫu thanh quản",
+        "description": "Áp dụng khi điều trị nội khoa không hiệu quả hoặc kích thước u xơ quá lớn. Phẫu thuật nội soi là phương pháp ít xâm lấn, ít đau, hiệu quả cao, giúp người bệnh nhanh hồi phục."
+      },
+      {
+        "name": "Luyện giọng",
+        "description": "Tập các bài tập luyện giọng theo chỉ dẫn của bác sĩ để cải thiện chất lượng giọng nói và giúp dây thanh hồi phục tốt hơn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế sử dụng giọng nói trong thời gian điều trị và phục hồi",
+      "Sử dụng thiết bị trợ âm (micro, loa) khi cần nói nhiều",
+      "Uống đủ nước để không bị khô cổ họng",
+      "Tránh uống nước đá lạnh hay sử dụng các chất kích thích",
+      "Hạn chế tiếp xúc với khói bụi, hóa chất hay khói thuốc lá",
+      "Tuân thủ lịch tái khám và hướng dẫn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +95,73 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không sử dụng giọng nói quá mức như ca hát, la hét, gằn giọng",
+      "Sử dụng thiết bị hỗ trợ như micro, loa cho công việc phải nói nhiều",
+      "Thả lỏng cơ vùng cổ, trùng cổ xuống khi nói",
+      "Thường xuyên vệ sinh sạch sẽ vùng họng, miệng",
+      "Không uống nhiều bia rượu, không hút thuốc lá",
+      "Hạn chế tiếp xúc với khói bụi hay môi trường ô nhiễm",
+      "Đeo khẩu trang khi làm việc trong môi trường có chất độc hại",
+      "Duy trì chế độ ăn uống lành mạnh, uống đủ nước",
+      "Hạn chế tiếp xúc với người mắc bệnh hô hấp",
+      "Điều trị bệnh lý trào ngược dạ dày thực quản nếu có"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khám và điều trị hạt xơ dây thanh quản ở đâu?",
+      "answer": "Khi xuất hiện các triệu chứng khàn tiếng kéo dài, nói mệt hụt hơi của hạt xơ dây thanh, người bệnh có thể đến khám tại bất kỳ cơ sở y tế nào có chuyên khoa Tai Mũi Họng để các bác sĩ kiểm tra, phát hiện bệnh từ sớm và điều trị kịp thời, tránh các biến chứng khó lường."
+    },
+    {
+      "question": "Hạt xơ dây thanh quản ở trẻ em có nguy hiểm không?",
+      "answer": "Không chỉ người lớn mà trẻ em cũng có khả năng mắc hạt xơ dây thanh nếu sử dụng giọng nói quá mức. Tuy bệnh lý này không gây nguy hiểm đến tính mạng nhưng nếu không điều trị từ sớm, các triệu chứng của bệnh như khàn tiếng, mất tiếng, hụt hơi có thể ảnh hưởng nhiều đến đời sống sinh hoạt và quá trình học tập của trẻ. Một số trường hợp hạt xơ dây thanh quản ở trẻ em khiến cổ họng bị sưng to, đau rát khi nuốt thức ăn, dẫn đến tình trạng biếng ăn, ảnh hưởng đến thể chất và trí tuệ của trẻ."
+    },
+    {
+      "question": "Có nên mổ hạt xơ dây thanh quản không?",
+      "answer": "Tùy thuộc vào mức độ nghiêm trọng của hạt xơ dây thanh mà bác sĩ sẽ đưa ra hướng điều trị phù hợp. Đối với những trường hợp nhẹ, có thể áp dụng phương pháp điều trị nội khoa bằng cách dùng các loại thuốc làm giảm sự phát triển của các hạt xơ. Khi phương pháp này không có hiệu quả thì mới tiến hành cắt bỏ hạt xơ dây thanh quản. Tuy nhiên, để biết chính xác trường hợp nào cần mổ hạt xơ dây thanh quản, người bệnh cần tham khảo ý kiến của bác sĩ chuyên khoa."
+    },
+    {
+      "question": "Hạt xơ dây thanh quản có nguy hiểm không?",
+      "answer": "Hạt xơ dây thanh quản là một tổn thương thanh quản mạn tính và lành tính, tỉ lệ biến chứng thành ung thư thanh quản rất hiếm gặp. Tuy nhiên, bệnh có thể gây ra các ảnh hưởng như khàn tiếng, hụt hơi, viêm thanh quản, cổ họng sưng đau, gây khó khăn cho quá trình giao tiếp xã hội hàng ngày. Nếu không điều trị kịp thời, các hạt xơ trú ngụ lâu ngày ở hai bên dây thanh là điều kiện thuận lợi cho vi khuẩn tấn công, làm tăng nguy cơ viêm thanh quản cấp tính."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang bị khàn tiếng và mất tiếng, đôi khi có cảm giác vướng víu ở cổ họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hat-xo-day-thanh-quan",
+        "viem-thanh-quan",
+        "viem-hong"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy giọng nói bị thay đổi, khàn đặc và khó nói to. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hat-xo-day-thanh-quan",
+        "viem-thanh-quan",
+        "ung-thu-thanh-quan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khàn tiếng kéo dài, đặc biệt là sau khi nói nhiều hoặc hát karaoke. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hat-xo-day-thanh-quan",
+        "viem-thanh-quan",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khàn tiếng, mất tiếng và ho khan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hat-xo-day-thanh-quan",
+        "viem-thanh-quan",
+        "viem-phoi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy giọng nói bị yếu đi, nói chuyện nhanh mệt và hay bị hụt hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hat-xo-day-thanh-quan", "hen-suyen", "suy-tim"]
     }
   ]
 }

@@ -1,39 +1,115 @@
 {
   "disease_id": "hau-mon-bi-sung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hậu môn bị sưng",
+  "disease_alternative_names": ["Sưng hậu môn", "Phù nề hậu môn"],
+  "disease_definition": "Hậu môn bị sưng là tình trạng một hoặc cả hai bên hậu môn bị sưng, kèm theo những cảm giác nóng rát gây khó chịu cho người bệnh. Đây là một loại bệnh lý thuộc hệ tiêu hóa, do đa dạng nguyên nhân gây ra, trong đó có nhiễm trùng hậu môn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Một hoặc hai bên hậu môn bị sưng",
+      "description": "Tình trạng sưng phù có thể xảy ra ở một bên hoặc cả hai bên hậu môn, tùy thuộc vào nguyên nhân."
+    },
+    {
+      "name": "Cảm giác ấm hoặc đau buốt khi đi vệ sinh",
+      "description": "Người bệnh cảm thấy đau rát, bỏng bụng khi đại tiện, đặc biệt là khi phân cứng."
+    },
+    {
+      "name": "Cảm giác bỏng rát ở hậu môn",
+      "description": "Cảm giác nóng rát, khó chịu ở vùng hậu môn, đặc biệt là sau khi đi vệ sinh."
+    },
+    {
+      "name": "Ngứa hậu môn",
+      "description": "Cảm giác ngứa ngáy khó chịu ở vùng hậu môn, thường làm tăng sự khó chịu cho người bệnh."
+    },
+    {
+      "name": "Xuất hiện các cơn đau dữ dội",
+      "description": "Đau dữ dội có thể xuất hiện ở vùng hậu môn, nhất là khi người bệnh bị áp xe hậu môn."
+    },
+    {
+      "name": "Tiết dịch hậu môn",
+      "description": "Có thể thấy dịch tiết ra từ hậu môn, trong một số trường hợp còn có máu và mủ lẫn trong dịch."
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt thường là dấu hiệu của nhiễm trùng, đặc biệt xuất hiện khi người bệnh bị áp xe hậu môn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hậu môn bị sưng có thể bị gây ra bởi rất nhiều lý do khác nhau. Phổ biến nhất là những nguyên nhân đến từ các bệnh lý hậu môn khác như nứt kẽ hậu môn, trĩ, áp xe hậu môn, viêm nhiễm hậu môn.",
+    "related_factors": "Các yếu tố có thể gây hậu môn bị sưng bao gồm phân cứng, khó đào thải, tiêu chảy, hội chứng ruột kích thích, nhiễm trùng, ăn thức ăn cay nóng, và quan hệ tình dục qua đường hậu môn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thói quen vệ sinh hậu môn không đúng cách",
+    "Táo bón hoặc tiêu chảy kéo dài",
+    "Ăn thức ăn cay nóng, kích thích",
+    "Uống nhiều rượu bia",
+    "Quan hệ tình dục qua đường hậu môn",
+    "Mắc các bệnh lý về đường tiêu hóa như viêm đại tràng",
+    "Mắc các bệnh lý như bệnh Crohn",
+    "Nhiễm trùng hậu môn"
+  ],
+  "complications": [
+    "Nhiễm trùng lan rộng",
+    "Áp xe hậu môn",
+    "Rò hậu môn",
+    "Chảy máu kéo dài",
+    "Đau mạn tính",
+    "Hẹp hậu môn",
+    "Tái phát trở lại nếu không điều trị triệt để"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám lâm sàng", "Kiểm tra ống hậu môn"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Soi hậu môn",
+        "description": "Bác sĩ sử dụng công cụ nội soi có gắn camera chuyên biệt để đưa vào bên trong hậu môn của người bệnh và kiểm tra tình trạng thành niêm mạc và các mô, dây thần kinh ở bên trong hậu môn."
+      },
+      {
+        "name": "Soi đại tràng sigma",
+        "description": "Bác sĩ đưa một ống soi mềm vào cơ thể người bệnh thông qua đường hậu môn để kiểm tra trực tràng và hậu môn. Thường được chỉ định cho trường hợp có đau bụng dữ dội và chảy máu nặng."
+      },
+      {
+        "name": "Nội soi đại tràng",
+        "description": "Ống mềm nội soi dài hơn được đưa sâu vào bên trong trực tràng và ruột kết để kiểm tra khi nghi ngờ có khối u hoặc tế bào ung thư."
+      },
+      {
+        "name": "Siêu âm lòng hậu môn",
+        "description": "Giúp chẩn đoán áp xe hậu môn là nguyên nhân gây sưng quanh hậu môn."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Cách điều trị hiệu quả nhất là điều trị bệnh gốc, nguyên nhân chính gây ra sưng hậu môn. Tùy vào từng dấu hiệu lâm sàng, bệnh lý về hậu môn ở mỗi người bệnh mà bác sĩ sẽ đưa ra những phác đồ điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị viêm hậu môn",
+        "description": "Sử dụng thuốc làm mềm phân, thuốc chống viêm hoặc kháng sinh. Kết hợp với chế độ ăn thanh đạm, hạn chế tối đa các thực phẩm gây kích ứng tiêu hóa và tăng cường chất xơ trong mỗi khẩu phần ăn."
+      },
+      {
+        "name": "Điều trị nứt kẽ hậu môn",
+        "description": "Tiêm Botulinum Toxin A vào cơ vòng trong hoặc vị trí có vết nứt. Trường hợp nặng cần phẫu thuật cắt cơ thắt trong hậu môn với tỷ lệ thành công lên đến 98%."
+      },
+      {
+        "name": "Điều trị bệnh trĩ",
+        "description": "Sử dụng thuốc bôi ngoài da, đốt laser, tiêm xơ, thủ thuật thắt chun, phẫu thuật lông hoặc phẫu thuật doppler tùy theo mức độ nghiêm trọng của bệnh."
+      },
+      {
+        "name": "Điều trị áp xe hậu môn",
+        "description": "Phẫu thuật dẫn lưu để điều trị nhiễm trùng và mủ, kết hợp với uống kháng sinh để ngăn ngừa biến chứng."
+      },
+      {
+        "name": "Điều trị rò hậu môn",
+        "description": "Phẫu thuật để mở hoặc thu hẹp đường hầm truyền nhiễm ở hậu môn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giữ vệ sinh hậu môn sạch sẽ",
+      "Sử dụng thuốc bôi ngoài da có công dụng giảm sưng như Hydrocortisone khi cần",
+      "Tắm nước ấm để giảm đau và khó chịu",
+      "Tránh ăn thức ăn cay nóng và uống rượu bia",
+      "Uống đủ nước và tăng cường chất xơ trong chế độ ăn",
+      "Tránh ngồi lâu và mặc quần áo quá chật"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +117,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ vệ sinh hậu môn và cơ thể sạch sẽ",
+      "Giữ vệ sinh môi trường sống",
+      "Xây dựng và duy trì chế độ dinh dưỡng khoa học, lành mạnh",
+      "Hạn chế tiêu thụ các loại thực phẩm dễ gây kích thích như đồ ăn cay nóng, rượu bia",
+      "Thực hiện tình dục an toàn",
+      "Kiểm tra sức khỏe định kỳ",
+      "Điều trị kịp thời các bệnh về đường tiêu hóa",
+      "Tránh ngồi lâu một chỗ",
+      "Duy trì cân nặng hợp lý"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hậu môn bị sưng có tự khỏi không?",
+      "answer": "Hậu môn bị sưng thường là triệu chứng của một bệnh lý cơ bản. Nếu nguyên nhân gây sưng hậu môn là các vấn đề nhẹ như viêm nhiễm nhẹ, hậu môn có thể tự hết sưng sau thời gian ngắn với việc giữ vệ sinh và điều chỉnh chế độ ăn uống. Tuy nhiên, nếu nguyên nhân là do bệnh lý nghiêm trọng hơn như áp xe hậu môn, nứt kẽ hậu môn, trĩ nặng hoặc các bệnh khác, cần phải có sự can thiệp y tế."
+    },
+    {
+      "question": "Làm thế nào để giảm sưng hậu môn tại nhà?",
+      "answer": "Để giảm sưng hậu môn tại nhà, bạn có thể ngâm mình trong nước ấm 2-3 lần mỗi ngày, giữ vệ sinh hậu môn sạch sẽ, sử dụng các loại thuốc bôi ngoài da có hydrocortisone (theo hướng dẫn của bác sĩ), tránh đồ ăn cay nóng và đồ uống có cồn, tăng cường chất xơ trong khẩu phần ăn, và uống đủ nước. Nếu triệu chứng không thuyên giảm hoặc trở nên nghiêm trọng hơn, hãy đi khám bác sĩ."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ khi bị sưng hậu môn?",
+      "answer": "Bạn nên đi khám bác sĩ khi hậu môn bị sưng kèm theo sốt, đau dữ dội, chảy máu hậu môn, tiết dịch mủ, sưng kéo dài trên 1-2 tuần hoặc tái phát nhiều lần. Đặc biệt nếu hậu môn sưng kèm theo đau bụng dữ dội, đây có thể là dấu hiệu của các bệnh lý nghiêm trọng hơn cần được điều trị kịp thời."
+    },
+    {
+      "question": "Hậu môn bị sưng có liên quan đến ung thư không?",
+      "answer": "Mặc dù hiếm gặp, nhưng hậu môn bị sưng có thể là triệu chứng của ung thư hậu môn, đặc biệt khi kèm theo các dấu hiệu như nổi khối u ở hậu môn, chảy máu hậu môn kéo dài, đau hậu môn dai dẳng hoặc tiết dịch bất thường. Ung thư biểu mô tế bào vảy ở hậu môn là loại ung thư hậu môn phổ biến nhất, thường liên quan đến nhiễm virus HPV, tuổi cao, rò hậu môn kéo dài hoặc hậu môn thường xuyên bị kích thích."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sưng hậu môn, cảm giác nóng rát và đau buốt khi đi vệ sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hau-mon-bi-sung", "nut-ke-hau-mon", "tri"]
+    },
+    {
+      "question": "Tôi đang cảm thấy hậu môn bị sưng, ngứa ngáy và có dịch tiết ra. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hau-mon-bi-sung", "viem-hau-mon", "ro-hau-mon"]
+    },
+    {
+      "question": "Tôi hay bị sưng hậu môn, kèm theo sốt và đau bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hau-mon-bi-sung", "ap-xe-hau-mon", "viem-ruot"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như hậu môn sưng to, đau rát và có máu khi đi vệ sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hau-mon-bi-sung", "tri", "nut-ke-hau-mon"]
+    },
+    {
+      "question": "Tôi đang cảm thấy hậu môn sưng và đau dữ dội, kèm theo tiết dịch mủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hau-mon-bi-sung", "ap-xe-hau-mon", "ro-hau-mon"]
     }
   ]
 }

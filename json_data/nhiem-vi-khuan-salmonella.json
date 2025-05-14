@@ -1,58 +1,191 @@
 {
   "disease_id": "nhiem-vi-khuan-salmonella",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhiễm vi khuẩn Salmonella",
+  "disease_alternative_names": [
+    "Nhiễm khuẩn Salmonella",
+    "Bệnh nhiễm khuẩn Salmonella",
+    "Salmonella"
+  ],
+  "disease_definition": "Nhiễm vi khuẩn Salmonella là tình trạng bệnh gây ra bởi vi khuẩn đường ruột không hình thành bào tử, có thể xâm nhập vào nhiều loại tế bào khác nhau. Bệnh gây khó chịu cho dạ dày-ruột, sốt, tiêu chảy và đau quặn bụng. Trong hầu hết các trường hợp, bệnh xuất phát từ nguồn thực phẩm ô nhiễm (nhiễm phân người hoặc phân động vật) mà người bệnh ăn phải.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tiêu chảy",
+      "description": "Đi ngoài phân lỏng, có thể kéo dài từ vài ngày đến một tuần, thậm chí có thể mất vài tháng trước khi ruột trở lại thói quen đại tiện ổn định."
+    },
+    {
+      "name": "Đau quặn bụng",
+      "description": "Cơn đau dữ dội, đột ngột ở vùng bụng, thường đi kèm với tiêu chảy."
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng thân nhiệt, thường xuất hiện cùng với các triệu chứng khác."
+    },
+    {
+      "name": "Buồn nôn và nôn mửa",
+      "description": "Cảm giác khó chịu ở dạ dày và thường kèm theo nôn, đặc biệt sau khi ăn thực phẩm nhiễm khuẩn."
+    },
+    {
+      "name": "Ớn lạnh",
+      "description": "Cảm giác lạnh run khi nhiệt độ cơ thể tăng cao do nhiễm khuẩn."
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau nhức đầu, thường đi kèm với sốt và các triệu chứng khác."
+    },
+    {
+      "name": "Xuất hiện máu trong phân",
+      "description": "Phân có lẫn máu, dấu hiệu cho thấy tình trạng viêm nhiễm nghiêm trọng trong đường ruột."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Vi khuẩn Salmonella sống trong ruột người, động vật và chim. Hầu hết các trường hợp nhiễm bệnh đều do tiêu thụ thực phẩm hoặc nước ô nhiễm có chứa phân.",
+    "related_factors": "Thịt sống, thịt gia cầm và hải sản, sữa và các sản phẩm sữa chưa tiệt trùng, trái cây và rau củ, trứng sống hoặc nấu chưa chín, thực phẩm xử lý không đúng cách đều có thể chứa vi khuẩn Salmonella.",
+    "transmission_routes": [
+      "Tiêu thụ thực phẩm hoặc nước ô nhiễm chứa vi khuẩn",
+      "Tiếp xúc với phân người hoặc động vật mang vi khuẩn",
+      "Tiếp xúc với động vật nhiễm khuẩn, đặc biệt là bò sát, chim"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Các hoạt động hàng ngày tiếp xúc gần với vi khuẩn Salmonella",
+    "Hệ miễn dịch suy yếu do các vấn đề sức khỏe",
+    "Du lịch đến các quốc gia đang phát triển với điều kiện vệ sinh kém",
+    "Tiếp xúc thường xuyên với động vật, đặc biệt là bò sát và chim",
+    "Rối loạn dạ dày hoặc ruột",
+    "Sử dụng thuốc kháng axit, kháng sinh",
+    "Trẻ sơ sinh, trẻ nhỏ, người lớn tuổi, người ghép tạng, phụ nữ mang thai",
+    "Sử dụng thực phẩm chưa được nấu chín như thịt sống, trứng, sữa chưa tiệt trùng"
+  ],
+  "complications": [
+    "Mất nước do tiêu chảy kéo dài",
+    "Nhiễm khuẩn huyết (vi khuẩn xâm nhập vào máu)",
+    "Nhiễm trùng đường tiết niệu",
+    "Viêm màng não (nhiễm trùng các mô xung quanh não và tủy sống)",
+    "Viêm nội tâm mạc (nhiễm trùng màng ngoài của tim hoặc van tim)",
+    "Viêm tủy xương (nhiễm trùng xương hoặc tủy xương)",
+    "Viêm khớp phản ứng (đau khớp, kích ứng mắt, đau rát khi đi tiểu)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán dựa trên triệu chứng bệnh",
+      "Thu thập thông tin về thực phẩm đã tiêu thụ gần đây",
+      "Kiểm tra tiền sử tiếp xúc với động vật hoặc người bệnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm mẫu phân",
+        "description": "Phân tích mẫu phân để tìm vi khuẩn Salmonella, thường được thực hiện khi có các triệu chứng của nhiễm khuẩn đường ruột."
+      },
+      {
+        "name": "Xét nghiệm mẫu máu",
+        "description": "Kiểm tra máu để phát hiện vi khuẩn Salmonella, đặc biệt khi nghi ngờ vi khuẩn đã xâm nhập vào máu gây nhiễm khuẩn huyết."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hầu hết các trường hợp có cơ địa khỏe mạnh đều có thể phục hồi trong vòng từ vài ngày đến một tuần mà không cần điều trị phức tạp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị mất nước",
+        "description": "Bổ sung nước và chất điện giải bị mất. Trường hợp mất nước nghiêm trọng có thể cần truyền dịch trực tiếp vào tĩnh mạch tại phòng cấp cứu."
+      },
+      {
+        "name": "Thuốc chống tiêu chảy",
+        "description": "Các loại thuốc như Loperamid có thể giúp làm giảm triệu chứng đau bụng do tiêu chảy, nhưng cũng có thể kéo dài tiêu chảy do nhiễm khuẩn."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Trong trường hợp nghi ngờ Salmonella đã xâm nhập vào máu hoặc làm suy yếu hệ thống miễn dịch, bác sĩ có thể kê đơn thuốc kháng sinh để tiêu diệt vi khuẩn."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ",
+      "Uống nhiều nước và chất lỏng để tránh mất nước",
+      "Tránh các thực phẩm cứng, nhiều dầu mỡ, cay nóng",
+      "Ăn các thực phẩm dễ tiêu hóa khi cảm thấy đói",
+      "Tuân thủ đúng liều lượng và thời gian dùng thuốc theo chỉ định của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Không chế biến thực phẩm cho người khác khi đang bị bệnh",
+      "Rửa tay bằng xà phòng và nước sạch sau khi đi vệ sinh",
+      "Rửa tay trước và sau khi chế biến thực phẩm hoặc ăn uống",
+      "Giữ các dụng cụ và bề mặt chế biến thực phẩm sạch sẽ"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phổ biến đặc hiệu để phòng ngừa nhiễm khuẩn Salmonella ở người.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không chế biến thực phẩm cho người khác khi bị bệnh",
+      "Rửa tay bằng xà phòng và nước sạch sau khi đi vệ sinh",
+      "Rửa tay kỹ trước và sau khi chế biến thức ăn hoặc ăn uống",
+      "Rửa sạch các bề mặt, dụng cụ chế biến thức ăn trước và sau khi sử dụng",
+      "Đảm bảo thực phẩm được nấu chín đến nhiệt độ an toàn trước khi ăn",
+      "Không xử lý bất kỳ loại thực phẩm nào khác trong khi đang sơ chế thịt sống",
+      "Rửa sạch rau củ quả trước khi chế biến",
+      "Làm lạnh hoặc đông lạnh thịt gia súc, gia cầm và hải sản càng sớm càng tốt",
+      "Không uống sữa và các sản phẩm từ sữa chưa tiệt trùng",
+      "Không uống nước chưa được xử lý",
+      "Rửa tay sau khi chạm vào động vật, thức ăn, bát nước, khay vệ sinh của chúng",
+      "Không hôn vào lông hoặc da của động vật"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhiễm khuẩn Salmonella có nguy hiểm không?",
+      "answer": "Nhiễm khuẩn Salmonella thường hiếm khi gây nguy hiểm đến tính mạng và phần lớn người bệnh phục hồi trong vòng từ vài ngày đến một tuần. Tuy nhiên, đối với trẻ sơ sinh, trẻ nhỏ, người lớn tuổi, người được ghép tạng, phụ nữ mang thai và những người có hệ miễn dịch yếu, bệnh có thể gây ra các biến chứng nghiêm trọng như mất nước, nhiễm khuẩn huyết, viêm màng não, viêm nội tâm mạc, viêm tủy xương và viêm khớp phản ứng."
+    },
+    {
+      "question": "Triệu chứng nhiễm khuẩn Salmonella kéo dài bao lâu?",
+      "answer": "Các triệu chứng của nhiễm khuẩn Salmonella thường kéo dài từ vài ngày đến một tuần. Tuy nhiên, tiêu chảy có thể xuất hiện khoảng 10 ngày và trong một số trường hợp, có thể mất vài tháng trước khi ruột trở lại thói quen đại tiện ổn định. Nếu triệu chứng kéo dài hoặc trở nên nghiêm trọng, bạn nên đi khám bác sĩ ngay."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa nhiễm khuẩn Salmonella?",
+      "answer": "Để phòng ngừa nhiễm khuẩn Salmonella, bạn nên: rửa tay thường xuyên, đặc biệt sau khi đi vệ sinh và trước khi ăn; đảm bảo thực phẩm được nấu chín kỹ; tránh sử dụng sữa và các sản phẩm từ sữa chưa tiệt trùng; không uống nước chưa xử lý; rửa sạch rau củ quả trước khi chế biến; rửa tay sau khi tiếp xúc với động vật; giữ sạch các bề mặt và dụng cụ nhà bếp; không chế biến thực phẩm khi đang bị bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiêu chảy và đau quặn bụng sau khi ăn thịt sống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-vi-khuan-salmonella",
+        "ngo-doc-thuc-pham",
+        "nhiem-e-coli"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-vi-khuan-salmonella",
+        "cum",
+        "viem-da-day-ruot"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nôn mửa và ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-vi-khuan-salmonella",
+        "ngo-doc-thuc-pham",
+        "cum"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau đầu và xuất hiện máu trong phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-vi-khuan-salmonella",
+        "viem-dai-trang",
+        "loet-da-day"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, tiêu chảy và sốt sau khi tiếp xúc với bò sát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhiem-vi-khuan-salmonella",
+        "nhiem-trung-duong-ruot",
+        "nhiem-ky-sinh-trung"
+      ]
     }
   ]
 }

@@ -1,39 +1,92 @@
 {
   "disease_id": "nang-vu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nang vú",
+  "disease_alternative_names": [
+    "U nang tuyến vú",
+    "Bệnh nang vú",
+    "Breast cyst"
+  ],
+  "disease_definition": "Nang vú là túi chứa dịch bên trong vú. Thường là lành tính, rất hiếm liên quan nguyên nhân ung thư. Có thể có một hay nhiều nang. Nang vú thường nhỏ như quả nho hoặc như bong bóng chứa nước, mật độ căng, nhưng đôi khi cảm giác nang chắc sượng hơn. Nang vú thường không cần điều trị trừ khi nang to quá, gây đau hoặc bất tiện.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối tròn, dễ di chuyển",
+      "description": "Một khối tròn hoặc bầu dục nhẵn, dễ di chuyển, bề mặt trơn láng có thể sờ thấy trong vú."
+    },
+    {
+      "name": "Tiết dịch núm vú",
+      "description": "Tiết dịch núm vú có thể trong, vàng, màu rơm hoặc nâu sẫm. Tiết dịch núm vú là bình thường khi mang thai hoặc cho con bú."
+    },
+    {
+      "name": "Đau vú khu trú",
+      "description": "Đau vú hoặc nhạy cảm khu trú ở vùng có nang vú, có thể tăng lên trước kỳ kinh nguyệt."
+    },
+    {
+      "name": "Thay đổi theo chu kỳ kinh nguyệt",
+      "description": "Kích thước nang vú tăng lên và căng tức ở vú ngay trước kỳ kinh nguyệt; kích thước nang vú giảm và các triệu chứng khác biến mất sau kỳ kinh nguyệt."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nang vú phát triển do sự tích tụ chất dịch bên trong các tuyến ở vú. Hiện tại chưa biết rõ nguyên nhân gây nang vú, có thể hình thành do sự thay đổi nội tiết tố mỗi chu kỳ kinh nguyệt hàng tháng.",
+    "related_factors": "Mỗi bên ngực chứa các thùy tuyến vú, được sắp xếp giống như cánh hoa cúc. Các thùy được chia thành các tiểu thùy nhỏ hơn để sản xuất sữa khi mang thai và cho con bú. Sự thay đổi nội tiết tố có thể ảnh hưởng đến sự hình thành nang vú.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ trước mãn kinh, dưới 50 tuổi",
+    "Phụ nữ có dùng thuốc hỗ trợ nội tiết tố nữ",
+    "Phụ nữ đang trong độ tuổi sinh sản",
+    "Sử dụng hormone nội tiết",
+    "Uống nhiều rượu",
+    "Hút thuốc lá"
+  ],
+  "complications": [
+    "Đau đớn và khó chịu dai dẳng",
+    "Ảnh hưởng đến sức khỏe tâm lý của người bệnh",
+    "Khó phát hiện khối u mới ở vú hoặc những thay đổi khác",
+    "Khoảng 1% trường hợp có thể phát triển thành ung thư vú"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám vú lâm sàng: Bác sĩ thăm khám khối ở vú và kiểm tra bất kỳ bất thường nào khác",
+      "Xét nghiệm hình ảnh: Siêu âm vú hoặc chụp nhũ ảnh tuyến vú",
+      "Chọc hút kim nhỏ hoặc sinh thiết vú nếu cần"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp nhũ ảnh",
+        "description": "Sử dụng tia X để tạo ra các hình ảnh bên trong của vú. Các nang lớn và các chùm nang nhỏ thường có thể được nhìn thấy bằng chụp nhũ ảnh tuyến vú."
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Phương pháp an toàn và không xâm lấn giúp bác sĩ xác định khối ở vú là chứa dịch hay đặc. Một khối chứa đầy chất dịch thường là một nang vú."
+      },
+      {
+        "name": "Chọc hút bằng kim nhỏ",
+        "description": "Bác sĩ đưa một cây kim mỏng vào nang vú và rút bỏ chất dịch. Thường được thực hiện dưới hướng dẫn siêu âm để đảm bảo chính xác."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không cần điều trị đối với nang vú đơn giản, những nang chứa đầy chất dịch và không gây ra bất kỳ triệu chứng nào. Nhiều nang vú sẽ biến mất mà không cần điều trị. Nếu nang vú vẫn tồn tại, cảm thấy cứng hơn hoặc bạn nhận thấy những thay đổi vùng da trên nang vú, đi khám bác sĩ ngay.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chọc hút kim nhỏ (FNA)",
+        "description": "Có thể được sử dụng để chẩn đoán và điều trị nang vú, sau đó nang vú sẽ biến mất và các triệu chứng sẽ hết. Tuy nhiên, đối với một số nang vú, có thể phải chọc hút dịch nhiều lần."
+      },
+      {
+        "name": "Sử dụng thuốc nội tiết tố",
+        "description": "Sử dụng thuốc nội tiết như thuốc tránh thai để điều chỉnh chu kỳ kinh nguyệt có thể giúp giảm sự tái phát của nang vú, nhưng do các tác dụng phụ đáng kể, thuốc này thường chỉ dùng cho những phụ nữ có triệu chứng nghiêm trọng."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật cắt bỏ nang vú chỉ cần thiết trong những trường hợp bất thường, như nang vú gây khó chịu, tái phát hàng tháng hoặc nếu nang chứa dịch lẫn máu."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Mặc áo ngực vừa vặn để giảm khó chịu",
+      "Chườm ấm hoặc túi nước đá có thể giúp giảm đau",
+      "Cân nhắc giảm hoặc loại bỏ caffein trong đồ uống và thực phẩm",
+      "Sử dụng thuốc giảm đau không kê toa như acetaminophen hoặc thuốc chống viêm không steroid (ibuprofen, naproxen) nếu bác sĩ khuyên dùng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +94,50 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm tra sức khỏe định kỳ: Yêu cầu kiểm tra cẩn thận tuyến vú để phát hiện sớm",
+      "Điều chỉnh chế độ ăn uống: Ăn nhiều rau quả, ngũ cốc, thực phẩm giàu chất xơ",
+      "Tập thể dục đều đặn: Ít nhất 30 phút mỗi ngày, tối thiểu 5 ngày/tuần",
+      "Kiểm soát cân nặng: Duy trì cân nặng lành mạnh",
+      "Hạn chế uống rượu: Uống nhiều rượu có thể tăng nguy cơ mắc u nang tuyến vú",
+      "Tránh hút thuốc: Hút thuốc làm tăng nguy cơ u nang tuyến vú",
+      "Tránh sử dụng hormone nội tiết khi chưa có chỉ định của bác sĩ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U nang vú có nguy cơ ung thư vú không?",
+      "answer": "U nang vú là một khối u lành tính và có thể xảy ra với phụ nữ ở bất kỳ độ tuổi nào. Tuy nhiên, u nang vú cũng có thể làm tăng nguy cơ phát hiện ung thư vú. Thực tế, u nang vú là một trong những khối u vú phổ biến nhất ở phụ nữ và có khoảng 1% trở thành ung thư vú. Khi phát hiện có u nang vú, bác sĩ thường khuyến nghị phụ nữ thực hiện kiểm tra vú thường xuyên để phát hiện sớm dấu hiệu bất thường nào của ung thư vú."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ về nang vú?",
+      "answer": "Nếu bạn cảm thấy một khối u mới ở ngực không biến mất, ngày càng to ra hoặc tồn tại sau một hoặc hai chu kỳ kinh nguyệt, hãy đến gặp bác sĩ ngay. Ngoài ra, hãy đi khám nếu bạn có những thay đổi mới trên da ở một hoặc cả hai bên vú, hoặc nếu nang vú vẫn tồn tại, cảm thấy cứng hơn, hoặc bạn nhận thấy những thay đổi vùng da trên nang vú."
+    },
+    {
+      "question": "Nang vú có cần điều trị không?",
+      "answer": "Không cần điều trị đối với nang vú đơn giản, những nang chứa đầy chất dịch và không gây ra bất kỳ triệu chứng nào, được xác nhận trên siêu âm vú hoặc sau khi chọc hút bằng kim nhỏ. Nhiều nang vú sẽ biến mất mà không cần điều trị. Tuy nhiên, nếu nang vú gây đau đớn, khó chịu, hoặc nếu có nghi ngờ về tính chất lành tính của nó, bác sĩ có thể đề nghị chọc hút dịch, dùng thuốc nội tiết, hoặc trong những trường hợp hiếm hoi, phẫu thuật cắt bỏ nang."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như một khối tròn trong vú, dễ di chuyển và bề mặt trơn láng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nang-vu", "u-xa-vu", "u-soi-tuyen-vu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau vú và nhạy cảm ở vùng có khối u tròn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nang-vu", "viem-tuyen-vu", "u-xa-vu"]
+    },
+    {
+      "question": "Tôi hay bị tiết dịch núm vú màu vàng rơm, đặc biệt là trước kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nang-vu", "ong-dan-sua-gian", "viem-tuyen-vu"]
+    },
+    {
+      "question": "Tôi thấy ngực căng tức và kích thước khối u tăng lên trước kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nang-vu", "u-soi-tuyen-vu", "bieu-hien-tien-kinh"]
+    },
+    {
+      "question": "Tôi có một khối u trong vú, sau kỳ kinh nguyệt thì kích thước khối u giảm và bớt đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nang-vu", "u-xa-vu", "roi-loan-noi-tiet"]
     }
   ]
 }

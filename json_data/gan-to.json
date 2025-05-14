@@ -1,58 +1,214 @@
 {
   "disease_id": "gan-to",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Gan to",
+  "disease_alternative_names": [
+    "Gan phì đại",
+    "Gan sưng",
+    "Gan quá kích thước"
+  ],
+  "disease_definition": "Gan to là tình trạng kích thước gan tăng hơn so với kích thước bình thường. Theo nghiên cứu trên tạp chí Journal of Ultrasound in Medicine, kích thước gan trung bình của người 18-66 tuổi có đường kính khoảng 13,6-15 cm. Thay vì là một căn bệnh, gan to là triệu chứng của nhiều bệnh. Thông thường đó là dấu hiệu cảnh báo một loại bệnh gan, khiến gan sưng tấy lên kèm theo tình trạng viêm nhiễm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Vàng da, vàng mắt",
+      "description": "Da và vùng trắng của mắt chuyển sang màu vàng do gan không thể xử lý bilirubin hiệu quả."
+    },
+    {
+      "name": "Đau bụng, sưng hoặc đầy hơi",
+      "description": "Cảm giác đau, khó chịu ở vùng bụng trên bên phải, nơi vị trí của gan."
+    },
+    {
+      "name": "Tiêu chảy, phân màu nhạt hoặc phân có máu",
+      "description": "Phân có thể có màu đỏ hoặc đen (do máu), hoặc nhạt màu do thiếu bilirubin."
+    },
+    {
+      "name": "Nôn hoặc buồn nôn",
+      "description": "Cảm giác muốn nôn hoặc nôn ra, đôi khi có thể nôn ra máu trong trường hợp nặng."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở do gan to chèn ép các cơ quan lân cận."
+    },
+    {
+      "name": "Nước tiểu đổi màu",
+      "description": "Nước tiểu trở nên sẫm màu hơn bình thường."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, kiệt sức thường xuyên."
+    },
+    {
+      "name": "Sốt hoặc ớn lạnh",
+      "description": "Tăng thân nhiệt hoặc cảm giác ớn lạnh, thường gặp khi gan bị viêm nhiễm."
+    },
+    {
+      "name": "Ngứa da",
+      "description": "Cảm giác ngứa trên da do tích tụ các chất trong máu mà gan không thể xử lý."
+    },
+    {
+      "name": "Ăn không ngon và giảm cân không rõ lý do",
+      "description": "Mất cảm giác thèm ăn và giảm cân không chủ ý."
+    },
+    {
+      "name": "Sưng chân hoặc bàn chân",
+      "description": "Phù nề ở chân hoặc bàn chân do rối loạn chức năng gan."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Gan to là một triệu chứng của nhiều bệnh lý khác nhau, thường do viêm (viêm gan), tích tụ chất béo, nhiễm trùng, rối loạn lưu trữ của gan, hoặc ung thư.",
+    "related_factors": "Uống nhiều rượu bia, béo phì, nhiễm virus, bệnh di truyền, bệnh tim, ung thư, nhiễm trùng, và tiếp xúc với các chất độc hại.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Uống quá nhiều rượu bia",
+    "Thừa cân, béo phì",
+    "Nhiễm virus viêm gan A, B, C, D hoặc E",
+    "Bệnh tim mạch như suy tim phải hoặc viêm màng ngoài tim co thắt",
+    "Tiếp xúc với các chất độc hại như carbon tetrachloride và chloroform",
+    "Tiểu đường loại 2",
+    "Tăng lipid máu",
+    "Bệnh di truyền như bệnh Wilson, bệnh huyết sắc tố, bệnh Gaucher và bệnh dự trữ glycogen",
+    "Nhiễm trùng ký sinh trùng như giun chỉ, sán máng và sán lá gan nhỏ"
+  ],
+  "complications": [
+    "Nhiễm trùng trên phạm vi rộng",
+    "Não gan (bệnh não do gan)",
+    "Xơ gan",
+    "Suy gan",
+    "Ung thư gan",
+    "Tắc nghẽn tĩnh mạch",
+    "Suy chức năng gan gây ảnh hưởng đến phổi, thận, não"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Xét nghiệm máu",
+      "Chẩn đoán hình ảnh",
+      "Sinh thiết gan (trong một số trường hợp)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Bao gồm công thức máu toàn bộ (kiểm tra hồng cầu, tiểu cầu, bạch cầu), đánh giá nồng độ men gan, bilirubin, và protein trong máu."
+      },
+      {
+        "name": "Siêu âm vùng bụng",
+        "description": "Phương pháp đơn giản và khách quan nhất để xác định kích thước gan và đánh giá tình trạng gan."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT scan)",
+        "description": "Cung cấp hình ảnh chi tiết về gan và các cơ quan khác trong ổ bụng."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Sử dụng trong những trường hợp cần thiết khi siêu âm chưa cho kết quả rõ ràng."
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Một phần nhỏ mô gan được lấy ra để kiểm tra dưới kính hiển vi, thường áp dụng khi không xác định được nguyên nhân gan to."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị gan to phụ thuộc vào nguyên nhân gây bệnh. Kế hoạch điều trị sẽ được xác định bởi chính những nguyên nhân gây ra chứng to gan.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị viêm gan",
+        "description": "Tùy thuộc vào nguyên nhân, có thể bao gồm điều trị kháng virus cho viêm gan B mạn tính hoặc viêm gan C. Đặc biệt với viêm gan C, thuốc uống kháng virus điều trị 3-6 tháng có thể cho kết quả sạch virus tới hơn 90%."
+      },
+      {
+        "name": "Điều trị gan nhiễm mỡ không do rượu",
+        "description": "Tập trung vào thay đổi lối sống như chế độ ăn, tập thể dục, giảm cân, và dùng thuốc nếu bệnh ở mức độ nặng."
+      },
+      {
+        "name": "Điều trị rối loạn sử dụng rượu",
+        "description": "Bao gồm tư vấn cai rượu và sử dụng các loại thuốc hỗ trợ cai rượu để giảm tổn thương gan."
+      },
+      {
+        "name": "Điều trị khối u gan",
+        "description": "Với khối u gan ác tính, phương pháp điều trị có thể bao gồm phẫu thuật, đốt sóng cao tần hoặc vi sóng, hóa trị liệu, xạ trị. Với khối u lành tính, thường không cần điều trị trừ khi chúng gây ra các triệu chứng nghiêm trọng."
+      },
+      {
+        "name": "Điều trị rối loạn lưu trữ của gan",
+        "description": "Có thể bao gồm thay đổi chế độ ăn uống hoặc dùng thuốc để kiểm soát lượng khoáng chất (như sắt, đồng) trong cơ thể."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế hoặc ngừng hoàn toàn việc uống rượu bia",
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục thường xuyên",
+      "Ăn một chế độ ăn uống lành mạnh, cân bằng dinh dưỡng",
+      "Tuân thủ kế hoạch điều trị và tái khám theo chỉ định của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng đầy đủ vắc xin viêm gan A và viêm gan B để ngăn ngừa nhiễm virus viêm gan, một trong những nguyên nhân gây gan to.",
+      "recommended_for": [
+        "Tất cả mọi người chưa được tiêm phòng viêm gan A và B",
+        "Người có nguy cơ cao mắc bệnh gan"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Uống rượu ở mức độ vừa phải hoặc ngừng hoàn toàn",
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục thường xuyên và xây dựng lối sống lành mạnh",
+      "Quản lý các tình trạng sức khỏe mạn tính như đái tháo đường, bệnh tim",
+      "Bổ sung vitamin dưới sự hướng dẫn của bác sĩ và đúng liều lượng",
+      "Thực hiện các biện pháp an toàn khi làm việc với hóa chất",
+      "Tránh dùng chung các dụng cụ cá nhân như dao cạo",
+      "Tránh dùng chung kim tiêm",
+      "Thực hiện quan hệ tình dục an toàn",
+      "Khám sức khỏe định kỳ để phát hiện sớm các vấn đề về gan"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Gan to có nguy hiểm không?",
+      "answer": "Gan to có thể nguy hiểm tùy thuộc vào nguyên nhân. Khi gan to, chức năng gan bị rối loạn, ảnh hưởng trực tiếp đến sức khỏe và có thể đe dọa tính mạng trong trường hợp nặng. Hiện tượng gan to lâu ngày có thể dẫn đến nhiều biến chứng nguy hiểm như nhiễm trùng trên phạm vi rộng, não gan, xơ gan, suy gan, ung thư gan."
+    },
+    {
+      "question": "Làm sao để biết mình bị gan to?",
+      "answer": "Gan to thường được phát hiện qua các triệu chứng như đau và khó chịu ở bụng trên bên phải, vàng da, vàng mắt, mệt mỏi, chán ăn, buồn nôn. Để chẩn đoán chính xác, cần thăm khám bác sĩ và thực hiện các xét nghiệm như siêu âm bụng, xét nghiệm máu đánh giá chức năng gan."
+    },
+    {
+      "question": "Gan to có điều trị được không?",
+      "answer": "Gan to có thể điều trị được tùy thuộc vào nguyên nhân gây bệnh. Kế hoạch điều trị sẽ được bác sĩ xác định dựa trên nguyên nhân cụ thể, có thể bao gồm điều trị kháng virus cho viêm gan, thay đổi lối sống cho gan nhiễm mỡ, hoặc các phương pháp điều trị khối u gan nếu cần. Nhiều bệnh lý về gan có thể điều trị được nếu phát hiện sớm."
+    },
+    {
+      "question": "Gan to có thể phòng ngừa được không?",
+      "answer": "Gan to có thể phòng ngừa bằng cách thực hiện lối sống lành mạnh: hạn chế hoặc không uống rượu bia, duy trì cân nặng hợp lý, tập thể dục thường xuyên, tiêm phòng vắc xin viêm gan A và B, quản lý tốt các bệnh mạn tính, hạn chế tiếp xúc với hóa chất độc hại, và khám sức khỏe định kỳ để phát hiện sớm các vấn đề về gan."
+    },
+    {
+      "question": "Gan to có liên quan đến ung thư gan không?",
+      "answer": "Có, gan to có thể là dấu hiệu của ung thư gan. Ung thư gan có thể gây sưng ở bên phải bụng do gan to hơn bình thường khi các tế bào ung thư phát triển. Tuy nhiên, gan to cũng có thể do nhiều nguyên nhân khác. Nếu gan to kèm theo ung thư gan, thường là dấu hiệu của khối u đã lớn và ung thư không còn ở giai đoạn sớm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang cảm thấy mệt mỏi, vàng da và vàng mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-to", "viem-gan", "xo-gan", "suy-gan"]
+    },
+    {
+      "question": "Tôi hay đau bụng, sưng hoặc đầy hơi, kèm theo tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gan-to",
+        "viem-gan",
+        "roi-loan-tieu-hoa",
+        "viem-ruot"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy buồn nôn, nôn, và phân có màu nhạt hoặc có máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-to", "viem-gan", "xo-gan", "soi-mat"]
+    },
+    {
+      "question": "Tôi đang bị khó thở, nước tiểu đổi màu và da bị ngứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-to", "viem-gan", "suy-gan", "vang-da"]
+    },
+    {
+      "question": "Tôi bị vàng da, vàng mắt và nôn ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-to", "xo-gan", "viem-gan", "ung-thu-gan"]
     }
   ]
 }

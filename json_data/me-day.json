@@ -1,39 +1,107 @@
 {
   "disease_id": "me-day",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mề đay",
+  "disease_alternative_names": [
+    "Urticaria",
+    "Hives",
+    "Phát ban dị ứng",
+    "Nổi mề đay"
+  ],
+  "disease_definition": "Mề đay là tình trạng da phát ban, biểu hiện đặc trưng với các nốt sần và ngứa. Các nốt sần có kích thước và hình dạng khác nhau: hình tròn, hình bầu dục, hình khuyên (hình vòng); kích thước thay đổi từ dạng chấm vài ly đến mảng to hơn 10cm. Mề đay là một trong những bệnh da liễu phổ biến, với khoảng 10% – 20% dân số thế giới mắc bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt sần màu vàng sữa trên da",
+      "description": "Các nốt sần màu vàng sữa nổi trên da như vết muỗi đốt, ngoài vành có màu đỏ. Mỗi nốt sần tồn tại khoảng 2 – 4 giờ và tự biến mất không cần điều trị (kéo dài không quá 24 giờ)."
+    },
+    {
+      "name": "Ngứa da liên tục",
+      "description": "Cảm giác ngứa dữ dội, khó chịu kèm theo các nốt sần ngứa."
+    },
+    {
+      "name": "Ban đỏ lan rộng",
+      "description": "Các tổn thương da có thể xuất hiện ở bất kỳ vùng nào trên cơ thể, phổ biến ở mặt, cổ họng, cánh tay và chân."
+    },
+    {
+      "name": "Phù mạch",
+      "description": "Tình trạng sưng sâu bên trong da ở niêm mạc da khiến da chuyển sang màu đỏ và căng phồng, gây ngứa và đau. Thường gặp trong 10% trường hợp mề đay cấp tính."
+    },
+    {
+      "name": "Sưng môi, mặt",
+      "description": "Trong trường hợp nặng, có thể xuất hiện phù nề ở môi, mặt, gây khó chịu và ảnh hưởng đến thẩm mỹ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nổi mề đay xảy ra khi cơ thể phản ứng với chất gây dị ứng. Lúc này, cơ thể giải phóng một loại protein gọi là histamine và các chất trung gian khiến các mạch máu nhỏ giãn nỡ và dịch từ mạch máu sẽ thoát ra gây tích tụ trong da (còn gọi là phù mạch); gây viêm và phát ban đỏ.",
+    "related_factors": "Các tác nhân gây mề đay đa dạng gồm: thuốc kháng sinh, thực phẩm, phụ gia thực phẩm, vi khuẩn, vi rút, ký sinh trùng, lông động vật, bụi trong nhà, phấn hoa, ánh nắng mặt trời, thay đổi nhiệt độ, ong chích, mủ cao su, mỹ phẩm, chà xát da quá mạnh, căng thẳng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em (dễ bị mề đay cấp tính do phản ứng dị ứng với thức ăn, nhiễm trùng đường hô hấp, côn trùng cắn)",
+    "Phụ nữ mang thai (do thay đổi nội tiết tố, căng thẳng)",
+    "Phụ nữ sau sinh (do suy kiệt sức khỏe, thiếu ngủ, lo lắng, thay đổi chế độ ăn)",
+    "Người có tiền sử dị ứng",
+    "Người mắc các bệnh như nhiễm virus, nhiễm trùng đường tiết niệu, viêm khớp dạng thấp, lupus ban đỏ hệ thống, bệnh Sjögren",
+    "Người thường xuyên căng thẳng, stress"
+  ],
+  "complications": [
+    "Phù mao mạch dị ứng (sưng phù mặt, mi mắt, môi, lưỡi hoặc cổ họng)",
+    "Sốc phản vệ (nếu sưng họng gây bít tắt đường thở)",
+    "Chàm hóa, tăng sắc tố da (sạm da)",
+    "Tăng nguy cơ mắc thêm các bệnh dị ứng khác",
+    "Ảnh hưởng đến các cơ quan hô hấp và tiêu hóa (khó thở, đau nhức cơ, nôn mửa, tiêu chảy)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng qua các triệu chứng thông thường",
+      "Khai thác tiền sử bệnh tìm nguyên nhân gây mề đay",
+      "Thực hiện xét nghiệm chuyên sâu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm công thức máu",
+        "description": "Xác định lượng bạch cầu ái toan (liên quan đến nhiễm ký sinh trùng và mức độ dị ứng)."
+      },
+      {
+        "name": "Xét nghiệm tìm dị nguyên",
+        "description": "Tìm kiếm các dị nguyên gây dị ứng trên da thông qua phản ứng kháng nguyên kháng thể."
+      },
+      {
+        "name": "Xét nghiệm định lượng nồng độ IgE",
+        "description": "Kiểm tra kháng thể IgE trong máu giúp xác định mức độ, độ nặng của mề đay và theo dõi tiến trình điều trị."
+      },
+      {
+        "name": "Xét nghiệm 60 dị nguyên",
+        "description": "Giúp người bệnh tìm ra nguyên nhân cụ thể gây mề đay."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Để điều trị mề đay, bác sĩ sẽ tìm và loại bỏ tác nhân gây bệnh, tuy nhiên không phải việc dễ dàng. Bác sĩ kê thuốc kháng histamine nhằm giảm các triệu chứng gây viêm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng histamine",
+        "description": "Thuốc cơ bản được sử dụng để điều trị mề đay, giúp giảm các triệu chứng ngứa và phát ban."
+      },
+      {
+        "name": "Thuốc steroid dạng uống/chích",
+        "description": "Được sử dụng khi thuốc kháng histamine không giúp người bệnh giảm các cơn đau, ngứa."
+      },
+      {
+        "name": "Thuốc sinh học omalizumab",
+        "description": "Có tác dụng ngăn chặn immunoglobulin E, được sử dụng trong trường hợp các thuốc thông thường không hiệu quả."
+      },
+      {
+        "name": "Epinephrine",
+        "description": "Dùng cho trường hợp phát ban nghiêm trọng hoặc có nguy cơ sốc phản vệ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đắp gạc mát, khăn ướt lên vùng da bị mề đay để giảm sự khó chịu",
+      "Sinh hoạt, làm việc ở nơi thoáng mát, sạch sẽ",
+      "Mặc quần áo rộng rãi để giảm kích ứng da",
+      "Tránh gãi, chà xát vùng da bị mề đay",
+      "Tuân thủ đúng phác đồ điều trị của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +109,60 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện lối sống lành mạnh",
+      "Mặc quần áo rộng rãi, thoáng mát",
+      "Ở nơi thông thoáng, sạch sẽ",
+      "Tránh ở nơi có độ ẩm cao",
+      "Tránh dùng xà phòng có độ pH cao (cao hơn 7)",
+      "Nếu xác định được yếu tố gây dị ứng, tránh tiếp xúc với yếu tố đó",
+      "Người có cơ địa dị ứng nên luôn mang theo thuốc Epinephrine (Adrenaline)",
+      "Thường xuyên tắm rửa sạch sẽ",
+      "Giảm căng thẳng, stress trong cuộc sống"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nổi mề đay có lây không?",
+      "answer": "Mề đay không phải bệnh truyền nhiễm, do đó, bệnh có thể tái phát nhiều lần nhưng không lây truyền từ người này sang người khác. Nhiều trường hợp người trong gia đình cùng bị mề đay do di truyền khiến cơ thể nhạy cảm hơn với các yếu tố gây dị ứng (thức ăn, thuốc…) hoặc cùng sống trong môi trường có yếu tố dị ứng (thời tiết, không khí…)."
+    },
+    {
+      "question": "Bị nổi mề đay có gây nguy hiểm không?",
+      "answer": "Hầu hết các trường hợp nổi mề đay lành tính, không nguy hiểm đến tính mạng (trừ trường hợp phù mao mạch vùng hầu họng). Nổi mề đay cấp tính thường khỏi sau khi điều trị tuy nhiên không ít ca nghiêm trọng. Nếu người bệnh không được cấp cứu kịp thời sẽ dễ tụt huyết áp, tính mạng nguy kịch, nhất là khi nổi mề đay kèm với triệu chứng sưng môi, sưng mặt, ngứa lưỡi, nôn mửa."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ?",
+      "answer": "Khi biết rõ một số nguyên nhân gây nổi mề đay như: hải sản (tôm, cua…), thuốc… bạn có thể phòng tránh. Tuy nhiên, nguyên nhân nổi mề đay đa dạng, không phải lúc nào cũng rõ ràng nên đôi khi khó phòng ngừa. Do đó, nếu bị mề đay, bạn cần đi khám bác sĩ da liễu để điều trị ngay triệu chứng, tìm ra nguyên nhân, từ đó phòng tránh hiệu quả. Đặc biệt, nếu nổi mề đay kèm sưng môi, buồn nôn, tim đập nhanh, lạnh run… người bệnh có thể đang rơi vào sốc phản vệ, cần được đưa đến bệnh viện ngay lập tức."
+    },
+    {
+      "question": "Mề đay cấp tính và mề đay mạn tính khác nhau như thế nào?",
+      "answer": "Mề đay cấp tính là tình trạng phát ban kéo dài dưới 6 tuần, xuất hiện đột ngột. Mề đay mạn tính là tình trạng tổn thương da kéo dài hơn 6 tuần, gây ảnh hưởng nghiêm trọng đến chất lượng cuộc sống. Mề đay mạn tính thường đáp ứng kém với các giải pháp điều trị và có thể dẫn đến nhiều biến chứng như chàm hóa, tăng sắc tố da và làm tăng nguy cơ mắc thêm các bệnh dị ứng khác."
+    },
+    {
+      "question": "Thời gian xuất hiện mề đay là bao lâu sau khi tiếp xúc với dị nguyên?",
+      "answer": "Thời gian xuất hiện mề đay tùy thuộc vào nguyên nhân: Do tiếp xúc (dị ứng cao su, xà phòng…) xuất hiện sau 10-60 phút; Dị ứng thức ăn xuất hiện trong vòng 1 giờ; Phản ứng với chất tạo màu thực phẩm và các chất phụ gia xuất hiện sau 12-24 giờ; Phản ứng với thuốc có thể xuất hiện ngay lập tức hoặc trễ hơn, thậm chí nhiều năm sau đó."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nổi mẩn đỏ, ngứa ngáy khắp người. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["me-day", "viem-da-co-dia", "phan-ung-di-ung"]
+    },
+    {
+      "question": "Tôi đang cảm thấy các nốt mẩn sưng to, có hình dạng như vết muỗi đốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["me-day", "ong-dot", "phan-ung-di-ung"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nổi mẩn sau khi ăn một số loại thực phẩm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["me-day", "di-ung-thuc-pham", "phan-ung-di-ung"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nổi mẩn sau khi tiếp xúc với hóa chất, mỹ phẩm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["me-day", "viem-da-tiep-xuc", "phan-ung-di-ung"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nổi mẩn kèm theo khó thở, tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["me-day", "soc-phan-ve", "hen-suyen"]
     }
   ]
 }

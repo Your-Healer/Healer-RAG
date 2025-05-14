@@ -1,39 +1,109 @@
 {
   "disease_id": "khong-co-tinh-trung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Không có tinh trùng",
+  "disease_alternative_names": ["Vô tinh", "Azoospermia"],
+  "disease_definition": "Không có tinh trùng (tên gọi khác là vô tinh – Azoospermia) là thuật ngữ y tế dùng để diễn tả tình trạng không thấy tinh trùng sau khi ly tâm và xem dưới kính hiển vi có độ phóng đại 400 lần. Các chuyên gia thường chia tình trạng này thành 2 loại gồm: không có tinh trùng do tắc nghẽn và không có tinh trùng không do tắc nghẽn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ít có ham muốn tình dục",
+      "description": "Giảm ham muốn quan hệ tình dục, có thể do mất cân bằng hormone."
+    },
+    {
+      "name": "Rối loạn cương dương",
+      "description": "Khó có thể cương dương hoặc duy trì sự cương cứng của dương vật, thường liên quan đến vấn đề nội tiết."
+    },
+    {
+      "name": "Có khối u, sưng tấy hoặc khó chịu xung quanh tinh hoàn",
+      "description": "Có thể do viêm nhiễm, giãn tĩnh mạch thừng tinh hoặc các bất thường khác ở tinh hoàn."
+    },
+    {
+      "name": "Râu, lông ít hoặc không có",
+      "description": "Biểu hiện của mất cân bằng hormone nam giới, đặc biệt là testosterone thấp."
+    },
+    {
+      "name": "Không có triệu chứng",
+      "description": "Nhiều người không biết mình bị vô tinh cho đến khi cố gắng thụ thai không thành công và đi khám."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Không có tinh trùng được chia thành hai nhóm chính: do tắc nghẽn (tinh trùng được sản xuất nhưng không thể đi ra ngoài) và không do tắc nghẽn (tinh trùng không được sản xuất).",
+    "related_factors": "Trong đó, tỷ lệ nam giới không tinh trùng không do tắc chiếm chủ yếu, đến 40% trường hợp. Nguyên nhân gồm các bệnh lý ở vùng dưới đồi - tuyến yên, vấn đề về di truyền, và các vấn đề từ tinh hoàn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Chấn thương vùng tinh hoàn",
+    "Phẫu thuật vùng bẹn",
+    "Giãn tĩnh mạch thừng tinh",
+    "Nhiễm trùng đường tiết niệu",
+    "Mắc bệnh quai bị khi trưởng thành",
+    "Sử dụng một số loại thuốc",
+    "Tiếp xúc với hóa chất độc hại",
+    "Sử dụng rượu và thuốc lá",
+    "Béo phì",
+    "Căng thẳng kéo dài",
+    "Tiểu đường",
+    "Bệnh tuyến giáp",
+    "Tiền sử gia đình mắc bệnh không có tinh trùng",
+    "Sinh ra với bất thường về bộ phận sinh dục",
+    "Điều trị ung thư (xạ trị, hóa trị)"
+  ],
+  "complications": [
+    "Vô sinh nam",
+    "Ảnh hưởng đến tâm lý của nam giới",
+    "Căng thẳng trong mối quan hệ vợ chồng",
+    "Rối loạn chức năng sinh dục"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Xét nghiệm tinh dịch đồ",
+      "Đánh giá nội tiết tố"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm tinh dịch đồ",
+        "description": "Mẫu tinh dịch được kiểm tra bằng máy ly tâm hoặc soi dưới kính hiển vi để xác định tình trạng không có tinh trùng."
+      },
+      {
+        "name": "Kiểm tra tinh trùng trong nước tiểu",
+        "description": "Trong trường hợp thể tích tinh dịch ít, bác sĩ tiến hành tìm thêm tinh trùng trong nước tiểu sau khi xuất tinh."
+      },
+      {
+        "name": "Xét nghiệm nội tiết tố sinh dục",
+        "description": "Thử các nội tiết tố sinh dục, đặc biệt testosterone, để đánh giá chức năng của tuyến sinh dục."
+      },
+      {
+        "name": "Xét nghiệm nhiễm sắc thể",
+        "description": "Kiểm tra các bất thường di truyền có thể gây ra tình trạng không có tinh trùng."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính hoặc siêu âm",
+        "description": "Kiểm tra hình dạng và các bất thường của các cơ quan sinh sản."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị bệnh không có tinh trùng tùy thuộc vào nguyên nhân gây bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Dùng thuốc nội tiết như hormone kích thích tạo nang trứng (FSH), Gonadotropin màng đệm người (HCG), clomiphene, anastrazole và letrozole cho người bệnh không có tinh trùng do nguyên nhân suy tuyến yên."
+      },
+      {
+        "name": "Điều trị ngoại khoa",
+        "description": "Can thiệp bằng phẫu thuật để giải quyết một số vấn đề như giãn tĩnh mạch thừng tinh, vô tinh do bế tắc trong tinh hoàn, mào tinh, ống dẫn tinh bị tắc, mở rộng lồi tinh hoặc cổ túi tinh."
+      },
+      {
+        "name": "Các kỹ thuật hỗ trợ sinh sản",
+        "description": "Chọc hút lấy tinh trùng từ mào tinh qua da (PESA), phẫu thuật vi phẫu lấy tinh trùng từ mào tinh (MESA), phẫu thuật lấy tinh trùng từ tinh hoàn (TESE), phẫu thuật vi phẫu lấy tinh trùng từ tinh hoàn (Micro-TESE)."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chỉ định dùng thuốc đúng thời gian và liều lượng",
+      "Tái khám theo lịch hẹn để được theo dõi sát sao",
+      "Quan tâm đến biểu hiện của cơ thể và thông báo lại với bác sĩ khi cần",
+      "Xây dựng lối sống lành mạnh, cân bằng dinh dưỡng, vận động phù hợp"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +111,75 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh các chấn thương ở vùng tinh hoàn",
+      "Điều trị kịp thời các bệnh viêm nhiễm vùng sinh dục",
+      "Hạn chế sử dụng rượu bia và thuốc lá",
+      "Giữ cân nặng hợp lý",
+      "Tránh căng thẳng kéo dài",
+      "Hạn chế tiếp xúc với các hóa chất độc hại",
+      "Điều trị sớm các bệnh quai bị",
+      "Kiểm soát tốt các bệnh mạn tính như tiểu đường, bệnh tuyến giáp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tình trạng không có tinh trùng có chữa được không?",
+      "answer": "Khả năng điều trị phụ thuộc vào nguyên nhân gây bệnh. Nếu nguyên nhân do tắc nghẽn, có thể điều trị bằng phẫu thuật. Nếu nguyên nhân không do tắc nghẽn, có thể điều trị bằng thuốc nội tiết hoặc các kỹ thuật hỗ trợ sinh sản như PESA, MESA, TESE, Micro-TESE để tìm tinh trùng."
+    },
+    {
+      "question": "Không có tinh trùng có thể di truyền không?",
+      "answer": "Một số trường hợp không có tinh trùng do yếu tố di truyền như bất thường nhiễm sắc thể (Hội chứng Klinefelter, Hội chứng Down, Hội chứng Noonan, Hội chứng Kallmann) có thể di truyền sang con cái. Nếu nguyên nhân xuất phát từ yếu tố di truyền, bác sĩ có thể đề nghị phân tích yếu tố di truyền của tinh trùng trước khi thực hiện các biện pháp hỗ trợ thụ tinh."
+    },
+    {
+      "question": "Nam giới không có tinh trùng có con được không?",
+      "answer": "Tùy thuộc vào nguyên nhân, nam giới không có tinh trùng vẫn có thể có con thông qua các kỹ thuật hỗ trợ sinh sản như PESA, MESA, TESE, Micro-TESE để tìm tinh trùng, sau đó kết hợp với kỹ thuật thụ tinh trong ống nghiệm (IVF) hoặc tiêm tinh trùng vào bào tương trứng (ICSI)."
+    },
+    {
+      "question": "Làm thế nào để biết mình có bị không có tinh trùng hay không?",
+      "answer": "Để biết mình có bị không có tinh trùng hay không, cần đến gặp bác sĩ chuyên khoa Nam học để thực hiện xét nghiệm tinh dịch đồ. Mẫu tinh dịch sẽ được kiểm tra bằng máy ly tâm hoặc soi dưới kính hiển vi để xác định tình trạng không có tinh trùng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ít có ham muốn tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "khong-co-tinh-trung",
+        "roi-loan-noi-tiet",
+        "thieu-testosterone"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy rối loạn cương dương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "khong-co-tinh-trung",
+        "roi-loan-cuong-duong",
+        "thieu-testosterone"
+      ]
+    },
+    {
+      "question": "Tôi hay có khối u, sưng tấy hoặc khó chịu xung quanh tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "khong-co-tinh-trung",
+        "viem-tinh-hoan",
+        "gian-tinh-mach-thung-tinh"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp triệu chứng râu, lông ít hoặc không có. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "khong-co-tinh-trung",
+        "thieu-testosterone",
+        "roi-loan-noi-tiet"
+      ]
+    },
+    {
+      "question": "Tôi và vợ đang gặp khó khăn trong việc thụ thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "khong-co-tinh-trung",
+        "vo-sinh-nam",
+        "it-tinh-trung"
+      ]
     }
   ]
 }

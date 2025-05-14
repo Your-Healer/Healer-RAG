@@ -1,39 +1,123 @@
 {
   "disease_id": "hoi-chung-kallmann",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng Kallmann",
+  "disease_alternative_names": [
+    "Thiểu năng sinh dục thiếu máu",
+    "Thiểu năng sinh dục vô căn",
+    "Thiểu năng sinh dục mất khứu giác một phần hoặc hoàn toàn (anosmia)",
+    "Thiểu năng sinh dục Hypogonadotropic và mất khứu giác một phần hoặc hoàn toàn (anosmia)",
+    "Hội chứng thiểu năng sinh dục Hypogonadotropic-mất khứu giác một phần hoặc hoàn toàn (anosmia)",
+    "Hội chứng khứu giác"
+  ],
+  "disease_definition": "Hội chứng Kallmann là một rối loạn di truyền (bất thường về gen), làm cản trở quá trình dậy thì (chậm hoặc không dậy thì) và suy giảm chức năng khứu giác (không nhận biết được mùi). Đây là dạng bệnh thiểu năng sinh dục bẩm sinh do cơ thể sản xuất thiếu một số hormone định hướng sự phát triển giới tính. Bình thường, vùng hạ đồi-tuyến yên trên não bộ sẽ tiết ra những hormone hướng sinh dục có tác dụng kích hoạt quá trình dậy thì và chức năng sinh sản.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Suy giảm chức năng khứu giác",
+      "description": "Không nhận biết được mùi, đây là triệu chứng chính giúp nhận biết sớm hoặc gợi ý hội chứng Kallmann."
+    },
+    {
+      "name": "Không dậy thì hoặc dậy thì chậm",
+      "description": "Ở nam không có râu, giọng nói the thé; ở nữ không có kinh nguyệt, không thấy ngực phát triển. Cả hai giới đều không có hoặc ít lông mu, lông nách."
+    },
+    {
+      "name": "Sứt môi/hở hàm ếch",
+      "description": "Khuyết tật bẩm sinh ở môi hoặc vòm miệng có thể đi kèm với hội chứng."
+    },
+    {
+      "name": "Bất thường về thận",
+      "description": "Một số bệnh nhân chỉ có một thận."
+    },
+    {
+      "name": "Mất thính lực",
+      "description": "Giảm hoặc mất khả năng nghe ở một số bệnh nhân."
+    },
+    {
+      "name": "Chuyển động mắt bất thường",
+      "description": "Rối loạn trong hoạt động của mắt, ảnh hưởng đến thị giác."
+    },
+    {
+      "name": "Tinh hoàn ẩn",
+      "description": "Tinh hoàn không nằm đúng vị trí trong bìu, thường gặp ở nam giới mắc hội chứng."
+    },
+    {
+      "name": "Bất thường xương ngón tay",
+      "description": "Hình dạng hoặc cấu trúc xương ở ngón tay khác với bình thường."
+    },
+    {
+      "name": "Hiện tượng đồng động tay",
+      "description": "Hiện tượng một tay bắt chước lại hoạt động của tay kia khi vận động, gây khó khăn khi thực hiện các công việc đòi hỏi hai tay phải cử động riêng rẽ."
+    },
+    {
+      "name": "Dương vật nhỏ bất thường và tinh hoàn không to lên",
+      "description": "Nam giới mắc hội chứng thường có cơ quan sinh dục không phát triển bình thường."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đột biến di truyền làm thay đổi sự di chuyển hoặc chức năng của một số tế bào thần kinh trong não. Những đột biến này làm ảnh hưởng đến sự di chuyển của tế bào thần kinh khứu giác và tế bào thần kinh sản xuất hormone giải phóng gonadotropin (GnRH) từ mũi lên não trong quá trình phát triển bào thai.",
+    "related_factors": "Có khoảng 25 gen khác nhau liên quan đến hội chứng này, phổ biến nhất là tình trạng đột biến trên 6 loại gen ANOS1, CHD7, FGF8, FGFR1, PROK2 và PROKR2. Các đột biến gen này chiếm khoảng 50% trường hợp mắc hội chứng Kallmann.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người mắc bệnh",
+    "Nam giới (tỷ lệ mắc bệnh ở nam nhiều hơn nữ: 1/30.000 nam và 1/120.000 nữ)",
+    "Đột biến gen ANOS1 (di truyền liên kết với nhiễm sắc thể X)",
+    "Đột biến gen FGFR1, PROKR2, PROK2, CHD7, FGF8 (di truyền trội trên nhiễm sắc thể thường)",
+    "Đột biến gen PROKR và PROK2 (di truyền lặn trên nhiễm sắc thể thường)"
+  ],
+  "complications": [
+    "Vô sinh nếu không được điều trị",
+    "Rối loạn tâm lý do không phát triển bình thường như bạn bè cùng trang lứa",
+    "Rối loạn chuyển hóa do suy giảm hormone sinh dục",
+    "Giảm mật độ xương do thiếu hormone sinh dục"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá dấu hiệu lâm sàng",
+      "Xét nghiệm sinh hóa",
+      "Chẩn đoán hình ảnh",
+      "Xét nghiệm di truyền"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đánh giá dấu hiệu lâm sàng",
+        "description": "Thăm khám để tìm các triệu chứng và dấu hiệu dậy thì muộn hay mất khứu giác."
+      },
+      {
+        "name": "Xét nghiệm sinh hóa",
+        "description": "Đo nồng độ hormone LH, FSH, testosterone, estrogen và progesterone trong máu. Các hormone này sẽ giảm thấp trong hội chứng Kallmann."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Khảo sát vùng dưới đồi, tuyến yên và mũi để tìm nguyên nhân gây ra các bất thường về việc giảm tiết hormone và mất chức năng khứu giác."
+      },
+      {
+        "name": "Xét nghiệm di truyền",
+        "description": "Xác định các đột biến gen liên quan đến hội chứng Kallmann như ANOS1, CHD7, FGF8, FGFR1, PROK2 và PROKR2."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị bằng hormone có thể kích hoạt quá trình dậy thì và cải thiện khả năng sinh sản, nhưng không thể chữa khỏi hoàn toàn các đột biến gen nguyên nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Liệu pháp thay thế hormone",
+        "description": "Thay thế các hormone sinh dục như testosterone cho nam; estrogen và progesterone cho nữ nhằm kích thích dậy thì và phát triển các đặc điểm giới tính thứ cấp."
+      },
+      {
+        "name": "Điều trị để phục hồi khả năng sinh sản",
+        "description": "Sử dụng liệu pháp tiêm các hormone như FSH hoặc LH, cũng như các dạng GnRH tổng hợp, có thể giúp phục hồi khả năng sinh sản cũng như kích thích buồng trứng, tinh hoàn tổng hợp các hormone sinh dục."
+      },
+      {
+        "name": "Liệu pháp hỗ trợ sinh sản",
+        "description": "Hỗ trợ thụ thai cho người mắc hội chứng Kallmann đang mong muốn có con."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Khám bệnh định kỳ",
+      "Kiểm tra theo dõi định kỳ để đảm bảo việc điều trị có hiệu quả",
+      "Điều chỉnh liều lượng và sự kết hợp của các loại thuốc theo thời gian nếu cần",
+      "Chú ý duy trì mật độ xương thông qua điều trị hormone và lối sống lành mạnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +125,74 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Xác định có hay không tình trạng bệnh ở người thân, cha mẹ, anh em",
+      "Khám bệnh định kỳ",
+      "Ngưng hút thuốc lá, uống rượu",
+      "Tập thể thao",
+      "Ngăn stress",
+      "Bổ sung kẽm",
+      "Tư vấn di truyền cho các gia đình có người mắc bệnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng Kallmann có chữa khỏi được không?",
+      "answer": "Liệu pháp thay thế hormone giúp bệnh nhân Kallmann bước vào tuổi dậy thì, cải thiện triệu chứng do thiếu hụt hormone sinh dục, nhưng không chữa khỏi các đột biến gen là nguyên nhân chính gây ra hội chứng Kallmann. Bệnh thường kéo dài suốt đời nhưng có thể kiểm soát được bằng điều trị phù hợp."
+    },
+    {
+      "question": "Người mắc hội chứng Kallmann có thể sinh con được không?",
+      "answer": "Với điều trị thích hợp, khả năng sinh sản có thể đạt được ở 75% – 80% bệnh nhân nam. Các liệu pháp như GnRH xung động cũng có thể giúp kích thích rụng trứng ở phụ nữ. Liệu pháp hỗ trợ sinh sản cũng là một lựa chọn cho người mắc hội chứng Kallmann đang mong muốn thụ thai."
+    },
+    {
+      "question": "Hội chứng Kallmann có gây nguy hiểm đến tính mạng không?",
+      "answer": "Hội chứng Kallmann không gây nguy hiểm đến tính mạng nhưng bệnh thường kéo dài suốt đời. Khi đã được chẩn đoán mắc bệnh, các triệu chứng có thể được quản lý tốt bằng các phương pháp điều trị hiện đại."
+    },
+    {
+      "question": "Tại sao hội chứng Kallmann gây mất khứu giác?",
+      "answer": "Ở người mắc hội chứng Kallmann, những đột biến di truyền làm thay đổi sự di chuyển của tế bào thần kinh khứu giác từ mũi lên não trong quá trình phát triển bào thai. Khi bào thai trưởng thành, tế bào thần kinh bắt đầu di chuyển từ mũi lên não, đến vùng dưới đồi, nhưng do đột biến di truyền, những tế bào này không di chuyển đúng cách, dẫn đến suy giảm chức năng khứu giác sau khi sinh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi không thể ngửi thấy mùi gì cả. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-kallmann",
+        "viem-xoang",
+        "chan-thuong-so-nao"
+      ]
+    },
+    {
+      "question": "Tôi bị sứt môi và không thể ngửi thấy mùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-kallmann",
+        "bam-sinh-sut-moi",
+        "bat-thuong-ve-so-mat"
+      ]
+    },
+    {
+      "question": "Tôi chỉ có một quả thận và khó ngửi thấy mùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-kallmann",
+        "bat-thuong-than-bam-sinh",
+        "suy-than"
+      ]
+    },
+    {
+      "question": "Tôi bị mất thính lực và không có khứu giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-kallmann",
+        "roi-loan-thinh-giac",
+        "viem-tai-giua"
+      ]
+    },
+    {
+      "question": "Tôi bị tinh hoàn ẩn và không có khứu giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-kallmann",
+        "tinh-hoan-an",
+        "bat-thuong-sinh-duc-nam"
+      ]
     }
   ]
 }

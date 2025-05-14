@@ -1,58 +1,168 @@
 {
   "disease_id": "gan-nhiem-mo",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Gan nhiễm mỡ",
+  "disease_alternative_names": [
+    "Bệnh gan nhiễm mỡ",
+    "Nhiễm mỡ gan",
+    "Fatty liver disease",
+    "NAFLD"
+  ],
+  "disease_definition": "Gan nhiễm mỡ là tình trạng tích tụ mỡ hay chất béo trong tế bào gan. Khi gan nhiễm mỡ đơn thuần mà không có viêm thì không tiến triển thành viêm gan mạn và xơ gan. Gan nhiễm mỡ mà gây viêm tại gan được gọi là bệnh gan nhiễm mỡ (Fatty liver disease). Bệnh gan nhiễm mỡ có thể xảy ra do nguyên nhân là bia rượu, hoặc nguyên nhân không phải do bia rượu hay còn gọi là viêm gan nhiễm mỡ không do rượu (Non-alcoholic fatty disease – NAFLD).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau và khó chịu ở bụng trên bên phải",
+      "description": "Cảm giác đau hoặc khó chịu ở vùng hạ sườn phải, nơi vị trí của gan."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Mất cảm giác thèm ăn, không muốn ăn uống."
+    },
+    {
+      "name": "Vàng da và vàng mắt",
+      "description": "Da và lòng trắng mắt có màu vàng, nước tiểu vàng hoặc sậm màu khi bệnh tiến triển."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, uể oải thường xuyên."
+    },
+    {
+      "name": "Cổ trướng bụng",
+      "description": "Tình trạng tích tụ dịch trong khoang bụng, gây phình to bụng (xuất hiện khi bệnh tiến triển đến xơ gan)."
+    },
+    {
+      "name": "Phù nề chân",
+      "description": "Chân bị sưng, phù do tích tụ nước (xuất hiện khi bệnh nặng)."
+    },
+    {
+      "name": "Xuất huyết tiêu hóa",
+      "description": "Nôn ra máu hoặc đi ngoài ra máu (biểu hiện của biến chứng nặng)."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tích tụ mỡ trong tế bào gan do uống nhiều rượu bia hoặc thức uống có cồn trong thời gian dài, hoặc do các nguyên nhân không liên quan đến rượu.",
+    "related_factors": "Thừa cân, béo phì, nồng độ cholesterol trong máu cao, tiểu đường loại 2, hội chứng buồng trứng đa nang, chứng ngưng thở lúc ngủ, suy giáp, suy tuyến yên.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Uống nhiều rượu bia và đồ uống có cồn",
+    "Thừa cân, béo phì",
+    "Nồng độ cholesterol trong máu cao",
+    "Viêm gan virus",
+    "Tiểu đường loại 2",
+    "Hội chứng buồng trứng đa nang",
+    "Chứng ngưng thở lúc ngủ",
+    "Suy giảm chức năng tuyến giáp (suy giáp)",
+    "Suy giảm chức năng tuyến yên (suy tuyến yên)",
+    "Người cao tuổi"
+  ],
+  "complications": ["Viêm gan", "Xơ gan", "Ung thư gan"],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám lâm sàng", "Kiểm tra chỉ số men gan", "Siêu âm gan"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra công thức máu, men gan (ALT, AST, ALP, GGT), chức năng gan, đường huyết và mỡ máu để đánh giá tình trạng viêm và tổn thương của gan."
+      },
+      {
+        "name": "Xét nghiệm virus viêm gan",
+        "description": "Tìm kiếm sự có mặt của virus gây ra các bệnh viêm gan mạn tính như viêm gan virus B, viêm gan virus C."
+      },
+      {
+        "name": "Siêu âm gan",
+        "description": "Cung cấp hình ảnh của gan, đánh giá mức độ nhiễm mỡ gan có thể chia ra thành độ I, II hoặc III."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện nay, y học vẫn chưa tìm ra thuốc đặc trị dành cho bệnh gan nhiễm mỡ. Các phương pháp điều trị gan nhiễm mỡ chỉ nhằm làm giảm những ảnh hưởng của triệu chứng bệnh đến sinh hoạt hàng ngày và ngăn không cho bệnh tiến triển nặng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Lối sống lành mạnh",
+        "description": "Không uống rượu bia và thực hiện chế độ sinh hoạt lành mạnh, kiểm soát tốt các bệnh lý khác nếu có."
+      },
+      {
+        "name": "Giảm cân",
+        "description": "Giảm cân là phương pháp điều trị quan trọng đối với người thừa cân và béo phì, giúp giảm lượng mỡ tích tụ trong gan."
+      },
+      {
+        "name": "Điều trị các bệnh kèm theo",
+        "description": "Điều trị hiệu quả các bệnh kèm theo như đái tháo đường, rối loạn lipid máu để hạn chế tác động lên gan."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Không uống rượu bia và đồ uống có cồn",
+      "Tập thể dục thường xuyên",
+      "Thực hiện chế độ ăn uống lành mạnh",
+      "Khám sức khỏe định kỳ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng vắc-xin viêm gan B để ngăn ngừa viêm gan virus B, một trong những nguyên nhân gây tổn thương gan.",
+      "recommended_for": [
+        "Tất cả mọi người, đặc biệt là những người chưa được tiêm phòng viêm gan B"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện chế độ dinh dưỡng hợp lý: tăng cường chất xơ và protein tốt, hạn chế chất béo",
+      "Hạn chế đồ ăn chiên rán, giảm ăn tinh bột và đường",
+      "Tập thể dục thể thao thường xuyên với cường độ thích hợp",
+      "Duy trì và kiểm soát cân nặng lành mạnh",
+      "Thăm khám sức khỏe định kỳ",
+      "Tiêm ngừa vắc-xin viêm gan B",
+      "Hạn chế tối đa việc sử dụng rượu bia và đồ uống có cồn",
+      "Uống thuốc theo đúng chỉ định của bác sĩ nếu mắc các bệnh lý gan khác"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Gan nhiễm mỡ có nguy hiểm không?",
+      "answer": "Ở giai đoạn đầu, gan nhiễm mỡ chưa ảnh hưởng nhiều đến chức năng gan, do đó, bệnh không gây nguy hiểm. Tuy nhiên, nếu không được điều chỉnh kịp thời, bệnh lý này sẽ phát triển thành viêm gan, xơ gan, ảnh hưởng nhiều đến sức khỏe người bệnh, thậm chí là ung thư gan, đe dọa tính mạng."
+    },
+    {
+      "question": "Bệnh gan nhiễm mỡ có lây không?",
+      "answer": "Gan nhiễm mỡ là một bệnh lý xảy ra do sự tích tụ mỡ trong tế bào gan, mà không phải do virus hoặc vi khuẩn. Vì vậy, bệnh gan nhiễm mỡ không lây truyền."
+    },
+    {
+      "question": "Nhiễm gan nhiễm mỡ có mang thai được không?",
+      "answer": "Gan nhiễm mỡ không ảnh hưởng đến khả năng sinh sản, do đó, người bệnh vẫn có thể mang thai. Tuy nhiên, mức độ gan nhiễm mỡ sẽ ảnh hưởng đến sức khỏe mẹ và bé trong thai kỳ. Ở giai đoạn gan nhiễm mỡ nhẹ, ảnh hưởng đến thai kỳ rất ít nếu chức năng gan chưa bị tổn thương nhiều. Gan nhiễm mỡ nặng hoặc viêm gan nhiễm mỡ cấp tính thai kỳ có thể đe dọa nghiêm trọng sức khỏe người bệnh và thai nhi."
+    },
+    {
+      "question": "Người bệnh gan nhiễm mỡ nên ăn gì?",
+      "answer": "Người bệnh nên ăn nhiều rau củ quả chứa chất chống oxy hoá và giàu chất xơ, sử dụng dầu thực vật như dầu mè và dầu đậu nành, tăng khẩu phần cá giàu axit omega-3. Đây là nguồn thực phẩm tốt giúp giảm cholesterol và nguy cơ gan nhiễm mỡ."
+    },
+    {
+      "question": "Người bệnh gan nhiễm mỡ nên kiêng ăn gì?",
+      "answer": "Người bệnh nên bỏ hoàn toàn rượu, bia và các loại thức uống có cồn, hạn chế sử dụng mỡ động vật, tránh các loại thực phẩm giàu cholesterol như nội tạng, da động vật, lòng đỏ trứng, và giảm khẩu phần thịt đỏ như thịt bò, thịt heo."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang cảm thấy mệt mỏi, khó chịu vùng bụng trên bên phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo", "viem-gan", "soi-mat"]
+    },
+    {
+      "question": "Tôi hay bị vàng da, vàng mắt và nước tiểu sậm màu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "gan-nhiem-mo",
+        "viem-gan",
+        "xo-gan",
+        "benh-ly-duong-mat"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chán ăn, buồn nôn và đầy bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo", "viem-da-day", "roi-loan-tieu-hoa"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như vàng da, phù chân và cổ trướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo", "xo-gan", "suy-gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn và sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["gan-nhiem-mo", "ung-thu-gan", "viem-gan-man"]
     }
   ]
 }

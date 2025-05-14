@@ -1,39 +1,101 @@
 {
   "disease_id": "hep-khe-khop-goi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hẹp khe khớp gối",
+  "disease_alternative_names": [
+    "Thu hẹp khoảng khớp gối",
+    "Narrowing of knee joint space"
+  ],
+  "disease_definition": "Hẹp khe khớp gối là tình trạng lớp sụn bị mài mòn theo thời gian, khiến khoảng không gian bên trong khớp trở nên nhỏ hơn. Từ đó, quá trình vận động gặp khó khăn, thường gây cảm giác đau cứng, thậm chí mất khả năng cử động hoặc tàn phế.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau khớp",
+      "description": "Cơn đau xuất hiện âm ỉ, tăng dần khi vận động hoặc thay đổi tư thế và có xu hướng giảm nếu nghỉ ngơi đầy đủ."
+    },
+    {
+      "name": "Khả năng vận động bị hạn chế",
+      "description": "Hẹp khe khớp xảy ra do phần sụn khớp bị bong tróc, làm tăng ma sát giữa các đầu xương, dẫn đến khả năng vận động bị hạn chế, đặc biệt là khi lên xuống cầu thang, ngồi xổm hoặc thay đổi tư thế đột ngột."
+    },
+    {
+      "name": "Khớp gối bị biến dạng",
+      "description": "Khớp gối có thể bị biến dạng do hẹp khe khớp xuất hiện cùng gai xương."
+    },
+    {
+      "name": "Cứng khớp buổi sáng",
+      "description": "Khớp bị cứng vào buổi sáng, không vận động được và triệu chứng này thường biến mất trong vòng 30 phút."
+    },
+    {
+      "name": "Âm thanh lạ khi vận động khớp",
+      "description": "Có âm thanh lạ (kêu lục cục hoặc tiếng cọt kẹt) xuất hiện khi vận động khớp gối."
+    },
+    {
+      "name": "Xuất hiện các gai xương",
+      "description": "Dễ dàng sờ thấy các gai khớp gối lớn xuất hiện."
+    },
+    {
+      "name": "Teo cơ quanh khớp gối",
+      "description": "Cơ quanh khớp gối có dấu hiệu bị teo do hạn chế vận động."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hẹp khớp gối thường xuất phát từ nguyên nhân mất sụn khớp ở xương đầu gối. Khi khớp gối khỏe mạnh, giữa xương đùi, xương chày và xương bánh chè luôn có một khoảng không gian vừa đủ, đảm bảo khớp cử động được linh hoạt. Tuy nhiên, nếu chấn thương nghiêm trọng hoặc thoái hóa xảy ra, bề mặt sụn bao bọc các đầu xương sẽ bị bào mòn.",
+    "related_factors": "Tổn thương liên quan đến sụn chêm hay rách dây chằng chéo trước cũng có thể dẫn đến hẹp khe khớp gối.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác: Tuổi tác càng cao, sụn càng dễ bị thoái hóa, dẫn đến tình trạng thu hẹp khe khớp",
+    "Chấn thương: Chấn thương do tai nạn giao thông, tai nạn thể thao hoặc vận động quá mức, lặp đi lặp lại có thể gây ra tổn thương và thoái hóa khớp vĩnh viễn",
+    "Thừa cân: Tình trạng này gây căng thẳng và tạo áp lực quá mức lên các khớp, về lâu dài dễ dẫn đến thoái hóa"
+  ],
+  "complications": [
+    "Viêm khớp dạng thấp",
+    "Chảy máu gần khớp",
+    "Hoại tử xương đầu gối",
+    "Đầu gối bị mất chức năng vận động"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Chẩn đoán hình ảnh"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Giúp xác định mức độ thu hẹp khớp gối, khả năng tiến triển của bệnh viêm khớp, các dấu hiệu bất thường của khớp gối, lệch khớp, sự xuất hiện của gai xương, dấu hiệu chấn thương, gãy xương (nếu có), dấu hiệu sưng tấy mô mềm, sự tồn tại của chất lỏng dư thừa trong đầu gối."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Là xét nghiệm không xâm lấn, không gây đau, sử dụng từ trường mạnh và sóng vô tuyến để thu thập hình ảnh hai hoặc ba chiều về các cấu trúc bên trong đầu gối. Đặc biệt hữu ích khi nghi ngờ tổn thương xuất phát từ một nguyên nhân khác ngoài viêm khớp."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Sử dụng đầu dò để truyền sóng âm thanh vào cơ thể, từ đó các hình ảnh về cấu trúc bên trong sẽ được mô phỏng chi tiết, giúp hỗ trợ chẩn đoán chính xác hơn về tình trạng hẹp khe khớp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy theo từng tình trạng hẹp khớp gối, bác sĩ sẽ chỉ định phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị không dùng thuốc",
+        "description": "Giảm cân (nếu cần thiết) để làm giảm áp lực lên khớp. Vật lý trị liệu, đặc biệt là thủy liệu pháp (thực hiện trong môi trường nước) được áp dụng phổ biến và hiệu quả cho những trường hợp viêm khớp nặng, giúp giảm hoặc loại bỏ trọng lực, thư giãn cơ bắp và giảm phù nề, sưng tấy."
+      },
+      {
+        "name": "Điều trị dùng thuốc",
+        "description": "Sử dụng thuốc giảm đau như Codeine, Acetaminophen, Aspirin, Oxycodone, Hydrocodone để thay đổi cảm nhận của não bộ về cơn đau. Thuốc chống viêm không Steroid (NSAID) giúp ngăn chặn tác động từ enzyme Cyclooxygenase."
+      },
+      {
+        "name": "Điều trị theo cơ chế bệnh sinh",
+        "description": "Tiêm Steroid (như Coritsone) trực tiếp vào khớp gối để tăng hiệu quả hấp thụ, giúp giảm đau và cải thiện khả năng vận động. Tiêm chất nhờn (Axit Hyaluronic) vào khớp gối để bôi trơn và giảm đau."
+      },
+      {
+        "name": "Điều trị ngoại khoa",
+        "description": "Nội soi khớp gối: Thủ thuật ít xâm lấn để quan sát và điều trị các tổn thương bên trong khớp. Thay khớp gối: Được chỉ định khi hẹp khớp gối đã tiến triển đến mức nghiêm trọng, giúp tái tạo bề mặt các đầu xương đùi, ống chân bằng vật liệu nhân tạo."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị từ bác sĩ",
+      "Thực hiện đúng bài tập vật lý trị liệu",
+      "Duy trì cân nặng hợp lý",
+      "Tránh các hoạt động gây căng thẳng cho khớp gối",
+      "Sử dụng dụng cụ hỗ trợ như nẹp gối hoặc gậy nếu cần thiết"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +103,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Xây dựng thực đơn lành mạnh với các thực phẩm tốt cho khớp (cá giàu axit béo Omega-3, rau họ cải, các loại đậu, dầu thực vật)",
+      "Quản lý cân nặng hợp lý để giảm áp lực lên khớp gối",
+      "Tập thể dục thể thao đều đặn, lựa chọn các bài tập phù hợp (đi xe đạp, bơi lội)",
+      "Thường xuyên kéo giãn khớp gối để tránh hiện tượng căng cứng",
+      "Sử dụng giày dép có kích cỡ phù hợp",
+      "Duy trì tư thế đúng, tránh nâng vật nặng hoặc thực hiện các chuyển động lặp đi lặp lại",
+      "Chủ động liên hệ bác sĩ khi xảy ra chấn thương liên quan đến khớp gối"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hẹp khe khớp gối có nguy hiểm không?",
+      "answer": "Hẹp khe khớp gối có thể gây ra các biến chứng nghiêm trọng nếu không được điều trị kịp thời và đúng cách. Tình trạng này có thể dẫn đến viêm khớp, chảy máu gần khớp, hoại tử xương đầu gối và thậm chí là mất hoàn toàn chức năng vận động của đầu gối. Đặc biệt, hẹp khe khớp gối thường là dấu hiệu sớm của bệnh viêm khớp, trong đó phổ biến là viêm khớp dạng thấp."
+    },
+    {
+      "question": "Hẹp khe khớp gối có chữa được không?",
+      "answer": "Tùy thuộc vào mức độ hẹp khe khớp gối, bệnh có thể điều trị bằng nhiều phương pháp khác nhau. Đối với các trường hợp nhẹ đến trung bình, các biện pháp không dùng thuốc như giảm cân, vật lý trị liệu, kết hợp với thuốc giảm đau và chống viêm có thể cải thiện tình trạng đáng kể. Với các trường hợp nặng hơn, tiêm Steroid hoặc chất nhờn vào khớp gối cũng là phương pháp hiệu quả. Khi các biện pháp điều trị nội khoa không hiệu quả, phẫu thuật như nội soi khớp gối hoặc thay khớp gối có thể được chỉ định để phục hồi chức năng vận động."
+    },
+    {
+      "question": "Hẹp khe khớp gối và phân độ hẹp khớp gối là gì?",
+      "answer": "Hẹp khe khớp gối là tình trạng khoảng không gian giữa các xương trong khớp gối bị thu hẹp do lớp sụn bị mài mòn. Mức độ hẹp được đánh giá qua thang điểm Kellgren-Lawrence: Độ 0 (không có dấu hiệu bất thường), Độ 1 (xuất hiện một thay đổi bất thường), Độ 2 (thay đổi không đáng kể, xuất hiện gai xương), Độ 3 (thay đổi vừa phải với nhiều gai xương, kèm hiện tượng thu hẹp khe khớp), Độ 4 (thay đổi nghiêm trọng với sự thu hẹp đáng kể, gai xương kích thước lớn, đầu xương biến dạng rõ)."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa hẹp khe khớp gối?",
+      "answer": "Để phòng ngừa hẹp khe khớp gối, bạn nên duy trì cân nặng hợp lý, xây dựng chế độ ăn lành mạnh (giàu omega-3, chất chống oxy hóa), tập thể dục đều đặn với các bài tập phù hợp như bơi lội hoặc đạp xe, tránh các hoạt động gây áp lực lớn lên khớp gối, sử dụng giày dép có kích cỡ phù hợp và đệm tốt, duy trì tư thế đúng khi đứng và ngồi, và liên hệ bác sĩ ngay khi có dấu hiệu đau hoặc chấn thương ở khớp gối."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi bị đau âm ỉ ở khớp gối và cơn đau tăng lên khi leo cầu thang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-khe-khop-goi",
+        "thoai-hoa-khop-goi",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy khó khăn khi ngồi xổm và khớp gối của tôi kêu lục cục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hep-khe-khop-goi", "thoai-hoa-khop", "viem-khop"]
+    },
+    {
+      "question": "Khớp gối của tôi bị sưng và đau nhức khi thay đổi tư thế. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-khe-khop-goi",
+        "viem-khop",
+        "chan-thuong-khop-goi"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy khớp gối cứng đờ vào buổi sáng và khó vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-khe-khop-goi",
+        "viem-khop-dang-thap",
+        "thoai-hoa-khop"
+      ]
+    },
+    {
+      "question": "Tôi thấy có gai xương ở khớp gối và đau khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hep-khe-khop-goi",
+        "thoai-hoa-khop",
+        "viem-xuong-khop"
+      ]
     }
   ]
 }

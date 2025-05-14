@@ -1,39 +1,109 @@
 {
   "disease_id": "lo-tieu-lech-thap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Lỗ tiểu lệch thấp",
+  "disease_alternative_names": ["Hypospadias", "Dị tật niệu đạo trước"],
+  "disease_definition": "Lỗ tiểu lệch thấp là một dị tật bẩm sinh ở lỗ tiểu bé trai. Lỗ tiểu của trẻ nằm thấp hơn vị trí bình thường. Tình trạng này xảy ra khi niệu đạo của người bệnh quá ngắn, khiến lỗ tiểu nằm xa đỉnh quy đầu. Niệu đạo bình thường mở ra tại đầu dương vật. Tuy nhiên, khi trẻ bị lỗ tiểu lệch thấp, niệu đạo lại mở ra ở mặt dưới quy đầu, thân dương vật, bìu hoặc tầng sinh môn chủ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Vị trí lỗ tiểu thấp hơn bình thường",
+      "description": "Lỗ tiểu nằm ở mặt dưới quy đầu, thân dương vật, bìu hoặc tầng sinh môn thay vì ở đỉnh quy đầu."
+    },
+    {
+      "name": "Tia nước tiểu bị lệch",
+      "description": "Tia của nước tiểu không thẳng về phía trước, lại bị lệch xuống dưới hoặc ra sau."
+    },
+    {
+      "name": "Không thể tiểu đứng",
+      "description": "Nếu vị trí lỗ tiểu quá gần gốc dương vật, người bệnh không tiểu đứng được."
+    },
+    {
+      "name": "Dương vật bị cong khi cương",
+      "description": "Khi cương, dương vật bị cong do sự phát triển bất thường."
+    },
+    {
+      "name": "Bất thường ở da quy đầu",
+      "description": "Da quy đầu thiếu ở mặt bụng nhưng lại thừa tại mặt lưng."
+    },
+    {
+      "name": "Bệnh lý đi kèm tại vùng sinh dục",
+      "description": "Có thể xuất hiện những bệnh lý đi kèm như tinh hoàn ẩn, thoát vị bẹn, bìu chẻ đôi, chuyển vị dương vật bìu, rối loạn phát triển giới tính."
+    },
+    {
+      "name": "Rối loạn tâm lý",
+      "description": "Bé trai có thể cảm thấy tự ti, mặc cảm về các bất thường ở lỗ tiểu khi không có biện pháp xử trí sớm."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây lỗ tiểu thấp ở trẻ là do quá trình phát triển bất thường của niệu đạo trước, vật xốp, vật hang và bao quy đầu trong thai kỳ.",
+    "related_factors": "Khiếm khuyết những yếu tố phát triển thượng bì da ở mặt bụng của dương vật, khiếm khuyết về mạch máu ở vùng dương vật, thiếu hụt enzyme trong quá trình sinh tổng hợp testosterone, thụ tinh trong ống nghiệm (IVF).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thụ tinh trong ống nghiệm (IVF)",
+    "Yếu tố di truyền",
+    "Thiếu hụt enzyme trong quá trình sinh tổng hợp testosterone",
+    "Mẹ hút thuốc và uống rượu trong thai kỳ",
+    "Môi trường ô nhiễm",
+    "Tiếp xúc với khói bụi và khói thuốc lá trong thai kỳ"
+  ],
+  "complications": [
+    "Bất thường trong phát triển giới tính",
+    "Bất thường trong hệ tiết niệu",
+    "Xuất hiện nang tuyến tiền liệt (tỷ lệ 11-14%)",
+    "Vô sinh nam",
+    "Khó khăn khi quan hệ tình dục",
+    "Rối loạn tâm lý, mặc cảm tự ti"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Tầm soát bất thường nhiễm sắc thể",
+      "Các xét nghiệm khác"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thăm khám lâm sàng",
+        "description": "Bác sĩ chuyên khoa tiết niệu – nam học sẽ yêu cầu gia đình người bệnh cung cấp thông tin về tiền sử, bệnh sử của bé trai, đồng thời khám lâm sàng để có định hướng cho việc chẩn đoán."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Kiểm tra cấu trúc hệ tiết niệu và các bất thường đi kèm."
+      },
+      {
+        "name": "Xét nghiệm nội tiết",
+        "description": "Đánh giá mức độ hormone trong máu, đặc biệt là testosterone."
+      },
+      {
+        "name": "Tinh dịch đồ",
+        "description": "Đánh giá chức năng sinh sản ở nam giới trưởng thành bị lỗ tiểu lệch thấp."
+      },
+      {
+        "name": "Tầm soát nhiễm sắc thể",
+        "description": "Các trường hợp lỗ tiểu lệch thấp ở thể nặng thường trên nền của một bất thường nhiễm sắc thể."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị chủ yếu của trường hợp lỗ tiểu lệch thấp là phẫu thuật. Trẻ mắc dị tật này nên được điều trị phẫu thuật trong giai đoạn từ 3 đến 6 tháng tuổi. Lưu ý không nên phẫu thuật muộn khi trẻ sau 18 tháng tuổi.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật đưa lỗ tiểu về đỉnh quy đầu",
+        "description": "Mục đích của phẫu thuật là đưa lỗ tiểu về đỉnh quy đầu, tạo dáng thẳng cho dương vật; nhờ đó tránh được việc trẻ cảm thấy tự ti khi lớn lên và giảm thiểu nguy cơ vô sinh trong tương lai."
+      },
+      {
+        "name": "Chỉnh hình dương vật cong",
+        "description": "Nếu dương vật bị cong, bác sĩ sẽ tiến hành điều chỉnh để tạo dáng thẳng cho dương vật, nhằm hạn chế khó khăn khi quan hệ tình dục sau này."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi vết mổ của người bệnh sau phẫu thuật",
+      "Theo dõi thông tiểu đúng cách",
+      "Treo túi câu nước tiểu đúng quy định",
+      "Không để người bệnh hoạt động quá mức như chạy nhảy, đùa giỡn",
+      "Uống thuốc theo toa",
+      "Tái khám đúng hẹn để bác sĩ đánh giá kết quả điều trị",
+      "Theo dõi những triệu chứng bất thường sau phẫu thuật"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +111,76 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc và uống rượu trong thai kỳ",
+      "Kiểm soát tốt cân nặng khi mang thai",
+      "Tránh tiếp xúc với môi trường ô nhiễm, nhiều khói bụi và khói thuốc lá",
+      "Duy trì khám thai định kỳ để tầm soát bệnh cho mẹ và thai nhi sớm",
+      "Áp dụng chế độ ăn uống đầy đủ dưỡng chất, đặc biệt tăng cường bổ sung vitamin và axit folic"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Lỗ tiểu lệch thấp có phòng ngừa được không?",
+      "answer": "Hiện không có biện pháp phòng ngừa dị tật lỗ tiểu lệch thấp ở bé trai. Tuy nhiên, để hạn chế nguy cơ mắc phải dị tật bẩm sinh này, người mẹ nên chủ động thực hiện những biện pháp phòng ngừa trong thai kỳ như: không hút thuốc và uống rượu, kiểm soát tốt cân nặng khi mang thai, tránh tiếp xúc với môi trường ô nhiễm, duy trì khám thai định kỳ, và áp dụng chế độ ăn uống đầy đủ dưỡng chất."
+    },
+    {
+      "question": "Khi nào nên phẫu thuật điều trị lỗ tiểu lệch thấp?",
+      "answer": "Trẻ mắc dị tật lỗ tiểu lệch thấp nên được điều trị phẫu thuật trong giai đoạn từ 3 đến 6 tháng tuổi. Lưu ý không nên phẫu thuật muộn khi trẻ sau 18 tháng tuổi. Phẫu thuật sớm sẽ giúp nâng tỷ lệ điều trị thành công, nhờ đó tránh mặc cảm cho trẻ sau này. Tuy nhiên, trẻ có dương vật nhỏ có thể cần phẫu thuật trễ hơn."
+    },
+    {
+      "question": "Lỗ tiểu lệch thấp có gây vô sinh không?",
+      "answer": "Người bị lỗ tiểu lệch thấp có thể đi kèm dương vật cong. Tình trạng cong dương vật ở bé trai nếu không được điều trị, đến tuổi trưởng thành có thể gây nhiều khó khăn khi quan hệ tình dục. Đối với tình trạng dương vật cong nặng, người bệnh cần phải phẫu thuật nhiều lần để chỉnh sửa. Ngoài ra, lỗ tiểu lệch thấp đi kèm cong dương vật có thể dẫn tới vô sinh trong tương lai khi không có biện pháp can thiệp sớm."
+    },
+    {
+      "question": "Sau phẫu thuật lỗ tiểu lệch thấp cần lưu ý gì?",
+      "answer": "Sau phẫu thuật, người nhà cần theo dõi vết mổ của người bệnh, theo dõi thông tiểu, treo túi câu nước tiểu đúng quy định, không để người bệnh hoạt động quá mức. Khi xuất viện, cần cho trẻ uống thuốc theo toa, tái khám đúng hẹn, theo dõi trẻ có gặp phải tình trạng tiểu khó, bí tiểu, tiểu rò, tiểu tia nhỏ-yếu không. Cần đi khám ngay nếu trẻ sốt từ 38°C trở lên trong hơn 24 giờ, khó đi tiểu, đầu dương vật đổi màu xanh hoặc xám, chảy máu từ vị trí phẫu thuật."
+    },
+    {
+      "question": "Phẫu thuật lỗ tiểu lệch thấp có biến chứng không?",
+      "answer": "Rò niệu đạo là biến chứng phổ biến nhất sau phẫu thuật điều trị dị tật lỗ tiểu lệch thấp, khoảng 10-20%. Ngoài ra, người bệnh còn có nguy cơ hẹp niệu đạo, túi thừa niệu đạo sau mổ. Để hạn chế rủi ro sau phẫu thuật, người bệnh nên điều trị tại các cơ sở y tế uy tín với đội ngũ bác sĩ giàu kinh nghiệm cùng dàn trang thiết bị y tế hiện đại."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như lỗ tiểu nằm thấp hơn bình thường và tia nước tiểu bị lệch xuống dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lo-tieu-lech-thap",
+        "hep-nieu-dao",
+        "dang-dau-duong-vat"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó khăn khi tiểu đứng và dương vật bị cong khi cương cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lo-tieu-lech-thap",
+        "cong-duong-vat",
+        "hep-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi hay bị són tiểu, tia nước tiểu yếu và bắn ra sau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lo-tieu-lech-thap",
+        "hep-nieu-dao",
+        "roi-loan-co-that-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như da quy đầu thiếu ở mặt bụng và thừa ở mặt lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lo-tieu-lech-thap",
+        "dang-dau-duong-vat",
+        "hep-bao-quy-dau"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tự ti về hình dáng của dương vật và khó khăn khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "lo-tieu-lech-thap",
+        "cong-duong-vat",
+        "hep-nieu-dao"
+      ]
     }
   ]
 }

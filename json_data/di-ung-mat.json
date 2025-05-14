@@ -1,58 +1,241 @@
 {
   "disease_id": "di-ung-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Dị Ứng Mắt",
+  "disease_alternative_names": [
+    "Viêm kết mạc dị ứng",
+    "Allergic conjunctivitis",
+    "Eye allergy"
+  ],
+  "disease_definition": "Dị ứng mắt hay viêm kết mạc dị ứng, xảy ra khi mắt tiếp xúc với các chất gây kích ứng (gọi là dị nguyên). Khi dị nguyên tiếp xúc với mắt, cơ thể sẽ sản sinh histamin để chống lại những tác nhân này, gây ra các triệu chứng như ngứa, đỏ, rát mắt. Bệnh ảnh hưởng đến mọi nhóm tuổi, phổ biến vào mùa xuân, hè và thu. Có hai loại dị ứng mắt: dị ứng theo mùa và dị ứng lâu năm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mắt đỏ",
+      "description": "Mắt đỏ xảy ra do sự giãn nở của các mạch máu rất nhỏ nằm giữa màng cứng và kết mạc trong mắt. Những mạch máu này có thể sưng lên do tiếp xúc với các tác nhân từ môi trường như khói, bụi, hóa chất."
+    },
+    {
+      "name": "Chảy nước mắt",
+      "description": "Khi dị ứng, cơ thể sẽ giải phóng histamin để đối phó với các tác nhân gây hại, từ đó gây ra tình trạng chảy nước mắt liên tục."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Người bệnh cảm thấy khó chịu khi tiếp xúc với ánh sáng từ nhiều nguồn như ánh sáng mặt trời, đèn huỳnh quang, đèn sợi đốt, phải nheo hoặc nhắm mắt để tránh."
+    },
+    {
+      "name": "Ngứa ngáy",
+      "description": "Ngứa mắt do dị ứng với các tác nhân như bụi, khói, phấn hoa, lông động vật. Người bệnh thường không chịu được cơn ngứa và dụi mắt, có thể gây xước giác mạc."
+    },
+    {
+      "name": "Nóng rát",
+      "description": "Cảm giác nóng rát xảy ra khi mắt dị ứng với các chất kích ứng từ môi trường như khói thuốc, mạt bụi, nấm mốc, phấn hoa, vảy da thú cưng, hoặc hóa chất trong các sản phẩm làm đẹp."
+    },
+    {
+      "name": "Mí mắt sưng",
+      "description": "Biểu hiện sưng phù ở một hoặc cả hai mí mắt trên và dưới, có thể bị ở một hoặc cả hai mắt. Tình trạng này do chất lỏng tích tụ hoặc viêm ở các mô mỏng xung quanh mắt."
+    },
+    {
+      "name": "Cảm giác cộm",
+      "description": "Cảm giác có vật lạ trong mắt, khiến người bệnh thấy khó chịu, mắt chảy nước, ngứa và thường lấy tay dụi, có thể gây xước giác mạc nếu không được xử lý đúng cách."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Dị ứng mắt gây ra bởi phản ứng của hệ miễn dịch với các chất lạ không gây hại cho cơ thể (dị nguyên). Khi các dị nguyên tiếp xúc với mắt, cơ thể sẽ sản sinh histamin chống lại những tác nhân này, gây ra các triệu chứng như ngứa, đỏ, rát mắt.",
+    "related_factors": "Các tác nhân gây dị ứng mắt phổ biến bao gồm phấn hoa từ cây cỏ, mạt bụi trong các vật dụng gia đình, khói từ thuốc lá và môi trường ô nhiễm, nước hoa có chứa hương liệu, vảy da và nước bọt của thú cưng, hóa chất từ các sản phẩm tẩy rửa và mỹ phẩm.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sống trong vùng có nồng độ phấn hoa cao, đặc biệt vào mùa xuân, hè và thu",
+    "Tiếp xúc thường xuyên với mạt bụi và nấm mốc trong nhà",
+    "Nuôi thú cưng như chó, mèo trong không gian sống",
+    "Sử dụng mỹ phẩm, nước hoa và các sản phẩm chăm sóc cá nhân có chứa hóa chất gây kích ứng",
+    "Tiếp xúc với khói và ô nhiễm không khí",
+    "Tiền sử cá nhân hoặc gia đình có các bệnh dị ứng",
+    "Sử dụng thuốc nhỏ mắt quá nhiều hoặc không đúng cách"
+  ],
+  "complications": [
+    "Xước giác mạc do dụi mắt quá mức",
+    "Nhiễm trùng thứ phát do vi khuẩn xâm nhập qua các vết trầy xước",
+    "Sẹo giác mạc và giảm thị lực nghiêm trọng nếu không được điều trị đúng cách",
+    "Khó khăn trong các hoạt động hàng ngày do khó chịu và nhạy cảm với ánh sáng",
+    "Ảnh hưởng đến chất lượng cuộc sống, đặc biệt trong mùa có nồng độ dị nguyên cao",
+    "Mắt khô mãn tính do sử dụng thuốc kháng histamin kéo dài"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám mắt chi tiết để xác định các triệu chứng và tình trạng dị ứng",
+      "Khai thác tiền sử bệnh của người bệnh và gia đình",
+      "Đánh giá các triệu chứng liên quan đến mũi, họng để xác định mức độ dị ứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám bằng kính hiển vi đèn khe",
+        "description": "Bác sĩ nhãn khoa sử dụng kính hiển vi đèn khe để quan sát chi tiết các cấu trúc của mắt và xác định mức độ viêm, sưng của kết mạc và các tổn thương do dị ứng."
+      },
+      {
+        "name": "Xét nghiệm tế bào bạch cầu ái toan",
+        "description": "Trong trường hợp dị ứng nặng hoặc không rõ nguyên nhân, bác sĩ có thể chỉ định xét nghiệm bạch cầu ái toan để xác định chính xác mức độ phản ứng dị ứng."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị dị ứng mắt tập trung vào việc tránh các chất gây dị ứng và kiểm soát các triệu chứng. Hầu hết các trường hợp dị ứng mắt nhẹ có thể được điều trị bằng thuốc không kê đơn và các biện pháp chăm sóc tại nhà.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc nhỏ mắt nhân tạo",
+        "description": "Loại bỏ chất gây dị ứng, giảm triệu chứng khô và bổ sung độ ẩm cho mắt. Có thể mua và sử dụng mà không cần toa, tối đa 6 lần/ngày, cần sử dụng thường xuyên để đạt hiệu quả tốt."
+      },
+      {
+        "name": "Thuốc kháng histamin đường uống",
+        "description": "Điều trị hiệu quả các triệu chứng ngứa, rát mắt. Tuy nhiên, loại thuốc này có thể làm khô mắt hoặc trầm trọng thêm các triệu chứng dị ứng."
+      },
+      {
+        "name": "Thuốc nhỏ mắt chứa chất ổn định tế bào mast",
+        "description": "Giúp làm giảm tình trạng ngứa, mẩn đỏ, chảy nước mắt và nóng rát. Sử dụng khoảng 1-2 lần/ngày để đạt được hiệu quả."
+      },
+      {
+        "name": "Thuốc nhỏ mắt chứa corticosteroid",
+        "description": "Giúp điều trị các triệu chứng dị ứng mắt nghiêm trọng và kéo dài như ngứa, đỏ, sưng. Cần tham khảo ý kiến của bác sĩ chuyên khoa mắt trước khi dùng để tránh tác dụng phụ nghiêm trọng."
+      },
+      {
+        "name": "Tiêm miễn dịch trị liệu",
+        "description": "Áp dụng khi các phương pháp khác không hiệu quả. Bác sĩ sẽ tiêm một lượng nhất định các chất gây dị ứng vào cơ thể bệnh nhân để tăng khả năng miễn dịch với những chất này."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tránh dụi mắt khi bị ngứa để không làm trầm trọng thêm các triệu chứng",
+      "Sử dụng khăn lạnh chườm lên mắt để giảm sưng và ngứa",
+      "Đóng cửa sổ và bật điều hòa trong nhà khi nồng độ phấn hoa ngoài trời cao",
+      "Đeo kính râm khi ra ngoài để bảo vệ mắt khỏi các chất kích ứng",
+      "Tránh sử dụng quạt khi ở gần cửa sổ vì có thể hút phấn hoa và các chất gây kích ứng vào nhà",
+      "Giữ sạch các thiết bị điều hòa không khí để ngăn bụi bẩn hình thành",
+      "Thường xuyên vệ sinh nhà cửa, đặc biệt là phòng ngủ, để giảm thiểu mạt bụi",
+      "Giữ độ ẩm trong nhà từ 30% đến 50% để hạn chế sự phát triển của nấm mốc"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine phòng ngừa dị ứng mắt.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế dụi mắt ngay cả khi không có triệu chứng dị ứng",
+      "Vệ sinh khu vực sống sạch sẽ, thoáng mát, hút bụi thường xuyên",
+      "Duy trì độ ẩm trong nhà ở mức 30-50% để hạn chế nấm mốc phát triển",
+      "Rửa tay thường xuyên để hạn chế vi khuẩn bám và sinh sôi",
+      "Sử dụng khăn giấy dùng một lần để lau khô tay",
+      "Giữ vật nuôi xa giường ngủ và các vật dụng cá nhân",
+      "Rửa tay bằng xà phòng, giặt sạch quần áo sau khi tiếp xúc với thú cưng",
+      "Đeo kính râm khi ra ngoài để bảo vệ mắt khỏi phấn hoa và các chất kích ứng",
+      "Sử dụng máy lọc không khí trong nhà để giảm các chất gây dị ứng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Dị ứng mắt có nguy hiểm không?",
+      "answer": "Dị ứng mắt thường không nguy hiểm và có thể được kiểm soát bằng các biện pháp điều trị thích hợp. Tuy nhiên, nếu để bệnh diễn tiến lâu ngày mà không điều trị, nguy cơ bội nhiễm do virus, vi khuẩn xâm nhập rất cao. Dụi mắt quá nhiều có thể gây xước giác mạc, dẫn đến sẹo và suy giảm thị lực nghiêm trọng."
+    },
+    {
+      "question": "Làm thế nào để phân biệt giữa dị ứng mắt và nhiễm trùng mắt?",
+      "answer": "Dị ứng mắt thường gây ngứa dữ dội, mắt đỏ, chảy nước mắt trong, và thường ảnh hưởng đến cả hai mắt. Nhiễm trùng mắt có thể chỉ ảnh hưởng một mắt, thường có ghèn đặc màu vàng hoặc xanh, đau nhức nhiều hơn, và ít ngứa hơn. Dị ứng mắt thường kèm theo các triệu chứng dị ứng khác như hắt hơi, nghẹt mũi, trong khi nhiễm trùng mắt có thể kèm theo sốt."
+    },
+    {
+      "question": "Có nên sử dụng thuốc nhỏ mắt mỗi ngày nếu bị dị ứng mắt theo mùa?",
+      "answer": "Đối với dị ứng mắt theo mùa, việc sử dụng thuốc nhỏ mắt có thể cần thiết trong thời gian có triệu chứng, nhưng không nên sử dụng lâu dài nếu không có chỉ định của bác sĩ. Thuốc nhỏ mắt nhân tạo có thể sử dụng tối đa 6 lần/ngày để giảm kích ứng. Với các loại thuốc chứa corticosteroid, cần tham khảo ý kiến bác sĩ vì có thể gây tác dụng phụ nghiêm trọng nếu sử dụng kéo dài."
+    },
+    {
+      "question": "Dị ứng mắt có thể tự khỏi không?",
+      "answer": "Dị ứng mắt có thể tự thuyên giảm khi hết mùa dị ứng hoặc khi không còn tiếp xúc với các chất gây dị ứng. Tuy nhiên, nếu không tránh được các tác nhân gây dị ứng hoặc nếu bị dị ứng lâu năm, triệu chứng có thể kéo dài và cần điều trị. Việc chăm sóc, điều trị đúng cách sẽ giúp bệnh nhanh khỏi và tránh các biến chứng."
+    },
+    {
+      "question": "Làm thế nào để giảm ngứa mắt do dị ứng mà không cần dùng thuốc?",
+      "answer": "Để giảm ngứa mắt do dị ứng mà không cần dùng thuốc, bạn có thể: Chườm lạnh lên mắt để giảm sưng và ngứa; Tránh dụi mắt vì có thể làm triệu chứng nặng hơn; Rửa mắt bằng nước sạch để loại bỏ các chất gây dị ứng; Tránh tiếp xúc với các chất gây dị ứng; Sử dụng máy lọc không khí trong nhà; Giữ độ ẩm trong nhà ở mức thích hợp để giảm bụi và nấm mốc; Đeo kính râm khi ra ngoài để bảo vệ mắt."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mắt đỏ, ngứa và chảy nước mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị ứng mắt",
+        "Viêm kết mạc",
+        "Khô mắt",
+        "Viêm giác mạc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nhạy cảm với ánh sáng, phải nheo mắt khi ra ngoài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị ứng mắt",
+        "Viêm giác mạc",
+        "Viêm màng bồ đào",
+        "Nhạy cảm với ánh sáng do thuốc"
+      ]
+    },
+    {
+      "question": "Tôi hay dụi mắt vì ngứa, mí mắt sưng húp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Dị ứng mắt", "Viêm bờ mi", "Chắp mắt", "Lẹo mắt"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nóng rát mắt, cảm giác cộm như có cát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị ứng mắt",
+        "Khô mắt",
+        "Viêm kết mạc",
+        "Viêm giác mạc hột"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chảy nước mắt, kèm theo hắt hơi và sổ mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị ứng mắt",
+        "Viêm mũi dị ứng",
+        "Cảm lạnh",
+        "Cúm theo mùa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngứa mắt khi tiếp xúc với bụi, phấn hoa hoặc lông thú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị ứng mắt",
+        "Viêm kết mạc dị ứng theo mùa",
+        "Viêm kết mạc dị ứng lâu năm",
+        "Viêm mũi dị ứng kèm viêm kết mạc"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mắt đỏ, kèm theo cảm giác khó chịu khi đeo kính áp tròng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị ứng mắt",
+        "Viêm kết mạc do kính áp tròng",
+        "Khô mắt",
+        "Dị ứng với dung dịch ngâm kính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mắt sưng húp, khó mở mắt vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị ứng mắt",
+        "Viêm bờ mi",
+        "Phù mạch",
+        "Dị ứng thực phẩm ảnh hưởng đến mắt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngứa mắt về đêm, khó ngủ ngon giấc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị ứng mắt",
+        "Viêm bờ mi",
+        "Khô mắt",
+        "Dị ứng với chăn gối"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mắt đỏ, kèm theo đau họng và ho. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dị ứng mắt và đường hô hấp",
+        "Cảm lạnh",
+        "Cúm",
+        "Viêm xoang"
+      ]
     }
   ]
 }

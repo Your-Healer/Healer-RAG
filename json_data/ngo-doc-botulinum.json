@@ -1,58 +1,218 @@
 {
   "disease_id": "ngo-doc-botulinum",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ngộ độc Botulinum",
+  "disease_alternative_names": [
+    "Botulism",
+    "Ngộ độc thực phẩm Botulinum",
+    "Nhiễm độc tố Botulinum"
+  ],
+  "disease_definition": "Ngộ độc botulinum là một bệnh lý nặng, với các triệu chứng có thể bao gồm: sụp mí mắt và các dấu hiệu bất thường liên quan đến cơ mặt, mắt và cổ họng. Vi khuẩn tạo ra chất độc (độc tố) tấn công hệ thần kinh gây yếu và tê liệt các cơ. Nếu không được điều trị, ngộ độc botulinum dễ gây tử vong.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sụp mí mắt",
+      "description": "Mắt không thể mở hoàn toàn do tê liệt cơ mí mắt, là dấu hiệu đặc trưng của ngộ độc botulinum ở cả trẻ em và người lớn."
+    },
+    {
+      "name": "Chảy nước dãi",
+      "description": "Khả năng kiểm soát nước bọt kém, hay gặp ở trẻ sơ sinh bị ngộ độc botulinum."
+    },
+    {
+      "name": "Tiếng khóc yếu ớt",
+      "description": "Ở trẻ sơ sinh, tiếng khóc trở nên yếu ớt do suy giảm sức cơ."
+    },
+    {
+      "name": "Ăn chậm hoặc ăn kém",
+      "description": "Khó khăn trong việc ăn uống, đặc biệt ở trẻ sơ sinh mắc bệnh."
+    },
+    {
+      "name": "Giảm phản xạ",
+      "description": "Phản xạ cơ thể trở nên chậm hoặc giảm sút do độc tố tác động đến hệ thần kinh."
+    },
+    {
+      "name": "Táo bón",
+      "description": "Vấn đề về tiêu hóa, đặc biệt là táo bón, thường gặp ở người bị ngộ độc botulinum."
+    },
+    {
+      "name": "Nhìn đôi hoặc mờ",
+      "description": "Rối loạn thị giác, nhìn thấy hai hình ảnh hoặc mờ do tê liệt cơ mắt, thường gặp ở người lớn và trẻ lớn."
+    },
+    {
+      "name": "Khô miệng",
+      "description": "Giảm tiết nước bọt khiến miệng khô."
+    },
+    {
+      "name": "Nói lắp",
+      "description": "Khó khăn trong việc phát âm rõ ràng do cơ miệng và lưỡi yếu."
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Khó khăn khi nuốt thức ăn hoặc nước uống do cơ họng yếu."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Suy hô hấp do cơ hô hấp yếu, có thể gây nguy hiểm tính mạng."
+    },
+    {
+      "name": "Yếu hoặc tê liệt cánh tay hoặc chân",
+      "description": "Cơ chi bị yếu hoặc tê liệt, thường bắt đầu từ vai và lan xuống cánh tay, chân."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Triệu chứng tiêu hóa kèm theo khi ngộ độc botulinum."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Ngộ độc botulinum gây ra bởi độc tố Botulinum - một loại protein do vi khuẩn Clostridium botulinum tạo ra. Đây là chất độc gây chết người mạnh nhất từng được biết đến, liều lượng gây chết người khi tiêm vào khoảng 1,2-1,3 ng/kg và 10-13 ng/kg khi hít vào.",
+    "related_factors": "Vi khuẩn Clostridium botulinum là một loại vi khuẩn gram dương hình que, kỵ khí nên chỉ có thể phát triển trong môi trường thiếu oxy. Ở điều kiện thiếu oxy, vi khuẩn sinh ra bào tử rồi bài tiết độc tố. Có 7 loại độc tố Botulinum chính, trong đó 4 nhóm A, B, E và F gây bệnh ở người.",
+    "transmission_routes": [
+      "Ăn thực phẩm nhiễm bào tử hoặc độc tố, đặc biệt là thực phẩm đóng hộp không đúng cách",
+      "Trẻ sơ sinh ăn phải bào tử (từ mật ong hoặc các nguồn khác) phát triển thành vi khuẩn trong ruột",
+      "Bào tử xâm nhập vào vết thương hở, phát triển và giải phóng độc tố vào máu",
+      "Tiêm quá liều độc tố botulinum trong điều trị thẩm mỹ hoặc y tế"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Ăn thực phẩm đóng hộp tự làm tại nhà không đúng cách",
+    "Ăn thực phẩm từ các cơ sở không đảm bảo an toàn thực phẩm",
+    "Ăn thực phẩm được giữ ấm hoặc không được trữ trong tủ lạnh",
+    "Trẻ sơ sinh ăn mật ong trước 1 tuổi",
+    "Vết thương hở tiếp xúc với đất hoặc bụi bẩn",
+    "Tiêm chích ma túy",
+    "Tiêm botox không được thực hiện bởi bác sĩ có chuyên môn",
+    "Sử dụng các thực phẩm lên men, đóng chai không đúng quy cách"
+  ],
+  "complications": [
+    "Tê liệt các cơ, đặc biệt là cơ nuốt và hô hấp",
+    "Cực kỳ mệt mỏi và suy nhược lâu dài",
+    "Viêm phổi và nhiễm trùng thứ phát",
+    "Các vấn đề về hệ thần kinh kéo dài",
+    "Tử vong nếu không được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá các triệu chứng thần kinh",
+      "Khai thác tiền sử ăn uống và tiếp xúc"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu, phân hoặc chất nôn",
+        "description": "Phát hiện độc tố botulinum trong các mẫu bệnh phẩm của người bệnh"
+      },
+      {
+        "name": "Kiểm tra mẫu thực phẩm nghi ngờ",
+        "description": "Xét nghiệm tìm độc tố trong thực phẩm mà người bệnh đã ăn"
+      },
+      {
+        "name": "CT-Scan/MRI sọ não",
+        "description": "Giúp loại trừ các bệnh lý thần kinh khác có triệu chứng tương tự"
+      },
+      {
+        "name": "Xét nghiệm dịch não tủy",
+        "description": "Kiểm tra tình trạng nhiễm trùng hoặc các bất thường khác của hệ thần kinh trung ương"
+      },
+      {
+        "name": "Kiểm tra chức năng thần kinh cơ (đo điện cơ)",
+        "description": "Đánh giá mức độ tổn thương và suy giảm chức năng của các dây thần kinh và cơ"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị ngộ độc botulinum cần được thực hiện càng sớm càng tốt. Thuốc giải độc tố không chữa lành những gì đã bị tổn thương. Người bệnh có thể cần được điều trị ở bệnh viện vài tuần hoặc thậm chí vài tháng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc giải độc tố botulinum",
+        "description": "Sử dụng càng sớm càng tốt khi bắt đầu có triệu chứng để vô hiệu hóa độc tố trong máu, ngăn chặn tác động thêm lên hệ thần kinh."
+      },
+      {
+        "name": "Hỗ trợ hô hấp",
+        "description": "Với người bệnh có triệu chứng suy hô hấp nặng, cần thở máy và theo dõi tại khoa ICU cho đến khi tình trạng yếu liệt cơ hô hấp cải thiện."
+      },
+      {
+        "name": "Phẫu thuật vết thương",
+        "description": "Đối với người bệnh bị nhiễm độc vết thương, cần phẫu thuật để loại bỏ phần vết thương nhiễm độc."
+      },
+      {
+        "name": "Điều trị kháng sinh",
+        "description": "Dùng kháng sinh để điều trị nhiễm trùng đối với người bệnh bị nhiễm độc vết thương."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Báo cáo ngay cho các cơ quan y tế để truy tìm nguồn gốc và ngăn chặn các trường hợp khác",
+      "Theo dõi sát các dấu hiệu suy hô hấp và can thiệp kịp thời",
+      "Tiếp tục điều trị và hồi phục dài hạn sau khi xuất viện",
+      "Cần sự chăm sóc đặc biệt đối với trẻ sơ sinh bị ngộ độc botulinum"
+    ],
+    "prevention_of_transmission": [
+      "Ngộ độc botulinum không lây truyền trực tiếp từ người sang người",
+      "Cần xác định và loại bỏ nguồn thực phẩm nhiễm độc để ngăn ngừa các trường hợp khác"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Hiện không có vaccine phòng ngừa ngộ độc botulinum cho công chúng, chỉ có một số vaccine hạn chế cho nhân viên phòng thí nghiệm làm việc trực tiếp với độc tố.",
+      "recommended_for": [
+        "Nhân viên phòng thí nghiệm làm việc trực tiếp với độc tố botulinum"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Làm lạnh thực phẩm trong vòng 2 giờ sau khi nấu để ngăn vi khuẩn tạo ra bào tử",
+      "Nấu chín kỹ thức ăn, đặc biệt là thực phẩm đóng hộp",
+      "Tránh các hộp đựng thức ăn có dấu hiệu hư hoặc phồng lên",
+      "Tiệt trùng thực phẩm đóng hộp tại nhà trong nồi áp suất ở 250 độ F (121 độ C) trong 30 phút",
+      "Vứt bỏ thực phẩm bảo quản có mùi hôi",
+      "Không cho trẻ dưới 1 tuổi uống mật ong",
+      "Cho con bú để tăng cường miễn dịch cho trẻ",
+      "Tìm đến bác sĩ để điều trị vết thương khi có dấu hiệu bị nhiễm trùng",
+      "Làm sạch vết thương bị dơ bởi bụi bẩn và đất",
+      "Chỉ tiêm botox bởi bác sĩ được cấp phép"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ngộ độc botulinum có nguy hiểm không?",
+      "answer": "Ngộ độc botulinum là một bệnh lý rất nguy hiểm có thể gây tử vong nếu không được điều trị kịp thời. Độc tố botulinum là chất độc mạnh nhất từng được biết đến, có thể làm tê liệt các cơ, đặc biệt là cơ nuốt và hô hấp. Dù có thuốc kháng độc, vẫn có một số người tử vong vì các vấn đề về hô hấp và nhiễm trùng."
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm ngộ độc botulinum?",
+      "answer": "Triệu chứng ngộ độc botulinum thường bắt đầu từ 12-36 giờ sau khi ăn thực phẩm bị nhiễm độc. Các dấu hiệu ban đầu có thể bao gồm sụp mí mắt, nhìn đôi hoặc mờ, khô miệng, nói lắp, khó nuốt và khó thở. Ở trẻ sơ sinh, dấu hiệu có thể là sụp mí mắt, chảy nước dãi, tiếng khóc yếu ớt, ăn kém và táo bón. Nếu nhận thấy những triệu chứng này, đặc biệt sau khi ăn thực phẩm đóng hộp hoặc bảo quản, cần đến cơ sở y tế ngay lập tức."
+    },
+    {
+      "question": "Tại sao không nên cho trẻ dưới 1 tuổi ăn mật ong?",
+      "answer": "Mật ong có thể chứa bào tử Clostridium botulinum. Đối với người lớn và trẻ lớn hơn, bào tử này thường không gây nguy hiểm vì hệ tiêu hóa đã phát triển đủ để xử lý chúng. Tuy nhiên, ở trẻ dưới 1 tuổi, hệ tiêu hóa chưa phát triển hoàn thiện, bào tử có thể phát triển thành vi khuẩn trong ruột và giải phóng độc tố gây ngộ độc botulinum ở trẻ sơ sinh. Vì vậy, các bác sĩ khuyên không nên cho trẻ ăn mật ong trước khi được ít nhất 1 tuổi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sụp mí mắt, chảy nước dãi và tiếng khóc yếu ớt (Tôi). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-botulinum",
+        "suy-giam-than-kinh-co",
+        "nhuoc-co"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó nuốt và yếu cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngo-doc-botulinum", "nhuoc-co", "viem-nao"]
+    },
+    {
+      "question": "Tôi hay bị táo bón và phản xạ kém. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-botulinum",
+        "roi-loan-than-kinh",
+        "roi-loan-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi ăn kém, sụp mí mắt và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ngo-doc-botulinum", "nhuoc-co", "suy-ho-hap"]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng nhìn đôi và khô miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ngo-doc-botulinum",
+        "roi-loan-than-kinh",
+        "kho-mieng"
+      ]
     }
   ]
 }

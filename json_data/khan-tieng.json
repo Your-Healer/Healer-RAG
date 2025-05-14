@@ -1,39 +1,87 @@
 {
   "disease_id": "khan-tieng",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Khàn tiếng",
+  "disease_alternative_names": ["Khàn giọng", "Thay đổi giọng nói"],
+  "disease_definition": "Khàn tiếng (khàn giọng) là tình trạng thay đổi giọng nói, âm thanh không còn trong trẻo và bạn thường phải cố gắng để phát ra âm thanh. Tình trạng này có thể tự hết trong vòng vài ngày, nhưng nếu kéo dài trên hai tuần không rõ nguyên nhân thì có thể là dấu hiệu của các bệnh lý tiềm ẩn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thay đổi giọng nói",
+      "description": "Giọng nói thay đổi, không còn trong trẻo như bình thường."
+    },
+    {
+      "name": "Khó phát âm",
+      "description": "Cần cố gắng để phát ra âm thanh rõ ràng."
+    },
+    {
+      "name": "Cảm giác mệt mỏi khi nói",
+      "description": "Cảm thấy mệt mỏi, khó chịu sau khi nói nhiều."
+    },
+    {
+      "name": "Âm thanh yếu, rè",
+      "description": "Giọng nói yếu, rè và khó nghe."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tổn thương hoặc căng thẳng ở dây thanh quản làm ảnh hưởng đến sự rung động và đóng mở của dây thanh.",
+    "related_factors": "Nói quá nhiều và quá to, tuổi tác, uống chất cồn, cảm lạnh, viêm họng, ho, nhiễm trùng xoang, viêm thanh quản, trào ngược dạ dày thực quản (GERD), u nang và polyp dây thanh, liệt dây thanh, ung thư thanh quản, bệnh u nhú đường hô hấp tái phát, rối loạn giọng do căng cơ quá mức.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người thường xuyên phải sử dụng giọng nói với tần suất liên tục (giáo viên, ca sĩ, huấn luyện viên)",
+    "Mắc bệnh cảm cúm, viêm họng, ho",
+    "Uống rượu bia quá nhiều",
+    "Hút thuốc lá",
+    "Tuổi cao",
+    "Trào ngược dạ dày thực quản",
+    "Dị ứng",
+    "Tiếp xúc với môi trường bụi, khói"
+  ],
+  "complications": [
+    "Tổn thương dây thanh quản lâu dài",
+    "Mất giọng hoàn toàn",
+    "Tái phát thường xuyên",
+    "Ảnh hưởng đến công việc và đời sống hàng ngày",
+    "Có thể là dấu hiệu của ung thư thanh quản nếu kéo dài trên 2 tuần"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Thăm khám tai mũi họng"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi thanh quản thường quy",
+        "description": "Kiểm tra mũi họng, thanh quản để xem liệu có tổn thương nào ở vùng này gây ra khàn tiếng hay không."
+      },
+      {
+        "name": "Nội soi hoạt nghiệm thanh quản",
+        "description": "Kiểm tra thanh quản bằng một ánh sáng nhấp nháy của nguồn sáng sợi quang học để quay lại video hình ảnh di chuyển chậm của hoạt động dây thanh, kết hợp với ống nội soi thanh quản cứng hoặc mềm."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tuỳ thuộc vào nguyên nhân gây khàn giọng, bác sĩ sẽ chỉ định các phương pháp điều trị khàn tiếng phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi giọng nói",
+        "description": "Giảm bớt các hoạt động phải nói to, nói nhiều. Sau vài ngày, giọng nói có thể phục hồi trở lại bình thường (áp dụng cho trường hợp khàn giọng do hò hét quá nhiều)."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Uống thuốc cảm cúm, trị ho, viêm họng, thuốc chống trào ngược dạ dày, thuốc dị ứng theo chỉ định của bác sĩ (áp dụng cho trường hợp khàn giọng do viêm họng, cảm cúm, ho, sốt, trào ngược dạ dày, dị ứng)."
+      },
+      {
+        "name": "Phẫu thuật dây thanh",
+        "description": "Phẫu thuật dây thanh để lấy lại giọng nói, được thực hiện bởi bác sĩ chuyên khoa tai mũi họng, chuyên sâu về thanh học ở bệnh viện (áp dụng cho trường hợp khàn tiếng do các tổn thương dây thanh)."
+      },
+      {
+        "name": "Điều trị ung thư thanh quản",
+        "description": "Phẫu thuật, xạ trị, hóa trị hoặc các phương pháp nhắm đích tùy thuộc vào giai đoạn ung thư (áp dụng cho trường hợp khàn tiếng do ung thư thanh quản)."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giảm bớt các hoạt động phải nói to, nói nhiều",
+      "Uống nhiều nước ấm",
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Đến bệnh viện nếu tình trạng khàn tiếng kéo dài trên 2 tuần"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +89,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ ấm cổ họng để tránh bị cảm cúm, viêm họng",
+      "Tránh uống rượu/bia vì nồng độ cồn cao có thể làm tổn thương họng gây khàn tiếng",
+      "Tránh hút thuốc lá để phòng ngừa nguy cơ ung thư thanh quản gây ra khàn tiếng",
+      "Không nói to, hò hét quá mức làm tổn thương các dây thanh",
+      "Nên thăm khám sức khỏe định kỳ và tầm soát ung thư thanh quản, ung thư tuyến giáp, ung thư vòm họng",
+      "Uống đủ nước mỗi ngày để giữ ẩm cho cổ họng",
+      "Tránh các môi trường bụi bẩn, khói thuốc",
+      "Sử dụng đúng kỹ thuật khi nói nhiều hoặc hát"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khàn tiếng có phải là dấu hiệu của ung thư phổi?",
+      "answer": "Khàn tiếng có thể là một triệu chứng của ung thư phổi, ung thư vùng cổ ngực nhưng nó thường liên quan đến ung thư thanh quản nhiều hơn."
+    },
+    {
+      "question": "Khàn tiếng có nguy hiểm không?",
+      "answer": "Khàn tiếng rất phổ biến và thường không nguy hiểm nếu tình trạng này chỉ diễn ra dưới 2 tuần. Nhưng nếu đã điều trị nhưng tình trạng khàn tiếng vẫn tiếp diễn sau 2 tuần thì bạn cần đến bệnh viện thăm khám. Bởi vì rất có thể, khàn tiếng kéo dài như vậy là một dấu hiệu cảnh báo một tình trạng sức khỏe tiềm ẩn chẳng hạn như ung thư thanh quản, ung thư tuyến giáp…"
+    },
+    {
+      "question": "Khàn tiếng uống gì?",
+      "answer": "Nếu khàn tiếng là do cảm cúm, viêm họng, ho thì bạn nên uống các đồ ấm và bổ dưỡng như trà gừng ấm, trà mật ong hoa cúc, chanh đào mật ong…"
+    },
+    {
+      "question": "Bị khàn tiếng ăn gì cho hết?",
+      "answer": "Không có khuyến nghị về việc ăn gì cho hết khàn tiếng, nhưng nếu khàn tiếng không phải là một dấu hiệu của các bệnh nguy hiểm như ung thư hay do tình trạng khuyết tật dây thanh thì bạn nên ăn các đồ ăn mềm, lỏng, giàu dinh dưỡng để bảo vệ vùng họng thanh quản. Nếu khàn tiếng do cảm cúm thì súp hoặc cháo dinh dưỡng là món ăn lý tưởng để bồi bổ sức khỏe và giúp cơ thể nhanh phục hồi."
+    },
+    {
+      "question": "Khi bị khàn tiếng thì kiêng ăn gì?",
+      "answer": "Để bảo vệ vùng họng thanh quản, bạn nên tránh uống rượu bia, tránh ăn uống đồ lạnh, đồ quá cay hoặc quá nóng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị khàn tiếng sau khi hát karaoke. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["khan-tieng", "viem-hong", "viem-thanh-quan"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khàn tiếng và ho. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["khan-tieng", "viem-hong", "cam-cum"]
+    },
+    {
+      "question": "Tôi đang cảm thấy giọng nói của mình khàn hơn bình thường và kéo dài hơn 2 tuần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["khan-tieng", "ung-thu-thanh-quan", "u-day-thanh"]
+    },
+    {
+      "question": "Tôi là giáo viên, thường xuyên phải nói to và hiện tại bị khàn tiếng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["khan-tieng", "viem-thanh-quan", "viem-hong"]
+    },
+    {
+      "question": "Tôi bị trào ngược dạ dày thực quản và hiện tại bị khàn tiếng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "khan-tieng",
+        "trao-nguoc-da-day-thuc-quan",
+        "viem-thanh-quan"
+      ]
     }
   ]
 }

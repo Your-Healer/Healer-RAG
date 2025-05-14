@@ -1,58 +1,362 @@
 {
   "disease_id": "day-thi-som",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Dậy Thì Sớm",
+  "disease_alternative_names": [
+    "Precocious puberty",
+    "Dậy thì trước tuổi",
+    "Phát triển giới tính sớm"
+  ],
+  "disease_definition": "Dậy thì sớm là tình trạng cơ thể trẻ bắt đầu xuất hiện các dấu hiệu trưởng thành quá sớm, bao gồm sự phát triển nhanh chóng của xương và cơ bắp, thay đổi kích thước và hình dạng của cơ thể, phát triển khả năng sinh sản, sự thay đổi của vú, xuất hiện lông mu, thay đổi giọng nói. Trẻ được gọi là dậy thì sớm khi quá trình này xảy ra trước 8 tuổi ở nữ và trước 9 tuổi ở nam.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Phát triển vú ở bé gái",
+      "description": "Vú bắt đầu phát triển trước 8 tuổi, thường là dấu hiệu đầu tiên của dậy thì sớm ở bé gái."
+    },
+    {
+      "name": "Kinh nguyệt sớm",
+      "description": "Bé gái xuất hiện kinh nguyệt lần đầu tiên trước 8 tuổi."
+    },
+    {
+      "name": "Phát triển tinh hoàn và dương vật",
+      "description": "Tinh hoàn và dương vật phát triển trước 9 tuổi ở bé trai."
+    },
+    {
+      "name": "Mọc lông mu, lông nách",
+      "description": "Xuất hiện lông mu và lông nách ở độ tuổi quá sớm."
+    },
+    {
+      "name": "Lông mặt, râu ở bé trai",
+      "description": "Bé trai bắt đầu mọc lông mặt và râu sớm."
+    },
+    {
+      "name": "Giọng nói trầm, vỡ giọng",
+      "description": "Giọng nói thay đổi, trở nên trầm hơn và vỡ, đặc biệt ở bé trai."
+    },
+    {
+      "name": "Phát triển nhanh về chiều cao",
+      "description": "Trẻ phát triển chiều cao nhanh hơn so với lứa tuổi, cao hơn các bạn cùng tuổi."
+    },
+    {
+      "name": "Xuất hiện mụn trứng cá",
+      "description": "Da xuất hiện mụn trứng cá do thay đổi hormone."
+    },
+    {
+      "name": "Mùi cơ thể",
+      "description": "Bắt đầu có mùi cơ thể đặc trưng ở nách, bộ phận sinh dục."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Dậy thì sớm xảy ra khi não bắt đầu sản xuất hormone giải phóng gonadotropin (GnRH) quá sớm. Hormone này đi đến tuyến yên và kích thích quá trình sản xuất hormone estrogen ở nữ và testosterone ở nam, dẫn đến sự phát triển các đặc tính sinh dục sớm hơn bình thường.",
+    "related_factors": "Dậy thì sớm có thể xuất phát từ nhiều nguyên nhân khác nhau như khối u trên buồng trứng, tuyến thượng thận, tuyến yên, não, các vấn đề về thần kinh trung ương, rối loạn hormone, chấn thương não, di truyền hoặc các hội chứng hiếm gặp. Phân loại chính bao gồm dậy thì sớm trung ương (liên quan đến hệ thần kinh trung ương) và dậy thì sớm ngoại vi (không liên quan đến hormone GnRH).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bé gái (nguy cơ cao gấp 10 lần so với bé trai)",
+    "Béo phì",
+    "Phơi nhiễm với hormone từ môi trường",
+    "Các bệnh lý về não hoặc tủy sống",
+    "Tiền sử gia đình có người dậy thì sớm",
+    "Đã từng được xạ trị ở vùng não",
+    "Mắc hội chứng di truyền như McCune-Albright",
+    "Suy giáp",
+    "Tăng sản thượng thận bẩm sinh"
+  ],
+  "complications": [
+    "Chiều cao bị hạn chế khi trưởng thành",
+    "Vấn đề tâm lý",
+    "Tự ti về ngoại hình",
+    "Khó khăn trong giao tiếp xã hội",
+    "Tăng nguy cơ bị lạm dụng tình dục",
+    "Căng thẳng và lo lắng",
+    "Trầm cảm",
+    "Hành vi tình dục sớm không phù hợp với tuổi",
+    "Chậm phát triển tâm lý so với phát triển thể chất"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng dựa trên các dấu hiệu phát triển thể chất",
+      "Đánh giá tốc độ tăng trưởng chiều cao",
+      "Đánh giá giai đoạn phát triển Tanner (thang đánh giá phát triển giới tính)",
+      "Khai thác tiền sử gia đình",
+      "Kiểm tra các dấu hiệu bất thường khác trên cơ thể"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm bụng",
+        "description": "Kiểm tra tình trạng tử cung, buồng trứng, tuyến thượng thận để phát hiện các khối u hoặc bất thường."
+      },
+      {
+        "name": "Siêu âm tử cung và buồng trứng",
+        "description": "Đánh giá kích thước và cấu trúc của tử cung, buồng trứng ở bé gái để xác định mức độ phát triển."
+      },
+      {
+        "name": "Xét nghiệm máu về nội tiết",
+        "description": "Kiểm tra nồng độ hormone trong máu như FSH, LH, estradiol, testosterone để xác định tình trạng dậy thì sớm trung ương hay ngoại vi."
+      },
+      {
+        "name": "Xét nghiệm tuyến giáp",
+        "description": "Kiểm tra chức năng tuyến giáp vì rối loạn tuyến giáp có thể liên quan đến dậy thì sớm."
+      },
+      {
+        "name": "Chụp cộng hưởng từ MRI",
+        "description": "Đánh giá não và tuyến yên để phát hiện khối u hoặc các bất thường cấu trúc khác."
+      },
+      {
+        "name": "Chụp X-quang tuổi xương bàn tay",
+        "description": "So sánh tuổi xương với tuổi thực để đánh giá mức độ trưởng thành của xương, giúp dự đoán chiều cao cuối cùng."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc phát hiện và điều trị dậy thì sớm ở trẻ sẽ giúp ngăn chặn sự phát triển và trưởng thành của xương, hạn chế tối đa các hệ lụy do dậy thì sớm gây ra, thậm chí đảo ngược tình trạng phát triển tình dục sớm ở trẻ. Phương pháp điều trị phụ thuộc vào nguyên nhân và từng trường hợp cụ thể.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nguyên nhân cơ bản",
+        "description": "Tìm kiếm và điều trị nguyên nhân cơ bản hoặc bệnh lý gây dậy thì sớm. Ví dụ, nếu do khối u, có thể cần phẫu thuật loại bỏ khối u."
+      },
+      {
+        "name": "Thuốc ức chế GnRH",
+        "description": "Thuốc ức chế hormone GnRH giúp ngăn chặn quá trình dậy thì, làm chậm sự phát triển các đặc tính giới tính thứ cấp và giúp xương phát triển bình thường hơn. Các thuốc này thường được sử dụng cho dậy thì sớm trung ương."
+      },
+      {
+        "name": "Điều trị hormone theo từng loại dậy thì sớm",
+        "description": "Đối với dậy thì sớm ngoại vi, điều trị sẽ tập trung vào việc ngăn chặn sản xuất hoặc tác dụng của estrogen hoặc testosterone, tùy thuộc vào giới tính của trẻ."
+      },
+      {
+        "name": "Hỗ trợ tâm lý",
+        "description": "Giúp trẻ hiểu và đối phó với những thay đổi về thể chất, tình cảm và xã hội. Có thể cần tư vấn tâm lý hoặc liệu pháp nhóm."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giúp trẻ hiểu về những thay đổi của cơ thể một cách tích cực",
+      "Tạo môi trường an toàn để trẻ có thể thảo luận về cảm xúc và lo lắng",
+      "Khuyến khích trẻ duy trì lối sống lành mạnh với chế độ ăn uống cân bằng và tập thể dục đều đặn",
+      "Tránh thảo luận quá nhiều về ngoại hình của trẻ",
+      "Thường xuyên khen ngợi thành tích của trẻ để tăng sự tự tin",
+      "Giáo dục trẻ về giới tính và an toàn cá nhân phù hợp với độ tuổi",
+      "Duy trì việc khám sức khỏe định kỳ để theo dõi sự phát triển",
+      "Tham gia các nhóm hỗ trợ dành cho phụ huynh có con dậy thì sớm",
+      "Thông báo cho giáo viên về tình trạng của trẻ để có sự hỗ trợ phù hợp ở trường học"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine phòng ngừa dậy thì sớm.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện chế độ dinh dưỡng cân đối, tránh để trẻ thừa cân béo phì, nhất là ở các bé gái",
+      "Cho trẻ thăm khám sức khỏe định kỳ theo khuyến cáo của Bộ Y tế",
+      "Không cho trẻ sử dụng các mỹ phẩm làm đẹp sớm",
+      "Tránh sử dụng các loại thuốc gây ảnh hưởng đến nội tiết tố sinh dục của trẻ",
+      "Hạn chế tiếp xúc với các hóa chất có thể gây rối loạn nội tiết từ môi trường",
+      "Duy trì chế độ sinh hoạt lành mạnh cho trẻ, đủ giấc ngủ và vận động hợp lý",
+      "Duy trì cho trẻ một môi trường tâm lý lành mạnh, giảm căng thẳng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Dậy thì sớm có nguy hiểm không?",
+      "answer": "Dậy thì sớm có thể gây ra một số nguy hiểm và biến chứng nếu không được phát hiện và điều trị kịp thời. Về mặt thể chất, trẻ có thể bị hạn chế chiều cao khi trưởng thành do các đầu xương đóng sớm. Về mặt tâm lý, trẻ có thể gặp khó khăn khi cơ thể phát triển không tương xứng với sự phát triển tâm lý, dẫn đến tự ti, lo lắng, trầm cảm. Ngoài ra, trẻ dậy thì sớm còn có nguy cơ cao hơn bị lạm dụng tình dục do có hình thể phát triển sớm hơn so với khả năng nhận thức và bảo vệ bản thân."
+    },
+    {
+      "question": "Khi nào cần đưa trẻ đi khám nếu nghi ngờ dậy thì sớm?",
+      "answer": "Phụ huynh nên đưa trẻ đi khám ngay khi phát hiện các dấu hiệu dậy thì xuất hiện trước 8 tuổi ở bé gái hoặc trước 9 tuổi ở bé trai. Các dấu hiệu này bao gồm: phát triển vú ở bé gái, tăng kích thước dương vật và tinh hoàn ở bé trai, mọc lông mu hoặc lông nách, mùi cơ thể thay đổi, giọng nói trầm hơn (đặc biệt là ở bé trai), tăng chiều cao đột ngột, kinh nguyệt sớm ở bé gái. Việc đi khám sớm sẽ giúp bác sĩ đánh giá, chẩn đoán và có kế hoạch điều trị kịp thời nếu cần."
+    },
+    {
+      "question": "Trẻ dậy thì sớm có được uống sữa không?",
+      "answer": "Có một số quan điểm cho rằng tình trạng dậy thì sớm ở trẻ có liên quan đến việc cho trẻ uống nhiều sữa mỗi ngày, khiến nhiều phụ huynh tự cắt nguồn sữa cho trẻ. Tuy nhiên, hiện vẫn chưa có bằng chứng khoa học về vấn đề này. Việc cắt ngang nguồn sữa bổ sung cho trẻ có thể khiến trẻ bị thiếu hụt canxi, ảnh hưởng đến sức đề kháng và chiều cao. Trẻ vẫn nên được uống sữa với lượng phù hợp theo khuyến cáo của bác sĩ, kết hợp với chế độ dinh dưỡng cân bằng."
+    },
+    {
+      "question": "Dậy thì sớm có ảnh hưởng đến chiều cao không?",
+      "answer": "Có, dậy thì sớm có thể ảnh hưởng đến chiều cao cuối cùng của trẻ. Khi trẻ dậy thì sớm, chiều cao sẽ phát triển nhanh hơn so với lứa tuổi và trẻ có thể cao hơn các bạn cùng trang lứa. Tuy nhiên, khi quá trình dậy thì kết thúc, sự tăng trưởng chiều cao cũng sẽ dừng lại. Do đó, trẻ dậy thì sớm thì quá trình tăng trưởng xương cũng kết thúc sớm hơn, dẫn đến chiều cao khi trưởng thành có thể thấp hơn tiềm năng di truyền. Đây là một trong những lý do quan trọng để điều trị dậy thì sớm."
+    },
+    {
+      "question": "Làm thế nào để giúp trẻ đối phó với dậy thì sớm về mặt tâm lý?",
+      "answer": "Để giúp trẻ đối phó với dậy thì sớm về mặt tâm lý, phụ huynh cần: Trao đổi cởi mở với trẻ về những thay đổi của cơ thể, giúp trẻ hiểu đây là một quá trình tự nhiên; Tránh bàn tán nhận xét về ngoại hình của trẻ; Thường xuyên khen ngợi những thành tích trẻ đạt được để tăng sự tự tin; Bao dung và nhẹ nhàng giải thích về những sai lầm của trẻ; Tạo môi trường an toàn để trẻ có thể chia sẻ cảm xúc; Cân nhắc tư vấn tâm lý chuyên nghiệp nếu trẻ gặp khó khăn trong việc thích nghi; Giáo dục trẻ về giới tính và an toàn cá nhân phù hợp với độ tuổi; Thông báo cho giáo viên về tình trạng của trẻ để có sự hỗ trợ phù hợp ở trường học."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Con gái tôi mới 7 tuổi nhưng ngực đã bắt đầu phát triển. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Dậy thì sớm trung ương",
+        "Rối loạn nội tiết",
+        "Phát triển vú sớm đơn thuần"
+      ]
+    },
+    {
+      "question": "Con gái tôi 8 tuổi và đã có kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Dậy thì sớm trung ương",
+        "Rối loạn nội tiết",
+        "Xuất huyết âm đạo bất thường"
+      ]
+    },
+    {
+      "question": "Con trai tôi mới 9 tuổi nhưng tinh hoàn và dương vật đã phát triển. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Dậy thì sớm trung ương",
+        "Dậy thì sớm ngoại vi",
+        "Rối loạn nội tiết"
+      ]
+    },
+    {
+      "question": "Con trai tôi 10 tuổi và đã bắt đầu mọc lông mặt và râu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Tăng sản thượng thận bẩm sinh",
+        "Rối loạn nội tiết",
+        "Dậy thì sớm ngoại vi"
+      ]
+    },
+    {
+      "question": "Con trai tôi 11 tuổi và giọng nói bắt đầu trầm và vỡ giọng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Dậy thì bình thường",
+        "Rối loạn nội tiết",
+        "Phát triển sinh lý"
+      ]
+    },
+    {
+      "question": "Con gái tôi 12 tuổi và đã mọc lông mu và lông nách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì bình thường",
+        "Rối loạn nội tiết",
+        "Phát triển sinh lý",
+        "Dậy thì sớm nhẹ"
+      ]
+    },
+    {
+      "question": "Tôi đang phát triển chiều cao nhanh chóng so với bạn bè cùng trang lứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Rối loạn tăng trưởng",
+        "Phát triển sinh lý",
+        "Hormone tăng trưởng bất thường"
+      ]
+    },
+    {
+      "question": "Tôi bắt đầu xuất hiện mụn trứng cá trên mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Rối loạn nội tiết",
+        "Biến đổi hormone",
+        "Mụn trứng cá thông thường"
+      ]
+    },
+    {
+      "question": "Tôi bắt đầu có mùi cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Phát triển sinh lý",
+        "Rối loạn tuyến mồ hôi",
+        "Biến đổi hormone"
+      ]
+    },
+    {
+      "question": "Con gái tôi có tâm sinh lý thay đổi thất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Rối loạn tâm lý tuổi dậy thì",
+        "Rối loạn nội tiết",
+        "Rối loạn lo âu"
+      ]
+    },
+    {
+      "question": "Con trai tôi có ham muốn tình dục sớm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Rối loạn nội tiết",
+        "Rối loạn tâm lý tuổi dậy thì",
+        "Ảnh hưởng từ môi trường"
+      ]
+    },
+    {
+      "question": "Tôi có xu hướng bạo lực và gây hấn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Rối loạn tâm lý tuổi dậy thì",
+        "Thay đổi hormone",
+        "Rối loạn hành vi",
+        "Dậy thì sớm"
+      ]
+    },
+    {
+      "question": "Tôi có biểu hiện trầm cảm và lo âu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Rối loạn tâm lý tuổi dậy thì",
+        "Rối loạn lo âu",
+        "Trầm cảm ở tuổi vị thành niên",
+        "Dậy thì sớm"
+      ]
+    },
+    {
+      "question": "Tôi gặp khó khăn trong học tập. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Rối loạn tâm lý tuổi dậy thì",
+        "Khó khăn học tập",
+        "Rối loạn chú ý",
+        "Dậy thì sớm"
+      ]
+    },
+    {
+      "question": "Tôi có hành vi chống đối xã hội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Rối loạn hành vi tuổi dậy thì",
+        "Rối loạn chống đối",
+        "Thay đổi hormone",
+        "Dậy thì sớm"
+      ]
+    },
+    {
+      "question": "Tôi tự ti về ngoại hình của mình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Rối loạn tâm lý tuổi dậy thì",
+        "Rối loạn hình ảnh cơ thể",
+        "Dậy thì sớm",
+        "Rối loạn lo âu"
+      ]
+    },
+    {
+      "question": "Tôi bị bạn bè trêu chọc vì dậy thì sớm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Rối loạn tâm lý",
+        "Áp lực xã hội",
+        "Rối loạn lo âu xã hội"
+      ]
+    },
+    {
+      "question": "Tôi lo lắng về sức khỏe sinh sản của tôi trong tương lai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Rối loạn lo âu về sức khỏe",
+        "Rối loạn nội tiết",
+        "Lo lắng tuổi dậy thì"
+      ]
+    },
+    {
+      "question": "Tôi không biết phải làm gì để giúp tôi vượt qua giai đoạn dậy thì sớm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Khó khăn thích nghi",
+        "Rối loạn tâm lý tuổi dậy thì",
+        "Thiếu hỗ trợ tâm lý"
+      ]
+    },
+    {
+      "question": "Tôi cần đưa tôi đi khám ở đâu để kiểm tra tình trạng dậy thì sớm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Dậy thì sớm",
+        "Rối loạn nội tiết",
+        "Phát triển không bình thường",
+        "Cần tư vấn y tế"
+      ]
     }
   ]
 }

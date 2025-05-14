@@ -1,58 +1,276 @@
 {
   "disease_id": "gai-cot-song",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Gai Cột Sống",
+  "disease_alternative_names": [
+    "Gai đốt sống",
+    "Osteophyte",
+    "Gai xương",
+    "Mỏ xương"
+  ],
+  "disease_definition": "Gai cột sống hay gai đốt sống (Osteophyte) là phần tất yếu của quá trình lão hóa tự nhiên. Khi cơ thể già đi, sự mất nước ở đĩa đệm bị hao mòn và dây chằng cố định xương trở nên lỏng lẻo. Để chống lại quá trình lão hoá này, cơ thể tạo ra các mấu xương (gai xương) mọc thêm ra phía ngoài và hai bên của cột sống nhằm duy trì sự ổn định và giảm bớt căng thẳng cho cột sống. Đây chính là một trong những biến chứng của căn bệnh thoái hóa cột sống.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau vai gáy, cổ",
+      "description": "Đau ở vùng cổ, vai, gáy. Cơn đau tăng lên khi di chuyển, vận động và giảm khi nghỉ ngơi. Cơn đau có thể lan xuống cánh tay."
+    },
+    {
+      "name": "Đau thắt lưng",
+      "description": "Đau ở vùng thắt lưng, có thể lan xuống hai chân. Cơn đau thường tăng khi vận động và giảm khi nghỉ ngơi."
+    },
+    {
+      "name": "Tê bì tay chân",
+      "description": "Cảm giác tê bì ở tay hoặc chân, do gai cột sống chèn ép vào các dây thần kinh."
+    },
+    {
+      "name": "Hạn chế vận động",
+      "description": "Giảm khả năng vận động ở cổ, cánh tay, tay, lưng hoặc chân tùy theo vị trí gai cột sống."
+    },
+    {
+      "name": "Rối loạn cân bằng",
+      "description": "Mất cân bằng cơ thể, khó giữ thăng bằng khi đi lại."
+    },
+    {
+      "name": "Yếu cơ",
+      "description": "Cơ bắp hoặc tay chân yếu đi, gây khó khăn trong vận động."
+    },
+    {
+      "name": "Mất kiểm soát đại tiểu tiện",
+      "description": "Trong trường hợp nghiêm trọng, bệnh nhân có thể tiểu tiện và đại tiện mất kiểm soát."
+    },
+    {
+      "name": "Rối loạn thần kinh thực vật",
+      "description": "Các phản xạ tự động rối loạn, tăng tiết mồ hôi, suy giảm hô hấp... trong các trường hợp rất nặng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Gai cột sống chủ yếu do quá trình thoái hoá tự nhiên của cột sống. Khi sụn khớp và đĩa đệm phải chịu áp lực thường xuyên và lâu dài, dẫn đến hậu quả sụn xương dưới sụn bị tổn thương, bào mòn, hình thành các gai xương, gây đau và cản trở cử động của khớp.",
+    "related_factors": "Thoái hoá cột sống là nguyên nhân chính dẫn đến tình trạng gai ở đốt sống. Hiện tượng viêm khớp cột sống mãn tính, sự lắng đọng canxi ở các dây chằng và gân, yếu tố di truyền khiến đĩa đệm yếu hơn bình thường, và các chấn thương, tai nạn cũng đều là những yếu tố liên quan đến việc hình thành gai cột sống.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao, đặc biệt là người già do quá trình lão hoá",
+    "Thường xuyên vận động, khuân vác nặng",
+    "Công việc gây áp lực cho cột sống",
+    "Viêm khớp cột sống mãn tính",
+    "Tiền sử chấn thương, tai nạn",
+    "Thừa cân, béo phì",
+    "Hoạt động thể chất quá mạnh không đúng cách",
+    "Hút thuốc lá",
+    "Lạm dụng rượu bia và các chất kích thích",
+    "Yếu tố di truyền"
+  ],
+  "complications": [
+    "Thay đổi huyết áp do rối loạn thần kinh thực vật",
+    "Thoát vị đĩa đệm",
+    "Rối loạn tiền đình, đặc biệt ở người bị gai cột sống cổ",
+    "Teo cơ",
+    "Bại liệt, mất khả năng lao động",
+    "Biến chứng vẹo, gù cột sống",
+    "Yếu cơ, teo cơ ở tay hoặc chân",
+    "Đau đầu, chóng mặt, buồn nôn, mất ngủ (nếu bệnh xảy ra ở vùng cổ)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Đánh giá triệu chứng và bệnh sử",
+      "Kiểm tra khả năng vận động và phản xạ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Đây là xét nghiệm hình ảnh phổ biến để phát hiện các gai xương và mức độ chèn ép thần kinh."
+      },
+      {
+        "name": "Chụp CT (Computed Tomography)",
+        "description": "Nhằm xác định vị trí, tình trạng và mức độ ảnh hưởng của xương, mức độ thay đổi khớp và sự hình thành gai xương."
+      },
+      {
+        "name": "Cộng hưởng Từ (MRI)",
+        "description": "Chụp cộng hưởng từ chủ yếu để xác định mức độ tổn thương của đĩa sụn và sự chèn ép của dây thần kinh cột sống."
+      },
+      {
+        "name": "Điện cơ (EMG)",
+        "description": "Thử nghiệm này được sử dụng để đánh giá và đo tốc độ thần kinh gửi tín hiệu điện về não, xác định mức độ của chấn thương dây thần kinh cột sống."
+      },
+      {
+        "name": "Myelogram",
+        "description": "Một loại CT scan đặc biệt với thuốc cản quang được tiêm vào ống sống, giúp cho tủy sống và rễ thần kinh hiển thị rõ ràng hơn, từ đó dễ dàng xác định được các mức độ tổn thương."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Xét nghiệm máu nhằm kiểm tra mức độ của một số chất có thể chỉ ra bệnh viêm khớp dạng thấp hoặc các tình trạng khác là nguyên nhân gây ra gai cột sống."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không gì có thể chống lại sự già đi của cơ thể, gai đốt sống là quá trình lão hoá tự nhiên, do vậy không có phương pháp điều trị nào có thể đảo ngược quá trình này. Nếu bệnh không gây đau thì không cần thiết phải điều trị. Các phương pháp điều trị chỉ được ứng dụng khi có triệu chứng hoặc gây ra những biến chứng nghiêm trọng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị không dùng thuốc",
+        "description": "Có thể kết hợp các bài tập phục hồi chức năng thường xuyên, áp dụng mát-xa, vật lý trị liệu bằng hồng ngoại, sóng ngắn, điện xung... để đem lại hiệu quả tích cực."
+      },
+      {
+        "name": "Điều trị dùng thuốc",
+        "description": "Sử dụng thuốc giảm đau kháng viêm không steroid (như ibuprofen, naproxen), thuốc giãn cơ (như cyclobenzaprine và tizanidine) có thể giúp làm giảm co thắt cơ và giảm đau."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật là phương pháp được cân nhắc cuối cùng đối với trường hợp có sự chèn ép vào tủy, làm hẹp ống tủy hoặc chèn ép hệ thần kinh, gây tê chân, tay, rối loạn đại, tiểu tiện."
+      },
+      {
+        "name": "Châm cứu",
+        "description": "Phương pháp này có thể giúp giảm đau và cải thiện tình trạng gai cột sống khi kết hợp với các phương pháp điều trị khác."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Bao gồm các bài tập kéo giãn, tăng cường sức mạnh cơ và cải thiện khả năng vận động, giúp cải thiện các triệu chứng do gai cột sống gây ra."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi, không đi lại khi đau, nên nằm ở tư thế dễ chịu nhất",
+      "Tập luyện các khớp để hạn chế thoái khớp và biến dạng khớp",
+      "Ăn uống đầy đủ, bổ sung năng lượng và hoa quả tươi",
+      "Vệ sinh sạch sẽ hàng ngày",
+      "Theo dõi các tác dụng phụ của thuốc",
+      "Sử dụng nẹp cổ, nẹp thắt lưng để giảm cảm giác đau đớn (không nên lạm dụng trong thời gian dài)",
+      "Đắp nóng hay lạnh tại vùng đau (dùng áp lạnh trong 48-72 giờ đầu, sau đó dùng nóng)",
+      "Nằm ngủ với nệm cứng, không cần gối hay dùng gối đặc biệt",
+      "Tránh làm việc nặng, hạn chế đi lại trong giai đoạn đau cấp",
+      "Tuân thủ điều trị và tái khám định kỳ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine phòng ngừa gai cột sống.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập thể dục đều đặn, đặc biệt là những môn thể thao nhẹ nhàng như đi bộ, yoga, bơi lội",
+      "Luôn giữ cột sống ở tư thế tốt, lưng cổ có chỗ dựa",
+      "Điều chỉnh màn hình hay sách vở ngang tầm mắt",
+      "Luân phiên thay đổi tư thế khi làm việc",
+      "Không ngồi quá lâu và sai tư thế",
+      "Tránh đứng hoặc ngồi hàng giờ ở một tư thế xấu",
+      "Không nằm quá lâu ở tư thế không thoải mái",
+      "Chế độ dinh dưỡng phù hợp và đầy đủ, đặc biệt là thực phẩm chứa nhiều canxi",
+      "Hạn chế chất béo và chất đường để kiểm soát cân nặng",
+      "Tránh chơi những môn thể thao có cường độ cao như cử tạ, thể dục dụng cụ",
+      "Kiểm tra cột sống định kỳ để phát hiện bệnh sớm (đặc biệt từ 30 tuổi trở lên)"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh gai cột sống có nên uống canxi không?",
+      "answer": "Canxi là hoạt chất giữ vai trò quan trọng trong việc nuôi dưỡng và phục hồi tổn thương ở các đốt xương sống. Nếu thiếu hụt canxi, các tế bào xương mới sẽ không được hình thành. Mặc dù nguyên nhân dẫn đến gai cột sống là do canxi bị lắng đọng nhưng không phải vì thế mà những đối tượng này kiêng bổ sung canxi. Bổ sung canxi sẽ giúp các tổn thương ở xương hồi phục, hạn chế quá trình thoái hóa và đau nhức."
+    },
+    {
+      "question": "Gai cột sống có nên tập gym không?",
+      "answer": "Bệnh nhân vẫn có thể tập Gym bình thường. Mặc dù vậy, các bài tập cần được thiết kế đúng và phù hợp với thể trạng để hỗ trợ điều trị bệnh, đồng thời ngăn ngừa rủi ro phát sinh. Không nên tập với cường độ cao, các bài tập nặng là nguy cơ khiến bệnh trở nên trầm trọng hơn."
+    },
+    {
+      "question": "Gai cột sống và thoát vị đĩa đệm có giống nhau không?",
+      "answer": "Không. Đều là dạng thoái hóa xương khớp ở cột sống, nhưng gai cột sống và thoát vị đĩa đệm là 2 tình trạng khác nhau. Trong khi thoát vị đĩa đệm là tình trạng nhân nhầy đĩa đệm cột sống thoát ra khỏi vị trí bình thường, chèn ép vào ống sống hoặc các rễ thần kinh thì gai cột sống là bệnh thoái hóa xương khớp ở vùng cột sống, hình thành các gai xương ở bên ngoài hoặc ở hai bên cột sống."
+    },
+    {
+      "question": "Bệnh gai cột sống có nguy hiểm không?",
+      "answer": "Gai cột sống là bệnh nguy hiểm, gây ảnh hưởng xấu đến sức khỏe, chất lượng cuộc sống, giảm khả năng vận động. Nếu không được phát hiện sớm hoặc cải thiện sai cách, bệnh có nguy cơ gây tàn phế, khiến người bệnh mất khả năng vận động. Bệnh có thể dẫn đến nhiều biến chứng nguy hiểm như thay đổi huyết áp, thoát vị đĩa đệm, rối loạn tiền đình và nghiêm trọng nhất là bại liệt, mất khả năng lao động."
+    },
+    {
+      "question": "Gai cột sống có chữa được không?",
+      "answer": "Gai cột sống là quá trình lão hoá tự nhiên, do vậy không có phương pháp điều trị nào có thể đảo ngược nguyên tắc này. Việc điều trị chủ yếu tập trung vào làm giảm các triệu chứng đau đớn, cải thiện chất lượng cuộc sống và ngăn ngừa biến chứng. Gai cột sống phát hiện càng sớm thì khả năng điều trị triệu chứng càng hiệu quả. Trong trường hợp nghiêm trọng với biến chứng nặng, phẫu thuật có thể là giải pháp cuối cùng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau vai gáy, lan xuống cánh tay và tê tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Cột Sống",
+        "Thoát vị đĩa đệm cổ",
+        "Viêm quanh khớp vai",
+        "Hội chứng ống cổ tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng, đau thắt lưng, cơn đau tăng lên khi di chuyển. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Cột Sống",
+        "Thoát vị đĩa đệm",
+        "Viêm cột sống dính khớp",
+        "Đau lưng cơ năng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau cổ, giảm khả năng vận động ở cổ và cánh tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Cột Sống",
+        "Thoái hóa đốt sống cổ",
+        "Viêm khớp cổ",
+        "Hội chứng cổ vai cánh tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau thắt lưng lan xuống hai chân, kèm theo tê chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Cột Sống",
+        "Thoát vị đĩa đệm thắt lưng",
+        "Hẹp ống sống",
+        "Đau thần kinh tọa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vai gáy, kèm theo mất cân bằng cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Cột Sống",
+        "Rối loạn tiền đình",
+        "Thoái hóa đốt sống cổ",
+        "Thiểu năng động mạch đốt sống"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng dữ dội, như \"đau thấu trời\". Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Cột Sống",
+        "Thoát vị đĩa đệm cấp",
+        "Viêm cột sống dính khớp",
+        "Sỏi thận"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau cổ, tê bì cánh tay và yếu cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Cột Sống",
+        "Thoát vị đĩa đệm cổ",
+        "Hẹp ống sống cổ",
+        "Chấn thương dây thần kinh cánh tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng, giảm khả năng vận động và cơ bắp yếu đi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Cột Sống",
+        "Thoát vị đĩa đệm",
+        "Viêm cột sống dính khớp",
+        "Chấn thương cột sống"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau thắt lưng, lan xuống chân và gây mất kiểm soát tiểu tiện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Cột Sống",
+        "Hội chứng đuôi ngựa",
+        "Thoát vị đĩa đệm nghiêm trọng",
+        "U tủy sống"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau vai gáy, kèm theo rối loạn thần kinh thực vật và tăng tiết mồ hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Gai Cột Sống",
+        "Hội chứng cổ vai cánh tay",
+        "Rối loạn thần kinh tự chủ",
+        "Bệnh tuyến giáp"
+      ]
     }
   ]
 }

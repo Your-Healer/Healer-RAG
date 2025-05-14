@@ -1,39 +1,92 @@
 {
   "disease_id": "liet-day-thanh-quan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Liệt dây thanh quản",
+  "disease_alternative_names": [
+    "Tê liệt dây thanh quản",
+    "Liệt thanh quản",
+    "Vocal cord paralysis"
+  ],
+  "disease_definition": "Liệt dây thanh quản là tình trạng một hoặc cả hai dây thanh không thực hiện được chức năng của nó, nguyên nhân do thần kinh hoặc liệt cơ. Khi hít thở, 2 dây thanh mở ra còn khi nuốt thì chúng đóng chặt lại. Tuy nhiên, khi nói, không khí đi từ phổi làm cho 2 dây thanh dao động giữa các vị trí mở và đóng. Nếu dây thanh bị liệt tư thế mở, khiến đường dẫn khí và phổi không được bảo vệ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thay đổi giọng nói",
+      "description": "Giọng trở nên khàn đặc, yếu ớt và khó nghe, khi nói thường có âm thanh của tiếng không khí thoát ra, âm lượng giọng nói giảm dần, thậm chí nói không ra tiếng, hụt hơi khi nói."
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Mắc nghẹn, ho, sặc khi nuốt (chất rắn, chất lỏng, thậm chí là nước bọt), người bệnh có thể cảm thấy như có dịch nhầy trong cổ họng nên hắng giọng thường xuyên."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Hơi thở khò khè, ồn ào, lấy hơi thường xuyên khi nói hay khi vận động. Tình trạng khó thở thường xuất hiện khi cả hai dây thanh bị liệt khép."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Liệt dây thanh quản xảy ra do 2 nhóm nguyên nhân chính: thần kinh và liệt cơ. Tuy nhiên, yếu tố thần kinh chiếm phần lớn các trường hợp vì dây thần kinh điều khiển và chi phối vận động của thanh quản.",
+    "related_factors": "Chấn thương cổ ngực, đột quỵ, chấn thương dây thanh quản trong phẫu thuật, khối u lành tính hoặc ác tính, bệnh nhiễm trùng gây viêm và làm tổn thương dây thần kinh thanh quản.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tình trạng sức khỏe thần kinh (bệnh đa xơ cứng, bệnh Parkinson)",
+    "Từng phẫu thuật tại cổ họng hoặc ngực (phẫu thuật tuyến giáp, phẫu thuật cổ và ngực)",
+    "Sử dụng ống thở trong phẫu thuật",
+    "Có tiền sử đột quỵ",
+    "Tiền sử khối u vùng cổ, ngực"
+  ],
+  "complications": [
+    "Vấn đề hô hấp nghiêm trọng (nghẹt thở, gây tử vong nếu kéo dài)",
+    "Viêm phổi hít do thức ăn và nước uống đi sai đường",
+    "Khó khăn trong giao tiếp",
+    "Ảnh hưởng đến chất lượng cuộc sống"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám lâm sàng", "Đánh giá tiền sử bệnh"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi thanh quản",
+        "description": "Bác sĩ sử dụng ống nội soi mềm, nhỏ được gắn camera ở phần đầu ống rồi đưa vào bên trong cổ họng của người bệnh. Qua đó, bác sĩ có thể xem trực tiếp các dây thanh qua màn hình cũng như xác định vị trí và chuyển động của dây thanh."
+      },
+      {
+        "name": "Điện cơ thanh quản",
+        "description": "Phương pháp đo dòng điện trong cơ thanh quản của người bệnh. Bác sĩ sẽ sử dụng một cây kim nhỏ, đâm xuyên qua da cổ đến vùng cơ của dây thanh âm để đo lực của tín hiệu thần kinh từ não đến các cơ kiểm soát dây thanh."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp phát hiện các nguyên nhân gây tổn thương dây thần kinh thanh quản."
+      },
+      {
+        "name": "Chụp X-quang, MRI, CT vùng cổ ngực",
+        "description": "Kiểm tra chức năng phổi, chụp X-quang, chụp cộng hưởng từ (MRI), chụp CT vùng cổ ngực để phát hiện nguyên nhân gây liệt dây thanh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phụ thuộc vào nguyên nhân, mức độ nghiêm trọng và thời gian từ khi bắt đầu triệu chứng mà sẽ có những phác đồ điều trị khác nhau. Thông thường, người bệnh sẽ được điều trị bằng liệu pháp giọng nói, phẫu thuật hay thậm chí là cả hai.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Âm ngữ trị liệu",
+        "description": "Bao gồm các bài tập hoặc các hoạt động kích thích dây thanh, cải thiện khả năng kiểm soát hơi thở khi nói, ngăn chặn tình trạng căng thẳng bất thường của dây thanh bị liệt."
+      },
+      {
+        "name": "Tiêm chất làm đầy",
+        "description": "Liệt dây thanh âm có thể khiến các cơ trở nên mỏng và yếu. Để khiến cơ dày và khỏe hơn, bác sĩ có thể tiêm vào dây thanh mỡ tự thân, acid hyaluronic, collagen hoặc một số chất làm đầy khác."
+      },
+      {
+        "name": "Chuyển vị dây thanh",
+        "description": "Bác sĩ sẽ di chuyển cửa sổ mô từ bên ngoài vào trong thanh quản, đẩy dây thanh bị liệt về giữa thanh quản, giúp dây thanh hoạt động tốt hơn."
+      },
+      {
+        "name": "Mở khí quản",
+        "description": "Nếu cả hai dây thanh bị liệt khép hoàn toàn, luồng không khí đi vào phổi sẽ bị giảm khiến người bệnh khó thở. Bác sĩ sẽ rạch một đường ở phía trước cửa sổ mô, tạo lỗ mở vào khí quản rồi đặt ống thở vào."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thực hiện đều đặn các bài tập âm ngữ trị liệu theo chỉ định của bác sĩ",
+      "Hạn chế nói quá nhiều hoặc nói ở âm lượng cao",
+      "Nghỉ ngơi giọng nói sau phẫu thuật",
+      "Tuân thủ đúng phác đồ điều trị từ bác sĩ",
+      "Kiểm tra định kỳ sau điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +94,68 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám sức khỏe tai mũi họng định kỳ để phát hiện sớm bệnh",
+      "Hạn chế nói nhiều, nói liên tục hoặc nói ở âm lượng cao",
+      "Hạn chế các chất kích thích như bia rượu, cà phê",
+      "Ăn nhiều rau củ, uống nhiều nước để duy trì sức khỏe tốt",
+      "Sống lành mạnh, tập luyện thể dục thể thao thường xuyên"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Liệt dây thanh quản có nguy hiểm không?",
+      "answer": "Liệt dây thanh quản sẽ rất nguy hiểm nếu không được phát hiện sớm và điều trị kịp thời. Dây thanh quản bị liệt khiến người bệnh gặp phải các triệu chứng từ nhẹ tới nặng. Khi những triệu chứng này trở nên nghiêm trọng, người bệnh có thể gặp phải các vấn đề hô hấp nặng, gây nguy hiểm đến tính mạng. Ngoài ra, bệnh viêm phổi hít là một trong những biến chứng nguy hiểm có thể gặp phải khi người bệnh hít phải thức ăn hay dị vật."
+    },
+    {
+      "question": "Liệt dây thanh có phục hồi được không?",
+      "answer": "Có, liệt dây thanh âm có thể phục hồi được bằng cách: âm ngữ trị liệu hoặc phẫu thuật. Tùy vào mức độ nghiêm trọng của liệt dây thanh mà bác sĩ sẽ đưa ra phác đồ điều trị khác nhau. Trong trường hợp, phương pháp âm ngữ trị liệu không thể cải thiện tình trạng bệnh, bác sĩ sẽ phải tiến hành phẫu thuật phù hợp để người bệnh sớm hồi phục."
+    },
+    {
+      "question": "Liệt dây thanh quản có nói được không?",
+      "answer": "Người bị liệt dây thanh quản vẫn có thể nói được nếu bệnh còn ở giai đoạn nhẹ nhưng giọng nói có thể thay đổi, khàn tiếng và nói khó nghe. Một số trường hợp nghiêm trọng có thể hụt hơi khi nói hay thậm chí nói không thành tiếng."
+    },
+    {
+      "question": "Khi nào nên đi khám nếu nghi ngờ liệt dây thanh quản?",
+      "answer": "Nếu người bệnh bị khàn giọng kéo dài không rõ nguyên nhân trong vòng 2 đến 3 tuần hoặc khi có bất kỳ sự thay đổi nào về giọng nói gây khó chịu, người bệnh nên đến ngay các cơ sở y tế để được thăm khám và điều trị kịp thời, tránh để lâu gây ra các biến chứng nghiêm trọng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như giọng nói khàn đặc, yếu ớt, và khó nghe. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "liet-day-thanh-quan",
+        "viem-thanh-quan",
+        "u-day-thanh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị hụt hơi khi nói, khó nuốt, và mắc nghẹn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "liet-day-thanh-quan",
+        "viem-hong",
+        "tac-nghen-duong-tho"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở, hơi thở khò khè, và hắng giọng thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "liet-day-thanh-quan",
+        "hen-suyen",
+        "viem-thanh-quan"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị sặc khi nuốt, giọng nói khàn đặc, và khó nghe. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "liet-day-thanh-quan",
+        "roi-loan-nuot",
+        "viem-hong-thanh-quan"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp phải tình trạng giọng nói yếu ớt, khó thở, và lấy hơi thường xuyên khi nói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["liet-day-thanh-quan", "hen-suyen", "viem-phe-quan"]
     }
   ]
 }

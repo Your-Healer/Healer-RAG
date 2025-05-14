@@ -1,39 +1,103 @@
 {
   "disease_id": "nam-da",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nám da",
+  "disease_alternative_names": ["Tăng sắc tố da", "Melasma", "Chloasma"],
+  "disease_definition": "Nám da là tình trạng rối loạn tăng sắc tố da, xuất hiện khi sắc tố Melanin sản sinh quá mức, dẫn đến hình thành các mảng hoặc đốm sẫm màu. Tình trạng này gặp nhiều ở phụ nữ từ 20 – 50 tuổi, nhất là khi mang thai và sau sinh. Nám da có thể đậm và nhạt dần theo thời gian, tình trạng thường nặng vào mùa hè, nhẹ hơn khi trời chuyển đông.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mảng sẫm màu trên da",
+      "description": "Xuất hiện các mảng hoặc đốm sắc tố màu nâu, đen trên da, đặc biệt ở vùng mặt."
+    },
+    {
+      "name": "Phân bố đối xứng",
+      "description": "Các mảng nám thường xuất hiện đối xứng ở hai bên má, trán, mũi và quanh môi."
+    },
+    {
+      "name": "Thay đổi theo mùa",
+      "description": "Nám da thường đậm hơn vào mùa hè và nhạt đi vào mùa đông do ảnh hưởng của ánh nắng mặt trời."
+    },
+    {
+      "name": "Màu sắc và kích thước không đồng đều",
+      "description": "Các đốm nám có màu sắc và kích thước khác nhau, từ nâu nhạt đến nâu đậm hoặc đen."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nám da hình thành do sự sản xuất quá mức sắc tố melanin từ các tế bào melanocyte trong da.",
+    "related_factors": "Các yếu tố liên quan có thể chia thành nguyên nhân nội sinh (di truyền, nội tiết tố, thuốc tránh thai, mang thai, lão hóa da) và nguyên nhân ngoại sinh (mỹ phẩm, ánh nắng mặt trời, ánh sáng từ màn hình LED).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ (phụ nữ bị nám cao gấp 9 lần nam giới)",
+    "Tuổi từ 20-50",
+    "Di truyền, tiền sử gia đình có người bị nám",
+    "Làn da sẫm màu",
+    "Mang thai hoặc sau sinh",
+    "Sử dụng thuốc tránh thai",
+    "Rối loạn nội tiết tố",
+    "Tiếp xúc nhiều với ánh nắng mặt trời",
+    "Sử dụng mỹ phẩm và sản phẩm chăm sóc da không phù hợp",
+    "Thời kỳ tiền mãn kinh hoặc mãn kinh"
+  ],
+  "complications": [
+    "Mất tự tin về vẻ ngoài",
+    "Ảnh hưởng tâm lý, ngại giao tiếp",
+    "Da lão hóa nhanh",
+    "Khó khăn trong điều trị dứt điểm",
+    "Nguy cơ tái phát cao sau điều trị nếu không bảo vệ da đúng cách"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để quan sát vị trí, hình dạng, màu sắc và kích thước của các mảng nám",
+      "Sử dụng đèn Wood (ánh sáng UV sóng dài) để kiểm tra độ sâu của nám",
+      "Sử dụng máy soi da để đánh giá tình trạng nám"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đèn Wood",
+        "description": "Thiết bị khám da phát ra ánh sáng UV sóng dài giúp xác định độ sâu của nám và phân loại loại nám"
+      },
+      {
+        "name": "Sinh thiết da",
+        "description": "Lấy mẫu da có kích thước 2-5mm để xét nghiệm mô bệnh học, giúp chẩn đoán chính xác loại nám và mức độ"
+      },
+      {
+        "name": "Thang điểm MASI",
+        "description": "Hệ thống đánh giá mức độ nám da dựa trên diện tích, đậm độ và tính đồng nhất của nám"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị nám da cần xem xét, dựa trên từng cơ địa, nguyên nhân để có phương pháp phù hợp. Không phải lúc nào cũng cần điều trị nám, đặc biệt là nám do mang thai hoặc uống thuốc tránh thai có thể tự giảm khi sinh hoặc ngừng thuốc.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc bôi ngoài da",
+        "description": "Sử dụng các loại thuốc như axit tranexamic, axit azelaic, hydroquinone, tretinoin để làm giảm sản xuất melanin và làm mờ vết nám."
+      },
+      {
+        "name": "Thay da hóa học",
+        "description": "Sử dụng axit glycolic, axit alpha hydroxy và axit salicylic loại bỏ lớp da sẫm màu mà không ảnh hưởng đến quá trình tái tạo tế bào mới."
+      },
+      {
+        "name": "Điều trị bằng laser",
+        "description": "Chùm tia laser giúp phá hủy các tế bào cũ, tăng sinh collagen hình thành lớp tế bào mới, làm mờ vết nám, đều màu và sáng da."
+      },
+      {
+        "name": "Mesotherapy",
+        "description": "Sử dụng bơm tiêm với đầu kim nhỏ để đưa các hoạt chất có khả năng ức chế quá trình sản sinh sắc tố xuống các lớp da."
+      },
+      {
+        "name": "Sử dụng các chiết xuất tự nhiên",
+        "description": "Chiết xuất đậu nành giúp giảm quá trình chuyển đổi từ tế bào hắc tố sang tế bào da, đẩy lùi vết nám, tàn nhang."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Bảo vệ da khỏi ánh nắng mặt trời bằng kem chống nắng có SPF trên 30",
+      "Sử dụng mũ rộng vành, đeo kính râm khi ra ngoài",
+      "Tránh các loại mỹ phẩm gây kích ứng da",
+      "Thực hiện điều trị đúng phác đồ và theo dõi thường xuyên",
+      "Bổ sung dinh dưỡng và vitamin cần thiết cho da",
+      "Tái khám định kỳ để theo dõi và điều chỉnh phương pháp điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +105,51 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bảo vệ da khỏi ánh nắng: thoa kem chống nắng có chỉ số SPF trên 30, 15-30 phút trước khi ra ngoài",
+      "Che chắn làn da: đội mũ rộng vành, đeo khẩu trang, mắt kính râm",
+      "Ăn uống lành mạnh: cung cấp đủ dinh dưỡng giúp da khỏe mạnh",
+      "Bổ sung vitamin C, E và carotenoid có trong rau xanh và trái cây",
+      "Duy trì chế độ sinh hoạt hợp lý: tập thể dục, không thức khuya, tránh căng thẳng",
+      "Sử dụng mỹ phẩm an toàn, không chứa thành phần kích ứng da",
+      "Uống đủ nước (1,5-2 lít/ngày)",
+      "Thăm khám bác sĩ da liễu ngay khi phát hiện các vấn đề về da"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nám và tàn nhang có khác nhau hay không?",
+      "answer": "Có! Đây là 2 tình trạng da hoàn toàn khác nhau. Nám da xuất hiện dưới dạng các đốm, mảng sẫm màu với nhiều mức độ đậm nhạt khác nhau, thường xuất hiện đối xứng ở hai bên má, cằm, trán và có kích thước lớn hơn tàn nhang. Trong khi đó, tàn nhang là những đốm nhỏ giống đầu tăm hoặc hạt mè (1-5mm), có màu đen, nâu nhạt, nâu sẫm hoặc thâm vàng, thường xuất hiện rải rác ở mặt, cổ, ngực, cánh tay và có thể thay đổi độ đậm nhạt theo mùa."
+    },
+    {
+      "question": "Vì sao nữ giới bị nám da nhiều hơn nam giới?",
+      "answer": "Do hormone estrogen và progesterone ở nữ nhiều hơn nam! Sự thay đổi nội tiết tố do mang thai, tiền mãn kinh, mãn kinh, dùng thuốc tránh thai đều có thể tác động trực tiếp đến việc hình thành sắc tố gây nám, tàn nhang. Theo Hiệp hội Da liễu Hoa Kỳ (AAD), 90% người bị nám là phụ nữ, chỉ 10% trường hợp gặp ở nam giới. Ngoài ra, phụ nữ có làn da yếu hơn nên dễ bị nám hơn so với nam giới."
+    },
+    {
+      "question": "Nám da có chữa khỏi được không?",
+      "answer": "Có thể điều trị được, nhưng còn tùy thuộc vào nguyên nhân gây nám da. Vết nám có thể tự biến mất sau khi sinh con hoặc ngưng dùng thuốc tránh thai. Kem, thuốc bôi hoặc những phương pháp điều trị hiện đại như: bắn laser, điện di da mặt, tiêm HA, lăn kim đều có thể làm mờ vết nám. Tuy nhiên, nếu làn da không được bảo vệ khỏi tác hại của ánh sáng mặt trời, nám có thể tái phát trở lại, thậm chí nặng hơn ban đầu. Do đó, sau điều trị, cần che chắn cẩn thận, thoa kem chống nắng và bảo vệ da mỗi khi ra ngoài."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da xuất hiện những mảng sẫm màu ở hai bên má và trán, đặc biệt là sau khi tiếp xúc với ánh nắng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nam-da", "tang-sac-to-da", "tan-nhang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tự ti vì làn da xuất hiện nhiều vết nám, Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nam-da", "tang-sac-to-da", "roi-loan-sac-to"]
+    },
+    {
+      "question": "Tôi hay thấy các mảng nám có màu sắc khá đậm và kích thước không đồng đều ở vùng mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nam-da", "tang-sac-to-da", "u-sac-to"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nám da ở hai bên gò má và rối loạn kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nam-da", "nam-noi-tiet", "roi-loan-noi-tiet"]
+    },
+    {
+      "question": "Tôi hay thấy nám da xuất hiện nhiều hơn sau khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nam-da", "nam-thai-ky", "chloasma"]
     }
   ]
 }

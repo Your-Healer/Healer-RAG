@@ -1,39 +1,108 @@
 {
   "disease_id": "mun-an",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn ẩn",
+  "disease_alternative_names": ["Mụn dưới da", "Mụn li ti"],
+  "disease_definition": "Mụn ẩn là mụn phát triển dưới bề mặt da. Trong đa số trường hợp, mụn ẩn khó nhìn thấy bằng mắt mà chỉ sờ thấy cộm trên da. Vùng da chứa mụn ẩn thường có cảm giác đau, hơi viêm, đỏ. Mụn ẩn thường do u nang hoặc nốt sần bên dưới da gây ra, không có đầu mụn và khác với mụn đầu trắng và mụn đầu đen.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt li ti dưới da",
+      "description": "Phát hiện một hoặc nhiều nốt li ti dưới da, khó nhìn thấy bằng mắt thường nhưng cảm nhận được khi sờ vào da."
+    },
+    {
+      "name": "Cảm giác đau nhẹ và khó chịu",
+      "description": "Cảm giác hơi đau, khó chịu trên và xung quanh nốt mụn khi chạm vào."
+    },
+    {
+      "name": "Nốt sưng đỏ và viêm",
+      "description": "Nốt có dấu hiệu sưng, to ra, viêm, hơi đỏ khi mụn ẩn phát triển thành nhân trứng cá hoặc mụn viêm."
+    },
+    {
+      "name": "Da sần sùi",
+      "description": "Bề mặt da không mịn màng, có cảm giác lộm cộm, sần sùi khi sờ vào hoặc khi trang điểm."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mụn ẩn hình thành dưới da trong điều kiện da có nhiều bã nhờn (dầu), vi khuẩn và bụi bẩn bị mắc kẹt sâu trong nang lông. Người có da dầu dễ nổi mụn ẩn hơn người có da khô.",
+    "related_factors": "Thay đổi nội tiết tố kích thích tuyến bã nhờn sản sinh lượng lớn dầu nhờn, kết hợp với tế bào chết và bụi bẩn từ môi trường bên ngoài để hình thành nhân mụn ẩn. Ngoài ra, gan không khỏe, suy giảm chức năng nên việc lọc chất độc cũng kém hiệu quả hơn, là nguyên nhân gián tiếp khiến mụn ẩn xuất hiện.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giai đoạn dậy thì với sự thay đổi nội tiết tố",
+    "Mang thai và thay đổi hormone",
+    "Kỳ kinh nguyệt",
+    "Ăn uống không điều độ, nhiều thức ăn cay, nóng hoặc dầu mỡ",
+    "Thường xuyên thức khuya gây thiếu ngủ",
+    "Căng thẳng và stress",
+    "Sử dụng thuốc lá, chất uống có cồn",
+    "Dùng corticosteroid uống và một số loại thuốc tránh thai",
+    "Sử dụng mỹ phẩm kém chất lượng hoặc không phù hợp",
+    "Vệ sinh da không đúng cách"
+  ],
+  "complications": [
+    "Tiến triển thành mụn trứng cá hoặc mụn viêm",
+    "Tăng sắc tố sau viêm (sẹo màu hồng, đỏ hoặc nâu)",
+    "Sẹo rỗ hoặc sẹo teo do tổn thương collagen trên da",
+    "Nhiễm trùng nếu nặn mụn không đúng cách"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng bởi bác sĩ da liễu",
+      "Rửa sạch tay, dùng tay xoa nhẹ để phát hiện các cục u nhỏ dưới da",
+      "Soi gương dưới ánh sáng mạnh để phát hiện mụn ẩn",
+      "Quan sát bề mặt da sau khi trang điểm"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Soi da tại cơ sở chuyên khoa",
+        "description": "Bác sĩ da liễu sử dụng máy soi da để đánh giá tình trạng mụn ẩn, mức độ nghiêm trọng và phương pháp điều trị phù hợp"
+      },
+      {
+        "name": "Xét nghiệm vi khuẩn",
+        "description": "Trong một số trường hợp, bác sĩ có thể yêu cầu xét nghiệm để xác định loại vi khuẩn gây mụn và đề xuất phương pháp điều trị hiệu quả"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không nên bóp hoặc nặn mụn vì điều này sẽ gây nhiễm trùng, làm nhân mụn to hơn và cuối cùng để lại sẹo. Thay vào đó, hãy áp dụng các phương pháp giúp đẩy mụn lên trên da và phòng chống nhiễm trùng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng sản phẩm có chứa Benzoyl Peroxide (BP)",
+        "description": "Benzoyl Peroxide có tác dụng diệt vi khuẩn dưới da và là một thành phần phổ biến trong nhiều loại sữa rửa mặt và thuốc trị mụn không kê đơn."
+      },
+      {
+        "name": "Chườm ấm",
+        "description": "Chườm ấm làm giảm cảm giác đau gây ra khi mụn ẩn chuyển sang trạng thái viêm. Đắp gạc ấm lên vùng da có mụn ẩn 3-4 lần/ngày, 10-15 phút/lần giúp mụn giải phóng mủ và lành nhanh."
+      },
+      {
+        "name": "Sử dụng miếng dán trị mụn",
+        "description": "Miếng dán nhỏ tẩm chất chống mụn, kháng viêm như axit Salicylic có thể giúp điều trị mụn ẩn tại nhà."
+      },
+      {
+        "name": "Điều trị bằng tinh dầu tràm trà",
+        "description": "Tinh dầu tràm trà có chứa các hợp chất kháng khuẩn và dùng để điều trị mụn ẩn. Sử dụng sản phẩm có chứa 5% dầu cây trà hoặc nhiều hơn và áp dụng 2 lần/ngày cho đến khi mụn ẩn lành hẳn."
+      },
+      {
+        "name": "Mật ong nguyên chất",
+        "description": "Mật ong nguyên chất là liệu pháp điều trị mụn ẩn tự nhiên dùng để thay thế cho các loại thuốc trị mụn không kê đơn. Mật ong có tác dụng loại bỏ vi khuẩn."
+      },
+      {
+        "name": "Thuốc kháng sinh tại chỗ",
+        "description": "Với mụn ẩn bị sưng, viêm, bác sĩ có thể kê đơn thuốc kháng sinh bôi ngoài da như Clindamycin và Erythromycin để loại bỏ vi khuẩn và giảm viêm."
+      },
+      {
+        "name": "Thuốc kháng sinh đường uống",
+        "description": "Trường hợp số lượng mụn ẩn quá nhiều hoặc có dấu hiệu nhiễm trùng và chuyển thành mụn trứng cá, mụn viêm, bác sĩ có thể chỉ định sử dụng thuốc kháng sinh đường uống."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không nặn mụn để tránh nhiễm trùng và sẹo",
+      "Rửa mặt hai lần mỗi ngày bằng sữa rửa mặt phù hợp",
+      "Sử dụng các sản phẩm không gây bít tắc lỗ chân lông (non-comedogenic)",
+      "Tẩy tế bào chết nhẹ nhàng 1-2 lần/tuần",
+      "Duy trì chế độ ăn uống lành mạnh",
+      "Tránh sờ tay lên mặt khi chưa rửa sạch",
+      "Hạn chế trang điểm đậm hoặc sử dụng quá nhiều mỹ phẩm"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +110,52 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế những món ăn cay nóng, nhiều đường hoặc nhiều dầu mỡ",
+      "Bổ sung thực phẩm chứa chất Omega 3, Omega 6, Vitamin để da khỏe mạnh",
+      "Hạn chế sử dụng các loại đồ uống chứa cafein và chất kích thích",
+      "Sinh hoạt điều độ, hạn chế thức khuya",
+      "Không dùng tay chưa được vệ sinh sạch sẽ để chạm lên mặt",
+      "Rửa mặt 2 lần/ngày và đảm bảo vệ sinh cơ thể sạch sẽ",
+      "Sử dụng các loại mỹ phẩm lành tính, không gây kích ứng da",
+      "Hạn chế dùng mỹ phẩm có cồn",
+      "Sử dụng kem, mũ, quần áo chống nắng khi đi ra ngoài"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn ẩn có tự hết không?",
+      "answer": "Trong khoảng 50% - 80% trường hợp, mụn ẩn tự hết sau vài tuần đến vài tháng. Việc nặn mụn không đẩy nhanh quá trình chữa lành mụn; thậm chí sẽ gây ra tình trạng viêm nhiễm nặng hơn, làm to và đẩy nhân mụn vào sâu hơn tạo nên các vết thâm sau viêm. Tuy nhiên, mụn tồn tại càng lâu sẽ để lại càng nhiều tổn thương cho lớp mô bên dưới, có thể dẫn đến sẹo thâm hoặc sẹo rỗ."
+    },
+    {
+      "question": "Làm thế nào nhận biết được mụn ẩn?",
+      "answer": "Bạn có thể nhận biết mụn ẩn qua các dấu hiệu sau: phát hiện các nốt li ti dưới da khi sờ tay lên mặt; cảm giác hơi đau, khó chịu tại vị trí nốt; vị trí mụn có dấu hiệu sưng, to ra, viêm, hơi đỏ; khi trang điểm sẽ thấy lớp nền không mịn màng; bề mặt da có cảm giác sần sùi, lộm cộm."
+    },
+    {
+      "question": "Có nên nặn mụn ẩn không?",
+      "answer": "Không nên nặn mụn ẩn vì việc này không đẩy nhanh quá trình chữa lành mà còn gây ra tình trạng viêm nhiễm nặng hơn, làm to và đẩy nhân mụn vào sâu hơn, tạo nên các vết thâm sau viêm. Thay vào đó, hãy sử dụng các phương pháp điều trị như: sản phẩm có chứa Benzoyl Peroxide, chườm ấm, miếng dán trị mụn, tinh dầu tràm trà, hoặc tham khảo ý kiến bác sĩ da liễu để được điều trị phù hợp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như phát hiện một nốt li ti dưới da, cảm giác hơi đau, khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-an", "mun-trung-ca", "viem-nang-long"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da hơi sưng, nốt li ti to ra và hơi đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-an", "mun-viem", "viem-da"]
+    },
+    {
+      "question": "Tôi thấy xuất hiện nốt nhỏ dưới da, không đau nhưng hơi ngứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-an", "viem-nang-long", "di-ung-da"]
+    },
+    {
+      "question": "Tôi hay nặn mụn và thấy xuất hiện nốt nhỏ dưới da, sưng và viêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-an", "mun-viem", "viem-da"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da sần sùi, có nhiều nốt li ti dưới da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-an", "mun-dau-den", "mun-trung-ca"]
     }
   ]
 }

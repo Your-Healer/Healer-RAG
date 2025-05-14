@@ -1,39 +1,109 @@
 {
   "disease_id": "mun-trung-ca-o-cam",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mụn trứng cá ở cằm",
+  "disease_alternative_names": ["Mụn ở cằm", "Acne ở vùng cằm"],
+  "disease_definition": "Mụn trứng cá ở cằm là một tình trạng về da liễu do tuyến bã nhờn dưới da gây nên, có thể gặp ở cả nam và nữ. Tuyến bã nhờn làm tắc nghẽn lỗ chân lông sẽ gây nên mụn đỏ, từ đó dẫn đến viêm. Mụn có thể là vài đốm mụn cộm lên không gây đau (tình trạng nhẹ) hoặc mụn bọc (mụn mủ) gây khó chịu, có kích thước to, sờ vào có cảm giác đau nhiều.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mụn đầu trắng ở cằm",
+      "description": "Mụn đầu trắng nằm trong lỗ chân lông, tạo thành các đốm nhỏ màu trắng trên vùng cằm."
+    },
+    {
+      "name": "Mụn đỏ viêm sưng",
+      "description": "Các nốt mụn đỏ, sưng, viêm xuất hiện ở vùng cằm, có thể gây đau khi chạm vào."
+    },
+    {
+      "name": "Mụn mủ",
+      "description": "Mụn ở đầu có mủ, thường gây khó chịu và đau nhức cho người bệnh."
+    },
+    {
+      "name": "Mụn bọc",
+      "description": "Mụn mủ to, cứng và đau nằm ở phía cằm, không thể tự nặn vì sẽ gây nhiễm trùng."
+    },
+    {
+      "name": "Mụn đầu đen",
+      "description": "Mụn đầu đen ở cằm không gây đau nhưng mất thẩm mỹ, là kết quả của lỗ chân lông bị tắc nghẽn và tiếp xúc với không khí bị oxy hóa."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mụn trứng cá ở cằm hình thành khi tuyến bã nhờn dưới da tiết ra nhiều dầu nhờn, kết hợp với bụi bẩn, vi khuẩn tích tụ gây bít tắc lỗ chân lông.",
+    "related_factors": "Rối loạn nội tiết tố, chế độ ăn uống không hợp lý, thức khuya, căng thẳng, lạm dụng mỹ phẩm, vệ sinh da không sạch và sử dụng một số loại thuốc như corticosteroid, androgen hoặc lithium.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi dậy thì và tuổi vị thành niên",
+    "Phụ nữ trong thời kỳ kinh nguyệt",
+    "Phụ nữ mang thai",
+    "Phụ nữ trong giai đoạn tiền mãn kinh",
+    "Thói quen ăn đồ dầu mỡ, cay nóng",
+    "Ít uống nước",
+    "Thức khuya, nghỉ ngơi không đầy đủ",
+    "Thường xuyên làm việc quá sức, căng thẳng",
+    "Lạm dụng mỹ phẩm và tẩy trang không sạch",
+    "Đeo khẩu trang thời gian dài, làm da vùng cằm không thông thoáng"
+  ],
+  "complications": [
+    "Gây mất thẩm mỹ và tự ti trong giao tiếp",
+    "Để lại sẹo nếu không được điều trị đúng cách",
+    "Có thể là dấu hiệu của vấn đề sức khỏe nếu mụn ngày càng nặng và nhiều"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng bởi bác sĩ da liễu",
+      "Đánh giá tình trạng nặng nhẹ của mụn trên da"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám da liễu",
+        "description": "Bác sĩ da liễu khám và đánh giá loại mụn, mức độ viêm, và các yếu tố nguy cơ để xác định phương pháp điều trị thích hợp"
+      },
+      {
+        "name": "Kiểm tra nội tiết tố",
+        "description": "Trong một số trường hợp, bác sĩ có thể yêu cầu xét nghiệm nội tiết tố để kiểm tra rối loạn hormone"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị mụn trứng cá ở cằm tùy thuộc vào loại da và tình trạng nặng nhẹ của mụn. Đối với các loại mụn trứng cá, bác sĩ da liễu sẽ không chỉ định nặn lấy nhân mụn mà sẽ dùng thuốc bôi và dưỡng da để giảm nhẹ tình trạng sưng tấy của mụn, với trường hợp nặng hơn có thể dùng đến thuốc uống điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc bôi Acid azelaic",
+        "description": "Có tác dụng kháng khuẩn và giúp bong lớp da chết, làm giảm mụn viêm."
+      },
+      {
+        "name": "Kem bôi chứa benzoyl peroxide",
+        "description": "Giúp tiêu diệt vi khuẩn gây mụn và làm thông thoáng lỗ chân lông."
+      },
+      {
+        "name": "Thuốc bôi chứa acid retinoid",
+        "description": "Như Trétinoin Kéfran, giúp tăng tốc độ tái tạo tế bào da và giảm viêm."
+      },
+      {
+        "name": "Kháng sinh đường uống",
+        "description": "Như Oxytetracyclin, Erythromycin, minocycline, doxycycline được dùng trong trường hợp mụn viêm nhiều."
+      },
+      {
+        "name": "Kháng sinh bôi ngoài da",
+        "description": "Như clindamycin, erythromycin, tetracycline được sử dụng với loại mụn gây viêm da."
+      },
+      {
+        "name": "Điều trị nội tiết",
+        "description": "Với mụn do hormone, bác sĩ có thể chỉ định thuốc ngừa thai hoặc spironolactone để giảm androgen gây mụn."
+      },
+      {
+        "name": "Điều trị sẹo",
+        "description": "Bao gồm liệu pháp laser trị sẹo lõm, lăn kim, mesotherapy, peel da hoặc bôi thuốc sẹo."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không tự nặn mụn tại nhà để tránh gây nhiễm trùng",
+      "Vệ sinh da sạch sẽ, rửa mặt hai lần mỗi ngày",
+      "Sử dụng các sản phẩm dưỡng da không chứa dầu",
+      "Uống nhiều nước và ăn rau củ",
+      "Tránh thức khuya và giảm căng thẳng",
+      "Tẩy trang kỹ sau khi trang điểm",
+      "Đến gặp bác sĩ nếu tình trạng mụn không cải thiện hoặc trở nên nặng hơn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +111,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Rửa mặt hai lần mỗi ngày vào buổi sáng và tối",
+      "Sử dụng nước tẩy trang và sữa rửa mặt để loại bỏ sạch bụi bẩn",
+      "Dưỡng da bằng các sản phẩm thiên nhiên, không có chất kích ứng",
+      "Thoa kem chống nắng để bảo vệ da khỏi ánh mặt trời",
+      "Bổ sung rau xanh, trái cây chứa nhiều vitamin B3",
+      "Thường xuyên thay drap giường, mền gối để hạn chế bụi bẩn",
+      "Hạn chế áp mặt vào gối để tránh bí bách lỗ chân lông",
+      "Tập luyện thể dục thể thao thường xuyên",
+      "Uống nhiều nước và ăn uống lành mạnh",
+      "Hạn chế sử dụng mỹ phẩm hóa học chứa chất gây kích ứng",
+      "Tránh các sản phẩm chứa dầu cho làn da nhạy cảm",
+      "Che chắn vùng da mụn khi ra ngoài để tránh bụi bẩn và ánh nắng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mụn trứng cá ở cằm có nguy hiểm không?",
+      "answer": "Nếu tình trạng mụn trứng cá ngày càng nghiêm trọng và nặng hơn, mọc nhiều trong thời gian dài, có thể gây ảnh hưởng đến thẩm mỹ lẫn sức khỏe và đời sống của bạn. Mụn mọc nhiều cũng phản ánh tình trạng sức khỏe của bạn đang có vấn đề, cần phát hiện và chữa trị kịp thời để giảm mụn và hạn chế để lại sẹo trên da. Vì vậy, bạn nên đến thăm khám bác sĩ khi có dấu hiệu mụn trứng cá mọc quá nhiều để được tư vấn điều trị kịp thời."
+    },
+    {
+      "question": "Có nên nặn mụn trứng cá mọc vùng cằm không?",
+      "answer": "Theo các bác sĩ khuyến cáo, không nên tự nặn mụn tại nhà vì có thể gặp các biến chứng như nhiễm trùng, sưng viêm, thậm chí là co giật. Nếu tình trạng mụn trứng cá ở cằm nhẹ, bạn có thể dùng những biện pháp như bôi kem mụn, vệ sinh da sạch sẽ và uống nhiều nước, ăn nhiều rau củ để giảm bớt sưng viêm. Để đảm bảo an toàn, cần đến gặp bác sĩ để tư vấn về liệu trình điều trị mụn phù hợp."
+    },
+    {
+      "question": "Vì sao tôi hay bị mụn ở cằm?",
+      "answer": "Mụn trứng cá ở cằm có thể xuất hiện do nhiều nguyên nhân như: tuyến bã nhờn hoạt động mạnh tiết nhiều dầu, vệ sinh da không sạch, rối loạn nội tiết tố (đặc biệt trong giai đoạn dậy thì, kỳ kinh nguyệt, mang thai, tiền mãn kinh), chế độ ăn nhiều dầu mỡ và cay nóng, thức khuya, căng thẳng, lạm dụng mỹ phẩm, hoặc sử dụng một số loại thuốc có chứa corticosteroid, androgen hoặc lithium."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mụn đầu trắng nằm trong lỗ chân lông ở cằm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-trung-ca-o-cam",
+        "mun-dau-trang",
+        "mun-trung-ca"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy xuất hiện mụn đỏ viêm và sưng to ở cằm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca-o-cam", "mun-viem", "mun-boc"]
+    },
+    {
+      "question": "Tôi hay bị mụn mủ to, cứng và đau ở cằm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca-o-cam", "mun-boc", "mun-viem"]
+    },
+    {
+      "question": "Tôi có mụn đầu đen ở cằm, không gây đau nhưng mất thẩm mỹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mun-trung-ca-o-cam", "mun-dau-den", "mun-trung-ca"]
+    },
+    {
+      "question": "Tôi hay bị mụn trứng cá ở cằm, kèm theo thay đổi nội tiết tố. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mun-trung-ca-o-cam",
+        "mun-noi-tiet",
+        "roi-loan-noi-tiet"
+      ]
     }
   ]
 }

@@ -1,39 +1,72 @@
 {
   "disease_id": "mo-vu-day-dac",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mô vú dày đặc",
+  "disease_alternative_names": ["Vú đặc", "Mô vú đậm đặc", "Mô vú mật độ cao"],
+  "disease_definition": "Mô vú dày đặc là tình trạng trong đó bộ ngực có nhiều mô liên kết và tuyến vú hơn mô mỡ. Đây là một phát hiện bình thường và phổ biến, đặc biệt ở phụ nữ trẻ còn kinh nguyệt. Trên phim chụp X-quang tuyến vú, mô vú dày đặc xuất hiện dưới dạng một vùng trắng đặc, gây khó khăn cho việc phát hiện tổn thương trên vú.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng đặc trưng",
+      "description": "Mô vú dày đặc thường không có triệu chứng và được phát hiện qua chụp X-quang tuyến vú. Đây không phải là một bệnh lý mà là đặc điểm của mô vú."
+    },
+    {
+      "name": "Đau tức ngực theo chu kỳ",
+      "description": "Một số phụ nữ có mô vú dày đặc có thể cảm thấy đau tức ngực trước kỳ kinh nguyệt, nhưng triệu chứng này không phải do mô vú dày đặc gây ra."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Không rõ tại sao một số phụ nữ có nhiều mô vú dày đặc và những người khác thì không. Đây thường là đặc điểm bình thường của cấu trúc mô vú.",
+    "related_factors": "Một số yếu tố có thể ảnh hưởng đến mật độ mô vú bao gồm tuổi tác, chỉ số BMI và việc sử dụng liệu pháp hormone.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi trẻ: Mô vú thường ít dày đặc hơn khi phụ nữ già đi",
+    "Chỉ số BMI thấp: Phụ nữ có ít mỡ trong cơ thể thường có mô vú dày đặc hơn",
+    "Sử dụng liệu pháp hormone thay thế: Phụ nữ sử dụng liệu pháp hormone kết hợp để giảm triệu chứng mãn kinh có nhiều khả năng có mô vú dày hơn",
+    "Di truyền: Các yếu tố di truyền có thể ảnh hưởng đến mật độ mô vú"
+  ],
+  "complications": [
+    "Tăng nguy cơ mắc ung thư vú",
+    "Khó phát hiện ung thư vú thông qua chụp X-quang tuyến vú thông thường",
+    "Cần thêm các xét nghiệm hình ảnh bổ sung để sàng lọc toàn diện"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chụp X-quang tuyến vú (nhũ ảnh): Phương pháp chính để phát hiện mô vú dày đặc",
+      "Hệ thống dữ liệu và báo cáo hình ảnh vú (BI-RADS) để phân loại mật độ mô vú"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang tuyến vú 3 chiều (Tomosynthesis)",
+        "description": "Sử dụng tia X để thu thập nhiều hình ảnh của vú ở nhiều góc độ, sau đó tổng hợp thành hình ảnh 3D, giúp phát hiện thêm khoảng 1 ca ung thư trên 1.000 phụ nữ"
+      },
+      {
+        "name": "MRI vú (chụp cộng hưởng từ)",
+        "description": "Sử dụng nam châm để tạo hình ảnh của vú, không sử dụng bức xạ, có thể phát hiện thêm khoảng 14 ca ung thư trên 1.000 phụ nữ"
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Sử dụng sóng âm thanh để phân tích mô ở những khu vực khả nghi, có thể phát hiện thêm 2-4 ca ung thư trên 1.000 phụ nữ"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mô vú dày đặc không phải là bệnh lý cần điều trị, nhưng phụ nữ có mô vú dày đặc cần được theo dõi chặt chẽ hơn để phát hiện sớm ung thư vú.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi và tầm soát thường xuyên",
+        "description": "Cần gặp bác sĩ để được tư vấn và sàng lọc nguy cơ ung thư vú với tần suất phù hợp"
+      },
+      {
+        "name": "Kết hợp nhiều phương pháp chẩn đoán hình ảnh",
+        "description": "Trong trường hợp mô vú rất dày, bác sĩ có thể đề nghị kết hợp chụp nhũ ảnh với siêu âm hoặc MRI để tăng khả năng phát hiện bất thường"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Chụp X-quang tuyến vú định kỳ hàng năm",
+      "Tự khám vú thường xuyên để phát hiện sớm các thay đổi bất thường",
+      "Duy trì cân nặng phù hợp",
+      "Vận động thể chất thường xuyên, ít nhất 30 phút mỗi ngày"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +74,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục đều đặn ít nhất 30 phút mỗi ngày",
+      "Thực hiện tự khám vú hàng tháng",
+      "Thăm khám định kỳ và chụp X-quang tuyến vú theo khuyến nghị của bác sĩ",
+      "Hạn chế sử dụng liệu pháp hormone thay thế nếu không cần thiết"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mô vú dày đặc có phải là yếu tố nguy cơ gây ung thư vú không?",
+      "answer": "Mô vú dày đặc không được coi là tình trạng vú bất thường hoặc bệnh, nhưng nó là yếu tố nguy cơ gây ung thư vú. Những phụ nữ có mô sợi tuyến dày sẽ có nguy cơ mắc ung thư vú cao hơn những phụ nữ có bộ ngực nhiều mỡ. Nguy cơ này tách biệt với ảnh hưởng của mô tuyến vú dày đối với khả năng đọc hình chụp quang tuyến vú."
+    },
+    {
+      "question": "Phụ nữ có bộ ngực dày có nên tầm soát thêm ung thư vú không?",
+      "answer": "Tùy vào tình trạng mỗi người mà bác sĩ sẽ cho chụp siêu âm, chụp nhũ ảnh, MRI để sàng lọc ung thư vú. Hầu hết các bệnh ung thư vú có thể được nhìn thấy trên phim chụp X-quang tuyến vú ngay cả ở những phụ nữ có mô tuyến vú dày. Vì vậy, việc chụp quang tuyến vú thường xuyên rất quan trọng, kết hợp với các phương pháp chẩn đoán bổ sung khi cần thiết."
+    },
+    {
+      "question": "Mô vú dày đặc phân loại như thế nào?",
+      "answer": "Mô vú dày đặc được phân loại theo Hệ thống dữ liệu và báo cáo hình ảnh vú (BI-RADS) thành 4 mức độ: A - Gần như hoàn toàn là mô mỡ (khoảng 10% phụ nữ); B - Mô vú dạng sợi rải rác (khoảng 40% phụ nữ); C - Mô vú dày đặc không đồng nhất (khoảng 40% phụ nữ); D - Mô vú cực kỳ dày đặc (khoảng 10% phụ nữ). Phụ nữ có bộ ngực được xếp vào loại C hoặc D được coi là có mô vú dày."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mô vú dày đặc không đồng nhất. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mo-vu-day-dac", "u-vu-lanh-tinh", "ung-thu-vu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mô vú của tôi cực kỳ dày đặc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mo-vu-day-dac",
+        "u-xo-vu",
+        "tang-sinh-noi-mo-ong-dan"
+      ]
+    },
+    {
+      "question": "Tôi thấy mô vú của tôi có mật độ không đồng nhất, phần lớn là mô đặc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mo-vu-day-dac", "u-vu", "viem-tuyen-vu"]
+    },
+    {
+      "question": "Tôi hay lo lắng về nguy cơ ung thư vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["mo-vu-day-dac", "ung-thu-vu", "u-vu-lanh-tinh"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mô vú được xếp vào loại C theo BI-RADS. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mo-vu-day-dac",
+        "tang-sinh-noi-mo-ong-dan",
+        "u-nang-vu"
+      ]
     }
   ]
 }

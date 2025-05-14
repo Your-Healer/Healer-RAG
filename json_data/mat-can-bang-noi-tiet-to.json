@@ -1,39 +1,184 @@
 {
   "disease_id": "mat-can-bang-noi-tiet-to",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Mất cân bằng nội tiết tố",
+  "disease_alternative_names": [
+    "Rối loạn nội tiết",
+    "Hormone imbalance",
+    "Hormonal disorder"
+  ],
+  "disease_definition": "Mất cân bằng nội tiết tố là khi cơ thể có quá nhiều hoặc quá ít một hoặc nhiều loại hormone. Với nhiều loại hormone, nếu cơ thể có mức hormone quá nhiều hoặc quá ít cũng gây ra những thay đổi lớn đối gây ảnh hưởng đến sức khỏe.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tăng hoặc giảm cân không rõ nguyên nhân",
+      "description": "Cân nặng thay đổi đột ngột mà không có sự thay đổi về chế độ ăn uống hay hoạt động thể chất."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, uể oải kéo dài không cải thiện sau khi nghỉ ngơi."
+    },
+    {
+      "name": "Táo bón hoặc tiêu chảy",
+      "description": "Thay đổi thói quen đi vệ sinh, đặc biệt là táo bón hoặc đi vệ sinh thường xuyên hơn."
+    },
+    {
+      "name": "Tê, ngứa tay",
+      "description": "Cảm giác tê hoặc ngứa ran ở các đầu ngón tay, chân."
+    },
+    {
+      "name": "Mức cholesterol trong máu cao",
+      "description": "Chỉ số cholesterol cao trong máu dù ăn uống lành mạnh."
+    },
+    {
+      "name": "Trầm cảm, lo lắng",
+      "description": "Thay đổi tâm trạng thất thường, dễ lo lắng hoặc trầm cảm."
+    },
+    {
+      "name": "Không chịu được sự thay đổi nhiệt độ",
+      "description": "Cơ thể khó thích nghi với sự thay đổi nhiệt độ nóng, lạnh."
+    },
+    {
+      "name": "Da và tóc khô, móng dễ gãy",
+      "description": "Da và tóc trở nên khô ráp, móng tay móng chân yếu và dễ gãy."
+    },
+    {
+      "name": "Mỡ trên cơ thể phân bố không đều",
+      "description": "Mỡ thường tích tụ ở một số vùng cụ thể như bụng, đùi hoặc mông."
+    },
+    {
+      "name": "Da sẫm màu ở nách, bẹn hoặc sau 2 bên cổ",
+      "description": "Xuất hiện vùng da sẫm màu, dày và nhám ở nách, bẹn hoặc sau cổ (bệnh acanthosis nigricans)."
+    },
+    {
+      "name": "Khát nước, tiểu thường xuyên",
+      "description": "Cảm giác khát nước liên tục và đi tiểu thường xuyên hơn bình thường."
+    },
+    {
+      "name": "Nhịp tim chậm hoặc nhanh",
+      "description": "Nhịp tim bất thường, có thể nhanh hơn hoặc chậm hơn so với bình thường."
+    },
+    {
+      "name": "Ở nữ giới: Mụn trứng cá, rụng tóc, nhiều lông trên cơ thể",
+      "description": "Phụ nữ có thể xuất hiện mụn trứng cá nhiều trên mặt, ngực hoặc lưng, rụng tóc và mọc nhiều lông ở những vùng không bình thường."
+    },
+    {
+      "name": "Ở nữ giới: Nóng trong người, kinh nguyệt không đều",
+      "description": "Cảm giác nóng bừng trong người và chu kỳ kinh nguyệt không đều, kéo dài hoặc quá ngắn."
+    },
+    {
+      "name": "Ở nữ giới: Giảm ham muốn tình dục, teo khô âm đạo",
+      "description": "Giảm ham muốn tình dục và hiện tượng teo, khô âm đạo gây khó khăn trong quan hệ."
+    },
+    {
+      "name": "Ở nam giới: Giảm hoặc rụng lông trên cơ thể",
+      "description": "Nam giới bị rụng lông ở ngực, nách, mặt hoặc các vùng khác trên cơ thể."
+    },
+    {
+      "name": "Ở nam giới: Rối loạn cương dương",
+      "description": "Khó khăn trong việc đạt được hoặc duy trì sự cương cứng của dương vật."
+    },
+    {
+      "name": "Ở nam giới: Ngực to bất thường (Gynecomastia)",
+      "description": "Mô vú ở nam giới phát triển hoặc mở rộng bất thường."
+    },
+    {
+      "name": "Ở nam giới: Giảm ham muốn tình dục, mất khối lượng cơ bắp",
+      "description": "Giảm ham muốn tình dục và sụt giảm khối lượng cơ bắp dù vẫn tập luyện đều đặn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mất cân bằng nội tiết tố xảy ra khi các tuyến nội tiết trong cơ thể sản xuất quá nhiều hoặc quá ít hormone. Nội tiết tố giúp kiểm soát các chức năng khác nhau trong cơ thể, bao gồm trao đổi chất, cân bằng nội môi, tăng trưởng, phát triển, chức năng tình dục, tâm trạng, sinh sản và chu kỳ giấc ngủ.",
+    "related_factors": "Nhiều yếu tố có thể gây mất cân bằng nội tiết tố bao gồm: chế độ ăn uống không lành mạnh, căng thẳng kéo dài, béo phì, u tuyến yên, bệnh tiểu đường, viêm tụy, tổn thương tuyến nội tiết, nhiễm trùng nặng, tiếp xúc với độc tố môi trường, lạm dụng thuốc steroid, rối loạn di truyền, bệnh tuyến giáp, sử dụng các loại thuốc như thuốc ngừa thai hoặc liệu pháp thay thế hormone.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác (đặc biệt là thời kỳ dậy thì, mang thai, mãn kinh)",
+    "Căng thẳng kéo dài",
+    "Chế độ ăn uống không lành mạnh",
+    "Béo phì",
+    "Tiền sử gia đình có người mắc rối loạn nội tiết",
+    "Tiếp xúc với chất ô nhiễm môi trường",
+    "Sử dụng một số loại thuốc như steroid, thuốc ngừa thai",
+    "Tiền sử điều trị ung thư (hóa trị, xạ trị)",
+    "Bệnh tự miễn",
+    "Rối loạn giấc ngủ kéo dài",
+    "Lạm dụng thuốc lá, rượu bia"
+  ],
+  "complications": [
+    "Rối loạn tâm lý như trầm cảm, lo âu",
+    "Bệnh tiểu đường",
+    "Vô sinh hoặc khó mang thai",
+    "Béo phì",
+    "Bệnh tim mạch",
+    "Suy giảm chức năng tình dục",
+    "Loãng xương",
+    "Suy giảm khả năng miễn dịch",
+    "Rối loạn giấc ngủ",
+    "Các vấn đề về da như mụn trứng cá, rụng tóc"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng toàn diện",
+      "Đánh giá tiền sử bệnh lý và gia đình",
+      "Xét nghiệm nội tiết trong máu và nước tiểu",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nội tiết trong máu",
+        "description": "Đánh giá lượng hormone trong máu để xác định hormone nào đang cao hoặc thấp hơn mức bình thường. Thời điểm lấy mẫu xét nghiệm rất quan trọng để tránh kết quả sai lệch."
+      },
+      {
+        "name": "Xét nghiệm nội tiết trong nước tiểu",
+        "description": "Phân tích nước tiểu để đánh giá mức độ hormone và các chất chuyển hóa có trong nước tiểu."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Kiểm tra cấu trúc các tuyến nội tiết và phát hiện bất thường như u nang, khối u."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Cung cấp hình ảnh chi tiết về các tuyến nội tiết và tổ chức xung quanh để phát hiện các bất thường."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cho phép đánh giá chi tiết các tuyến nội tiết, đặc biệt hữu ích trong việc phát hiện u nhỏ ở tuyến yên."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị mất cân bằng nội tiết tố phụ thuộc vào nguyên nhân gây bệnh. Một số trường hợp có thể điều trị tạm thời, trong khi những trường hợp khác cần điều trị duy trì lâu dài để ổn định tình trạng sức khỏe.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Liệu pháp thay thế hormone",
+        "description": "Nếu người bệnh có nồng độ hormone thấp hơn bình thường, bác sĩ sẽ chỉ định dùng liệu pháp thay thế hormone. Tùy vào loại hormone nào bị thiếu hụt mà người bệnh cần dùng thuốc uống dạng viên hoặc thuốc tiêm."
+      },
+      {
+        "name": "Điều trị thuốc cho hormone cao",
+        "description": "Nếu người bệnh có nồng độ hormone cao hơn bình thường, bác sĩ có thể kê đơn thuốc để ức chế sản xuất hormone hoặc chặn tác động của hormone đó."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp, phẫu thuật có thể cần thiết để loại bỏ khối u hoặc một phần tuyến nội tiết bị ảnh hưởng."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Đôi khi được sử dụng để điều trị u tuyến nội tiết, đặc biệt là khi không thể phẫu thuật."
+      },
+      {
+        "name": "Điều trị thay đổi lối sống",
+        "description": "Thay đổi chế độ ăn uống, tập thể dục, quản lý stress và cải thiện giấc ngủ có thể giúp cải thiện cân bằng nội tiết tố."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng liều lượng và thời gian sử dụng thuốc theo hướng dẫn của bác sĩ",
+      "Theo dõi các tác dụng phụ của thuốc và thông báo cho bác sĩ nếu có bất kỳ phản ứng bất thường nào",
+      "Thực hiện tái khám định kỳ để đánh giá hiệu quả điều trị",
+      "Duy trì chế độ ăn uống cân bằng, đa dạng chất dinh dưỡng",
+      "Tập thể dục thường xuyên, ít nhất 30 phút mỗi ngày",
+      "Quản lý stress thông qua các phương pháp thư giãn như thiền, yoga",
+      "Đảm bảo ngủ đủ giấc, từ 7-8 giờ mỗi đêm",
+      "Hạn chế tiếp xúc với ánh sáng xanh từ thiết bị điện tử vào buổi tối"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +186,82 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Có chế độ ăn uống khoa học: Ăn nhiều chất xơ, chất béo lành mạnh (dầu dừa, các loại cá béo như: cá hồi, cá thu, cá ngừ, cá mòi)",
+      "Thường xuyên tập thể dục thể thao để tăng cường sức đề kháng",
+      "Tránh căng thẳng, stress kéo dài",
+      "Ngủ đủ giấc và đảm bảo chất lượng giấc ngủ",
+      "Thường xuyên đến bác sĩ khám, kiểm soát các bệnh nền (nếu có)",
+      "Không hút thuốc lá",
+      "Tránh ánh sáng xanh vào ban đêm từ các thiết bị điện tử",
+      "Hạn chế ăn thực phẩm chứa nhiều đường",
+      "Uống trà xanh thường xuyên",
+      "Tránh ăn quá nhiều và kiểm soát khẩu phần ăn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mất cân bằng nội tiết tố có nguy hiểm không?",
+      "answer": "Có, mất cân bằng nội tiết tố nếu không được điều trị sẽ gây nguy hiểm đến sức khỏe và chất lượng cuộc sống. Nội tiết tố giúp kiểm soát, điều chỉnh hoạt động của các cơ quan, tế bào trong cơ thể. Nếu không điều trị, tình trạng này có thể dẫn đến nhiều biến chứng như rối loạn tâm lý, bệnh tiểu đường, vô sinh, béo phì, bệnh tim mạch và nhiều vấn đề sức khỏe khác."
+    },
+    {
+      "question": "Những ai dễ bị mất cân bằng nội tiết tố?",
+      "answer": "Những đối tượng dễ bị mất cân bằng nội tiết tố bao gồm: phụ nữ trong giai đoạn dậy thì, mang thai, mãn kinh; người thường xuyên căng thẳng kéo dài; người có chế độ ăn uống không lành mạnh; người béo phì; người có tiền sử gia đình mắc các rối loạn nội tiết; người tiếp xúc nhiều với chất ô nhiễm môi trường; người sử dụng một số loại thuốc như steroid, thuốc ngừa thai; và người từng điều trị ung thư bằng hóa trị, xạ trị."
+    },
+    {
+      "question": "Làm sao để biết mình bị mất cân bằng nội tiết tố?",
+      "answer": "Để biết mình có bị mất cân bằng nội tiết tố hay không, bạn nên chú ý đến các dấu hiệu như: thay đổi cân nặng không lý do, mệt mỏi kéo dài, rối loạn tiêu hóa, thay đổi tâm trạng, khó chịu với nhiệt độ, da và tóc khô, móng dễ gãy, mỡ phân bố không đều trên cơ thể, kinh nguyệt không đều (ở nữ), giảm ham muốn tình dục, rối loạn cương dương (ở nam). Nếu có nhiều triệu chứng kéo dài, bạn nên đến gặp bác sĩ để được kiểm tra và chẩn đoán chính xác."
+    },
+    {
+      "question": "Mất cân bằng nội tiết tố có thể chữa khỏi được không?",
+      "answer": "Mất cân bằng nội tiết tố có thể điều trị hiệu quả trong nhiều trường hợp. Một số tình trạng mất cân bằng nội tiết tố mang tính tạm thời và có thể tự cải thiện hoặc điều trị dứt điểm. Tuy nhiên, một số trường hợp mất cân bằng nội tiết tố mạn tính sẽ cần điều trị duy trì lâu dài để kiểm soát tình trạng. Kết quả điều trị phụ thuộc vào nguyên nhân cụ thể, mức độ nghiêm trọng của tình trạng, thời gian phát hiện và điều trị, cũng như sự tuân thủ phác đồ điều trị của người bệnh."
+    },
+    {
+      "question": "Làm thế nào để cân bằng nội tiết tố một cách tự nhiên?",
+      "answer": "Để cân bằng nội tiết tố một cách tự nhiên, bạn có thể áp dụng các biện pháp sau: duy trì cân nặng hợp lý; ăn uống lành mạnh với nhiều chất xơ, chất béo tốt từ cá béo, dầu dừa; tập thể dục thường xuyên; quản lý stress thông qua thiền, yoga; ngủ đủ giấc; tránh ánh sáng xanh vào ban đêm; giảm tiêu thụ đường; uống trà xanh; không hút thuốc; và thăm khám sức khỏe định kỳ. Tuy nhiên, nếu đã có dấu hiệu rối loạn nội tiết nghiêm trọng, bạn vẫn nên tham khảo ý kiến bác sĩ để có phương pháp điều trị phù hợp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da khô, tóc khô và móng dễ gãy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-can-bang-noi-tiet-to",
+        "suy-giap",
+        "thieu-vitamin"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, tăng cân không rõ nguyên nhân và thường xuyên bị táo bón. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-can-bang-noi-tiet-to",
+        "suy-giap",
+        "roi-loan-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tê, ngứa tay và mức cholesterol trong máu cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-can-bang-noi-tiet-to",
+        "tieu-duong",
+        "roi-loan-lipid-mau"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp phải tình trạng da sẫm màu ở nách và cổ, kèm theo khát nước và tiểu nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-can-bang-noi-tiet-to",
+        "tieu-duong",
+        "hoi-chung-buong-trung-da-nang"
+      ]
+    },
+    {
+      "question": "Tôi là nữ và đang có mụn trứng cá nhiều trên mặt, ngực và lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "mat-can-bang-noi-tiet-to",
+        "hoi-chung-buong-trung-da-nang",
+        "roi-loan-hormone"
+      ]
     }
   ]
 }

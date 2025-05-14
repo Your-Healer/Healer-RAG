@@ -1,39 +1,143 @@
 {
   "disease_id": "liet-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Liệt mặt",
+  "disease_alternative_names": [
+    "Liệt dây thần kinh số VII",
+    "Liệt Bell",
+    "Bell's palsy"
+  ],
+  "disease_definition": "Liệt mặt hay còn gọi là liệt dây thần kinh số 7, liệt Bell, là một bệnh thần kinh ngoại biên không rõ nguyên nhân. Đây là tình trạng một bên cơ mặt trở nên yếu hoặc chảy xệ xuống do dây thần kinh điều khiển cho cơ mặt bị tổn thương hoặc mất chức năng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khô mắt",
+      "description": "Tuyến lệ hoạt động kém, sụp mí hoặc không thể nhắm hay nháy mắt."
+    },
+    {
+      "name": "Miệng chảy dãi",
+      "description": "Không thể khép miệng, khó mỉm cười hoặc nói chuyện."
+    },
+    {
+      "name": "Dị cảm vùng mặt",
+      "description": "Cảm giác bất thường ở vùng trán, vùng khóe miệng."
+    },
+    {
+      "name": "Đau vùng mặt",
+      "description": "Đau quanh tai, thái dương, xương chũm, góc hàm."
+    },
+    {
+      "name": "Thay đổi vị giác",
+      "description": "Thay đổi cảm nhận vị giác ở 2/3 phía trước của lưỡi."
+    },
+    {
+      "name": "Nhạy cảm với âm thanh",
+      "description": "Tăng cảm giác đối với âm thanh, tiếng ồn."
+    },
+    {
+      "name": "Rối loạn nhai nuốt",
+      "description": "Khó khăn khi nhai và nuốt thức ăn."
+    },
+    {
+      "name": "Mụn nước",
+      "description": "Trong trường hợp liệt mặt do nhiễm trùng herpes simplex hoặc zoster, người bệnh có thể xuất hiện mụn nước và tiến triển thành hội chứng Ramsay-Hunt."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Căn nguyên của bệnh liệt mặt hiện vẫn chưa được xác định cụ thể, song thiếu máu cục bộ mạch máu, mắc bệnh tự miễn hoặc nhiễm virus, đặc biệt là nhóm virus herpes tiềm ẩn (herpes simplex, herpes zoster) được coi là nguyên nhân phổ biến.",
+    "related_factors": "Ngoài các virus (herpes simplex, herpes zoster, Epstein-Barr, cytomegalovirus, adenovirus, rubella, quai bị, cúm B, coxsackievirus), các yếu tố khác như di truyền, nhổ răng, bệnh tiểu đường, thai kỳ, gãy xương nền sọ, bệnh phong, viêm não thân não cũng được coi là yếu tố nguy cơ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm virus (herpes simplex, herpes zoster)",
+    "Bệnh tự miễn",
+    "Di truyền",
+    "Nhổ răng",
+    "Bệnh tiểu đường",
+    "Hội chứng Guillain-Barre",
+    "Hội chứng Miller-Fisher",
+    "Thai kỳ (tỷ lệ mắc cao hơn với 43 trường hợp/100.000 người)",
+    "Bệnh phong",
+    "Tăng bạch cầu đơn nhân",
+    "Viêm não thân não",
+    "Gãy xương nền sọ",
+    "Lupus ban đỏ hệ thống",
+    "Teo cơ cột sống"
+  ],
+  "complications": [
+    "Suy yếu cơ mặt kéo dài",
+    "Co cứng cơ mặt",
+    "Rối loạn vận động",
+    "Giảm tiết nước mắt",
+    "Chảy nước mắt cá sấu",
+    "Ảnh hưởng đến thẩm mỹ",
+    "Ảnh hưởng đến tâm lý xã hội",
+    "Tổn thương mắt do khô mắt và nhắm mắt không kín"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Biểu hiện lâm sàng",
+      "Hình ảnh học",
+      "Đo điện thần kinh - cơ (EMG)",
+      "Xét nghiệm máu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra lâm sàng",
+        "description": "Quan sát sự bất đối xứng ở khuôn mặt, nhắm mắt bên liệt không kín, mất nếp nhăn mũi má, và khóe miệng so với bên lành. Đánh giá chức năng vận động và cảm giác."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Được chỉ định trong trường hợp liệt nửa người đối bên, chóng mặt, hoặc liệt mặt do khối u gây ra."
+      },
+      {
+        "name": "Đo điện thần kinh - cơ (EMG)",
+        "description": "Giúp đánh giá mức độ tổn thương thần kinh và phục hồi, được thực hiện ít nhất 1 tuần sau khởi phát triệu chứng."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Tổng phân tích tế bào máu để xác định tình trạng nhiễm trùng; đường huyết lúc đói và Hemoglobin A1c để tìm nguyên nhân đái tháo đường."
+      },
+      {
+        "name": "Kháng thể huyết thanh đối với herpes zoster",
+        "description": "Xét nghiệm tìm kháng thể khi nghi ngờ liệt mặt do nhiễm virus."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Các mục tiêu chính của việc điều trị bệnh liệt mặt là tăng tốc độ phục hồi, giúp phục hồi hoàn toàn, ngăn ngừa các biến chứng giác mạc và các di chứng khác, đồng thời ức chế sự nhân lên của virus.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc corticosteroid",
+        "description": "Thuốc cần dùng trong vòng 72 giờ kể từ khi bắt đầu các triệu chứng của bệnh liệt Bell và dùng trong vòng 10 ngày. Lợi ích của corticosteroid sau 72 giờ là không rõ ràng."
+      },
+      {
+        "name": "Bảo vệ mắt",
+        "description": "Người bệnh cần bảo vệ giác mạc khỏi bị mất nước, khô hoặc trầy xước bằng thuốc mỡ tra mắt ban ngày và ban đêm. Đồng thời, cần thường xuyên đeo kính khi ra ngoài trời."
+      },
+      {
+        "name": "Tập vật lý trị liệu",
+        "description": "Trị liệu bằng việc tự động xoa bóp cơ vùng mặt giúp mau phục hồi."
+      },
+      {
+        "name": "Châm cứu",
+        "description": "Là một trong những phương pháp điều trị hỗ trợ truyền thống của phương Đông, tuy nhiên chưa có bằng chứng rõ ràng về hiệu quả."
+      },
+      {
+        "name": "Kích điện qua da",
+        "description": "Ở những bệnh nhân bị tổn thương dây thần kinh mặt mãn tính, phương pháp kích thích điện qua da lâu dài có thể giúp thúc đẩy tái tạo nội tâm."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Chỉ thực hiện sau giai đoạn tái tạo dây thần kinh mặt, với mục đích thẩm mỹ là chính trong các trường hợp liệt mặt nặng, điều trị nội khoa muộn để lại di chứng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Điều trị sớm trong vòng 72 giờ sau khi khởi phát bệnh",
+      "Bảo vệ mắt kỹ lưỡng để tránh các biến chứng",
+      "Thực hiện các bài tập vật lý trị liệu đều đặn",
+      "Tránh các phương pháp điều trị chưa được kiểm chứng",
+      "Tái khám theo hướng dẫn của bác sĩ",
+      "Tiếp tục điều trị cho đến khi phục hồi hoàn toàn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +145,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vận động, tập thể dục hàng ngày",
+      "Không uống rượu, bia",
+      "Không thức khuya",
+      "Tránh gió lạnh",
+      "Phòng ngừa cảm cúm và các loại virus gây bệnh",
+      "Nâng cao sức đề kháng",
+      "Kiểm soát tốt các bệnh nền như đái tháo đường, các bệnh tai mũi họng",
+      "Đi khám sớm khi có các triệu chứng đáng ngờ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh liệt mặt có nguy hiểm không?",
+      "answer": "Bệnh liệt mặt không gây chết người nên không nguy hiểm như bệnh đột quỵ, song bệnh này có thể để lại các di chứng ảnh hưởng đến thẩm mỹ, sức khỏe và tâm lý xã hội lâu dài cho người bệnh."
+    },
+    {
+      "question": "Bệnh liệt mặt có chữa được không?",
+      "answer": "Bệnh liệt mặt có thể chữa khỏi hoàn toàn trong khoảng 6 tháng nếu đến trước 72 giờ đầu sau khi khởi phát bệnh, song điều này còn tùy thuộc và tình trạng bệnh, sức khỏe của người bệnh và mức độ tổn thương nguyên nhân."
+    },
+    {
+      "question": "Trẻ em có bị liệt mặt không?",
+      "answer": "Bệnh liệt mặt có thể xảy ra ở bất kỳ độ tuổi nào, tuy nhiên bệnh hiếm gặp ở trẻ dưới 2 tuổi. Liệt dây thần kinh mặt xuất hiện ở trẻ em ít hơn 2-4 lần so với người lớn."
+    },
+    {
+      "question": "Liệt mặt có phải là một dấu hiệu của bệnh đột quỵ không?",
+      "answer": "Liệt mặt và đột quỵ đều có các biểu hiện giống nhau như khó khép miệng, khó khép mắt, méo một bên mặt, song bệnh liệt mặt không phải là một dấu hiệu của bệnh đột quỵ. Vì đột quỵ kèm yếu liệt nửa người."
+    },
+    {
+      "question": "Châm cứu có chữa được bệnh liệt mặt không?",
+      "answer": "Phương pháp châm cứu cho đến nay chưa có bằng chứng y học trong việc điều trị chính để phục hồi dây thần kinh mặt. Tuy nhiên, phương pháp này có thể hỗ trợ một phần nhỏ giúp phục hồi bệnh nhân liệt mặt song cần đúng cách và được thực hiện bởi các chuyên gia giàu kinh nghiệm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khô mắt, sụp mí, và khó mỉm cười. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["liet-mat", "viem-dau-mat", "dot-quy"]
+    },
+    {
+      "question": "Tôi hay bị chảy dãi, khó khép miệng, và đau quanh tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "liet-mat",
+        "viem-dau-than-kinh-mat",
+        "viem-khop-ham"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy dị cảm vùng trán và khóe miệng, kèm theo thay đổi vị giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["liet-mat", "viem-day-than-kinh", "herpes-zoster"]
+    },
+    {
+      "question": "Tôi thường xuyên bị nhạy cảm với âm thanh, rối loạn nhai nuốt, và đau dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "liet-mat",
+        "viem-day-than-kinh-so-ba",
+        "roi-loan-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy khô mắt, miệng chảy dãi, và đau quanh tai, thái dương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "liet-mat",
+        "hoi-chung-sjogren",
+        "viem-dau-than-kinh-mat"
+      ]
     }
   ]
 }

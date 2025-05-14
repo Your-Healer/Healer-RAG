@@ -1,58 +1,194 @@
 {
   "disease_id": "hen-suyen",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hen suyễn",
+  "disease_alternative_names": [
+    "Hen phế quản",
+    "Asthma",
+    "Viêm niêm mạc phế quản mạn tính"
+  ],
+  "disease_definition": "Hen suyễn (hen phế quản, tiếng Anh là Asthma) còn gọi là bệnh viêm niêm mạc phế quản mạn tính đặc trưng bởi tình trạng tắc nghẽn đường thở do phù nề, niêm mạc phế quản, tăng tiết đờm rãi và co thắt cơ trơn phế quản đặc biệt xảy ra khi gặp các tác nhân kích thích trực tiếp hoặc gián tiếp gây triệu chứng ho, nặng ngực, khó thở và khò khè.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó thở cơn",
+      "description": "Cơn hen điển hình với khó thở chậm, có tiếng cò cử, thường xảy ra ban đêm hoặc khi thay đổi thời tiết."
+    },
+    {
+      "name": "Tức ngực hoặc nặng ngực",
+      "description": "Cảm giác nặng nề hoặc áp lực ở vùng ngực, một trong những dấu hiệu phổ biến của bệnh hen."
+    },
+    {
+      "name": "Thở ra khò khè",
+      "description": "Tiếng khò khè khi thở ra, đặc biệt phổ biến ở trẻ em mắc hen suyễn."
+    },
+    {
+      "name": "Ho dai dẳng",
+      "description": "Ho kéo dài, tăng về đêm hoặc khi gắng sức, là một trong những triệu chứng không điển hình của hen suyễn."
+    },
+    {
+      "name": "Khó ngủ do khó thở",
+      "description": "Cơn hen khiến người bệnh khó thở, gây khó ngủ, có thể kèm theo ho hoặc thở khò khè."
+    },
+    {
+      "name": "Cơn hen nặng hơn khi mắc cảm cúm",
+      "description": "Các cơn ho hoặc thở khò khè trở nên tồi tệ hơn do vi rút đường hô hấp, chẳng hạn như cảm lạnh hoặc cảm cúm."
+    },
+    {
+      "name": "Ho khạc đờm sau cơn hen",
+      "description": "Gần hết cơn khó thở, triệu chứng giảm dần và người bệnh ho khạc đờm trong, dính quánh."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tình trạng tắc nghẽn đường thở do phù nề, niêm mạc phế quản, tăng tiết đờm rãi và co thắt cơ trơn phế quản đặc biệt xảy ra khi gặp các tác nhân kích thích.",
+    "related_factors": "Tiếp xúc với dị nguyên như khói thuốc lá, mạt bụi, ô nhiễm không khí, gián, lông thú nuôi, nấm mốc, khói do đốt gỗ hoặc cỏ, nhiễm trùng đường hô hấp, thời tiết lạnh, thuốc như aspirin, một số thực phẩm, stress, trào ngược dạ dày thực quản.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người có cơ địa dị ứng",
+    "Trẻ bị nhiễm khuẩn đường hô hấp tái phát nhiều lần",
+    "Trẻ có bố mẹ mắc hen suyễn",
+    "Người bị ảnh hưởng bởi môi trường ô nhiễm như hóa chất, khói bụi, khói thuốc lá",
+    "Người thừa cân, béo phì",
+    "Người có tiền sử mắc bệnh dị ứng về da, hô hấp",
+    "Tiếp xúc với chất kích thích tại nơi làm việc",
+    "Người tập thể dục trong điều kiện không khí lạnh và khô"
+  ],
+  "complications": [
+    "Khí phế thũng, tâm phế mạn tính",
+    "Biến dạng lồng ngực hay mắc suy hô hấp mạn tính",
+    "Xẹp phổi (thường xảy ra ở trẻ em, chiếm tỷ lệ 30%)",
+    "Tràn khí màng phổi (xuất hiện ở 5% bệnh nhân hen suyễn)",
+    "Biến chứng của điều trị: dùng nhiều corticoid kéo dài có thể gặp hội chứng giả cushing",
+    "Gián đoạn giấc ngủ và mệt mỏi ban ngày",
+    "Giảm khả năng tham gia các hoạt động thể chất",
+    "Ảnh hưởng đến học tập và công việc"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác bệnh sử và tiền sử",
+      "Khám lâm sàng hen suyễn",
+      "Đo chức năng hô hấp",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đo chức năng hô hấp (hô hấp ký)",
+        "description": "Kiểm tra xem phổi đang hoạt động như thế nào, thường làm test hồi phục phế quản. Nếu chức năng phổi cải thiện sau khi dùng thuốc giãn phế quản, bệnh nhân có khả năng cao bị hen suyễn."
+      },
+      {
+        "name": "Đo lưu lượng đỉnh",
+        "description": "Đo lường mức độ phổi đẩy không khí ra ngoài, giúp phát hiện nguyên nhân khiến bệnh hen suyễn tồi tệ hơn, liệu việc điều trị có hiệu quả hay không."
+      },
+      {
+        "name": "Chụp X-quang hoặc CT lồng ngực",
+        "description": "Cho biết nếu có bất kỳ vấn đề nào khác với phổi, hoặc liệu bệnh hen suyễn có gây ra các triệu chứng hay không, giúp chẩn đoán phân biệt hen với các bệnh hô hấp khác."
+      },
+      {
+        "name": "Thử nghiệm oxit nitric thở ra",
+        "description": "Đo lượng nitric oxide trong hơi thở, nếu đường thở bị viêm sẽ tạo ra khí ở mức độ cao."
+      },
+      {
+        "name": "Test kích thích phế quản",
+        "description": "Đánh giá sự tăng tính phản ứng của đường thở, các tác nhân kích thích bao gồm vận động, methacholine hít, histamine, tăng thông khí."
+      },
+      {
+        "name": "Các test dị ứng",
+        "description": "Test lẩy da hoặc định lượng nồng độ immunoglobulin E (lgE) đặc hiệu trong huyết thanh với các dị nguyên hô hấp giúp phát hiện tình trạng quá mẫn."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không thể điều trị dứt điểm bệnh. Ngăn ngừa đợt cấp và kiểm soát triệu chứng chính là mục tiêu trong điều trị hen suyễn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kiểm soát hen có corticoid đường phun hít",
+        "description": "Với người lớn, trẻ lớn mắc hen phế quản, cần điều trị bằng thuốc kiểm soát hen có corticoid đường phun hít, giúp giảm các đợt cấp nặng."
+      },
+      {
+        "name": "Thuốc kích thích beta giao cảm kéo dài",
+        "description": "Thường kết hợp với corticoid đường phun hít để làm giảm các đợt cấp nặng và kiểm soát triệu chứng hen suyễn."
+      },
+      {
+        "name": "Thuốc cắt cơn hen",
+        "description": "Người mắc bệnh hen suyễn nên chuẩn bị sẵn thuốc cắt cơn hen, phòng ngừa trường hợp lên cơn hen suyễn bất ngờ, không kịp xử trí."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Trang bị kiến thức về bệnh hen",
+      "Hiểu và sử dụng các kỹ thuật dùng thuốc hen suyễn dạng phun, hít",
+      "Thực hiện chuẩn xác theo phác đồ điều trị",
+      "Theo dõi kỹ triệu chứng và mức độ của các cơn hen",
+      "Tái khám theo lịch hẹn giúp kiểm soát bệnh",
+      "Tránh các yếu tố nguy cơ",
+      "Phòng và điều trị các bệnh đồng mắc"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin phòng cúm mỗi năm một lần và tiêm vacxin phòng phế cầu 5 năm một lần nhằm giảm các cơn hen cấp tính. Ngoài ra, tiêm vắc xin Covid-19 có vai trò quan trọng giúp hạn chế nguyên nhân hen suyễn.",
+      "recommended_for": [
+        "Người bệnh hen suyễn",
+        "Người có nguy cơ cao mắc bệnh hen",
+        "Trẻ em và người lớn tuổi mắc hen"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Cai thuốc lá: khuyến khích người bệnh ngừng hút thuốc và tránh phơi nhiễm thụ động với khói thuốc lá",
+      "Tập luyện thể lực: khuyến khích người bệnh hen tích cực vận động nhằm cải thiện sức khỏe chung",
+      "Tránh các loại thuốc có thể khiến bệnh hen nặng lên: thuốc kháng viêm không steroid hoặc thuốc chẹn beta",
+      "Chế độ ăn phù hợp: khuyến khích bệnh nhân ăn nhiều rau và trái cây tươi, không dùng thực phẩm có nguy cơ gây dị ứng",
+      "Phòng ô nhiễm không khí trong nhà: loại bỏ việc đun nấu gây ô nhiễm hoặc thêm ống thông khí",
+      "Tránh hít phải không khí ô nhiễm bên ngoài: hạn chế hoạt động thể lực cường độ cao ở nơi ô nhiễm nặng",
+      "Đối phó với cảm xúc: tập thư giãn hoặc hít thở phù hợp để giảm stress",
+      "Tránh các yếu tố khởi phát cơn hen theo hướng dẫn của bác sĩ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khám hen suyễn ở đâu tốt?",
+      "answer": "Người bệnh khi có các dấu hiệu nghi ngờ mắc bệnh hen suyễn cần đi khám tại các cơ sở y tế uy tín, có chuyên khoa hô hấp hoặc chuyên khoa miễn dịch dị ứng lâm sàng để chẩn đoán, theo dõi và điều trị tốt nhất."
+    },
+    {
+      "question": "Làm gì khi lên cơn hen suyễn (bị hen suyễn khó thở nên làm gì?)",
+      "answer": "Khi lên cơn hen cần đánh giá tình trạng hiện tại đang xảy ra và xác định có cần gọi cấp cứu hay không. Khi bệnh nhân có các triệu chứng nhẹ có thể dùng thuốc tác dụng nhanh, cần tăng dùng thuốc giảm triệu chứng: liều thấp ICS/formoterol hoặc SABA, khí dung hoặc bình xịt định liều kết hợp buồng đệm. Nếu có biểu hiện trầm trọng hơn cần phải đến viện kiểm tra. Nếu lên cơn hen suyễn nặng, người bệnh phải gọi hoặc nhờ người gọi dịch vụ cấp cứu trước khi tiến hành xử trí."
+    },
+    {
+      "question": "Bị hen suyễn có tiêm vaccine được không?",
+      "answer": "Người mắc bệnh hen suyễn hoàn toàn tiêm được vacxin nếu được điều trị ổn định, kiểm soát tốt triệu chứng."
+    },
+    {
+      "question": "Hen suyễn có chữa khỏi được không?",
+      "answer": "Không thể điều trị dứt điểm bệnh. Ngăn ngừa đợt cấp và kiểm soát triệu chứng chính là mục tiêu trong điều trị hen suyễn. Phần lớn người bệnh được cải thiện triệu chứng trong vài ngày sau điều trị, nhưng có thể mất từ 3-4 tháng để đáp ứng tối đa. Nếu tuân thủ tốt trong quá trình điều trị, người bị hen có thể có chất lượng cuộc sống gần như bình thường."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ho khan, khó thở, đặc biệt là vào ban đêm hoặc khi thời tiết thay đổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hen-suyen", "viem-phe-quan", "viem-phoi"]
+    },
+    {
+      "question": "Tôi hay thở khò khè, tức ngực và cảm thấy khó thở khi vận động mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hen-suyen",
+        "benh-phoi-tac-nghen-man-tinh",
+        "suy-tim"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở, ho dai dẳng về đêm và hay bị cảm lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hen-suyen", "viem-mui-di-ung", "trao-nguoc-da-day"]
+    },
+    {
+      "question": "Tôi hay bị hắt hơi, sổ mũi, tức ngực và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["hen-suyen", "viem-mui-di-ung", "viem-xoang"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như thở khò khè, ho và khó thở, đặc biệt là khi tập thể dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hen-suyen",
+        "co-that-phe-quan",
+        "benh-phoi-tac-nghen-man-tinh"
+      ]
     }
   ]
 }
