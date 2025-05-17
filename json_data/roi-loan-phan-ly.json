@@ -1,39 +1,138 @@
 {
   "disease_id": "roi-loan-phan-ly",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn phân ly",
+  "disease_alternative_names": [
+    "Dissociative Disorders",
+    "Rối loạn nhận dạng phân ly",
+    "Chứng quên phân ly",
+    "Rối loạn giải thể nhân cách"
+  ],
+  "disease_definition": "Rối loạn phân ly là rối loạn tâm thần liên quan đến sự ngắt kết nối khỏi suy nghĩ, cảm xúc, ký ức hoặc cảm giác về danh tính của bệnh nhân. Bệnh nhân thoát ra khỏi tình trạng này bằng cách không tự chủ, có hại cho sức khỏe và ảnh hưởng tới chức năng sống hằng ngày.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm thấy không làm chủ được cảm xúc",
+      "description": "Mất kiểm soát đối với cảm xúc của bản thân, không thể điều chỉnh hay kiềm chế cảm xúc khi cần thiết"
+    },
+    {
+      "name": "Khó đối diện với cảm xúc mãnh liệt",
+      "description": "Gặp khó khăn khi phải đối mặt với những cảm xúc mạnh mẽ, dễ bị choáng ngợp bởi cảm xúc"
+    },
+    {
+      "name": "Thay đổi tâm trạng đột ngột",
+      "description": "Tâm trạng thay đổi bất ngờ không có lý do rõ ràng, ví dụ như đột nhiên cảm thấy rất buồn"
+    },
+    {
+      "name": "Vấn đề về trầm cảm và lo lắng",
+      "description": "Xuất hiện các triệu chứng trầm cảm như buồn bã, mất hứng thú hoặc lo lắng, căng thẳng quá mức"
+    },
+    {
+      "name": "Cảm giác thế giới bị bóp méo hoặc không có thật",
+      "description": "Cảm thấy thực tại xung quanh không có thật hoặc bị biến dạng, như đang xem một bộ phim"
+    },
+    {
+      "name": "Vấn đề về trí nhớ không liên quan đến chấn thương thể chất",
+      "description": "Gặp khó khăn trong việc ghi nhớ hoặc nhớ lại thông tin mà không có nguyên nhân từ chấn thương hay bệnh lý thể chất"
+    },
+    {
+      "name": "Mất tập trung và các vấn đề nhận thức khác",
+      "description": "Khó khăn trong việc tập trung chú ý, suy nghĩ chậm chạp hoặc mất khả năng tập trung vào một nhiệm vụ"
+    },
+    {
+      "name": "Mất trí nhớ về sự kiện, người hoặc thông tin cá nhân",
+      "description": "Không thể nhớ lại các sự kiện, con người hoặc thông tin cá nhân quan trọng trong một khoảng thời gian nhất định"
+    },
+    {
+      "name": "Cư xử theo cách bất thường",
+      "description": "Cảm thấy buộc phải hành động theo một cách cụ thể không phù hợp với tính cách thông thường của mình"
+    },
+    {
+      "name": "Nhầm lẫn danh tính",
+      "description": "Hành xử theo cách mà thông thường người đó phản đối hoặc không bao giờ làm, như có nhiều nhân cách khác nhau"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rối loạn phân ly thường phát triển như một cách đối phó với chấn thương, đặc biệt là trải nghiệm thời thơ ấu bất lợi.",
+    "related_factors": "Lạm dụng và mất mát trong thời thơ ấu, môi trường gia đình khó đoán hoặc đáng sợ, các sự kiện chấn thương như chiến tranh, tra tấn, hoặc trải qua thảm họa thiên nhiên.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trải qua lạm dụng thể chất hoặc tình dục trong thời thơ ấu",
+    "Trải qua mất mát lớn trong thời thơ ấu",
+    "Lớn lên trong môi trường gia đình không ổn định hoặc bạo lực",
+    "Trải qua chiến tranh hoặc thảm họa thiên nhiên",
+    "Có người thân trong gia đình mắc chứng rối loạn phân ly",
+    "Thiếu các kỹ năng đối phó lành mạnh với stress",
+    "Giới tính nữ (phụ nữ mắc nhiều hơn nam giới)"
+  ],
+  "complications": [
+    "Khó khăn trong mối quan hệ cá nhân",
+    "Vấn đề về việc làm và sự nghiệp",
+    "Rắc rối về giấc ngủ như mất ngủ",
+    "Vấn đề tình dục",
+    "Trầm cảm",
+    "Rối loạn lo âu",
+    "Rối loạn ăn uống",
+    "Tự làm đau bản thân",
+    "Ý tưởng và hành vi tự tử"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá lâm sàng các triệu chứng phân ly",
+      "Loại trừ nguyên nhân thể chất gây ra chứng hay quên và các vấn đề nhận thức",
+      "Loại trừ các rối loạn tâm thần khác có triệu chứng tương tự",
+      "Đánh giá tác động của các chất kích thích hoặc thuốc kê đơn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thăm khám và đánh giá tâm thần",
+        "description": "Bác sĩ tâm thần hoặc nhà tâm lý học đánh giá các triệu chứng, tiền sử bệnh và trải nghiệm chấn thương"
+      },
+      {
+        "name": "Xét nghiệm thể chất",
+        "description": "Để loại trừ các nguyên nhân về thể chất gây ra triệu chứng tương tự như mất trí nhớ hoặc thay đổi nhận thức"
+      },
+      {
+        "name": "Công cụ đánh giá tâm lý",
+        "description": "Sử dụng các bảng câu hỏi và công cụ đánh giá chuyên biệt để xác định mức độ phân ly"
+      },
+      {
+        "name": "Phỏng vấn lâm sàng",
+        "description": "Thực hiện các cuộc phỏng vấn chuyên sâu để tìm hiểu về chấn thương và các triệu chứng phân ly"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiệu quả của các phương pháp điều trị rối loạn phân ly vẫn chưa được nghiên cứu đầy đủ. Các lựa chọn điều trị chủ yếu dựa trên các nghiên cứu điển hình.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Tạo môi trường an toàn",
+        "description": "Giúp bệnh nhân cảm thấy an toàn và được bảo vệ, là bước đầu tiên quan trọng trong quá trình điều trị"
+      },
+      {
+        "name": "Thuốc tâm thần",
+        "description": "Sử dụng thuốc an thần và các loại thuốc khác để giúp kiểm soát các triệu chứng đi kèm như lo âu hoặc trầm cảm"
+      },
+      {
+        "name": "Tâm lý trị liệu",
+        "description": "Liệu pháp trò chuyện hoặc tư vấn thường được cần thiết trong thời gian dài để giúp bệnh nhân hiểu và đối phó với chấn thương"
+      },
+      {
+        "name": "Quản lý căng thẳng",
+        "description": "Dạy các kỹ thuật thư giãn và đối phó để giúp kiểm soát phản ứng với các tình huống gây căng thẳng"
+      },
+      {
+        "name": "Điều trị các rối loạn khác đi kèm",
+        "description": "Điều trị các vấn đề sức khỏe tâm thần kèm theo như trầm cảm, lo âu hoặc rối loạn ăn uống"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tìm kiếm sự giúp đỡ từ bác sĩ tâm thần hoặc nhà tâm lý học",
+      "Tuân thủ kế hoạch điều trị được đề xuất",
+      "Tham gia đều đặn các buổi trị liệu tâm lý",
+      "Học cách nhận biết và quản lý các triệu chứng phân ly",
+      "Xây dựng mạng lưới hỗ trợ từ gia đình và bạn bè",
+      "Tránh sử dụng rượu và các chất kích thích khác"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +140,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh stress trong học tập, công việc và đời sống",
+      "Hòa nhập, sinh hoạt, vui chơi giải trí lành mạnh",
+      "Phát huy tinh thần tương thân tương ái",
+      "Tìm kiếm sự hỗ trợ chuyên nghiệp khi trải qua chấn thương",
+      "Xây dựng các kỹ năng đối phó lành mạnh với stress",
+      "Duy trì lối sống cân bằng và lành mạnh",
+      "Tham gia các nhóm hỗ trợ nếu cần thiết"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn phân ly là gì?",
+      "answer": "Rối loạn phân ly là rối loạn tâm thần liên quan đến sự ngắt kết nối khỏi suy nghĩ, cảm xúc, ký ức hoặc cảm giác về danh tính của bệnh nhân. Bệnh nhân thoát ra khỏi tình trạng này bằng cách không tự chủ, có hại cho sức khỏe và ảnh hưởng tới chức năng sống hằng ngày. Những người trải qua một sự kiện sang chấn thường sẽ có một số mức độ phân ly trong chính sự kiện đó hoặc trong những giờ, ngày hoặc tuần tiếp theo."
+    },
+    {
+      "question": "Có những loại rối loạn phân ly nào?",
+      "answer": "Theo DSM-5 của Hiệp hội Tâm thần Hoa Kỳ, các rối loạn phân ly bao gồm: Rối loạn nhận dạng phân ly (sự xen kẽ của hai hoặc nhiều trạng thái nhân cách khác biệt), Chứng quên phân ly (mất trí nhớ tạm thời do sự kiện chấn thương hoặc căng thẳng), Rối loạn giải thể nhân cách (cảm giác tách rời khỏi bản thân hoặc thực tại), và các rối loạn phân ly không xác định khác."
+    },
+    {
+      "question": "Nguyên nhân gây ra rối loạn phân ly là gì?",
+      "answer": "Rối loạn phân ly thường phát triển như một cách đối phó với chấn thương. Các nguyên nhân chính bao gồm trải nghiệm thời thơ ấu bất lợi như lạm dụng và mất mát, môi trường gia đình khó đoán hoặc đáng sợ, và các sự kiện chấn thương trong đời sống trưởng thành như chiến tranh, tra tấn hoặc thảm họa thiên nhiên."
+    },
+    {
+      "question": "Rối loạn phân ly có ảnh hưởng gì đến cuộc sống?",
+      "answer": "Nếu không được điều trị, rối loạn phân ly có thể gây ra nhiều ảnh hưởng nghiêm trọng như khó khăn trong mối quan hệ và công việc, rắc rối về giấc ngủ và tình dục, trầm cảm, rối loạn lo âu, rối loạn ăn uống, tự làm đau bản thân, thậm chí có ý tưởng và hành vi tự tử."
+    },
+    {
+      "question": "Làm thế nào để điều trị rối loạn phân ly?",
+      "answer": "Điều trị rối loạn phân ly thường bao gồm việc tạo môi trường an toàn, sử dụng thuốc tâm thần (như thuốc an thần), tâm lý trị liệu (còn gọi là 'liệu pháp trò chuyện' hoặc tư vấn) thường kéo dài, quản lý căng thẳng, và điều trị các rối loạn khác đi kèm. Hiệu quả của các phương pháp điều trị vẫn đang được nghiên cứu thêm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như cảm thấy không làm chủ được cảm xúc của mình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-phan-ly",
+        "roi-loan-tam-than",
+        "roi-loan-lo-au"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp vấn đề khi đối diện với cảm xúc mãnh liệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-phan-ly", "roi-loan-lo-au"]
+    },
+    {
+      "question": "Tôi hay thay đổi tâm trạng đột ngột và bất ngờ, ví dụ như cảm thấy rất buồn mà không có lý do. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-phan-ly", "roi-loan-luong-cuc", "tram-cam"]
+    },
+    {
+      "question": "Tôi cảm thấy như thể thế giới bị bóp méo hoặc không có thật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-phan-ly", "roi-loan-giai-the-nhan-cach"]
+    },
+    {
+      "question": "Tôi có các giai đoạn tách rời khỏi bản thân hoặc xung quanh, cảm thấy mọi thứ \"không có thực\". Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-phan-ly", "roi-loan-giai-the-nhan-cach"]
     }
   ]
 }

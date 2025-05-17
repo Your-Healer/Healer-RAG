@@ -1,39 +1,119 @@
 {
   "disease_id": "suy-tinh-mach-man-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy tĩnh mạch mạn tính",
+  "disease_alternative_names": [
+    "Bệnh suy tĩnh mạch",
+    "Giãn tĩnh mạch mạn tính"
+  ],
+  "disease_definition": "Suy tĩnh mạch mạn tính là tình trạng các van tĩnh mạch sẽ \"đóng không kín\", khiến một phần máu nghèo oxy có thể \"chảy ngược\" xuống chân và ứ đọng ở đó theo mỗi chu kỳ tim.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng hoặc nặng chân",
+      "description": "Cảm giác nặng nề và sưng phù ở chân, đặc biệt ở vùng cẳng chân và mắt cá chân"
+    },
+    {
+      "name": "Đau chân",
+      "description": "Cảm giác đau nhức ở chân, thường nặng hơn khi đứng hoặc ngồi lâu"
+    },
+    {
+      "name": "Ngứa",
+      "description": "Cảm giác ngứa ngáy ở vùng da chân, đặc biệt khi có triệu chứng ứ máu"
+    },
+    {
+      "name": "Tê bì",
+      "description": "Giảm cảm giác hoặc cảm giác tê ở chân"
+    },
+    {
+      "name": "Giãn tĩnh mạch",
+      "description": "Xuất hiện tĩnh mạch mạng nhện li ti ở bề mặt da, hay tĩnh mạch giãn ngoằn ngoèo"
+    },
+    {
+      "name": "Da sậm màu, chai cứng",
+      "description": "Da ở vùng chân, đặc biệt là cẳng chân bị sậm màu và trở nên chai cứng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính là do các van tĩnh mạch \"đóng không kín\", khiến máu chảy ngược và ứ đọng ở chân.",
+    "related_factors": "Các yếu tố liên quan bao gồm thiếu vận động, công việc phải ngồi hoặc đứng trong thời gian dài làm tăng áp lực trong tĩnh mạch và \"giãn không hồi phục\". Hiện tượng cục máu đông trong hệ tĩnh mạch sâu ở chân (huyết khối tĩnh mạch sâu) cũng là nguyên nhân gây suy van tĩnh mạch mạn tính.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi trên 50",
+    "Thừa cân – béo phì",
+    "Hút thuốc lá",
+    "Đang có thai hoặc đã mang thai nhiều lần",
+    "Tiền sử gia đình có người bị suy tĩnh mạch mạn tính",
+    "Tiền sử huyết khối tĩnh mạch sâu",
+    "Giới tính nữ"
+  ],
+  "complications": [
+    "Loét tĩnh mạch - vết loét ở chân, đau đớn và chậm lành",
+    "Cục máu đông - có thể dẫn đến huyết khối tĩnh mạch sâu và thuyên tắc phổi",
+    "Chảy máu khó cầm - do tĩnh mạch giãn, vỡ hoặc vết thương hở ở chân khó lành"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám triệu chứng và khai thác tiền sử bệnh",
+      "Kiểm tra trực quan các tĩnh mạch chân"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm doppler",
+        "description": "Sử dụng sóng âm để quan sát mạch máu, kiểm tra tốc độ và hướng dòng máu, xác định vị trí suy van và các bệnh kèm theo"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá tình trạng đông máu và loại trừ các nguyên nhân khác"
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Kiểm tra các vấn đề cấu trúc xương có thể ảnh hưởng đến tĩnh mạch"
+      },
+      {
+        "name": "Đo điện cơ",
+        "description": "Đánh giá chức năng cơ và thần kinh khi có triệu chứng tê bì"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính",
+        "description": "Cung cấp hình ảnh chi tiết về cấu trúc mạch máu và mô xung quanh"
+      },
+      {
+        "name": "Cộng hưởng từ",
+        "description": "Cung cấp hình ảnh chi tiết về mạch máu và tình trạng lưu thông máu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục đích chính khi điều trị suy tĩnh mạch mạn tính là giải quyết các triệu chứng hiện tại, phòng ngừa loét chân cũng như ngăn chặn tiến triển của bệnh theo thời gian.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Mang vớ áp lực tĩnh mạch, di chuyển thường xuyên để không ngồi hoặc đứng lâu, tập thể dục đặc biệt là đi bộ nhanh để tăng cường lưu thông máu"
+      },
+      {
+        "name": "Sử dụng thuốc",
+        "description": "Thuốc tăng cường trương lực tĩnh mạch, thuốc chống đông để ngăn ngừa hình thành cục máu đông, kháng sinh nếu có nhiễm trùng loét chân"
+      },
+      {
+        "name": "Chích xơ tĩnh mạch",
+        "description": "Chích thuốc vào các tĩnh mạch mạng nhện dưới da để làm xơ hóa và biến mất"
+      },
+      {
+        "name": "Đốt laser nội mạch",
+        "description": "Luồn dây đốt (laser hoặc sóng cao tần) vào tĩnh mạch và đốt nóng để phá hủy tĩnh mạch bị bệnh"
+      },
+      {
+        "name": "Bơm keo tĩnh mạch Venaseal",
+        "description": "Luồn dụng cụ vào tĩnh mạch bệnh để bơm keo \"dán dính chặt\" lòng tĩnh mạch, định hướng máu sang tĩnh mạch khỏe khác"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Mang vớ áp lực tĩnh mạch theo chỉ định",
+      "Tránh đứng hoặc ngồi quá lâu",
+      "Kê cao chân khi ngồi hoặc nằm",
+      "Tập thể dục thường xuyên, đặc biệt là đi bộ",
+      "Duy trì cân nặng hợp lý"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +121,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá và tránh xa khói thuốc lá",
+      "Tránh mặc các loại quần áo bó sát hay đeo thắt lưng quá chặt",
+      "Không ngồi hoặc đứng quá lâu, thường xuyên đứng dậy và đi lại",
+      "Có chế độ ăn uống lành mạnh cho tim mạch",
+      "Tập thể dục thường xuyên, ưu tiên đi bộ",
+      "Giữ cân nặng hợp lý"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy tĩnh mạch mạn tính là gì?",
+      "answer": "Suy tĩnh mạch mạn tính là tình trạng các van tĩnh mạch 'đóng không kín', khiến một phần máu nghèo oxy có thể 'chảy ngược' xuống chân và ứ đọng ở đó theo mỗi chu kỳ tim. Bệnh thường gặp ở những người trên 50 tuổi, nguy cơ mắc bệnh tăng lên khi tuổi càng cao."
+    },
+    {
+      "question": "Ai có nguy cơ mắc bệnh suy tĩnh mạch mạn tính?",
+      "answer": "Phụ nữ dễ mắc bệnh hơn nam giới. Các đối tượng có nguy cơ cao bao gồm người trên 50 tuổi, thừa cân - béo phì, hút thuốc lá, đang có thai hoặc đã mang thai nhiều lần, có tiền sử gia đình mắc bệnh, và có tiền sử huyết khối tĩnh mạch sâu."
+    },
+    {
+      "question": "Các biến chứng của suy tĩnh mạch mạn tính là gì?",
+      "answer": "Suy tĩnh mạch mạn tính có thể dẫn đến các biến chứng nghiêm trọng như loét tĩnh mạch (vết loét ở chân, đau đớn và chậm lành), hình thành cục máu đông (có thể dẫn đến huyết khối tĩnh mạch sâu và thuyên tắc phổi), và chảy máu khó cầm do tĩnh mạch giãn."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa suy tĩnh mạch mạn tính?",
+      "answer": "Để phòng ngừa bệnh, nên không hút thuốc lá, tránh mặc quần áo bó sát, không ngồi hoặc đứng quá lâu, có chế độ ăn uống lành mạnh cho tim mạch, tập thể dục thường xuyên (đặc biệt là đi bộ), và giữ cân nặng hợp lý."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang cảm thấy chân sưng phù, nặng nề, đặc biệt là vùng cẳng chân và mắt cá chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tĩnh mạch mạn tính", "Suy tim", "Bệnh thận"]
+    },
+    {
+      "question": "Chân của tôi hay bị đau, ngứa, tê bì. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tĩnh mạch mạn tính",
+        "Bệnh thần kinh ngoại biên",
+        "Bệnh động mạch ngoại biên"
+      ]
+    },
+    {
+      "question": "Tôi thấy xuất hiện các tĩnh mạch mạng nhện li ti ở bề mặt da chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tĩnh mạch mạn tính",
+        "Giãn tĩnh mạch",
+        "Viêm tắc tĩnh mạch nông"
+      ]
+    },
+    {
+      "question": "Da chân của tôi sậm màu, chai cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tĩnh mạch mạn tính",
+        "Bệnh da liễu",
+        "Viêm tĩnh mạch huyết khối"
+      ]
+    },
+    {
+      "question": "Các triệu chứng ở chân của tôi thường nặng hơn về chiều và khi đi ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tĩnh mạch mạn tính",
+        "Hội chứng chân không yên",
+        "Phù bạch huyết"
+      ]
     }
   ]
 }

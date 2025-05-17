@@ -1,39 +1,130 @@
 {
   "disease_id": "nhoi-mau-nao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhồi máu não",
+  "disease_alternative_names": [
+    "Đột quỵ thiếu máu não",
+    "Đột quỵ não",
+    "Thiếu máu não cục bộ",
+    "Cerebral infarction"
+  ],
+  "disease_definition": "Nhồi máu não là tình trạng bệnh lý xảy ra khi động mạch não bị hẹp, tắc nghẽn hoặc do hạ huyết áp, dẫn đến thiếu cung cấp máu lên não. Điều này khiến một phần não bị suy giảm chức năng, rối loạn hoạt động. Nếu kéo dài và không được khắc phục kịp thời có thể gây ra tình trạng hoại tử não do thiếu oxy và glucose.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Liệt mặt",
+      "description": "Thường bệnh nhân sẽ bị liệt một nửa dưới của một bên mặt, biểu hiện là miệng méo sang một bên, nhân trung bị lệch sang một bên, khi ăn uống thì thức ăn, đồ uống có thể chảy sang bên liệt do miệng không khép chặt."
+    },
+    {
+      "name": "Yếu hay liệt một tay hay nửa người",
+      "description": "Bệnh nhân có thể chỉ biểu hiện yếu với tay không giữ được lâu khi đưa thẳng ra trước hay có thể liệt hoàn toàn với biểu hiện không thể cử động."
+    },
+    {
+      "name": "Nói khó",
+      "description": "Biểu hiện nhiều dạng, có thể là dạng bệnh nhân hiểu được y lệnh của bác sĩ nhưng không nói thành câu đầy đủ hay không diễn tả được (rối loạn ngôn ngữ diễn tả) hoặc bệnh nhân không hiểu y lệnh của bác sĩ (rối loạn ngôn ngữ cảm nhận)."
+    },
+    {
+      "name": "Giảm hay mất cảm giác nửa người",
+      "description": "Người bệnh không cảm nhận được xúc giác ở một bên người, có thể đi kèm với yếu liệt cùng bên."
+    },
+    {
+      "name": "Nuốt khó",
+      "description": "Khó khăn khi nuốt thức ăn, nước uống do rối loạn phản xạ nuốt sau nhồi máu não."
+    },
+    {
+      "name": "Chóng mặt, buồn nôn, nôn",
+      "description": "Xuất hiện cảm giác chóng mặt, có thể kèm theo buồn nôn và nôn, đặc biệt khi nhồi máu não ở vùng tiểu não."
+    },
+    {
+      "name": "Thất điều, đi lại khó khăn",
+      "description": "Rối loạn phối hợp động tác, đi lại mất thăng bằng, loạng choạng."
+    },
+    {
+      "name": "Rối loạn thị giác",
+      "description": "Có thể bị mù một mắt, mù vỏ não hoặc bán manh tùy thuộc vào vị trí tổn thương não."
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau đầu có thể xuất hiện đột ngột khi nhồi máu não."
+    },
+    {
+      "name": "Co giật",
+      "description": "Co giật toàn thân hoặc co giật một phần cơ thể do tổn thương não."
+    },
+    {
+      "name": "Hôn mê",
+      "description": "Trong trường hợp nặng, bệnh nhân có thể rơi vào tình trạng hôn mê do tổn thương não nghiêm trọng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nhồi máu não xảy ra khi động mạch não bị hẹp, tắc nghẽn hoặc do hạ huyết áp, dẫn đến thiếu cung cấp máu lên não.",
+    "related_factors": "Khoảng 77% là nhồi máu não loại không phải lỗ khuyết, 23% là nhồi máu não loại lỗ khuyết. Trong các nguyên nhân nhồi máu não không phải lỗ khuyết: 35% nguyên nhân từ tim, 17% nguyên nhân từ xơ vữa các mạch máu lớn, 3% là do các nguyên nhân hiếm gặp khác và 45% vẫn không xác định được nguyên nhân cụ thể.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử bệnh nền cao huyết áp",
+    "Đái tháo đường",
+    "Bệnh mạch máu não",
+    "Rối loạn đông máu",
+    "Thường xuyên hút thuốc lá",
+    "Sử dụng bia rượu quá nhiều",
+    "Béo phì",
+    "Ít vận động",
+    "Hàm lượng cholesterol cao",
+    "Thường xuyên căng thẳng, lo lắng"
+  ],
+  "complications": [
+    "Liệt vận động: liệt nửa người, liệt chân, tay",
+    "Rối loạn ngôn ngữ: nói ngọng nghịu, chỉ nói được rất ít từ, không nói được",
+    "Suy giảm nhận thức hoặc mất trí nhớ",
+    "Mắt nhìn mờ do rối loạn thị giác sau tai biến",
+    "Rối loạn tiểu tiện: đại tiện, tiểu tiện không tự chủ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán lâm sàng dựa trên triệu chứng khởi phát đột ngột",
+      "Đánh giá tiền sử bệnh nền tim mạch, tăng huyết áp, đái tháo đường"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "CT scan não",
+        "description": "Được chỉ định đầu tiên để loại trừ xuất huyết não hay các nguyên nhân khác, đồng thời trong một số trường hợp có thể thấy được hình ảnh nhồi máu não sớm"
+      },
+      {
+        "name": "Chụp mạch máu bằng CT scan (CTA)",
+        "description": "Được chỉ định để xem có hình ảnh tắc các mạch máu lớn hay không nhằm quyết định điều trị lấy huyết khối bằng dụng cụ cơ học"
+      },
+      {
+        "name": "Chụp cộng hưởng từ não (MRI)",
+        "description": "Thường cần nếu muốn chẩn đoán rõ hơn và thường được làm sau khi chụp CT scan não vì chụp MRI thường mất thời gian và có thể làm chậm thời gian vàng điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị nhồi máu não và khả năng phục hồi phụ thuộc vào việc người bệnh được cấp cứu càng sớm càng tốt, tránh nguy cơ hoại tử não.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng thuốc aspirin và các thuốc chống ngưng tập tiểu cầu",
+        "description": "Được chỉ định cho hầu như tất cả các trường hợp đột quỵ nhồi máu não, ngoại trừ người bệnh bị dị ứng hoặc không dung nạp aspirin"
+      },
+      {
+        "name": "Thuốc hạ huyết áp",
+        "description": "Điều trị hạ huyết áp vô cùng cần thiết đối với bệnh nhân tăng huyết áp chưa xảy ra đột quỵ và bệnh nhân đã bị nhồi máu não"
+      },
+      {
+        "name": "Điều trị đái tháo đường",
+        "description": "Bệnh nhân nhồi máu não có bệnh nền đái tháo đường nên được điều trị song song để duy trì mức đường huyết ở trạng thái bình thường và HbA1c dưới 7%"
+      },
+      {
+        "name": "Điều trị tiêu huyết khối",
+        "description": "Là phương pháp điều trị đặc hiệu đối với các trường hợp cần điều trị nhồi máu não, người bệnh cần đáp ứng đầy đủ các tiêu chuẩn xét nghiệm và thời gian (không quá 4,5 giờ kể từ khi bệnh khởi phát)"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Vệ sinh cá nhân sạch sẽ để tránh viêm nhiễm",
+      "Phòng ngừa lở loét da do nằm lâu bằng cách nằm đệm hơi, đệm nước và thường xuyên nghiêng trở người bệnh",
+      "Phòng ngừa biến chứng về hô hấp bằng cách cho bệnh nhân ngồi dậy mỗi ngày, xoa và vỗ nhẹ vùng lưng",
+      "Tuân thủ chế độ dinh dưỡng phù hợp, hạn chế muối và chất béo động vật",
+      "Tập luyện vật lý trị liệu theo hướng dẫn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +132,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Xây dựng lối sống lành mạnh, tích cực",
+      "Nói không với thuốc lá, chất kích thích, rượu bia",
+      "Duy trì chế độ dinh dưỡng hợp lý, khoa học",
+      "Bổ sung nhiều vitamin, chất xơ có lợi từ rau quả",
+      "Hạn chế ăn mặn và thức ăn có chứa nhiều dầu mỡ",
+      "Thường xuyên tập thể dục, vận động nhẹ nhàng để giảm thiểu nguy cơ béo phì",
+      "Thường xuyên kiểm tra sức khỏe, kịp thời phát hiện và điều trị triệt để các bệnh lý nền",
+      "Nhận biết dấu hiệu nhồi máu não để đưa người bệnh đi cấp cứu kịp thời"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhồi máu não có hồi phục được không?",
+      "answer": "Tùy thuộc vào mức độ bệnh, thời gian cấp cứu mà người bệnh nhồi máu não có khả năng hồi phục khác nhau. Đối với những bệnh nhân trẻ tuổi, tình trạng bệnh nhẹ, chỉ liệt một nửa cơ thể thường có cơ hội phục hồi cao hơn so với bệnh nhân đã liệt toàn thân. Mặc dù khả năng phục hồi 100% là rất khó, tuy nhiên nếu được chăm sóc đúng cách, tuân thủ phác đồ điều trị, kết hợp dinh dưỡng và vật lý trị liệu, người bệnh có thể phục hồi 90% - 95%."
+    },
+    {
+      "question": "Bệnh nhồi máu não có nguy hiểm không?",
+      "answer": "Nhồi máu não là bệnh lý vô cùng nguy hiểm. Bệnh có khả năng gây ra nhiều biến chứng nặng nề như liệt nửa người, rối loạn ý thức, mất khả năng nói, hôn mê... thậm chí dẫn tới tử vong nếu không được can thiệp kịp thời. Theo thống kê, bệnh lý nhồi máu não chiếm khoảng 85% các trường hợp đột quỵ."
+    },
+    {
+      "question": "Nhồi máu não có khác xuất huyết não không?",
+      "answer": "Có, nhồi máu não và xuất huyết não là hai dạng đột quỵ khác nhau. Nhồi máu não xảy ra khi động mạch não bị hẹp, tắc nghẽn dẫn đến thiếu cung cấp máu lên não, trong khi xuất huyết não là tình trạng vỡ mạch máu não gây chảy máu trong não. Cả hai đều cần được cấp cứu kịp thời nhưng phương pháp điều trị khác nhau."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như liệt mặt, miệng méo và nhân trung lệch sang một bên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhoi-mau-nao", "dot-quy", "xuat-huyet-nao"]
+    },
+    {
+      "question": "Tôi đang cảm thấy yếu liệt một tay và chân, kèm theo nói khó. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhoi-mau-nao", "dot-quy", "xuat-huyet-nao"]
+    },
+    {
+      "question": "Tôi bị liệt nửa người, nói khó và giảm cảm giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nhoi-mau-nao", "dot-quy", "xuat-huyet-nao"]
+    },
+    {
+      "question": "Tôi hay bị nuốt khó, chóng mặt, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-nao",
+        "roi-loan-tien-dinh",
+        "xuat-huyet-tieu-nao"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy thất điều, đi lại khó khăn và mù một mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-nao",
+        "xuat-huyet-tieu-nao",
+        "roi-loan-mach-mau-nao"
+      ]
     }
   ]
 }

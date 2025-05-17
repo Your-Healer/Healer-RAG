@@ -1,39 +1,131 @@
 {
   "disease_id": "sa-tang-chau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sa tạng chậu",
+  "disease_alternative_names": ["Pelvic Organ Prolapse", "POP"],
+  "disease_definition": "Sa tạng chậu là tình trạng một hoặc nhiều cơ quan ở vùng chậu (tử cung, bàng quang, trực tràng, thành trước hoặc thành sau âm đạo) bị tụt ra khỏi vị trí giải phẫu bình thường do sự tổn thương và suy yếu của các cấu trúc cân cơ, dây chằng nâng đỡ sàn chậu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm giác căng tức và nặng ở vùng bụng dưới",
+      "description": "Xuất hiện cảm giác khó chịu, căng tức hoặc nặng nề ở vùng bụng dưới và vùng chậu"
+    },
+    {
+      "name": "Có khối u lồi ra bên ngoài âm đạo",
+      "description": "Cảm giác sưng ở âm đạo, có thể thấy hoặc cảm nhận được một khối u lồi ra ngoài từ âm đạo"
+    },
+    {
+      "name": "Đau lưng tăng dần trong ngày",
+      "description": "Triệu chứng đau lưng mà cường độ tăng dần theo thời gian trong ngày, đặc biệt khi đứng hoặc đi lại nhiều"
+    },
+    {
+      "name": "Tiểu không kiểm soát",
+      "description": "Tình trạng mất kiểm soát bàng quang, gây són tiểu khi ho, cười, hắt hơi hoặc cố rặn"
+    },
+    {
+      "name": "Khó tiểu tiện và đại tiện",
+      "description": "Gặp khó khăn khi đi tiểu hoặc đại tiện, có thể cần rặn nhiều hoặc thay đổi tư thế để tiểu tiện hết"
+    },
+    {
+      "name": "Chảy máu và tăng tiết dịch âm đạo",
+      "description": "Xuất hiện tình trạng chảy máu hoặc tăng tiết dịch âm đạo bất thường (không phải trong chu kỳ kinh nguyệt)"
+    },
+    {
+      "name": "Khó khăn khi quan hệ tình dục",
+      "description": "Không thể hoặc gặp khó khăn, đau đớn khi quan hệ tình dục do khối sa của các tạng chậu"
+    },
+    {
+      "name": "Cảm giác có khối phình ra bên trong âm đạo",
+      "description": "Ở giai đoạn đầu, người bệnh có thể cảm thấy có một khối phình ra bên trong âm đạo, gây cảm giác khó chịu"
+    },
+    {
+      "name": "Bất tiện trong đi lại hoặc ngồi",
+      "description": "Gặp khó khăn, không thoải mái khi đi lại hoặc ngồi do khối sa tạng vùng chậu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân thường gặp nhất của bệnh là do quá trình mang thai và sinh nở. Khi mang thai từ 3 tháng cuối trở đi, sức nặng khối thai nhi – tử cung và tăng áp lực đè lên sàn chậu trong quá trình chuyển dạ sinh khiến các cân cơ có nhiệm vụ hỗ trợ nâng đỡ cơ quan vùng chậu giãn ra hết mức, làm cho các cân cơ nhanh chóng yếu đi hoặc bị tổn thương đứt rách.",
+    "related_factors": "Sự sụt giảm nồng độ hormone nữ Estrogen trong giai đoạn trước và sau mãn kinh, bệnh lý ho mạn tính, rặn mạnh do táo bón, sang chấn sản khoa, các mô nâng đỡ suy yếu khi mãn kinh, thừa cân hoặc béo phì, tiền sử phẫu thuật vùng chậu, làm việc nặng nhọc, và yếu tố bẩm sinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ sau mãn kinh",
+    "Mang thai và sinh nở nhiều lần",
+    "Thừa cân/béo phì",
+    "Làm việc nặng nhọc",
+    "Mắc các bệnh lý hô hấp gây ho mạn tính",
+    "Táo bón kéo dài",
+    "Tiền sử phẫu thuật vùng chậu",
+    "Sinh con to",
+    "Sanh dụng cụ hoặc sang chấn sản khoa",
+    "Các cân cơ và dây chằng sàn chậu yếu bẩm sinh"
+  ],
+  "complications": [
+    "Rối loạn chức năng tiết niệu",
+    "Rối loạn chức năng phụ khoa",
+    "Rối loạn chức năng hậu môn trực tràng",
+    "Viêm loét (trong trường hợp sa tử cung mức độ 4)",
+    "Cần phải cắt bỏ hoàn toàn tử cung khi sa tử cung mức độ nặng",
+    "Ảnh hưởng tiêu cực đến chất lượng cuộc sống",
+    "Mặc cảm và thiếu tự tin",
+    "Gây khó khăn trong đời sống tình dục"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám phụ khoa định kỳ", "Thăm khám lâm sàng vùng chậu"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thăm dò chức năng bàng quang",
+        "description": "Kiểm tra bàng quang có bị rò rỉ nước tiểu hay không, đo lường mức độ làm trống của bàng quang và xác định có bị cản trở bế tắc gây tiểu không hết, tiểu khó"
+      },
+      {
+        "name": "Kiểm tra sức bền của sàn chậu",
+        "description": "Các bài tập kiểm tra sức mạnh của cân cơ và sàn chậu để đo lường sự hỗ trợ của cân cơ và dây chằng đối với các cơ quan vùng chậu"
+      },
+      {
+        "name": "Siêu âm vùng chậu",
+        "description": "Sử dụng sóng âm tần số cao để nhìn thấy hình ảnh thận, bàng quang và các cơ quan xung quanh hậu môn"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Sử dụng từ trường và sóng vô tuyến để thấy hình ảnh chi tiết cấu trúc sàn chậu và vị trí giải phẫu các cơ quan vùng chậu có bị sa hay không"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hầu hết các trường hợp mắc bệnh đều mang tâm lý mặc cảm, tự ti, dẫn đến việc chần chừ không thăm khám, chịu đựng trong thời gian dài khiến bệnh trở nặng hơn. Phác đồ điều trị được cá thể hóa phù hợp với từng đối tượng và tình trạng bệnh lý khác nhau.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Bài tập sàn chậu",
+        "description": "Các bài tập Kegel, Bridge, Split Tabletop giúp tăng cường cân cơ vùng chậu, phục hồi sức mạnh các dây chằng nâng đỡ"
+      },
+      {
+        "name": "Đặt vòng nâng",
+        "description": "Sử dụng dụng cụ có thể tháo ra được bên trong âm đạo nhằm giữ cố định các cơ quan bị sa ở đúng vị trí"
+      },
+      {
+        "name": "Phẫu thuật khâu sửa thành âm đạo",
+        "description": "Sửa chữa sa ở thành trước hoặc thành sau âm đạo, giúp điều trị sa bàng quang, sa trực tràng và thu nhỏ âm đạo bị lỏng lẻo, dãn rộng"
+      },
+      {
+        "name": "Thủ thuật khâu âm đạo – đáy chậu",
+        "description": "Sửa chữa sa ở thành sau trực tràng kiểu túi, hoặc sa ở thành sau ruột non bằng phương pháp khâu"
+      },
+      {
+        "name": "Phẫu thuật cắt hoàn toàn tử cung",
+        "description": "Được thực hiện qua đường âm đạo để cắt tử cung và chỉnh sửa âm đạo trong trường hợp sa tử cung nặng"
+      },
+      {
+        "name": "Phẫu thuật điều trị sa vòm âm đạo",
+        "description": "Phẫu thuật nhằm nâng đỡ vòm âm đạo, thường áp dụng cho trường hợp sa vòm âm đạo sau cắt tử cung"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thăm khám sức khỏe phụ khoa, đặc biệt là khám sàn chậu định kỳ 6 tháng/lần",
+      "Tái khám đúng lịch hẹn để theo dõi tiến triển bệnh",
+      "Tuân thủ đúng chỉ định điều trị của bác sĩ",
+      "Thực hiện đúng cách các bài tập phục hồi sàn chậu theo hướng dẫn",
+      "Không tự ý dùng thuốc hoặc sử dụng sai liều lượng",
+      "Duy trì chế độ ăn uống lành mạnh, tránh táo bón",
+      "Tránh nâng vật nặng và các hoạt động gắng sức"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +133,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thăm khám sức khỏe phụ khoa, đặc biệt là khám sàn chậu định kỳ 6 tháng/lần",
+      "Xây dựng chế độ ăn uống khoa học, bổ sung đầy đủ chất dinh dưỡng",
+      "Ăn nhiều rau củ quả, bổ sung chất xơ, uống nhiều nước để ngăn ngừa táo bón",
+      "Có lối sống lành mạnh, không hút thuốc lá để tránh ho mạn tính",
+      "Duy trì mức cân nặng cân đối, phù hợp",
+      "Thực hiện đúng cách các bài tập phục hồi sàn chậu",
+      "Tránh nâng vật nặng và các hoạt động gây áp lực lên vùng chậu",
+      "Điều trị triệt để các bệnh gây ho mạn tính"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sa tạng chậu là gì?",
+      "answer": "Sa tạng chậu là tình trạng một hoặc nhiều cơ quan ở vùng chậu (tử cung, bàng quang, trực tràng, thành trước hoặc thành sau âm đạo) bị tụt ra khỏi vị trí giải phẫu bình thường do sự tổn thương và suy yếu của các cấu trúc cân cơ, dây chằng nâng đỡ sàn chậu. Đây là một trong những rối loạn sàn chậu thường gặp nhất ở phụ nữ trước và sau sinh."
+    },
+    {
+      "question": "Nguyên nhân gây sa tạng chậu là gì?",
+      "answer": "Nguyên nhân thường gặp nhất của bệnh là do quá trình mang thai và sinh nở. Khi mang thai từ 3 tháng cuối trở đi, sức nặng khối thai nhi và tử cung cùng áp lực đè lên sàn chậu khiến các cân cơ giãn ra và yếu đi. Ngoài ra, sự sụt giảm nồng độ hormone Estrogen trong giai đoạn tiền mãn kinh và mãn kinh, bệnh lý ho mạn tính, táo bón, sang chấn sản khoa, thừa cân hoặc béo phì, tiền sử phẫu thuật vùng chậu cũng là các nguyên nhân quan trọng."
+    },
+    {
+      "question": "Các loại sa tạng chậu thường gặp là gì?",
+      "answer": "Có nhiều loại sa tạng chậu khác nhau: Sa bàng quang (bàng quang tạo thành một chỗ phình nằm phía trước thành âm đạo), Sa trực tràng kiểu túi (đoạn cuối của ruột già phình ra), Sa ruột non (một phần của ruột non tụt xuống từ đỉnh vòm âm đạo), Sa niệu đạo (niệu đạo trồi ra mặt trước thành âm đạo), Sa tử cung (tử cung tụt xuống âm đạo), và Sa vòm âm đạo (âm đạo tự sa xuống dưới sau phẫu thuật cắt bỏ tử cung)."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa sa tạng chậu?",
+      "answer": "Để phòng ngừa sa tạng chậu, nên thăm khám sức khỏe phụ khoa định kỳ 6 tháng/lần, xây dựng chế độ ăn uống khoa học, bổ sung đầy đủ chất dinh dưỡng, ăn nhiều rau củ quả và chất xơ, uống nhiều nước để ngăn ngừa táo bón, có lối sống lành mạnh, không hút thuốc lá, duy trì cân nặng hợp lý, và thực hiện đúng cách các bài tập phục hồi sàn chậu."
+    },
+    {
+      "question": "Sa tạng chậu có chữa được không?",
+      "answer": "Sa tạng chậu hoàn toàn có thể điều trị được. Đối với các trường hợp nhẹ, có thể áp dụng điều trị nội khoa như các bài tập sàn chậu (Kegel, Bridge, Split Tabletop) hoặc đặt vòng nâng. Trong trường hợp nặng hơn, có thể cần đến phẫu thuật như khâu sửa thành âm đạo, khâu âm đạo-đáy chậu, phẫu thuật cắt tử cung hoặc điều trị sa vòm âm đạo. Việc điều trị ngay từ giai đoạn đầu luôn mang đến kết quả điều trị cao nhất."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như căng tức và nặng ở vùng bụng dưới, vùng chậu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tang-chau", "viem-phu-khoa", "u-xo-tu-cung"]
+    },
+    {
+      "question": "Tôi đang cảm thấy sưng ở âm đạo, có khối u lồi ra bên ngoài âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tang-chau", "sa-tu-cung", "sa-bang-quang"]
+    },
+    {
+      "question": "Tôi hay bị đau lưng tăng dần trong ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tang-chau", "thoat-vi-dia-dem", "dau-that-lung"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tiểu không kiểm soát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tang-chau", "roi-loan-san-chau", "sa-bang-quang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó tiểu tiện và đại tiện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tang-chau", "sa-bang-quang", "sa-truc-trang"]
     }
   ]
 }

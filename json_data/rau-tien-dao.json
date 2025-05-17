@@ -1,39 +1,93 @@
 {
   "disease_id": "rau-tien-dao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rau tiền đạo (Nhau tiền đạo)",
+  "disease_alternative_names": ["Nhau tiền đạo", "Placenta previa"],
+  "disease_definition": "Rau tiền đạo là hiện tượng rau thai nằm ở vị trí thấp nhất của tử cung, làm che mất một phần hoặc toàn bộ cổ tử cung, làm cản đường ra của thai nhi trong quá trình sinh nở.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Xuất huyết âm đạo bất thường",
+      "description": "Chảy máu âm đạo với máu màu đỏ tươi, có thể lẫn cục máu đông, thường xảy ra trong 3 tháng cuối thai kỳ"
+    },
+    {
+      "name": "Chảy máu không gây đau đớn",
+      "description": "Hiện tượng chảy máu âm đạo không đi kèm với cảm giác đau đớn, đây là dấu hiệu đặc trưng của rau tiền đạo"
+    },
+    {
+      "name": "Chảy máu có thể tự hết và tái phát",
+      "description": "Tình trạng xuất huyết có thể tự khỏi mà không cần điều trị, nhưng thường tái phát với mức độ xuất huyết tăng dần"
+    },
+    {
+      "name": "Chảy máu kèm cơn co thắt",
+      "description": "Một số trường hợp thai phụ bị chảy máu đi kèm với cơn co thắt tử cung"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Phôi thai làm tổ ở phần dưới của tử cung khiến bánh rau phát triển tại vị trí này, không xê dịch lên phía trên trong suốt thai kỳ.",
+    "related_factors": "Đa sản, tuổi cao (>35), tiền sử sảy thai hoặc nạo phá thai, viêm nhiễm tử cung, tử cung bất thường, mang song thai hoặc đa thai.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ trải qua sinh nở nhiều lần",
+    "Phụ nữ mang thai khi đã lớn tuổi (trên 35 tuổi)",
+    "Tiền sử bị sảy thai hoặc nạo phá thai nhiều lần",
+    "Có tình trạng viêm nhiễm tử cung trước khi mang thai",
+    "Tiền sử bị rau tiền đạo ở lần mang thai trước",
+    "Tử cung có hình dạng bất thường",
+    "Mang song thai hoặc đa thai",
+    "Lối sống không lành mạnh, sử dụng chất kích thích như thuốc lá"
+  ],
+  "complications": [
+    "Thiếu máu nghiêm trọng do xuất huyết tái diễn",
+    "Sinh non do xuất huyết nhiều",
+    "Nhiễm trùng sau sinh do cổ tử cung bị hở",
+    "Cắt bỏ tử cung trong trường hợp bánh rau bám chặt",
+    "Thai nhi bị suy dinh dưỡng và suy thai",
+    "Thai nhi sinh non gây suy hô hấp sau sinh",
+    "Ngôi thai ngược do khó xoay đầu"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Siêu âm thai từ tuần 20 của thai kỳ",
+      "Siêu âm Doppler để phát hiện biến chứng rau cài răng lược"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm thai",
+        "description": "Quan sát vị trí bánh rau trong tử cung, xác định mức độ che phủ cổ tử cung"
+      },
+      {
+        "name": "Siêu âm Doppler",
+        "description": "Đánh giá mạch máu và có thể phát hiện biến chứng rau cài răng lược, nên thực hiện sau tuần 28"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nguyên tắc chung khi điều trị rau tiền đạo là cầm máu ngay để cứu sống thai phụ. Tùy vào tuổi thai, mức độ chảy máu và nhiều yếu tố khác để quyết định tiếp tục thai kỳ hoặc mổ lấy thai.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi và điều trị bảo tồn",
+        "description": "Áp dụng khi chưa chuyển dạ: nghỉ ngơi, hạn chế di chuyển, bổ sung dinh dưỡng, sử dụng thuốc giảm co và Corticoid giúp trưởng thành phổi thai nếu có nguy cơ sinh non"
+      },
+      {
+        "name": "Mổ lấy thai chủ động",
+        "description": "Thực hiện với rau tiền đạo trung tâm hoặc bán trung tâm khi thai đủ 38 tuần, hoặc khi xuất huyết nhiều đe dọa tính mạng thai phụ"
+      },
+      {
+        "name": "Bấm ối và xé màng ối",
+        "description": "Áp dụng với rau bám mép khi có chuyển dạ và xuất huyết ít, xé màng ối về phía không có bánh rau để cầm máu"
+      },
+      {
+        "name": "Phẫu thuật đặc biệt với rau cài răng lược",
+        "description": "Mổ lấy thai chủ động khi thai đủ tháng bằng cách mổ dọc thân tử cung từ phía trên bánh rau thai bám, không bóc rau thai và có thể cần cắt tử cung"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch khám thai của bác sĩ",
+      "Đến ngay cơ sở y tế khi có dấu hiệu chảy máu âm đạo",
+      "Hạn chế vận động mạnh khi được chẩn đoán rau tiền đạo",
+      "Xây dựng chế độ dinh dưỡng phù hợp",
+      "Lựa chọn cơ sở y tế có chuyên khoa sản uy tín để sinh nở"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +95,61 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế mang thai khi đã lớn tuổi",
+      "Tuân thủ hướng dẫn của bác sĩ sau mổ lấy thai",
+      "Thực hiện lối sống lành mạnh, không sử dụng chất kích thích",
+      "Không hút thuốc lá, tránh hút thuốc lá thụ động",
+      "Nhập viện theo dõi nếu được chẩn đoán rau tiền đạo ở những tháng cuối",
+      "Đến ngay cơ sở y tế khi có dấu hiệu bất thường"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rau tiền đạo là gì?",
+      "answer": "Rau tiền đạo là hiện tượng rau thai nằm ở vị trí thấp nhất của tử cung, làm che mất một phần hoặc toàn bộ cổ tử cung, làm cản đường ra của thai nhi trong quá trình sinh nở. Bánh rau có vai trò quan trọng trong việc cung cấp dưỡng chất và oxy cho thai nhi, nên khi bánh rau nằm ở vị trí bất thường sẽ gây nguy hiểm cho cả mẹ và bé."
+    },
+    {
+      "question": "Rau tiền đạo có nguy hiểm không?",
+      "answer": "Rau tiền đạo là một biến chứng thai kỳ nguy hiểm nếu không được phát hiện sớm và can thiệp điều trị hiệu quả. Nó có thể gây xuất huyết âm đạo tái đi tái lại nhiều lần trong thai kỳ, dẫn đến thiếu máu, sinh non, nhiễm trùng sau sinh. Với thai nhi, có thể gây suy dinh dưỡng, suy thai, sinh non và suy hô hấp sau sinh. Trong trường hợp nặng, có thể phải cắt bỏ tử cung nếu bánh rau bám chặt vào cơ tử cung."
+    },
+    {
+      "question": "Bao nhiêu tuần thì biết được rau tiền đạo?",
+      "answer": "Hầu hết các trường hợp rau tiền đạo có thể được phát hiện sớm từ tuần 20 của thai kỳ nhờ vào phương pháp siêu âm thai. Trong quá trình siêu âm, bác sĩ có thể quan sát được bánh rau bám vào vị trí nào ở tử cung. Siêu âm Doppler cũng có ý nghĩa quan trọng trong chẩn đoán rau tiền đạo biến chứng rau cài răng lược, thường được thực hiện sau tuần 28."
+    },
+    {
+      "question": "Phụ nữ mang thai bị rau tiền đạo nên làm gì?",
+      "answer": "Khi được chẩn đoán rau tiền đạo, thai phụ cần: Nghỉ ngơi hợp lý, hạn chế di chuyển và vận động mạnh; Bổ sung dinh dưỡng đầy đủ; Tuân thủ chỉ định dùng thuốc của bác sĩ; Đến ngay cơ sở y tế khi có dấu hiệu chảy máu âm đạo; Chọn cơ sở y tế có chuyên khoa Sản uy tín để sinh nở; Chuẩn bị tinh thần có thể phải mổ lấy thai nếu cần thiết."
+    },
+    {
+      "question": "Các loại rau tiền đạo và cách điều trị khác nhau như thế nào?",
+      "answer": "Rau tiền đạo có 5 loại: rau bám thấp, rau bám mép, rau bám bên, rau tiền đạo bán trung tâm và rau tiền đạo trung tâm. Với rau bám thấp và rau bám mép có xuất huyết ít, có thể theo dõi chuyển dạ tự nhiên. Nếu rau bám mép xuất huyết ít khi chuyển dạ, có thể bấm ối và xé màng ối để cầm máu. Với rau tiền đạo trung tâm, bán trung tâm hoặc bất kỳ loại nào có xuất huyết nhiều, bác sĩ sẽ chỉ định mổ lấy thai để đảm bảo an toàn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như xuất huyết âm đạo bất thường với máu đỏ tươi, không đau ở tam cá nguyệt thứ ba. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rau-tien-dao", "rau-bam-mep", "rau-cai-rang-luoc"]
+    },
+    {
+      "question": "Tôi đang cảm thấy xuất huyết âm đạo bất thường tái phát nhiều lần, lượng máu ngày càng nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rau-tien-dao", "rau-bam-mep"]
+    },
+    {
+      "question": "Tôi hay bị chảy máu âm đạo khi mang thai, kèm theo cơn co thắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rau-tien-dao", "doa-say-thai"]
+    },
+    {
+      "question": "Tôi đang mang thai ở tháng thứ 7 và bị chảy máu âm đạo bất thường, máu có lẫn cục máu đông. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rau-tien-dao", "rau-bong-non"]
+    },
+    {
+      "question": "Tôi đang mang thai và bị chảy máu âm đạo, kèm theo cảm giác mệt mỏi, chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "rau-tien-dao",
+        "thieu-mau-khi-mang-thai",
+        "rau-bong-non"
+      ]
     }
   ]
 }

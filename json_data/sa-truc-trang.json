@@ -1,39 +1,138 @@
 {
   "disease_id": "sa-truc-trang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sa trực tràng",
+  "disease_alternative_names": ["Prolapsus recti", "Rectal prolapse"],
+  "disease_definition": "Sa trực tràng là tình trạng một phần của trực tràng bị sa xuống hoặc trượt ra khỏi hậu môn. Trực tràng là phần cuối cùng của ruột già và là nơi lưu trữ phân trước khi thải ra ngoài.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối u sa ra khỏi hậu môn khi đi tiêu",
+      "description": "Lúc đầu, người bệnh có thể nhận thấy một khối u hoặc mô sưng tấy sa ra khỏi hậu môn trong khi đi tiêu và có thể dùng tay đẩy ngược vào bên trong"
+    },
+    {
+      "name": "Sa vĩnh viễn không thể đẩy vào",
+      "description": "Theo thời gian, khối u/mô có thể bị sa ra bên ngoài hậu môn vĩnh viễn và không thể đẩy ngược vào bên trong"
+    },
+    {
+      "name": "Sa khi ho, hắt hơi hoặc đứng lên",
+      "description": "Hiện tượng sa trực tràng diễn ra thường xuyên hơn khi người bệnh ho, hắt hơi, rặn hoặc đứng lên"
+    },
+    {
+      "name": "Cảm giác \"ngồi trên một quả bóng\"",
+      "description": "Người bệnh có thể cảm thấy bị sa trực tràng giống như \"ngồi trên một quả bóng\" hoặc như đi đại tiện chưa hết phân"
+    },
+    {
+      "name": "Khó kiểm soát nhu động ruột",
+      "description": "Khó giữ phân, đôi khi dẫn đến són phân không kiểm soát được"
+    },
+    {
+      "name": "Máu đỏ tươi chảy ra từ trực tràng",
+      "description": "Xuất hiện máu tươi khi đi đại tiện hoặc sau khi đi vệ sinh"
+    },
+    {
+      "name": "Táo bón",
+      "description": "Khó khăn khi đi đại tiện và cảm giác đi không hết phân"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mặc dù chưa tìm ra nguyên nhân cụ thể dẫn đến sa trực tràng, nguyên nhân chính được cho là do sự suy yếu của các cơ và dây chằng ở vùng trực tràng.",
+    "related_factors": "Mang thai, tiền sử tiêu chảy hoặc táo bón mãn tính, tuổi già, chấn thương trước đó ở vùng hậu môn hoặc hông, tổn thương dây thần kinh ảnh hưởng đến khả năng thắt chặt và nới lỏng của cơ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ từ 50 tuổi trở lên (nguy cơ cao gấp 6 lần so với nam giới)",
+    "Tuổi cao (bệnh phổ biến ở độ tuổi 60 ở nữ và 40 ở nam)",
+    "Mang thai và sinh con qua đường âm đạo",
+    "Tiêu chảy hoặc táo bón mãn tính",
+    "Chấn thương vùng hậu môn hoặc hông",
+    "Tổn thương dây thần kinh",
+    "Các vấn đề thần kinh (bệnh tủy sống, cắt đoạn tủy sống, thoát vị đĩa đệm, đa xơ cứng)",
+    "Suy yếu cơ sàn chậu (thường đi kèm với sa tử cung hoặc sa bàng quang ở phụ nữ lớn tuổi)"
+  ],
+  "complications": [
+    "Sa căng cơ: trực tràng bị mắc kẹt và cắt nguồn cung cấp máu khiến mô bị chết",
+    "Hoại thư: mô trực tràng chuyển sang màu đen và rụng đi, nguy hiểm đến tính mạng",
+    "Hội chứng loét trực tràng đơn độc: các vết loét phát triển trên phần trực tràng bị sa",
+    "Sa tái phát: nhiều trường hợp bị sa trực tràng tái phát sau phẫu thuật",
+    "Hoại tử khối ruột sa"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: bác sĩ sẽ xem xét bệnh sử và hỏi về các triệu chứng",
+      "Khám trực tràng bằng ngón tay: đưa ngón tay đã đeo găng tay vào trực tràng để kiểm tra",
+      "Quan sát khi người bệnh ngồi vào bồn cầu: giúp bác sĩ nhìn thấy khối sa"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Quay phim lúc đại tiện",
+        "description": "Sử dụng camera chuyên dụng lắp vào bàn cầu và hệ thống máy tính điều khiển từ xa để chẩn đoán sa trực tràng"
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Cho thấy hình ảnh trực tràng và ống hậu môn trong quá trình người bệnh đi đại tiện"
+      },
+      {
+        "name": "Nội soi đại tràng",
+        "description": "Sử dụng ống dài có camera ở đầu đưa vào trực tràng để tìm bất kỳ vấn đề nào có thể gây sa"
+      },
+      {
+        "name": "Siêu âm nội mạc",
+        "description": "Sử dụng đầu dò đưa vào hậu môn và trực tràng để kiểm tra các cơ và mô"
+      },
+      {
+        "name": "Nội soi trực tràng sigma",
+        "description": "Kiểm tra viêm, sẹo hoặc khối u trong ruột bằng ống camera"
+      },
+      {
+        "name": "MRI",
+        "description": "Chụp hình ảnh kiểm tra tất cả các cơ quan trong vùng chậu của người bệnh"
+      },
+      {
+        "name": "Đo áp lực hậu môn",
+        "description": "Kiểm tra sức mạnh của cơ bằng cách đưa ống mỏng vào trực tràng"
+      },
+      {
+        "name": "Đo điện cơ hậu môn (EMG)",
+        "description": "Kiểm tra tổn thương dây thần kinh có gây ra các vấn đề về cơ vòng hậu môn hay không"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị sa trực tràng phổ biến nhất là phẫu thuật để đưa trực tràng trở lại vị trí cũ. Điều trị bằng thuốc chỉ là giải pháp tạm thời, không chữa khỏi sa trực tràng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc làm mềm phân và bổ sung chất xơ theo chỉ định của bác sĩ để giúp người bệnh đại tiện dễ dàng hơn"
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Kích điện trong lòng hậu môn phối hợp tập phản hồi sinh học, Kegel để làm săn chắc lại cơ hậu môn, cơ sàn chậu và phục hồi các cung phản xạ đại tiện"
+      },
+      {
+        "name": "Phẫu thuật bụng",
+        "description": "Có thể phẫu thuật bằng phương pháp mổ truyền thống hoặc phẫu thuật nội soi treo trực tràng sa vào xương thiêng"
+      },
+      {
+        "name": "Phẫu thuật Altemeier",
+        "description": "Cắt đoạn trực tràng qua ngõ hậu môn – nối trực tràng và ống hậu môn"
+      },
+      {
+        "name": "Phẫu thuật Thiersch",
+        "description": "Khâu và đặt quanh vòng ống hậu môn bằng 1 sợi silicon với mục đích làm chắc lại cơ vòng – thường áp dụng trong sa trực tràng do nhão cơ vòng"
+      },
+      {
+        "name": "Chích tế bào gốc",
+        "description": "Tiêm tế bào gốc vào cơ vòng nhão để phục hồi lại cơ vòng, giúp tế bào biệt hóa thành tế bào cơ vân của cơ thắt hậu môn"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không rặn khi đi đại tiện",
+      "Tránh táo bón bằng cách ăn nhiều chất xơ",
+      "Uống đủ 2 lít nước mỗi ngày",
+      "Tập thể dục thường xuyên để tăng cường cơ bụng và sàn chậu",
+      "Tránh khuân vác nặng để giảm áp lực lên cơ ruột",
+      "Tuân thủ hướng dẫn sau phẫu thuật",
+      "Thăm khám định kỳ theo lịch hẹn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +140,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không rặn khi đi đại tiện",
+      "Tránh để mắc táo bón",
+      "Tăng cường chất xơ trong chế độ ăn uống như ăn nhiều rau xanh và trái cây",
+      "Uống đủ 2 lít nước mỗi ngày",
+      "Tập thể dục thường xuyên",
+      "Tránh béo phì",
+      "Tránh khuân vác nặng",
+      "Đi khám sức khỏe định kỳ để tầm soát, phát hiện sớm bệnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sa trực tràng khác bệnh trĩ như thế nào?",
+      "answer": "Bệnh sa trực tràng rất dễ bị nhầm lẫn với bệnh trĩ vì đều ảnh hưởng đến đoạn cuối cùng của ruột và có các triệu chứng tương tự nhau. Sa trực tràng có ảnh hưởng đến thành trực tràng, còn bệnh trĩ lại ảnh hưởng đến các mạch máu trong ống hậu môn. Hai tình trạng này cần điều trị khác nhau, vì vậy điều quan trọng là người bệnh cần được chẩn đoán chính xác."
+    },
+    {
+      "question": "Bệnh sa trực tràng có chữa khỏi hoàn toàn được không?",
+      "answer": "Nếu được điều trị từ sớm và đúng cách, hầu hết người bệnh sẽ khỏi hẳn bệnh sa trực tràng. Song cũng có một nhóm người có thể tái phát bệnh sau phẫu thuật."
+    },
+    {
+      "question": "Phẫu thuật sa trực tràng sau bao lâu thì phục hồi hoàn toàn?",
+      "answer": "Thông thường, người bệnh sẽ hồi phục hoàn toàn trong vòng 3 tháng nếu được chăm sóc và kiêng cữ tốt."
+    },
+    {
+      "question": "Sa trực tràng có nguy hiểm không?",
+      "answer": "Mặc dù sa trực tràng thường không phải là một vấn đề y tế khẩn cấp nhưng lại gây ra sự khó chịu, xấu hổ, ảnh hưởng đến sinh hoạt hàng ngày. Nếu không điều trị kịp thời, bệnh có thể dẫn đến các biến chứng nghiêm trọng như hoại thư, hoại tử khối ruột sa có thể đe dọa tính mạng người bệnh. Việc trì hoãn chữa sa trực tràng càng lâu càng có nhiều khả năng mắc các vấn đề vĩnh viễn như tiểu không kiểm soát và tổn thương thần kinh."
+    },
+    {
+      "question": "Có những loại sa trực tràng nào?",
+      "answer": "Có ba loại sa trực tràng: Sa bên ngoài (độ dày toàn bộ của thành trực tràng bị sa ra ngoài hậu môn, đây là loại phổ biến nhất), Sa niêm mạc (một phần của niêm mạc trực tràng bị sa ra ngoài hậu môn), và Sa bên trong (trực tràng đã bắt đầu sa xuống nhưng vẫn chưa sa ra ngoài hậu môn)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay cảm thấy có một khối u sa ra khỏi hậu môn trong khi đi tiêu và có thể dùng tay đẩy ngược vào bên trong. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-truc-trang", "sa-niem-mac-truc-trang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó kiểm soát nhu động ruột và có máu đỏ tươi chảy ra từ trực tràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-truc-trang", "tri-noi", "viem-truc-trang"]
+    },
+    {
+      "question": "Tôi hay bị táo bón và cảm thấy như đi đại tiện chưa hết phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sa-truc-trang",
+        "hoi-chung-ruot-kich-thich",
+        "tao-bon-man-tinh"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy có một khối u sa ra khỏi hậu môn khi ho hoặc hắt hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-truc-trang", "sa-tang-chau"]
+    },
+    {
+      "question": "Tôi đang cảm thấy có một khối u sa ra khỏi hậu môn vĩnh viễn và không thể đẩy ngược vào bên trong. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-truc-trang", "sa-truc-trang-nang"]
     }
   ]
 }

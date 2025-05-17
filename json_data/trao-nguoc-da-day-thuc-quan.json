@@ -1,39 +1,128 @@
 {
   "disease_id": "trao-nguoc-da-day-thuc-quan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Trào ngược dạ dày thực quản",
+  "disease_alternative_names": [
+    "Trào ngược dạ dày",
+    "GERD",
+    "Bệnh trào ngược dạ dày"
+  ],
+  "disease_definition": "Trào ngược dạ dày thực quản (GERD) là một bệnh lý về đường tiêu hóa rất phổ biến tại Việt Nam. Ở người bình thường, sau khi thức ăn được đưa vào miệng và xuống đến thực quản, các cơ thắt thực quản giãn ra để cho thức ăn cùng các chất lỏng đi vào dạ dày rồi lại đóng lại. Tuy nhiên, người bị trào ngược dạ dày sẽ gặp tình trạng axit từ dạ dày trào ngược lên phần thực quản, khiến cho lớp niêm mạc thực quản bị kích thích và gây ra nhiều triệu chứng khó chịu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ợ nóng, ợ chua, ợ hơi",
+      "description": "Cảm giác khó chịu do dịch axit từ dạ dày trào ngược lên thực quản, đặc biệt là vào ban đêm"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và có thể nôn ra thức ăn hoặc dịch vị, thường gặp nếu ăn quá no hoặc nằm liền sau ăn"
+    },
+    {
+      "name": "Đau tức ngực",
+      "description": "Cơn đau ở thượng vị hay cảm giác khó chịu sau xương ức, đôi khi có thể nhầm lẫn với triệu chứng của bệnh tim mạch"
+    },
+    {
+      "name": "Khó nuốt và cảm giác vướng nghẹn",
+      "description": "Cảm giác khó nuốt, vướng hoặc như có một cục nghẹn ở cổ do phù nề, sưng tấy niêm mạc thực quản"
+    },
+    {
+      "name": "Đau họng, ho kéo dài và khan tiếng",
+      "description": "Triệu chứng xuất hiện do họng và thanh quản tiếp xúc thường xuyên với dịch acid dạ dày gây viêm và ho"
+    },
+    {
+      "name": "Tăng tiết nước bọt",
+      "description": "Miệng tiết ra nhiều nước bọt hơn bình thường do dư lượng acid từ thực quản trào lên"
+    },
+    {
+      "name": "Vị đắng trong miệng",
+      "description": "Cảm giác đắng trong miệng do dịch mật có thể xâm nhập vào dạ dày rồi trào lên"
+    },
+    {
+      "name": "Hôi miệng",
+      "description": "Mùi hôi khó chịu trong hơi thở do thức ăn đang tiêu hóa dở trong dạ dày kết hợp dịch mật, dịch dạ dày bị trào lên"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Trào ngược dạ dày thực quản xảy ra khi cơ thắt thực quản dưới (nối giữa thực quản và dạ dày) bị suy yếu hoặc giãn ra không đúng thời điểm, cho phép axit dạ dày đi ngược lên thực quản.",
+    "related_factors": "Các yếu tố liên quan bao gồm: thừa cân béo phì tạo sức ép lên bụng, mang thai đặc biệt trong những tháng cuối thai kỳ, một số loại thuốc (thuốc trị hen suyễn, thuốc chẹn kênh canxi, thuốc kháng histamine, thuốc an thần, thuốc chống trầm cảm, thuốc NSAIDs), hút thuốc lá, thoát vị hoành, liệt dạ dày, bệnh lý mô liên kết, lối sống và thói quen ăn uống không lành mạnh, căng thẳng (stress).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thừa cân, béo phì",
+    "Phụ nữ mang thai, đặc biệt trong những tháng cuối",
+    "Sử dụng một số thuốc nhất định (hen suyễn, chẹn kênh canxi, kháng histamine, an thần, chống trầm cảm, NSAIDs)",
+    "Hút thuốc lá hoặc hút thuốc lá thụ động",
+    "Thoát vị hoành, liệt dạ dày",
+    "Bệnh lý mô liên kết như xơ cứng bì",
+    "Uống rượu bia",
+    "Ăn nhiều đồ chua, nhiều dầu mỡ",
+    "Lười vận động",
+    "Nằm liền sau khi ăn",
+    "Căng thẳng và stress",
+    "Yếu tố bẩm sinh (ở trẻ sơ sinh)"
+  ],
+  "complications": [
+    "Viêm thực quản (50% bệnh nhân trào ngược dạ dày)",
+    "Loét thực quản",
+    "Hẹp thực quản",
+    "Thực quản Barrett (8-15% bệnh nhân trào ngược dạ dày thực quản kéo dài)",
+    "Ung thư biểu mô tuyến thực quản"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Đánh giá các triệu chứng đặc trưng như ợ nóng, ợ chua, đau ngực",
+      "Quan sát các biểu hiện ngoài thực quản như ho, khàn tiếng, hôi miệng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi dạ dày thực quản",
+        "description": "Quan sát tình trạng niêm mạc thực quản, phát hiện viêm thực quản, thực quản Barrett và các tổn thương khác"
+      },
+      {
+        "name": "Sinh thiết tế bào",
+        "description": "Lấy mẫu mô để chẩn đoán chính xác biến chứng thực quản Barrett hoặc nguy cơ ung thư"
+      },
+      {
+        "name": "Đo pH thực quản",
+        "description": "Đo lường mức độ axit trong thực quản để xác định tần suất và mức độ trào ngược"
+      },
+      {
+        "name": "Đo áp lực thực quản",
+        "description": "Đánh giá chức năng co bóp của thực quản và hoạt động của cơ thắt thực quản dưới"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Trào ngược dạ dày thường có tỉ lệ tái phát rất cao, khoảng 70% bệnh nhân bị tái phát trong vòng một năm. Tùy vào từng giai đoạn của bệnh mà bác sĩ chuyên khoa sẽ cân nhắc để cho các toa thuốc phù hợp, cộng với việc hướng dẫn bệnh nhân ăn uống lành mạnh để giảm triệu chứng và có thể khỏi bệnh hoàn toàn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc theo toa bác sĩ để giảm axit dạ dày và giảm triệu chứng, có thể bao gồm thuốc kháng acid, thuốc ức chế bơm proton, thuốc đối kháng thụ thể H2"
+      },
+      {
+        "name": "Thay đổi lối sống và chế độ ăn",
+        "description": "Kiểm soát cân nặng, chia nhỏ bữa ăn, không nằm ngay sau khi ăn, tránh thức ăn nhiều dầu mỡ, đồ uống có cồn và caffeine"
+      },
+      {
+        "name": "Phẫu thuật Nissen",
+        "description": "Phẫu thuật thắt chặt cơ và ngăn ngừa trào ngược, được thực hiện bằng mổ nội soi hoặc mổ mở trong trường hợp thuốc không hiệu quả"
+      },
+      {
+        "name": "Phẫu thuật LINX",
+        "description": "Cấy ghép một vòng các hạt titan nhỏ chứa từ tính được quấn quanh ngã ba của dạ dày và thực quản, giúp ngăn trào ngược nhưng vẫn cho thức ăn đi qua"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không để cân nặng tăng quá nhiều",
+      "Không ăn quá no, chia nhỏ các bữa ăn",
+      "Không nằm ngay sau khi ăn no (tối thiểu 3 giờ)",
+      "Không dùng các chất có cồn, caffeine và nước có gas",
+      "Tránh các thực phẩm nhiều dầu mỡ, chua và cay",
+      "Nằm nghiêng về bên trái hoặc nằm ngửa với đầu gối cao khi ngủ",
+      "Giảm stress thông qua các hoạt động thư giãn như yoga, thiền",
+      "Bỏ thuốc lá, hạn chế tiếp xúc với khói thuốc",
+      "Tập thể dục đều đặn để duy trì cân nặng hợp lý"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +130,73 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Ăn chậm và nhai kỹ",
+      "Tránh ăn quá no, chia nhỏ các bữa ăn",
+      "Tránh nằm ngay sau khi ăn (ít nhất 3 giờ)",
+      "Không sử dụng rượu bia, caffeine và đồ uống có gas",
+      "Tránh các thực phẩm gây trào ngược như: thức ăn nhiều dầu mỡ, đồ chua, đồ cay",
+      "Tăng cường ăn các thực phẩm có lợi: bánh mì ngũ cốc nguyên hạt, sữa chua, trái cây ít acid, đạm dễ tiêu",
+      "Bỏ thuốc lá và tránh hút thuốc thụ động",
+      "Giảm căng thẳng thông qua các hoạt động thư giãn",
+      "Ngủ với đầu gối cao hoặc nằm nghiêng về bên trái"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Trào ngược dạ dày có gây ra hôi miệng hay không?",
+      "answer": "Có, trào ngược dạ dày kéo dài sẽ gây ra mùi hôi khó chịu trong hơi thở người bệnh. Thức ăn đang tiêu hóa dở trong dạ dày kết hợp dịch mật, dịch dạ dày bị trào lên tiếp xúc với thực quản, vòm họng và cả miệng sẽ khiến người bệnh bị hôi miệng. Hôi miệng có thể được xem như là triệu chứng ngoài thực quản ở bệnh nhân trào ngược. Việc điều trị chứng hôi miệng do trào ngược chỉ có hiệu quả khi bệnh nhân kiểm soát được tình trạng trào ngược của mình."
+    },
+    {
+      "question": "Trào ngược thực quản nên nằm nghiêng bên nào?",
+      "answer": "Người bị trào ngược nên nằm ngửa khi ngủ, hoặc gối cao đầu giúp dạ dày nằm thấp hơn thực quản, hạn chế khả năng acid dạ dày hay thực phẩm trào ngược lên trên. Nếu không quen với việc nằm ngửa khi ngủ, người bệnh có thể áp dụng tư thế nằm nghiêng về bên trái. Khi nằm nghiêng sang trái, dạ dày và tuyến tụy được giữ ở vị trí tự nhiên thấp hơn thực quản, giúp ngăn ngừa trào ngược hiệu quả."
+    },
+    {
+      "question": "Trào ngược dạ dày có nguy hiểm không?",
+      "answer": "Trào ngược dạ dày thường không đe dọa đến tính mạng, nhưng nếu diễn tiến trong thời gian dài mà không được điều trị đúng cách sẽ gây ra nhiều biến chứng nguy hiểm. Trào ngược dạ dày kéo dài có thể trở thành nguyên nhân gây ra viêm thực quản, loét thực quản, hẹp thực quản, thực quản Barrett và đáng ngại nhất là ung thư biểu mô tuyến thực quản."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu ợ nóng, ợ chua, ợ hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trào ngược dạ dày thực quản",
+        "Viêm loét dạ dày",
+        "Thoát vị hoành"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tức ngực và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trào ngược dạ dày thực quản",
+        "Đau thắt ngực",
+        "Viêm dạ dày cấp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ợ chua vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trào ngược dạ dày thực quản",
+        "Thoát vị hoành",
+        "Loét dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó nuốt và có cảm giác vướng nghẹn ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trào ngược dạ dày thực quản",
+        "Viêm thực quản",
+        "Hẹp thực quản"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau họng, ho khan và khàn tiếng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trào ngược dạ dày thực quản",
+        "Viêm họng",
+        "Viêm thanh quản"
+      ]
     }
   ]
 }

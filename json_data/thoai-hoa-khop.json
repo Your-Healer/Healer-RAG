@@ -1,39 +1,148 @@
 {
   "disease_id": "thoai-hoa-khop",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thoái hóa khớp",
+  "disease_alternative_names": ["Viêm khớp thoái hóa", "Osteoarthritis"],
+  "disease_definition": "Thoái hóa khớp là một rối loạn mãn tính làm tổn thương sụn và các mô xung quanh khớp. Sụn khớp được xem là lớp đệm bao phủ bề mặt xương, cấu tạo từ tế bào sụn và chất căn bản. Sụn khớp có chức năng bảo vệ, giảm ma sát trong khớp và đóng vai trò như một 'bộ giảm xóc'. Đây là tổn thương thường gặp nhất trong hơn 100 loại tổn thương viêm khớp khác nhau.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhức",
+      "description": "Các khớp bị ảnh hưởng có thể bị đau trong hoặc sau khi vận động, các cơn đau thường âm ỉ và biến mất khi không hoạt động"
+    },
+    {
+      "name": "Cứng khớp",
+      "description": "Triệu chứng này thường đi kèm với những cơn đau và được thấy dễ dàng nhất sau khi thức dậy, hoặc sau một thời gian không vận động"
+    },
+    {
+      "name": "Tiếng khớp kêu khi di chuyển",
+      "description": "Có thể nghe thấy tiếng lộp cộp hoặc lách cách khi cử động khớp"
+    },
+    {
+      "name": "Teo cơ",
+      "description": "Thoái hóa khớp kéo dài có thể dẫn đến teo các cơ xung quanh khớp do không vận động trong thời gian dài"
+    },
+    {
+      "name": "Sưng tấy",
+      "description": "Thoái hóa khớp thường dẫn đến tình trạng sưng tấy làm biến dạng các khớp"
+    },
+    {
+      "name": "Biến dạng khớp",
+      "description": "Xuất hiện các gai xương, do lệch trục khớp hoặc thoát vị màng hoạt dịch"
+    },
+    {
+      "name": "Cảm giác nóng ran",
+      "description": "Người bệnh có thể cảm thấy nóng ran khi sử dụng khớp"
+    },
+    {
+      "name": "Hạn chế vận động",
+      "description": "Khó khăn khi thực hiện các động tác, di chuyển do đau và cứng khớp"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Thoái hóa khớp xảy ra khi lớp sụn bảo vệ đệm các đầu xương bị hư hại, tổn thương, khiến xương cọ xát trực tiếp vào nhau.",
+    "related_factors": "Nguyên nhân nguyên phát liên quan đến tuổi tác khi hàm lượng nước trong sụn khớp tăng dần và hàm lượng và chất lượng Protid trong sụn giảm. Nguyên nhân thứ phát bao gồm di truyền, béo phì, chấn thương, lạm dụng khớp, và ảnh hưởng từ các bệnh xương khớp khác.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người lớn tuổi",
+    "Người làm việc tay chân ở mức độ thường xuyên và liên tục",
+    "Người tập luyện thể thao ở cường độ cao và có tiền sử chấn thương",
+    "Người có các dị dạng bẩm sinh hoặc biến dạng thứ phát sau khi gặp chấn thương",
+    "Người thừa cân, béo phì",
+    "Người có yếu tố di truyền khiếm khuyết gen hình thành sụn",
+    "Người mắc các bệnh xương khớp khác như viêm khớp dạng thấp"
+  ],
+  "complications": [
+    "Bệnh gút (gout)",
+    "Trầm cảm và lo âu",
+    "Tăng cân do ít vận động",
+    "Rối loạn giấc ngủ",
+    "Vôi hóa sụn khớp",
+    "Xương bị hoại tử",
+    "Gãy xương",
+    "Chảy máu hoặc nhiễm trùng",
+    "Gân và dây chằng quanh khớp bị tổn thương"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Phát hiện gai xương ở rìa khớp",
+      "Kiểm tra dịch thoái hóa",
+      "Đánh giá dấu hiệu cứng khớp dưới 30 phút",
+      "Kiểm tra tiếng lách khách, lục khục khi cử động khớp",
+      "Phát hiện tràn dịch khớp và biến dạng khớp"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang quy ước",
+        "description": "Kiểm tra gai xương và hẹp khe khớp theo tiêu chuẩn chẩn đoán thoái hoá khớp của Kellgren và Lawrence"
+      },
+      {
+        "name": "Siêu âm khớp",
+        "description": "Kiểm tra tình trạng hẹp khe khớp, gai xương, tràn dịch khớp, đo độ dày sụn khớp, màng hoạt dịch khớp"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Quan sát hình ảnh khớp với không gian ba chiều, phát hiện các tổn thương ở sụn khớp, dây chằng, màng hoạt dịch"
+      },
+      {
+        "name": "Nội soi khớp",
+        "description": "Quan sát trực tiếp các tổn thương thoái hoá của sụn khớp, kết hợp sinh thiết màng hoạt dịch"
+      },
+      {
+        "name": "Xét nghiệm máu và sinh hoá",
+        "description": "Đo tốc độ lắng máu, xét nghiệm dịch khớp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không có cách chữa trị hoàn toàn cho bệnh viêm xương khớp, nhưng tình trạng không nhất thiết trở nên tồi tệ hơn theo thời gian. Có một số phương pháp điều trị để giúp giảm các triệu chứng đau khớp do thoái hóa.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Tập thể dục",
+        "description": "Các bài tập được khuyến nghị bao gồm kết hợp các hoạt động giúp tăng cường cơ bắp và cải thiện thể lực"
+      },
+      {
+        "name": "Giảm cân",
+        "description": "Giảm cân bằng việc tham gia các hoạt động thể chất và có chế độ ăn uống lành mạnh để giảm áp lực lên khớp"
+      },
+      {
+        "name": "Thuốc giảm đau",
+        "description": "Bao gồm Paracetamol, thuốc chống viêm không steroid (NSAID), tiêm steroid, theo chỉ định của bác sĩ"
+      },
+      {
+        "name": "Sử dụng huyết tương giàu tiểu cầu tự thân",
+        "description": "Giải pháp hiện đại được nghiên cứu cho hiệu quả nhanh chóng với khả năng tự chữa lành tự nhiên, an toàn cho người bệnh"
+      },
+      {
+        "name": "Chườm nóng hoặc lạnh",
+        "description": "Chườm nóng hoặc lạnh lên khớp có thể làm giảm cơn đau và các triệu chứng của viêm xương khớp"
+      },
+      {
+        "name": "Thiết bị hỗ trợ",
+        "description": "Giày chuyên dụng, nẹp, gậy hoặc nạng giúp giảm áp lực lên khớp và hỗ trợ vận động"
+      },
+      {
+        "name": "Liệu pháp trị liệu thủ công",
+        "description": "Kỹ thuật sử dụng bàn tay để tác động lên phần chi làm kéo căng và xoa bóp các mô cơ thể để giữ cho khớp trở nên dẻo dai và linh hoạt hơn"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Thực hiện trong trường hợp các phương pháp khác không hiệu quả hoặc tổn thương quá nghiêm trọng"
+      },
+      {
+        "name": "Thay khớp",
+        "description": "Phẫu thuật tái tạo khớp, thay thế khớp bị hư hại bằng khớp nhân tạo, có thể kéo dài từ 15-20 năm hoặc hơn"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ theo chỉ dẫn điều trị của bác sĩ",
+      "Tập thể dục thường xuyên theo kế hoạch được đưa ra",
+      "Duy trì cân nặng hợp lý hoặc giảm cân nếu thừa cân",
+      "Sử dụng thuốc đúng liều lượng chỉ định",
+      "Sử dụng thiết bị hỗ trợ khi cần thiết",
+      "Thăm khám định kỳ để theo dõi tiến triển của bệnh",
+      "Ăn uống khoa học, bổ sung các chất dinh dưỡng có lợi cho khớp như Omega-3, vitamin D",
+      "Tiêm phòng cúm hàng năm và các vắc-xin khác theo khuyến nghị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +150,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm soát trọng lượng, duy trì cân nặng hợp lý",
+      "Rèn luyện sức khỏe với chế độ tập luyện khoa học, có hướng dẫn",
+      "Tránh chấn thương khớp, đặc biệt khi tập thể dục hoặc chơi thể thao",
+      "Không uốn cong quá 90 độ khi thực hiện động tác gập đầu gối",
+      "Khởi động trước khi tham gia các hoạt động thể lực",
+      "Mang giày vừa vặn và tập trên bề mặt mềm",
+      "Ăn uống khoa học, bổ sung Omega-3, vitamin D, ăn nhiều rau xanh",
+      "Hạn chế đồ chế biến ở nhiệt độ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thoái hóa khớp có chữa khỏi hoàn toàn được không?",
+      "answer": "Không có cách chữa trị hoàn toàn cho bệnh viêm xương khớp, nhưng tình trạng không nhất thiết trở nên tồi tệ hơn theo thời gian. Có nhiều phương pháp điều trị để giúp giảm các triệu chứng đau khớp do thoái hóa, từ thuốc giảm đau, tập thể dục, đến phẫu thuật trong các trường hợp nặng."
+    },
+    {
+      "question": "Thoái hóa khớp có nguy hiểm không?",
+      "answer": "Thoái hóa khớp nếu không được điều trị và chẩn đoán kịp thời có thể gây ra nhiều biến chứng nguy hiểm như bệnh gút, trầm cảm và lo âu, tăng cân do ít vận động, rối loạn giấc ngủ, vôi hóa sụn khớp, hoại tử xương, gãy xương, nhiễm trùng, và tổn thương gân dây chằng quanh khớp."
+    },
+    {
+      "question": "Tập thể dục có tốt cho người bị thoái hóa khớp không?",
+      "answer": "Tập thể dục thường xuyên giúp bạn vận động, xây dựng cơ bắp và tăng cường sức mạnh cho các khớp, giúp cải thiện các triệu chứng thoái hóa khớp. Tập luyện còn giúp giảm cân, điều chỉnh tư thế và giảm căng thẳng. Tuy nhiên, cần tập theo kế hoạch và hướng dẫn phù hợp, tránh tập sai làm ảnh hưởng xấu đến các khớp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức khớp, tăng đau khi vận động và giảm khi nghỉ ngơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thoái hóa khớp", "Viêm khớp dạng thấp", "Viêm khớp"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khớp sưng, cứng khớp và khó khăn khi cử động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thoái hóa khớp", "Viêm khớp dạng thấp", "Gout"]
+    },
+    {
+      "question": "Tôi hay bị đau nhức khớp, kèm theo tiếng kêu lục cục khi cử động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp",
+        "Thoái hóa sụn khớp",
+        "Viêm bao hoạt dịch"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp khó khăn khi vận động, các khớp yếu và mất kiểm soát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp",
+        "Viêm đa khớp",
+        "Bệnh cơ xương khớp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức khớp, kèm theo sưng, nóng, đỏ vùng khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thoái hóa khớp", "Viêm khớp nhiễm trùng", "Gout"]
     }
   ]
 }

@@ -1,58 +1,168 @@
 {
   "disease_id": "thong-lien-that",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thông liên thất",
+  "disease_alternative_names": [
+    "Ventricular Septal Defect (VSD)",
+    "Dị tật thông liên thất"
+  ],
+  "disease_definition": "Thông liên thất là tình trạng tăng lưu lượng và áp lực trong tuần hoàn phổi do một lỗ thông trên vách ngăn giữa hai tâm thất của tim, dẫn đến khó thở, ăn uống kém và chậm tăng cân ở hầu hết trẻ. Đây là bệnh lý tim bẩm sinh thường gặp nhất, chiếm hơn 30% các trường hợp trẻ bị tim bẩm sinh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ăn uống kém, không tăng cân",
+      "description": "Trẻ ăn ít, không tăng cân hoặc tăng cân chậm hơn so với trẻ cùng tuổi"
+    },
+    {
+      "name": "Thở nhanh, hụt hơi",
+      "description": "Trẻ có nhịp thở nhanh hơn bình thường và có dấu hiệu khó thở"
+    },
+    {
+      "name": "Mệt mỏi, suy nhược",
+      "description": "Trẻ thường xuyên cảm thấy mệt mỏi và thiếu sức sống"
+    },
+    {
+      "name": "Da, môi và móng tay xanh tím",
+      "description": "Biểu hiện thiếu oxy, thường gặp khi có lỗ thông lớn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Thông liên thất thường là dị tật bẩm sinh xảy ra trong quá trình phát triển của tim thai nhi.",
+    "related_factors": "Một số trường hợp hiếm có thể là hậu quả của tổn thương mắc phải như sau nhồi máu cơ tim, chấn thương lồng ngực.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người gốc Á",
+    "Có tiền sử gia đình mắc bệnh tim bẩm sinh",
+    "Mắc các rối loạn di truyền như hội chứng Down"
+  ],
+  "complications": [
+    "Suy tim",
+    "Tăng áp động mạch phổi",
+    "Hội chứng Eisenmenger",
+    "Viêm nội tâm mạc",
+    "Nhịp tim bất thường",
+    "Vấn đề về van tim",
+    "Rối loạn nhịp tim",
+    "Dễ bị đột quỵ",
+    "Dễ bị nhiễm trùng đường hô hấp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe tổng quát để nghe tiếng thổi ở tim",
+      "Siêu âm thai nhi để phát hiện trước khi sinh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang ngực",
+        "description": "Giúp đánh giá kích thước và hình dạng của tim"
+      },
+      {
+        "name": "Đo điện tâm đồ",
+        "description": "Đánh giá hệ thống điện của tim và phát hiện bất thường"
+      },
+      {
+        "name": "Siêu âm tim qua lồng ngực",
+        "description": "Hiển thị kích thước và chức năng của các buồng tim, đánh giá tình trạng van tim và đo vận tốc dòng máu qua lỗ thông liên thất"
+      },
+      {
+        "name": "Chụp động mạch vành",
+        "description": "Thực hiện ở bệnh nhân có nguy cơ mắc bệnh mạch vành hoặc những bệnh nhân trên 40 tuổi nếu dự định phẫu thuật sửa chữa"
+      },
+      {
+        "name": "Chụp cộng hưởng từ",
+        "description": "Giúp phát hiện các bất thường khác liên quan đến tim"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Thông liên thất nhỏ thường không cần điều trị vì lỗ thông sẽ tự đóng khi trẻ lớn lên. Khoảng 75% trẻ bị VSD sẽ tự đóng trong năm đầu tiên của cuộc đời hoặc trước 10 tuổi mà không cần can thiệp điều trị y tế. Đối với các lỗ thông liên thất kích thước vừa và lớn, tỷ lệ đóng tự phát chỉ khoảng 5-10%.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc điều trị",
+        "description": "Digoxin, thuốc lợi tiểu để giúp tim làm việc tốt hơn; kháng sinh để phòng viêm nội tâm mạc nhiễm trùng"
+      },
+      {
+        "name": "Dinh dưỡng đặc biệt",
+        "description": "Chế độ dinh dưỡng với lượng calo cao hoặc sữa mẹ với các chất dinh dưỡng bổ sung"
+      },
+      {
+        "name": "Thông tim đóng lỗ thông",
+        "description": "Dụng cụ được đưa vào vị trí lỗ thông qua một ống nhỏ để che phủ lỗ thông, không cần phẫu thuật tim hở"
+      },
+      {
+        "name": "Phẫu thuật tim hở đóng lỗ thông",
+        "description": "Bác sĩ phẫu thuật khâu hoặc vá các lỗ thông trên vách ngăn, thực hiện khi không thể đóng lỗ thông bằng thông tim"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đảm bảo năng lượng mỗi khẩu phần ăn của trẻ cao hơn trẻ bình thường",
+      "Chia nhỏ nhiều bữa ăn trong ngày (8-12 bữa/ngày thay vì 3-5 bữa/ngày như bình thường)",
+      "Hạn chế các hoạt động gắng sức ở trẻ khi có biến chứng suy tim, tăng áp động mạch phổi",
+      "Tránh để trẻ căng thẳng, quấy khóc, mệt mỏi",
+      "Xử trí ngay các triệu chứng táo bón, sốt ở trẻ nếu có"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng đủ mũi trước khi mang thai (cúm, sởi – quai bị – rubella, thủy đậu, viêm gan B, bạch hầu – ho gà – uốn ván)",
+      "recommended_for": ["Phụ nữ có kế hoạch mang thai"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá, học cách kiểm soát căng thẳng, lo lắng, trầm cảm",
+      "Có chế độ ăn uống đủ dinh dưỡng",
+      "Bổ sung đầy đủ vitamin và khoáng chất, đặc biệt là canxi, sắt và axit folic",
+      "Hạn chế uống rượu, bia, caffeine",
+      "Tập thể dục thường xuyên bằng các bài tập phù hợp với phụ nữ mang thai",
+      "Khám thai đúng lịch, thực hiện đầy đủ các xét nghiệm tầm soát dị tật",
+      "Thông báo với bác sĩ nếu có tiền sử gia đình mắc bệnh tim bẩm sinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thông liên thất có tự khỏi không?",
+      "answer": "Thông liên thất nhỏ thường không cần điều trị vì lỗ thông sẽ tự đóng khi trẻ lớn lên. Khoảng 75% trẻ bị VSD sẽ tự đóng trong năm đầu tiên của cuộc đời hoặc trước 10 tuổi mà không cần can thiệp điều trị y tế. Đối với các lỗ thông liên thất kích thước vừa và lớn, tỷ lệ đóng tự phát là 5-10%. Nếu một thông liên thất chưa đóng trước 10 tuổi, việc đóng tự phát rất hiếm khi xảy ra."
+    },
+    {
+      "question": "Thông liên thất có nguy hiểm không?",
+      "answer": "Một lỗ thông liên thất nhỏ có khả năng tự đóng lại khi trẻ lớn lên. Tuy nhiên, lỗ thông trung bình hoặc lớn sẽ gây ra nhiều biến chứng cho trẻ – từ nhẹ đến nguy hiểm tính mạng. Những biến chứng này thường là suy tim, tăng áp động mạch phổi, viêm nội tâm mạc, và các vấn đề về tim khác, bao gồm nhịp tim bất thường và các vấn đề về van tim."
+    },
+    {
+      "question": "Thông liên thất có phòng ngừa được không?",
+      "answer": "Không có cách phòng ngừa hoàn toàn thông liên thất, nhưng duy trì một thai kỳ khỏe mạnh và an toàn góp phần rất lớn đến việc giảm thiểu nguy cơ mắc dị tật tim bẩm sinh ở trẻ sơ sinh. Điều này bao gồm tiêm phòng đầy đủ trước khi mang thai, không hút thuốc lá, có chế độ ăn uống đủ dinh dưỡng, bổ sung vitamin và khoáng chất, đặc biệt là axit folic, hạn chế rượu bia, caffeine, và khám thai đúng lịch."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Con tôi ăn uống kém, không tăng cân. Con tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thông liên thất",
+        "Bệnh tim bẩm sinh",
+        "Suy dinh dưỡng"
+      ]
+    },
+    {
+      "question": "Con tôi thở nhanh, hụt hơi hoặc khó thở. Con tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thông liên thất", "Hen suyễn", "Viêm phổi"]
+    },
+    {
+      "question": "Con tôi mệt mỏi, suy nhược. Con tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thông liên thất", "Thiếu máu", "Suy giáp"]
+    },
+    {
+      "question": "Con tôi da, môi và móng tay xanh tím. Con tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thông liên thất",
+        "Tứ chứng Fallot",
+        "Bệnh tim bẩm sinh tím"
+      ]
+    },
+    {
+      "question": "Con tôi có tiền sử gia đình mắc bệnh tim bẩm sinh. Con tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thông liên thất",
+        "Thông liên nhĩ",
+        "Hẹp động mạch phổi"
+      ]
     }
   ]
 }

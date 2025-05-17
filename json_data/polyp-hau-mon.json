@@ -1,39 +1,101 @@
 {
   "disease_id": "polyp-hau-mon",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Polyp hậu môn",
+  "disease_alternative_names": [
+    "Polyp ở hậu môn",
+    "Polyp tăng sản hậu môn",
+    "Anal polyp"
+  ],
+  "disease_definition": "Polyp hậu môn là sự tăng sinh bất thường của mô trên bề mặt bên trong của khu vực hậu môn, thường thấy nhất là ở lớp màng nhầy. Giống như các polyp khác, polyp hậu môn thường có hình dạng có cuống nhỏ như nấm, kích thước thường nhỏ hơn 2.5cm. Bệnh có thể xảy ra với nhiều đối tượng, nhất là những người trên 40 tuổi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối sa hậu môn sau đại tiện",
+      "description": "Người bệnh có thể cảm nhận được một khối thịt dư nhô ra sau khi đi đại tiện."
+    },
+    {
+      "name": "Đau bụng quặn từng cơn",
+      "description": "Khi polyp phát triển với kích thước lớn có thể chèn ép nhiều bộ phận, gây ra các cơn đau quặn bụng từng cơn, thậm chí có thể dẫn đến bán tắc ruột."
+    },
+    {
+      "name": "Đại tiện ra máu",
+      "description": "Máu khi đi tiêu do polyp hậu môn thường có màu đỏ tươi, thường phát hiện khi dùng giấy vệ sinh chứ không xuất hiện nhỏ giọt như trong trường hợp trĩ ngoại hay nứt kẽ hậu môn."
+    },
+    {
+      "name": "Đi ngoài phân lỏng",
+      "description": "Polyp ở hậu môn có thể gây ra nhu động ruột bất thường khiến bệnh nhân thay đổi thói quen đại tiện, đi ngoài phân lỏng, đi ngoài nhiều lần trong ngày."
+    },
+    {
+      "name": "Mệt mỏi, suy nhược cơ thể",
+      "description": "Do polyp hay gây chảy máu, đau bụng nên sức khỏe người bệnh sẽ có nhiều chuyển biến đi xuống như hay bị choáng, mệt mỏi, xanh xao."
+    },
+    {
+      "name": "Các dấu hiệu khác",
+      "description": "Một số trường hợp có thể gặp phải các triệu chứng cảnh báo polyp hậu môn như nôn, buồn nôn, sốt khó hạ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Polyp xuất phát từ tăng trưởng bất thường của các mô. Trong một vài trường hợp, lượng tế bào mới sản sinh quá mức cần thiết, hình thành nên các khối polyp ở vùng hậu môn.",
+    "related_factors": "Nguyên nhân đằng sau sự bất thường này vẫn chưa được lý giải hoàn toàn, nhưng có một số yếu tố được xem có ảnh hưởng tới sự hình thành bệnh polyp hậu môn như di truyền nhiễm sắc thể, cấu trúc hậu môn không bình thường, vệ sinh kém, táo bón kéo dài, chế độ ăn uống thiếu lành mạnh và các bệnh lý như lao, trĩ ngoại, áp xe hậu môn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình: Nếu bố hoặc mẹ từng bị polyp ở hậu môn",
+    "Cấu trúc hậu môn bất thường: hậu môn cong hoặc hẹp",
+    "Hoạt động quan hệ tình dục qua đường hậu môn",
+    "Vệ sinh hậu môn kém",
+    "Táo bón kéo dài",
+    "Chế độ ăn nhiều đồ cay nóng, thực phẩm chế biến sẵn",
+    "Mắc các bệnh lý như lao, trĩ ngoại, áp xe hậu môn, tắc tĩnh mạch hậu môn",
+    "Tuổi trên 40"
+  ],
+  "complications": [
+    "Nhiễm trùng hậu môn",
+    "Các vấn đề về đường ruột (táo bón, tiêu chảy kéo dài)",
+    "Nguy cơ ung thư hậu môn, đặc biệt với polyp dạng u tuyến",
+    "Ảnh hưởng sinh hoạt hàng ngày do khối sa hậu môn, đau bụng, đi tiêu bất thường"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để đánh giá các triệu chứng",
+      "Quan sát trực tiếp vùng hậu môn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi đại tràng",
+        "description": "Sử dụng ống nội soi để quan sát trực tiếp bên trong đại tràng và hậu môn, giúp phát hiện các khối polyp."
+      },
+      {
+        "name": "Nội soi đại tràng sigma",
+        "description": "Kiểm tra phần cuối đại tràng và trực tràng, nơi thường xảy ra polyp."
+      },
+      {
+        "name": "Nội soi đại tràng ảo",
+        "description": "Sử dụng chụp CT để tạo hình ảnh 3D của đại tràng, ít xâm lấn hơn nội soi thông thường."
+      },
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Kiểm tra máu ẩn hoặc các dấu hiệu bất thường khác trong phân."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị polyp hậu môn tùy thuộc vào độ lớn và tình trạng phức tạp của polyp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Nhằm giảm các triệu chứng đi kèm với polyp, không thể làm tan polyp. Thuốc thường được sử dụng bao gồm thuốc kháng viêm, thuốc giảm đau, thuốc đặc trị giúp loại bỏ khối polyp."
+      },
+      {
+        "name": "Điều trị ngoại khoa",
+        "description": "Trong trường hợp không thể khiến khối polyp tự tiêu tan nhờ vào thuốc, việc cắt bỏ polyp là phương thức điều trị cần thiết. Đặc biệt áp dụng đối với những khối polyp có kích thước lớn hoặc có nguy cơ tiến chuyển thành ung thư cao."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sau khi được loại bỏ, khối polyp hậu môn cần được gửi đến phòng xét nghiệm để kiểm tra tế bào ung thư",
+      "Kết quả xét nghiệm sẽ ảnh hưởng tới tần suất nội soi về sau",
+      "Kể cả khi đã điều trị, người bệnh vẫn nên có kế hoạch tái khám định kỳ",
+      "Kiểm tra sức khỏe tổng quát và rà soát nguy cơ xuất hiện các polyp mới"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +103,53 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tăng cường rau xanh, trái cây để bổ sung chất xơ",
+      "Hạn chế bia rượu và thuốc lá",
+      "Tập thể dục ít nhất 30 phút mỗi ngày",
+      "Hạn chế tiêu thụ thịt đỏ, thực phẩm chế biến sẵn",
+      "Duy trì cân nặng khỏe mạnh (chỉ số cơ thể từ 18,5 đến 25)",
+      "Giảm cân nếu bị thừa cân hoặc béo phì"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Polyp hậu môn có nguy hiểm không?",
+      "answer": "Polyp hậu môn có thể gây ra các biến chứng nguy hiểm. Ngoài nguy cơ ung thư, polyp ở hậu môn nếu điều trị muộn có thể dẫn tới nhiễm trùng hậu môn, các vấn đề về đường ruột (táo bón, tiêu chảy kéo dài), và có thể di truyền cho con cái. Do đó khi phát hiện ra polyp - dù bất cứ là loại gì - thì cũng cần loại bỏ càng sớm càng tốt."
+    },
+    {
+      "question": "Polyp hậu môn có ảnh hưởng đến cuộc sống người bệnh?",
+      "answer": "Có! Không chỉ gây ảnh hưởng tới người bệnh bởi các triệu chứng như khối sa hậu môn làm cản trở sinh hoạt, đau bụng, đi tiêu bất thường, mệt mỏi, mà bệnh polyp hậu môn nếu kéo dài còn làm tăng nguy cơ biến chứng nghiêm trọng - nặng nhất là ung thư hậu môn."
+    },
+    {
+      "question": "Phân biệt trĩ và polyp hậu môn?",
+      "answer": "Có thể phân biệt trĩ và polyp hậu môn qua các đặc điểm: 1) Về chảy máu: Trĩ khiến chảy máu thành giọt, còn polyp hậu môn thường phát hiện ở giấy vệ sinh sau đại tiện. 2) Về hình ảnh: Búi trĩ thường có màu đỏ/tím sẫm, hậu môn tiết dịch gây ngứa; trong khi polyp có cuống dài, đôi khi bị rối xoắn gây khó chịu, đau đớn bên trong ống hậu môn. 3) Về tác động: Trĩ ít tác động tới các cơ quan khác, trong khi polyp liên quan tới kích ứng ruột và là yếu tố mật thiết hình thành tế bào ung thư trực tràng/hậu môn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khối sa hậu môn sau đại tiện và đau bụng quặn từng cơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["polyp-hau-mon", "tri", "ap-xe-hau-mon"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, suy nhược cơ thể và hay bị choáng, xanh xao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["polyp-hau-mon", "thieu-mau", "xuat-huyet-tieu-hoa"]
+    },
+    {
+      "question": "Tôi hay đi ngoài phân lỏng và đi ngoài nhiều lần trong ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-hau-mon",
+        "viem-dai-trang",
+        "hoi-chung-ruot-kich-thich"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đại tiện ra máu, đặc biệt là phát hiện trên giấy vệ sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["polyp-hau-mon", "tri", "nut-ke-hau-mon"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng quặn từng cơn và đi ngoài ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["polyp-hau-mon", "viem-dai-trang", "loet-dai-trang"]
     }
   ]
 }

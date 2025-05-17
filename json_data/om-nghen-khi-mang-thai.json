@@ -1,39 +1,107 @@
 {
   "disease_id": "om-nghen-khi-mang-thai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ốm nghén khi mang thai",
+  "disease_alternative_names": [
+    "Nghén bầu",
+    "Buồn nôn và nôn khi mang thai",
+    "Morning sickness"
+  ],
+  "disease_definition": "Ốm nghén hay nghén bầu là một trong những hiện tượng thường gặp ở phụ nữ mang thai giai đoạn 3 tháng đầu, đi kèm là các triệu chứng khó chịu, đầy hơi, buồn nôn, nôn, mất ngủ… có thể xảy ra ở bất cứ thời gian nào trong ngày. Thống kê cho thấy, khoảng 70% trường hợp xuất hiện triệu chứng buồn nôn ở tuần thứ 4 đến tuần thứ 12 của thai kỳ, 10% trường hợp xuất hiện triệu chứng đến tuần thứ 16, thậm chí kéo dài đến suốt thai kỳ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Buồn nôn và nôn ói",
+      "description": "Triệu chứng có thể xuất hiện ở bất cứ thời điểm nào trong ngày, đặc biệt là vào buổi sáng, nhất là khi có sự kích thích về mùi vị của các loại thực phẩm."
+    },
+    {
+      "name": "Nhạy cảm với mùi vị thức ăn",
+      "description": "Thai phụ trở nên nhạy cảm với mùi vị của nhiều loại thức ăn, đặc biệt là thịt sống, cá sống, khiến cảm thấy buồn nôn và dễ nôn."
+    },
+    {
+      "name": "Chán ăn, không ngon miệng",
+      "description": "Do sự nhạy cảm về mùi vị thức ăn, thai phụ không thấy ngon miệng, thậm chí chán ăn."
+    },
+    {
+      "name": "Mệt mỏi, thiếu năng lượng",
+      "description": "Do không ăn uống đầy đủ, không cung cấp đủ chất dinh dưỡng cho cơ thể dẫn đến mệt mỏi, thiếu năng lượng."
+    },
+    {
+      "name": "Hoa mắt, chóng mặt",
+      "description": "Xuất hiện do sự thay đổi nội tiết tố và tình trạng thiếu dinh dưỡng, đặc biệt khi thay đổi tư thế."
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Trong trường hợp nghén nặng, thai phụ có thể sụt cân do nôn nhiều và không ăn uống được."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ốm nghén khi mang thai chủ yếu do sự thay đổi nội tiết tố ở tuyến sinh dục khi mang thai, cụ thể là Progesteron và HCG. Cơ thể thai phụ sẽ sản sinh ra một lượng lớn hormone Progesterone gây giãn các cân cơ ở hệ tiêu hóa, khiến lượng thức ăn bên trong dạ dày bị đẩy lên thực quản, gây cảm giác buồn nôn. Thêm vào đó, hormone này còn làm chậm khả năng tiêu hóa dẫn đến chứng khó tiêu.",
+    "related_factors": "Ngoài nguyên nhân chính là sự thay đổi nội tiết tố, các yếu tố khác có thể góp phần gây ra tình trạng nghén khi mang thai bao gồm thói quen ăn uống thất thường, hệ thần kinh của thai phụ nhạy cảm với các loại thực phẩm có mùi vị, và yếu tố di truyền (thường gặp ở những thai phụ có mẹ bị ốm nghén khi mang thai).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Mang thai lần đầu",
+    "Từng có tiền sử nghén nặng ở những lần mang thai trước",
+    "Người quá gầy",
+    "Mang song thai hoặc mang đa thai",
+    "Mắc bệnh nguyên bào nuôi, do sự gia tăng của tế bào bên trong tử cung"
+  ],
+  "complications": [
+    "Sụt cân nghiêm trọng",
+    "Mất cân bằng điện giải",
+    "Mất nước trầm trọng",
+    "Trầm cảm thai kỳ",
+    "Ảnh hưởng đến sức khỏe thai nhi (trong trường hợp nghén nặng kéo dài)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Xác định các triệu chứng buồn nôn, nôn và tình trạng sức khỏe tổng quát",
+      "Theo dõi cân nặng của thai phụ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra xem thai phụ và thai nhi có bị suy dinh dưỡng hoặc thiếu chất dinh dưỡng nào không"
+      },
+      {
+        "name": "Xét nghiệm điện giải đồ",
+        "description": "Kiểm tra xem thai phụ có bị rối loạn điện giải do nôn quá mức hay không"
+      },
+      {
+        "name": "Siêu âm thai",
+        "description": "Kiểm tra thai nhi có phát triển bình thường và khỏe mạnh đúng tuổi thai hay không"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy theo mức độ nghén nhẹ hay nặng mà có thể kiểm soát cơn nghén bằng cách điều chỉnh chế độ ăn uống, lối sống hay điều trị thuốc thích hợp (nếu cần) để giúp cải thiện tình trạng này.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi chế độ ăn uống",
+        "description": "Chia nhỏ bữa ăn hằng ngày (5-6 bữa/ngày), không ăn quá no, ngậm kẹo gừng sau bữa ăn, hạn chế thức ăn có mùi, uống đủ nước và bổ sung thực phẩm giàu chất dinh dưỡng."
+      },
+      {
+        "name": "Giải tỏa tâm lý",
+        "description": "Dành thời gian nghỉ ngơi, thư giãn hợp lý, làm những việc mình thích, tránh căng thẳng, lo lắng để có tinh thần thoải mái."
+      },
+      {
+        "name": "Tập luyện thể dục thể thao",
+        "description": "Tập các bài tập nhẹ nhàng như hít thở, đi bộ, bơi lội, yoga để thư giãn, cải thiện tâm trạng và sức khỏe."
+      },
+      {
+        "name": "Sử dụng thuốc theo chỉ định",
+        "description": "Trong trường hợp nghén nặng, bác sĩ có thể chỉ định thuốc như Pyridoxin (B6) hoặc Metoclopramide để giảm buồn nôn và nôn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Chia nhỏ bữa ăn thành nhiều bữa (5-6 bữa/ngày)",
+      "Ăn ít bánh quy hoặc các loại hạt trước khi ra khỏi giường buổi sáng",
+      "Uống đủ nước (2-3 lít/ngày), có thể uống nước chanh, nước hoa quả",
+      "Tránh thức ăn cay, nhiều chất béo, rượu bia, cà phê",
+      "Không nằm ngay sau khi ăn",
+      "Nghỉ ngơi đầy đủ và tránh căng thẳng",
+      "Đến cơ sở y tế ngay khi có các dấu hiệu nghiêm trọng như nôn ói liên tục, sụt cân nhanh, choáng váng, ngất xỉu"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +109,64 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chia nhỏ bữa ăn và ăn chậm",
+      "Ăn thực phẩm nhạt, ít dầu mỡ",
+      "Uống đủ nước",
+      "Tránh mùi thức ăn gây kích thích",
+      "Ngậm kẹo gừng hoặc uống trà gừng",
+      "Nghỉ ngơi đầy đủ",
+      "Thực hiện các bài tập thể dục nhẹ nhàng",
+      "Tránh căng thẳng, áp lực",
+      "Khám thai định kỳ để được theo dõi sức khỏe"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ốm nghén có tốt không? Có ảnh hưởng thai nhi không?",
+      "answer": "Nghiên cứu đã chứng minh rằng nghén bầu là một dấu hiệu tích cực cho thấy thai phụ đang trải qua một thai kỳ khỏe mạnh. Nghén không ảnh hưởng đến thai nhi, ngược lại, đây là dấu hiệu cho thấy thai nhi đang phát triển tốt. Thai phụ bị nghén có tỷ lệ sảy thai thấp hơn khoảng 50-70% so với những thai phụ không bị nghén. Tuy nhiên, nếu cơn nghén quá nặng, kéo dài và không được kiểm soát, có thể khiến thai phụ sụt cân, mất cân bằng điện giải, mất nước trầm trọng, ảnh hưởng đến sức khỏe của cả mẹ và thai nhi."
+    },
+    {
+      "question": "Ốm nghén kéo dài trong bao lâu?",
+      "answer": "Khoảng 70% trường hợp xuất hiện triệu chứng buồn nôn ở tuần thứ 4 đến tuần thứ 12 của thai kỳ, 10% trường hợp xuất hiện triệu chứng đến tuần thứ 16, thậm chí một số ít trường hợp có thể kéo dài đến suốt thai kỳ. Ở đa số thai phụ, ốm nghén thường giảm dần sau 3 tháng đầu thai kỳ."
+    },
+    {
+      "question": "Khi nào cần đến bệnh viện khi bị ốm nghén?",
+      "answer": "Thai phụ nên đến cơ sở y tế ngay lập tức khi xuất hiện các triệu chứng sau: tim đập nhanh; sốt cao không hạ; sụt 1-2kg trong khoảng thời gian ngắn; buồn nôn, nôn ói liên tục, không ăn uống được; choáng váng, ngất xỉu; tiểu lắt nhắt, nước tiểu có màu sẫm; đau đầu, đau bụng; xuất huyết âm đạo; nôn ra máu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang mang thai và cảm thấy buồn nôn, nôn khan, đặc biệt là vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["om-nghen-khi-mang-thai", "cam-cum", "viem-da-day"]
+    },
+    {
+      "question": "Tôi mang thai và thấy nhạy cảm với mùi vị thức ăn, dễ bị buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "om-nghen-khi-mang-thai",
+        "roi-loan-tieu-hoa",
+        "stress"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và cảm thấy mệt mỏi, chán ăn, không còn cảm giác ngon miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["om-nghen-khi-mang-thai", "thieu-mau", "suy-nhoc"]
+    },
+    {
+      "question": "Tôi mang thai và bị nôn nhiều, dẫn đến mất nước và sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "om-nghen-khi-mang-thai",
+        "nghen-nang-hyperemesis-gravidarum",
+        "roi-loan-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi mang thai và thấy ghét một số loại thức ăn mà trước đây tôi rất thích. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "om-nghen-khi-mang-thai",
+        "thay-doi-khau-vi-khi-mang-thai",
+        "roi-loan-noi-tiet"
+      ]
     }
   ]
 }

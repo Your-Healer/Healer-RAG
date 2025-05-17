@@ -1,39 +1,119 @@
 {
   "disease_id": "phu-bach-huyet-canh-tay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Phù bạch huyết cánh tay",
+  "disease_alternative_names": [
+    "Lymphedema cánh tay",
+    "Phù bạch huyết sau ung thư vú",
+    "Phù mạch bạch huyết cánh tay"
+  ],
+  "disease_definition": "Phù bạch huyết cánh tay là hiện tượng tích tụ, ứ đọng dịch trong hệ bạch huyết, dẫn đến cánh tay bị phù to. Người bệnh có cảm giác đau đớn, các chi khó cử động và di chuyển, gây khó khăn trong sinh hoạt. Đây thường là di chứng sau khi điều trị ung thư vú (chiếm tỷ lệ khoảng 10-15%), đặc biệt ở bệnh nhân có nạo hạch nách và xạ trị vùng nách.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng toàn bộ hoặc một phần cánh tay",
+      "description": "Cánh tay bị sưng phù, có thể sưng toàn bộ cánh tay hoặc chỉ một phần, khiến kích thước tay tăng lên so với bình thường."
+    },
+    {
+      "name": "Đau thắt, nặng nề",
+      "description": "Người bệnh cảm thấy đau, thắt, và cảm giác nặng nề ở cánh tay bị ảnh hưởng, gây khó khăn khi vận động."
+    },
+    {
+      "name": "Nhiễm trùng tái lại nhiều lần",
+      "description": "Do hệ bạch huyết không hoạt động bình thường, khả năng chống lại nhiễm trùng giảm, dẫn đến nhiễm trùng tái phát nhiều lần."
+    },
+    {
+      "name": "Vùng da bị phù cứng và dày lên",
+      "description": "Theo thời gian, vùng da ở cánh tay bị phù sẽ trở nên cứng và dày lên, mất đi tính đàn hồi tự nhiên."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân là do dịch bạch huyết không thể lưu thông bình thường, thường là hậu quả của việc nạo hạch bạch huyết vùng nách và xạ trị trong điều trị ung thư vú.",
+    "related_factors": "Phù bạch huyết có thể là nguyên phát (hiếm gặp, do rối loạn phát triển, thường gặp ở độ tuổi 20) hoặc thứ phát (do bệnh khác như bệnh truyền nhiễm, tổn thương từ chấn thương, xạ trị ung thư). Loại ung thư hay gặp nhất là ung thư vú, ung thư tuyến tiền liệt, u hạch bạch huyết.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Mắc ung thư hoặc đang trong quá trình điều trị ung thư",
+    "Đã trải qua xạ trị vùng ngực hoặc nách",
+    "Đã từng phẫu thuật và nạo hạch bạch huyết vùng nách",
+    "Nhiễm trùng",
+    "Tiếp xúc với chất độc hại, chất phóng xạ lâu",
+    "Mắc vảy nến, viêm khớp dạng thấp hay các bệnh tự miễn khác",
+    "Điều kiện sống thiếu vệ sinh",
+    "Béo phì",
+    "Người lớn tuổi"
+  ],
+  "complications": [
+    "Khó khăn trong sinh hoạt hàng ngày",
+    "Nhiễm trùng tái phát thường xuyên",
+    "Thay đổi kích thước ngón tay, cánh tay",
+    "Khó sử dụng tay bình thường",
+    "Giảm chất lượng cuộc sống",
+    "Đau mạn tính",
+    "Biến dạng cánh tay"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Đánh giá tiền sử bệnh, đặc biệt là tiền sử điều trị ung thư vú"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm Doppler mạch máu",
+        "description": "Là phương pháp chính xác, nhanh để xác định tổn thương tại nơi bị phù"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Phương pháp này giúp xem xét các mô và đặc điểm của phù"
+      },
+      {
+        "name": "Chụp vi tính cắt lớp (CT)",
+        "description": "Giúp hiển thị các khu vực bị tắc nghẽn của hệ bạch huyết"
+      },
+      {
+        "name": "Hình ảnh hạt nhân phóng xạ",
+        "description": "Dùng thuốc nhuộm phóng xạ để quan sát toàn bộ hệ bạch huyết, nhưng ít phổ biến tại Việt Nam vì đòi hỏi kỹ thuật cao"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phù bạch huyết hiện không có phương pháp điều trị đặc hiệu, không chữa khỏi hoàn toàn mà chủ yếu làm giảm đau, giảm sưng và ngăn ngừa các biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Bài tập vật lý trị liệu",
+        "description": "Tập di chuyển cánh tay bị ảnh hưởng giúp dịch bạch huyết lưu thông. Chỉ nên tập vừa sức, co kéo nhẹ nhàng các cơ."
+      },
+      {
+        "name": "Massage bạch huyết",
+        "description": "Cách này giúp dòng chảy của bạch huyết di chuyển nhẹ nhàng đến các hạch bạch huyết. Không dùng cho đối tượng đang mắc ung thư, tránh massage vào vùng da bị xạ trị."
+      },
+      {
+        "name": "Băng cánh tay bị tổn thương",
+        "description": "Dùng băng quấn quanh toàn bộ chi bị tổn thương, tạo áp lực đẩy dịch bạch huyết chảy ngược vào trong chi và thân. Khi quấn phải quấn chặt ngón tay, và lỏng dần khi di chuyển tới cánh tay."
+      },
+      {
+        "name": "Liệu pháp nén khí",
+        "description": "Dùng máy bơm gắn vào cánh tay, nơi vùng bị tổn thương rồi căng hơi ống tay áo, tạo áp lực để di chuyển dịch bạch huyết từ ngón tay giúp giảm sưng ở cánh tay."
+      },
+      {
+        "name": "Đồ may mặc nén",
+        "description": "Bao gồm áo dài tay hay vớ để nén cánh tay. Thường được sử dụng sau khi đã giảm sưng ở tay bằng những phương pháp khác."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong trường hợp phù bạch huyết trầm trọng, có thể cân nhắc phẫu thuật để cắt bỏ mô thừa trong cánh tay. Tuy nhiên, phẫu thuật chỉ làm giảm sưng nặng, không thể điều trị dứt điểm."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đi khám ngay khi nhận thấy dấu hiệu phù bạch huyết",
+      "Tránh lấy máu từ cánh tay có nguy cơ mắc bệnh phù bạch huyết",
+      "Khi đo huyết áp, nên đo ở tay ít có nguy cơ bị phù bạch huyết",
+      "Cân nhắc việc mua vòng tay cảnh báo y tế",
+      "Không tắm nước nóng quá lâu",
+      "Không dùng túi chườm nóng hoặc các phương pháp điều trị bằng nhiệt",
+      "Không mát-xa quá mạnh ở vùng có nguy cơ bị phù bạch huyết",
+      "Hạn chế để cánh tay tiếp xúc với ánh nắng",
+      "Nâng tay bên bệnh lên cao khi ngủ",
+      "Thay đổi tư thế, không nằm nghiêng hoặc ngồi lâu tựa vào tay phía bên bệnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +121,76 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Mang dụng cụ bảo hộ, bảo vệ tay khỏi chấn thương",
+      "Tránh các vết cắt, cháy nắng, vết bỏng, vết côn trùng cắn",
+      "Không để các vật nhọn đâm vào da",
+      "Đeo găng tay dày khi làm vườn",
+      "Thoa kem chống côn trùng khi ra ngoài",
+      "Giữ ẩm cho da bằng kem dưỡng ẩm dịu nhẹ",
+      "Không để cắt phải hoặc kéo đứt lớp biểu bì khi làm móng",
+      "Áp dụng chế độ ăn cân bằng và ít muối",
+      "Ăn nhiều rau củ và trái cây",
+      "Duy trì cân nặng khỏe mạnh",
+      "Tập thể dục đều đặn",
+      "Ngủ đủ giấc",
+      "Không hút thuốc lá"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Phù bạch huyết cánh tay có chữa khỏi được hoàn toàn không?",
+      "answer": "Phù bạch huyết cánh tay không thể chữa khỏi hoàn toàn, nhưng điều trị sớm có thể giúp giảm triệu chứng bệnh và ngăn chặn các triệu chứng khác. Các phương pháp điều trị hiện tại chủ yếu nhằm làm giảm đau, giảm sưng và phòng ngừa các biến chứng. Quan trọng nhất là phòng ngừa các tổn thương trên tay bị ảnh hưởng."
+    },
+    {
+      "question": "Khi nào cần đi khám nếu nghi ngờ bị phù bạch huyết cánh tay?",
+      "answer": "Bạn nên đi khám ngay khi nhận thấy các dấu hiệu phù bạch huyết như: sưng ở cánh tay, cẳng chân, bàn tay, ngón tay, cổ hoặc ngực; cảm thấy đau thắt, nặng nề ở cánh tay; vùng da bị phù cứng và dày lên; hoặc bị nhiễm trùng tái lại nhiều lần. Phát hiện và điều trị sớm sẽ giúp kiểm soát triệu chứng tốt hơn."
+    },
+    {
+      "question": "Phù bạch huyết cánh tay có nguy hiểm không?",
+      "answer": "Phù bạch huyết cánh tay là một di chứng vĩnh viễn nếu không được phòng ngừa, phát hiện kịp thời và điều trị sớm. Mặc dù không đe dọa tính mạng, nó có thể gây nhiều phiền toái trong sinh hoạt, giảm chất lượng cuộc sống, và dẫn đến các biến chứng như nhiễm trùng tái phát, biến dạng cánh tay, và khó sử dụng tay. Trong trường hợp nặng, kích thước của ngón tay, chân có thể thay đổi, thậm chí khó sử dụng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sưng một phần cánh tay và đau thắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phu-bach-huyet-canh-tay",
+        "viem-khop",
+        "chay-mau-duoi-da"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng toàn bộ cánh tay và cảm thấy nặng nề. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phu-bach-huyet-canh-tay",
+        "phu-tim",
+        "huyet-khoi-tinh-mach-sau"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau thắt ở cánh tay và vùng da bị sưng có vẻ dày lên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phu-bach-huyet-canh-tay",
+        "viem-da",
+        "phu-ne-do-di-ung"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị sưng cánh tay và đau, kèm theo nhiễm trùng tái đi tái lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phu-bach-huyet-canh-tay",
+        "nhiem-trung-da",
+        "viem-mo-bao"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy cánh tay sưng to và đau nhức, vùng da sưng cứng và dày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phu-bach-huyet-canh-tay",
+        "viem-mo-bao",
+        "benh-mo-cung-da"
+      ]
     }
   ]
 }

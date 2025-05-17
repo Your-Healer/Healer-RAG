@@ -1,58 +1,201 @@
 {
   "disease_id": "suy-gan-man-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy gan mãn tính",
+  "disease_alternative_names": ["Suy gan mạn", "Chronic liver failure"],
+  "disease_definition": "Suy gan mãn tính là hậu quả của tình trạng viêm xảy ra tại gan kéo dài. Đây thường là kết quả của chứng xơ gan, xảy ra khi các mô khỏe mạnh bị thay thế bằng mô sẹo, khiến phạm vi chức năng dần dần bị mất đi và dẫn đến xơ gan rồi làm cho suy gan.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cơ thể mệt mỏi",
+      "description": "Người bệnh thường xuyên cảm thấy mệt mỏi, uể oải, suy nhược, không đủ sức để thực hiện các hoạt động thường ngày"
+    },
+    {
+      "name": "Sốt nhẹ",
+      "description": "Sốt nhẹ không rõ nguyên nhân, là biểu hiện của phản ứng viêm trong cơ thể"
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Xuất hiện các biểu hiện như tiêu chảy, táo bón, đầy hơi, khó tiêu do gan không thể xử lý hiệu quả quá trình tiêu hóa"
+    },
+    {
+      "name": "Vàng da",
+      "description": "Da và tròng trắng mắt chuyển sang màu vàng do gan không thể xử lý bilirubin - một chất được tạo ra khi hồng cầu bị phá hủy"
+    },
+    {
+      "name": "Xuất huyết dưới da",
+      "description": "Xuất hiện các vết bầm dưới da, chảy máu dễ dàng do gan không sản xuất đủ protein cần thiết cho quá trình đông máu"
+    },
+    {
+      "name": "Giảm cân bất thường",
+      "description": "Sụt cân không chủ ý mặc dù không thay đổi chế độ ăn uống, do chức năng trao đổi chất của gan bị suy giảm"
+    },
+    {
+      "name": "Phù nề hoặc tích tụ chất lỏng ở chân",
+      "description": "Chân bị sưng phù do tích tụ dịch, thường nặng hơn vào cuối ngày, đặc biệt khi đứng hoặc ngồi lâu"
+    },
+    {
+      "name": "Cổ trướng",
+      "description": "Tích tụ dịch trong khoang bụng khiến bụng căng phồng, cảm giác nặng nề ở vùng bụng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy gan mãn tính phát triển chậm, thường là kết quả của tình trạng viêm gan và xơ gan kéo dài, khi các mô gan khỏe mạnh bị thay thế bằng mô sẹo khiến chức năng gan suy giảm nghiêm trọng.",
+    "related_factors": "Tổn thương gan có thể xuất phát từ nhiều yếu tố khác nhau như viêm gan B, C, sử dụng rượu bia kéo dài, gan nhiễm mỡ không do rượu, bệnh tự miễn, tác dụng phụ của thuốc, hoặc các rối loạn di truyền.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Viêm gan virus B, C mạn tính",
+    "Uống nhiều bia rượu trong thời gian dài (ít nhất 10 năm)",
+    "Gan nhiễm mỡ không do rượu",
+    "Béo phì",
+    "Tiểu đường loại 2",
+    "Hội chứng chuyển hóa",
+    "Viêm gan tự miễn",
+    "Bệnh đường mật",
+    "Hội chứng Budd-Chiari",
+    "Tác dụng phụ của hóa trị liệu",
+    "Tổn thương gan do thuốc",
+    "Các bệnh di truyền (thiếu Alpha-1 Antitrypsin, bệnh huyết sắc tố, bệnh Wilson)"
+  ],
+  "complications": [
+    "Phù não",
+    "Xuất huyết tiêu hóa do vỡ các búi giãn tĩnh mạch ở thực quản, dạ dày",
+    "Nhiễm trùng (viêm phổi, nhiễm trùng tiểu)",
+    "Suy thận",
+    "Hôn mê gan",
+    "Suy đa cơ quan",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng, đánh giá các triệu chứng",
+      "Tìm hiểu tiền sử bệnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra chức năng gan, đánh giá mức độ tổn thương, khả năng đông máu và các chỉ số quan trọng khác"
+      },
+      {
+        "name": "Siêu âm gan",
+        "description": "Kiểm tra hình ảnh cấu trúc gan, phát hiện các tổn thương, khối u hoặc dấu hiệu xơ gan"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Chụp cộng hưởng từ giúp đánh giá chi tiết tình trạng gan, phát hiện các tổn thương nhỏ hơn mà siêu âm không phát hiện được"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Chụp cắt lớp vi tính cung cấp hình ảnh chi tiết về cấu trúc gan và các cơ quan lân cận"
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Lấy một mẫu mô gan nhỏ để kiểm tra dưới kính hiển vi, giúp xác định chính xác tình trạng suy gan và các bệnh lý về gan liên quan"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị suy gan mãn tính tập trung vào việc làm chậm quá trình tổn thương gan, điều trị các biến chứng và xử lý nguyên nhân cơ bản. Trong trường hợp suy gan nặng, ghép gan có thể là cần thiết.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Loại bỏ nguyên nhân gây bệnh",
+        "description": "Xác định và điều trị các yếu tố gây ra tổn thương gan như viêm gan virus, ngừng sử dụng rượu bia, điều chỉnh chế độ ăn uống"
+      },
+      {
+        "name": "Sử dụng thuốc điều trị",
+        "description": "Dùng thuốc theo chỉ định của bác sĩ để kiểm soát các triệu chứng, bảo vệ gan và ngăn ngừa biến chứng"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ phần gan bị tổn thương",
+        "description": "Nếu chỉ một phần gan bị tổn thương, bác sĩ có thể chỉ định cắt bỏ phần này để ngăn tổn thương lan rộng"
+      },
+      {
+        "name": "Thay đổi chế độ dinh dưỡng và lối sống",
+        "description": "Tránh rượu bia, thuốc lá; hạn chế thịt đỏ, trứng, phô mai; giảm cân; kiểm soát huyết áp, tiểu đường; giảm lượng muối tiêu thụ hàng ngày"
+      },
+      {
+        "name": "Ghép gan",
+        "description": "Được chỉ định trong trường hợp suy gan mãn tính đã tiến triển đến giai đoạn nghiêm trọng không thể điều trị bằng các phương pháp khác"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghiêm túc thực hiện theo chỉ định điều trị của bác sĩ",
+      "Kiểm tra gan định kỳ để theo dõi tiến triển của bệnh",
+      "Tránh tuyệt đối rượu bia và các chất kích thích",
+      "Ăn uống lành mạnh, chia nhỏ bữa ăn, hạn chế thức ăn nhiều dầu mỡ",
+      "Tiêm phòng viêm gan A, B nếu chưa mắc bệnh",
+      "Giảm cân nếu thừa cân béo phì"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc-xin phòng ngừa viêm gan virus B để giảm nguy cơ phát triển thành viêm gan mạn tính dẫn đến suy gan.",
+      "recommended_for": [
+        "Tất cả mọi người, đặc biệt những người có nguy cơ cao",
+        "Trẻ sơ sinh",
+        "Nhân viên y tế",
+        "Người sống chung với người mắc viêm gan B mạn tính"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ngăn ngừa viêm gan virus B, C bằng cách quan hệ tình dục an toàn, tránh dùng chung kim tiêm, dụng cụ xăm mình",
+      "Tuyệt đối tránh rượu bia hoặc chỉ uống với lượng rất hạn chế",
+      "Ngăn ngừa gan nhiễm mỡ bằng cách duy trì cân nặng hợp lý",
+      "Kiểm soát tốt các bệnh nền như tiểu đường, huyết áp cao, rối loạn lipid máu",
+      "Duy trì thói quen tập thể dục đều đặn, ít nhất 30 phút mỗi ngày",
+      "Xây dựng chế độ ăn uống cân bằng và lành mạnh, ưu tiên các thực phẩm có lợi cho gan"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy gan mãn tính là gì?",
+      "answer": "Suy gan mãn tính là hậu quả của tình trạng viêm xảy ra tại gan kéo dài. Đây thường là kết quả của chứng xơ gan, xảy ra khi các mô khỏe mạnh bị thay thế bằng mô sẹo, khiến phạm vi chức năng dần dần bị mất đi. Khi suy gan xảy ra, cơ quan này không còn hoạt động bình thường để thực hiện các nhiệm vụ quan trọng như sản xuất protein, mật, lưu trữ đường, loại bỏ chất độc, và xử lý chất béo."
+    },
+    {
+      "question": "Nguyên nhân gây suy gan mãn tính là gì?",
+      "answer": "Suy gan mãn tính xuất phát từ nhiều nguyên nhân khác nhau, phổ biến nhất là: viêm gan virus B và C; uống nhiều bia rượu trong thời gian dài (ít nhất 10 năm); gan nhiễm mỡ không do rượu. Ngoài ra còn có các nguyên nhân hiếm gặp hơn như viêm gan tự miễn, bệnh đường mật, hội chứng Budd-Chiari, tác dụng phụ từ hóa trị liệu, xơ gan do thuốc, và các biến thể di truyền như thiếu Alpha-1 Antitrypsin, bệnh huyết sắc tố, bệnh Wilson."
+    },
+    {
+      "question": "Triệu chứng của suy gan mãn tính là gì?",
+      "answer": "Suy gan mãn tính có thể cần vài tháng đến nhiều năm để phát triển thành các triệu chứng rõ rệt. Các dấu hiệu nhận biết bao gồm: cơ thể mệt mỏi, sốt nhẹ, rối loạn tiêu hóa, vàng da, xuất huyết dưới da, giảm cân bất thường, phù nề hoặc tích tụ chất lỏng ở chân, và cổ trướng (tích tụ chất lỏng trong ổ bụng)."
+    },
+    {
+      "question": "Suy gan mãn tính có thể điều trị khỏi được không?",
+      "answer": "Điều trị suy gan mãn tính phụ thuộc vào mức độ nghiêm trọng của bệnh và tình trạng tổn thương. Các phương pháp điều trị bao gồm: loại bỏ nguyên nhân gây bệnh, sử dụng thuốc theo chỉ định, phẫu thuật cắt bỏ phần gan bị tổn thương (nếu chỉ một phần gan bị ảnh hưởng), thay đổi chế độ dinh dưỡng và lối sống, và trong trường hợp nghiêm trọng, có thể cần ghép gan."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa suy gan mãn tính?",
+      "answer": "Phòng ngừa suy gan mãn tính bằng cách: ngăn ngừa viêm gan virus B, C thông qua quan hệ tình dục an toàn và tránh dùng chung kim tiêm; tuyệt đối tránh rượu bia; ngăn ngừa bệnh gan nhiễm mỡ bằng cách điều trị các yếu tố nguy cơ như béo phì, tiểu đường, huyết áp cao; duy trì thói quen tập thể dục đều đặn; và xây dựng chế độ ăn uống cân bằng, lành mạnh với các thực phẩm có lợi cho gan."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như cơ thể mệt mỏi và sốt nhẹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-gan-man-tinh",
+        "viem-gan-virus",
+        "suy-nhược-co-the"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy rối loạn tiêu hóa và vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-gan-man-tinh",
+        "viem-gan-virus",
+        "tang-bilirubin-mau"
+      ]
+    },
+    {
+      "question": "Tôi hay bị xuất huyết dưới da và giảm cân bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan-man-tinh", "roi-loan-dong-mau", "ung-thu"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như phù nề hoặc tích tụ chất lỏng ở chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan-man-tinh", "suy-tim", "suy-than"]
+    },
+    {
+      "question": "Tôi đang cảm thấy cổ trướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan-man-tinh", "xo-gan", "suy-tim"]
     }
   ]
 }

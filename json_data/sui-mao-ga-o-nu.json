@@ -1,58 +1,203 @@
 {
   "disease_id": "sui-mao-ga-o-nu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sùi mào gà ở nữ",
+  "disease_alternative_names": [
+    "Mụn cóc sinh dục",
+    "Condyloma Acuminatum",
+    "Human Papilloma Virus (HPV)"
+  ],
+  "disease_definition": "Sùi mào gà ở nữ là căn bệnh do virus Human Papilloma Virus (HPV) gây ra. Đặc trưng của bệnh là các nốt sần hoặc mụn nhọt thành từng cụm có hình dạng như mào gà hoặc bông súp lơ ở bộ phận sinh dục nữ giới, thậm chí có thể xuất hiện ở cả miệng và lưỡi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt mụn cóc hoặc sần ở bộ phận sinh dục",
+      "description": "Xuất hiện nốt mụn cóc hoặc nốt sần có hình dạng mào gà ở vị trí môi lớn, môi bé của âm đạo, cổ tử cung, hậu môn hoặc vùng bẹn"
+    },
+    {
+      "name": "Nốt sùi ở miệng, lưỡi hoặc cuống họng",
+      "description": "Trong trường hợp quan hệ bằng miệng, mụn cóc có thể xuất hiện ở khoang miệng, lưỡi, cuống họng"
+    },
+    {
+      "name": "Nốt mụn cóc phát triển",
+      "description": "Ở giai đoạn đầu, nốt mụn cóc có kích thước nhỏ, mềm, sờ vào có cảm giác nhám tay. Khi nặng hơn, mụn cóc lan thành một mảng lớn, có hình dạng như bông súp lơ"
+    },
+    {
+      "name": "Tiểu khó, tiểu rát hoặc tiểu ra máu",
+      "description": "Trong trường hợp sùi mào gà ở hậu môn, có thể gặp triệu chứng tiểu khó, tiểu rát hoặc tiểu ra máu"
+    },
+    {
+      "name": "Đại tiện khó, đại tiện ra máu",
+      "description": "Khi bị sùi mào gà ở vùng hậu môn, người bệnh có thể cảm thấy khó khăn và đau đớn khi đi đại tiện"
+    },
+    {
+      "name": "Chảy máu, chảy mủ từ nốt sùi",
+      "description": "Hầu hết nốt mụn cóc không gây ngứa hoặc đau đớn, tuy nhiên khi quan hệ tình dục các nốt mụn cóc tiếp xúc dễ bị vỡ gây chảy máu, có thể dẫn đến nhiễm trùng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Bệnh sùi mào gà ở nữ giới là hậu quả của việc nhiễm virus HPV. Trong hơn 100 chủng HPV khác nhau, chủng HPV-6 và HPV-11 là chủng virus tác động trực tiếp gây nên sùi mào gà ở nữ giới.",
+    "related_factors": "Môi trường âm đạo ẩm ướt tạo điều kiện thuận lợi cho virus HPV sinh sôi và phát triển mạnh mẽ khiến bệnh sùi mào gà ở nữ giới ủ bệnh nhanh hơn ở nam giới.",
+    "transmission_routes": [
+      "Quan hệ tình dục không sử dụng biện pháp bảo vệ, thậm chí có thể lây truyền khi dương vật ở nam giới không đi sâu vào âm đạo ở nữ giới",
+      "Lây nhiễm từ mẹ sang con thông qua đường sinh khi sinh bé qua đường âm đạo",
+      "Lây nhiễm qua vết thương hở khi tiếp xúc da thịt với người bị sùi mào gà",
+      "Lây nhiễm do sử dụng đồ dùng chung như quần áo, khăn tắm, giày dép của người bị bệnh"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Quan hệ tình dục không an toàn, không sử dụng biện pháp bảo vệ",
+    "Quan hệ tình dục với nhiều người",
+    "Tiếp xúc da thịt với người mắc bệnh thông qua các vết thương hở",
+    "Sử dụng chung đồ dùng cá nhân như quần áo, khăn tắm với người bệnh",
+    "Hệ miễn dịch suy giảm",
+    "Mang thai (khi mang thai, nồng độ hormone tăng cao khiến các nốt mụn cóc phát triển nhanh)"
+  ],
+  "complications": [
+    "Nguy cơ bị ung thư cổ tử cung: 10,2% phụ nữ bị sùi mào gà ở cổ tử cung có thể tiến triển thành ung thư",
+    "Ung thư âm đạo và hậu môn: 5% sùi mào gà ở âm đạo và 5% sùi mào gà ở hậu môn có thể tiến triển thành ung thư",
+    "Ung thư vòm họng, ung thư cổ họng nếu mắc bệnh do quan hệ tình dục không an toàn bằng đường miệng",
+    "Ảnh hưởng đến khả năng sinh sản",
+    "Ảnh hưởng đến thai kỳ: nốt mụn cóc to hơn, dễ cọ xát gây vỡ chảy máu",
+    "Khó khăn trong quá trình sinh nở tự nhiên",
+    "Lây sang trẻ sơ sinh gây u nhú thanh quản khiến trẻ bị khàn giọng, khóc yếu"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Quan sát hình dạng nốt sùi mào gà bằng mắt thường",
+      "Thăm khám vùng sinh dục"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra sự hiện diện của các vi khuẩn, virus gây bệnh lây truyền qua đường tình dục có liên quan"
+      },
+      {
+        "name": "Khám hậu môn",
+        "description": "Bác sĩ khám hậu môn bằng dụng cụ chuyên dụng để kiểm tra tìm nốt sùi mào gà ở sâu bên trong"
+      },
+      {
+        "name": "Khám vùng chậu và xét nghiệm Papsmear",
+        "description": "Phết tế bào ở cổ tử cung để kiểm tra sự thay đổi và sự hiện diện của tế bào ung thư"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô tế bào để đánh giá mô bệnh học, xác định chủng virus HPV và tiên lượng nguy cơ ung thư"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện nay vẫn chưa có thuốc điều trị virus HPV, virus này vẫn có khả năng tái nhiễm. Điều trị chủ yếu nhằm loại bỏ tổn thương và những yếu tố nguy cơ ung thư từ việc nhiễm virus HPV.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Imiquimod (Zyclara, Aldara)",
+        "description": "Thuốc bôi có công dụng tăng cường khả năng miễn dịch của cơ thể, chống lại sự phát triển của nốt sùi mào gà"
+      },
+      {
+        "name": "Axit tricloaxetic (TCA)",
+        "description": "Thuốc bôi có công dụng đốt cháy nốt sùi mào gà, dùng trong điều trị mụn cóc bên ngoài bộ phận sinh dục"
+      },
+      {
+        "name": "Sinecatechin (Veregen)",
+        "description": "Thuốc bôi có công dụng điều trị nốt sùi mào gà bên ngoài hoặc xung quanh vùng hậu môn"
+      },
+      {
+        "name": "Liệu pháp áp lạnh (cryotherapy)",
+        "description": "Sử dụng nitơ lỏng -196 độ C để gây bỏng lạnh vùng da xung quanh vùng nổi nốt sùi mào gà, giúp các tổn thương bong ra và được thay thế bằng lớp da mới"
+      },
+      {
+        "name": "Điều trị bằng laser",
+        "description": "Sử dụng chùm ánh sáng có cường độ cao để điều trị nốt sùi mào gà, thường áp dụng cho trường hợp sùi mào gà trên diện rộng gây khó điều trị"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ",
+        "description": "Cắt bỏ hoàn toàn tổn thương do nốt sùi mào gà sau khi gây mê, có thể loại bỏ được 89-100% tổn thương trong một lần phẫu thuật"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ đầy đủ phác đồ điều trị của bác sĩ",
+      "Thực hiện thêm các kiểm tra bổ sung để tầm soát nguy cơ mắc các bệnh lây truyền qua đường tình dục khác",
+      "Quan hệ tình dục an toàn, chỉ chung thủy một chồng hoặc bạn tình",
+      "Không sử dụng quần áo lót, khăn tắm, chậu tắm chung",
+      "Vệ sinh sạch sẽ cơ quan sinh dục hàng ngày",
+      "Sử dụng bao cao su khi quan hệ tình dục để tránh lây bệnh"
+    ],
+    "prevention_of_transmission": [
+      "Sử dụng bao cao su khi quan hệ tình dục",
+      "Không quan hệ tình dục khi đang điều trị bệnh",
+      "Thông báo cho đối tác về tình trạng bệnh",
+      "Điều trị dứt điểm trước khi mang thai"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin ngừa HPV được xem là giải pháp hữu hiệu nhất để phòng ngừa các bệnh lây truyền qua đường tình dục như sùi mào gà, cũng như các bệnh ung thư cổ tử cung, u nhú bộ phận sinh dục do HPV gây ra.",
+      "recommended_for": [
+        "Nữ giới từ 9-26 tuổi",
+        "Phụ nữ chưa quan hệ tình dục"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Quan hệ tình dục an toàn bằng cách sử dụng bao cao su",
+      "Chung thủy một bạn tình",
+      "Không quan hệ tình dục bừa bãi",
+      "Không sử dụng quần áo lót, khăn tắm, chậu tắm chung",
+      "Vệ sinh sạch sẽ cơ quan sinh dục hàng ngày",
+      "Khám phụ khoa định kỳ để phát hiện sớm các bệnh phụ khoa"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sùi mào gà ở nữ là gì?",
+      "answer": "Sùi mào gà ở nữ còn có tên gọi khác là mụn cóc sinh dục, là căn bệnh do virus Human Papilloma Virus (HPV) gây ra. Dấu hiệu đặc trưng của bệnh là việc nổi các nốt sần hoặc mụn nhọt thành từng cụm có hình dạng như mào gà hoặc bông súp lơ tại bộ phận sinh dục nữ giới, thậm chí có thể xuất hiện ở cả miệng và lưỡi. Bệnh chủ yếu do chủng HPV-6 và HPV-11 gây ra."
+    },
+    {
+      "question": "Sùi mào gà ở nữ có nguy hiểm không?",
+      "answer": "Sùi mào gà ở nữ là một trong những căn bệnh nguy hiểm bởi khả năng lây truyền nhanh và có thể gây nhiều biến chứng nghiêm trọng. Bệnh có thể dẫn đến nguy cơ ung thư cổ tử cung (khoảng 10,2% phụ nữ bị sùi mào gà ở cổ tử cung có thể tiến triển thành ung thư), ung thư âm đạo và hậu môn, ảnh hưởng đến khả năng sinh sản, gây khó khăn trong thai kỳ và quá trình sinh nở, và có thể lây sang trẻ sơ sinh."
+    },
+    {
+      "question": "Sùi mào gà ở nữ có gây đau không?",
+      "answer": "Hầu hết nốt mụn cóc không gây ngứa hoặc đau đớn. Tuy nhiên, khi quan hệ tình dục, các nốt mụn cóc tiếp xúc dễ bị vỡ gây chảy máu, có thể dẫn đến nhiễm trùng và cảm giác đau rát. Người bệnh cũng có thể gặp các triệu chứng khó chịu như ngứa ngáy, đau rát khiến khó khăn trong sinh hoạt, nhất là khi bệnh ở vùng hậu môn có thể gây đau khi đi tiểu hoặc đại tiện."
+    },
+    {
+      "question": "Thời gian ủ bệnh sùi mào gà ở phụ nữ là bao lâu?",
+      "answer": "Thời gian ủ bệnh sùi mào gà ở nữ giới sẽ khác nhau ở mỗi người, có thể kéo dài trong 2 tháng hoặc dài hơn đến 9 tháng, nhưng thông thường là 3 tháng. Thời gian ủ bệnh phụ thuộc vào thể trạng và sức đề kháng của mỗi người. Người có sức đề kháng kém, thời gian ủ bệnh có thể nhanh hơn, chỉ sau 2-3 tuần. Môi trường âm đạo ẩm ướt cũng tạo điều kiện thuận lợi cho virus HPV phát triển nhanh hơn so với nam giới."
+    },
+    {
+      "question": "Sùi mào gà ở nữ có thể điều trị dứt điểm được không?",
+      "answer": "Hiện nay vẫn chưa có thuốc điều trị virus HPV, virus này vẫn có khả năng tái nhiễm, nghĩa là người bệnh vẫn có thể tái phát bệnh sau khi điều trị. Người bệnh có thể mang virus HPV suốt đời, có thể có triệu chứng hoặc không có triệu chứng, và có nguy cơ lây nhiễm bệnh cho chồng/bạn tình nếu quan hệ tình dục không sử dụng biện pháp bảo vệ. Các phương pháp điều trị hiện nay chủ yếu nhằm loại bỏ tổn thương và kiểm soát bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nổi mụn cóc sinh dục ở âm hộ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sui-mao-ga-o-nu", "mun-coc-thuong"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ngáy và đau rát vùng kín. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sui-mao-ga-o-nu", "viem-am-dao", "nam-candida"]
+    },
+    {
+      "question": "Tôi hay bị chảy máu sau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sui-mao-ga-o-nu",
+        "viem-co-tu-cung",
+        "polyp-co-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tiểu khó, tiểu rát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sui-mao-ga-o-nu",
+        "viem-duong-tiet-nieu",
+        "viem-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nổi mụn cóc ở môi lớn, môi bé. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sui-mao-ga-o-nu",
+        "mun-coc-thuong",
+        "herpes-sinh-duc"
+      ]
     }
   ]
 }

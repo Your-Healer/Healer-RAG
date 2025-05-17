@@ -1,39 +1,139 @@
 {
   "disease_id": "tang-huyet-ap-vo-can",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tăng huyết áp vô căn",
+  "disease_alternative_names": [
+    "Tăng huyết áp nguyên phát",
+    "Essential hypertension",
+    "Primary hypertension"
+  ],
+  "disease_definition": "Tăng huyết áp vô căn là loại tăng huyết áp không rõ nguyên nhân, còn gọi là tăng huyết áp nguyên phát. Huyết áp là áp lực của máu lên thành động mạch khi tim bơm máu đi khắp cơ thể. Tăng huyết áp xảy ra khi lực đẩy của máu mạnh hơn bình thường. Tình trạng này có thể khởi phát ở mọi lứa tuổi, nhưng thường gặp nhất ở tuổi trung niên.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu",
+      "description": "Cơn đau đầu xuất hiện do huyết áp tăng cao"
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Cảm giác quay cuồng, mất thăng bằng do huyết áp cao gây ảnh hưởng đến tuần hoàn não"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác kiệt sức, không có năng lượng do tim phải làm việc nhiều hơn bình thường"
+    },
+    {
+      "name": "Chảy máu cam",
+      "description": "Xuất huyết ở mũi có thể xảy ra khi huyết áp tăng cao đột ngột"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác không thở đủ không khí, thường xuất hiện khi gắng sức"
+    },
+    {
+      "name": "Không có triệu chứng",
+      "description": "Nhiều người bị tăng huyết áp vô căn không có triệu chứng gì, nên còn được gọi là \"kẻ giết người thầm lặng\""
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Di truyền được coi là yếu tố nguy cơ hàng đầu của tăng huyết áp nguyên phát.",
+    "related_factors": "Thừa cân hoặc béo phì, lối sống ít vận động, chế độ ăn nhiều muối và ít kali, hút thuốc lá, uống rượu quá mức, và stress mạn tính là những yếu tố làm tăng nguy cơ mắc bệnh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Di truyền (tiền sử gia đình có người bị tăng huyết áp)",
+    "Thừa cân hoặc béo phì",
+    "Lối sống ít vận động",
+    "Chế độ ăn nhiều muối, ít kali",
+    "Hút thuốc lá",
+    "Uống rượu quá mức (hơn 1 ly/ngày đối với phụ nữ và 2 ly/ngày với nam giới)",
+    "Thường xuyên stress không kiểm soát được",
+    "Tuổi trung niên và cao tuổi"
+  ],
+  "complications": [
+    "Suy tim",
+    "Đau tim",
+    "Xơ vữa động mạch hoặc xơ cứng động mạch do tích tụ cholesterol",
+    "Tổn thương mắt",
+    "Tổn thương thận",
+    "Tổn thương thần kinh",
+    "Đột quỵ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đo huyết áp nhiều lần tại các thời điểm khác nhau",
+      "Tự theo dõi huyết áp tại nhà",
+      "Khám lâm sàng để kiểm tra các dấu hiệu của bệnh tim mạch",
+      "Kiểm tra mắt, tim, phổi và lưu lượng máu ở cổ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu kiểm tra nồng độ cholesterol",
+        "description": "Đánh giá mức độ cholesterol trong máu, một yếu tố nguy cơ tim mạch"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Kiểm tra cấu trúc và chức năng của tim"
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Đánh giá hoạt động điện của tim"
+      },
+      {
+        "name": "Xét nghiệm máu đánh giá chức năng thận",
+        "description": "Kiểm tra khả năng hoạt động của thận"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra chức năng thận và phát hiện protein trong nước tiểu"
+      },
+      {
+        "name": "Siêu âm thận",
+        "description": "Đánh giá cấu trúc thận để loại trừ nguyên nhân tăng huyết áp thứ phát"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không có cách chữa khỏi hoàn toàn tình trạng tăng huyết áp vô căn, nhưng tuân thủ lối sống lành mạnh và điều trị bằng thuốc sẽ giúp kiểm soát tốt triệu chứng cũng như ngăn ngừa biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Bao gồm tập thể dục đều đặn, giảm cân nếu thừa cân, bỏ thuốc lá, hạn chế rượu bia, kiểm soát stress, và có chế độ ăn lành mạnh"
+      },
+      {
+        "name": "Thuốc chẹn beta",
+        "description": "Giảm nhịp tim và sức co bóp của tim, làm giảm lượng máu bơm ra và giảm huyết áp"
+      },
+      {
+        "name": "Thuốc chẹn kênh canxi",
+        "description": "Giúp giãn các mạch máu bằng cách ngăn canxi vào các tế bào của tim và thành mạch máu"
+      },
+      {
+        "name": "Thuốc lợi tiểu",
+        "description": "Giúp thận loại bỏ muối và nước dư thừa, giảm lượng dịch trong máu và giảm huyết áp"
+      },
+      {
+        "name": "Thuốc ức chế men chuyển (ACE)",
+        "description": "Giúp thư giãn mạch máu bằng cách ngăn chặn quá trình tạo ra chất gây co mạch tự nhiên angiotensin II"
+      },
+      {
+        "name": "Thuốc chẹn thụ thể angiotensin II",
+        "description": "Giúp thư giãn mạch máu bằng cách chặn tác động của angiotensin II lên mạch máu"
+      },
+      {
+        "name": "Chất ức chế renin",
+        "description": "Làm chậm sản xuất renin, một enzyme tham gia vào chuỗi phản ứng tạo ra angiotensin II"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tập thể dục đều đặn (ít nhất 150 phút/tuần)",
+      "Duy trì chỉ số BMI trong khoảng 18,5 - 22,9",
+      "Bỏ thuốc lá, hạn chế rượu bia",
+      "Học cách kiểm soát stress",
+      "Áp dụng chế độ ăn ít muối, giàu kali và chất xơ",
+      "Tăng cường rau, trái cây, các sản phẩm từ sữa ít béo, ngũ cốc nguyên hạt, thịt nạc, chất béo tốt",
+      "Uống thuốc đều đặn theo đơn của bác sĩ",
+      "Đo huyết áp thường xuyên và ghi lại kết quả",
+      "Thăm khám định kỳ để đánh giá hiệu quả điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +141,73 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm tra huyết áp thường xuyên, đặc biệt nếu có yếu tố nguy cơ",
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục thường xuyên (các bài tập phù hợp như đi bộ, bơi lội, đạp xe, yoga)",
+      "Hạn chế muối trong khẩu phần ăn (dưới 5g/ngày)",
+      "Tăng cường thực phẩm giàu kali như chuối, khoai tây, cà chua",
+      "Không hút thuốc lá, tránh hút thuốc thụ động",
+      "Hạn chế tiêu thụ rượu bia",
+      "Quản lý stress hiệu quả thông qua thư giãn, thiền, yoga",
+      "Chế độ ăn uống lành mạnh theo mô hình DASH (Dietary Approaches to Stop Hypertension)",
+      "Khám sức khỏe định kỳ để phát hiện sớm dấu hiệu tăng huyết áp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tăng huyết áp vô căn có nguy hiểm không?",
+      "answer": "Tăng huyết áp vô căn rất nguy hiểm nếu không được kiểm soát tốt. Nó có thể dẫn đến nhiều biến chứng nghiêm trọng như suy tim, đau tim, xơ vữa động mạch, tổn thương mắt, thận và thần kinh. Đặc biệt nguy hiểm vì bệnh thường không có triệu chứng rõ ràng, nên được gọi là \"kẻ giết người thầm lặng\"."
+    },
+    {
+      "question": "Làm thế nào để biết mình có bị tăng huyết áp vô căn?",
+      "answer": "Cách duy nhất để biết bạn có bị tăng huyết áp vô căn là đo huyết áp thường xuyên. Theo khuyến cáo của Hội Tim mạch học Quốc gia, chẩn đoán tăng huyết áp khi huyết áp đo tại phòng khám ≥140/90 mmHg. Tiền tăng huyết áp được xác định khi chỉ số nằm trong khoảng 120-139/80-89 mmHg. Mức huyết áp tối ưu khi <120/80 mmHg."
+    },
+    {
+      "question": "Tăng huyết áp vô căn có chữa khỏi hoàn toàn được không?",
+      "answer": "Tăng huyết áp vô căn là bệnh mạn tính, không có cách chữa khỏi hoàn toàn. Tuy nhiên, với sự kết hợp giữa thay đổi lối sống và dùng thuốc theo chỉ định của bác sĩ, bạn hoàn toàn có thể kiểm soát được huyết áp và sống khỏe mạnh. Điều quan trọng là phải kiên trì với phác đồ điều trị và thường xuyên kiểm tra huyết áp."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa tăng huyết áp vô căn?",
+      "answer": "Phòng ngừa tăng huyết áp vô căn bao gồm: duy trì cân nặng hợp lý, tập thể dục thường xuyên (ít nhất 150 phút/tuần), hạn chế muối trong khẩu phần ăn, tăng cường thực phẩm giàu kali, không hút thuốc lá, hạn chế tiêu thụ rượu bia, quản lý stress hiệu quả, và duy trì chế độ ăn uống lành mạnh theo mô hình DASH với nhiều rau, trái cây, các sản phẩm từ sữa ít béo và ngũ cốc nguyên hạt, thịt nạc, chất béo tốt."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu, chóng mặt, mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng huyết áp vô căn",
+        "Thiếu máu não",
+        "Rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở và nóng phừng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng huyết áp vô căn",
+        "Cơn tăng huyết áp kịch phát",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy máu cam. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng huyết áp vô căn",
+        "Viêm mũi",
+        "Rối loạn đông máu"
+      ]
+    },
+    {
+      "question": "Tôi thừa cân, béo phì và lo lắng về nguy cơ tăng huyết áp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng huyết áp vô căn",
+        "Hội chứng chuyển hóa",
+        "Bệnh tim mạch"
+      ]
+    },
+    {
+      "question": "Tôi có lối sống ít vận động và lo lắng về nguy cơ tăng huyết áp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng huyết áp vô căn", "Béo phì", "Bệnh tim mạch"]
     }
   ]
 }

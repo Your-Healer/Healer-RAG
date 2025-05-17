@@ -1,39 +1,112 @@
 {
   "disease_id": "rung-nhi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rung nhĩ",
+  "disease_alternative_names": ["Rung tâm nhĩ", "Atrial Fibrillation", "AFib"],
+  "disease_definition": "Rung nhĩ hay rung tâm nhĩ là một trong những bệnh lý về rối loạn nhịp tim thường gặp, đặc biệt là ở những bệnh nhân cao tuổi. Trong rung nhĩ, nhịp tim của bệnh nhân đập không đều, hỗn loạn ngay cả khi nghỉ ngơi. Đây là một trong những hiện tượng loạn nhịp tim phổ biến nhất.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Hồi hộp, đánh trống ngực",
+      "description": "Cảm giác tim đập mạnh, rõ rệt và không đều trong lồng ngực"
+    },
+    {
+      "name": "Hụt hơi, lệch nhịp",
+      "description": "Cảm giác khó thở, thở gấp hoặc nhịp tim không đều, thậm chí ở trạng thái nghỉ ngơi"
+    },
+    {
+      "name": "Khó thở khi vận động",
+      "description": "Cảm giác khó thở, thở dốc hoặc mệt mỏi khi hoạt động thể chất hoặc tập thể dục"
+    },
+    {
+      "name": "Lâng lâng, chóng mặt",
+      "description": "Cảm giác choáng váng, chóng mặt, thậm chí có cảm giác muốn ngất xỉu"
+    },
+    {
+      "name": "Giảm khả năng gắng sức",
+      "description": "Cảm thấy yếu ớt, mệt mỏi, dễ đuối sức khi hoạt động bình thường"
+    },
+    {
+      "name": "Nặng ngực, tức ngực",
+      "description": "Cảm giác đau hoặc tức nặng vùng ngực, có thể nhầm lẫn với cơn đau thắt ngực"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rung nhĩ xảy ra do nhiều yếu tố hoặc nhiều nguyên nhân kết hợp với nhau, ít khi chỉ do một nguyên nhân duy nhất. Khoảng 10% bệnh nhân không tìm được nguyên nhân rõ ràng.",
+    "related_factors": "Phẫu thuật tim, bệnh tim bẩm sinh, bệnh cơ tim, bệnh van tim, bệnh mạch vành tim, tăng huyết áp, suy tim, bệnh phổi mạn tính, cường giáp, nhiễm siêu vi, ngưng thở khi ngủ, viêm màng ngoài tim.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (trên 60 tuổi)",
+    "Lạm dụng rượu bia",
+    "Béo phì",
+    "Tiền sử gia đình có người bị rung nhĩ",
+    "Căng thẳng tâm lý",
+    "Sử dụng caffeine quá mức",
+    "Hút thuốc lá",
+    "Rối loạn điện giải",
+    "Nhiễm trùng nặng",
+    "Yếu tố di truyền"
+  ],
+  "complications": [
+    "Đột quỵ não (nguy cơ cao gấp 5-7 lần)",
+    "Tắc mạch máu các cơ quan",
+    "Suy tim",
+    "Giảm hiệu quả bơm máu của tim",
+    "Làm nặng thêm tình trạng các bệnh lý tim mạch khác",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm hỏi bệnh sử và tiền căn bệnh lý",
+      "Khám tim mạch tổng quát",
+      "Theo dõi các triệu chứng nghi ngờ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ thường quy (ECG)",
+        "description": "Ghi lại nhịp tim thông qua các điện cực dán/gắn trên người bệnh trong thời gian ngắn để phát hiện rung nhĩ"
+      },
+      {
+        "name": "Nhật ký điện tim (Holter ECG)",
+        "description": "Thiết bị ghi điện tim nhỏ gọn, có thể đeo bên người để ghi lại nhịp tim liên tục trong vòng 24 giờ hoặc nhiều ngày"
+      },
+      {
+        "name": "Máy ghi sự kiện nhịp tim",
+        "description": "Thiết bị di động ghi lại nhịp tim khi người bệnh cảm thấy có triệu chứng, có thể theo dõi từ vài tuần đến vài tháng"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Dù là rung nhĩ từng cơn ngắn hay kéo dài liên tục, bệnh nhân đều cần được thăm khám và điều trị bởi bác sĩ chuyên khoa loạn nhịp tim. Mục tiêu điều trị là kiểm soát nhịp tim và ngăn ngừa hình thành huyết khối.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc chống loạn nhịp để chuyển nhịp cắt cơn rung nhĩ, thuốc kiểm soát nhịp tim, và thuốc kháng đông để ngăn hình thành cục máu đông"
+      },
+      {
+        "name": "Sốc điện chuyển nhịp",
+        "description": "Sử dụng máy sốc điện để chuyển nhịp rung nhĩ trở về nhịp tim bình thường (nhịp xoang)"
+      },
+      {
+        "name": "Triệt phá rung nhĩ",
+        "description": "Dùng dây dẫn có gắn điện cực đưa vào buồng tim qua mạch máu để triệt phá/cô lập các vùng loạn nhịp gây rung nhĩ bằng sóng radio cao tần"
+      },
+      {
+        "name": "Cấy máy tạo nhịp",
+        "description": "Áp dụng cho bệnh nhân có biến chứng suy nút xoang để dự phòng các cơn ngưng tim có thể xảy ra"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế rượu bia",
+      "Hạn chế dùng các chất kích thích như caffeine, nước tăng lực",
+      "Ngưng hút thuốc lá",
+      "Tập thể dục thể thao đều đặn",
+      "Giảm căng thẳng áp lực",
+      "Kiểm soát tốt cân nặng của cơ thể",
+      "Kiểm soát tốt huyết áp nếu bị tăng huyết áp",
+      "Kiểm soát tốt đường huyết nếu bị đái tháo đường",
+      "Điều trị cường giáp (nếu có)",
+      "Điều trị hội chứng ngưng thở khi ngủ (nếu có)"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +114,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Đi bộ nhanh 30 phút mỗi ngày và đi cầu thang bộ khi có thể",
+      "Bỏ thuốc lá",
+      "Tránh hoặc hạn chế rượu và caffeine",
+      "Kiểm soát được sự căng thẳng",
+      "Kiểm soát cao huyết áp",
+      "Điều chỉnh mức cholesterol: ăn nhiều chất xơ, dầu ô liu, cá",
+      "Kiểm soát lượng đường trong máu",
+      "Khám sức khỏe định kỳ, đặc biệt là người lớn tuổi và người có bệnh nền tim mạch"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rung nhĩ là gì?",
+      "answer": "Rung nhĩ là một trong những bệnh lý về rối loạn nhịp tim thường gặp, đặc biệt ở những bệnh nhân cao tuổi (trên 60 tuổi). Trong rung nhĩ, nhịp tim của bệnh nhân đập không đều, hỗn loạn ngay cả khi nghỉ ngơi. Có 4 loại rung nhĩ: kịch phát (có thể tự khỏi), dai dẳng (kéo dài hơn một tuần), kéo dài (hơn 12 tháng) và vĩnh viễn (không thể trở lại nhịp bình thường)."
+    },
+    {
+      "question": "Rung nhĩ có nguy hiểm không?",
+      "answer": "Rung nhĩ là một bệnh lý tim mạch nguy hiểm. Trong rung nhĩ, máu có thể bị ứ đọng trong tâm nhĩ, tạo điều kiện hình thành cục máu đông. Những cục máu đông này có thể di chuyển đến não hoặc các cơ quan khác gây đột quỵ hoặc tắc mạch máu. Bệnh nhân rung nhĩ có nguy cơ đột quỵ cao gấp 5-7 lần so với người bình thường. Ngoài ra, rung nhĩ kéo dài còn làm tăng nguy cơ suy tim và tử vong."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán rung nhĩ?",
+      "answer": "Để chẩn đoán rung nhĩ, bác sĩ sẽ thăm hỏi bệnh sử, khám tim mạch và chỉ định một số xét nghiệm như: Điện tâm đồ thường quy (ECG) để ghi lại nhịp tim trong thời gian ngắn; Nhật ký điện tim (Holter ECG) để ghi lại nhịp tim liên tục trong 24 giờ hoặc nhiều ngày; Máy ghi sự kiện nhịp tim để theo dõi từ vài tuần đến vài tháng khi có triệu chứng."
+    },
+    {
+      "question": "Rung nhĩ có thể điều trị được không?",
+      "answer": "Rung nhĩ có thể được điều trị bằng nhiều phương pháp khác nhau tùy thuộc vào tình trạng bệnh. Các phương pháp điều trị bao gồm: Thuốc chống loạn nhịp, thuốc kiểm soát nhịp tim và thuốc kháng đông; Sốc điện chuyển nhịp để đưa tim trở về nhịp bình thường; Triệt phá rung nhĩ bằng sóng radio cao tần; Cấy máy tạo nhịp trong một số trường hợp đặc biệt. Ngoài ra, thay đổi lối sống cũng đóng vai trò quan trọng trong điều trị."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa rung nhĩ?",
+      "answer": "Để phòng ngừa rung nhĩ, bạn nên xây dựng lối sống lành mạnh như: Đi bộ nhanh 30 phút mỗi ngày; Bỏ thuốc lá; Hạn chế rượu và caffeine; Kiểm soát căng thẳng; Kiểm soát tốt huyết áp và mức cholesterol; Ăn nhiều chất xơ, dầu ô liu, cá; Kiểm soát đường huyết, đặc biệt nếu bị đái tháo đường; Khám sức khỏe định kỳ, đặc biệt là người lớn tuổi và người có bệnh nền tim mạch."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như hồi hộp, đánh trống ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rung-nhi", "roi-loan-nhip-tim", "lo-au"]
+    },
+    {
+      "question": "Tôi đang cảm thấy hụt hơi, lệch nhịp hoặc nhịp tim không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rung-nhi", "roi-loan-nhip-tim", "suy-tim"]
+    },
+    {
+      "question": "Tôi hay bị khó thở, đặc biệt khi vận động hoặc tập thể dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "rung-nhi",
+        "suy-tim",
+        "benh-phoi-tac-nghen-man-tinh"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như lâng lâng, chóng mặt hoặc thậm chí cảm giác muốn ngất xỉu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rung-nhi", "ha-huyet-ap", "roi-loan-tien-dinh"]
+    },
+    {
+      "question": "Tôi đang cảm thấy giảm khả năng gắng sức, yếu trong người, dễ đuối sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rung-nhi", "suy-tim", "thieu-mau"]
     }
   ]
 }

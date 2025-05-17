@@ -1,39 +1,110 @@
 {
   "disease_id": "ro-luan-nhi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rò luân nhĩ",
+  "disease_alternative_names": [
+    "Xoang trước não thất",
+    "Hố trước não thất",
+    "Lỗ rò trước não thất",
+    "Đường trước não thất",
+    "U nang tiền não thất"
+  ],
+  "disease_definition": "Rò luân nhĩ là một dị tật bẩm sinh lành tính, khi có một lỗ nhỏ ở trước vành tai, thường hình thành trong tuần thứ 6 của thai kỳ. Dị tật này được cho là do sự hợp nhất không hoàn toàn hoặc khiếm khuyết của sáu đồi thính giác trong quá trình phát triển của màng nhĩ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Lỗ nhỏ trước vành tai",
+      "description": "Xuất hiện một lỗ nhỏ như đầu tăm gần vành tai, thường ở bờ trước của vành tai hoặc dọc theo rìa phía trên của vòng xoắn, đường tragus hoặc tiểu thùy"
+    },
+    {
+      "name": "Tiết bã màu trắng đục",
+      "description": "Khi nặn có thể thấy tiết bã màu trắng đục như nhân trứng cá, khiến nhiều người lầm tưởng đó là một dạng trứng cá"
+    },
+    {
+      "name": "Ban đỏ và ngứa",
+      "description": "Khi nhiễm trùng, vùng xung quanh lỗ rò sẽ xuất hiện tình trạng đỏ, ngứa và khó chịu"
+    },
+    {
+      "name": "Sưng tấy, đau nhức",
+      "description": "Tình trạng viêm nhiễm khiến vùng xung quanh lỗ rò sưng tấy và đau nhức, khó chịu"
+    },
+    {
+      "name": "Tiết dịch có mùi hôi hoặc mủ",
+      "description": "Khi nhiễm trùng, từ lỗ rò có thể tiết ra dịch mủ có mùi hôi hoặc không hôi"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rò luân nhĩ hình thành do sự kết hợp lỗi giữa cung mang thứ nhất và cung mang thứ hai trong quá trình tạo ra tai ngoài của bào thai trong tuần thứ 6 của thai kỳ.",
+    "related_factors": "Yếu tố di truyền, một số hội chứng di truyền như hội chứng Khe mang-tai-thận (BOR), hội chứng Beckwith-Wiedemann, rối loạn trương lực cơ hàm mặt (hội chứng Treacher Collins), và sử dụng thuốc propylthiouracil trong thời kỳ đầu mang thai.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình bị điếc",
+    "Có một đặc điểm dị tật hoặc loạn hình khác",
+    "Dị dạng màng nhĩ và/hoặc thận",
+    "Tiền sử mẹ bị tiểu đường thai kỳ",
+    "Mắc hội chứng Branchio-Oto-Renal (Khe-Mang tai-Thận)",
+    "Dùng thuốc propylthiouracil điều trị bệnh tuyến giáp trong tam cá nguyệt đầu tiên",
+    "Có yếu tố di truyền, nữ mắc nhiều hơn nam"
+  ],
+  "complications": [
+    "Nhiễm trùng tái phát",
+    "Viêm mô tế bào, tụ mủ",
+    "Sốt và nhức đầu",
+    "Nguy cơ đồng mắc với các dị tật về thận, tai trong và tim mạch",
+    "Thận ứ nước, thận hình móng ngựa, bất sản hoặc thiểu sản thận",
+    "Các vấn đề về thính giác"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: quan sát lỗ nhỏ trước vành tai, có thể sưng đau khi viêm nhiễm",
+      "Hỏi bệnh sử: tìm hiểu về tiền sử gia đình, tiền sử thai kỳ của mẹ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "CT (Chụp cắt lớp vi tính)",
+        "description": "Giúp phát hiện các bất thường trong cấu trúc của tai ngoài"
+      },
+      {
+        "name": "MRI (Chụp cộng hưởng từ)",
+        "description": "Giúp phát hiện khối u và đánh giá mức độ xâm lấn của dị tật"
+      },
+      {
+        "name": "Siêu âm thận",
+        "description": "Giúp loại trừ khả năng bệnh nhân mắc hội chứng Branchio-Oto-Renal và đánh giá các dị tật thận đi kèm"
+      },
+      {
+        "name": "Nuôi cấy dịch mủ",
+        "description": "Xác định chính xác loại vi khuẩn gây nhiễm trùng để có phác đồ kháng sinh phù hợp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nếu rò luân nhĩ không có triệu chứng thì không cần điều trị, chỉ điều trị khi lỗ rò bị nhiễm trùng. Tái phát sau điều trị có thể xảy ra nếu không cắt bỏ hoàn toàn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị kháng sinh",
+        "description": "Sử dụng kháng sinh phù hợp để điều trị nhiễm trùng cấp tính, kết hợp với chườm ấm để giảm các triệu chứng đau nhức"
+      },
+      {
+        "name": "Chọc và hút dịch ổ áp-xe",
+        "description": "Bác sĩ dùng kim nhọn để chọc vào khối tụ dịch và hút dịch, giúp giảm áp lực và giảm đau"
+      },
+      {
+        "name": "Rạch thoát mủ",
+        "description": "Được chỉ định cho các trường hợp không đáp ứng với phương pháp chọc, hút mủ bằng kim hút"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ xoang trước não thất",
+        "description": "Rạch một đường hình elip xung quanh hố xoang, bóc tách và loại bỏ hoàn toàn xoang cùng với biểu mô liên quan để ngăn tái phát"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ điều trị kháng sinh đúng liều lượng theo chỉ định của bác sĩ",
+      "Không tự ý mua kháng sinh uống khi chưa có chỉ định",
+      "Vệ sinh lỗ rò đúng cách với nước muối sinh lý",
+      "Không sờ tay hoặc nặn mủ tại lỗ rò",
+      "Không đắp các loại lá, thuốc không được bác sĩ chỉ định",
+      "Chườm ấm để giảm đau khi cần thiết"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +112,57 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không sờ, nặn lỗ rò",
+      "Không bôi, đắp bất kỳ thứ gì lên lỗ rò",
+      "Vệ sinh lỗ rò hàng ngày khi rửa mặt",
+      "Tránh để mắc các bệnh về tai mũi họng gây ảnh hưởng đến lỗ rò",
+      "Khám định kỳ với bác sĩ chuyên khoa tai mũi họng",
+      "Kiểm tra siêu âm thận định kỳ nếu có thêm ba dị tật nhẹ trở lên khác"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh rò luân nhĩ có nguy hiểm không?",
+      "answer": "Rò luân nhĩ có vẻ như là một bệnh lý bẩm sinh lành tính, chỉ đáng lo ngại khi có dấu hiệu nhiễm trùng. Tuy nhiên, nó tiềm ẩn nguy cơ đồng mắc các bệnh lý về thính giác, tim mạch, đặc biệt là thận. Các dị tật về thận liên quan đến các vấn đề về tai thường gặp như thận ứ nước, thận hình móng ngựa, bất sản hoặc thiểu sản thận."
+    },
+    {
+      "question": "Mổ rò luân nhĩ bao lâu thì khỏi?",
+      "answer": "Bệnh nhân cắt bỏ xoang trước não thất được điều trị bằng kháng sinh tích cực trong 5 ngày và đến ngày thứ 7 thì có thể cắt chỉ. Tuy nhiên, để hồi phục vết thương hoàn toàn thì cần khoảng 30 ngày sau phẫu thuật."
+    },
+    {
+      "question": "Mổ rò luân nhĩ phải nằm viện bao lâu?",
+      "answer": "Tuỳ vào khả năng phục hồi của mỗi người mà thời gian nằm viện sau mổ rò luân nhĩ có thể dài hơn hoặc ngắn hơn. Nhưng thông thường, bệnh nhân mổ tai bị rò luân nhĩ sẽ điều trị trong bệnh viện khoảng 7 ngày. Sau khi cắt chỉ vết thương thì bệnh nhân sẽ được xuất viện."
+    },
+    {
+      "question": "Mổ rò luân nhĩ có để lại sẹo không?",
+      "answer": "Vết mổ rò luân nhĩ không lớn nên không ảnh hưởng về mặt thẩm mỹ. Vết sẹo nhỏ có thể được xử lý bằng các công nghệ trị sẹo hiện đại và chúng sẽ biến mất sau quá trình trị sẹo."
+    },
+    {
+      "question": "Cách vệ sinh lỗ rò luân nhĩ như thế nào?",
+      "answer": "Nếu rò luân nhĩ không có nhiễm trùng, chỉ cần vệ sinh bằng cách dùng khăn hoặc xà phòng thông thường khi rửa mặt, tai. Đối với lỗ rò có nhiễm trùng, nên dùng bông y tế thấm nước muối sinh lý để rửa sau đó thấm khô vết thương, không sờ tay, không nặn mủ và không đắp các loại lá, thuốc không được bác sĩ chỉ định."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sưng đau, có dịch mủ ở khu vực tai ngoài và thấy một lỗ nhỏ ngay giữa phần sưng đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ro-luan-nhi", "viem-tai-ngoai"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa, sưng tấy ở tai ngoài và có dịch tiết ra từ một lỗ nhỏ gần vành tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ro-luan-nhi", "viem-tai-ngoai"]
+    },
+    {
+      "question": "Tôi hay bị chảy mủ tai tái phát và có một lỗ nhỏ ở trước vành tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ro-luan-nhi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau, có dịch tiết ra từ một lỗ nhỏ gần vành tai và có tiền sử gia đình bị điếc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ro-luan-nhi", "hoi-chung-branchio-oto-renal"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sưng tấy, đau nhức ở tai và có dịch có mùi hôi chảy ra từ một lỗ nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ro-luan-nhi", "ap-xe-tai"]
     }
   ]
 }

@@ -1,39 +1,150 @@
 {
   "disease_id": "sinh-non",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sinh non (Đẻ non)",
+  "disease_alternative_names": ["Đẻ non", "Premature birth", "Preterm birth"],
+  "disease_definition": "Sinh non hay đẻ non là khi trẻ được sinh ra ở tuổi thai từ 22 tuần đến trước 37 tuần. Thông thường, một thai kỳ bình thường sẽ diễn ra trong 9 tháng 7 ngày (tương đương 40 tuần).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau lưng âm ỉ",
+      "description": "Cảm giác đau lưng dai dẳng, âm ỉ không thuyên giảm khi nghỉ ngơi"
+    },
+    {
+      "name": "Cảm giác em bé đẩy về phía dưới",
+      "description": "Áp lực vùng chậu, cảm giác thai nhi đang có xu hướng dần tụt xuống"
+    },
+    {
+      "name": "Sưng ở tay, chân hoặc mặt",
+      "description": "Phù nề bất thường ở các chi và khuôn mặt, có thể kèm theo cảm giác căng tức"
+    },
+    {
+      "name": "Buồn nôn, nôn mửa hoặc tiêu chảy",
+      "description": "Xuất hiện các triệu chứng tiêu hóa bất thường không liên quan đến thói quen ăn uống"
+    },
+    {
+      "name": "Mờ mắt hoặc các rối loạn thị giác khác",
+      "description": "Thay đổi thị lực đột ngột, nhìn mờ hoặc xuất hiện đốm đen trong tầm nhìn"
+    },
+    {
+      "name": "Đau quặn bụng giống như đau bụng kinh",
+      "description": "Cảm giác đau bụng âm ỉ hoặc co thắt giống như khi có kinh nguyệt"
+    },
+    {
+      "name": "Thai giảm cử động hoặc ngừng cử động",
+      "description": "Em bé cử động ít hoặc không cử động so với thói quen thông thường"
+    },
+    {
+      "name": "Âm đạo tiết dịch hoặc máu bất thường",
+      "description": "Có dấu hiệu ra máu hoặc dịch tiết âm đạo tăng đáng kể không phải do nguyên nhân sinh lý"
+    },
+    {
+      "name": "Cơn gò tử cung",
+      "description": "Xuất hiện 4 cơn gò tử cung trong 20 phút hay 8 cơn gò tử cung trong 60 phút"
+    },
+    {
+      "name": "Cổ tử cung mở hoặc xoá mỏng",
+      "description": "Cổ tử cung mở ≥ 2cm hoặc xoá mỏng ≥ 80%, có sự tiến triển của cổ tử cung qua nhiều lần khám"
+    },
+    {
+      "name": "Vỡ ối sớm",
+      "description": "Tình trạng vỡ màng ối trước khi thai đủ tháng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Khoảng 50% trường hợp đẻ non không xác định rõ lý do. Các nguyên nhân thường gặp có thể đến từ yếu tố xã hội, yếu tố từ phía mẹ, hoặc từ phía thai và phần phụ của thai.",
+    "related_factors": "Thai phụ không được chăm sóc đầy đủ trước sinh, độ tuổi dưới 20 hoặc trên 35, chấn thương vùng bụng, phẫu thuật vùng bụng khi mang thai, lao động nặng, môi trường độc hại hoặc căng thẳng, tử cung dị dạng bẩm sinh, hở eo cổ tử cung, đa thai, rau tiền đạo, nhiễm trùng ối, vỡ ối sớm.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thai phụ dưới 20 tuổi hoặc trên 35 tuổi",
+    "Tiền sử từng sinh non trước đó",
+    "Đời sống kinh tế thấp, suy dinh dưỡng, không tăng cân",
+    "Lao động nặng nhọc trong thai kỳ",
+    "Môi trường nhiều chất độc hại hoặc nhiều căng thẳng",
+    "Nhiễm trùng đường tiết niệu khi mang thai",
+    "Tiền sử mắc bệnh tim, thận, gan",
+    "Sản giật, tiền sản giật",
+    "Tử cung dị dạng bẩm sinh",
+    "Hở eo cổ tử cung",
+    "Từng làm thủ thuật can thiệp ở cổ tử cung như khoét chóp cổ tử cung",
+    "Viêm nhiễm âm đạo, viêm cổ tử cung",
+    "Đa thai",
+    "Rau tiền đạo",
+    "Nhiễm trùng ối, vỡ ối sớm",
+    "Đa ối hoặc rau bong non"
+  ],
+  "complications": [
+    "Vấn đề về hô hấp ở trẻ",
+    "Rối loạn thân nhiệt",
+    "Vấn đề tim mạch bẩm sinh",
+    "Các vấn đề trong đường tiêu hóa",
+    "Vàng da sơ sinh",
+    "Thiếu máu",
+    "Nhiễm trùng sơ sinh",
+    "Chậm phát triển ngôn ngữ sau này",
+    "Các vấn đề về tăng trưởng và vận động",
+    "Vấn đề về nha khoa",
+    "Vấn đề về thị lực hoặc thính giác",
+    "Khó khăn trong suy nghĩ và học tập",
+    "Vấn đề về tâm lý"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Theo dõi các cơn gò tử cung",
+      "Kiểm tra cổ tử cung",
+      "Đánh giá dịch tiết âm đạo"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám âm đạo",
+        "description": "Kiểm tra cổ tử cung xem có mở ≥ 2cm hoặc xoá mỏng ≥ 80% không"
+      },
+      {
+        "name": "Siêu âm cổ tử cung",
+        "description": "Đánh giá độ dài cổ tử cung và tình trạng xoá mỏng cổ tử cung"
+      },
+      {
+        "name": "Xét nghiệm xác định vỡ ối",
+        "description": "Kiểm tra dịch âm đạo để xác định có phải nước ối hay không"
+      },
+      {
+        "name": "Theo dõi cơn gò",
+        "description": "Sử dụng máy monitor theo dõi tim thai và cơn gò tử cung"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Khi có dấu hiệu sinh non, mẹ nên chọn bệnh viện có chuyên khoa chăm sóc đặc biệt cho trẻ sinh non (NICU). Tùy vào tình trạng, bác sĩ sẽ có phương pháp điều trị thích hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc giảm co tử cung",
+        "description": "Dùng thuốc để ngừng các cơn co tử cung trong một thời gian, giúp kéo dài thai kỳ hoặc tạo thời gian cho việc chuyển bệnh viện"
+      },
+      {
+        "name": "Tiêm Corticosteroid",
+        "description": "Tiêm từ 12 đến 24 giờ trước khi sinh để giúp phổi của thai nhi hoạt động hiệu quả hơn, kích thích sản xuất surfactant"
+      },
+      {
+        "name": "Sinh thường",
+        "description": "Trong nhiều trường hợp, trẻ sinh non có thể ra đời qua đường âm đạo"
+      },
+      {
+        "name": "Sinh mổ",
+        "description": "Tùy theo tình trạng, bác sĩ có thể quyết định sinh mổ là an toàn nhất cho mẹ và bé"
+      },
+      {
+        "name": "Hồi sức sơ sinh",
+        "description": "Ngay khi rời khỏi bụng mẹ, trẻ sinh non cần được ủ ấm và chăm sóc đặc biệt với thiết bị y tế hiện đại"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Chọn bệnh viện có chuyên khoa chăm sóc đặc biệt cho trẻ sinh non (NICU)",
+      "Thăm khám định kỳ với bác sĩ để kiểm tra sự phát triển của bé",
+      "Cho bé bú sữa mẹ là tốt nhất, có thể bổ sung thêm sắt nếu cần thiết",
+      "Chế độ ăn dặm nên bắt đầu từ 4-6 tháng sau ngày dự sinh ban đầu",
+      "Đặt trẻ nằm ngửa khi ngủ, không nằm sấp",
+      "Kiểm tra thị giác và thính giác thường xuyên",
+      "Tiêm chủng đầy đủ cho trẻ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +152,61 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chuẩn bị kiến thức về sinh sản trước khi có thai",
+      "Tránh có thai nhiều lần",
+      "Chú ý nghề nghiệp, hạn chế di chuyển nhiều khi có thai",
+      "Có chế độ dinh dưỡng tốt",
+      "Không hút thuốc lá",
+      "Bổ sung vitamin và dưỡng chất cần thiết",
+      "Tránh stress",
+      "Khám thai định kỳ theo chỉ định của bác sĩ",
+      "Sử dụng Corticoid trước sinh nếu dọa sinh non trước 34 tuần",
+      "Sử dụng kháng sinh dự phòng nếu vỡ ối"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sinh non là gì?",
+      "answer": "Sinh non hay đẻ non là khi trẻ được sinh ra ở tuổi thai từ 22 tuần đến trước 37 tuần. Thông thường, một thai kỳ bình thường sẽ diễn ra trong 9 tháng 7 ngày (tương đương 40 tuần). Theo số liệu từ Tổ chức Y tế thế giới WHO, ước tính trên toàn cầu có khoảng 15 triệu trẻ sinh non ra đời, chiếm tỷ lệ 1/10 trẻ sơ sinh."
+    },
+    {
+      "question": "Phân loại mức độ sinh non như thế nào?",
+      "answer": "Mức độ sinh non thường được mô tả theo tuổi thai và chia ra 4 mức độ: 1) Cực non: Trẻ sinh trước 28 tuần tuổi thai; 2) Rất non: Trẻ sinh từ 28 – 31 tuần 6 ngày; 3) Non trung bình: Trẻ sinh từ 32 – 33 tuần 6 ngày; 4) Non muộn: Trẻ sinh từ 34 – 36 tuần 6 ngày."
+    },
+    {
+      "question": "Những dấu hiệu nào cho thấy nguy cơ sinh non?",
+      "answer": "Các dấu hiệu cảnh báo sinh non bao gồm: đau lưng âm ỉ; cảm giác thai nhi đẩy về phía dưới; sưng ở tay, chân hoặc mặt; buồn nôn, nôn mửa hoặc tiêu chảy; mờ mắt hoặc rối loạn thị giác; đau quặn bụng giống đau bụng kinh; thai giảm cử động; âm đạo tiết dịch hoặc máu bất thường; có cơn gò tử cung; cổ tử cung mở hoặc vỡ ối sớm."
+    },
+    {
+      "question": "Sinh non có nguy hiểm không?",
+      "answer": "Sinh non có thể gây ra nhiều vấn đề sức khỏe cho trẻ cả ngắn hạn và dài hạn. Các vấn đề thường gặp bao gồm: vấn đề hô hấp, rối loạn thân nhiệt, tim mạch bẩm sinh, vấn đề tiêu hóa, vàng da, thiếu máu, nhiễm trùng sơ sinh. Về lâu dài, trẻ có thể gặp các vấn đề về phát triển ngôn ngữ, tăng trưởng và vận động, thị lực hoặc thính giác, khó khăn trong học tập và vấn đề tâm lý."
+    },
+    {
+      "question": "Làm thế nào để phòng tránh sinh non?",
+      "answer": "Để phòng tránh sinh non, cần chuẩn bị kiến thức sinh sản trước khi có thai, tránh có thai nhiều lần, có chế độ dinh dưỡng tốt. Khi mang thai, không hút thuốc lá, bổ sung vitamin, tránh stress, khám định kỳ theo chỉ định. Đối với phụ nữ có nguy cơ cao, bác sĩ có thể chỉ định Corticoid trước sinh nếu dọa sinh non trước 34 tuần và sử dụng kháng sinh dự phòng nếu vỡ ối."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang mang thai ở tuần thứ 28 và có các triệu chứng như đau lưng âm ỉ, em bé có dấu hiệu đẩy về phía dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sinh-non", "doa-sinh-non", "chuyen-da-som"]
+    },
+    {
+      "question": "Tôi đang cảm thấy sưng ở tay, chân hoặc mặt, kèm theo buồn nôn và tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sinh-non", "tien-san-giat", "benh-than"]
+    },
+    {
+      "question": "Tôi hay bị đau quặn bụng giống như đau bụng kinh và em bé cử động ít hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sinh-non", "doa-say-thai", "rau-bong-non"]
+    },
+    {
+      "question": "Tôi thấy âm đạo tiết dịch hoặc máu bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sinh-non", "vo-oi-som", "rau-tien-dao"]
+    },
+    {
+      "question": "Tôi bị gò tử cung thường xuyên và cổ tử cung có dấu hiệu mở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sinh-non", "doa-sinh-non"]
     }
   ]
 }

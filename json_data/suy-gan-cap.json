@@ -1,58 +1,198 @@
 {
   "disease_id": "suy-gan-cap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy gan cấp",
+  "disease_alternative_names": [
+    "Acute liver failure (ALF)",
+    "Suy gan cấp tính"
+  ],
+  "disease_definition": "Suy gan cấp (Acute liver failure – ALF) là tình trạng rối loạn chức năng gan nghiêm trọng, xảy ra ở những người không có tiền sử mắc bệnh tại cơ quan này trước đó. Suy gan cấp không thường gặp, nhưng có tỷ lệ tử vong cao nếu không được phát hiện và điều trị kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Phù não",
+      "description": "Phù não có thể dẫn đến các dấu hiệu tăng áp lực nội sọ như tăng huyết áp, nhịp tim chậm, phù gai thị"
+    },
+    {
+      "name": "Vàng da",
+      "description": "Dấu hiệu này phổ biến nhưng không phải luôn luôn xuất hiện ở tất cả người bệnh"
+    },
+    {
+      "name": "Cổ trướng",
+      "description": "Tình trạng suy gan tối cấp xuất hiện kèm triệu chứng đau bụng có khả năng sẽ hình thành huyết khối tĩnh mạch gan và phát triển nhanh chóng"
+    },
+    {
+      "name": "Đau hạ sườn phải",
+      "description": "Cảm giác đau ở vùng hạ sườn bên phải, nơi gan nằm"
+    },
+    {
+      "name": "Mất vùng đục trước gan",
+      "description": "Gan teo nhỏ nếu do hoại tử tế bào gan nhiều"
+    },
+    {
+      "name": "Nôn ra máu hoặc đi ngoài phân đen",
+      "description": "Nguyên nhân do chảy máu đường tiêu hóa trên"
+    },
+    {
+      "name": "Rối loạn ý thức",
+      "description": "Có thể tiến triển từ lú lẫn, tiền mê đến hôn mê"
+    },
+    {
+      "name": "Mệt mỏi và chán ăn",
+      "description": "Triệu chứng thường gặp do gan không thể thực hiện chức năng bình thường"
+    },
+    {
+      "name": "Hơi thở có mùi amoniac",
+      "description": "Do gan không thể chuyển hóa amoniac thành các chất ít độc hơn, gây tích tụ amoniac trong máu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy gan cấp xuất phát từ nhiều nguyên nhân khác nhau, trong đó chủ yếu là do thuốc và virus.",
+    "related_factors": "Nguyên nhân hàng đầu hay gặp là do ngộ độc thuốc như Acetaminophen (paracetamol), một loại thuốc hạ sốt giảm đau hay dùng. Nguyên nhân tiếp theo là do viêm gan virus A, B ngoài ra viêm gan virus C và E cũng có thể gây suy gan cấp.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sử dụng quá liều Paracetamol (Acetaminophen)",
+    "Nhiễm virus viêm gan B, A, C, E",
+    "Sử dụng một số loại thuốc có độc tính với gan (thuốc chống lao, NSAID, thuốc kháng sinh...)",
+    "Tiếp xúc với nấm độc hoặc hóa chất công nghiệp",
+    "Mắc các bệnh tự miễn tấn công gan",
+    "Bệnh chuyển hóa như bệnh Wilson",
+    "Gan nhiễm mỡ cấp tính của thai kỳ",
+    "Nhiễm trùng huyết hoặc sốc",
+    "Hoạt động thể chất trong môi trường nóng (đột quỵ nhiệt)"
+  ],
+  "complications": [
+    "Suy thận (hội chứng gan thận)",
+    "Nhiễm trùng huyết (bao gồm viêm phổi hít và sốt)",
+    "Phù não dẫn đến tăng áp lực nội sọ và tổn thương não",
+    "Bệnh não do gan (từ mất ngủ, bồn chồn đến tiền hôn mê và hôn mê gan)",
+    "Rối loạn đông máu gây chảy máu",
+    "Suy đa tạng có thể dẫn đến tử vong",
+    "Thoát vị não do tăng áp lực nội sọ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng đánh giá các triệu chứng",
+      "Tìm hiểu tiền sử dùng thuốc và tiếp xúc với độc chất"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra hoạt động của gan, đo thời gian máu đông (xét nghiệm thời gian prothrombin)"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính ổ bụng (CT)",
+        "description": "Để quan sát gan và mạch máu, phát hiện các tổn thương gan"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Giúp xác định các tổn thương gan và nguyên nhân gây ra vấn đề"
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Trong trường hợp không rõ nguyên nhân, có thể tiến hành sinh thiết gan qua tĩnh mạch cảnh để tránh chảy máu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Những người bị suy gan cấp tính thường được điều trị tại phòng chăm sóc đặc biệt của bệnh viện, thậm chí thực hiện ghép gan nếu cần thiết.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc đẩy lùi ngộ độc",
+        "description": "Suy gan cấp tính do dùng quá liều Acetaminophen thường được điều trị bằng thuốc Acetylcysteine để đẩy lùi ngộ độc và làm giảm tổn thương cho gan"
+      },
+      {
+        "name": "Giảm áp lực não do chất lỏng dư thừa",
+        "description": "Sử dụng thuốc để làm giảm sự tích tụ chất lỏng và giảm phù não"
+      },
+      {
+        "name": "Ghép gan",
+        "description": "Khi tình trạng suy gan cấp không thể hồi phục, phương pháp điều trị duy nhất có thể thực hiện là ghép gan"
+      },
+      {
+        "name": "Tầm soát và điều trị nhiễm trùng",
+        "description": "Lấy mẫu máu và nước tiểu để xét nghiệm các bệnh nhiễm trùng và sử dụng kháng sinh phù hợp"
+      },
+      {
+        "name": "Ngăn ngừa chảy máu",
+        "description": "Sử dụng thuốc làm giảm nguy cơ chảy máu và truyền máu nếu cần thiết"
+      },
+      {
+        "name": "Bổ sung dinh dưỡng",
+        "description": "Điều trị tình trạng thiếu hụt dinh dưỡng khi người bệnh không thể ăn"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi chặt chẽ tại đơn vị chăm sóc đặc biệt",
+      "Theo dõi dấu hiệu phù não và áp lực nội sọ",
+      "Tuân thủ điều trị nguyên nhân cụ thể của bệnh",
+      "Điều trị và phòng ngừa các biến chứng kèm theo",
+      "Đánh giá tình trạng gan thường xuyên để quyết định cần ghép gan hay không"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng viêm gan virus B để ngăn ngừa một trong những nguyên nhân gây suy gan cấp.",
+      "recommended_for": [
+        "Tất cả trẻ sơ sinh",
+        "Người chưa được tiêm phòng viêm gan B"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tiêm phòng viêm gan virus B",
+      "Hạn chế uống rượu bia, nếu có chỉ nên uống ở mức vừa phải",
+      "Duy trì số cân nặng hợp lý và một lối sống lành mạnh",
+      "Đọc kỹ hướng dẫn khi sử dụng thuốc acetaminophen, đặc biệt lưu ý dùng thuốc này ở người có bệnh gan mạn tính hoặc ở người nghiện bia rượu",
+      "Người bị viêm gan virus B, C cần được theo dõi quản lý và điều trị",
+      "Xây dựng chế độ ăn giàu dinh dưỡng bằng các loại thực phẩm tốt cho gan như: cà phê, tỏi, quả mọng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy gan cấp là gì?",
+      "answer": "Suy gan cấp (Acute liver failure – ALF) là tình trạng rối loạn chức năng gan nghiêm trọng, xảy ra ở những người không có tiền sử mắc bệnh tại cơ quan này trước đó. Suy gan cấp không thường gặp, nguyên nhân hàng đầu hay gặp là do ngộ độc thuốc như Acetaminophen (paracetamol), một loại thuốc hạ sốt giảm đau hay dùng. Tuy nhiên, suy gan cấp tính lại có tỷ lệ tử vong cao nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Nguyên nhân gây suy gan cấp là gì?",
+      "answer": "Nguyên nhân chính gây suy gan cấp bao gồm: virus viêm gan (chủ yếu là viêm gan B, có thể là viêm gan A, C, E); thuốc và chất độc (Acetaminophen, thuốc chống lao, một số thuốc kháng sinh, NSAID, nấm độc Amanita phalloides, hóa chất công nghiệp); bệnh tự miễn; bệnh chuyển hóa như bệnh Wilson; gan nhiễm mỡ cấp tính của thai kỳ; ung thư; sốc và đột quỵ nhiệt do hoạt động thể chất trong môi trường nóng."
+    },
+    {
+      "question": "Triệu chứng của suy gan cấp là gì?",
+      "answer": "Triệu chứng của suy gan cấp bao gồm: phù não (dẫn đến tăng huyết áp, nhịp tim chậm, phù gai thị); vàng da; cổ trướng; đau hạ sườn phải; mất vùng đục trước gan; nôn ra máu hoặc đi ngoài phân đen; rối loạn ý thức (lú lẫn, tiền mê, hôn mê); mệt mỏi và chán ăn; hơi thở có mùi amoniac. Bệnh có thể phát triển nhanh chóng ngay cả ở người khỏe mạnh."
+    },
+    {
+      "question": "Suy gan cấp có nguy hiểm không?",
+      "answer": "Suy gan cấp rất nguy hiểm và có tỷ lệ tử vong cao nếu không được phát hiện và điều trị kịp thời. Bệnh có thể dẫn đến nhiều biến chứng nghiêm trọng như: suy thận (hội chứng gan thận); nhiễm trùng huyết; phù não dẫn đến tăng áp lực nội sọ và tổn thương não; bệnh não do gan; rối loạn đông máu gây chảy máu; và suy đa tạng có thể dẫn đến tử vong."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa suy gan cấp?",
+      "answer": "Để phòng ngừa suy gan cấp, bạn nên: tiêm phòng viêm gan virus B; hạn chế uống rượu bia, nếu có chỉ nên uống ở mức vừa phải; duy trì số cân nặng hợp lý và một lối sống lành mạnh; đọc kỹ hướng dẫn khi sử dụng thuốc acetaminophen, đặc biệt lưu ý dùng thuốc này ở người có bệnh gan mạn tính hoặc ở người nghiện bia rượu; người bị viêm gan virus B, C cần được theo dõi quản lý và điều trị; và xây dựng chế độ ăn giàu dinh dưỡng bằng các loại thực phẩm tốt cho gan."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như vàng da, đau bụng và phù chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan-cap", "xo-gan", "viem-gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, buồn nôn và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan-cap", "viem-gan", "ngo-doc-thuoc"]
+    },
+    {
+      "question": "Tôi hay bị đau hạ sườn phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan-cap", "soi-mat", "viem-gan"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nôn ra máu và đi ngoài phân đen. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan-cap", "xuat-huyet-tieu-hoa", "loet-da-day"]
+    },
+    {
+      "question": "Tôi đang cảm thấy lú lẫn và hôn mê. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-gan-cap",
+        "benh-nao-do-gan",
+        "nhiem-trung-huyet"
+      ]
     }
   ]
 }

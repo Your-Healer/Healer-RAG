@@ -1,39 +1,115 @@
 {
   "disease_id": "phat-ban-o-nguc",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Phát ban ở ngực",
+  "disease_alternative_names": [
+    "Ban đỏ ở ngực",
+    "Viêm da vú",
+    "Phát ban vú",
+    "Chest rash",
+    "Breast rash"
+  ],
+  "disease_definition": "Phát ban ở ngực (vú) là tình trạng mẩn đỏ và kích ứng vùng da trên vú hoặc ngực. Thông thường, phát ban vú gây ngứa, tróc vảy, đau hoặc phồng rộp, nhưng đôi khi chỉ là những đốm nhỏ trên da, không đau và không ngứa. Phát ban vú có thể ảnh hưởng đến vùng trên ngực, dưới ngực, giữa hai vú hoặc vùng da xung quanh núm vú.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mẩn đỏ trên da vùng ngực",
+      "description": "Da vùng ngực xuất hiện những đốm hoặc vùng đỏ, có thể kèm theo cảm giác ấm hoặc sưng, đôi khi bầm tím."
+    },
+    {
+      "name": "Ngứa ngáy và đau",
+      "description": "Vùng da bị phát ban có thể ngứa ran, khó chịu và đau khi chạm vào."
+    },
+    {
+      "name": "Tạo mủ hoặc tiết dịch",
+      "description": "Các nốt phát ban có thể tiết ra dịch mủ hoặc dịch trong, nhất là khi bị nhiễm trùng."
+    },
+    {
+      "name": "Da tróc vảy hoặc sần sùi",
+      "description": "Vùng da bị phát ban có thể trở nên khô, bong tróc hoặc sần sùi."
+    },
+    {
+      "name": "Phồng rộp da",
+      "description": "Trong một số trường hợp, phát ban có thể kèm theo tình trạng phồng rộp da."
+    },
+    {
+      "name": "Các triệu chứng toàn thân",
+      "description": "Trong một số trường hợp, phát ban có thể đi kèm với các triệu chứng như sốt, ớn lạnh, ho, sổ mũi, đau họng, nhức đầu, đau khớp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Phát ban ở ngực có thể do nhiều nguyên nhân khác nhau, bao gồm các bệnh lý liên quan đến vú, các bệnh da liễu, hoặc phản ứng dị ứng với các tác nhân từ môi trường.",
+    "related_factors": "Các yếu tố liên quan bao gồm nhiễm trùng, viêm, dị ứng, bệnh tự miễn, và trong một số trường hợp hiếm gặp, có thể là dấu hiệu của ung thư vú.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Cho con bú (đối với một số tình trạng như áp xe vú, viêm vú)",
+    "Hút thuốc lá",
+    "Bệnh tiểu đường",
+    "Hệ miễn dịch suy yếu",
+    "Dị ứng với mỹ phẩm, xà phòng, nước hoa",
+    "Mặc áo ngực quá chật",
+    "Tiếp xúc với các chất kích ứng da",
+    "Vệ sinh không đúng cách"
+  ],
+  "complications": [
+    "Nhiễm trùng lan rộng nếu không được điều trị kịp thời",
+    "Bỏ sót dấu hiệu ung thư vú dạng viêm nếu chẩn đoán không chính xác",
+    "Đau kéo dài ảnh hưởng đến chất lượng cuộc sống",
+    "Khả năng cho con bú bị ảnh hưởng (trong trường hợp viêm vú hoặc áp xe vú)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám thực thể để đánh giá hình thái vùng da bị phát ban",
+      "Thu thập tiền sử bệnh, thời gian xuất hiện phát ban, cơ địa dị ứng",
+      "Kiểm tra các triệu chứng đi kèm"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Giúp tìm dị nguyên gây dị ứng cũng như xác định yếu tố nhiễm khuẩn, từ đó loại trừ nguyên nhân gây phát ban da vú"
+      },
+      {
+        "name": "Sinh thiết da",
+        "description": "Lấy một mẫu mô da nhỏ ở vùng phát ban để tiến hành sinh thiết dưới kính hiển vi, giúp xác định chính xác nguyên nhân"
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Được chỉ định khi phát ban ở ngực phát hiện có cục u, giúp đánh giá tình trạng khối u vú và xác định u vú là lành tính hay ác tính"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị phát ban ngực phụ thuộc vào nguyên nhân gây bệnh. Do đó, phác đồ chữa trị phát ban ở vú của mỗi người có thể khác nhau.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị phát ban da thông thường",
+        "description": "Đối với phát ban do viêm da kích ứng, bác sĩ sẽ kê thuốc bôi steroid, kết hợp tránh tiếp xúc với các chất gây kích ứng. Đối với phát ban do nhiễm virus, người bệnh sẽ được chỉ định dùng thuốc kháng virus, thuốc giảm đau và hướng dẫn nghỉ ngơi khoa học."
+      },
+      {
+        "name": "Điều trị viêm vú",
+        "description": "Chủ yếu dựa vào thuốc kháng sinh để chống nhiễm trùng. Nếu sau một thời gian chữa viêm vú, triệu chứng phát ban ở ngực không biến mất hoàn toàn, cần tái khám để chẩn đoán nguy cơ ung thư vú dạng viêm."
+      },
+      {
+        "name": "Điều trị áp xe vú",
+        "description": "Dẫn lưu mủ từ vùng bị nhiễm bệnh ra ngoài. Nếu vùng nhiễm trùng nhỏ, bác sĩ có thể sử dụng ống tiêm và kim tiêm. Nếu phạm vi nhiễm trùng lớn, bác sĩ có thể cần phải rạch một vết nhỏ để dẫn lưu mủ."
+      },
+      {
+        "name": "Điều trị giãn ống tuyến vú",
+        "description": "Thường tự cải thiện mà không cần điều trị cụ thể. Một số trường hợp cần chườm ấm và uống kháng sinh. Nếu cần thiết, bác sĩ có thể tiến hành tiểu phẫu loại bỏ ống tuyến vú bất thường."
+      },
+      {
+        "name": "Điều trị ung thư vú dạng viêm và bệnh Paget vú",
+        "description": "Phác đồ điều trị bao gồm phẫu thuật cắt bỏ khối u và xạ trị, hoặc phẫu thuật cắt bỏ vú nếu bệnh ở giai đoạn nặng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tắm nước ấm hoặc đắp khăn ấm lên vùng da bị phát ban",
+      "Thoa kem dưỡng ẩm không mùi",
+      "Không gãi, không chà xát vùng da bị phát ban",
+      "Giữ vệ sinh cơ thể sạch sẽ",
+      "Tránh mặc đồ lót quá chật, quần áo bó sát cơ thể",
+      "Ngưng sử dụng các hóa chất tác động lên da như xà phòng, sữa tắm gây kích ứng",
+      "Tránh làm trầy xước vùng da vú bị phát ban"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +117,65 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì vệ sinh cá nhân kỹ lưỡng, giữ cho vùng da ngực luôn sạch sẽ và khô ráo",
+      "Không dùng chung khăn tắm hoặc quần áo với người khác",
+      "Chủ động tránh các tác nhân gây dị ứng",
+      "Đến gặp bác sĩ nếu da ngực phát ban không rõ nguyên nhân dù đã thực hiện lối sống khoa học",
+      "Sử dụng áo ngực phù hợp với kích cỡ, không quá chật",
+      "Vệ sinh áo ngực thường xuyên",
+      "Hạn chế sử dụng các sản phẩm có hóa chất mạnh lên vùng da ngực"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Phát ban ở ngực có nguy hiểm không?",
+      "answer": "Phát ban ở ngực không nguy hiểm nếu là triệu chứng của bệnh da liễu thông thường. Tuy nhiên, trong một số trường hợp, phát ban ở ngực có thể là dấu hiệu của các bệnh lý nghiêm trọng như ung thư vú dạng viêm hoặc bệnh Paget vú. Vì vậy, nếu phát ban ở ngực không biến mất sau vài ngày, kèm theo các triệu chứng như sốt, đau dữ dội, hoặc có chất lỏng màu vàng/xanh lá cây chảy ra, bạn nên đến gặp bác sĩ để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Làm thế nào để phân biệt phát ban ở ngực thông thường và dấu hiệu của ung thư vú?",
+      "answer": "Phát ban thông thường thường đáp ứng với các biện pháp điều trị tại nhà, giảm dần sau vài ngày và không kèm theo các triệu chứng nghiêm trọng. Trong khi đó, phát ban do ung thư vú dạng viêm thường kéo dài, không biến mất dù đã điều trị, có thể kèm theo các triệu chứng như sưng hạch bạch huyết ở nách hoặc cổ, núm vú phẳng hoặc thụt vào trong, da vú sần sùi như vỏ cam. Nếu bạn lo lắng về phát ban ở ngực của mình, tốt nhất nên đi khám để được bác sĩ đánh giá."
+    },
+    {
+      "question": "Khi nào cần đến gặp bác sĩ nếu bị phát ban ở ngực?",
+      "answer": "Bạn nên đến gặp bác sĩ khi phát ban ở ngực không đáp ứng với việc tự chăm sóc tại nhà hoặc kèm theo các triệu chứng như: sốt hoặc đau dữ dội, các dấu hiệu phát ban ngày càng nặng lên, vết thương lâu lành hoặc không lành, các vệt đỏ xuất phát từ điểm phát ban, có chất lỏng màu vàng hoặc xanh lá cây chảy ra, sờ thấy cục hoặc khối u bên dưới khu vực bị phát ban đỏ, sưng hạch bạch huyết ở nách hoặc cổ, núm vú phẳng hoặc thụt vào trong, da vú sần sùi như vỏ cam."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi thấy da vùng ngực bị đỏ, ngứa và đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["phat-ban-o-nguc", "viem-da-di-ung", "viem-da-vu"]
+    },
+    {
+      "question": "Tôi bị phát ban ở ngực kèm theo ho, sổ mũi và đau họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["phat-ban-o-nguc", "thuy-dau", "zona", "virus"]
+    },
+    {
+      "question": "Da vùng ngực của tôi bị sưng, nóng và đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phat-ban-o-nguc",
+        "viem-vu",
+        "ap-xe-vu",
+        "ung-thu-vu-dang-viem"
+      ]
+    },
+    {
+      "question": "Tôi bị phát ban ngứa ở ngực và lan ra các vùng xung quanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phat-ban-o-nguc",
+        "viem-da-di-ung",
+        "me-day",
+        "nam-da"
+      ]
+    },
+    {
+      "question": "Vùng da ngực của tôi bị nổi mẩn đỏ và có mủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phat-ban-o-nguc",
+        "ap-xe-vu",
+        "viem-nang-long",
+        "nhiem-trung-da"
+      ]
     }
   ]
 }

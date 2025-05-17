@@ -1,39 +1,136 @@
 {
   "disease_id": "sa-sut-tri-tue",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sa sút trí tuệ",
+  "disease_alternative_names": [
+    "Chứng mất trí nhớ",
+    "Bệnh Alzheimer",
+    "Chứng sa sút trí tuệ tiến triển",
+    "Dementia"
+  ],
+  "disease_definition": "Sa sút trí tuệ là một hội chứng suy giảm trí nhớ, suy nghĩ, hành vi và khả năng thực hiện các hoạt động hàng ngày. Bệnh này không chỉ tác động xấu đến thể chất, tâm lý xã hội và kinh tế của người bị sa sút trí tuệ mà còn cả với những người chăm sóc họ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Hay quên và không rõ ngày tháng",
+      "description": "Thường xuyên quên các sự kiện, không thể nhớ ngày tháng hiện tại, dễ lạc lõng ngay cả ở những nơi quen thuộc"
+    },
+    {
+      "name": "Khó khăn trong giao tiếp",
+      "description": "Gặp trở ngại khi trao đổi, không thể diễn đạt ý tưởng và không hiểu người khác đang nói gì"
+    },
+    {
+      "name": "Lặp lại câu hỏi và hành động",
+      "description": "Thường xuyên hỏi đi hỏi lại cùng một câu hỏi, lặp lại hành động nhiều lần mà không nhớ đã làm rồi"
+    },
+    {
+      "name": "Lạc lối trong môi trường quen thuộc",
+      "description": "Trở nên lạc lõng ngay cả trong nhà riêng, không nhận ra đường về nhà hoặc quên mất đang ở đâu"
+    },
+    {
+      "name": "Khó giải quyết vấn đề và suy nghĩ chậm",
+      "description": "Mất khả năng giải quyết các tình huống đơn giản, suy nghĩ và tập trung chậm chạp hơn"
+    },
+    {
+      "name": "Không nhận ra người thân",
+      "description": "Không thể nhận ra người thân và bạn bè, thậm chí là những người gần gũi nhất"
+    },
+    {
+      "name": "Kích động và gây hấn",
+      "description": "Có những phản ứng kích động, hung hăng không phù hợp và thái độ gây hấn với người xung quanh"
+    },
+    {
+      "name": "Đi lang thang",
+      "description": "Thường xuyên đi lang thang không mục đích, có thể đi lạc và không tìm được đường về"
+    },
+    {
+      "name": "Phụ thuộc vào người khác",
+      "description": "Cần sự hỗ trợ của người khác trong việc chăm sóc bản thân như tắm rửa, mặc quần áo, đi vệ sinh"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Chứng sa sút trí tuệ là do tổn thương hoặc mất các tế bào thần kinh và các kết nối của tế bào thần kinh trong não.",
+    "related_factors": "Sa sút trí tuệ có thể do nhiều nguyên nhân gây ra, phân thành hai nhóm chính: sa sút trí tuệ không thể đảo ngược (bệnh Alzheimer, sa sút trí tuệ mạch máu, thể Lewy, vùng trán, hỗn hợp, bệnh Huntington, chấn thương sọ não, bệnh Creutzfeldt-Jakob, bệnh Parkinson) và sa sút trí tuệ có thể đảo ngược (nhiễm trùng, rối loạn miễn dịch, vấn đề chuyển hóa, thiếu hụt dinh dưỡng, tác dụng phụ của thuốc, máu tụ dưới màng cứng, nhiễm độc, u não, thiếu oxy, não úng thủy).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Béo phì và tăng huyết áp ở tuổi trung niên",
+    "Huyết áp thấp ở người cao tuổi",
+    "Đái tháo đường",
+    "Nhồi máu não đa ổ",
+    "Tăng mỡ máu",
+    "Thói quen uống rượu hoặc/và dùng chất kích thích",
+    "Tiền sử gia đình có người mắc hội chứng sa sút trí tuệ",
+    "Trầm cảm",
+    "Tuổi cao (trên 60 tuổi)"
+  ],
+  "complications": [
+    "Dinh dưỡng kém do mất phản xạ nhai, nuốt",
+    "Viêm phổi do khó nuốt gây nghẹn hoặc hút thức ăn vào phổi",
+    "Không thể tự chăm sóc bản thân",
+    "Mất an toàn trong sinh hoạt hàng ngày",
+    "Suy nhược cơ thể, nhiễm trùng và tử vong trong giai đoạn cuối"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá triệu chứng",
+      "Phát hiện sớm thông qua tầm soát định kỳ",
+      "Loại trừ các nguyên nhân khác có thể gây ra các triệu chứng tương tự"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đánh giá tiền sử bệnh",
+        "description": "Thu thập thông tin về tiền sử bệnh của bản thân và gia đình, các triệu chứng và thời điểm xuất hiện"
+      },
+      {
+        "name": "Kiểm tra trí nhớ và khả năng nhận thức",
+        "description": "Đánh giá khả năng nhận thức, trí nhớ, suy nghĩ và khả năng phán đoán của người bệnh"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra nồng độ vitamin, hormone tuyến giáp và các chỉ số khác để loại trừ nguyên nhân"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết về não bộ để phát hiện các tổn thương, u não hoặc chảy máu não"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Giúp phát hiện đột quỵ, chấn thương, u não và các bất thường khác ở não"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Sa sút trí tuệ là bệnh không thể chữa khỏi, cũng như không thể thay đổi quá trình tiến triển của bệnh. Tuy nhiên, phát hiện sớm có thể giúp chẩn đoán chính xác các nguyên nhân gây bệnh và quản lý các nguyên nhân đó tốt hơn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị các bệnh nền",
+        "description": "Điều trị các bệnh là nguyên nhân gây sa sút trí tuệ như đái tháo đường, tăng huyết áp, thiếu vitamin"
+      },
+      {
+        "name": "Thuốc điều trị triệu chứng",
+        "description": "Sử dụng thuốc để giảm bớt các triệu chứng như mất ngủ, lo âu, trầm cảm hoặc các hành vi kích động"
+      },
+      {
+        "name": "Liệu pháp tâm lý",
+        "description": "Hỗ trợ tâm lý cho người bệnh và gia đình, giúp đối phó với các thay đổi về tâm lý và hành vi"
+      },
+      {
+        "name": "Thay đổi môi trường sống",
+        "description": "Điều chỉnh môi trường sống để đảm bảo an toàn và dễ dàng định hướng cho người bệnh"
+      },
+      {
+        "name": "Liệu pháp kích thích nhận thức",
+        "description": "Tham gia các hoạt động kích thích trí não như đọc sách, giải câu đố, chơi trò chơi chữ để trì hoãn sự tiến triển của bệnh"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tạo môi trường sống an toàn, giảm thiểu nguy cơ té ngã",
+      "Thiết lập thói quen hàng ngày để tạo cảm giác ổn định",
+      "Hỗ trợ giao tiếp bằng cách nói chậm, rõ ràng và đơn giản",
+      "Cung cấp chế độ ăn uống cân bằng, nhiều rau xanh và trái cây",
+      "Giúp người bệnh duy trì hoạt động thể chất và xã hội",
+      "Theo dõi và quản lý các biến chứng tiềm ẩn",
+      "Tìm kiếm sự hỗ trợ từ các nhóm chăm sóc người bệnh sa sút trí tuệ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +138,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Rèn luyện trí não thông qua đọc sách, giải câu đố, chơi trò chơi chữ",
+      "Hoạt động thể chất ít nhất 150 phút mỗi tuần và hạn chế ngồi lâu",
+      "Không hút thuốc lá và hạn chế sử dụng chất kích thích",
+      "Bổ sung đủ vitamin, đặc biệt là vitamin D, B và C",
+      "Quản lý các yếu tố nguy cơ tim mạch như huyết áp cao, tiểu đường",
+      "Duy trì chế độ ăn uống lành mạnh giàu trái cây, rau xanh và omega-3",
+      "Đảm bảo giấc ngủ chất lượng 8 tiếng mỗi đêm",
+      "Duy trì các hoạt động xã hội, tương tác với người khác"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sa sút trí tuệ là gì?",
+      "answer": "Sa sút trí tuệ là một hội chứng suy giảm trí nhớ, suy nghĩ, hành vi và khả năng thực hiện các hoạt động hàng ngày. Bệnh này không chỉ tác động xấu đến thể chất, tâm lý xã hội và kinh tế của người bị sa sút trí tuệ mà còn cả với những người chăm sóc họ. Mặc dù chứng sa sút trí tuệ chủ yếu ảnh hưởng đến người lớn tuổi nhiều hơn, song bệnh này lại không phải là một quá trình lão hóa bình thường."
+    },
+    {
+      "question": "Các dấu hiệu của bệnh sa sút trí tuệ là gì?",
+      "answer": "Sa sút trí tuệ có các dấu hiệu theo ba giai đoạn. Giai đoạn đầu: hay quên, không rõ ngày tháng, trở nên lạc lõng. Giai đoạn giữa: không thể nhớ sự kiện gần hoặc tên người, lạc lõng trong nhà, khó khăn trong giao tiếp, cần hỗ trợ chăm sóc bản thân, đi lang thang và lặp lại câu hỏi. Giai đoạn muộn: rối loạn trí nhớ nghiêm trọng, không biết về thời gian và địa điểm, khó nhận ra người thân, cần nhiều chăm sóc, khó đi bộ, kích động và gây hấn."
+    },
+    {
+      "question": "Nguyên nhân gây ra sa sút trí tuệ là gì?",
+      "answer": "Sa sút trí tuệ là do tổn thương hoặc mất các tế bào thần kinh và các kết nối trong não. Có hai nhóm nguyên nhân chính: Sa sút trí tuệ không thể đảo ngược (bệnh Alzheimer, sa sút trí tuệ mạch máu, thể Lewy, vùng trán, hỗn hợp, bệnh Huntington, chấn thương sọ não, bệnh Creutzfeldt-Jakob, bệnh Parkinson) và sa sút trí tuệ có thể đảo ngược (nhiễm trùng, rối loạn miễn dịch, vấn đề chuyển hóa, thiếu hụt dinh dưỡng, tác dụng phụ của thuốc, máu tụ dưới màng cứng, nhiễm độc, u não, thiếu oxy, não úng thủy)."
+    },
+    {
+      "question": "Sa sút trí tuệ có thể chữa khỏi không?",
+      "answer": "Sa sút trí tuệ là bệnh không thể chữa khỏi, cũng như không thể thay đổi quá trình tiến triển của bệnh. Tuy nhiên, nếu phát hiện sớm có thể giúp chẩn đoán chính xác các nguyên nhân gây bệnh và quản lý các nguyên nhân đó tốt hơn bằng việc điều trị thực thể, đồng thời giúp gia đình bệnh nhân chủ động hơn trong việc chăm sóc, trông coi cũng như thông cảm, sẻ chia với người bệnh."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa bệnh sa sút trí tuệ?",
+      "answer": "Để phòng ngừa sa sút trí tuệ, nên: rèn luyện trí não qua đọc sách, giải câu đố; hoạt động thể chất ít nhất 150 phút/tuần; không hút thuốc, dùng chất kích thích; bổ sung vitamin D, B, C; quản lý các yếu tố nguy cơ tim mạch; duy trì chế độ ăn lành mạnh; đảm bảo ngủ đủ 8 tiếng mỗi đêm. Các yếu tố này giúp trì hoãn sự khởi phát và giảm tác động của bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay quên và không rõ ngày tháng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-sut-tri-tue", "alzheimer", "roi-loan-lo-au"]
+    },
+    {
+      "question": "Tôi cảm thấy lạc lõng giữa những nơi quen thuộc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-sut-tri-tue", "alzheimer"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như suy nghĩ chậm, khó giải quyết vấn đề và khó tập trung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sa-sut-tri-tue",
+        "sa-sut-tri-tue-mach-mau",
+        "roi-loan-tram-cam"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cứng đơ, run và cử động không phối hợp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-sut-tri-tue", "parkinson", "the-lewy"]
+    },
+    {
+      "question": "Tôi hay gặp ảo giác và mộng du. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-sut-tri-tue", "the-lewy", "roi-loan-tam-than"]
     }
   ]
 }

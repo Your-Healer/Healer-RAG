@@ -1,39 +1,149 @@
 {
   "disease_id": "thieu-mau-nao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thiếu máu não",
+  "disease_alternative_names": [
+    "Thiếu máu lên não",
+    "Thiếu máu não cục bộ",
+    "Cerebral Ischemia"
+  ],
+  "disease_definition": "Thiếu máu não là một cơ chế hay gặp do tổn thương não cấp tính khi lưu lượng máu đến não bị suy giảm. Đây là một trường hợp cấp cứu y tế; nếu không được điều trị, khả năng cao sẽ xảy ra nhồi máu não hoặc bệnh lý tại não bộ do thiếu oxy, có thể dẫn đến tử vong hoặc tàn tật vĩnh viễn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu",
+      "description": "Cảm giác đau nhói ở một vùng cố định trên đầu, sau đó lan khắp đầu"
+    },
+    {
+      "name": "Chóng mặt hoa mắt",
+      "description": "Cảm giác chóng mặt, hoa mắt xuất hiện đột ngột"
+    },
+    {
+      "name": "Ù tai",
+      "description": "Cảm giác ù hoặc nghe tiếng reo trong tai"
+    },
+    {
+      "name": "Suy nhược cơ thể",
+      "description": "Suy yếu cơ thể ở một bên hoặc cả hai bên"
+    },
+    {
+      "name": "Mất cảm giác",
+      "description": "Mất cảm giác hoàn toàn ở một bên hoặc cả hai bên cơ thể"
+    },
+    {
+      "name": "Mất phương hướng",
+      "description": "Thường xuyên mất phương hướng, nhầm lẫn các vấn đề đơn giản trong cuộc sống"
+    },
+    {
+      "name": "Thay đổi thị lực",
+      "description": "Giảm thị lực hoặc thay đổi thị lực tại một mắt hoặc cả hai mắt"
+    },
+    {
+      "name": "Nhìn đôi",
+      "description": "Mắt bị lệch hoặc không hướng vào cùng một vật thể, khiến nhìn thấy hai hình ảnh khác nhau"
+    },
+    {
+      "name": "Nói lắp bắp",
+      "description": "Khó khăn trong việc phát âm rõ ràng, nói ngọng hoặc lắp bắp"
+    },
+    {
+      "name": "Mất hoặc giảm ý thức",
+      "description": "Giảm hoặc mất ý thức tạm thời"
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Suy giảm khả năng phối hợp, giữ thăng bằng khi đi lại hoặc đứng"
+    },
+    {
+      "name": "Tê bì chân tay",
+      "description": "Cảm giác tê, ngứa ran ở các chi"
+    },
+    {
+      "name": "Mất ngủ",
+      "description": "Khó ngủ hoặc ngủ không sâu giấc"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Thiếu máu não xảy ra khi lưu lượng máu đến não bị giảm, khiến não không nhận đủ oxy để hoạt động bình thường.",
+    "related_factors": "Có 3 nhóm nguyên nhân thiếu máu não chủ yếu: 1) Thiếu máu lên não do huyết khối: hình thành cục máu đông ở các nhóm động mạch lớn, chủ yếu do xơ vữa động mạch; 2) Thiếu máu lên não do thuyên tắc: các cục máu đông từ vị trí khác di chuyển đến não gây tắc mạch, thường do bệnh tim mạch; 3) Thiếu máu lên não huyết động: do các bệnh lý ảnh hưởng đến quá trình luân chuyển của máu như rối loạn đông máu, hạ huyết áp.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao",
+    "Mắc các bệnh lý mãn tính: tim mạch, tiểu đường, huyết áp cao",
+    "Công việc có cường độ căng thẳng cao",
+    "Lối sống thụ động, ít vận động",
+    "Sống trong môi trường ô nhiễm",
+    "Chế độ ăn uống không lành mạnh",
+    "Lạm dụng thuốc lá, rượu bia, chất kích thích",
+    "Thói quen gối đầu quá cao khi ngủ",
+    "Căng thẳng kéo dài",
+    "Làm việc trên máy tính quá lâu"
+  ],
+  "complications": [
+    "Đột quỵ",
+    "Nhồi máu não",
+    "Chết tế bào não",
+    "Tổn thương não vĩnh viễn",
+    "Mất trí nhớ",
+    "Mất giọng",
+    "Liệt một bên hoặc toàn thân",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Đánh giá các triệu chứng",
+      "Kiểm tra tiền sử bệnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu cơ bản",
+        "description": "Kiểm tra đường huyết, công thức máu toàn phần, hóa học, các yếu tố đông máu"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Kiểm tra hoạt động điện của tim"
+      },
+      {
+        "name": "CT đầu không cản quang",
+        "description": "Loại trừ xuất huyết hoặc tổn thương khối"
+      },
+      {
+        "name": "CT-angiogram",
+        "description": "Cung cấp hình ảnh mạch máu, giúp xác định nguyên nhân đột quỵ"
+      },
+      {
+        "name": "MR-angiogram",
+        "description": "Kiểm tra mạch máu não bằng cộng hưởng từ"
+      },
+      {
+        "name": "Tưới máu MRI",
+        "description": "Xác định khả năng tồn tại của mô thiếu máu cục bộ"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị thiếu máu não cần được thực hiện sớm nhất có thể. Người bệnh cần tuân thủ theo phác đồ sử dụng thuốc từ bác sĩ và kiên trì để đạt hiệu quả tốt nhất.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng các loại thuốc có tác dụng tăng lưu lượng máu dẫn lên não theo chỉ định của bác sĩ"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp, có thể cần can thiệp phẫu thuật để cải thiện lưu lượng máu đến não"
+      },
+      {
+        "name": "Điều trị nguyên nhân gốc rễ",
+        "description": "Điều trị các bệnh lý gây ra thiếu máu não như cao huyết áp, tiểu đường, rối loạn mỡ máu"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ nghiêm ngặt phác đồ điều trị của bác sĩ",
+      "Tránh tự ý sử dụng thuốc điều trị hoặc thuốc đông y không rõ nguồn gốc",
+      "Duy trì lối sống lành mạnh",
+      "Tránh xa các tác nhân gây nên triệu chứng thiếu máu não",
+      "Thực hiện khám sức khỏe định kỳ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +151,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh xa các tác nhân tiêu cực gây căng thẳng",
+      "Không gối đầu quá cao khi ngủ",
+      "Ngủ đủ giấc, tránh xa các thực phẩm gây mất ngủ như cà phê, trà",
+      "Không sử dụng chất kích thích, rượu bia",
+      "Xây dựng và duy trì chế độ ăn uống đầy đủ chất dinh dưỡng",
+      "Tăng cường thực phẩm giàu omega 3, polyphenols, nitrat",
+      "Hạn chế thực phẩm chế biến sẵn, nhiều dầu mỡ, chất bảo quản",
+      "Thường xuyên tập thể dục rèn luyện sức bền cho cơ thể",
+      "Duy trì vận động ít nhất 30 phút/ngày với cường độ tập vừa phải",
+      "Duy trì thói quen khám sức khỏe định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thiếu máu não có nguy hiểm không?",
+      "answer": "Theo WHO, thiếu máu não là nguyên nhân dẫn đến tử vong cao thứ 3 xếp sau ung thư và bệnh tim mạch. Não bộ cần tiêu thụ đến 20% dưỡng khí từ cơ thể, vì vậy tình trạng thiếu oxy lên não thuộc tình trạng rất nguy hiểm. Chỉ với 10 giây không nhận được lượng máu cần thiết, các mô não sẽ rơi vào rối loạn, tình trạng này kéo dài vài phút sẽ khiến tế bào thần kinh chết dần."
+    },
+    {
+      "question": "Triệu chứng thiếu máu não là gì?",
+      "answer": "Triệu chứng thiếu máu não bao gồm: đau đầu, chóng mặt hoa mắt, ù tai, tê bì chân tay, thị lực suy giảm, mất ngủ, suy nhược cơ thể, mất cảm giác, mất phương hướng, nhìn đôi, nói lắp bắp, mất hoặc giảm ý thức, và mất thăng bằng. Các triệu chứng có thể từ nhẹ đến nặng, kéo dài trong thời gian ngắn (từ vài giây đến vài phút)."
+    },
+    {
+      "question": "Ai dễ bị thiếu máu não?",
+      "answer": "Thiếu máu não thường gặp ở người cao tuổi, người mắc nhiều bệnh lý mãn tính như tim mạch, tiểu đường, huyết áp cao. Tuy nhiên, đối tượng bị thiếu máu não ngày càng trẻ hóa, bao gồm người trẻ là nhân viên văn phòng, quản lý cấp cao, phụ nữ nội trợ với công việc có cường độ căng thẳng cao. Người có lối sống thụ động, sống trong môi trường ô nhiễm, chế độ ăn uống không đa dạng lành mạnh cũng dễ mắc phải bệnh này."
+    },
+    {
+      "question": "Nên ăn gì khi bị thiếu máu não?",
+      "answer": "Người bị thiếu máu não nên ăn thực phẩm giàu sắt và đạm như thịt bò, cá hồi, hải sản, lòng đỏ trứng gà; thực phẩm giàu vitamin và sắt như cải bó xôi, bông cải xanh, cần tây, bí đỏ, củ cà rốt, quả lựu, quả mâm xôi, quả dâu tây, nho khô, và quả mận. Chế độ ăn cần kết hợp hợp lý giữa động vật và thực vật để đảm bảo đủ dinh dưỡng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu, ù tai và chóng mặt thoáng qua. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu não",
+        "Rối loạn tiền đình",
+        "Tăng huyết áp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tê bì chân tay, thị lực suy giảm và mất ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu não",
+        "Đái tháo đường",
+        "Bệnh thần kinh ngoại biên"
+      ]
+    },
+    {
+      "question": "Tôi hay đau đầu dữ dội lan khắp đầu, kèm theo chóng mặt, buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu não",
+        "Đau nửa đầu migraine",
+        "Hội chứng tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp vấn đề về thị lực như nhìn đôi, mờ mắt và đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thiếu máu não", "Tăng nhãn áp", "Bệnh đa xơ cứng"]
+    },
+    {
+      "question": "Tôi hay bị suy nhược cơ thể một bên, mất cảm giác và khó khăn trong việc giữ thăng bằng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thiếu máu não", "Đột quỵ", "Bệnh Parkinson"]
     }
   ]
 }

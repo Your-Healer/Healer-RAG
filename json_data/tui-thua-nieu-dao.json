@@ -1,39 +1,143 @@
 {
   "disease_id": "tui-thua-nieu-dao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Túi thừa niệu đạo",
+  "disease_alternative_names": ["Urethral Diverticulum (UD)"],
+  "disease_definition": "Túi thừa niệu đạo là một túi hay khối phồng với kích thước khác nhau hình thành cạnh niệu đạo. Do khối phồng thông với niệu đạo nên nó luôn được làm đầy bởi nước tiểu trong quá trình tiểu tiện. Bệnh túi thừa niệu đạo xảy ra ở phụ nữ thường xuyên hơn nhiều so với nam giới và ước tính xảy ra ở 1-6% phụ nữ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tiểu khó",
+      "description": "Khó khăn khi đi tiểu, dòng nước tiểu có thể không thành tia mà luôn rỉ rả"
+    },
+    {
+      "name": "Giao hợp đau",
+      "description": "Đau khi quan hệ tình dục do túi thừa tạo áp lực"
+    },
+    {
+      "name": "Tiểu không kiểm soát nhỏ giọt sau khi tiểu",
+      "description": "Rỉ nước tiểu sau khi đi vệ sinh do nước tiểu tồn đọng trong túi thừa"
+    },
+    {
+      "name": "Tiểu nhiều lần và tiểu gấp",
+      "description": "Cảm giác muốn đi tiểu thường xuyên và đột ngột"
+    },
+    {
+      "name": "Nhiễm khuẩn đường tiết niệu tái phát",
+      "description": "Viêm nhiễm đường tiết niệu xảy ra nhiều lần do nước tiểu tích tụ trong túi thừa"
+    },
+    {
+      "name": "Tiểu máu",
+      "description": "Có máu trong nước tiểu do viêm nhiễm hoặc tổn thương niêm mạc túi thừa"
+    },
+    {
+      "name": "Đau niệu đạo",
+      "description": "Cảm giác đau tại vùng niệu đạo, đặc biệt khi đi tiểu"
+    },
+    {
+      "name": "Đau hạ vị",
+      "description": "Đau ở vùng bụng dưới do viêm nhiễm hoặc áp lực từ túi thừa"
+    },
+    {
+      "name": "Khối thành trước âm đạo",
+      "description": "Xuất hiện khối u ở thành trước âm đạo, có thể chạm thấy khi khám"
+    },
+    {
+      "name": "Chảy dịch mủ niệu đạo",
+      "description": "Dịch mủ chảy ra từ niệu đạo do nhiễm trùng trong túi thừa"
+    },
+    {
+      "name": "Tiểu ngập ngừng",
+      "description": "Dòng nước tiểu không đều, có thể bị gián đoạn"
+    },
+    {
+      "name": "Bí tiểu",
+      "description": "Không thể đi tiểu hoặc tiểu không hết do túi thừa gây tắc nghẽn"
+    },
+    {
+      "name": "Cảm giác vùng kín luôn ẩm ướt",
+      "description": "Do nước tiểu rỉ ra từ túi thừa"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Căn nguyên của túi thừa niệu đạo phần lớn vẫn chưa được xác định. Bệnh có thể hình thành do bẩm sinh hoặc mắc phải.",
+    "related_factors": "Với tình trạng bẩm sinh, bệnh có thể do tàn tích phôi thai và thường bắt nguồn từ nang ống Gartner và nang ống Müllerian. Tình trạng viêm các tuyến tiếp giáp với niệu đạo, hình thành ổ áp xe cuối cùng xâm lấn vào niệu đạo được cho là nguyên nhân phổ biến. Bên cạnh đó, một số rối loạn sàn chậu trong quá trình sinh nở cũng có thể là nguyên nhân hình thành nên túi thừa niệu đạo ở phụ nữ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ (phổ biến hơn ở nữ)",
+    "Bẩm sinh (tàn tích phôi thai, nang ống Gartner, nang ống Müllerian)",
+    "Viêm các tuyến tiếp giáp với niệu đạo",
+    "Rối loạn sàn chậu trong quá trình sinh nở",
+    "Tiền sử nhiễm trùng đường tiết niệu tái diễn",
+    "Tuổi (ở trẻ em, tỷ lệ mắc ở trẻ trai cao hơn trẻ gái)"
+  ],
+  "complications": [
+    "Nhiễm khuẩn đường tiết niệu tái phát",
+    "Sỏi túi thừa",
+    "Hóa ác tính (hiếm gặp)",
+    "Tiểu không kiểm soát kéo dài",
+    "Viêm nhiễm vùng chậu",
+    "Áp xe niệu đạo"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám thực thể (khám phụ khoa, sờ vào thành âm đạo để phát hiện khối phồng)",
+      "Phân tích nước tiểu để phát hiện dấu hiệu nhiễm trùng",
+      "Theo dõi triệu chứng lâm sàng (tiểu khó, đau khi quan hệ, nhiễm trùng tái phát...)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi niệu đạo",
+        "description": "Cho phép nhìn thấy trực tiếp niệu đạo, xác định được chính xác vị trí cổ túi thừa"
+      },
+      {
+        "name": "Chụp bàng quang-niệu đạo lúc tiểu (VCUG)",
+        "description": "Cho biết vị trí, kích thước và tương quan của túi thừa với các cơ quan lân cận"
+      },
+      {
+        "name": "Chụp niệu đạo-bàng quang ngược chiều (UCR)",
+        "description": "Giúp đánh giá tương quan của túi thừa với niệu đạo, bàng quang, âm đạo"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Phương tiện chẩn đoán đơn giản không xâm hại, hiệu quả trong chẩn đoán túi thừa niệu đạo"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cho độ nhạy rất cao, cung cấp thông tin chi tiết về vị trí, số lượng, kích thước, hình dạng và biến chứng của túi thừa"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không phải tất cả túi thừa niệu đạo đều có chỉ định cắt bỏ. Những trường hợp không có triệu chứng, phát hiện tình cờ khi khám sức khỏe có thể không cần phẫu thuật ngay.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc kháng sinh để điều trị các triệu chứng nhiễm trùng, đặc biệt cho các trường hợp không có triệu chứng nặng"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ túi thừa",
+        "description": "Loại bỏ hoàn toàn túi thừa niệu đạo, thường áp dụng cho các túi thừa có triệu chứng rõ ràng hoặc lớn"
+      },
+      {
+        "name": "Phẫu thuật mở cổ túi",
+        "description": "Cắt vào cổ túi để rút hết thành phần bên trong, giảm áp lực"
+      },
+      {
+        "name": "Tạo lỗ thông",
+        "description": "Tạo một lỗ thông từ túi vào âm đạo cho phép chất trong túi thoát ra ngoài"
+      },
+      {
+        "name": "Điều trị kết hợp vấn đề tiểu không kiểm soát",
+        "description": "Trong quá trình phẫu thuật, bác sĩ có thể đồng thời khắc phục tình trạng tiểu không kiểm soát"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Dùng thuốc kháng sinh ít nhất 24 giờ sau phẫu thuật",
+      "Có thể cần đặt ống thông trong bàng quang giúp làm rỗng bàng quang trong khi lành vết thương (2-3 tuần)",
+      "Theo dõi và kiểm tra trong các tuần tiếp theo sau phẫu thuật",
+      "Điều trị tiếp theo nếu nhiễm trùng tái phát",
+      "Tái khám để kiểm tra sự thành công của phẫu thuật và tình trạng lành vết thương"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +145,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hiện nay chưa có cách phòng ngừa việc phát triển các túi thừa niệu đạo",
+      "Duy trì thói quen sống lành mạnh trong chế độ ăn uống và sinh hoạt",
+      "Rèn luyện thể thao để nâng cao sức khỏe",
+      "Thăm khám phụ khoa định kỳ",
+      "Nếu có bất thường về sức khỏe hoặc các triệu chứng bệnh, nên đến thăm khám sớm",
+      "Điều trị các nhiễm trùng đường tiết niệu kịp thời và triệt để"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Túi thừa niệu đạo có nguy hiểm không?",
+      "answer": "Túi thừa niệu đạo có thể ảnh hưởng lớn đến sức khỏe và chất lượng cuộc sống của người bệnh, đặc biệt là phụ nữ. Nếu không được điều trị, bệnh có thể gây nhiễm khuẩn đường tiết niệu tái phát, sỏi túi thừa và hiếm khi có thể hóa ác tính. Tuy nhiên, nếu được chẩn đoán đúng và điều trị kịp thời, người bệnh hoàn toàn có thể khỏi bệnh, ít có biến chứng sau điều trị và tỷ lệ tái phát bệnh thấp."
+    },
+    {
+      "question": "Có cần phẫu thuật điều trị túi thừa niệu đạo không?",
+      "answer": "Không phải tất cả túi thừa niệu đạo đều có chỉ định cắt bỏ. Những trường hợp không có triệu chứng, phát hiện tình cờ khi khám sức khỏe có thể không cần phẫu thuật ngay mà sẽ theo dõi và điều trị nội khoa. Tuy nhiên, nếu tình trạng nhiễm trùng lặp lại thường xuyên hoặc túi thừa niệu đạo trở nên lớn hơn, hoặc gây ra các triệu chứng rõ rệt, bác sĩ sẽ chỉ định phẫu thuật."
+    },
+    {
+      "question": "Sau phẫu thuật túi thừa niệu đạo cần chú ý gì?",
+      "answer": "Sau phẫu thuật túi thừa niệu đạo, người bệnh thường cần dùng thuốc kháng sinh ít nhất 24 giờ và có thể phải đặt một ống thông trong bàng quang khoảng 2-3 tuần để giúp làm rỗng bàng quang trong khi vết thương lành. Người bệnh nên theo dõi và thực hiện các bài kiểm tra theo hướng dẫn của bác sĩ trong các tuần tiếp theo để đảm bảo sự thành công của phẫu thuật và quá trình lành vết thương."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiểu khó, tiểu không tự chủ và đau khi quan hệ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Túi thừa niệu đạo",
+        "Viêm niệu đạo",
+        "Rối loạn sàn chậu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó chịu khi đi tiểu và có cảm giác vùng kín luôn ẩm ướt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Túi thừa niệu đạo",
+        "Nhiễm trùng đường tiết niệu",
+        "Tiểu không kiểm soát"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nhiễm trùng đường tiết niệu tái phát nhiều lần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Túi thừa niệu đạo",
+        "Viêm bàng quang",
+        "Sỏi đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau vùng hạ vị và tiểu buốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Túi thừa niệu đạo",
+        "Viêm bàng quang",
+        "Viêm niệu đạo"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu rắt, tiểu són và có khối u ở thành trước âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Túi thừa niệu đạo",
+        "Sa thành trước âm đạo",
+        "U nang âm đạo"
+      ]
     }
   ]
 }

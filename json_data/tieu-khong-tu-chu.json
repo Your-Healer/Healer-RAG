@@ -1,39 +1,121 @@
 {
   "disease_id": "tieu-khong-tu-chu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tiểu không tự chủ",
+  "disease_alternative_names": [
+    "Són tiểu",
+    "Tiểu mất kiểm soát",
+    "Tiểu không kiểm soát",
+    "Urinary incontinence"
+  ],
+  "disease_definition": "Tiểu không tự chủ là tình trạng rò rỉ nước tiểu không kiểm soát khi ho, hắt hơi hoặc cảm giác muốn đi tiểu diễn ra đột ngột, liên tục đến mức không thể phản ứng kịp. Vấn đề này khiến người bệnh cảm thấy rất khó chịu, ảnh hưởng không nhỏ đến sinh hoạt hàng ngày.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Són tiểu khi ho, cười và hắt hơi",
+      "description": "Hiện tượng rò rỉ nước tiểu không kiểm soát khi có áp lực bất ngờ lên bàng quang do ho, cười, hắt hơi, tập thể dục"
+    },
+    {
+      "name": "Cảm giác đi tiểu gấp",
+      "description": "Nhu cầu cần đi tiểu ngay lập tức, xảy ra đột ngột và dữ dội khiến người bệnh không kịp phản ứng"
+    },
+    {
+      "name": "Són tiểu lắt nhắt",
+      "description": "Tình trạng són tiểu không hoàn toàn, rò rỉ từng giọt nhỏ theo thời gian"
+    },
+    {
+      "name": "Đi tiểu nhiều lần",
+      "description": "Tăng tần suất đi tiểu cả ngày lẫn đêm, cảm giác bàng quang luôn đầy"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tiểu không tự chủ xảy ra khi hệ thống tiết niệu gặp trục trặc do nhiều nguyên nhân khác nhau. Hiện tượng này có thể là tạm thời hoặc kéo dài tùy theo yếu tố gây bệnh.",
+    "related_factors": "Nguyên nhân tạm thời bao gồm: tiêu thụ đồ uống chứa caffeine, rượu bia, đồ uống có ga, chất tạo ngọt nhân tạo, thực phẩm cay nóng, gia vị, thuốc tim mạch, thuốc an thần, thuốc giãn cơ, quá nhiều vitamin C, táo bón, nhiễm trùng đường tiết niệu. Nguyên nhân dài hạn bao gồm: thay đổi trong thai kỳ, sinh thường, lão hóa, mãn kinh, phì đại tuyến tiền liệt, ung thư tuyến tiền liệt, khối u đường tiết niệu, sỏi tiết niệu, rối loạn thần kinh thực vật như Parkinson, đa xơ cứng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ",
+    "Tuổi tác cao",
+    "Thừa cân, béo phì",
+    "Hút thuốc lá",
+    "Tiền sử gia đình bị tiểu không tự chủ",
+    "Bệnh thần kinh",
+    "Tiểu đường",
+    "Mang thai và sinh con",
+    "Mãn kinh",
+    "Phì đại tuyến tiền liệt (ở nam giới)",
+    "Ung thư tuyến tiền liệt (ở nam giới)"
+  ],
+  "complications": [
+    "Các vấn đề về da (phát ban, nhiễm trùng, lở loét) do da thường xuyên ẩm ướt",
+    "Nhiễm trùng đường tiết niệu tái phát",
+    "Ảnh hưởng đến tâm lý và chất lượng cuộc sống",
+    "Tăng nguy cơ té ngã ở người cao tuổi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Ghi nhật ký bàng quang để theo dõi lượng nước uống, thời điểm đi tiểu, số lần tiểu không tự chủ",
+      "Khám thể chất (kiểm tra âm đạo và cơ sàn chậu cho nữ; khám trực tràng và tuyến tiền liệt cho nam)",
+      "Đánh giá các dấu hiệu lâm sàng và tiền sử bệnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phân tích nước tiểu",
+        "description": "Xét nghiệm để xác định tình trạng nhiễm trùng hoặc các dấu hiệu bất thường khác"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá chức năng thận và các bất thường khác"
+      },
+      {
+        "name": "Đo lượng nước dư sau khi đi tiểu (PVR)",
+        "description": "Xác định chính xác lượng nước tiểu còn lại trong bàng quang sau khi đi tiểu"
+      },
+      {
+        "name": "Siêu âm vùng chậu",
+        "description": "Phát hiện các bất thường cấu trúc của các cơ quan trong vùng chậu"
+      },
+      {
+        "name": "Kiểm tra niệu động học",
+        "description": "Kiểm tra chức năng chứa đựng và tống xuất nước tiểu của bàng quang và cơ thắt cổ bàng quang"
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Kiểm tra bên trong bàng quang và niệu đạo bằng camera nhỏ để phát hiện bất thường"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy theo mức độ tiểu không kiểm soát, bác sĩ sẽ chỉ định phương pháp điều trị phù hợp để cải thiện tình trạng một cách hiệu quả.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc điều trị",
+        "description": "Các loại thuốc để ổn định cơn co thắt bàng quang như Oxybutynin, Tolterodine, Solifenacin, Fesoterodine, Darifenacin"
+      },
+      {
+        "name": "Thay đổi lối sống",
+        "description": "Cải thiện chế độ ăn uống, giảm cân, tập luyện cơ sàn chậu, điều chỉnh mức tiêu thụ chất lỏng"
+      },
+      {
+        "name": "Tiêm Botulinum",
+        "description": "Giúp thư giãn các cơ, giảm chứng tiểu không kiểm soát"
+      },
+      {
+        "name": "Cơ thắt niệu đạo nhân tạo",
+        "description": "Thiết bị đặc biệt cho nam giới giúp đóng niệu đạo khi không đi tiểu, thường dùng sau phẫu thuật ung thư tuyến tiền liệt"
+      },
+      {
+        "name": "Đặt băng nâng niệu đạo",
+        "description": "Phương pháp hiệu quả để điều trị chứng tiểu không kiểm soát khi gắng sức ở nữ"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch trình điều trị của bác sĩ",
+      "Theo dõi lượng nước tiêu thụ, đặc biệt là trước khi ngủ",
+      "Tránh các chất kích thích bàng quang như caffeine và rượu",
+      "Duy trì cân nặng hợp lý",
+      "Thực hiện các bài tập tăng cường cơ sàn chậu thường xuyên",
+      "Đi tiểu theo lịch trình đều đặn",
+      "Xử lý táo bón nếu có"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +123,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì mức cân nặng hợp lý",
+      "Thực hành các bài tập sàn chậu thường xuyên",
+      "Tránh sử dụng các chất kích thích bàng quang như caffeine, rượu bia, thực phẩm cay và có tính axit",
+      "Xây dựng thực đơn giàu chất xơ để ngăn ngừa táo bón",
+      "Không hút thuốc",
+      "Điều trị dứt điểm các bệnh lý liên quan đến bàng quang và nhiễm trùng đường tiết niệu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tiểu không tự chủ có phải là một phần tự nhiên của quá trình lão hóa không?",
+      "answer": "Mặc dù tiểu không tự chủ có xu hướng tăng lên khi tuổi cao, nhưng đây không phải là một phần tất yếu của quá trình lão hóa. Đây là một tình trạng có thể điều trị được thông qua nhiều phương pháp như thay đổi lối sống, dùng thuốc hoặc các thủ thuật y tế. Người cao tuổi không nên xem tiểu không tự chủ là điều không thể tránh khỏi và nên tìm kiếm sự giúp đỡ từ bác sĩ."
+    },
+    {
+      "question": "Làm thế nào để phân biệt các loại tiểu không tự chủ?",
+      "answer": "Có nhiều loại tiểu không tự chủ khác nhau: Tiểu gấp (cảm giác đi tiểu đột ngột không thể kiểm soát), tiểu không kiểm soát khi gắng sức (són tiểu khi ho, hắt hơi, cười), tiểu không kiểm soát do tràn đầy (són tiểu lắt nhắt do bàng quang không thể tống hết nước tiểu), và tiểu không kiểm soát hỗn hợp (kết hợp các loại trên). Mỗi loại có nguyên nhân và cách điều trị khác nhau."
+    },
+    {
+      "question": "Làm thế nào để tăng cường cơ sàn chậu để giảm tiểu không tự chủ?",
+      "answer": "Để tăng cường cơ sàn chậu, bạn có thể thực hiện bài tập Kegel: xác định cơ sàn chậu (cơ bạn dùng để ngừng đi tiểu giữa chừng), co cơ này trong 5 giây, sau đó thư giãn trong 5 giây, lặp lại 10-15 lần/lần tập, tập 3 lần/ngày. Tập đều đặn sẽ giúp tăng cường sức mạnh cơ sàn chậu và cải thiện tình trạng tiểu không tự chủ, đặc biệt là tiểu không kiểm soát khi gắng sức."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như són tiểu khi ho, cười và hắt hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu không tự chủ",
+        "Tiểu không kiểm soát khi gắng sức",
+        "Sa sàn chậu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cần đi tiểu ngay lập tức và không kịp phản ứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu không tự chủ",
+        "Tiểu gấp không kiểm soát",
+        "Bàng quang hoạt động quá mức"
+      ]
+    },
+    {
+      "question": "Tôi hay bị són tiểu lắt nhắt và đi tiểu nhiều lần trong ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu không tự chủ",
+        "Tiểu không kiểm soát do tràn đầy",
+        "Nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi là phụ nữ và đang mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu không tự chủ thai kỳ",
+        "Tiểu nhiều khi mang thai",
+        "Nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi là nam giới và bị phì đại tuyến tiền liệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu không tự chủ",
+        "Tiểu không kiểm soát do tràn đầy",
+        "Bí tiểu"
+      ]
     }
   ]
 }

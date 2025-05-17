@@ -1,58 +1,191 @@
 {
   "disease_id": "san-la-phoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sán lá phổi",
+  "disease_alternative_names": [
+    "Paragonimus spp.",
+    "Paragonimus westermani",
+    "Paragonimus heterotremus"
+  ],
+  "disease_definition": "Sán lá phổi (Paragonimus spp.) là một loài giun dẹp, sống ký sinh ở phổi người, cụ thể là tiểu phế quản. Người bị bệnh do ăn tôm, cua nhiễm ấu trùng sán lá phổi nhưng chưa được nấu chín. Sán có thể di chuyển lên hệ thần kinh trung ương, gây viêm màng não.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tiêu chảy và đau bụng",
+      "description": "Sau 2-15 ngày nhiễm bệnh, người bệnh xuất hiện triệu chứng ban đầu như tiêu chảy và đau bụng"
+    },
+    {
+      "name": "Sốt, đau ngực và mệt mỏi",
+      "description": "Vài ngày tiếp theo khi bệnh tiến triển, người bệnh cảm thấy sốt, đau ngực và mệt mỏi"
+    },
+    {
+      "name": "Ho khan và ho có đờm màu gỉ sắt",
+      "description": "Người bệnh ho khan, ho có đờm màu gỉ sắt hoặc nhuốm máu khi ho nặng, giống như người mắc bệnh lao"
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Khi bệnh tiến triển sang giai đoạn mạn tính, người bệnh ho ra máu, ho có đờm lẫn máu"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Người bệnh có thể cảm thấy buồn nôn và nôn khi bệnh tiến triển"
+    },
+    {
+      "name": "Ngứa và phát ban",
+      "description": "Phản ứng của cơ thể đối với ký sinh trùng gây ngứa và phát ban ở một số người bệnh"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Xuất hiện khi sán di chuyển từ bụng vào ngực, làm ảnh hưởng đến hệ hô hấp"
+    },
+    {
+      "name": "Tiêu chảy ra máu",
+      "description": "Trong bệnh mạn tính, người bệnh có thể bị tiêu chảy ra máu do tác động của sán đến hệ tiêu hóa"
+    },
+    {
+      "name": "Vết sưng ở da bụng và da chân",
+      "description": "Da bụng và da chân xuất hiện vết sưng hoặc khối u khi bệnh ở giai đoạn mạn tính"
+    },
+    {
+      "name": "Triệu chứng thần kinh",
+      "description": "Sốt, co giật, nhìn đôi, nôn mửa, đau đầu khi sán di chuyển lên não"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân chính gây bệnh là ăn phải tôm, cua nhiễm ấu trùng sán lá phổi nhưng không được nấu chín hoặc nấu chưa chín, làm tái, gỏi.",
+    "related_factors": "Khi vào dạ dày và ruột, ấu trùng sán lá phổi thoát khỏi nang ở tá tràng, xuyên qua thành ống tiêu hoá vào ổ bụng, qua cơ hoành và màng phổi để vào nhu mô phổi để làm tổ. Ấu trùng sán còn có thể 'định cư' ở tim, gan, thận, dưới da, ruột, não, phúc mạc.",
+    "transmission_routes": [
+      "Người bệnh thải trứng sán qua đờm (khi ho) hoặc theo phân",
+      "Trứng gặp môi trường nước, nở ra ấu trùng lông",
+      "Ấu trùng lông chui vào ốc và phát triển thành ấu trùng đuôi",
+      "Ấu trùng đuôi rời khỏi ốc, xâm nhập vào tôm, cua nước ngọt",
+      "Ấu trùng nang nằm sâu trong thịt, phủ tạng của tôm, cua",
+      "Con người ăn tôm, cua nhiễm ấu trùng nhưng chưa được nấu chín"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người sống trong môi trường có sán lá phổi lưu hành",
+    "Người thích ăn uống các món gỏi, tái, nấu chưa chín các loài ốc, tôm, cua",
+    "Sống ở các địa phương đã ghi nhận bệnh như An Giang, Nghệ An, Hòa Bình, Lai Châu, Sơn La, Lào Cai, Hà Giang",
+    "Thói quen ăn cua nướng, ăn tái, gỏi sống"
+  ],
+  "complications": [
+    "Hoại tử khu trú nhu mô phổi",
+    "Nang xơ bao quanh sán trưởng thành",
+    "Viêm, áp-xe, u hạt ở các cơ quan nội tạng",
+    "Di chứng lên não gây viêm màng não",
+    "Tổn thương tại phổi dễ nhầm với bệnh lao phổi, giãn phế quản, ung thư phổi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Dựa vào triệu chứng bệnh như ho ra máu và/hoặc tràn dịch màng phổi",
+      "Chẩn đoán phân biệt với bệnh lao phổi, giãn phế quản, ung thư phổi"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Tìm trứng sán trong đờm",
+        "description": "Xét nghiệm đờm để tìm trứng sán, đây là tiêu chuẩn vàng để phát hiện bệnh nhưng tỷ lệ tìm thấy thấp hơn 40%"
+      },
+      {
+        "name": "Tìm trứng sán trong phân",
+        "description": "Xét nghiệm phân khi bệnh nhân thải phân ra ngoài trong vòng 24 giờ để tìm trứng sán"
+      },
+      {
+        "name": "Xét nghiệm Elisa",
+        "description": "Phương pháp xét nghiệm miễn dịch học để tìm kháng thể đặc hiệu với sán lá phổi"
+      },
+      {
+        "name": "Xét nghiệm dịch cơ thể",
+        "description": "Xét nghiệm dịch màng phổi, dịch màng bụng, dịch não tuỷ để tìm nguy cơ nhiễm sán lá phổi"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị bệnh sán lá phổi cần kết hợp điều trị thuốc diệt sán và điều trị các di chứng nếu có.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc Praziquantel",
+        "description": "Liều 75 mg/kg/ngày, chia thành 3 lần mỗi ngày và uống trong 2 ngày. Đây là thuốc được ưu tiên lựa chọn sử dụng hàng đầu. Uống lúc no, chia 3 lần trong ngày, cách nhau tối thiểu 4-6 giờ."
+      },
+      {
+        "name": "Điều trị bằng thuốc Triclabendazole",
+        "description": "Liều 10 mg/kg, chia 2 lần, mỗi lần cách nhau 6-8 giờ."
+      },
+      {
+        "name": "Điều trị di chứng",
+        "description": "Can thiệp phẫu thuật để điều trị dứt điểm các biến chứng tại vị trí sán tấn công như tràn dịch màng phổi, u nang, áp xe, u hạt."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Nghỉ ngơi tại chỗ ít nhất 24 giờ sau khi uống thuốc",
+      "Không uống rượu bia hoặc các chất kích thích khi đang điều trị bệnh",
+      "Theo dõi các tác dụng phụ có thể gặp như chóng mặt, nhức đầu, buồn nôn",
+      "Điều trị đúng liều lượng và đủ thời gian theo chỉ định của bác sĩ",
+      "Tái khám định kỳ để theo dõi hiệu quả điều trị"
+    ],
+    "prevention_of_transmission": [
+      "Thu gom và xử lý đờm, phân trong nhà vệ sinh sạch sẽ",
+      "Không khạc nhổ bừa bãi ra môi trường"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Nấu thức ăn chín kỹ, đặc biệt là tôm, cua nước ngọt",
+      "Uống nước đun sôi",
+      "Không ăn gỏi, món tái từ thủy sản tươi sống như tôm, cua",
+      "Tăng cường vệ sinh cá nhân và vệ sinh môi trường",
+      "Tuyên truyền, giáo dục về cách phòng bệnh cho người dân trong vùng dịch",
+      "Tích cực điều trị sớm khi phát hiện bệnh để ngăn chặn sự lây lan"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sán lá phổi là gì?",
+      "answer": "Sán lá phổi (Paragonimus spp.) là một loài giun dẹp, sống ký sinh ở phổi người, cụ thể là tiểu phế quản. Người bị bệnh do ăn tôm, cua nhiễm ấu trùng sán lá phổi nhưng chưa được nấu chín. Sán có thể di chuyển lên hệ thần kinh trung ương, gây viêm màng não."
+    },
+    {
+      "question": "Sán lá phổi lây truyền như thế nào?",
+      "answer": "Người bệnh thải trứng sán lá phổi qua đờm (khi ho) hoặc theo phân ra ngoài. Trứng gặp môi trường nước, nở ra ấu trùng lông. Ấu trùng lông chui vào ốc và phát triển thành ấu trùng đuôi. Ấu trùng đuôi rời khỏi ốc, xâm nhập vào tôm, cua nước ngọt. Con người ăn tôm, cua nhiễm ấu trùng nhưng chưa được nấu chín sẽ bị nhiễm bệnh."
+    },
+    {
+      "question": "Các triệu chứng của bệnh sán lá phổi là gì?",
+      "answer": "Ở giai đoạn mới mắc bệnh, người nhiễm sán lá phổi không có triệu chứng. Khoảng 4 tuần sau, người bệnh bắt đầu có các triệu chứng như: sốt, buồn nôn, nôn, đau bụng, tiêu chảy, ngứa, phát ban. Khi sán di chuyển từ bụng vào ngực, xuất hiện ho, đau ngực, khó thở. Giai đoạn mạn tính, người bệnh ho ra máu, ho có đờm lẫn máu, tiêu chảy ra máu, da bụng và chân xuất hiện vết sưng. Khoảng 25% người bệnh có di chứng lên não với các triệu chứng như sốt, co giật, nhìn đôi, nôn mửa, đau đầu."
+    },
+    {
+      "question": "Bệnh sán lá phổi được điều trị như thế nào?",
+      "answer": "Bệnh sán lá phổi được điều trị bằng thuốc Praziquantel (liều 75 mg/kg/ngày, chia 3 lần, uống trong 2 ngày) hoặc Triclabendazole (liều 10 mg/kg, chia 2 lần). Người bệnh cần uống thuốc lúc no, nghỉ ngơi tại chỗ ít nhất 24 giờ sau khi uống, không uống rượu bia khi đang điều trị. Nếu có di chứng, bác sĩ có thể can thiệp phẫu thuật tùy vào tình trạng cụ thể."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa bệnh sán lá phổi?",
+      "answer": "Để phòng ngừa bệnh sán lá phổi, cần nấu thức ăn chín kỹ, đặc biệt là tôm, cua nước ngọt; uống nước đun sôi; không ăn gỏi, món tái từ thủy sản tươi sống; tăng cường vệ sinh cá nhân và môi trường. Người bệnh cần thu gom và xử lý đờm, phân trong nhà vệ sinh sạch sẽ, không khạc nhổ bừa bãi ra môi trường để ngăn chặn sự lây lan của bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiêu chảy và đau bụng sau khi ăn tôm cua. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "san-la-phoi",
+        "ngo-doc-thuc-pham",
+        "roi-loan-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt, đau ngực và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-la-phoi", "viem-phoi", "cum"]
+    },
+    {
+      "question": "Tôi hay ho khan và ho có đờm màu gỉ sắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-la-phoi", "lao-phoi", "viem-phe-quan"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ho nhiều và ho ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-la-phoi", "lao-phoi", "ung-thu-phoi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy buồn nôn, nôn và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-la-phoi", "roi-loan-tieu-hoa", "viem-da-day"]
     }
   ]
 }

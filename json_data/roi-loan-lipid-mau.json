@@ -1,39 +1,122 @@
 {
   "disease_id": "roi-loan-lipid-mau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn lipid máu",
+  "disease_alternative_names": [
+    "Tăng lipid máu",
+    "Mỡ máu cao",
+    "Cholesterol cao",
+    "Dyslipidemia"
+  ],
+  "disease_definition": "Rối loạn lipid máu là tình trạng bất thường lượng lipid có ở trong máu, mô tả nhiều dạng rối loạn phổ biến như mức cholesterol LDL, chất béo trung tính cao hoặc mức cholesterol HDL thấp.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tức ngực hoặc đau ngực",
+      "description": "Cảm giác tức, đau hoặc áp lực ở vùng ngực, đặc biệt khi gắng sức"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác hít thở khó khăn, thở gấp hoặc không đủ không khí khi hoạt động"
+    },
+    {
+      "name": "Đau ở cổ, hàm, vai và lưng",
+      "description": "Cảm giác đau, căng và áp lực ở các vùng này, đặc biệt khi tim phải làm việc nhiều hơn"
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Nhịp tim tăng nhanh bất thường, cảm giác tim đập mạnh trong lồng ngực"
+    },
+    {
+      "name": "Ngất xỉu",
+      "description": "Mất ý thức tạm thời do không đủ máu lên não, thường khi gắng sức hoặc đứng lên đột ngột"
+    },
+    {
+      "name": "Đau chân khi vận động",
+      "description": "Đau nhức chân, đặc biệt khi đi bộ hoặc đứng, do bệnh mạch máu chi dưới"
+    },
+    {
+      "name": "Xanthomas",
+      "description": "Sự tích tụ cholesterol nhìn thấy được dưới da, thường xuất hiện ở xung quanh mắt, mắt cá chân hoặc khuỷu tay"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Béo phì, ăn uống không lành mạnh và lối sống ít vận động là những nguyên nhân phổ biến nhất gây rối loạn lipid máu. Di truyền cũng là một nguyên nhân quan trọng, đặc biệt là tăng cholesterol máu gia đình.",
+    "related_factors": "Tăng huyết áp, hút thuốc lá, bệnh tiểu đường (type 1 và type 2), bệnh thận, suy giáp, hội chứng buồng trứng đa nang (PCOS), hội chứng Cushing, bệnh viêm ruột (IBS).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Béo phì",
+    "Ăn uống không lành mạnh, nhiều chất béo bão hòa",
+    "Lối sống ít vận động",
+    "Tiền sử gia đình bị rối loạn lipid máu",
+    "Tăng huyết áp",
+    "Hút thuốc lá",
+    "Bệnh tiểu đường",
+    "Suy thận",
+    "Suy giáp",
+    "Tuổi cao",
+    "Tiền sử đột quỵ hoặc bệnh tim"
+  ],
+  "complications": [
+    "Xơ vữa động mạch",
+    "Bệnh động mạch vành",
+    "Nhồi máu cơ tim",
+    "Đột quỵ não",
+    "Nhồi máu thận",
+    "Bệnh mạch máu ngoại biên",
+    "Bệnh động mạch cảnh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xét nghiệm máu định kỳ",
+      "Đánh giá các yếu tố nguy cơ tim mạch"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm lipid máu (Lipid profile)",
+        "description": "Đo nồng độ cholesterol toàn phần, LDL, HDL và triglyceride trong máu để xác định mức độ rối loạn lipid"
+      },
+      {
+        "name": "Đo huyết áp",
+        "description": "Kiểm tra huyết áp để đánh giá nguy cơ tim mạch kết hợp với rối loạn lipid máu"
+      },
+      {
+        "name": "Siêu âm tim gắng sức",
+        "description": "Đánh giá chức năng tim và phát hiện sớm các bất thường do xơ vữa động mạch"
+      },
+      {
+        "name": "Xét nghiệm đường huyết",
+        "description": "Kiểm tra nồng độ đường trong máu để loại trừ bệnh tiểu đường"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị sẽ khác nhau tùy thuộc vào nguyên nhân của rối loạn lipid máu và mức độ nghiêm trọng, chẳng hạn bệnh đã có biến chứng hay chưa. Mục tiêu điều trị thường dựa vào đích LDL, đích LDL sẽ thay đổi phụ thuộc người bệnh là nhóm đối tượng nguy cơ cao, trung bình hay thấp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc statin",
+        "description": "Cholesterol LDL cao thường được điều trị bằng statin, với cơ chế gây cản trở quá trình sản xuất cholesterol trong gan"
+      },
+      {
+        "name": "Thuốc thay thế và bổ sung",
+        "description": "Nếu statin không cải thiện được tình trạng, có thể dùng thêm thuốc như ezetimib, niacin, fibrate, chất cô lập axit mật, evolocumab và alirocumab"
+      },
+      {
+        "name": "Thay đổi lối sống",
+        "description": "Tập thể dục đều đặn 30-60 phút mỗi ngày, 5-7 ngày trong tuần, kết hợp với chế độ ăn ít chất béo bão hòa"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Bỏ thuốc lá",
+      "Ngủ đủ giấc",
+      "Giảm stress",
+      "Ăn thực phẩm lành mạnh, giàu rau xanh, trái cây",
+      "Hạn chế uống rượu bia",
+      "Giữ cân nặng khỏe mạnh",
+      "Tập thể dục thường xuyên",
+      "Hạn chế dầu mỡ, phủ tạng động vật",
+      "Tuân thủ thời gian, liều lượng thuốc theo đơn bác sĩ",
+      "Khám lại định kỳ theo hẹn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +124,72 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Tuân theo chế độ ăn uống khoa học cho tim",
+      "Tập thể dục thường xuyên 30-60 phút mỗi ngày",
+      "Bỏ thuốc lá",
+      "Hạn chế uống rượu",
+      "Giảm stress",
+      "Ăn nhiều rau quả, ngũ cốc",
+      "Khám sức khỏe định kỳ, xét nghiệm máu hằng năm",
+      "Hạn chế chất béo bão hòa không quá 6% lượng calo hàng ngày",
+      "Tránh chất béo chuyển hóa"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn lipid máu là gì?",
+      "answer": "Rối loạn lipid máu là tình trạng bất thường lượng lipid có ở trong máu, mô tả nhiều dạng rối loạn phổ biến như mức cholesterol LDL cao, chất béo trung tính cao hoặc mức cholesterol HDL thấp. Cholesterol là chất béo dạng sáp có ở trong máu, cung cấp năng lượng cho các tế bào và cần thiết cho nhiều chức năng của cơ thể. Tuy nhiên, mức cholesterol cao có thể gây ra nhiều biến chứng nguy hiểm."
+    },
+    {
+      "question": "Rối loạn lipid máu có nguy hiểm không?",
+      "answer": "Rối loạn lipid máu rất nguy hiểm nếu không được điều trị, vì đây là tiền căn gây nên các bệnh lý tim mạch nghiêm trọng như nhồi máu cơ tim, đột quỵ não và nhồi máu thận. Những người có mức cholesterol LDL và chất béo trung tính cao hoặc mức HDL rất thấp có nguy cơ mắc chứng xơ vữa động mạch cao hơn, dẫn đến hẹp tắc mạch máu và các biến chứng nguy hiểm đến tính mạng."
+    },
+    {
+      "question": "Làm sao để biết mình có bị rối loạn lipid máu?",
+      "answer": "Để biết mình có bị rối loạn lipid máu hay không, bạn cần thực hiện xét nghiệm máu định kỳ. Nhiều người bị rối loạn lipid máu nhưng không có triệu chứng rõ ràng và thường được phát hiện bệnh trong quá trình khám sức khỏe định kỳ. Mức độ cholesterol và chất béo trung tính có thể thay đổi mỗi năm, do đó cần thiết nên làm xét nghiệm máu hằng năm, đặc biệt nếu bạn có các yếu tố nguy cơ như tiền sử gia đình mắc bệnh tim mạch, béo phì hoặc các bệnh mạn tính khác."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa rối loạn lipid máu?",
+      "answer": "Để phòng ngừa rối loạn lipid máu, bạn nên: duy trì cân nặng hợp lý; tuân theo chế độ ăn uống khoa học cho tim; tập thể dục thường xuyên 30-60 phút mỗi ngày, 5-7 ngày/tuần; bỏ thuốc lá; hạn chế uống rượu bia; giảm stress; ăn nhiều rau quả, ngũ cốc; khám sức khỏe định kỳ; và theo khuyến cáo của Hiệp hội Tim mạch Hoa Kỳ, hạn chế chất béo bão hòa không quá 6% lượng calo hàng ngày và tránh chất béo chuyển hóa."
+    },
+    {
+      "question": "Điều trị rối loạn lipid máu như thế nào?",
+      "answer": "Điều trị rối loạn lipid máu phụ thuộc vào nguyên nhân và mức độ nghiêm trọng của bệnh. Cholesterol LDL cao thường được điều trị bằng statin, với cơ chế gây cản trở quá trình sản xuất cholesterol trong gan. Nếu statin không hiệu quả, bác sĩ có thể kết hợp các thuốc khác như ezetimib, niacin, fibrate. Kèm theo đó, bệnh nhân cần thay đổi lối sống bằng cách tập thể dục đều đặn, ăn uống khoa học, bỏ thuốc lá và giảm stress. Người bệnh cũng cần tuân thủ nghiêm túc việc dùng thuốc theo đơn bác sĩ và tái khám định kỳ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tức ngực và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-lipid-mau",
+        "benh-dong-mach-vanh",
+        "tang-huyet-ap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ở cổ và vai, kèm theo tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-lipid-mau", "benh-tim-mach"]
+    },
+    {
+      "question": "Tôi hay bị đau chân khi đi bộ, kèm theo sự tích tụ cholesterol ở mắt cá chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-lipid-mau", "benh-mach-mau-ngoai-bien"]
+    },
+    {
+      "question": "Tôi có mức cholesterol cao và xuất hiện xanthomas ở khuỷu tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-lipid-mau",
+        "tang-cholesterol-mau-gia-dinh"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên ngất xỉu và cảm thấy áp lực ở ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-lipid-mau",
+        "benh-dong-mach-vanh",
+        "hep-van-tim"
+      ]
     }
   ]
 }

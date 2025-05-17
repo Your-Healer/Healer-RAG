@@ -1,39 +1,107 @@
 {
   "disease_id": "suy-gian-tinh-mach-sau-chi-duoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy giãn tĩnh mạch sâu chi dưới",
+  "disease_alternative_names": [
+    "Suy van tĩnh mạch sâu",
+    "Deep vein insufficiency",
+    "DVS"
+  ],
+  "disease_definition": "Suy tĩnh mạch sâu chi dưới là tình trạng trong đó có sự hư hỏng của các van tĩnh mạch dẫn tới sự xuất hiện các dòng máu trào ngược trong hệ thống tĩnh mạch theo tác dụng của trọng lực và hiệu ứng cơ bơm. Dòng trào ngược gây ra tình trạng ứ trệ máu tĩnh mạch tại ngoại vi, làm xuất hiện các triệu chứng cơ năng và biến chứng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nặng mỏi chân",
+      "description": "Cảm giác nặng nề ở chân và mỏi chân, nhất là khi đứng lâu, khiến giày dép có thể chật hơn bình thường"
+    },
+    {
+      "name": "Đau chân",
+      "description": "Đau tức ở chân, thường tăng lên khi đứng lâu và có thể giảm khi nâng chân lên cao"
+    },
+    {
+      "name": "Phù chân về chiều",
+      "description": "Phù ở mắt cá và bàn chân, xuất hiện nhiều vào cuối ngày sau khi đứng hoặc ngồi lâu"
+    },
+    {
+      "name": "Tê chân",
+      "description": "Cảm giác tê bì ở chân, đặc biệt sau thời gian dài đứng hoặc ngồi"
+    },
+    {
+      "name": "Vọp bẻ, chuột rút",
+      "description": "Chuột rút đột ngột ở bắp chân, thường xảy ra về đêm hoặc khi nghỉ ngơi"
+    },
+    {
+      "name": "Cảm giác dị cảm",
+      "description": "Nóng rát chân, cảm giác như kiến bò trên da ở vùng cẳng chân"
+    },
+    {
+      "name": "Thay đổi màu sắc da",
+      "description": "Da vùng cẳng chân thay đổi màu sắc, thường chuyển sang màu nâu hoặc đen"
+    },
+    {
+      "name": "Loét da",
+      "description": "Loét ở vùng mặt trong mắt cá chân, khó lành và dễ tái phát"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính là sự hư hỏng của các van tĩnh mạch dẫn tới sự xuất hiện các dòng máu trào ngược trong hệ thống tĩnh mạch theo tác dụng của trọng lực và hiệu ứng cơ bơm, khiến máu không thể quay trở lại tim một cách chính xác.",
+    "related_factors": "Tuổi tác, giới tính, nghề nghiệp đứng lâu, yếu tố di truyền gia đình, béo phì, mang thai và sinh nở nhiều lần, táo bón kinh niên.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (thường từ 45-50 tuổi trở lên)",
+    "Giới tính nữ (gặp ở nữ nhiều hơn nam, tỷ lệ 2-3:1)",
+    "Nghề nghiệp phải đứng lâu (bán hàng, giáo viên...)",
+    "Tiền sử gia đình có người mắc bệnh tương tự",
+    "Béo phì (BMI >30)",
+    "Mang thai và sinh nở nhiều lần",
+    "Táo bón kinh niên"
+  ],
+  "complications": [
+    "Huyết khối tĩnh mạch sâu (DVT)",
+    "Thuyên tắc phổi (do cục máu đông di chuyển)",
+    "Chảy máu (khi tĩnh mạch nông giãn to vỡ ra)",
+    "Loét chân không lành",
+    "Xơ cứng da-mỡ (Lipodermatosclerosis)",
+    "Khó khăn khi đi bộ hoặc chạy"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để phát hiện tĩnh mạch giãn, da đổi màu, rối loạn dinh dưỡng, loét",
+      "Đánh giá các triệu chứng và mức độ ảnh hưởng đến cuộc sống"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm Doppler màu mạch máu",
+        "description": "Phương pháp chẩn đoán chính giúp xác định những rối loạn huyết động học, tình trạng của các van tĩnh mạch, mức độ giãn của tĩnh mạch và phát hiện các cục thuyên tắc trong lòng mạch"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị suy giãn tĩnh mạch sâu chi dưới tùy thuộc vào mức độ nghiêm trọng của bệnh, từ phương pháp bảo tồn đến can thiệp xâm lấn tối thiểu và phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Vớ áp lực",
+        "description": "Sử dụng vớ áp lực đặc biệt được thiết kế để tạo áp lực chặt hơn ở cổ chân và giảm dần khi lên cao, giúp đẩy máu theo các tĩnh mạch lên tim"
+      },
+      {
+        "name": "Chích xơ tạo bọt dưới hướng dẫn siêu âm",
+        "description": "Áp dụng cho các trường hợp suy tĩnh mạch độ C1, giãn mao mạch và các tĩnh mạch mạng lưới nằm nông dưới da"
+      },
+      {
+        "name": "Can thiệp nội tĩnh mạch bằng laser hay RFA",
+        "description": "Sử dụng năng lượng nhiệt phát ra từ laser hoặc sóng cao tần để làm hủy và co rút, teo đoạn tĩnh mạch cần can thiệp"
+      },
+      {
+        "name": "Keo tĩnh mạch VenaSeal",
+        "description": "Công nghệ điều trị ít xâm lấn bằng cách tiêm keo VenaSeal qua ống thông nhỏ vào tĩnh mạch bất thường để làm cứng nó lại"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Mang vớ áp lực theo chỉ định của bác sĩ",
+      "Tránh đứng hoặc ngồi một chỗ quá lâu",
+      "Thường xuyên nâng cao chân khi nghỉ ngơi",
+      "Duy trì cân nặng hợp lý",
+      "Tập các bài tập chuyên biệt cho bệnh suy giãn tĩnh mạch"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +109,75 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập thể dục đều đặn, đặc biệt là đi bộ để khuyến khích lưu lượng máu ở chân",
+      "Kiểm soát cân nặng, giảm cân thừa để loại bỏ áp lực không cần thiết khỏi tĩnh mạch",
+      "Chọn giày dép phù hợp, tránh giày cao gót, nên đi giày gót thấp",
+      "Tránh mặc quần áo chật quanh eo, chân hoặc háng",
+      "Nâng cao chân khi nghỉ ngơi, tối ngủ kê cao chân hơn mức tim khoảng 10cm",
+      "Thay đổi vị trí thường xuyên, tránh ngồi hoặc đứng trong thời gian dài"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy giãn tĩnh mạch sâu chi dưới là gì?",
+      "answer": "Suy tĩnh mạch sâu chi dưới là tình trạng trong đó có sự hư hỏng của các van tĩnh mạch dẫn tới sự xuất hiện các dòng máu trào ngược trong hệ thống tĩnh mạch. Dòng trào ngược gây ra tình trạng ứ trệ máu tĩnh mạch tại ngoại vi, làm xuất hiện các triệu chứng như nhức mỏi, vọp bẻ, sưng phù chân, rối loạn biến dưỡng, chàm da, loét không lành."
+    },
+    {
+      "question": "Các triệu chứng của suy giãn tĩnh mạch sâu chi dưới là gì?",
+      "answer": "Các triệu chứng thường gặp bao gồm: nặng mỏi chân, đau chân, phù chân về chiều, tê chân, vọp bẻ và chuột rút, cảm giác dị cảm như nóng rát chân hoặc kiến bò. Trong các trường hợp nghiêm trọng hơn có thể thấy thay đổi màu sắc da, chàm da, xơ cứng da và loét da mặt trong mắt cá chân."
+    },
+    {
+      "question": "Ai có nguy cơ mắc bệnh suy giãn tĩnh mạch sâu chi dưới?",
+      "answer": "Những người có nguy cơ cao mắc bệnh này bao gồm: người cao tuổi (từ 45-50 tuổi trở lên), phụ nữ (gặp ở nữ nhiều hơn nam), người làm nghề phải đứng lâu, người có tiền sử gia đình mắc bệnh tương tự, người béo phì, phụ nữ đã mang thai và sinh nở nhiều lần, và người có tiền sử táo bón kinh niên."
+    },
+    {
+      "question": "Làm thế nào để điều trị suy giãn tĩnh mạch sâu chi dưới?",
+      "answer": "Điều trị suy giãn tĩnh mạch sâu chi dưới tùy thuộc vào mức độ nghiêm trọng, bao gồm: sử dụng vớ áp lực, chích xơ tạo bọt dưới hướng dẫn siêu âm (cho các trường hợp nhẹ), can thiệp nội tĩnh mạch bằng laser hay sóng cao tần (RFA), và sử dụng keo tĩnh mạch VenaSeal. Ngoài ra, các biện pháp hỗ trợ bao gồm tập thể dục, kiểm soát cân nặng, nâng cao chân khi nghỉ ngơi."
+    },
+    {
+      "question": "Có thể phòng ngừa suy giãn tĩnh mạch sâu chi dưới bằng cách nào?",
+      "answer": "Các biện pháp phòng ngừa bao gồm: tập thể dục đều đặn, đặc biệt là đi bộ; kiểm soát cân nặng; chọn giày dép phù hợp, tránh giày cao gót; tránh mặc quần áo chật; nâng cao chân khi nghỉ ngơi; thay đổi vị trí thường xuyên, tránh ngồi hoặc đứng trong thời gian dài; và có thể sử dụng vớ áp lực theo khuyến nghị của bác sĩ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nặng mỏi chân và đau chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-gian-tinh-mach-sau-chi-duoi",
+        "suy-gian-tinh-mach-chi-duoi",
+        "tac-dong-mach"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy phù chân về chiều và tê chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-gian-tinh-mach-sau-chi-duoi",
+        "suy-tim",
+        "suy-than"
+      ]
+    },
+    {
+      "question": "Tôi hay bị vọp bẻ, chuột rút và nóng rát chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-gian-tinh-mach-sau-chi-duoi",
+        "thieu-canxi",
+        "thieu-kali"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như kiến bò vùng cẳng chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-gian-tinh-mach-sau-chi-duoi",
+        "benh-than-kinh-ngoai-bien"
+      ]
+    },
+    {
+      "question": "Tôi hay bị thay đổi màu sắc da vùng cẳng chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-gian-tinh-mach-sau-chi-duoi",
+        "suy-tinh-mach-man-tinh"
+      ]
     }
   ]
 }

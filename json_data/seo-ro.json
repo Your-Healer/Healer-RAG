@@ -1,39 +1,107 @@
 {
   "disease_id": "seo-ro",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sẹo rỗ",
+  "disease_alternative_names": ["Sẹo lõm", "Acne scars"],
+  "disease_definition": "Sẹo rỗ là tình trạng da xuất hiện các vết lõm sâu có kích thước, hình dạng không đồng đều trên bề mặt da nên còn được gọi là sẹo lõm. Khi tổ chức nguyên bào sợi ở trung bì bị tổn thương, đứt gãy, không sản xuất collagen, elastin làm mất khả năng tái tạo da, không thể lấp đầy vết thương nên khi vết thương lành để lại những vết lõm trên da.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Vết lõm trên bề mặt da",
+      "description": "Da xuất hiện các vết lõm sâu có kích thước, hình dạng không đồng đều trên bề mặt da, đặc biệt là ở vùng má và cằm"
+    },
+    {
+      "name": "Da trở nên lồi lõm, khô nhám",
+      "description": "Bề mặt da không còn mịn màng mà trở nên lồi lõm, khô nhám và sần sùi sau khi bị mụn hoặc các tổn thương khác"
+    },
+    {
+      "name": "Sẹo chân đáy nhọn",
+      "description": "Sẹo có hình dạng như vật nhọn đâm sâu vào cấu trúc da, thường rộng hơn 2mm và sâu hơn 0.5mm khiến bề mặt da lỗ chỗ"
+    },
+    {
+      "name": "Sẹo hình chân vuông",
+      "description": "Sẹo có các cạnh thẳng đứng, rộng hơn sẹo chân đáy nhọn, giống như một vết lõm lớn hoặc miệng núi lửa phổ biến ở dưới má, hàm"
+    },
+    {
+      "name": "Sẹo hình đáy tròn",
+      "description": "Sẹo có các vết lõm với cạnh dốc, nhấp nhô trên bề mặt da như hình lượn sóng, thường xuất hiện ở má dưới và cằm"
+    },
+    {
+      "name": "Sẹo rỗ hỗn hợp",
+      "description": "Da xuất hiện tất cả các dạng sẹo rỗ đáy nhọn, chân vuông, đáy tròn, làm da kém mịn màng hơn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Khi tổ chức nguyên bào sợi ở trung bì bị tổn thương, đứt gãy, không sản xuất collagen, elastin làm mất khả năng tái tạo da, không thể lấp đầy vết thương nên khi vết thương lành để lại những vết lõm trên da.",
+    "related_factors": "Mụn (mụn trứng cá, mụn đầu đen, mụn bọc, mụn mủ), thủy đậu, tai nạn (bỏng, vấp ngã, tai nạn giao thông), phẫu thuật, viêm nang lông, áp xe da.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Mụn viêm nặng và không chăm sóc da đúng cách",
+    "Thói quen dùng tay nặn mụn",
+    "Cơ địa dễ để lại sẹo",
+    "Da mặt tiếp xúc với nhiều loại mỹ phẩm mà không tẩy trang kỹ",
+    "Không điều trị mụn trứng cá dứt điểm",
+    "Vệ sinh da không đúng cách",
+    "Làn da dầu và dễ bị mụn"
+  ],
+  "complications": [
+    "Mất tự tin trước đám đông",
+    "Lão hóa da sớm",
+    "Ảnh hưởng đến thẩm mỹ",
+    "Giảm cơ hội tìm việc làm ở lĩnh vực cần ngoại hình"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám da: bác sĩ dùng đèn led kiểm tra tình trạng da",
+      "Soi da: đánh giá độ đàn hồi, cấu trúc, loại da từ lớp biểu bì đến hạ bì"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Soi da chuyên sâu",
+        "description": "Việc soi da không đau, diễn ra nhanh chóng, giúp bác sĩ tối ưu việc chẩn đoán tình trạng da, đánh giá độ đàn hồi, cấu trúc, loại da từ biểu bì đến hạ bì"
+      },
+      {
+        "name": "Đánh giá mức độ sẹo rỗ",
+        "description": "Bác sĩ đánh giá tình trạng sẹo rỗ với 4 mức độ: điểm vàng (sẹo màu đỏ nhưng bằng phẳng), nhẹ (trang điểm che được), trung bình (nhìn rõ ở khoảng cách gần), nặng (nhìn thấy rõ ở khoảng cách 50cm)"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiệu quả điều trị tùy thuộc vào tình trạng sẹo rỗ. Sẹo rỗ lâu năm khi điều trị sẽ tốn nhiều thời gian và khó đạt hiệu quả hơn so với vết sẹo mới.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nguyên liệu thiên nhiên",
+        "description": "Sử dụng rau má, nha đam, nghệ tươi, bột trà xanh giàu vitamin A, E, B1, B6 để hỗ trợ điều trị sẹo rỗ, giúp bảo vệ và tái tạo da, tăng sinh collagen và chống oxy hóa"
+      },
+      {
+        "name": "Chemical peels (Peel da)",
+        "description": "Sử dụng các axit hữu cơ như AHA, BHA hoặc TCA kích thích quá trình bong vảy lớp biểu bì, thúc đẩy quá trình thay mới, tái tạo da"
+      },
+      {
+        "name": "Tạo tổn thương giả",
+        "description": "Sử dụng phương pháp lăn kim hoặc vi kim để tạo các tổn thương nhỏ nhằm kích thích sản xuất collagen để cải thiện tình trạng da"
+      },
+      {
+        "name": "Mài da",
+        "description": "Sử dụng thiết bị cầm tay gọi là máy mài da, tạo ra ma sát để loại bỏ các lớp ngoài của da, chỉ tác động lên bề mặt da"
+      },
+      {
+        "name": "Tiêm filler",
+        "description": "Đưa chất làm đầy vào lớp trung bì hoặc bì tại vị trí sẹo rỗ với mục đích nâng cao bề mặt da, nâng đỡ mô dưới da và lấp đầy sẹo rỗ"
+      },
+      {
+        "name": "Tái tạo bằng laser",
+        "description": "Sử dụng laser fractional CO2 hoặc không xâm lấn để kích thích quá trình tái tạo tế bào bên dưới vết sẹo, đốt cháy lớp ngoài cùng và kích thích sự phát triển tế bào mới"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ quy định của bác sĩ và uống thuốc đủ liều nếu được kê toa",
+      "Dùng bông tẩy trang hay gạc để vệ sinh da trong 1-3 ngày đầu sau điều trị",
+      "Từ 3-7 ngày, có thể rửa mặt nhưng không được kì cọ, chà xát mạnh",
+      "Sau 7 ngày được sử dụng sữa rửa mặt dịu nhẹ",
+      "Sử dụng các sản phẩm cấp ẩm cho da khi da được hoàn thiện",
+      "Tránh tiếp xúc với ánh nắng trong tuần đầu điều trị",
+      "Sử dụng kem chống nắng thường xuyên sau 7 ngày điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +109,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chăm sóc da đúng cách khi bị mụn, không nên dùng tay nặn",
+      "Tẩy trang, rửa mặt kỹ càng và dùng que nặn mụn hoặc rửa sạch tay",
+      "Sử dụng kem chống nắng khi ra ngoài để tránh bụi bẩn bám sâu vào da",
+      "Tẩy tế bào chết định kỳ để giữ lỗ chân lông thoáng khí",
+      "Chọn sản phẩm tẩy tế bào chết nhẹ nhàng có chứa AHA, BHA và retinol",
+      "Uống thuốc theo toa nếu tình trạng mụn không cải thiện",
+      "Ăn thực phẩm giàu vitamin A, B, E để tăng lượng collagen",
+      "Uống đủ 2 lít nước mỗi ngày để cấp ẩm cho da"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sẹo rỗ là gì?",
+      "answer": "Sẹo rỗ là tình trạng da xuất hiện các vết lõm sâu có kích thước, hình dạng không đồng đều trên bề mặt da. Khi tổ chức nguyên bào sợi ở trung bì bị tổn thương, đứt gãy, không sản xuất collagen, elastin làm mất khả năng tái tạo da, không thể lấp đầy vết thương nên khi vết thương lành để lại những vết lõm trên da."
+    },
+    {
+      "question": "Sẹo rỗ có tự đầy được không?",
+      "answer": "Sẹo rỗ không thể tự đầy lên. Sẹo rỗ là quá trình chữa lành sau khi da bị tổn thương. Chúng tạo nên sẹo một phần để làm hàng rào che chắn cho da khỏi vi khuẩn và các tác nhân gây hại khác. Đây được xem như một dạng tổn thương vĩnh viễn vì các nguyên bào sợi bị đứt gãy không thể sản xuất tiếp collagen."
+    },
+    {
+      "question": "Sẹo rỗ có trị được không?",
+      "answer": "Có! Với y học hiện đại ngày nay, điều trị sẹo rỗ không quá khó. Tuy nhiên, hiệu quả điều trị còn tùy thuộc vào tình trạng sẹo rỗ. Sẹo rỗ lâu năm khi điều trị sẽ tốn nhiều thời gian và khó đạt hiệu quả hơn so với vết sẹo mới. Có nhiều phương pháp điều trị như nguyên liệu thiên nhiên, chemical peels, lăn kim, vi kim, mài da, tiêm filler, và laser."
+    },
+    {
+      "question": "Các loại sẹo rỗ thường gặp là gì?",
+      "answer": "Các dạng sẹo rỗ thường gặp bao gồm: Sẹo chân đáy nhọn (hình dạng như vật nhọn đâm sâu vào cấu trúc da), Sẹo hình chân vuông (có các cạnh thẳng đứng, giống một vết lõm lớn), Sẹo hình đáy tròn (có các vết lõm với cạnh dốc, nhấp nhô trên bề mặt da), và Sẹo rỗ hỗn hợp (xuất hiện tất cả các dạng sẹo rỗ trên)."
+    },
+    {
+      "question": "Trị sẹo rỗ nên ăn gì và kiêng gì?",
+      "answer": "Nên ăn các thực phẩm giúp tăng khả năng chữa lành vết thương như thịt, cá, trứng, sữa, bông cải xanh, bơ, kiwi và nhóm thực phẩm giàu vitamin A, B, E. Nên kiêng các thực phẩm làm từ nếp (bánh chưng, xôi), một số loại rau (rau muống, rau ngót, rau dền) và hải sản có vỏ cứng (tôm, cua, ghẹ, ốc) vì chúng có thể làm tình trạng sẹo nghiêm trọng hơn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da xuất hiện các vết lõm sâu có kích thước, hình dạng không đồng đều trên bề mặt da, đặc biệt là ở vùng má và cằm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["seo-ro", "seo-mun"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da mình trở nên lồi lõm, khô nhám và sần sùi sau khi bị mụn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["seo-ro", "seo-mun"]
+    },
+    {
+      "question": "Tôi hay bị mụn viêm nặng và không chăm sóc da đúng cách. Bây giờ da tôi xuất hiện nhiều vết lõm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["seo-ro", "mun-trung-ca"]
+    },
+    {
+      "question": "Tôi có làn da dễ bị tổn thương và thường để lại sẹo sau khi lành. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["seo-ro", "seo-loi"]
+    },
+    {
+      "question": "Tôi từng nặn mụn và bây giờ da tôi có nhiều vết lõm sâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["seo-ro", "seo-mun"]
     }
   ]
 }

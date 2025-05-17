@@ -1,58 +1,192 @@
 {
   "disease_id": "sot-ret",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sốt rét",
+  "disease_alternative_names": ["Malaria", "Bệnh sốt rét"],
+  "disease_definition": "Sốt rét là bệnh do ký sinh trùng Plasmodium gây ra với các triệu chứng đau đầu, sốt, lạnh run và dễ tử vong. Người mắc bệnh sau khi bị muỗi Anophen đốt từ 10-15 ngày.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt, ớn lạnh",
+      "description": "Người bệnh có thể sốt theo chu kỳ, sốt liên tục hoặc sốt không thành cơn, kèm theo cảm giác ớn lạnh rét run, nổi da gà"
+    },
+    {
+      "name": "Đau đầu và đau bụng",
+      "description": "Người bệnh bị đau đầu dữ dội, kèm theo đau bụng do các cơ quan nội tạng như gan lách sưng to"
+    },
+    {
+      "name": "Mệt mỏi, thở nhanh, nhịp tim nhanh",
+      "description": "Người bệnh cảm thấy mệt mỏi suy nhược, khó thở và tim đập nhanh hơn bình thường"
+    },
+    {
+      "name": "Ho và đau cơ khớp",
+      "description": "Triệu chứng ho xuất hiện cùng với đau nhức cơ bắp và các khớp trong cơ thể"
+    },
+    {
+      "name": "Tiêu chảy và phình to lách, gan to",
+      "description": "Người bệnh có thể bị tiêu chảy, đồng thời các cơ quan nội tạng như gan và lách sưng to lên"
+    },
+    {
+      "name": "Thiếu máu và xanh xao",
+      "description": "Da tái xanh, người suy nhược do tình trạng thiếu máu khi hồng cầu bị phá hủy bởi ký sinh trùng"
+    },
+    {
+      "name": "Rối loạn ý thức",
+      "description": "Trong trường hợp sốt rét ác tính, người bệnh có thể bị rối loạn ý thức như mơ sảng, nói lẩm bẩm, ngủ li bì hoặc nhìn lờ đờ"
+    },
+    {
+      "name": "Vàng da",
+      "description": "Người bệnh bị vàng da, vàng mắt, phân và nước tiểu cũng có màu vàng do biến chứng gan mật"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Sốt rét do ký sinh trùng Plasmodium gây ra. Có 5 loài gây bệnh ở người: P.vivax, P.falciparum (nguy hiểm nhất), P.malariae, P.ovale và P.knowlesi. Riêng Việt Nam có 3 loại: P. falciparum, P.vivax và P.malariae.",
+    "related_factors": "Khi muỗi Anophen đốt người bệnh sốt rét, nó hút theo giao bào của ký sinh trùng. Trong cơ thể muỗi, giao bào phát triển thành ký sinh trùng non và tập trung ở tuyến nước bọt muỗi. Khi muỗi đốt người khác, ký sinh trùng non xâm nhập vào máu và đến gan, phát triển trong tế bào gan và cuối cùng giải phóng vào máu, gây bệnh.",
+    "transmission_routes": [
+      "Muỗi truyền: Đây là phương thức chủ yếu để bệnh sốt rét lây lan",
+      "Truyền máu: Khi người hiến máu nhiễm ký sinh trùng sốt rét nhưng không hay biết",
+      "Mẹ truyền sang con: Thai phụ mắc sốt rét sẽ truyền sang con qua nhau thai",
+      "Tiêm chích: Qua bơm tiêm dính máu có ký sinh trùng sốt rét"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người sống ở vùng rừng núi",
+    "Người canh tác làm nương rẫy, trồng cao su",
+    "Người đi du lịch đến vùng lưu hành bệnh sốt rét",
+    "Trẻ nhỏ, trẻ sơ sinh",
+    "Người cao tuổi",
+    "Thai phụ"
+  ],
+  "complications": [
+    "Sốt rét thể não: Các mạch máu nhỏ không thể lưu thông đến não do tế bào máu chứa đầy ký sinh trùng, gây phù não và tổn thương não",
+    "Phù phổi: Dịch tiết tích tụ gây phù phổi, khó thở và nguy cơ tử vong cao",
+    "Suy nội tạng: Suy thận, suy gan hoặc vỡ lá lách",
+    "Thiếu máu: Thiếu tế bào hồng cầu làm nhiệm vụ vận chuyển oxy",
+    "Hạ đường huyết: Có thể dẫn đến hôn mê và tử vong",
+    "Tử vong: Tỷ lệ tử vong có thể lên đến 20% trong các ca bệnh nặng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: Đánh giá các triệu chứng đặc trưng",
+      "Các phương pháp xét nghiệm máu để phân biệt sốt rét với các bệnh khác"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nhuộm Giemsa",
+        "description": "Được coi là chuẩn vàng để xác định ký sinh trùng sốt rét. Lam máu nhuộm giemsa được soi dưới kính hiển vi quang học"
+      },
+      {
+        "name": "Nhuộm nhanh AO",
+        "description": "Mẫu máu của người bệnh được soi dưới kính hiển vi huỳnh quang"
+      },
+      {
+        "name": "Phương pháp QBC",
+        "description": "Mẫu máu được soi dưới kính hiển vi huỳnh quang để phát hiện ký sinh trùng"
+      },
+      {
+        "name": "Test nhanh miễn dịch sắc ký",
+        "description": "Phát hiện kháng nguyên ký sinh trùng sốt rét hiện diện trong máu"
+      },
+      {
+        "name": "Sinh học phân tử PCR",
+        "description": "Có độ nhạy và độ đặc hiệu cao, có thể phát hiện được lượng ký sinh trùng rất nhỏ trong máu"
+      },
+      {
+        "name": "Phát hiện kháng thể sốt rét",
+        "description": "Phương pháp huỳnh quang gián tiếp và phương pháp liên kết lên men hấp thụ miễn dịch để phát hiện kháng thể trong huyết thanh"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc phát hiện sớm bệnh sốt rét không chỉ giúp người bệnh được điều trị kịp thời, hạn chế số ca tử vong mà còn giúp cộng đồng kiểm soát sớm nguồn bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị cắt cơn sốt rét nhiễm P.vivax",
+        "description": "Sử dụng thuốc chloroquin tổng liều 25mg/kg cân nặng trong 3 ngày, hoặc artesunat tổng liều 16mg/kg cân nặng chia 7 ngày, hoặc quinin sulfat liều 30mg/kg/24 giờ chia 3 lần trong 7 ngày"
+      },
+      {
+        "name": "Điều trị nhiễm ký sinh trùng P.falciparum",
+        "description": "Sử dụng thuốc có dẫn xuất chất artemisinin, dạng thuốc viên dihydroartemisinin và piperaquine phosphate với liều lượng theo độ tuổi trong 3 ngày"
+      },
+      {
+        "name": "Điều trị chống tái phát và chống lây lan",
+        "description": "Dùng thuốc primaquine với liều 0,5mg bazơ/kg cân nặng/24 giờ. Với P.falciparum chỉ cần 1 ngày, với P.vivax phải điều trị 10 ngày liền"
+      },
+      {
+        "name": "Điều trị sốt rét có biến chứng",
+        "description": "Sử dụng thuốc artesunat đường tĩnh mạch với liều lượng ban đầu 2,4mg/kg, sau 24 giờ tiêm nhắc lại 1,2mg/kg, sau đó mỗi ngày tiêm 1 liều 1,2mg/kg cho đến khi có thể uống được"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ đúng liều lượng và thời gian dùng thuốc theo chỉ định",
+      "Theo dõi chặt chẽ các triệu chứng và biến chứng trong quá trình điều trị",
+      "Kiểm tra lại máu sau điều trị để đảm bảo hết ký sinh trùng",
+      "Đối với phụ nữ mang thai cần được tư vấn cụ thể vì một số thuốc có thể gây hại cho thai nhi",
+      "Nếu đã nhiễm P.vivax hoặc P.ovale, cần điều trị triệt để để tránh tái phát"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly bệnh nhân khỏi muỗi bằng màn chống muỗi",
+      "Điều trị triệt để để tiêu diệt ký sinh trùng trong máu",
+      "Sử dụng thuốc primaquine để diệt giao bào, ngăn muỗi hút ký sinh trùng"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ngủ mùng dù ở trong nhà, nương rẫy, hay đi du lịch trong rừng",
+      "Diệt muỗi bằng phun thuốc định kỳ",
+      "Tẩm màn hóa chất để diệt muỗi",
+      "Xoa kem và hương xua muỗi",
+      "Phát quang bụi rậm, khơi thông cống rãnh quanh nhà",
+      "Khơi thông dòng chảy, vớt rong rêu làm thoáng mặt hồ nước",
+      "Làm nhà xa rừng và xa nguồn nước",
+      "Mặc quần áo dài buổi tối",
+      "Uống thuốc dự phòng khi đến vùng có dịch sốt rét"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sốt rét là bệnh gì?",
+      "answer": "Sốt rét là bệnh do ký sinh trùng Plasmodium gây ra với các triệu chứng đau đầu, sốt, lạnh run và có thể dẫn đến tử vong. Người mắc bệnh thường bị nhiễm sau khi bị muỗi Anophen đốt từ 10-15 ngày. Bệnh chủ yếu xảy ra ở các nước nhiệt đới và cận nhiệt đới, gây ra hơn 400.000 ca tử vong mỗi năm trên toàn thế giới."
+    },
+    {
+      "question": "Các triệu chứng của bệnh sốt rét là gì?",
+      "answer": "Các triệu chứng thường gặp bao gồm: sốt, ớn lạnh, đau đầu, đau bụng, mệt mỏi, thở nhanh, nhịp tim nhanh, ho, đau cơ khớp, tiêu chảy, phình to lách và gan to. Trong trường hợp sốt rét ác tính, người bệnh có thể bị rối loạn ý thức, sốt cao liên tục, đau đầu dữ dội, rối loạn tiêu hóa, da tái xanh, thiếu máu nặng, suy thận, phù phổi cấp, hạ đường huyết, xuất huyết và co giật toàn thân."
+    },
+    {
+      "question": "Nguyên nhân gây bệnh sốt rét là gì?",
+      "answer": "Sốt rét do ký sinh trùng Plasmodium gây ra, lây truyền chủ yếu qua vết đốt của muỗi Anophen. Có 5 loài ký sinh trùng gây bệnh ở người: P.vivax, P.falciparum (nguy hiểm nhất), P.malariae, P.ovale và P.knowlesi. Riêng tại Việt Nam có 3 loại: P.falciparum, P.vivax và P.malariae. Bệnh cũng có thể lây qua đường truyền máu, từ mẹ sang con qua nhau thai, hoặc qua tiêm chích dùng chung bơm kim tiêm."
+    },
+    {
+      "question": "Sốt rét ác tính là gì?",
+      "answer": "Sốt rét ác tính là dạng sốt rét nguy kịch, chủ yếu do ký sinh trùng P.falciparum gây ra. Bệnh gây tắc nghẽn các mao mạch nhỏ, dẫn đến rối loạn tuần hoàn, giảm tưới máu đến các cơ quan và gây tổn thương não. Người bệnh có các biến chứng nguy hiểm đe dọa tính mạng như rối loạn ý thức, rối loạn tiêu hóa, thiếu máu nặng, suy thận, phù phổi cấp, hạ đường huyết, xuất huyết và co giật. Không được điều trị kịp thời, tỷ lệ tử vong rất cao."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa bệnh sốt rét?",
+      "answer": "Để phòng ngừa sốt rét, cần ngủ mùng dù ở trong nhà hay ngoài trời, diệt muỗi bằng phun thuốc định kỳ, tẩm màn hóa chất, xoa kem và dùng hương xua muỗi, phát quang bụi rậm, khơi thông cống rãnh quanh nhà, làm nhà xa rừng và xa nguồn nước, mặc quần áo dài buổi tối. Khi đến vùng có dịch sốt rét, nên uống thuốc dự phòng theo hướng dẫn y tế."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sốt, ớn lạnh, đau đầu và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-ret", "sot-xuat-huyet", "cum"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và thở nhanh, nhịp tim nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-ret", "thieu-mau", "suy-tim"]
+    },
+    {
+      "question": "Tôi hay bị sốt cao liên tục và rối loạn ý thức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-ret", "viem-nao", "sot-xuat-huyet"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nói lẩm bẩm, ngủ li bì và nhìn lờ đờ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-ret", "viem-nao", "sot-ret-the-nao"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da tái xanh và đau đầu dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-ret", "thieu-mau", "cao-huyet-ap"]
     }
   ]
 }

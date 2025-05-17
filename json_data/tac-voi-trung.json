@@ -1,39 +1,109 @@
 {
   "disease_id": "tac-voi-trung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tắc vòi trứng",
+  "disease_alternative_names": ["Tắc ống dẫn trứng"],
+  "disease_definition": "Tắc vòi trứng hay tắc ống dẫn trứng là tình trạng vòi trứng bị chít hẹp, ngăn cản trứng và tinh trùng gặp nhau để thụ thai; hoặc hợp tử đã thụ tinh không thể di chuyển vào buồng tử cung để 'làm tổ'. Đây là yếu tố chiếm từ 25 – 30% trong tất cả các trường hợp vô sinh ở phụ nữ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng dưới",
+      "description": "Cơn đau ở vùng bụng, tương tự với cơn đau xảy ra trong kỳ kinh nguyệt, mức độ nặng nhẹ tùy thuộc vào tình trạng bệnh lý"
+    },
+    {
+      "name": "Chu kỳ kinh nguyệt thất thường",
+      "description": "Kinh nguyệt không đều và không theo chu kỳ bình thường"
+    },
+    {
+      "name": "Thời gian hành kinh kéo dài",
+      "description": "Thời gian hành kinh kéo dài và lượng kinh nhiều hơn bình thường"
+    },
+    {
+      "name": "Đi tiểu nhiều lần",
+      "description": "Hiện tượng đi tiểu nhiều lần, đi tiểu gấp gây mệt mỏi và bất tiện trong sinh hoạt hằng ngày"
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Cảm giác đau ở vùng bụng dưới khi quan hệ tình dục"
+    },
+    {
+      "name": "Khó thụ thai",
+      "description": "Không có thai sau 1 năm quan hệ không sử dụng biện pháp tránh thai"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tắc vòi trứng thường do viêm nhiễm phụ khoa, các bệnh lây truyền qua đường tình dục, và các yếu tố khác gây tổn thương ống dẫn trứng.",
+    "related_factors": "Bệnh viêm vùng chậu (PID) hình thành mô sẹo ở ống dẫn trứng hoặc gây ứ dịch buồng trứng (Hydrosalpinx); lạc nội mạc tử cung gây tổn thương vòi trứng; bệnh lây truyền qua đường tình dục như Chlamydia và lậu; tiền sử mang thai ngoài tử cung; bẩm sinh hoặc di chứng sau phẫu thuật ổ bụng; sự phát triển của các u xơ tử cung.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử mắc bệnh viêm vùng chậu (PID)",
+    "Lạc nội mạc tử cung",
+    "Nhiễm trùng lây truyền qua đường tình dục (Chlamydia, lậu)",
+    "Tiền sử mang thai ngoài tử cung",
+    "Tiền sử phẫu thuật ổ bụng hoặc vùng chậu",
+    "U xơ tử cung",
+    "Dị tật bẩm sinh ở ống dẫn trứng",
+    "Đời sống tình dục không an toàn",
+    "Vệ sinh vùng kín không đúng cách"
+  ],
+  "complications": [
+    "Vô sinh",
+    "Thai ngoài tử cung",
+    "Đau bụng dưới dữ dội",
+    "Nhiễm trùng vùng chậu và khu màng bụng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử và khám lâm sàng",
+      "Đánh giá tiền sử bệnh của người bệnh",
+      "Đánh giá khả năng sinh sản"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang tử cung – vòi trứng (HSG)",
+        "description": "Kỹ thuật chẩn đoán hình ảnh sử dụng thuốc nhuộm để quan sát bên trong tử cung và vòi trứng, xác định vị trí tắc nghẽn"
+      },
+      {
+        "name": "Nội soi",
+        "description": "Phương pháp đưa dụng cụ phẫu thuật gọi là nội soi vào qua vết mổ nhỏ để quan sát trực tiếp tình trạng của vòi trứng và phát hiện các vấn đề như mô sẹo hoặc lạc nội mạc tử cung"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị tắc vòi trứng phụ thuộc vào mức độ nghiêm trọng của tình trạng tắc nghẽn, độ tuổi của người bệnh và mong muốn có con.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc kháng sinh để tiêu viêm, thông tắc vùng bị tắc cho các trường hợp tắc vòi trứng nhẹ do viêm"
+      },
+      {
+        "name": "Bơm hơi thông tắc vòi trứng",
+        "description": "Biện pháp áp dụng trong những trường hợp tắc vòi trứng nhẹ, sử dụng áp suất để làm thông tắc"
+      },
+      {
+        "name": "Phẫu thuật nội soi vòi trứng",
+        "description": "Đặt dụng cụ nội soi vào buồng tử cung, sau đó đưa dụng cụ chuyên khoa vào vòi trứng để đẩy và thông tắc ống dẫn trứng"
+      },
+      {
+        "name": "Phẫu thuật cắt và nối ống dẫn trứng",
+        "description": "Cắt bỏ đoạn ống dẫn trứng bị tắc không thể thông, rồi nối lại với nhau, giúp trứng di chuyển và thụ tinh như bình thường"
+      },
+      {
+        "name": "Phẫu thuật cắt ống dẫn trứng",
+        "description": "Áp dụng khi các biện pháp thông tắc không mang lại hiệu quả, vòi trứng bị tắc quá nặng, dịch ứ nhiều, không còn hy vọng thụ thai tự nhiên"
+      },
+      {
+        "name": "Thụ tinh ống nghiệm (IVF)",
+        "description": "Phương pháp hỗ trợ sinh sản giúp người bệnh vẫn có thể mang thai và sinh con bình thường, đặc biệt hiệu quả sau khi đã cắt bỏ vòi trứng ứ dịch nặng nề"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Tái khám đúng hẹn",
+      "Thực hiện lối sống khỏe mạnh",
+      "Tập luyện thể dục và thực hiện chế độ ăn lành mạnh",
+      "Không hút thuốc lá, không lạm dụng rượu bia",
+      "Điều trị triệt để các bệnh viêm nhiễm phụ khoa để tránh biến chứng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +111,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát các bệnh lây truyền qua đường tình dục thường xuyên",
+      "Thăm khám phụ khoa định kỳ",
+      "Điều trị sớm các bệnh viêm nhiễm phụ khoa",
+      "Sử dụng bao cao su khi quan hệ tình dục để phòng ngừa các bệnh STDs",
+      "Vệ sinh vùng kín đúng cách",
+      "Thực hiện chế độ ăn uống lành mạnh",
+      "Tập thể dục thường xuyên",
+      "Không hút thuốc lá, không lạm dụng rượu bia"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tắc vòi trứng có gây ra triệu chứng rõ ràng không?",
+      "answer": "Vòi trứng bị tắc thường không gây ra biểu hiện đặc biệt, vì thế rất nhiều người không hề hay biết hoặc dễ bị nhầm lẫn với các bệnh viêm nhiễm phụ khoa khác. Điều này thường được phát hiện khi họ khó thụ thai và được kiểm tra bằng phương pháp chụp X-quang tử cung vòi trứng."
+    },
+    {
+      "question": "Tại sao tắc vòi trứng lại dẫn đến vô sinh?",
+      "answer": "Vòi trứng đóng vai trò quan trọng trong việc thụ thai vì đây là nơi hầu hết trứng được thụ tinh với tinh trùng. Khi vòi trứng bị tắc, trứng và tinh trùng không thể gặp nhau để thụ thai; hoặc hợp tử đã thụ tinh không thể di chuyển vào buồng tử cung để làm tổ, dẫn đến vô sinh."
+    },
+    {
+      "question": "Tắc vòi trứng có thể gây ra những biến chứng gì?",
+      "answer": "Tắc vòi trứng nếu không được điều trị hiệu quả có thể gây ra những biến chứng nguy hiểm như: vô sinh (hậu quả nặng nề nhất), thai ngoài tử cung (khi trứng thụ tinh làm tổ ngay ở thành ống dẫn trứng) và đau bụng dưới dữ dội (do viêm nhiễm vùng chậu và khu màng bụng)."
+    },
+    {
+      "question": "Tắc vòi trứng có điều trị được không?",
+      "answer": "Hiện nay, với các tiến bộ vượt bậc trong ngành y tế, tắc vòi trứng có khả năng được điều trị dứt điểm bằng nhiều phương pháp khác nhau như điều trị nội khoa bằng thuốc kháng sinh, bơm hơi thông tắc, phẫu thuật nội soi, phẫu thuật cắt và nối ống dẫn trứng, hoặc trong trường hợp nặng có thể áp dụng kỹ thuật thụ tinh ống nghiệm (IVF)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dưới, chu kỳ kinh nguyệt thất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tắc vòi trứng",
+        "Lạc nội mạc tử cung",
+        "Viêm vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tắc vòi trứng",
+        "Viêm vùng chậu",
+        "Lạc nội mạc tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng dưới và ra nhiều khí hư bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tắc vòi trứng",
+        "Viêm nhiễm phụ khoa",
+        "Bệnh lây truyền qua đường tình dục"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm vùng chậu (PID) và lo lắng về nguy cơ tắc vòi trứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tắc vòi trứng",
+        "Viêm phụ khoa",
+        "Nhiễm trùng vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi bị lạc nội mạc tử cung và lo lắng về nguy cơ tắc vòi trứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tắc vòi trứng", "Lạc nội mạc tử cung", "Vô sinh"]
     }
   ]
 }

@@ -1,39 +1,87 @@
 {
   "disease_id": "polyp-day-thanh-quan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Polyp dây thanh quản",
+  "disease_alternative_names": [
+    "Polyp thanh quản",
+    "Polyp dây thanh",
+    "Vocal cord polyp"
+  ],
+  "disease_definition": "Polyp dây thanh là khối u lành tính ở dây thanh, kích thước của polyp có thể to hoặc nhỏ, có cuống hoặc không có cuống, có thể bị xuất huyết bên trong, thường gây biến đổi giọng nói ở mọi lứa tuổi, đặc biệt là người trưởng thành. Tác hại của polyp dây thanh là làm cho giọng nói của người bệnh bị khàn tiếng liên tục, kéo dài.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khàn tiếng",
+      "description": "Rối loạn giọng là triệu chứng xuất hiện đầu tiên, do hai dây thanh âm không khép kín được, dây thanh rung động không đều dẫn đến hiện tượng khàn tiếng khi nói hoặc hát."
+    },
+    {
+      "name": "Mất hơi và hụt hơi khi nói",
+      "description": "Do khàn tiếng nên càng nói càng mất hơi nhiều, người bệnh thường nói mệt, hụt hơi và không nói được lâu."
+    },
+    {
+      "name": "Cảm giác vướng víu ở cổ họng",
+      "description": "Với loại polyp có chân, khi nói polyp có thể di động khi thanh môn đóng mở, người bệnh có cảm giác vướng vùng cổ họng như có sợi tóc hay dị vật cản trở."
+    },
+    {
+      "name": "Hắng giọng nhiều",
+      "description": "Do cảm giác vướng, người bệnh thường hắng giọng nhiều, càng làm cho polyp phù nề và giọng càng khàn đặc."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Polyp dây thanh thường là do tổn thương phù nề niêm mạc dây thanh kéo dài, dẫn đến thoái hóa niêm mạc tạo polyp.",
+    "related_factors": "Các yếu tố liên quan bao gồm viêm nhiễm vùng họng thanh quản, nói nhiều, nói to kéo dài, lạm dụng giọng nói hoặc do nghề nghiệp (giảng dạy, phát thanh viên, hướng dẫn viên du lịch, kinh doanh), hút thuốc lá, uống rượu bia, kích thích cơ học làm dây thanh căng quá mức, và sự thay đổi nội tiết tố.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nghề nghiệp liên quan đến việc sử dụng giọng nói nhiều như giáo viên, ca sĩ, hướng dẫn viên du lịch, phát thanh viên, nhân viên kinh doanh",
+    "Thường xuyên hút thuốc lá, uống rượu bia",
+    "Thói quen nói nhiều, nói to, la hét, hát liên tục",
+    "Viêm nhiễm vùng họng thanh quản kéo dài",
+    "Sự thay đổi nội tiết tố, đặc biệt ở phụ nữ trong thời kỳ kinh nguyệt"
+  ],
+  "complications": [
+    "Khàn tiếng kéo dài ảnh hưởng đến chất lượng cuộc sống",
+    "Ảnh hưởng nghiêm trọng đến công việc, đặc biệt với những người phải sử dụng giọng nói liên tục",
+    "Khó thở nếu polyp có kích thước to",
+    "Polyp không tự biến mất và cần được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Nội soi thanh quản thường quy: sử dụng hệ thống nội soi Tai Mũi Họng cùng ống nội soi thanh quản để quan sát tổn thương dây thanh",
+      "Nội soi Hoạt nghiệm thanh quản: sử dụng nguồn sáng sợi quang học quay lại hình ảnh di chuyển chậm của hoạt động dây thanh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi thanh quản",
+        "description": "Sử dụng ống mềm qua đường mũi hoặc ống cứng qua đường miệng để quan sát trực tiếp tổn thương trên dây thanh."
+      },
+      {
+        "name": "Nội soi hoạt nghiệm thanh quản",
+        "description": "Sử dụng máy nội soi chuyên dụng như Xion của Đức để khảo sát được hình thể và chức năng dây thanh, các tổn thương gây ảnh hưởng chức năng phát âm."
+      },
+      {
+        "name": "Phân tích giọng",
+        "description": "Sử dụng phần mềm phân tích giọng như DIVAS của Đức để xác định khách quan mức độ ảnh hưởng của tổn thương dây thanh đến chức năng phát âm."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không phải tất cả polyp dây thanh đều phải can thiệp điều trị bằng phẫu thuật. Tùy theo mức độ, giai đoạn bệnh, bác sĩ sẽ chỉ định phương pháp điều trị thích hợp nhất.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa cho triệu chứng nhẹ",
+        "description": "Hạn chế nói nhiều, nói to. Điều trị bằng thuốc kháng sinh, chống viêm. Tiếp tục theo dõi tái khám tại bệnh viện có chuyên khoa Tai Mũi Họng."
+      },
+      {
+        "name": "Phẫu thuật nội soi vi phẫu dây thanh",
+        "description": "Sử dụng ống nội soi thanh quản và bộ dụng cụ vi phẫu thanh quản để cắt polyp. Ca phẫu thuật thường diễn ra trong khoảng 30 phút, cắt trọn polyp dây thanh, cầm máu tại chỗ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế nói chuyện ít nhất trong vòng 3-5 ngày đầu sau phẫu thuật",
+      "Không la hét, ca hát, tằng hắng, ho khạc sau phẫu thuật",
+      "Nghỉ ngơi, ăn uống đầy đủ dinh dưỡng, tránh các thức ăn dị ứng",
+      "Kiêng thức uống có cồn và thuốc lá",
+      "Uống thuốc theo toa, tái khám đúng lịch hẹn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +89,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh sử dụng gắng sức dây thanh: hạn chế nói nhiều, nói to, la hét, hát liên tục",
+      "Giảm hút thuốc, giảm caffeine, giảm uống rượu bia",
+      "Bổ sung đầy đủ nước, uống 2 lít nước mỗi ngày",
+      "Tránh trào ngược dạ dày thực quản: ăn đúng bữa, tránh ăn khuya, uống thuốc dạ dày",
+      "Sử dụng khẩu trang phòng hộ khi tiếp xúc với hóa chất độc hại, ô nhiễm",
+      "Vệ sinh mũi họng thường xuyên"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Polyp dây thanh quản có nguy hiểm không?",
+      "answer": "Polyp thanh quản là một căn bệnh lành tính, không gây nguy hiểm đến tính mạng của người bệnh, nhưng gây biến đổi giọng nói. Khi khối u phát triển nhanh sẽ khiến người bệnh khó nói, khàn tiếng, hụt hơi, ảnh hưởng đến giao tiếp, công việc. Đặc biệt những người làm việc sử dụng giọng nói như: MC, ca sĩ, hoạt náo viên, nhân viên trực tổng đài, nhân viên bán hàng sẽ gặp nhiều khó khăn nếu không được chữa trị kịp thời."
+    },
+    {
+      "question": "Polyp dây thanh có thể phát triển thành ung thư không?",
+      "answer": "Polyp dây thanh thực sự không trở thành u ác tính (ung thư), nhưng tiêu chuẩn vàng để chẩn đoán polyp dây thanh là cắt polyp gửi giải phẫu bệnh, kết quả quan sát polyp đã nhuộm mô học trên kính hiển vi mới xác định chắc chắn không phải tổn thương ác tính."
+    },
+    {
+      "question": "Sau phẫu thuật cắt polyp dây thanh, bao lâu thì có thể phục hồi giọng nói?",
+      "answer": "Sau mổ khoảng 3 tuần, người bệnh có thể hồi phục giọng nói gần như bình thường. Khi nội soi kiểm tra, dây thanh sẽ hết tổn thương polyp. Tuy nhiên, người bệnh cần tuân thủ các hướng dẫn sau phẫu thuật như hạn chế nói chuyện trong 3-5 ngày đầu, không la hét, ca hát, tằng hắng, ho khạc, và kiêng các thức uống có cồn và thuốc lá."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khàn tiếng và mất hơi khi nói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-day-thanh-quan",
+        "viem-thanh-quan",
+        "ung-thu-thanh-quan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị hụt hơi khi nói và cảm thấy vướng víu ở cổ họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-day-thanh-quan",
+        "viem-hong",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy giọng nói thay đổi và khàn đặc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-day-thanh-quan",
+        "viem-thanh-quan",
+        "hau-phau-thanh-quan"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị khàn tiếng và mất hơi, kèm theo cảm giác vướng víu ở cổ họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-day-thanh-quan",
+        "viem-hong-thanh-quan",
+        "u-nang-day-thanh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khàn tiếng và hụt hơi khi hát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-day-thanh-quan",
+        "viem-day-thanh",
+        "hao-mon-day-thanh"
+      ]
     }
   ]
 }

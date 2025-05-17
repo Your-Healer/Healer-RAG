@@ -1,39 +1,142 @@
 {
   "disease_id": "suy-than-man",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy thận mạn",
+  "disease_alternative_names": [
+    "Bệnh thận mạn giai đoạn cuối",
+    "Suy thận giai đoạn cuối"
+  ],
+  "disease_definition": "Suy thận mạn là giai đoạn 5 – giai đoạn cuối – của bệnh thận mạn. Đây là giai đoạn nặng nhất với mức lọc cầu thận (GFR) < 15mL/ph/1,73 m2, biểu hiện bằng hội chứng urê máu cao. Tình trạng này có thể sẽ gây tử vong, nếu không được điều trị thay thế thận.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Buồn nôn, nôn mửa",
+      "description": "Cảm giác buồn nôn và nôn mửa thường xuyên"
+    },
+    {
+      "name": "Ăn uống kém ngon miệng",
+      "description": "Giảm cảm giác thèm ăn và không thấy ngon miệng khi ăn"
+    },
+    {
+      "name": "Mệt mỏi, suy nhược, uể oải",
+      "description": "Cảm giác mệt mỏi, thiếu năng lượng và uể oải kéo dài"
+    },
+    {
+      "name": "Gặp các vấn đề về giấc ngủ",
+      "description": "Khó ngủ, ngủ không sâu giấc hoặc rối loạn giấc ngủ"
+    },
+    {
+      "name": "Đi tiểu nhiều hơn hoặc ít hơn, tiểu đêm",
+      "description": "Thay đổi trong tần suất và số lượng đi tiểu, thường xuyên phải thức dậy vào ban đêm để đi tiểu"
+    },
+    {
+      "name": "Chuột rút các cơ bắp",
+      "description": "Các cơn chuột rút xuất hiện ở các cơ trên cơ thể"
+    },
+    {
+      "name": "Sưng phù bàn chân và mắt cá chân hoặc phù toàn thân",
+      "description": "Tích tụ chất lỏng gây sưng phù ở chân, mắt cá chân hoặc toàn thân"
+    },
+    {
+      "name": "Da ngứa, khô, nhợt nhạt xanh xao",
+      "description": "Da bị ngứa, khô và có màu nhợt nhạt do thiếu máu"
+    },
+    {
+      "name": "Tăng huyết áp khó kiểm soát",
+      "description": "Huyết áp cao không đáp ứng với thuốc điều trị thông thường"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở do chất lỏng tích tụ trong phổi"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Đau ngực do chất lỏng tích tụ ở màng tim"
+    },
+    {
+      "name": "Giảm khả năng tình dục",
+      "description": "Suy giảm ham muốn và khả năng tình dục"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Theo các chuyên gia Thận học, 3 nhóm nguyên nhân hàng đầu gây bệnh thận mạn trên thế giới là đái tháo đường, tăng huyết áp và bệnh cầu thận.",
+    "related_factors": "Các bệnh lý và tình trạng sức khỏe dẫn đến nguy cơ mắc bệnh bao gồm: bệnh đái tháo đường loại 1 hoặc loại 2, huyết áp cao, viêm cầu thận, viêm kẽ thận, bệnh thận đa nang, sự tắc nghẽn kéo dài của đường tiết niệu, trào ngược nước tiểu, nhiễm trùng thận tái phát, dùng thuốc điều trị kéo dài.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người hút thuốc lá",
+    "Người thừa cân, béo phì",
+    "Người da đen, người Mỹ gốc Á hoặc người Mỹ bản địa",
+    "Người có tiền sử gia đình bị mắc bệnh thận",
+    "Người có cấu trúc thận bất thường",
+    "Người bị đái tháo đường",
+    "Người bị tăng huyết áp",
+    "Người bị bệnh cầu thận"
+  ],
+  "complications": [
+    "Bệnh suy gan, hội chứng gan thận",
+    "Tình trạng tăng năng tuyến cận giáp",
+    "Tổn thương thần kinh gây co giật, rối loạn chức năng não, mất trí nhớ",
+    "Tổn thương hệ tiêu hóa gây chảy máu dạ dày, ruột",
+    "Các vấn đề về tim và mạch máu, thiếu máu, suy tim",
+    "Các vấn đề về xương khớp làm loãng xương, nhuyễn xương dễ gãy xương",
+    "Các tổn thương phổi do tích tụ dịch nhầy, nước gây phù nề",
+    "Nước trong màng tim, màng phổi, ổ bụng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử về tiền căn cá nhân diễn tiến trên 3 tháng",
+      "Khám lâm sàng để đánh giá các triệu chứng phổ biến",
+      "Đánh giá độ lọc cầu thận (GFR) để xác định mức độ tổn thương thận và giai đoạn",
+      "Kiểm tra tiền căn gia đình và bản thân có bệnh thận bẩm sinh, bệnh tim mạch, bệnh đái tháo đường"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Tổng phân tích tế bào máu",
+        "description": "Đánh giá tình trạng máu và nhóm máu của người bệnh"
+      },
+      {
+        "name": "Đánh giá chức năng thận",
+        "description": "Xét nghiệm BUN, creatinine và đo độ lọc cầu thận"
+      },
+      {
+        "name": "Phân tích nước tiểu",
+        "description": "Phân tích nước 10 thông số, ion đồ niệu, tỷ lệ albumin/creatinine niệu, đạm niệu 24 giờ"
+      },
+      {
+        "name": "Chẩn đoán hình ảnh cơ bản",
+        "description": "Đo điện tim (ECG), siêu âm tim doppler màu, X-quang tim phổi, siêu âm bụng tổng quát"
+      },
+      {
+        "name": "Chẩn đoán hình ảnh nâng cao",
+        "description": "Chụp cắt lớp CT scanner, chụp cộng hưởng từ (MRI) để tìm nguyên nhân nếu cần thiết"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu của việc điều trị suy thận mạn là nhằm chuẩn bị điều trị thay thế thận khi người bệnh tiến triển đến giai đoạn thận bị suy nặng; điều chỉnh liều dùng thuốc ở người bệnh suy thận; điều trị các biến chứng của hội chứng urê huyết cao như thiếu máu, tăng huyết áp, suy dinh dưỡng, rối loạn chuyển hóa canxi – phospho, điều trị các biến chứng tim mạch, rối loạn nước điện giải và các yếu tố nguy cơ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị triệu chứng",
+        "description": "Tùy theo các triệu chứng bất thường ở người bệnh, bác sĩ sẽ lựa chọn biện pháp chữa trị phù hợp, nhằm để người bệnh cảm thấy dễ chịu hơn"
+      },
+      {
+        "name": "Chạy thận nhân tạo (thẩm tách máu)",
+        "description": "Máu của người bệnh theo ống dẫn qua một hệ thống máy được đặt bên ngoài cơ thể để loại bỏ độc tố, chất thải. Thường được thực hiện 3 lần/tuần, mỗi lần khoảng 4 giờ"
+      },
+      {
+        "name": "Lọc màng bụng (thẩm phân phúc mạc)",
+        "description": "Lớp màng bên trong bụng (phúc mạc) của người bệnh hoạt động như một bộ lọc tự nhiên để đào thải chất thải và độc tố ra ngoài. Có thể thực hiện bằng lọc màng liên tục ngoại trú (CAPD) hoặc lọc màng bụng chu kỳ tự động (APD)"
+      },
+      {
+        "name": "Ghép thận",
+        "description": "Phẫu thuật thay thế thận đã bị mất chức năng bằng một quả thận khỏe mạnh từ người hiến tặng còn sống hoặc người đã chết não, chết tim. Sau khi ghép thành công, người bệnh không cần phải lọc máu nữa"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch điều trị thay thế thận nếu được chỉ định",
+      "Dùng thuốc theo toa của bác sĩ và thông báo với bác sĩ về bất kỳ tác dụng phụ nào",
+      "Theo dõi sức khỏe thường xuyên sau ghép thận để đảm bảo quá trình hồi phục",
+      "Dùng thuốc chống thải ghép và giảm nguy cơ biến chứng sau phẫu thuật ghép thận"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +144,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Phát hiện bệnh sớm ở 3 đối tượng nguy cơ cao: người bệnh đái tháo đường, tăng huyết áp và có tiền sử gia đình có người bệnh thận",
+      "Tầm soát định kỳ hàng năm và tích cực điều trị sớm để tránh tình trạng bệnh tiến triển",
+      "Làm theo hướng dẫn về uống thuốc không kê đơn, tránh lạm dụng thuốc giảm đau",
+      "Duy trì cân nặng hợp lý thông qua chế độ ăn uống và hoạt động thể chất phù hợp",
+      "Không hút thuốc để tránh làm tổn thương thận",
+      "Quản lý các yếu tố nguy cơ như tiểu đường, cao huyết áp",
+      "Xây dựng chế độ dinh dưỡng lành mạnh, hạn chế muối, đường, dầu mỡ",
+      "Tăng cường bổ sung rau, trái cây vào thực đơn hàng ngày",
+      "Uống nước đầy đủ (khoảng 2 lít/ngày)"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy thận mạn có chữa khỏi được không?",
+      "answer": "Suy thận mạn là giai đoạn cuối của bệnh thận mạn, thường không thể chữa khỏi hoàn toàn. Tuy nhiên, các phương pháp điều trị thay thế thận như lọc máu hoặc ghép thận có thể giúp duy trì sự sống và nâng cao chất lượng cuộc sống cho người bệnh."
+    },
+    {
+      "question": "Làm thế nào để phân biệt suy thận mạn và suy thận cấp?",
+      "answer": "Suy thận cấp xảy ra đột ngột trong vài giờ đến vài ngày và có thể hồi phục, trong khi suy thận mạn là tình trạng mất dần chức năng thận kéo dài trên 3 tháng và thường không thể phục hồi hoàn toàn. Suy thận mạn được chẩn đoán khi độ lọc cầu thận (GFR) dưới 15ml/ph/1,73 m2."
+    },
+    {
+      "question": "Người bị suy thận mạn nên ăn uống như thế nào?",
+      "answer": "Người bị suy thận mạn nên xây dựng chế độ dinh dưỡng lành mạnh, hạn chế các thực phẩm giàu muối, đường, dầu mỡ, tăng cường bổ sung rau, trái cây phù hợp vào thực đơn hàng ngày. Cần hạn chế thực phẩm giàu kali, phospho tùy theo mức độ bệnh và tham khảo ý kiến bác sĩ hoặc chuyên gia dinh dưỡng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như buồn nôn, nôn mửa và ăn uống kém ngon miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy thận mạn", "Viêm dạ dày", "Bệnh gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, suy nhược, uể oải và gặp các vấn đề về giấc ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy thận mạn", "Thiếu máu", "Trầm cảm"]
+    },
+    {
+      "question": "Tôi hay bị tiểu nhiều hơn hoặc ít hơn, tiểu đêm và chuột rút các cơ bắp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy thận mạn",
+        "Đái tháo đường",
+        "Rối loạn thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sưng phù bàn chân, mắt cá chân hoặc phù toàn thân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy thận mạn", "Suy tim", "Xơ gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da ngứa, khô, nhợt nhạt xanh xao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy thận mạn", "Thiếu máu", "Bệnh gan"]
     }
   ]
 }

@@ -1,39 +1,112 @@
 {
   "disease_id": "soi-bun-tui-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sỏi bùn túi mật",
+  "disease_alternative_names": ["Cặn bùn túi mật", "Gallbladder sludge"],
+  "disease_definition": "Sỏi bùn túi mật, hay cặn bùn túi mật là các chất tích tụ bên trong túi mật do sự lắng đọng lâu ngày của cholesterol, muối canxi, hoặc bilirubin. Về bản chất, cặn bùn túi mật không phải là một vấn đề y tế nhưng có nguy cơ dẫn đến các tình trạng bệnh lý, điển hình như sỏi mật, viêm tụy.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng vùng trên bên phải",
+      "description": "Cơn đau ở vùng bụng trên, đặc biệt là bên phải, thường xuất hiện ngay sau bữa ăn, có thể là biểu hiện của các vấn đề về túi mật"
+    },
+    {
+      "name": "Đau dưới xương ức",
+      "description": "Hiện tượng đau dưới xương ức (ngực) cũng có thể liên quan đến sỏi bùn túi mật, mặc dù cơn đau thường xuất hiện chủ yếu ở vùng bụng"
+    },
+    {
+      "name": "Đau vai phải",
+      "description": "Cơn đau ở vai phải có thể là dấu hiệu của vấn đề túi mật, bao gồm cả sỏi bùn"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn thường xuất hiện kèm theo các triệu chứng khác của sỏi bùn túi mật"
+    },
+    {
+      "name": "Phân mỡ hoặc phân xám đen",
+      "description": "Sự thay đổi màu sắc và kết cấu của phân có thể là dấu hiệu của vấn đề về túi mật"
+    },
+    {
+      "name": "Đầy hơi",
+      "description": "Cảm giác đầy hơi, khó tiêu sau khi ăn có thể là triệu chứng của sỏi bùn túi mật"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Mất cảm giác thèm ăn, không muốn ăn uống có thể xuất hiện ở người bị sỏi bùn túi mật"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sỏi bùn túi mật hình thành do sự lắng đọng lâu ngày của cholesterol, muối canxi, hoặc bilirubin bên trong túi mật.",
+    "related_factors": "Lạm dụng rượu, mắc các bệnh liên quan đến túi mật và gan, tiền sử sỏi mật, giảm cân đột ngột, phẫu thuật dạ dày, cấy ghép nội tạng, nhịn ăn lâu ngày, tác dụng phụ của một số loại thuốc, mắc các bệnh nghiêm trọng, chế độ ăn kiêng nghiêm ngặt, và mang thai.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nữ giới (thường có xu hướng mắc các bệnh về túi mật cao hơn nam giới)",
+    "Những người bị bệnh nặng",
+    "Người bị bệnh tiểu đường",
+    "Người thừa cân sau đó thực hiện giảm cân nhanh chóng",
+    "Người từng cấy ghép nội tạng",
+    "Lạm dụng rượu",
+    "Có tiền sử bị sỏi mật hoặc bùn mật",
+    "Phẫu thuật dạ dày",
+    "Mang thai (tình trạng này thường tự khỏi khi thai kỳ kết thúc)"
+  ],
+  "complications": [
+    "Hình thành sỏi mật, gây đau bụng trên và có thể phải can thiệp phẫu thuật",
+    "Tắc nghẽn đường mật, là trường hợp cấp cứu y tế cần điều trị ngay lập tức",
+    "Viêm túi mật (túi mật bị viêm), có thể dẫn đến cần cắt bỏ túi mật",
+    "Viêm nặng gây hoại tử, thủng thành túi mật, rò rỉ dịch mật vào khoang bụng, gây viêm phúc mạc mật",
+    "Viêm tụy cấp tính, khiến các enzym gây phá hủy mô tụy",
+    "Phản ứng toàn thân, dẫn đến sốc, thậm chí tử vong trong trường hợp sỏi kẹt ống tụy"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử và triệu chứng cụ thể",
+      "Thăm khám, ấn các điểm đau trên thành bụng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm bụng",
+        "description": "Phương pháp siêu âm bụng giúp phát hiện chính xác vị trí của sỏi hoặc bùn trong túi mật"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra tình trạng nhiễm trùng, mức cholesterol, bilirubin trong máu, men gan, men tụy"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Cho hình ảnh chi tiết của túi mật và đường mật, giúp phát hiện sỏi bùn túi mật"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Cung cấp hình ảnh rõ nét của ổ bụng, giúp chẩn đoán sỏi bùn túi mật và các biến chứng tiềm ẩn"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy vào mức độ nghiêm trọng của sỏi bùn túi mật, bác sĩ sẽ chỉ định lựa chọn điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xây dựng lối sống và chế độ ăn uống lành mạnh",
+        "description": "Tránh lạm dụng rượu, duy trì chế độ ăn ít chất béo, tránh tăng hoặc giảm cân đột ngột, tập trung điều trị các tình trạng bệnh lý tiềm ẩn để nâng cao sức khỏe tổng quát"
+      },
+      {
+        "name": "Nội soi mật tụy ngược dòng (ERCP)",
+        "description": "Thủ thuật xâm lấn tối thiểu được chỉ định thực hiện đối với tình trạng sỏi kẹt ống mật chủ, bác sĩ dùng ống nội soi mềm đưa qua đường miệng, đến tá tràng để tiếp cận ống mật chủ và tiến hành gắp sỏi"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ túi mật",
+        "description": "Được chỉ định khi người bệnh bị đau dữ dội liên quan đến sỏi bùn túi mật hoặc sỏi mật đã hình thành, gây ra hàng loạt các triệu chứng nghiêm trọng khác"
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Trong một số trường hợp, sỏi bùn túi mật có thể tan nhờ sử dụng thuốc điều trị"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Trao đổi kỹ với bác sĩ để có lựa chọn điều trị hợp lý",
+      "Nhịn ăn vài giờ trước khi thực hiện nội soi mật tụy ngược dòng",
+      "Thay đổi chế độ dinh dưỡng sau khi thực hiện các thủ thuật điều trị",
+      "Theo dõi sát sao tình trạng sức khỏe và báo cáo ngay cho bác sĩ nếu có triệu chứng bất thường"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +114,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ ăn uống cân bằng và lành mạnh với thực phẩm giàu chất xơ (trái cây, ngũ cốc nguyên hạt, rau, các loại đậu) và chất béo lành mạnh (dầu cá, dầu oliu)",
+      "Tránh hoàn toàn hoặc cắt giảm lượng carb tinh chế, đường, đồ chiên rán, chất béo không lành mạnh trong chế độ ăn hằng ngày",
+      "Tránh tăng hoặc giảm cân một cách đột ngột, nhanh chóng",
+      "Hạn chế uống rượu, tốt nhất là kiêng tuyệt đối",
+      "Kiểm tra sức khỏe định kỳ, đặc biệt khi thuộc nhóm có nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sỏi bùn túi mật có nguy hiểm không?",
+      "answer": "Sỏi bùn trong túi mật không phải là vấn đề nguy hiểm trừ khi xuất hiện thời gian dài hoặc gây ra triệu chứng phức tạp. Mặc dù sự tích tụ này cũng có thể là nguy cơ hình thành sỏi mật nhưng không xảy ra với tất cả mọi trường hợp. Tuy nhiên, người bệnh cũng không nên chủ quan bỏ qua những rủi ro tiềm ẩn có thể gặp phải nếu không điều trị như viêm túi mật cấp tính, tắc nghẽn ống mật. Do đó, trong mọi trường hợp việc chẩn đoán kịp thời là thực sự cần thiết."
+    },
+    {
+      "question": "Sỏi bùn túi mật có tự hết không?",
+      "answer": "Sỏi bùn trong túi mật có thể tự khỏi hoàn toàn và không bao giờ trở lại, cũng có thể biến mất rồi tái phát hoặc dẫn đến hình thành sỏi mật. Tình trạng này thường gây đau kéo dài vài giờ, nếu nhận thấy đau bụng đột ngột và dữ dội, người bệnh nên liên hệ ngay với bác sĩ để được thăm khám sớm. Hầu hết những người có sỏi bùn túi mật đều có thể sống bình thường và khỏe mạnh, thậm chí không cần can thiệp điều trị. Tuy nhiên, nhiều trường hợp sau khi chữa vẫn tái phát lần nữa."
+    },
+    {
+      "question": "Triệu chứng của sỏi bùn túi mật là gì?",
+      "answer": "Thống kê cho thấy, có đến 80% các trường hợp bị sỏi bùn túi mật nhưng không nhận thấy triệu chứng. Một số người chỉ phát hiện được trong quá trình chẩn đoán các bệnh liên quan như viêm tụy cấp tính. Các dấu hiệu có thể nhận thấy bao gồm: đau bụng vùng trên bên phải (thường xuất hiện sau bữa ăn), đau dưới xương ức, đau vai phải, buồn nôn và nôn, phân mỡ hoặc phân xám đen, đầy hơi và chán ăn."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa sỏi bùn túi mật?",
+      "answer": "Để phòng ngừa sỏi bùn túi mật, bạn nên duy trì chế độ ăn uống cân bằng và lành mạnh với thực phẩm giàu chất xơ và chất béo lành mạnh; tránh hoàn toàn hoặc cắt giảm lượng carb tinh chế, đường, đồ chiên rán, chất béo không lành mạnh; tránh tăng hoặc giảm cân một cách đột ngột; hạn chế uống rượu, tốt nhất là kiêng tuyệt đối; và kiểm tra sức khỏe định kỳ, đặc biệt khi thuộc nhóm có nguy cơ cao."
+    },
+    {
+      "question": "Các phương pháp điều trị sỏi bùn túi mật là gì?",
+      "answer": "Tùy vào mức độ nghiêm trọng, các phương pháp điều trị sỏi bùn túi mật bao gồm: xây dựng lối sống và chế độ ăn uống lành mạnh (tránh rượu, ăn ít chất béo, tránh tăng giảm cân đột ngột); nội soi mật tụy ngược dòng (ERCP) đối với tình trạng sỏi kẹt ống mật chủ; phẫu thuật cắt bỏ túi mật khi có đau dữ dội hoặc triệu chứng nghiêm trọng; và điều trị bằng thuốc trong một số trường hợp để làm tan sỏi bùn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, đặc biệt là bên phải, ngay sau bữa ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-bun-tui-mat", "soi-mat", "viem-tui-mat"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau dưới xương ức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-bun-tui-mat", "soi-mat", "trao-nguoc-da-day"]
+    },
+    {
+      "question": "Tôi hay bị đau vai phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-bun-tui-mat", "viem-tui-mat"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-bun-tui-mat", "viem-tui-mat", "viem-da-day"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng và phân có màu xám đen. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-bun-tui-mat", "soi-duong-mat"]
     }
   ]
 }

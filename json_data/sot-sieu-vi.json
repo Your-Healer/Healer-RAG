@@ -1,58 +1,191 @@
 {
   "disease_id": "sot-sieu-vi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sốt siêu vi",
+  "disease_alternative_names": ["Sốt vi rút", "Viral fever"],
+  "disease_definition": "Sốt siêu vi là tình trạng sốt cấp tính do nhiễm phải loại vi rút hay siêu vi trùng. Hàng loạt các bệnh nhiễm trùng vi rút đều có thể gây sốt. Trong đó có một số bệnh gây sốt nhẹ; một số bệnh khác như sốt xuất huyết có thể gây sốt cao.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt",
+      "description": "Thân nhiệt từ 37,2°C (đo ở nách) đến hơn 39°C tùy vào loại virus, thường kéo dài từ 3-4 ngày"
+    },
+    {
+      "name": "Ho và hắt hơi",
+      "description": "Các triệu chứng hô hấp phổ biến khi nhiễm virus đường hô hấp"
+    },
+    {
+      "name": "Ớn lạnh và đổ mồ hôi",
+      "description": "Cảm giác lạnh run và tiết mồ hôi nhiều, thường xuất hiện khi thân nhiệt thay đổi"
+    },
+    {
+      "name": "Đau đầu và đau nhức cơ thể",
+      "description": "Cảm giác đau nhức lan tỏa khắp cơ thể, đặc biệt là đầu và các khớp"
+    },
+    {
+      "name": "Mệt mỏi và ăn không ngon miệng",
+      "description": "Cảm giác kiệt sức, không có năng lượng và mất cảm giác thèm ăn"
+    },
+    {
+      "name": "Đau amidan và chảy nước mũi",
+      "description": "Tình trạng viêm đường hô hấp trên gây đau họng và chảy dịch mũi"
+    },
+    {
+      "name": "Khó thở và viêm họng",
+      "description": "Cảm giác khó khăn khi hít thở và đau rát ở vùng họng"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác khó chịu ở dạ dày và ói ra thức ăn, thường gặp khi nhiễm virus đường tiêu hóa"
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Thường gặp nhất là tiêu chảy do virus tác động đến đường tiêu hóa"
+    },
+    {
+      "name": "Phát ban và sưng mặt",
+      "description": "Xuất hiện các nốt đỏ trên da và phù nề ở vùng mặt"
+    },
+    {
+      "name": "Đỏ mắt và viêm da",
+      "description": "Tình trạng viêm kết mạc và các phản ứng viêm trên da"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân gây bệnh sốt siêu vi là do nhiễm virus. Có nhiều chủng loại virus gây ra hiện tượng sốt siêu vi; phổ biến hàng đầu có thể kể đến như Enterovirus, Adenovirus hay Rhinovirus.",
+    "related_factors": "Sốt là cách cơ thể phản ứng chống lại virus. Thay đổi thời tiết như lúc giao mùa là điều kiện thuận lợi cho sự phát triển của nhiều loại virus.",
+    "transmission_routes": [
+      "Hít thở: Nếu một người bị nhiễm virus có ho/hắt hơi ở gần, có thể hít phải những giọt bắn có chứa virus",
+      "Nuốt phải: Đồ ăn, thức uống bị nhiễm virus như norovirus và enterovirus",
+      "Bị cắn/đốt: Bị côn trùng và các động vật khác mang virus cắn/đốt như muỗi gây sốt xuất huyết",
+      "Truyền máu: Nếu người hiến máu bị nhiễm virus như viêm gan B hay HIV"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiếp xúc gần với người bị nhiễm siêu vi",
+    "Ở gần động vật bị nhiễm hoặc đang giết mổ chúng",
+    "Đi du lịch hoặc đến khu vực đang có dịch sốt siêu vi",
+    "Quan hệ tình dục thiếu các biện pháp an toàn với người nhiễm bệnh",
+    "Trẻ sơ sinh, trẻ nhỏ và người lớn tuổi do hệ miễn dịch yếu"
+  ],
+  "complications": [
+    "Mất nước",
+    "Xuất hiện ảo giác hoặc mê sảng",
+    "Hôn mê",
+    "Co giật",
+    "Suy thận",
+    "Suy gan",
+    "Sốt hô hấp",
+    "Suy đa cơ quan",
+    "Nhiễm trùng huyết"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá các triệu chứng",
+      "Đánh giá tiền sử bệnh",
+      "Loại trừ nhiễm trùng do vi khuẩn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra số lượng bạch cầu và các chỉ số khác để xác định tình trạng nhiễm virus"
+      },
+      {
+        "name": "Lấy mẫu bệnh phẩm",
+        "description": "Thu thập nước bọt hoặc dịch cơ thể khác để phân tích và tìm kiếm virus gây bệnh"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Sốt siêu vi thường không cần điều trị. Không giống như các bệnh nhiễm trùng do vi khuẩn, thuốc kháng sinh không có tác dụng với nhiễm trùng do virus - trừ khi bị nhiễm trùng thứ cấp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc không kê đơn",
+        "description": "Sử dụng thuốc hạ sốt như Ibuprofen và acetaminophen. Đối với các trường hợp sốt xuất huyết, chỉ được sử dụng acetaminophen để hạ sốt."
+      },
+      {
+        "name": "Tắm nước ấm",
+        "description": "Giúp làm dịu cơ thể đang sốt, không nên chườm lạnh hoặc ngâm nước lạnh để hạ sốt"
+      },
+      {
+        "name": "Uống nhiều nước",
+        "description": "Bổ sung thêm lượng nước hằng ngày hoặc các chất điện giải vừa giúp hạ thân nhiệt vừa ngăn ngừa tình trạng mất nước do sốt"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Dành thời gian nghỉ ngơi nhiều",
+      "Tăng cường uống nước",
+      "Tránh để cơ thể suy nhược",
+      "Không chườm lạnh hoặc ngâm nước lạnh để hạ sốt",
+      "Đến bệnh viện nếu sốt trên 39°C hoặc kéo dài trên 3-4 ngày"
+    ],
+    "prevention_of_transmission": [
+      "Che miệng khi ho và hắt hơi",
+      "Đeo khẩu trang khi có triệu chứng hô hấp",
+      "Tránh tiếp xúc gần với người khác khi đang bị bệnh",
+      "Rửa tay thường xuyên"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Có nhiều bệnh nhiễm trùng gây sốt siêu vi có thể ngăn ngừa bằng việc tiêm ngừa, như vaccine cúm.",
+      "recommended_for": [
+        "Trẻ em",
+        "Người cao tuổi",
+        "Người có hệ miễn dịch yếu",
+        "Phụ nữ mang thai",
+        "Người có bệnh mãn tính"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Rửa tay đúng cách thường xuyên bằng xà phòng hoặc nước rửa tay khô",
+      "Tránh ở gần hoặc tiếp xúc với người bệnh",
+      "Phòng ngừa muỗi đốt bằng kem bôi, mùng màn, thuốc xịt",
+      "Che mũi, miệng bằng khẩu trang khi ở nơi đông người",
+      "Ăn thức ăn ấm và giàu dinh dưỡng để tăng cường hệ miễn dịch",
+      "Tiêm chủng các loại vaccine hiện có như vaccine cúm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sốt siêu vi là gì?",
+      "answer": "Sốt siêu vi là tình trạng sốt cấp tính do nhiễm phải loại vi rút hay siêu vi trùng. Hàng loạt các bệnh nhiễm trùng vi rút đều có thể gây sốt. Có nhiều chủng loại virus gây ra hiện tượng sốt siêu vi; phổ biến hàng đầu có thể kể đến như Enterovirus, Adenovirus hay Rhinovirus. Phần lớn mất khoảng 4-5 ngày để hệ thống miễn dịch chống lại virus."
+    },
+    {
+      "question": "Sốt siêu vi lây qua đường nào?",
+      "answer": "Sốt siêu vi có thể lây qua nhiều đường: 1) Hít thở giọt bắn từ người bị nhiễm khi họ ho hoặc hắt hơi; 2) Nuốt phải đồ ăn, thức uống bị nhiễm virus; 3) Bị côn trùng và động vật mang virus cắn hoặc đốt; 4) Truyền máu từ người bị nhiễm virus."
+    },
+    {
+      "question": "Triệu chứng của sốt siêu vi là gì?",
+      "answer": "Người bị nhiễm siêu vi có thể sốt từ 37,2°C đến hơn 39°C. Ngoài ra còn có các triệu chứng như ho, hắt hơi, ớn lạnh, đổ mồ hôi, mất nước, đau đầu, đau nhức cơ thể, mệt mỏi, ăn không ngon, đau amidan, chảy nước mũi, khó thở, viêm họng, viêm da, buồn nôn, nôn ói, tiêu chảy, phát ban, sưng mặt và đỏ mắt. Phần lớn các cơn sốt siêu vi kéo dài từ 3-4 ngày."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ khi bị sốt siêu vi?",
+      "answer": "Nên đi thăm khám bác sĩ nếu sốt trên 39°C ở người lớn hoặc trên 38°C đối với trẻ em. Cần đi bệnh viện ngay lập tức nếu có triệu chứng như đau đầu dữ dội, cứng cổ, mắt bị chói sáng, rối loạn tri giác, vì đây có thể là dấu hiệu của viêm màng não. Người đang dùng thuốc ức chế miễn dịch, người ghép tạng, nhiễm HIV cũng cần thăm khám ngay khi có triệu chứng sốt."
+    },
+    {
+      "question": "Cách điều trị sốt siêu vi như thế nào?",
+      "answer": "Sốt siêu vi thường không cần điều trị đặc biệt, và thuốc kháng sinh không có tác dụng với nhiễm trùng do virus. Các phương pháp điều trị bao gồm: dùng thuốc hạ sốt không kê đơn như Ibuprofen và acetaminophen (tránh dùng aspirin cho người dưới 18 tuổi); tắm nước ấm để làm dịu cơ thể; uống nhiều nước để bổ sung nước và điện giải. Lưu ý không nên chườm lạnh hoặc ngâm nước lạnh để hạ sốt."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sốt, ho và hắt hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-sieu-vi", "cum", "viem-hong"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ớn lạnh và đổ mồ hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-sieu-vi", "sot-xuat-huyet", "sot-ret"]
+    },
+    {
+      "question": "Tôi hay bị đau đầu và đau nhức cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-sieu-vi", "cum", "sot-xuat-huyet"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi và ăn không ngon miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-sieu-vi", "viem-gan", "thieu-mau"]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt và mệt mỏi, rũ rượi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-sieu-vi", "sot-xuat-huyet", "cum"]
     }
   ]
 }

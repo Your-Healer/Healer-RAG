@@ -1,39 +1,116 @@
 {
   "disease_id": "nu-hoa-tuyen-vu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nữ hóa tuyến vú",
+  "disease_alternative_names": ["Gynecomastia", "Vú to ở nam giới"],
+  "disease_definition": "Nữ hóa tuyến vú là sự gia tăng số lượng mô tuyến vú ở nam giới, gây ra bởi sự mất cân bằng giữa 2 nội tiết tố estrogen và testosterone. Tình trạng này có thể xảy ra ở một hoặc cả hai bên vú, đôi khi không đồng đều. Nữ hóa tuyến vú không phải là tình trạng gia tăng mô mỡ thông thường trong tuyến vú (hay còn được gọi là giả nữ hóa tuyến vú).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ngực to hơn mức bình thường",
+      "description": "Nam giới có kích thước ngực phát triển lớn hơn so với bình thường, có thể một bên hoặc cả hai bên."
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau ở vùng ngực, tình trạng này thường gặp ở thanh thiếu niên trong độ tuổi dậy thì."
+    },
+    {
+      "name": "Sưng mô vú",
+      "description": "Mô vú bị sưng phồng lên, có thể cảm nhận được khi sờ vào."
+    },
+    {
+      "name": "Vú đau khi sờ",
+      "description": "Cảm giác đau nhức khi chạm vào vùng ngực, đặc biệt khi bị tác động vật lý."
+    },
+    {
+      "name": "Núm vú nhạy cảm",
+      "description": "Núm vú trở nên nhạy cảm hơn, đặc biệt khi cọ xát với quần áo."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Mất cân bằng nội tiết tố là nguyên nhân chính gây nữ hóa tuyến vú ở nam giới. Khi nồng độ estrogen trong cơ thể nam giới quá cao hoặc mất cân bằng với nồng độ testosterone có thể gây nữ hóa tuyến vú.",
+    "related_factors": "Có nhiều yếu tố có thể gây mất cân bằng nội tiết tố bao gồm thay đổi nội tiết tố tự nhiên trong các giai đoạn phát triển, sử dụng một số loại thuốc, lạm dụng rượu bia và các chất gây nghiện, hoặc mắc phải một số bệnh lý nhất định.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bé trai mới sinh (do ảnh hưởng estrogen từ mẹ)",
+    "Thanh thiếu niên trong giai đoạn dậy thì (12-16 tuổi)",
+    "Nam giới lớn tuổi (50-80 tuổi)",
+    "Sử dụng thuốc kháng androgen",
+    "Sử dụng steroid đồng hóa",
+    "Sử dụng thuốc điều trị HIV/AIDS",
+    "Sử dụng thuốc điều trị ADHD",
+    "Lạm dụng rượu bia",
+    "Sử dụng các chất gây nghiện",
+    "Mắc bệnh thiểu năng sinh dục",
+    "Mắc các bệnh lý về tuyến giáp",
+    "Suy thận",
+    "Suy gan hoặc xơ gan",
+    "Suy dinh dưỡng"
+  ],
+  "complications": [
+    "Ảnh hưởng đến tâm lý, tự ti, mất tự tin",
+    "Tăng nguy cơ mắc ung thư vú (cao gấp 10 lần người bình thường)",
+    "Đau đớn kéo dài ở vùng ngực",
+    "Khó khăn trong sinh hoạt hàng ngày do đau"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Đánh giá tiền sử bệnh và thuốc đang sử dụng",
+      "Kiểm tra cẩn thận mô vú, bụng và bộ phận sinh dục"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra nồng độ hormone, chức năng gan, thận, tuyến giáp để xác định nguyên nhân"
+      },
+      {
+        "name": "Chụp nhũ ảnh (X-quang vú)",
+        "description": "Kiểm tra mô vú và sàng lọc ung thư vú"
+      },
+      {
+        "name": "Chụp cắt lớp điện toán (CT)",
+        "description": "Đánh giá chi tiết cấu trúc mô vú và các tổ chức xung quanh"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết về mô vú và phát hiện bất thường"
+      },
+      {
+        "name": "Siêu âm tinh hoàn",
+        "description": "Kiểm tra tình trạng tinh hoàn để loại trừ khối u tinh hoàn gây mất cân bằng hormone"
+      },
+      {
+        "name": "Sinh thiết mô",
+        "description": "Lấy mẫu mô để kiểm tra dưới kính hiển vi, loại trừ ung thư vú"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị nữ hóa tuyến vú tùy theo từng trường hợp. Đối với thanh thiếu niên, tình trạng thường tự khỏi trong vòng hai năm mà không cần điều trị. Đối với những trường hợp do thuốc hoặc bệnh lý, việc điều trị tập trung vào nguyên nhân gốc rễ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi và chờ đợi",
+        "description": "Với thanh thiếu niên bị nữ hóa tuyến vú không có nguyên nhân rõ ràng, bác sĩ thường đề nghị tái khám định kỳ 3-6 tháng một lần để theo dõi tình trạng."
+      },
+      {
+        "name": "Điều trị nguyên nhân",
+        "description": "Đối với trường hợp do thuốc hoặc bệnh lý, việc ngưng thuốc hoặc điều trị bệnh nền như thiểu năng sinh dục, suy dinh dưỡng, xơ gan thường giúp cải thiện tình trạng."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc như Tamoxifen, thuốc ức chế aromatase có thể hữu ích đối với một số nam giới bị nữ hóa tuyến vú."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Khi tuyến vú ngày càng lớn, gây khó chịu ngay cả sau khi điều trị bằng thuốc, có thể thực hiện phẫu thuật hút mỡ để loại bỏ mỡ vú hoặc phẫu thuật đoạn nhũ dưới da để loại bỏ các mô tuyến vú."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám theo đúng lịch hẹn để theo dõi triệu chứng",
+      "Sử dụng thuốc theo chỉ định của bác sĩ chuyên khoa, không tự ý bỏ thuốc",
+      "Mặc quần áo thoải mái để giảm cọ xát với núm vú",
+      "Tìm hiểu về bệnh để giảm lo lắng và hiểu rõ về tình trạng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +118,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế sử dụng rượu bia",
+      "Thường xuyên luyện tập thể dục thể thao",
+      "Hạn chế tiêu thụ các loại thực phẩm giàu estrogen như đậu nành, hạt lanh, quả hạch,...",
+      "Tránh sử dụng các loại thuốc có chứa hormone estrogen",
+      "Duy trì cân nặng hợp lý",
+      "Thăm khám định kỳ nếu thuộc nhóm nguy cơ cao",
+      "Tránh sử dụng các chất gây nghiện như steroid, amphetamine, cần sa"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nữ hóa tuyến vú có tự khỏi không?",
+      "answer": "Trong một số trường hợp, đặc biệt là ở thanh thiếu niên trong độ tuổi dậy thì, nữ hóa tuyến vú thường biến mất mà không cần điều trị trong vòng sáu tháng đến hai năm. Ở trẻ sơ sinh, tình trạng này thường biến mất trong vòng 2-3 tuần sau sinh do ảnh hưởng của estrogen từ mẹ. Tuy nhiên, ở người lớn, đặc biệt là nam giới lớn tuổi, tình trạng này có thể kéo dài và cần được điều trị."
+    },
+    {
+      "question": "Nữ hóa tuyến vú có nguy hiểm không?",
+      "answer": "Nữ hóa tuyến vú là bệnh lý lành tính, thường không gây nguy hiểm đến tính mạng. Tuy nhiên, nam giới bị nữ hóa tuyến vú có tỉ lệ mắc phải ung thư vú cao gấp mười lần người bình thường. Ngoài ra, tình trạng này còn ảnh hưởng lớn đến tâm lý, khiến nam giới cảm thấy mất tự tin trong cuộc sống."
+    },
+    {
+      "question": "Khi nào nên gặp bác sĩ về tình trạng nữ hóa tuyến vú?",
+      "answer": "Bạn nên đến gặp bác sĩ chuyên khoa thăm khám, điều trị sớm nếu có một trong các triệu chứng sau: ngực sưng tấy, cảm thấy đau ở một hoặc hai bên vú, hoặc núm vú tiết dịch. Đồng thời, khi phát hiện các dấu hiệu bất thường ở tuyến vú, bạn nên đến cơ sở y tế chuyên khoa để thăm khám, có hướng điều trị thích hợp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngực to hơn bình thường và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nu-hoa-tuyen-vu",
+        "ung-thu-vu-nam",
+        "u-vu-lanh-tinh"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngực sưng và đau khi sờ vào. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nu-hoa-tuyen-vu", "viem-mo-vu", "ap-xe-vu"]
+    },
+    {
+      "question": "Tôi hay bị đau ngực, đặc biệt là khi còn thanh thiếu niên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nu-hoa-tuyen-vu",
+        "dau-nguc-tuoi-day-thi",
+        "viem-tuyen-vu"
+      ]
+    },
+    {
+      "question": "Tôi nhận thấy mô vú của mình bị sưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nu-hoa-tuyen-vu", "u-vu", "viem-tuyen-vu"]
+    },
+    {
+      "question": "Tôi thấy ngực mình to hơn so với những người nam khác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nu-hoa-tuyen-vu",
+        "roi-loan-noi-tiet",
+        "thua-can-beo-phi"
+      ]
     }
   ]
 }

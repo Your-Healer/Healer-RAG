@@ -1,39 +1,188 @@
 {
   "disease_id": "suy-tim-phai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy tim phải",
+  "disease_alternative_names": ["Bệnh tim phổi", "Cor pulmonale"],
+  "disease_definition": "Suy tim phải là tình trạng tâm thất phải không bơm máu đến phổi hiệu quả. Hay nói cách khác, tâm thất phải bị suy yếu dẫn đến không bơm máu đủ về phổi, khiến máu ứ lại trong các tĩnh mạch và gây ra phù nề ở người bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng phù ở bàn chân và mắt cá chân",
+      "description": "Tình trạng phù nề ở bàn chân và mắt cá chân do ứ máu trong các tĩnh mạch"
+    },
+    {
+      "name": "Phù cẳng chân",
+      "description": "Sưng phù ở vùng cẳng chân do máu ứ lại tĩnh mạch"
+    },
+    {
+      "name": "Phù dạ dày",
+      "description": "Sưng phù ở vùng dạ dày do ứ máu"
+    },
+    {
+      "name": "Sưng gan",
+      "description": "Gan bị sưng to do máu ứ lại"
+    },
+    {
+      "name": "Sưng tĩnh mạch cổ",
+      "description": "Các tĩnh mạch ở cổ bị sưng phồng lên do ứ máu"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, đặc biệt khi gắng sức"
+    },
+    {
+      "name": "Khó thở khi nằm",
+      "description": "Khó thở xuất hiện hoặc trở nên nghiêm trọng hơn khi nằm"
+    },
+    {
+      "name": "Tiểu đêm",
+      "description": "Phải đi tiểu nhiều hơn, nhất là vào ban đêm"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài không rõ nguyên nhân"
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Cảm giác tim đập nhanh, mạch nhanh"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau ở vùng ngực"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn"
+    },
+    {
+      "name": "Tăng cân",
+      "description": "Tăng cân do ứ nước trong cơ thể"
+    },
+    {
+      "name": "Da lạnh",
+      "description": "Da có cảm giác lạnh khi chạm vào"
+    },
+    {
+      "name": "Đổ mồ hôi",
+      "description": "Đổ mồ hôi bất thường, không liên quan đến nhiệt độ hoặc hoạt động thể chất"
+    },
+    {
+      "name": "Tinh thần mệt mỏi",
+      "description": "Cảm giác mệt mỏi về tinh thần"
+    },
+    {
+      "name": "Bối rối",
+      "description": "Trạng thái tinh thần bối rối, không tập trung"
+    },
+    {
+      "name": "Hay quên",
+      "description": "Giảm khả năng ghi nhớ, thường xuyên quên các việc đã làm"
+    },
+    {
+      "name": "Ho khan",
+      "description": "Ho không có đờm"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Phần lớn trường hợp suy tim phải do người bệnh đã bị suy tim trái trước đó. Khi tâm thất trái hoạt động không hiệu quả, áp suất dòng máu tăng lên và cuối cùng ứ lại ở phổi, gây quá tải cho phía bên phải của tim.",
+    "related_factors": "Ngoài suy tim trái, suy tim phải còn có thể do bệnh phổi mạn tính (bệnh phổi tắc nghẽn mãn tính, thuyên tắc phổi), đau tim (nhồi máu cơ tim), hẹp van ba lá, hở van ba lá, co thắt màng ngoài tim, và dị tật tim bẩm sinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhịp tim bất thường",
+    "Rối loạn sử dụng rượu",
+    "Thiếu máu",
+    "Tắc nghẽn động mạch vành",
+    "Rối loạn van tim",
+    "Huyết áp cao",
+    "Béo phì",
+    "Rối loạn tuyến giáp",
+    "Bệnh phổi tắc nghẽn mãn tính",
+    "Thuyên tắc phổi",
+    "Tiền sử nhồi máu cơ tim"
+  ],
+  "complications": [
+    "Rung nhĩ",
+    "Suy tim mất bù",
+    "Giảm cân không chủ ý",
+    "Vấn đề về van tim",
+    "Suy giảm chức năng thận",
+    "Tổn thương gan"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Kiểm tra tiền sử sức khỏe",
+      "Đánh giá các triệu chứng lâm sàng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Đo lường các chất tăng cao ở những người bị suy tim, đồng thời kiểm tra chức năng thận, gan và tuyến giáp"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Sử dụng sóng siêu âm để ghi hình ảnh chuyển động của buồng tim và van"
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Đánh giá hình ảnh tim và phổi, xác định phổi có bị tắc nghẽn hoặc tim có to ra hay không"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Cung cấp hình ảnh chi tiết về tim để xác định tình trạng tim"
+      },
+      {
+        "name": "Thông tim",
+        "description": "Luồn ống thông qua mạch máu ở cánh tay hoặc bẹn đến tim, tiêm chất cản quang để hiển thị các đoạn tắc nghẽn"
+      },
+      {
+        "name": "Chụp mạch vành",
+        "description": "Tiêm thuốc cản quang vào buồng tim hoặc động mạch vành để đánh giá lưu lượng máu và phát hiện tắc nghẽn"
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Phát hiện dòng điện của tim bằng các điện cực để xác định các bộ phận của tim có rối loạn hoạt động"
+      },
+      {
+        "name": "Sinh thiết cơ tim",
+        "description": "Lấy mẫu mô tim để xác định liệu bệnh cơ tim có gây ra suy tim phải hay không"
+      },
+      {
+        "name": "Kiểm tra chức năng phổi",
+        "description": "Đo lường khả năng hô hấp để đánh giá không khí đi vào và ra khỏi phổi"
+      },
+      {
+        "name": "Điện tâm đồ gắng sức",
+        "description": "Theo dõi nhịp tim khi người bệnh gắng sức để làm tim hoạt động mạnh và đập nhanh hơn"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy vào nguyên nhân gây bệnh, bác sĩ sẽ đưa ra phác đồ điều trị suy tim phải phù hợp. Thông thường, sự kết hợp giữa thay đổi lối sống, sử dụng thuốc và sử dụng thiết bị hỗ trợ tim sẽ giúp người bệnh kiểm soát suy tim tốt hơn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Bỏ thuốc lá, hạn chế rượu bia và cà phê, thiết kế chế độ ăn uống lành mạnh, ngủ đủ giấc, và thực hành yoga hoặc thiền để giảm căng thẳng"
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc chẹn beta, thuốc lợi tiểu, thuốc giãn mạch phổi, digoxin và thuốc giãn mạch để cải thiện chức năng tim và điều trị các triệu chứng"
+      },
+      {
+        "name": "Sử dụng thiết bị hỗ trợ",
+        "description": "Cấy ghép máy khử rung tim (ICD), liệu pháp tái đồng bộ tim (CRT), hoặc thiết bị hỗ trợ thất trái (LVAD) để hỗ trợ chức năng tim"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Cấy ghép thiết bị hỗ trợ tâm thất hoặc ghép tim khi các phương pháp khác không hiệu quả"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Thường xuyên theo dõi và quản lý các triệu chứng",
+      "Duy trì lối sống lành mạnh",
+      "Khám định kỳ theo lịch hẹn của bác sĩ",
+      "Uống thuốc đúng liều lượng và thời gian quy định",
+      "Theo dõi cân nặng hàng ngày để phát hiện sớm tình trạng ứ nước"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +190,65 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Điều trị sớm các tình trạng gây suy tim như nhịp tim bất thường",
+      "Hạn chế sử dụng rượu",
+      "Điều trị thiếu máu",
+      "Kiểm soát bệnh động mạch vành",
+      "Điều trị rối loạn van tim",
+      "Kiểm soát huyết áp",
+      "Duy trì cân nặng hợp lý, tránh béo phì",
+      "Điều trị rối loạn tuyến giáp",
+      "Sống lành mạnh, biến nó thành thói quen hàng ngày",
+      "Thường xuyên kiểm tra sức khỏe"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy tim phải là gì?",
+      "answer": "Suy tim phải là tình trạng tâm thất phải không bơm máu đến phổi hiệu quả. Tâm thất phải bị suy yếu dẫn đến không bơm máu đủ về phổi, khiến máu ứ lại trong các tĩnh mạch và gây ra phù nề ở người bệnh. Bệnh lý này còn được gọi là bệnh tim phổi hoặc cor pulmonale."
+    },
+    {
+      "question": "Suy tim phải khác gì với suy tim trái?",
+      "answer": "Trong suy tim phải, tâm thất phải không thể bơm máu nghèo oxy hiệu quả lên động mạch phổi, khiến máu ứ lại ở các tĩnh mạch gây phù nề ở chân, mắt cá chân và bụng. Trong khi đó, suy tim trái là tình trạng tâm thất trái không thể bơm đủ máu giàu oxy cho cơ thể."
+    },
+    {
+      "question": "Suy tim phải có nguy hiểm không?",
+      "answer": "Suy tim phải có thể gây ra nhiều biến chứng nguy hiểm như rung nhĩ (làm tăng nguy cơ đột quỵ), suy tim mất bù, vấn đề về van tim, suy giảm chức năng thận và tổn thương gan. Nếu không được điều trị kịp thời và đúng cách, bệnh có thể đe dọa tính mạng."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa suy tim phải?",
+      "answer": "Để phòng ngừa suy tim phải, bạn nên điều trị sớm các tình trạng có thể gây suy tim như nhịp tim bất thường, hạn chế rượu, điều trị thiếu máu, kiểm soát bệnh động mạch vành, điều trị rối loạn van tim, kiểm soát huyết áp, duy trì cân nặng hợp lý, điều trị rối loạn tuyến giáp, và sống lành mạnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang bị sưng phù ở bàn chân và mắt cá chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim phải", "Suy thận", "Xơ gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim phải",
+        "Bệnh phổi tắc nghẽn mạn tính",
+        "Thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng tĩnh mạch cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim phải",
+        "Tăng áp lực tĩnh mạch",
+        "Suy tim mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang bị tăng cân và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim phải", "Suy giáp", "Trầm cảm"]
+    },
+    {
+      "question": "Tôi hay bị phù nề ở cẳng chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim phải", "Bệnh tĩnh mạch", "Suy thận"]
     }
   ]
 }

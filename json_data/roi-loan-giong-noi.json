@@ -1,39 +1,98 @@
 {
   "disease_id": "roi-loan-giong-noi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn giọng nói",
+  "disease_alternative_names": ["Dysphonia", "Voice Disorders"],
+  "disease_definition": "Rối loạn giọng nói là tình trạng khiến giọng nói của người bệnh thay đổi khác thường so với trước đây. Khi gặp phải tình trạng này, người bệnh có thể nhận thấy những biến đổi của một hoặc nhiều đặc tính của giọng nói, như rối loạn tần số, cường độ, âm sắc hay chất lượng giọng nói.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Giọng nói run rẩy, ngắt quãng",
+      "description": "Giọng nói trở nên không ổn định, bị ngắt quãng hoặc run rẩy khi nói chuyện"
+    },
+    {
+      "name": "Giọng nói yếu, thều thào",
+      "description": "Âm thanh phát ra yếu ớt, không đủ âm lượng, nghe như tiếng thì thầm"
+    },
+    {
+      "name": "Giọng nói miễn cưỡng, căng thẳng hoặc bị rè",
+      "description": "Nói chuyện gây cảm giác khó khăn, phải gắng sức và giọng có thể bị rè, không trong trẻo"
+    },
+    {
+      "name": "Thay đổi âm sắc giọng",
+      "description": "Giọng nói có thể quá cao, quá trầm hoặc thay đổi theo từng thời điểm trong ngày"
+    },
+    {
+      "name": "Khàn giọng",
+      "description": "Giọng nói trở nên khàn đặc, thô ráp, không trong trẻo như bình thường"
+    },
+    {
+      "name": "Mất giọng",
+      "description": "Không thể phát ra âm thanh rõ ràng hoặc hoàn toàn không phát ra được âm thanh"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rối loạn giọng nói xảy ra khi có bất cứ điều gì cản trở chuyển động hoặc sự tiếp xúc của các dây thanh âm, ảnh hưởng đến quá trình rung động và tạo ra âm thanh của dây thanh.",
+    "related_factors": "Lạm dụng giọng nói, bất thường trong cấu trúc thanh quản, viêm và phù nề dây thanh, tổn thương lành tính/ác tính ở thanh quản, rối loạn nội tiết tố, vấn đề về dây thần kinh và tâm lý.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá",
+    "Nghiện rượu, caffeine",
+    "Bệnh trào ngược dạ dày - thực quản",
+    "Nghề nghiệp phải sử dụng giọng nói nhiều (ca sĩ, diễn viên, giảng viên, người bán hàng)",
+    "Môi trường sống ồn ào hoặc có độ ẩm thấp"
+  ],
+  "complications": [
+    "Khó khăn trong giao tiếp",
+    "Mặc cảm, tự ti",
+    "Ảnh hưởng đến công việc, đặc biệt với người làm nghề liên quan đến giọng nói",
+    "Tổn thương dây thanh nếu không được điều trị kịp thời",
+    "Xuất huyết dây thanh trong trường hợp nặng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng và lắng nghe người bệnh phát âm",
+      "Nội soi thanh quản bằng ống cứng",
+      "Nội soi thanh quản ống mềm",
+      "Nội soi hoạt nghiệm thanh quản"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phân tích âm của giọng nói",
+        "description": "Thông qua các phân tích từ máy móc, thiết bị chuyên dụng để đo lường sự bất thường trong âm thanh do dây thanh tạo ra"
+      },
+      {
+        "name": "Đo điện cơ thanh quản",
+        "description": "Giúp chẩn đoán các rối loạn giọng do bệnh lý thần kinh gây ra"
+      },
+      {
+        "name": "Chụp MRI, CT scan",
+        "description": "Các xét nghiệm chẩn đoán hình ảnh để kiểm tra cấu trúc thanh quản và phát hiện tổn thương nếu có"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nguyên tắc điều trị rối loạn giọng nói là bảo tồn cấu trúc giải phẫu tối đa, khôi phục chức năng thanh quản, tập trung điều trị nguyên nhân và có biện pháp dự phòng nhằm ngăn ngừa rối loạn tái phát.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc kháng sinh, thuốc chống nấm, steroid, thuốc chống viêm không steroid, thuốc điều trị dị ứng, thuốc điều trị trào ngược dạ dày - thực quản hoặc thuốc điều trị các bệnh lý thần kinh tùy theo nguyên nhân"
+      },
+      {
+        "name": "Trị liệu giọng nói - ngôn ngữ",
+        "description": "Phương pháp luyện giọng áp dụng cho rối loạn giọng không có tổn thương thực thể dây thanh, có tổn thương gây rối loạn chức năng phát âm, trước và sau phẫu thuật thanh quản, hoặc hỗ trợ điều trị rối loạn giọng do nguyên nhân thần kinh"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Áp dụng cho các trường hợp tổn thương lành tính ở dây thanh do lạm dụng giọng nói, bất thường cấu trúc dây thanh, rối loạn giọng từ nguyên nhân thần kinh hoặc do chấn thương nghiêm trọng thanh quản"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chỉ định dùng thuốc của bác sĩ",
+      "Không tự ý thay đổi liều lượng hoặc sử dụng thuốc khi chưa có sự đồng ý của bác sĩ",
+      "Thực hiện các bài tập luyện giọng theo hướng dẫn của chuyên gia",
+      "Nghỉ ngơi, hạn chế sử dụng giọng nói khi đang bị rối loạn",
+      "Uống nhiều nước lọc để giữ ẩm cho cổ họng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +100,57 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh lạm dụng giọng nói: hạn chế la hét, bỏ thói quen tằng hắng",
+      "Bỏ hút thuốc lá",
+      "Luôn giữ ẩm cho cổ họng bằng cách uống nhiều nước lọc, nước trái cây",
+      "Hạn chế caffein, rượu bia vì có thể gây mất nước",
+      "Điều chỉnh không gian sống và làm việc không quá khô, duy trì độ ẩm từ 30% trở lên",
+      "Chủ động phòng tránh các bệnh có thể gây rối loạn giọng như viêm họng, viêm thanh quản, trào ngược dạ dày thực quản"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn giọng nói có thể tự khỏi không?",
+      "answer": "Rối loạn giọng nói do la hét nhiều hoặc các tình trạng viêm nhiễm như viêm họng thanh quản cấp thường sẽ điều trị ổn trong 1 - 2 tuần. Tuy nhiên, nếu tình trạng khàn tiếng, thay đổi đặc điểm giọng nói tồn tại hơn 3 tuần, người bệnh cần đến bệnh viện để được nội soi thanh quản tìm nguyên nhân, vì có thể là dấu hiệu của bệnh lý nghiêm trọng hơn."
+    },
+    {
+      "question": "Những bệnh lý nào thường gây rối loạn giọng nói?",
+      "answer": "Các bệnh lý thường gây rối loạn giọng nói bao gồm: viêm thanh quản, liệt dây thanh âm, chứng khó phát âm do co thắt, polyp, hạt xơ hay u nang thanh quản, và ung thư thanh quản. Ngoài ra, các bệnh lý như trào ngược dạ dày thực quản, bệnh Parkinson, các rối loạn nội tiết tố cũng có thể gây ra tình trạng này."
+    },
+    {
+      "question": "Tôi cần làm gì để bảo vệ giọng nói?",
+      "answer": "Để bảo vệ giọng nói, bạn nên: tránh lạm dụng giọng nói (hạn chế la hét, bỏ thói quen tằng hắng); bỏ hút thuốc lá; uống nhiều nước lọc, nước trái cây để giữ ẩm cho cổ họng; hạn chế caffein, rượu bia; điều chỉnh không gian sống và làm việc không quá khô; và chủ động phòng tránh các bệnh có thể gây rối loạn giọng."
+    },
+    {
+      "question": "Khi nào cần đi khám khi bị rối loạn giọng nói?",
+      "answer": "Nếu tình trạng khàn tiếng, thay đổi đặc điểm giọng nói tồn tại hơn 3 tuần, người bệnh nên nhanh chóng đến bệnh viện để được nội soi thanh quản tìm nguyên nhân. Việc khám sớm giúp phát hiện các tổn thương dây thanh và điều trị kịp thời, tránh những biến chứng nguy hiểm có thể xảy ra."
+    },
+    {
+      "question": "Phẫu thuật rối loạn giọng nói có nguy hiểm không?",
+      "answer": "Phẫu thuật điều trị rối loạn giọng nói chỉ được chỉ định khi các phương pháp điều trị nội khoa và trị liệu giọng nói không hiệu quả. Với công nghệ hiện đại và bác sĩ có kinh nghiệm, các phẫu thuật này thường an toàn, ít xâm lấn và giúp người bệnh phục hồi giọng nói. Tuy nhiên, mỗi ca phẫu thuật đều cần được đánh giá cẩn thận về nguy cơ và lợi ích."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị khàn giọng và mất giọng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-giong-noi", "viem-thanh-quan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy giọng nói của mình yếu và thều thào. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-giong-noi", "liet-day-thanh-am"]
+    },
+    {
+      "question": "Tôi có giọng nói run rẩy và ngắt quãng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-giong-noi", "chung-kho-phat-am-do-co-that"]
+    },
+    {
+      "question": "Tôi bị thay đổi giọng nói theo từng thời điểm trong ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-giong-noi", "roi-loan-noi-tiet-to"]
+    },
+    {
+      "question": "Tôi nói chuyện một cách miễn cưỡng và căng thẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-giong-noi", "roi-loan-tam-ly"]
     }
   ]
 }

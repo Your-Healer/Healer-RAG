@@ -1,39 +1,126 @@
 {
   "disease_id": "rong-kinh-tien-man-kinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rong kinh tiền mãn kinh",
+  "disease_alternative_names": [
+    "Rong kinh tuổi tiền mãn kinh",
+    "Perimenopausal menorrhagia",
+    "Chảy máu kinh nguyệt quá nhiều tiền mãn kinh"
+  ],
+  "disease_definition": "Rong kinh tiền mãn kinh là một hiện tượng rối loạn chu kỳ kinh nguyệt, xảy ra khi buồng trứng không phóng noãn làm mất cân bằng nội tiết khiến chu kỳ kinh nguyệt thưa dần, nhưng mỗi lần có kinh thì lượng máu kinh lại ra nhiều và kéo dài.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thời gian hành kinh kéo dài",
+      "description": "Chu kỳ kinh nguyệt kéo dài trên 7 ngày, thậm chí có thể trên 10 ngày thay vì thời gian bình thường là 3-5 ngày"
+    },
+    {
+      "name": "Lượng máu kinh ra nhiều",
+      "description": "Lượng máu kinh ra nhiều hơn 80ml (bình thường là 50-80ml), cần thay băng vệ sinh liên tục, đặc biệt vào ban đêm làm ảnh hưởng đến giấc ngủ"
+    },
+    {
+      "name": "Triệu chứng thiếu máu",
+      "description": "Cơ thể mệt mỏi, da xanh xao, thiếu sức sống, khó thở, kém tập trung do mất nhiều máu trong thời gian hành kinh"
+    },
+    {
+      "name": "Đau bụng dưới",
+      "description": "Có thể đau dữ dội hoặc đau âm ỉ ở vùng bụng dưới, đau bụng kinh nặng hơn bình thường"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Khi bước vào tuổi tiền mãn kinh, chức năng buồng trứng suy giảm, thiếu hụt hormone Estrogen gây mất cân bằng nội tiết tố, buồng trứng không thể phóng thích trứng, hoàng thể kém hoặc không có.",
+    "related_factors": "Tuổi tác, thói quen sống không lành mạnh (lạm dụng rượu bia, thuốc lá, cà phê), stress và thay đổi cảm xúc, u xơ tử cung, polyp tử cung, bệnh phụ khoa khác, ung thư, tác dụng phụ của đặt vòng tránh thai, rối loạn đông máu, thuốc điều trị.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ ở độ tuổi 40-50 (tiền mãn kinh)",
+    "Thói quen sống không lành mạnh (lạm dụng rượu, thuốc lá, cà phê)",
+    "Stress và căng thẳng kéo dài",
+    "Chế độ dinh dưỡng không hợp lý, kiêng khem quá mức",
+    "Tiền sử mắc các bệnh về tử cung, buồng trứng",
+    "Tiền sử đặt vòng tránh thai",
+    "Có hội chứng rối loạn đông máu di truyền"
+  ],
+  "complications": [
+    "Thiếu máu nặng gây mệt mỏi, khó thở, da xanh xao",
+    "Suy giảm chất lượng cuộc sống do phải thay đổi lịch sinh hoạt",
+    "Ảnh hưởng đến năng suất làm việc, tập trung kém",
+    "Dễ mắc các bệnh lý viêm nhiễm phụ khoa",
+    "Âm đạo khô rát, đau khi quan hệ, giảm hứng thú tình dục",
+    "Ảnh hưởng đến quan hệ vợ chồng và hạnh phúc gia đình"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng, hỏi về triệu chứng và chu kỳ kinh nguyệt",
+      "Đánh giá các yếu tố nguy cơ và tiền sử bệnh",
+      "Thực hiện xét nghiệm cận lâm sàng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra tình trạng thiếu máu, mức độ thiếu máu và các chỉ số về đông máu"
+      },
+      {
+        "name": "Xét nghiệm nội tiết",
+        "description": "Đánh giá nồng độ các hormone sinh dục như Estrogen, FSH, LH để xác định tình trạng tiền mãn kinh"
+      },
+      {
+        "name": "Siêu âm vùng chậu",
+        "description": "Kiểm tra tử cung, buồng trứng, nội mạc tử cung để phát hiện các bất thường như u xơ, polyp"
+      },
+      {
+        "name": "Soi buồng tử cung",
+        "description": "Sử dụng một dụng cụ đặc biệt để quan sát bên trong tử cung, loại bỏ u xơ, polyp hoặc lấy mẫu mô để xét nghiệm"
+      },
+      {
+        "name": "Sinh thiết nội mạc tử cung",
+        "description": "Lấy mẫu mô nội mạc tử cung để kiểm tra dưới kính hiển vi, loại trừ ung thư nội mạc tử cung"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị rong kinh tiền mãn kinh phụ thuộc vào nguyên nhân gây bệnh, mức độ nghiêm trọng của các triệu chứng và nhu cầu sinh sản của người phụ nữ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc sắt",
+        "description": "Bổ sung chất sắt vào máu để ngăn ngừa và điều trị thiếu máu do rong kinh"
+      },
+      {
+        "name": "Thuốc tránh thai",
+        "description": "Giúp ổn định chu kỳ kinh nguyệt, giảm lượng máu kinh ra mỗi tháng"
+      },
+      {
+        "name": "Thuốc Ibuprofen",
+        "description": "Giảm đau, giảm hiện tượng chuột rút và có thể giảm lượng máu kinh trong thời gian hành kinh"
+      },
+      {
+        "name": "Liệu pháp hormone",
+        "description": "Sử dụng hormone Estrogen hoặc Progesterone để giảm lượng máu kinh và cân bằng nội tiết tố"
+      },
+      {
+        "name": "Thuốc xịt Desmopressin",
+        "description": "Giúp cầm máu ở những người bị rối loạn chảy máu như hội chứng Von Willebrand hoặc bệnh máu khó đông"
+      },
+      {
+        "name": "Nạo niêm mạc tử cung",
+        "description": "Phẫu thuật loại bỏ lớp trên cùng của niêm mạc tử cung để giảm lượng máu kinh, có thể cần lặp lại theo thời gian"
+      },
+      {
+        "name": "Cắt bỏ nội mạc tử cung",
+        "description": "Thủ thuật cắt bỏ một phần hoặc toàn bộ nội mạc tử cung để giải quyết tình trạng rong kinh"
+      },
+      {
+        "name": "Cắt tử cung",
+        "description": "Phương pháp triệt để cho những phụ nữ không còn nguyện vọng mang thai và sinh con, giúp chấm dứt hoàn toàn chu kỳ kinh nguyệt"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Xây dựng chế độ dinh dưỡng khoa học, bổ sung đầy đủ dưỡng chất",
+      "Tăng cường rau củ xanh, trái cây, hải sản, ngũ cốc, thực phẩm giàu canxi",
+      "Tập thể dục thường xuyên nhưng nhẹ nhàng, phù hợp với độ tuổi",
+      "Nghỉ ngơi hợp lý, ngủ đủ 7-8 giờ mỗi ngày, ngủ trước 10 giờ tối",
+      "Tránh căng thẳng, stress kéo dài",
+      "Vệ sinh vùng kín đúng cách, thay băng vệ sinh đều đặn sau mỗi 3-4 giờ",
+      "Khám phụ khoa định kỳ ít nhất 6 tháng/lần"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +128,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ ăn uống lành mạnh, đầy đủ dưỡng chất",
+      "Tập luyện thể dục đều đặn, vừa sức",
+      "Quản lý stress hiệu quả thông qua thiền, yoga",
+      "Kiểm soát cân nặng ở mức hợp lý",
+      "Hạn chế sử dụng rượu, bia, thuốc lá, cà phê",
+      "Khám phụ khoa định kỳ để phát hiện sớm bất thường",
+      "Tuân thủ lời khuyên và chỉ định của bác sĩ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rong kinh tiền mãn kinh là gì?",
+      "answer": "Rong kinh tiền mãn kinh là một hiện tượng rối loạn chu kỳ kinh nguyệt, xảy ra khi buồng trứng không phóng noãn làm mất cân bằng nội tiết khiến chu kỳ kinh nguyệt thưa dần, nhưng mỗi lần có kinh thì lượng máu kinh lại ra nhiều và kéo dài. Thông thường, thời gian hành kinh sẽ diễn ra trong khoảng 3-5 ngày, lượng máu kinh khoảng 50-80ml. Nếu thời gian hành kinh kéo dài trên 7 ngày và lượng máu kinh ra nhiều hơn 80ml nghĩa là bạn đang bị rong kinh tuổi tiền mãn kinh."
+    },
+    {
+      "question": "Rong kinh tiền mãn kinh có nguy hiểm không?",
+      "answer": "Tiền mãn kinh hay mãn kinh là một phần của quá trình trưởng thành về tình dục của phụ nữ và không phải là bệnh lý. Tuy nhiên, rong kinh kéo dài có thể khiến chị em bị thiếu máu, gây khó thở, mệt mỏi, da xanh xao, kém tập trung. Ngoài ra, nó có thể khiến chị em dễ mắc các bệnh lý viêm nhiễm phụ khoa, âm đạo khô rát, đau khi quan hệ. Nghiêm trọng hơn, rong kinh kéo dài có thể là dấu hiệu cảnh báo nhiều bệnh lý nguy hiểm như u xơ tử cung, ung thư cổ tử cung, ung thư buồng trứng. Do đó, cần quan tâm và thăm khám sớm khi có triệu chứng bất thường."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ khi bị rong kinh tiền mãn kinh?",
+      "answer": "Chị em cần đi khám bác sĩ khi gặp các triệu chứng như: đau bụng dữ dội, đau đột ngột ở bụng dưới vào những ngày hành kinh; chảy máu âm đạo bất thường, không trong chu kỳ kinh; vùng kín ngứa ngáy gây khó chịu; ra nhiều khí hư, khí hư có màu sẫm hơn bình thường kèm mùi hôi khó chịu. Thăm khám sớm giúp có chẩn đoán chính xác và điều trị kịp thời."
+    },
+    {
+      "question": "Cách điều trị rong kinh tiền mãn kinh?",
+      "answer": "Điều trị rong kinh tiền mãn kinh bao gồm: Điều trị bằng thuốc như thuốc sắt, thuốc tránh thai, thuốc Ibuprofen, liệu pháp hormone, thuốc cầm máu; và điều trị phẫu thuật như nạo niêm mạc tử cung, soi buồng tử cung, cắt bỏ nội mạc tử cung, cắt tử cung (cho những chị em không còn nhu cầu sinh con). Phương pháp điều trị sẽ tùy thuộc vào nguyên nhân, mức độ nghiêm trọng và nhu cầu sinh sản của từng người."
+    },
+    {
+      "question": "Làm thế nào để cải thiện triệu chứng rong kinh tiền mãn kinh?",
+      "answer": "Để cải thiện triệu chứng rong kinh tiền mãn kinh, chị em có thể: xây dựng chế độ dinh dưỡng khoa học, bổ sung đầy đủ dưỡng chất; tập thể dục thường xuyên với các bộ môn nhẹ nhàng; nghỉ ngơi hợp lý, ngủ đủ 7-8 giờ mỗi ngày, tránh căng thẳng; vệ sinh vùng kín đúng cách, thay băng vệ sinh đều đặn; và khám phụ khoa định kỳ ít nhất 6 tháng/lần để phát hiện sớm các bất thường."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như thời gian hành kinh kéo dài trên 7 ngày và lượng máu kinh ra nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "rong-kinh-tien-man-kinh",
+        "roi-loan-kinh-nguyet",
+        "u-xo-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cơ thể mệt mỏi, da xanh xao, thiếu sức sống và lượng máu kinh ra nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "rong-kinh-tien-man-kinh",
+        "thieu-mau",
+        "roi-loan-noi-tiet"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau dữ dội hoặc đau âm ỉ ở vùng bụng dưới và thời gian hành kinh kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "rong-kinh-tien-man-kinh",
+        "u-xo-tu-cung",
+        "viem-vung-chau"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như lượng máu kinh ra nhiều, nhất là ban đêm làm ảnh hưởng đến giấc ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rong-kinh-tien-man-kinh", "roi-loan-kinh-nguyet"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, khó thở và thời gian hành kinh kéo dài trên 10 ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rong-kinh-tien-man-kinh", "thieu-mau", "benh-tim"]
     }
   ]
 }

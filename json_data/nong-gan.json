@@ -1,58 +1,171 @@
 {
   "disease_id": "nong-gan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nóng gan",
+  "disease_alternative_names": ["Gan nóng", "Nhiệt gan", "Liver heat"],
+  "disease_definition": "Nóng gan là tình trạng rối loạn chức năng gan thường do gan bị tổn thương hoặc viêm nhiễm. Gan hoạt động quá mức, tạo ra nhiều nhiệt và dẫn đến các triệu chứng khó chịu. Đây không phải là chẩn đoán y khoa chuẩn trong y học hiện đại, nhưng là khái niệm thường gặp trong y học cổ truyền.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Da và mắt vàng",
+      "description": "Biểu hiện vàng da, vàng mắt do rối loạn chức năng gan, bilirubin tăng cao trong máu."
+    },
+    {
+      "name": "Đắng miệng",
+      "description": "Cảm giác đắng miệng, đặc biệt vào buổi sáng hoặc sau khi ngủ dậy."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Không muốn ăn uống, cảm thấy không ngon miệng khi ăn."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, uể oải, thiếu năng lượng kéo dài."
+    },
+    {
+      "name": "Nóng trong người",
+      "description": "Cảm giác nóng bên trong cơ thể, đặc biệt là vùng gan (hạ sườn phải)."
+    },
+    {
+      "name": "Đau tức vùng gan",
+      "description": "Đau hoặc cảm giác tức ở vùng hạ sườn bên phải."
+    },
+    {
+      "name": "Nổi mụn nhọt",
+      "description": "Xuất hiện mụn nhọt, mẩn ngứa trên da, đặc biệt ở mặt và lưng."
+    },
+    {
+      "name": "Nước tiểu sẫm màu",
+      "description": "Nước tiểu có màu vàng sẫm hoặc nâu đỏ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nóng gan thường liên quan đến viêm gan, tổn thương gan do rượu, béo phì, chế độ ăn nhiều dầu mỡ và đồ cay nóng, hoặc do dùng nhiều thuốc tác động đến gan.",
+    "related_factors": "Các yếu tố khác có thể gây nóng gan bao gồm lạm dụng rượu bia, nhiễm độc từ môi trường, nhiễm trùng, bệnh gan nhiễm mỡ không do rượu (NAFLD), stress và lối sống thiếu lành mạnh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Lạm dụng rượu bia kéo dài",
+    "Chế độ ăn nhiều dầu mỡ, đồ chiên rán, cay nóng",
+    "Béo phì, thừa cân",
+    "Tiền sử bệnh gan như viêm gan, xơ gan",
+    "Sử dụng thuốc có thể gây tổn thương gan",
+    "Tiếp xúc với hóa chất độc hại",
+    "Thiếu ngủ, stress kéo dài",
+    "Di truyền và yếu tố gia đình"
+  ],
+  "complications": [
+    "Viêm gan",
+    "Gan nhiễm mỡ",
+    "Suy giảm chức năng gan",
+    "Xơ gan",
+    "Ung thư gan (trong trường hợp nặng, kéo dài)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Đánh giá triệu chứng và tiền sử bệnh",
+      "Xét nghiệm chức năng gan"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm men gan (ALT, AST)",
+        "description": "Đánh giá mức độ tổn thương tế bào gan thông qua việc đo các enzyme gan trong máu"
+      },
+      {
+        "name": "Xét nghiệm bilirubin",
+        "description": "Kiểm tra mức độ bilirubin trong máu để đánh giá chức năng gan và phát hiện vàng da"
+      },
+      {
+        "name": "Siêu âm gan mật",
+        "description": "Kiểm tra hình ảnh cấu trúc gan, túi mật và đường mật để phát hiện các bất thường"
+      },
+      {
+        "name": "Xét nghiệm máu tổng quát",
+        "description": "Đánh giá tình trạng sức khỏe tổng thể và phát hiện các bất thường liên quan đến gan"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị nóng gan tập trung vào việc giảm các tổn thương gan, phục hồi chức năng gan và giảm triệu chứng. Phương pháp điều trị phụ thuộc vào nguyên nhân cụ thể gây ra tình trạng nóng gan.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều chỉnh chế độ ăn uống",
+        "description": "Thay đổi sang chế độ ăn lành mạnh, giàu chất xơ, ít dầu mỡ, hạn chế đồ cay nóng và thực phẩm chế biến sẵn."
+      },
+      {
+        "name": "Bổ sung thuốc bảo vệ gan",
+        "description": "Sử dụng các thuốc hỗ trợ chức năng gan như silymarin, phospholipid, các vitamin nhóm B, theo chỉ định của bác sĩ."
+      },
+      {
+        "name": "Bổ sung nước",
+        "description": "Uống nhiều nước để giúp gan đào thải độc tố hiệu quả hơn."
+      },
+      {
+        "name": "Sử dụng thảo dược",
+        "description": "Trong y học cổ truyền, một số thảo dược như atiso, cà gai leo, diệp hạ châu có thể được sử dụng để hỗ trợ chức năng gan."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ, tránh làm việc quá sức",
+      "Tránh các chất kích thích như rượu, bia, cà phê đậm đặc",
+      "Duy trì lối sống lành mạnh, tập thể dục vừa phải",
+      "Kiểm soát cân nặng, giảm cân nếu thừa cân hoặc béo phì",
+      "Thăm khám định kỳ để theo dõi chức năng gan"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vaccine viêm gan A và B có thể giúp phòng ngừa các loại viêm gan do virus, một trong những nguyên nhân gây nóng gan.",
+      "recommended_for": [
+        "Người chưa nhiễm viêm gan A và B",
+        "Người có nguy cơ cao mắc viêm gan virus"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế uống rượu bia, đồ uống có cồn",
+      "Duy trì chế độ ăn uống cân bằng, đa dạng",
+      "Uống đủ nước mỗi ngày (khoảng 2-3 lít)",
+      "Tập thể dục đều đặn, duy trì cân nặng hợp lý",
+      "Tránh tiếp xúc với hóa chất độc hại",
+      "Cẩn thận khi sử dụng thuốc, đặc biệt là thuốc có thể gây độc cho gan",
+      "Khám sức khỏe định kỳ, kiểm tra chức năng gan",
+      "Quản lý stress hiệu quả, nghỉ ngơi đầy đủ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nóng gan có nguy hiểm không?",
+      "answer": "Nóng gan nếu không được điều trị kịp thời có thể dẫn đến nhiều biến chứng nghiêm trọng như viêm gan, gan nhiễm mỡ, suy giảm chức năng gan và thậm chí xơ gan. Tuy nhiên, nếu được phát hiện sớm và điều trị đúng cách, hầu hết các trường hợp có thể phục hồi tốt."
+    },
+    {
+      "question": "Làm thế nào để biết mình bị nóng gan?",
+      "answer": "Các dấu hiệu của nóng gan có thể bao gồm: đắng miệng, chán ăn, mệt mỏi, nóng trong người, đau tức vùng gan (hạ sườn phải), da và mắt vàng, nổi mụn nhọt, nước tiểu sẫm màu. Nếu có các triệu chứng này, bạn nên đi khám để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Nóng gan nên ăn gì và kiêng gì?",
+      "answer": "Người bị nóng gan nên ăn nhiều rau xanh, trái cây, thực phẩm giàu chất xơ, uống nhiều nước. Nên kiêng rượu bia, đồ ăn nhiều dầu mỡ, thức ăn cay nóng, thực phẩm chế biến sẵn, đồ ngọt và đồ uống có gas. Cũng nên hạn chế các thực phẩm có chứa nhiều chất bảo quản và hoá chất."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da và mắt vàng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nong-gan", "viem-gan", "vang-da", "soi-mat"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đắng miệng và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nong-gan", "roi-loan-tieu-hoa", "viem-gan"]
+    },
+    {
+      "question": "Tôi hay bị mệt mỏi và cảm thấy nóng trong người. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nong-gan", "sot-virus", "viem-gan"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau tức vùng gan (hạ sườn phải). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nong-gan", "viem-gan", "soi-mat", "viem-tui-mat"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nước tiểu sẫm màu và nổi nhiều mụn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["nong-gan", "viem-gan", "roi-loan-noi-tiet"]
     }
   ]
 }

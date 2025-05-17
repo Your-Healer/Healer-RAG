@@ -1,39 +1,115 @@
 {
   "disease_id": "rung-toc",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rụng tóc",
+  "disease_alternative_names": ["Hói đầu", "Alopecia", "Hair loss"],
+  "disease_definition": "Rụng tóc là tình trạng tóc rụng nhiều hơn số tóc mọc hàng ngày. Rụng tóc có thể gặp ở mọi lứa tuổi. Hầu hết, tóc sẽ rụng 100 sợi mỗi ngày. Đây là một phần trong chu kỳ phát triển của tóc, tóc mới sẽ mọc và thay thế những sợi đã rụng. Khi tóc rụng nhiều hơn 100 sợi và không mọc lại, tình trạng này được gọi là rụng tóc.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mỏng dần trên đỉnh đầu",
+      "description": "Tóc bắt đầu mỏng dần ở phần tóc phía trên trán (ở nam giới) hoặc đường chân tóc bị tụt (ở phụ nữ), thường gặp ở người lớn tuổi"
+    },
+    {
+      "name": "Các đốm hói hình tròn hoặc loang lổ",
+      "description": "Tóc rụng thành những đốm hình tròn hoặc loang lổ trên da đầu, trước đó có thể ngứa hoặc đau ở vùng bị rụng"
+    },
+    {
+      "name": "Tóc rụng đột ngột",
+      "description": "Tóc rụng đột ngột, xơ xác sau khi trải qua cú sốc tinh thần, một búi tóc có thể rụng khi chải, gội đầu hoặc khi giật nhẹ"
+    },
+    {
+      "name": "Rụng tóc toàn thân",
+      "description": "Rụng tóc trên toàn cơ thể, thường xảy ra do tác động của hóa trị hoặc các phương pháp điều trị khác"
+    },
+    {
+      "name": "Các mảng vảy lan rộng trên da đầu",
+      "description": "Vảy lan rộng trên da đầu có thể là dấu hiệu của nhiễm trùng, khiến tóc gãy rụng kèm mẩn đỏ, sưng tấy và rỉ dịch"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rụng tóc thường do di truyền, thay đổi nội tiết tố, hoặc các vấn đề sức khỏe làm ảnh hưởng đến sự phát triển của tóc và nang tóc.",
+    "related_factors": "Căng thẳng, stress, trầm cảm; tác dụng phụ của thuốc; nấm da đầu; tác động lực mạnh lên tóc; môi trường ô nhiễm; chăm sóc tóc sai cách; chế độ dinh dưỡng mất cân bằng; tiếp xúc với hóa chất; nhiễm độc; ảnh hưởng của bệnh mạn tính; hóa trị, xạ trị; tuổi tác; và nhiễm trùng lây truyền qua đường tình dục.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình bị hói đầu",
+    "Tuổi tác cao",
+    "Giảm cân đột ngột",
+    "Mắc bệnh tiểu đường và lupus",
+    "Stress, căng thẳng kéo dài",
+    "Thiếu hụt dinh dưỡng",
+    "Phụ nữ sau sinh hoặc trong giai đoạn mãn kinh",
+    "Sử dụng các loại thuốc nhất định",
+    "Thường xuyên tạo kiểu tóc căng"
+  ],
+  "complications": [
+    "Ảnh hưởng đến ngoại hình, gây tự ti, mặc cảm",
+    "Rụng tóc vĩnh viễn trong một số trường hợp",
+    "Sẹo trên da đầu nếu bị rụng tóc có sẹo",
+    "Vấn đề tâm lý, cảm xúc",
+    "Khó khăn trong giao tiếp và công việc"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Trao đổi về tiền sử bệnh của gia đình",
+      "Đánh giá tình trạng sức khỏe của người bệnh",
+      "Khám da đầu để tìm dấu hiệu nhiễm trùng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra chức năng tuyến giáp và nồng độ sắt trong máu để xác định nguyên nhân rụng tóc có liên quan đến vấn đề nội tiết tố"
+      },
+      {
+        "name": "Sinh thiết da đầu",
+        "description": "Lấy mẫu mô từ da đầu để kiểm tra dưới kính hiển vi, giúp phát hiện các bệnh ngoài da gây rụng tóc"
+      },
+      {
+        "name": "Kéo tóc nhẹ (Pull test)",
+        "description": "Bác sĩ nhẹ nhàng kéo một nhúm tóc để đánh giá số lượng tóc rụng và xác định giai đoạn rụng tóc"
+      },
+      {
+        "name": "Kiểm tra da đầu bằng kính lúp",
+        "description": "Sử dụng kính lúp để quan sát kỹ da đầu và chân tóc, giúp phát hiện các vấn đề ở nang tóc"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị rụng tóc phụ thuộc vào nguyên nhân gây bệnh. Trong nhiều trường hợp, tóc sẽ mọc lại khi nguyên nhân được khắc phục.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc bôi lên da đầu như Minoxidil (Rogaine) hoặc thuốc uống Finasteride (Propecia) cho nam giới mắc chứng hói đầu"
+      },
+      {
+        "name": "Phương pháp thiên nhiên",
+        "description": "Sử dụng các sản phẩm từ thiên nhiên như vỏ bưởi, dầu dừa, nha đam để kích thích mọc tóc, nuôi dưỡng nang tóc và giảm rụng tóc"
+      },
+      {
+        "name": "Cấy tóc",
+        "description": "Phẫu thuật loại bỏ tóc ở vùng có tóc dày, sau đó cấy những sợi tóc đó vào nơi thưa hoặc ít tóc"
+      },
+      {
+        "name": "Liệu pháp laser mức độ thấp",
+        "description": "Còn gọi là liệu pháp ánh sáng đỏ hoặc liệu pháp laser lạnh, chiếu photon vào các mô da đầu để kích thích tóc phát triển"
+      },
+      {
+        "name": "Huyết tương giàu tiểu cầu (PRP)",
+        "description": "Lấy máu, tách huyết tương và tiêm vào da đầu, giúp làm chậm quá trình rụng và khuyến khích mọc tóc mới"
+      },
+      {
+        "name": "Lăn kim PRP, tiêm HA",
+        "description": "Kích thích da đầu và tạo điều kiện thuận lợi cho quá trình tái tạo tóc mới"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Chế độ ăn uống lành mạnh, bổ sung đầy đủ các chất dinh dưỡng cần thiết",
+      "Bổ sung vitamin B, đặc biệt là B6, B12 và biotin",
+      "Hạn chế tác động nhiệt và hóa chất lên tóc",
+      "Tránh buộc tóc quá chặt",
+      "Gội đầu nhẹ nhàng, tránh chải tóc khi tóc ướt",
+      "Hạn chế căng thẳng, stress, giữ tâm trạng thoải mái",
+      "Kiểm tra, tầm soát các bệnh tuyến giáp hoặc bệnh tự miễn khác"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +117,58 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chế độ ăn uống lành mạnh, đa dạng, giàu protein, vitamin và khoáng chất",
+      "Bổ sung các vitamin B, E, C và khoáng chất như sắt, kẽm",
+      "Tránh các kiểu tóc kéo căng và hóa chất tạo kiểu mạnh",
+      "Giảm thiểu stress và duy trì lối sống cân bằng",
+      "Gội đầu và chăm sóc tóc đúng cách",
+      "Tránh tiếp xúc với môi trường ô nhiễm",
+      "Kiểm tra sức khỏe định kỳ, đặc biệt là các vấn đề về nội tiết tố"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bị rụng tóc nên ăn gì và kiêng gì?",
+      "answer": "Nên ăn: cá hồi, cá ngừ giàu axit béo; trứng cung cấp protein và biotin; các loại quả mọng nước giàu vitamin C; rau bina chứa folate, sắt, vitamin A và C; khoai lang cung cấp beta carotene; bơ giàu chất béo và vitamin E; các loại hạt. Nên kiêng: thực phẩm chứa nhiều carbohydrate tinh chế; cá có hàm lượng thủy ngân cao; thức ăn chiên, nhiều dầu mỡ và thịt đỏ."
+    },
+    {
+      "question": "Rụng tóc nên uống vitamin nào?",
+      "answer": "Nên bổ sung các vitamin B đặc biệt là B6, B12 và biotin để tham gia quá trình phát triển, giúp tóc mọc nhanh và chắc khỏe. Ngoài ra, các vitamin khác cũng rất có ích: Vitamin B3 giúp máu dễ lưu thông lên da đầu; Vitamin B5 ngăn tóc bạc và rụng; Vitamin E giúp tái tạo da, chống lão hóa; Vitamin C và Inositol giúp tóc chắc khỏe."
+    },
+    {
+      "question": "Tóc rụng có hạt trắng ở chân tóc là gì?",
+      "answer": "Khi tóc rụng, chân tóc xuất hiện hạt màu trắng mềm, hình bầu dục gần giống như trứng cá là do vi khuẩn liên tụ cầu proteus hoặc nấm trichophyton gây ra. Người có da đầu nhờn, tiết nhiều mồ hôi có thể dễ bị tình trạng này hơn."
+    },
+    {
+      "question": "Tại sao tóc lại rụng nhiều khi gội đầu?",
+      "answer": "Khi kích thích da đầu bằng cách gội hoặc dưỡng tóc khiến các nang tóc lỏng lẻo, những sợi tóc vốn yếu, mỏng sẽ dễ gãy rụng khi có lực tác động. Điều này làm cho những sợi tóc đang ở giai đoạn cuối chu kỳ sống rụng nhanh hơn khi gội đầu."
+    },
+    {
+      "question": "Tóc rụng có mọc lại được không?",
+      "answer": "Có! Việc tóc rụng mỗi ngày là một phần trong chu kỳ phát triển thông thường của tóc. Hầu hết, tóc rụng sẽ mọc lại, tuy nhiên, các yếu tố như: thay đổi nội tiết tố, bệnh, căng thẳng, lão hóa, di truyền có thể cản trở quá trình mọc tóc. Trong trường hợp rụng tóc có sẹo, tóc có thể không mọc lại được."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tóc mỏng dần trên đỉnh đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rung-toc", "hoi-dau-theo-kinh-mau"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tóc rụng thành những đốm hình tròn hoặc loang lổ trên da đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rung-toc", "rung-toc-tung-mang"]
+    },
+    {
+      "question": "Tôi hay bị rụng tóc đột ngột, xơ xác sau khi trải qua cú sốc tinh thần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rung-toc", "stress"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tóc rụng toàn thân sau khi điều trị hóa trị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rung-toc", "tac-dung-phu-hoa-tri"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da đầu xuất hiện các mảng vảy lan rộng và tóc gãy rụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rung-toc", "vay-nen-da-dau", "nam-da-dau"]
     }
   ]
 }

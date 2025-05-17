@@ -1,39 +1,125 @@
 {
   "disease_id": "teo-co-do-dai-thao-duong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Teo cơ do đái tháo đường",
+  "disease_alternative_names": [
+    "Diabetic lumbosacral radiculoplexus neuropathy (DLRPN)",
+    "Diabetic amyotrophy",
+    "Bệnh rễ – đám rối thắt lưng cùng do đái tháo đường",
+    "Hội chứng Bruns-Garland"
+  ],
+  "disease_definition": "Bệnh teo cơ do đái tháo đường là một biến chứng của bệnh đái tháo đường, gây tổn thương các mạch máu nhỏ nuôi dây thần kinh chi phối chi dưới, dẫn đến teo cơ. Bệnh thường gặp ở tuổi trung niên, ở bệnh nhân đái tháo đường típ 2 nhiều hơn tuýp 1, nam nhiều hơn nữ. Tỉ lệ mới mắc khoảng 4,2 ca trên 100 ngàn người trong một năm và thường được chẩn đoán trễ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Yếu chi dưới",
+      "description": "Cảm giác yếu ở vùng chi dưới, mông hoặc hông"
+    },
+    {
+      "name": "Teo cơ",
+      "description": "Teo cơ, đặc biệt là ở vùng trước đùi"
+    },
+    {
+      "name": "Đau",
+      "description": "Đau ở đùi, hông, mông hoặc lưng, đôi khi đau dữ dội"
+    },
+    {
+      "name": "Khởi phát nhanh",
+      "description": "Triệu chứng thường khởi phát trong thời gian ngắn"
+    },
+    {
+      "name": "Rối loạn cảm giác",
+      "description": "Thay đổi cảm giác và ngứa ran ở đùi, hông hoặc mông"
+    },
+    {
+      "name": "Bệnh thần kinh ngoại vi",
+      "description": "Rối loạn cảm giác ở bàn chân, ngón chân ở cả hai bên cơ thể"
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân ngoài mong muốn"
+    },
+    {
+      "name": "Triệu chứng bất đối xứng",
+      "description": "Triệu chứng thường bắt đầu ở một bên rồi lan sang bên còn lại, không đối xứng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính của bệnh teo cơ do đái tháo đường là do sự thay đổi bất thường của hệ thống miễn dịch gây tổn thương các mạch máu nhỏ nuôi dây thần kinh chi phối chi dưới, còn gọi là viêm vi mạch máu.",
+    "related_factors": "Teo cơ không liên quan đến thời gian mắc bệnh tiểu đường hoặc mức độ nghiêm trọng của bệnh. Các yếu tố liên quan có thể bao gồm cơ địa miễn dịch của từng cá nhân.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi trung niên",
+    "Bệnh đái tháo đường típ 2",
+    "Giới tính nam",
+    "Rối loạn miễn dịch"
+  ],
+  "complications": [
+    "Khó khăn trong di chuyển, có thể phải sử dụng xe lăn",
+    "Bại liệt nếu không được điều trị sớm",
+    "Suy giảm chất lượng cuộc sống",
+    "Đau kéo dài"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác bệnh sử về các triệu chứng",
+      "Khám thần kinh kỹ càng",
+      "Loại trừ các nguyên nhân khác gây teo cơ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra sự thiếu hụt vitamin trong cơ thể và các chỉ số liên quan đến đái tháo đường"
+      },
+      {
+        "name": "Chọc dò dịch não tủy",
+        "description": "Lấy mẫu chất lỏng xung quanh tủy sống để tìm dấu hiệu viêm"
+      },
+      {
+        "name": "Điện cơ",
+        "description": "Đánh giá dẫn truyền thần kinh để kiểm tra hoạt động các dây thần kinh ở chân"
+      },
+      {
+        "name": "Chụp MRI vùng lưng dưới",
+        "description": "Kiểm tra để loại trừ khả năng chèn ép các dây thần kinh xung quanh cột sống"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị căn bản cho bệnh teo cơ do đái tháo đường bao gồm điều trị triệu chứng kiểm soát đau, kiểm soát đường huyết tốt và vật lý trị liệu vận động. Thời gian điều trị tùy thuộc vào diễn biến của tình trạng bệnh và mức độ tổn thương thần kinh ở mỗi bệnh nhân khác nhau.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị đau",
+        "description": "Sử dụng các thuốc điều trị đau thần kinh chuyên khoa như amitriptyline, thuốc chống trầm cảm, thuốc chống động kinh"
+      },
+      {
+        "name": "Thuốc steroid và ức chế miễn dịch",
+        "description": "Được sử dụng để giúp tăng tốc độ phục hồi, tuy nhiên chưa có bằng chứng mạnh về hiệu quả"
+      },
+      {
+        "name": "Kiểm soát đường huyết",
+        "description": "Duy trì mức đường huyết ổn định thông qua điều trị đái tháo đường"
+      },
+      {
+        "name": "Vận động thể dục thể thao",
+        "description": "Tập thể dục thường xuyên với các bài tập vừa sức như đi bộ, đạp xe để tăng cường sức đề kháng, giảm viêm toàn thân và cải thiện độ nhạy insulin"
+      },
+      {
+        "name": "Cải thiện chế độ ăn uống",
+        "description": "Bổ sung các thực phẩm giàu protein như cá, trứng, các loại đậu và thực phẩm giàu vitamin D như cá hồi, cá trích, cá mòi, cá ngừ, hàu, tôm"
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Thực hiện các bài tập vật lý trị liệu theo hướng dẫn của bác sĩ để giữ cho cơ bắp hoạt động và cải thiện tốc độ phục hồi"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tập thể dục thường xuyên nhưng vừa sức",
+      "Thực hiện chế độ ăn uống lành mạnh, hạn chế thực phẩm giàu đường và chất béo",
+      "Theo dõi và kiểm soát đường huyết đều đặn",
+      "Tái khám định kỳ theo lịch hẹn của bác sĩ",
+      "Tuân thủ phác đồ điều trị được chỉ định",
+      "Thực hiện các bài tập vật lý trị liệu đều đặn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +127,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh hút thuốc",
+      "Ăn uống điều độ nhưng hợp lý, hạn chế thực phẩm giàu đường và chất béo",
+      "Duy trì trọng lượng cơ thể khỏe mạnh",
+      "Thường xuyên tái khám sức khỏe định kỳ để kiểm soát lượng đường trong máu",
+      "Kiểm soát bệnh đái tháo đường tốt để tránh các biến chứng",
+      "Thực hiện các bài tập thể dục nhẹ nhàng thường xuyên"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh teo cơ do đái tháo đường có nguy hiểm không?",
+      "answer": "Có, bệnh teo cơ do đái tháo đường nếu không phát hiện sớm và điều trị kịp thời sẽ ảnh hưởng nghiêm trọng đến sức khỏe, thậm chí có thể gây tàn phế hoặc bại liệt. Bệnh làm suy giảm khả năng vận động, gây đau đớn và ảnh hưởng đến chất lượng cuộc sống của người bệnh."
+    },
+    {
+      "question": "Bệnh teo cơ do đái tháo đường có thể chữa khỏi hoàn toàn không?",
+      "answer": "Tình trạng này có xu hướng diễn ra trong vài tháng đến 3 năm mới dần phục hồi. Khả năng phục hồi phụ thuộc vào mức độ tổn thương, thời gian phát hiện bệnh và phương pháp điều trị. Nếu điều trị sớm và đúng cách, kết hợp với kiểm soát đường huyết tốt, tập luyện vật lý trị liệu, nhiều bệnh nhân có thể phục hồi đáng kể."
+    },
+    {
+      "question": "Làm thế nào để phân biệt teo cơ do đái tháo đường với các bệnh lý thần kinh cơ khác?",
+      "answer": "Teo cơ do đái tháo đường thường có đặc điểm khởi phát đột ngột, gây đau và yếu cơ (thường ở vùng đùi, hông, mông), teo cơ (đặc biệt là ở trước đùi), và thường bắt đầu ở một bên rồi lan sang bên còn lại. Để chẩn đoán chính xác, cần được bác sĩ chuyên khoa thần kinh hoặc nội tiết thăm khám và thực hiện các xét nghiệm cần thiết như điện cơ, chụp MRI vùng lưng dưới, và các xét nghiệm máu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau, yếu và teo cơ vùng đùi, hông, mông, chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Teo cơ do đái tháo đường",
+        "Bệnh thần kinh ngoại vi",
+        "Thoát vị đĩa đệm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tê bì, ngứa ran ở đùi, hông hoặc mông. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Teo cơ do đái tháo đường",
+        "Bệnh thần kinh tọa",
+        "Hội chứng đám rối thắt lưng cùng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau dữ dội ở đùi, hông, mông hoặc lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Teo cơ do đái tháo đường",
+        "Viêm khớp háng",
+        "Đau thần kinh tọa"
+      ]
+    },
+    {
+      "question": "Tôi bị đái tháo đường và bị sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Teo cơ do đái tháo đường",
+        "Đái tháo đường không kiểm soát",
+        "Suy giảm chức năng tuyến giáp"
+      ]
+    },
+    {
+      "question": "Tôi bị đái tháo đường và lo lắng về nguy cơ teo cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Teo cơ do đái tháo đường",
+        "Bệnh thần kinh do đái tháo đường",
+        "Bệnh cơ do đái tháo đường"
+      ]
     }
   ]
 }

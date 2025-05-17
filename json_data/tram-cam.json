@@ -1,39 +1,136 @@
 {
   "disease_id": "tram-cam",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Trầm cảm",
+  "disease_alternative_names": [
+    "Rối loạn trầm cảm",
+    "Bệnh trầm cảm",
+    "Rối loạn tâm thần trầm cảm",
+    "Depression"
+  ],
+  "disease_definition": "Trầm cảm là một trong những rối loạn tâm thần phổ biến nhất trên toàn thế giới. Theo Tổ chức Y tế Thế giới (WHO), cứ 20 người bình thường sẽ có một người đã từng bị một giai đoạn trầm cảm trong năm trước. Đây là rối loạn tâm thần ảnh hưởng đến khoảng 163 triệu người (2% dân số thế giới) vào năm 2017, tác động nhiều đến mặt tinh thần, thể chất, chức năng sống và cả niềm vui trong đời sống của bệnh nhân.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhức không rõ nguyên nhân",
+      "description": "Xuất hiện các cơn đau nhức về mặt cơ thể như đầy hơi, đau lưng, đau khớp dù kết quả kiểm tra sức khỏe bình thường"
+    },
+    {
+      "name": "Mất tập trung",
+      "description": "Thường xuyên mất khả năng tập trung và làm giảm hiệu quả công việc, mắc nhiều sai lầm hoặc gặp khó khăn khi đưa ra quyết định"
+    },
+    {
+      "name": "Rối loạn giấc ngủ",
+      "description": "Ngủ quá nhiều hoặc quá ít, khó ngủ hoặc ngủ triền miên không theo quy luật bình thường"
+    },
+    {
+      "name": "Thay đổi cảm giác ăn uống",
+      "description": "Ăn nhiều hơn hoặc mất cảm giác thèm ăn, dẫn đến thay đổi đáng kể về cân nặng (hơn 5% trọng lượng cơ thể trong một tháng)"
+    },
+    {
+      "name": "Cáu kỉnh, kích động hoặc ủ rũ",
+      "description": "Dễ cáu kỉnh, kích động và ủ rũ với những điều nhỏ nhặt, đôi khi đi kèm suy nghĩ tự làm hại bản thân hoặc mong muốn làm hại người khác"
+    },
+    {
+      "name": "Mệt mỏi hoặc mất sức",
+      "description": "Cảm giác mệt mỏi, kiệt sức kéo dài dù không làm việc nhiều"
+    },
+    {
+      "name": "Cảm giác vô dụng, vô giá trị",
+      "description": "Luôn cảm thấy mình vô dụng, vô giá trị hoặc mặc cảm tội lỗi dù không có lý do thực tế"
+    },
+    {
+      "name": "Giảm khả năng tập trung",
+      "description": "Khó tập trung suy nghĩ, do dự khi phải đưa ra quyết định"
+    },
+    {
+      "name": "Suy nghĩ về cái chết",
+      "description": "Thường xuyên nghĩ đến cái chết, có ý tưởng hoặc hành vi tự sát"
+    },
+    {
+      "name": "Giảm ham muốn tình dục",
+      "description": "Mất hứng thú hoặc giảm ham muốn trong các hoạt động tình dục"
+    },
+    {
+      "name": "Khó khăn trong giao tiếp",
+      "description": "Gặp khó khăn trong việc giao tiếp và các mối quan hệ xã hội, thường xa lánh mọi người"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Trầm cảm được gọi là rối loạn vì không thể xác định nguyên nhân cụ thể, chỉ có thể xác định yếu tố nguy cơ. Các nguyên nhân có thể bao gồm rối loạn hoạt động của các chất dẫn truyền thần kinh như Noradrenaline, Serotonin trong não bộ.",
+    "related_factors": "Các yếu tố liên quan đến trầm cảm bao gồm: bệnh lý hoặc chấn thương não (viêm não, u não, chấn thương sọ não), sử dụng chất kích thích (rượu bia, ma túy), căng thẳng kéo dài (áp lực công việc, gia đình, xung đột), và các yếu tố sinh học (di truyền, thay đổi chất dẫn truyền ở não).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người trải qua biến cố lớn của cuộc đời (phá sản, lừa đảo, nợ nần, mất người thân, ly hôn)",
+    "Phụ nữ sau sinh con",
+    "Học sinh, sinh viên chịu áp lực học tập quá lớn",
+    "Người bị tổn thương cơ thể (tai nạn, cắt bỏ bộ phận cơ thể, ung thư, bệnh truyền nhiễm)",
+    "Người lạm dụng rượu bia, chất kích thích trong thời gian dài",
+    "Người thiếu nguồn lực trong cuộc sống (thiếu mối quan hệ hỗ trợ, giao tiếp, kỹ năng ứng phó)",
+    "Người có tiền sử bệnh não (viêm não, u não)",
+    "Người trong độ tuổi 18-45 (lứa tuổi phổ biến)",
+    "Phụ nữ (nguy cơ gấp đôi nam giới)",
+    "Người trung niên và người già"
+  ],
+  "complications": [
+    "Mất tập trung và giảm hiệu quả học tập, công việc",
+    "Ảnh hưởng giao tiếp và mối quan hệ xã hội",
+    "Tự làm đau bản thân hoặc có ý tưởng tự tử",
+    "Rối loạn giấc ngủ kéo dài",
+    "Giảm ham muốn tình dục",
+    "Ảnh hưởng đến sức khỏe thể chất (tim, huyết áp, dạ dày)",
+    "Cô lập xã hội",
+    "Gia tăng nguy cơ tự tử"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Sử dụng tiêu chuẩn chẩn đoán trầm cảm theo ICD-10",
+      "Chẩn đoán trầm cảm theo tiêu chuẩn DSM V",
+      "Đánh giá các triệu chứng chính như khí sắc trầm nhược hoặc mất hứng thú trong ít nhất hai tuần",
+      "Phân loại trầm cảm nhẹ, vừa, nặng dựa trên mức độ triệu chứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Trắc nghiệm tâm lý",
+        "description": "Sử dụng các bài kiểm tra tâm lý để đánh giá mức độ trầm cảm và các triệu chứng liên quan"
+      },
+      {
+        "name": "Trò chuyện lâm sàng",
+        "description": "Bác sĩ tiến hành trò chuyện và quan sát phản ứng của bệnh nhân để đánh giá tình trạng tâm lý"
+      },
+      {
+        "name": "Xét nghiệm đo nồng độ chất dẫn truyền thần kinh",
+        "description": "Đo nồng độ các chất dẫn truyền thần kinh để xác định nguyên nhân gây trầm cảm và loại trừ các khả năng khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị trầm cảm phổ biến hiện nay bao gồm điều trị bằng thuốc và liệu pháp tâm lý. Tùy theo mức độ trầm cảm, bác sĩ sẽ có phác đồ điều trị thích hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị hóa dược",
+        "description": "Sử dụng thuốc chống trầm cảm như thuốc ức chế tái hấp thu serotonin có chọn lọc, thuốc chống trầm cảm ba vòng, thuốc ức chế monoamine oxidase, thuốc chống trầm cảm không điển hình, phù hợp cho trầm cảm trung bình hoặc nặng"
+      },
+      {
+        "name": "Liệu pháp nhận thức và hành vi",
+        "description": "Giúp người bệnh nhận ra và thay đổi những suy nghĩ tiêu cực ảnh hưởng đến cảm xúc và hành vi"
+      },
+      {
+        "name": "Trị liệu nghệ thuật",
+        "description": "Sử dụng các hoạt động nghệ thuật như vẽ tranh, âm nhạc, trò chơi để tiếp cận và điều trị, đặc biệt hiệu quả với trẻ nhỏ"
+      },
+      {
+        "name": "Trị liệu gia đình",
+        "description": "Cải thiện mối quan hệ gia đình và tạo môi trường hỗ trợ cho người bệnh"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì chế độ ăn uống hợp lý, tập trung vào thực phẩm giàu Omega 3, khoáng chất, vitamin và chất chống oxy hóa",
+      "Hạn chế sử dụng thuốc lá, rượu bia và chất kích thích",
+      "Tập thể dục đều đặn để cải thiện tâm trạng",
+      "Tránh thức đêm và giảm lệ thuộc vào thiết bị điện tử, mạng xã hội",
+      "Phát triển các mối quan hệ xã hội lành mạnh",
+      "Tuân thủ đúng liệu trình điều trị và tái khám theo lịch hẹn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +138,55 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ ăn uống hợp lý, tập trung vào thực phẩm giàu Omega 3, khoáng chất, vitamin và chất chống oxy hóa",
+      "Hạn chế sử dụng thuốc lá, rượu bia và chất kích thích",
+      "Tập thể dục đều đặn",
+      "Tránh thức đêm, không lệ thuộc quá nhiều vào thiết bị điện tử và mạng xã hội",
+      "Phát triển các mối quan hệ xã hội lành mạnh",
+      "Học cách quản lý stress hiệu quả",
+      "Tìm kiếm sự hỗ trợ từ chuyên gia khi cần thiết",
+      "Duy trì thói quen ngủ đủ giấc và đúng giờ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Trầm cảm có chữa được không?",
+      "answer": "Có, trầm cảm hoàn toàn có thể điều trị được. Tùy vào mức độ, bác sĩ sẽ có phác đồ điều trị phù hợp thông qua việc sử dụng thuốc chống trầm cảm hoặc liệu pháp tâm lý. Đối với trầm cảm nhẹ, liệu pháp tâm lý thường được ưu tiên, còn trầm cảm trung bình hoặc nặng có thể cần kết hợp cả thuốc và liệu pháp tâm lý."
+    },
+    {
+      "question": "Trầm cảm có phải là do yếu đuối tâm lý không?",
+      "answer": "Không, trầm cảm không phải là dấu hiệu của sự yếu đuối tâm lý. Đây là một rối loạn sức khỏe tâm thần do nhiều yếu tố kết hợp như sinh học (thay đổi chất dẫn truyền thần kinh), tâm lý (sang chấn trong quá khứ), và môi trường (căng thẳng kéo dài, thiếu nguồn lực xã hội). Trầm cảm có thể ảnh hưởng đến bất kỳ ai, không phụ thuộc vào sức mạnh tâm lý."
+    },
+    {
+      "question": "Làm thế nào để phân biệt giữa buồn bình thường và trầm cảm?",
+      "answer": "Buồn là cảm xúc bình thường và tạm thời, thường có nguyên nhân cụ thể và sẽ giảm dần theo thời gian. Trầm cảm là tình trạng kéo dài ít nhất 2 tuần với các triệu chứng như mất hứng thú với mọi hoạt động, cảm giác vô giá trị, thay đổi giấc ngủ và cảm giác thèm ăn, mệt mỏi, khó tập trung, và có thể có ý tưởng tự tử. Trầm cảm ảnh hưởng đáng kể đến khả năng hoạt động hàng ngày và cần được điều trị chuyên nghiệp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay đau nhức không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Trầm cảm", "Rối loạn lo âu", "Rối loạn căng thẳng"]
+    },
+    {
+      "question": "Tôi hay mất tập trung và hiệu quả công việc giảm sút. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trầm cảm",
+        "Rối loạn lo âu",
+        "Rối loạn tăng động giảm chú ý"
+      ]
+    },
+    {
+      "question": "Tôi bị rối loạn giấc ngủ, ngủ quá nhiều hoặc quá ít. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Trầm cảm", "Rối loạn lo âu", "Rối loạn giấc ngủ"]
+    },
+    {
+      "question": "Cảm giác thèm ăn và cân nặng của tôi thay đổi đáng kể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Trầm cảm", "Rối loạn ăn uống", "Rối loạn nội tiết"]
+    },
+    {
+      "question": "Tôi dễ cáu kỉnh, kích động và ủ rũ với những điều nhỏ nhặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Trầm cảm", "Rối loạn lưỡng cực", "Rối loạn lo âu"]
     }
   ]
 }

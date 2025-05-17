@@ -1,39 +1,177 @@
 {
   "disease_id": "tang-ap-phoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tăng áp phổi",
+  "disease_alternative_names": [
+    "Tăng áp động mạch phổi",
+    "Pulmonary Hypertension (PH)",
+    "Pulmonary Arterial Hypertension (PAH)"
+  ],
+  "disease_definition": "Tăng áp phổi hay tăng áp động mạch phổi là tình trạng áp lực trong tuần hoàn phổi tăng cao. Trong tăng áp lực phổi, các mạch máu phổi co thắt hoặc tắc nghẽn dẫn đến phì đại và suy thất phải, ảnh hưởng nghiêm trọng đến chức năng tim phải.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài, trầm trọng hơn khi gắng sức"
+    },
+    {
+      "name": "Đau hoặc tức ngực",
+      "description": "Cảm giác đau hoặc tức ở vùng ngực, có thể xuất hiện khi gắng sức"
+    },
+    {
+      "name": "Chóng mặt hoặc ngất xỉu",
+      "description": "Cảm giác hoa mắt, chóng mặt và có thể bị ngất do không đủ máu lên não"
+    },
+    {
+      "name": "Nhịp tim nhanh hoặc tim đập thình thịch",
+      "description": "Cảm giác tim đập nhanh hơn bình thường hoặc đánh trống ngực"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Ban đầu khó thở khi tập thể dục và cuối cùng khó thở cả khi nghỉ ngơi"
+    },
+    {
+      "name": "Sưng phù ở chân và bụng",
+      "description": "Phù nề ở mắt cá chân, chân và cuối cùng là vùng bụng do ứ dịch"
+    },
+    {
+      "name": "Môi và da xanh tím",
+      "description": "Màu da và môi chuyển sang màu xanh tím (tím tái) do thiếu oxy"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tăng áp phổi xảy ra do áp lực cao trong các nhánh nhỏ của động mạch phổi, khiến thành động mạch trở nên dày và cứng, thu hẹp không gian dòng máu đi qua và dẫn đến làm tăng áp lực mạch phổi.",
+    "related_factors": "Các nguyên nhân thường gặp bao gồm bệnh tim trái (van tim, rối loạn chức năng tâm thất trái), bệnh phổi (COPD, bệnh phổi kẽ, ngưng thở khi ngủ), cục máu đông trong phổi, yếu tố di truyền, bệnh mô liên kết (xơ cứng bì, lupus), bệnh hồng cầu hình liềm, tăng áp lực tĩnh mạch cửa, nhiễm HIV, rối loạn tuyến giáp, và sống ở nơi có độ cao lớn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi (thường gặp từ 30-60 tuổi, rủi ro tăng ở người trên 75 tuổi)",
+    "Giới tính (phụ nữ có nguy cơ cao hơn)",
+    "Thừa cân, béo phì",
+    "Bệnh tim bẩm sinh",
+    "Tiền sử gia đình có người bị tăng áp phổi",
+    "Tiếp xúc với amiăng",
+    "Rối loạn đông máu",
+    "Sử dụng thuốc giảm cân",
+    "Sử dụng methamphetamine, cocaine",
+    "Sử dụng thuốc ức chế tái hấp thu serotonin"
+  ],
+  "complications": [
+    "Dày/giãn tim bên phải và suy tim (cor pulmonale)",
+    "Hình thành cục máu đông trong động mạch phổi",
+    "Rối loạn nhịp tim (loạn nhịp tim)",
+    "Chảy máu trong phổi",
+    "Biến chứng nguy hiểm khi mang thai"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe và thăm khám lâm sàng",
+      "Kiểm tra kích thước tĩnh mạch cổ và gan",
+      "Nghe tim và phổi",
+      "Đánh giá phù ở bụng, mắt cá chân và chân",
+      "Đo huyết áp và nồng độ oxy trong máu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm tim",
+        "description": "Sử dụng sóng âm tần số cao tạo hình ảnh tim đang đập, đánh giá lưu lượng máu qua tim và áp lực trong động mạch phổi"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Tạo hình ảnh mặt cắt của tim và phổi, kiểm tra kích thước tim và phát hiện tắc nghẽn trong động mạch phổi"
+      },
+      {
+        "name": "Chụp thông khí/tưới máu (Quét V/Q)",
+        "description": "Giúp phát hiện cục máu đông có thể gây tăng áp trong phổi"
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Theo dõi hoạt động điện của tim, phát hiện rối loạn nhịp và dấu hiệu tăng áp buồng tim phải"
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Kiểm tra xem động mạch phổi hoặc buồng tim có giãn to không"
+      },
+      {
+        "name": "Thông tim phải",
+        "description": "Thăm dò xâm lấn bắt buộc để chẩn đoán xác định, đo trực tiếp áp lực trong tim phải và động mạch phổi"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Tạo hình ảnh chi tiết của tim, hiển thị lưu lượng máu trong động mạch phổi và đánh giá chức năng tâm thất phải"
+      },
+      {
+        "name": "Đo chức năng thông khí phổi",
+        "description": "Đo lượng không khí phổi có thể giữ và luồng không khí vào/ra khỏi phổi"
+      },
+      {
+        "name": "Đo đa ký giấc ngủ (polysomnogram)",
+        "description": "Đo hoạt động não, nhịp tim, huyết áp, nồng độ oxy trong khi ngủ để chẩn đoán hội chứng ngưng thở khi ngủ"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tăng áp phổi trở nên tồi tệ hơn theo thời gian, nếu không được điều trị sẽ có thể gây ra suy tim và dẫn đến tử vong. Mặc dù không có cách nào chữa khỏi hoàn toàn, nhưng việc điều trị có thể giúp giảm hiệu quả các triệu chứng và cải thiện cuộc sống tốt hơn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc giãn mạch máu",
+        "description": "Giúp giãn và mở rộng các mạch máu bị thu hẹp, cải thiện lưu lượng máu, có thể được uống, hít, tiêm hoặc truyền tĩnh mạch"
+      },
+      {
+        "name": "Chất kích thích guanylate cyclase (GSC)",
+        "description": "Làm tăng oxit nitric trong cơ thể, giúp giãn động mạch phổi và giảm áp lực"
+      },
+      {
+        "name": "Thuốc đối kháng thụ thể endothelin",
+        "description": "Đảo ngược tác dụng của chất trong thành mạch gây hẹp mạch máu, nhưng có thể gây hại gan và không dùng khi mang thai"
+      },
+      {
+        "name": "Chất ức chế phosphodiesterase 5 (PDE5)",
+        "description": "Tăng lưu lượng máu qua phổi, được sử dụng rộng rãi trong điều trị tăng áp phổi"
+      },
+      {
+        "name": "Thuốc chẹn kênh canxi liều cao",
+        "description": "Giúp giãn cơ trong thành mạch máu, chỉ có hiệu quả với một số ít người bệnh"
+      },
+      {
+        "name": "Thuốc chống đông máu",
+        "description": "Ngăn ngừa cục máu đông, nhưng làm tăng nguy cơ chảy máu, đặc biệt khi phẫu thuật"
+      },
+      {
+        "name": "Thuốc trợ tim",
+        "description": "Giúp tim đập mạnh hơn, bơm nhiều máu hơn và kiểm soát nhịp tim không đều"
+      },
+      {
+        "name": "Thuốc lợi tiểu",
+        "description": "Giúp thận loại bỏ chất lỏng dư thừa, giảm tích tụ chất lỏng trong phổi, chân và bụng"
+      },
+      {
+        "name": "Liệu pháp oxy",
+        "description": "Thở oxy tinh khiết để bổ sung oxy cho máu, đặc biệt hữu ích cho người bị ngưng thở khi ngủ"
+      },
+      {
+        "name": "Phẫu thuật bóc nội mạc động mạch phổi",
+        "description": "Loại bỏ cục máu đông cũ từ động mạch phổi ở người bị tăng áp phổi mãn tính"
+      },
+      {
+        "name": "Nong mạch phổi bằng bóng",
+        "description": "Sử dụng bóng để đẩy khối tắc nghẽn sang một bên và khôi phục lưu lượng máu đến phổi"
+      },
+      {
+        "name": "Phá vách liên nhĩ",
+        "description": "Tạo lỗ nhỏ trên vách liên nhĩ để giảm áp lực ở phía bên phải của tim"
+      },
+      {
+        "name": "Phẫu thuật ghép tim-phổi",
+        "description": "Áp dụng trong trường hợp nghiêm trọng khi các phương pháp khác không hiệu quả"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ khi cơ thể mệt mỏi",
+      "Duy trì chế độ ăn uống lành mạnh, giàu chất xơ, trái cây, rau củ, giảm muối",
+      "Tăng cường cá (ba phần mỗi tuần) và giảm chất béo bão hòa",
+      "Tránh sinh sống ở nơi có độ cao trên 2.450 mét",
+      "Tham khảo ý kiến bác sĩ trước khi mang thai hoặc sử dụng thuốc tránh thai",
+      "Đi khám sức khỏe định kỳ và báo cáo mọi triệu chứng mới"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +179,58 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập luyện thể dục thường xuyên để giúp cơ thể khỏe khoắn",
+      "Không hút thuốc lá và tránh hít phải khói thuốc",
+      "Duy trì chế độ ăn uống khoa học, lành mạnh",
+      "Tăng tiêu thụ thực phẩm như các loại đậu và carbohydrate phức hợp",
+      "Hạn chế thực phẩm có chứa đường tinh luyện, muối, chất béo bão hòa và cholesterol",
+      "Kiểm soát huyết áp cao, bệnh mạch vành và bệnh phổi mãn tính",
+      "Khám sức khỏe định kỳ để phát hiện sớm các yếu tố nguy cơ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tăng áp phổi có chữa khỏi được không?",
+      "answer": "Mặc dù không có cách nào chữa khỏi hoàn toàn tăng áp động mạch phổi, nhưng việc điều trị có thể giúp giảm hiệu quả các triệu chứng và cải thiện cuộc sống tốt hơn. Điều trị sớm và đúng cách có thể làm chậm tiến triển của bệnh và ngăn ngừa biến chứng nguy hiểm."
+    },
+    {
+      "question": "Tăng áp phổi có nguy hiểm không?",
+      "answer": "Có, tăng áp phổi là một bệnh lý nguy hiểm có thể dẫn đến nhiều biến chứng nghiêm trọng nếu không được điều trị kịp thời. Các biến chứng bao gồm suy tim phải, hình thành cục máu đông, rối loạn nhịp tim, chảy máu trong phổi, và có thể gây tử vong. Việc điều trị càng sớm càng tốt là rất quan trọng."
+    },
+    {
+      "question": "Những người nào có nguy cơ cao mắc tăng áp phổi?",
+      "answer": "Tăng áp phổi phổ biến hơn ở những người từ 30-60 tuổi, đặc biệt là phụ nữ. Những người có bệnh tim, phổi, mắc bệnh xơ cứng bì (30%), bệnh hồng cầu hình liềm (20-40%), nhiễm HIV, sử dụng thuốc giảm cân, methamphetamine, hoặc thuốc ức chế tái hấp thu serotonin cũng có nguy cơ cao hơn."
+    },
+    {
+      "question": "Tôi nên tránh những hoạt động gì khi bị tăng áp phổi?",
+      "answer": "Người bị tăng áp phổi nên tránh các hoạt động gắng sức quá mức, sinh sống ở nơi có độ cao trên 2.450 mét, hút thuốc lá, và sử dụng thuốc giảm cân, methamphetamine, cocaine. Nên tham khảo ý kiến bác sĩ trước khi mang thai hoặc sử dụng thuốc tránh thai, và tránh thực phẩm giàu muối, chất béo bão hòa."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, khó thở, đau ngực và phù chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng áp phổi",
+        "Suy tim",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt, ngất xỉu và tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng áp phổi", "Rối loạn nhịp tim", "Hạ huyết áp"]
+    },
+    {
+      "question": "Tôi hay bị khó thở khi tập thể dục và môi, da xanh xao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng áp phổi", "Thiếu máu", "Bệnh tim bẩm sinh"]
+    },
+    {
+      "question": "Tôi mắc bệnh van tim và lo lắng về nguy cơ tăng áp phổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng áp phổi", "Bệnh van tim", "Suy tim"]
+    },
+    {
+      "question": "Tôi bị bệnh phổi tắc nghẽn mãn tính (COPD) và lo lắng về nguy cơ tăng áp phổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng áp phổi", "COPD", "Suy hô hấp mạn tính"]
     }
   ]
 }

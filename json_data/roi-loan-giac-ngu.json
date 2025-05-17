@@ -1,39 +1,123 @@
 {
   "disease_id": "roi-loan-giac-ngu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn giấc ngủ",
+  "disease_alternative_names": [
+    "Sleep disorders",
+    "Mất ngủ",
+    "Rối loạn nhịp sinh học"
+  ],
+  "disease_definition": "Rối loạn giấc ngủ là tình trạng người bệnh gặp phải các vấn đề ảnh hưởng đến chất lượng, thời gian hoặc thời lượng giấc ngủ và ảnh hưởng đến khả năng hoạt động bình thường khi thức. Tình trạng này có thể góp phần gây ra các vấn đề sức khỏe khác, thậm chí tiềm ẩn nguy cơ ảnh hưởng đến sức khỏe tinh thần.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Buồn ngủ ban ngày, khó ngủ ban đêm",
+      "description": "Cảm thấy rất buồn ngủ vào ban ngày nhưng lại khó đi vào giấc ngủ vào ban đêm, gây đảo lộn nhịp sinh học"
+    },
+    {
+      "name": "Đột ngột ngủ gật không thích hợp",
+      "description": "Ngủ gật vào những thời điểm không mong muốn như khi đang lái xe, trong cuộc họp hoặc đang làm việc"
+    },
+    {
+      "name": "Mất nhiều thời gian để đi vào giấc ngủ",
+      "description": "Thường mất hơn 30 phút mỗi đêm để có thể chìm vào giấc ngủ"
+    },
+    {
+      "name": "Chu kỳ ngủ-thức không đều",
+      "description": "Thời gian ngủ và thức không theo quy luật, thường xuyên thay đổi và không ổn định"
+    },
+    {
+      "name": "Ngưng thở, ngáy to khi ngủ",
+      "description": "Xuất hiện tình trạng ngưng thở, thở hổn hển hoặc ngáy to trong lúc ngủ"
+    },
+    {
+      "name": "Thức giấc giữa đêm",
+      "description": "Thường xuyên tỉnh giấc vào giữa đêm và không thể ngủ lại được"
+    },
+    {
+      "name": "Mộng du và các hành vi bất thường",
+      "description": "Rời khỏi giường và di chuyển, có thể có những hành vi lạ trong khi vẫn đang ngủ"
+    },
+    {
+      "name": "Mệt mỏi, uể oải và cáu kỉnh",
+      "description": "Luôn cảm thấy mệt mỏi, uể oải và dễ cáu kỉnh do không được nghỉ ngơi đầy đủ"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rối loạn giấc ngủ có thể là nguyên phát do rối loạn cơ chế điều hòa giấc ngủ hoặc thứ phát do một bệnh tiềm ẩn khác.",
+    "related_factors": "Các tình trạng bệnh lý (dị ứng, cảm lạnh, bệnh tim mạch, phổi, dạ dày), đi tiểu thường xuyên, cơn đau mãn tính, căng thẳng và lo lắng, tác dụng phụ của thuốc, làm việc ca đêm, hội chứng jet lag, sử dụng thuốc lá, caffeine và rượu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ (dễ bị rối loạn giấc ngủ hơn nam giới)",
+    "Tuổi tác cao (chất lượng giấc ngủ suy giảm theo tuổi tác)",
+    "Lối sống kém lành mạnh (sử dụng rượu bia, đồ uống có caffeine)",
+    "Căng thẳng và lo âu kéo dài",
+    "Thường xuyên làm việc theo ca, đặc biệt là ca đêm",
+    "Các vấn đề sức khỏe tiềm ẩn như bệnh tim mạch, đau mãn tính"
+  ],
+  "complications": [
+    "Suy giảm hiệu suất làm việc và học tập",
+    "Tăng nguy cơ tai nạn do buồn ngủ và mất tập trung",
+    "Suy giảm sức khỏe tinh thần, tăng nguy cơ trầm cảm",
+    "Tăng nguy cơ mắc các bệnh lý mạn tính",
+    "Suy giảm trí nhớ và khả năng nhận thức",
+    "Thay đổi tâm trạng, cáu gắt, dễ bực bội",
+    "Tăng nguy cơ đau đầu và các triệu chứng đau khác"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe tổng quát",
+      "Thu thập thông tin về các triệu chứng và tiền sử bệnh",
+      "Tìm hiểu về tiền sử bệnh của các thành viên trong gia đình",
+      "Đánh giá lối sống và thói quen hàng ngày"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đo đa ký giấc ngủ (Polysomnography)",
+        "description": "Xét nghiệm đánh giá toàn bộ thay đổi của cơ thể trong lúc ngủ bao gồm nhịp tim, nhịp thở, nồng độ oxy, điện não, chuyển động mắt"
+      },
+      {
+        "name": "Đo điện não đồ (EEG)",
+        "description": "Giúp theo dõi và ghi chép các mẫu sóng não, phát hiện các vấn đề tiềm ẩn liên quan đến hoạt động điện đồ của não"
+      },
+      {
+        "name": "Đo độ trễ giấc ngủ (MSLT)",
+        "description": "Phương pháp giúp bác sĩ xác định được người bệnh có ngủ đủ giấc hay không, từ đó chẩn đoán chính xác về tình trạng bệnh"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị rối loạn giấc ngủ cần được xem xét nếu tình trạng này kéo dài trên 1 tuần sau khi đã áp dụng các phương pháp điều trị không dùng thuốc, nhằm tránh ảnh hưởng xấu đến chất lượng cuộc sống.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng các loại thuốc như chloral hydrate, benzodiazepine, zolpidem, amitriptylin theo chỉ định của bác sĩ"
+      },
+      {
+        "name": "Thư giãn và trà thảo mộc",
+        "description": "Sử dụng các phương pháp thư giãn và các loại trà thảo mộc giúp cải thiện chất lượng giấc ngủ"
+      },
+      {
+        "name": "Ngâm nước ấm và massage",
+        "description": "Ngâm mình với nước ấm hoặc ngâm chân với nước ấm và muối hồng/thảo dược trước khi ngủ, kết hợp massage cơ thể, đặc biệt là vùng đầu và cổ-vai-gáy"
+      },
+      {
+        "name": "Tập thể dục nhẹ nhàng",
+        "description": "Tập thể dục 30 phút mỗi ngày trước ngủ để cải thiện chất lượng giấc ngủ"
+      },
+      {
+        "name": "Điều chỉnh môi trường ngủ",
+        "description": "Giữ phòng ngủ yên tĩnh, hạn chế ánh sáng, điều chỉnh nhiệt độ phòng mát vừa phải"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì lịch ngủ-thức vào khung giờ cố định",
+      "Không sử dụng thiết bị điện tử trước khi ngủ ít nhất 1 giờ",
+      "Tránh các yếu tố gây căng thẳng, kích thích thần kinh trước khi ngủ",
+      "Không dùng rượu bia, thực phẩm nhiều đường, caffeine vào buổi chiều muộn",
+      "Hạn chế món ăn nhiều chất béo, dầu mỡ khó tiêu trước ngủ",
+      "Uống ít nước trước khi đi ngủ để hạn chế tiểu đêm",
+      "Tuân thủ chỉ định điều trị của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +125,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì lịch ngủ-thức đều đặn, đi ngủ và thức dậy cùng một thời điểm",
+      "Tạo môi trường ngủ thoải mái, yên tĩnh, tối và mát",
+      "Hạn chế caffeine và rượu, đặc biệt là vào buổi chiều và tối",
+      "Tập thể dục thường xuyên vào ban ngày",
+      "Tránh ăn bữa tối quá muộn hoặc quá nhiều",
+      "Quản lý stress bằng các biện pháp thư giãn, thiền",
+      "Tắt các thiết bị điện tử ít nhất 1 giờ trước khi đi ngủ",
+      "Áp dụng chế độ ăn uống cân bằng, giàu vitamin và khoáng chất"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn giấc ngủ có nguy hiểm không?",
+      "answer": "Có! Rối loạn giấc ngủ nếu lặp đi lặp lại trong một thời gian dài sẽ ảnh hưởng đến chất lượng cuộc sống. Người bị rối loạn giấc ngủ kéo dài dễ bị suy nhược cơ thể, tăng nguy cơ mắc các bệnh lý khác. Nếu không điều trị, rối loạn giấc ngủ kéo dài có thể gây ra tai nạn trong cuộc sống có thể dẫn đến tử vong."
+    },
+    {
+      "question": "Rối loạn giấc ngủ uống thuốc gì?",
+      "answer": "Có nhiều loại thuốc có thể hỗ trợ tình trạng rối loạn giấc ngủ như chloral hydrate, benzodiazepine, zolpidem, amitriptylin. Tuy nhiên, không nên tự ý dùng thuốc mà cần phải có chỉ định của bác sĩ và sử dụng đúng theo liều lượng được kê đơn."
+    },
+    {
+      "question": "Rối loạn giấc ngủ có tự khỏi không?",
+      "answer": "Rối loạn giấc ngủ có thể thoáng qua rồi hết nhưng cũng có thể kéo dài gây ảnh hưởng chất lượng sống và cần thực hiện điều trị. Đó có thể là biện pháp tự nhiên không dùng thuốc hoặc các phương pháp cần dùng thuốc. Không nên chủ quan tự ý sử dụng thuốc vì có thể làm bệnh nặng hơn và gây lệ thuộc vào thuốc ngủ."
+    },
+    {
+      "question": "Rối loạn giấc ngủ nên khám ở đâu?",
+      "answer": "Có thể khám rối loạn giấc ngủ tại chuyên khoa Nội thần kinh tại các bệnh viện, cơ sở y tế. Các bác sĩ chuyên khoa Thần kinh sẽ tư vấn và điều trị các bệnh lý thần kinh nói chung và rối loạn giấc ngủ nói riêng, đồng thời xác định nguyên nhân và cung cấp phương pháp điều trị hiệu quả."
+    },
+    {
+      "question": "Các loại rối loạn giấc ngủ phổ biến là gì?",
+      "answer": "Các loại rối loạn giấc ngủ phổ biến gồm: mất ngủ, hội chứng ngưng thở khi ngủ, chứng ngủ rũ (narcolepsy), hội chứng chân không yên (Restless Leg Syndrome - RLS), bệnh mất ngủ giả (Parasomnias) và rối loạn giấc ngủ nhịp sinh học (Circadian)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị buồn ngủ vào ban ngày và khó ngủ vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-giac-ngu", "roi-loan-lo-au"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và uể oải suốt cả ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-giac-ngu", "thieu-mau", "suy-giap"]
+    },
+    {
+      "question": "Tôi có chu kỳ ngủ-thức không đều và thường xuyên thức giấc giữa đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-giac-ngu", "tram-cam"]
+    },
+    {
+      "question": "Tôi bị ngưng thở khi ngủ và ngáy to. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-giac-ngu", "hoi-chung-ngung-tho-khi-ngu"]
+    },
+    {
+      "question": "Tôi mất hơn 30 phút để đi vào giấc ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-giac-ngu", "mat-ngu"]
     }
   ]
 }

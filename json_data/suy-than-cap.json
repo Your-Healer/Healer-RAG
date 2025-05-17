@@ -1,39 +1,103 @@
 {
   "disease_id": "suy-than-cap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy thận cấp",
+  "disease_alternative_names": ["Tổn thương thận cấp"],
+  "disease_definition": "Suy thận cấp (hay tổn thương thận cấp) là tình trạng suy giảm cấp tính độ lọc cầu thận trong vài giờ đến vài ngày khiến cho các chất điện giải, chất thải dư thừa không được đào thải ra khỏi máu. Bệnh có thể xảy ra ở người trước đó có chức năng thận bình thường hoặc người có bệnh thận mạn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Giảm lượng nước tiểu bất thường",
+      "description": "Lượng nước tiểu bị giảm bất thường so với bình thường"
+    },
+    {
+      "name": "Sưng phù chân",
+      "description": "Xuất hiện tình trạng giữ nước, gây sưng phù ở chân, mắt cá chân hoặc bàn chân"
+    },
+    {
+      "name": "Đau hoặc tức ngực, khó thở",
+      "description": "Cảm giác đau, tức ở vùng ngực và khó thở do tích tụ chất lỏng trong phổi"
+    },
+    {
+      "name": "Mệt mỏi, yếu ớt",
+      "description": "Cảm giác mệt mỏi, không có sức lực"
+    },
+    {
+      "name": "Buồn nôn, nôn",
+      "description": "Có cảm giác buồn nôn và nôn"
+    },
+    {
+      "name": "Nhịp tim không đều",
+      "description": "Nhịp tim đập không theo quy luật bình thường"
+    },
+    {
+      "name": "Co giật hoặc hôn mê",
+      "description": "Trong trường hợp nghiêm trọng, bệnh nhân có thể bị co giật hoặc hôn mê"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy thận cấp được chia thành 3 nhóm nguyên nhân chính: trước thận, tại thận và sau thận.",
+    "related_factors": "Nguyên nhân trước thận: giảm cung lượng tim, giảm lưu lượng tưới máu. Nguyên nhân tại thận: tổn thương mạch máu, cầu thận, mô kẽ, ống thận. Nguyên nhân sau thận: tắc nghẽn đường tiết niệu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người lớn tuổi",
+    "Bệnh thận",
+    "Bệnh gan",
+    "Bệnh tiểu đường, đặc biệt khi không được kiểm soát tốt",
+    "Huyết áp cao",
+    "Suy tim",
+    "Thừa cân, béo phì",
+    "Ung thư",
+    "Tiền sử phẫu thuật tim, cấy ghép tủy xương",
+    "Nhiễm trùng nặng",
+    "Hậu quả của nhiễm SARS-CoV2 (COVID-19)"
+  ],
+  "complications": [
+    "Suy thận mãn tính",
+    "Tổn thương tim",
+    "Tổn thương hệ thần kinh",
+    "Suy thận giai đoạn cuối",
+    "Huyết áp cao",
+    "Yếu cơ",
+    "Tức ngực khó thở"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán lâm sàng: hỏi bệnh sử, quan sát biểu hiện",
+      "Siêu âm bụng để đánh giá kích thước thận và phát hiện nguyên nhân gây tắc nghẽn",
+      "X-quang hệ niệu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Phân tích nước tiểu để tìm protein, creatinine và hồng cầu"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đo nồng độ creatinine, ure, acid uric, điện giải trong máu để đánh giá chức năng thận"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu điều trị suy thận cấp là bảo vệ tính mạng người bệnh, phòng ngừa tử vong, tạo điều kiện thuận lợi cho thận hồi phục, giảm tối thiểu nguy cơ diễn tiến thành bệnh thận mạn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị suy thận cấp trước thận",
+        "description": "Điều trị nguyên nhân gây giảm thể tích tuần hoàn, điều trị suy tim, nhồi máu cơ tim, điều trị nhiễm trùng huyết, xơ gan mất bù"
+      },
+      {
+        "name": "Điều trị suy thận cấp tại thận",
+        "description": "Ngưng hoặc giảm liều thuốc gây độc thận, bù hoàn dịch, máu, điện giải, sử dụng thuốc lợi tiểu, Dopamine liều thấp"
+      },
+      {
+        "name": "Lọc máu",
+        "description": "Chạy thận nhân tạo hoặc lọc màng bụng trong các trường hợp nặng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Theo dõi chặt chẽ lượng nước tiểu và các biến chứng có thể xảy ra",
+      "Duy trì chế độ ăn uống và sinh hoạt theo hướng dẫn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +105,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thận trọng trong việc dùng thuốc, chỉ dùng thuốc khi có bệnh theo toa bác sĩ",
+      "Tuân thủ hướng dẫn đối với thuốc giảm đau, không dùng quá liều",
+      "Không tự ý dùng thực phẩm chức năng không rõ nguồn gốc",
+      "Thường xuyên liên hệ với bác sĩ điều trị để quản lý các bệnh liên quan đến thận",
+      "Khám sức khỏe định kỳ hoặc theo lịch hẹn của bác sĩ",
+      "Thiết lập chế độ dinh dưỡng cân bằng, đa dạng các nhóm thực phẩm",
+      "Hạn chế bia rượu, thuốc lá và các chất kích thích",
+      "Tăng cường vận động phù hợp với thể trạng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy thận cấp có chữa được không?",
+      "answer": "Nếu được chẩn đoán sớm và điều trị kịp thời, bệnh có cơ hội lành hẳn, khôi phục hoàn toàn chức năng thận. Tuy nhiên, vẫn có khoảng 76% trường hợp diễn tiến tới mất chức năng thận và suy thận mạn."
+    },
+    {
+      "question": "Triệu chứng suy thận cấp là gì?",
+      "answer": "Triệu chứng phổ biến bao gồm giảm lượng nước tiểu bất thường, sưng phù ở chân, đau hoặc tức ngực, khó thở, mệt mỏi, buồn nôn, nôn, nhịp tim không đều, và trong trường hợp nghiêm trọng có thể gây co giật hoặc hôn mê."
+    },
+    {
+      "question": "Suy thận cấp khác gì với suy thận mạn?",
+      "answer": "Suy thận cấp xảy ra đột ngột trong vài giờ đến vài ngày và có khả năng hồi phục nếu được điều trị kịp thời, trong khi suy thận mạn tiến triển từ từ trong nhiều năm và thường không thể phục hồi hoàn toàn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như giảm lượng nước tiểu bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy thận cấp",
+        "Suy thận mạn",
+        "Tắc nghẽn đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sưng phù chân, mắt cá chân hoặc bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy thận cấp", "Suy tim", "Xơ gan"]
+    },
+    {
+      "question": "Tôi hay bị đau hoặc tức ngực, khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy thận cấp",
+        "Suy tim",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, yếu ớt và buồn nôn, nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy thận cấp", "Nhiễm trùng", "Rối loạn tiêu hóa"]
+    },
+    {
+      "question": "Tôi đang cảm thấy cao huyết áp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy thận cấp",
+        "Tăng huyết áp nguyên phát",
+        "Bệnh thận mạn"
+      ]
     }
   ]
 }

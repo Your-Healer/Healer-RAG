@@ -1,58 +1,194 @@
 {
   "disease_id": "suy-gan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy gan",
+  "disease_alternative_names": [
+    "Suy chức năng gan",
+    "Liver failure",
+    "Hepatic failure"
+  ],
+  "disease_definition": "Suy gan là tình trạng gan giảm khả năng thực hiện các chức năng bình thường của gan, xảy ra khi phần lớn tổ chức gan bị tổn thương và không có khả năng hoạt động. Đây thường là giai đoạn cuối của nhiều bệnh gan, xảy ra khi phần lớn cơ quan đã bị hư hại, không thể phục hồi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mệt mỏi",
+      "description": "Cảm giác kiệt sức, uể oải là triệu chứng phổ biến nhất của suy gan"
+    },
+    {
+      "name": "Buồn nôn và chán ăn",
+      "description": "Cảm giác buồn nôn và không muốn ăn uống xuất hiện khi gan không thể xử lý các chất dinh dưỡng"
+    },
+    {
+      "name": "Tiêu chảy và nôn ra máu",
+      "description": "Rối loạn tiêu hóa và xuất huyết tiêu hóa do gan không sản xuất đủ protein đông máu"
+    },
+    {
+      "name": "Vàng da và mắt",
+      "description": "Da và mắt chuyển sang màu vàng do gan không thể xử lý bilirubin - một chất được tạo ra khi hồng cầu bị phá hủy"
+    },
+    {
+      "name": "Tích tụ chất lỏng",
+      "description": "Phù chân và tích nước trong bụng (cổ trướng) do mất cân bằng áp lực thẩm thấu và giảm protein máu"
+    },
+    {
+      "name": "Mất phương hướng",
+      "description": "Lú lẫn, không tỉnh táo do độc tố tích tụ trong máu ảnh hưởng đến não"
+    },
+    {
+      "name": "Chảy máu dễ dàng",
+      "description": "Xuất hiện vết bầm và chảy máu khó cầm do gan không sản xuất đủ yếu tố đông máu"
+    },
+    {
+      "name": "Hơi thở có mùi amoniac",
+      "description": "Hơi thở có mùi ngọt hoặc mốc do gan không thể loại bỏ amoniac khỏi cơ thể"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy gan xảy ra khi phần lớn tổ chức gan bị tổn thương và không thể thực hiện các chức năng bình thường. Tùy theo tốc độ phát triển, bệnh được chia thành suy gan cấp tính và suy gan mạn tính.",
+    "related_factors": "Suy gan cấp tính có thể do quá liều Acetaminophen, nhiễm virus viêm gan A, B, E, phản ứng với thuốc hoặc thảo dược, nấm độc, bệnh Wilson, gan nhiễm mỡ ở phụ nữ mang thai. Suy gan mạn tính thường do viêm gan virus B và C, lạm dụng rượu, bệnh gan nhiễm mỡ không do rượu (NAFLD), hoặc các bệnh tự miễn, di truyền.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Lạm dụng rượu bia trong thời gian dài",
+    "Nhiễm viêm gan virus B, C",
+    "Béo phì và tiểu đường",
+    "Sử dụng thuốc Acetaminophen quá liều",
+    "Tiếp xúc với hóa chất độc hại",
+    "Bệnh tự miễn dịch",
+    "Bệnh di truyền ảnh hưởng đến gan",
+    "Mắc hội chứng chuyển hóa"
+  ],
+  "complications": [
+    "Phù não và huyết áp cao",
+    "Chảy máu không kiểm soát do rối loạn đông máu",
+    "Nhiễm trùng như viêm phổi và nhiễm trùng tiểu",
+    "Suy thận",
+    "Hôn mê gan",
+    "Tử vong nếu không được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi tiền sử bệnh",
+      "Đánh giá các triệu chứng và dấu hiệu suy gan"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm chức năng gan",
+        "description": "Đo nồng độ Albumin, prothrombin và các enzym gan trong máu để đánh giá mức độ tổn thương gan"
+      },
+      {
+        "name": "Xét nghiệm máu toàn diện",
+        "description": "Kiểm tra công thức máu, tình trạng viêm gan do virus, và các rối loạn di truyền có thể gây tổn thương gan"
+      },
+      {
+        "name": "Siêu âm gan",
+        "description": "Kiểm tra kích thước, hình dạng của gan và phát hiện các bất thường như u, nang hoặc tắc nghẽn"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT) hoặc cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết hơn về gan và các cơ quan lân cận để đánh giá tổn thương"
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Lấy mẫu mô gan để xem xét dưới kính hiển vi, giúp xác định nguyên nhân và mức độ tổn thương"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị suy gan phụ thuộc vào nguyên nhân gây bệnh và mức độ tổn thương gan. Mục tiêu là làm chậm quá trình tổn thương, điều trị các biến chứng và hỗ trợ chức năng gan.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nguyên nhân",
+        "description": "Tùy theo nguyên nhân gây suy gan, bác sĩ sẽ có phương pháp điều trị cụ thể, như thuốc kháng virus cho viêm gan B, C, hoặc cai rượu trong trường hợp suy gan do rượu"
+      },
+      {
+        "name": "Sử dụng thuốc Acetylcysteine",
+        "description": "Đẩy lùi ngộ độc gan trong trường hợp suy gan do dùng quá liều Acetaminophen hoặc độc chất khác"
+      },
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Sử dụng thuốc giảm phù, lợi tiểu để giảm tích nước, thuốc điều chỉnh rối loạn đông máu, kháng sinh cho các nhiễm trùng"
+      },
+      {
+        "name": "Thay đổi chế độ ăn",
+        "description": "Điều chỉnh lượng protein, hạn chế muối và chất lỏng để giảm áp lực lên gan và ngăn ngừa biến chứng"
+      },
+      {
+        "name": "Ghép gan",
+        "description": "Phương pháp cuối cùng cho các trường hợp suy gan nghiêm trọng, khi gan đã bị tổn thương quá nặng và không còn khả năng phục hồi"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Ngừng sử dụng rượu bia và các chất độc hại với gan",
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Duy trì chế độ ăn uống lành mạnh, hạn chế muối",
+      "Tránh dùng các thuốc không cần thiết, đặc biệt là acetaminophen",
+      "Thăm khám định kỳ để theo dõi tình trạng bệnh",
+      "Tiêm vaccine viêm gan B để ngăn ngừa tổn thương gan"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vaccine viêm gan B giúp ngăn ngừa nhiễm virus viêm gan B, một trong những nguyên nhân phổ biến gây suy gan.",
+      "recommended_for": [
+        "Tất cả trẻ sơ sinh",
+        "Người chưa tiêm phòng viêm gan B",
+        "Người có nguy cơ cao nhiễm viêm gan B"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế uống rượu bia hoặc tránh hoàn toàn",
+      "Theo dõi và điều trị viêm gan virus B, C khi có chỉ định",
+      "Quan hệ tình dục an toàn để ngăn ngừa viêm gan virus lây qua đường tình dục",
+      "Tránh dùng chung kim tiêm, dụng cụ xăm mình để ngăn ngừa viêm gan C",
+      "Kiểm soát tốt bệnh đái tháo đường, huyết áp, rối loạn mỡ máu",
+      "Duy trì cân nặng hợp lý để ngăn ngừa gan nhiễm mỡ",
+      "Xây dựng chế độ ăn có lợi cho gan (yến mạch, trà xanh, tỏi, quả mọng, bưởi, cà phê)",
+      "Tập thể dục thể thao đều đặn với cường độ phù hợp",
+      "Sử dụng thuốc theo chỉ định của bác sĩ, tránh tự ý dùng thuốc"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy gan là gì?",
+      "answer": "Suy gan là tình trạng gan giảm khả năng thực hiện các chức năng bình thường, xảy ra khi phần lớn tổ chức gan bị tổn thương và không có khả năng hoạt động. Đây thường là giai đoạn cuối của nhiều bệnh gan, xảy ra khi phần lớn cơ quan đã bị hư hại, không thể phục hồi. Gan đảm nhận nhiều chức năng quan trọng như loại bỏ chất độc hại, chống nhiễm trùng, sản xuất protein giúp đông máu và tạo ra mật phục vụ cho quá trình tiêu hóa."
+    },
+    {
+      "question": "Suy gan có những triệu chứng gì?",
+      "answer": "Triệu chứng suy gan thường tiến triển từ nhẹ đến nặng, bao gồm: mệt mỏi, buồn nôn, chán ăn, tiêu chảy, nôn ra máu, xuất hiện máu trong phân, vàng da (vàng da và mắt), mất phương hướng, tích tụ chất lỏng ở bụng và tứ chi, chảy máu dễ dàng, và hơi thở có mùi ngọt hoặc mốc (mùi amoniac)."
+    },
+    {
+      "question": "Suy gan có nguy hiểm không?",
+      "answer": "Suy gan là tình trạng bệnh lý nghiêm trọng, có nguy cơ đe dọa đến tính mạng với các biến chứng nguy hiểm như phù não gây huyết áp cao, rối loạn đông máu dẫn đến chảy máu không kiểm soát, nhiễm trùng (viêm phổi và nhiễm trùng tiểu), và suy thận. Nếu không được điều trị kịp thời, suy gan có thể dẫn đến tử vong."
+    },
+    {
+      "question": "Suy gan có thể chữa khỏi được không?",
+      "answer": "Khả năng điều trị suy gan phụ thuộc vào nguyên nhân và mức độ tổn thương. Trong giai đoạn đầu, nếu xác định được nguyên nhân và điều trị kịp thời, gan có thể phục hồi một phần chức năng. Với suy gan cấp tính do ngộ độc thuốc, việc sử dụng thuốc giải độc như Acetylcysteine có thể hiệu quả. Tuy nhiên, với suy gan giai đoạn cuối, ghép gan là phương pháp duy nhất để chữa khỏi bệnh."
+    },
+    {
+      "question": "Suy gan có lây không?",
+      "answer": "Suy gan không lây. Tuy nhiên, một số nguyên nhân gây suy gan như viêm gan virus có thể lây nhiễm. Viêm gan virus A và E lây theo đường tiêu hóa (ăn uống), trong khi viêm gan virus B và C lây qua đường máu hoặc tình dục. Các nguyên nhân khác gây suy gan như rượu, thuốc, bệnh tự miễn hay rối loạn di truyền đều không có khả năng lây nhiễm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, buồn nôn và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan", "viem-gan", "xo-gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tiêu chảy và nôn ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan", "xuat-huyet-tieu-hoa", "loet-da-day"]
+    },
+    {
+      "question": "Tôi hay bị vàng da và mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan", "viem-gan", "tac-mat"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như phù chân và tích nước trong bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan", "suy-tim", "suy-than"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mất phương hướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gan", "hoi-chung-nao-gan", "roi-loan-thi-giac"]
     }
   ]
 }

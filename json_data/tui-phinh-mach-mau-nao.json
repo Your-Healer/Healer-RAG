@@ -1,39 +1,149 @@
 {
   "disease_id": "tui-phinh-mach-mau-nao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Túi phình mạch máu não",
+  "disease_alternative_names": [
+    "Phình động mạch não",
+    "Phình mạch máu não",
+    "Túi phình động mạch não",
+    "Cerebral aneurysm"
+  ],
+  "disease_definition": "Túi phình mạch máu não là tình trạng mạch máu não có một hay nhiều vị trí nào đó bị phình ra, tạo thành 'túi'. Hình dạng của túi phình giống như quả mọng. Các chuyên gia cho rằng túi phình mạch não hình thành do máu chảy qua và gây áp lực lên một vùng yếu nào đó của thành mạch, lâu ngày gây giãn vị trí thành mạch đó và tạo thành túi phình to ra.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu",
+      "description": "Đau đầu khi túi phình chưa vỡ; hoặc đau đầu dữ dội, đột ngột khi túi phình bị vỡ"
+    },
+    {
+      "name": "Tầm nhìn thay đổi",
+      "description": "Nhìn mờ, nhìn đôi hoặc thay đổi thị lực do túi phình gây áp lực lên các dây thần kinh"
+    },
+    {
+      "name": "Đồng tử mở rộng",
+      "description": "Đồng tử giãn ra bất thường do ảnh hưởng của túi phình lên dây thần kinh điều khiển đồng tử"
+    },
+    {
+      "name": "Tê hoặc ngứa ran trên đầu hoặc mặt",
+      "description": "Cảm giác tê, ngứa ran ở vùng đầu hoặc mặt do túi phình ảnh hưởng đến các dây thần kinh cảm giác"
+    },
+    {
+      "name": "Đau phía trên và phía sau mắt",
+      "description": "Cảm giác đau nhức ở vùng quanh hốc mắt, phía sau mắt"
+    },
+    {
+      "name": "Co giật",
+      "description": "Các cơn co giật do tổn thương não gây ra bởi túi phình mạch máu não"
+    },
+    {
+      "name": "Buồn nôn và nôn ói",
+      "description": "Xuất hiện khi túi phình vỡ, thường đi kèm với đau đầu dữ dội"
+    },
+    {
+      "name": "Cổ căng cứng",
+      "description": "Cảm giác cổ cứng, khó cử động khi túi phình vỡ gây xuất huyết màng não"
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Không chịu được ánh sáng mạnh, còn gọi là chứng sợ ánh sáng"
+    },
+    {
+      "name": "Mí mắt rủ xuống",
+      "description": "Mí mắt bị sụp xuống do túi phình ảnh hưởng đến dây thần kinh điều khiển cơ nâng mi"
+    },
+    {
+      "name": "Rối loạn nhận thức",
+      "description": "Khó khăn trong việc suy nghĩ, tập trung hoặc nhớ thông tin"
+    },
+    {
+      "name": "Yếu hoặc tê liệt toàn thân",
+      "description": "Giảm sức cơ hoặc mất hoàn toàn khả năng vận động một bên hoặc cả cơ thể"
+    },
+    {
+      "name": "Mất dần ý thức",
+      "description": "Trở nên lơ mơ, mất khả năng phản ứng với kích thích bên ngoài, có thể dẫn đến hôn mê"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Túi phình mạch não hình thành do máu chảy qua và gây áp lực lên một vùng yếu nào đó của thành mạch, lâu ngày gây giãn vị trí thành mạch đó và tạo thành túi phình to ra.",
+    "related_factors": "Nguyên nhân hình thành những túi phình trong mạch não có thể là do động lực máu gây ra áp lực lên các nhánh mạch máu tại khu vực rẽ nhánh trong não. Một số vấn đề như nhiễm trùng, chấn thương, nhiễm phóng xạ, khối u bên trong não cũng được xem là nguyên nhân hình thành túi phình động mạch não.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố di truyền khiến cho động mạch não quá mỏng",
+    "Hội chứng mạch máu Ehlers-Danlos",
+    "Bệnh thận đa nang trội trên nhiễm sắc thể thường",
+    "Hội chứng Marfan",
+    "Chứng loạn sản sợi cơ",
+    "Dị dạng động tĩnh mạch",
+    "Người thân cấp I có tiền sử phình động mạch não",
+    "Thường xuyên hút thuốc lá",
+    "Nghiện rượu kéo dài",
+    "Sử dụng chất gây nghiện (đặc biệt là cocain)",
+    "Bệnh tăng huyết áp",
+    "Tuổi từ 30 đến 60",
+    "Căng thẳng, tức giận thường xuyên"
+  ],
+  "complications": [
+    "Xuất huyết dưới nhện (SAH)",
+    "Đột quỵ xuất huyết não",
+    "Co thắt mạch máu não",
+    "Não úng thủy (tích tụ dịch não tủy)",
+    "Co giật kéo dài",
+    "Hôn mê",
+    "Tổn thương não vĩnh viễn",
+    "Tử vong (lên đến 50% trường hợp)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá các triệu chứng",
+      "Tầm soát định kỳ đối với người có nguy cơ cao",
+      "Đánh giá các yếu tố nguy cơ và tiền sử gia đình"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp CT (cắt lớp vi tính)",
+        "description": "Tạo hình ảnh chi tiết về não bộ và mạch máu não, giúp phát hiện máu rỉ và xác định kích thước, vị trí và hình dạng của túi phình"
+      },
+      {
+        "name": "Chụp MRI (cộng hưởng từ)",
+        "description": "Sử dụng sóng vô tuyến để tạo ra hình ảnh chi tiết về động mạch não, hiển thị kích thước, vị trí và hình dạng của túi phình động mạch"
+      },
+      {
+        "name": "Chụp động mạch não bằng máy DSA",
+        "description": "Kỹ thuật can thiệp nội mạch giúp thu thập hình ảnh động mạch não, phát hiện những tắc nghẽn và xác định điểm yếu trong thành động mạch não"
+      },
+      {
+        "name": "Phân tích dịch não tủy (CSF)",
+        "description": "Thu thập mẫu dịch não tủy bằng chọc dò tủy sống để phát hiện vấn đề chảy máu xung quanh não"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy thuộc vào từng tình trạng bệnh mà túi phình mạch máu não chưa vỡ có thể được bác sĩ theo dõi hoặc can thiệp điều trị ngay lập tức. Mục tiêu chính của điều trị là ngừng hoặc giảm lưu lượng máu vào túi phình mạch máu não.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt vi mạch tại túi phình động mạch",
+        "description": "Bác sĩ giải phẫu thần kinh cắt một lỗ nhỏ trên hộp sọ để tiếp cận và gắn kẹp kim loại vào đáy túi phình, ngăn máu chảy vào túi phình"
+      },
+      {
+        "name": "Can thiệp nội mạch nút phình mạch não",
+        "description": "Đặt ống thông vào mạch máu ở đùi hoặc cổ tay, luồn đến não và bơm nguyên liệu vào để bít tắc mạch máu đến túi phình"
+      },
+      {
+        "name": "Đặt Stent chuyển dòng",
+        "description": "Chuyển hướng dòng máu đi ra ngoài thay vì đi vào túi phình mạch não, hiệu quả cho túi phình chưa vỡ"
+      },
+      {
+        "name": "Phương pháp điều trị bổ sung",
+        "description": "Sử dụng thuốc chống co giật, thuốc chẹn kênh canxi, đặt shunt (dẫn lưu dịch não tủy), và vật lý trị liệu để phục hồi chức năng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Kiểm soát huyết áp bằng thuốc và chế độ ăn nếu bị tăng huyết áp",
+      "Hạn chế các hoạt động gắng sức sau khi phát hiện túi phình chưa được điều trị",
+      "Tránh các tình huống gây căng thẳng hoặc tức giận",
+      "Thăm khám định kỳ theo lịch hẹn của bác sĩ để theo dõi tình trạng túi phình",
+      "Nếu xuất hiện đau đầu dữ dội hoặc các triệu chứng nghiêm trọng khác, cần đến bệnh viện ngay lập tức"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +151,65 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì huyết áp khỏe mạnh bằng cách ăn uống khoa học, tập thể dục điều độ, ngủ đủ giấc",
+      "Tránh xa thuốc lá, rượu bia, chất kích thích",
+      "Hạn chế tình trạng căng thẳng kéo dài",
+      "Thăm khám sức khỏe tổng quát 6 tháng 1 lần",
+      "Điều trị tăng huyết áp nếu có theo chỉ định của bác sĩ",
+      "Người có tiền sử gia đình bị túi phình mạch máu não nên thực hiện tầm soát định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Túi phình mạch máu não có nguy hiểm không?",
+      "answer": "Túi phình mạch não tiềm ẩn nguy cơ gây nguy hiểm cho sức khỏe người bệnh, đặc biệt khi bị vỡ sẽ xảy ra tình trạng xuất huyết và gây áp lực vào các mô não xung quanh. Chứng phình động mạch não bị vỡ có thể gây xuất huyết dưới nhện (SAH), đột quỵ xuất huyết não, và nếu không được cấp cứu kịp thời có thể dẫn đến tổn thương não vĩnh viễn hoặc tử vong với tỷ lệ lên đến 50%."
+    },
+    {
+      "question": "Điều gì khiến túi phình động mạch não bị vỡ?",
+      "answer": "Bệnh tăng huyết áp là nguyên nhân phổ biến khiến túi phình mạch não bị vỡ. Huyết áp cao khiến máu đẩy mạnh vào thành mạch. Các yếu tố khác ảnh hưởng đến khả năng vỡ bao gồm: căng thẳng, tức giận, lao động cường độ cao, vận động mạnh đột ngột. Khả năng vỡ cũng phụ thuộc vào kích thước và hình dạng bất thường của túi phình, tốc độ tăng trưởng, vị trí (đặc biệt ở động mạch thông sau và động mạch thông trước), và tuổi tác (người trên 70 tuổi có nguy cơ cao hơn)."
+    },
+    {
+      "question": "Làm sao để phát hiện túi phình mạch máu não?",
+      "answer": "Hầu hết túi phình mạch não khi chưa vỡ sẽ không có biểu hiện và chỉ được phát hiện bằng kỹ thuật chẩn đoán hình ảnh. Các xét nghiệm bao gồm: chụp CT (cắt lớp vi tính), chụp MRI (cộng hưởng từ), chụp động mạch não bằng máy DSA, và phân tích dịch não tủy (CSF). Người hay bị đau đầu dai dẳng, giảm thị lực nên đi tầm soát định kỳ, đặc biệt nếu có tiền sử gia đình bị phình mạch máu não."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu dữ dội, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Túi phình mạch máu não",
+        "Đau nửa đầu Migraine",
+        "Xuất huyết não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cổ cứng, nhìn mờ và nhạy cảm với ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Túi phình mạch máu não",
+        "Viêm màng não",
+        "Xuất huyết dưới nhện"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu, co giật và yếu liệt cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Túi phình mạch máu não", "Đột quỵ", "U não"]
+    },
+    {
+      "question": "Tôi hay bị đau đầu, tê bì mặt và thay đổi thị lực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Túi phình mạch máu não",
+        "Đau dây thần kinh tam thoa",
+        "Tăng nhãn áp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu dữ dội và mất dần ý thức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Túi phình mạch máu não",
+        "Xuất huyết não",
+        "Tăng áp lực nội sọ"
+      ]
     }
   ]
 }

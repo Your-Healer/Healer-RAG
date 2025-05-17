@@ -1,39 +1,146 @@
 {
   "disease_id": "suy-tim-man-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy tim mạn tính",
+  "disease_alternative_names": ["Suy tim mạn", "Bệnh tim suy mạn tính"],
+  "disease_definition": "Suy tim mạn tính là tình trạng tim không thể liên tục bơm đủ máu đi khắp cơ thể nhằm đảm bảo cung cấp đủ oxy. Đây là một tình trạng lâu dài và dần dần trở nên nghiêm trọng hơn theo thời gian, thường ảnh hưởng đến người lớn tuổi và những người có các bệnh tim mạch khác.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó thở",
+      "description": "Khó thở khi hoạt động hoặc khi nằm thẳng, là triệu chứng chính của suy tim bên trái"
+    },
+    {
+      "name": "Phù nề chân và mắt cá chân",
+      "description": "Tích tụ chất lỏng gây sưng chân và mắt cá chân, thường là triệu chứng của suy tim bên phải"
+    },
+    {
+      "name": "Ho",
+      "description": "Ho có thể xuất hiện cùng với khó thở, đặc biệt khi nằm thẳng"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi thường xuyên, ngay cả khi thực hiện các hoạt động nhẹ"
+    },
+    {
+      "name": "Chóng mặt hoặc choáng váng",
+      "description": "Cảm giác chóng mặt, hoa mắt hoặc choáng váng khi thay đổi tư thế"
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác muốn nôn, thường đi kèm với ăn mất ngon"
+    },
+    {
+      "name": "Ăn mất ngon",
+      "description": "Giảm cảm giác ngon miệng và ham muốn ăn uống"
+    },
+    {
+      "name": "Táo bón",
+      "description": "Khó khăn khi đi đại tiện, phân cứng"
+    },
+    {
+      "name": "Yếu ở chân",
+      "description": "Cảm giác yếu sức ở chân khi vận động"
+    },
+    {
+      "name": "Nhịp tim nhanh",
+      "description": "Cảm giác tim đập nhanh, ngay cả khi đang nghỉ ngơi"
+    },
+    {
+      "name": "Nhịp tim không đều",
+      "description": "Nhịp tim bất thường, không theo quy luật"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau hoặc tức ngực, có thể biểu hiện như cơn đau thắt ngực"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy tim mạn tính không có nguyên nhân duy nhất mà là biến chứng của một loạt các tình trạng khác ảnh hưởng đến khả năng bơm máu đi khắp cơ thể của tim.",
+    "related_factors": "Các nguyên nhân phổ biến bao gồm bệnh mạch vành (thu hẹp động mạch vành cung cấp máu cho tim), tăng huyết áp (gây áp lực lên tim), các bệnh cơ tim, bệnh van tim, bệnh tim bẩm sinh, nhiễm virus cơ tim, lạm dụng thuốc và hóa chất, uống quá nhiều rượu, thiếu máu, bệnh tuyến giáp, và rối loạn nhịp tim.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi già",
+    "Bệnh đái tháo đường",
+    "Tăng huyết áp",
+    "Thừa cân hoặc béo phì",
+    "Nam giới",
+    "Hút thuốc lá",
+    "Bệnh mạch vành",
+    "Bệnh cơ tim",
+    "Bệnh van tim",
+    "Rối loạn nhịp tim",
+    "Uống nhiều rượu",
+    "Tiền sử gia đình có người bị suy tim"
+  ],
+  "complications": [
+    "Suy giảm hoạt động thể chất",
+    "Suy giảm chất lượng cuộc sống",
+    "Suy thận",
+    "Rối loạn nhịp tim",
+    "Tăng nguy cơ nhập viện",
+    "Tăng nguy cơ tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá tiền sử bệnh và khám lâm sàng",
+      "Phân loại suy tim theo mức độ nghiêm trọng dựa trên hệ thống phân loại chức năng của Hiệp hội Tim mạch New York (NYHA)",
+      "Kiểm tra các chỉ số sinh tồn như nhịp tim, huyết áp",
+      "Xác định loại suy tim dựa trên phân suất tống máu (HFrEF hoặc HFpEF)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm tim",
+        "description": "Sử dụng sóng âm tần số cao để khảo sát các chức năng tim, được coi là công cụ quan trọng nhất trong chẩn đoán suy tim"
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Dùng để kiểm tra, ghi lại nhịp tim và hoạt động điện trong tim"
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Cung cấp hình ảnh của tim và phát hiện sự tích tụ dịch nếu có"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đo nồng độ chỉ điểm sinh học BNP hoặc NT-proBNP, có xu hướng tăng cao ở những người bị suy tim"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Hỗ trợ đánh giá chức năng thận và phát hiện protein niệu"
+      },
+      {
+        "name": "Chụp MRI tim",
+        "description": "Cung cấp hình ảnh chi tiết về cấu trúc và chức năng tim"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị suy tim mạn tính tập trung vào việc giảm các triệu chứng, làm chậm tiến triển của bệnh và cải thiện chất lượng cuộc sống. Điều trị sớm là chìa khóa để ngăn ngừa các trường hợp suy tim mạn tính nghiêm trọng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Bỏ thuốc lá, hạn chế uống rượu, giảm cân (nếu thừa cân), tập thể dục thường xuyên, hạn chế ăn mặn, theo dõi cân nặng hàng ngày"
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Dùng thuốc theo chỉ định của bác sĩ, có thể kết hợp nhiều loại thuốc hoặc thay đổi theo thời gian tùy thuộc vào kiểm soát huyết áp và phân suất tống máu thất trái"
+      },
+      {
+        "name": "Thiết bị cấy ghép",
+        "description": "Trong một số trường hợp, máy khử rung tim cấy ghép (ICD) và máy tạo nhịp tim có thể được sử dụng"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật để thay thế hoặc sửa van tim bị ảnh hưởng, ghép tim hoặc cấy thiết bị hỗ trợ tâm thất trái trong trường hợp nghiêm trọng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Duy trì lối sống lành mạnh",
+      "Hạn chế lượng muối trong chế độ ăn uống",
+      "Kiểm tra cân nặng hàng ngày để phát hiện sớm tình trạng giữ nước",
+      "Báo cáo với bác sĩ nếu tăng khoảng 2kg trong vòng 1-3 ngày"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +148,67 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Hạn chế uống rượu",
+      "Ngừng hút thuốc lá",
+      "Tập thể dục thường xuyên như đi bộ, bơi lội",
+      "Duy trì chế độ ăn uống lành mạnh",
+      "Kiểm soát tăng huyết áp và điều trị thiếu máu nếu có",
+      "Quản lý các bệnh mạn tính như đái tháo đường",
+      "Khám sức khỏe định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sự khác biệt giữa suy tim cấp tính và mạn tính là gì?",
+      "answer": "Suy tim mạn tính là một tình trạng phát triển dần dần theo thời gian, trong khi suy tim cấp tính xảy ra rất đột ngột và được coi là một cấp cứu y tế cần can thiệp ngay lập tức. Hai tình trạng này có chung các triệu chứng, như khó thở, tích nước và đau ngực, nhưng tốc độ phát triển khác nhau."
+    },
+    {
+      "question": "Mối liên quan giữa chứng ngưng thở khi ngủ và suy tim mạn tính là gì?",
+      "answer": "Chứng ngưng thở khi ngủ, cũng như các rối loạn khác liên quan đến giấc ngủ, thường xảy ra ở những người bị suy tim mạn tính. Những tình trạng này có thể gây căng thẳng thêm cho tim khi ngủ, khiến tình trạng suy tim trở nên trầm trọng hơn với một số người."
+    },
+    {
+      "question": "Suy tim mạn tính có di truyền không?",
+      "answer": "Mặc dù suy tim mạn tính không trực tiếp di truyền, nhưng một số yếu tố nguy cơ dẫn đến tình trạng này có thể do di truyền, bao gồm bệnh mạch vành và tăng huyết áp. Ngoài mối liên hệ di truyền, các thành viên trong gia đình cũng có chung lối sống và các yếu tố môi trường có thể dẫn đến nguy cơ mắc bệnh."
+    },
+    {
+      "question": "Tuổi thọ của người bệnh suy tim mạn tính như thế nào?",
+      "answer": "Nếu được điều trị kịp thời và đúng cách, tuổi thọ của người bệnh suy tim mạn tính có thể được cải thiện. Tiên lượng cho tình trạng này phụ thuộc rất nhiều vào tính chất nghiêm trọng của nguyên nhân cơ bản. Tuy nhiên, đây là một tình trạng nghiêm trọng cần được theo dõi suốt đời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó thở khi hoạt động hoặc khi nằm thẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim mạn tính",
+        "Bệnh phổi tắc nghẽn mạn tính",
+        "Hen suyễn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ho và phù chân, mắt cá chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim mạn tính", "Suy thận", "Xơ gan"]
+    },
+    {
+      "question": "Tôi hay bị mệt mỏi, chóng mặt hoặc choáng váng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim mạn tính",
+        "Thiếu máu",
+        "Rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như buồn nôn và ăn mất ngon. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim mạn tính", "Bệnh dạ dày", "Viêm gan"]
+    },
+    {
+      "question": "Tôi hay bị nhịp tim nhanh, ngay cả khi nghỉ ngơi hoặc nhịp tim không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim mạn tính",
+        "Rối loạn nhịp tim",
+        "Cường giáp"
+      ]
     }
   ]
 }

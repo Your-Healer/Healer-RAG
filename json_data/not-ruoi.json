@@ -1,39 +1,90 @@
 {
   "disease_id": "not-ruoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nốt ruồi",
+  "disease_alternative_names": ["Mụn ruồi", "Bớt", "Moles"],
+  "disease_definition": "Nốt ruồi (hay còn gọi là mụn ruồi) là những nốt nhỏ sậm màu (hầu hết có màu nâu hoặc đen), có hình tròn hoặc bầu dục, xuất hiện đơn lẻ hoặc theo từng nhóm nhiều nốt liền kề nhau ở trên da. Có thể bắt gặp nốt ruồi ở bất cứ đâu trên cơ thể như lòng bàn tay, lòng bàn chân, da đầu, móng tay, mắt hoặc ở cả bộ phận sinh dục. Thời gian tồn tại của nốt ruồi có thể kéo dài tới 50 năm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đốm nhỏ màu nâu hoặc đen",
+      "description": "Nốt ruồi thường xuất hiện dưới dạng đốm nhỏ sậm màu trên da, có thể là màu nâu, đen, xanh, đỏ hoặc hồng."
+    },
+    {
+      "name": "Bề mặt nhẵn hoặc gồ lên",
+      "description": "Nốt ruồi có thể có bề mặt nhẵn, phẳng hoặc hơi gồ lên trên bề mặt da."
+    },
+    {
+      "name": "Hình tròn hoặc bầu dục",
+      "description": "Phần lớn nốt ruồi có hình tròn hoặc hình bầu dục với các bờ viền rõ ràng."
+    },
+    {
+      "name": "Kích thước thay đổi",
+      "description": "Thường có đường kính nhỏ hơn 6mm, riêng nốt ruồi bẩm sinh có thể lớn hơn bình thường như che phủ một phần gương mặt, cơ thể hoặc tay chân."
+    },
+    {
+      "name": "Có thể có lông mọc",
+      "description": "Một số nốt ruồi có thể có lông mọc ra từ bên trong."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nốt ruồi là kết quả khi các tế bào sản xuất sắc tố – gọi là tế bào hắc tố (tạo ra melanin hình thành nên màu da, màu tóc) – phát triển và phân bố không đồng đều trên da. Nguyên nhân xuất phát từ các tế bào hắc tố tập trung thành cụm thay vì lan rộng ở trên da.",
+    "related_factors": "Nốt ruồi có thể sậm màu hơn khi tiếp xúc nhiều với ánh nắng mặt trời, trong tuổi dậy thì hoặc trong lúc mẹ mang thai do sự thay đổi nội tiết tố. Bạn cũng có thể có thêm nốt ruồi mới nếu không biết cách bảo vệ da dưới tác động của tia UV mặt trời.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Di truyền - nốt ruồi có tính di truyền trong gia đình",
+    "Tiếp xúc nhiều với ánh nắng mặt trời, đặc biệt là tia UV",
+    "Thay đổi nội tiết tố (tuổi dậy thì, mang thai)",
+    "Da sáng màu, dễ cháy nắng",
+    "Tuổi tác - phần lớn nốt ruồi hình thành trong khoảng 25-30 năm đầu đời"
+  ],
+  "complications": [
+    "Nguy cơ tiến triển thành u ác tính (melanoma)",
+    "Nhiễm trùng nếu nốt ruồi bị tổn thương, chảy máu",
+    "Lo lắng về mặt thẩm mỹ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám da liễu toàn thân",
+      "Soi da chuyên sâu",
+      "Sinh thiết nếu có nghi ngờ ác tính"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra bằng mắt thường (quy tắc ABCDE)",
+        "description": "Kiểm tra hình dạng không đối xứng (A-Asymmetry), đường viền không đều (B-Border), màu sắc thay đổi (C-Color), đường kính lớn (D-Diameter), thay đổi bất thường (E-Evolution)"
+      },
+      {
+        "name": "Bảng kiểm tra 7 điểm NICE",
+        "description": "Đánh giá các triệu chứng, màu sắc, hình dạng, kích thước, chảy dịch và viêm tấy của nốt ruồi"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô để xét nghiệm phát hiện tế bào ung thư nếu có nghi ngờ nốt ruồi ác tính"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hầu hết nốt ruồi không cần điều trị. Tuy nhiên, việc tẩy nốt ruồi có thể thực hiện vì lý do thẩm mỹ hoặc khi có nghi ngờ ác tính.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cắt bỏ bằng phẫu thuật",
+        "description": "Bác sĩ sẽ gây tê cục bộ khu vực xung quanh nốt ruồi, sau đó dùng dụng cụ y khoa chuyên nghiệp để 'lấy' nốt ruồi ra. Kỹ thuật cắt bỏ sẽ dựa vào kích thước nốt ruồi và mức độ phát triển."
+      },
+      {
+        "name": "Đốt điện",
+        "description": "Sử dụng dòng điện để loại bỏ các mô bề mặt và nông."
+      },
+      {
+        "name": "Đông lạnh (Cryotherapy)",
+        "description": "Sử dụng nitơ lỏng để đông lạnh và phá hủy mô nốt ruồi."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giữ vệ sinh vết thương sau khi tẩy nốt ruồi",
+      "Dùng thuốc giảm đau nếu cần",
+      "Tái khám sớm nếu vết thương sưng đỏ, đau, tiết dịch hoặc có mùi hôi",
+      "Theo dõi vị trí nốt ruồi đã loại bỏ, nếu xuất hiện trở lại cần thăm khám chuyên khoa sớm"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +92,52 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh ra ngoài lúc trời nắng gắt từ 10 giờ tới 14 giờ",
+      "Sử dụng kem chống nắng có chỉ số SPF ít nhất từ 30, thoa trước khoảng 30 phút và thoa lại sau mỗi 2 giờ",
+      "Sử dụng vật dụng che chắn như nón rộng vành, kính râm, quần áo dài tay",
+      "Tự kiểm tra da toàn thân ít nhất 3-4 tháng một lần",
+      "Không tự tẩy nốt ruồi tại nhà để tránh nhiễm trùng và sẹo xấu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ai dễ bị nốt ruồi?",
+      "answer": "Nốt ruồi có tính di truyền, do đó nếu trong gia đình có người có nốt ruồi thì khả năng cao bạn cũng sẽ xuất hiện nốt ruồi. Ngoài ra những người thường xuyên tiếp xúc với ánh nắng mặt trời cũng có nguy cơ cao xuất hiện nốt ruồi mới."
+    },
+    {
+      "question": "Có thể ngăn ngừa nốt ruồi mới không?",
+      "answer": "Có thể ngăn ngừa nốt ruồi mới cũng như ngăn ngừa nốt ruồi cũ sậm màu hơn nếu bạn biết cách bảo vệ da trước tia UV ánh nắng mặt trời. Các biện pháp bảo vệ bao gồm sử dụng kem chống nắng, đội nón rộng vành, mặc quần áo bảo vệ và tránh ra ngoài khi nắng gắt."
+    },
+    {
+      "question": "Có nên tẩy nốt ruồi không?",
+      "answer": "Việc nên hay không nên tẩy nốt ruồi phụ thuộc vào mong muốn cá nhân về mặt làm đẹp cũng như dựa theo tư vấn của bác sĩ da liễu nếu nghi ngờ nốt ruồi có nguy cơ hình thành ung thư. Điều quan trọng là cần tẩy nốt ruồi ở các cơ sở y tế có bác sĩ chuyên môn; không nên tự tiện tẩy tại nhà vừa hiệu quả kém lại có nguy cơ nhiễm trùng."
+    },
+    {
+      "question": "Khi nào cần tẩy nốt ruồi?",
+      "answer": "Nếu cảm thấy nốt ruồi ảnh hưởng tới thẩm mỹ hoặc đó là nốt ruồi có nguy cơ ác tính thì bạn có thể loại bỏ. Nốt ruồi có nguy cơ ác tính thường có các dấu hiệu như hình dạng không đối xứng, đường viền không đều, màu sắc thay đổi hoặc không đồng nhất, kích thước lớn hơn 6mm, và có sự thay đổi theo thời gian."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có một nốt ruồi màu nâu, hình tròn, đường kính nhỏ hơn 6mm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["not-ruoi", "not-ruoi-lanh-tinh", "tan-nhang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nốt ruồi của mình hơi gồ lên và có màu sắc đồng nhất. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["not-ruoi", "not-ruoi-lanh-tinh", "u-sac-to"]
+    },
+    {
+      "question": "Tôi thấy nốt ruồi của mình xuất hiện sau 25 tuổi và có hình dạng không đối xứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["not-ruoi", "not-ruoi-loan-san", "ung-thu-da-hac-to"]
+    },
+    {
+      "question": "Nốt ruồi của tôi có đường viền không đều và màu sắc không đồng nhất. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["not-ruoi", "not-ruoi-loan-san", "ung-thu-da-hac-to"]
+    },
+    {
+      "question": "Tôi lo lắng vì nốt ruồi của mình lớn hơn 6mm và có màu sắc thay đổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["not-ruoi", "not-ruoi-loan-san", "ung-thu-da-hac-to"]
     }
   ]
 }

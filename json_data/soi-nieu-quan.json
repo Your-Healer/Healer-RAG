@@ -1,39 +1,129 @@
 {
   "disease_id": "soi-nieu-quan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sỏi niệu quản",
+  "disease_alternative_names": [
+    "Sỏi ống dẫn nước tiểu",
+    "Ureterolithiasis",
+    "Ureteral calculi"
+  ],
+  "disease_definition": "Sỏi niệu quản thường là sỏi di chuyển từ thận xuống niệu quản. Loại sỏi này gây cản trở dòng nước tiểu từ thận xuống bàng quang. Sự tắc nghẽn này dẫn đến tình trạng nước tiểu bị ứ đọng, lâu ngày sẽ xuất hiện các biến chứng nguy hiểm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau dữ dội ở vùng hông lưng",
+      "description": "Xuất hiện các cơn đau đột ngột, mức độ đau dữ dội từng cơn, đau từ vùng thắt lưng lan tới vùng bẹn"
+    },
+    {
+      "name": "Tiểu buốt, tiểu rắt, tiểu đục",
+      "description": "Người bệnh có thể bị tiểu rắt, tiểu buốt. Màu nước tiểu bị đục, xuất hiện mủ (dấu hiệu của nhiễm trùng thận ngược chiều nếu có sốt kèm rét run)"
+    },
+    {
+      "name": "Tiểu máu",
+      "description": "Sỏi có thể ma sát với thành niệu quản, gây xuất huyết, dẫn tới tình trạng tiểu ra máu"
+    },
+    {
+      "name": "Tiểu ra sỏi nhỏ",
+      "description": "Một số trường hợp hiếm có thể tiểu ra sỏi nhỏ"
+    },
+    {
+      "name": "Sốt, rét run",
+      "description": "Các triệu chứng kèm theo có thể xảy ra khi có tình trạng nhiễm trùng đường tiết niệu"
+    },
+    {
+      "name": "Buồn nôn, bụng chướng",
+      "description": "Người bệnh có thể cảm thấy buồn nôn và đầy bụng khó chịu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sỏi niệu quản được tạo thành từ những tinh thể trong nước tiểu kết tụ với nhau. Sỏi thường hình thành trong thận trước khi đi vào niệu quản.",
+    "related_factors": "Các viên sỏi có thể được tạo thành từ những loại tinh thể khác nhau như canxi oxalat (phổ biến nhất), axit uric, struvite (do nhiễm trùng đường tiết niệu), hoặc cystine (hiếm gặp).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người bị sỏi thận hoặc sỏi niệu quản",
+    "Không uống đủ nước mỗi ngày",
+    "Sống ở vùng khí hậu ấm áp và ra nhiều mồ hôi",
+    "Chế độ ăn có nhiều natri, protein động vật, canxi oxalat",
+    "Bổ sung quá nhiều vitamin C",
+    "Béo phì, kích thước vòng eo lớn",
+    "Sử dụng một số loại thuốc như thuốc thông mũi, thuốc lợi tiểu",
+    "Nhiễm trùng tiểu tái phát",
+    "Bệnh viêm ruột",
+    "Bệnh gout",
+    "Bệnh cường tuyến cận giáp"
+  ],
+  "complications": [
+    "Ứ nước ở thận, gây giãn đài bể thận",
+    "Nhiễm khuẩn đường tiết niệu",
+    "Suy thận cấp",
+    "Suy thận mạn"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán lâm sàng dựa theo đặc điểm cơn đau",
+      "Đánh giá các triệu chứng đi kèm"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Phương tiện ban đầu gợi ý chẩn đoán sỏi niệu quản với dấu hiệu thận ứ nước, niệu quản giãn. Kết quả siêu âm thường cho thấy sỏi niệu quản tại đoạn ⅓ trên và ⅓ dưới của niệu quản"
+      },
+      {
+        "name": "X-quang hệ tiết niệu (KUB)",
+        "description": "Phương pháp này có thể phát hiện sỏi niệu quản trong khoảng 60 – 80% trường hợp, trừ những loại sỏi không cản quang như sỏi axit uric, sỏi cystine"
+      },
+      {
+        "name": "Chụp cắt lớp (MSCT)",
+        "description": "Đây là phương pháp giúp xác định vị trí, kích thước và độ cản quang sỏi, mức độ tắc nghẽn với độ chính xác cao (lên tới 96%)"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp xác định liệu có quá nhiều canxi hay axit uric trong máu, theo dõi chức năng thận, đánh giá tình trạng nhiễm trùng kèm theo"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Dùng để đánh giá có nhiễm khuẩn đường tiết niệu hay không, và kiểm tra người bệnh có đang bài tiết quá nhiều khoáng chất hình thành sỏi hay quá ít chất ngăn tạo sỏi"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Khi sỏi niệu quản gây viêm bể thận cấp tính, người bệnh có thể bị đau hông lưng và có sốt lạnh, rét run kèm theo. Khi đó, bác sĩ sẽ cần phải giải quyết tình trạng tắc nghẽn trước rồi mới can thiệp lấy sỏi.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị cấp cứu",
+        "description": "Thủ thuật mở thận ra da (nephrostomy) hay đặt thông niệu quản và phối hợp kháng sinh điều trị phù hợp"
+      },
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Áp dụng khi sỏi còn nhỏ có đường kính ≤ 10mm, nhẵn và bờ rõ nét, chức năng thận bình thường. Thời gian theo dõi điều trị nội khoa khoảng 4 – 6 tuần"
+      },
+      {
+        "name": "Tán sỏi ngoài cơ thể",
+        "description": "Phương pháp sử dụng sóng xung kích để phá vỡ sỏi thành các mảnh nhỏ, giúp loại bỏ sỏi khỏi cơ thể"
+      },
+      {
+        "name": "Nội soi niệu quản ngược dòng tán sỏi",
+        "description": "Bác sĩ đưa một ống mềm nhỏ qua niệu đạo, bàng quang và vào niệu quản để tìm và loại bỏ sỏi"
+      },
+      {
+        "name": "Phẫu thuật nội soi lấy sỏi",
+        "description": "Phương pháp ít xâm lấn, giúp loại bỏ sỏi niệu quản thông qua các dụng cụ nội soi"
+      },
+      {
+        "name": "Tán sỏi qua da",
+        "description": "Bác sĩ tạo một đường hầm nhỏ qua da vào thận để tiếp cận và loại bỏ sỏi"
+      },
+      {
+        "name": "Mổ mở lấy sỏi",
+        "description": "Phẫu thuật mở truyền thống để lấy sỏi, thường áp dụng cho những trường hợp phức tạp"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống nhiều nước để giúp đào thải sỏi",
+      "Dùng thuốc giảm đau theo chỉ định của bác sĩ",
+      "Tuân thủ lịch tái khám để theo dõi tình trạng sỏi",
+      "Thay đổi chế độ ăn uống để giảm nguy cơ tái phát",
+      "Theo dõi sát tình trạng nước tiểu, nếu thấy bất thường cần đi khám ngay"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +131,60 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bổ sung đầy đủ nước cho cơ thể: Đối với người bệnh có tiền sử sỏi thận, nên thải ra ngoài cơ thể khoảng 2,5 lít nước tiểu mỗi ngày",
+      "Nước tiểu màu vàng nhạt và trong là dấu hiệu cơ thể đã được cung cấp đủ nước",
+      "Hạn chế bổ sung các loại thực phẩm chứa nhiều canxi oxalat như phô mai, sữa, nước chè đặc, củ cải, đậu bắp",
+      "Hạn chế ăn muối, protein động vật: giảm lượng muối, chọn nguồn đạm có nguồn gốc từ thực vật như nấm, các loại đậu…",
+      "Cẩn trọng khi bổ sung canxi: Canxi trong thức ăn thường không ảnh hưởng tới nguy cơ sỏi thận"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sỏi niệu quản có nguy hiểm không?",
+      "answer": "Sỏi niệu quản có thể gây ra các biến chứng nặng nếu không được điều trị sớm và đúng cách. Các biến chứng nguy hiểm bao gồm ứ nước ở thận gây giãn đài bể thận, nhiễm khuẩn đường tiết niệu, suy thận cấp, và suy thận mạn. Một số trường hợp trì hoãn chữa trị, người bệnh có thể bị đe dọa tính mạng."
+    },
+    {
+      "question": "Sỏi niệu quản có các triệu chứng gì?",
+      "answer": "Các triệu chứng của sỏi niệu quản bao gồm: đau dữ dội ở vùng hông lưng lan xuống bẹn (đau quặn thận), tiểu buốt, tiểu rắt, tiểu đục, tiểu máu, và có thể tiểu ra sỏi nhỏ. Ngoài ra, người bệnh có thể có các triệu chứng khác như sốt, rét run, buồn nôn, bụng chướng khi có biến chứng nhiễm trùng."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán sỏi niệu quản?",
+      "answer": "Sỏi niệu quản được chẩn đoán thông qua khám lâm sàng và các phương pháp chẩn đoán hình ảnh như siêu âm (phát hiện thận ứ nước, niệu quản giãn), X-quang hệ tiết niệu (KUB), chụp cắt lớp (MSCT) có độ chính xác cao. Ngoài ra, xét nghiệm máu và nước tiểu cũng giúp đánh giá tình trạng nhiễm trùng và chức năng thận."
+    },
+    {
+      "question": "Khi nào cần phẫu thuật sỏi niệu quản?",
+      "answer": "Bác sĩ chỉ can thiệp phẫu thuật sỏi niệu quản trong các trường hợp: sỏi niệu quản trên 1cm, sỏi niệu quản có nhiễm khuẩn đường tiết niệu, không đáp ứng với các phương pháp giảm đau, điều trị nội khoa không hiệu quả, hoặc chức năng thận bị ảnh hưởng (suy thận, sỏi niệu quản ở thận độc nhất, sỏi niệu quản 2 bên)."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa sỏi niệu quản?",
+      "answer": "Để phòng ngừa sỏi niệu quản, bạn nên: bổ sung đầy đủ nước cho cơ thể (thải ra khoảng 2,5 lít nước tiểu mỗi ngày với người có tiền sử sỏi thận), hạn chế thực phẩm chứa nhiều canxi oxalat, giảm muối và protein động vật trong khẩu phần ăn, và cẩn trọng khi bổ sung canxi (nên theo chỉ định của bác sĩ)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang cảm thấy đau dữ dội ở vùng hông lưng, lan xuống bẹn. Cơn đau đến đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-nieu-quan", "soi-than", "viem-be-than"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tiểu buốt, tiểu rắt và nước tiểu đục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "soi-nieu-quan",
+        "viem-duong-tiet-nieu",
+        "viem-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau và tiểu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-nieu-quan", "soi-than", "viem-bang-quang"]
+    },
+    {
+      "question": "Tôi hay bị sốt, rét run và đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-nieu-quan", "viem-be-than", "viem-than"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau lưng và tiểu ra sỏi nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-nieu-quan", "soi-than", "soi-bang-quang"]
     }
   ]
 }

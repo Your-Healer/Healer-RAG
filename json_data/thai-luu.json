@@ -1,58 +1,188 @@
 {
   "disease_id": "thai-luu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thai lưu",
+  "disease_alternative_names": ["Thai chết lưu", "Chết lưu", "Stillbirth"],
+  "disease_definition": "Thai lưu hay thai chết lưu là tình trạng thai nhi ngừng phát triển sau tuần thứ 20 của thai kỳ và trước thời điểm mẹ chuyển dạ. Thai chết lưu được phân loại theo số tuần mang thai: từ 20-27 tuần (thai chết lưu sớm), từ 28-36 tuần (thai chết lưu muộn), sau 37 tuần (thai chết lưu đủ tháng).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không còn cảm nhận thấy thai máy",
+      "description": "Từ sau tuần thứ 20 thai kỳ, mẹ có thể cảm nhận được cử động của thai nhi. Nếu đột nhiên không còn cảm nhận được thai máy, có thể là dấu hiệu thai đã chết lưu"
+    },
+    {
+      "name": "Chiều cao tử cung không tăng hoặc giảm",
+      "description": "Thông thường chiều cao tử cung sẽ tăng theo tuổi thai, nếu chỉ số này không thay đổi hoặc giảm có thể là dấu hiệu của thai lưu"
+    },
+    {
+      "name": "Giảm kích cỡ vòng 1",
+      "description": "Ngực căng và tiết sữa là hiện tượng thường thấy ở thai phụ. Nếu đột nhiên vòng 1 nhỏ đi, đây có thể là dấu hiệu cần kiểm tra thai"
+    },
+    {
+      "name": "Chảy máu hoặc chảy dịch sẫm màu ở âm đạo",
+      "description": "Xuất hiện tình trạng ra máu hoặc ra dịch có màu sẫm bất thường từ âm đạo"
+    },
+    {
+      "name": "Cảm giác chán ăn, buồn nôn, chóng mặt",
+      "description": "Mất cảm giác ngon miệng, cảm thấy buồn nôn và chóng mặt"
+    },
+    {
+      "name": "Đau lưng, sốt cao, mệt mỏi",
+      "description": "Xuất hiện tình trạng đau lưng, sốt cao và cảm giác mệt mỏi toàn thân"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân thai chết lưu có thể khác nhau dựa trên tuổi thai và các yếu tố nguy cơ tiềm ẩn. Một nghiên cứu năm 2011 cho thấy, khoảng 1/4 ca thai lưu không tìm được nguyên nhân gây ra hiện tượng này.",
+    "related_factors": "Những nguyên nhân phổ biến gây thai lưu bao gồm: bất thường về nhiễm sắc thể và dị tật bẩm sinh (khoảng 14% trường hợp), hạn chế tăng trưởng trong tử cung (IUGR), rau bong non và các biến chứng sản khoa khác, nhiễm trùng (khoảng 13% trường hợp), vấn đề với dây rốn (khoảng 10% trường hợp), mang thai quá ngày dự sinh (> 42 tuần), một số bệnh lý ở thai phụ, và sử dụng thuốc lá, rượu bia hoặc chất kích thích.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Mang đa thai",
+    "Cạn ối hoặc dư ối",
+    "Rau bong non",
+    "Bệnh lupus ban đỏ",
+    "Rối loạn đông máu",
+    "Đái tháo đường thai kỳ",
+    "Tăng huyết áp thai kỳ",
+    "Bệnh tim hoặc tuyến giáp",
+    "Thừa cân – béo phì",
+    "Hút thuốc lá",
+    "Uống rượu bia",
+    "Sử dụng chất kích thích",
+    "Mang thai quá 42 tuần"
+  ],
+  "complications": [
+    "Suy giảm sức khỏe tâm lý (trầm cảm, lo âu)",
+    "Rối loạn ăn uống, ngủ nghỉ sau mất mát",
+    "Tiết sữa dù không có em bé",
+    "Quá trình hồi phục thể chất kéo dài",
+    "Ảnh hưởng đến các mối quan hệ gia đình",
+    "Nguy cơ trầm cảm sau sinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám thai định kỳ",
+      "Theo dõi sự vắng mặt của cử động thai nhi",
+      "Đánh giá chiều cao tử cung không tăng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Kiểm tra tim thai và xác nhận tình trạng thai lưu thông qua việc không phát hiện tim thai đập"
+      },
+      {
+        "name": "Chọc ối",
+        "description": "Kiểm tra tình trạng nhiễm trùng và yếu tố di truyền khi thai nhi vẫn còn trong bụng mẹ"
+      },
+      {
+        "name": "Khám nghiệm sau sinh",
+        "description": "Kiểm tra bé, dây rốn và nhau thai để xác định bất thường và nguyên nhân thai lưu"
+      },
+      {
+        "name": "Khám nghiệm tử thi",
+        "description": "Có thể cần thiết để tìm hiểu chính xác nguyên nhân khiến thai chết lưu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Khi bác sĩ đã xác định thai nhi không còn, mẹ cần nén cảm xúc đau buồn để tiến hành các biện pháp cần thiết.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xác định nguyên nhân",
+        "description": "Việc xác định nguyên nhân thai chết lưu rất quan trọng, giúp giảm nguy cơ lưu thai ở lần mang thai kế tiếp"
+      },
+      {
+        "name": "Phẫu thuật thai lưu",
+        "description": "Lấy thai nhi ra khỏi tử cung mẹ, thường được thực hiện khi thai đã chết lưu"
+      },
+      {
+        "name": "Hồi phục sức khỏe",
+        "description": "Sau phẫu thuật, mẹ cần thời gian để bình phục, trung bình từ 6-8 tuần, cần nghỉ ngơi và ăn uống đầy đủ"
+      },
+      {
+        "name": "Kiểm soát tiết sữa",
+        "description": "Cơ thể sẽ tiết sữa từ 7-10 ngày sau sinh trước khi ngừng hẳn, có thể dùng thuốc ngừng tiết sữa theo chỉ định của bác sĩ"
+      },
+      {
+        "name": "Hỗ trợ tâm lý",
+        "description": "Tìm kiếm sự an ủi từ gia đình, bạn bè và đặc biệt là người bạn đời, có thể tham khảo ý kiến bác sĩ tâm lý nếu cần"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Cho phép bản thân có thời gian để đau buồn và hồi phục",
+      "Không tự đổ lỗi cho bản thân",
+      "Tìm kiếm sự hỗ trợ từ gia đình và bạn bè",
+      "Ăn uống đầy đủ để phục hồi sức khỏe",
+      "Nói chuyện với bác sĩ về cảm xúc của mình",
+      "Cân nhắc tham gia các nhóm hỗ trợ phụ nữ bị mất con"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng cúm vì phụ nữ mắc cúm khi mang thai sẽ tăng nguy cơ thai chết lưu cũng như các biến chứng nguy hiểm cho sức khỏe.",
+      "recommended_for": ["Phụ nữ mang thai"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bỏ hút thuốc lá trước và trong khi mang thai",
+      "Giữ cân nặng hợp lý (chỉ số BMI từ 18,5 – 22,9)",
+      "Tránh xa rượu và ma túy trước và trong thai kỳ",
+      "Theo dõi chuyển động của thai nhi, đặc biệt từ tuần thứ 20",
+      "Ngủ nghiêng trong tam cá nguyệt thứ ba",
+      "Khám thai đúng lịch và thực hiện đầy đủ các xét nghiệm theo yêu cầu",
+      "Báo cáo với bác sĩ khi có dấu hiệu bất thường như xuất huyết, đau, sốt",
+      "Bổ sung axit folic trước khi có thai và trong suốt thai kỳ theo chỉ định",
+      "Kiểm soát tốt các bệnh mãn tính như đái tháo đường, tăng huyết áp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tỷ lệ thai lưu là bao nhiêu?",
+      "answer": "Theo thống kê, trong 200 ca mang thai thì có 1 em bé bị chết lưu. Tuy nhiên, hầu hết mẹ bầu bị lưu thai đều có thể sinh con khỏe mạnh ở lần mang thai kế tiếp."
+    },
+    {
+      "question": "Khả năng mang thai thành công sau khi bị thai lưu là bao nhiêu?",
+      "answer": "Trung bình, cơ hội mang thai và sinh con thành công trong tương lai của các thai phụ từng bị thai lưu là trên 90%. Nếu nguyên nhân thai chết lưu là do bất thường về nhiễm sắc thể hoặc dây rốn, khả năng xảy ra lần nữa là rất thấp. Nhưng nếu thai lưu xuất phát từ bệnh mãn tính ở mẹ hoặc rối loạn di truyền ở bố mẹ, nguy cơ tái xảy ra sẽ cao hơn."
+    },
+    {
+      "question": "Làm thế nào để nhận biết thai đã chết lưu?",
+      "answer": "Những dấu hiệu có thể là thai chết lưu bao gồm: không còn hiện tượng thai máy sau tuần thứ 20, chiều cao tử cung không tăng hoặc giảm, giảm kích cỡ vòng 1, chảy máu hoặc chảy dịch sẫm màu ở âm đạo, chán ăn, buồn nôn, chóng mặt, đau lưng, sốt cao, mệt mỏi toàn thân. Nếu phát hiện các dấu hiệu này, cần đi khám ngay để được bác sĩ kiểm tra."
+    },
+    {
+      "question": "Cần bao nhiêu thời gian để phục hồi sau thai lưu?",
+      "answer": "Sau khi phẫu thuật thai lưu, bạn cần một thời gian nhất định để bình phục, trung bình từ 6-8 tuần về mặt thể chất. Thời gian phục hồi tâm lý có thể kéo dài hơn, từ vài tuần đến vài tháng, thậm chí cả năm, tùy thuộc vào từng người."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như không còn cảm nhận thấy thai máy, chảy máu âm đạo và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thai lưu", "Dọa sảy thai", "Rau bong non"]
+    },
+    {
+      "question": "Tôi đang mang thai và cảm thấy mệt mỏi, sốt cao, đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thai lưu",
+        "Nhiễm trùng đường tiết niệu",
+        "Nhiễm trùng thai kỳ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chóng mặt, buồn nôn và chán ăn khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thai lưu", "Nghén thai", "Thiếu máu khi mang thai"]
+    },
+    {
+      "question": "Tôi mang thai và kích cỡ vòng 1 đột ngột giảm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thai lưu",
+        "Suy giảm hormone thai kỳ",
+        "Rối loạn nội tiết"
+      ]
+    },
+    {
+      "question": "Tôi mang thai và chiều cao tử cung không tăng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thai lưu",
+        "Thai chậm phát triển",
+        "Hạn chế tăng trưởng trong tử cung"
+      ]
     }
   ]
 }

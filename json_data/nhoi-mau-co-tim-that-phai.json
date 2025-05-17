@@ -1,39 +1,137 @@
 {
   "disease_id": "nhoi-mau-co-tim-that-phai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhồi máu cơ tim thất phải",
+  "disease_alternative_names": [
+    "Nhồi máu cơ tim cấp thất phải",
+    "RVMI (Right Ventricular Myocardial Infarction)"
+  ],
+  "disease_definition": "Nhồi máu cơ tim thất phải là tình trạng lưu lượng máu đến một phần của tim thất phải giảm hoặc ngừng hoàn toàn, gây ra những tổn thương không thể phục hồi cho cơ tim. Nhồi máu cơ tim thất phải ít phổ biến hơn nhiều so với nhồi máu cơ tim thất trái và có nguy cơ tử vong cao nếu không được điều trị kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau ngực",
+      "description": "Đau ngực có hoặc không kèm theo co thắt, thường là triệu chứng đầu tiên của nhồi máu cơ tim thất phải."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, hụt hơi xuất hiện khi tim không bơm đủ máu đến phổi."
+    },
+    {
+      "name": "Buồn nôn và chóng mặt",
+      "description": "Cảm giác buồn nôn và chóng mặt thường xảy ra do giảm lưu lượng máu đến não."
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Rối loạn nhịp tim từ nhịp chậm đến block tim hoàn toàn có thể xuất hiện."
+    },
+    {
+      "name": "Tụt huyết áp",
+      "description": "Huyết áp giảm do tim không bơm đủ máu ra động mạch chủ."
+    },
+    {
+      "name": "Phù động mạch ngoại biên và căng giãn tĩnh mạch",
+      "description": "Phù động mạch ngoại biên cấp tính và căng giãn tĩnh mạch hình nón do máu không được bơm hiệu quả từ tĩnh mạch vào tim."
+    },
+    {
+      "name": "Rối loạn chức năng thất phải",
+      "description": "Rối loạn chức năng thất phải với các triệu chứng giãn tĩnh mạch, phổi trong và hạ huyết áp."
+    },
+    {
+      "name": "Âm thổi tâm thu",
+      "description": "Âm thổi tâm thu nghe thấy được ở phần dưới cạnh ức bên trái có thể cho thấy hở van ba lá, tuy nhiên điều này không phải lúc nào cũng xuất hiện."
+    },
+    {
+      "name": "Tiếng tim bất thường",
+      "description": "Tiếng tim thứ ba và/hoặc thứ tư do nhồi máu cơ tim thất phải tạo ra ở bờ dưới ức bên trái, tuy nhiên triệu chứng này hiếm gặp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính gây nhồi máu cơ tim thất phải là do mảng xơ vữa làm tắc đoạn gần của động mạch vành phải (xơ vữa động mạch). Tình trạng này dẫn đến thiếu máu cục bộ ở tim phải, làm tăng nguy cơ tử vong khi có nhồi máu cơ tim cấp tính.",
+    "related_factors": "Tâm thất phải (RV) nhận được nguồn cung cấp máu động mạch chủ yếu từ động mạch vành phải (RCA), xuất phát từ xoang vành phải của động mạch chủ. Khi RCA bị tắc nghẽn, tác động chính là giảm sức co bóp của tâm thất phải, dẫn đến giảm lưu lượng máu từ hệ thống tĩnh mạch đến phổi và cuối cùng là tim bên trái.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Các yếu tố nguy cơ của bệnh mạch vành",
+    "Thừa cân, béo phì",
+    "Hút thuốc lá",
+    "Lối sống ít vận động",
+    "Rối loạn lipid máu",
+    "Tăng huyết áp",
+    "Đái tháo đường",
+    "Tuổi cao",
+    "Tiền sử gia đình có bệnh tim mạch"
+  ],
+  "complications": [
+    "Hạ huyết áp nặng",
+    "Sốc tim",
+    "Suy tim",
+    "Rối loạn nhịp tim",
+    "Block nhánh phải, nhịp tim chậm hoặc block tim hoàn toàn",
+    "Hở van ba lá",
+    "Chuyển động và chức năng của vách liên thất bị thay đổi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và cận lâm sàng",
+      "Siêu âm tim hai chiều",
+      "Kiểm tra huyết động bằng kỹ thuật thông tim bên phải",
+      "Điện tâm đồ (ECG)",
+      "Chụp mạch vành và chụp buồng thất"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Đánh giá hoạt động điện của tim, phát hiện ST chênh lên ở đạo trình V4R >1.0mm có độ nhạy 100%, độ đặc hiệu 87% và độ chính xác dự đoán 92% cho nhồi máu cơ tim thất phải."
+      },
+      {
+        "name": "Xét nghiệm men tim",
+        "description": "Các men tim như troponin-I và CK-MB sẽ tăng cao trong trường hợp nhồi máu cơ tim thất phải."
+      },
+      {
+        "name": "Siêu âm tim hai chiều",
+        "description": "Có thể cho thấy sự giãn nở tâm thất phải với chức năng tâm thu suy giảm và rối loạn vận động vách tự do tâm thất phải với chuyển động vách liên thất nghịch thường."
+      },
+      {
+        "name": "Chụp mạch vành",
+        "description": "Đây là tiêu chuẩn vàng để chẩn đoán, thường cho thấy tắc động mạch vành phải (RCA) trước chỗ chia các nhánh nuôi thất phải."
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Có thể thấy hình bóng tim to, giãn tĩnh mạch chủ dưới hoặc tĩnh mạch chủ trên và phế trường phổi sáng."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị nhồi máu cơ tim thất phải cần được thực hiện kịp thời để ngăn ngừa các biến chứng nghiêm trọng. Suy giảm chức năng tim phải, nếu có ý nghĩa lâm sàng có thể dẫn đến giảm tiền tải thất trái, giảm cung lượng tim và cuối cùng là hạ huyết áp toàn thân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Truyền dịch",
+        "description": "Sử dụng dịch truyền khoảng 500 ml dung dịch để đánh giá, theo dõi sự cải thiện huyết động hoặc tình trạng thay đổi huyết động xấu đi."
+      },
+      {
+        "name": "Thuốc nitrate",
+        "description": "Thuốc nitrate thường được dùng điều trị nhồi máu cơ tim, nhưng cần thận trọng vì có thể gây tụt huyết áp ở bệnh nhân nhồi máu cơ tim thất phải."
+      },
+      {
+        "name": "Dobutamine",
+        "description": "Thuốc tăng co bóp giúp cải thiện chức năng co bóp cơ tim, chỉ số tim và cung lượng tim của tâm thất phải."
+      },
+      {
+        "name": "Oxit nitric dạng hít kết hợp dobutamine",
+        "description": "Giúp giảm sức cản mạch phổi, từ đó làm giảm áp lực lên tâm thất phải và hoạt động của cơ tim."
+      },
+      {
+        "name": "Can thiệp mạch vành",
+        "description": "Can thiệp mạch vành qua da (PCI) là lựa chọn tối ưu giúp tái thông động mạch bị tắc nghẽn, cải thiện lưu lượng máu đến tim phải."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Kiểm soát cân nặng",
+      "Bỏ thuốc lá",
+      "Tập thể dục thường xuyên",
+      "Dùng thuốc theo chỉ định",
+      "Kiểm soát mỡ máu",
+      "Tái khám theo lịch hẹn để được theo dõi sức khỏe chặt chẽ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +139,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm soát cân nặng, duy trì chỉ số BMI ở mức hợp lý",
+      "Bỏ thuốc lá",
+      "Tập thể dục thường xuyên, ít nhất 30 phút mỗi ngày, 5 ngày mỗi tuần",
+      "Kiểm soát huyết áp và đường huyết nếu bị tăng huyết áp hoặc đái tháo đường",
+      "Chế độ ăn uống lành mạnh, hạn chế chất béo bão hòa và muối",
+      "Kiểm soát mỡ máu, duy trì mức cholesterol trong giới hạn bình thường",
+      "Khám sức khỏe định kỳ để phát hiện sớm và điều trị kịp thời các bệnh lý tim mạch"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhồi máu cơ tim thất phải khác gì với nhồi máu cơ tim thất trái?",
+      "answer": "Nhồi máu cơ tim thất phải ít phổ biến hơn nhồi máu cơ tim thất trái. Nó xảy ra khi lưu lượng máu đến tâm thất phải bị giảm hoặc ngừng lại, gây tổn thương cơ tim không thể phục hồi. Các triệu chứng đặc trưng bao gồm đau ngực, khó thở, buồn nôn, chóng mặt, tụt huyết áp, phù ngoại biên và căng giãn tĩnh mạch. Tiên lượng ngắn hạn của nhồi máu cơ tim thất phải thường xấu hơn so với nhồi máu cơ tim thất trái, với tỷ lệ mắc và tử vong khi nhập viện cao hơn."
+    },
+    {
+      "question": "Tiên lượng của bệnh nhân mắc nhồi máu cơ tim thất phải như thế nào?",
+      "answer": "Tiên lượng ngắn hạn của bệnh nhân nhồi máu cơ tim thất phải xấu hơn những trường hợp nhồi máu cơ tim thất trái, với tỷ lệ mắc và tử vong khi nhập viện đều tăng. Nếu bệnh nhân không bị suy thất phải, tỷ lệ tử vong trong 30 ngày nhập viện là 4,4% với liệu pháp tiêu huyết khối và 3,2% với can thiệp qua da (PCI). Tỷ lệ này tăng lên 13% đối với tiêu huyết khối và 8,3% đối với PCI ở bệnh nhân suy thất phải. Ở bệnh nhân sốc tim, tỷ lệ tử vong tăng lên 100% với tiêu huyết khối và 44% với PCI. Tuy nhiên, tiên lượng lâu dài của bệnh nhân xuất viện sau khi điều trị nhồi máu cơ tim thất phải tương tự như bệnh nhân nhồi máu cơ tim thất trái."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa nhồi máu cơ tim thất phải?",
+      "answer": "Để phòng ngừa nhồi máu cơ tim thất phải, cần kiểm soát các yếu tố nguy cơ của bệnh mạch vành. Cụ thể là: kiểm soát cân nặng, bỏ thuốc lá, tập thể dục thường xuyên, dùng thuốc theo chỉ định và kiểm soát mỡ máu. Cũng cần tái khám theo lịch hẹn để được theo dõi sức khỏe chặt chẽ, phát hiện sớm bất thường và can thiệp kịp thời. Chế độ ăn uống lành mạnh, giảm chất béo bão hòa và muối cũng đóng vai trò quan trọng trong việc phòng ngừa các bệnh lý tim mạch nói chung và nhồi máu cơ tim thất phải nói riêng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau ngực, khó thở và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-co-tim-that-phai",
+        "nhoi-mau-co-tim",
+        "tac-dong-mach-phoi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt, rối loạn nhịp tim và tụt huyết áp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-co-tim-that-phai",
+        "rung-nhi",
+        "nhip-nhanh-tren-that"
+      ]
+    },
+    {
+      "question": "Tôi bị phù động mạch ngoại biên cấp tính và căng giãn tĩnh mạch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-co-tim-that-phai",
+        "suy-tim",
+        "benh-tim-phoi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị giãn tĩnh mạch, phổi trong và hạ huyết áp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-co-tim-that-phai",
+        "suy-tim-phai",
+        "tac-dong-mach-phoi"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau ngực, co thắt và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-co-tim-that-phai",
+        "nhoi-mau-co-tim",
+        "hen-suyen"
+      ]
     }
   ]
 }

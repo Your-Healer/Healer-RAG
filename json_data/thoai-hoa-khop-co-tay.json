@@ -1,39 +1,112 @@
 {
   "disease_id": "thoai-hoa-khop-co-tay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thoái hóa khớp cổ tay",
+  "disease_alternative_names": ["Viêm khớp cổ tay", "Wrist Osteoarthritis"],
+  "disease_definition": "Thoái hóa khớp cổ tay là tình trạng tổn thương xương khớp xảy ra tại vùng cổ tay, nhất là ở vùng sụn khớp, làm mòn sụn và hư hỏng dần. Khi những sụn khớp tại cổ tay bị bào mòn, thoái hóa, thiếu dưỡng chất, tổn thương đó có thể dẫn tới đau, sưng, nguy cơ nứt, gãy xương, ảnh hưởng đến tầm vận động của khớp.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau khớp",
+      "description": "Đau có tính chất cơ học, tăng đau khi vận động và giảm khi nghỉ ngơi, đau tăng khi thực hiện những thao tác ở cổ tay như cầm nắm đồ vật"
+    },
+    {
+      "name": "Sưng và cứng khớp",
+      "description": "Cảm thấy cứng khớp vào buổi sáng hoặc sau thời gian cổ tay ít vận động trong thời gian dài, khó khăn khi cử động xoay và gập cổ tay"
+    },
+    {
+      "name": "Tiếng kêu lục cục, lạo xạo",
+      "description": "Khi hoạt động khớp cổ tay phát ra tiếng kêu lục cục, lạo xạo, đặc biệt ở giai đoạn đầu của bệnh"
+    },
+    {
+      "name": "Hoạt động thiếu linh hoạt",
+      "description": "Khó khăn khi thực hiện những thao tác cầm nắm đồ vật, lực bám bàn tay yếu đi và mất kiểm soát độ bám của các ngón tay"
+    },
+    {
+      "name": "Teo cơ",
+      "description": "Cơ tay bị teo do ít được sử dụng vì đau"
+    },
+    {
+      "name": "Biến dạng khớp",
+      "description": "Khớp cổ tay bị biến dạng, mất cấu trúc bình thường"
+    },
+    {
+      "name": "Mất khả năng vận động",
+      "description": "Mất khả năng vận động khớp cổ tay, teo cơ, biến dạng khớp và mất chức năng vận động hoàn toàn ở giai đoạn nặng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Thoái hóa cổ tay chủ yếu là do quá trình lão hóa tự nhiên của cơ thể, làm cho sụn khớp bị bào mòn theo thời gian.",
+    "related_factors": "Ngoài tuổi tác, nguyên nhân gây bệnh còn do công việc sử dụng tay nhiều, các động tác lặp lại nhiều lần, chấn thương cổ tay trước đó, tiền sử mắc các bệnh xương khớp khác như hội chứng ống cổ tay, hội chứng De Quervain.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người cao tuổi",
+    "Nữ giới (chiếm khoảng 2/3 số ca bệnh)",
+    "Người làm công việc chủ yếu sử dụng tay trong thời gian dài (làm việc với máy tính, điện thoại, phục vụ bưng đồ...)",
+    "Người từng bị chấn thương cổ tay (tai nạn, té ngã...)",
+    "Người từng bị trật khớp, gãy xương vùng cánh tay",
+    "Tiền sử mắc bệnh xương khớp (hội chứng ống cổ tay, hội chứng De Quervain...)"
+  ],
+  "complications": [
+    "Biến dạng khớp",
+    "Mất khả năng vận động ở tay",
+    "Teo cơ",
+    "Tàn phế"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác tiền sử bệnh",
+      "Thăm khám trực tiếp tình trạng cổ tay và khớp",
+      "Xác định đặc điểm đau",
+      "Yêu cầu người bệnh thực hiện bài tập đánh giá tầm vận động khớp",
+      "So sánh giải phẫu và chức năng của cả hai cổ tay"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Đánh giá những thay đổi của xương và sụn, mức độ thoái hóa"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Loại trừ những tình trạng bệnh lý khác như viêm khớp dạng thấp"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Đánh giá chi tiết tình trạng mô mềm, sụn khớp và mức độ tổn thương"
+      },
+      {
+        "name": "Điện cơ (EMG)",
+        "description": "Kiểm tra chức năng thần kinh và cơ ở vùng cổ tay"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị thoái hóa khớp cổ tay hướng tới 3 mục đích chính: làm chậm tiến trình thoái hóa khớp, khống chế biến dạng khớp; cải thiện chất lượng cuộc sống thông qua giảm đau; duy trì chức năng vận động của khớp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị tại nhà",
+        "description": "Lên kế hoạch nghỉ ngơi phù hợp, chườm lạnh vùng cổ tay 15-20 phút, áp dụng bài tập kéo giãn cơ, sử dụng các bài thuốc Đông y (cây cỏ xước, lá lốt, gừng, ngải cứu...)"
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Kích thích dòng điện qua da, liệu pháp siêu âm, massage giảm đau, liệu pháp nhiệt để giảm đau và phục hồi chức năng"
+      },
+      {
+        "name": "Sử dụng thuốc Tây",
+        "description": "Thuốc giảm đau thông thường (Acetaminophen, Paracetamol, Tramadol), thuốc chống viêm không steroid NSAID (Naproxen, Aspirin, Diclofenac, Ibuprofen), Corticosteroid, thuốc giảm đau gây nghiện (Opioids), thuốc giãn cơ"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật dự phòng (cân bằng tình trạng khớp), phẫu thuật bảo tồn (can thiệp khớp chưa bị tổn thương nghiêm trọng), phẫu thuật thay thế (khi các biện pháp khác không hiệu quả)"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chỉ định của bác sĩ",
+      "Nghỉ ngơi phù hợp khi có dấu hiệu đau nhức",
+      "Thực hiện các bài tập nhẹ nhàng để duy trì khả năng vận động",
+      "Tránh lạm dụng thuốc giảm đau để tránh tác dụng phụ",
+      "Kiểm soát cân nặng để giảm áp lực lên khớp",
+      "Sử dụng dụng cụ hỗ trợ nếu cần thiết (nẹp cổ tay, băng quấn...)"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +114,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chuyển động cổ tay nhẹ nhàng khi vặn, kéo hay đẩy",
+      "Tránh dùng cổ tay để nâng xách vật nặng",
+      "Chú ý chuyển động cổ tay thường xuyên để giảm độ cứng",
+      "Đeo giá đỡ cổ tay khi làm việc nhiều với máy tính hay khi chơi thể thao",
+      "Xây dựng chế độ ăn uống hợp lý, lành mạnh, bổ sung nhiều dưỡng chất và vitamin, đặc biệt là vitamin B",
+      "Ngâm bàn tay vào nước muối sinh lý ấm, 2 lần/ngày (sáng khi ngủ dậy, tối trước khi đi ngủ), mỗi lần khoảng 10 phút"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thoái hóa khớp cổ tay có chữa khỏi hoàn toàn được không?",
+      "answer": "Thoái hóa khớp cổ tay không thể chữa khỏi hoàn toàn vì đây là quá trình thoái hóa tự nhiên, đặc biệt ở người cao tuổi. Tuy nhiên, với các phương pháp điều trị phù hợp, có thể giảm đau, cải thiện chức năng vận động và làm chậm tiến trình thoái hóa. Tùy vào mức độ nghiêm trọng, các phương pháp điều trị từ không xâm lấn như nghỉ ngơi, vật lý trị liệu đến các biện pháp can thiệp như dùng thuốc và phẫu thuật có thể được áp dụng."
+    },
+    {
+      "question": "Các dấu hiệu nào cho thấy thoái hóa khớp cổ tay đang trở nên nghiêm trọng?",
+      "answer": "Bệnh trở nên nghiêm trọng khi: đau khớp trầm trọng hơn, kéo dài và lan rộng ra các vùng xung quanh; khó khăn đáng kể khi thực hiện các hoạt động đơn giản như cầm nắm, xoay cổ tay; cổ tay bị biến dạng; cơ bắt đầu teo; mất khả năng vận động một phần hoặc hoàn toàn. Nếu có các dấu hiệu này, người bệnh nên đi khám ngay để có biện pháp can thiệp kịp thời."
+    },
+    {
+      "question": "Làm thế nào để giảm đau khi bị thoái hóa khớp cổ tay?",
+      "answer": "Để giảm đau khi bị thoái hóa khớp cổ tay, bạn có thể: nghỉ ngơi và hạn chế các hoạt động gây đau; chườm lạnh vùng cổ tay khoảng 15-20 phút; thực hiện các bài tập kéo giãn cơ nhẹ nhàng; sử dụng thuốc giảm đau theo chỉ định của bác sĩ; thực hiện vật lý trị liệu như massage, kích thích điện, siêu âm; đeo nẹp cổ tay để hỗ trợ và giảm căng thẳng cho khớp; ngâm tay trong nước muối sinh lý ấm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức cổ tay, tăng đau khi vận động và giảm khi nghỉ ngơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp cổ tay",
+        "Viêm khớp cổ tay",
+        "Hội chứng ống cổ tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cổ tay sưng, cứng khớp và khó khăn khi cử động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp cổ tay",
+        "Viêm khớp dạng thấp",
+        "Viêm bao hoạt dịch"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức cổ tay, kèm theo tiếng kêu lục cục khi cử động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp cổ tay",
+        "Viêm khớp cổ tay",
+        "Gãy xương cổ tay cũ"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp khó khăn khi cầm nắm đồ vật, cổ tay yếu và mất kiểm soát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp cổ tay",
+        "Hội chứng ống cổ tay",
+        "Tổn thương dây thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức cổ tay sau khi làm việc với máy tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp cổ tay",
+        "Hội chứng ống cổ tay",
+        "Viêm gân cổ tay"
+      ]
     }
   ]
 }

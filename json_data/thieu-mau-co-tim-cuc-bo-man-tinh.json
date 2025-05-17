@@ -1,39 +1,157 @@
 {
   "disease_id": "thieu-mau-co-tim-cuc-bo-man-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thiếu máu cơ tim cục bộ mạn tính",
+  "disease_alternative_names": [
+    "Bệnh động mạch vành ổn định",
+    "Cơn đau thắt ngực ổn định",
+    "Bệnh suy vành",
+    "Bệnh mạch vành tim",
+    "Bệnh tim thiếu máu cục bộ mạn tính"
+  ],
+  "disease_definition": "Bệnh tim thiếu máu cục bộ mạn tính hay thiếu máu cơ tim cục bộ mạn là bệnh động mạch vành ổn định hay cơn đau thắt ngực ổn định. Đây là tình trạng gây ra bởi động mạch vành bị hẹp làm hạn chế cung cấp máu, oxy và các chất dinh dưỡng nuôi tim, gây tổn thương một phần cơ tim. Biểu hiện lâm sàng đặc trưng là các cơn đau thắt ngực ổn định do sự ổn định của các mảng xơ vữa động mạch vành.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau thắt ngực",
+      "description": "Đau thắt ở sau xương ức, có thể lan ra cổ, vai, hàm, thượng vị, sau lưng và tay; đặc biệt có thể lan lên vai trái xuống mặt trong tay trái, đến các ngón tay út, áp út"
+    },
+    {
+      "name": "Đau khi gắng sức",
+      "description": "Cơn đau xuất hiện khi người bệnh gắng sức, leo cầu thang, đi bộ nhanh hoặc làm việc nặng"
+    },
+    {
+      "name": "Đau khi xúc động mạnh",
+      "description": "Cơn đau xuất hiện khi người bệnh xúc động mạnh, căng thẳng tâm lý"
+    },
+    {
+      "name": "Đau khi gặp lạnh",
+      "description": "Cơn đau xuất hiện khi người bệnh tiếp xúc với thời tiết lạnh"
+    },
+    {
+      "name": "Đau sau khi ăn no",
+      "description": "Cơn đau có thể xuất hiện sau khi ăn quá nhiều"
+    },
+    {
+      "name": "Đau sau khi hút thuốc lá",
+      "description": "Cơn đau có thể xuất hiện sau khi hút thuốc lá"
+    },
+    {
+      "name": "Cảm giác bị thắt lại hoặc bóp nghẹt",
+      "description": "Người bệnh cảm thấy đau thắt lại, bị đè nặng hoặc bóp nghẹt ở ngực, đôi khi cảm thấy buốt giá"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Người bệnh cảm thấy mệt mỏi, đặc biệt khi hoạt động gắng sức"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Cảm giác đau đầu có thể kèm theo trong cơn đau thắt ngực"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở, đặc biệt khi gắng sức hoặc trong cơn đau thắt ngực"
+    },
+    {
+      "name": "Vã mồ hôi",
+      "description": "Đổ mồ hôi nhiều, kể cả khi không có hoạt động gắng sức, thường xuất hiện trong cơn đau"
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác buồn nôn, có thể kèm theo nôn trong cơn đau thắt ngực"
+    },
+    {
+      "name": "Hồi hộp, đánh trống ngực",
+      "description": "Cảm giác hồi hộp, đánh trống ngực, rối loạn nhịp tim"
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Chóng mặt, đặc biệt khi gắng sức hoặc thay đổi tư thế đột ngột"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính của bệnh là do động mạch vành bị hẹp do các mảng xơ vữa động mạch ổn định, làm hạn chế cung cấp máu, oxy và các chất dinh dưỡng nuôi tim.",
+    "related_factors": "Trong quá trình phát triển của các mảng xơ vữa, một số trường hợp do nứt mảng xơ vữa có thể gây hẹp hoặc tắc lòng mạch một cách nhanh chóng, dẫn đến hội chứng vành cấp. Ngược lại, trong trường hợp bệnh được điều trị ổn định, người bệnh có thể được coi là bệnh mạch vành ổn định.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (nguy cơ tăng theo tuổi tác)",
+    "Giới tính nam (trước 65 tuổi, nam giới có nguy cơ cao hơn nữ)",
+    "Tiền sử gia đình có bệnh tim mạch sớm",
+    "Hút thuốc lá hoặc tiếp xúc với khói thuốc lá",
+    "Lối sống ít vận động",
+    "Căng thẳng, stress thường xuyên",
+    "Sử dụng các chất kích thích như cocaine",
+    "Bệnh đái tháo đường không kiểm soát tốt",
+    "Tăng huyết áp không kiểm soát tốt",
+    "Chế độ ăn giàu chất béo, cholesterol"
+  ],
+  "complications": [
+    "Hội chứng vành cấp",
+    "Đau thắt ngực không ổn định",
+    "Nhồi máu cơ tim",
+    "Đột tử",
+    "Suy tim",
+    "Rối loạn nhịp tim"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác các triệu chứng của bệnh nhân",
+      "Thăm hỏi tiền sử bệnh lý của bản thân người bệnh và gia đình",
+      "Thăm khám lâm sàng bao gồm đo huyết áp, nghe tim"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm sinh hóa máu",
+        "description": "Kiểm tra số lượng hồng cầu, tiểu cầu trong máu, đánh giá mức độ cholesterol, đường máu, chức năng thận, chức năng gan, điện giải đồ"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Phát hiện thay đổi sóng ST-T, dày thất trái, sẹo nhồi máu cơ tim cũ"
+      },
+      {
+        "name": "Siêu âm Doppler tim",
+        "description": "Xác định rối loạn vận động vùng nghi do bệnh mạch vành, đánh giá chức năng tim, bệnh van tim"
+      },
+      {
+        "name": "Nghiệm pháp gắng sức",
+        "description": "Giúp xác định có thiếu máu cục bộ cơ tim, phân tầng nguy cơ (thấp, trung bình và cao) để có hướng xử trí tiếp theo"
+      },
+      {
+        "name": "Holter điện tim",
+        "description": "Gắn thiết bị theo dõi nhịp tim trong vòng 24-48 giờ để phát hiện những thời điểm xuất hiện bệnh tim thiếu máu cục bộ và rối loạn nhịp tim"
+      },
+      {
+        "name": "Chụp CT mạch vành",
+        "description": "Ghi nhận hình ảnh mạch vành bị hẹp hay tắc, vị trí và mức độ hẹp để có hướng điều trị"
+      },
+      {
+        "name": "Chụp động mạch vành",
+        "description": "Tiêu chuẩn vàng trong chẩn đoán bệnh, giúp xác định có nên can thiệp hay không"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu chủ yếu của việc điều trị là giảm thiểu các triệu chứng của bệnh, nâng cao chất lượng sống cho người bệnh, tăng khả năng tưới máu nuôi dưỡng tim, giảm tình trạng thiếu máu cơ tim, và ngăn ngừa hội chứng mạch vành cấp và nguy cơ tử vong do bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng các loại thuốc như thuốc chống kết tiểu cầu (Aspirin, Clopidogrel, Ticagrelor, Prasugrel), thuốc điều trị rối loạn lipid máu (statin, ezetimibe), thuốc ức chế men chuyển, thuốc chẹn beta giao cảm, thuốc chẹn kênh canxi, và dẫn xuất nitrates"
+      },
+      {
+        "name": "Nong mạch vành và đặt stent",
+        "description": "Bác sĩ đưa một đoạn ống thông qua động mạch ngoại biên đến vị trí mạch vành bị tắc nghẽn, thổi phồng quả bóng để làm lưu thông máu và đặt ống lưới nhỏ (stent) để ngăn động mạch hẹp lại"
+      },
+      {
+        "name": "Phẫu thuật bắc cầu động mạch vành",
+        "description": "Bác sĩ ghép một mạch máu khác băng qua đoạn động mạch vành bị tắc nghẽn để lưu thông máu qua phần động mạch vành bị tắc"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng phác đồ điều trị của bác sĩ",
+      "Không tự ý sử dụng thuốc khi chưa có chỉ định của bác sĩ",
+      "Duy trì thói quen sống lành mạnh sau điều trị",
+      "Tái khám định kỳ theo lịch hẹn",
+      "Thông báo cho bác sĩ khi có các triệu chứng bất thường"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +159,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá, uống rượu bia và sử dụng các chất kích thích",
+      "Có chế độ ăn uống khoa học: không ăn nhiều chất béo, cholesterol như mỡ động vật, sữa béo, trứng, hạn chế ăn mặn; nên ăn nhiều cá, rau củ quả",
+      "Duy trì tập luyện thể dục hàng ngày, tham khảo ý kiến bác sĩ về môn thể thao và cường độ tập luyện phù hợp",
+      "Kiểm soát cân nặng, tránh thừa cân và béo phì",
+      "Nghỉ ngơi hợp lý, giữ tinh thần vui vẻ, tránh căng thẳng, stress kéo dài",
+      "Thăm khám sức khỏe định kỳ để phát hiện sớm và điều trị kịp thời các bệnh lý nếu có",
+      "Kiểm soát tốt các bệnh nền như đái tháo đường, tăng huyết áp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh tim thiếu máu cục bộ mạn tính có nguy hiểm không?",
+      "answer": "Bệnh hoàn toàn không gây nguy hiểm nếu được phát hiện sớm và can thiệp điều trị hiệu quả, bệnh nhân tuân thủ đúng phác đồ điều trị của bác sĩ, có kế hoạch chăm sóc và quản lý bệnh tốt. Tuy nhiên, trong trường hợp bệnh phát hiện và điều trị muộn, bệnh có thể tiến triển thành hội chứng mạch vành cấp, người bệnh có nguy cơ gặp cơn đau thắt ngực không ổn định, nhồi máu cơ tim, nguy hiểm nhất là đột tử."
+    },
+    {
+      "question": "Cơn đau thắt ngực của bệnh tim thiếu máu cục bộ mạn tính thường kéo dài bao lâu?",
+      "answer": "Cơn đau thường ngắn khoảng 3-5 phút, có thể dài hơn nhưng thông thường không quá 20 phút. Trong trường hợp cơn đau kéo dài và xuất hiện ngay cả lúc nghỉ ngơi, người bệnh cần đề phòng cơn đau thắt ngực không ổn định hoặc nhồi máu cơ tim. Đồng thời, với những cơn đau quá ngắn dưới 1 phút, người bệnh cần nghĩ đến nguyên nhân khác ngoài bệnh tim mạch."
+    },
+    {
+      "question": "Làm thế nào để phân biệt đau thắt ngực do tim với các loại đau ngực khác?",
+      "answer": "Đau thắt ngực do tim thường xuất hiện ở vị trí sau xương ức, lan ra cổ, vai, hàm, thượng vị hoặc tay, đặc biệt là tay trái. Cơn đau thường xuất hiện khi gắng sức, xúc động, gặp lạnh, sau ăn no hoặc hút thuốc lá. Người bệnh cảm thấy đau thắt lại, bị đè nặng hoặc bóp nghẹt, kèm theo mệt mỏi, khó thở, vã mồ hôi hoặc buồn nôn. Cơn đau thường kéo dài 3-20 phút. Không phải trường hợp nào cũng có triệu chứng điển hình, nên nếu nghi ngờ, hãy thăm khám bác sĩ chuyên khoa."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau thắt ngực khi gắng sức, đau lan lên vai và cánh tay trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu cơ tim cục bộ mạn tính",
+        "Bệnh động mạch vành",
+        "Đau thắt ngực ổn định"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở, mệt mỏi và đau ngực sau khi ăn no. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu cơ tim cục bộ mạn tính",
+        "Trào ngược dạ dày thực quản",
+        "Rối loạn tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau thắt ngực, vã mồ hôi và buồn nôn khi xúc động mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu cơ tim cục bộ mạn tính",
+        "Rối loạn lo âu",
+        "Cơn hoảng loạn"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp vấn đề về nhịp tim, cảm thấy hồi hộp, đánh trống ngực và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu cơ tim cục bộ mạn tính",
+        "Rối loạn nhịp tim",
+        "Hội chứng tăng thông khí"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau thắt ngực khi thời tiết lạnh, kèm theo mệt mỏi và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu cơ tim cục bộ mạn tính",
+        "Co thắt động mạch vành",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
     }
   ]
 }

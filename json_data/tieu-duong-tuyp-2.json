@@ -1,39 +1,172 @@
 {
   "disease_id": "tieu-duong-tuyp-2",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tiểu đường tuýp 2",
+  "disease_alternative_names": [
+    "Đái tháo đường type 2",
+    "Đái tháo đường tuýp 2",
+    "Bệnh tiểu đường loại 2",
+    "Bệnh tiểu đường của người lớn tuổi"
+  ],
+  "disease_definition": "Bệnh tiểu đường tuýp 2 xảy ra do các tế bào trong cơ thể không sử dụng insulin hiệu quả (còn gọi là đề kháng insulin). Bệnh xuất hiện chủ yếu ở độ tuổi trung niên đến lớn tuổi nhưng ngày càng có nhiều người trẻ mắc bệnh do thừa cân béo phì, lười tập thể dục.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Rất khát",
+      "description": "Cảm giác khát nước liên tục, dù uống nhiều nước vẫn không hết khát"
+    },
+    {
+      "name": "Đi tiểu nhiều",
+      "description": "Tần suất đi tiểu tăng cao do thận phải làm việc nhiều hơn để lọc lượng đường dư thừa"
+    },
+    {
+      "name": "Nhìn mờ",
+      "description": "Thị lực giảm do lượng đường trong máu cao ảnh hưởng đến dịch trong mắt"
+    },
+    {
+      "name": "Cáu kỉnh",
+      "description": "Dễ cáu gắt, thay đổi tâm trạng do mất cân bằng đường huyết"
+    },
+    {
+      "name": "Ngứa ran hoặc tê ở bàn tay hoặc bàn chân",
+      "description": "Cảm giác tê, ngứa ran ở đầu chi do tổn thương dây thần kinh ngoại biên"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, thiếu năng lượng do tế bào không nhận được đủ glucose để chuyển hóa"
+    },
+    {
+      "name": "Vết thương lâu lành",
+      "description": "Các vết thương, vết cắt mất nhiều thời gian hơn để lành do tuần hoàn máu kém"
+    },
+    {
+      "name": "Nhiễm trùng nấm men tiếp tục tái phát",
+      "description": "Nhiễm nấm men tái đi tái lại, đặc biệt ở vùng kín do lượng đường dư thừa tạo môi trường thuận lợi cho nấm"
+    },
+    {
+      "name": "Cảm thấy đói",
+      "description": "Cảm giác đói thường xuyên dù đã ăn đủ do tế bào không nhận được đủ năng lượng"
+    },
+    {
+      "name": "Giảm cân mà không cần cố gắng",
+      "description": "Sụt cân không chủ đích do cơ thể sử dụng mỡ và cơ làm nguồn năng lượng thay thế"
+    },
+    {
+      "name": "Bị nhiễm trùng nhiều hơn",
+      "description": "Tăng tần suất bị nhiễm trùng do hệ miễn dịch suy yếu"
+    },
+    {
+      "name": "Da sần sần quanh cổ hoặc nách",
+      "description": "Xuất hiện các vùng da sẫm màu, sần sần quanh cổ hoặc nách (bệnh gai đen), là dấu hiệu của đề kháng insulin"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tiểu đường tuýp 2 xảy ra khi cơ thể vẫn tạo ra insulin nhưng các tế bào không sử dụng hoặc sử dụng không hiệu quả (đề kháng insulin). Tuyến tụy ban đầu tạo ra nhiều insulin hơn để bù đắp, nhưng dần dần không thể sản xuất đủ insulin, dẫn đến tình trạng glucose tích tụ trong máu.",
+    "related_factors": "Các yếu tố góp phần gây bệnh bao gồm: yếu tố di truyền (các đoạn DNA ảnh hưởng đến cách tạo insulin), thừa cân/béo phì, hội chứng chuyển hóa, gan mất cân bằng chuyển hóa glucose, tế bào sử dụng insulin không hiệu quả, và tế bào beta tuyến tụy suy giảm chức năng theo thời gian.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "45 tuổi trở lên",
+    "Tiền sử gia đình có người mắc tiểu đường tuýp 2",
+    "Người Mỹ gốc Phi, người Mỹ gốc Tây Ban Nha/Latinh, người Mỹ bản địa",
+    "Tiền tiểu đường",
+    "Bệnh tim và mạch máu",
+    "Huyết áp cao",
+    "HDL (cholesterol tốt) thấp",
+    "Chất béo trung tính cao",
+    "Thừa cân hoặc béo phì",
+    "Tiểu đường thai kỳ khi mang thai",
+    "Sinh con nặng hơn 4kg",
+    "Hội chứng buồng trứng đa nang (PCOS)",
+    "Trầm cảm",
+    "Ít tập thể dục",
+    "Hút thuốc",
+    "Căng thẳng kéo dài",
+    "Ngủ quá ít hoặc quá nhiều"
+  ],
+  "complications": [
+    "Hạ đường huyết",
+    "Tăng áp lực thẩm thấu do tăng đường huyết",
+    "Nhiễm toan ceton",
+    "Bệnh tim và đột quỵ",
+    "Bệnh thận dẫn đến suy thận",
+    "Biến chứng mắt (bệnh võng mạc đái tháo đường, mất thị lực)",
+    "Tổn thương dây thần kinh",
+    "Biến chứng bàn chân đái tháo đường",
+    "Rối loạn tình dục",
+    "Tổn thương da lâu lành",
+    "Rối loạn giấc ngủ",
+    "Vấn đề về thính giác",
+    "Trầm cảm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Đánh giá các triệu chứng và yếu tố nguy cơ",
+      "Theo dõi lượng đường trong máu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "A1c",
+        "description": "Xét nghiệm đo mức đường huyết trung bình trong khoảng 2 hoặc 3 tháng"
+      },
+      {
+        "name": "Glucose huyết tương lúc đói",
+        "description": "Xét nghiệm đo lượng đường huyết sau khi nhịn đói 8 giờ"
+      },
+      {
+        "name": "Xét nghiệm dung nạp glucose đường uống",
+        "description": "Kiểm tra lượng đường trong máu trước và sau 2 giờ uống nước ngọt để xem cách cơ thể xử lý đường"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị bệnh tiểu đường tuýp 2 bao gồm sự kết hợp giữa thay đổi lối sống và dùng thuốc, nhằm kiểm soát lượng đường trong máu và ngăn ngừa các biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Giảm cân",
+        "description": "Giảm 5% - 7% trọng lượng cơ thể hoặc duy trì cân nặng phù hợp để giảm ổn định mức đường huyết"
+      },
+      {
+        "name": "Ăn uống lành mạnh",
+        "description": "Giảm calo, cắt giảm carbs tinh chế và đồ ngọt, tăng cường rau quả và chất xơ"
+      },
+      {
+        "name": "Tập thể dục",
+        "description": "Duy trì hoạt động thể chất 30-60 phút mỗi ngày kết hợp với các bài tập rèn luyện sức bền"
+      },
+      {
+        "name": "Thuốc Metformin",
+        "description": "Làm giảm lượng glucose do gan tạo ra và giúp cơ thể phản ứng tốt hơn với insulin"
+      },
+      {
+        "name": "Nhóm thuốc Sulfonylureas",
+        "description": "Giúp cơ thể tạo ra nhiều insulin hơn"
+      },
+      {
+        "name": "Thuốc ức chế DPP-4",
+        "description": "Giúp giảm lượng đường trong máu"
+      },
+      {
+        "name": "Thuốc chủ vận thụ thể GLP-1",
+        "description": "Làm chậm quá trình tiêu hóa và giảm lượng đường trong máu"
+      },
+      {
+        "name": "Thuốc ức chế SGLT2",
+        "description": "Hỗ trợ thận lọc ra nhiều glucose hơn"
+      },
+      {
+        "name": "Insulin",
+        "description": "Được chỉ định khi các phương pháp khác không phát huy tác dụng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống thuốc điều trị tiểu đường hoặc insulin đúng giờ",
+      "Kiểm tra lượng đường trong máu thường xuyên tại nhà",
+      "Ăn uống đúng cách và không bỏ bữa",
+      "Khám định kỳ để phát hiện sớm các biến chứng",
+      "Quản lý tốt căng thẳng thông qua các bài tập thư giãn",
+      "Ngủ đủ giấc",
+      "Theo dõi huyết áp và cholesterol theo khuyến cáo của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +174,72 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Tập thể dục ít nhất 150 phút mỗi tuần",
+      "Ăn uống lành mạnh, tăng cường rau quả, giảm đường và carbs tinh chế",
+      "Tránh hút thuốc",
+      "Giới hạn đồ uống có cồn",
+      "Kiểm tra sức khỏe định kỳ, đặc biệt nếu có các yếu tố nguy cơ",
+      "Theo dõi chỉ số đường huyết nếu có tiền sử gia đình bị đái tháo đường",
+      "Quản lý căng thẳng",
+      "Ngủ đủ giấc"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tiểu đường tuýp 2 có chữa khỏi được không?",
+      "answer": "Tiểu đường tuýp 2 là bệnh mạn tính không thể chữa khỏi hoàn toàn, nhưng có thể kiểm soát tốt bằng cách thay đổi lối sống (ăn uống lành mạnh, tập thể dục đều đặn) và dùng thuốc khi cần thiết. Trong một số trường hợp, người bệnh có thể đưa đường huyết về mức bình thường và không cần dùng thuốc nhưng vẫn cần theo dõi định kỳ."
+    },
+    {
+      "question": "Làm thế nào để phân biệt giữa tiểu đường tuýp 1 và tuýp 2?",
+      "answer": "Tiểu đường tuýp 1 thường xuất hiện ở trẻ em và thanh thiếu niên, do cơ thể không sản xuất được insulin, bệnh nhân bắt buộc phải tiêm insulin. Tiểu đường tuýp 2 thường xuất hiện ở người trung niên và lớn tuổi, do cơ thể sản xuất insulin nhưng không sử dụng hiệu quả, ban đầu có thể kiểm soát bằng ăn uống, tập luyện và thuốc uống."
+    },
+    {
+      "question": "Người bệnh tiểu đường tuýp 2 nên ăn gì và không nên ăn gì?",
+      "answer": "Người bệnh tiểu đường tuýp 2 nên ăn nhiều rau xanh, protein nạc, ngũ cốc nguyên hạt, trái cây ít ngọt, và thực phẩm giàu chất xơ. Nên hạn chế đồ ngọt, carbs tinh chế (bánh mì trắng, gạo trắng), thực phẩm chế biến sẵn, nước ngọt, thực phẩm chiên rán, và rượu bia. Chia nhỏ bữa ăn trong ngày và kiểm soát khẩu phần là rất quan trọng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như rất khát và đi tiểu nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường tuýp 2",
+        "Tiểu đường tuýp 1",
+        "Đái tháo nhạt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nhìn mờ và cáu kỉnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường tuýp 2",
+        "Tăng đường huyết",
+        "Rối loạn thị giác"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngứa ran hoặc tê ở bàn tay hoặc bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường tuýp 2",
+        "Bệnh thần kinh ngoại biên",
+        "Thiếu vitamin B12"
+      ]
+    },
+    {
+      "question": "Tôi mệt mỏi và vết thương lâu lành. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường tuýp 2",
+        "Thiếu máu",
+        "Suy giảm miễn dịch"
+      ]
+    },
+    {
+      "question": "Tôi bị nhiễm trùng nấm men tiếp tục tái phát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường tuýp 2",
+        "Suy giảm miễn dịch",
+        "Rối loạn nội tiết"
+      ]
     }
   ]
 }

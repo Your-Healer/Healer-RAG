@@ -1,39 +1,182 @@
 {
   "disease_id": "suy-tim-trai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy tim trái",
+  "disease_alternative_names": [
+    "Suy tim tâm thu",
+    "Suy tim tâm trương",
+    "Suy tim phân suất tống máu giảm",
+    "Suy tim phân suất tống máu bảo tồn"
+  ],
+  "disease_definition": "Suy tim trái là bệnh lý xảy ra khi chức năng co bóp của tâm thất trái suy giảm. Theo thời gian, tình trạng này có thể khiến tim bị suy yếu và không còn khả năng xử lý máu nhận được từ phổi, khiến các cơ quan trong cơ thể không nhận đủ lượng oxy cần thiết.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau ngực",
+      "description": "Cảm giác đau hoặc tức ở vùng ngực"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài, thiếu sức lực"
+    },
+    {
+      "name": "Yếu sức",
+      "description": "Cảm giác không đủ sức để thực hiện các hoạt động thông thường"
+    },
+    {
+      "name": "Khó thở khi gắng sức",
+      "description": "Cảm giác khó thở khi vận động hoặc hoạt động thể chất"
+    },
+    {
+      "name": "Khó thở khi nằm xuống",
+      "description": "Cảm giác khó thở xuất hiện hoặc trở nên nặng hơn khi nằm"
+    },
+    {
+      "name": "Thức giấc vào ban đêm và khó thở",
+      "description": "Thức dậy từ giấc ngủ do cảm giác khó thở đột ngột (khó thở kịch phát về đêm)"
+    },
+    {
+      "name": "Nhịp tim nhanh hoặc không đều",
+      "description": "Cảm giác tim đập nhanh hơn bình thường hoặc không theo nhịp điệu đều đặn"
+    },
+    {
+      "name": "Sưng bàn chân, mắt cá chân và cẳng chân",
+      "description": "Phù nề ở các chi dưới do tích tụ dịch (phù ngoại vi)"
+    },
+    {
+      "name": "Tăng cân không rõ lý do",
+      "description": "Tăng cân đột ngột không do ăn uống nhiều hơn mà do tích tụ dịch trong cơ thể"
+    },
+    {
+      "name": "Buồn nôn, đầy bụng",
+      "description": "Cảm giác buồn nôn và đầy bụng khó chịu"
+    },
+    {
+      "name": "Chán ăn, đau thượng vị",
+      "description": "Giảm cảm giác thèm ăn và đau vùng thượng vị do gan to"
+    },
+    {
+      "name": "Ho dai dẳng hoặc thở khò khè",
+      "description": "Ho kéo dài hoặc có tiếng khò khè khi thở"
+    },
+    {
+      "name": "Đi tiểu nhiều hơn bình thường hoặc tiểu nhiều vào ban đêm",
+      "description": "Tăng tần suất đi tiểu, đặc biệt là ban đêm"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy tim trái xảy ra do chức năng co bóp của tâm thất trái suy giảm hoặc tâm thất trái bị cứng, không thể thư giãn thích hợp và hút máu về tim.",
+    "related_factors": "Các nguyên nhân phổ biến bao gồm tăng huyết áp mạn tính, bệnh đái tháo đường, bệnh động mạch vành, viêm màng ngoài tim, lối sống ít vận động, ngưng thở khi ngủ do tắc nghẽn, bệnh cơ tim giãn vô căn, bệnh van tim, bệnh tim bẩm sinh, béo phì và rung nhĩ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tăng huyết áp",
+    "Bệnh đái tháo đường",
+    "Bệnh động mạch vành",
+    "Viêm màng ngoài tim",
+    "Lối sống ít vận động",
+    "Ngưng thở khi ngủ do tắc nghẽn",
+    "Béo phì",
+    "Bệnh cơ tim",
+    "Bệnh van tim",
+    "Bệnh tim bẩm sinh",
+    "Rung nhĩ"
+  ],
+  "complications": [
+    "Rối loạn nhịp tim như nhịp nhanh thất và rung nhĩ",
+    "Hở van tim",
+    "Tăng áp động mạch phổi",
+    "Suy chức năng các cơ quan như suy gan, suy thận",
+    "Suy tim giai đoạn cuối kháng trị cần phải ghép tim",
+    "Đột tử hoặc tử vong",
+    "Cục máu đông trong tim có thể đưa đến đột quỵ não hoặc tắc mạch",
+    "Thiếu máu",
+    "Trầm cảm hoặc lo lắng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám tổng quát và hỏi bệnh sử",
+      "Đánh giá các triệu chứng suy tim",
+      "Kiểm tra tiền sử bệnh huyết áp cao, đái tháo đường, rối loạn lipid máu",
+      "Nghe tim và phổi để phát hiện các bất thường"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đo điện tâm đồ (ECG)",
+        "description": "Phát hiện dấu hiệu lớn các buồng tim, rung nhĩ, loạn nhịp tim hay dấu hiệu thiếu máu cơ tim"
+      },
+      {
+        "name": "Chụp X-quang phổi",
+        "description": "Xác định bóng tim to, sung huyết trong phổi hoặc có dịch trong phổi"
+      },
+      {
+        "name": "Xét nghiệm máu đo chất chỉ thị của suy tim",
+        "description": "Đo mức BNP/NT-ProBNP, sST2 để xác định tình trạng suy tim"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá kích thước các buồng tim, khả năng co bóp của cơ tim và phân suất tống máu"
+      },
+      {
+        "name": "Trắc nghiệm gắng sức",
+        "description": "Đánh giá chức năng tim khi vận động"
+      },
+      {
+        "name": "Holter điện tâm đồ",
+        "description": "Theo dõi nhịp tim liên tục trong 24-48 giờ"
+      },
+      {
+        "name": "Chụp CT tim và động mạch vành",
+        "description": "Tạo hình ảnh chi tiết của tim và các mạch máu vành"
+      },
+      {
+        "name": "Chụp mạch vành",
+        "description": "Kiểm tra tình trạng của các động mạch vành bằng phương pháp xâm nhập"
+      },
+      {
+        "name": "MRI tim",
+        "description": "Tạo hình ảnh chi tiết về cấu trúc và hoạt động của tim"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị suy tim trái nhằm cải thiện chức năng của tim, nâng cao chất lượng sống, giảm nhập viện và kéo dài đời sống cho người bệnh. Phương pháp điều trị sẽ tùy thuộc vào nguyên nhân và mức độ bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị không dùng thuốc",
+        "description": "Thay đổi lối sống, chế độ ăn uống, bỏ thuốc lá, giảm rượu bia, tập thể dục đều đặn, giảm cân nếu béo phì, hạn chế ăn mặn"
+      },
+      {
+        "name": "Điều trị dùng thuốc",
+        "description": "Sử dụng 5 nhóm thuốc cơ bản: lợi tiểu, ức chế men chuyển/ARNI, ức chế bêta, kháng thụ thể aldosterone và Dapagliflozine/Empagliflozine"
+      },
+      {
+        "name": "Mổ bắc cầu mạch vành",
+        "description": "Phẫu thuật tạo đường dẫn máu mới cho tim khi có hẹp mạch vành nặng không đặt stent được"
+      },
+      {
+        "name": "Mổ van tim",
+        "description": "Phẫu thuật sửa chữa hoặc thay thế van tim khi có hẹp hở van tim nặng"
+      },
+      {
+        "name": "Đặt thiết bị hỗ trợ tim",
+        "description": "Cấy ghép máy tạo nhịp, máy tái đồng bộ cơ tim (CRT) hoặc máy phá rung (ICD)"
+      },
+      {
+        "name": "Dụng cụ hỗ trợ thất hoặc tim nhân tạo",
+        "description": "Sử dụng trong trường hợp sốc tim hay suy tim giai đoạn cuối"
+      },
+      {
+        "name": "Ghép tim",
+        "description": "Thay thế quả tim bị bệnh bằng tim khỏe mạnh từ người hiến tặng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống thuốc đều đặn theo chỉ định của bác sĩ",
+      "Kiểm soát cân nặng hàng ngày",
+      "Giảm lượng muối trong chế độ ăn",
+      "Hạn chế lượng chất lỏng nạp vào cơ thể nếu có phù",
+      "Tránh các hoạt động gắng sức quá mức",
+      "Tái khám định kỳ và báo cáo các triệu chứng bất thường"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +184,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ ăn uống có lợi cho sức khỏe tim mạch",
+      "Kiểm soát huyết áp cao và bệnh mạch vành",
+      "Hoạt động thể chất đều đặn",
+      "Ngủ đủ giấc và cố gắng có giấc ngủ ngon",
+      "Duy trì cân nặng hợp lý",
+      "Kiểm soát căng thẳng, cân đối thời gian làm việc và nghỉ ngơi",
+      "Bỏ thuốc lá và tránh xa khói thuốc"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy tim trái có nguy hiểm không?",
+      "answer": "Suy tim trái là bệnh lý nguy hiểm, có nguy cơ tử vong cao nếu không được điều trị kịp thời và đúng phác đồ. Nếu không được chữa trị kịp thời, suy tim trái có thể gây ra các biến chứng nghiêm trọng như rối loạn nhịp tim, hở van tim, tăng áp động mạch phổi, suy các cơ quan, đột tử hoặc tử vong."
+    },
+    {
+      "question": "Suy tim tâm thu và suy tim tâm trương khác nhau như thế nào?",
+      "answer": "Suy tim tâm thu (suy tim phân suất tống máu giảm) là tình trạng chức năng co bóp tống máu của tâm thất trái quá yếu, không có khả năng bơm máu ra động mạch chủ hiệu quả. Suy tim tâm trương (suy tim phân suất tống máu bảo tồn) là tình trạng tâm thất trái bị cứng, giảm đàn hồi và không thể thư giãn thích hợp, gây khó khăn cho việc hút máu về tâm thất."
+    },
+    {
+      "question": "Tiên lượng sống của người bị suy tim trái như thế nào?",
+      "answer": "Tiên lượng của bệnh suy tim trái tùy thuộc vào nguyên nhân dẫn đến suy tim. Nếu được can thiệp kịp thời, một số trường hợp có thể hồi phục được. Các yếu tố khiến tiên lượng xấu hơn bao gồm: mức NT-proBNP cao, người cao tuổi, có nhiều bệnh nội khoa đi kèm, tiền sử nhồi máu cơ tim, bệnh phổi tắc nghẽn mãn tính, và suy giảm chức năng thận."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau ngực và mệt mỏi, yếu sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim trái",
+        "Bệnh động mạch vành",
+        "Thiếu máu cơ tim"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở, đặc biệt khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim trái",
+        "Bệnh phổi tắc nghẽn mạn tính",
+        "Hen suyễn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khó thở khi nằm xuống và thức giấc vào ban đêm, khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim trái",
+        "Trào ngược dạ dày thực quản",
+        "Ngưng thở khi ngủ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhịp tim nhanh hoặc không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim trái", "Rối loạn nhịp tim", "Rung nhĩ"]
+    },
+    {
+      "question": "Tôi đang cảm thấy sưng bàn chân, mắt cá chân và cẳng chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim trái", "Suy thận", "Bệnh gan"]
     }
   ]
 }

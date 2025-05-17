@@ -1,58 +1,179 @@
 {
   "disease_id": "phe-cau-khuan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Phế cầu khuẩn",
+  "disease_alternative_names": [
+    "Streptococcus pneumoniae",
+    "Pneumococcus",
+    "Vi khuẩn phế cầu"
+  ],
+  "disease_definition": "Phế cầu khuẩn (Streptococcus pneumoniae) là vi khuẩn Gram dương thuộc chi Streptococcus. Vi khuẩn này cư trú chủ yếu ở mũi, họng và đường thở của người khỏe mạnh và thường không gây bệnh (người lành mang trùng), nhưng ở những đối tượng nhạy cảm như trẻ nhỏ, người cao tuổi và người có hệ miễn dịch suy giảm, phế cầu khuẩn có thể gây ra nhiều bệnh nhiễm trùng nghiêm trọng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Triệu chứng viêm phổi do phế cầu",
+      "description": "Sốt cao, rét run, đau ngực, khó thở, ho có đờm hoặc máu. Trong một số trường hợp có thể xuất hiện giảm thân nhiệt."
+    },
+    {
+      "name": "Triệu chứng viêm tai giữa do phế cầu",
+      "description": "Sốt cao, quấy khóc, chán ăn bỏ bú, dụi tai, tiêu chảy. Ở người lớn có thể đau vùng tai, sốt, vấn đề về thính giác, cáu gắt, mệt mỏi, buồn nôn, và có thể có dịch chảy từ tai nếu bệnh nặng."
+    },
+    {
+      "name": "Triệu chứng viêm màng não do phế cầu",
+      "description": "Đau đầu dữ dội, nôn ói, sốt cao, nhức đầu kéo dài nhiều giờ hoặc nhiều ngày, nhạy cảm với ánh sáng, cứng cổ, chán ăn, rối loạn ý thức, lơ mơ bứt rứt."
+    },
+    {
+      "name": "Triệu chứng nhiễm trùng huyết do phế cầu",
+      "description": "Sốt cao, rét run, đau đầu, lơ mơ, có thể dẫn đến sốc nhiễm khuẩn gây tử vong, đặc biệt nguy hiểm ở người nhiễm HIV hoặc có hệ miễn dịch suy yếu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Phế cầu khuẩn (Streptococcus pneumoniae) là nguyên nhân chính gây ra các bệnh nhiễm trùng phế cầu.",
+    "related_factors": "Phế cầu khuẩn được tìm thấy trong mũi và họng của 5-10% người lớn khỏe mạnh và 20-40% trẻ em khỏe mạnh. Môi trường đặc biệt như doanh trại quân đội hoặc trung tâm chăm sóc trẻ em ban ngày có tỷ lệ mang khuẩn cao hơn.",
+    "transmission_routes": [
+      "Qua đường hô hấp khi tiếp xúc với người mang vi khuẩn thông qua hắt hơi, ho, nôn",
+      "Dùng chung đồ cá nhân với người nhiễm khuẩn"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em, đặc biệt là trẻ dưới 2 tuổi",
+    "Người cao tuổi trên 65 tuổi",
+    "Người có hệ miễn dịch suy yếu như người nhiễm HIV",
+    "Người mắc bệnh liệt nửa người bẩm sinh",
+    "Người đã phẫu thuật cắt bỏ lá lách",
+    "Người mắc bệnh hồng cầu hình liềm"
+  ],
+  "complications": [
+    "Tử vong, đặc biệt ở trẻ em và người lớn tuổi",
+    "Di chứng tàn tật sau khi mắc viêm màng não do phế cầu",
+    "Mù lòa",
+    "Điếc",
+    "Động kinh",
+    "Liệt",
+    "Chậm phát triển",
+    "Suy giảm trí nhớ",
+    "Đau đầu kéo dài"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng dựa trên triệu chứng",
+      "Đánh giá mức độ nghiêm trọng của triệu chứng và ảnh hưởng đến các bộ phận của cơ thể"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp cắt lớp vi tính hoặc X-quang ngực",
+        "description": "Giúp phát hiện tổn thương và viêm nhiễm ở phổi do phế cầu khuẩn"
+      },
+      {
+        "name": "Xét nghiệm dịch não tủy (CSF)",
+        "description": "Được thực hiện để chẩn đoán viêm màng não do phế cầu khuẩn"
+      },
+      {
+        "name": "Xét nghiệm đờm, máu và dịch cơ thể",
+        "description": "Lấy mẫu từ đờm, máu, chất dịch từ phổi, khớp, xương, vùng quanh tim hoặc áp xe để xác định sự hiện diện của phế cầu khuẩn"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị phụ thuộc vào mức độ nặng-nhẹ của tình trạng bệnh để đưa ra giải pháp phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nhiễm trùng phế cầu mức độ nhẹ",
+        "description": "Sử dụng kháng sinh theo đường uống, loại thuốc và liều lượng do bác sĩ quy định dựa trên kết quả thăm khám và xét nghiệm."
+      },
+      {
+        "name": "Điều trị nhiễm trùng phế cầu nặng",
+        "description": "Tiêm kháng sinh qua đường tĩnh mạch để điều trị nhiễm trùng nặng do phế cầu khuẩn."
+      },
+      {
+        "name": "Điều trị nhiễm trùng phế cầu đe dọa tính mạng",
+        "description": "Áp dụng liệu pháp oxy và các hình thức điều trị tích cực khác cho các trường hợp nghiêm trọng đe dọa đến tính mạng."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ chỉ định kháng sinh của bác sĩ, dùng đúng liều lượng và đủ thời gian",
+      "Nghỉ ngơi đầy đủ và bổ sung đủ nước",
+      "Theo dõi sát tình trạng bệnh và thông báo cho bác sĩ nếu triệu chứng trở nên nặng hơn",
+      "Tiêm phòng vắc xin phế cầu để phòng ngừa tái nhiễm"
+    ],
+    "prevention_of_transmission": [
+      "Che chắn vùng mũi-miệng khi ho và hắt hơi",
+      "Không dùng chung đồ dùng cá nhân",
+      "Rửa tay thường xuyên, đặc biệt trước và sau khi ăn hoặc tiếp xúc với các bề mặt nơi công cộng",
+      "Đeo khẩu trang khi đến những nơi đông người"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tổ chức Y tế Thế giới (WHO) khuyến khích đưa vắc xin phế cầu vào chương trình tiêm chủng quốc gia. Tiêm vắc xin sớm cho trẻ từ 6 tuần tuổi là cách giảm thiểu đáng kể tỷ lệ tử vong, chi phí và thời gian chữa bệnh.",
+      "recommended_for": [
+        "Trẻ em từ 6 tuần tuổi đến 5 tuổi",
+        "Người cao tuổi trên 65 tuổi",
+        "Người có hệ miễn dịch suy yếu",
+        "Người mắc các bệnh mạn tính"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Rửa tay sạch bằng xà phòng trước và sau khi ăn hoặc sau khi tiếp xúc với các bề mặt nơi công cộng",
+      "Che chắn vùng mũi-miệng khi ho và hắt hơi",
+      "Tránh hút thuốc lá (chủ động và thụ động)",
+      "Tránh tiếp xúc với những đối tượng có nguy cơ cao mắc các bệnh lý về hô hấp",
+      "Đeo khẩu trang khi đến những nơi đông người",
+      "Tiêm vắc xin phòng phế cầu theo khuyến cáo"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Phế cầu khuẩn gây ra những bệnh gì?",
+      "answer": "Phế cầu khuẩn có thể gây ra nhiều bệnh lý nghiêm trọng đe dọa tính mạng như viêm phổi, viêm tai giữa, viêm màng não, nhiễm trùng huyết, viêm kết mạc, viêm tủy xương, viêm mô tế bào, viêm xoang cấp tính, và viêm màng ngoài tim."
+    },
+    {
+      "question": "Đối tượng nào dễ mắc bệnh do phế cầu khuẩn?",
+      "answer": "Trẻ em, đặc biệt là trẻ dưới 2 tuổi, là đối tượng dễ mắc bệnh nhiễm khuẩn do phế cầu và chịu ảnh hưởng nặng nề nhất. Ngoài ra, người cao tuổi trên 65 tuổi, người có hệ miễn dịch suy yếu (như người nhiễm HIV), người mắc bệnh liệt nửa người bẩm sinh, người đã phẫu thuật cắt bỏ lá lách, và người mắc bệnh hồng cầu hình liềm cũng có nguy cơ cao."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa bệnh do phế cầu khuẩn?",
+      "answer": "Cách tốt nhất để phòng ngừa là tiêm vắc xin phế cầu, đặc biệt cho trẻ từ 6 tuần tuổi đến 5 tuổi. Ngoài ra, cần rửa tay thường xuyên, che miệng khi ho hoặc hắt hơi, tránh hút thuốc lá, tránh tiếp xúc với người có nguy cơ cao mắc bệnh hô hấp, và đeo khẩu trang khi đến nơi đông người."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang bị sốt cao, rét run, ho có đờm và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["phe-cau-khuan", "viem-phoi", "cum", "lao-phoi"]
+    },
+    {
+      "question": "Tôi bị sốt cao, quấy khóc, kéo tai và bỏ bú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phe-cau-khuan",
+        "viem-tai-giua",
+        "cam-cum",
+        "viem-hong"
+      ]
+    },
+    {
+      "question": "Tôi bị đau đầu dữ dội, nôn mửa, sốt cao và cứng cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phe-cau-khuan",
+        "viem-mang-nao",
+        "xuat-huyet-nao",
+        "sot-xuat-huyet"
+      ]
+    },
+    {
+      "question": "Tôi bị nhiễm HIV và hiện đang sốt cao, rét run, lơ mơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phe-cau-khuan",
+        "nhiem-trung-huyet",
+        "viem-phoi",
+        "lao"
+      ]
+    },
+    {
+      "question": "Tôi bị ho nhiều, khó thở, đau ngực và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phe-cau-khuan",
+        "viem-phoi",
+        "viem-phe-quan",
+        "lao-phoi"
+      ]
     }
   ]
 }

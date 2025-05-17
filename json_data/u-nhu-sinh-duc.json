@@ -1,58 +1,198 @@
 {
   "disease_id": "u-nhu-sinh-duc",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U nhú sinh dục",
+  "disease_alternative_names": [
+    "Nốt sần sinh dục",
+    "Gai sinh dục",
+    "Genital papules"
+  ],
+  "disease_definition": "U nhú sinh dục là các nốt u hoặc sẩn nổi trên bề mặt da ở vùng sinh dục. U nhú sinh dục là cách gọi chung, gồm nhiều loại bệnh khác nhau, có thể là bệnh lành tính như chuỗi hạt ngọc dương vật, u mềm treo, nốt fordyce… hoặc biểu hiện của sự nhiễm virus tại vùng sinh dục gây phát triển bất thường về kích thước, số lượng của tế bào vùng thượng bì như sùi mào gà, u mềm lây…",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt u mọc riêng lẻ hoặc thành chùm",
+      "description": "U nhú sinh dục mọc riêng lẻ hoặc từng chùm nhỏ ở bộ phận sinh dục"
+    },
+    {
+      "name": "Không đau rát",
+      "description": "U nhú sinh dục thường không gây đau rát và khi sờ vào thấy cộm"
+    },
+    {
+      "name": "Màu trắng hồng",
+      "description": "U nhú sinh dục có màu trắng hồng, không tập thành mảng mà rời rạc"
+    },
+    {
+      "name": "Chảy máu khi cọ xát",
+      "description": "Đôi khi có thể chảy máu, đau khi cọ sát hoặc ngứa nhẹ"
+    },
+    {
+      "name": "Không có cuống chung",
+      "description": "Các nốt mụn sinh dục không có chung cuống và không chứa mủ"
+    },
+    {
+      "name": "Phát triển chậm",
+      "description": "U nhú ở bộ phận sinh dục phát triển rất chậm, hầu như không lớn lên theo thời gian"
+    },
+    {
+      "name": "Vướng víu trong sinh hoạt",
+      "description": "Khi u nhú phát triển to lên có thể gây vướng víu trong sinh hoạt hàng ngày"
+    },
+    {
+      "name": "Đau rát khi quan hệ",
+      "description": "Một số trường hợp có thể gây đau rát khi quan hệ tình dục"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "U nhú sinh dục có thể do virus HPV (Human Papillomavirus) gây ra hoặc do các bất thường lành tính của biểu mô da.",
+    "related_factors": "Nguyên nhân gây u nhú sinh dục có thể liên quan đến vệ sinh kém, quan hệ tình dục không an toàn, và mắc các bệnh lây truyền qua đường tình dục khác.",
+    "transmission_routes": [
+      "Quan hệ tình dục",
+      "Tiếp xúc với vết thương hở",
+      "Từ mẹ sang con (đối với loại do virus)"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tích tụ vi khuẩn có hại từ việc không vệ sinh vùng kín sạch sẽ",
+    "Quan hệ tình dục với nhiều người",
+    "Quan hệ tình dục không có biện pháp bảo vệ",
+    "Mắc các bệnh lây truyền qua đường tình dục khác",
+    "Đồ lót không giặt thường xuyên",
+    "Mặc đồ bó sát khiến vùng kín không thoáng khí",
+    "Thói quen gãi vùng kín thường xuyên",
+    "Sử dụng dung dịch vệ sinh phụ nữ có độ pH không phù hợp",
+    "Không vệ sinh vùng kín sau khi quan hệ tình dục"
+  ],
+  "complications": [
+    "Tiến triển thành ung thư (đối với các u nhú do HPV gây ra)",
+    "Lây lan sang các vùng da lân cận",
+    "Lây nhiễm cho bạn tình",
+    "Tăng nguy cơ nhiễm các bệnh lây qua đường tình dục khác",
+    "Ảnh hưởng tâm lý, lo lắng về mặt thẩm mỹ",
+    "Đau rát, khó chịu trong sinh hoạt hàng ngày"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Hỏi về các triệu chứng và đời sống tình dục",
+      "Quan sát hình dạng, màu sắc, sự phân bố của các nốt u"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Giúp xác định nguyên nhân gây u nhú sinh dục hoặc các bệnh kèm theo"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy một phần u nhú sinh dục đem đi giải phẫu bệnh để xác định bản chất và mức độ nguy hiểm"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy theo bản chất của u nhú sinh dục mà có phương pháp điều trị khác nhau. Các u nhú lành tính thường không cần điều trị, nhưng các u nhú do virus cần được điều trị sớm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Bôi thuốc",
+        "description": "Sử dụng các loại thuốc đặc trị nhằm làm rụng nốt u nhú, phương pháp không xâm lấn, ít tốn kém nhưng cần kiên trì"
+      },
+      {
+        "name": "Đốt điện",
+        "description": "Sử dụng dòng điện cao tần tạo nhiệt lượng để loại bỏ u nhú sinh dục, có thể gây đau và sưng sau khi làm thủ thuật"
+      },
+      {
+        "name": "Đốt laser",
+        "description": "Sử dụng tia laser chiếu trực tiếp để loại bỏ u nhú sinh dục trên da"
+      },
+      {
+        "name": "Đốt lạnh (áp lạnh)",
+        "description": "Sử dụng khí nitơ lỏng ở nhiệt độ cực thấp để đóng băng các nốt u nhú, sau đó u nhú bong ra cho phép làn da mới xuất hiện"
+      },
+      {
+        "name": "ALA-PDT",
+        "description": "Phương pháp sử dụng ánh sáng huỳnh quang chiếu trực tiếp lên vùng bệnh, an toàn, ít gây đau và đảm bảo tính thẩm mỹ"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Trong thời gian điều trị, nên kiêng quan hệ tình dục",
+      "Bổ sung thực phẩm giàu vitamin B và canxi",
+      "Ăn thực phẩm chống oxy hóa từ trái cây và rau",
+      "Bổ sung protein từ cá nước lạnh",
+      "Sử dụng dầu oliu, dầu dừa cho sức khỏe",
+      "Tập thể dục thường xuyên, 5 lần/tuần",
+      "Bổ sung vitamin A, C, E, B tổng hợp và vi lượng như canxi, kẽm, selen",
+      "Tránh thực phẩm gây dị ứng, thực phẩm tinh chế, thịt đỏ",
+      "Hạn chế axit béo chuyển hóa trong thực phẩm đóng gói sẵn",
+      "Không sử dụng caffein, rượu và thuốc lá"
+    ],
+    "prevention_of_transmission": [
+      "Dùng bao cao su khi quan hệ tình dục",
+      "Tránh quan hệ tình dục khi đang điều trị",
+      "Thông báo cho bạn tình về tình trạng bệnh"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng HPV giúp tăng miễn dịch với các bệnh như sùi mào gà, ung thư cổ tử cung",
+      "recommended_for": [
+        "Nam và nữ từ 9-26 tuổi",
+        "Người có đời sống tình dục hoạt động"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh vùng kín sạch sẽ, tránh để ẩm ướt",
+      "Tránh mặc đồ bó sát, giúp vùng kín luôn được thoáng khí",
+      "Vệ sinh bồn tắm, bồn cầu thường xuyên",
+      "Không dùng chung đồ cá nhân: khăn mặt, khăn tắm, quần áo",
+      "Giữ đời sống hôn nhân một vợ một chồng, hoặc quan hệ tình dục có biện pháp bảo vệ",
+      "Lựa chọn dung dịch vệ sinh có độ pH thích hợp",
+      "Chế độ ăn uống, sinh hoạt hợp lý để nâng cao sức đề kháng",
+      "Tuân theo lời khuyên của bác sĩ sau khi điều trị"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U nhú sinh dục có phải sùi mào gà không?",
+      "answer": "U nhú sinh dục là tên gọi chung của nhiều loại bệnh, trong đó bao gồm cả sùi mào gà. Tuy nhiên, u nhú sinh dục lành tính có màu trắng hồng, không tập thành mảng mà rời rạc, phát triển chậm. Còn sùi mào gà ban đầu mọc riêng lẻ sau đó tập chung lại thành chùm giống cây súp lơ, màu hồng nhạt, phát triển nhanh về kích thước và số lượng, có thể xuất hiện ở miệng, lưỡi và hậu môn, dễ lây qua đường tình dục."
+    },
+    {
+      "question": "U nhú sinh dục có nguy hiểm không?",
+      "answer": "U nhú sinh dục do virus gây ra sẽ nguy hiểm đến sức khỏe. Các u nhú sinh dục do virus gây nên cần được chẩn đoán và điều trị sớm để tránh lây lan cho các vùng da lân cận, cho bạn tình và hạn chế bị nhiễm các bệnh lây qua đường tình dục khác. Đặc biệt, u nhú do HPV gây nên có thể tiến triển thành ung thư nếu không được phát hiện và điều trị sớm."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ về u nhú sinh dục?",
+      "answer": "Bạn nên đến gặp bác sĩ khi u nhú sinh dục có dấu hiệu bất thường như: các nốt u nhú phát triển to lên gây vướng víu trong sinh hoạt; u nhú bong tróc do cọ xát; đau rát khi quan hệ tình dục; hoặc các nốt u nhú chảy máu do xây xát trong sinh hoạt hàng ngày hoặc quan hệ tình dục."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như u nhú sinh dục mọc riêng lẻ hoặc từng chùm nhỏ ở bộ phận sinh dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U nhú sinh dục", "Sùi mào gà", "U mềm lây"]
+    },
+    {
+      "question": "Tôi đang cảm thấy u nhú sinh dục không gây đau rát và sờ vào thấy cộm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nhú sinh dục",
+        "Chuỗi hạt ngọc dương vật",
+        "U mềm treo"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy máu, đau khi cọ sát hoặc ngứa nhẹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nhú sinh dục",
+        "Sùi mào gà",
+        "Viêm da vùng sinh dục"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy u nhú sinh dục có màu trắng hồng, không tập thành mảng mà rời rạc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nhú sinh dục lành tính",
+        "Nốt Fordyce",
+        "Chuỗi hạt ngọc dương vật"
+      ]
+    },
+    {
+      "question": "Tôi hay bị các nốt u hoặc sần nổi trên bề mặt da ở vùng sinh dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U nhú sinh dục", "Sùi mào gà", "Mụn rộp sinh dục"]
     }
   ]
 }

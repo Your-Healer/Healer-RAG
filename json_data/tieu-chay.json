@@ -1,39 +1,117 @@
 {
   "disease_id": "tieu-chay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tiêu chảy",
+  "disease_alternative_names": ["Ỉa chảy", "Diarrhea"],
+  "disease_definition": "Tiêu chảy (ỉa chảy) là một trong những bệnh lý tiêu hóa phổ biến nhất, xuất hiện ở cả người lớn và trẻ em. Tình trạng được nhận biết dễ dàng bởi dấu hiệu đi ngoài nhiều lần, phân lỏng kèm nước bất thường. Thông thường, tình trạng có thể phát triển từ nhẹ đến nghiêm trọng và đe dọa đến tính mạng nếu không được kiểm soát kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đi ngoài nhiều lần",
+      "description": "Đi ngoài trên 3 lần mỗi ngày, phân lỏng và kèm nước"
+    },
+    {
+      "name": "Đầy bụng, sôi bụng",
+      "description": "Cảm giác trướng và có tiếng sôi trong bụng"
+    },
+    {
+      "name": "Ỉa chảy liên tục",
+      "description": "Ban đầu phân lỏng sau toàn là nước, đi nhiều lần"
+    },
+    {
+      "name": "Buồn nôn, nôn",
+      "description": "Nôn thức ăn, nước trong hoặc màu vàng nhạt"
+    },
+    {
+      "name": "Mệt lả",
+      "description": "Cảm giác mệt mỏi, kiệt sức khi bị tiêu chảy kéo dài"
+    },
+    {
+      "name": "Chuột rút",
+      "description": "Co thắt cơ đột ngột và đau đớn, thường do mất điện giải"
+    },
+    {
+      "name": "Dấu hiệu mất nước",
+      "description": "Khát nước, da nhăn nheo, khô, cơ thể hốc hác, mắt trũng, mạch đập nhanh, hạ huyết áp, tiểu tiện ít"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Cảm giác đau, khó chịu trong bụng kèm theo tiêu chảy"
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng thân nhiệt, thường gặp trong tiêu chảy do nhiễm trùng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Theo Trung tâm kiểm soát và phòng ngừa dịch bệnh Hoa Kỳ, khoảng đến 88% các trường hợp tử vong liên quan đến tiêu chảy là do vệ sinh không đầy đủ, nguồn nước không an toàn, không đủ vệ sinh. Rotavirus là tác nhân hàng đầu dẫn đến ỉa chảy cấp, gây ra khoảng 40% trường hợp nhập viện ở trẻ em dưới 5 tuổi.",
+    "related_factors": "Có 2 nhóm nguyên nhân chính: (1) Nhóm tiêu chảy do nhiễm vi sinh vật (vi trùng, vi rút, ký sinh trùng, vi nấm); (2) Nhóm tiêu chảy KHÔNG do nhiễm trùng (không hấp thụ đường như lactose, ngộ độc thực phẩm, hội chứng ruột kích thích, viêm đại tràng, rối loạn vi sinh đường ruột do dùng kháng sinh).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Những người thường xuyên ăn uống, sinh hoạt gần với bệnh nhân ỉa chảy mà không áp dụng biện pháp phòng ngừa",
+    "Dân cư sống trong khu vực sử dụng nhà tiêu không hợp vệ sinh",
+    "Sử dụng nguồn nước ô nhiễm, không đảm bảo vệ sinh",
+    "Có thói quen ăn uống thiếu vệ sinh, thường xuyên ăn rau sống, thủy hải sản chưa chín kỹ",
+    "Sử dụng phân tươi, phân chưa được xử lý trong trồng trọt",
+    "Dân cư sống tại khu vực bị ngập lụt hoặc sau ngập lụt",
+    "Trẻ em trong độ tuổi mầm non và những năm đầu tiểu học"
+  ],
+  "complications": [
+    "Vùng quanh hậu môn bị hăm loét đỏ do đi ngoài quá nhiều lần",
+    "Suy dinh dưỡng, đặc biệt ở trẻ em dưới 5 tuổi",
+    "Mất nước nghiêm trọng dẫn đến co giật, tổn thương não, tử vong",
+    "Hôn mê",
+    "Trụy mạch",
+    "Suy kiệt"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và lấy bệnh sử chi tiết",
+      "Theo dõi tần suất và đặc điểm phân",
+      "Đánh giá mức độ mất nước"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Công thức máu toàn phần (CBC), yếu tố viêm, điện giải máu, chức năng gan, thận"
+      },
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Xác định ký sinh trùng, vi khuẩn, vi rút, máu vi thể (hồng cầu), bạch cầu và các manh mối khác để chẩn đoán"
+      },
+      {
+        "name": "Nội soi đại tràng",
+        "description": "Quan sát toàn bộ khung đại tràng, một phần ruột non để xác định tổn thương và lấy sinh thiết nếu cần"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Các trường hợp ỉa chảy mức độ nhẹ đều có thể tự khỏi trong một thời gian ngắn mà không cần đến thuốc điều trị. Tuy nhiên, nếu tình trạng kéo dài nhiều ngày, mức độ nặng, tăng dần kèm các triệu chứng nghiêm trọng, người bệnh cần liên hệ sớm với bác sĩ để được kiểm tra và xử lý kịp thời.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Bù nước và chất điện giải",
+        "description": "Dùng dung dịch Oresol (ORS – Oral rehydration salts), một hỗn hợp gồm nước sạch, đường, muối, để bù lượng nước và điện giải đã mất. Trường hợp nặng cần truyền dịch tĩnh mạch"
+      },
+      {
+        "name": "Dùng thuốc kháng sinh",
+        "description": "Chỉ hiệu quả trong tiêu chảy do vi khuẩn hoặc ký sinh trùng, không có tác dụng nếu nguyên nhân là vi rút"
+      },
+      {
+        "name": "Điều trị các bệnh lý gây tiêu chảy",
+        "description": "Điều trị bệnh lý nguyên nhân nếu tiêu chảy là triệu chứng của một bệnh khác"
+      },
+      {
+        "name": "Điều chỉnh toa thuốc",
+        "description": "Giảm liều hoặc đổi loại thuốc khác nếu thuốc kháng sinh là nguyên nhân gây tiêu chảy"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tắm nước ấm hoặc ngâm mình để giảm đau và ngứa ở vùng trực tràng",
+      "Lau khô những khu vực nhạy cảm bằng khăn mềm và sạch",
+      "Người lớn có thể sử dụng thuốc không kê đơn như Bismuth Subsalicylate, Loperamide cho tình trạng nhẹ",
+      "Uống đủ nước, ít nhất 6 cốc nước mỗi ngày",
+      "Có thể uống đồ uống thay thế chất điện giải, soda không chứa caffein, nước luộc gà (không chất béo), trà với mật ong",
+      "Nên uống giữa bữa thay vì trong bữa ăn để đem lại hiệu quả tốt hơn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +119,58 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tăng cường vệ sinh cá nhân, môi trường, không gian sống",
+      "Bảo đảm an toàn vệ sinh thực phẩm, ăn chín, uống sôi",
+      "Đảm bảo sử dụng nguồn nước sạch cho sinh hoạt",
+      "Bảo vệ nguồn nước khỏi ô nhiễm",
+      "Thực hiện các biện pháp xử lý đúng cách khi có người bị ỉa chảy cấp",
+      "Cập nhật kiến thức về sự lây lan của vi khuẩn gây bệnh ỉa chảy",
+      "Rửa tay thường xuyên, đặc biệt trước khi ăn và sau khi đi vệ sinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tiêu chảy có nguy hiểm không?",
+      "answer": "Tiêu chảy có thể nguy hiểm, đặc biệt đối với trẻ em và người già. Theo Trung tâm kiểm soát bệnh tật Hoa Kỳ (CDC), tiêu chảy ở trẻ gây tử vong cao hơn cả sốt rét, sởi và AIDS kết hợp. Nếu không được xử lý đúng cách, cơ thể có nguy cơ đối mặt với các biến chứng nghiêm trọng như hôn mê, trụy mạch, suy kiệt, suy dinh dưỡng, mất nước, thậm chí tử vong."
+    },
+    {
+      "question": "Bao lâu thì tiêu chảy tự khỏi?",
+      "answer": "Hầu hết các trường hợp tiêu chảy cấp đều có khả năng tự khỏi và triệu chứng sẽ cải thiện trong vài ngày. Tiêu chảy cấp tính thường kéo dài khoảng một tuần. Tuy nhiên, nếu tình trạng kéo dài hơn 2 ngày, kèm theo các triệu chứng như sốt cao, mất nước, đi ngoài ra máu, người bệnh nên đến gặp bác sĩ để được chăm sóc và điều trị kịp thời."
+    },
+    {
+      "question": "Khi nào cần đi gặp bác sĩ nếu bị tiêu chảy?",
+      "answer": "Bạn nên đến gặp bác sĩ nếu tiêu chảy kéo dài hơn 2 ngày hoặc khi xuất hiện các dấu hiệu nguy hiểm như: đi ngoài ra máu, phân đen, sốt cao trên 38,3°C hoặc kéo dài hơn 24 giờ, buồn nôn và không thể uống chất lỏng thay thế, đau dữ dội ở bụng, nước tiểu ít và màu đậm, nhịp tim nhanh, da khô hoặc các triệu chứng mất nước khác."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị đi ngoài nhiều lần trong ngày, phân lỏng và toàn nước. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiêu chảy",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đầy bụng, sôi bụng và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiêu chảy", "Rối loạn tiêu hóa", "Viêm dạ dày"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt lả và chuột rút. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiêu chảy", "Mất nước", "Rối loạn điện giải"]
+    },
+    {
+      "question": "Tôi hay bị khát nước, da khô và mắt trũng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiêu chảy", "Mất nước", "Suy thận"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, sốt và đi ngoài ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiêu chảy nhiễm khuẩn",
+        "Viêm đại tràng",
+        "Lỵ trực khuẩn"
+      ]
     }
   ]
 }

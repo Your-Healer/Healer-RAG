@@ -1,39 +1,121 @@
 {
   "disease_id": "san-giat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sản giật",
+  "disease_alternative_names": ["Eclampsia"],
+  "disease_definition": "Sản giật là một biến chứng của tiền sản giật nặng, lúc này thai phụ xuất hiện các cơn co giật nặng hoặc hôn mê sâu không rõ nguyên nhân. Cơn co giật có thể xảy ra trước khi sinh, khi thai kỳ được 20 tuần, trong lúc sinh hoặc sau khi sinh, đặc biệt là đối với những thai phụ từng có dấu hiệu và triệu chứng của tiền sản giật.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Huyết áp tăng cao",
+      "description": "Áp lực máu tăng lên trong mạch máu, thường trên 140/90 mmHg, làm giảm lưu lượng máu qua các mạch máu và gây tổn thương các cơ quan quan trọng"
+    },
+    {
+      "name": "Sưng phù",
+      "description": "Phù nề, đặc biệt là ở mặt, tay và chân do giữ nước trong cơ thể"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Cơn đau đầu dữ dội, dai dẳng không đáp ứng với thuốc giảm đau thông thường"
+    },
+    {
+      "name": "Tăng cân không kiểm soát",
+      "description": "Tăng cân đột ngột, nhanh chóng trong thời gian ngắn không liên quan đến chế độ ăn"
+    },
+    {
+      "name": "Buồn nôn, nôn, ói mửa",
+      "description": "Cảm giác buồn nôn, nôn ói thường xuyên"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau ở vùng bụng, đặc biệt là vùng bụng trên bên phải"
+    },
+    {
+      "name": "Khó khăn trong tiểu tiện",
+      "description": "Gặp khó khăn khi đi tiểu, có thể kèm theo tiểu ra ít"
+    },
+    {
+      "name": "Vấn đề về thị lực",
+      "description": "Gặp các vấn đề về mắt như nhìn mờ, thậm chí mất thị lực tạm thời"
+    },
+    {
+      "name": "Co giật",
+      "description": "Cơn co giật toàn thân, là dấu hiệu đặc trưng của sản giật"
+    },
+    {
+      "name": "Hôn mê sâu",
+      "description": "Mất ý thức trong thời gian dài, không phản ứng với kích thích bên ngoài"
+    },
+    {
+      "name": "Mất dần ý thức",
+      "description": "Ý thức giảm dần, lơ mơ, không tỉnh táo"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tiền sản giật là nguyên nhân hàng đầu dẫn đến sản giật ở thai phụ. Nguyên nhân có thể xuất phát từ sự bất thường trong quá trình hình thành và chức năng của nhau thai, dẫn đến lưu lượng máu truyền đến nhau thai giảm.",
+    "related_factors": "Huyết áp tăng cao gây sưng tấy các mạch máu trong não và thai nhi; Protein niệu do cầu thận bị hư hỏng khiến protein rò rỉ vào nước tiểu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thai phụ bị tiền sản giật hoặc có tiền sử mắc bệnh",
+    "Thai phụ bị tăng huyết áp thai kỳ hoặc mãn tính",
+    "Thai phụ mang thai trên 35 tuổi hoặc dưới 20 tuổi",
+    "Thai phụ mang thai đôi hoặc sinh ba",
+    "Thai phụ mang thai lần đầu",
+    "Thai phụ mắc chứng tiểu đường thai kỳ",
+    "Thai phụ mắc các bệnh lý khác ảnh hưởng đến mạch máu",
+    "Thai phụ mắc bệnh lý thận",
+    "Thai phụ có tiền sử lupus ban đỏ hệ thống (SLE)",
+    "Thai phụ bị béo phì"
+  ],
+  "complications": [
+    "Đột quỵ ở thai phụ",
+    "Tử vong của thai phụ",
+    "Thai nhi kém phát triển",
+    "Sinh non",
+    "Thai chết lưu"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Theo dõi huyết áp", "Đánh giá các triệu chứng lâm sàng"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Bao gồm công thức máu hoàn chỉnh, đo lượng tế bào hồng cầu có trong máu, số lượng tiểu cầu xác định máu đông; kiểm tra chức năng gan và thận"
+      },
+      {
+        "name": "Xét nghiệm creatinine",
+        "description": "Đo lượng creatinine - chất thải được tạo ra bởi quá trình chuyển hóa cơ, nếu cầu thận bị hư hỏng, nguy cơ creatinine dư thừa trong máu rất cao"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra protein niệu và tốc độ bài tiết của thận"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị phụ thuộc vào mức độ nghiêm trọng của tiền sản giật và sự trưởng thành của thai nhi.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bệnh ở thể nhẹ",
+        "description": "Theo dõi tình trạng sức khỏe thai phụ, kết hợp điều trị bằng thuốc nhằm ngăn chặn bệnh tiến triển thành sản giật, giữ thai phụ và thai nhi ở \"khung an toàn\" cho đến khi thai nhi đủ trưởng thành"
+      },
+      {
+        "name": "Chấm dứt thai kỳ",
+        "description": "Khi thai phụ gặp các biến chứng nghiêm trọng, cần chấm dứt thai kỳ để bảo vệ tính mạng thai phụ, dù thai nhi có thể chưa đủ tháng"
+      },
+      {
+        "name": "Thuốc chống co giật",
+        "description": "Sử dụng để ngăn ngừa hoặc điều trị cơn co giật ở thai phụ bị sản giật"
+      },
+      {
+        "name": "Thuốc hạ huyết áp",
+        "description": "Điều trị hạ huyết áp đối với những thai phụ có huyết áp tâm thu > 160mmHg hoặc huyết áp tâm trương > 110mmHg"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thai phụ và gia đình cần trang bị kiến thức, tham khảo ý kiến tư vấn của bác sĩ",
+      "Đưa thai phụ đến ngay cơ sở y tế khi có dấu hiệu bất thường",
+      "Kiểm soát huyết áp tâm thu < 150mmHg và huyết áp tâm trương < 100mmHg",
+      "Theo dõi chặt chẽ trong khoảng 48 giờ sau sinh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +123,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện khám thai định kỳ đầy đủ và đúng lịch, nhất là những cột mốc khám thai quan trọng",
+      "Có chế độ ăn uống khoa học, bổ sung đầy đủ chất dinh dưỡng",
+      "Theo dõi, ghi lại sự thay đổi về huyết áp, cân nặng, nước tiểu hàng ngày",
+      "Thông báo ngay cho bác sĩ khi cơ thể có những triệu chứng bất thường",
+      "Đặc biệt chú ý nếu có tiền sử mắc bệnh lupus ban đỏ hệ thống (SLE), bệnh về thận, béo phì, tiểu đường"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Từng bị tiền sản giật hay sản giật thì có nguy cơ mắc lại không? Phòng tránh như thế nào?",
+      "answer": "Tiền sản giật có thể xảy ra ở những mẹ bầu có tiền sử mắc các bệnh như lupus ban đỏ hệ thống (SLE), bệnh về thận, béo phì, tiểu đường, phụ nữ lớn tuổi,…trong tuần 20 của thai kỳ. Trường hợp thai phụ có tiền sử mắc bệnh từ trước thì nguy cơ tái phát cũng khá cao. Tuy nhiên, thai phụ có thể nhận biết trước các dấu hiệu huyết áp hoặc mức độ protein cao trong nước tiểu ở giai đoạn sớm nếu đi thăm khám định kỳ đều đặn."
+    },
+    {
+      "question": "Sản giật có thể gây ra những biến chứng gì cho mẹ và bé?",
+      "answer": "Sản giật có thể gây ra nhiều biến chứng nguy hiểm cho cả mẹ và bé. Đối với thai phụ, bệnh có thể gây đột quỵ, thậm chí tử vong. Đối với thai nhi, khi huyết áp tăng cao, lưu lượng máu qua các mạch máu giảm, nhau thai không nhận được đủ dưỡng chất để hoạt động bình thường, dẫn đến thai nhi kém phát triển, sinh non và trong trường hợp nghiêm trọng có thể dẫn đến chết lưu."
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm sản giật?",
+      "answer": "Để phát hiện sớm sản giật, thai phụ cần thực hiện khám thai định kỳ đầy đủ và đúng lịch, theo dõi các thay đổi về huyết áp, cân nặng, nước tiểu hàng ngày, và thông báo ngay cho bác sĩ khi có những triệu chứng bất thường như đau đầu dữ dội, sưng phù ở mặt và tay chân, thị lực bị ảnh hưởng, đau vùng bụng trên bên phải. Bác sĩ có thể chỉ định các xét nghiệm cần thiết như xét nghiệm máu, creatinine và nước tiểu để đánh giá nguy cơ."
+    },
+    {
+      "question": "Các dấu hiệu cảnh báo nào cần đến bệnh viện ngay?",
+      "answer": "Thai phụ cần đến bệnh viện ngay khi có các dấu hiệu cảnh báo sau: đau đầu dữ dội dai dẳng, vấn đề về thị lực như nhìn mờ hoặc mất thị lực, đau bụng trên bên phải, nôn mửa dữ dội, khó thở, co giật, hôn mê hoặc mất ý thức. Những triệu chứng này có thể là dấu hiệu của sản giật và cần được xử trí y tế khẩn cấp."
+    },
+    {
+      "question": "Sản giật có thể điều trị khỏi hoàn toàn không?",
+      "answer": "Sản giật là một tình trạng nghiêm trọng nhưng có thể kiểm soát được với sự can thiệp y tế kịp thời. Sau khi thai nhi chào đời và nhau thai được lấy ra, các triệu chứng của sản giật thường sẽ cải thiện đáng kể. Tuy nhiên, thai phụ vẫn cần được theo dõi chặt chẽ trong 48 giờ sau sinh vì đây là thời điểm nguy cơ xuất hiện cơn co giật cao nhất. Với sự chăm sóc y tế thích hợp, hầu hết phụ nữ đều hồi phục hoàn toàn sau sản giật."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như huyết áp tăng cao và sưng phù ở mặt, tay, chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-giat", "tien-san-giat", "tang-huyet-ap-thai-ky"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu và tăng cân không kiểm soát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-giat", "tien-san-giat"]
+    },
+    {
+      "question": "Tôi hay buồn nôn, nôn, ói mửa và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-giat", "tien-san-giat", "on-nghén"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó khăn trong tiểu tiện và các vấn đề ở thị lực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-giat", "tien-san-giat", "benh-ly-than"]
+    },
+    {
+      "question": "Tôi đang cảm thấy co giật và hôn mê sâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-giat", "hoi-chung-hellp", "dong-kinh"]
     }
   ]
 }

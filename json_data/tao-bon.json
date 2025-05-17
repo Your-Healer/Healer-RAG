@@ -1,39 +1,146 @@
 {
   "disease_id": "tao-bon",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Táo bón",
+  "disease_alternative_names": ["Bệnh táo bón", "Constipation"],
+  "disease_definition": "Táo bón là một dạng rối loạn đường tiêu hóa, dẫn đến tình trạng đi phân không đều, phân khó đi kèm với cảm giác đau và cứng. Táo bón cấp tính có thể gây tắc ruột, thậm chí có thể phải phẫu thuật. Thông thường ở người lớn, là việc không đi đại tiện quá 3 ngày; ở trẻ em, một tuần không thể đi đại tiện 3 lần thì được coi là táo bón.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đại tiện khó",
+      "description": "Gặp khó khăn khi đại tiện, phải rặn nhiều, phân cứng, tỏn mỏn"
+    },
+    {
+      "name": "Chướng bụng",
+      "description": "Cảm giác đầy hơi, bụng căng phồng, khó chịu"
+    },
+    {
+      "name": "Rặn nhiều",
+      "description": "Phải gắng sức nhiều khi đi vệ sinh, mà vẫn cảm thấy không hết phân"
+    },
+    {
+      "name": "Phân cứng",
+      "description": "Phân rắn, khô và khó đẩy ra ngoài"
+    },
+    {
+      "name": "Phân có lẫn máu",
+      "description": "Xuất huyết hậu môn khi đại tiện do rặn quá mức"
+    },
+    {
+      "name": "Đau khi đại tiện",
+      "description": "Cảm giác đau rát ở hậu môn khi đi vệ sinh"
+    },
+    {
+      "name": "Quấy khóc, lười ăn/bú ở trẻ em",
+      "description": "Trẻ trở nên cáu gắt, từ chối ăn/bú do cảm thấy khó chịu"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Cảm giác đau hoặc khó chịu ở vùng bụng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Táo bón được chia thành 2 nhóm chính: táo bón nguyên phát (nhu động bình thường, nhu động chậm, rối loạn chức năng sàn chậu) và táo bón thứ phát (do chế độ ăn uống, sinh hoạt, bệnh lý, thuốc).",
+    "related_factors": "Táo bón nguyên phát thường do rối loạn cơ chế tống phân, nhu động ruột hoạt động kém hoặc rối loạn chức năng sàn chậu. Táo bón thứ phát thường do chế độ ăn ít chất xơ, ít nước, lười vận động, các bệnh lý như nứt hậu môn, trĩ, bệnh thần kinh, nội tiết, tuyến giáp, mang thai hoặc dùng một số loại thuốc như thuốc chống trầm cảm, thuốc kháng cholinergic, thuốc kháng axit, thuốc lợi tiểu, thuốc chống viêm không steroid.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người trên 60 tuổi",
+    "Phụ nữ (tỷ lệ mắc cao gấp 3 lần nam giới)",
+    "Phụ nữ mang thai",
+    "Trẻ sơ sinh và trẻ nhỏ",
+    "Chế độ ăn ít chất xơ, dư thừa chất béo",
+    "Uống không đủ nước",
+    "Lười vận động",
+    "Thường xuyên trì hoãn việc đại tiện",
+    "Uống sữa bột (ở trẻ em)",
+    "Mắc bệnh lý như nứt hậu môn, tắc nghẽn ống tiêu hóa, trĩ",
+    "Bệnh thần kinh (đột quỵ, Parkinson, chấn thương đầu, tủy sống)",
+    "Rối loạn tâm lý (trầm cảm, lo âu)",
+    "Rối loạn nội tiết, bệnh tuyến giáp",
+    "Sử dụng một số loại thuốc"
+  ],
+  "complications": [
+    "Sưng tĩnh mạch ở hậu môn (bệnh trĩ)",
+    "Rách da ở hậu môn (nứt hậu môn)",
+    "Phân không thể tống ra ngoài được (phân áp lực)",
+    "Ruột lòi ra khỏi hậu môn (sa trực tràng)",
+    "Ảnh hưởng đến việc hấp thu dinh dưỡng",
+    "Thiếu hụt dinh dưỡng, chậm tăng cân ở trẻ em",
+    "Chậm phát triển chiều cao và trí não ở trẻ em",
+    "Ảnh hưởng đến tâm lý"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán lâm sàng dựa trên triệu chứng",
+      "Đánh giá tần suất, đặc điểm phân và tiền sử bệnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Tìm kiếm dấu hiệu của bệnh suy giáp, thiếu máu và tiểu đường"
+      },
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Kiểm tra các dấu hiệu nhiễm trùng, viêm và ung thư"
+      },
+      {
+        "name": "Chụp CT, MRI",
+        "description": "Kiểm tra hình ảnh của đường tiêu hóa để xác định các vấn đề gây táo bón"
+      },
+      {
+        "name": "Nội soi đại tràng",
+        "description": "Phát hiện các vấn đề ở ruột kết, chẳng hạn như khối u"
+      },
+      {
+        "name": "Đo áp lực hậu môn trực tràng",
+        "description": "Theo dõi thời gian và cách di chuyển của chất phóng xạ qua ruột"
+      },
+      {
+        "name": "Chụp X-quang (chụp đại tiện)",
+        "description": "Đánh giá việc giữ và thải phân"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị táo bón dựa trên nguyên nhân gây bệnh. Hầu hết các trường hợp có thể cải thiện bằng thay đổi chế độ ăn uống, sinh hoạt và sử dụng thuốc nhuận tràng khi cần thiết.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều chỉnh chế độ ăn uống",
+        "description": "Uống đủ 2 lít nước mỗi ngày, tăng cường chất xơ trong chế độ ăn (rau xanh, trái cây, ngũ cốc nguyên cám), ăn thức ăn lỏng như cháo, súp"
+      },
+      {
+        "name": "Tăng cường vận động",
+        "description": "Tập thể dục ít nhất 30 phút mỗi ngày để thúc đẩy nhu động ruột"
+      },
+      {
+        "name": "Thuốc nhuận tràng",
+        "description": "Sử dụng thuốc theo kê đơn của bác sĩ, đặc biệt thận trọng với trẻ nhỏ, phụ nữ mang thai và phụ nữ cho con bú"
+      },
+      {
+        "name": "Thụt hậu môn",
+        "description": "Áp dụng khi việc đại tiện không thể thực hiện được, cần tuân thủ hướng dẫn để tránh tổn thương"
+      },
+      {
+        "name": "Tập vật lý trị liệu",
+        "description": "Phục hồi các cung phản xạ đại tiện, hướng dẫn các bài tập đại tiện, phản hồi sinh học Valsalva-Kegel"
+      },
+      {
+        "name": "Điện giao thoa - Kích điện hậu môn",
+        "description": "Kích thích điện ở vùng hậu môn để cải thiện chức năng"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Chỉ định trong một số trường hợp như ung thư đại trực tràng hoặc bệnh trĩ mãn tính"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tạo thói quen đi đại tiện vào một khung giờ nhất định mỗi ngày",
+      "Không trì hoãn việc đại tiện khi có nhu cầu",
+      "Không ngồi bồn cầu quá lâu, không rặn quá mức",
+      "Tránh ăn các thực phẩm giàu chất béo động vật, đồ ăn công nghiệp",
+      "Hạn chế nước ngọt đóng chai, bia, rượu, thuốc lá",
+      "Tránh căng thẳng, stress",
+      "Đối với trẻ uống sữa bột, có thể cân nhắc đổi loại sữa nếu gây táo bón"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +148,76 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ ăn giàu chất xơ (rau xanh, trái cây, ngũ cốc nguyên cám)",
+      "Uống đủ 2 lít nước mỗi ngày",
+      "Vận động thường xuyên, ít nhất 3 giờ/tuần",
+      "Tránh căng thẳng, stress",
+      "Không ngồi bồn cầu quá lâu, không rặn khi đại tiện",
+      "Tập thói quen đi đại tiện vào một khung giờ hàng ngày",
+      "Hạn chế thực phẩm không lành mạnh như thực phẩm giàu chất béo, đồ ăn công nghiệp",
+      "Không uống nước ngọt đóng chai, bia, rượu",
+      "Khám sức khỏe định kỳ để phát hiện và điều trị sớm các bệnh lý liên quan"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bị táo bón trong kỳ kinh nguyệt có bình thường không?",
+      "answer": "Chu kỳ kinh nguyệt có thể gây ra một số tác dụng phụ khác nhau ở mỗi người. Ngoài chuột rút và đầy hơi, táo bón cũng có thể xuất hiện trong thời kỳ kinh nguyệt. Táo bón có thể tự biến mất sau khi kỳ kinh nguyệt kết thúc."
+    },
+    {
+      "question": "Vì sao bà bầu bị táo bón?",
+      "answer": "Mang thai là thời kỳ nội tiết tố trong cơ thể phụ nữ thay đổi mạnh mẽ. Một số loại hormone thai kỳ có thể khiến nhu động ruột hoạt động kém và gây ra táo bón. Ngoài ra, việc thay đổi thói quen ăn uống khi mang thai như ăn quá nhiều chất đạm, uống viên bổ sung sắt, canxi cũng dễ gây táo bón."
+    },
+    {
+      "question": "Thức ăn hoặc đồ uống nào dễ gây táo bón?",
+      "answer": "Các thực phẩm giàu đạm, đường, trái cây xanh, chát, cà phê, rượu, bia, sữa bột... đều dễ gây táo bón."
+    },
+    {
+      "question": "Có nên ngừng cho trẻ uống sữa bột khi bé bị táo bón không?",
+      "answer": "Có rất nhiều nguyên nhân khiến trẻ bị táo bón, trong số đó có nguyên nhân phổ biến từ sữa bột. Nếu trẻ bị táo bón không rõ nguyên nhân, các bà mẹ có thể tạm ngưng cho trẻ uống sữa bột để xác định xem, sữa bột có phải là thủ phạm gây táo bón cho bé hay không. Nếu sau khi đã tạm ngưng sữa một tuần mà tình trạng táo bón không cải thiện, thì không phải do sữa mà là do các nguyên nhân khác."
+    },
+    {
+      "question": "Táo bón có ảnh hưởng đến sự phát triển trí não của trẻ không?",
+      "answer": "Khoa học đã chứng minh, trục não ruột có mối liên hệ mật thiết với nhau. Thậm chí, hệ tiêu hóa còn được coi là bộ não thứ 2 của con người. Nếu hệ tiêu hóa không khỏe mạnh, sẽ làm hạn chế sự hấp thu dinh dưỡng của trẻ, đồng thời khiến miễn dịch suy yếu... Tất cả đều ảnh hưởng đến sự phát triển trí não của trẻ. Trong khi đó, táo bón là nguyên nhân phổ biến hàng đầu gây hại cho hệ tiêu hóa của trẻ sơ sinh và trẻ nhỏ."
+    },
+    {
+      "question": "Vì sao người trên 60 tuổi lại dễ bị táo bón hơn?",
+      "answer": "Điều này là do sự lão hóa của hệ tiêu hóa theo tuổi tác. Khi tuổi cao, nhu động ruột hoạt động kém hơn dẫn đến tình trạng táo bón ở người già."
+    },
+    {
+      "question": "Bệnh trĩ gây ra táo bón, hay táo bón gây ra bệnh trĩ?",
+      "answer": "Táo bón và bệnh trĩ là hai tình trạng có mối quan hệ nguyên nhân - hệ quả hai chiều với nhau. Nếu bị táo bón lâu ngày không được điều trị sẽ gây ra bệnh trĩ, do áp lực ở hậu môn trực tràng gia tăng. Nếu bị bệnh trĩ lâu ngày cũng gây ra táo bón, do bệnh trĩ gây đau, rát hậu môn khiến người bệnh ngại đại tiện."
+    },
+    {
+      "question": "Khi nào cần đến bệnh viện khi bị táo bón?",
+      "answer": "Cần đến bệnh viện ngay nếu táo bón kèm theo co thắt và đau bụng dữ dội; táo bón kéo dài 2 tuần không khỏi mặc dù đã áp dụng nhiều biện pháp chữa trị khác nhau tại nhà; trẻ sơ sinh và trẻ nhỏ quấy khóc nhiều, bỏ bú, sụt cân nhanh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó đi đại tiện, phân cứng và đau rát hậu môn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Táo bón", "Bệnh trĩ", "Nứt hậu môn"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chướng bụng, đầy hơi và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Táo bón",
+        "Hội chứng ruột kích thích",
+        "Rối loạn tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị táo bón và phân có lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Táo bón", "Bệnh trĩ", "Nứt hậu môn"]
+    },
+    {
+      "question": "Tôi ăn ít rau xanh, trái cây và uống ít nước. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Táo bón", "Thiếu chất xơ", "Rối loạn tiêu hóa"]
+    },
+    {
+      "question": "Tôi lười vận động và thường xuyên nhịn đi đại tiện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Táo bón", "Bệnh trĩ", "Rối loạn tiêu hóa"]
     }
   ]
 }

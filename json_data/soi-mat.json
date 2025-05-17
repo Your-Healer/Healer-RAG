@@ -1,39 +1,133 @@
 {
   "disease_id": "soi-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sỏi mật",
+  "disease_alternative_names": ["Gallstones", "Sỏi túi mật", "Sỏi đường mật"],
+  "disease_definition": "Sỏi mật là những viên sỏi được hình thành trong túi mật hoặc ống mật, có kích thước từ hạt cát cho đến quả bóng bàn. Đây là bệnh lý lành tính nhưng nếu không được phát hiện và điều trị kịp thời, sỏi mật sẽ gây ra tình trạng tắc mật (có thể tắc ở túi mật hoặc hệ thống đường mật trong và ngoài gan), dẫn đến nhiều biến chứng nguy hiểm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đột ngột ở bên phải",
+      "description": "Cơn đau đến đột ngột, thường xuất hiện ở bên phải, ngay dưới xương sườn khi túi mật bị viêm"
+    },
+    {
+      "name": "Đau ở giữa hai bả vai hoặc ở vai phải",
+      "description": "Cơn đau có thể lan sang vùng giữa hai bả vai hoặc vai phải, đặc biệt sau khi ăn nhiều đồ dầu mỡ"
+    },
+    {
+      "name": "Buồn nôn và nôn mửa",
+      "description": "Cảm giác buồn nôn và nôn mửa thường xuất hiện kèm với cơn đau quặn bụng"
+    },
+    {
+      "name": "Bồn chồn và đổ mồ hôi",
+      "description": "Cảm giác bồn chồn không yên và đổ mồ hôi nhiều khi đang lên cơn đau"
+    },
+    {
+      "name": "Mệt mỏi, sốt và rét run",
+      "description": "Mệt mỏi, sốt trên 38 độ kèm cảm giác rét run khi có viêm nhiễm"
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Các triệu chứng như đầy bụng, khó tiêu, chán ăn sau bữa ăn nhiều dầu mỡ"
+    },
+    {
+      "name": "Vàng da và ngứa",
+      "description": "Da và mắt có màu vàng, kèm theo cảm giác ngứa trên da khi sỏi gây tắc mật"
+    },
+    {
+      "name": "Phân có màu nhạt",
+      "description": "Phân có màu trắng hoặc nhạt bất thường do thiếu sắc tố mật"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sỏi mật hình thành khi mật được lưu trữ trong túi mật bị cứng lại thành các mảnh vật chất rắn. Quá trình này yêu cầu ba điều kiện: mật phải bão hòa với cholesterol, quá trình tạo mầm tinh thể cholesterol tăng tốc, và sự giảm vận động của túi mật.",
+    "related_factors": "Lối sống (ít vận động, béo phì, chế độ ăn nhiều chất béo, cholesterol, ít chất xơ, giảm cân nhanh), yếu tố không thể thay đổi (nữ giới, mang thai, tiền sử gia đình có sỏi mật, tuổi từ 60), và sử dụng thuốc (thuốc hạ cholesterol máu, thuốc có nồng độ estrogen cao).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người ít vận động",
+    "Béo phì",
+    "Chế độ ăn nhiều chất béo, cholesterol và ít chất xơ",
+    "Giảm cân nhanh trong một thời gian ngắn",
+    "Đái tháo đường",
+    "Nữ giới",
+    "Người mang thai",
+    "Người có tiền căn gia đình có sỏi mật",
+    "Tuổi từ 60 trở lên",
+    "Sử dụng thuốc hạ cholesterol máu",
+    "Sử dụng thuốc có nồng độ estrogen cao"
+  ],
+  "complications": [
+    "Viêm túi mật",
+    "Tắc nghẽn ống mật",
+    "Vàng da",
+    "Nhiễm trùng huyết",
+    "Thấm mật phúc mạc và viêm phúc mạc mật",
+    "Chảy máu đường mật",
+    "Viêm tụy cấp do sỏi",
+    "Viêm mủ đường mật và áp xe gan mật",
+    "Sốc nhiễm khuẩn đường mật",
+    "Viêm túi mật hoại tử"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Ghi nhận triệu chứng đau, nôn, sốt, vàng da"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra các dấu hiệu nhiễm trùng hoặc tắc nghẽn và loại trừ các tình trạng khác"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Giúp bác sĩ quan sát các hình ảnh bên trong cơ thể người bệnh để phát hiện sỏi mật"
+      },
+      {
+        "name": "Chụp CT scan",
+        "description": "Cho phép bác sĩ nhìn thấy túi mật và hệ thống đường mật trong/ngoài gan để phát hiện sỏi"
+      },
+      {
+        "name": "Chụp cộng hưởng từ mật tụy (MRCP)",
+        "description": "Tạo ra hình ảnh chi tiết của gan, túi mật, đường mật và tuyến tụy để phát hiện sỏi"
+      },
+      {
+        "name": "Cholescintigraphy (quét HIDA)",
+        "description": "Kiểm tra xem túi mật co bóp có chính xác hay không bằng cách tiêm một chất phóng xạ vô hại"
+      },
+      {
+        "name": "Nội soi mật tụy ngược dòng (ERCP)",
+        "description": "Bác sĩ luồn một ống nội soi có gắn camera qua miệng xuống đoạn đầu của ruột non và vào ống mật chủ để phát hiện và lấy sỏi"
+      },
+      {
+        "name": "Siêu âm nội soi",
+        "description": "Kết hợp siêu âm và nội soi để tìm sỏi mật, đặc biệt hữu ích cho các trường hợp khó phát hiện"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Sỏi mật được điều trị nếu chúng đã gây ra viêm túi mật, tắc nghẽn đường mật hoặc nếu sỏi đã di chuyển từ đường mật vào ruột.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cắt túi mật",
+        "description": "Có thể thực hiện bằng phương pháp mổ mở hoặc nội soi. Sau phẫu thuật cắt túi mật, sỏi mật vẫn có thể tái phát trong vòng một năm."
+      },
+      {
+        "name": "Nội soi mật tụy ngược dòng (ERCP)",
+        "description": "Bác sĩ dùng một camera sợi quang linh hoạt đi vào miệng, qua hệ thống tiêu hóa và vào ống mật chủ để lấy sỏi kẹt ở đoạn cuối của ống mật chủ."
+      },
+      {
+        "name": "Tán sỏi",
+        "description": "Dùng sóng xung kích siêu âm nhằm vào sỏi mật để làm vỡ chúng. Chỉ áp dụng đối với người bệnh có ít sỏi mật."
+      },
+      {
+        "name": "Điều trị dự phòng tái phát sỏi",
+        "description": "Sử dụng axit ursodeoxycholic để hạn chế việc hình thành sỏi sau khi đã điều trị."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Có thể chườm nóng để giảm cơn đau sỏi mật",
+      "Dùng thuốc giảm đau theo chỉ định của bác sĩ",
+      "Tránh ăn các thực phẩm giàu chất béo khi đang có cơn đau",
+      "Điều trị dứt điểm trước khi mang thai nếu đang có kế hoạch có con",
+      "Tuân thủ chế độ ăn uống theo hướng dẫn của bác sĩ",
+      "Tái khám theo lịch để theo dõi tình trạng sau điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +135,58 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ ăn uống lành mạnh, bao gồm nhiều chất xơ từ rau xanh, trái cây và ngũ cốc",
+      "Bổ sung chất béo tốt từ nguồn thực phẩm tốt như dầu cá và dầu ô liu",
+      "Tránh ăn tinh bột, đường và chất béo không lành mạnh",
+      "Tập thể dục thường xuyên ít nhất 30 phút/ngày, 5 ngày/tuần",
+      "Không áp dụng các biện pháp nhịn ăn và giảm cân nhanh",
+      "Tránh thực phẩm giàu chất béo bão hòa như bơ, pho mát cứng, bánh ngọt và bánh quy",
+      "Đi khám sức khỏe định kỳ để tầm soát bệnh tật và phát hiện sỏi mật sớm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bị sỏi mật có nên mang thai không?",
+      "answer": "Khi mang thai, do sự tăng cao của hormone estrogen và progesterone khiến cho việc tiết mật bị chậm lại. Điều này làm tăng nguy cơ mắc bệnh sỏi mật ở bà bầu. Do đó, nếu đang bị sỏi mật, nên điều trị bệnh dứt điểm rồi mới nên mang thai nhằm tránh cho bệnh càng nặng hơn trong thai kỳ."
+    },
+    {
+      "question": "Đau sỏi mật nên làm gì?",
+      "answer": "Có thể chườm nóng để giảm cơn đau sỏi mật, hoặc dùng thuốc giảm đau theo chỉ định của bác sĩ. Nếu cơn đau kéo dài hoặc kèm theo sốt, nôn mửa, vàng da thì cần đến ngay cơ sở y tế để được kiểm tra và điều trị kịp thời."
+    },
+    {
+      "question": "Sỏi mật có nguy hiểm không?",
+      "answer": "Sỏi mật là một bệnh lý lành tính, nhưng nếu không được phát hiện và điều trị kịp thời có thể gây ra nhiều biến chứng nguy hiểm như viêm túi mật, tắc nghẽn ống mật, vàng da, nhiễm trùng huyết, viêm tụy cấp do sỏi, viêm mủ đường mật và áp xe gan mật, sốc nhiễm khuẩn. Các tình trạng này cần được điều trị ngay, nếu không hậu quả có thể dẫn đến tử vong."
+    },
+    {
+      "question": "Có những loại sỏi mật nào?",
+      "answer": "Có hai loại sỏi mật chính: 1) Sỏi cholesterol chiếm 80% các loại sỏi mật, thường liên quan đến tình trạng tắc nghẽn và viêm nhiễm, có màu xanh vàng và chủ yếu được tạo thành từ cholesterol cứng; 2) Sỏi sắc tố gồm sỏi đen (từ canxi bilirubinate) và sỏi nâu (từ muối canxi của bilirubin không liên hợp với một lượng nhỏ cholesterol và protein)."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa sỏi mật?",
+      "answer": "Để ngăn ngừa sỏi mật, nên có một chế độ ăn uống lành mạnh, bao gồm nhiều chất xơ từ rau xanh, trái cây và ngũ cốc; bổ sung chất béo tốt từ dầu cá và dầu ô liu; tránh ăn tinh bột, đường và chất béo không lành mạnh; tập thể dục thường xuyên ít nhất 30 phút/ngày, 5 ngày/tuần; không áp dụng các biện pháp nhịn ăn và giảm cân nhanh; tránh thực phẩm giàu chất béo bão hòa. Ngoài ra, nên đi khám sức khỏe định kỳ để tầm soát bệnh tật và phát hiện sỏi mật sớm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đột ngột ở bên phải, ngay dưới xương sườn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-mat", "viem-tui-mat", "viem-gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy buồn nôn và nôn mửa, kèm đau bụng bên phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-mat", "viem-tui-mat", "viem-ruot-thua"]
+    },
+    {
+      "question": "Tôi hay bị đau giữa hai bả vai và đau ở vai phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-mat", "viem-tui-mat"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng sau khi ăn đồ nhiều dầu mỡ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-mat", "viem-tui-mat", "viem-da-day"]
+    },
+    {
+      "question": "Tôi hay bị vàng da và ngứa, kèm theo phân có màu nhạt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-mat", "viem-gan", "xo-gan"]
     }
   ]
 }

@@ -1,39 +1,112 @@
 {
   "disease_id": "suy-gian-tinh-mach-chi-duoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy giãn tĩnh mạch chi dưới",
+  "disease_alternative_names": ["Giãn tĩnh mạch chân", "Varicose veins"],
+  "disease_definition": "Suy giãn tĩnh mạch chi dưới hay còn gọi giãn tĩnh mạch chân là tình trạng máu ở hệ thống tĩnh mạch bị ứ lại ở chân, không đi lên tĩnh mạch chủ để trở về tim như bình thường. Tình trạng này làm tăng áp lực thủy tĩnh trong lòng tĩnh mạch khiến tĩnh mạch giãn ra.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm giác nặng chân, nhức mỏi",
+      "description": "Người bệnh có cảm giác nặng nề ở chân, chân dễ mỏi, nhất là khi đứng lâu, khiến giày dép có thể chật hơn bình thường"
+    },
+    {
+      "name": "Phù chân",
+      "description": "Phù ở mắt cá và bàn chân, xuất hiện nhiều vào buổi chiều sau khi đứng lâu hoặc ngồi nhiều"
+    },
+    {
+      "name": "Tê dị cảm, kiến bò",
+      "description": "Cảm giác như bị kim châm hay kiến bò vùng cẳng chân làm người bệnh khó chịu"
+    },
+    {
+      "name": "Chuột rút về ban đêm",
+      "description": "Người bệnh thường bị chuột rút ở cẳng chân, đặc biệt vào ban đêm"
+    },
+    {
+      "name": "Tĩnh mạch nổi trên da",
+      "description": "Có thể thấy mạch máu nhỏ li ti trên bề mặt da như mạng nhện (spider vein) hay lớn hơn và sâu hơn như dạng lưới ở lớp dưới da"
+    },
+    {
+      "name": "Thay đổi màu sắc da",
+      "description": "Vùng cẳng chân xuất hiện thay đổi màu sắc da, biểu hiện của loạn dưỡng do máu tĩnh mạch ứ lâu ngày"
+    },
+    {
+      "name": "Đau tức chân",
+      "description": "Các tĩnh mạch căng giãn gây cảm giác đau tức chân, không giảm khi nghỉ ngơi"
+    },
+    {
+      "name": "Loét chân",
+      "description": "Ở giai đoạn nặng, có thể xuất hiện các vết loét ở chân do thiểu dưỡng, khó lành"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ở cơ chế bình thường, dòng máu tĩnh mạch từ chân trở về tim được duy trì theo một chiều từ dưới đi lên nhờ hệ thống van tĩnh mạch. Khi các tác động làm ảnh hưởng đến cơ chế này, van một chiều không còn giữ được chức năng, khiến thành tĩnh mạch giãn ra và tạo dòng máu trào ngược.",
+    "related_factors": "Giữ tư thế đứng lâu, chèn ép tĩnh mạch vùng chậu, ít vận động cơ cẳng chân, ảnh hưởng của nội tiết tố nữ, thai nghén, béo phì và làm việc mang vác nặng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ (tỷ lệ mắc cao gấp 3 lần nam giới)",
+    "Nghề nghiệp phải đứng lâu (bán hàng, thợ dệt, may, chế biến thủy/hải sản, giáo viên...)",
+    "Béo phì",
+    "Ít vận động",
+    "Công việc mang vác nặng",
+    "Mang thai",
+    "Tuổi tác (tỷ lệ cao ở người trưởng thành và người đã nghỉ hưu)"
+  ],
+  "complications": [
+    "Viêm tĩnh mạch nông, huyết khối",
+    "Loét chân không lành",
+    "Chảy máu",
+    "Chàm da",
+    "Biến đổi cấu trúc da và mô dưới da",
+    "Nhiễm trùng vùng loét"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng qua khai thác yếu tố nguy cơ và các triệu chứng",
+      "Quan sát tĩnh mạch giãn ra và căng nhanh khi chuyển từ tư thế nằm sang đứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm Doppler mạch máu",
+        "description": "Xác định chẩn đoán khi ghi nhận dòng trào ngược qua van tĩnh mạch với thời gian kéo dài >0.5 giây ở tĩnh mạch hiển và tĩnh mạch sâu ở cẳng chân hoặc >0.1 giây ở tĩnh mạch đùi khoeo"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị suy giãn tĩnh mạch chi dưới cần được cá thể hóa, tùy thuộc vào giai đoạn và mức độ nặng của bệnh, từ điều trị nội khoa đến can thiệp phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc làm tăng độ vững bền thành tĩnh mạch như daflon, ginko biloba, rutin C giúp cải thiện triệu chứng và làm chậm quá trình tiến triển bệnh"
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Sử dụng túi hơi tạo lực ép ngắt quãng theo tầng, kết hợp tập vận động cơ cẳng chân giúp tạo lưu thông tĩnh mạch tốt hơn"
+      },
+      {
+        "name": "Phẫu thuật Stripping",
+        "description": "Lột bỏ các tĩnh mạch nông bị giãn bằng dụng cụ chuyên dụng luồn trong lòng mạch, là phương pháp điều trị triệt để với tỷ lệ tái phát thấp"
+      },
+      {
+        "name": "Phẫu thuật CHIVA",
+        "description": "Phẫu thuật nhỏ với gây tê tại chỗ, chỉ cắt bỏ van bị tổn thương và lấy bỏ tĩnh mạch bàng hệ, bảo tồn tĩnh mạch hiển"
+      },
+      {
+        "name": "Laser nội mạch",
+        "description": "Luồn dây dẫn năng lượng laser vào trong lòng tĩnh mạch bị suy giãn, tạo phản ứng làm xơ nội mạc, thu nhỏ thành mạch và teo dính lòng tĩnh mạch"
+      },
+      {
+        "name": "Sóng cao tần RFA nội mạch",
+        "description": "Tương tự laser, sử dụng sóng cao tần (Radio Frequency) để tạo nhiệt làm xơ nội mạc và teo dính lòng tĩnh mạch"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Băng thun hoặc vớ (tất) tĩnh mạch sau phẫu thuật, thủ thuật",
+      "Tiếp tục sử dụng vớ tĩnh mạch 10 ngày đến 2 tuần sau phẫu thuật để tránh phù chân",
+      "Tái khám, kiểm tra siêu âm sau 1 tháng, 6 tháng và mỗi 1-2 năm",
+      "Tránh ngồi, đứng lâu tại chỗ",
+      "Tập vận động cơ cẳng chân",
+      "Mang vớ (tất) áp lực"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +114,66 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh đứng hoặc ngồi lâu tại chỗ",
+      "Thực hiện các bài tập suy giãn tĩnh mạch",
+      "Để chân cao khi ngồi hay nằm nghỉ",
+      "Tập hít thở chủ động",
+      "Chế độ ăn có nhiều chất xơ, tránh táo bón",
+      "Kiểm soát cân nặng, tránh béo phì",
+      "Mang vớ (tất) áp lực chuyên dụng để tạo lực ép giảm dần từ dưới lên, giúp đẩy máu từ bàn chân về tim"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy giãn tĩnh mạch chi dưới là gì?",
+      "answer": "Suy giãn tĩnh mạch chi dưới hay còn gọi giãn tĩnh mạch chân là tình trạng máu ở hệ thống tĩnh mạch bị ứ lại ở chân, không đi lên tĩnh mạch chủ để trở về tim như bình thường. Tình trạng này làm tăng áp lực thủy tĩnh trong lòng tĩnh mạch khiến tĩnh mạch giãn ra. Nếu không được can thiệp kịp thời, bệnh có thể gây các biến chứng như chàm da, loét chân không lành."
+    },
+    {
+      "question": "Triệu chứng của suy giãn tĩnh mạch chân?",
+      "answer": "Các triệu chứng thường gặp bao gồm: cảm giác nặng chân, nhức mỏi; phù chân khi đứng lâu; tê dị cảm, kiến bò ở vùng cẳng chân; chuột rút về ban đêm; tĩnh mạch nổi trên da; thay đổi màu sắc da ở cẳng chân; đau tức chân; và ở giai đoạn nặng có thể xuất hiện loét chân không lành."
+    },
+    {
+      "question": "Nguyên nhân gây suy giãn tĩnh mạch chi dưới?",
+      "answer": "Nguyên nhân chính là do van tĩnh mạch không hoạt động hiệu quả, gây trào ngược máu từ trên xuống dưới. Các yếu tố liên quan bao gồm: giữ tư thế đứng lâu, chèn ép tĩnh mạch vùng chậu, ít vận động cơ cẳng chân, ảnh hưởng của nội tiết tố nữ, thai nghén, béo phì và làm việc mang vác nặng."
+    },
+    {
+      "question": "Ai có nguy cơ mắc bệnh suy giãn tĩnh mạch chi dưới?",
+      "answer": "Người có nguy cơ cao mắc bệnh bao gồm: phụ nữ (tỷ lệ mắc cao gấp 3 lần nam giới); người làm nghề phải đứng lâu như bán hàng, thợ dệt, may, chế biến thủy/hải sản, giáo viên; người béo phì; người ít vận động; người làm công việc mang vác nặng; phụ nữ mang thai; và người cao tuổi."
+    },
+    {
+      "question": "Các phương pháp điều trị suy giãn tĩnh mạch hiện nay?",
+      "answer": "Các phương pháp điều trị bao gồm: Điều trị nội khoa bằng thuốc làm tăng độ vững bền thành tĩnh mạch; Vật lý trị liệu với túi hơi tạo lực ép; Phẫu thuật Stripping (lột bỏ tĩnh mạch nông); Phẫu thuật CHIVA (cắt bỏ van tổn thương); Laser nội mạch và Sóng cao tần RFA nội mạch (tạo phản ứng xơ hóa nội mạc). Lựa chọn phương pháp điều trị tùy thuộc vào giai đoạn và mức độ nặng của bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang cảm thấy nặng chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gian-tinh-mach-chi-duoi", "suy-tim", "suy-than"]
+    },
+    {
+      "question": "Tôi hay bị nổi gân xanh ở chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gian-tinh-mach-chi-duoi", "suy-van-tinh-mach"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như phù chân về chiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-gian-tinh-mach-chi-duoi", "suy-tim", "suy-than"]
+    },
+    {
+      "question": "Tôi hay bị chuột rút về đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-gian-tinh-mach-chi-duoi",
+        "thieu-canxi",
+        "thieu-kali"
+      ]
+    },
+    {
+      "question": "Tôi hay bị vết loét ở chân lâu lành. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-gian-tinh-mach-chi-duoi",
+        "dai-thao-duong",
+        "suy-tinh-mach-man-tinh"
+      ]
     }
   ]
 }

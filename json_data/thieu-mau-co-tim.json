@@ -1,39 +1,149 @@
 {
   "disease_id": "thieu-mau-co-tim",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thiếu máu cơ tim",
+  "disease_alternative_names": [
+    "Bệnh tim thiếu máu cục bộ",
+    "Myocardial Ischemia"
+  ],
+  "disease_definition": "Thiếu máu cơ tim là bệnh lý xảy ra khi tình trạng lưu lượng máu đến tim bị giảm khiến cơ tim không nhận đủ lượng oxy cần thiết. Lưu lượng máu giảm thường là hậu quả của sự tắc nghẽn một phần hoặc toàn phần động mạch vành tim. Tình trạng tim bị thiếu máu xảy ra thường xuyên nhất khi người bệnh hoạt động gắng sức hoặc phấn khích.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau thắt ngực",
+      "description": "Đau thắt ở ngực, đặc biệt là phần ngực trái, là triệu chứng phổ biến và điển hình nhất"
+    },
+    {
+      "name": "Nhịp tim nhanh",
+      "description": "Cảm giác tim đập nhanh, nhất là khi hoạt động gắng sức"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở khi tập luyện, hoạt động thể chất hoặc gắng sức"
+    },
+    {
+      "name": "Buồn nôn và ói mửa",
+      "description": "Cảm giác buồn nôn và có thể ói mửa, thường đi kèm với cơn đau ngực"
+    },
+    {
+      "name": "Đau cổ hoặc hàm",
+      "description": "Đau lan lên cổ hoặc hàm từ vùng ngực"
+    },
+    {
+      "name": "Đau vai hoặc cánh tay",
+      "description": "Cảm giác đau ở vai hoặc cánh tay, đặc biệt là bên trái"
+    },
+    {
+      "name": "Đổ mồ hôi",
+      "description": "Vã mồ hôi bất thường, đặc biệt là khi kèm theo đau ngực"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi bất thường, nhất là khi gắng sức"
+    },
+    {
+      "name": "Đau ngực dữ dội",
+      "description": "Đau ngực dữ dội hoặc đau ngực dai dẳng không dứt, là dấu hiệu nghiêm trọng"
+    },
+    {
+      "name": "Da sần sùi",
+      "description": "Biểu hiện da sần sùi bất thường, là dấu hiệu nghiêm trọng"
+    },
+    {
+      "name": "Thở nhanh, thở gấp",
+      "description": "Tình trạng thở nhanh, gấp là dấu hiệu nghiêm trọng cần cấp cứu ngay"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Thiếu máu cơ tim xảy ra khi dòng máu di chuyển qua một hoặc nhiều động mạch vành bị suy giảm, cản trở, khiến cơ tim không nhận đủ oxy.",
+    "related_factors": "Bệnh xơ vữa động mạch là nguyên nhân phổ biến nhất, với các mảng xơ vữa Cholesterol tích tụ trên thành động mạch. Các cục máu đông từ mảng xơ vữa bị phá vỡ cũng có thể gây tắc mạch. Co thắt động mạch vành tạm thời là nguyên nhân ít phổ biến hơn. Các tác nhân có thể gây khởi phát cơn đau thắt ngực là vận động gắng sức, căng thẳng, sử dụng chất gây nghiện như cocain, và nhiệt độ quá lạnh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thuốc lá (hút thuốc làm tăng nguy cơ hình thành cục máu đông)",
+    "Tăng huyết áp không được kiểm soát",
+    "Đái tháo đường không được kiểm soát",
+    "Béo phì, thừa cân",
+    "Lối sống lười vận động",
+    "Tuổi cao",
+    "Tiền sử gia đình có người mắc bệnh tim",
+    "Rối loạn mỡ máu",
+    "Căng thẳng, stress kéo dài"
+  ],
+  "complications": [
+    "Nhồi máu cơ tim (biến chứng nguy hiểm với tỷ lệ tử vong cao)",
+    "Suy tim",
+    "Rối loạn nhịp tim",
+    "Đau thắt ngực mạn tính",
+    "Hạn chế hoạt động thể lực",
+    "Tổn thương cơ tim không hồi phục"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác bệnh sử và tiền sử gia đình",
+      "Khám lâm sàng, đánh giá các yếu tố nguy cơ",
+      "Đánh giá các triệu chứng đau ngực"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm sinh hóa máu",
+        "description": "Kiểm tra đường huyết khi đói, mỡ máu, men gan, creatinin máu để đánh giá rối loạn chuyển hóa"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Giúp chẩn đoán sớm những biến đổi trên điện tim và phát hiện các rối loạn nhịp"
+      },
+      {
+        "name": "Điện tâm đồ gắng sức",
+        "description": "Thăm dò không xâm nhập giúp chẩn đoán khả năng bệnh mạch vành ở những bệnh nhân có yếu tố nguy cơ"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính",
+        "description": "MSCT giúp tính điểm vôi hóa mạch vành, cho hình ảnh mạch vành khi dùng thuốc cản quang"
+      },
+      {
+        "name": "Chụp động mạch vành",
+        "description": "Tiêu chuẩn vàng trong chẩn đoán, xác định vị trí giải phẫu và mức độ nặng của hẹp mạch vành"
+      },
+      {
+        "name": "Xét nghiệm Troponin",
+        "description": "Dấu ấn sinh học giúp phân biệt hội chứng động mạch vành cấp và các bệnh lý tim khác"
+      },
+      {
+        "name": "Siêu âm Doppler tim",
+        "description": "Xác định bất thường vận động vùng nghi do bệnh mạch vành, đánh giá phân suất tống máu và chức năng tâm trương"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị thiếu máu cơ tim nhằm mục đích giảm triệu chứng, cải thiện lưu lượng máu đến tim và ngăn ngừa các biến chứng nguy hiểm. Phương pháp điều trị tùy thuộc vào mức độ nghiêm trọng của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Hạn chế hút thuốc, bổ sung nhiều rau củ quả, trái cây, thường xuyên vận động, hạn chế căng thẳng, kiểm soát các bệnh lý như rối loạn mỡ máu, tiểu đường, cao huyết áp"
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng các nhóm thuốc như chẹn kênh canxi, ức chế men chuyển angiotensin (ACEi), Ranolazine, Aspirin, nitrat, chẹn beta theo đúng chỉ định của bác sĩ"
+      },
+      {
+        "name": "Phẫu thuật bắc cầu động mạch vành",
+        "description": "Sử dụng một đoạn mạch từ bộ phận khác của cơ thể để tạo cành ghép giúp máu lưu thông xung quanh phần động mạch vành bị tắc"
+      },
+      {
+        "name": "Nong và đặt stent",
+        "description": "Đưa ống thông mỏng vào phần hẹp, bơm căng quả bóng để mở rộng động mạch và đặt stent giữ cho động mạch luôn mở"
+      },
+      {
+        "name": "Phương pháp điều trị cơ học hiện đại",
+        "description": "Áp dụng cho trường hợp nghiêm trọng khi các biện pháp khác không hiệu quả"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ sát sao phác đồ điều trị của bác sĩ",
+      "Không tự ý sử dụng thuốc hoặc ngưng thuốc khi chưa có chỉ định",
+      "Thăm khám định kỳ để đánh giá tiến triển của bệnh",
+      "Theo dõi và kiểm soát các yếu tố nguy cơ như huyết áp, đường huyết",
+      "Báo cáo với bác sĩ khi có các triệu chứng mới hoặc nặng hơn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +151,68 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá và tránh xa khói thuốc",
+      "Duy trì cân nặng ở mức hợp lý, giảm cân nếu thừa cân",
+      "Tập luyện hoạt động thể chất vừa sức, đều đặn",
+      "Xây dựng chế độ ăn nhiều rau xanh, hoa quả, hạn chế mỡ động vật",
+      "Thay thế mỡ động vật bằng dầu thực vật",
+      "Hạn chế ăn phủ tạng động vật, giảm muối trong thức ăn",
+      "Không sử dụng các thực phẩm chứa nhiều muối như dưa, cà muối",
+      "Kiểm soát huyết áp, đường máu và lipid máu",
+      "Thăm khám sức khỏe định kỳ tại cơ sở y tế"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thiếu máu cơ tim có nguy hiểm không?",
+      "answer": "Thiếu máu cơ tim là một trong những bệnh lý tim mạch phổ biến và là nguyên nhân gây tử vong hàng đầu trên thế giới. Bệnh có nhiều khả năng dẫn đến nhồi máu cơ tim, khiến cơ tim bị hoại tử và gây nguy hiểm đến tính mạng. Việc nhận thức sớm về tình trạng mắc bệnh góp phần phát hiện sớm, điều trị hiệu quả và giảm thiểu những hậu quả đáng tiếc có thể xảy ra."
+    },
+    {
+      "question": "Làm sao để nhận biết cơn đau thắt ngực do thiếu máu cơ tim?",
+      "answer": "Cơn đau thắt ngực do thiếu máu cơ tim thường xuất hiện ở ngực, đặc biệt là phần ngực trái. Cơn đau có thể lan lên cổ, hàm, vai hoặc cánh tay trái. Cơn đau thường xuất hiện khi gắng sức, xúc động mạnh, tiếp xúc với thời tiết lạnh hoặc sau khi ăn no. Ngoài ra, người bệnh còn có thể cảm thấy khó thở, mệt mỏi, đổ mồ hôi, buồn nôn."
+    },
+    {
+      "question": "Khi nào cần đi cấp cứu nếu nghi ngờ bị thiếu máu cơ tim?",
+      "answer": "Cần đến ngay cơ sở y tế để được cấp cứu kịp thời nếu xuất hiện các dấu hiệu nghiêm trọng như: đau ngực dữ dội hoặc đau ngực dai dẳng không dứt, da bị sần sùi, buồn nôn hoặc nôn, thở nhanh/thở gấp, đau vai hoặc đau cánh tay. Đặc biệt khi đau ngực kèm theo vã mồ hôi nhiều và khó thở nặng, cần cấp cứu ngay lập tức."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau thắt ngực, khó thở và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thiếu máu cơ tim", "Bệnh mạch vành", "Suy tim"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ngực, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu cơ tim",
+        "Nhồi máu cơ tim",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau thắt ngực, vã mồ hôi và khó thở khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu cơ tim",
+        "Bệnh động mạch vành",
+        "Cơn đau thắt ngực không ổn định"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp vấn đề về nhịp tim, cảm thấy hồi hộp, đánh trống ngực và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu cơ tim",
+        "Rối loạn nhịp tim",
+        "Bệnh van tim"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau ngực, khó thở và đau lan ra cánh tay trái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thiếu máu cơ tim",
+        "Nhồi máu cơ tim",
+        "Đau thắt ngực không ổn định"
+      ]
     }
   ]
 }

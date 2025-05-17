@@ -1,58 +1,194 @@
 {
   "disease_id": "sot-xuat-huyet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sốt xuất huyết",
+  "disease_alternative_names": [
+    "Dengue hemorrhagic fever",
+    "DHF",
+    "Sốt dengue"
+  ],
+  "disease_definition": "Sốt xuất huyết là một bệnh xảy ra phổ biến ở vùng khí hậu nhiệt đới do vi rút Dengue gây ra. Loại vi rút này có 4 chủng huyết thanh bao gồm: DEN-1, DEN-2, DEN-3, DEN-4. Vi rút Dengue lây lan qua người chủ yếu do muỗi cái thuộc giống Aedes, chủ yếu là Aedes aegypti.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt cao",
+      "description": "Sốt cao đột ngột từ 39-40 độ C, uống thuốc hạ sốt nhưng không giảm sốt, thường kéo dài từ 4-7 ngày"
+    },
+    {
+      "name": "Đau đầu và đau nhức hốc mắt",
+      "description": "Nhức đầu dữ dội, đau hai bên hốc mắt, thường xuất hiện cùng với cơn sốt"
+    },
+    {
+      "name": "Đau nhức cơ thể",
+      "description": "Đau nhức các cơ, khớp và xương, cảm giác mệt mỏi rũ rượi"
+    },
+    {
+      "name": "Phát ban đỏ",
+      "description": "Xuất hiện các nốt ban ở mình, sau đó lan đến mặt, các chi, lòng bàn tay và bàn chân gây ngứa"
+    },
+    {
+      "name": "Xuất huyết dưới da",
+      "description": "Xuất hiện các chấm xuất huyết hoặc các mảng xuất huyết, thường có ở mặt trước 2 chân và mặt trong 2 cánh tay, đùi, mạng sườn, bụng"
+    },
+    {
+      "name": "Chảy máu chân răng và chảy máu mũi",
+      "description": "Xuất huyết ở các niêm mạc, đặc biệt là chảy máu chân răng và chảy máu mũi"
+    },
+    {
+      "name": "Nôn và buồn nôn",
+      "description": "Cảm giác buồn nôn và nôn ói, có thể nôn ra máu trong trường hợp nặng"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Mất cảm giác ngon miệng, không muốn ăn uống"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau bụng, đặc biệt là vùng thượng vị, có thể kèm theo tiêu chảy"
+    },
+    {
+      "name": "Chân tay lạnh ẩm",
+      "description": "Trong giai đoạn nguy hiểm, bệnh nhân có thể có biểu hiện chân tay lạnh ẩm"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân gây bệnh sốt xuất huyết là do vi rút Dengue với 4 chủng huyết thanh DEN-1, DEN-2, DEN-3, DEN-4. Người bệnh có thể nhiễm 1 đến 4 chủng vi rút và có khả năng tạo ra miễn dịch với chủng đó suốt đời.",
+    "related_factors": "Thời điểm bùng phát dịch sốt xuất huyết thường vào mùa mưa từ tháng 7 đến tháng 11 hàng năm, đây là thời điểm thuận lợi để muỗi vằn sinh sôi.",
+    "transmission_routes": [
+      "Muỗi cái Aedes aegypti đốt người bệnh sốt xuất huyết, hút máu có chứa vi rút Dengue và khi đốt người khỏe mạnh sẽ truyền vi rút từ nước bọt vào máu người lành",
+      "Muỗi mang vi rút Dengue có thể ủ bệnh trong cơ thể từ 8-11 ngày",
+      "Vi rút xâm nhập vào cơ thể người sẽ 'chu du' trong máu từ 2-7 ngày",
+      "Thời điểm muỗi hoạt động đốt hút máu người nhiều nhất là vào buổi sáng sớm hoặc chiều tối"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sống ở vùng có muỗi vằn sinh sống",
+    "Mùa mưa (từ tháng 7 đến tháng 11)",
+    "Có nguồn nước đọng gần nơi ở",
+    "Vùng đô thị có mật độ dân cư cao",
+    "Tiền sử từng bị sốt xuất huyết (có thể bị nhiễm chủng vi rút khác)",
+    "Phụ nữ mang thai",
+    "Trẻ em"
+  ],
+  "complications": [
+    "Sốc do mất máu hoặc thoát huyết tương, có thể gây phù não và các hội chứng thần kinh dẫn đến hôn mê",
+    "Viêm đường hô hấp, viêm phổi hoặc phù phổi",
+    "Xuất huyết não",
+    "Suy tim, suy thận",
+    "Mù đột ngột do xuất huyết võng mạc",
+    "Biến chứng ở phụ nữ mang thai: sốt cao, tim thai đập nhanh, giảm tiểu cầu, đe dọa thai nhi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá các triệu chứng lâm sàng như sốt cao, xuất huyết dưới da, chảy máu chân răng",
+      "Theo dõi sự thay đổi triệu chứng từ ngày thứ 3 đến ngày thứ 7 của bệnh (giai đoạn nguy hiểm)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra dung tích hồng cầu (bình thường hoặc tăng), số tiểu cầu (bình thường hoặc giảm nhẹ), số lượng bạch cầu (giảm)"
+      },
+      {
+        "name": "Xét nghiệm chẩn đoán vi rút Dengue",
+        "description": "Xác định sự hiện diện của vi rút hoặc kháng thể chống lại vi rút Dengue"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Sốt xuất huyết Dengue hiện chưa có thuốc điều trị đặc hiệu, mà chỉ điều trị dựa trên triệu chứng. Thời gian điều trị có thể lên đến từ 7-10 ngày tính từ ngày phát sốt đầu tiên.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị hạ sốt",
+        "description": "Sử dụng thuốc Paracetamol để hạ sốt, liều dùng từ 10-15mg/1kg/lần, uống thuốc cách nhau ít nhất 4 giờ. Tuyệt đối không dùng Aspirin, Analgin, Ibuprofen vì có thể làm tăng nguy cơ xuất huyết"
+      },
+      {
+        "name": "Bù nước và điện giải",
+        "description": "Cho người bệnh uống đủ nước mỗi ngày, tăng cường các loại nước trái cây, nước bù điện giải, nước cháo loãng"
+      },
+      {
+        "name": "Chế độ dinh dưỡng",
+        "description": "Chia nhiều bữa ăn nhỏ, thức ăn nên là thức ăn lỏng hoặc mềm dễ tiêu hóa"
+      },
+      {
+        "name": "Nghỉ ngơi",
+        "description": "Người bệnh cần được nghỉ ngơi tại giường, tránh hoạt động mạnh"
+      },
+      {
+        "name": "Truyền dịch",
+        "description": "Trong trường hợp bệnh nhân bị mất nước nhiều hoặc có dấu hiệu sốc, bệnh nhân cần được nhập viện và truyền dịch"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Theo dõi sát các dấu hiệu cảnh báo bệnh trở nặng để đưa bệnh nhân đến bệnh viện kịp thời",
+      "Không tự ý dùng thuốc chống viêm không steroid (NSAIDs) như Aspirin, Ibuprofen",
+      "Tắm bằng nước ấm, lau người nhẹ nhàng không kỳ mạnh lên da",
+      "Khi thấy triệu chứng bất thường như chảy máu nhiều, đau bụng dữ dội, li bì, chân tay lạnh, cần đến bệnh viện ngay"
+    ],
+    "prevention_of_transmission": [
+      "Không để người bệnh sốt xuất huyết bị muỗi cắn bằng cách cho người bệnh ngủ trong màn",
+      "Cách ly với muỗi để tránh lây lan vi rút sang người khác thông qua muỗi"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phổ biến và hiệu quả cao phòng ngừa tất cả các chủng vi rút Dengue.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ngăn ngừa muỗi sinh sản: Đậy kín các dụng cụ chứa nước để muỗi không đẻ được trứng",
+      "Thả cá hoặc con mê sô vào các dụng cụ chứa nước lớn để diệt loăng quăng",
+      "Vệ sinh các dụng cụ chứa nước nhỏ thường xuyên như xô, chậu, lu, khạp",
+      "Phát quang vườn rậm và thu gom các vật dụng phế thải có thể chứa nước",
+      "Phòng muỗi đốt: Mặc quần áo dài tay khi đi ra ngoài, ngủ trong mùng kể cả ban ngày",
+      "Xua đuổi muỗi vào nhà bằng bình xịt muỗi, nhang muỗi, kem xua đuổi muỗi, bắt muỗi bằng vợt điện",
+      "Sử dụng rèm che cửa có tẩm hóa chất diệt muỗi",
+      "Phối hợp với chính quyền để phun đủ các đợt phun hóa chất diệt muỗi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh sốt xuất huyết là gì?",
+      "answer": "Bệnh sốt xuất huyết là một bệnh xảy ra phổ biến ở vùng khí hậu nhiệt đới do vi rút Dengue gây ra. Loại vi rút này có 4 chủng huyết thanh bao gồm: DEN-1, DEN-2, DEN-3, DEN-4. Người bệnh có thể nhiễm 1 đến 4 chủng vi rút và có khả năng tạo ra miễn dịch với chủng đó suốt đời. Vi rút Dengue lây lan qua người chủ yếu do muỗi cái thuộc giống Aedes, chủ yếu là Aedes aegypti."
+    },
+    {
+      "question": "Triệu chứng sốt xuất huyết là gì?",
+      "answer": "Triệu chứng của sốt xuất huyết bao gồm: sốt cao đột ngột từ 39-40 độ C, đau đầu, đau nhức hốc mắt, đau nhức cơ thể, phát ban đỏ, xuất huyết dưới da (các chấm xuất huyết), chảy máu chân răng và chảy máu mũi, buồn nôn và nôn, chán ăn, đau bụng, và trong trường hợp nặng có thể có chân tay lạnh ẩm, nôn ra máu, xuất huyết nội tạng, và các biến chứng khác."
+    },
+    {
+      "question": "Sốt xuất huyết có mấy giai đoạn?",
+      "answer": "Sốt xuất huyết có 3 giai đoạn: 1) Giai đoạn sốt: kéo dài 2-7 ngày, bệnh nhân sốt cao, đau đầu, đau cơ khớp; 2) Giai đoạn nguy hiểm: diễn ra từ ngày 3-7 sau khi sốt, người bệnh có thể giảm sốt nhưng xuất hiện tình trạng thoát huyết tương, xuất huyết, suy các cơ quan; 3) Giai đoạn hồi phục: sau 1-2 ngày qua giai đoạn nguy hiểm, người bệnh hết sốt, sức khỏe dần hồi phục, tiểu nhiều hơn và thèm ăn."
+    },
+    {
+      "question": "Cách điều trị sốt xuất huyết như thế nào?",
+      "answer": "Hiện chưa có thuốc điều trị đặc hiệu cho sốt xuất huyết mà chỉ điều trị dựa trên triệu chứng. Phương pháp điều trị bao gồm: sử dụng Paracetamol để hạ sốt (không dùng Aspirin, Analgin, Ibuprofen), bù nước và điện giải, chế độ dinh dưỡng phù hợp, nghỉ ngơi, và trong trường hợp nặng cần nhập viện để được truyền dịch và theo dõi chặt chẽ."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa sốt xuất huyết?",
+      "answer": "Phòng ngừa sốt xuất huyết bằng cách: ngăn muỗi sinh sản (đậy kín dụng cụ chứa nước, vệ sinh thường xuyên, thả cá diệt lăng quăng), phòng muỗi đốt (mặc quần áo dài tay, ngủ trong mùng, dùng các biện pháp xua đuổi muỗi), và phòng lây lan dịch từ người bệnh bằng cách không để người bệnh bị muỗi đốt."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sốt cao, đau đầu, đau nhức cơ thể và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-xuat-huyet", "cum", "sot-vi-rut"]
+    },
+    {
+      "question": "Tôi hay bị chảy máu chân răng và chảy máu cam. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-xuat-huyet", "rung-nhiem-man", "benh-mau-khiem"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như phát ban và đau nhức hai hốc mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-xuat-huyet", "sot-phat-ban", "viem-ket-mac"]
+    },
+    {
+      "question": "Tôi hay bị sốt cao đột ngột và uống thuốc hạ sốt không giảm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sot-xuat-huyet", "sot-ret", "viem-nao"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện các chấm xuất huyết ngoài da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sot-xuat-huyet",
+        "benh-mau-khiem",
+        "nhiem-trung-huyet"
+      ]
     }
   ]
 }

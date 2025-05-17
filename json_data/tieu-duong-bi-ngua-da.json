@@ -1,39 +1,135 @@
 {
   "disease_id": "tieu-duong-bi-ngua-da",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tiểu đường bị ngứa da",
+  "disease_alternative_names": [
+    "Ngứa da ở người tiểu đường",
+    "Diabetes-related skin itching"
+  ],
+  "disease_definition": "Chứng ngứa da ở người bệnh tiểu đường do máu lưu thông kém, phản ứng của da với thuốc trị tiểu đường hoặc tiêm insulin, hoặc do đường huyết cao khiến cơ thể mất nhiều nước khi đi tiểu hoặc bốc hơi qua da làm da khô và ngứa. Có khoảng 79% người bệnh tiểu đường thường gặp các vấn đề về da như khô, ngứa và nhiễm trùng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Da khô",
+      "description": "Da bị khô do cơ thể mất nước khi đường trong máu cao, khiến cơ thể tăng đào thải qua nước tiểu"
+    },
+    {
+      "name": "Ngứa cẳng chân và bàn chân",
+      "description": "Cảm giác ngứa xuất hiện nhiều ở vùng cẳng chân và bàn chân do máu lưu thông kém"
+    },
+    {
+      "name": "Ngứa da đầu và mắt cá chân",
+      "description": "Ngứa xuất hiện ở vùng da đầu và mắt cá chân, thường gặp ở người có da khô hoặc bệnh thần kinh tiểu đường"
+    },
+    {
+      "name": "Ngứa thân và cơ quan sinh dục",
+      "description": "Ngứa ở vùng thân hoặc cơ quan sinh dục, thường liên quan đến nhiễm nấm"
+    },
+    {
+      "name": "Nhiễm nấm da",
+      "description": "Nấm phát triển trên da, đặc biệt là giữa các ngón chân hoặc ở các nếp gấp của da"
+    },
+    {
+      "name": "Nhiễm nấm men âm đạo",
+      "description": "Phụ nữ bị tiểu đường dễ bị nhiễm nấm men ở âm đạo do nồng độ glucose cao trong máu và nước tiểu"
+    },
+    {
+      "name": "Viêm nang lông",
+      "description": "Viêm nhiễm các nang lông trên da do vi khuẩn xâm nhập"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính gây ngứa da ở người tiểu đường là do lượng đường trong máu cao làm da khô, tổn thương hàng rào bảo vệ da và kích hoạt phản ứng viêm, giải phóng cytokine (tác nhân gây viêm) gây ngứa.",
+    "related_factors": "Các yếu tố liên quan bao gồm suy thận và xơ gan, nhiễm vi khuẩn do hệ miễn dịch suy yếu, nhiễm nấm, dị ứng thuốc, tổn thương mạch máu và tổn thương thần kinh do đường huyết cao.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao",
+    "Thời gian mắc bệnh tiểu đường kéo dài",
+    "Bệnh thần kinh ngoại vi",
+    "Bệnh võng mạc",
+    "Bệnh thận mạn tính",
+    "Nồng độ đường trong máu lúc đói cao",
+    "Nhiễm trùng da thường xuyên",
+    "Nhiễm nấm Candida",
+    "Kiểm soát đường huyết kém",
+    "Da khô sẵn"
+  ],
+  "complications": [
+    "Nhiễm trùng da",
+    "Viêm nang lông",
+    "Bệnh thần kinh tiểu đường",
+    "Tổn thương thần kinh",
+    "Tổn thương da do gãi",
+    "Nhiễm nấm da chân",
+    "Nhiễm nấm men âm đạo",
+    "Tổn thương bàn chân do giảm tuần hoàn",
+    "Kích ứng da do thuốc"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để đánh giá tình trạng da",
+      "Đánh giá mức độ ngứa và vị trí ngứa",
+      "Kiểm tra các dấu hiệu nhiễm trùng hoặc nhiễm nấm",
+      "Kiểm tra tổn thương thần kinh ngoại vi"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm đường huyết",
+        "description": "Xác định mức đường trong máu để đánh giá tình trạng kiểm soát đường huyết"
+      },
+      {
+        "name": "Xét nghiệm HbA1C",
+        "description": "Đánh giá mức đường huyết trung bình trong 2-3 tháng qua"
+      },
+      {
+        "name": "Kiểm tra da",
+        "description": "Đánh giá tình trạng da, xác định có nhiễm nấm hay nhiễm trùng không"
+      },
+      {
+        "name": "Xét nghiệm chức năng thận",
+        "description": "Kiểm tra xem suy thận có phải là nguyên nhân gây ngứa hay không"
+      },
+      {
+        "name": "Kiểm tra chức năng gan",
+        "description": "Kiểm tra xem chức năng gan có liên quan đến tình trạng ngứa hay không"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Người bệnh tiểu đường cần thực hiện theo hướng dẫn, phác đồ điều trị của bác sĩ để quản lý lượng đường trong máu, bảo vệ sức khỏe tốt hơn. Khi bệnh tiểu đường được kiểm soát tốt, toàn bộ cơ thể, cả da cũng khỏe mạnh chống lại được những tác nhân gây bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Giữ ẩm cho da",
+        "description": "Sử dụng kem dưỡng ẩm dạng kem 2 lần/ngày để da luôn đủ độ ẩm, khỏe mạnh hơn"
+      },
+      {
+        "name": "Thuốc bôi",
+        "description": "Sử dụng thuốc mỡ có chứa Camphor, Menthol, Phenol hoặc thuốc chống nấm, thuốc kháng histamin theo chỉ định của bác sĩ"
+      },
+      {
+        "name": "Kiểm soát đường huyết",
+        "description": "Duy trì đường huyết ổn định để giảm các triệu chứng ngứa da"
+      },
+      {
+        "name": "Chế độ dinh dưỡng",
+        "description": "Sử dụng thực phẩm giàu chất xơ, ít cholesterol, hàm lượng chất béo bão hòa thấp"
+      },
+      {
+        "name": "Tập luyện thường xuyên",
+        "description": "Tập thể dục đều đặn ít nhất 30 phút mỗi ngày để cơ thể sử dụng insulin tốt hơn"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giữ da luôn sạch sẽ, lau khô da sau khi tắm, rửa",
+      "Không nên tắm quá nhiều lần trong ngày",
+      "Sử dụng xà phòng không sút, dịu nhẹ, không mùi",
+      "Tắm vòi hoa sen hoặc tắm nước ấm (không quá nóng)",
+      "Cân nhắc sử dụng máy tạo độ ẩm tại nhà khi thời tiết lạnh",
+      "Mặc các loại quần áo ít kích ứng như cotton, vải lanh, lụa",
+      "Hạn chế căng thẳng, giữ tinh thần thoải mái, lạc quan",
+      "Sử dụng gạc lạnh để giảm ngứa khi cần thiết",
+      "Kiểm tra bàn chân hàng ngày xem có vết cắt, phồng rộp hoặc vết loét",
+      "Không gãi quá nhiều để tránh gây nhiễm trùng da"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +137,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm soát đường huyết tốt",
+      "Dưỡng ẩm da thường xuyên",
+      "Vệ sinh sạch sẽ, đặc biệt là các khu vực dễ bị ẩm ướt",
+      "Tránh sử dụng các sản phẩm có chất tẩy mạnh",
+      "Tắm bằng nước ấm, không quá nóng",
+      "Kiểm tra da thường xuyên, đặc biệt là bàn chân",
+      "Mặc quần áo thoáng, từ vật liệu tự nhiên",
+      "Uống đủ nước để giữ độ ẩm cho da",
+      "Khám bác sĩ da liễu và nội tiết định kỳ",
+      "Duy trì chế độ ăn uống lành mạnh, giàu chất xơ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tại sao người bị tiểu đường dễ bị ngứa da?",
+      "answer": "Người bệnh tiểu đường dễ bị ngứa da do nhiều nguyên nhân: lượng đường trong máu cao làm da khô vì cơ thể mất nước nhiều qua nước tiểu; tổn thương hàng rào bảo vệ da khiến da dễ bị kích ứng; hệ miễn dịch suy yếu dẫn đến dễ nhiễm trùng và nhiễm nấm; máu lưu thông kém do tổn thương mạch máu; và phản ứng phụ của thuốc điều trị tiểu đường."
+    },
+    {
+      "question": "Những vùng da nào thường bị ngứa ở người tiểu đường?",
+      "answer": "Ngứa da ở người bệnh tiểu đường thường xảy ra cục bộ hơn toàn thân. Những bộ phận dễ bị ngứa da bao gồm: da đầu, mắt cá chân, bàn chân, thân hoặc cơ quan sinh dục. Ngứa thường gặp ở người bệnh tiểu đường có da khô hoặc bệnh thần kinh tiểu đường."
+    },
+    {
+      "question": "Làm thế nào để giảm ngứa da do tiểu đường?",
+      "answer": "Để giảm ngứa da, người bệnh tiểu đường nên giữ ẩm cho da bằng kem dưỡng ẩm 2 lần/ngày; giữ da sạch sẽ và lau khô sau khi tắm; sử dụng xà phòng dịu nhẹ không mùi; tắm nước ấm không quá nóng; mặc quần áo ít kích ứng từ cotton, vải lanh, lụa; sử dụng gạc lạnh để giảm ngứa; và quan trọng nhất là kiểm soát đường huyết tốt."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngứa da và da khô. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiểu đường bị ngứa da", "Viêm da", "Bệnh chàm"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ở cẳng chân và bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường bị ngứa da",
+        "Bệnh thần kinh tiểu đường",
+        "Suy tĩnh mạch"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngứa da đầu và mắt cá chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường bị ngứa da",
+        "Viêm da dị ứng",
+        "Bệnh vảy nến"
+      ]
+    },
+    {
+      "question": "Tôi bị ngứa thân và cơ quan sinh dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường bị ngứa da",
+        "Nhiễm nấm Candida",
+        "Viêm da tiếp xúc"
+      ]
+    },
+    {
+      "question": "Tôi bị tiểu đường và da khô. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường bị ngứa da",
+        "Viêm da khô",
+        "Bệnh vảy nến"
+      ]
     }
   ]
 }

@@ -1,39 +1,123 @@
 {
   "disease_id": "thuyen-tac-oi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thuyên tắc ối",
+  "disease_alternative_names": [
+    "Tắc mạch ối",
+    "Amniotic Fluid Embolism Syndrome"
+  ],
+  "disease_definition": "Thuyên tắc ối là tình trạng nước ối, tế bào thai nhi, tóc, lông tơ hoặc các mảnh vụn khác xâm nhập vào máu của thai phụ, thông qua hệ thống tĩnh mạch nơi nhau thai bám gây ra một số phản ứng giống dị ứng. Phản ứng này làm suy tim phổi cấp và xuất huyết nghiêm trọng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tím tái đột ngột",
+      "description": "Thai phụ có thể xuất hiện tình trạng tím tái đột ngột trong vòng vài phút"
+    },
+    {
+      "name": "Suy hô hấp",
+      "description": "Khó thở dữ dội, có thể dẫn đến ngừng thở"
+    },
+    {
+      "name": "Tụt huyết áp",
+      "description": "Huyết áp giảm mạnh gây trụy tim mạch"
+    },
+    {
+      "name": "Phù phổi",
+      "description": "Tích tụ chất lỏng trong phổi gây khó thở nặng"
+    },
+    {
+      "name": "Lú lẫn và co giật",
+      "description": "Rối loạn ý thức và xuất hiện các cơn co giật"
+    },
+    {
+      "name": "Chảy máu ở nhiều nơi",
+      "description": "Xuất huyết nghiêm trọng do rối loạn đông máu"
+    },
+    {
+      "name": "Đờ tử cung",
+      "description": "Tử cung không co lại được sau sinh, gây chảy máu ồ ạt"
+    },
+    {
+      "name": "Tim ngừng đập, ngừng thở",
+      "description": "Tình trạng ngừng tim, ngừng thở có thể xảy ra trong vài phút đầu tiên"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Thuyên tắc ối xảy ra khi hàng rào giữa khoang ối và tuần hoàn của thai phụ bị phá vỡ, khiến nước ối đi vào máu của thai phụ thông qua các tĩnh mạch ống cổ tử cung, qua vị trí rau bám đã bong, qua nội mạc tử cung hoặc tử cung bị chấn thương.",
+    "related_factors": "Bệnh thường xảy ra trong lúc chuyển dạ, cũng có thể xảy ra khi mổ lấy thai, sảy thai, chấn thương bụng, chọc nước ối, sau sinh hoặc sau mổ lấy thai. Thống kê cho thấy 12% trường hợp xảy ra khi màng ối còn nguyên; 70% trường hợp xảy ra trong chuyển dạ; 11% xảy ra sau sinh qua đường âm đạo; 19% xảy ra khi mổ lấy thai.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thai phụ tuổi cao (trên 35 tuổi)",
+    "Thai phụ mang đa thai hoặc sinh con nhiều lần",
+    "Nhau thai bất thường",
+    "Thai phụ mắc chứng tiền sản giật",
+    "Mổ lấy thai hoặc đẻ đường dưới có sự can thiệp của thủ thuật",
+    "Thai nhi lớn, thai quá ngày",
+    "Thai phụ lo lắng, hốt hoảng, khó thở và nôn mửa",
+    "Thai phụ mắc bệnh đái tháo đường",
+    "Chấn thương bụng khi mang thai",
+    "Chọc ối"
+  ],
+  "complications": [
+    "Tim phổi ngừng hoạt động",
+    "Rối loạn đông máu đe dọa tính mạng",
+    "Mất máu ồ ạt",
+    "Thiếu oxy toàn thân, đặc biệt là thiếu oxy não",
+    "Sốc giảm thể tích tuần hoàn",
+    "Suy gan, suy thận",
+    "Phù phổi cấp",
+    "Tỷ lệ tử vong cao (đến 90% ở mẹ và 20-60% ở trẻ)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán chủ yếu dựa vào biểu hiện lâm sàng",
+      "Đánh giá tình trạng suy hô hấp cấp tính",
+      "Đánh giá sự xuất hiện đột ngột của các triệu chứng trong quá trình chuyển dạ hoặc sau sinh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm đông máu",
+        "description": "Đánh giá tình trạng rối loạn đông máu rải rác trong lòng mạch"
+      },
+      {
+        "name": "Xét nghiệm khí máu động mạch",
+        "description": "Đánh giá mức độ suy hô hấp và tình trạng toan máu"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá chức năng tim, tình trạng suy tim phổi cấp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Thuyên tắc ối là tai biến sản khoa nguy hiểm với tỷ lệ tử vong cao, cần được cấp cứu khẩn cấp để cứu sống thai phụ và thai nhi.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đặt catheter theo dõi",
+        "description": "Đặt ống catheter vào động mạch để theo dõi huyết áp thai phụ và đặt ống vào tĩnh mạch ở ngực để cung cấp dịch truyền, máu hoặc thuốc"
+      },
+      {
+        "name": "Cung cấp oxy",
+        "description": "Đặt ống thở vào khí quản, cung cấp oxy giúp thai phụ thở dễ dàng hơn"
+      },
+      {
+        "name": "Hồi sức tim phổi",
+        "description": "Ấn tim, xoa bóp tim ngoài lồng ngực giúp tim đẩy máu nhanh hơn, cung cấp oxy nuôi các cơ quan quan trọng"
+      },
+      {
+        "name": "Truyền máu",
+        "description": "Truyền máu và dịch thay thế nếu thai phụ mất nhiều máu"
+      },
+      {
+        "name": "Sử dụng thuốc hỗ trợ",
+        "description": "Dùng các loại thuốc để cải thiện và hỗ trợ chức năng tim"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Cần được cấp cứu tại cơ sở y tế có chuyên khoa sản ngay lập tức",
+      "Điều trị cần được thực hiện bởi đội ngũ bác sĩ đa chuyên khoa gồm sản khoa, hồi sức cấp cứu, gây mê hồi sức",
+      "Cần được theo dõi sát trong đơn vị chăm sóc đặc biệt sau cấp cứu",
+      "Tiến hành lấy thai nhi ra khỏi cơ thể mẹ càng sớm càng tốt nếu thai phụ chưa sinh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +125,55 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thăm khám thai định kỳ theo chỉ định của bác sĩ",
+      "Quản lý tốt các bệnh lý trong thai kỳ như tiền sản giật, đái tháo đường",
+      "Phát hiện sớm các thai kỳ có nguy cơ cao",
+      "Sinh con tại cơ sở y tế có đủ trang thiết bị cấp cứu và đội ngũ y bác sĩ chuyên khoa sản"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thuyên tắc ối có nguy hiểm không?",
+      "answer": "Thuyên tắc ối là một trong những tai biến sản khoa hiếm gặp nhưng vô cùng nguy hiểm, nguy cơ tử vong lên đến 90% ở mẹ và khoảng 20-60% ở trẻ. Bệnh xảy ra đột ngột, diễn tiến cực kỳ nhanh, tỷ lệ cứu sống rất thấp và không có dấu hiệu cảnh báo trước."
+    },
+    {
+      "question": "Làm thế nào để phát hiện thuyên tắc ối?",
+      "answer": "Thuyên tắc ối rất khó phát hiện trước khi xảy ra vì không có dấu hiệu cảnh báo. Khi xảy ra, triệu chứng khởi đầu là suy hô hấp, sau đó tím tái đột ngột trong vòng vài phút, kèm theo tình trạng tụt huyết áp, phù phổi, lú lẫn và co giật. Khoảng 40% thai phụ sau đó sẽ có dấu hiệu chảy máu ở nhiều nơi, đờ tử cung và đông máu rải rác trong lòng mạch."
+    },
+    {
+      "question": "Thuyên tắc ối có cách nào phòng tránh được không?",
+      "answer": "Hiện vẫn chưa có phương pháp dự phòng tai biến sản khoa nguy hiểm này. Tuy nhiên, thăm khám thai định kỳ theo chỉ định của bác sĩ có thể phát hiện, cảnh báo và xử lý sớm các dấu hiệu bất thường. Nguyên tắc chung để có thai kỳ khỏe mạnh và quá trình sinh nở an toàn nằm ở việc quản lý tốt thai kỳ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang chuyển dạ và đột nhiên khó thở, tím tái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thuyên tắc ối", "Thuyên tắc phổi", "Suy tim cấp"]
+    },
+    {
+      "question": "Tôi đang mang thai và bị vỡ ối, sau đó bất tỉnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thuyên tắc ối", "Sốc nhiễm khuẩn", "Xuất huyết nội"]
+    },
+    {
+      "question": "Tôi đang mang thai và bị tiền sản giật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiền sản giật",
+        "Thuyên tắc ối (nguy cơ cao)",
+        "Sản giật"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và lo lắng, hốt hoảng, khó thở và nôn mửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thuyên tắc ối (nguy cơ cao)",
+        "Rối loạn lo âu",
+        "Tăng huyết áp thai kỳ"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và bị tụt huyết áp, phù phổi, lú lẫn và co giật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thuyên tắc ối", "Sản giật", "Sốc nhiễm khuẩn"]
     }
   ]
 }

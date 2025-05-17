@@ -1,39 +1,118 @@
 {
   "disease_id": "roi-loan-kinh-nguyet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn kinh nguyệt",
+  "disease_alternative_names": ["Kinh nguyệt không đều", "Menstrual disorders"],
+  "disease_definition": "Rối loạn kinh nguyệt là những bất thường ở một chu kỳ kinh nguyệt, có thể biểu hiện bằng số ngày hành kinh không ổn định, lượng máu kinh đột nhiên nhiều hơn hoặc ít hơn so với các chu kỳ thông thường.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chu kỳ kinh không đều",
+      "description": "Khoảng cách giữa các kỳ kinh ít hơn 24 ngày hoặc dài hơn 38 ngày, không theo quy luật ổn định"
+    },
+    {
+      "name": "Vô kinh",
+      "description": "Mất kinh từ 3 chu kỳ trở lên, không có kinh nguyệt hàng tháng"
+    },
+    {
+      "name": "Rong kinh",
+      "description": "Lượng máu kinh nhiều bất thường, phải thay băng vệ sinh liên tục mỗi giờ và làm ảnh hưởng đến sinh hoạt hàng ngày"
+    },
+    {
+      "name": "Kéo dài thời gian hành kinh",
+      "description": "Thời gian hành kinh kéo dài hơn 8 ngày, lâu hơn so với chu kỳ thông thường"
+    },
+    {
+      "name": "Xuất huyết bất thường",
+      "description": "Chảy máu bất thường hoặc xuất hiện đốm máu giữa các chu kỳ kinh, sau khi quan hệ tình dục hoặc sau mãn kinh"
+    },
+    {
+      "name": "Đau bụng kinh dữ dội",
+      "description": "Trong kỳ kinh gặp phải các triệu chứng nặng nề như chuột rút, đau bụng dữ dội, buồn nôn, nôn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính là do sự mất cân bằng nội tiết tố trong cơ thể, thường xảy ra ở một vài giai đoạn trong suốt cuộc đời người phụ nữ như dậy thì, mang thai, cho con bú, tiền mãn kinh và mãn kinh.",
+    "related_factors": "Thai kỳ bất thường (mang thai ngoài tử cung, dọa sảy thai); bệnh lý phụ khoa (polyp tử cung, u xơ tử cung, buồng trứng đa nang); viêm nhiễm đường sinh dục; bệnh lý khác (đái tháo đường, u giáp); thay đổi trong chế độ ăn uống và tập luyện; sử dụng thuốc tránh thai.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Đang ở thời kỳ dậy thì",
+    "Mang thai hoặc đang cho con bú",
+    "Đang trong thời kỳ tiền mãn kinh",
+    "Mắc các bệnh lý như u xơ tử cung, buồng trứng đa nang",
+    "Chế độ ăn uống thiếu hụt dinh dưỡng",
+    "Tăng cân hoặc giảm cân đột ngột",
+    "Tập luyện thể dục, thể thao quá mức",
+    "Sử dụng các loại thuốc tránh thai",
+    "Stress và căng thẳng kéo dài"
+  ],
+  "complications": [
+    "Thiếu máu do mất nhiều máu khi rong kinh, cường kinh",
+    "Tăng nguy cơ mắc bệnh viêm nhiễm phụ khoa",
+    "Khó đậu thai do chu kỳ kinh không đều",
+    "Ảnh hưởng đến đời sống tình dục",
+    "Ảnh hưởng đến nhan sắc người phụ nữ",
+    "Có thể là dấu hiệu của các bệnh lý phụ khoa nghiêm trọng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám phụ khoa",
+      "Ghi chép lại thông tin về chu kỳ kinh nguyệt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm PAP",
+        "description": "Lấy tế bào cổ tử cung để kiểm tra các bất thường"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra tình trạng thiếu máu và các bệnh lý nội khoa khác"
+      },
+      {
+        "name": "Xét nghiệm nội tiết tố",
+        "description": "Kiểm tra mức độ nội tiết tố như Estrogen và Progesterone trong cơ thể"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Kiểm tra các cơ quan sinh sản như tử cung, buồng trứng"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Chụp hình ảnh chi tiết các cơ quan vùng chậu"
+      },
+      {
+        "name": "Nội soi buồng tử cung",
+        "description": "Đưa camera vào buồng tử cung để quan sát các bất thường"
+      },
+      {
+        "name": "Sinh thiết nội mạc tử cung",
+        "description": "Lấy mẫu mô nội mạc tử cung để xét nghiệm"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị rối loạn kinh nguyệt phụ thuộc vào kết quả thăm khám, nguyên nhân gây bệnh, nguyện vọng mang thai và các yếu tố khác từ phía bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Xây dựng chế độ ăn uống khoa học, lành mạnh, bổ sung đầy đủ chất dinh dưỡng, hạn chế tiêu thụ muối, caffeine, đường và không uống rượu bia trước kỳ kinh"
+      },
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc giảm đau, thuốc chống viêm không steroid (NSAIDs), thuốc tránh thai nội tiết tố để điều hòa kinh nguyệt theo chỉ định của bác sĩ"
+      },
+      {
+        "name": "Điều trị ngoại khoa",
+        "description": "Áp dụng cho các trường hợp rối loạn kinh nguyệt do u xơ tử cung, polyp tử cung hoặc các bệnh lý cần can thiệp phẫu thuật"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi và ghi chép chu kỳ kinh nguyệt",
+      "Nghỉ ngơi đầy đủ, đặc biệt trong những ngày hành kinh",
+      "Tập thể dục nhẹ nhàng, đều đặn",
+      "Chườm ấm vùng bụng dưới để giảm đau bụng kinh",
+      "Tuân thủ đúng liều lượng và thời gian dùng thuốc theo chỉ định",
+      "Thăm khám định kỳ để theo dõi tình trạng bệnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +120,74 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Xây dựng và duy trì lối sống lành mạnh với chế độ dinh dưỡng khoa học",
+      "Tập luyện thể dục thể thao điều độ",
+      "Nghỉ ngơi hợp lý, đảm bảo giấc ngủ ngon, đủ giấc",
+      "Tránh tình trạng căng thẳng, lo âu kéo dài",
+      "Vệ sinh vùng kín sạch sẽ, nhất là trong những ngày hành kinh",
+      "Thay băng vệ sinh sau mỗi 4-6 giờ để tránh gây nhiễm trùng",
+      "Thăm khám sức khỏe phụ khoa định kỳ, tối thiểu 6 tháng/lần"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn kinh nguyệt có nguy hiểm không?",
+      "answer": "Rối loạn kinh nguyệt có thể tiềm ẩn nhiều nguy hiểm nếu không được điều trị kịp thời. Tình trạng này có thể gây thiếu máu do mất nhiều máu trong thời gian dài, tăng nguy cơ mắc các bệnh viêm nhiễm phụ khoa, ảnh hưởng đến khả năng thụ thai và tâm lý. Đặc biệt, rối loạn kinh nguyệt có thể là dấu hiệu của các bệnh lý phụ khoa nghiêm trọng như u xơ tử cung, u nang buồng trứng, thậm chí là ung thư cổ tử cung, ung thư buồng trứng hoặc ung thư nội mạc tử cung."
+    },
+    {
+      "question": "Khi nào cần đi khám nếu bị rối loạn kinh nguyệt?",
+      "answer": "Chị em nên đến ngay cơ sở y tế để được thăm khám khi nhận thấy các dấu hiệu bất thường của chu kỳ kinh nguyệt như: khoảng cách giữa các kỳ kinh ít hơn 24 ngày hoặc dài hơn 38 ngày, mất kinh từ 3 chu kỳ trở lên, lượng máu kinh đột nhiên chảy nhiều hơn hoặc ít hơn, thời gian hành kinh kéo dài hơn 8 ngày, chảy máu bất thường giữa các chu kỳ, đau bụng dữ dội kèm buồn nôn, nôn trong kỳ kinh."
+    },
+    {
+      "question": "Rối loạn kinh nguyệt có ảnh hưởng đến khả năng sinh sản không?",
+      "answer": "Có, rối loạn kinh nguyệt có thể ảnh hưởng trực tiếp đến khả năng thụ thai và mang thai của phụ nữ. Chu kỳ kinh nguyệt không đều đặn khiến chị em khó canh thời điểm rụng trứng, dẫn đến khó thụ thai thành công. Ngoài ra, một số nguyên nhân gây rối loạn kinh nguyệt như buồng trứng đa nang, u xơ tử cung, rối loạn nội tiết tố cũng có thể ảnh hưởng đến khả năng sinh sản của người phụ nữ."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa rối loạn kinh nguyệt?",
+      "answer": "Để phòng ngừa rối loạn kinh nguyệt, chị em cần xây dựng và duy trì lối sống lành mạnh với chế độ dinh dưỡng khoa học, tập luyện thể dục thể thao điều độ, đảm bảo giấc ngủ ngon, tránh căng thẳng kéo dài, vệ sinh vùng kín sạch sẽ trong những ngày hành kinh, thay băng vệ sinh định kỳ sau mỗi 4-6 giờ. Chị em cũng nên thăm khám sức khỏe phụ khoa định kỳ tối thiểu 6 tháng/lần để phát hiện sớm các bệnh lý."
+    },
+    {
+      "question": "Rối loạn kinh nguyệt có thể tự khỏi không?",
+      "answer": "Tùy thuộc vào nguyên nhân gây rối loạn kinh nguyệt. Một số trường hợp do căng thẳng, thay đổi chế độ ăn uống hoặc tập luyện đột ngột có thể tự cải thiện khi các yếu tố này được điều chỉnh. Tuy nhiên, nhiều trường hợp rối loạn kinh nguyệt do bệnh lý như u xơ tử cung, buồng trứng đa nang, rối loạn nội tiết tố... sẽ không tự khỏi mà cần được bác sĩ thăm khám và điều trị phù hợp. Vì vậy, khi có dấu hiệu bất thường, tốt nhất chị em nên đến cơ sở y tế để được chẩn đoán và điều trị kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị mất kinh và chu kỳ kinh nguyệt không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-kinh-nguyet",
+        "buong-trung-da-nang",
+        "suy-giap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng dữ dội trong kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-kinh-nguyet",
+        "lanh-tinh-tu-cung",
+        "viem-phan-phu"
+      ]
+    },
+    {
+      "question": "Tôi có chu kỳ kinh nguyệt kéo dài hơn 8 ngày và lượng máu kinh nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-kinh-nguyet",
+        "u-xo-tu-cung",
+        "cuc-mau-dong-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi bị chảy máu giữa các chu kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-kinh-nguyet",
+        "polyp-tu-cung",
+        "viem-co-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi có chu kỳ kinh nguyệt ngắn hơn 24 ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-kinh-nguyet", "roi-loan-noi-tiet"]
     }
   ]
 }

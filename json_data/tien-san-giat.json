@@ -1,39 +1,136 @@
 {
   "disease_id": "tien-san-giat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tiền sản giật",
+  "disease_alternative_names": ["Preeclampsia"],
+  "disease_definition": "Tiền sản giật là một biến chứng thai kỳ, đặc trưng bởi huyết áp cao và dễ gây tổn thương đến các cơ quan khác, thường là gan và thận. Hiện tượng này có thể xảy ra sớm sau tuần thai thứ 20, nhưng đa phần các triệu chứng chỉ xuất hiện sau tuần thai thứ 34 (khoảng 3 tháng cuối thai kỳ). Tiền sản giật là căn nguyên dẫn đến sản giật – một tai biến sản khoa nghiêm trọng có thể gây nguy hiểm cho sức khỏe của mẹ và bé.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tăng huyết áp thai kỳ",
+      "description": "Huyết áp vượt quá 140/90mmHg – được ghi nhận trong hai lần, cách nhau ít nhất 4 giờ"
+    },
+    {
+      "name": "Protein dư thừa trong nước tiểu",
+      "description": "Protein niệu, là dấu hiệu thận không hoạt động bình thường"
+    },
+    {
+      "name": "Nhức đầu dữ dội",
+      "description": "Đau đầu nghiêm trọng, khó chịu"
+    },
+    {
+      "name": "Thay đổi về thị lực",
+      "description": "Bao gồm mất thị lực tạm thời, mờ mắt hoặc nhạy cảm với ánh sáng"
+    },
+    {
+      "name": "Đau bụng trên",
+      "description": "Thường là phía bên phải dưới xương sườn"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và có thể nôn ra"
+    },
+    {
+      "name": "Lượng nước tiểu giảm",
+      "description": "Giảm lượng nước tiểu, tiểu ít hơn bình thường"
+    },
+    {
+      "name": "Giảm mức độ tiểu cầu trong máu",
+      "description": "Giảm tiểu cầu, ảnh hưởng đến khả năng đông máu"
+    },
+    {
+      "name": "Chức năng gan suy giảm",
+      "description": "Các xét nghiệm chức năng gan có kết quả bất thường"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Do chất lỏng tích tụ trong phổi"
+    },
+    {
+      "name": "Tăng cân đột ngột",
+      "description": "Tăng cân hơn 2kg/tuần"
+    },
+    {
+      "name": "Sưng phù",
+      "description": "Đặc biệt là ở mặt và tay, chân"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tiền sản giật khi mang bầu xảy ra do giảm lưu lượng máu đến nhau thai – cơ quan nuôi dưỡng thai nhi trong suốt thai kỳ.",
+    "related_factors": "Ở phụ nữ gặp hội chứng này, các mạch máu mới phát triển để đưa máu đến nhau thai dường như không phát triển hoặc vận hành đúng chức năng. Chúng hẹp hơn các mạch máu bình thường, khiến lượng máu chảy qua bị hạn chế. Nguyên nhân của sự phát triển bất thường này có thể do lưu lượng máu đến tử cung không đủ, tổn thương mạch máu, hệ thống miễn dịch suy giảm hoặc có vấn đề, hoặc một số gen bất thường.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình: Mẹ/chị/em gái từng bị tiền sản giật",
+    "Tiền sử cá nhân bị tiền sản giật ở lần mang thai trước",
+    "Tăng huyết áp mãn tính",
+    "Mang thai lần đầu",
+    "Mang song thai hoặc đa thai",
+    "Tuổi tác: Phụ nữ mang thai dưới 20 tuổi hoặc trên 35 tuổi",
+    "Thừa cân, béo phì trong thai kỳ",
+    "Khoảng cách giữa các lần mang thai quá ngắn (dưới 2 năm)",
+    "Khoảng cách giữa các lần mang thai quá dài (hơn 10 năm)",
+    "Tiền sử đau nửa đầu",
+    "Đái tháo đường",
+    "Bệnh thận",
+    "Xu hướng phát triển cục máu đông",
+    "Lupus ban đỏ"
+  ],
+  "complications": [
+    "Thai nhi tăng trưởng chậm do thiếu dinh dưỡng và oxy",
+    "Sinh non do phải kết thúc thai kỳ sớm để bảo vệ mẹ và bé",
+    "Rau bong non (nhau thai tách ra khỏi thành trong của tử cung trước khi sinh)",
+    "Hội chứng HELLP (tan máu, men gan cao và số lượng tiểu cầu thấp)",
+    "Sản giật (tiền sản giật cộng với co giật)",
+    "Tổn thương các cơ quan như thận, gan, phổi, tim, mắt",
+    "Đột quỵ hoặc chấn thương não",
+    "Tăng nguy cơ mắc bệnh tim và mạch máu cho sản phụ trong tương lai"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đo huyết áp nhiều lần vào các thời điểm khác nhau",
+      "Kiểm tra và theo dõi sự phát triển của thai nhi",
+      "Đánh giá các triệu chứng lâm sàng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra tỷ lệ protein-creatinine trong nước tiểu"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Bao gồm cả tổng phân tích tế bào máu ngoại vi (CBC) và xét nghiệm chức năng gan, thận"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Để kiểm tra sự phát triển của em bé, xem bé có đang tăng trưởng tốt hay không"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Cách chữa trị dứt điểm tiền sản giật là để sản phụ sinh nở. Bác sĩ sẽ trao đổi với bệnh nhân về thời điểm sinh con dựa trên tuần thai, tình trạng phát triển của thai nhi cũng như mức độ nghiêm trọng của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị tiền sản giật nhẹ",
+        "description": "Nghỉ ngơi tại giường, nên nằm nghiêng về bên trái; theo dõi cẩn thận bằng máy đo nhịp tim thai và siêu âm thường xuyên; xét nghiệm máu và nước tiểu; dùng thuốc hạ huyết áp"
+      },
+      {
+        "name": "Điều trị tại bệnh viện",
+        "description": "Theo dõi chặt chẽ, dùng thuốc giúp ngăn ngừa co giật, hạ huyết áp và phòng tránh các vấn đề sức khỏe khác; tiêm steroid để giúp phổi của bé phát triển nhanh hơn; tiêm magie để ngăn ngừa co giật liên quan đến sản giật"
+      },
+      {
+        "name": "Sinh sớm",
+        "description": "Nếu em bé phát triển tốt, đủ 37 tuần hoặc hơn, hoặc nếu bệnh diễn biến nghiêm trọng, bác sĩ sẽ chỉ định sinh ngay để tình trạng tiền sản giật không diễn biến tồi tệ hơn"
+      },
+      {
+        "name": "Điều trị sau sinh",
+        "description": "Theo dõi huyết áp và các triệu chứng khác trong vòng 48 giờ và muộn nhất là 6 tuần sau sinh"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chỉ định của bác sĩ về việc nghỉ ngơi và dùng thuốc",
+      "Theo dõi thai kỳ thường xuyên tại cơ sở y tế có chuyên khoa sản",
+      "Tìm kiếm hỗ trợ y tế ngay lập tức nếu có các triệu chứng nghiêm trọng",
+      "Sau sinh, tiếp tục theo dõi huyết áp và các triệu chứng khác"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +138,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giảm cân nếu có chỉ số BMI ở mức thừa cân – béo phì (≥ 25)",
+      "Tránh xa thuốc lá",
+      "Tập thể dục thường xuyên",
+      "Kiểm soát huyết áp hoặc lượng đường trong máu",
+      "Dùng aspirin liều thấp (81mg) sau 12 tuần mang thai nếu có yếu tố nguy cơ cao",
+      "Bổ sung đủ lượng canxi cần thiết (1.200 – 1.500mg/ngày) thông qua chế độ ăn uống và thực phẩm bổ sung",
+      "Khám thai định kỳ để phát hiện sớm các dấu hiệu bất thường",
+      "Sau sinh, duy trì cân nặng lý tưởng, ăn nhiều trái cây và rau quả, tập thể dục thường xuyên để giảm nguy cơ mắc bệnh tim mạch"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tiền sản giật có thể xảy ra khi nào trong thai kỳ?",
+      "answer": "Tiền sản giật có thể xảy ra sớm sau tuần thai thứ 20, nhưng đa phần các triệu chứng chỉ xuất hiện sau tuần thai thứ 34 (khoảng 3 tháng cuối thai kỳ). Ở một vài thai phụ, triệu chứng có thể xuất hiện sau khi lâm bồn, thường là trong vòng 48 giờ sau sinh và muộn nhất là 6 tuần sau sinh."
+    },
+    {
+      "question": "Khi nào tôi nên đi khám bác sĩ nếu nghi ngờ bị tiền sản giật?",
+      "answer": "Bạn nên luôn đi khám thai theo định kỳ để các bác sĩ theo dõi tình trạng huyết áp. Gọi ngay cho bác sĩ hoặc đi tới bệnh viện ngay nếu bạn có các triệu chứng như: đau nặng đầu nhiều, tầm nhìn suy giảm, bụng đau quặng hay thở dốc. Nói chung, khi có các triệu chứng bất thường, bạn nên tham khảo ý kiến bác sĩ ngay lập tức."
+    },
+    {
+      "question": "Nếu tôi đã bị tiền sản giật trong lần mang thai trước, khả năng tôi bị lại là bao nhiêu?",
+      "answer": "Nếu bạn bị tiền sản giật vào cuối thai kỳ trước, khả năng bệnh xảy ra một lần nữa là khá thấp - khoảng 13%. Nếu bạn bị tiền sản giật nặng trước 29 tuần mang thai, khả năng bạn bị lại là 40% hoặc thậm chí cao hơn. Nếu bạn bị ở hai lần mang thai trước, nguy cơ bị lại ở lần mang thai thứ ba là khoảng 30%."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tăng cân đột ngột, sưng phù mặt và tay chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiền sản giật", "Suy thận", "Bệnh gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu dữ dội và mờ mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiền sản giật", "Đau nửa đầu", "Tăng huyết áp"]
+    },
+    {
+      "question": "Tôi hay buồn nôn, nôn và đau bụng trên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiền sản giật", "Hội chứng HELLP", "Viêm gan"]
+    },
+    {
+      "question": "Tôi hiện đang mang song thai và bị tăng huyết áp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiền sản giật",
+        "Tăng huyết áp thai kỳ",
+        "Hội chứng HELLP"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và có protein trong nước tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiền sản giật",
+        "Bệnh thận",
+        "Nhiễm trùng đường tiết niệu"
+      ]
     }
   ]
 }

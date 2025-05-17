@@ -1,39 +1,96 @@
 {
   "disease_id": "u-mem-treo",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U mềm treo",
+  "disease_alternative_names": ["Thịt dư da", "Mụn thịt dư", "Skin tags"],
+  "disease_definition": "U mềm treo là tình trạng tăng sinh lành tính của da bình thường. Khối u mềm có bề mặt trơn láng, thường mọc ra từ một cái cuống hoặc nhú, trồi lên hẳn so với bề mặt da, có màu sắc đen, vàng, nâu hoặc trùng màu da. Những nốt mụn thịt dư này thường có kích thước từ 1-10mm, tuy nhiên không ít trường hợp kích thước lên đến 3cm, thậm chí lớn hơn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nốt sần trên da",
+      "description": "Những nốt sần tròn, chắc, bề mặt nhẵn, gồ cao trên da, có màu đen, nâu, vàng hoặc trùng màu da"
+    },
+    {
+      "name": "Nốt sần có cuống",
+      "description": "Nốt sần thường mọc ra từ một cái cuống hoặc nhú, trồi lên hẳn so với bề mặt da"
+    },
+    {
+      "name": "Nốt sần tập trung thành nhóm",
+      "description": "Nốt sần có thể tập trung thành nhóm, khu trú hoặc lan rộng trên da/bề mặt niêm mạc"
+    },
+    {
+      "name": "Ngứa ngáy, khó chịu",
+      "description": "Cảm giác ngứa ngáy hoặc khó chịu tại vị trí nốt u"
+    },
+    {
+      "name": "Ảnh hưởng chức năng",
+      "description": "Tùy vào vị trí u xuất hiện sẽ gây ra những hệ lụy tại bộ phận đó, như sụp mi khi u ở mi mắt, ảnh hưởng sinh lý khi u ở bộ phận sinh dục"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Da tiếp xúc quá lâu, trong thời gian dài với nắng mà không có các biện pháp chống nắng thích hợp.",
+    "related_factors": "Đặc điểm khí hậu nhiệt đới gió mùa, ánh nắng chói chang nhiều giờ trong ngày. Tuổi cao cũng là yếu tố gây lão hóa da. Quá trình hình thành những khối u mềm diễn ra khoảng 3-4 năm.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi trên 50",
+    "Tiếp xúc nhiều với ánh nắng mặt trời",
+    "Làm việc ngoài trời không có phụ kiện che nắng",
+    "Béo phì",
+    "Tiểu đường",
+    "Hội chứng chuyển hóa",
+    "Tiền sử gia đình mắc bệnh về da"
+  ],
+  "complications": [
+    "Nhiễm trùng sau điều trị không đúng cách",
+    "Chảy máu sau điều trị không đúng cách",
+    "Sẹo xấu sau điều trị không đúng cách",
+    "Xuất hiện sẹo sau khi phẫu thuật",
+    "Xoắn hoặc nhồi máu tự phát ở những nốt mụn thịt dư có cuống",
+    "Viêm da kích ứng ở vùng da phẫu thuật",
+    "U thần kinh nếu một dây thần kinh phát triển trong khối thịt dư da bị cắt"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Quan sát trực tiếp các tổn thương trên da",
+      "Đánh giá vị trí, kích thước và đặc điểm của nốt u"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám da liễu",
+        "description": "Bác sĩ da liễu sẽ thăm khám trực tiếp những nốt sần trên da để xác định đó có phải là u mềm treo hay không"
+      },
+      {
+        "name": "Sinh thiết (hiếm khi cần thiết)",
+        "description": "Trong những trường hợp hiếm, nếu nghi ngờ tình trạng nghiêm trọng hơn, có thể thực hiện sinh thiết để xác định chính xác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị u mềm treo là một thủ thuật thẩm mỹ đơn giản. Sau điều trị đúng y khoa, u mềm không tái xuất hiện ở vị trí đã được xử lý.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng nitơ lạnh",
+        "description": "Đốt bằng cách chấm, bắn hay kẹp nitơ vào sang thương. Phương pháp này không cần phải gây tê hay gây mê, không gây đau, không chảy máu và không để lại sẹo"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ",
+        "description": "Phương pháp phẫu thuật truyền thống để cắt bỏ các nốt u mềm treo"
+      },
+      {
+        "name": "Đốt điện tổn thương",
+        "description": "Sử dụng dòng điện để đốt và loại bỏ các nốt u mềm treo"
+      },
+      {
+        "name": "Đốt laser",
+        "description": "Sử dụng công nghệ laser để loại bỏ các nốt u mềm treo, thường ít để lại sẹo"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không tự điều trị u mềm treo tại nhà bằng cách đốt, lấy chỉ cắt",
+      "Nên đi khám khi u mềm treo xuất hiện ở vị trí quan trọng như mắt, khuôn mặt",
+      "Nên đi khám khi sang thương có kích thước lớn hơn 2cm",
+      "Theo dõi vùng da sau điều trị để tránh nhiễm trùng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +98,48 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Đội nón, che nắng, đeo kính, bôi kem chống nắng khi đi ra ngoài",
+      "Hạn chế tiếp xúc với ánh nắng mặt trời nhất là khi đi biển vào mùa hè",
+      "Bổ sung vitamin E để làm chậm quá trình lão hóa da",
+      "Kiểm soát cân nặng, giữ cân nặng hợp lý",
+      "Kiểm soát bệnh lý nền như tiểu đường, hội chứng chuyển hóa"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U mềm treo có nguy hiểm không?",
+      "answer": "U mềm treo là tình trạng lành tính và thường không gây nguy hiểm cho sức khỏe. Tuy nhiên, chúng có thể gây mất thẩm mỹ, đặc biệt khi xuất hiện ở vùng mặt, cổ. Trong một số trường hợp, u mềm treo có thể gây khó chịu hoặc đau đớn nếu bị cọ xát, xoắn hoặc bị kéo."
+    },
+    {
+      "question": "U mềm treo có tự biến mất không?",
+      "answer": "U mềm treo thường không tự biến mất. Theo thời gian, chúng có thể tăng kích thước hoặc xuất hiện thêm những nốt mới. Để loại bỏ u mềm treo, cần phải được điều trị bởi bác sĩ da liễu bằng các phương pháp như sử dụng nitơ lạnh, đốt điện, đốt laser hoặc phẫu thuật cắt bỏ."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa u mềm treo?",
+      "answer": "Để phòng ngừa u mềm treo, bạn nên đội nón, che nắng, đeo kính, bôi kem chống nắng khi đi ra ngoài, nhất là khi đi biển vào mùa hè. Ngoài ra, bổ sung vitamin E để làm chậm quá trình lão hóa da, kiểm soát cân nặng và các bệnh lý nền như tiểu đường, hội chứng chuyển hóa cũng giúp giảm nguy cơ phát triển u mềm treo."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện các nốt sần trên da, màu đen, nâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U mềm treo", "Dày sừng tiết bã", "Nốt ruồi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa ngáy, khó chịu ở những nốt sần trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U mềm treo", "Viêm da", "Mụn cóc"]
+    },
+    {
+      "question": "Tôi hay bị nổi các nốt sần ở vùng cổ, nách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U mềm treo", "Viêm nang lông", "Mụn cóc phẳng"]
+    },
+    {
+      "question": "Tôi hay bị nổi các nốt sần trên da, có cuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U mềm treo", "U tuyến mồ hôi", "U tuyến bã"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mất thẩm mỹ vì các nốt sần xuất hiện ở vùng mặt, cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U mềm treo", "Dày sừng tiết bã", "U tuyến bã"]
     }
   ]
 }

@@ -1,58 +1,181 @@
 {
   "disease_id": "tu-chung-fallot",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tứ chứng Fallot",
+  "disease_alternative_names": [
+    "Fallot 4",
+    "Tetralogy of Fallot",
+    "TOF",
+    "TET"
+  ],
+  "disease_definition": "Tứ chứng Fallot hay Fallot 4 là bệnh tim bẩm sinh tím thường gặp nhất. Bệnh có 4 bất thường về mặt giải phẫu là: thông liên thất, tắc nghẽn đường thoát thất phải, động mạch chủ cưỡi ngựa, và phì đại buồng thất phải. Các bất thường này làm giảm lượng máu đen cần trao đổi oxy bơm lên phổi, dẫn đến lượng oxy trong máu thấp hơn bình thường.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Da và niêm mạc tím tái",
+      "description": "Tím thường là dấu hiệu đầu tiên để nhận biết, da và niêm mạc tím do nồng độ oxy máu giảm"
+    },
+    {
+      "name": "Âm thổi tim",
+      "description": "Có thể phát hiện ở trẻ khỏe mạnh đi khám bệnh, đây là dấu hiệu đầu tiên của tứ chứng Fallot"
+    },
+    {
+      "name": "Mệt mỏi, khó thở",
+      "description": "Khó thở và mệt mỏi đặc biệt khi gắng sức"
+    },
+    {
+      "name": "Chậm tăng cân và bú kém",
+      "description": "Trẻ sơ sinh có thể gặp khó khăn khi bú, dẫn đến chậm tăng cân"
+    },
+    {
+      "name": "Tím tái tăng dần",
+      "description": "Tím có thể ít rõ ràng ban đầu nhưng tăng dần theo thời gian, đặc biệt sau bữa ăn, khi tắm ấm hoặc stress"
+    },
+    {
+      "name": "Cơn tím",
+      "description": "Trẻ bị tím nặng, thở nhanh hơn bình thường và có thể trở nên cáu kỉnh hoặc quấy khóc"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Các bệnh lý tim bẩm sinh như tứ chứng Fallot thường được phát hiện tình cờ, không rõ căn nguyên gây bệnh, khó có thể dự đoán được trẻ nào có nguy cơ mắc bệnh.",
+    "related_factors": "Một số trường hợp ghi nhận có tiền căn gia đình, do đó yếu tố gen đã được xác minh có liên quan. Bố mẹ có con bị tứ chứng Fallot hoặc một bệnh lý tim bẩm sinh khác thì khi sinh con thứ hai sẽ có nguy cơ mắc bệnh tim bẩm sinh cao hơn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người bị tứ chứng Fallot",
+    "Tiền sử gia đình có người bị bệnh tim bẩm sinh",
+    "Mẹ nhiễm bệnh Sởi - Rubella trong thai kỳ",
+    "Mẹ tiếp xúc với hóa chất trong thai kỳ",
+    "Mẹ sử dụng thuốc không theo chỉ định trong 3 tháng đầu thai kỳ",
+    "Yếu tố di truyền"
+  ],
+  "complications": [
+    "Cơn tím do thiếu oxy ở trẻ nhũ nhi",
+    "Tím, cô đặc máu, thuyên tắc mạch",
+    "Suy tim",
+    "Nhiễm trùng, đặc biệt là viêm nội tâm mạc nhiễm trùng",
+    "Rối loạn nhịp sau phẫu thuật",
+    "Hở van động mạch phổi sau phẫu thuật",
+    "Thiếu máu cần bổ sung sắt"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám thực thể",
+      "Nghe âm thổi tim",
+      "Quan sát dấu hiệu tím"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang tim, phổi",
+        "description": "Giúp quan sát cấu trúc của tim, phổi cũng như phát hiện các bất thường liên quan"
+      },
+      {
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Đánh giá hoạt động co bóp của tim"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Khảo sát hình ảnh cấu trúc tim và chuyển động của tim, phát hiện các khiếm khuyết trong cấu trúc và hoạt động của tim"
+      },
+      {
+        "name": "Thông tim",
+        "description": "Áp dụng cho một số trẻ, nhất là trẻ lớn và thanh thiếu niên khi siêu âm tim không đủ chẩn đoán"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phẫu thuật là phương pháp điều trị tứ chứng Fallot hiệu quả nhất. Dựa vào tình trạng bệnh lý, thể trạng bệnh nhân mà bác sĩ sẽ có chỉ định phác đồ và thời gian phẫu thuật phù hợp nhất.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật sửa chữa hoàn toàn",
+        "description": "Bao gồm đóng thông liên thất (thường sử dụng miếng Dacron) và mở rộng thông nối thất phải và động mạch phổi, thường được tiến hành ở tháng thứ 3-6 đầu đời"
+      },
+      {
+        "name": "Phẫu thuật từng bước",
+        "description": "Trong một số trường hợp, việc phẫu thuật phải thực hiện 2 lần tùy theo tình trạng tổng thể, trẻ được tạo một cầu nối chủ - phổi tạm thời"
+      },
+      {
+        "name": "Thông tim can thiệp",
+        "description": "Được tiến hành ở thời điểm sơ sinh và trẻ nhỏ trong trường hợp khẩn cấp, nhằm mở rộng đường nối thất phải lên động mạch phổi"
+      },
+      {
+        "name": "Bổ sung dinh dưỡng và thuốc",
+        "description": "Bổ sung sắt phù hợp với thể trạng, sử dụng thuốc phòng ngừa lên cơn tím thiếu oxy"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đưa trẻ đến ngay cơ sở y tế nếu trẻ bị khó thở, yếu, tình trạng tím tăng",
+      "Khi trẻ lên cơn tím, cần vỗ về và trấn an trẻ, nới rộng quần áo",
+      "Đặt trẻ nằm ở tư thế gối ngực (nằm quay sang một bên, hai đầu gối co lên ngực) để tăng lượng máu lên phổi",
+      "Cho trẻ uống nhiều nước, bổ sung đầy đủ dinh dưỡng, nhất là thức ăn giàu chất sắt",
+      "Chia bữa ăn thành nhiều bữa nhỏ trong ngày cho trẻ nhỏ",
+      "Giữ vệ sinh và giữ ấm cho trẻ, tránh để trẻ bị sốt hay tiêu chảy",
+      "Chú ý giữ vệ sinh răng miệng để phòng ngừa nhiễm trùng, viêm nội tâm mạc",
+      "Tránh để trẻ vận động mạnh hoặc gắng sức",
+      "Thăm khám định kỳ suốt đời"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Phụ nữ cần được chủng ngừa Sởi - Rubella trước khi có ý định mang thai để giảm nguy cơ tứ chứng Fallot ở thai nhi",
+      "recommended_for": [
+        "Phụ nữ trong độ tuổi sinh sản",
+        "Phụ nữ trước khi mang thai"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Phụ nữ mang thai cần tránh tiếp xúc với các loại hóa chất",
+      "Không sử dụng thuốc không theo chỉ định vào 3 tháng đầu thai kỳ",
+      "Tham khảo ý kiến và hướng dẫn của bác sĩ khi cần dùng thuốc trong thai kỳ",
+      "Phụ nữ bị tứ chứng Fallot nên phẫu thuật triệt để trước khi có thai để giảm nguy cơ di truyền cho con",
+      "Tư vấn di truyền cho các cặp vợ chồng có tiền sử gia đình mắc bệnh tim bẩm sinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Trẻ bị tứ chứng Fallot có sống được không?",
+      "answer": "Mặc dù tứ chứng Fallot được đánh giá là bệnh tim bẩm sinh nặng, nhưng với những tiến bộ vượt bậc của y học hiện đại, hiện nay cơ hội phát hiện sớm và điều trị khỏi bệnh rất cao. Khoảng trên 90% trẻ bị tứ chứng Fallot được phẫu thuật triệt để có thể sống khỏe mạnh đến khi trưởng thành, với chức năng tim tốt. Có trường hợp người bệnh sống khỏe mạnh đến trên 80 tuổi."
+    },
+    {
+      "question": "Khi nào trẻ bị tứ chứng Fallot cần phẫu thuật?",
+      "answer": "Phẫu thuật thường được tiến hành vào tháng thứ 3-6 đầu đời của trẻ, trong một số trường hợp sẽ tiến hành sớm hơn hoặc muộn hơn nếu cần thiết. Bác sĩ điều trị sẽ thông báo cho bố mẹ về tình trạng tim của bé, xác định có phù hợp cho phẫu thuật hoàn toàn hay thực hiện từng bước để điều trị bệnh này."
+    },
+    {
+      "question": "Làm thế nào để chăm sóc trẻ bị tứ chứng Fallot?",
+      "answer": "Trẻ sau phẫu thuật cần thăm khám định kỳ suốt đời, khám lâm sàng mỗi tháng trong vòng 6 tháng đầu và mỗi năm sau đó, siêu âm tim kiểm tra trước khi xuất viện, tháng thứ 6, 12 và mỗi năm sau đó. Cần chú ý đến chế độ dinh dưỡng, bổ sung đủ sắt, tránh cho trẻ vận động mạnh, giữ vệ sinh răng miệng, và đưa trẻ đến ngay cơ sở y tế nếu có dấu hiệu bất thường như khó thở, yếu, tím tăng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da và niêm mạc tím tái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tứ chứng Fallot",
+        "Bệnh tim bẩm sinh tím",
+        "Thiếu oxy máu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, khó thở và tím tái khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tứ chứng Fallot",
+        "Suy tim",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chậm tăng cân và bú kém. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tứ chứng Fallot", "Suy dinh dưỡng", "Rối loạn nuốt"]
+    },
+    {
+      "question": "Tôi hay bị tím tái sau khi ăn, tắm nước ấm hoặc căng thẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tứ chứng Fallot", "Bệnh tim bẩm sinh", "Cơn tím"]
+    },
+    {
+      "question": "Tôi hay bị tím tái và thở nhanh hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tứ chứng Fallot",
+        "Suy hô hấp",
+        "Bệnh tim bẩm sinh tím"
+      ]
     }
   ]
 }

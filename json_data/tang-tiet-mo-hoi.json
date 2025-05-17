@@ -1,39 +1,133 @@
 {
   "disease_id": "tang-tiet-mo-hoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tăng tiết mồ hôi",
+  "disease_alternative_names": [
+    "Hội chứng tăng tiết mồ hôi",
+    "Bệnh tăng tiết mồ hôi",
+    "Hyperhidrosis"
+  ],
+  "disease_definition": "Bệnh tăng tiết mồ hôi là tình trạng đổ mồ hôi quá nhiều kể cả trong những tình huống bình thường. Những vùng trên cơ thể thường tiết nhiều mồ hôi là nách, bàn tay và bàn chân. Đôi lúc, mồ hôi tiết ra nhiều đến mức người bệnh luôn có cảm giác ẩm ướt khó chịu vùng bàn tay hay nách, khó khăn trong giao tiếp.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đổ mồ hôi đối xứng hai bên cơ thể",
+      "description": "Mồ hôi tiết ra ở cả hai bên cơ thể một cách đối xứng"
+    },
+    {
+      "name": "Mồ hôi quá nhiều gây khó khăn sinh hoạt",
+      "description": "Mồ hôi tiết nhiều đến mức gây khó khăn trong các hoạt động hàng ngày"
+    },
+    {
+      "name": "Đổ mồ hôi thường xuyên",
+      "description": "Tần suất đổ mồ hôi ít nhất 1 lần/tuần, không liên quan đến nhiệt độ hoặc hoạt động"
+    },
+    {
+      "name": "Đổ mồ hôi chủ yếu ban ngày",
+      "description": "Mồ hôi đổ nhiều vào ban ngày, ban đêm không đổ mồ hôi hoặc mồ hôi tiết không đáng kể"
+    },
+    {
+      "name": "Tay đẫm mồ hôi",
+      "description": "Lòng bàn tay thường xuyên ẩm ướt, ảnh hưởng đến việc bắt tay hoặc cầm nắm đồ vật"
+    },
+    {
+      "name": "Nách đổ mồ hôi",
+      "description": "Vùng nách tiết mồ hôi nhiều, làm ướt áo và gây mùi khó chịu"
+    },
+    {
+      "name": "Bàn chân tiết mồ hôi",
+      "description": "Bàn chân thường xuyên ẩm ướt, gây khó chịu khi đi giày và có thể kèm theo mùi hôi chân"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đối với những người bị chứng tăng tiết mồ hôi, các dây thần kinh báo hiệu đổ mồ hôi hoạt động mạnh trong mọi hoàn cảnh, kể cả khi không có kích thích từ nhiệt độ, hoạt động thể chất hoặc căng thẳng.",
+    "related_factors": "Tăng tiết mồ hôi được chia thành hai loại chính: nguyên phát (tự phát không rõ nguyên nhân) và thứ phát (do bệnh lý hoặc thuốc). Tăng tiết mồ hôi nguyên phát thường liên quan đến yếu tố di truyền. Tăng tiết mồ hôi thứ phát có thể do mang thai, đái tháo đường, cường giáp, mãn kinh, béo phì, bệnh Parkinson, viêm khớp dạng thấp, lymphoma, bệnh gout, nhiễm trùng, suy tim, suy hô hấp, căng thẳng, lạm dụng rượu bia, hoặc một số loại thuốc.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố di truyền (tiền sử gia đình)",
+    "Mang thai",
+    "Bệnh đái tháo đường",
+    "Cường giáp",
+    "Mãn kinh",
+    "Béo phì",
+    "Bệnh Parkinson",
+    "Viêm khớp dạng thấp",
+    "Lymphoma",
+    "Bệnh gout",
+    "Các bệnh lý nhiễm trùng",
+    "Đau tim hoặc suy tim",
+    "Suy hô hấp",
+    "Căng thẳng, lo lắng thái quá",
+    "Lạm dụng rượu bia hoặc chất kích thích",
+    "Sử dụng thuốc chữa bệnh Alzheimer",
+    "Sử dụng thuốc chống trầm cảm",
+    "Sử dụng thuốc điều trị đái tháo đường",
+    "Sử dụng pilocarpine (thuốc chữa bệnh tăng nhãn áp)"
+  ],
+  "complications": [
+    "Ngại giao tiếp, tự ti và né tránh các tình huống xã hội",
+    "Nhiễm trùng da do tình trạng ẩm ướt kéo dài",
+    "Nhiễm nấm, đặc biệt ở vùng da bẹn",
+    "Bệnh nấm da chân",
+    "Mùi cơ thể khó chịu do vi khuẩn phân hủy mồ hôi",
+    "Mất cơ hội nghề nghiệp và các mối quan hệ xã hội"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám và khai thác bệnh sử",
+      "Đánh giá thời điểm đổ mồ hôi (ban ngày hay ban đêm)",
+      "Đánh giá vị trí đổ mồ hôi",
+      "Đánh giá mức độ ảnh hưởng đến sinh hoạt hàng ngày",
+      "Đánh giá tần suất đổ mồ hôi",
+      "Loại trừ các nguyên nhân gây tăng tiết mồ hôi thứ phát"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thang đo độ nặng tăng tiết mồ hôi (HDSS)",
+        "description": "Đánh giá mức độ ảnh hưởng của đổ mồ hôi đến cảm xúc và hoạt động hàng ngày, từ 1 điểm (nhẹ) đến 4 điểm (rất nặng)"
+      },
+      {
+        "name": "Xét nghiệm sinh hóa máu",
+        "description": "Kiểm tra chức năng tuyến giáp và các yếu tố khác để loại trừ nguyên nhân thứ phát"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Giúp tìm ra nguyên nhân thứ phát gây tăng tiết mồ hôi nếu có"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Có nhiều phương pháp điều trị tăng tiết mồ hôi, mỗi phương pháp có ưu và nhược điểm khác nhau. Tùy thuộc vào tình trạng bệnh và lựa chọn của người bệnh, bác sĩ sẽ tư vấn phương pháp phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Muối nhôm",
+        "description": "Sử dụng chất chống mồ hôi có chứa nhôm clorua, thoa ở vị trí ảnh hưởng mỗi ngày một lần trước khi đi ngủ, sau đó duy trì mỗi tuần một lần"
+      },
+      {
+        "name": "Iontophoresis (công nghệ điện chuyển ion)",
+        "description": "Sử dụng thiết bị cung cấp dòng điện thế thấp cho vùng cơ thể ngâm trong nước điện ion, vô hiệu hóa hoạt động của tuyến mồ hôi"
+      },
+      {
+        "name": "Thuốc kháng cholinergic",
+        "description": "Ngăn chặn hoạt động của chất dẫn truyền thần kinh acetylcholine, giúp giảm chứng đổ mồ hôi toàn thân"
+      },
+      {
+        "name": "Tiêm botox",
+        "description": "Ngăn chặn các dây thần kinh kích thích tuyến mồ hôi, có tác dụng kéo dài vài tuần đến vài tháng trước khi cần tiêm nhắc lại"
+      },
+      {
+        "name": "Phẫu thuật cắt hạch giao cảm",
+        "description": "Phẫu thuật nội soi đốt hạch giao cảm chi phối tiết mồ hôi, là phương pháp ít xâm lấn với tỷ lệ thành công cao và tỷ lệ tái phát thấp"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Mặc trang phục rộng rãi, thoáng mát, từ chất liệu vải nhẹ như cotton, lụa",
+      "Mang theo áo dự phòng khi tập thể dục hoặc di chuyển ngoài trời nắng nóng",
+      "Sử dụng tất có khả năng hút ẩm tốt",
+      "Tắm từ 1-2 lần mỗi ngày bằng xà phòng diệt khuẩn",
+      "Sử dụng miếng lót cho vùng nách và lót giày để thấm mồ hôi",
+      "Hạn chế thực phẩm cay, đồ uống có cồn và cafein"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +135,60 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Mặc trang phục rộng rãi, thoáng mát",
+      "Chọn chất liệu vải nhẹ, thoáng khí như cotton, lụa",
+      "Mang theo áo dự phòng khi đi ra ngoài trời nóng",
+      "Sử dụng tất có khả năng hút ẩm tốt",
+      "Tắm thường xuyên với xà phòng diệt khuẩn",
+      "Sử dụng miếng lót nách và lót giày",
+      "Hạn chế thực phẩm cay và đồ uống có cồn, cafein",
+      "Giữ tinh thần thoải mái, giảm căng thẳng",
+      "Duy trì cân nặng hợp lý"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tăng tiết mồ hôi có nguy hiểm không?",
+      "answer": "Tăng tiết mồ hôi tuy không ảnh hưởng nhiều đến sức khỏe nhưng gây trở ngại lớn cho bệnh nhân trong sinh hoạt hàng ngày, gây ra những tình trạng như ngại giao tiếp, nhiễm trùng da, nhiễm nấm và mùi hôi cơ thể. Đây là một bệnh khá thường gặp, có tỷ lệ mắc khoảng 3-5% dân số thế giới."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ để điều trị tăng tiết mồ hôi?",
+      "answer": "Bạn nên đi khám khi đổ mồ hôi kèm theo sụt cân không chủ đích, đổ mồ hôi chủ yếu xảy ra trong lúc ngủ, đổ mồ hôi kèm theo sốt, đau ngực, tức ngực, khó thở và tim đập nhanh, hoặc đổ mồ hôi kéo dài không rõ nguyên nhân. Ngoài ra, nếu tình trạng đổ mồ hôi gây khó chịu và ảnh hưởng đến cuộc sống hàng ngày, bạn cũng nên đi khám."
+    },
+    {
+      "question": "Phẫu thuật cắt hạch giao cảm có hiệu quả không?",
+      "answer": "Phẫu thuật cắt hạch giao cảm là loại phẫu thuật ít xâm lấn, thời gian phẫu thuật nhanh, tính thẩm mỹ cao, điều trị bệnh triệt để với tỷ lệ tái phát cực thấp và sự hài lòng cao nhất ở những bệnh nhân đã lựa chọn phương pháp này. Đây là phương pháp được cân nhắc khi các biện pháp ít xâm lấn khác không thành công."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đổ mồ hôi quá nhiều ở tay, chân và nách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng tiết mồ hôi",
+        "Tăng tiết mồ hôi nguyên phát",
+        "Lo âu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó chịu và tự ti vì mồ hôi ra nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng tiết mồ hôi", "Rối loạn lo âu", "Stress"]
+    },
+    {
+      "question": "Tôi hay bị nhiễm trùng da và nấm da chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng tiết mồ hôi", "Bệnh nấm da", "Viêm da"]
+    },
+    {
+      "question": "Tôi có mùi cơ thể khó chịu do mồ hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng tiết mồ hôi", "Hôi nách", "Nhiễm khuẩn da"]
+    },
+    {
+      "question": "Tôi bị cường giáp và đổ mồ hôi nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng tiết mồ hôi thứ phát",
+        "Cường giáp",
+        "Rối loạn tuyến giáp"
+      ]
     }
   ]
 }

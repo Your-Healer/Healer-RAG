@@ -1,39 +1,107 @@
 {
-  "disease_id": "tieu-dem",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_id": "tieu_dem",
+  "disease_name": "Tiểu đêm",
+  "disease_alternative_names": ["Đái đêm", "Nocturia", "Chứng tiểu đêm"],
+  "disease_definition": "Tiểu đêm là tình trạng người bệnh thường xuyên thức giấc nhiều hơn 1 lần để đi tiểu. Bàng quang của người trưởng thành khỏe mạnh có thể chứa khoảng 300 – 400ml nước tiểu. Khi đầy, bàng quang sẽ kích thích dẫn truyền lên não bộ để tạo ra phản xạ đi tiểu. Trong giấc ngủ đêm, thần kinh sẽ ức chế không cho bàng quang co bóp để tạo phản xạ đi tiểu, giúp duy trì giấc ngủ ngon.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thức giấc nhiều lần để đi tiểu",
+      "description": "Người bệnh thức dậy hơn 1 lần trong đêm để đi tiểu"
+    },
+    {
+      "name": "Mệt mỏi, uể oải",
+      "description": "Người bệnh cảm thấy mệt mỏi, uể oải do giấc ngủ bị gián đoạn"
+    },
+    {
+      "name": "Khó ngủ lại sau khi đi tiểu",
+      "description": "Khó khăn trong việc ngủ lại sau khi thức dậy đi tiểu"
+    },
+    {
+      "name": "Cảm giác bàng quang đầy",
+      "description": "Cảm giác bàng quang đầy buộc phải thức dậy đi tiểu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tiểu đêm có thể do nhiều nguyên nhân khác nhau, từ mất cân bằng dịch trong cơ thể, vấn đề về thần kinh, rối loạn đường tiểu dưới, đến việc tăng sinh tuyến tiền liệt ở nam giới.",
+    "related_factors": "Nguyên nhân cụ thể bao gồm: uống quá nhiều nước hoặc rượu bia vào buổi tối, đái tháo đường, tăng canxi máu, suy thận mạn, sử dụng thuốc lợi tiểu gần giờ ngủ, biến đổi tiết hormone chống lợi niệu, ứ máu tĩnh mạch gây phù, suy tim sung huyết, ngưng thở khi ngủ, bệnh niệu đạo gây tắc nghẽn, bàng quang hoạt động quá mức, viêm bàng quang mô kẽ, nhiễm trùng đường niệu, tăng sinh lành tính tuyến tiền liệt ở nam giới.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (trên 50 tuổi)",
+    "Nam giới bị tăng sinh lành tính tuyến tiền liệt",
+    "Người mắc bệnh đái tháo đường",
+    "Người bị suy tim",
+    "Người bị ngưng thở khi ngủ",
+    "Người uống nhiều nước, rượu bia vào buổi tối",
+    "Người dùng thuốc lợi tiểu, đặc biệt là vào buổi tối",
+    "Người bị viêm bàng quang, nhiễm trùng đường tiểu",
+    "Người bị bệnh thận"
+  ],
+  "complications": [
+    "Mất ngủ kéo dài, ngủ không sâu giấc",
+    "Suy giảm trí nhớ",
+    "Mệt mỏi, uể oải",
+    "Tăng nguy cơ mắc bệnh huyết áp, tim mạch",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Nguy cơ té ngã ở người cao tuổi khi thức dậy đi tiểu vào ban đêm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Ghi chép lại thông tin về lượng nước uống vào và tần suất đi tiểu",
+      "Đánh giá thời điểm bắt đầu tiểu đêm",
+      "Đánh giá số lần phải thức dậy để đi tiểu",
+      "Kiểm tra tiền sử bệnh về bàng quang hoặc tiểu đường"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đo đường huyết",
+        "description": "Xác định có mắc tiểu đường hay không"
+      },
+      {
+        "name": "Xét nghiệm ure máu",
+        "description": "Đánh giá chức năng thận"
+      },
+      {
+        "name": "Nghiệm pháp nhịn nước",
+        "description": "Đánh giá khả năng cô đặc nước tiểu của thận"
+      },
+      {
+        "name": "Cấy nước tiểu",
+        "description": "Xác định có nhiễm trùng đường tiểu hay không"
+      },
+      {
+        "name": "Siêu âm, chụp CT",
+        "description": "Đánh giá cấu trúc đường tiết niệu và phát hiện bất thường"
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Kiểm tra bất thường trong bàng quang"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy thuộc vào nguyên nhân gây tiểu đêm, bác sĩ sẽ có hướng điều trị phù hợp. Chứng tiểu đêm do bệnh lý thường sẽ thuyên giảm khi bệnh được kiểm soát tốt.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều chỉnh thời gian dùng thuốc",
+        "description": "Người bệnh nên sử dụng thuốc lợi tiểu sớm hơn vào ban ngày"
+      },
+      {
+        "name": "Điều trị ngưng thở khi ngủ",
+        "description": "Thăm khám các chuyên gia về giấc ngủ hay bác sĩ tim mạch để điều trị chứng ngưng thở khi ngủ"
+      },
+      {
+        "name": "Điều trị bệnh lý nguyên nhân",
+        "description": "Điều trị các bệnh lý như đái tháo đường, nhiễm trùng đường tiểu, tăng sinh lành tính tuyến tiền liệt để giảm thiểu tiểu đêm"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế uống nước (ít nhất 2 tiếng) trước khi ngủ",
+      "Tránh sử dụng các thức uống lợi tiểu vào buổi tối như rượu bia, cà phê, trà",
+      "Tránh ăn mặn và hạn chế ăn các loại trái cây nhiều nước vào buổi tối",
+      "Tập thói quen đi tiểu trước khi ngủ",
+      "Kê cao chân khi ngủ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +109,55 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế uống nước (ít nhất 2 tiếng) trước khi ngủ",
+      "Tránh sử dụng các thức uống lợi tiểu vào buổi tối như rượu bia, cà phê, trà",
+      "Tránh ăn mặn, hạn chế ăn các loại trái cây nhiều nước trong bữa tối",
+      "Tập thói quen đi tiểu trước khi ngủ, kê cao chân khi ngủ",
+      "Thư giãn, giữ tinh thần thoải mái trước khi ngủ",
+      "Chuẩn bị lối đi thuận tiện từ chỗ nằm đến nhà vệ sinh để tránh té ngã",
+      "Tăng cường tập thể dục để kiểm soát tốt cân nặng",
+      "Trao đổi với bác sĩ về tác dụng phụ lợi tiểu của thuốc điều hòa huyết áp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tiểu đêm có phải là dấu hiệu của bệnh tiểu đường không?",
+      "answer": "Tiểu đêm có thể là một dấu hiệu của bệnh tiểu đường. Khi bị tiểu đường, lượng đường trong máu tăng cao khiến thận phải làm việc nhiều hơn để lọc bỏ lượng đường dư thừa, từ đó dẫn đến việc tạo ra nhiều nước tiểu hơn và gây tiểu đêm. Tuy nhiên, tiểu đêm cũng có thể do nhiều nguyên nhân khác như uống quá nhiều nước vào buổi tối, suy tim, tăng sinh lành tính tuyến tiền liệt, hay rối loạn đường tiểu dưới."
+    },
+    {
+      "question": "Tiểu đêm nhiều lần có nguy hiểm không?",
+      "answer": "Tiểu đêm lâu dài có thể gây ra một số biến chứng ảnh hưởng đến sức khỏe. Khi phải thức dậy 2-3 lần trong đêm để đi tiểu, người bệnh sẽ bị mất ngủ kéo dài, ngủ không sâu giấc. Lâu dần, hệ thần kinh sẽ bị ảnh hưởng, trí nhớ sụt giảm, mệt mỏi khi thức dậy buổi sáng. Tiểu đêm nhiều lần ở người lớn tuổi còn làm tăng nguy cơ mắc bệnh huyết áp, tim mạch. Ngoài ra, tiểu đêm cũng có thể là dấu hiệu của các bệnh lý nghiêm trọng khác cần được kiểm tra và điều trị kịp thời."
+    },
+    {
+      "question": "Làm thế nào để giảm tiểu đêm?",
+      "answer": "Để giảm tiểu đêm, bạn có thể áp dụng một số biện pháp sau: hạn chế uống nước ít nhất 2 tiếng trước khi ngủ; tránh sử dụng các thức uống lợi tiểu vào buổi tối như rượu bia, cà phê, trà; tránh ăn mặn và hạn chế ăn các loại trái cây nhiều nước trong bữa tối; tập thói quen đi tiểu trước khi ngủ; kê cao chân khi ngủ; thư giãn, giữ tinh thần thoải mái trước khi ngủ; và tăng cường tập thể dục để kiểm soát tốt cân nặng. Nếu tiểu đêm do bệnh lý, việc điều trị đúng bệnh sẽ giúp cải thiện tình trạng này."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như thức dậy đi tiểu nhiều lần trong đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đêm",
+        "Đái tháo đường",
+        "Tăng sinh lành tính tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi vì phải thức dậy đi tiểu nhiều lần trong đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiểu đêm", "Ngưng thở khi ngủ", "Suy tim"]
+    },
+    {
+      "question": "Tôi hay thức giấc vào ban đêm để đi tiểu, sau đó khó ngủ lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiểu đêm", "Rối loạn giấc ngủ", "Rối loạn lo âu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy lo lắng vì tần suất tiểu đêm ngày càng nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiểu đêm", "Suy thận mạn", "Bệnh tuyến tiền liệt"]
+    },
+    {
+      "question": "Tôi hay uống nhiều nước vào buổi tối và phải thức dậy đi tiểu nhiều lần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiểu đêm", "Đa niệu", "Rối loạn đường tiểu dưới"]
     }
   ]
 }

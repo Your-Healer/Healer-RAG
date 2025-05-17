@@ -1,39 +1,127 @@
 {
   "disease_id": "tang-acid-uric-mau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tăng acid uric máu",
+  "disease_alternative_names": [
+    "Acid uric cao trong máu",
+    "Hyperuricemia",
+    "Tăng axit uric máu"
+  ],
+  "disease_definition": "Tăng acid uric máu là tình trạng chỉ số acid uric trong máu cao bất thường, xảy ra khi cơ thể phân hủy purin quá mức hoặc không đào thải được acid uric ra khỏi cơ thể. Tình trạng này là một dấu hiệu cảnh báo điển hình của các bệnh Gout và thận.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng, nóng, đỏ, đau khớp",
+      "description": "Các khớp bị viêm sẽ sưng to, nóng, đỏ và gây đau đớn, thường gặp nhất ở ngón chân cái"
+    },
+    {
+      "name": "Giới hạn vận động các khớp",
+      "description": "Khó khăn trong vận động khớp, đi lại khó khăn, ảnh hưởng đến sinh hoạt hàng ngày"
+    },
+    {
+      "name": "Cứng khớp, biến dạng khớp",
+      "description": "Khi bệnh kéo dài sẽ dẫn đến tình trạng cứng khớp và biến dạng khớp"
+    },
+    {
+      "name": "Nổi hạt tophi dưới da",
+      "description": "Các cục u cứng xuất hiện dưới da do lắng đọng tinh thể acid uric, thường gặp ở tai, ngón tay, ngón chân, khủy tay"
+    },
+    {
+      "name": "Đau quặn bụng, tiểu ra máu",
+      "description": "Triệu chứng của sỏi thận do acid uric, đau dữ dội vùng bụng dưới và tiểu ra máu"
+    },
+    {
+      "name": "Rối loạn đi tiểu",
+      "description": "Đi tiểu thường xuyên, nước tiểu đục, có mùi hôi nồng hoặc lẫn máu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân khiến acid uric cao chủ yếu đến từ hàm lượng purin nạp vào trong cơ thể cao hơn mức cần thiết. Tình trạng này xảy ra khi cơ thể phân hủy purin quá mức hoặc không đào thải được acid uric ra khỏi cơ thể.",
+    "related_factors": "Các yếu tố như di truyền, môi trường, chế độ dinh dưỡng và thói quen sống là những lý do có thể ảnh hưởng đến sự tăng giảm của acid uric trong cơ thể người. Acid uric sẽ gia tăng khi tăng tiêu thụ lượng lớn purin vào cơ thể hoặc khi có tổn thương thận làm giảm thải trừ acid uric.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hội chứng chuyển hóa",
+    "Lạm dụng hoặc sử dụng rượu bia thường xuyên",
+    "Tăng huyết áp",
+    "Đái tháo đường",
+    "Ăn thực phẩm giàu purine như thịt đỏ, hải sản có vỏ",
+    "Sử dụng thuốc lợi tiểu quai, thiazide",
+    "Nam giới",
+    "Bệnh lý thận",
+    "Suy giáp",
+    "Béo phì"
+  ],
+  "complications": [
+    "Bệnh gout",
+    "Sỏi thận",
+    "Suy thận",
+    "Tăng huyết áp",
+    "Tổn thương xương, khớp vĩnh viễn",
+    "Rối loạn chuyển hóa",
+    "Bệnh đái tháo đường",
+    "Bệnh tim mạch",
+    "Bệnh thận mạn tính"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng các triệu chứng",
+      "Đánh giá tiền sử bệnh và các yếu tố nguy cơ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Đo nồng độ acid uric trong máu, cao hơn 7 mg/dl ở nam và 6 mg/dl ở nữ được coi là tăng acid uric máu"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra nồng độ acid uric niệu và tìm tinh thể MSU (monosodium urate) trong nước tiểu"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Hỗ trợ chẩn đoán bệnh gout và kiểm tra tình trạng khớp"
+      },
+      {
+        "name": "Chụp X-quang vùng bị sưng đau",
+        "description": "Đánh giá tổn thương xương khớp do gout"
+      },
+      {
+        "name": "Chọc dịch khớp",
+        "description": "Lấy dịch khớp để tìm tinh thể MSU, xác định chẩn đoán gout"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị tăng acid uric máu được chủ yếu là điều chỉnh chế độ dinh dưỡng, giảm hàm lượng purine động vật có trong bữa ăn. Người không có triệu chứng chưa cần dùng thuốc, người đã bị gout cần điều trị đặc hiệu song song với thay đổi chế độ dinh dưỡng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều chỉnh chế độ dinh dưỡng",
+        "description": "Giảm thực phẩm giàu purine, tăng cường rau xanh và uống nhiều nước"
+      },
+      {
+        "name": "Thuốc kháng viêm",
+        "description": "Sử dụng thuốc chống viêm không steroid, colchicine hoặc corticoid để giảm sưng đau khớp trong gout cấp"
+      },
+      {
+        "name": "Thuốc hạ acid uric máu",
+        "description": "Allopurinol, febuxostat, probenecid được sử dụng kéo dài để duy trì nồng độ acid uric máu dưới ngưỡng cần thiết"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ hạt tophi",
+        "description": "Áp dụng khi có hạt tophi lớn gây cứng khớp, ảnh hưởng đến vận động"
+      },
+      {
+        "name": "Điều trị sỏi thận",
+        "description": "Uống thuốc giảm đau, tán sỏi hoặc phẫu thuật cắt bỏ tùy thuộc vào kích thước sỏi"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không ăn nội tạng động vật",
+      "Hạn chế hải sản có vỏ như tôm, cua",
+      "Hạn chế thịt đỏ như thịt bò, thịt dê, thịt cừu",
+      "Không uống rượu bia và các thực phẩm có chứa cafein",
+      "Ưu tiên đạm từ thực vật",
+      "Ăn nhiều rau xanh",
+      "Uống nhiều nước"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +129,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ dinh dưỡng lành mạnh, đầy đủ các chất",
+      "Kiểm soát lượng purine nạp vào cơ thể",
+      "Phát hiện sớm các triệu chứng gout và bệnh thận",
+      "Kiểm soát các loại trái cây ngọt, có hàm lượng đường fructose cao",
+      "Tránh nội tạng động vật",
+      "Hạn chế thịt đỏ",
+      "Hạn chế hải sản có vỏ",
+      "Tránh đồ uống có cồn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Chỉ số acid uric bao nhiêu là cao?",
+      "answer": "Theo các chuyên gia y tế, nồng độ acid uric bình thường ở người dao động từ 1,5-7 mg/dl. Lượng acid uric bên trong cơ thể nam giới sẽ cao hơn nữ giới khoảng 1 mg/dl. Một người có tình trạng acid uric máu tăng khi nồng độ của hợp chất này cao hơn 7 mg/dl đối với nam và 6 mg/dl đối với nữ."
+    },
+    {
+      "question": "Tăng acid uric máu có nguy hiểm không?",
+      "answer": "Tăng acid uric là một tình trạng sức khỏe đáng báo động. Tình trạng này là nguyên nhân dẫn đến các bệnh lý về cơ xương khớp, đặc biệt là gout, tổn thương thận gây sỏi thận và suy thận, tổn thương tim mạch gây tăng huyết áp. Ngoài ra, tình trạng tăng acid uric kéo dài cũng sẽ làm tăng cao nguy cơ mắc các bệnh như rối loạn chuyển hóa, bệnh đái tháo đường, tim mạch và bệnh thận mạn tính."
+    },
+    {
+      "question": "Ai dễ bị tăng acid uric máu?",
+      "answer": "Nam giới có khả năng dễ bị tăng acid uric trong máu hơn so với nữ giới. Điều này có thể liên quan đến tính chất công việc và thói quen sinh hoạt. Những yếu tố điển hình bao gồm sử dụng rượu bia nhiều, cường độ hoạt động thể chất nặng. Người có bệnh lý thận, huyết áp cao, đái tháo đường, suy giáp, béo phì, và người sử dụng thuốc điều trị bệnh tim mạch cũng có nguy cơ cao."
+    },
+    {
+      "question": "Thực phẩm nào tốt cho người bị tăng acid uric máu?",
+      "answer": "Người bị tăng acid uric máu nên ưu tiên hấp thu đạm từ thực vật, ăn nhiều rau xanh, uống nhiều nước, và tránh nội tạng động vật, hải sản có vỏ, thịt đỏ, rượu bia và các thực phẩm có chứa cafein. Việc duy trì một chế độ dinh dưỡng cân bằng và kiểm soát lượng purine nạp vào cơ thể là rất quan trọng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sưng, nóng, đỏ, đau khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng acid uric máu", "Gout", "Viêm khớp dạng thấp"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau quặn bụng, tiểu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng acid uric máu",
+        "Sỏi thận",
+        "Viêm đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng đau khớp, nổi hạt tophi dưới da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng acid uric máu", "Gout mạn tính", "Viêm khớp"]
+    },
+    {
+      "question": "Tôi ăn nhiều thịt đỏ, hải sản và uống nhiều bia. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng acid uric máu", "Gout", "Rối loạn chuyển hóa"]
+    },
+    {
+      "question": "Tôi bị bệnh thận và lo lắng về nguy cơ tăng acid uric máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng acid uric máu",
+        "Bệnh thận mạn tính",
+        "Sỏi thận"
+      ]
     }
   ]
 }

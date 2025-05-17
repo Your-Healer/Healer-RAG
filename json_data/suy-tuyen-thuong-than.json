@@ -1,39 +1,120 @@
 {
   "disease_id": "suy-tuyen-thuong-than",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy tuyến thượng thận",
+  "disease_alternative_names": ["Bệnh Addison", "Khủng hoảng Addisonian"],
+  "disease_definition": "Suy tuyến thượng thận là một rối loạn hiếm gặp, nguyên nhân có thể do bệnh của tuyến thượng thận (suy tuyến thượng thận nguyên phát – bệnh Addison) hoặc do các bệnh ở vùng dưới đồi hoặc tuyến yên, sử dụng thuốc corticoid kéo dài (suy tuyến thượng thận thứ phát). Đây là tình trạng tuyến thượng thận không sản xuất đủ hormone để điều chỉnh sự trao đổi chất, hệ thống miễn dịch, huyết áp và phản ứng với căng thẳng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mệt mỏi và chóng mặt",
+      "description": "Cảm giác mệt mỏi kéo dài và chóng mặt thường xuyên"
+    },
+    {
+      "name": "Da sẫm màu",
+      "description": "Da trở nên sẫm màu, đặc biệt ở vùng núm vú, miệng, trực tràng, bìu, âm đạo có thể chuyển thành màu xanh đen"
+    },
+    {
+      "name": "Sụt cân và chán ăn",
+      "description": "Giảm cân không rõ nguyên nhân và mất cảm giác thèm ăn"
+    },
+    {
+      "name": "Buồn nôn và nôn mửa",
+      "description": "Thường xuyên cảm thấy buồn nôn, nôn mửa, bụng cồn cào khó chịu"
+    },
+    {
+      "name": "Tiêu chảy",
+      "description": "Đi ngoài phân lỏng nhiều lần trong ngày"
+    },
+    {
+      "name": "Đau cơ",
+      "description": "Cảm giác đau nhức ở các cơ trong cơ thể"
+    },
+    {
+      "name": "Huyết áp thấp",
+      "description": "Áp lực máu giảm thấp hơn mức bình thường"
+    },
+    {
+      "name": "Hạ đường huyết",
+      "description": "Lượng đường trong máu giảm xuống dưới mức bình thường"
+    },
+    {
+      "name": "Vô kinh hoặc kinh nguyệt không đều",
+      "description": "Mất kinh nguyệt hoặc chu kỳ kinh nguyệt trở nên bất thường"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy tuyến thượng thận xảy ra khi tuyến thượng thận không sản xuất đủ hormone cortisol và, trong một số trường hợp, aldosterone.",
+    "related_factors": "Nguyên nhân suy tuyến thượng thận nguyên phát thường do bệnh tự miễn dịch, chảy máu trong tuyến, nhiễm trùng, bệnh di truyền và phẫu thuật cắt bỏ tuyến thượng thận. Suy tuyến thượng thận thứ phát do tuyến yên không sản xuất đủ ACTH hoặc sử dụng corticoid kéo dài (phổ biến ở Việt Nam, đặc biệt ở bệnh nhân hen suyễn, viêm khớp dạng thấp).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sử dụng corticoid kéo dài",
+    "Bệnh tự miễn dịch",
+    "Người bị hen suyễn",
+    "Người bị viêm khớp dạng thấp",
+    "Phẫu thuật tuyến yên hoặc xạ trị vùng tuyến yên",
+    "U tuyến yên",
+    "Nhiễm trùng tuyến thượng thận"
+  ],
+  "complications": [
+    "Suy tuyến thượng thận cấp",
+    "Sốc",
+    "Co giật",
+    "Hôn mê",
+    "Tử vong nếu không được điều trị",
+    "Loãng xương (biến chứng của điều trị corticoid lâu dài)",
+    "Tiểu đường (biến chứng của điều trị corticoid lâu dài)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử và khám lâm sàng",
+      "Đánh giá các triệu chứng lâm sàng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra mức độ hormone tuyến thượng thận và ACTH trong máu"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra mức độ hormone tuyến thượng thận trong nước tiểu"
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Tạo hình ảnh tuyến thượng thận để phát hiện bất thường"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Kiểm tra kích thước và cấu trúc của tuyến thượng thận"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Cung cấp hình ảnh chi tiết của tuyến thượng thận, tuyến yên và vùng dưới đồi"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Đa số người bệnh suy tuyến thượng thận phải bù hormone suốt đời, nhưng có một số trường hợp phục hồi có thể ngưng bù hormone.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay thế hormone",
+        "description": "Sử dụng hormone để thay thế, chủ yếu là cortisol và có thể cần aldosterone trong trường hợp bệnh Addison. Bắt đầu bằng truyền dịch và uống corticosteroid"
+      },
+      {
+        "name": "Điều chỉnh liều lượng",
+        "description": "Bác sĩ sẽ điều chỉnh liều lượng thuốc để đáp ứng nhu cầu của cơ thể, đặc biệt là trong tình huống stress"
+      },
+      {
+        "name": "Điều trị khẩn cấp",
+        "description": "Trong trường hợp chấn thương nặng hoặc suy tuyến thượng thận cấp, cần tiêm corticosteroid liều cao vào tĩnh mạch"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống thuốc đều đặn, không được ngưng thuốc đột ngột",
+      "Học cách điều chỉnh liều thuốc trong các tình huống stress như bệnh, tiêu chảy hoặc nhiễm trùng",
+      "Tái khám định kỳ để bác sĩ chỉnh liều và tầm soát biến chứng",
+      "Luôn mang theo thuốc dự trữ và thẻ cảnh báo suy tuyến thượng thận",
+      "Báo ngay cho bác sĩ khi cơ thể gặp stress để điều chỉnh liều thuốc"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +122,67 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không tự ý sử dụng thuốc corticoid khi chưa có chỉ định của bác sĩ",
+      "Nếu phải sử dụng corticoid lâu dài, cần đi khám định kỳ theo lịch hẹn",
+      "Khám bác sĩ ngay khi cơ thể có biểu hiện bất thường",
+      "Đối với người đã bị suy tuyến thượng thận, cần mang theo thuốc dự trữ và thông báo cho bác sĩ khi gặp stress"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh suy tuyến thượng thận có nguy hiểm không?",
+      "answer": "Bệnh suy tuyến thượng thận rất nguy hiểm. Nếu không được chữa trị kịp thời, người bệnh có thể bị suy tuyến thượng thận cấp với các biểu hiện: sốc, co giật, hôn mê, thậm chí tử vong. Do đó, việc phát hiện tình trạng suy tuyến thượng thận sớm đóng vai trò rất quan trọng, giúp người bệnh điều trị kịp thời, duy trì sức khỏe, cải thiện chất lượng cuộc sống."
+    },
+    {
+      "question": "Suy tuyến thượng thận cấp có biểu hiện như thế nào?",
+      "answer": "Các dấu hiệu của suy tuyến thượng thận cấp gồm: da nhợt nhạt, lạnh, cảm giác nhớp nháp; nôn mửa, tiêu chảy nặng; thở nhanh, khó thở, chóng mặt đi kèm với đau đầu dữ dội; suy yếu cơ bắp nghiêm trọng, mất ý thức; sốt cao, mất tri giác, loạn mạch. Đây là tình trạng cấp cứu cần được điều trị ngay lập tức."
+    },
+    {
+      "question": "Người bệnh suy tuyến thượng thận cần lưu ý gì khi dùng thuốc?",
+      "answer": "Người bệnh cần uống thuốc đều đặn, không được ngưng thuốc đột ngột vì có thể dẫn đến suy tuyến thượng thận cấp, đe dọa tính mạng. Họ cần biết cách điều chỉnh liều thuốc trong các tình huống stress như khi bị bệnh, tiêu chảy, nhiễm trùng. Người bệnh cũng nên tái khám định kỳ để bác sĩ chỉnh liều và tầm soát các biến chứng liên quan đến tác dụng phụ của việc sử dụng corticoid lâu dài."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang cảm thấy mệt mỏi, chóng mặt, sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tuyến thượng thận",
+        "Thiếu máu",
+        "Rối loạn tuyến giáp"
+      ]
+    },
+    {
+      "question": "Da của tôi đang bị sạm màu, vùng núm vú, miệng, trực tràng, bìu, âm đạo bị xanh đen. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tuyến thượng thận",
+        "Bệnh Addison",
+        "Rối loạn sắc tố da"
+      ]
+    },
+    {
+      "question": "Tôi hay bị buồn nôn, nôn mửa, bụng cồn cào khó chịu, tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tuyến thượng thận",
+        "Viêm dạ dày",
+        "Hội chứng ruột kích thích"
+      ]
+    },
+    {
+      "question": "Tôi bị đau cơ, huyết áp thấp, hạ đường huyết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tuyến thượng thận",
+        "Hạ đường huyết",
+        "Rối loạn điện giải"
+      ]
+    },
+    {
+      "question": "Tôi đang sử dụng corticoid kéo dài để điều trị hen suyễn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tuyến thượng thận thứ phát",
+        "Loãng xương",
+        "Tiểu đường do thuốc"
+      ]
     }
   ]
 }

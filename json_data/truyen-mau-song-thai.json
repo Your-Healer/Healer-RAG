@@ -1,39 +1,129 @@
 {
   "disease_id": "truyen-mau-song-thai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Hội chứng truyền máu song thai",
+  "disease_alternative_names": [
+    "Truyền máu thai đôi",
+    "Twin-twin Transfusion Syndrome",
+    "TTTS"
+  ],
+  "disease_definition": "Truyền máu song thai là hội chứng xảy ra trong thai kỳ, khi người mẹ đang mang bầu một cặp song sinh cùng trứng, chung bánh nhau, nhưng lại khác túi ối. Đây là một tai biến trước sinh vô cùng nghiêm trọng xảy ra với khoảng 15% trường hợp mang song thai có chung một bánh nhau.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Bụng to nhanh bất thường",
+      "description": "Thai phụ nhận thấy bụng lớn nhanh, quần áo chật nhanh trong một thời gian ngắn"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở do tử cung phát triển nhanh chèn ép vào cơ hoành"
+    },
+    {
+      "name": "Bụng căng tức",
+      "description": "Cảm giác căng tức ở bụng do đa ối"
+    },
+    {
+      "name": "Đa ối",
+      "description": "Tăng lượng nước ối quá mức ở thai nhận máu, thường xảy ra sau tuần thứ 20 của thai kỳ"
+    },
+    {
+      "name": "Thiểu ối",
+      "description": "Giảm lượng nước ối ở thai cho máu, khiến thai nhi bị bó chặt trong túi ối và không thể cử động tự do"
+    },
+    {
+      "name": "Chênh lệch kích thước thai nhi",
+      "description": "Thai nhi có sự chênh lệch hơn 20% về kích thước, với thai nhận máu thường lớn hơn thai cho máu"
+    },
+    {
+      "name": "Phù nề",
+      "description": "Thai nhi nhận máu có biểu hiện phù nề do tăng thể tích tuần hoàn quá mức"
+    },
+    {
+      "name": "Suy tim",
+      "description": "Thai nhi nhận máu có biểu hiện của suy tim do quá tải thể tích tuần hoàn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hội chứng truyền máu song thai xảy ra do có sự thông nối giữa mạch máu của hai thai nhi ở trong bánh nhau. 85% các trường hợp song thai một bánh nhau có sự thông nối giữa mạch máu của hai thai nhi trong bánh nhau.",
+    "related_factors": "Sự nối động mạch – tĩnh mạch dẫn đến tình trạng mất cân bằng huyết động giữa thai cho và thai nhận. Một động mạch phân nhánh từ dây rốn của cặp song thai, đi vào nhau thai để lấy oxy và chất dinh dưỡng, nhưng tĩnh mạch tương ứng lại hướng đến thai còn lại thông qua kết nối 'động mạch-tĩnh mạch' bất thường.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Song thai cùng trứng",
+    "Song thai chung bánh nhau",
+    "Song thai khác túi ối",
+    "Mang thai đôi",
+    "Không được theo dõi thai kỳ thường xuyên",
+    "Không phát hiện sớm các dấu hiệu bất thường trong thai kỳ"
+  ],
+  "complications": [
+    "Thai chậm tăng trưởng trong tử cung",
+    "Tử vong thai nhi (tỷ lệ 90-100% nếu không điều trị)",
+    "Sinh non",
+    "Tổn thương não (25% thai còn lại bị di chứng thần kinh nặng nề nếu một trong hai thai chết)",
+    "Hoại tử trắng quanh não thất (periventricular leukomalacia)",
+    "Suy giảm thần kinh",
+    "Thiếu máu",
+    "Suy tim"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám thai định kỳ",
+      "Theo dõi trọng lượng và kích thước thai nhi",
+      "Đánh giá lượng nước ối của mỗi thai"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm thai định kỳ",
+        "description": "Phát hiện sự mất cân bằng nước ối xung quanh song thai, với một lượng nhỏ (<2cm) xung quanh thai nhi cho và một lượng lớn xung quanh thai nhi nhận (> 8cm)"
+      },
+      {
+        "name": "Siêu âm màu Doppler",
+        "description": "Đánh giá lưu lượng máu trong dây rốn, xác định đường kính hai túi ối và trọng lượng hai thai chênh lệch, phát hiện sóng bất thường ở động mạch, tĩnh mạch rốn, ống tĩnh mạch"
+      },
+      {
+        "name": "Siêu âm hình thái học",
+        "description": "Cung cấp thông tin về các tình trạng bất thường về hình thái của thai nhi"
+      },
+      {
+        "name": "MRI hoặc CT",
+        "description": "Được sử dụng sau sinh để phát hiện tổn thương não như bệnh lý periventricular leukomalacia (hoại tử trắng quanh não thất)"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Chìa khóa để điều trị hội chứng truyền máu song sinh là chẩn đoán và can thiệp sớm. Lựa chọn điều trị nào là tốt nhất sẽ phụ thuộc vào giai đoạn và tuổi thai của thai nhi khi được chẩn đoán.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật nội soi laser",
+        "description": "Phẫu thuật laser trong buồng tử cung - dùng tia laser cắt đứt các mạch máu thông nối giúp mỗi thai phát triển riêng lẻ, không phụ thuộc vào thai kia. Đây là giải pháp hiệu quả nhất hiện nay."
+      },
+      {
+        "name": "Giảm thể tích nước ối",
+        "description": "Loại bỏ một phần nước ối từ túi của thai nhận nhiều máu để giảm áp lực trong tử cung"
+      },
+      {
+        "name": "Truyền máu cho thai trong buồng tử cung",
+        "description": "Cung cấp máu cho thai bị thiếu máu để duy trì sự sống"
+      },
+      {
+        "name": "Mở thông giữa hai buồng ối",
+        "description": "Tạo lỗ thông giữa hai màng ối để cân bằng lại lượng nước ối"
+      },
+      {
+        "name": "Hủy thai có chọn lọc",
+        "description": "Trong những trường hợp đặc biệt nghiêm trọng, có thể phải chấm dứt sự sống của một thai để cứu thai còn lại"
+      },
+      {
+        "name": "Dùng thuốc chống viêm cho mẹ",
+        "description": "Giúp kiểm soát tình trạng viêm và giảm các biến chứng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Khám thai định kỳ tại các cơ sở y tế có đủ trang thiết bị siêu âm hiện đại",
+      "Theo dõi chặt chẽ từ tuần thứ 16 đến khi sinh với siêu âm màu Doppler ít nhất 2 tuần một lần",
+      "Phát hiện và can thiệp sớm các dấu hiệu của bệnh, đặc biệt trước 20 tuần tuổi",
+      "Trẻ sinh ra cần được kiểm tra hình ảnh học của não bộ trong vòng 48 giờ sau sinh",
+      "Theo dõi chặt chẽ sự phát triển thần kinh của trẻ sau sinh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +131,64 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thai phụ mang song thai cần được khám thai đúng lịch tại các cơ sở y tế có đầy đủ phương tiện chẩn đoán hiện đại",
+      "Theo dõi chặt chẽ từ tuần thứ 16 đến khi sinh bằng siêu âm màu Doppler ít nhất 2 tuần một lần",
+      "Nếu thấy bụng to nhanh phải được kiểm tra ngay và xử trí kịp thời",
+      "Phát hiện sớm các dấu hiệu bất thường trong quá trình mang thai",
+      "Tham khảo ý kiến bác sĩ chuyên khoa sản ngay khi phát hiện mang thai đôi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Hội chứng truyền máu song thai có nguy hiểm không?",
+      "answer": "Hội chứng truyền máu song thai rất nguy hiểm. Nếu không được điều trị, tỷ lệ tử vong có thể lên đến 90-100%. Trong trường hợp hiện tượng truyền máu thai đôi xuất hiện trước tuần thứ 20 của thai kỳ, nguy cơ thai nhi tử vong gần như 100% nếu không được can thiệp kịp thời và đúng kỹ thuật. Ngay cả khi được điều trị, tỷ lệ tử vong thai nhi vẫn là 40% và tỷ lệ tử vong sơ sinh lên đến 60%."
+    },
+    {
+      "question": "Hội chứng truyền máu song thai có thể phát hiện khi nào?",
+      "answer": "Hội chứng này thường được phát hiện bằng siêu âm thai định kỳ trong giai đoạn từ 16 đến 22 tuần. Theo y văn, trường hợp được phát hiện sớm nhất là khi thai được 13 tuần tuổi. Truyền máu song thai thường xảy ra trong ba tháng giữa của thai kỳ. Người mẹ thường nhận ra triệu chứng đầu tiên sau tuần thứ 20 của thai kỳ là tình trạng đa ối: bụng lớn nhanh, quần áo chật nhanh trong một thời gian ngắn, có thể khó thở."
+    },
+    {
+      "question": "Phương pháp điều trị nào hiệu quả nhất cho hội chứng truyền máu song thai?",
+      "answer": "Hiện nay, giải pháp hiệu quả nhất điều trị Hội chứng truyền máu song thai là phẫu thuật nội soi thai nhi hay phẫu thuật laser trong buồng tử cung – dùng tia laser cắt đứt các mạch máu thông nối giúp mỗi thai phát triển riêng lẻ, không phụ thuộc vào thai kia. Phương pháp này giúp cải thiện đáng kể tỷ lệ sống sót của thai nhi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như bụng to nhanh bất thường khi mang song thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Hội chứng truyền máu song thai", "Đa ối", "Thai to"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở và bụng căng tức khi mang song thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Hội chứng truyền máu song thai",
+        "Đa ối",
+        "Tiền sản giật"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đa ối khi mang song thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Hội chứng truyền máu song thai",
+        "Đái tháo đường thai kỳ",
+        "Dị tật thai nhi"
+      ]
+    },
+    {
+      "question": "Tôi hay mang song thai cùng trứng, chung bánh nhau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Hội chứng truyền máu song thai",
+        "Song thai có biến chứng",
+        "Dây rốn xoắn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị thiểu ối khi mang song thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Hội chứng truyền máu song thai",
+        "Vỡ ối sớm",
+        "Thai chậm phát triển"
+      ]
     }
   ]
 }

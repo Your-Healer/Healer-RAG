@@ -1,39 +1,143 @@
 {
   "disease_id": "roi-loan-noi-tiet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn nội tiết",
+  "disease_alternative_names": [
+    "Bệnh nội tiết",
+    "Rối loạn hormone",
+    "Endocrine Disorders"
+  ],
+  "disease_definition": "Rối loạn nội tiết là tình trạng xảy ra khi chức năng của hệ thống nội tiết không được duy trì. Nguyên nhân có thể xuất phát từ chính các tuyến nội tiết sản xuất hormone, các thụ thể đáp ứng với hormone hoặc cơ quan đích chịu tác động của hormone. Dù nguyên nhân từ đâu thì các rối loạn nội tiết cũng có thể gây ảnh hưởng đến chức năng của toàn cơ thể.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Rối loạn chuyển hóa đường",
+      "description": "Sụt cân, khát nhiều, uống nhiều, tiểu nhiều, vết loét lâu lành, dễ nhiễm trùng, mắt nhìn mờ, tê rần ở bàn chân và các triệu chứng khác liên quan đến bệnh tiểu đường"
+    },
+    {
+      "name": "Rối loạn tuyến giáp cường chức năng",
+      "description": "Sụt cân, tim đập nhanh, hồi hộp, run tay, tăng tiết mồ hôi, nhạy cảm với nhiệt độ nóng, yếu cơ, mau mệt mỏi, tiêu lỏng, dễ cáu gắt"
+    },
+    {
+      "name": "Rối loạn tuyến giáp suy chức năng",
+      "description": "Mệt mỏi, tăng cân, chậm chạp, trầm cảm, phù mặt và mi mắt, nhạy cảm với nhiệt độ lạnh, táo bón, da khô, nhịp tim chậm, chuột rút"
+    },
+    {
+      "name": "Hội chứng Cushing",
+      "description": "Tăng cân, mặt tròn như mặt trăng, bướu mỡ sau gáy, tay chân teo nhỏ, yếu cơ, da mỏng, dễ bầm máu, vết thương lâu lành, rụng tóc, vết rạn da màu đỏ tía"
+    },
+    {
+      "name": "Cường Aldosteron nguyên phát",
+      "description": "Yếu cơ, vọp bẻ, nhức đầu, hồi hộp đánh trống ngực, uống nhiều, tiểu nhiều, tiểu đêm, tăng huyết áp mức độ trung bình-nặng"
+    },
+    {
+      "name": "Pheochromocytoma",
+      "description": "Các cơn tăng huyết áp, da xanh tái, vã mồ hôi, hồi hộp đánh trống ngực, đau đầu, nổi ga gà, buồn nôn, nôn, run tay, mệt, khó thở"
+    },
+    {
+      "name": "Suy thượng thận",
+      "description": "Mệt mỏi, sụt cân, chóng mặt do hạ huyết áp tư thế, lo lắng, đau bụng, chậm phát triển thể chất, tăng sắc tố da"
+    },
+    {
+      "name": "To đầu chi",
+      "description": "Bàn tay và bàn chân to thô, khuôn mặt thô, mũi to, phì đại xương trán, hàm dưới nhô ra, răng thưa, phì đại lưỡi, tăng tiết mồ hôi, mụn thịt dư, rậm lông"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rối loạn nội tiết chủ yếu do sự rối loạn quá trình sản xuất hormone trong cơ thể. Các rối loạn có thể dẫn đến tăng sản xuất hormone gây cường chức năng hoặc giảm sản xuất hormone gây suy chức năng.",
+    "related_factors": "Rối loạn chức năng nguyên phát bắt nguồn từ tuyến nội tiết ngoại biên (giáp, thượng thận, buồng trứng, tinh hoàn), rối loạn thứ phát bắt nguồn từ tuyến yên và vùng hạ đồi, hoặc đáp ứng bất thường của các cơ quan đích với các hormone nội tiết.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Di truyền và tiền sử gia đình mắc bệnh nội tiết",
+    "Thừa cân, béo phì",
+    "Lối sống không lành mạnh, ít vận động",
+    "Stress kéo dài",
+    "Các bệnh lý tự miễn",
+    "Tuổi tác (nhiều rối loạn nội tiết tăng theo tuổi)",
+    "Tiếp xúc với một số chất độc môi trường"
+  ],
+  "complications": [
+    "Tăng nguy cơ bệnh tim mạch",
+    "Rối loạn chuyển hóa",
+    "Suy giảm chức năng sinh sản, vô sinh",
+    "Rối loạn phát triển thể chất và trí tuệ",
+    "Suy giảm chất lượng cuộc sống",
+    "Tăng nguy cơ nhiễm trùng",
+    "Tăng nguy cơ ung thư ở một số bệnh lý nội tiết"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng, đánh giá triệu chứng",
+      "Xét nghiệm máu định lượng nồng độ hormone",
+      "Xét nghiệm nước tiểu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm định lượng hormone trong máu",
+        "description": "Đo nồng độ các hormone nội tiết trong máu để phát hiện tình trạng tăng hoặc giảm bất thường"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Đánh giá sự bài tiết hormone hoặc các chất chuyển hóa qua nước tiểu"
+      },
+      {
+        "name": "Các test động nội tiết",
+        "description": "Đánh giá đáp ứng của tuyến nội tiết khi kích thích hoặc ức chế bằng các chất đặc hiệu"
+      },
+      {
+        "name": "Chọc hút sinh thiết bằng kim nhỏ",
+        "description": "Lấy mẫu mô từ tuyến nội tiết để xét nghiệm dưới kính hiển vi"
+      },
+      {
+        "name": "Siêu âm tuyến nội tiết",
+        "description": "Kiểm tra kích thước, cấu trúc của các tuyến nội tiết như tuyến giáp, tuyến thượng thận, buồng trứng"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT scan)",
+        "description": "Tạo hình ảnh chi tiết các tuyến nội tiết để phát hiện bất thường về cấu trúc và kích thước"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cho hình ảnh chi tiết về các tuyến nội tiết, đặc biệt là tuyến yên và não bộ"
+      },
+      {
+        "name": "Xét nghiệm gen - di truyền",
+        "description": "Phát hiện các bất thường di truyền liên quan đến rối loạn nội tiết"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nguyên tắc điều trị dựa trên cơ chế bệnh sinh của rối loạn nội tiết và tùy thuộc vào tình trạng bệnh. Mục tiêu điều trị là khôi phục lại sự cân bằng hormone trong cơ thể.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Bổ sung hormone",
+        "description": "Điều trị suy giảm chức năng nội tiết bằng cách bổ sung các hormone ngoại biên, thường là đường uống như trong bệnh lý suy giáp, suy thượng thận"
+      },
+      {
+        "name": "Thuốc ức chế tổng hợp hormone",
+        "description": "Sử dụng các thuốc ức chế quá trình tổng hợp hormone trong trường hợp cường chức năng nội tiết do tăng hormone trong máu"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Loại bỏ khối u tuyến nội tiết hoặc một phần tuyến nội tiết trong các trường hợp cần thiết"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Điều trị bổ trợ trong một số trường hợp u tuyến nội tiết không thể phẫu thuật triệt để"
+      },
+      {
+        "name": "Thay đổi lối sống",
+        "description": "Điều chỉnh chế độ ăn uống, luyện tập thể dục, giảm cân trong các rối loạn nội tiết liên quan đến chuyển hóa như tiểu đường"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chặt chẽ đơn thuốc và lịch uống thuốc",
+      "Kiểm tra định kỳ nồng độ hormone trong máu để điều chỉnh liều lượng",
+      "Thăm khám theo dõi thường xuyên với bác sĩ chuyên khoa nội tiết",
+      "Xây dựng chế độ ăn khoa học, cân bằng dưỡng chất",
+      "Duy trì hoạt động thể chất, tập thể dục đều đặn",
+      "Quản lý stress hiệu quả",
+      "Học cách nhận biết và xử trí các triệu chứng khẩn cấp của bệnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +145,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ cân nặng hợp lý",
+      "Có chế độ ăn khoa học, cân bằng",
+      "Luyện tập thể dục đều đặn",
+      "Giảm stress căng thẳng",
+      "Ngủ đủ giấc, đúng giờ, tránh thức khuya",
+      "Không hút thuốc lá",
+      "Kiểm soát các bệnh lý mạn tính nếu có",
+      "Khám sức khỏe định kỳ để phát hiện sớm các rối loạn nội tiết"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn nội tiết là gì?",
+      "answer": "Rối loạn nội tiết là tình trạng xảy ra khi chức năng của hệ thống nội tiết không được duy trì. Nguyên nhân có thể xuất phát từ chính các tuyến nội tiết sản xuất hormone, các thụ thể đáp ứng với hormone hoặc cơ quan đích chịu tác động của hormone. Các rối loạn này có thể gây ảnh hưởng đến chức năng của toàn cơ thể vì hệ nội tiết điều hòa nhiều chức năng quan trọng như trao đổi chất, chuyển hóa năng lượng, sinh sản và phát triển."
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm rối loạn nội tiết?",
+      "answer": "Các triệu chứng của rối loạn nội tiết thường kín đáo, khó nhận biết và không đặc hiệu, diễn tiến âm thầm theo thời gian. Để phát hiện sớm, bạn nên chú ý đến các dấu hiệu bất thường như thay đổi cân nặng đột ngột, thay đổi nhịp tim, mệt mỏi bất thường, thay đổi lượng mồ hôi, dễ kích động hoặc trầm cảm, rối loạn kinh nguyệt ở phụ nữ. Việc khám sức khỏe định kỳ và thực hiện các xét nghiệm máu đo nồng độ hormone khi có dấu hiệu nghi ngờ cũng rất quan trọng."
+    },
+    {
+      "question": "Rối loạn nội tiết có chữa được không?",
+      "answer": "Đa số các rối loạn nội tiết có thể được kiểm soát hiệu quả với phương pháp điều trị phù hợp. Tùy vào từng loại rối loạn, phương pháp điều trị có thể bao gồm bổ sung hormone, dùng thuốc ức chế tổng hợp hormone, phẫu thuật, xạ trị hoặc thay đổi lối sống. Một số rối loạn nội tiết cần được điều trị suốt đời (như suy giáp, tiểu đường type 1), trong khi một số khác có thể khỏi hoàn toàn sau điều trị (như một số u tuyến nội tiết lành tính)."
+    },
+    {
+      "question": "Có thể phòng ngừa rối loạn nội tiết không?",
+      "answer": "Không phải tất cả các rối loạn nội tiết đều có thể phòng ngừa được, đặc biệt là những rối loạn do di truyền hoặc tự miễn. Tuy nhiên, việc duy trì lối sống lành mạnh có thể giúp giảm nguy cơ mắc một số rối loạn nội tiết. Các biện pháp bao gồm giữ cân nặng hợp lý, có chế độ ăn khoa học cân bằng, luyện tập thể dục đều đặn, giảm stress căng thẳng, ngủ đủ giấc, tránh thức khuya, không hút thuốc lá và kiểm soát các bệnh lý mạn tính nếu có."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ chuyên khoa nội tiết?",
+      "answer": "Bạn nên đến gặp bác sĩ chuyên khoa nội tiết khi xuất hiện các triệu chứng bất thường như thay đổi cân nặng đột ngột không rõ nguyên nhân, mệt mỏi kéo dài, khát nhiều và tiểu nhiều, nhịp tim nhanh hoặc chậm bất thường, thay đổi tính tình hoặc cảm xúc đột ngột, rối loạn kinh nguyệt ở phụ nữ, giảm ham muốn tình dục, hoặc khi bạn có tiền sử gia đình mắc các bệnh nội tiết. Việc thăm khám sớm giúp phát hiện và điều trị kịp thời các rối loạn nội tiết."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sụt cân, khát nhiều, uống nhiều, và tiểu nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-noi-tiet", "tieu-duong", "dai-thao-duong"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tim đập nhanh, hồi hộp, và run tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-noi-tiet", "cuong-giap", "roi-loan-lo-au"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, tăng cân, và trầm cảm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-noi-tiet", "suy-giap", "tram-cam"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chậm chạp, phù mặt, và nhạy cảm với nhiệt độ lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-noi-tiet", "suy-giap"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tăng cân, mặt tròn, bướu mỡ sau gáy, và vết rạn da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-noi-tiet", "hoi-chung-cushing"]
     }
   ]
 }

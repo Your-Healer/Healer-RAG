@@ -1,39 +1,124 @@
 {
   "disease_id": "rong-kinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rong kinh",
+  "disease_alternative_names": ["Menorrhagia"],
+  "disease_definition": "Rong kinh là hiện tượng lượng máu kinh nguyệt ra quá nhiều (hơn 80ml) hoặc kéo dài hơn (trên 7 ngày) so với một chu kỳ bình thường. Thông thường, một chu kỳ kinh nguyệt bình thường kéo dài 28-32 ngày, thời gian hành kinh là 3-5 ngày với lượng máu kinh nguyệt khoảng 50-80ml.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thời gian hành kinh kéo dài",
+      "description": "Chu kỳ kinh nguyệt kéo dài trên 7 ngày, thậm chí có thể lên tới 10 ngày thay vì thời gian bình thường là 3-5 ngày"
+    },
+    {
+      "name": "Lượng máu kinh ra nhiều",
+      "description": "Lượng máu kinh nhiều hơn 80ml thay vì 50-80ml ở một chu kỳ bình thường"
+    },
+    {
+      "name": "Phải thay băng vệ sinh liên tục",
+      "description": "Cần thay băng vệ sinh liên tục sau vài giờ do lượng máu kinh ra nhiều"
+    },
+    {
+      "name": "Sử dụng nhiều băng vệ sinh cùng lúc",
+      "description": "Phải sử dụng cùng lúc hai hoặc nhiều băng vệ sinh để hạn chế thấm máu ra ngoài"
+    },
+    {
+      "name": "Cục máu đông kích thước lớn",
+      "description": "Xuất hiện các cục máu đông có kích thước lớn trong thời gian hành kinh"
+    },
+    {
+      "name": "Đau bụng kinh dữ dội",
+      "description": "Cảm giác đau bụng kinh kéo dài và dữ dội, đôi khi kèm theo chuột rút"
+    },
+    {
+      "name": "Mệt mỏi, khó thở, kiệt sức",
+      "description": "Triệu chứng của thiếu máu do mất nhiều máu trong thời gian hành kinh"
+    },
+    {
+      "name": "Da nhợt nhạt, rụng tóc",
+      "description": "Biểu hiện của tình trạng PICA, là hệ quả của thiếu máu kéo dài"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rong kinh thường liên quan đến sự mất cân bằng hormone, cụ thể là sự cân bằng giữa Estrogen và Progesterone điều chỉnh sự tích tụ ở niêm mạc tử cung.",
+    "related_factors": "Rối loạn chức năng buồng trứng, u xơ tử cung, lạc nội mạc tử cung, polyp tử cung, đặt vòng tránh thai, liên quan đến thai kỳ (sảy thai, mang thai ngoài tử cung), sử dụng thuốc (chống viêm, chống đông máu, nội tiết), các bệnh lý khác như rối loạn đông máu di truyền hoặc ung thư.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hội chứng buồng trứng đa nang (PCOS)",
+    "Bệnh lý tuyến giáp",
+    "Tình trạng béo phì",
+    "Kháng insulin",
+    "Tuổi vị thành niên (năm đầu tiên có kinh)",
+    "Độ tuổi sinh sản (liên quan đến u xơ, polyp)",
+    "Tiền mãn kinh"
+  ],
+  "complications": [
+    "Thiếu máu nghiêm trọng",
+    "Đau bụng dữ dội",
+    "Tạo điều kiện cho vi khuẩn gây hại xâm nhập",
+    "Vô sinh - hiếm muộn",
+    "Ảnh hưởng đến chất lượng cuộc sống"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khai thác tiền sử bệnh lý", "Khám thực thể", "Xét nghiệm máu"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Sử dụng sóng âm thanh để quan sát hình ảnh trong tử cung, buồng trứng và xương chậu"
+      },
+      {
+        "name": "Xét nghiệm PAP",
+        "description": "Lấy mẫu nhỏ tế bào ở bề mặt cổ tử cung để kiểm tra tình trạng nhiễm trùng, tế bào ung thư"
+      },
+      {
+        "name": "Sinh thiết nội mạc tử cung",
+        "description": "Lấy mẫu mô ở nội mạc tử cung để kiểm tra sự hiện diện của ung thư"
+      },
+      {
+        "name": "Soi ổ bụng",
+        "description": "Rạch một đường nhỏ để quan sát ổ bụng"
+      },
+      {
+        "name": "Soi tử cung",
+        "description": "Dùng ống soi có gắn camera ghi hình để quan sát tử cung"
+      },
+      {
+        "name": "Chụp cản quang tử cung vòi trứng",
+        "description": "Đưa chất cản quang vào tử cung và ống dẫn trứng để quan sát tử cung trên phim X-quang"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị sẽ phụ thuộc vào nguyên nhân và nguyện vọng sinh con của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc tránh thai, thuốc giảm đau, thuốc chống viêm không steroid (NSAID), thuốc bổ sung hormone Progesterone hoặc thuốc bổ sung sắt để tránh thiếu máu"
+      },
+      {
+        "name": "Nong nạo tử cung",
+        "description": "Thủ thuật loại bỏ niêm mạc tử cung trong trường hợp điều trị bằng thuốc không hiệu quả"
+      },
+      {
+        "name": "Cắt đốt nội mạc tử cung",
+        "description": "Phương pháp phá hủy lớp nội mạc tử cung bằng nhiệt hoặc các phương pháp khác, thường áp dụng cho phụ nữ lớn tuổi không còn nhu cầu sinh con"
+      },
+      {
+        "name": "Cắt bỏ tử cung",
+        "description": "Phẫu thuật loại bỏ tử cung và cổ tử cung, chỉ áp dụng cho trường hợp phụ nữ lớn tuổi hoặc không còn nhu cầu sinh con"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi hợp lý, tránh những hoạt động và vận động mạnh",
+      "Giữ tinh thần vui vẻ, tránh căng thẳng, stress",
+      "Ngủ nghỉ đúng giờ và đủ giấc",
+      "Vệ sinh vùng kín sạch sẽ, thay băng vệ sinh mới đều đặn",
+      "Bổ sung thêm trái cây và rau củ xanh vào thực đơn",
+      "Ăn thêm cá biển hoặc cá giàu chất béo để giúp giảm đau, giảm viêm",
+      "Tăng cường thực phẩm giàu sắt và vitamin B6",
+      "Bổ sung ngũ cốc để cân bằng nội tiết tố",
+      "Không sử dụng các chất kích thích như rượu, bia, cà phê",
+      "Không ăn những món cay, nóng như nhiều ớt, tiêu"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +126,57 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thăm khám phụ khoa định kỳ 6 tháng/lần",
+      "Tuân thủ lịch khám và chỉ định điều trị của bác sĩ",
+      "Duy trì chế độ sinh hoạt khoa học",
+      "Xây dựng chế độ ăn uống hợp lý",
+      "Tránh các chất kích thích",
+      "Kiểm soát stress và cân bằng cảm xúc"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rong kinh là gì?",
+      "answer": "Rong kinh là hiện tượng lượng máu kinh nguyệt ra quá nhiều hoặc kéo dài hơn so với một chu kỳ bình thường. Thông thường, một chu kỳ kinh nguyệt bình thường kéo dài 28-32 ngày, thời gian hành kinh là 3-5 ngày. Lượng máu kinh nguyệt khoảng 50-80ml. Hiện tượng chu kỳ kinh nguyệt kéo dài trên 7 ngày hoặc lượng máu kinh hơn 80ml được xem là rong kinh."
+    },
+    {
+      "question": "Rong kinh kéo dài bao lâu?",
+      "answer": "Thông thường, thời gian hành kinh diễn ra từ 3-5 ngày. Nếu thời gian hành kinh kéo dài trên 7 ngày được gọi là rong kinh. Tuy nhiên, thời gian rong ở mỗi người sẽ khác nhau, phụ thuộc vào nguyên nhân gây bệnh. Có trường hợp kéo dài tới 10 ngày hoặc hơn."
+    },
+    {
+      "question": "Rong kinh có nguy hiểm không?",
+      "answer": "Rong kinh nếu không được điều trị hiệu quả có thể dẫn đến các biến chứng như thiếu máu (khiến cơ thể mệt mỏi, khó thở, da xanh xao), đau bụng dữ dội, và tăng nguy cơ vô sinh - hiếm muộn. Khi bị rong kinh, máu sẽ có màu đen do bị ứ đọng lâu trong tử cung, tạo điều kiện thuận lợi cho vi khuẩn gây hại xâm nhập gây bệnh."
+    },
+    {
+      "question": "Làm sao để biết mình bị rong kinh?",
+      "answer": "Các dấu hiệu nhận biết rong kinh bao gồm: đau bụng kinh kéo dài, lượng máu kinh ra nhiều trong thời gian hành kinh kéo dài trên 7 ngày, lượng máu kinh nhiều hơn 80ml, phải thay băng vệ sinh liên tục sau vài giờ, phải sử dụng cùng lúc hai hoặc nhiều băng vệ sinh, xuất hiện cục máu đông kích thước lớn, và các triệu chứng thiếu máu như mệt mỏi, khó thở, kiệt sức."
+    },
+    {
+      "question": "Bị rong kinh phải làm sao?",
+      "answer": "Khi bị rong kinh, bạn nên: (1) Điều chỉnh lối sống khoa học (nghỉ ngơi hợp lý, tránh vận động mạnh, giữ tinh thần vui vẻ, ngủ đủ giấc); (2) Thực hiện chế độ ăn uống hợp lý (bổ sung rau xanh, cá biển, thực phẩm giàu sắt, tránh chất kích thích); (3) Thăm khám với bác sĩ phụ khoa để xác định nguyên nhân và có phương pháp điều trị phù hợp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng kinh kéo dài, lượng máu kinh ra nhiều và xuất hiện cục máu đông có kích thước lớn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rong-kinh", "u-xo-tu-cung", "lac-noi-mac-tu-cung"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, khó thở, kiệt sức và lượng máu kinh ra nhiều trong thời gian hành kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rong-kinh", "thieu-mau"]
+    },
+    {
+      "question": "Tôi hay phải thay băng vệ sinh liên tục sau vài giờ và lượng máu kinh nhiều hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rong-kinh", "roi-loan-kinh-nguyet"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như da nhợt nhạt, muốn ăn những thứ không phải là thực phẩm và lượng máu kinh ra nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rong-kinh", "thieu-mau"]
+    },
+    {
+      "question": "Tôi đang cảm thấy kiệt sức, thời gian hành kinh kéo dài trên 7 ngày và lượng máu kinh ra nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rong-kinh", "roi-loan-kinh-nguyet"]
     }
   ]
 }

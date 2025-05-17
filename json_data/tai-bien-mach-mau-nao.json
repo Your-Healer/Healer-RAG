@@ -1,39 +1,129 @@
 {
   "disease_id": "tai-bien-mach-mau-nao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tai biến mạch máu não",
+  "disease_alternative_names": ["Đột quỵ", "Stroke"],
+  "disease_definition": "Tai biến mạch máu não là tình trạng mạch máu não (động mạch, mao mạch hoặc tĩnh mạch) bị tắc nghẽn hoặc vỡ đột ngột mà không do chấn thương sọ não. Khi các mao mạch vỡ, tắc nghẽn thì các tế bào não sẽ thiếu hụt oxy và dưỡng chất nên bắt đầu chết dần.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu, hoa mắt, chóng mặt",
+      "description": "Cảm giác đau ở vùng đầu, kèm hoa mắt, chóng mặt và khó chịu, mệt mỏi"
+    },
+    {
+      "name": "Méo miệng",
+      "description": "Méo một bên miệng hoặc một bên mặt, thường là một trong những dấu hiệu rõ rệt nhất của tai biến mạch máu não"
+    },
+    {
+      "name": "Ù tai, giảm thị lực",
+      "description": "Cảm giác ù tai, thị lực giảm sút, mắt mờ không nhìn thấy rõ"
+    },
+    {
+      "name": "Loạn ngôn",
+      "description": "Khó khăn trong việc nói chuyện và phát âm rõ chữ, không biết mình nói gì"
+    },
+    {
+      "name": "Tê bì tay chân",
+      "description": "Cảm giác tê ở tay chân, không thể cử động hoặc nhấc tay cao qua khỏi đầu"
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Khó khăn trong việc giữ thăng bằng khi đứng hoặc đi lại"
+    },
+    {
+      "name": "Nhịp tim đập nhanh",
+      "description": "Cảm giác tim đập nhanh hơn bình thường"
+    },
+    {
+      "name": "Sốt cao, hôn mê sâu",
+      "description": "Trong trường hợp nặng, người bệnh có thể bị sốt cao và rơi vào trạng thái hôn mê sâu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tai biến mạch máu não xảy ra do hai nguyên nhân chính: thiếu máu não (chiếm 80% các ca bệnh) do tắc nghẽn mạch máu và xuất huyết não (chiếm 20% các ca bệnh) do vỡ mạch máu não.",
+    "related_factors": "Đối với tai biến do thiếu máu não, nguyên nhân thường do xơ vữa động mạch, khi các chất béo bám thành mảng ở động mạch và ngăn dòng chảy của máu. Đối với tai biến do xuất huyết não, nguyên nhân chính là do huyết áp cao khiến các mạch máu trong hộp sọ vỡ ra và chảy máu vào xung quanh não.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thừa cân, béo phì",
+    "Nghiện thuốc lá, thường xuyên hút thuốc",
+    "Uống quá nhiều rượu, bia và đồ uống có cồn",
+    "Ít vận động, tập thể dục",
+    "Thường lo lắng, căng thẳng, bị rối loạn lo âu kéo dài",
+    "Huyết áp cao (tăng huyết áp)",
+    "Mắc bệnh tiểu đường hoặc bệnh lý tim mạch",
+    "Ăn đồ có hàm lượng chất béo, dầu mỡ cao",
+    "Nam giới và phụ nữ khi bước qua tuổi trung niên",
+    "Tiền sử gia đình có người từng bị tai biến"
+  ],
+  "complications": [
+    "Phù não",
+    "Động kinh",
+    "Huyết khối tĩnh mạch sâu",
+    "Liệt một bên tay, chân hoặc cả hai bên",
+    "Mất khả năng vận động",
+    "Rối loạn nuốt",
+    "Xẹp phổi",
+    "Viêm phổi",
+    "Nhồi máu cơ tim",
+    "Đau vai",
+    "Nhiễm trùng đường tiết niệu",
+    "Co cứng cơ",
+    "Lo lắng, căng thẳng quá mức",
+    "Rối loạn giấc ngủ",
+    "Trầm cảm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá dựa trên 3 tiêu chuẩn của WHO: có triệu chứng thần kinh khu trú, triệu chứng xảy ra đột ngột, không có chấn thương sọ não",
+      "Khám lâm sàng để đánh giá các triệu chứng thần kinh",
+      "Đánh giá tiền sử bệnh và các yếu tố nguy cơ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp não cắt lớp vi tính (CT scan)",
+        "description": "Giúp xác định loại tai biến (thiếu máu não hay xuất huyết não) và vị trí tổn thương"
+      },
+      {
+        "name": "Chụp cộng hưởng từ não (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết hơn về các tổn thương não và mạch máu não"
+      },
+      {
+        "name": "Siêu âm Doppler động mạch cảnh",
+        "description": "Đánh giá tình trạng lưu thông máu qua động mạch cảnh và phát hiện hẹp hoặc tắc nghẽn"
+      },
+      {
+        "name": "Chụp mạch máu não (DSA)",
+        "description": "Cung cấp hình ảnh chi tiết về mạch máu não, xác định chính xác vị trí tắc nghẽn hoặc vỡ mạch"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nguyên tắc chung để điều trị tai biến/đột quỵ chính là cấp cứu sớm và can thiệp chính xác, nhằm hạn chế các biến chứng cũng như giảm tối đa nguy cơ tử vong. Việc cấp cứu trong 'giờ vàng' là rất quan trọng để hạn chế tổn thương não.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị thuốc tiêu sợi huyết",
+        "description": "Áp dụng cho tai biến do thiếu máu não, giúp hòa tan cục máu đông, phải được thực hiện trong thời gian vàng (thường là 4.5 giờ đầu sau khi xuất hiện triệu chứng)"
+      },
+      {
+        "name": "Can thiệp nội mạch",
+        "description": "Đưa dụng cụ vào mạch máu não để lấy cục máu đông hoặc làm tăng lưu lượng máu đến khu vực thiếu máu cục bộ"
+      },
+      {
+        "name": "Phẫu thuật điều trị xuất huyết não",
+        "description": "Trong trường hợp xuất huyết não, có thể cần phẫu thuật để giảm áp lực trong não, loại bỏ máu tụ và sửa chữa mạch máu bị vỡ"
+      },
+      {
+        "name": "Hồi phục chức năng",
+        "description": "Bao gồm vật lý trị liệu, ngôn ngữ trị liệu và trị liệu chức năng để giúp người bệnh phục hồi sau tai biến"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Tập phục hồi chức năng thường xuyên theo hướng dẫn",
+      "Kiểm soát các yếu tố nguy cơ như huyết áp, đường huyết",
+      "Thay đổi lối sống, chế độ ăn uống để phòng ngừa tái phát",
+      "Duy trì tâm lý tích cực trong quá trình điều trị",
+      "Tái khám định kỳ theo lịch hẹn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +131,77 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ăn đủ bữa, có chế độ ăn uống đầy đủ chất dinh dưỡng",
+      "Hạn chế các loại thức ăn nhiều dầu mỡ, chất béo, cholesterol",
+      "Không sử dụng rượu bia, đồ uống có cồn và các chất kích thích",
+      "Thường xuyên tập thể dục vận động, tối thiểu 30 phút/ngày, mỗi tuần từ 3-4 ngày",
+      "Ổn định cân nặng, tránh thừa cân béo phì",
+      "Kiểm soát huyết áp, không để tăng huyết áp",
+      "Tránh các yếu tố gây căng thẳng",
+      "Hạn chế thức khuya, đảm bảo chất lượng giấc ngủ",
+      "Khám sức khỏe và tầm soát đột quỵ định kỳ",
+      "Với người có bệnh nền như đái tháo đường, tăng huyết áp cần tuân thủ điều trị đúng phác đồ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tai biến mạch máu não có quan hệ tình dục được không?",
+      "answer": "Khi có dấu hiệu tai biến mạch máu não, người bệnh cần được cấp cứu càng sớm càng tốt. Trong thời gian chờ cấp cứu, người bệnh chỉ nên nằm yên, tránh bất kỳ hoạt động nào, bao gồm cả quan hệ tình dục. Sau khi đã được điều trị ổn định, người bệnh nên tham khảo ý kiến bác sĩ về việc có thể quan hệ tình dục trở lại hay không và khi nào thì an toàn."
+    },
+    {
+      "question": "Tai biến mạch máu não nguy hiểm không?",
+      "answer": "Tai biến mạch máu não rất nguy hiểm. Đây là bệnh có nguy cơ tử vong cao thứ 2 trên toàn thế giới. Nếu không được cấp cứu kịp thời, người bệnh có thể gặp nhiều biến chứng nghiêm trọng như liệt nửa người, mất khả năng giao tiếp, hoặc thậm chí sống đời sống thực vật. Nhiều trường hợp tai biến mạch máu não dẫn đến tử vong khi không can thiệp sớm trong 'thời gian vàng'."
+    },
+    {
+      "question": "Tai biến mạch máu não có nên châm cứu không?",
+      "answer": "Khi có triệu chứng tai biến, không nên tự điều trị bằng cách châm cứu để tránh các biến chứng có thể xảy ra, ảnh hưởng xấu đến sức khỏe và tính mạng người bệnh. Tốt nhất, nên đưa người có dấu hiệu đột quỵ đến bệnh viện để được bác sĩ có chuyên môn can thiệp điều trị. Châm cứu có thể được áp dụng trong giai đoạn phục hồi sau tai biến để hỗ trợ cải thiện chức năng vận động cho người bệnh bị liệt, tê cứng tay chân."
+    },
+    {
+      "question": "Tai biến có phải là đột quỵ không?",
+      "answer": "Tai biến mạch máu não là thuật ngữ thường được sử dụng trong y khoa. Trong dân gian, tai biến mạch máu não được gọi là 'đột quỵ'. Do đó, tai biến mạch máu não chính là đột quỵ, cùng chỉ một tình trạng bệnh lý."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu, hoa mắt, chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tai biến mạch máu não",
+        "Tăng huyết áp",
+        "Rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy méo miệng, khó nói, tê bì tay chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tai biến mạch máu não",
+        "Đột quỵ",
+        "Liệt mặt ngoại biên"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mất thăng bằng, nhịp tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tai biến mạch máu não",
+        "Rối loạn nhịp tim",
+        "Rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi bị tăng huyết áp và lo lắng về nguy cơ tai biến mạch máu não. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tai biến mạch máu não",
+        "Tăng huyết áp",
+        "Xơ vữa động mạch"
+      ]
+    },
+    {
+      "question": "Tôi bị tai biến mạch máu não và bị liệt nửa người. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tai biến mạch máu não",
+        "Di chứng đột quỵ",
+        "Tổn thương não"
+      ]
     }
   ]
 }

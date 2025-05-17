@@ -1,39 +1,141 @@
 {
   "disease_id": "roi-loan-chuyen-hoa-bam-sinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn chuyển hóa bẩm sinh",
+  "disease_alternative_names": [
+    "Inborn errors of metabolism",
+    "Bệnh chuyển hóa di truyền"
+  ],
+  "disease_definition": "Rối loạn chuyển hóa bẩm sinh là một căn bệnh liên quan đến các yếu tố di truyền hiếm gặp ở trẻ, được gây ra bởi sự thiếu hụt các receptor, enzym, các protein vận chuyển, hoặc các yếu tố đồng vận trong quá trình chuyển hóa axit amin, axit béo và axit hữu cơ. Điều này dẫn tới sự thay đổi bất thường trong các chu trình tổng hợp hoặc thoái hóa của các chất trong cơ thể.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mệt mỏi, lờ đờ",
+      "description": "Trẻ thường xuyên mệt mỏi, mắt lờ đờ, không hoạt bát như trẻ bình thường"
+    },
+    {
+      "name": "Chán ăn, bỏ bú",
+      "description": "Trẻ từ chối bú sữa mẹ hoặc uống sữa công thức, không có nhu cầu ăn uống"
+    },
+    {
+      "name": "Khó thở, thở gấp",
+      "description": "Trẻ có thể ngưng thở trong thời gian ngắn hoặc thở nhanh, gấp bất thường"
+    },
+    {
+      "name": "Bụng phình, đau bụng",
+      "description": "Bụng trẻ bị căng phồng bất thường, có thể kèm theo đau bụng khiến trẻ quấy khóc"
+    },
+    {
+      "name": "Mùi cơ thể bất thường",
+      "description": "Nước tiểu, nước bọt, hơi thở, mồ hôi có mùi hôi khó chịu bất thường"
+    },
+    {
+      "name": "Sốt, hôn mê",
+      "description": "Trẻ sốt cao và có thể rơi vào tình trạng hôn mê nếu không được điều trị kịp thời"
+    },
+    {
+      "name": "Vàng da",
+      "description": "Da và củng mạc của trẻ chuyển sang màu vàng do sự tích tụ của bilirubin"
+    },
+    {
+      "name": "Sụt cân, chậm phát triển",
+      "description": "Trẻ không tăng cân bình thường, thậm chí giảm cân và có dấu hiệu chậm phát triển thể chất"
+    },
+    {
+      "name": "Co giật, động kinh",
+      "description": "Trẻ có thể bị co giật hoặc có các cơn động kinh"
+    },
+    {
+      "name": "Tiêu chảy, mất nước",
+      "description": "Trẻ đi ngoài nhiều lần, phân lỏng dẫn đến mất nước, ảnh hưởng nghiêm trọng đến sức khỏe"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Tim đập không đều hoặc nhanh bất thường, có thể kèm theo da tím tái"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây nên các rối loạn chuyển hóa bẩm sinh là do các yếu tố di truyền trên nhiễm sắc thể thường hoặc xuất hiện các đột biến gen liên quan đến quá trình sản xuất và hoạt động của các enzyme, yếu tố đồng vận, protein vận chuyển, receptor của con đường chuyển hóa tắc nghẽn (một phần hoặc hoàn toàn) con đường chuyển hóa thiết yếu của cơ thể.",
+    "related_factors": "Trẻ mắc bệnh khi cả cha và mẹ đều mang gen bệnh lặn, dù chính bố mẹ không có biểu hiện bệnh. Trong thai kỳ, thai nhi hấp thụ dinh dưỡng đã được chuyển hóa từ mẹ nhưng sau khi chào đời, trẻ tự cung cấp chất dinh dưỡng thông qua quá trình tiêu hóa, lúc này các chất không được chuyển hóa hết và bắt đầu xuất hiện các triệu chứng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thai phụ có tiền sử sinh con bị rối loạn chuyển hóa bẩm sinh",
+    "Bố hoặc mẹ hoặc cả hai mang gen mắc bệnh",
+    "Gia đình có tiền sử mắc bệnh",
+    "Đã từng xuất hiện các triệu chứng tương tự và tử vong nhưng chưa rõ nguyên nhân",
+    "Kết hôn cận huyết"
+  ],
+  "complications": [
+    "Suy hô hấp cấp",
+    "Suy gan, suy thận",
+    "Tổn thương não vĩnh viễn",
+    "Chậm phát triển trí tuệ",
+    "Suy dinh dưỡng nặng",
+    "Tử vong nếu không được chẩn đoán và điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Sàng lọc sơ sinh ngay sau khi trẻ mới sinh ra",
+      "Xét nghiệm máu để kiểm tra nồng độ các chất chuyển hóa",
+      "Kiểm tra hình ảnh học và đánh giá chức năng nội tạng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm giảm thiểu lượng hấp thu Carnitine",
+        "description": "Xét nghiệm này đánh giá khả năng hấp thu Carnitine - một chất dinh dưỡng có nhiệm vụ chuyển hóa chất béo thành năng lượng cho cơ thể"
+      },
+      {
+        "name": "Xét nghiệm bệnh thiếu enzyme xúc tác hydroxyacyl-CoA dehydrogenase chuỗi dài",
+        "description": "Phát hiện sự có mặt quá mức của các axit hydroxy chuỗi dài trên phân tích axit hữu cơ và sự xuất hiện của các liên hợp với carnitine"
+      },
+      {
+        "name": "Xét nghiệm bệnh thiếu enzyme xúc tác acyl-CoA dehydrogenase chuỗi rất dài",
+        "description": "Giúp phát hiện các bệnh lý liên quan đến cơ tim, đặc biệt ở trẻ dưới 4 tháng tuổi"
+      },
+      {
+        "name": "Xét nghiệm bệnh thiếu enzyme xúc tác acyl-CoA dehydrogenase chuỗi trung bình",
+        "description": "Phát hiện các hợp chất liên kết axit béo chuỗi trung bình của carnitine trong huyết tương, glycine trong nước tiểu"
+      },
+      {
+        "name": "Xét nghiệm thiếu hụt protein-năng lượng",
+        "description": "Định lượng albumin huyết thanh, kiểm tra số lượng tế bào lymphocyte, tế bào lympho CD4+ T, transferrin"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Rối loạn chuyển hóa bẩm sinh liên quan đến vấn đề di truyền và vẫn chưa có cách điều trị triệt để. Các biện pháp điều trị bệnh đều hướng đến hạn chế sự phát triển và ảnh hưởng của các triệu chứng của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều chỉnh chế độ dinh dưỡng",
+        "description": "Xây dựng chế độ ăn phù hợp với tình trạng sức khỏe của bé, tránh sử dụng các loại thực phẩm cơ thể bé không thể chuyển hóa được, đặc biệt với trẻ sơ sinh cần sử dụng loại sữa được điều chế riêng"
+      },
+      {
+        "name": "Bổ sung vitamin và khoáng chất",
+        "description": "Thường xuyên bổ sung vitamin và các khoáng chất cần thiết giúp tăng sức đề kháng và cải thiện khả năng chuyển hóa các chất trong cơ thể"
+      },
+      {
+        "name": "Cấy tế bào gốc, ghép tủy",
+        "description": "Phương pháp can thiệp để thay thế các tế bào khiếm khuyết bằng các tế bào gốc khỏe mạnh"
+      },
+      {
+        "name": "Liệu pháp enzyme thay thế",
+        "description": "Sử dụng các thuốc hỗ trợ chức năng của enzym hoặc tiêm enzym vào cơ thể bé để bổ sung enzyme bị thiếu"
+      },
+      {
+        "name": "Phẫu thuật cấy ghép nội tạng",
+        "description": "Thực hiện phẫu thuật cấy ghép gan, tủy khi bệnh phát triển nặng ở các khu vực này"
+      },
+      {
+        "name": "Liệu pháp gen",
+        "description": "Sử dụng gen hoặc vật liệu biến đổi gen để điều trị bệnh lý"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thăm khám sức khỏe định kỳ để theo dõi tình trạng bệnh",
+      "Tuân thủ chế độ dinh dưỡng đặc biệt theo chỉ định của bác sĩ",
+      "Liên hệ ngay với bác sĩ khi bé có dấu hiệu bất thường",
+      "Đảm bảo môi trường sống sạch sẽ, tránh các tác nhân gây nhiễm trùng",
+      "Tiêm phòng đầy đủ cho trẻ để tránh các bệnh nhiễm trùng khác"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +143,72 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không kết hôn cận huyết",
+      "Khám sức khỏe định kỳ và kiểm tra di truyền trước hôn nhân",
+      "Lên kế hoạch mang thai và thực hiện chẩn đoán sàng lọc trước sinh",
+      "Thực hiện sàng lọc sơ sinh cho trẻ khi mới được sinh ra",
+      "Thông báo cho bác sĩ nếu mẹ có các yếu tố nguy cơ sinh con bị rối loạn chuyển hóa bẩm sinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn chuyển hóa bẩm sinh có nguy hiểm không?",
+      "answer": "Rối loạn chuyển hóa bẩm sinh là bệnh rất nguy hiểm đối với trẻ sơ sinh, có tỷ lệ gây tử vong cao sau khi trẻ bú sữa mẹ hoặc uống các loại sữa bột thông thường. Bệnh diễn biến rất nhanh và dễ bị nhầm lẫn với một số bệnh khác, đặc biệt là nhiễm trùng sơ sinh. Bệnh không thể được chẩn đoán khi còn trong bụng mẹ và chỉ phát bệnh khi bé phải tự chuyển hóa thức ăn cho cơ thể."
+    },
+    {
+      "question": "Bệnh rối loạn chuyển hóa bẩm sinh có chữa được không?",
+      "answer": "Rối loạn chuyển hóa bẩm sinh liên quan đến các yếu tố di truyền và vẫn chưa có cách điều trị triệt để. Tuy nhiên, nếu được phát hiện và điều trị sớm, trẻ có thể tránh được các biến chứng nguy hiểm, nhưng quá trình này có thể kéo dài suốt cả cuộc đời. Các phương pháp điều trị hiện nay chủ yếu nhằm kiểm soát triệu chứng và hạn chế tác động của bệnh đến sự phát triển của trẻ."
+    },
+    {
+      "question": "Các triệu chứng của rối loạn chuyển hóa bẩm sinh là gì?",
+      "answer": "Triệu chứng thường gặp bao gồm: trẻ mệt mỏi, lờ đờ; chán ăn, bỏ bú; khó thở hoặc thở gấp; bụng phình to, đau bụng; nước tiểu, nước bọt, hơi thở, mồ hôi có mùi bất thường; sốt, hôn mê; vàng da; sụt cân, chậm phát triển; co giật, động kinh; tiêu chảy, mất nước; và rối loạn nhịp tim."
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm rối loạn chuyển hóa bẩm sinh?",
+      "answer": "Cách tốt nhất để phát hiện sớm là thực hiện xét nghiệm sàng lọc sơ sinh ngay sau khi trẻ chào đời. Các xét nghiệm này có thể phát hiện nhiều loại rối loạn chuyển hóa bẩm sinh trước khi chúng gây ra các triệu chứng. Ngoài ra, nếu trẻ có các triệu chứng bất thường như mệt mỏi, bỏ bú, nước tiểu có mùi lạ, vàng da kéo dài, cần đưa trẻ đến bác sĩ ngay để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Có cách nào phòng ngừa rối loạn chuyển hóa bẩm sinh không?",
+      "answer": "Rối loạn chuyển hóa bẩm sinh là bệnh di truyền trên gen lặn, do đó không có cách phòng ngừa triệt để. Tuy nhiên, một số biện pháp có thể giúp giảm nguy cơ như: không kết hôn cận huyết; khám sức khỏe và kiểm tra di truyền trước hôn nhân; lên kế hoạch mang thai và thực hiện chẩn đoán sàng lọc trước sinh; thực hiện sàng lọc sơ sinh cho trẻ ngay sau khi sinh; và thông báo cho bác sĩ nếu mẹ có các yếu tố nguy cơ sinh con bị rối loạn chuyển hóa bẩm sinh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, lờ đờ, chán ăn, bỏ bú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-chuyen-hoa-bam-sinh",
+        "suy-dinh-duong",
+        "viem-gan-so-sinh"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở, bụng phình to, nước tiểu có mùi lạ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-chuyen-hoa-bam-sinh", "suy-than"]
+    },
+    {
+      "question": "Tôi hay bị sốt, co giật, vàng da, chậm phát triển. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-chuyen-hoa-bam-sinh",
+        "viem-gan-so-sinh",
+        "viem-mang-nao"
+      ]
+    },
+    {
+      "question": "Tôi đang bị nôn trớ, tiêu chảy, mất nước, sụt cân nhanh chóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-chuyen-hoa-bam-sinh",
+        "tieu-chay-cap",
+        "nhiem-trung-duong-ruot"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy mệt mỏi, lờ đờ, mắt lờ đờ, da xanh xao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-chuyen-hoa-bam-sinh",
+        "thieu-mau",
+        "suy-tim"
+      ]
     }
   ]
 }

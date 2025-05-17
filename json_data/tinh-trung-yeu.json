@@ -1,39 +1,130 @@
 {
   "disease_id": "tinh-trung-yeu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tinh trùng yếu",
+  "disease_alternative_names": [
+    "Suy giảm chất lượng tinh trùng",
+    "Tinh trùng kém chất lượng",
+    "Weak sperm"
+  ],
+  "disease_definition": "Tinh trùng yếu là tình trạng chất lượng của tinh trùng bị suy giảm. Tỷ lệ tinh trùng di động dưới 75%, tỷ lệ chết và không di động cao hơn 25%. Tinh trùng di động thấy được dưới 50%, di động nhanh dưới 25%. Mỗi lần xuất tinh, lượng tinh dịch thường ít hơn 2ml, số lượng tinh trùng ít hơn 40 triệu con.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tinh dịch loãng và số lượng ít",
+      "description": "Tinh dịch không có độ dính, nhớt đặc trưng mà loãng như nước vo gạo, là dấu hiệu gợi ý tình trạng suy giảm bất thường về số lượng, chất lượng tinh trùng"
+    },
+    {
+      "name": "Tinh dịch vón cục",
+      "description": "Tinh dịch xuất hiện các hạt trắng nhỏ như hạt cơm, khi bóp cho cảm giác mịn như bột, khiến tinh trùng dễ bị chết, khó di chuyển để thụ tinh cho trứng"
+    },
+    {
+      "name": "Tinh dịch đông đặc",
+      "description": "Tình trạng hóa lỏng không diễn ra hay chỉ hóa lỏng một phần, khiến tinh trùng khó di chuyển tới gặp trứng, gây ảnh hưởng tới kết quả thụ thai"
+    },
+    {
+      "name": "Màu sắc tinh dịch bất thường",
+      "description": "Tinh dịch có màu vàng hoặc xanh (liên quan đến viêm nhiễm) hoặc màu nâu (do lẫn máu) thay vì màu trắng đục bình thường"
+    },
+    {
+      "name": "Khó khăn trong việc thụ thai",
+      "description": "Cặp đôi gặp khó khăn khi cố gắng có con sau thời gian dài quan hệ không dùng biện pháp tránh thai"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Quá trình sản xuất tinh trùng tương đối phức tạp, cần sự hoạt động ổn định của tất cả bộ phận liên quan như tinh hoàn, vùng dưới đồi và tuyến yên. Bất cứ vấn đề nào xảy ra trong quá trình này đều có khả năng ảnh hưởng đến quá trình sản xuất và sức khỏe của tinh trùng.",
+    "related_factors": "Các nguyên nhân có thể chia thành ba nhóm chính: (1) Nguyên nhân bệnh lý như giãn tĩnh mạch thừng tinh, viêm nhiễm đường sinh dục, bệnh tự miễn, khối u, mất cân bằng nội tiết tố; (2) Nguyên nhân môi trường như tiếp xúc với hóa chất công nghiệp, kim loại nặng, tia xạ; (3) Lối sống không lành mạnh như lạm dụng rượu bia, hút thuốc lá, căng thẳng kéo dài, thừa cân béo phì.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giãn tĩnh mạch thừng tinh",
+    "Viêm mào tinh hoàn, viêm tinh hoàn",
+    "Bệnh lây truyền qua đường tình dục (lậu, HIV...)",
+    "Mất cân bằng nội tiết tố",
+    "Tiếp xúc với hóa chất công nghiệp",
+    "Tiếp xúc với kim loại nặng",
+    "Phơi nhiễm với tia xạ",
+    "Lạm dụng rượu bia",
+    "Hút thuốc lá",
+    "Căng thẳng, trầm cảm kéo dài",
+    "Thừa cân, béo phì",
+    "Dị tật bẩm sinh, rối loạn di truyền",
+    "Sử dụng một số loại thuốc điều trị"
+  ],
+  "complications": [
+    "Vô sinh nam",
+    "Khó khăn trong việc thụ thai",
+    "Rối loạn tâm lý, lo âu, trầm cảm",
+    "Căng thẳng trong mối quan hệ vợ chồng",
+    "Tự ti, mất tự tin trong đời sống tình dục"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng cơ quan sinh dục ngoài",
+      "Khai thác bệnh sử và thói quen sinh hoạt tình dục",
+      "Kiểm tra các bệnh lý mắc phải trước đây"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm tinh dịch đồ",
+        "description": "Phân tích các thông số của tinh dịch như số lượng, tính di động, hình thái của tinh trùng"
+      },
+      {
+        "name": "Siêu âm tinh hoàn",
+        "description": "Khảo sát cấu trúc và phát hiện bất thường của tinh hoàn"
+      },
+      {
+        "name": "Định lượng hormone",
+        "description": "Đo nồng độ hormone tuyến yên và hormone nam giới (testosterone) trong máu"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu sau xuất tinh",
+        "description": "Phát hiện tình trạng xuất tinh ngược (tinh trùng đi vào bàng quang)"
+      },
+      {
+        "name": "Phân tích gen",
+        "description": "Tìm hiểu các bất thường về di truyền liên quan đến chất lượng tinh trùng"
+      },
+      {
+        "name": "Sinh thiết tinh hoàn",
+        "description": "Lấy mẫu mô tinh hoàn để xác định khả năng sản xuất tinh trùng"
+      },
+      {
+        "name": "Siêu âm tiền liệt tuyến",
+        "description": "Khảo sát cấu trúc và phát hiện bất thường của tuyến tiền liệt"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị tinh trùng yếu phụ thuộc vào nguyên nhân gây bệnh. Bác sĩ cần xác định đúng nguyên nhân để đưa ra phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Điều chỉnh chế độ ăn uống, tập thể dục đều đặn, giảm cân (nếu thừa cân), hạn chế rượu bia và bỏ thuốc lá"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Được sử dụng để điều trị các bệnh viêm nhiễm như viêm mào tinh hoàn, viêm tinh hoàn, viêm tuyến tiền liệt"
+      },
+      {
+        "name": "Liệu pháp hormone",
+        "description": "Sử dụng các thuốc nội tiết để điều chỉnh mất cân bằng hormone, kích thích sản xuất tinh trùng"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Được áp dụng khi nguyên nhân là do giãn tĩnh mạch thừng tinh hay tắc ống dẫn tinh"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì cân nặng hợp lý để cân bằng hormone",
+      "Bổ sung thực phẩm giàu chất chống oxy hóa như rau xanh, trái cây",
+      "Sử dụng bao cao su để phòng tránh bệnh lây qua đường tình dục",
+      "Quản lý stress, tránh căng thẳng kéo dài",
+      "Tập thể dục đều đặn để tăng enzyme chống oxy hóa",
+      "Không hút thuốc lá",
+      "Hạn chế đồ uống có cồn",
+      "Tránh tiếp xúc với hóa chất độc hại",
+      "Mặc quần áo thoáng mát, tránh làm tăng nhiệt độ bìu",
+      "Hạn chế thời gian ngồi lâu, tắm nước nóng hoặc xông hơi"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +132,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Xây dựng chế độ ăn uống lành mạnh, giàu chất chống oxy hóa",
+      "Phòng tránh bệnh lây qua đường tình dục",
+      "Quản lý stress hiệu quả",
+      "Tập thể dục đều đặn với cường độ phù hợp",
+      "Không hút thuốc lá",
+      "Hạn chế sử dụng rượu bia",
+      "Tránh tiếp xúc với hóa chất công nghiệp và kim loại nặng",
+      "Mặc quần áo thoáng mát",
+      "Hạn chế thời gian ngồi, tắm nước nóng hoặc xông hơi",
+      "Khám sức khỏe định kỳ, đặc biệt là khám nam khoa"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tinh trùng yếu có gây vô sinh không?",
+      "answer": "Tinh trùng yếu là một trong những nguyên nhân gây vô sinh ở nam giới. Tình trạng này làm giảm khả năng thụ thai do tinh trùng không đủ số lượng, không di chuyển hiệu quả hoặc có hình dạng bất thường. Tuy nhiên, không phải tất cả các trường hợp tinh trùng yếu đều dẫn đến vô sinh. Một số nam giới có tinh trùng yếu vẫn có thể làm bạn tình của họ mang thai, đặc biệt nếu các yếu tố khác thuận lợi."
+    },
+    {
+      "question": "Làm thế nào để cải thiện chất lượng tinh trùng?",
+      "answer": "Để cải thiện chất lượng tinh trùng, nam giới có thể: duy trì cân nặng hợp lý, ăn uống lành mạnh với nhiều rau xanh và trái cây giàu chất chống oxy hóa, tập thể dục đều đặn, tránh rượu bia và thuốc lá, hạn chế căng thẳng, mặc quần áo thoáng mát, tránh tiếp xúc với hóa chất độc hại, và hạn chế các hoạt động làm tăng nhiệt độ bìu như tắm nước nóng, xông hơi hoặc ngồi lâu."
+    },
+    {
+      "question": "Khi nào cần đi khám nếu nghi ngờ bị tinh trùng yếu?",
+      "answer": "Nam giới nên đi khám khi: đã cố gắng thụ thai trong 12 tháng không thành công, nhận thấy các dấu hiệu bất thường của tinh dịch (loãng, vón cục, đông đặc, màu sắc bất thường), có tiền sử mắc các bệnh ảnh hưởng đến sinh sản (như viêm tinh hoàn, giãn tĩnh mạch thừng tinh), đã trải qua phẫu thuật vùng bìu/bẹn, hoặc có tiền sử tiếp xúc với hóa chất độc hại, tia xạ hoặc lạm dụng chất kích thích."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi xuất tinh dịch loãng và số lượng ít. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tinh trùng yếu", "Thiểu tinh", "Viêm mào tinh hoàn"]
+    },
+    {
+      "question": "Tinh dịch của tôi vón cục và có hạt trắng nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tinh trùng yếu",
+        "Viêm tuyến tiền liệt",
+        "Nhiễm trùng đường sinh dục"
+      ]
+    },
+    {
+      "question": "Tinh dịch của tôi đông đặc và khó hóa lỏng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tinh trùng yếu",
+        "Rối loạn tuyến tiền liệt",
+        "Viêm tuyến phụ"
+      ]
+    },
+    {
+      "question": "Tinh dịch của tôi có màu vàng hoặc xanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tinh trùng yếu", "Viêm mào tinh", "Viêm niệu đạo"]
+    },
+    {
+      "question": "Tôi gặp khó khăn trong việc thụ thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tinh trùng yếu", "Vô sinh nam", "Rối loạn hormone"]
     }
   ]
 }

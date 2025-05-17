@@ -1,39 +1,126 @@
 {
   "disease_id": "soi-than",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sỏi thận",
+  "disease_alternative_names": [
+    "Sỏi tiết niệu",
+    "Kidney stones",
+    "Urolithiasis"
+  ],
+  "disease_definition": "Sỏi thận là bệnh lý sỏi tiết niệu thường gặp ở nam giới trung niên, là những phân tử rắn được hình thành do sự kết tinh tự nhiên của các tinh thể vô cơ trong nước tiểu. Đa phần sỏi bắt đầu hình thành từ thận, có thể di chuyển dọc theo đường đi của hệ tiết niệu và bài tiết ra ngoài.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cơn đau quặn thận",
+      "description": "Đau dữ dội ở vùng hố thắt lưng một bên, lan ra phía trước, xuống dưới. Đau xuất hiện đột ngột, sau khi có một hoạt động gắng sức. Người bệnh thường đau quằn quại, vật vã để tìm một tư thế giảm đau nhưng không được."
+    },
+    {
+      "name": "Tiểu ra máu",
+      "description": "Khi sỏi có bề mặt nhám, gai san hô cọ xát vào đường tiểu, đặc biệt sau khi hoạt động mạnh, có thể gây tiểu ra máu."
+    },
+    {
+      "name": "Bế, tắc đường tiểu",
+      "description": "Sỏi gây ra tình trạng tắc nghẽn đường tiểu, có thể dẫn đến bí tiểu, thận ứ nước căng to."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Triệu chứng đi kèm theo cơn đau sỏi thận, thường có cả chướng bụng do liệt ruột."
+    },
+    {
+      "name": "Sốt và rét run",
+      "description": "Xuất hiện khi có nhiễm trùng tiết niệu kết hợp với sỏi thận."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sỏi tiết niệu hình thành do nước tiểu có chứa quá nhiều hóa chất, điển hình là calci, acid uric, cystine. 85% số lượng sỏi hình thành bắt đầu từ sự lắng đọng canxi.",
+    "related_factors": "Uống không đủ nước, chế độ ăn nhiều muối, chế độ ăn nhiều đạm, nạp bổ sung Calcium và Vitamin C sai cách, bệnh lý đường tiêu hóa, dị dạng đường tiết niệu, nhiễm trùng đường tiết niệu, béo phì.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Uống không đủ nước, khiến nước tiểu quá đặc",
+    "Chế độ ăn nhiều muối",
+    "Chế độ ăn nhiều đạm",
+    "Nạp bổ sung Calcium, Vitamin C sai cách",
+    "Bệnh lý đường tiêu hóa như viêm loét dạ dày, tiêu chảy",
+    "Yếu tố di truyền, tiền sử gia đình",
+    "Dị dạng đường tiết niệu, tắc nghẽn đường tiểu",
+    "Nhiễm trùng đường tiết niệu",
+    "Béo phì",
+    "Nam giới, tuổi từ 30 - 55 tuổi"
+  ],
+  "complications": [
+    "Đài bể thận và niệu quản giãn nở",
+    "Niệu quản bị xơ dày, có thể bị hẹp lại",
+    "Suy giảm chức năng thận",
+    "Thận ứ nước",
+    "Nhiễm trùng đường tiết niệu",
+    "Viêm thận bể thận mạn tính",
+    "Suy thận mạn tính"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng, đánh giá các cơn đau", "Đánh giá tiền sử bệnh"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Phát hiện sỏi, đánh giá độ ứ nước của thận, niệu quản và độ dày mỏng của chủ mô thận"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Đánh giá tình trạng bệnh, giai đoạn và biến chứng, đặc biệt là nhiễm trùng đường tiết niệu"
+      },
+      {
+        "name": "Soi cặn lắng",
+        "description": "Xác định các tinh thể Oxalat, phosphat, Calci để kết luận loại sỏi đang tồn tại trong hệ tiết niệu"
+      },
+      {
+        "name": "Chụp Xquang bụng không chuẩn bị (ASP)",
+        "description": "Xác định vị trí sỏi cản quang, kích thước, số lượng và hình dáng của sỏi"
+      },
+      {
+        "name": "Chụp hệ tiết niệu qua đường tĩnh mạch (UIV)",
+        "description": "Đánh giá hình dáng thận, đài bể thận, niệu quản và chức năng bài tiết chất cản quang của thận từng bên"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị sỏi thận không có nghĩa là sẽ dứt điểm không tái phát. Tùy vào vị trí, kích thước, loại sỏi và triệu chứng mà có phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa cơn đau",
+        "description": "Sử dụng thuốc kháng viêm không steroid (tiêm tĩnh mạch Diclofenac), thuốc giãn cơ trơn (Buscopan, Drotaverin), và nếu có nhiễm trùng thì dùng kháng sinh"
+      },
+      {
+        "name": "Điều trị nội khoa sỏi nhỏ",
+        "description": "Tăng dòng nước tiểu bằng thuốc lợi tiểu và uống nhiều nước, dùng thuốc chống viêm không steroid để niêm mạc niệu quản không bị phù nề"
+      },
+      {
+        "name": "Điều trị nội khoa sỏi acid uric",
+        "description": "Uống nhiều nước trên 2 lít mỗi ngày, kiềm hóa nước tiểu bằng Bicarbonate de Sodium, ức chế purine bằng Allopurinol"
+      },
+      {
+        "name": "Tán sỏi ngoài cơ thể",
+        "description": "Dùng cho sỏi nhỏ khoảng 1cm, ít xâm lấn, không phải nằm viện, rẻ hơn các phương pháp khác"
+      },
+      {
+        "name": "Nội soi lấy sỏi",
+        "description": "Sử dụng ống nội soi bán cứng và tia laser để phá sỏi và lấy ra, áp dụng khi sỏi ở niệu quản gần bàng quang"
+      },
+      {
+        "name": "Nội soi ống mềm",
+        "description": "Sử dụng ống mềm đưa qua đường niệu đạo để tiếp cận và lấy sỏi ở vị trí cao"
+      },
+      {
+        "name": "Tán sỏi qua da",
+        "description": "Tạo một lỗ nhỏ trên thận để phá sỏi, áp dụng khi sỏi ở trung thận"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống nhiều nước, đảm bảo lượng nước tiểu > 2 lít/ngày",
+      "Vận động thường xuyên, nhảy dây để giúp sỏi tự đào thải",
+      "Kiểm tra màu nước tiểu, đảm bảo nước tiểu trong",
+      "Giảm muối trong khẩu phần ăn (6-9g NaCl/ngày)",
+      "Duy trì lượng protein bình thường (1,2g/kg/ngày)",
+      "Hạn chế nạp calci ở mức 800-1000mg/ngày",
+      "Dùng kháng sinh kéo dài nếu sỏi do nhiễm trùng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +128,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Uống nhiều nước, ít nhất 2 lít mỗi ngày",
+      "Tính lượng nước cần uống theo công thức: Cân nặng x 40 = Số nước (cc) cần uống trong ngày",
+      "Vận động thường xuyên, nhảy dây để giúp sỏi tự đào thải",
+      "Hạn chế ăn mặn, giảm các thực phẩm có nhiều muối",
+      "Giảm thực phẩm giàu đạm",
+      "Hạn chế nạp quá nhiều Calcium và Vitamin C",
+      "Điều trị dứt điểm các bệnh lý đường tiêu hóa",
+      "Kiểm soát cân nặng, tránh béo phì"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sỏi thận là gì?",
+      "answer": "Sỏi thận là bệnh lý sỏi tiết niệu thường gặp ở nam giới trung niên, là những phân tử rắn được hình thành do sự kết tinh tự nhiên của các tinh thể vô cơ trong nước tiểu. Chúng có thể gây đau, buồn nôn và nôn, tiểu máu và có thể gây sốt, rét run vì nhiễm trùng thứ phát."
+    },
+    {
+      "question": "Các loại sỏi thận thường gặp?",
+      "answer": "Các loại sỏi thận thường gặp bao gồm: Sỏi calcium (chiếm 80-90%, gồm Calci Oxalat, Calci Phosphat), Sỏi phosphat (Magnésium Ammonium Phosphate, do nhiễm trùng niệu lâu ngày), Sỏi acid uric (do quá trình chuyển hóa chất purine tăng), và Sỏi cystine (do sai sót của việc tái hấp thu chất cystine ở ống thận)."
+    },
+    {
+      "question": "Sỏi thận có nguy hiểm không?",
+      "answer": "Sỏi thận nếu không được điều trị kịp thời có thể gây ra nhiều biến chứng nguy hiểm. Sau khoảng 3 tháng, niệu quản, bể thận và đài thận ở trên vị trí tắc sẽ bị giãn nở. Lâu dài, niệu quản bị xơ dày, hẹp lại, chức năng thận suy giảm dần, thận bị ứ nước. Nếu có nhiễm trùng sẽ dẫn đến viêm thận bể thận mạn tính và suy thận mạn tính."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán sỏi thận?",
+      "answer": "Chẩn đoán sỏi thận thường dựa vào siêu âm, xét nghiệm nước tiểu, soi cặn lắng, chụp Xquang bụng không chuẩn bị (ASP), và chụp hệ tiết niệu qua đường tĩnh mạch (UIV) để xác định vị trí, kích thước, số lượng và loại sỏi."
+    },
+    {
+      "question": "Có cách nào phòng ngừa sỏi thận?",
+      "answer": "Để phòng ngừa sỏi thận, cần uống nhiều nước (ít nhất 2 lít mỗi ngày, tính theo công thức: Cân nặng x 40 = Số nước (cc) cần uống trong ngày), vận động thường xuyên, giảm ăn mặn, hạn chế thực phẩm giàu đạm, tránh nạp quá nhiều Calcium và Vitamin C, điều trị dứt điểm các bệnh lý đường tiêu hóa, và kiểm soát cân nặng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay bị đau dữ dội ở vùng hông lưng, lan xuống bụng dưới và bẹn. Cơn đau đến đột ngột sau khi vận động mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-than", "soi-nieu-quan", "viem-than"]
+    },
+    {
+      "question": "Tôi thấy nước tiểu có lẫn máu sau khi tập thể dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-than", "viem-bang-quang", "viem-nieu-dao"]
+    },
+    {
+      "question": "Tôi thường xuyên bị đau âm ỉ vùng thắt lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-than", "viem-than", "thoat-vi-dia-dem"]
+    },
+    {
+      "question": "Tôi bị tiểu buốt, tiểu rắt và nước tiểu đục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-than", "viem-bang-quang", "viem-nieu-dao"]
+    },
+    {
+      "question": "Tôi bị đau lưng dữ dội, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-than", "soi-nieu-quan", "viem-tuy"]
     }
   ]
 }

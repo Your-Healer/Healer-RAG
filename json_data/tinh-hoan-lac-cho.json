@@ -1,39 +1,102 @@
 {
   "disease_id": "tinh-hoan-lac-cho",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tinh hoàn lạc chỗ",
+  "disease_alternative_names": [
+    "Misplaced testicle",
+    "Tinh hoàn di chuyển không đúng vị trí"
+  ],
+  "disease_definition": "Tình trạng tinh hoàn lạc chỗ là tình trạng một hay cả hai tinh hoàn không di chuyển xuống bìu trong khi thai nhi đang phát triển. Thông thường chỉ có một tinh hoàn bị lạc chỗ. Có khoảng 10% trường hợp cả hai tinh hoàn đều bị ảnh hưởng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không sờ thấy tinh hoàn trong bìu",
+      "description": "Tinh hoàn không nằm tại vị trí bình thường trong bìu"
+    },
+    {
+      "name": "Sờ thấy tinh hoàn ở ống bẹn",
+      "description": "Tinh hoàn đã đi vào ống bẹn để xuống bìu nhưng lại không đi đủ xa"
+    },
+    {
+      "name": "Bìu kém phát triển và nhỏ",
+      "description": "Túi bìu nhỏ và xẹp hơn bình thường do không có tinh hoàn bên trong"
+    },
+    {
+      "name": "Chỉ sờ thấy một bên tinh hoàn trong bìu",
+      "description": "Một tinh hoàn phát triển bình thường ở bìu, tinh hoàn còn lại không tìm thấy"
+    },
+    {
+      "name": "Sưng đau vùng bẹn đột ngột",
+      "description": "Xuất hiện trong trường hợp có biến chứng như xoắn tinh hoàn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây ra tình trạng tinh hoàn lạc chỗ vẫn chưa được biết rõ. Đó có thể là do sự kết hợp của di truyền học, sức khỏe của thai phụ hoặc những yếu tố môi trường khác.",
+    "related_factors": "Các yếu tố liên quan có thể phá vỡ những kích thích tố, gây thay đổi vật lý và ảnh hưởng đến hoạt động thần kinh, từ đó tác động tới sự phát triển và di chuyển của tinh hoàn trong quá trình phát triển thai nhi.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thiếu cân khi sinh",
+    "Sinh non",
+    "Tiền sử gia đình có người bị tình trạng tinh hoàn lạc chỗ",
+    "Mắc các bệnh lý thai nhi như hội chứng Down hay khiếm khuyết thành bụng",
+    "Thai phụ lạm dụng rượu, bia",
+    "Thai phụ hút thuốc lá hay thường xuyên tiếp xúc với khói thuốc",
+    "Thai phụ bị béo phì, thừa cân",
+    "Thai phụ mắc bệnh tiểu đường loại 1, loại 2 hoặc tiểu đường thai kỳ",
+    "Bố mẹ thường xuyên tiếp xúc với một số loại thuốc trừ sâu"
+  ],
+  "complications": [
+    "Xoắn tinh hoàn: Xoắn dây thừng tinh gây đau đớn do máu bị chặn trên đường đi đến tinh hoàn",
+    "Chấn thương tinh hoàn: Tinh hoàn không nằm trong bìu có thể bị tổn thương do áp lực từ xương mu",
+    "Thoát vị bẹn: Tinh hoàn nằm ở bẹn có thể tạo ra khe hở giữa vùng bụng và ống bẹn",
+    "Vô sinh: Do nhiệt độ trong bụng cao hơn nhiệt độ trong bìu nên phần lớn tinh trùng không sống được",
+    "Nguy cơ ung thư tinh hoàn cao hơn: Tinh hoàn ở lâu trong bụng sẽ có nhiều khả năng dẫn tới ung thư hóa"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để kiểm tra vị trí của tinh hoàn",
+      "Theo dõi trong 6 tháng đầu đời với trẻ sơ sinh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm bụng",
+        "description": "Giúp xác định vị trí chính xác của tinh hoàn lạc chỗ"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết để xác định vị trí của tinh hoàn và phát hiện các bất thường khác"
+      },
+      {
+        "name": "Xét nghiệm nhiễm sắc thể",
+        "description": "Giúp phát hiện những trường hợp giới tính không xác định"
+      },
+      {
+        "name": "Xét nghiệm chỉ điểm khối u",
+        "description": "Kiểm tra αFP, β-HCG, LDH để phát hiện trường hợp u ác tính"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu của các phương pháp điều trị là đưa tinh hoàn về đúng vị trí trong bìu. Điều trị sớm sẽ giúp giảm thiểu những biến chứng nguy hiểm như ung thư tinh hoàn, vô sinh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi",
+        "description": "Trẻ sơ sinh bị tinh hoàn lạc chỗ sẽ được theo dõi trong 6 tháng đầu đời vì tinh hoàn có thể tự di chuyển xuống bìu"
+      },
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Tiêm thuốc hCG (nội tiết tố nhau thai) để kích thích tinh hoàn di chuyển xuống đúng vị trí trong bìu"
+      },
+      {
+        "name": "Phẫu thuật hạ tinh hoàn",
+        "description": "Được chỉ định khi điều trị nội khoa không hiệu quả, giúp đưa tinh hoàn ra khỏi ống phúc tinh mạc, bóc tách và kéo dài cuống tinh hoàn để hạ xuống bìu"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Phẫu thuật nên được thực hiện trước 1 tuổi nếu tinh hoàn không tự di chuyển xuống bìu sau 6 tháng",
+      "Điều trị càng sớm càng tốt để bảo tồn chức năng sinh sản của tinh hoàn",
+      "Trường hợp nam giới trưởng thành cần phẫu thuật ngay khi tinh hoàn chưa bị ung thư hóa",
+      "Theo dõi định kỳ sau phẫu thuật để đánh giá kết quả điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +104,64 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thai phụ nên tránh hút thuốc lá và tiếp xúc với khói thuốc",
+      "Hạn chế sử dụng rượu bia trong thời gian mang thai",
+      "Kiểm soát cân nặng và đường huyết trong thai kỳ",
+      "Hạn chế tiếp xúc với thuốc trừ sâu và hóa chất độc hại",
+      "Khám thai định kỳ để theo dõi sự phát triển của thai nhi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tinh hoàn lạc chỗ có tự khỏi được không?",
+      "answer": "Trong 6 tháng đầu đời, tinh hoàn lạc chỗ có thể tự di chuyển rồi nằm ổn định trong bìu. Tuy nhiên, ngoài 6 tháng tuổi, tỷ lệ tinh hoàn di chuyển được về bìu nếu không điều trị là rất thấp. Nếu sau 6 tháng tinh hoàn vẫn chưa xuống bìu, cần đưa trẻ đi thăm khám để có hướng điều trị phù hợp."
+    },
+    {
+      "question": "Tinh hoàn lạc chỗ có ảnh hưởng đến khả năng sinh sản không?",
+      "answer": "Có, tinh hoàn lạc chỗ có thể ảnh hưởng đến khả năng sinh sản. Nhiệt độ trong bụng cao hơn nhiệt độ trong bìu, khiến phần lớn tinh trùng không sống được trong môi trường này. Tinh trùng sẽ bị giảm chất lượng, chết và không sản sinh được nữa. Tuy nhiên, nếu được phát hiện và điều trị sớm, trẻ vẫn có thể duy trì chức năng sinh sản bình thường."
+    },
+    {
+      "question": "Khi nào cần phẫu thuật điều trị tinh hoàn lạc chỗ?",
+      "answer": "Phẫu thuật sẽ được cân nhắc khi tinh hoàn không tự di chuyển xuống bìu lúc bé trai 6 tháng tuổi, thường được thực hiện trong khoảng 1 năm sau đó. Phẫu thuật cũng được chỉ định khi điều trị nội khoa bằng tiêm thuốc hCG không có kết quả. Đối với nam giới trưởng thành, cần phẫu thuật ngay khi phát hiện tinh hoàn lạc chỗ và tinh hoàn chưa bị ung thư hóa."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi sinh non và nhẹ cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tinh hoàn lạc chỗ",
+        "Suy dinh dưỡng sơ sinh",
+        "Hội chứng suy hô hấp sơ sinh"
+      ]
+    },
+    {
+      "question": "Gia đình tôi có tiền sử bị tinh hoàn lạc chỗ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tinh hoàn lạc chỗ",
+        "Tinh hoàn ẩn",
+        "Bất thường sinh dục bẩm sinh"
+      ]
+    },
+    {
+      "question": "Tôi bị hội chứng Down hoặc khiếm khuyết thành bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tinh hoàn lạc chỗ",
+        "Dị tật tim bẩm sinh",
+        "Thoát vị rốn"
+      ]
+    },
+    {
+      "question": "Tôi là trẻ sơ sinh nam và tinh hoàn không nằm trong bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tinh hoàn lạc chỗ",
+        "Tinh hoàn ẩn",
+        "Tinh hoàn co rút"
+      ]
+    },
+    {
+      "question": "Tôi không sờ thấy tinh hoàn trong bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tinh hoàn lạc chỗ", "Tinh hoàn ẩn", "Vô tinh hoàn"]
     }
   ]
 }

@@ -1,39 +1,129 @@
 {
   "disease_id": "phi-dai-tuyen-tien-liet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Phì đại tuyến tiền liệt",
+  "disease_alternative_names": [
+    "Tăng sinh lành tính tuyến tiền liệt",
+    "BPH",
+    "U xơ tuyến tiền liệt"
+  ],
+  "disease_definition": "Phì đại tuyến tiền liệt là sự tăng sinh lành tính một thực thể mô bệnh lý đặc hiệu gồm sự tăng sinh của mô nền và tế bào niêm mạc tuyến, kết quả là tuyến tiền liệt to ra có thể gây bế tắc đường tiết niệu dưới, khi đó gọi là bướu gây bế tắc. Bệnh gây ra các triệu chứng rối loạn đi tiểu làm ảnh hưởng xấu đến chất lượng sống.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tiểu nhiều lần trong đêm",
+      "description": "Người bệnh phải thức dậy nhiều lần trong đêm để đi tiểu, ảnh hưởng đến chất lượng giấc ngủ."
+    },
+    {
+      "name": "Tiểu gấp",
+      "description": "Cảm giác buồn tiểu đột ngột, khó kiểm soát và phải đi tiểu ngay lập tức."
+    },
+    {
+      "name": "Tiểu phải rặn",
+      "description": "Người bệnh phải gắng sức, rặn mạnh khi đi tiểu do tuyến tiền liệt phì đại chèn ép niệu đạo."
+    },
+    {
+      "name": "Cảm giác mót tiểu",
+      "description": "Cảm giác luôn muốn đi tiểu, thường xuyên có cảm giác bàng quang chưa được làm trống hoàn toàn."
+    },
+    {
+      "name": "Tia nước tiểu yếu hoặc ngắt quãng",
+      "description": "Dòng nước tiểu yếu, có thể bị ngắt quãng hoặc nhỏ giọt, đôi khi phải mất thời gian để bắt đầu đi tiểu."
+    },
+    {
+      "name": "Tiểu không kiểm soát",
+      "description": "Không thể kiểm soát được việc đi tiểu, đôi khi tiểu són mà không biết trước."
+    },
+    {
+      "name": "Bí tiểu",
+      "description": "Không thể đi tiểu hoặc không thể làm trống bàng quang hoàn toàn."
+    },
+    {
+      "name": "Nhiễm trùng đường tiết niệu",
+      "description": "Do nước tiểu tồn đọng trong bàng quang tạo điều kiện cho vi khuẩn phát triển, gây nhiễm trùng."
+    },
+    {
+      "name": "Có máu trong nước tiểu",
+      "description": "Xuất hiện máu trong nước tiểu, có thể nhìn thấy bằng mắt thường hoặc chỉ phát hiện qua xét nghiệm."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân của tình trạng phì đại tiền liệt tuyến hiện vẫn có nhiều điều chưa được làm rõ. Tuy nhiên, nhiều nghiên cứu khẳng định rằng có liên quan đến các yếu tố lão hóa và bất thường tinh hoàn.",
+    "related_factors": "Khi nam giới già đi, nồng độ testosterone trong máu giảm xuống, khiến cho tỷ lệ estrogen cao hơn. Bên cạnh đó, mặc dù testosterone giảm, lượng hormone dihydrotestosterone (DHT) vẫn tích tụ trong tuyến tiền liệt, thúc đẩy các tế bào của tuyến này tiếp tục phát triển. Những người đàn ông không có khả năng sản xuất dihydrotestosterone sẽ không bị phì đại tuyến tiền liệt.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác: Khoảng 1/3 nam giới có triệu chứng từ trung bình đến nặng ở độ tuổi 60 và 1/2 số đó sẽ bị tăng sinh tuyến tiền liệt ở độ tuổi 80",
+    "Di truyền: Người có cha hoặc anh trai mắc các vấn đề về tuyến tiền liệt có nguy cơ cao hơn",
+    "Các vấn đề về tinh hoàn: Những người đàn ông đã cắt bỏ tinh hoàn khi còn bé sẽ không phát triển tình trạng phì đại tiền liệt tuyến",
+    "Lối sống: Chế độ ăn, lượng caffeine và rượu tiêu thụ có thể ảnh hưởng đến các triệu chứng",
+    "Béo phì: Người thừa cân, béo phì có nguy cơ cao hơn",
+    "Thiếu vận động: Ít hoạt động thể chất làm tăng nguy cơ mắc bệnh"
+  ],
+  "complications": [
+    "Bí tiểu đột ngột: Cần phải đặt ống thông vào bàng quang để thoát nước tiểu",
+    "Nhiễm trùng đường tiết niệu: Nước tiểu ứ đọng làm tăng nguy cơ nhiễm trùng",
+    "Sỏi bàng quang: Gây nhiễm trùng, kích ứng bàng quang, tiểu ra máu và cản trở dòng chảy của nước tiểu",
+    "Tổn thương bàng quang: Bàng quang tồn đọng có thể bị căng và trở nên suy yếu, làm giảm khả năng co bóp",
+    "Hỏng thận: Áp lực do nước tiểu ứ đọng trong bàng quang có thể trực tiếp làm hỏng thận",
+    "Ảnh hưởng đến sức khỏe tổng thể: Bí tiểu cấp tính và tổn thương thận có thể đe dọa nghiêm trọng sức khỏe"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám và hỏi tiền sử bệnh",
+      "Thăm khám qua đường hậu môn để ước tính kích thước và độ chắc của tuyến tiền liệt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Cho thấy hình thể, kích thước và trọng lượng của tuyến tiền liệt, đồng thời đo được lượng nước tiểu tồn lưu trong bàng quang sau khi đi tiểu"
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Một ống soi nhỏ được đưa vào niệu đạo để kiểm tra tình trạng niệu đạo và bàng quang"
+      },
+      {
+        "name": "Phân tích nước tiểu",
+        "description": "Giúp tìm ra máu và vi khuẩn tồn tại trong nước tiểu"
+      },
+      {
+        "name": "Kiểm tra niệu động học",
+        "description": "Đánh giá được sức co bóp của bàng quang và tốc độ của dòng nước tiểu"
+      },
+      {
+        "name": "Xét nghiệm PSA",
+        "description": "Kháng nguyên đặc hiệu PSA (Prostate Specific Antigen) giúp xác định tình trạng ung thư tuyến tiền liệt"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không phải tất cả trường hợp tăng sinh lành tính tuyến tiền liệt đều cần phải can thiệp. Bác sĩ sẽ dựa trên chỉ số tình trạng bế tắc (International prostate symptom score-IPSS) và thang điểm chất lượng cuộc sống để điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phương pháp tự nhiên",
+        "description": "Bao gồm các biện pháp như đi tiểu ngay khi cảm thấy buồn tiểu, đi tiểu định kỳ, tránh dùng thuốc trị bệnh đường hô hấp không kê đơn, tránh rượu và caffeine, giảm căng thẳng, tập thể dục thường xuyên, tập Kegel, giữ ấm cơ thể."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Thuốc chặn alpha-1 (Doxazosin, Prazosin, Alfuzosin, Terazosin) giúp giãn cơ bàng quang; Thuốc giảm hormone (Thuốc ức chế 5 alpha-reductase) như Dutasteride và Finasteride; Thuốc kháng Muscarinic (Oxybutynin ER, Solifenacin); Thuốc kháng sinh; Thảo dược."
+      },
+      {
+        "name": "Phẫu thuật ngoại trú",
+        "description": "Bao gồm cắt đốt bằng kim xuyên thấu (TUNA), liệu pháp vi sóng (TUMT), liệu pháp xông hơi nước (Rezūm), nhiệt trị liệu bằng nước (WIT), siêu âm hội tụ cường độ cao (HIFU), cấy ghép Urolift."
+      },
+      {
+        "name": "Phẫu thuật nội trú",
+        "description": "Phẫu thuật nội soi tuyến tiền liệt (TURP), Cắt tuyến tiền liệt đơn giản, Rạch tuyến tiền liệt qua đường niệu đạo (TUIP)."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ kiểm tra sức khỏe định kỳ để theo dõi các triệu chứng và kích thước tuyến tiền liệt",
+      "Tránh uống nhiều nước vào buổi tối để giảm đi tiểu đêm",
+      "Hạn chế caffeine và rượu, đặc biệt là sau bữa tối",
+      "Cố gắng tiểu sạch ở mỗi lần đi tiểu",
+      "Tập thể dục thường xuyên",
+      "Duy trì cân nặng hợp lý",
+      "Quản lý stress hiệu quả",
+      "Giữ ấm cơ thể, tránh lạnh vì lạnh có thể làm triệu chứng trở nên nặng hơn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +131,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Quản lý căng thẳng để duy trì trạng thái cân bằng",
+      "Bỏ hút thuốc",
+      "Tránh uống nhiều nước vào buổi tối để giảm đi tiểu đêm",
+      "Cố gắng tiểu sạch ở mỗi lần đi tiểu",
+      "Tập các bài tập tăng cường sức khỏe sàn chậu, bàng quang",
+      "Trao đổi với bác sĩ để tránh dùng các loại thuốc có thể làm trầm trọng thêm triệu chứng",
+      "Bổ sung thực phẩm lành mạnh giúp tăng cường sức khỏe cho tuyến tiền liệt",
+      "Tăng cường vận động, tập luyện thể dục để cơ thể khỏe mạnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Phì đại tuyến tiền liệt có phải là ung thư không?",
+      "answer": "Không, phì đại tuyến tiền liệt là một tình trạng lành tính, là sự tăng sinh của mô tuyến tiền liệt theo thời gian. Mặc dù nó không phải là ung thư và không làm tăng nguy cơ phát triển ung thư tuyến tiền liệt, nhưng nếu không điều trị, nó có thể gây ra các biến chứng nghiêm trọng như bí tiểu, nhiễm trùng đường tiết niệu, sỏi bàng quang và tổn thương thận."
+    },
+    {
+      "question": "Khi nào nên đi khám khi nghi ngờ bị phì đại tuyến tiền liệt?",
+      "answer": "Bạn nên đi khám nếu gặp phải các triệu chứng như tiểu nhiều lần, đặc biệt là vào ban đêm; tiểu gấp; tia nước tiểu yếu hoặc ngắt quãng; khó bắt đầu đi tiểu; cảm giác bàng quang không trống hoàn toàn sau khi đi tiểu; hoặc tiểu ra máu. Đặc biệt, nếu bạn hoàn toàn không thể đi tiểu, hãy đến cấp cứu ngay lập tức vì đó là tình trạng cấp cứu."
+    },
+    {
+      "question": "Phì đại tuyến tiền liệt có điều trị dứt điểm được không?",
+      "answer": "Phì đại tuyến tiền liệt thường không thể điều trị dứt điểm hoàn toàn nếu không phẫu thuật. Tuy nhiên, các biện pháp điều trị như thay đổi lối sống, dùng thuốc và phẫu thuật có thể giúp kiểm soát hiệu quả các triệu chứng và ngăn ngừa biến chứng. Trong nhiều trường hợp, phẫu thuật như TURP có thể giúp cải thiện đáng kể chất lượng cuộc sống cho người bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiểu nhiều lần trong đêm và cảm giác mót tiểu liên tục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phi-dai-tuyen-tien-liet",
+        "viem-bang-quang",
+        "soi-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tia nước tiểu yếu và ngắt quãng, đôi khi còn bị bí tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phi-dai-tuyen-tien-liet",
+        "hep-nieu-dao",
+        "ung-thu-tuyen-tien-liet"
+      ]
+    },
+    {
+      "question": "Tôi hay phải rặn khi đi tiểu và cảm giác bàng quang không được làm trống hoàn toàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phi-dai-tuyen-tien-liet",
+        "soi-bang-quang",
+        "u-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên thức dậy nhiều lần vào ban đêm để đi tiểu, ảnh hưởng đến giấc ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phi-dai-tuyen-tien-liet",
+        "dai-thao-duong",
+        "bang-quang-tang-hoat"
+      ]
+    },
+    {
+      "question": "Tôi gặp khó khăn khi bắt đầu đi tiểu và dòng nước tiểu chảy rất chậm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phi-dai-tuyen-tien-liet",
+        "hep-nieu-dao",
+        "seo-co-bang-quang"
+      ]
     }
   ]
 }

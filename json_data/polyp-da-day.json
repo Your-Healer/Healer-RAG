@@ -1,39 +1,111 @@
 {
   "disease_id": "polyp-da-day",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Polyp dạ dày",
+  "disease_alternative_names": [
+    "Polyp bao tử",
+    "Gastric polyp",
+    "Khối u dạ dày lành tính"
+  ],
+  "disease_definition": "Polyp dạ dày là những khối tế bào hình thành trên lớp niêm mạc bên trong bao tử. Hầu hết các polyp ở dạ dày là lành tính, nhưng có một số loại có nguy cơ cao chuyển thành ung thư dạ dày.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó tiêu",
+      "description": "Người bệnh có thể cảm thấy khó tiêu hóa thức ăn, đặc biệt sau khi ăn các thực phẩm nhiều dầu mỡ hoặc cay nóng."
+    },
+    {
+      "name": "Trào ngược axit",
+      "description": "Axit dạ dày trào ngược lên thực quản gây cảm giác khó chịu."
+    },
+    {
+      "name": "Ợ nóng",
+      "description": "Cảm giác nóng rát hoặc khó chịu ở vùng ngực, thường xảy ra sau khi ăn."
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau âm ỉ hoặc cảm giác khó chịu ở vùng bụng, đặc biệt là sau khi ăn."
+    },
+    {
+      "name": "Cảm thấy no nhanh",
+      "description": "Người bệnh có thể cảm thấy no sớm dù chỉ ăn một lượng thức ăn rất ít."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm thấy uể oải, thiếu năng lượng, đặc biệt là khi polyp gây chảy máu dẫn đến thiếu máu."
+    },
+    {
+      "name": "Chảy máu dạ dày",
+      "description": "Khi polyp lớn có thể gây chảy máu làm bệnh nhân thiếu máu, biểu hiện qua phân đen hoặc nôn ra máu."
+    },
+    {
+      "name": "Tắc nghẽn đường tiêu hóa",
+      "description": "Polyp kích thước lớn có thể gây tắc nghẽn đường tiêu hóa, dẫn đến đau bụng dữ dội và khó tiêu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Polyp dạ dày được hình thành để phản ứng với các tổn thương trên niêm mạc bao tử.",
+    "related_factors": "Một số nguyên nhân phổ biến bao gồm viêm dạ dày mãn tính dẫn đến sự hình thành các polyp và u tuyến tăng sản, bệnh đa polyp gia đình là hội chứng di truyền hiếm gặp khiến một số tế bào nhất định trên niêm mạc bên trong dạ dày hình thành polyp, và lạm dụng một số loại thuốc dạ dày đặc biệt là các loại thuốc ức chế bơm Proton để giảm axit dạ dày.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi từ 45 trở lên",
+    "Phụ nữ trung niên (với polyp tuyến đáy vị)",
+    "Sử dụng thuốc ức chế bơm proton lâu dài",
+    "Nhiễm vi khuẩn H. pylori",
+    "Hút thuốc lá",
+    "Ít vận động thể chất",
+    "Viêm dạ dày mãn tính",
+    "Yếu tố di truyền (bệnh đa polyp gia đình)"
+  ],
+  "complications": [
+    "Nguy cơ phát triển thành ung thư dạ dày (đặc biệt với polyp u tuyến)",
+    "Xuất huyết tiêu hóa",
+    "Thiếu máu do chảy máu dạ dày",
+    "Tắc nghẽn đường tiêu hóa"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Nội soi dạ dày", "Sinh thiết mô bệnh học"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi dạ dày",
+        "description": "Một ống nội soi, một ống dẻo có gắn camera ở một đầu, được đưa vào miệng và đi xuống dạ dày để kiểm tra và phát hiện polyp."
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô của polyp qua ống nội soi để xét nghiệm tìm tế bào ung thư."
+      },
+      {
+        "name": "Xét nghiệm H. pylori",
+        "description": "Kiểm tra sự hiện diện của vi khuẩn H. pylori, một nguyên nhân phổ biến gây polyp dạ dày."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị polyp dạ dày sẽ phụ thuộc vào từng loại, kích thước và nguyên nhân hình thành.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cắt polyp",
+        "description": "Các polyp bao tử kích thước lớn (thường lớn hơn 10mm) hoặc có nguy cơ cao phát triển thành ung thư sẽ được cắt bỏ trong quá trình nội soi."
+      },
+      {
+        "name": "Điều trị nhiễm trùng",
+        "description": "Nếu phát hiện nhiễm H. pylori, bác sĩ sẽ kê đơn thuốc kháng sinh để điều trị, giúp làm lành các polyp tăng sản."
+      },
+      {
+        "name": "Phẫu thuật cắt dạ dày",
+        "description": "Trong trường hợp polyp xuất hiện quá nhiều hoặc có nguy cơ ung thư cao, phẫu thuật cắt một phần hoặc toàn bộ dạ dày có thể được áp dụng."
+      },
+      {
+        "name": "Ngừng dùng thuốc ức chế bơm proton",
+        "description": "Đối với polyp tuyến đáy vị liên quan đến việc sử dụng thuốc ức chế bơm proton, bác sĩ có thể khuyên bệnh nhân ngừng dùng thuốc."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi định kỳ bằng nội soi khi phát hiện polyp dạ dày",
+      "Điều trị triệt để nhiễm H. pylori nếu có",
+      "Thay đổi chế độ ăn uống, tránh thực phẩm cay nóng, nhiều dầu mỡ",
+      "Hạn chế sử dụng thuốc ức chế bơm proton nếu không cần thiết",
+      "Duy trì cân nặng hợp lý và tập thể dục đều đặn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +113,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm soát các yếu tố nguy cơ có thể gây ra polyp dạ dày",
+      "Hạn chế tối đa việc sử dụng thuốc ức chế bơm Proton, chỉ dùng khi được bác sĩ chỉ định",
+      "Duy trì cân nặng hợp lý",
+      "Khám sức khỏe định kỳ để phát hiện polyp bao tử sớm",
+      "Trao đổi với bác sĩ chuyên khoa về tiền sử bệnh lý của bản thân và gia đình",
+      "Duy trì chế độ ăn uống hợp lý, đầy đủ chất dinh dưỡng",
+      "Giảm thiểu các vấn đề về đường tiêu hóa như khó tiêu, trào ngược",
+      "Điều trị nhiễm H. pylori nếu phát hiện"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bị polyp dạ dày có nguy hiểm không?",
+      "answer": "Polyp dạ dày chỉ gây nguy hiểm trong trường hợp phát triển thành khối u ác tính hoặc làm tăng nguy cơ ung thư cho bao tử. Tuy nhiên, người bệnh không nên chủ quan, thay vào đó cần thực hiện khám sức khỏe định kỳ nhằm phát hiện, loại bỏ sớm để hạn chế biến chứng không mong muốn."
+    },
+    {
+      "question": "Polyp dạ dày nên ăn gì và kiêng gì?",
+      "answer": "Sau khi cắt polyp dạ dày, người bệnh cần bổ sung các món ăn nhiều dinh dưỡng, tốt cho sức khỏe và bao tử. Trong đó, thực đơn hàng ngày nên ưu tiên rau củ quả, trái cây. Ngoài ra, các món ăn dễ tiêu hóa như cháo, món hầm cũng là lựa chọn lý tưởng. Người bệnh nên kiêng những món ăn cứng, gây khó khăn cho quá trình tiêu hóa. Đồng thời, thực phẩm cay nóng, chua, mặn và nhiều dầu mỡ cũng sẽ gây cản trở tiêu cực đối với khả năng phục hồi dạ dày."
+    },
+    {
+      "question": "Polyp dạ dày có lây không?",
+      "answer": "Polyp dạ dày không lây từ người này sang người khác. Tuy nhiên, nguyên nhân gây viêm dạ dày mạn tính và sinh ra polyp như H.pylori có thể lây qua đường ăn uống."
+    },
+    {
+      "question": "Bị polyp dạ dày có ảnh hưởng gì không?",
+      "answer": "Polyp dạ dày thường không có triệu chứng rõ ràng và phần lớn chỉ được phát hiện thông qua quá trình nội soi định kỳ. Ngoài ra, trường hợp những khối tế bào này phát triển thành ung thư cũng chiếm tỉ lệ rất nhỏ (từ 6 – 10%). Tuy nhiên, nếu polyp dạ dày có kích thước lớn cũng sẽ gây ra một vài triệu chứng khó chịu, ảnh hưởng đến sức khỏe và sinh hoạt hàng ngày như: khó tiêu, ợ nóng, đau bụng, xuất huyết bao tử."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ợ nóng và cảm thấy no nhanh, mặc dù tôi chỉ ăn một lượng nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-da-day",
+        "viem-da-day",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị trào ngược axit và khó tiêu, đặc biệt là sau khi ăn đồ dầu mỡ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-da-day",
+        "trao-nguoc-da-day-thuc-quan",
+        "viem-da-day"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và đau bụng âm ỉ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["polyp-da-day", "viem-da-day", "loet-da-day"]
+    },
+    {
+      "question": "Tôi thường xuyên bị ợ nóng và đau bụng, kèm theo cảm giác no nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-da-day",
+        "viem-da-day",
+        "roi-loan-chuc-nang-da-day"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy no rất nhanh khi ăn và thường xuyên bị ợ nóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-da-day",
+        "viem-da-day",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
     }
   ]
 }

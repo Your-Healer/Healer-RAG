@@ -1,39 +1,135 @@
 {
   "disease_id": "u-mau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U máu",
+  "disease_alternative_names": ["U mạch máu", "Vết bớt màu đỏ", "Hemangioma"],
+  "disease_definition": "U máu hình thành do quá trình tăng sinh mạch máu quá mức và thường lành tính. Ở trẻ em, bệnh u máu có xu hướng thoái triển dần theo thời gian và sẽ biến mất hoàn toàn hoặc một phần khi trẻ từ 5 đến 10 tuổi. U máu phổ biến nhất ở dạng một vết bớt màu đỏ tươi trên da của trẻ nhỏ khi vừa chào đời hoặc xuất hiện trong 2 tuần đầu tiên sau sinh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Vết bớt đỏ trên da",
+      "description": "Xuất hiện vết bớt màu đỏ tươi trên da, thường thấy ở trẻ sơ sinh"
+    },
+    {
+      "name": "Khối u màu đỏ hoặc xanh",
+      "description": "Khối u có màu đỏ (u máu mao mạch) hoặc màu xanh (u máu dạng hang) trên da"
+    },
+    {
+      "name": "Khối u phẳng hoặc gồ ghề",
+      "description": "Ban đầu khối u có thể phẳng trên da, sau đó dần nhô lên khỏi bề mặt da"
+    },
+    {
+      "name": "Chảy máu, viêm loét",
+      "description": "Bề mặt khối u dễ bị tổn thương, dẫn đến chảy máu hoặc viêm loét khi va chạm"
+    },
+    {
+      "name": "Đau nhức xương",
+      "description": "Nếu u máu phát triển trong xương, có thể gây đau nhức và làm xương to ra"
+    },
+    {
+      "name": "Buồn nôn, nôn ói, đau bụng",
+      "description": "Triệu chứng này xuất hiện khi u máu nằm ở gan hoặc gần bao gan"
+    },
+    {
+      "name": "Khối u ở mi mắt che khuất tầm nhìn",
+      "description": "U máu mọc ở vùng mí mắt có thể gây cản trở thị lực"
+    },
+    {
+      "name": "Khối u ở lưỡi gây khó ăn uống",
+      "description": "U máu ở lưỡi có thể ảnh hưởng đến khả năng ăn uống của người bệnh"
+    },
+    {
+      "name": "Khối u ở đường hô hấp gây khó thở",
+      "description": "U máu phát triển ở đường hô hấp có thể gây cản trở luồng không khí, dẫn đến khó thở"
+    },
+    {
+      "name": "Biến dạng cấu trúc cơ thể",
+      "description": "U máu lớn có thể gây biến dạng cấu trúc cơ quan của cơ thể, đặc biệt ở vùng đầu mũi, môi, tai"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Chưa xác định được nguyên nhân cụ thể của bệnh u máu.",
+    "related_factors": "Một số nghiên cứu y khoa cho rằng bệnh u máu ở trẻ sơ sinh được hình thành do có sự sai sót trong quá trình phát triển hệ thống mạch máu khi bào thai phát triển. Ngoài ra, một số trường hợp u máu được cho rằng có liên quan đến những bất thường trong di truyền (ví dụ, u máu thể hang trong bệnh von Hippel-Lindau).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ sơ sinh",
+    "Giới tính nữ (bé gái có nguy cơ cao hơn bé trai)",
+    "Trẻ da trắng (dễ mắc bệnh hơn trẻ da màu)",
+    "Sinh non",
+    "Sử dụng thuốc tránh thai (liên quan đến u máu trong gan)",
+    "Tiền sử gia đình có người bị u máu"
+  ],
+  "complications": [
+    "Ảnh hưởng đến thẩm mỹ, đặc biệt khi khối u xuất hiện ở vùng mặt, cổ",
+    "Viêm loét, sưng tấy, tổn thương khi va chạm",
+    "Biến dạng cấu trúc cơ quan của cơ thể (đầu mũi, môi, tai)",
+    "Suy tim (trong các trường hợp đặc biệt do tăng lưu lượng máu)",
+    "Ảnh hưởng đến chức năng cơ quan (che khuất tầm nhìn, gây khó ăn uống, khó thở)",
+    "Nhiễm trùng",
+    "Sẹo hoặc mô mỡ thừa trên da sau khi u máu thoái triển",
+    "Chảy máu do vỡ u"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng và tìm hiểu lịch sử sức khỏe của người bệnh",
+      "Tìm hiểu về thời điểm phát hiện khối u máu và các triệu chứng xuất hiện",
+      "Kiểm tra trực tiếp khối u nếu là u máu trên da",
+      "Phân biệt với các loại dị dạng mạch máu và khối u mô mềm khác"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Giúp phát hiện khối u máu dạng hang nếu bị vôi hóa (gọi là phleboliths)"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Cho phép nhìn thấy cấu trúc khối u và phát hiện u máu dạng hang bị vôi hóa"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Tạo hình ảnh rõ nét về cấu trúc mềm, khối u máu sẽ hiện lên như 'túi giun' do các mạch máu quấn quanh nhau"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Dùng để đánh giá bề mặt và cấu trúc bên trong khối u, đặc biệt là với u máu trong nội tạng"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Đa phần bệnh u máu ở trẻ em có thể tự khỏi mà không cần phải điều trị, tuy nhiên khi phát hiện bị u máu người bệnh cần phải tham khảo ý kiến bác sĩ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi",
+        "description": "Đối với u máu ở trẻ nhỏ, thường tự thoái triển theo thời gian và biến mất hoàn toàn hoặc một phần khi trẻ từ 5 đến 10 tuổi"
+      },
+      {
+        "name": "Thuốc chẹn beta",
+        "description": "Có thể được dùng bằng đường uống (dạng viên) với mục tiêu làm chậm sự phát triển của khối u, đặc biệt với u máu vùng mặt và u máu ở trẻ sơ sinh"
+      },
+      {
+        "name": "Thuốc chống viêm (steroid)",
+        "description": "Được sử dụng khi u máu phát triển gần các cấu trúc quan trọng như mũi, môi hoặc mí mắt, có thể tiêm trực tiếp vào u máu hoặc uống"
+      },
+      {
+        "name": "Thuyên tắc mạch",
+        "description": "Thủ thuật xâm lấn tối thiểu, giúp thu nhỏ khối u và giảm đau, có thể thực hiện trước phẫu thuật để giảm nguy cơ mất máu"
+      },
+      {
+        "name": "Điều trị bằng laser",
+        "description": "Dành cho u máu trên da, giúp loại bỏ khối u hoặc giảm đau và các triệu chứng không mong muốn khác"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Áp dụng trong điều trị u máu thể hang hoặc khi khối u gây ra các triệu chứng nghiêm trọng, nhằm loại bỏ hoàn toàn khối u"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi định kỳ sự phát triển của khối u máu",
+      "Đến gặp bác sĩ ngay khi khối u có dấu hiệu nhiễm trùng, mưng mủ, sốt cao",
+      "Đến gặp bác sĩ nếu bề mặt khối u bị loét, rỉ máu",
+      "Không tự ý ngưng thuốc hoặc tăng liều dùng đột ngột khi chưa có ý kiến từ bác sĩ",
+      "Bảo vệ khối u trên da khỏi va chạm để tránh chảy máu hoặc nhiễm trùng",
+      "Tái khám theo lịch hẹn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +137,45 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hiện nay chưa có cách phòng ngừa bệnh u máu vì nguyên nhân hình thành khối u máu vẫn chưa được xác định cụ thể",
+      "Nếu cần tìm hiểu thêm thông tin về bệnh u máu, mọi người cần đến bệnh viện để bác sĩ trực tiếp tư vấn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U máu có nguy hiểm không?",
+      "answer": "Đa phần bệnh u máu thường lành tính và người bệnh sẽ phát triển bình thường. Tuy nhiên, trong một số trường hợp, u máu có thể gây ảnh hưởng đến thẩm mỹ, chức năng của các cơ quan, hoặc biến dạng cấu trúc cơ thể. Trong các trường hợp đặc biệt, tình trạng tăng lưu lượng máu do u máu có thể dẫn đến suy tim."
+    },
+    {
+      "question": "U máu có tự biến mất không?",
+      "answer": "Đối với trẻ em, u máu thường có xu hướng thoái triển dần theo thời gian và có thể biến mất hoàn toàn hoặc một phần khi trẻ từ 5 đến 10 tuổi. Theo thống kê, khoảng một nửa số trường hợp u máu ở trẻ sẽ để lại mô sẹo hoặc hình thành các mạch máu thừa trên da."
+    },
+    {
+      "question": "Khi nào cần điều trị u máu?",
+      "answer": "Không phải tất cả u máu đều cần điều trị, đặc biệt là ở trẻ em khi khối u thường tự thoái triển. Tuy nhiên, cần can thiệp điều trị khi u máu: xuất hiện ở những vị trí nhạy cảm ảnh hưởng đến chức năng của các cơ quan (như mi mắt che khuất tầm nhìn, u ở lưỡi gây khó ăn uống), có dấu hiệu nhiễm trùng, chảy máu, hoặc có xu hướng phát triển nhanh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện vết bớt đỏ trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U máu", "Dị dạng mạch máu", "Bớt sắc tố"]
+    },
+    {
+      "question": "Tôi đang cảm thấy lo lắng vì vết bớt đỏ trên da ngày càng lớn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U máu", "U mạch máu thể hang", "Dị dạng mạch máu"]
+    },
+    {
+      "question": "Tôi hay bị nổi u màu đỏ trên da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U máu", "U hạt sinh mủ", "Viêm nang lông"]
+    },
+    {
+      "question": "Tôi hay bị nổi u màu đỏ ở vùng đầu, cổ, mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U máu", "U mạch máu", "Mụn trứng cá"]
+    },
+    {
+      "question": "Tôi hay bị chảy máu, viêm loét ở khối u màu đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U máu", "U mạch máu thể hang", "Viêm da"]
     }
   ]
 }

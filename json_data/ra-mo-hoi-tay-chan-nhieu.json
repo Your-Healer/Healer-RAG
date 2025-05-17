@@ -1,39 +1,91 @@
 {
   "disease_id": "ra-mo-hoi-tay-chan-nhieu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ra mồ hôi tay chân nhiều (Tăng tiết mồ hôi)",
+  "disease_alternative_names": ["Chứng tăng tiết mồ hôi", "Hyperhidrosis"],
+  "disease_definition": "Ra mồ hôi tay chân là tình trạng đổ mồ hôi tay chân ngay cả khi đang nghỉ ngơi, không hoạt động thể chất, trong không gian mát mẻ, và tâm trạng bình thường. Đây là một rối loạn của cơ thể do sự kích thích quá mức của các thụ thể cholinergic trên các tuyến mồ hôi (Eccrine) gây đổ mồ hôi nhiều.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ra mồ hôi nhiều ở nách",
+      "description": "Tiết mồ hôi quá nhiều ở vùng nách, thấm ướt đẫm áo buộc phải thay áo vài lần trong ngày"
+    },
+    {
+      "name": "Đổ mồ hôi đọng thành giọt sương ở lòng bàn tay",
+      "description": "Mồ hôi tiết ra nhiều đến mức đọng thành các giọt sương ở lòng bàn tay gây khó khăn khi cầm nắm đồ vật"
+    },
+    {
+      "name": "Da mềm, mỏng, bong tróc",
+      "description": "Da tay chân bị ảnh hưởng, trở nên mềm, mỏng và dễ bong tróc do thường xuyên tiếp xúc với mồ hôi"
+    },
+    {
+      "name": "Nhiễm trùng da và nấm da",
+      "description": "Môi trường ẩm ướt thường xuyên khiến da dễ bị nhiễm trùng và nhiễm nấm, gây ngứa ngáy khó chịu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hoạt động quá mức của hệ thần kinh giao cảm khiến não gửi nhiều tín hiệu hơn đến các tuyến eccrine thông qua hệ thần kinh giao cảm dẫn đến ra mồ hôi tay chân nhiều.",
+    "related_factors": "Gen di truyền, mang thai, mãn kinh, rối loạn lo âu, hạ đường huyết, béo phì, nghiện rượu, bệnh Parkinson, một số loại thuốc chống trầm cảm, propranolol, pilocarpine, bethanechol.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người mắc chứng tăng tiết mồ hôi",
+    "Lo âu, căng thẳng",
+    "Béo phì",
+    "Sử dụng một số loại thuốc đặc biệt"
+  ],
+  "complications": [
+    "Nhiễm nấm, đặc biệt là nấm móng chân",
+    "Bệnh về da như mụn cóc, nhọt",
+    "Mùi cơ thể khó chịu",
+    "Ảnh hưởng cảm xúc, có thể dẫn đến trầm cảm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Đánh giá triệu chứng và mức độ ảnh hưởng đến cuộc sống"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Để loại trừ nguyên nhân thứ phát như cường giáp hoặc đái tháo đường"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Để tìm nguyên nhân cơ bản của chứng đổ nhiều mồ hôi tay chân thứ phát"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị tùy thuộc vào nguyên nhân và mức độ nghiêm trọng. Nguyên tắc điều trị là thay đổi lối sống, điều trị bằng các biện pháp ít xâm lấn trước khi xem xét can thiệp phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc bôi tại chỗ hạn chế tiết mồ hôi",
+        "description": "Sử dụng thuốc bôi có thành phần chính là nhôm clorua giúp giảm tiết mồ hôi hiệu quả qua cơ chế gây bít tắc các tuyến mồ hôi. Bôi vào buổi tối trước khi ngủ và rửa sạch vào buổi sáng."
+      },
+      {
+        "name": "Thuốc kháng cholinergic toàn thân",
+        "description": "Hoạt động bằng cách ngăn chặn tác động của chất hóa học acetylcholin - chất kích hoạt các tuyến mồ hôi gây tăng tiết mồ hôi."
+      },
+      {
+        "name": "Công nghệ điện chuyển ion (Iontophoresis)",
+        "description": "Đặt tay hoặc chân vào một tấm nước và một dòng điện yếu chạy qua nước, kích hoạt ion giúp ngăn chặn các tuyến mồ hôi hoạt động quá mức. Mỗi lần điều trị kéo dài 20-30 phút, thực hiện 2-4 lần/tuần."
+      },
+      {
+        "name": "Tiêm botulinum toxin",
+        "description": "Tiêm vào da ở vùng cơ thể bị ảnh hưởng để ngăn chặn các tín hiệu thần kinh kích thích tuyến mồ hôi. Tác dụng kéo dài vài tháng và có thể lặp lại khi cần thiết."
+      },
+      {
+        "name": "Phẫu thuật nội soi lồng ngực cắt hạch giao cảm (ETS)",
+        "description": "Phương pháp phẫu thuật được sử dụng khi các biện pháp khác không hiệu quả. Bác sĩ sẽ tiến hành rạch da nhỏ ở vùng nách để cắt đứt liên kết thần kinh giao cảm chi phối vùng tăng tiết mồ hôi."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế thức ăn chua cay và đồ uống có cồn",
+      "Tránh mặc quần áo bó sát, lựa chọn loại vải phù hợp, hạn chế các loại sợi nhân tạo",
+      "Mặc quần áo màu tối để giảm cảm giác thấm ướt",
+      "Sử dụng tấm thấm nách để bảo vệ quần áo",
+      "Mang tất có khả năng hút ẩm và thay ít nhất hai lần/ngày",
+      "Mang giày có miếng lót đế siêu thấm và thay đổi luân phiên giữa các đôi giày"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +93,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tắm rửa hàng ngày để giảm số lượng vi khuẩn thường trú trên da",
+      "Lau khô các kẽ ngón chân, tay và nách kỹ lưỡng",
+      "Chọn giày và tất làm bằng chất liệu tự nhiên",
+      "Sử dụng tất thể thao hút ẩm khi vận động",
+      "Thay tất thường xuyên, khoảng hai lần/ngày",
+      "Sử dụng các loại phấn bôi chân để giúp thấm mồ hôi",
+      "Đi chân trần hoặc tháo giày khi có thể",
+      "Tập yoga, thiền để kiểm soát sự căng thẳng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ra mồ hôi tay chân nhiều có nguy hiểm không?",
+      "answer": "Ra mồ hôi tay chân nhiều thường không đe dọa nghiêm trọng đến sức khỏe nhưng có thể dẫn đến các vấn đề như nhiễm nấm, bệnh về da, mùi cơ thể khó chịu và ảnh hưởng đến sức khỏe tinh thần. Một số trường hợp có thể tiến triển đến trầm cảm nếu không được điều trị thích hợp."
+    },
+    {
+      "question": "Nguyên nhân gây ra mồ hôi tay chân nhiều là gì?",
+      "answer": "Nguyên nhân chính có thể là do hệ thần kinh giao cảm hoạt động quá mức, yếu tố di truyền, hay các nguyên nhân thứ phát như mang thai, mãn kinh, rối loạn lo âu, hạ đường huyết, béo phì, nghiện rượu, bệnh Parkinson, hoặc do tác dụng phụ của một số loại thuốc."
+    },
+    {
+      "question": "Có phương pháp nào điều trị ra mồ hôi tay chân nhiều hiệu quả không?",
+      "answer": "Có nhiều phương pháp điều trị từ ít xâm lấn đến can thiệp phẫu thuật như: thuốc bôi tại chỗ có nhôm clorua, thuốc kháng cholinergic toàn thân, công nghệ điện chuyển ion, tiêm botulinum toxin và phẫu thuật nội soi lồng ngực cắt hạch giao cảm (ETS) trong trường hợp nặng."
+    },
+    {
+      "question": "Ra mồ hôi tay chân nhiều có di truyền không?",
+      "answer": "Theo thống kê, ước tính từ 35-55% những người mắc chứng tăng tiết mồ hôi có ít nhất một thành viên trong gia đình cũng mắc bệnh này. Nhiều nghiên cứu chỉ ra rằng tình trạng này có thể di truyền qua nhiều thế hệ."
+    },
+    {
+      "question": "Tôi có thể phòng ngừa tình trạng ra mồ hôi tay chân nhiều như thế nào?",
+      "answer": "Biện pháp phòng ngừa bao gồm: tắm rửa hàng ngày, chọn giày và tất làm bằng chất liệu tự nhiên, thay tất thường xuyên, sử dụng phấn bôi chân thấm mồ hôi, đi chân trần khi có thể, và tập yoga hoặc thiền để kiểm soát căng thẳng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ra mồ hôi nhiều ở nách, thấm ướt đẫm áo buộc phải thay áo vài lần trong ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ra-mo-hoi-tay-chan-nhieu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da tay mình mềm, mỏng, bong tróc và hay bị nhiễm trùng da và nấm da gây ngứa ngáy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ra-mo-hoi-tay-chan-nhieu", "nam-da"]
+    },
+    {
+      "question": "Tôi hay đổ mồ hôi đọng thành \"giọt sương\" ở lòng bàn tay, đặc biệt là khi căng thẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ra-mo-hoi-tay-chan-nhieu", "roi-loan-lo-au"]
+    },
+    {
+      "question": "Tôi thường xuyên phải lau tay vì mồ hôi ra quá nhiều, gây khó khăn khi cầm nắm đồ vật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ra-mo-hoi-tay-chan-nhieu"]
+    },
+    {
+      "question": "Tôi muốn biết nguyên nhân gây ra tình trạng ra mồ hôi tay chân nhiều của tôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ra-mo-hoi-tay-chan-nhieu"]
     }
   ]
 }

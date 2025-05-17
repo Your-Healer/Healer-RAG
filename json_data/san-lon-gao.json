@@ -1,58 +1,193 @@
 {
   "disease_id": "san-lon-gao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sán lợn gạo",
+  "disease_alternative_names": ["Sán dải heo", "Sán dây heo", "Taenia Solium"],
+  "disease_definition": "Sán lợn gạo xảy ra khi ăn phải thịt heo sống, chưa được nấu chín có chứa nang ấu trùng sán dải heo, nang này có bọc bên ngoài giống như hạt gạo. Đây là một loại ký sinh trùng phổ biến ở Việt Nam và nhiều nơi trên thế giới.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng",
+      "description": "Đôi khi có cảm giác đau bụng, có thể đau lan xuống ruột thừa do sán di chuyển từ ruột non qua ruột già"
+    },
+    {
+      "name": "Tiêu chảy từng đợt",
+      "description": "Người bệnh có thể bị tiêu chảy theo từng đợt, không liên tục"
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác buồn nôn khi sán ký sinh trong cơ thể"
+    },
+    {
+      "name": "Nhức đầu",
+      "description": "Đau đầu do tác động của ký sinh trùng lên hệ thống thần kinh"
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân do ký sinh trùng hấp thụ chất dinh dưỡng trong cơ thể người"
+    },
+    {
+      "name": "Co giật",
+      "description": "Trong một số trường hợp nghiêm trọng, bệnh nhân có thể bị co giật, đặc biệt khi ấu trùng tấn công hệ thần kinh"
+    },
+    {
+      "name": "Rối loạn tim mạch",
+      "description": "Xuất hiện các vấn đề tim mạch do sán tác động đến hệ tuần hoàn"
+    },
+    {
+      "name": "Tăng áp lực nội sọ",
+      "description": "Ấu trùng xâm nhập vào não có thể gây tăng áp lực nội sọ"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Con người ăn phải miếng thịt heo (gỏi sống, nem chua, chạo, thịt nấu chưa chín) có chứa ấu trùng Cysticercus cellulosae.",
+    "related_factors": "Khi vào cơ thể người, ấu trùng được phóng thích xuyên vách ruột, vào máu để chu du khắp cơ thể. Nếu chúng đến dạ dày, ruột non sẽ tận dụng các men tiêu hóa để phóng thích, đầu sáng nhô ra ngoài, bám vào niêm mạc ruột để phát triển thành sán trưởng thành.",
+    "transmission_routes": [
+      "Ăn thịt heo sống hoặc chưa nấu chín có chứa ấu trùng",
+      "Nuốt phải ấu trùng sán từ thực phẩm hoặc nguồn nước uống bị nhiễm",
+      "Tiếp xúc với phân có chứa trứng sán",
+      "Vệ sinh kém dẫn đến việc nuốt phải trứng sán"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nuôi heo thả rông bừa bãi, nguồn phân heo không được xử lý",
+    "Ăn tiết canh heo, ăn thịt heo, gan heo chưa được nấu chín như nem chua, thính",
+    "Tiêu thụ thịt từ những lò mổ không đảm bảo an toàn thực phẩm, sử dụng heo bệnh để chế biến",
+    "Sống ở khu vực nông thôn, thiếu nhà vệ sinh, đi đại tiện bừa bãi",
+    "Vệ sinh cá nhân kém, không rửa tay sau khi đi vệ sinh hoặc trước khi ăn"
+  ],
+  "complications": [
+    "Co giật, đặc biệt ở trẻ em hoặc người suy nhược thần kinh",
+    "Thay đổi tính tình",
+    "Rối loạn tim mạch nghiêm trọng",
+    "Tăng nhãn áp nếu sán tấn công lên mắt",
+    "Giảm thị lực, thậm chí mù lòa",
+    "U nang thần kinh nếu ấu trùng phát triển trong não"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Loại trừ các bệnh nhiễm vi khuẩn, virus, ký sinh trùng, nấm",
+      "Loại trừ các bệnh viêm não, màng não, u sọ hầu, u nguyên bào tủy, lao màng não, u tế bào hình sao ở hệ thần kinh trung ương"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm phân tìm trứng",
+        "description": "Kiểm tra phân để tìm trứng sán, xác định sự hiện diện của sán trưởng thành trong đường ruột"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Phát hiện nang ấu trùng trong các mô và cơ quan, đặc biệt là trong não"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Cung cấp hình ảnh chi tiết hơn về nang ấu trùng trong não và các cơ quan khác"
+      },
+      {
+        "name": "Xét nghiệm huyết thanh",
+        "description": "Phát hiện kháng thể chống lại sán lợn gạo, đặc biệt quan trọng khi có biểu hiện ở hệ thần kinh trung ương"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị phụ thuộc vào vị trí nhiễm sán và mức độ nghiêm trọng của bệnh, đặc biệt là các trường hợp có biểu hiện thần kinh cần được điều trị phức tạp hơn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc Praziquantel",
+        "description": "Dùng với liều 5-10 mg/kg cân nặng một liều duy nhất để tiêu diệt giun trưởng thành ở đường ruột. Tuy nhiên, cần thận trọng khi bệnh nhân có u nang thần kinh"
+      },
+      {
+        "name": "Thuốc Niclosamide",
+        "description": "Người lớn dùng 4 viên (mỗi viên 500 mg) được nhai một lần, trẻ em dùng 50 mg/kg (tối đa 2 g)"
+      },
+      {
+        "name": "Thuốc chống co giật",
+        "description": "Dùng cho bệnh nhân có biểu hiện co giật do sán tấn công hệ thần kinh"
+      },
+      {
+        "name": "Corticosteroid",
+        "description": "Giúp giảm viêm và giảm tăng áp lực nội sọ trong các trường hợp nhiễm sán ở não"
+      },
+      {
+        "name": "Thuốc Albendazole",
+        "description": "Đôi khi được dùng kết hợp trong các trường hợp có biểu hiện thần kinh"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Can thiệp trong trường hợp người bệnh tăng áp lực nội sọ hoặc trong não có ấu trùng sán khó điều trị bằng thuốc"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Uống thuốc đúng liều lượng và đủ thời gian theo chỉ định của bác sĩ",
+      "Gia đình có người mắc bệnh sán lợn gạo cần được điều trị dứt điểm",
+      "Khám sức khỏe cho các thành viên khác trong gia đình để kiểm tra nhiễm sán",
+      "Thay đổi thói quen ăn uống, tránh thực phẩm nguy cơ cao"
+    ],
+    "prevention_of_transmission": [
+      "Tự kiểm tra thịt heo trước khi chế biến",
+      "Không dùng dao cắt thịt heo sống rồi cắt thực phẩm khác",
+      "Rửa tay kỹ bằng xà phòng sau khi tiếp xúc với thịt sống"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm tra miếng thịt heo có bị \"lợn gạo\" (nang ấu trùng) hay không khi mua",
+      "Nấu chín thịt heo ở nhiệt độ trên 70°C (tốt nhất là 75°C trong 5 phút hoặc 100°C trong 2 phút)",
+      "Không ăn tiết canh heo và các sản phẩm từ thịt heo sống",
+      "Ngay cả khi thịt heo đông lạnh, khi nấu cũng cần đảm bảo chín kỹ",
+      "Không dùng dao cắt thịt sống rồi cắt thực phẩm đã nấu chín",
+      "Rửa tay sạch sẽ bằng xà phòng và nước sạch trước khi ăn",
+      "Xây dựng nhà vệ sinh hợp vệ sinh và sử dụng đúng cách, không đi đại tiện bừa bãi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sán lợn gạo là gì?",
+      "answer": "Sán lợn gạo (còn gọi là sán dải heo, sán dây heo) có tên khoa học Taenia Solium. Người mắc bệnh do ăn thịt heo sống hoặc chưa nấu chín có chứa ấu trùng Cysticercus cellulosae. Bệnh xuất hiện ở nhiều nơi trên thế giới, riêng Việt Nam, bệnh sán lợn gạo được ghi nhận ở khắp các tỉnh thành."
+    },
+    {
+      "question": "Ăn sán gạo heo bao lâu sẽ nhiễm bệnh?",
+      "answer": "Sau 24 – 72 giờ ăn thịt sống, chưa nấu chín hoặc thực phẩm, nguồn nước dính trứng sán thì ấu trùng đi qua dạ dày đến ruột non, tấn công vào hệ thống tuần hoàn đi khắp cơ thể. 2 tháng tiếp theo, chúng cư trú ở mô liên kết giữa các cơ và ấu trùng tạo thành nang có vỏ bọc bên ngoài giống hạt gạo. Sán trưởng thành có thể sống tới 25 năm trong cơ thể người."
+    },
+    {
+      "question": "Sán lợn gạo chết ở nhiệt độ bao nhiêu?",
+      "answer": "Nếu nấu thịt heo ở nhiệt độ 75 độ C trong vòng 5 phút hoặc ở nhiệt độ 100 độ C hơn 2 phút thì ấu trùng hay sán lợn gạo sẽ chết. Tuy nhiên, tốt nhất khi phát hiện trên thịt heo chứa nang ấu trùng, thịt nhiễm bẩn… cần tiêu hủy ngay, không mạo hiểm chế biến."
+    },
+    {
+      "question": "Bệnh sán lợn gạo có những triệu chứng gì?",
+      "answer": "Người bị sán lợn gạo thường không có triệu chứng hoặc triệu chứng nhẹ như: đôi khi đau bụng, tiêu chảy từng đợt, đau lan xuống ruột thừa do sán di chuyển từ ruột non qua ruột già, buồn nôn, nhức đầu, sụt cân. Trong một số trường hợp nghiêm trọng có thể gây co giật, rối loạn tim mạch, tăng áp lực nội sọ."
+    },
+    {
+      "question": "Làm thế nào để phòng tránh nhiễm sán lợn gạo?",
+      "answer": "Để phòng tránh nhiễm sán lợn gạo, cần nấu chín thịt heo ở nhiệt độ trên 70°C, không ăn tiết canh heo và các sản phẩm từ thịt heo sống. Khi mua thịt, kiểm tra xem có nang ấu trùng (giống hạt gạo) không. Giữ vệ sinh cá nhân, rửa tay sạch sẽ trước khi ăn, và không dùng dao cắt thịt sống rồi cắt thực phẩm đã nấu chín. Cũng cần xây dựng và sử dụng nhà vệ sinh hợp vệ sinh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng và tiêu chảy từng đợt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-lon-gao", "roi-loan-tieu-hoa", "viem-ruot"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lan xuống ruột thừa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-lon-gao", "viem-ruot-thua"]
+    },
+    {
+      "question": "Tôi hay buồn nôn và nhức đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-lon-gao", "viem-da-day", "cum", "migraine"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sụt cân và co giật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["san-lon-gao", "dong-kinh", "suy-giam-mien-dich"]
+    },
+    {
+      "question": "Tôi đang cảm thấy rối loạn tim mạch và tăng áp lực nội sọ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "san-lon-gao",
+        "tang-huyet-ap",
+        "benh-tim-mach",
+        "u-nao"
+      ]
     }
   ]
 }

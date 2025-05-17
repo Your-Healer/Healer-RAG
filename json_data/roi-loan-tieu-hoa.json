@@ -1,39 +1,163 @@
 {
   "disease_id": "roi-loan-tieu-hoa",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn tiêu hóa",
+  "disease_alternative_names": [
+    "Bệnh lý tiêu hóa thực thể",
+    "Rối loạn tiêu hóa chức năng",
+    "Digestive disorders"
+  ],
+  "disease_definition": "Rối loạn tiêu hóa là những thay đổi xảy ra khác với tình trạng bình thường ở đường tiêu hóa (ống tiêu hoá), từ miệng đến ống hậu môn, làm cho người bệnh có những triệu chứng từ nhẹ đến nặng liên quan đến đường tiêu hóa như đau bụng, ậm ạch bụng, khó tiêu, buồn nôn, thay đổi thói quen đi tiêu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng",
+      "description": "Cảm giác đau, khó chịu ở vùng bụng, có thể từ nhẹ đến dữ dội, có thể là dấu hiệu của nhiều vấn đề tiêu hóa khác nhau"
+    },
+    {
+      "name": "Đau ngực hoặc đau lưng",
+      "description": "Cảm giác đau ở ngực hoặc lưng, có thể liên quan đến các vấn đề về thực quản hoặc dạ dày"
+    },
+    {
+      "name": "Táo bón",
+      "description": "Tình trạng đi đại tiện ít hơn bình thường, phân khô cứng và khó đi"
+    },
+    {
+      "name": "Tiêu chảy",
+      "description": "Đi đại tiện nhiều lần với phân lỏng, có thể do nhiễm trùng, viêm ruột hoặc các nguyên nhân khác"
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Cảm giác vướng hoặc nghẹn khi nuốt thức ăn hoặc nước, có thể liên quan đến các vấn đề ở thực quản"
+    },
+    {
+      "name": "Nấc cụt",
+      "description": "Tình trạng nấc không kiểm soát được, có thể liên quan đến các vấn đề về dạ dày hoặc thực quản"
+    },
+    {
+      "name": "Đi đại tiện mất kiểm soát",
+      "description": "Không kiểm soát được việc đi đại tiện, thường liên quan đến các vấn đề về cơ vòng hậu môn hoặc thần kinh"
+    },
+    {
+      "name": "Khó tiêu và đầy bụng",
+      "description": "Cảm giác khó chịu, đầy bụng sau khi ăn, có thể kèm theo ợ hơi, ợ chua"
+    },
+    {
+      "name": "Ăn không ngon miệng",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn, thường liên quan đến các vấn đề về dạ dày"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn, có thể do nhiều nguyên nhân khác nhau liên quan đến đường tiêu hóa"
+    },
+    {
+      "name": "Chảy máu tiêu hóa",
+      "description": "Xuất hiện máu trong phân hoặc khi nôn, có thể là dấu hiệu của các vấn đề nghiêm trọng như loét, viêm hoặc ung thư"
+    },
+    {
+      "name": "Tăng cân hoặc giảm cân bất thường",
+      "description": "Thay đổi cân nặng không chủ đích, có thể liên quan đến các vấn đề về hấp thu dinh dưỡng"
+    },
+    {
+      "name": "Ợ nóng và ợ chua",
+      "description": "Cảm giác nóng rát ở ngực và có vị chua trong miệng, thường do trào ngược axit dạ dày"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rối loạn tiêu hóa có thể xuất phát từ nhiều nguyên nhân khác nhau, từ chế độ ăn uống không hợp lý đến các bệnh lý về dạ dày, ruột và các cơ quan tiêu hóa khác.",
+    "related_factors": "Chế độ ăn uống không hợp lý (thực phẩm bị hỏng, cay nóng, nhiều chất béo, đồ uống có cồn); Các bệnh lý như trào ngược dạ dày thực quản, loét dạ dày tá tràng, viêm đại tràng, viêm ruột thừa cấp; Stress và căng thẳng kéo dài; Sử dụng một số loại thuốc.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em và thanh thiếu niên",
+    "Người cao tuổi do lão hóa các cơ quan tiêu hóa",
+    "Phụ nữ mang thai do tử cung chạm vào ruột và dạ dày",
+    "Người tập luyện thể thao cường độ cao",
+    "Người thường xuyên căng thẳng, lo lắng",
+    "Người mắc các bệnh mãn tính như tiểu đường loại 2, suy giáp",
+    "Người có thói quen ăn uống không điều độ, ăn nhiều thực phẩm cay nóng, nhiều dầu mỡ",
+    "Người uống nhiều rượu bia và đồ uống có cồn"
+  ],
+  "complications": [
+    "Bệnh cấp tính như ngộ độc thực phẩm, viêm ruột thừa, thủng dạ dày",
+    "Các vấn đề nghiêm trọng về đường ruột như viêm loét đại tràng, thiếu máu cục bộ",
+    "Các rối loạn nguy hiểm và khẩn cấp như tắc ruột, viêm tụy cấp",
+    "Suy dinh dưỡng do kém hấp thu",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Có thể dẫn đến các biến chứng tâm lý như lo âu, trầm cảm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá triệu chứng",
+      "Đánh giá tâm lý (nếu có)",
+      "Theo dõi các triệu chứng và mức độ ảnh hưởng đến sinh hoạt hàng ngày"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm chức năng gan, thận và sinh hóa máu",
+        "description": "Đánh giá chức năng của các cơ quan tiêu hóa và mức độ nghiêm trọng của tình trạng rối loạn"
+      },
+      {
+        "name": "Nội soi ống tiêu hóa",
+        "description": "Kiểm tra trực tiếp bên trong ống tiêu hóa để phát hiện các tổn thương như viêm, loét, polyp hoặc ung thư"
+      },
+      {
+        "name": "Nội soi ổ bụng",
+        "description": "Đánh giá các cơ quan trong ổ bụng bằng cách đưa ống nội soi qua một vết rạch nhỏ"
+      },
+      {
+        "name": "Đo áp lực nhu động, trở kháng thực quản",
+        "description": "Kiểm tra chức năng co bóp và áp lực của thực quản"
+      },
+      {
+        "name": "Xét nghiệm máu ẩn trong phân",
+        "description": "Phát hiện máu trong phân, có thể là dấu hiệu của viêm, loét hoặc ung thư đường tiêu hóa"
+      },
+      {
+        "name": "Siêu âm ổ bụng",
+        "description": "Kiểm tra hình ảnh các cơ quan trong ổ bụng như gan, túi mật, tụy, lách"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính và chụp cộng hưởng từ",
+        "description": "Cung cấp hình ảnh chi tiết các cơ quan trong ổ bụng để phát hiện các bất thường"
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Kiểm tra cấu trúc của các cơ quan tiêu hóa và phát hiện các bất thường như tắc nghẽn"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Quá trình điều trị rối loạn hệ tiêu hóa sẽ khác nhau tùy thuộc vào kết quả chẩn đoán, nguyên nhân gây bệnh và mức độ nghiêm trọng của các triệu chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi và uống nhiều nước",
+        "description": "Giúp cơ thể phục hồi và tránh mất nước, đặc biệt quan trọng trong trường hợp tiêu chảy"
+      },
+      {
+        "name": "Điều chỉnh chế độ ăn",
+        "description": "Ưu tiên các loại thực phẩm dễ tiêu như cơm, cháo, súp và tránh các thực phẩm gây kích ứng như đồ cay, dầu mỡ, sữa"
+      },
+      {
+        "name": "Sử dụng thuốc không kê đơn",
+        "description": "Như thuốc nhuận tràng, thuốc trị táo bón, thuốc kháng axit để giảm các triệu chứng nhẹ"
+      },
+      {
+        "name": "Sử dụng thuốc kê đơn theo chỉ định của bác sĩ",
+        "description": "Để kiểm soát triệu chứng buồn nôn, bù nước và các triệu chứng khác, có thể sử dụng qua đường tĩnh mạch trong trường hợp nghiêm trọng"
+      },
+      {
+        "name": "Điều trị nguyên nhân gốc rễ",
+        "description": "Điều trị các bệnh lý nền như viêm loét dạ dày, hội chứng ruột kích thích, bệnh trào ngược dạ dày thực quản"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Ăn chậm và nhai kỹ để giảm áp lực cho hệ tiêu hóa",
+      "Chia nhỏ bữa ăn thành nhiều bữa nhỏ trong ngày",
+      "Tránh ăn quá no, đặc biệt là trước khi đi ngủ",
+      "Hạn chế thức ăn cay nóng, nhiều dầu mỡ, đồ uống có gas",
+      "Hạn chế rượu bia và đồ uống có cồn",
+      "Duy trì lối sống lành mạnh và giảm stress",
+      "Tập thể dục đều đặn nhưng tránh tập quá sức"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +165,78 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ngăn các tác nhân gây ảnh hưởng xấu cho đường tiêu hóa như đồ ăn cay nóng, rượu bia",
+      "Đưa chất xơ trở thành thành phần chính trong thực đơn hàng ngày",
+      "Uống đủ nước, ít nhất 2 lít mỗi ngày",
+      "Sử dụng chế phẩm sinh học như sữa chua, thực phẩm lên men để bổ sung probiotics",
+      "Vận động cơ thể và tập thể dục thường xuyên, ít nhất 150 phút mỗi tuần",
+      "Hạn chế thức ăn nhiều chất béo bão hòa, ưu tiên chất béo lành mạnh",
+      "Hạn chế căng thẳng thông qua các hoạt động thư giãn như yoga, thiền"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn tiêu hóa là gì?",
+      "answer": "Rối loạn tiêu hóa là tình trạng bệnh lý xảy ra khi đường tiêu hóa xuất hiện các dấu hiệu bất thường về cấu trúc hoặc hoạt động. Có hai loại chính là bệnh lý tiêu hóa thực thể (có bất thường về cấu trúc) và rối loạn tiêu hóa chức năng (hệ tiêu hóa không hoạt động bình thường nhưng không có bệnh thực thể)."
+    },
+    {
+      "question": "Rối loạn tiêu hóa có nguy hiểm không?",
+      "answer": "Rối loạn tiêu hóa có thể gây nguy hiểm cho người bệnh nếu không được chẩn đoán và điều trị kịp thời. Tình trạng này cho thấy cơ thể có thể đang phải đối mặt với một hoặc nhiều bệnh lý khác nhau, liên quan đến dạ dày, đại tràng, đường ruột. Một số biến chứng nghiêm trọng có thể xảy ra như ngộ độc, viêm loét, tắc ruột, viêm ruột thừa, viêm tụy cấp."
+    },
+    {
+      "question": "Đối tượng nào dễ bị rối loạn tiêu hóa?",
+      "answer": "Rối loạn tiêu hóa có thể xảy ra ở mọi độ tuổi, nhưng một số đối tượng có nguy cơ cao hơn bao gồm: trẻ em và thanh thiếu niên, người cao tuổi do lão hóa các cơ quan tiêu hóa, phụ nữ mang thai, người tập luyện thể thao cường độ cao, người thường xuyên căng thẳng, lo lắng, người mắc các bệnh mãn tính, và người có thói quen ăn uống không điều độ."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ khi có triệu chứng rối loạn tiêu hóa?",
+      "answer": "Bạn nên liên hệ với bác sĩ ngay khi có các triệu chứng nghiêm trọng như: đau bụng dữ dội và liên tục, nhịp tim nhanh, huyết áp thấp, đổ mồ hôi, đầu óc không tỉnh táo, vùng bụng bị sưng, đau khi chạm nhẹ vào bụng, chảy máu khi đi đại tiện, nôn ra máu, sụt cân đột ngột hoặc các triệu chứng kéo dài không thuyên giảm."
+    },
+    {
+      "question": "Bị rối loạn tiêu hóa nên ăn gì và kiêng gì?",
+      "answer": "Khi bị rối loạn tiêu hóa, nên ăn các thực phẩm dễ tiêu như cơm, cháo, súp, rau củ quả, ngũ cốc, các loại hạt, đậu và sữa chua. Nên kiêng thức ăn cay nóng, nhiều axit, sữa và các sản phẩm từ sữa (nếu không dung nạp được), rượu bia, đồ ăn nhiều dầu mỡ, thức ăn chế biến sẵn và đồ ăn nhanh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-tieu-hoa",
+        "viem-loet-da-day",
+        "hoi-chung-ruot-kich-thich"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ngực hoặc đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-tieu-hoa",
+        "trao-nguoc-da-day-thuc-quan",
+        "loet-da-day"
+      ]
+    },
+    {
+      "question": "Tôi hay bị táo bón. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-tieu-hoa",
+        "hoi-chung-ruot-kich-thich",
+        "thieu-chat-xo"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-tieu-hoa",
+        "viem-ruot",
+        "ngo-doc-thuc-pham"
+      ]
+    },
+    {
+      "question": "Tôi bị khó tiêu và đầy bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-tieu-hoa",
+        "viem-da-day",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
     }
   ]
 }

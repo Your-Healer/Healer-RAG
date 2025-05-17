@@ -31,200 +31,194 @@
   ],
   "causes": {
     "main_cause": "Tắc ống dẫn tinh có thể do nguyên nhân bẩm sinh hoặc mắc phải. Nguyên nhân mắc phải thường gặp hơn và có thể do phẫu thuật, viêm nhiễm, chấn thương hoặc thắt ống dẫn tinh.",
-    "related_factors": "Các yếu tố liên quan đến tắc ống dẫn tinh bao gồm tiền sử phẫu thuật vùng bẹn (như phẫu thuật thoát vị bẹn), tiền sử viêm nhiễm đường sinh dục, và các bệnh lý viêm nhiễm vùng chậu.",
+    "related_factors": "Các yếu tố liên quan đến tắc ống dẫn tinh bao gồm viêm nhiễm hệ sinh dục (viêm tinh hoàn, viêm niệu đạo), u bướu tại cơ quan sinh dục (ung thư tinh hoàn, nang túi tinh), bẩm sinh (thiếu toàn bộ hay một đoạn ống dẫn tinh, không có sự liên kết giữa ống dẫn tinh và mào tinh) và tổn thương do phẫu thuật (thắt ống dẫn tinh triệt sản, phẫu thuật thoát vị bẹn, giãn mạch thừng tinh).",
     "transmission_routes": []
   },
   "risk_factors": [
-    "Phẫu thuật thắt ống dẫn tinh",
+    "Phẫu thuật thắt ống dẫn tinh triệt sản",
     "Phẫu thuật thoát vị bẹn",
-    "Tiền sử chấn thương vùng bìu, tinh hoàn",
-    "Viêm tinh hoàn, viêm mào tinh hoàn tái phát",
-    "Nhiễm trùng đường sinh dục",
+    "Phẫu thuật giãn mạch thừng tinh",
+    "Viêm tinh hoàn, viêm mào tinh hoàn",
+    "Viêm nhiễm đường sinh dục",
+    "Ung thư tinh hoàn",
+    "Nang túi tinh",
     "Bất sản ống dẫn tinh bẩm sinh",
-    "Nang mào tinh, nang túi tinh"
+    "Không có sự liên kết giữa ống dẫn tinh và mào tinh hoàn"
   ],
   "complications": [
     "Vô sinh nam",
-    "Viêm nhiễm tinh hoàn, mào tinh do ứ đọng",
-    "Tác động tâm lý do không thể có con tự nhiên",
-    "Teo tinh hoàn trong một số trường hợp"
+    "Ứ đọng tinh trùng gây viêm nhiễm",
+    "Phù nề và sưng ở mào tinh hoàn",
+    "Tác động tâm lý khi không thể có con"
   ],
   "diagnosis": {
     "methods": [
-      "Khám lâm sàng đánh giá tinh hoàn, mào tinh và ống dẫn tinh",
-      "Đánh giá tiền sử bệnh lý và phẫu thuật"
+      "Khám lâm sàng hệ sinh dục nam",
+      "Đánh giá tiền sử bệnh và phẫu thuật liên quan đến hệ sinh dục nam"
     ],
     "tests": [
       {
-        "name": "Phân tích tinh dịch đồ",
-        "description": "Kiểm tra tinh dịch để đánh giá số lượng, chất lượng tinh trùng và xác định tình trạng vô tinh."
+        "name": "Xét nghiệm nội tiết sinh dục",
+        "description": "Xét nghiệm máu định lượng hormone như testosterone, LH, FSH để phân biệt vô sinh do tinh hoàn không sinh tinh và vô sinh do tắc ống dẫn tinh"
       },
       {
-        "name": "Xét nghiệm hormone",
-        "description": "Kiểm tra nồng độ FSH, LH, Testosterone để đánh giá chức năng tinh hoàn và loại trừ nguyên nhân nội tiết."
+        "name": "Siêu âm hệ sinh dục nam",
+        "description": "Giúp phát hiện các bệnh lý như u tinh hoàn, nang mào tinh và các bất thường cấu trúc khác"
       },
       {
-        "name": "Siêu âm bìu và đường sinh dục",
-        "description": "Giúp phát hiện các bất thường cấu trúc, nang mào tinh, tắc nghẽn hoặc giãn tĩnh mạch tinh."
-      },
-      {
-        "name": "Chụp ống dẫn tinh có cản quang",
-        "description": "Giúp xác định vị trí tắc nghẽn trong ống dẫn tinh."
+        "name": "Siêu âm qua trực tràng",
+        "description": "Quan sát hình ảnh tuyến tiền liệt, túi tinh, nang ống phóng tinh để xác định nguyên nhân gây tắc nghẽn"
       },
       {
         "name": "Sinh thiết tinh hoàn",
-        "description": "Giúp đánh giá quá trình sản xuất tinh trùng và phân biệt giữa tắc nghẽn và suy giảm sản xuất tinh trùng."
+        "description": "Lấy tế bào mô tinh hoàn để kiểm tra, giúp phân biệt vô sinh do tắc nghẽn ống dẫn tinh hoặc do rối loạn sản xuất tinh trùng"
+      },
+      {
+        "name": "Phân tích di truyền",
+        "description": "Kiểm tra yếu tố di truyền gây bất sản ống dẫn tinh hai bên bẩm sinh"
       }
     ]
   },
   "treatment": {
-    "note": "Điều trị tắc ống dẫn tinh phụ thuộc vào nguyên nhân, vị trí tắc nghẽn và mong muốn có con của người bệnh. Trong nhiều trường hợp, có thể phục hồi khả năng sinh sản thông qua phẫu thuật hoặc các kỹ thuật hỗ trợ sinh sản.",
+    "note": "Điều trị tắc ống dẫn tinh phụ thuộc vào vị trí tắc nghẽn và nguyên nhân gây bệnh. Mục tiêu điều trị nhằm giúp người bệnh có thể có con tự nhiên hoặc sử dụng các kỹ thuật hỗ trợ sinh sản.",
     "methods": [
       {
-        "name": "Phẫu thuật nối ống dẫn tinh",
-        "description": "Áp dụng cho trường hợp tắc nghẽn có thể tiếp cận được qua phẫu thuật, đặc biệt sau thắt ống dẫn tinh."
+        "name": "Phẫu thuật mở tinh hoàn (TESE)",
+        "description": "Lấy tinh trùng từ tinh hoàn bằng phẫu thuật mở, áp dụng trong trường hợp tắc trong tinh hoàn"
       },
       {
-        "name": "Kỹ thuật trích xuất tinh trùng từ tinh hoàn (TESE)",
-        "description": "Lấy trực tiếp tinh trùng từ mô tinh hoàn qua sinh thiết, thường dùng trong thụ tinh ống nghiệm ICSI."
+        "name": "Chọc hút tinh trùng từ tinh hoàn (TESA)",
+        "description": "Dùng kim chọc vào mô tinh hoàn và hút lấy mẫu mô, sau đó tách nhỏ mô và tìm tinh trùng dưới kính hiển vi"
       },
       {
-        "name": "Kỹ thuật hút tinh trùng từ tinh hoàn bằng kim nhỏ (TESA)",
-        "description": "Sử dụng kim nhỏ để hút tinh trùng trực tiếp từ tinh hoàn, ít xâm lấn hơn TESE."
+        "name": "Vi phẫu thuật lấy tinh trùng từ mào tinh (MESA)",
+        "description": "Mổ mở mào tinh và hút lấy tinh trùng, áp dụng trong trường hợp tắc mào tinh hoặc không có ống dẫn tinh bẩm sinh"
       },
       {
-        "name": "Kỹ thuật trích xuất tinh trùng từ mào tinh hoàn qua vi phẫu (MESA)",
-        "description": "Lấy tinh trùng từ mào tinh thông qua phẫu thuật dưới kính hiển vi, thường dùng trong trường hợp tắc ống dẫn tinh."
+        "name": "Chọc hút tinh trùng từ mào tinh (PESA)",
+        "description": "Lấy tinh trùng bằng cách chọc hút mào tinh, không cần phẫu thuật mở, nên lựa chọn đầu tiên ở những trường hợp vô tinh do tắc nghẽn"
       },
       {
-        "name": "Kỹ thuật chọc hút tinh trùng từ mào tinh qua da (PESA)",
-        "description": "Dùng kim nhỏ chọc qua da vào mào tinh để lấy tinh trùng, ít xâm lấn hơn MESA."
+        "name": "Nối ống dẫn tinh với mào tinh",
+        "description": "Áp dụng trong trường hợp tắc đầu gần ống dẫn tinh do bẩm sinh, nhiễm trùng, sau thắt ống dẫn tinh triệt sản hay tắc mào tinh tự phát"
       },
       {
-        "name": "Thụ tinh trong ống nghiệm với tiêm tinh trùng vào bào tương trứng (ICSI)",
-        "description": "Kỹ thuật hỗ trợ sinh sản cao cấp, sử dụng tinh trùng lấy từ các phương pháp trên để tiêm trực tiếp vào trứng."
+        "name": "Nối lại ống dẫn tinh",
+        "description": "Thực hiện trong các trường hợp thắt ống dẫn tinh để triệt sản, tắc ống dẫn tinh ở vùng bẹn do chấn thương hoặc do phẫu thuật thoát vị bẹn trước đó"
+      },
+      {
+        "name": "Cắt nội soi ống phóng tinh qua niệu đạo (TURED)",
+        "description": "Áp dụng trong trường hợp tắc ống phóng tinh do sau viêm và một hay hai ống phóng tinh tạo thành nang ở đường giữa bên trong tuyến tiền liệt"
+      },
+      {
+        "name": "Tiêm tinh trùng vào bào tương noãn (ICSI)",
+        "description": "Phương pháp tiêm tinh trùng trực tiếp vào noãn để tạo phôi, chỉ cần một trứng và một tinh trùng"
       }
     ],
     "recommendations": [
-      "Tư vấn di truyền trước khi thực hiện các kỹ thuật hỗ trợ sinh sản",
-      "Đánh giá toàn diện sức khỏe sinh sản của cả vợ và chồng",
-      "Điều trị viêm nhiễm đường sinh dục nếu có",
-      "Tránh các yếu tố có thể làm tăng viêm nhiễm vùng bìu tinh hoàn",
-      "Hỗ trợ tâm lý cho cặp vợ chồng đối diện với vấn đề vô sinh"
+      "Theo dõi định kỳ sau phẫu thuật",
+      "Kiểm tra tinh dịch đồ sau điều trị để đánh giá hiệu quả",
+      "Tư vấn về các phương pháp hỗ trợ sinh sản phù hợp nếu phẫu thuật không thành công",
+      "Hỗ trợ tâm lý cho nam giới mắc bệnh",
+      "Điều trị triệt để các bệnh viêm nhiễm hệ sinh dục nếu có"
     ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "Không có vaccine phòng ngừa tắc ống dẫn tinh.",
+      "description": "",
       "recommended_for": []
     },
     "general_recommendations": [
-      "Điều trị kịp thời các viêm nhiễm đường sinh dục",
-      "Thận trọng khi phẫu thuật vùng bẹn, bìu để tránh tổn thương ống dẫn tinh",
-      "Cân nhắc kỹ trước khi thực hiện thắt ống dẫn tinh",
-      "Bảo vệ vùng bìu khỏi chấn thương trong thể thao và các hoạt động mạnh",
-      "Khám sức khỏe sinh sản định kỳ, đặc biệt với nam giới có nguy cơ cao"
+      "Điều trị kịp thời các bệnh viêm nhiễm hệ sinh dục",
+      "Cân nhắc và tư vấn kỹ trước khi thực hiện phẫu thuật thắt ống dẫn tinh để triệt sản",
+      "Tham khảo ý kiến bác sĩ trước khi tiến hành các phẫu thuật vùng bìu, bẹn",
+      "Khám sức khỏe sinh sản định kỳ",
+      "Điều trị kịp thời các bệnh lý tinh hoàn, mào tinh"
     ]
   },
   "faqs": [
     {
-      "question": "Tắc ống dẫn tinh có thể tự khỏi không?",
-      "answer": "Tắc ống dẫn tinh hiếm khi tự khỏi, đặc biệt nếu nguyên nhân do cấu trúc giải phẫu hoặc do phẫu thuật. Trong một số trường hợp viêm nhiễm nhẹ gây tắc tạm thời, tình trạng có thể cải thiện sau khi điều trị viêm nhiễm. Tuy nhiên, phần lớn các trường hợp tắc ống dẫn tinh cần can thiệp y khoa để khôi phục lưu thông."
+      "question": "Tắc ống dẫn tinh chữa được không?",
+      "answer": "Tắc ống dẫn tinh có thể điều trị bằng nhiều phương pháp khác nhau tùy thuộc vào vị trí tắc nghẽn và nguyên nhân. Các phương pháp phẫu thuật như nối ống dẫn tinh, nối ống dẫn tinh với mào tinh có thể giúp khôi phục khả năng sinh sản tự nhiên. Trong trường hợp không thể phẫu thuật sửa chữa, các kỹ thuật lấy tinh trùng trực tiếp từ tinh hoàn hoặc mào tinh như TESE, TESA, MESA, PESA kết hợp với thụ tinh trong ống nghiệm có thể giúp nam giới có con."
     },
     {
-      "question": "Phẫu thuật nối ống dẫn tinh sau thắt có tỷ lệ thành công cao không?",
-      "answer": "Tỷ lệ thành công của phẫu thuật nối ống dẫn tinh phụ thuộc vào nhiều yếu tố như thời gian đã thắt, kỹ thuật phẫu thuật và kinh nghiệm của bác sĩ. Nếu thực hiện trong vòng 3-5 năm sau khi thắt, tỷ lệ thành công (có tinh trùng trong tinh dịch) có thể đạt 70-95%. Tuy nhiên, tỷ lệ mang thai tự nhiên sau phẫu thuật thấp hơn, khoảng 30-75%. Thời gian càng lâu sau khi thắt, tỷ lệ thành công càng giảm."
+      "question": "Phẫu thuật nối lại ống dẫn tinh có tỷ lệ thành công bao nhiêu?",
+      "answer": "Khi áp dụng kỹ thuật nối lại ống dẫn tinh, tinh trùng xuất hiện ở 70-95% nam giới và tỷ lệ có thai khoảng 30-75% mà không cần dùng biện pháp hỗ trợ sinh sản. Tỷ lệ thành công phụ thuộc vào số năm từ lúc triệt sản đến lúc tái tạo lại và chiều dài đoạn hẹp trong ống dẫn tinh."
     },
     {
-      "question": "Tắc ống dẫn tinh có ảnh hưởng đến khả năng quan hệ tình dục không?",
-      "answer": "Tắc ống dẫn tinh thường không ảnh hưởng đến khả năng cương cứng, ham muốn tình dục hay khả năng xuất tinh. Nam giới vẫn có thể quan hệ tình dục bình thường. Tinh dịch vẫn được sản xuất từ các tuyến phụ (tuyến tiền liệt, túi tinh) nên vẫn có thể xuất tinh, chỉ là tinh dịch đó không chứa tinh trùng. Vấn đề chính của tắc ống dẫn tinh là gây vô sinh, không phải rối loạn chức năng tình dục."
+      "question": "Nguyên nhân gây tắc ống dẫn tinh là gì?",
+      "answer": "Các nguyên nhân thường gặp gây tắc ống dẫn tinh bao gồm: viêm nhiễm hệ sinh dục (viêm tinh hoàn, viêm niệu đạo), u bướu tại cơ quan sinh dục (ung thư tinh hoàn, nang túi tinh), bẩm sinh (thiếu toàn bộ hay một đoạn ống dẫn tinh, không có sự liên kết giữa ống dẫn tinh và mào tinh) và tổn thương do phẫu thuật (thắt ống dẫn tinh triệt sản, phẫu thuật thoát vị bẹn, giãn mạch thừng tinh)."
     }
   ],
   "common_questions": [
     {
       "question": "Tôi đang cảm thấy đau ở vùng bìu và tinh hoàn. Tôi có thể đang bị bệnh gì?",
       "related_diseases": [
-        "tắc ống dẫn tinh",
-        "viêm tinh hoàn",
-        "viêm mào tinh",
-        "thoát vị bẹn",
-        "giãn tĩnh mạch thừng tinh"
+        "Tắc ống dẫn tinh",
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Giãn tĩnh mạch thừng tinh"
       ]
     },
     {
       "question": "Tôi đã từng phẫu thuật thoát vị bẹn và hiện tại tinh dịch không có tinh trùng. Tôi có thể đang bị bệnh gì?",
       "related_diseases": [
-        "tắc ống dẫn tinh",
-        "tổn thương ống dẫn tinh sau phẫu thuật",
-        "vô tinh tắc nghẽn"
+        "Tắc ống dẫn tinh",
+        "Vô sinh do tổn thương ống dẫn tinh",
+        "Vô tinh"
       ]
     },
     {
       "question": "Tôi bị viêm tinh hoàn, viêm mào tinh hoàn tái đi tái lại nhiều lần. Tôi có thể đang bị bệnh gì?",
       "related_diseases": [
-        "tắc ống dẫn tinh",
-        "viêm đường tiết niệu",
-        "bệnh lây truyền qua đường tình dục",
-        "bất thường cấu trúc đường tiết niệu"
+        "Tắc ống dẫn tinh",
+        "Viêm nhiễm hệ sinh dục",
+        "Vô sinh nam"
       ]
     },
     {
       "question": "Tôi đã từng thắt ống dẫn tinh và hiện tại muốn có con. Tôi có thể đang bị bệnh gì?",
-      "related_diseases": [
-        "tắc ống dẫn tinh do thắt triệt sản",
-        "vô sinh nam do tắc nghẽn"
-      ]
+      "related_diseases": ["Tắc ống dẫn tinh", "Vô sinh nam do triệt sản"]
     },
     {
       "question": "Tôi bị nang mào tinh hoàn, nang túi tinh. Tôi có thể đang bị bệnh gì?",
-      "related_diseases": [
-        "tắc ống dẫn tinh",
-        "bất thường cấu trúc đường sinh dục nam",
-        "rối loạn phát triển ống Wolff"
-      ]
+      "related_diseases": ["Tắc ống dẫn tinh", "Bất thường hệ sinh dục nam"]
     },
     {
       "question": "Tôi cần thực hiện kỹ thuật TESE để lấy tinh trùng. Tôi có thể đang bị bệnh gì?",
       "related_diseases": [
-        "tắc ống dẫn tinh",
-        "vô tinh không tắc nghẽn",
-        "suy tinh hoàn",
-        "bất thường di truyền ảnh hưởng sản xuất tinh trùng"
+        "Tắc ống dẫn tinh",
+        "Tắc trong tinh hoàn",
+        "Vô tinh không do tắc nghẽn"
       ]
     },
     {
       "question": "Tôi cần thực hiện kỹ thuật TESA để lấy tinh trùng. Tôi có thể đang bị bệnh gì?",
-      "related_diseases": [
-        "tắc ống dẫn tinh",
-        "vô tinh",
-        "rối loạn sản xuất tinh trùng"
-      ]
+      "related_diseases": ["Tắc ống dẫn tinh", "Tắc trong tinh hoàn", "Vô tinh"]
     },
     {
       "question": "Tôi cần thực hiện kỹ thuật MESA để lấy tinh trùng. Tôi có thể đang bị bệnh gì?",
       "related_diseases": [
-        "tắc ống dẫn tinh",
-        "bất sản ống dẫn tinh bẩm sinh",
-        "tắc nghẽn sau viêm nhiễm"
+        "Tắc ống dẫn tinh",
+        "Tắc mào tinh",
+        "Không có ống dẫn tinh bẩm sinh"
       ]
     },
     {
       "question": "Tôi cần thực hiện kỹ thuật PESA để lấy tinh trùng. Tôi có thể đang bị bệnh gì?",
       "related_diseases": [
-        "tắc ống dẫn tinh",
-        "vô tinh tắc nghẽn",
-        "tắc nghẽn mào tinh"
+        "Tắc ống dẫn tinh",
+        "Tắc mào tinh",
+        "Vô tinh do tắc nghẽn"
       ]
     },
     {
       "question": "Tôi cần thực hiện kỹ thuật ICSI để có con. Tôi có thể đang bị bệnh gì?",
       "related_diseases": [
-        "tắc ống dẫn tinh",
-        "vô sinh nam",
-        "chất lượng tinh trùng kém",
-        "số lượng tinh trùng thấp",
-        "vô tinh"
+        "Tắc ống dẫn tinh",
+        "Vô sinh nam",
+        "Chất lượng tinh trùng kém"
       ]
     }
   ]

@@ -1,39 +1,117 @@
 {
   "disease_id": "suy-buong-trung-som",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy buồng trứng sớm",
+  "disease_alternative_names": [
+    "Suy giảm buồng trứng sớm",
+    "Premature Ovarian Failure",
+    "Premature Ovarian Insufficiency",
+    "POF"
+  ],
+  "disease_definition": "Suy buồng trứng sớm là tình trạng các chức năng của buồng trứng ngừng hoạt động và sản xuất trứng ở trước tuổi 40. Khi buồng trứng ngừng hoạt động, việc sản xuất các hormone estrogen và progesterone cũng dừng lại, gây ảnh hưởng đến sức khỏe chung và sức khỏe sinh sản của người phụ nữ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Rối loạn kinh nguyệt",
+      "description": "Kinh nguyệt không đều, lượng kinh nguyệt thất thường và có thể có sự thay đổi về màu sắc của kinh nguyệt"
+    },
+    {
+      "name": "Mất ngủ giữa đêm",
+      "description": "Thường xuyên bị thức giấc giữa đêm, khó ngủ lại và ảnh hưởng đến chất lượng giấc ngủ"
+    },
+    {
+      "name": "Chóng mặt và buồn nôn",
+      "description": "Cảm giác chóng mặt, hoa mắt, buồn nôn do sự suy giảm hormone"
+    },
+    {
+      "name": "Giảm ham muốn tình dục",
+      "description": "Xu hướng né tránh chuyện giường chiếu, giảm hứng thú trong quan hệ tình dục"
+    },
+    {
+      "name": "Thay đổi ngoại hình",
+      "description": "Da dẻ có dấu hiệu nhăn nheo, ngực nhão và xệ, tóc mỏng, dễ gãy rụng"
+    },
+    {
+      "name": "Suy giảm trí nhớ",
+      "description": "Khó khăn trong việc ghi nhớ, hay quên các thông tin mới"
+    },
+    {
+      "name": "Âm đạo khô và đau rát khi quan hệ",
+      "description": "Âm đạo không tiết đủ chất nhờn để bôi trơn, gây đau rát và khó chịu khi quan hệ tình dục"
+    },
+    {
+      "name": "Lo âu và khô mắt",
+      "description": "Cảm giác lo lắng vô cớ và mắt khô do sự thiếu hụt estrogen"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính dẫn đến suy buồng trứng sớm là sự suy giảm hormone estrogen và việc buồng trứng ngừng sản xuất trứng trước tuổi 40.",
+    "related_factors": "Có thể liên quan đến rối loạn nhiễm sắc thể, bệnh tự miễn, hóa trị và xạ trị, hội chứng Fragile X và hội chứng Turner. Ngoài ra còn có các yếu tố như căng thẳng kéo dài, giảm cân quá mức, phẫu thuật trên buồng trứng, nạo phá thai bừa bãi, và tiếp xúc với độc tố từ khói thuốc, hóa chất, thuốc trừ sâu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ có tiền sử gia đình mắc suy buồng trứng sớm",
+    "Phụ nữ đã trải qua hóa trị, xạ trị",
+    "Người mắc bệnh tự miễn",
+    "Phẫu thuật buồng trứng hoặc vòi trứng",
+    "Tiền sử nạo phá thai nhiều lần",
+    "Căng thẳng kéo dài và giảm cân quá mức",
+    "Tiếp xúc với môi trường có chất độc hại như thuốc trừ sâu, hóa chất"
+  ],
+  "complications": [
+    "Vô sinh, hiếm muộn",
+    "Bệnh tim mạch",
+    "Loãng xương",
+    "Rối loạn lipid",
+    "Lo âu, trầm cảm",
+    "Khô mắt",
+    "Bệnh tuyến giáp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá tuổi (<40 tuổi)",
+      "Xem xét chu kỳ kinh nguyệt bất thường",
+      "Đánh giá khó khăn khi mang thai"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nồng độ FSH",
+        "description": "FSH là hormone được giải phóng từ thùy trước tuyến yên, có tác dụng kích thích tế bào noãn phát triển. Phụ nữ dưới 40 tuổi có nồng độ FSH cao trên 30-40 IU/L có thể được chẩn đoán suy buồng trứng sớm."
+      },
+      {
+        "name": "Xét nghiệm Estradiol",
+        "description": "Estradiol là một dạng của hormone estrogen được sản xuất bởi buồng trứng. Người bị suy buồng trứng sớm sẽ có nồng độ hormone estradiol trong máu thấp hơn bình thường."
+      },
+      {
+        "name": "Xét nghiệm kiểm tra nhiễm sắc thể",
+        "description": "Giúp kiểm tra nguyên nhân dẫn đến suy buồng trứng do các rối loạn về di truyền."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện tại, chưa có phương pháp điều trị để cải thiện tình trạng suy buồng trứng sớm. Các phương pháp điều trị chủ yếu nhằm giảm triệu chứng và hỗ trợ khả năng sinh sản.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị kích thích buồng trứng",
+        "description": "Áp dụng với mong muốn thu được nhiều trứng hơn so với những chu kỳ bình thường. Mỗi bệnh nhân sẽ có đáp ứng với thuốc kích thích buồng trứng khác nhau nên cần phác đồ điều trị cá thể hóa."
+      },
+      {
+        "name": "Trữ lạnh mô buồng trứng, noãn, hoặc phôi",
+        "description": "Kỹ thuật này có thể áp dụng để bảo tồn khả năng sinh sản, đặc biệt với những bệnh nhân trước khi điều trị ung thư."
+      },
+      {
+        "name": "Liệu pháp hormone",
+        "description": "Bổ sung hormone thay thế để giảm các triệu chứng do thiếu hụt estrogen gây ra."
+      },
+      {
+        "name": "Thuốc tránh thai",
+        "description": "Cho những phụ nữ suy buồng trứng sớm không muốn mang thai, giúp cân bằng nội tiết tố."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thăm khám sớm khi có dấu hiệu bất thường về kinh nguyệt",
+      "Điều trị cá thể hóa theo tình trạng cụ thể",
+      "Tham vấn về các phương pháp hỗ trợ sinh sản nếu muốn có con",
+      "Chăm sóc sức khỏe tâm lý, thể chất toàn diện"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +119,73 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế căng thẳng, mệt mỏi liên tục và giữ tinh thần lạc quan vui vẻ",
+      "Có chế độ ăn uống hợp lý, hạn chế thức ăn nhanh, nhiều dầu mỡ",
+      "Tăng cường hệ miễn dịch để chống lại các loại virus gây bệnh",
+      "Bổ sung đủ canxi, vitamin D để giúp ngừa loãng xương",
+      "Thăm khám kịp thời khi có dấu hiệu bất thường về kinh nguyệt",
+      "Cân nhắc trữ trứng sớm nếu có kế hoạch trì hoãn việc mang thai"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy buồng trứng sớm là gì?",
+      "answer": "Suy buồng trứng sớm là tình trạng các chức năng của buồng trứng ngừng hoạt động và sản xuất trứng ở trước tuổi 40. Khi buồng trứng ngừng hoạt động, việc sản xuất các hormone estrogen và progesterone cũng dừng lại. Các hormone này đóng vai trò quan trọng trong việc phát triển các đặc điểm sinh dục nữ, điều hòa kinh nguyệt và ảnh hưởng đến quá trình thụ thai."
+    },
+    {
+      "question": "Suy buồng trứng sớm có nguy hiểm không?",
+      "answer": "Suy buồng trứng sớm ảnh hưởng lớn đến sức khỏe của người phụ nữ. Tình trạng này dẫn đến sự phát triển sớm của một số bệnh lý như tim mạch, loãng xương, rối loạn lipid. Nó cũng gây ảnh hưởng đến khả năng sinh sản, có thể dẫn đến vô sinh hoặc hiếm muộn ở nữ giới."
+    },
+    {
+      "question": "Làm sao để biết mình bị suy buồng trứng sớm?",
+      "answer": "Một số dấu hiệu cảnh báo suy buồng trứng sớm bao gồm: rối loạn kinh nguyệt kéo dài, lượng kinh không đều; thường xuyên mất ngủ, chóng mặt, buồn nôn; ham muốn tình dục giảm; da nhăn nheo, ngực xệ, tóc mỏng dễ gãy rụng; suy giảm trí nhớ; âm đạo khô và đau rát khi quan hệ tình dục. Khi có các dấu hiệu này, cần đến cơ sở y tế để được thăm khám và xét nghiệm hormone xác định chính xác."
+    },
+    {
+      "question": "Suy buồng trứng sớm có điều trị được không?",
+      "answer": "Hiện tại, chưa có phương pháp điều trị để cải thiện tình trạng suy buồng trứng sớm. Các phương pháp điều trị chủ yếu nhằm giảm triệu chứng như liệu pháp hormone thay thế, thuốc tránh thai, và hỗ trợ khả năng sinh sản thông qua điều trị kích thích buồng trứng, trữ lạnh mô buồng trứng, noãn hoặc phôi."
+    },
+    {
+      "question": "Phụ nữ bị suy buồng trứng sớm có thể có con không?",
+      "answer": "Phụ nữ bị suy buồng trứng sớm vẫn có thể có con tự nhiên, tuy nhiên tỷ lệ thành công thấp. Trong nhiều trường hợp, họ cần tìm đến sự trợ giúp của các phương pháp hỗ trợ sinh sản hiện đại như làm thụ tinh ống nghiệm hoặc xin noãn. Trường hợp phụ nữ bị suy buồng trứng sớm muốn có con hoặc muốn trữ noãn để bảo tồn khả năng sinh sản trong tương lai cần thăm khám sớm với bác sĩ hỗ trợ sinh sản."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như rối loạn kinh nguyệt và mất ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-buong-trung-som",
+        "roi-loan-kinh-nguyet",
+        "roi-loan-noi-tiet"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-buong-trung-som",
+        "thieu-mau",
+        "roi-loan-tien-dinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị giảm ham muốn tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-buong-trung-som",
+        "roi-loan-noi-tiet",
+        "tram-cam"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như âm đạo khô và đau rát khi quan hệ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-buong-trung-som", "viem-am-dao", "man-kinh"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó khăn trong việc mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-buong-trung-som",
+        "buong-trung-da-nang",
+        "vo-sinh"
+      ]
     }
   ]
 }

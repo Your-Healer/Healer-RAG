@@ -1,39 +1,132 @@
 {
   "disease_id": "soi-bang-quang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sỏi bàng quang",
+  "disease_alternative_names": [
+    "Sỏi tiết niệu",
+    "Bladder stones",
+    "Urinary calculi"
+  ],
+  "disease_definition": "Sỏi bàng quang là khối khoáng chất cứng được hình thành trong bàng quang. Chúng phát triển khi các khoáng chất trong nước tiểu cô đặc, kết tinh và tạo thành sỏi. Điều này thường xảy ra khi bạn gặp khó khăn tống xuất nước tiểu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng dưới",
+      "description": "Cảm giác đau ở vùng bụng dưới, có thể lan xuống tầng sinh môn hay phía đầu bộ phận sinh dục ngoài"
+    },
+    {
+      "name": "Đau khi đi tiểu",
+      "description": "Cảm giác đau buốt khi nước tiểu đi qua niệu đạo, có thể do sỏi kích thích thành bàng quang"
+    },
+    {
+      "name": "Đi tiểu thường xuyên",
+      "description": "Tăng tần suất đi tiểu, thường kèm theo cảm giác buồn tiểu liên tục nhưng mỗi lần đi chỉ được một ít"
+    },
+    {
+      "name": "Khó đi tiểu hoặc dòng nước tiểu bị gián đoạn",
+      "description": "Cảm thấy khó khăn khi đi tiểu hoặc dòng nước tiểu bị ngắt quãng, yếu do sỏi gây cản trở"
+    },
+    {
+      "name": "Có máu trong nước tiểu",
+      "description": "Nước tiểu có màu đỏ hoặc hồng do có máu, thường do sỏi gây tổn thương thành bàng quang"
+    },
+    {
+      "name": "Nước tiểu đục hoặc có màu sẫm bất thường",
+      "description": "Nước tiểu không trong như bình thường, có màu đậm hoặc đục do nhiễm trùng hoặc có máu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sỏi bàng quang hình thành khi bàng quang không thể tống xuất hết nước tiểu, làm cho nước tiểu bị ứ đọng và cô đặc. Nước tiểu cô đặc có thể kết tinh và tạo thành sỏi.",
+    "related_factors": "Phì đại tuyến tiền liệt (BPH) ở nam giới; Tổn thương thần kinh (bàng quang thần kinh); Viêm bàng quang; Các dụng cụ y tế như ống thông bàng quang; Sỏi thận di chuyển xuống bàng quang.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam giới cao tuổi (trên 50 tuổi)",
+    "Phì đại tuyến tiền liệt",
+    "Tổn thương thần kinh (do đột quỵ, chấn thương tủy sống)",
+    "Sử dụng ống thông bàng quang lâu dài",
+    "Tiền sử sỏi thận",
+    "Nhiễm trùng đường tiết niệu tái phát",
+    "Viêm bàng quang mạn tính",
+    "Đã từng xạ trị vùng chậu"
+  ],
+  "complications": [
+    "Viêm bàng quang cấp và mạn tính",
+    "Teo bàng quang",
+    "Rò bàng quang",
+    "Ung thư bàng quang",
+    "Viêm thận do nhiễm khuẩn ngược dòng từ bàng quang",
+    "Suy giảm chức năng thận",
+    "Đau hạ vị kéo dài",
+    "Rò tầng sinh môn hoặc âm đạo ở nữ giới"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: kiểm tra dấu hiệu cầu bàng quang",
+      "Khám tuyến tiền liệt qua trực tràng ở nam giới trên 50 tuổi"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm bụng",
+        "description": "Giúp bác sĩ xác định sỏi bàng quang, ghi nhận kích thước sỏi và các bất thường khác của thận, bàng quang và tuyến tiền liệt"
+      },
+      {
+        "name": "Tổng phân tích nước tiểu",
+        "description": "Giúp đánh giá nhiễm khuẩn bàng quang, xác định vi khuẩn và các khoáng chất kết tinh có trong nước tiểu"
+      },
+      {
+        "name": "Chụp X-quang Thận - Niệu quản - Bàng quang (KUB)",
+        "description": "Giúp bác sĩ xác định sỏi có trong hệ tiết niệu hay không, tuy nhiên một số sỏi không cản quang sẽ không thể nhìn thấy được"
+      },
+      {
+        "name": "Soi bàng quang",
+        "description": "Giúp bác sĩ xác định số lượng, kích thước và vị trí của sỏi trong bàng quang, cũng như phát hiện hẹp niệu đạo hoặc tuyến tiền liệt to"
+      },
+      {
+        "name": "Đo áp lực bàng quang",
+        "description": "Giúp đánh giá chức năng bàng quang, trương lực cơ bàng quang"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nguyên tắc trong điều trị sỏi bàng quang là loại bỏ sỏi bàng quang và điều trị nguyên nhân gây ra sỏi bàng quang để tránh sỏi tái phát.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc giảm đau, chống viêm",
+        "description": "Giúp xoa dịu cơn đau và cảm giác khó chịu do sỏi gây ra"
+      },
+      {
+        "name": "Thuốc giãn cơ trơn tiết niệu",
+        "description": "Giúp giãn rộng đường kính cổ bàng quang, từ đó sỏi có thể di chuyển ra khỏi cơ thể dễ dàng hơn"
+      },
+      {
+        "name": "Thuốc kiềm hóa nước tiểu",
+        "description": "Giúp điều chỉnh độ pH nước tiểu, có thể hiệu quả trong việc làm tan sỏi axit uric"
+      },
+      {
+        "name": "Thuốc lợi tiểu",
+        "description": "Giúp tăng lưu lượng nước tiểu, hỗ trợ đào thải sỏi nhỏ"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Điều trị nhiễm khuẩn đường tiết niệu nếu có"
+      },
+      {
+        "name": "Tán sỏi bàng quang",
+        "description": "Phẫu thuật nội soi bàng quang, phá vỡ sỏi bằng tia laser hoặc sóng xung kích, sau đó lấy mảnh sỏi ra ngoài bằng rọ"
+      },
+      {
+        "name": "Mổ mở lấy sỏi",
+        "description": "Được cân nhắc khi sỏi có kích thước quá lớn (> 4cm) hoặc sỏi cứng không thể phá vỡ được bằng phương pháp tán sỏi"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống đủ nước (2-3 lít mỗi ngày)",
+      "Bổ sung thực phẩm ít chất béo",
+      "Hạn chế thức ăn giàu đạm nếu có tăng axit uric",
+      "Bổ sung thực phẩm giàu chất xơ",
+      "Tránh sử dụng các chất kích thích",
+      "Tái khám theo hướng dẫn của bác sĩ",
+      "Sử dụng kháng sinh dự phòng trước phẫu thuật nếu được chỉ định"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +134,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Uống nhiều nước: 2-3 lít mỗi ngày giúp đào thải chất độc, cặn bã ra khỏi thận, bàng quang",
+      "Bổ sung thực phẩm ít chất béo: trái cây, rau, ngũ cốc nguyên hạt, sữa ít béo",
+      "Hạn chế thức ăn giàu đạm ở người có tăng axit uric: mỗi ngày chỉ nên bổ sung tối đa 200g thịt, ưu tiên thịt nạc",
+      "Bổ sung thực phẩm giàu chất xơ: rau, trái cây, ngũ cốc nguyên hạt, đậu",
+      "Tránh sử dụng các chất kích thích: bia, rượu, thuốc lá",
+      "Đi thăm khám sớm khi có dấu hiệu sỏi ở hệ tiết niệu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sỏi bàng quang là gì?",
+      "answer": "Sỏi bàng quang là khối khoáng chất cứng được hình thành trong bàng quang. Chúng phát triển khi các khoáng chất trong nước tiểu cô đặc, kết tinh và tạo thành sỏi. Điều này thường xảy ra khi bạn gặp khó khăn tống xuất nước tiểu. Sỏi được hình thành trong bàng quang thường có kích thước lớn do tích tụ các cặn sỏi lâu ngày từ nước tiểu trong bàng quang."
+    },
+    {
+      "question": "Sỏi bàng quang có nguy hiểm không?",
+      "answer": "Sỏi bàng quang nếu không được điều trị kịp thời và đúng cách có thể gây ra nhiều biến chứng nguy hiểm như: viêm bàng quang, teo bàng quang, rò bàng quang, ung thư bàng quang, viêm thận do nhiễm khuẩn ngược dòng, đau hạ vị kéo dài, rò tầng sinh môn hoặc âm đạo ở nữ giới. Những sỏi lớn hơn 8mm thường bị kẹt ở cổ bàng quang hoặc niệu đạo gây tiểu đau, dòng nước tiểu yếu hoặc bí tiểu cấp."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán sỏi bàng quang?",
+      "answer": "Chẩn đoán sỏi bàng quang thường bao gồm: khám lâm sàng để kiểm tra dấu hiệu cầu bàng quang, khám tuyến tiền liệt qua trực tràng ở nam giới trên 50 tuổi. Các xét nghiệm thường được áp dụng bao gồm: siêu âm bụng, tổng phân tích nước tiểu, chụp X-quang Thận-Niệu quản-Bàng quang (KUB), soi bàng quang và đo áp lực bàng quang."
+    },
+    {
+      "question": "Các phương pháp điều trị sỏi bàng quang?",
+      "answer": "Điều trị sỏi bàng quang bao gồm nhiều phương pháp: Dùng thuốc (thuốc giảm đau chống viêm, thuốc giãn cơ trơn tiết niệu, thuốc kiềm hóa nước tiểu, thuốc lợi tiểu, thuốc kháng sinh); Phẫu thuật (tán sỏi bàng quang bằng nội soi, mổ mở lấy sỏi với sỏi lớn > 4cm hoặc sỏi cứng). Nguyên tắc điều trị là loại bỏ sỏi bàng quang và điều trị nguyên nhân gây sỏi để tránh tái phát."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa sỏi bàng quang?",
+      "answer": "Để phòng ngừa sỏi bàng quang, bạn nên: Uống nhiều nước (2-3 lít/ngày); Bổ sung thực phẩm ít chất béo như trái cây, rau, ngũ cốc nguyên hạt, sữa ít béo; Hạn chế thức ăn giàu đạm nếu có tăng axit uric; Bổ sung thực phẩm giàu chất xơ; Tránh sử dụng các chất kích thích như bia, rượu, thuốc lá; Đi thăm khám sớm khi có dấu hiệu sỏi ở hệ tiết niệu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dưới, đau khi đi tiểu và đi tiểu thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-bang-quang", "viem-bang-quang", "viem-nieu-dao"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó đi tiểu và dòng nước tiểu bị gián đoạn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "soi-bang-quang",
+        "phi-dai-tuyen-tien-liet",
+        "hep-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi hay thấy có máu trong nước tiểu và nước tiểu có màu sẫm bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "soi-bang-quang",
+        "viem-bang-quang",
+        "ung-thu-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị đau buốt khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-bang-quang", "viem-nieu-dao", "viem-bang-quang"]
+    },
+    {
+      "question": "Tôi cảm thấy buồn đi tiểu liên tục nhưng mỗi lần đi chỉ được một ít. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "soi-bang-quang",
+        "viem-bang-quang",
+        "phi-dai-tuyen-tien-liet"
+      ]
     }
   ]
 }

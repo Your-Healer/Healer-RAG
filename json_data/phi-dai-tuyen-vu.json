@@ -1,39 +1,117 @@
 {
   "disease_id": "phi-dai-tuyen-vu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Phì đại tuyến vú",
+  "disease_alternative_names": [
+    "Ngực phì đại",
+    "Ngực khổng lồ",
+    "Macromastia",
+    "Gigantomastia",
+    "Breast hypertrophy"
+  ],
+  "disease_definition": "Phì đại tuyến vú là tình trạng vú to bất thường do các sợi mô tuyến vú phát triển to nhanh và nặng vượt quá mức bình thường (>3% trọng lượng cơ thể), có thể xảy ra ở một bên hoặc cả hai bên ngực. Đa phần các khối u sợi này đều khá lành tính, không gây đau đớn hay tổn thương cho người bệnh, nhưng lại khiến vóc dáng mất cân đối và tiềm ẩn nhiều nguy hại cho sức khỏe.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Núm vú to ra bất thường",
+      "description": "Ban đầu núm vú to ra, sờ núm vú cảm giác chính giữa có thể có nhân to, chắc, rắn."
+    },
+    {
+      "name": "Nhân cứng bên trong vú",
+      "description": "Nhân này càng ngày lan ra thành một quầng mà có thể di chuyển được, sờ được như một tấm đệm lót ở trong vú."
+    },
+    {
+      "name": "Thể tích bầu ngực phát triển lớn",
+      "description": "Thể tích bầu ngực lớn gấp nhiều lần so với bình thường."
+    },
+    {
+      "name": "Ngực bị xệ",
+      "description": "Ngực bị xệ xuống, mức độ phì đại càng lớn thì độ sa trễ càng nặng."
+    },
+    {
+      "name": "Da vùng ngực bị rạn và nhão",
+      "description": "Làn da vùng ngực xuất hiện các vết rạn và trở nên nhão do vú quá nặng."
+    },
+    {
+      "name": "Đau vú",
+      "description": "Cảm giác đau nhức ở vùng vú do trọng lượng quá lớn."
+    },
+    {
+      "name": "Đau ở lưng, vai, cổ",
+      "description": "Đau mỏi vai, cổ và lưng do phải chịu trọng lượng lớn từ bộ ngực."
+    },
+    {
+      "name": "Nhiễm trùng hoặc áp xe",
+      "description": "Có thể xảy ra nhiễm trùng hoặc áp xe ở vùng nếp gấp dưới vú."
+    },
+    {
+      "name": "Mất cảm giác núm vú",
+      "description": "Núm vú có thể bị giảm hoặc mất cảm giác do sự kéo giãn của các dây thần kinh."
+    },
+    {
+      "name": "Đỏ, ngứa, ấm trên hoặc dưới vú",
+      "description": "Da vùng vú có thể bị đỏ, ngứa, nóng ấm do viêm nhiễm hoặc kích ứng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác của phì đại tuyến vú vẫn chưa được khẳng định rõ ràng, nhưng có liên quan đến sự tăng sinh bất thường của mô tuyến vú.",
+    "related_factors": "Có một số giả thuyết về nguyên nhân bao gồm: tăng lượng hormone bất thường (Estrogen, Prolactin) hoặc cơ thể bị tăng độ nhạy cảm với tuyến nội tiết; nồng độ hormone tăng trưởng tiết ra quá ngưỡng cần thiết; tăng sinh mô mỡ, mô đệm ngực hoặc mô tuyến vú do thói quen sống hoặc di truyền; và các yếu tố khác như mang thai, stress, béo phì, tiền mãn kinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thay đổi nội tiết tố (như trong quá trình dậy thì, mang thai, cho con bú)",
+    "Béo phì",
+    "Stress",
+    "Tiền mãn kinh",
+    "Yếu tố di truyền",
+    "Mất cân bằng hormone (Estrogen, Prolactin)"
+  ],
+  "complications": [
+    "Mất thẩm mỹ do bầu ngực to, chảy xệ",
+    "Cơ thể mất cân đối khiến người bệnh mất tự tin, mặc cảm",
+    "Đau mỏi vai và cổ, mỏi lưng, tê nhức tay, đau đầu",
+    "Xương sống lưng có xu hướng cong về phía trước",
+    "Khó khăn trong việc chọn trang phục và áo ngực phù hợp",
+    "Khó khăn bất tiện trong sinh hoạt hàng ngày",
+    "Cảm giác khó thở",
+    "Mất cảm giác ở đầu núm vú",
+    "Viêm loét nếp vú",
+    "Phát ban vùng da quanh vú"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá mức độ phì đại",
+      "Ghi nhận các triệu chứng và bệnh sử",
+      "Đánh giá kích thước, trọng lượng và mức độ ảnh hưởng tới cơ thể"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp nhũ ảnh kỹ thuật số 3D (DBT)",
+        "description": "Giúp quan sát chi tiết cấu trúc mô vú và phát hiện các bất thường"
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Khảo sát tình trạng mô vú, phân biệt các khối u lành tính và ác tính"
+      },
+      {
+        "name": "MRI vú",
+        "description": "Được chỉ định trong các trường hợp cần đánh giá chi tiết cấu trúc mô vú"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Do sự phì đại có liên quan đến cấu trúc mô mềm bên trong bầu vú nên cách xử lý triệt để nhất chính là tiến hành phẫu thuật. Đây là phương pháp được khuyến nghị để điều trị hiệu quả tình trạng này.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật thu nhỏ vú",
+        "description": "Bao gồm các bước: cắt bỏ giảm phần mô tuyến vú, lấy đi da vùng vú dư thừa, treo và kéo núm vú về vị trí thích hợp, thu nhỏ quầng vú, thay đổi nếp gấp dưới vú. Toàn bộ cuống nuôi núm vú, ống tuyến vú và đầu núm sẽ được giữ lại để bảo toàn chức năng nuôi con, giảm nguy cơ bị rối loạn cảm giác, hạn chế ảnh hưởng tới sinh lý."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chỉ định của bác sĩ sau phẫu thuật",
+      "Mặc áo ngực hỗ trợ đặc biệt trong thời gian hồi phục",
+      "Hạn chế vận động mạnh trong giai đoạn đầu sau phẫu thuật",
+      "Theo dõi vết mổ để tránh nhiễm trùng",
+      "Tái khám định kỳ theo lịch của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +119,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý, tránh thừa cân béo phì",
+      "Kiểm soát các thay đổi nội tiết tố",
+      "Mặc áo ngực đúng kích cỡ và có độ nâng đỡ tốt",
+      "Thăm khám định kỳ khi có dấu hiệu bất thường ở vú",
+      "Tham khảo ý kiến bác sĩ sớm khi phát hiện các triệu chứng ban đầu của phì đại tuyến vú"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Phì đại tuyến vú có nguy hiểm không?",
+      "answer": "Khoảng 80% trường hợp phì đại tuyến vú không gây đau đớn hay tổn thương nghiêm trọng cho người bệnh. Tuy nhiên, tình trạng này có thể gây ra nhiều hệ quả xấu, như mất thẩm mỹ, đau mỏi vai, cổ và lưng, xương sống có xu hướng cong về phía trước, khó khăn trong sinh hoạt, viêm loét nếp vú và mất cảm giác ở núm vú. Nếu không được điều trị, các vấn đề này có thể ảnh hưởng đáng kể đến chất lượng cuộc sống của người bệnh."
+    },
+    {
+      "question": "Phì đại tuyến vú có những loại nào?",
+      "answer": "Phì đại tuyến vú được chia thành 2 loại chính dựa trên kích thước: Ngực phì đại (macromastia) khi khối lượng bầu vú dưới 2,5kg, thường gặp ở cả nam và nữ trong độ tuổi từ 6-25; và Ngực khổng lồ (gigantomastia) khi khối lượng bầu vú trên 2,5kg, với tỷ lệ cao ở nữ giới sau mang thai hoặc nam giới béo phì."
+    },
+    {
+      "question": "Làm thế nào để điều trị phì đại tuyến vú?",
+      "answer": "Phương pháp điều trị hiệu quả nhất cho phì đại tuyến vú là phẫu thuật thu nhỏ vú. Quá trình này bao gồm cắt bỏ giảm phần mô tuyến vú, lấy đi da vùng vú dư thừa, treo và kéo núm vú về vị trí thích hợp, thu nhỏ quầng vú, và thay đổi nếp gấp dưới vú. Đáng chú ý là toàn bộ cuống nuôi núm vú, ống tuyến vú và đầu núm được giữ lại để bảo toàn chức năng nuôi con và giảm nguy cơ rối loạn cảm giác."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như núm vú to ra và sờ thấy có nhân cứng ở chính giữa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["phi-dai-tuyen-vu", "u-vu-lanh-tinh", "ung-thu-vu"]
+    },
+    {
+      "question": "Tôi hay bị đau vú và cảm thấy ngực nặng nề, xệ xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["phi-dai-tuyen-vu", "sa-tret-vu", "viem-vu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngực lớn hơn bình thường rất nhiều và da vùng ngực bị rạn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phi-dai-tuyen-vu",
+        "tang-can-khi-mang-thai",
+        "thay-doi-noi-tiet"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị đau lưng, vai, cổ và ngực sưng to, chảy xệ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "phi-dai-tuyen-vu",
+        "sa-tret-vu",
+        "thoai-hoa-cot-song"
+      ]
+    },
+    {
+      "question": "Dạo gần đây tôi hay bị đau vú và sờ thấy có nhân cứng lan rộng ra xung quanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["phi-dai-tuyen-vu", "u-xo-vu", "ung-thu-vu"]
     }
   ]
 }

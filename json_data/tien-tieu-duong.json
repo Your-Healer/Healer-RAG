@@ -1,39 +1,115 @@
 {
   "disease_id": "tien-tieu-duong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tiền tiểu đường",
+  "disease_alternative_names": ["Tiền đái tháo đường", "Pre-diabetes"],
+  "disease_definition": "Tiền tiểu đường là tình trạng đường trong máu cao hơn bình thường (ở người bình thường, mức đường huyết trước khi ăn dao động 90-130mg/dl và sau khi ăn dưới 180 mg/dl) nhưng chưa đủ cao để bác sĩ chẩn đoán bệnh đái tháo đường tuýp 2. Hiện Việt Nam có khoảng 5,3 triệu người bị tiền đái tháo đường và dự kiến 2/3 số này (chiếm 70%) sẽ chuyển thành đái tháo đường vào năm 2045.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Da sẫm màu ở một số vùng cơ thể",
+      "description": "Vùng da ở một số bộ phận trên cơ thể như cổ, nách, bẹn bị sẫm màu"
+    },
+    {
+      "name": "Uống nhiều nước",
+      "description": "Cảm giác khát nước thường xuyên, dẫn đến việc uống nhiều nước hơn bình thường"
+    },
+    {
+      "name": "Đi tiểu nhiều lần",
+      "description": "Tần suất đi tiểu tăng cao, phải đi tiểu nhiều lần trong ngày"
+    },
+    {
+      "name": "Tầm nhìn mờ dần",
+      "description": "Thị lực giảm sút, mắt mờ hoặc hạn chế khả năng nhìn"
+    },
+    {
+      "name": "Mệt mỏi thường xuyên",
+      "description": "Cơ thể thường xuyên cảm thấy mệt mỏi, thiếu năng lượng mà không rõ nguyên nhân"
+    },
+    {
+      "name": "Khó tập trung",
+      "description": "Khả năng tập trung suy giảm, dễ mất tập trung khi làm việc"
+    },
+    {
+      "name": "Hay đói bụng",
+      "description": "Cảm giác đói thường xuyên dù đã ăn uống đầy đủ"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Y học hiện đại chưa tìm ra nguyên nhân chính xác của tiền đái tháo đường, tuy nhiên, yếu tố di truyền đóng vai trò quan trọng. Một nguyên nhân nữa là do rối loạn chuyển hóa trong cơ thể khiến đường glucose bị \"tồn đọng\", không được xử lý đúng cách.",
+    "related_factors": "Glucose là nguồn năng lượng chính của cơ thể, được tạo ra từ các thực phẩm. Insulin (do tuyến tụy sản xuất) đóng vai trò vận chuyển, giải phóng glucose đến các tế bào. Nếu tuyến tụy không sản xuất đủ insulin, hoặc tế bào sử dụng insulin không hiệu quả, việc đưa glucose vào tế bào sẽ bị gián đoạn, dẫn đến tình trạng tiền tiểu đường.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi trên 45",
+    "Tiền sử gia đình có người bị đái tháo đường tuýp 2",
+    "Vòng eo lớn (nam > 101.6 cm, nữ > 88.9 cm)",
+    "Sử dụng nhiều thịt đỏ, thức ăn chế biến sẵn, đồ uống có đường",
+    "Ít ăn trái cây, rau xanh, các loại đậu và lười tập thể dục",
+    "Thừa cân béo phì, đặc biệt béo bụng",
+    "Cholesterol cao, chất béo trung tính cao",
+    "Tiền sử tiểu đường thai kỳ",
+    "Phụ nữ bị hội chứng buồng trứng đa nang",
+    "Mắc chứng ngưng thở khi ngủ",
+    "Hút thuốc lá"
+  ],
+  "complications": [
+    "Tiến triển thành đái tháo đường tuýp 2",
+    "Tăng huyết áp",
+    "Mờ mắt",
+    "Tăng cholesterol xấu",
+    "Tổn thương tim",
+    "Tổn thương mạch máu",
+    "Đột quỵ",
+    "Gan nhiễm mỡ",
+    "Tổn thương mắt",
+    "Tổn thương thận",
+    "Nguy cơ đau tim không rõ nguyên nhân"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe định kỳ",
+      "Đánh giá các dấu hiệu tiền tiểu đường trên lâm sàng",
+      "Đánh giá các yếu tố nguy cơ như béo phì, tiền sử gia đình",
+      "Đánh giá tình trạng sức khỏe tổng quát"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm glucose huyết tương lúc đói",
+        "description": "Lấy máu sau khi nhịn ăn ít nhất 8 giờ, nếu đường huyết từ 100 đến 125 mg/dL là tiền tiểu đường"
+      },
+      {
+        "name": "Thử nghiệm dung nạp glucose qua đường uống",
+        "description": "Sau khi kiểm tra đường huyết lúc đói, uống dung dịch đường và kiểm tra lại sau 2 giờ, nếu từ 140 đến 199mg/dL là tiền tiểu đường"
+      },
+      {
+        "name": "Xét nghiệm HbA1C",
+        "description": "Xét nghiệm máu cho biết mức đường huyết trung bình trong 3 tháng qua, nếu HbA1C từ 5.7 đến 6.4% là tiền tiểu đường"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tiền tiểu đường có thể tiến triển thành đái tháo đường tuýp 2 nếu người bệnh không điều chỉnh chế độ ăn uống khoa học, sống lành mạnh, tập thể dục thường xuyên. Phát hiện tiền tiểu đường là cơ hội để ngăn ngừa bệnh đái tháo đường tuýp 2.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều chỉnh chế độ ăn uống",
+        "description": "Áp dụng chế độ ăn lành mạnh như Địa Trung Hải hoặc DASH, tăng cường rau xanh, trái cây chỉ số đường huyết thấp, giảm thực phẩm chế biến sẵn"
+      },
+      {
+        "name": "Giảm cân",
+        "description": "Giảm 5% - 10% trọng lượng cơ thể đối với người thừa cân béo phì, giúp giảm đáng kể nguy cơ tiến triển thành đái tháo đường"
+      },
+      {
+        "name": "Luyện tập thể dục",
+        "description": "Đi bộ 30 phút mỗi ngày hoặc thực hiện các động tác vận động nhẹ nhàng để cải thiện chuyển hóa glucose trong cơ thể"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Khám định kỳ với bác sĩ Nội tiết - Đái tháo đường để theo dõi tình trạng đường huyết",
+      "Chọn thực phẩm có chất béo tốt và dưỡng chất có lợi cho sức khỏe",
+      "Ăn nhiều rau xanh, trái cây có chỉ số đường huyết thấp",
+      "Ngưng dùng các chất kích thích, đồ uống có cồn, nước ngọt có ga",
+      "Hạn chế thức ăn nhanh và các món chế biến sẵn",
+      "Duy trì cân nặng hợp lý"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +117,68 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện chế độ ăn uống lành mạnh với nhiều rau xanh, trái cây",
+      "Chọn các thực phẩm có chất béo tốt như dầu thực vật, các loại đậu, cá",
+      "Ưu tiên ngũ cốc nguyên hạt thay vì tinh chế",
+      "Giảm tiêu thụ thịt đỏ, thực phẩm chiên rán, chế biến sẵn",
+      "Tăng cường hoạt động thể chất, đi bộ ít nhất 30 phút mỗi ngày",
+      "Duy trì cân nặng hợp lý, giảm cân nếu thừa cân béo phì",
+      "Không hút thuốc lá, hạn chế rượu bia",
+      "Khám sức khỏe định kỳ để phát hiện sớm các dấu hiệu tiền tiểu đường",
+      "Kiểm soát các bệnh lý khác như tăng huyết áp, rối loạn lipid máu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tiền tiểu đường có nguy hiểm không?",
+      "answer": "Tiền tiểu đường có thể tiến triển thành đái tháo đường tuýp 2 nếu không điều chỉnh chế độ ăn uống và lối sống. Thậm chí khi chưa tiến triển thành đái tháo đường, người bệnh vẫn có thể bị tăng huyết áp, mờ mắt, tăng cholesterol xấu, tổn thương tim mạch, đột quỵ, gan nhiễm mỡ, tổn thương mắt và thận. Các nghiên cứu cho thấy tiền tiểu đường có liên quan đến những cơn đau tim không rõ nguyên nhân."
+    },
+    {
+      "question": "Tiền tiểu đường bao lâu thành tiểu đường?",
+      "answer": "Tiền tiểu đường có thể tiến triển thành tiểu đường hoặc không đều phụ thuộc vào chế độ ăn uống và kiểm soát đường huyết. Theo Trung tâm Kiểm soát và Phòng ngừa dịch bệnh Hoa Kỳ, nếu không thay đổi lối sống, khoảng 37% người bị tiền tiểu đường sẽ tiến triển thành đái tháo đường tuýp 2 sau 4 năm. Nếu thay đổi lối sống, thời gian này có thể kéo dài đến 10 năm hoặc thậm chí đẩy lùi hoàn toàn tình trạng tiền tiểu đường."
+    },
+    {
+      "question": "Làm thế nào để biết tôi có bị tiền tiểu đường không?",
+      "answer": "Để biết bạn có bị tiền tiểu đường không, cần thực hiện các xét nghiệm tại cơ sở y tế: Xét nghiệm glucose huyết tương lúc đói (nếu đường huyết từ 100 đến 125 mg/dL, bạn bị tiền tiểu đường), thử nghiệm dung nạp glucose qua đường uống (nếu đường huyết sau 2 giờ từ 140 đến 199mg/dL, bạn bị tiền tiểu đường), hoặc xét nghiệm HbA1C (nếu HbA1C từ 5.7 đến 6.4% thì tiền tiểu đường)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như uống nhiều nước và đi tiểu nhiều lần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiền tiểu đường", "Đái tháo đường", "Bệnh thận"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, khó tập trung và hay đói bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiền tiểu đường",
+        "Thiếu máu",
+        "Rối loạn tuyến giáp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mờ mắt và da ở cổ, nách bị sậm màu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiền tiểu đường",
+        "Rối loạn nội tiết",
+        "Kháng insulin"
+      ]
+    },
+    {
+      "question": "Tôi hay bị thừa cân, béo phì, đặc biệt là béo bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiền tiểu đường",
+        "Hội chứng chuyển hóa",
+        "Gan nhiễm mỡ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị cholesterol cao và chất béo trung tính cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiền tiểu đường",
+        "Bệnh tim mạch",
+        "Xơ vữa động mạch"
+      ]
     }
   ]
 }

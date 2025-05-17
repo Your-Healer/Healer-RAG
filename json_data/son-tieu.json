@@ -1,39 +1,114 @@
 {
   "disease_id": "son-tieu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Són tiểu (Tiểu không kiểm soát)",
+  "disease_alternative_names": [
+    "Tiểu không kiểm soát",
+    "Đái dầm",
+    "Urinary Incontinence"
+  ],
+  "disease_definition": "Són tiểu là hiện tượng mất kiểm soát bàng quang hoặc không thể kiểm soát việc đi tiểu. Mức độ són tiểu khác nhau, có thể là són một ít nước tiểu khi ho, hắt hơi, chạy nhảy, khuân vác nặng hoặc cũng có thể tiểu đột ngột không thể kiểm soát, khiến người bệnh không kịp đi vệ sinh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Rò rỉ nước tiểu khi gắng sức",
+      "description": "Són tiểu khi ho, hắt hơi, cười sặc sụa, khuân vác nặng hoặc hoạt động thể chất mạnh do cơ quan sàn chậu suy yếu"
+    },
+    {
+      "name": "Buồn tiểu đột ngột",
+      "description": "Cảm giác buồn tiểu đột ngột không thể kiểm soát, bị rò rỉ nước tiểu ra ngoài trước khi kịp đến nhà vệ sinh"
+    },
+    {
+      "name": "Rò rỉ nước tiểu liên tục",
+      "description": "Luôn trong trạng thái rò rỉ nước tiểu, không thể thải hết nước tiểu khi đi vệ sinh"
+    },
+    {
+      "name": "Đái dầm",
+      "description": "Hiện tượng rò rỉ nước tiểu trong lúc ngủ, thường gặp ở trẻ em nhưng người lớn cũng có thể mắc phải"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Són tiểu do mất kiểm soát bàng quang, suy yếu cơ sàn chậu hoặc rối loạn thần kinh kiểm soát hoạt động bàng quang.",
+    "related_factors": "Tạm thời do rượu bia, caffeine, nước có gas, thực phẩm cay, acid; Bệnh lý như nhiễm trùng đường tiết niệu, táo bón; Thay đổi cơ thể do mang thai, sinh con, tuổi tác, mãn kinh, phẫu thuật cắt tử cung, phì đại tuyến tiền liệt, ung thư tuyến tiền liệt, sỏi tiết niệu, rối loạn thần kinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ do cấu trúc giải phẫu, quá trình mang thai, sinh con, mãn kinh",
+    "Tuổi tác cao làm suy yếu hệ thống cơ trong bàng quang và niệu đạo",
+    "Thừa cân, béo phì tăng áp lực lên bàng quang",
+    "Thói quen hút thuốc lá",
+    "Yếu tố di truyền",
+    "Bệnh lý như bệnh thần kinh, đái tháo đường",
+    "Tiền sử sinh nở, đặc biệt sinh ngả âm đạo có hỗ trợ bằng dụng cụ",
+    "Tiền sử phẫu thuật vùng chậu, đặc biệt là cắt tử cung"
+  ],
+  "complications": [
+    "Phát ban, nhiễm trùng da và tăng lở loét do thường xuyên ẩm ướt",
+    "Nhiễm trùng đường tiết niệu tái phát",
+    "Ảnh hưởng chất lượng sống và công việc",
+    "Tự ti trong các mối quan hệ cá nhân và xã hội",
+    "Tăng nguy cơ té ngã ở người lớn tuổi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng, thăm hỏi về lượng nước uống, tần suất đi tiểu, lượng nước tiểu",
+      "Ghi chép nhật ký bàng quang",
+      "Nghiệm pháp áp lực bàng quang (ho, hắt hơi)",
+      "Đánh giá sức mạnh cơ sàn chậu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra tình trạng nhiễm trùng, phát hiện các dấu hiệu bất thường"
+      },
+      {
+        "name": "Siêu âm bàng quang",
+        "description": "Kiểm tra lượng nước tiểu còn lại trong bàng quang sau khi đi tiểu"
+      },
+      {
+        "name": "Niệu động học",
+        "description": "Đo chức năng bàng quang và cơ thắt niệu đạo, đánh giá áp lực của bàng quang, niệu đạo và ổ bụng"
+      },
+      {
+        "name": "Soi bàng quang niệu đạo",
+        "description": "Kiểm tra bất thường hoặc những tổn thương ở niệu đạo, cổ bàng quang và bàng quang"
+      },
+      {
+        "name": "Siêu âm vùng chậu",
+        "description": "Cung cấp hình ảnh giúp phát hiện bất thường ở các cơ quan trong vùng chậu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị són tiểu phụ thuộc vào loại và nguyên nhân gây ra són tiểu. Ưu tiên phương pháp điều trị tự nhiên, thay đổi lối sống sinh hoạt trước khi áp dụng các biện pháp xâm lấn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Tập luyện bàng quang",
+        "description": "Điều chỉnh lịch trình đi tiểu, kéo dài thời gian giữa các lần đi vệ sinh, giúp bàng quang chứa nhiều nước tiểu hơn"
+      },
+      {
+        "name": "Luyện tập cơ sàn chậu",
+        "description": "Thực hiện các bài tập Kegel để tăng cường sức mạnh cho nhóm cơ sàn chậu, giúp thắt chặt và thư giãn các cơ, kiểm soát hiệu quả dòng chảy nước tiểu"
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc thư giãn cơ bàng quang, ngăn ngừa co thắt bàng quang và chặn các tín hiệu thần kinh làm tăng tần suất tiểu tiện"
+      },
+      {
+        "name": "Sử dụng thiết bị y tế",
+        "description": "Chất làm đầy quanh niệu đạo hoặc đặt vòng nâng trong âm đạo để giúp giữ bàng quang nâng lên, ngăn tình trạng rò rỉ nước tiểu"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Đặt dải băng nâng không tan dưới đoạn giữa niệu đạo qua ngả âm đạo, tạo nên lớp nâng đỡ vững chắc, treo niệu đạo và bàng quang về đúng vị trí"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống đúng mức nước vào đúng thời điểm trong ngày",
+      "Giữ mức cân nặng hợp lý",
+      "Ăn uống khoa học, bổ sung nhiều chất xơ tránh táo bón",
+      "Thể dục thể thao điều độ",
+      "Không hút thuốc lá",
+      "Tránh các chất kích thích bàng quang như rượu, caffeine, thực phẩm cay"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +116,61 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì cân nặng ổn định và hợp lý",
+      "Chế độ ăn uống khoa học, ăn nhiều chất xơ ngăn ngừa táo bón",
+      "Tránh xa các chất kích thích bàng quang (rượu, bia, caffeine, thực phẩm có tính acid)",
+      "Không hút thuốc lá",
+      "Thực hiện các bài tập sàn chậu đúng cách, đặc biệt ở phụ nữ mang thai và sau sinh",
+      "Thăm khám sớm khi có triệu chứng són tiểu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Són tiểu là gì?",
+      "answer": "Són tiểu còn gọi là tiểu không kiểm soát (Urinary Incontinence) là hiện tượng mất kiểm soát bàng quang hoặc không thể kiểm soát việc đi tiểu. Mức độ són tiểu khác nhau, có thể là són một ít nước tiểu khi ho, hắt hơi, chạy nhảy, khuân vác nặng hoặc cũng có thể tiểu đột ngột không thể kiểm soát, khiến người bệnh không kịp đi vệ sinh."
+    },
+    {
+      "question": "Són tiểu có nguy hiểm không?",
+      "answer": "Són tiểu nếu không được thăm khám sớm và điều trị hiệu quả có thể gây nhiều biến chứng nặng nề như các vấn đề về da (phát ban, nhiễm trùng, lở loét), nhiễm trùng đường tiết niệu tái phát, ảnh hưởng chất lượng sống và công việc, gây tự ti trong các mối quan hệ cá nhân và xã hội. Ngoài ra, tiểu són cũng có thể là triệu chứng báo hiệu cho tình trạng bệnh lý khác cần can thiệp điều trị."
+    },
+    {
+      "question": "Có những loại són tiểu nào?",
+      "answer": "Són tiểu được phân thành nhiều loại: 1) Són tiểu liên quan đến áp lực (khi ho, hắt hơi, cười, khuân vác nặng); 2) Tiểu gấp (buồn tiểu đột ngột, không kịp đến nhà vệ sinh); 3) Són tiểu do đầy bàng quang (luôn rò rỉ nước tiểu); 4) Rối loạn chức năng không thể kiểm soát tiểu tiện (do khuyết tật thể chất hoặc tinh thần); 5) Tiểu không kiểm soát hỗn hợp; 6) Són tiểu thoáng qua; và 7) Đái dầm (rò rỉ nước tiểu trong lúc ngủ)."
+    },
+    {
+      "question": "Những yếu tố nào làm tăng nguy cơ bị són tiểu?",
+      "answer": "Các yếu tố làm tăng nguy cơ bị són tiểu bao gồm: giới tính nữ, tuổi tác cao, thừa cân béo phì, thói quen hút thuốc lá, yếu tố di truyền, bệnh lý như bệnh thần kinh và đái tháo đường. Đối với phụ nữ, tiền sử sinh nở (đặc biệt sinh ngả âm đạo có hỗ trợ bằng dụng cụ) và tiền sử phẫu thuật vùng chậu (đặc biệt là cắt tử cung) cũng làm tăng nguy cơ bị són tiểu."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa són tiểu?",
+      "answer": "Để phòng ngừa són tiểu, bạn nên: duy trì cân nặng ổn định và hợp lý; thực hiện chế độ ăn uống khoa học, ăn nhiều chất xơ để ngăn ngừa táo bón; tránh xa các chất kích thích bàng quang như rượu, bia, caffeine và thực phẩm có tính acid; không hút thuốc lá; thực hiện các bài tập sàn chậu đúng cách, đặc biệt là phụ nữ đang mang thai và sau sinh; và thăm khám sớm khi có triệu chứng són tiểu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như rò rỉ nước tiểu khi ho, hắt hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["son-tieu", "roi-loan-san-chau", "sa-bang-quang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy buồn tiểu đột ngột và không kịp đi vệ sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "son-tieu",
+        "viem-duong-tiet-nieu",
+        "viem-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị rò rỉ nước tiểu liên tục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["son-tieu", "phi-dai-tuyen-tien-liet", "soi-than"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như són tiểu khi cười sặc sụa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["son-tieu", "roi-loan-san-chau"]
+    },
+    {
+      "question": "Tôi hay bị són tiểu sau khi sinh con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["son-tieu", "sa-tang-chau", "sa-tu-cung"]
     }
   ]
 }

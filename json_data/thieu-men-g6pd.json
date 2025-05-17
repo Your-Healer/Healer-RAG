@@ -1,39 +1,125 @@
 {
   "disease_id": "thieu-men-g6pd",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thiếu men G6PD",
+  "disease_alternative_names": [
+    "Thiếu hụt G6PD",
+    "Glucose-6-Phosphate-Dehydrogenase Deficiency"
+  ],
+  "disease_definition": "Thiếu men G6PD là một rối loạn di truyền liên kết với nhiễm sắc thể giới tính X, đặc trưng bởi sự thiếu hụt enzym G6PD. Men G6PD là một loại men giúp màng tế bào hồng cầu giữ nguyên vẹn, xúc tác phản ứng trong hồng cầu giúp cho màng hồng cầu bền vững trước các tác nhân gây hại. Khi thiếu men này, hồng cầu dễ bị vỡ (tán huyết) dẫn đến thiếu máu khi tiếp xúc với một số loại thuốc, hóa chất, thức ăn hoặc khi bị nhiễm trùng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Vàng da, vàng mắt",
+      "description": "Da và mắt ngả màu vàng do tăng bilirubin trong máu khi hồng cầu bị phá hủy"
+    },
+    {
+      "name": "Nước tiểu sậm màu",
+      "description": "Nước tiểu có màu vàng đậm hoặc nâu do có hemoglobin từ hồng cầu bị vỡ"
+    },
+    {
+      "name": "Xanh xao, mệt mỏi",
+      "description": "Da nhợt nhạt, cảm giác mệt mỏi do thiếu máu"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó khăn trong việc hít thở, đặc biệt khi gắng sức"
+    },
+    {
+      "name": "Nhịp tim nhanh",
+      "description": "Tim đập nhanh hơn bình thường, thường do cơ thể đang cố gắng bù đắp tình trạng thiếu máu"
+    },
+    {
+      "name": "Mạch yếu, nhanh",
+      "description": "Mạch đập nhanh nhưng yếu do sự suy giảm lượng hồng cầu"
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng nhiệt độ cơ thể, có thể xuất hiện cùng với các triệu chứng khác"
+    },
+    {
+      "name": "Đau bụng, đau lưng",
+      "description": "Cảm giác đau ở vùng bụng và lưng, có thể do sự tích tụ của các sản phẩm từ hồng cầu bị phá hủy"
+    },
+    {
+      "name": "Chóng mặt, kiệt sức",
+      "description": "Cảm giác chóng mặt, mệt mỏi cực độ do thiếu máu"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Nhịp tim không đều, có thể xuất hiện trong các trường hợp thiếu máu nặng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Thiếu men G6PD là một rối loạn di truyền do đột biến hoặc thay đổi trong gen G6PD. Gen này có chức năng đảm bảo cơ thể tạo ra đủ lượng enzym G6PD. Do đó, nếu gen G6PD bị đột biến sẽ làm giảm lượng protein hữu ích này trong cơ thể.",
+    "related_factors": "Đây là bệnh lý bẩm sinh di truyền lặn liên kết với nhiễm sắc thể giới tính X, bé trai có tỷ lệ mắc bệnh cao gấp hai lần bé gái. Khi tiếp xúc với một số loại thuốc, hoá chất có chất oxy hóa, thức ăn hoặc khi bị nhiễm trùng, hồng cầu dễ bị vỡ (tán huyết) dẫn đến thiếu máu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam giới (do bệnh liên kết với nhiễm sắc thể X)",
+    "Tiền sử gia đình có người bị thiếu men G6PD",
+    "Tiếp xúc với các thuốc chống sốt rét",
+    "Tiếp xúc với aspirin và các thuốc giảm đau NSAID",
+    "Tiếp xúc với thuốc có chứa sulfat",
+    "Tiêu thụ đậu fava",
+    "Nhiễm trùng, nhiễm virus",
+    "Tiêu thụ thực phẩm có chất oxy hóa"
+  ],
+  "complications": [
+    "Thiếu máu tán huyết",
+    "Vàng da nặng ở trẻ sơ sinh",
+    "Tổn thương não gây bại não, chậm phát triển tâm thần ở trẻ sơ sinh",
+    "Suy gan",
+    "Suy thận",
+    "Tử vong nếu không được cấp cứu kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xét nghiệm máu để đo nồng độ men G6PD",
+      "Sàng lọc sơ sinh bằng cách lấy máu gót chân trong vòng 48-72 giờ đầu sau sinh",
+      "Xét nghiệm chẩn đoán gen để khẳng định tình trạng bệnh và mức độ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu đo nồng độ G6PD",
+        "description": "Xét nghiệm đơn giản để kiểm tra nồng độ men G6PD trong máu"
+      },
+      {
+        "name": "Sàng lọc sơ sinh",
+        "description": "Lấy mẫu máu ở gót chân trong vòng 48-72 giờ đầu sau sinh để kiểm tra tình trạng thiếu G6PD"
+      },
+      {
+        "name": "Xét nghiệm chẩn đoán gen",
+        "description": "Giúp khẳng định lại tình trạng bệnh, mức độ, cung cấp thông tin tư vấn di truyền cho gia đình"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị thiếu men G6PD phụ thuộc vào triệu chứng, trẻ có thể được truyền máu nếu thiếu máu, hoặc chiếu đèn vàng da khi có chỉ định. Khi các triệu chứng thiếu men G6PD ở mức độ nhẹ, phương pháp điều trị hiệu quả nhất là tránh dung nạp các loại thực phẩm hoặc thuốc được xem là tác nhân gây ra triệu chứng bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Truyền máu",
+        "description": "Cho những trường hợp thiếu máu nặng, giúp làm chậm tốc độ tế bào hồng cầu bị phá hủy"
+      },
+      {
+        "name": "Chiếu đèn vàng da",
+        "description": "Áp dụng cho trẻ sơ sinh bị vàng da do thiếu men G6PD"
+      },
+      {
+        "name": "Điều trị các bệnh nhiễm trùng gây tán huyết",
+        "description": "Điều trị tận gốc các bệnh nhiễm trùng như viêm gan virus, thương hàn, viêm phổi nếu đó là nguyên nhân gây tán huyết"
+      },
+      {
+        "name": "Loại bỏ các tác nhân gây tán huyết",
+        "description": "Ngưng sử dụng thuốc hoặc thực phẩm gây tán huyết"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tránh sử dụng các loại thuốc được liệt kê là không an toàn với người thiếu G6PD",
+      "Thông báo cho bác sĩ về tình trạng thiếu men G6PD trước khi dùng bất kỳ loại thuốc nào",
+      "Tránh tiêu thụ các thực phẩm như đậu fava, việt quất, đậu nành",
+      "Hạn chế dùng thực phẩm giàu vitamin C và thực phẩm bổ sung vitamin C",
+      "Tránh tiếp xúc với tinh dầu bạc hà và băng phiến (long não/naphthalene)",
+      "Theo dõi sát tình trạng sức khỏe, đặc biệt là khi có nhiễm trùng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +127,54 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện sàng lọc sơ sinh bằng cách lấy máu gót chân trong vòng 48-72 giờ đầu sau sinh",
+      "Xét nghiệm chẩn đoán gen để khẳng định tình trạng bệnh và tư vấn di truyền cho gia đình",
+      "Tránh các loại thuốc gây tan máu",
+      "Tránh các thực phẩm được biết là gây tan máu như đậu Fava, rượu vang đỏ, việt quất, đậu nành",
+      "Cho trẻ ăn các loại thực phẩm giàu protein, sắt, probiotic, chất béo lành mạnh để phòng ngừa thiếu máu",
+      "Phát hiện và điều trị sớm các bệnh nhiễm trùng, nhiễm virus",
+      "Hỏi ý kiến bác sĩ trước khi cho trẻ uống bất kỳ loại thuốc nào"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thiếu men G6PD có nguy hiểm không?",
+      "answer": "Khi thiếu men G6PD, tế bào hồng cầu sẽ bị phá hủy khi tiếp xúc với chất oxy hóa có trong thức ăn hoặc thuốc. Tán huyết làm tăng lượng bilirubin trong máu gây vàng da, vàng mắt, thiếu máu kèm theo suy thận. Khi trẻ bị vàng da nặng, nhất là trong 2 tuần đầu sau sinh, trẻ có thể bị tổn thương não gây ra bại não, chậm phát triển tâm thần. Nhiều trường hợp thiếu men ở thể nặng trẻ bị thiếu máu nặng, mệt mỏi, kèm theo các biểu hiện của suy gan, suy thận, có thể tử vong nếu không được cấp cứu kịp thời."
+    },
+    {
+      "question": "Thiếu men G6PD có chữa được không?",
+      "answer": "Hiện chưa có thuốc chữa khỏi bệnh thiếu men G6PD. Việc điều trị chủ yếu là phòng ngừa các đợt tán huyết bằng cách tránh các tác nhân gây vỡ hồng cầu, như một số loại thuốc và thực phẩm. Khi thiếu men G6PD ở mức độ nhẹ sẽ được cải thiện bằng cách điều chỉnh chế độ ăn uống và sinh hoạt. Nhưng nếu các triệu chứng trở nên nặng hơn, như thiếu máu tán huyết, người bệnh cần được truyền máu và điều trị tích cực tại bệnh viện."
+    },
+    {
+      "question": "Các loại thuốc nào cần tránh khi bị thiếu men G6PD?",
+      "answer": "Người bị thiếu men G6PD cần tránh các loại thuốc như: thuốc chống sốt rét, aspirin, các loại thuốc giảm đau NSAID, thuốc sulfat và các sản phẩm có chứa sulfit, quinine hoặc các thuốc có 'quin' trong tên, brinzolamide, furazolidone, dimercaprol, sulfadimidine. Bạn nên thông báo cho bác sĩ về tình trạng thiếu men G6PD trước khi dùng bất kỳ loại thuốc nào."
+    },
+    {
+      "question": "Những thực phẩm nào người bị thiếu men G6PD nên tránh?",
+      "answer": "Người bị thiếu men G6PD nên tránh các thực phẩm như: đậu fava (đôi khi tất cả các loại đậu khác), quả việt quất, tất cả các sản phẩm làm từ đậu nành (đậu phụ, đậu hũ, miso, tempeh), thực phẩm giàu vitamin C cũng như thực phẩm bổ sung vitamin C, tinh dầu bạc hà, và các loại thực phẩm có thuốc nhuộm màu nhân tạo."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như vàng da, vàng mắt và nước tiểu sậm màu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thiếu men G6PD", "Viêm gan", "Bệnh tan máu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, xanh xao và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thiếu men G6PD", "Thiếu máu", "Bệnh phổi mạn tính"]
+    },
+    {
+      "question": "Tôi hay bị sốt, đau bụng và nhịp tim nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thiếu men G6PD", "Nhiễm trùng", "Viêm ruột"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như vàng da, vàng mắt sau khi dùng một số loại thuốc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thiếu men G6PD", "Phản ứng thuốc", "Suy gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, xanh xao sau khi ăn đậu fava. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thiếu men G6PD", "Dị ứng thực phẩm", "Thiếu máu"]
     }
   ]
 }

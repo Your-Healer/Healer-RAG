@@ -1,39 +1,138 @@
 {
   "disease_id": "u-nao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U não",
+  "disease_alternative_names": ["Khối u não", "Bệnh u não", "Brain tumor"],
+  "disease_definition": "U não là một tập hợp số lượng lớn các tế bào não phát triển bất thường vượt ngoài tầm kiểm soát của cơ thể. Các u não có thể bắt đầu trực tiếp từ tế bào não, tế bào đệm của hệ thần kinh trung ương, hoặc cũng có thể bắt đầu từ các bộ phận khác (ví dụ như phổi, thận…) rồi theo máu đến não, được gọi là u di căn não.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu",
+      "description": "Các cơn đau đầu xảy ra thường xuyên với tần suất dày đặc, đặc biệt là vào mỗi sáng thức dậy hay khi ho, hắt hơi, tập thể dục"
+    },
+    {
+      "name": "Co giật",
+      "description": "Cứ 10 người bị u não thì có tới 8 người bị co giật. Có thể bị co giật bàn tay, cánh tay, chân và có thể lan ra toàn bộ cơ thể"
+    },
+    {
+      "name": "Vấn đề về thị lực",
+      "description": "Sụp mí mắt, đồng tử không bằng nhau, mờ mắt, hoa mắt, thị lực giảm sút"
+    },
+    {
+      "name": "Suy giảm trí nhớ",
+      "description": "Hay quên, lơ đãng, mất trí nhớ tạm thời"
+    },
+    {
+      "name": "Giảm sự tỉnh táo",
+      "description": "Có thể bao gồm chóng mặt, buồn ngủ, khó ngủ, mất ngủ, bất tỉnh, mất ý thức"
+    },
+    {
+      "name": "Thay đổi tâm trạng và hành vi",
+      "description": "Thay đổi tâm trạng, tính cách, cảm xúc và hành vi, trầm cảm, cảm thấy mất hứng thú với ngay cả những thú vui trước đây"
+    },
+    {
+      "name": "Buồn nôn và nôn mửa",
+      "description": "Thường xảy ra vào buổi sáng hoặc khi cơn đau đầu tăng lên"
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Khó khăn trong việc giữ thăng bằng, phối hợp vận động và đi lại"
+    },
+    {
+      "name": "Tê bì chân tay",
+      "description": "Cảm giác tê hoặc ngứa ran ở một bên của cơ thể, yếu một tay, một chân"
+    },
+    {
+      "name": "Khó khăn trong việc nói và nghe",
+      "description": "Khó diễn đạt ngôn ngữ, khó hiểu những gì người khác đang nói"
+    },
+    {
+      "name": "Khó đọc và viết",
+      "description": "Khó khăn trong việc đọc, viết và nuốt"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây u não chính xác trong hầu hết mọi trường hợp là không thể xác định. U não hình thành khi có đột biến không rõ nguyên nhân trong DNA khiến các tế bào phân chia mất kiểm soát.",
+    "related_factors": "Một số yếu tố có thể làm tăng nguy cơ mắc u não bao gồm tiền sử gia đình có người mắc u não, tiếp xúc với bức xạ ion hóa, hóa chất độc hại, và một số tình trạng di truyền hiếm gặp.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác (nguy cơ tăng cao ở người trên 85 tuổi)",
+    "Tiền sử gia đình có người mắc u não",
+    "Chế độ ăn thiếu khoa học (nhiều hợp chất N-nitroso, ít trái cây và rau)",
+    "Thừa cân và béo phì",
+    "Không có tiền sử bệnh thủy đậu",
+    "Phơi nhiễm hóa chất (thuốc trừ sâu, kim loại nặng, amiăng, vinyl clorua)",
+    "Tiếp xúc với bức xạ ion hóa",
+    "Một số tình trạng di truyền (xơ cứng củ, u sợi thần kinh, hội chứng Turner)"
+  ],
+  "complications": [
+    "Đau đầu, hoa mắt, chóng mặt sau điều trị",
+    "Mệt mỏi và buồn ngủ do tác dụng của thuốc an thần",
+    "Đau họng do đặt ống thở trong phẫu thuật",
+    "Suy giảm khả năng giao tiếp (chậm nói, chậm đọc, chậm viết)",
+    "Suy giảm giác quan (thị lực, thính lực, vị giác)",
+    "Suy giảm khả năng vận động (tê liệt, yếu, run)",
+    "Giảm tuổi thọ hoặc tử vong (tùy thuộc vào loại u não)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá chi tiết phản xạ hệ thần kinh",
+      "Kiểm tra đồng tử bằng kính soi đáy mắt",
+      "Đánh giá sức mạnh cơ bắp, khả năng giữ thăng bằng và trí nhớ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-Quang sọ",
+        "description": "Sử dụng tia X để phát hiện các vết nứt gãy xương sọ cực nhỏ gây ra do khối u não"
+      },
+      {
+        "name": "Chụp CT đầu",
+        "description": "Sử dụng tia X kết hợp với máy tính để tạo hình ảnh chi tiết về cấu trúc não và hệ thống mạch máu"
+      },
+      {
+        "name": "Chụp MRI đầu",
+        "description": "Cho chất lượng hình ảnh vượt trội so với CT, mô tả rõ nét nhu mô não nhờ độ tương phản cao"
+      },
+      {
+        "name": "Chụp mạch",
+        "description": "Tiêm thuốc nhuộm vào động mạch để theo dõi nguồn cung cấp máu nuôi khối u"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu tế bào u não để xét nghiệm, xác định giai đoạn và loại khối u"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Não là cơ quan không thể thay thế duy nhất của cơ thể nên phẫu thuật u não vẫn có nguy cơ khối u quay trở lại. Do đó, khi điều trị u não, bác sĩ thường kết hợp cùng lúc 2 hay nhiều phương pháp điều trị khác nhau để tăng tính hiệu quả.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Phương pháp điều trị phổ biến nhất cho u não, nhằm loại bỏ càng nhiều khối u càng tốt mà không gây tổn hại cho các bộ phận khỏe mạnh của não"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng các loại thuốc chống ung thư được đưa vào cơ thể qua đường máu để tiêu diệt các tế bào u não"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Phương pháp phổ biến nhất cho khối u ác tính, sử dụng tia năng lượng cao như tia Beta, tia X hoặc tia Gamma để tấn công khối u"
+      },
+      {
+        "name": "Steroid",
+        "description": "Được kê đơn để giúp giảm sưng xung quanh khối u não"
+      },
+      {
+        "name": "Thuốc hỗ trợ",
+        "description": "Thuốc chống động kinh cho cơn co giật và thuốc giảm đau cho chứng đau đầu"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch tái khám và theo dõi sau điều trị",
+      "Thực hiện đầy đủ các bài tập vật lý trị liệu để phục hồi chức năng nếu cần",
+      "Duy trì lối sống lành mạnh với chế độ ăn uống cân bằng và tập luyện phù hợp",
+      "Tránh các hoạt động gắng sức có thể gây tăng áp lực nội sọ",
+      "Theo dõi và báo cáo bất kỳ triệu chứng mới nào cho bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +140,48 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Từ bỏ thói quen xấu: uống rượu bia, hút thuốc, thức khuya, sinh hoạt không điều độ",
+      "Ăn uống lành mạnh: giàu rau củ quả, vitamin C và hạn chế thực phẩm giàu Nitrit",
+      "Tăng cường vận động: tập thể dục thể thao để nâng cao sức khỏe tổng quát",
+      "Tránh xa nguồn phóng xạ: hạn chế tiếp xúc với bức xạ ion hóa và các nguồn phóng xạ khác",
+      "Thăm khám sức khỏe định kỳ và tầm soát u não định kỳ nếu có nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U não có di truyền không?",
+      "answer": "Bệnh u não có thể di truyền nhưng với tỉ lệ rất hiếm nên gần như được xem là không di truyền. Chỉ có 5-10% tất cả các ca ung thư trên thế giới là do di truyền và chỉ có 2% trong tổng số tất cả các ca ung thư đó là do u não. Hiểu đơn giản, chỉ có 0,1%-0,2% tổng số ca ung thư trên toàn thế giới là do u não di truyền."
+    },
+    {
+      "question": "Bị u não lành tính có chữa được không?",
+      "answer": "U não lành tính có thể chữa được bằng phẫu thuật nếu được điều trị sớm, khi khối u được cắt bỏ hoàn toàn và chưa để lại hệ quả quá sâu rộng. Khả năng tái phát sau phẫu thuật của u não lành tính là khá thấp nên tỉ lệ chữa khỏi u não lành tính là rất cao."
+    },
+    {
+      "question": "U não ác tính có chữa được không?",
+      "answer": "U não ác tính có thể chữa được và cũng có thể không chữa được. Tiên lượng khi chữa trị u não ác tính phụ thuộc vào nhiều yếu tố như loại khối u, vị trí khối u, kích thước khối u, mức độ và tốc độ di căn, mức độ đáp ứng với thuốc, và sức khỏe tổng quát của người bệnh. Triển vọng chữa bệnh u não ác tính thường tốt hơn đối với nhóm người dưới 40 tuổi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U não", "Đau nửa đầu Migraine", "Viêm màng não"]
+    },
+    {
+      "question": "Tôi đang cảm thấy hoa mắt, chóng mặt và mất thăng bằng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U não", "Rối loạn tiền đình", "Thiếu máu não"]
+    },
+    {
+      "question": "Tôi hay bị co giật, tê bì chân tay và thay đổi tính cách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U não", "Động kinh", "Đột quỵ"]
+    },
+    {
+      "question": "Tôi hay bị suy giảm trí nhớ, khó tập trung và đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U não", "Alzheimer", "Trầm cảm"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu dữ dội vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U não", "Tăng áp lực nội sọ", "Đau nửa đầu"]
     }
   ]
 }

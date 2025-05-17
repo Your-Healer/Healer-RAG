@@ -1,39 +1,113 @@
 {
   "disease_id": "tac-tia-sua-sau-sinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tắc tia sữa sau sinh",
+  "disease_alternative_names": ["Tắc tuyến sữa", "Tắc ống dẫn sữa"],
+  "disease_definition": "Tắc tia sữa là tình trạng sữa mẹ bị ứ đọng bên trong các ống dẫn sữa ở bầu ngực mà không được đẩy ra ngoài, khiến việc cho con bú gặp nhiều khó khăn cũng như gây đau đớn cho người mẹ. Tình trạng này thường xảy ra ở sản phụ sau sinh khoảng 6-8 tuần hoặc bất kỳ thời điểm nào trong thời kỳ nuôi con bằng sữa mẹ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không tiết sữa hoặc tiết rất ít sữa",
+      "description": "Ngực không tiết sữa hoặc tiết sữa rất ít, kể cả khi mẹ chủ động vắt sữa"
+    },
+    {
+      "name": "Ngực căng cứng",
+      "description": "Ngực càng lúc càng căng cứng và to hơn, đi kèm với cảm giác đau nhức"
+    },
+    {
+      "name": "Cục cứng ở đầu vú",
+      "description": "Sờ vào đầu vú cảm giác có một hoặc nhiều cục cứng"
+    },
+    {
+      "name": "Sốt",
+      "description": "Một số trường hợp gây sốt, đặc biệt khi tiến triển thành viêm tuyến vú"
+    },
+    {
+      "name": "Đau nhức vùng ngực",
+      "description": "Cảm giác đau nhức ở vùng ngực, đặc biệt khi cho con bú hoặc khi vắt sữa"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tắc tia sữa xảy ra khi lòng ống dẫn sữa bị bít hẹp lại, sữa không thể chảy ra ngoài, lâu dần vón cục do hiện tượng sữa đông kết. Song song đó sữa mới vẫn tiếp tục được tạo ra, làm cho chỗ tắc ở các ống dẫn trước ngày càng căng giãn ra.",
+    "related_factors": "Các nguyên nhân dẫn đến tắc tia sữa bao gồm: vừa mới sinh con, dư thừa sữa mẹ do bé bú không hết, ngực chịu áp lực (mặc áo ngực quá chật, bó sát), không cho bé bú thường xuyên, bé ngậm vú mẹ sai cách, mẹ ít hút sữa ra ngoài, và căng thẳng, stress.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Mới sinh con",
+    "Sản xuất quá nhiều sữa",
+    "Mặc áo ngực quá chật",
+    "Mang địu bé trước ngực",
+    "Nằm sấp khi ngủ",
+    "Không cho bé bú thường xuyên",
+    "Cho bé bú không đúng cách",
+    "Bé ngậm bắt vú sai",
+    "Ít hút sữa ra ngoài",
+    "Căng thẳng và stress"
+  ],
+  "complications": [
+    "Mất sữa hoàn toàn",
+    "Viêm tuyến vú",
+    "Áp xe vú",
+    "Các dải xơ hóa ở vú",
+    "U xơ tuyến vú",
+    "Hoại tử mô vú",
+    "Nhiễm trùng nặng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng vùng ngực",
+      "Kiểm tra các triệu chứng như đau, sưng, cục cứng ở ngực",
+      "Theo dõi nhiệt độ cơ thể để phát hiện sốt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám vú",
+        "description": "Sờ nắn vú để phát hiện các cục chai cứng do tắc tia sữa"
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Giúp đánh giá mức độ tắc tia sữa và loại trừ các nguyên nhân khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu trong điều trị tắc tia sữa chính là làm tan các cục sữa bị ứ đọng, vón cục để khơi thông tia sữa. Đối với những trường hợp tắc tia sữa lâu ngày dẫn đến tình trạng viêm tuyến vú hoặc áp xe vú, cần thăm khám sớm để được bác sĩ hướng dẫn phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chườm ấm",
+        "description": "Trước khi cho bé bú, mẹ nên dùng khăn ấm để chườm ấm bầu ngực"
+      },
+      {
+        "name": "Massage ngực",
+        "description": "Massage nhẹ nhàng bầu ngực từ trên xuống dưới và từ ngoài vào trong để lưu thông sữa tốt hơn"
+      },
+      {
+        "name": "Xoa bóp đầu ti",
+        "description": "Xoa bóp đầu ti nhẹ nhàng theo vòng tròn nhằm kích thích và khơi thông tia sữa"
+      },
+      {
+        "name": "Cho bé bú bên ngực bị tắc trước",
+        "description": "Ưu tiên cho bé bú ở bên ngực bị tắc trước, sau đó mới chuyển sang bên ngực còn lại"
+      },
+      {
+        "name": "Hút sữa sau khi bé bú",
+        "description": "Sau khi bé bú xong, mẹ nên hút hết sữa còn lại ra ngoài bằng tay hoặc máy hút sữa chuyên dụng"
+      },
+      {
+        "name": "Rạch thoát mủ",
+        "description": "Đối với trường hợp áp xe vú, bác sĩ có thể cần rạch thoát mủ"
+      },
+      {
+        "name": "Sử dụng kháng sinh",
+        "description": "Điều trị kháng sinh trong trường hợp viêm nhiễm"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Mặc áo ngực thoải mái hoặc hạn chế mặc áo ngực để bầu ngực được thông thoáng",
+      "Cho bé bú thường xuyên để sữa không bị ứ đọng",
+      "Tránh các tác động mạnh lên bầu ngực",
+      "Giữ tinh thần thoải mái, tránh căng thẳng",
+      "Đảm bảo bé ngậm bắt vú đúng cách",
+      "Uống đủ nước mỗi ngày"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +115,58 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập thói quen hút sữa thường xuyên sau khi bé bú no",
+      "Thực hiện lối sống khoa học: ăn uống đầy đủ dinh dưỡng, nghỉ ngơi hợp lý",
+      "Uống đủ nước mỗi ngày",
+      "Hạn chế những tác động lên bầu ngực như mặc áo ngực quá chật",
+      "Không nằm sấp khi ngủ",
+      "Tập luyện thể dục thể thao nhẹ nhàng như yoga, kegel, đi bộ",
+      "Tránh căng thẳng, stress"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tắc tia sữa có nguy hiểm không?",
+      "answer": "Mặc dù tắc tia sữa không gây nguy hiểm đến tính mạng nhưng sẽ gây nhiều biến chứng cho sức khỏe của mẹ như mất sữa hoàn toàn, viêm tuyến vú, áp xe vú lâu dần phát triển thành các dải xơ hóa ở vú. Nếu không được điều trị kịp thời, áp xe vú có thể gây hoại tử mô vú và nhiễm trùng nặng."
+    },
+    {
+      "question": "Tắc tia sữa nên chườm nóng hay lạnh?",
+      "answer": "Khi bị tắc tia sữa, mẹ nên chườm ấm bằng khăn ấm trước khi cho bé bú. Việc chườm ấm giúp làm giãn các ống dẫn sữa, kích thích lưu thông máu và làm tan các cục sữa đông, giúp sữa chảy ra dễ dàng hơn."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ khi bị tắc tia sữa?",
+      "answer": "Mẹ cần đến gặp bác sĩ khi: sờ thấy có cục chai cứng ở bầu ngực; đã cố gắng cho bé bú và vắt sữa nhưng vẫn không hết khối cứng; tình trạng tắc tia sữa kéo dài hơn 2-3 ngày; khối căng cứng ngày càng to, sưng đỏ và đau; đau ngực kèm sốt cao; hoặc đã áp dụng các biện pháp tại nhà nhưng không hiệu quả."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngực căng cứng, đau nhức và tiết sữa rất ít. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tắc tia sữa sau sinh", "Viêm tuyến vú", "Cương sữa"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ở đầu vú và sờ thấy có cục cứng bên trong. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tắc tia sữa sau sinh",
+        "Viêm tuyến vú",
+        "U xơ tuyến vú"
+      ]
+    },
+    {
+      "question": "Tôi hay bị stress và căng thẳng, sữa về ít và có dấu hiệu tắc tia sữa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tắc tia sữa sau sinh",
+        "Mất sữa",
+        "Trầm cảm sau sinh"
+      ]
+    },
+    {
+      "question": "Tôi mới sinh con và sữa về nhiều nhưng bé bú không hết, ngực căng tức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tắc tia sữa sau sinh", "Cương sữa", "Ứ sữa"]
+    },
+    {
+      "question": "Tôi đang cho con bú nhưng ít hút sữa ra ngoài, ngực có cảm giác căng tức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tắc tia sữa sau sinh", "Ứ sữa", "Viêm tuyến vú"]
     }
   ]
 }

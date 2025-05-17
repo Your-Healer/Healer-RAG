@@ -1,39 +1,124 @@
 {
   "disease_id": "roi-loan-tien-dinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn tiền đình",
+  "disease_alternative_names": ["Vestibular Disorders", "Hội chứng tiền đình"],
+  "disease_definition": "Rối loạn tiền đình là những rối loạn có liên quan đến thăng bằng, xuất phát từ dây thần kinh số 8 và các đường nối kết của nó. Nếu bộ phận này bị tổn thương sẽ khiến thông tin dẫn truyền bị sai lệch và cơ thể bị mất thăng bằng, hoa mắt, chóng mặt, ù tai.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chóng mặt, xoay tròn",
+      "description": "Cảm giác đồ vật xung quanh quay tròn và thường kèm theo các triệu chứng rối loạn thần kinh thực vật như buồn nôn, vã mồ hôi"
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Khó khăn trong việc giữ thăng bằng, nghiêm trọng đến mức không thể đứng được, đặc biệt trong giai đoạn đầu của bệnh"
+    },
+    {
+      "name": "Choáng váng khi thay đổi tư thế",
+      "description": "Cảm giác choáng váng, hoa mắt khi thay đổi tư thế đột ngột như từ nằm sang ngồi hoặc khi lắc đầu"
+    },
+    {
+      "name": "Nôn ói nhiều và kéo dài",
+      "description": "Tình trạng buồn nôn, nôn ói xuất hiện cùng với các cơn chóng mặt, đặc biệt trong trường hợp rối loạn tiền đình ngoại biên nặng"
+    },
+    {
+      "name": "Ù tai và giảm thính lực",
+      "description": "Cảm giác ù tai và giảm khả năng nghe, thường xuất hiện cùng với chóng mặt và mất thăng bằng"
+    },
+    {
+      "name": "Nặng đầu, khó tập trung",
+      "description": "Cảm giác đầu nặng, khó tập trung vào công việc hoặc các hoạt động hàng ngày"
+    },
+    {
+      "name": "Rối loạn vận mạch",
+      "description": "Da tái xanh, giảm nhịp tim, vã mồ hôi do rối loạn hệ thần kinh thực vật"
+    },
+    {
+      "name": "Té ngã",
+      "description": "Mất khả năng kiểm soát thăng bằng dẫn đến té ngã, đặc biệt nguy hiểm ở người cao tuổi"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tổn thương hệ thống tiền đình và dây thần kinh số 8 khiến thông tin dẫn truyền bị sai lệch.",
+    "related_factors": "Rối loạn cơ quan tiền đình ngoại biên (chóng mặt tư thế kịch phát lành tính, viêm thần kinh tiền đình, viêm tiền đình, bệnh Ménière, viêm mê nhĩ, rò ngoại dịch), rối loạn chuyển hóa (suy giáp, tiểu đường, tăng ure huyết), migraine, nhiễm trùng não, xuất huyết não, nhồi máu não, chấn thương, u não, xơ cứng rải rác, tuổi tác, mất máu, căng thẳng, dùng quá nhiều chất kích thích.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người cao tuổi (từ 40 tuổi trở lên)",
+    "Người làm việc trong môi trường căng thẳng",
+    "Phụ nữ mang thai",
+    "Stress, căng thẳng kéo dài",
+    "Thói quen sinh hoạt không khoa học",
+    "Mất máu quá nhiều",
+    "Dùng quá nhiều chất kích thích như rượu, bia"
+  ],
+  "complications": [
+    "Dễ trầm cảm",
+    "Dễ bị té ngã, gây tai nạn",
+    "Nguy cơ đột quỵ, tai biến",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Bệnh nhân có thể phải nằm liệt giường thậm chí tử vong trong trường hợp nặng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Đánh giá dấu hiệu chóng mặt, mất thăng bằng, rung giật nhãn cầu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm hệ mạch cảnh đốt sống",
+        "description": "Xác định mảng xơ vữa, bóc tách động mạch gây hẹp mạch, tắc mạch..."
+      },
+      {
+        "name": "Chụp CT-Scanner sọ não",
+        "description": "Tìm các tổn thương như: U góc cầu tiểu não, tai biến mạch máu não..."
+      },
+      {
+        "name": "MRI sọ não",
+        "description": "Tìm các tổn thương như: U góc cầu tiểu não, tai biến mạch máu não..."
+      },
+      {
+        "name": "Đo chức năng tiền đình bằng Ảnh động nhãn đồ (VNG)",
+        "description": "Đánh giá bất thường mắt, chẩn đoán chính xác tổn thương của tiền đình nằm ở não (trung ương) hay ngoại biên hoặc tai trong"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị không đúng cách hay dùng thuốc trị không đúng bệnh sẽ gây lãng phí tiền bạc, công sức, thời gian trong khi tình trạng bệnh có thể trở nên nặng hơn và dẫn đến nhiều biến chứng khó lường.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phục hồi chức năng",
+        "description": "Các bài tập rèn luyện não bộ, kích thích sự vận động, nhạy bén của hệ thống tiền đình có hiệu quả rất lớn trong phục hồi chức năng cho bộ phần đầu, cơ thể, thị giác"
+      },
+      {
+        "name": "Tập luyện thể thao",
+        "description": "Tập luyện ở mức độ phù hợp với tình trạng sức khỏe sẽ giúp người bệnh tăng cường sức khỏe, và hỗ trợ phục hồi hệ thống tiền đình một cách nhanh chóng"
+      },
+      {
+        "name": "Duy trì chế độ ăn uống lành mạnh",
+        "description": "Đây được coi là \"chìa khóa vàng\" trong việc cải thiện sức khỏe đáng kể cho người bệnh và hạn chế các triệu chứng"
+      },
+      {
+        "name": "Sử dụng thuốc kê toa",
+        "description": "Tùy thuộc vào tình trạng bệnh lý của mỗi người, bác sĩ sẽ đưa ra phương án phù hợp về thời gian, liều lượng dùng thuốc"
+      },
+      {
+        "name": "Nghiệm pháp tái định vị sỏi tai (Epley maneuver)",
+        "description": "Phương pháp này thường được các bác sĩ chuyên môn thực hiện bằng các thao tác di chuyển đầu của người bệnh vào các tư thế nhất định nhằm \"tái định vị\" các tinh thể bị lạc chỗ trong tai"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Khi thuốc và các liệu pháp khác không mang lại hiệu quả điều trị, người bệnh cần phải tiến hành phẫu thuật nhằm phục hồi chức năng của tai trong"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ liệu trình điều trị",
+      "Thay đổi thói quen không tốt",
+      "Luyện tập thể dục đều đặn và hợp lý",
+      "Không nên để gối cao khi nằm ngủ",
+      "Giảm căng thẳng lo lắng",
+      "Hạn chế sử dụng chất kích thích",
+      "Thận trọng khi hoạt động vùng đầu cổ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +126,79 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Luyện tập thể dục đều đặn và hợp lý",
+      "Giảm căng thẳng lo lắng",
+      "Tránh đọc sách báo khi ngồi ô tô",
+      "Nên ngồi hoặc nằm ngay xuống khi thấy chóng mặt",
+      "Uống đủ nước mỗi ngày",
+      "Hạn chế sử dụng chất kích thích như bia, rượu, thuốc lá...",
+      "Thận trọng khi hoạt động vùng đầu cổ",
+      "Không nên quay cổ đột ngột hoặc thay đổi tư thế đứng lên ngồi xuống quá nhanh",
+      "Khám định kỳ để phát hiện và điều trị kịp thời"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn tiền đình nên nằm gối cao hay thấp?",
+      "answer": "Người mắc bệnh cần thay đổi một số thói quen không tốt, trong đó cần chú ý không nên để gối cao khi nằm ngủ. Gối để ở độ cao vừa phải sẽ giúp tuần hoàn máu tốt hơn, từ đó có thể ngăn chặn các triệu chứng bệnh xảy ra cũng như các biến chứng nguy hiểm khác."
+    },
+    {
+      "question": "Bị rối loạn tiền đình thì nên khám ở chuyên khoa nào?",
+      "answer": "Hội chứng tiền đình là bệnh lý liên quan đến bệnh thần kinh và tai mũi họng, vì thế khi phát hiện các dấu hiệu mắc bệnh, bạn có thể đến thăm khám và điều trị tại chuyên khoa Nội thần kinh hoặc Tai Mũi Họng của các cơ sở y tế uy tín."
+    },
+    {
+      "question": "Rối loạn tiền đình có truyền nước được không?",
+      "answer": "Đối với bệnh nhân mắc bệnh tiền đình, nếu cơ thể rơi vào tình trạng mất nước sẽ rất nguy hiểm. Do đó, trong giai đoạn cấp, khi bệnh nhân đang chóng mặt, nôn mửa, mất thăng bằng tư thế có thể bù nước điện giải qua đường truyền."
+    },
+    {
+      "question": "Đàn ông có bị rối loạn tiền đình không?",
+      "answer": "Đa số nam giới thường phải chịu áp lực cao về công việc, cuộc sống, tâm lý trụ cột gia đình dễ dẫn đến trạng thái căng thẳng, stress, lo âu quá mức, làm tăng nguy cơ mắc bệnh. Rối loạn tiền đình có thể ảnh hưởng cả hai giới tính nam và nữ."
+    },
+    {
+      "question": "Rối loạn tiền đình có chữa dứt điểm được không?",
+      "answer": "Tiên lượng bệnh phụ thuộc vào rất nhiều yếu tố như: loại bệnh, mức độ bệnh, thời gian phát hiện, phương pháp điều trị… Bệnh hoàn toàn có thể chữa khỏi, không tái phát nếu người bệnh điều trị đúng và đủ liệu trình theo chỉ định."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chóng mặt thoáng qua khi thay đổi tư thế, ví dụ như từ nằm chuyển sang ngồi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-tien-dinh",
+        "chong-mat-tu-the-kich-phat-lanh-tinh",
+        "ha-huyet-ap-tu-the"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chóng mặt dữ dội và kéo dài, không thể đi đứng vững. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-tien-dinh",
+        "viem-day-than-kinh-tien-dinh",
+        "benh-meniere"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nôn ói nhiều và kéo dài kèm theo chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-tien-dinh",
+        "viem-me-dao-tai",
+        "roi-loan-tien-dinh-ngoai-bien"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng ù tai, giảm thính lực và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-tien-dinh",
+        "benh-meniere",
+        "u-day-than-kinh-8"
+      ]
+    },
+    {
+      "question": "Tôi hay cảm thấy nặng đầu, khó tập trung và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-tien-dinh",
+        "roi-loan-tien-dinh-ngoai-bien"
+      ]
     }
   ]
 }

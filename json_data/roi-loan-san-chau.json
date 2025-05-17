@@ -1,39 +1,119 @@
 {
   "disease_id": "roi-loan-san-chau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn sàn chậu",
+  "disease_alternative_names": [
+    "Bệnh lý sàn chậu",
+    "Suy nhược sàn chậu",
+    "Pelvic floor disorder"
+  ],
+  "disease_definition": "Rối loạn sàn chậu là những tác động được gây ra bởi sức nặng khi mang thai và áp lực căng giãn của cuộc sinh khiến chức năng cơ sàn chậu của người phụ nữ không thể hoạt động bình thường ngay từ trong thai kỳ đến sau sinh và cả sau này.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Són tiểu",
+      "description": "Tình trạng són tiểu khi ho, hắt hơi, cười hoặc gắng sức, đặc biệt thường gặp ở phụ nữ sau sinh"
+    },
+    {
+      "name": "Tiểu nhiều lần",
+      "description": "Cần đi tiểu thường xuyên hơn bình thường, có cảm giác tiểu không hết, tiểu khó, tiểu đêm"
+    },
+    {
+      "name": "Rối loạn đại tiện",
+      "description": "Són hơi, són phân, đại tiện nhiều lần không hết, táo bón hoặc đau bụng, đau thốn hậu môn khi mắc đại tiện"
+    },
+    {
+      "name": "Rối loạn sinh hoạt tình dục",
+      "description": "Giãn rộng âm đạo, giao hợp giảm cảm giác hoặc đau, không giao hợp được"
+    },
+    {
+      "name": "Sa các tạng vùng chậu",
+      "description": "Sa tử cung, bàng quang, trực tràng, ruột tạo khối phồng to ở cửa mình gây đau tức, khó chịu, tiêu tiểu lắt nhắt hoặc khó"
+    },
+    {
+      "name": "Đau lưng và đau vùng xương chậu",
+      "description": "Cảm giác đau ở vùng lưng dưới và xương chậu, thường liên quan đến suy yếu cơ sàn chậu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sàn chậu bị suy yếu chủ yếu do sức nặng khi mang thai và áp lực căng giãn của cuộc sinh khiến chức năng cơ sàn chậu không thể hoạt động bình thường.",
+    "related_factors": "Quá trình mang thai, sinh nở (đặc biệt là sinh ngả âm đạo), rách tầng sinh môn khi sinh, sinh con to, mãn kinh và thiếu hụt nội tiết estrogen.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sinh con nhiều lần, đặc biệt là từ lần thứ 3 trở lên",
+    "Sinh con to > 3500g",
+    "Rách tầng sinh môn nhiều khi sinh",
+    "Mang song thai, tam thai",
+    "Tăng cân nhanh > 3kg mỗi tháng trong thai kỳ",
+    "Tiền sử són tiểu trong thai kỳ trước",
+    "Thời kỳ tiền mãn kinh và mãn kinh",
+    "Tập luyện thể dục sai cách",
+    "Thói quen kiêng khem không khoa học trong thời kỳ hậu sản"
+  ],
+  "complications": [
+    "Tiêu tiểu lắt nhắt hoặc khó tiêu tiểu",
+    "Sa các tạng hoàn toàn ra khỏi cửa mình gây mặc cảm, đau đớn",
+    "Trợt loét, chảy máu, nhiễm trùng vùng sinh dục",
+    "Ứ nước trên thận gây suy thận",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Mặc cảm, thiếu tự tin trong giao tiếp và công việc"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi tiền sử bệnh",
+      "Đánh giá triệu chứng rối loạn chức năng sàn chậu",
+      "Thăm khám vùng âm hộ, âm đạo, cổ tử cung"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đo niệu động học",
+        "description": "Đánh giá chức năng của đường tiết niệu dưới, bao gồm bàng quang và niệu đạo trong khi đổ đầy và đi tiểu"
+      },
+      {
+        "name": "Chụp cộng hưởng từ sàn chậu",
+        "description": "Cho hình ảnh chi tiết về cấu trúc sàn chậu và các tạng trong vùng chậu"
+      },
+      {
+        "name": "Siêu âm kiểm tra tử cung và hai phần phụ",
+        "description": "Đánh giá tình trạng của tử cung, buồng trứng và các cơ quan trong vùng chậu"
+      },
+      {
+        "name": "Đánh giá sức cơ sàn chậu",
+        "description": "Kiểm tra sức co của các cơ sàn chậu, độ giãn, tình trạng sa các cơ quan vào trong âm đạo"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị rối loạn sàn chậu cần được cá thể hóa và chuyên sâu từng trường hợp để có giải pháp phù hợp nhất, mang lại kết quả tốt nhất.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Vật lý trị liệu sàn chậu",
+        "description": "Tập luyện các bài tập sàn chậu dưới sự hướng dẫn của chuyên viên, giúp cải thiện sức mạnh của cơ sàn chậu"
+      },
+      {
+        "name": "Tập phản hồi sinh học và kích thích điện cơ sàn chậu",
+        "description": "Sử dụng máy tập chuyên dụng giúp tập co đúng nhóm cơ sàn chậu, cải thiện nhanh chóng tình trạng rối loạn chức năng"
+      },
+      {
+        "name": "Đặt vòng nâng tử cung",
+        "description": "Đặt dụng cụ nâng đỡ để ngăn sa tử cung hoặc các tạng khác ra khỏi âm đạo"
+      },
+      {
+        "name": "Phẫu thuật may sửa khép nhỏ âm đạo",
+        "description": "Can thiệp phẫu thuật để sửa chữa âm đạo giãn rộng, sẹo xấu gây co kéo, đau cứng âm đạo"
+      },
+      {
+        "name": "Phẫu thuật treo nâng tử cung, bàng quang, trực tràng",
+        "description": "Phục hồi cấu trúc nâng đỡ sàn chậu qua ngả âm đạo hoặc ngả phẫu thuật nội soi ổ bụng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thay đổi thói quen sinh hoạt và chế độ ăn uống",
+      "Tập thể dục sàn chậu đúng cách dưới sự hướng dẫn của chuyên gia",
+      "Tham gia các gói tập sàn chậu phù hợp với tình trạng bệnh",
+      "Khám đánh giá sàn chậu sau sinh, đặc biệt sau các cuộc sinh khó",
+      "Kiểm soát cân nặng trong thai kỳ",
+      "Duy trì thói quen tập luyện sàn chậu thường xuyên"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +121,58 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập luyện cơ sàn chậu đúng cách từ trước khi mang thai",
+      "Duy trì cân nặng hợp lý trong thai kỳ",
+      "Thăm khám sàn chậu định kỳ trong thai kỳ, đặc biệt với nhóm nguy cơ cao",
+      "Thăm khám đánh giá sàn chậu sau sinh dù sinh ngả âm đạo hay sinh mổ",
+      "Không tập các bài tập thể dục sai cách trong thời kỳ hậu sản",
+      "Tránh các thói quen kiêng khem không khoa học sau sinh",
+      "Phục hồi độ săn chắc của sàn chậu trước khi trở lại các hoạt động thể thao mạnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn sàn chậu là bệnh gì?",
+      "answer": "Rối loạn sàn chậu là những tác động được gây ra bởi sức nặng khi mang thai và áp lực căng giãn của cuộc sinh khiến chức năng cơ sàn chậu của người phụ nữ không thể hoạt động bình thường. Bệnh lý này xảy ra khá phổ biến ở phụ nữ với tần suất gấp 4 lần nam giới, do liên quan trực tiếp đến mang thai, sanh nở, thiếu hụt nội tiết giai đoạn tiền mãn kinh và mãn kinh."
+    },
+    {
+      "question": "Ai cần khám sàn chậu trong thai kỳ?",
+      "answer": "Những phụ nữ cần khám sàn chậu trong thai kỳ bao gồm: sản phụ có tiền sử mang thai lần trước bị són tiểu, sinh con to > 3500g hoặc rách tầng sinh môn nhiều; mang thai con lần thứ 3; mang song thai, tam thai; tăng cân nhanh, > 3kg mỗi tháng; ước lượng thai lần này sinh ra > 3500g; có triệu chứng của bệnh sàn chậu như sa tử cung, són tiểu, tiểu lắt nhắt, són hơi, són phân, táo bón, đau khớp vệ, đau lưng."
+    },
+    {
+      "question": "Lợi ích của việc tập luyện cơ sàn chậu là gì?",
+      "answer": "Tập luyện cơ sàn chậu có thể giúp ngăn ngừa và điều trị hiệu quả 80% bệnh són tiểu, tiểu đêm hay mắc tiểu không cầm được, són hơi, són phân cho phụ nữ mang thai và sau sinh. Bên cạnh đó, việc tập luyện đúng cách còn giúp ngăn ngừa hiện tượng sa các tạng trong vùng chậu như sa tử cung, bàng quang, trực tràng, đồng thời cải thiện hoặc tăng cảm giác tình dục."
+    },
+    {
+      "question": "Chương trình khám sàn chậu sau sinh gồm những gì?",
+      "answer": "Chương trình khám sàn chậu sau sinh gồm: thăm khám tổng quát, đánh giá phục hồi sức khỏe sau sinh; tư vấn nuôi con bằng sữa mẹ, ngừa thai; thăm khám đánh giá chức năng sàn chậu; tư vấn điều trị: chế độ dinh dưỡng, sinh hoạt, tập vật lý trị liệu sàn chậu, tập phản hồi sinh học, kích thích điện cơ, tập luyện bàng quang và ruột, tập săn chắc âm đạo và các điều trị chuyên sâu khác."
+    },
+    {
+      "question": "Khi nào nên đi khám sàn chậu sau sinh?",
+      "answer": "Theo khuyến cáo hiện nay, tất cả phụ nữ sau sinh (dù sinh ngả âm đạo hay sinh mổ) cần được khám đánh giá chức năng sàn chậu ít nhất 1 lần bởi bác sĩ chuyên khoa sàn chậu. Việc thăm khám có thể trong vòng 2-3 ngày sau sinh (trước khi xuất viện) đặc biệt ngay sau các cuộc sinh khó, sinh dụng cụ, sinh con to ngả âm đạo hoặc thời điểm 1 tháng, 3 tháng sau sinh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như són tiểu sau khi sinh con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-san-chau"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tiểu nhiều lần và tiểu không hết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-san-chau", "viem-duong-tiet-nieu"]
+    },
+    {
+      "question": "Tôi hay bị són hơi và són phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-san-chau"]
+    },
+    {
+      "question": "Tôi bị giãn rộng âm đạo sau sinh và giao hợp giảm cảm giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-san-chau"]
+    },
+    {
+      "question": "Tôi cảm thấy có khối phồng ở âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-san-chau", "sa-tu-cung", "sa-bang-quang"]
     }
   ]
 }

@@ -1,39 +1,94 @@
 {
   "disease_id": "tinh-hoan-an",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tinh hoàn ẩn",
+  "disease_alternative_names": [
+    "Ẩn tinh hoàn",
+    "Undescended testicle",
+    "Cryptorchidism"
+  ],
+  "disease_definition": "Tinh hoàn ẩn là tình trạng trẻ sinh ra mà một hay cả hai tinh hoàn không di chuyển xuống bìu hay nằm ở vị trí khác ngoài bìu. Trong thời kỳ bào thai, hai tinh hoàn của thai nhi nằm tại vị trí phía sau sát hai thận. Khi thai nhi khoảng 8 tuần tuổi, hai tinh hoàn đã di chuyển từ bụng qua bẹn, xuống bìu trước khi trẻ sinh ra.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có tinh hoàn trong bìu",
+      "description": "Không thể sờ thấy tinh hoàn trong túi bìu khi khám"
+    },
+    {
+      "name": "Túi bìu nhỏ và xẹp",
+      "description": "Bìu kém phát triển, đặc biệt nếu tinh hoàn ẩn ở vị trí cao"
+    },
+    {
+      "name": "Túi bìu không cân đối",
+      "description": "Một bên bìu bình thường, trong khi bên còn lại bị nhỏ hay xẹp lép (trong trường hợp ẩn một bên)"
+    },
+    {
+      "name": "Khối u nổi lên ở ống bẹn",
+      "description": "Sờ thấy tinh hoàn ẩn tại ống bẹn như một khối u nhỏ"
+    },
+    {
+      "name": "Chỉ sờ thấy một bên tinh hoàn",
+      "description": "Một tinh hoàn phát triển bình thường ở bìu, tinh hoàn còn lại không tìm thấy"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tinh hoàn ẩn xảy ra khi quá trình di chuyển tự nhiên của tinh hoàn từ bụng xuống bìu bị gián đoạn. Trong quá trình phát triển bình thường, tinh hoàn hình thành trong bụng thai nhi và di chuyển xuống bìu trước khi sinh.",
+    "related_factors": "Rối loạn trục hạ đồi – tuyến yên – tuyến sinh dục; sự sai lệch tổng hợp testosterone do thiếu men 17α-hydroxylase, 5α-reductase; hội chứng giảm khả năng cảm nhận của những thụ thể androgen; thai phụ sử dụng diethylstilbestrol hoặc thuốc kháng androgen; sự bất thường trong quá trình phát triển của dây chằng tinh hoàn-bìu; những yếu tố cơ học gây cản trở như cuống mạch tinh hoàn ngắn, xơ hóa vùng ống bẹn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ sinh non",
+    "Cân nặng thấp khi sinh (dưới 0,9kg)",
+    "Tiền sử gia đình có người bị bệnh về phát triển hệ sinh dục",
+    "Mắc các bệnh lý thai nhi ngăn cản tăng trưởng như hội chứng Down",
+    "Thai phụ lạm dụng rượu bia, thuốc lá trong thai kỳ",
+    "Thai phụ bị béo phì, tiểu đường",
+    "Bố mẹ thường xuyên tiếp xúc với thuốc trừ sâu",
+    "Khiếm khuyết thành bụng ở thai nhi"
+  ],
+  "complications": [
+    "Vô sinh",
+    "Xoắn tinh hoàn",
+    "Ung thư tinh hoàn",
+    "Chấn thương tinh hoàn",
+    "Thoát vị bẹn",
+    "Tổn thương tâm sinh lý"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để xác định tinh hoàn có nằm trong bìu hay không",
+      "Phân biệt với tinh hoàn co rút và tinh hoàn lạc chỗ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm bụng",
+        "description": "Giúp xác định vị trí chính xác của tinh hoàn ẩn và phát hiện các bất thường khác của tinh hoàn"
+      },
+      {
+        "name": "Nội soi ổ bụng",
+        "description": "Phương pháp thăm dò cao cấp để xác định vị trí tinh hoàn khi không thể xác định bằng các phương pháp khác"
+      },
+      {
+        "name": "Xét nghiệm nhiễm sắc thể",
+        "description": "Thực hiện trong một số trường hợp để phát hiện những bất thường về giới tính"
+      },
+      {
+        "name": "Xét nghiệm chỉ điểm khối u",
+        "description": "Kiểm tra αFP, β-HCG, LDH để phát hiện trường hợp u ác tính"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tình trạng tinh hoàn ẩn cần được phát hiện sớm và điều trị cho trẻ trước 18 tháng tuổi để đạt kết quả tốt nhất.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật đưa tinh hoàn xuống bìu (Orchiopexy)",
+        "description": "Phẫu thuật cắt bỏ dây treo tinh hoàn, giải phóng tinh hoàn và bó mạch tinh, tạo đường hầm cho tinh hoàn đi xuống bìu"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Điều trị càng sớm càng tốt, tốt nhất là trước 18 tháng tuổi",
+      "Theo dõi định kỳ sau phẫu thuật để đảm bảo tinh hoàn phát triển bình thường",
+      "Thăm khám thường xuyên khi trưởng thành để phát hiện sớm các biến chứng như ung thư tinh hoàn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +96,60 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thai phụ nên tránh rượu, bia, thuốc lá trong quá trình mang thai",
+      "Kiểm soát cân nặng và đường huyết trong thai kỳ",
+      "Hạn chế tiếp xúc với hóa chất, thuốc trừ sâu",
+      "Thăm khám thai kỳ đầy đủ",
+      "Trẻ sơ sinh nên được kiểm tra tinh hoàn trong các lần khám sức khỏe định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tinh hoàn ẩn có thể tự khỏi không?",
+      "answer": "Nhiều trường hợp tinh hoàn ẩn sau khi sinh sẽ tiếp tục tự di chuyển xuống bìu trước khi trẻ được 3 tháng tuổi. Tuy nhiên, khi trẻ 6 tháng tuổi, nếu tinh hoàn vẫn không nằm trong bìu, khi đó sẽ rất khó để tinh hoàn tự di chuyển xuống và cần có phương pháp điều trị thích hợp."
+    },
+    {
+      "question": "Tinh hoàn ẩn có ảnh hưởng đến khả năng sinh sản không?",
+      "answer": "Có, tinh hoàn ẩn có thể ảnh hưởng đến khả năng sinh sản. Nếu bị tinh hoàn ẩn một bên, vị trí ở ống bẹn, người bệnh có thể có số lượng tinh trùng bình thường. Trong khi, nếu bị tinh hoàn ẩn cả hai bên tại ống bẹn, có thể gây vô sinh. Người bệnh sau 5 tuổi nếu không được phẫu thuật, tỷ lệ vô sinh lên đến 75%."
+    },
+    {
+      "question": "Sự khác nhau giữa tinh hoàn ẩn và tinh hoàn lạc chỗ là gì?",
+      "answer": "Tinh hoàn ẩn là tình trạng tinh hoàn không nằm trong bìu mà nằm dọc theo đường đi của tinh hoàn như trong bụng, lỗ bẹn sâu, ống bẹn và lỗ bẹn nông. Tinh hoàn lạc chỗ là tình trạng tinh hoàn nằm ở vị trí khác (không nằm trên đường di chuyển của tinh hoàn từ bụng xuống bìu) như: tầng sinh môn, cân đùi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi bị rối loạn nội tiết tố và dị tật bẩm sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tinh hoàn ẩn",
+        "Hội chứng Klinefelter",
+        "Giảm năng sinh dục"
+      ]
+    },
+    {
+      "question": "Tôi bị suy tuyến yên và dương vật nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tinh hoàn ẩn",
+        "Hội chứng Kallmann",
+        "Giảm năng sinh dục nam"
+      ]
+    },
+    {
+      "question": "Tinh hoàn của tôi không di chuyển xuống bìu sau 6 tháng tuổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tinh hoàn ẩn",
+        "Tinh hoàn co rút",
+        "Tinh hoàn lạc chỗ"
+      ]
+    },
+    {
+      "question": "Tôi sờ thấy khối u nổi lên ở ống bẹn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tinh hoàn ẩn", "Thoát vị bẹn", "U tinh hoàn"]
+    },
+    {
+      "question": "Tôi bị ẩn tinh hoàn một bên và lo lắng về khả năng sinh sản. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tinh hoàn ẩn", "Vô sinh nam", "Giảm tinh trùng"]
     }
   ]
 }

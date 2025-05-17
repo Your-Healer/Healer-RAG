@@ -1,39 +1,112 @@
 {
   "disease_id": "roi-loan-nhip-cham",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn nhịp chậm",
+  "disease_alternative_names": ["Nhịp tim chậm", "Bradycardia"],
+  "disease_definition": "Rối loạn nhịp chậm là tình trạng nhịp tim dưới 60 lần/phút lúc nghỉ ngơi. Trong khi đó, nhịp tim của người bình thường là nhịp xoang, dao động từ 60 - 100 lần/phút lúc nghỉ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Choáng váng hoặc chóng mặt",
+      "description": "Cảm giác xây xẩm, quay cuồng hoặc mất thăng bằng, đặc biệt là khi thay đổi tư thế đột ngột"
+    },
+    {
+      "name": "Ngất xỉu hoặc cảm giác sẽ sắp ngất",
+      "description": "Mất ý thức tạm thời hoặc cảm giác sắp ngất do thiếu máu lên não"
+    },
+    {
+      "name": "Mệt mỏi, yếu sức",
+      "description": "Cảm giác mệt mỏi kéo dài và giảm khả năng gắng sức khi vận động"
+    },
+    {
+      "name": "Nặng ngực, tức ngực",
+      "description": "Cảm giác đau hoặc khó chịu vùng ngực, có thể giống như cảm giác bị đè nén"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác thiếu không khí hoặc khó hít thở sâu, đặc biệt khi hoạt động"
+    },
+    {
+      "name": "Suy giảm trí nhớ",
+      "description": "Khó tập trung, khó ghi nhớ thông tin mới hoặc quên những điều đã nhớ trước đây"
+    },
+    {
+      "name": "Ăn ít hơn bình thường",
+      "description": "Giảm cảm giác thèm ăn, ăn ít đi so với thông thường, đặc biệt phổ biến ở trẻ sơ sinh"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy giảm chức năng nút tạo nhịp của tim (suy nút xoang) hoặc sự dẫn truyền nhịp trong tim bị bất thường (nghẽn đường dẫn truyền).",
+    "related_factors": "Bệnh tim bẩm sinh, bệnh mạch vành tim, lão hóa mô tim, sau phẫu thuật tim, nhiễm trùng nặng, ngưng thở khi ngủ, rối loạn điện giải, suy giáp, bệnh miễn dịch, hoặc tác dụng phụ của thuốc điều trị tăng huyết áp, suy tim.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (lão hóa mô tim)",
+    "Bệnh tim bẩm sinh",
+    "Bệnh mạch vành",
+    "Tiền sử phẫu thuật tim",
+    "Suy giáp",
+    "Bệnh tự miễn (Lupus ban đỏ hệ thống)",
+    "Sử dụng một số loại thuốc tim mạch",
+    "Ngưng thở khi ngủ"
+  ],
+  "complications": [
+    "Ngất xỉu do thiếu máu lên não",
+    "Giảm khả năng vận động, hoạt động thể lực",
+    "Suy giảm chất lượng cuộc sống",
+    "Các biến chứng tim mạch nghiêm trọng",
+    "Tử vong nếu không được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi tiền sử bệnh",
+      "Kiểm tra mạch và nghe nhịp tim"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Ghi lại hoạt động điện của tim trong thời gian ngắn để đánh giá nhịp tim"
+      },
+      {
+        "name": "Holter ECG",
+        "description": "Đo điện tim liên tục trong thời gian dài (24 giờ hoặc nhiều ngày) để phát hiện rối loạn nhịp tim"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra các chỉ số sinh hóa, điện giải, hormone giáp để tìm nguyên nhân gây rối loạn nhịp chậm"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá cấu trúc và chức năng của tim"
+      },
+      {
+        "name": "Khảo sát điện sinh lý",
+        "description": "Đánh giá khả năng hoạt động của nút xoang và đường dẫn truyền trong tim"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị rối loạn nhịp chậm sẽ tùy thuộc vào các triệu chứng và nguyên nhân gây ra bệnh. Nếu bệnh có nhịp chậm nhưng xuất phát từ thay đổi sinh lý bình thường thì việc điều trị và can thiệp thường không cần thiết.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều chỉnh thuốc",
+        "description": "Thay đổi, điều chỉnh lại liều lượng hoặc ngừng sử dụng một số loại thuốc gây ra tình trạng nhịp tim chậm"
+      },
+      {
+        "name": "Cấy máy tạo nhịp tim",
+        "description": "Thiết bị được cấy dưới da gần vùng tim, phát xung động giúp nhịp tim bình thường trở lại, áp dụng cho các trường hợp rối loạn nhịp chậm có triệu chứng hoặc do bệnh lý nặng không hồi phục"
+      },
+      {
+        "name": "Điều trị nguyên nhân gây rối loạn nhịp",
+        "description": "Điều trị các bệnh lý nền như suy giáp, rối loạn điện giải, nhiễm trùng, hoặc các bệnh tim mạch gây ra rối loạn nhịp chậm"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng phác đồ điều trị của bác sĩ tim mạch",
+      "Thăm khám định kỳ để theo dõi nhịp tim",
+      "Từ bỏ các thói quen xấu như hút thuốc lá, uống rượu bia",
+      "Duy trì chế độ dinh dưỡng khoa học, bổ sung thực phẩm tốt cho tim mạch",
+      "Tăng cường các hoạt động thể chất phù hợp",
+      "Cân bằng công việc và cuộc sống, tránh áp lực, căng thẳng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +114,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát sớm các bệnh lý tim mạch",
+      "Khám sức khỏe định kỳ",
+      "Duy trì lối sống lành mạnh",
+      "Bổ sung các thực phẩm tốt cho tim mạch",
+      "Hạn chế rượu bia, không hút thuốc lá",
+      "Tăng cường vận động thể chất",
+      "Kiểm soát tốt các bệnh mạn tính như tăng huyết áp, đái tháo đường"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn nhịp chậm là gì?",
+      "answer": "Rối loạn nhịp chậm là tình trạng nhịp tim dưới 60 lần/phút lúc nghỉ ngơi. Trong khi đó, nhịp tim của người bình thường là nhịp xoang, dao động từ 60 - 100 lần/phút lúc nghỉ. Tuy nhiên, nhịp tim chậm không phải lúc nào cũng là bệnh lý, một số người như vận động viên thể thao hoặc khi đang ngủ có thể có nhịp tim chậm do sinh lý bình thường."
+    },
+    {
+      "question": "Nguyên nhân gây ra rối loạn nhịp chậm là gì?",
+      "answer": "Rối loạn nhịp chậm có thể do nhiều nguyên nhân như: suy giảm chức năng nút tạo nhịp của tim (suy nút xoang), nghẽn đường dẫn truyền, lão hóa mô tim, bệnh tim bẩm sinh, bệnh mạch vành tim, sau phẫu thuật tim, nhiễm trùng nặng, ngưng thở khi ngủ, rối loạn điện giải, suy giáp, bệnh miễn dịch, hoặc tác dụng phụ của một số loại thuốc điều trị tăng huyết áp và suy tim."
+    },
+    {
+      "question": "Rối loạn nhịp chậm có nguy hiểm không?",
+      "answer": "Rối loạn nhịp chậm nếu không được can thiệp xử trí kịp thời và đúng cách có thể dẫn đến các triệu chứng như hoa mắt, chóng mặt, khó thở, mệt mỏi. Trường hợp nặng có thể dẫn đến ngất xỉu do thiếu máu lên não, thậm chí gây tử vong. Tuy nhiên, nếu được phát hiện sớm và điều trị đúng cách, người bệnh có thể kiểm soát tốt tình trạng này."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán rối loạn nhịp chậm?",
+      "answer": "Rối loạn nhịp chậm được chẩn đoán thông qua việc khám lâm sàng, đo điện tâm đồ (ECG), đo Holter ECG (đo điện tim liên tục trong 24 giờ hoặc nhiều ngày). Ngoài ra, bác sĩ có thể chỉ định thêm các xét nghiệm như xét nghiệm máu, siêu âm tim, khảo sát điện sinh lý để tìm ra nguyên nhân gây ra rối loạn nhịp chậm."
+    },
+    {
+      "question": "Rối loạn nhịp chậm được điều trị như thế nào?",
+      "answer": "Việc điều trị rối loạn nhịp chậm phụ thuộc vào các triệu chứng và nguyên nhân. Nếu nhịp chậm xuất phát từ sinh lý bình thường (như ở vận động viên), thường không cần điều trị. Nếu do tác dụng phụ của thuốc, bác sĩ có thể điều chỉnh liều lượng hoặc thay đổi thuốc. Trường hợp có triệu chứng rõ rệt hoặc do bệnh lý nặng không hồi phục, bệnh nhân có thể cần cấy máy tạo nhịp tim để duy trì nhịp tim ổn định."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như choáng váng và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-nhip-cham",
+        "ha-huyet-ap",
+        "roi-loan-tien-dinh"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, yếu sức, và giảm khả năng gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-nhip-cham", "thieu-mau", "suy-tim"]
+    },
+    {
+      "question": "Tôi hay bị ngất xỉu hoặc cảm giác sắp ngất. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-nhip-cham", "ha-huyet-ap", "benh-van-tim"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nặng ngực, tức ngực, và khó chịu vùng ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-nhip-cham",
+        "benh-dong-mach-vanh",
+        "viem-mang-phoi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở và suy giảm trí nhớ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-nhip-cham",
+        "suy-tim",
+        "benh-phoi-tac-nghen-man-tinh"
+      ]
     }
   ]
 }

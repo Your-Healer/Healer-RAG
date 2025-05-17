@@ -1,39 +1,108 @@
 {
   "disease_id": "roi-loan-lo-au",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn lo âu",
+  "disease_alternative_names": ["Anxiety Disorder", "Rối loạn cảm xúc lo âu"],
+  "disease_definition": "Rối loạn lo âu là một rối loạn cảm xúc đặc trưng bởi cảm giác lo sợ lan tỏa, khó chịu mơ hồ kèm theo các triệu chứng thần kinh tự chủ như đau đầu, vã mồ hôi, hồi hộp, siết chặt ở ngực, khô miệng, khó chịu ở thượng vị, bứt rứt không thể ngồi yên hay đứng yên một chỗ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Hoảng loạn và sợ hãi",
+      "description": "Cảm thấy không chắc chắn, không an toàn và lo lắng mơ hồ không có lý do rõ ràng"
+    },
+    {
+      "name": "Khó ngủ",
+      "description": "Sợ hãi, lo lắng cả trong giấc ngủ, có thể gặp ác mộng thường xuyên"
+    },
+    {
+      "name": "Bồn chồn hoặc căng thẳng",
+      "description": "Không thể giữ bình tĩnh, đứng yên một chỗ hoặc khó kiểm soát lo lắng"
+    },
+    {
+      "name": "Triệu chứng thể chất",
+      "description": "Lạnh, tê ở tay chân, đổ mồ hôi nhiều, tim đập nhanh, khô miệng, buồn nôn, cơ bắp căng thẳng, chóng mặt"
+    },
+    {
+      "name": "Khó tập trung",
+      "description": "Giảm khả năng tập trung vào công việc, dễ mất tập trung do lo lắng quá mức"
+    },
+    {
+      "name": "Suy nghĩ ám ảnh",
+      "description": "Ám ảnh về một vấn đề nhiều lần, suy nghĩ lặp đi lặp lại không kiểm soát được"
+    },
+    {
+      "name": "Hành vi nghi thức",
+      "description": "Có những hành vi lặp đi lặp lại như rửa tay, kiểm tra khóa cửa quá nhiều lần"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rối loạn lo âu có thể do kết hợp nhiều yếu tố khác nhau và khó xác định nguyên nhân chính xác cho mỗi cá nhân.",
+    "related_factors": "Di truyền, sang chấn tâm lý ở thuở nhỏ, tính cách dễ lo âu, stress kéo dài, các yếu tố sinh hóa thần kinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Có người thân trong gia đình mắc bệnh về tâm lý",
+    "Tiền sử bị sang chấn tâm lý",
+    "Có tính cách dễ lo âu, nhút nhát",
+    "Chịu stress kéo dài, căng thẳng từ gia đình, công việc",
+    "Lạm dụng chất kích thích hoặc thuốc",
+    "Phụ nữ có nguy cơ mắc cao hơn nam giới"
+  ],
+  "complications": [
+    "Ảnh hưởng đến công việc, hiệu quả làm việc giảm",
+    "Gây khó khăn trong các mối quan hệ",
+    "Giảm chất lượng cuộc sống",
+    "Tăng nguy cơ mắc trầm cảm",
+    "Lạm dụng thuốc, rượu để đối phó với lo âu",
+    "Ảnh hưởng đến sức khỏe thể chất"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Trò chuyện lâm sàng với chuyên gia tâm lý, tâm thần",
+      "Đánh giá triệu chứng theo tiêu chí DSM (Diagnostic and Statistical Manual of Mental Disorders)",
+      "Loại trừ các bệnh lý khác"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đánh giá tâm lý",
+        "description": "Thông qua trò chuyện và thăm khám với bác sĩ tâm lý, tâm thần để đánh giá mức độ lo âu"
+      },
+      {
+        "name": "Bộ câu hỏi đánh giá mức độ lo âu",
+        "description": "Sử dụng các bộ câu hỏi chuẩn hóa để đánh giá mức độ nghiêm trọng của triệu chứng"
+      },
+      {
+        "name": "Xét nghiệm loại trừ",
+        "description": "Xét nghiệm để loại trừ các bệnh lý cơ thể gây ra triệu chứng tương tự lo âu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị hiệu quả nhất của rối loạn lo âu là điều trị kết hợp các liệu pháp tâm lý và điều trị thuốc. Việc điều trị đòi hỏi nhiều thời gian, dù là điều trị với thuốc hay tâm lý.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Liệu pháp tâm lý trị liệu",
+        "description": "Tâm lý gia sẽ hỗ trợ tâm lý thông qua các cuộc trò chuyện nhằm giúp người bệnh hiểu về tình trạng, nguyên nhân và tìm hướng giải quyết phù hợp"
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Dùng thuốc có thể kéo dài từ 6 tháng đến 1 năm hoặc hơn tùy tình hình, cần tái khám đều đặn để điều chỉnh liều phù hợp"
+      },
+      {
+        "name": "Thư giãn và thiền",
+        "description": "Các kỹ thuật thư giãn, thiền, hít thở sâu để giảm lo âu"
+      },
+      {
+        "name": "Tập thể dục",
+        "description": "Các hoạt động thể chất như đi bộ, chạy bộ, bơi lội, yoga giúp giảm lo âu hiệu quả"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Dành thời gian cho bản thân mỗi ngày để thư giãn",
+      "Tập luyện thể dục đều đặn",
+      "Chăm sóc giấc ngủ tốt",
+      "Tránh các thức uống có caffein hoặc chất kích thích",
+      "Tập luyện hít thở sâu",
+      "Tuân thủ lịch tái khám và điều trị của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +110,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Quản lý stress thông qua các kỹ thuật thư giãn",
+      "Duy trì lối sống lành mạnh",
+      "Tập thể dục thường xuyên",
+      "Giữ chế độ ngủ nghỉ điều độ",
+      "Tránh caffeine, rượu và thuốc lá",
+      "Tìm kiếm sự hỗ trợ từ gia đình, bạn bè",
+      "Tìm hiểu về bệnh và cách đối phó",
+      "Khám sức khỏe tâm thần định kỳ nếu có yếu tố nguy cơ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn lo âu có phải là trầm cảm không?",
+      "answer": "Trầm cảm và lo lắng là những tình trạng khác nhau, nhưng chúng thường xảy ra cùng nhau. Lo âu có thể xảy ra như một triệu chứng của trầm cảm. Người bệnh cũng thường mắc trầm cảm do rối loạn lo âu gây ra, chẳng hạn như rối loạn lo âu tổng quát, rối loạn hoảng sợ."
+    },
+    {
+      "question": "Khám rối loạn lo âu ở bệnh viện nào?",
+      "answer": "Người mắc rối loạn lo âu có thể thăm khám tại các bệnh viện đa khoa, nơi có nhiều chuyên khoa kết hợp để được thăm khám toàn diện. Nên tìm đến các bác sĩ chuyên khoa tâm lý, tâm thần để được đánh giá, tư vấn và điều trị đúng cách."
+    },
+    {
+      "question": "Rối loạn lo âu có mấy loại?",
+      "answer": "Rối loạn lo âu có nhiều loại, bao gồm: Rối loạn lo âu lan tỏa (lo âu toàn thể) - lo lắng quá mức về nhiều vấn đề; Rối loạn ám ảnh cưỡng chế (OCD) - suy nghĩ ám ảnh và hành vi lặp đi lặp lại; Rối loạn hoảng loạn - những cơn hoảng sợ đột ngột và dữ dội; và Rối loạn lo âu xã hội (ám ảnh xã hội) - lo sợ trong các tình huống xã hội."
+    },
+    {
+      "question": "Rối loạn lo âu có thể tự khỏi không?",
+      "answer": "Rối loạn lo âu thường không tự khỏi mà có xu hướng trở nên tồi tệ hơn nếu không được điều trị. Tuy nhiên, với sự hỗ trợ chuyên môn phù hợp kết hợp với tự chăm sóc bản thân, người bệnh có thể kiểm soát được triệu chứng và cải thiện chất lượng cuộc sống. Điều quan trọng là phải tìm kiếm sự giúp đỡ sớm từ các chuyên gia."
+    },
+    {
+      "question": "Có thể dự phòng rối loạn lo âu không?",
+      "answer": "Không thể hoàn toàn phòng ngừa rối loạn lo âu, nhưng có thể giảm thiểu nguy cơ mắc bệnh bằng cách: duy trì lối sống lành mạnh, tập thể dục thường xuyên, hạn chế sử dụng caffeine và rượu, học cách quản lý stress, chăm sóc giấc ngủ tốt và tìm kiếm sự hỗ trợ khi cần thiết. Nếu có dấu hiệu lo âu, hãy tìm kiếm trợ giúp sớm từ các chuyên gia sức khỏe tâm thần."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay cảm thấy lo lắng và sợ hãi quá mức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-lo-au", "roi-loan-lo-au-lan-toa"]
+    },
+    {
+      "question": "Tôi đang gặp khó khăn trong việc kiểm soát nỗi sợ hãi của mình. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-lo-au", "roi-loan-hoang-loan"]
+    },
+    {
+      "question": "Tôi bị hoảng loạn và cảm thấy không an toàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-lo-au", "roi-loan-hoang-loan"]
+    },
+    {
+      "question": "Tôi bị khó ngủ và hay gặp ác mộng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-lo-au", "roi-loan-giac-ngu", "tram-cam"]
+    },
+    {
+      "question": "Tôi không thể giữ bình tĩnh và hay lo lắng về mọi thứ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-lo-au", "roi-loan-lo-au-lan-toa"]
     }
   ]
 }

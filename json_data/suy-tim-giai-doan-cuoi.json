@@ -1,39 +1,130 @@
 {
   "disease_id": "suy-tim-giai-doan-cuoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy tim giai đoạn cuối",
+  "disease_alternative_names": [
+    "Bệnh tim giai đoạn cuối",
+    "Suy tim mạn tính giai đoạn cuối"
+  ],
+  "disease_definition": "Suy tim giai đoạn cuối là dạng suy tim nặng nhất trong tất cả các giai đoạn bệnh. Ở giai đoạn cuối này, tim bị tổn thương đáng kể và không thể bơm đủ máu đáp ứng nhu cầu của cơ thể. Người bệnh có thể cảm thấy khó thở ngay cả khi đang nghỉ ngơi và các triệu chứng có thể dao động trong nhiều giờ hoặc nhiều ngày.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Vấn đề về giấc ngủ",
+      "description": "Khó thở khi nằm đầu thấp, thường phải thức giấc vào ban đêm để thở"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở khi đi bộ quãng đường ngắn hoặc ngay cả khi đang ngồi yên"
+    },
+    {
+      "name": "Ho khan",
+      "description": "Ho thường xuyên trong ngày và đờm có thể có màu hồng nhạt (lẫn máu)"
+    },
+    {
+      "name": "Phù nề tay chân",
+      "description": "Sưng bàn chân, mắt cá chân, cẳng chân hoặc ở bụng do máu tích tụ"
+    },
+    {
+      "name": "Ăn ít",
+      "description": "Không cảm thấy đói và ăn ít hơn trong các bữa ăn"
+    },
+    {
+      "name": "Đi tiểu nhiều lần vào ban đêm",
+      "description": "Phải thức dậy đi tiểu nhiều lần vào ban đêm do cơ thể loại bỏ dịch dư thừa"
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Cảm giác tim đập quá nhanh hoặc quá mạnh"
+    },
+    {
+      "name": "Cảm thấy lo lắng",
+      "description": "Lo lắng quá mức về sức khỏe, kèm theo đổ mồ hôi"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Luôn cảm thấy mệt mỏi, kể cả khi đang nghỉ ngơi"
+    },
+    {
+      "name": "Tăng cân do ứ đọng dịch",
+      "description": "Tăng cân dù ăn ít do sự tích tụ dịch trong cơ thể"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy tim giai đoạn cuối phát triển từ suy tim khi các phương pháp điều trị không còn kiểm soát hiệu quả các triệu chứng và bệnh tiến triển nặng theo thời gian.",
+    "related_factors": "Các nguyên nhân phổ biến bao gồm bệnh động mạch vành (động mạch vành bị tắc nghẽn hoặc thu hẹp), bệnh cơ tim không do thiếu máu cục bộ (do di truyền, thuốc, nhiễm trùng), bệnh van tim, bệnh tim bẩm sinh, tăng huyết áp, đái tháo đường và ngưng thở khi ngủ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thừa cân, béo phì",
+    "Hút thuốc lá",
+    "Thiếu máu",
+    "Rung nhĩ",
+    "Lupus ban đỏ",
+    "Bệnh đái tháo đường, đặc biệt là type 2",
+    "Bệnh lý tuyến giáp như suy giáp, cường giáp",
+    "Viêm cơ tim",
+    "Rối loạn nhịp tim",
+    "Hemochromatosis (tích tụ sắt trong mô)",
+    "Chứng amyloidosis (lắng đọng protein bất thường)"
+  ],
+  "complications": [
+    "Suy thận do lưu lượng máu đến thận giảm",
+    "Vấn đề về van tim do các buồng tim giãn to và áp lực trong tim cao",
+    "Rối loạn nhịp tim nguy hiểm như rung thất, nhịp nhanh thất, rung nhĩ",
+    "Tổn thương gan và xơ gan do tích tụ dịch"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá các triệu chứng và tiền sử bệnh",
+      "Kiểm tra các tình trạng sức khỏe khác như đái tháo đường, bệnh thận, đau ngực",
+      "Xem xét tiền sử gia đình về bệnh tim hoặc đột tử",
+      "Đánh giá thói quen hút thuốc, uống rượu",
+      "Kiểm tra lịch sử hóa trị và/hoặc xạ trị"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Khảo sát bất thường nhịp tim"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra nhiễm trùng, đánh giá chức năng thận và mức peptide natri lợi niệu trong não (NT-pro BNP)"
+      },
+      {
+        "name": "Chụp MRI tim",
+        "description": "Cung cấp hình ảnh có độ phân giải cao của tim, đánh giá thay đổi cấu trúc và sẹo"
+      },
+      {
+        "name": "Thông tim",
+        "description": "Xác định các tắc nghẽn trong động mạch và kiểm tra lưu lượng máu cùng áp suất trong tâm thất"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Giúp xác định bệnh van tim, bệnh cơ tim bẩm sinh, bệnh tim do thiếu máu cục bộ hoặc bệnh cơ tim giãn nở"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Khi người bệnh bị suy tim giai đoạn cuối, việc thực hiện các hoạt động thường ngày như tắm hoặc đi bộ trong nhà sẽ trở nên khó khăn. Người bệnh có thể phải nhập viện để dùng thuốc tiêm tĩnh mạch, liệu pháp oxy hoặc các phương pháp điều trị can thiệp khác.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thiết bị cấy ghép",
+        "description": "Cấy máy khử rung tim vào ngực của người bệnh để chuyển về nhịp tim xoang trong trường hợp có cơn nhịp nhanh thất hoặc rung thất"
+      },
+      {
+        "name": "Cấy ghép tim",
+        "description": "Thủ thuật xâm lấn nhằm thay thế quả tim bị bệnh bằng một quả tim khỏe mạnh khác, sau đó cần dùng thuốc để cơ thể chấp nhận trái tim mới"
+      },
+      {
+        "name": "Chăm sóc giảm nhẹ",
+        "description": "Tập trung làm giảm các triệu chứng và sự khó chịu do bệnh gây ra, cải thiện chất lượng cuộc sống cho người bệnh"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chặt chẽ việc uống thuốc theo chỉ định của bác sĩ",
+      "Theo dõi và báo cáo bất kỳ triệu chứng mới hoặc xấu đi",
+      "Hạn chế lượng muối và nước tiêu thụ theo hướng dẫn",
+      "Nghỉ ngơi khi cần thiết và tránh các hoạt động gắng sức"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +132,66 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ngưng hút thuốc và tránh xa khói thuốc",
+      "Ăn theo chế độ dinh dưỡng tốt cho tim mạch: ít chất béo bão hòa, chất béo chuyển hóa, đường và natri",
+      "Bổ sung trái cây, rau quả, sữa ít béo, protein nạc và chất béo lành mạnh từ dầu ô liu, cá, quả bơ",
+      "Tuân thủ chặt chẽ chương trình điều trị đối với các bệnh tim mạch",
+      "Thăm khám định kỳ và dùng thuốc đầy đủ theo chỉ định",
+      "Duy trì thái độ tích cực, tránh lo lắng và trầm cảm",
+      "Kiểm soát căng thẳng để tâm lý thoải mái, vui vẻ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tỷ lệ sống sót của người bệnh suy tim giai đoạn cuối như thế nào?",
+      "answer": "Tỷ lệ tử vong của bệnh suy tim giai đoạn cuối có thể cao hơn 75%. Tuổi thọ của người bệnh phụ thuộc vào mức độ nghiêm trọng của các triệu chứng và đáp ứng với điều trị."
+    },
+    {
+      "question": "Suy tim giai đoạn cuối có chữa được không?",
+      "answer": "Suy tim giai đoạn cuối không thể chữa khỏi hoàn toàn, nhưng có thể kiểm soát bằng các phương pháp điều trị như cấy ghép thiết bị, ghép tim hoặc chăm sóc giảm nhẹ. Mục tiêu chính là cải thiện chất lượng cuộc sống và làm chậm tiến triển của bệnh."
+    },
+    {
+      "question": "Những dấu hiệu nào cho thấy suy tim đang tiến triển đến giai đoạn cuối?",
+      "answer": "Một số dấu hiệu bao gồm: khó thở ngay cả khi nghỉ ngơi, mệt mỏi liên tục, phù nề tay chân dù đã dùng thuốc lợi tiểu, không thể thực hiện các hoạt động hàng ngày, thường xuyên phải nhập viện vì các triệu chứng suy tim, và suy giảm chức năng thận."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó thở, ho khan và phù nề tay chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim giai đoạn cuối",
+        "Suy thận",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim giai đoạn cuối",
+        "Rối loạn nhịp tim",
+        "Cường giáp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khó thở khi nằm đầu thấp và thức giấc vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim giai đoạn cuối",
+        "Hen phế quản",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó thở khi đi bộ một quãng ngắn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim giai đoạn cuối",
+        "Bệnh phổi tắc nghẽn mạn tính",
+        "Thiếu máu nặng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng phù bàn chân, mắt cá chân, cẳng chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim giai đoạn cuối", "Suy thận", "Xơ gan"]
     }
   ]
 }

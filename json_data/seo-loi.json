@@ -1,39 +1,103 @@
 {
   "disease_id": "seo-loi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sẹo lồi",
+  "disease_alternative_names": ["Keloid", "Sẹo phì đại", "Sẹo cứng phát triển"],
+  "disease_definition": "Sẹo lồi là loại sẹo nổi gồ ghề trên bề mặt da do tăng sinh mô sợi quá nhiều so với vết thương và gây sẹo. Cụ thể, khi da bị thương, mô sợi hình thành để hồi phục vết thương. Thế nhưng, ở một số người, các mô sợi này tăng sinh quá mức tạo thành khối cứng, căng bóng gọi là sẹo lồi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nổi gồ ghề trên bề mặt da",
+      "description": "Vùng da bị thương nổi gồ ghề, cứng và căng bóng, vượt ra ngoài ranh giới của vết thương ban đầu"
+    },
+    {
+      "name": "Màu đỏ, hồng hoặc tím",
+      "description": "Ban đầu, sẹo lồi có màu đỏ, hồng hoặc tím, sau đó chuyển sang màu sẫm hơn da xung quanh"
+    },
+    {
+      "name": "Ngứa hoặc đau",
+      "description": "Người bệnh thường cảm thấy ngứa hoặc đau khi sẹo lồi đang phát triển, giảm dần khi sẹo ngừng phát triển"
+    },
+    {
+      "name": "Cứng và căng bóng",
+      "description": "Sẹo lồi có dạng khối cứng, căng bóng, không có lông trên bề mặt"
+    },
+    {
+      "name": "Lan rộng ra ngoài vết thương ban đầu",
+      "description": "Sẹo lồi phát triển vượt ra ngoài ranh giới của vết thương ban đầu, xâm lấn sang vùng da bình thường lân cận"
+    },
+    {
+      "name": "Phát triển trong thời gian dài",
+      "description": "Sẹo lồi có xu hướng phát triển chậm, lan rộng trong nhiều tuần, vài tháng, vài năm"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Cơ thể sản xuất collagen quá mức trong quá trình lành vết thương, khiến các mô bị thừa, lồi lên trên da.",
+    "related_factors": "Xỏ lỗ tai, nổi mụn trứng cá hoặc thủy đậu, vết thương (vết thủng, bỏng, vết cắt, vết cạo râu, vết cắn của động vật, phẫu thuật, thủ thuật, tiêm).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người có da sẫm màu (da đen, châu Á) do sản sinh nhiều melanin",
+    "Yếu tố di truyền (nếu người thân trong gia đình từng bị sẹo lồi)",
+    "Độ tuổi từ 10-30 tuổi (collagen hoạt động mạnh hơn)",
+    "Mang thai (do sự thay đổi nội tiết tố)",
+    "Đã từng có sẹo lồi trước đó"
+  ],
+  "complications": [
+    "Gây ngứa, đau, khó chịu",
+    "Ảnh hưởng thẩm mỹ làm người bệnh không tự tin",
+    "Hạn chế vận động nếu sẹo lồi hình thành ở các khớp",
+    "Tự kỷ, trầm cảm khi sẹo lồi xuất hiện ở vùng da lộ như mặt, cổ",
+    "Có thể tái phát sau điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: quan sát và sờ vết sẹo",
+      "Khai thác tiền sử bệnh và gia đình"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sinh thiết da",
+        "description": "Bác sĩ da liễu gây tê và mổ cắt sang thương da rồi gửi đến khoa giải phẫu bệnh để kiểm tra dưới kính hiển vi, chủ yếu để loại trừ ung thư da khi sẹo lồi quá phát"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Sẹo lồi khó chữa dứt điểm, thường phát triển trở lại ngay cả sau khi được phẫu thuật cắt bỏ. Cần kết hợp nhiều phương pháp điều trị để đạt hiệu quả tốt nhất.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Băng ép với vải co giãn",
+        "description": "Tạo áp lực lên vết thương 12-24 giờ mỗi ngày, kéo dài 4-6 tháng, áp dụng cho sẹo lồi mới và sau phẫu thuật"
+      },
+      {
+        "name": "Kem corticosteroid",
+        "description": "Bôi kem corticosteroid theo toa bác sĩ để giúp giảm ngứa và làm mềm sẹo"
+      },
+      {
+        "name": "Tiêm cortisone hoặc steroid",
+        "description": "Tiêm vào sẹo hàng tháng (tối đa 6 tháng) để làm giảm độ dày của sẹo, nhưng có thể gây tác dụng phụ như làm mỏng da, nổi vân mạng nhện, thay đổi màu da"
+      },
+      {
+        "name": "Áp lạnh (đông lạnh bằng nitơ lỏng)",
+        "description": "Giúp làm giảm hoặc loại bỏ các sẹo lồi nhỏ, nhưng có thể gây phồng rộp, đau, mất màu da"
+      },
+      {
+        "name": "Điều trị bằng laser",
+        "description": "Giúp làm phẳng sẹo lồi lớn, giảm ngứa, làm mờ sẹo qua nhiều phiên laser (từ 4-8 tuần giữa các phiên), có thể kết hợp với tiêm cortisone"
+      },
+      {
+        "name": "Phóng xạ",
+        "description": "Sử dụng bức xạ (Photpho 32 hoặc tia X) mức độ thấp để thu nhỏ hoặc giảm mô sợi tạo sẹo, nhưng có nguy cơ gây biến chứng ung thư da"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Loại bỏ sẹo lồi bằng phẫu thuật kết hợp với các phương pháp khác khi các phương pháp trên không hiệu quả"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đầy đủ hướng dẫn của bác sĩ trong điều trị",
+      "Chăm sóc vết thương đúng cách để ngăn ngừa sẹo lồi tái phát",
+      "Thăm khám định kỳ để theo dõi tình trạng sẹo",
+      "Cân nhắc các tác dụng phụ của phương pháp điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +105,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không xỏ lỗ tai, xỏ khuyên trên cơ thể",
+      "Không xăm mình, hạn chế các thủ thuật thẩm mỹ",
+      "Chăm sóc mọi vết thương ngay lập tức (dù vết thương nhỏ)",
+      "Liên hệ bác sĩ da liễu để được hướng dẫn cụ thể về cách chăm sóc, băng bó vết thương đúng cách",
+      "Nếu cần phẫu thuật, hãy thảo luận với bác sĩ về nguy cơ sẹo lồi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sẹo lồi là gì?",
+      "answer": "Sẹo lồi là loại sẹo nổi gồ ghề trên bề mặt da do tăng sinh mô sợi quá nhiều so với vết thương. Khi da bị thương, mô sợi hình thành để hồi phục vết thương, nhưng ở một số người, các mô sợi này tăng sinh quá mức tạo thành khối cứng, căng bóng gọi là sẹo lồi. Sẹo lồi vượt ra ngoài ranh giới của vết thương ban đầu, xâm lấn sang vùng da bình thường lân cận."
+    },
+    {
+      "question": "Sẹo lồi có nguy hiểm không?",
+      "answer": "Sẹo lồi không gây nguy hiểm đến sức khỏe và không phải là bệnh lây nhiễm hay ung thư. Tuy nhiên, sẹo lồi có thể gây ngứa, đau, khó chịu và ảnh hưởng thẩm mỹ, khiến người bệnh không tự tin, đặc biệt khi sẹo ở vùng như cánh tay, chân, mặt."
+    },
+    {
+      "question": "Ai dễ bị sẹo lồi nhất?",
+      "answer": "Người có nguy cơ cao bị sẹo lồi bao gồm: người da đen hoặc châu Á do có nhiều melanin, người có tiền sử gia đình bị sẹo lồi, người trong độ tuổi từ 10-30 (do collagen hoạt động mạnh hơn trong độ tuổi này), và phụ nữ mang thai do sự thay đổi nội tiết tố."
+    },
+    {
+      "question": "Sẹo lồi có chữa được không?",
+      "answer": "Sẹo lồi khó chữa dứt điểm và thường phát triển trở lại ngay cả sau khi được phẫu thuật cắt bỏ. Tuy nhiên, có nhiều phương pháp điều trị có thể giúp làm giảm kích thước và cải thiện ngoại hình của sẹo lồi như: băng ép, kem corticosteroid, tiêm steroid, áp lạnh, laser, phóng xạ và phẫu thuật."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa sẹo lồi?",
+      "answer": "Để phòng ngừa sẹo lồi, đặc biệt nếu có cơ địa dễ bị sẹo lồi, nên: Không xỏ lỗ tai hoặc xỏ khuyên trên cơ thể; Không xăm mình hoặc thực hiện thủ thuật thẩm mỹ không cần thiết; Chăm sóc mọi vết thương ngay lập tức, dù là vết thương nhỏ; Tham khảo ý kiến bác sĩ da liễu về cách chăm sóc vết thương đúng cách."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang cảm thấy vùng da bị thương của mình nổi gồ ghề, cứng và căng bóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["seo-loi", "seo-phi-dai", "u-xe-lung"]
+    },
+    {
+      "question": "Tôi thấy vết sẹo của mình có màu đỏ, hồng hoặc tím và ngày càng sậm màu hơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["seo-loi", "seo-phi-dai"]
+    },
+    {
+      "question": "Tôi hay bị ngứa hoặc đau ở vùng da bị sẹo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["seo-loi", "viem-da", "di-ung-da"]
+    },
+    {
+      "question": "Tôi thấy vết sẹo của mình phát triển nhanh chóng và lan rộng ra xung quanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["seo-loi", "seo-phi-dai"]
+    },
+    {
+      "question": "Tôi thấy vết sẹo của mình có dạng cục, bóng và không có lông. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["seo-loi", "u-da-lanh-tinh"]
     }
   ]
 }

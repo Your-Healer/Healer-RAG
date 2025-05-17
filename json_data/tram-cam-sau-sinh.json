@@ -1,39 +1,149 @@
 {
   "disease_id": "tram-cam-sau-sinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Trầm cảm sau sinh",
+  "disease_alternative_names": [
+    "Hội chứng trầm cảm sau sinh",
+    "PPD",
+    "Rối loạn cảm xúc sau sinh"
+  ],
+  "disease_definition": "Trầm cảm sau sinh (PPD) là tình trạng người phụ nữ bị rối loạn cảm xúc, thay đổi về thể chất và tâm lý, hành vi sau khi sinh con. Họ thường có suy nghĩ tiêu cực, mệt mỏi, cáu gắt, buồn chán, lo lắng nhiều vấn đề trong đời sống. Rối loạn này dễ gặp ở bất kỳ người mẹ nào, nhưng chiếm tỷ lệ cao nhất ở phụ nữ lần đầu sinh con và bệnh thường phát triển trong vòng 1 năm đầu sau sinh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thay đổi cảm xúc, tâm trạng thất thường",
+      "description": "Cảm xúc thay đổi thất thường, chán nản, bồn chồn, ủ rũ không rõ nguyên nhân"
+    },
+    {
+      "name": "Khóc lóc thường xuyên",
+      "description": "Hay khóc, thậm chí khóc vô cớ mà không giải thích được lý do"
+    },
+    {
+      "name": "Xa lánh người thân",
+      "description": "Ít nói chuyện, xa lánh gia đình và bạn bè, không muốn tiếp xúc xã hội"
+    },
+    {
+      "name": "Rối loạn ăn uống",
+      "description": "Chán ăn hoặc ăn nhiều hơn bình thường, không theo quy luật"
+    },
+    {
+      "name": "Rối loạn giấc ngủ",
+      "description": "Mất ngủ triền miên hoặc ngủ quá nhiều, không thể nghỉ ngơi hợp lý"
+    },
+    {
+      "name": "Mệt mỏi quá mức",
+      "description": "Cảm giác mệt mỏi kéo dài, không có năng lượng dù đã ngủ đủ giấc"
+    },
+    {
+      "name": "Suy nghĩ, phản ứng chậm chạp",
+      "description": "Suy nghĩ, hành động, phản ứng chậm hoặc lặp lại, khó tập trung"
+    },
+    {
+      "name": "Mất hứng thú với mọi hoạt động",
+      "description": "Không có hứng thú hay niềm vui với các hoạt động xung quanh, kể cả những điều từng yêu thích"
+    },
+    {
+      "name": "Cáu gắt, dễ nổi giận",
+      "description": "Dễ cáu gắt, khó chịu và tức giận với mọi người xung quanh, kể cả con cái"
+    },
+    {
+      "name": "Lo lắng về khả năng làm mẹ",
+      "description": "Tâm trạng lo âu mình không phải là một người mẹ tốt, hoài nghi khả năng chăm sóc con"
+    },
+    {
+      "name": "Xa lánh con cái",
+      "description": "Không có hứng thú với em bé hoặc cảm thấy em bé dường như không phải là con của mình"
+    },
+    {
+      "name": "Giảm khả năng tập trung",
+      "description": "Giảm trí nhớ, giảm khả năng suy nghĩ tập trung hoặc đưa ra quyết định"
+    },
+    {
+      "name": "Ý nghĩ tiêu cực",
+      "description": "Suy nghĩ làm hại bản thân hoặc em bé, thường xuyên nghĩ về cái chết hoặc tự tử"
+    },
+    {
+      "name": "Lo ngại về ngoại hình",
+      "description": "Lo lắng về ngoại hình sau sinh, tăng cân mất kiểm soát hoặc sụt cân bất thường"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện nay, khoa học vẫn chưa kết luận được nguyên nhân dẫn đến trầm cảm sau khi sinh con ở phụ nữ, do phụ thuộc vào thể chất, tinh thần và hoàn cảnh của mỗi sản phụ.",
+    "related_factors": "Các yếu tố liên quan bao gồm: thay đổi nội tiết tố (sự sụt giảm đột ngột của estrogen và progesterone sau khi sinh), tiền sử rối loạn tâm lý, sức khỏe giảm sút sau sinh, đau đớn trong quá trình sinh nở, khó khăn khi chăm sóc trẻ sơ sinh và yếu tố kinh tế, đời sống không thuận lợi.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác tại thời điểm mang thai (tuổi càng trẻ, tỷ lệ trầm cảm càng cao)",
+    "Mâu thuẫn về việc mang thai",
+    "Tiền sử gia đình có người bị rối loạn tâm thần",
+    "Trải qua sự kiện cực kỳ căng thẳng, như mất việc làm hoặc khủng hoảng sức khỏe",
+    "Trẻ sinh ra yếu ớt, dễ bệnh, hoặc phát hiện dị tật, gặp nhiều vấn đề sức khỏe",
+    "Phụ nữ sinh đôi, hoặc sinh ba, hoặc có nhiều con rồi sinh thêm",
+    "Sống một mình, bị hạn chế giúp đỡ do dịch bệnh",
+    "Xung đột hôn nhân sau khi sinh con, bạo lực gia đình",
+    "Thiếu ngủ và quá tải vì thức đêm chăm con dài ngày",
+    "Lo ngại về ngoại hình, tăng cân mất kiểm soát sau sinh",
+    "Tiền sử trầm cảm trước hoặc trong khi mang thai"
+  ],
+  "complications": [
+    "Phát triển thành bệnh rối loạn tâm thần nặng nếu không điều trị kịp thời",
+    "Tăng nguy cơ tự tử hoặc có hành động tự hủy hoại bản thân",
+    "Ảnh hưởng đến khả năng chăm sóc con cái",
+    "Con của người mẹ trầm cảm có thể chậm phát triển ngôn ngữ, vận động",
+    "Con có thể hạn chế khả năng giao tiếp và khó hòa nhập xã hội",
+    "Con có thể có những hành vi bất thường hoặc dễ kích động",
+    "Người chồng hoặc người thân sống cùng có nguy cơ mắc bệnh trầm cảm cao",
+    "Ảnh hưởng đến mối quan hệ vợ chồng và hạnh phúc gia đình",
+    "Tăng nguy cơ trầm cảm tái phát trong tương lai"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá các triệu chứng trầm cảm sau sinh thông qua phỏng vấn và quan sát",
+      "Kiểm tra sau sinh sớm để tìm kiếm các triệu chứng trầm cảm",
+      "Phân biệt các mức độ trầm cảm: Baby blues, Hội chứng trầm cảm sau sinh, Rối loạn tâm thần sau sinh",
+      "Theo dõi thời gian xuất hiện và kéo dài của các triệu chứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đánh giá tâm lý",
+        "description": "Bác sĩ đánh giá mức độ trầm cảm thông qua các câu hỏi về tâm trạng, cảm xúc và hành vi"
+      },
+      {
+        "name": "Thang đo trầm cảm Edinburgh",
+        "description": "Bảng câu hỏi đánh giá các triệu chứng trầm cảm sau sinh"
+      },
+      {
+        "name": "Xét nghiệm nội tiết tố",
+        "description": "Kiểm tra mức độ hormone để loại trừ các vấn đề về tuyến giáp hoặc rối loạn nội tiết khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tình trạng này có thể tự khỏi, hoặc điều trị thành công bằng cách dùng thuốc kết hợp với tâm lý trị liệu, kèm theo chế độ ăn uống nghỉ ngơi, vận động phù hợp. Thời gian điều trị trầm cảm có thể kéo dài từ 1-6 tháng, hoặc lâu hơn, tùy thuộc vào mức độ bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Tâm lý trị liệu",
+        "description": "Nói chuyện với bác sĩ tâm lý sẽ giúp phụ nữ sau sinh thay đổi suy nghĩ, cảm xúc bản thân. Có thể tham gia hội nhóm để được hỗ trợ tâm lý"
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Thuốc ngủ để giải quyết mất ngủ và thuốc chống trầm cảm theo phác đồ riêng do bác sĩ kê toa"
+      },
+      {
+        "name": "Nhập viện điều trị",
+        "description": "Trong trường hợp trầm cảm sau sinh nặng hoặc rối loạn tâm thần sau sinh, có thể cần phải nhập viện để theo dõi và điều trị tích cực"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ khi em bé ngủ",
+      "Chia sẻ công việc chăm sóc em bé với người thân",
+      "Giữ liên lạc với gia đình và bạn bè",
+      "Dành thời gian cho bản thân",
+      "Tránh cô lập xã hội",
+      "Nói chuyện về cảm xúc của mình",
+      "Tránh đặt quá nhiều kỳ vọng vào bản thân",
+      "Tập thể dục nhẹ nhàng khi có thể",
+      "Ăn uống lành mạnh",
+      "Tham gia các nhóm hỗ trợ cho các bà mẹ trầm cảm sau sinh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +151,73 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám sức khỏe tiền sản, đặc biệt với phụ nữ từng có tiền sử mắc các bệnh tâm lý",
+      "Tham gia khóa học tiền sản để có kiến thức và tinh thần chuẩn bị đón con",
+      "Yêu cầu giúp đỡ từ chồng, người thân trong việc cùng chăm sóc trẻ",
+      "Không đặt quá áp lực cho bản thân trong việc chăm con",
+      "Tăng cường đi dạo, ăn uống hợp lý",
+      "Nói chuyện trao đổi với bác sĩ khi gặp khó khăn trong việc chăm trẻ",
+      "Tranh thủ thời gian ngủ nghỉ hợp lý để phòng ngừa mệt mỏi",
+      "Chia sẻ cảm xúc với người thân, bạn bè",
+      "Duy trì các mối quan hệ xã hội",
+      "Nếu từng bị trầm cảm, cần báo với bác sĩ để có kế hoạch dự phòng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Trầm cảm sau sinh có nguy hiểm không?",
+      "answer": "Trầm cảm sau sinh có thể gây ra nhiều hậu quả nghiêm trọng. Nếu không được phát hiện và điều trị kịp thời, bệnh có thể phát triển thành rối loạn tâm thần, khiến người mẹ mất tự chủ, xuất hiện hành động tự hủy hoại bản thân, thậm chí có thể dẫn đến tự tử hoặc gây hại cho em bé. Ngoài ra, bệnh còn ảnh hưởng đến sự phát triển của trẻ và mối quan hệ gia đình."
+    },
+    {
+      "question": "Trầm cảm sau sinh kéo dài trong bao lâu?",
+      "answer": "Thời gian kéo dài của trầm cảm sau sinh phụ thuộc vào từng trường hợp cụ thể. Baby blues thường chỉ kéo dài từ 3-10 ngày sau sinh và tự hết trong vòng hai tuần. Hội chứng trầm cảm sau sinh thường xuất hiện sau 3 tuần đầu sau sinh và có xu hướng kéo dài hơn, có thể từ vài tháng đến một năm nếu không được điều trị. Điều trị trầm cảm có thể kéo dài từ 1-6 tháng hoặc lâu hơn tùy thuộc vào mức độ bệnh."
+    },
+    {
+      "question": "Có thể phòng ngừa trầm cảm sau sinh không?",
+      "answer": "Trầm cảm sau sinh hoàn toàn có thể phòng ngừa chủ động dưới sự hướng dẫn của bác sĩ, sự quan tâm từ gia đình, và trang bị kỹ năng làm cha mẹ. Các biện pháp phòng ngừa bao gồm: khám sức khỏe tiền sản, tham gia khóa học chuẩn bị làm cha mẹ, yêu cầu giúp đỡ từ người thân, không đặt quá áp lực trong việc chăm con, đảm bảo ngủ nghỉ hợp lý, và trao đổi cởi mở về cảm xúc của mình."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay khóc lóc và ủ rũ sau khi sinh con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trầm cảm sau sinh",
+        "Baby blues",
+        "Rối loạn cảm xúc sau sinh"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như lo lắng, khóc, mất ngủ, mệt mỏi sau sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trầm cảm sau sinh",
+        "Rối loạn lo âu sau sinh",
+        "Baby blues"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy thiếu tập trung và khó khăn trong việc đưa ra quyết định sau sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trầm cảm sau sinh",
+        "Rối loạn tâm thần sau sinh",
+        "Mất ngủ sau sinh"
+      ]
+    },
+    {
+      "question": "Tôi hay chán ghét bản thân và có ý nghĩ tự tử sau khi sinh con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trầm cảm sau sinh nặng",
+        "Rối loạn tâm thần sau sinh",
+        "Trầm cảm lâm sàng"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy dễ kích động, lú lẫn, cáu gắt và mất ngủ sau sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Trầm cảm sau sinh",
+        "Rối loạn tâm thần sau sinh",
+        "Rối loạn lưỡng cực sau sinh"
+      ]
     }
   ]
 }

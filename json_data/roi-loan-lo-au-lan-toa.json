@@ -1,39 +1,121 @@
 {
   "disease_id": "roi-loan-lo-au-lan-toa",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn lo âu lan tỏa (GAD)",
+  "disease_alternative_names": [
+    "Rối loạn lo âu toàn thể",
+    "Generalized Anxiety Disorder",
+    "GAD"
+  ],
+  "disease_definition": "Rối loạn lo âu lan tỏa (GAD) là tình trạng sức khỏe tâm thần luôn ở trạng thái sợ hãi, lo lắng về các hoạt động xảy ra trong cuộc sống như: công việc, sức khỏe, gia đình. Đây là một rối loạn tâm lý phổ biến, ảnh hưởng đến khoảng 3% dân số ở tuổi trưởng thành.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Lo âu quá mức",
+      "description": "Lo lắng dai dẳng về nhiều việc, kể cả những việc nhỏ nhặt, thường kéo dài ít nhất 6 tháng"
+    },
+    {
+      "name": "Bồn chồn hoặc căng thẳng",
+      "description": "Cảm giác không thể thư giãn, luôn bồn chồn, bế tắc hoặc căng thẳng liên tục"
+    },
+    {
+      "name": "Dễ mệt mỏi",
+      "description": "Cảm thấy mệt mỏi, kiệt sức ngay cả khi không làm việc nhiều, có thể kèm khó thở, tim đập nhanh"
+    },
+    {
+      "name": "Khó tập trung",
+      "description": "Gặp khó khăn khi tập trung vào công việc hoặc các nhiệm vụ hàng ngày, thường thấy đầu óc trống rỗng"
+    },
+    {
+      "name": "Cáu gắt, bực dọc",
+      "description": "Dễ nổi cáu, bực tức với những tác nhân nhỏ, phản ứng quá mức với các tình huống"
+    },
+    {
+      "name": "Căng cơ",
+      "description": "Cảm giác căng thẳng ở các nhóm cơ, đặc biệt là ở vai, cổ và lưng"
+    },
+    {
+      "name": "Rối loạn giấc ngủ",
+      "description": "Khó đi vào giấc ngủ, khó duy trì giấc ngủ hoặc giấc ngủ không sâu, không ngon giấc"
+    },
+    {
+      "name": "Thiếu quyết đoán",
+      "description": "Thiếu tự tin và chần chừ trong việc đưa ra quyết định, sợ đưa ra quyết định sai lầm"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện vẫn chưa rõ nguyên nhân chính xác gây rối loạn lo âu lan tỏa, có thể là sự kết hợp của nhiều yếu tố khác nhau.",
+    "related_factors": "Di truyền, ám ảnh thời thơ ấu (từng bị lạm dụng), tình trạng sức khỏe đau đớn kéo dài, môi trường căng thẳng, tiền sử lạm dụng ma túy hoặc rượu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ (phụ nữ có khả năng mắc cao gấp đôi nam giới)",
+    "Người có tính khí nhút nhát, tiêu cực hoặc lảng tránh",
+    "Tiền sử gia đình có người mắc rối loạn lo âu",
+    "Từng trải qua những sự việc đau thương, tiêu cực trong quá khứ",
+    "Mắc các bệnh nội khoa mạn tính",
+    "Tiền sử lạm dụng chất kích thích"
+  ],
+  "complications": [
+    "Giảm chất lượng công việc do khó tập trung",
+    "Phân bổ thời gian không hợp lý",
+    "Tiêu hao năng lượng không cần thiết",
+    "Tăng nguy cơ trầm cảm",
+    "Các vấn đề về tiêu hóa hoặc đường ruột",
+    "Nhức đầu và đau nửa đầu",
+    "Vấn đề về giấc ngủ và chứng mất ngủ",
+    "Các bệnh lý tim mạch",
+    "Nguy cơ tự sát",
+    "Lạm dụng chất kích thích"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá tình trạng lo lắng quá mức trong ít nhất 6 tháng",
+      "Xác định khả năng kiểm soát lo lắng",
+      "Đánh giá mức độ ảnh hưởng đến cuộc sống hàng ngày",
+      "Loại trừ các nguyên nhân y khoa khác gây lo âu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm tuyến giáp",
+        "description": "Kiểm tra chức năng tuyến giáp để loại trừ các vấn đề về tuyến giáp gây ra triệu chứng lo âu"
+      },
+      {
+        "name": "Xét nghiệm đường huyết",
+        "description": "Kiểm tra mức đường huyết để loại trừ các vấn đề về tiểu đường hoặc hạ đường huyết"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá chức năng tim để loại trừ các vấn đề tim mạch gây ra triệu chứng lo âu"
+      },
+      {
+        "name": "Xét nghiệm chất kích thích",
+        "description": "Kiểm tra sự hiện diện của ma túy hoặc các chất kích thích khác trong cơ thể"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Rối loạn lo âu lan tỏa thường được điều trị bằng liệu pháp tâm lý, thuốc hoặc kết hợp cả hai. Hiệu quả điều trị phụ thuộc vào mức độ và nguyên nhân gây bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc chống trầm cảm",
+        "description": "Các thuốc SSRI (ức chế tái hấp thu serotonin có chọn lọc) và SNRI (ức chế tái hấp thu serotonin-norepinephrine) như escitalopram, duloxetine, venlafaxine và paroxetine"
+      },
+      {
+        "name": "Thuốc chống lo âu",
+        "description": "Benzodiazepines là thuốc an thần giúp kiểm soát lo âu nhanh chóng, hoặc Buspirone - loại thuốc cần 3-4 tuần để có hiệu quả hoàn toàn"
+      },
+      {
+        "name": "Liệu pháp hành vi – nhận thức (CBT)",
+        "description": "Giúp nhận ra và thay đổi những suy nghĩ tiêu cực, học cách kiểm soát lo lắng và áp dụng lối sống, thói quen lành mạnh hơn"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thực hiện lối sống lành mạnh, hạn chế caffeine, ngủ đủ giấc",
+      "Quản lý căng thẳng bằng yoga, thiền, tập thể dục đều đặn",
+      "Tránh sử dụng chất gây nghiện và rượu bia",
+      "Chia sẻ với người thân, bạn bè khi gặp căng thẳng",
+      "Duy trì chế độ ăn uống cân bằng, đầy đủ dinh dưỡng",
+      "Tuân thủ lịch trình điều trị và uống thuốc theo chỉ định"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +123,65 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế sử dụng caffeine, thực phẩm kích thích",
+      "Đảm bảo ngủ đủ giấc và có chất lượng",
+      "Luyện tập quản lý căng thẳng bằng yoga, thiền, hít thở sâu",
+      "Tránh sử dụng chất gây nghiện và rượu bia",
+      "Duy trì các mối quan hệ xã hội tốt, không cô lập bản thân",
+      "Ăn uống đầy đủ dinh dưỡng, tập thể dục đều đặn",
+      "Tìm kiếm sự hỗ trợ tâm lý khi cần thiết"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn lo âu lan tỏa có nguy hiểm không?",
+      "answer": "Rối loạn lo âu lan tỏa tuy không nguy hiểm trực tiếp đến tính mạng nhưng có thể gây nhiều hệ lụy như: tự cô lập bản thân, không thể chia sẻ cảm xúc với người xung quanh, giảm tập trung và chất lượng công việc, tăng nguy cơ mắc trầm cảm và có ý tưởng tự sát, dễ tìm đến các chất kích thích, và ảnh hưởng tiêu cực tới sức khỏe thể chất."
+    },
+    {
+      "question": "Rối loạn lo âu lan tỏa có chữa được không?",
+      "answer": "Có, rối loạn lo âu lan tỏa có thể điều trị bằng tâm lý trị liệu, thuốc hoặc kết hợp cả hai. Nếu người bệnh đáp ứng tốt, tình trạng sẽ cải thiện sau một khoảng thời gian. Hiệu quả điều trị phụ thuộc vào mức độ và nguyên nhân dẫn đến chứng rối loạn lo âu lan tỏa, nhưng hầu hết các trường hợp đều có thể kiểm soát được triệu chứng."
+    },
+    {
+      "question": "Rối loạn lo âu lan tỏa có di truyền không?",
+      "answer": "Có, di truyền là một trong những yếu tố nguy cơ gây rối loạn lo âu lan tỏa. Các nhà nghiên cứu đã chỉ ra rằng nếu có người thân trong gia đình mắc bệnh thì khả năng cao bạn cũng có nguy cơ bị rối loạn lo âu lan tỏa cao hơn người không có tiền sử gia đình."
+    },
+    {
+      "question": "Rối loạn lo âu lan tỏa có phải là trầm cảm không?",
+      "answer": "Không, trầm cảm và rối loạn lo âu lan tỏa là những tình trạng khác nhau nhưng thường xảy ra cùng nhau. Rối loạn lo âu lan tỏa có thể xảy ra như một triệu chứng của trầm cảm, hoặc trầm cảm có thể phát triển do hậu quả của rối loạn lo âu lan tỏa kéo dài không được điều trị."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ về rối loạn lo âu lan tỏa?",
+      "answer": "Bạn nên gặp bác sĩ khi: thấy bản thân đang lo lắng quá nhiều và điều đó ảnh hưởng đến công việc, mối quan hệ hoặc cuộc sống; cảm thấy chán nản, cáu kỉnh hoặc có lo lắng về sức khỏe tâm thần; hoặc có ý nghĩ tự tử. Những lo lắng thường không tự biến mất và có thể trở nên nghiêm trọng theo thời gian, nên việc điều trị sớm rất quan trọng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như lo lắng quá mức về những việc nhỏ nhặt và khó tập trung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-lo-au-lan-toa",
+        "tram-cam",
+        "roi-loan-stress"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy bồn chồn, căng thẳng, và dễ mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-lo-au-lan-toa", "roi-loan-giac-ngu"]
+    },
+    {
+      "question": "Tôi hay suy nghĩ quá nhiều về những kế hoạch và giải pháp cho mọi tình huống có thể xảy ra. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-lo-au-lan-toa",
+        "roi-loan-am-anh-cuong-che"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sợ đưa ra quyết định sai và không thể buông bỏ những lo lắng không cần thiết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-lo-au-lan-toa", "roi-loan-hoang-so"]
+    },
+    {
+      "question": "Tôi đang cảm thấy bế tắc, căng thẳng, và luôn thấy đầu óc trống rỗng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-lo-au-lan-toa", "tram-cam"]
     }
   ]
 }

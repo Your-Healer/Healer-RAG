@@ -1,39 +1,130 @@
 {
   "disease_id": "nhoi-mau-co-tim-khong-st-chenh-len",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Nhồi máu cơ tim không ST chênh lên",
+  "disease_alternative_names": [
+    "NSTEMI",
+    "Nhồi máu cơ tim cấp không ST chênh lên",
+    "Đau tim không ST chênh lên"
+  ],
+  "disease_definition": "Nhồi máu cơ tim không ST chênh lên (NSTEMI) xảy ra khi tổn thương mạch vành gây tắc nghẽn một phần, dẫn đến nhu cầu oxy của tim không được đáp ứng, gây tổn thương cơ tim. Tình trạng này được đặt tên như vậy vì không có dạng điện tâm đồ dễ nhận biết như nhồi máu cơ tim ST chênh lên. So với nhồi máu cơ tim có ST chênh lên (STEMI), tổn thương tim do NSTEMI cũng gây tổn thương nghiêm trọng nhưng ít biểu hiện triệu chứng và khó phát hiện hơn trên điện tâm đồ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau ngực (đau thắt ngực)",
+      "description": "Cảm giác đau, tức hoặc nặng nề ở vùng ngực, có thể lan đến các vùng khác của cơ thể."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở hoặc hụt hơi ngay cả khi không gắng sức."
+    },
+    {
+      "name": "Đau dạ dày và khó tiêu",
+      "description": "Đau dạ dày, cảm thấy khó tiêu, ợ chua thường bị nhầm lẫn với các vấn đề về tiêu hóa."
+    },
+    {
+      "name": "Buồn nôn và khó chịu",
+      "description": "Cảm giác buồn nôn, khó chịu trong người, thường đi kèm với các triệu chứng khác."
+    },
+    {
+      "name": "Chóng mặt và lâng lâng",
+      "description": "Cảm giác chóng mặt, lâng lâng, choáng váng do lưu lượng máu đến não giảm."
+    },
+    {
+      "name": "Ngất xỉu",
+      "description": "Mất ý thức tạm thời do tim không bơm đủ máu lên não."
+    },
+    {
+      "name": "Tim đập nhanh hoặc bất thường",
+      "description": "Cảm thấy tim đập nhanh, khó chịu với nhịp tim, có cảm giác tim đang bỏ nhịp hoặc tăng thêm nhịp tim."
+    },
+    {
+      "name": "Triệu chứng ở phụ nữ",
+      "description": "Phụ nữ có thể có triệu chứng khác như mệt mỏi, khó thở, mất ngủ trước cơn đau tim, đau lan tỏa đến hàm, cổ, vai, cánh tay, lưng hoặc bụng, và buồn nôn, ói mửa nhiều hơn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nhồi máu cơ tim không ST chênh lên bắt nguồn từ vấn đề tắc nghẽn một phần động mạch vành hoặc tắc nghẽn ở một nhánh của động mạch vành chính. Điều này khiến lưu lượng máu đến tim bị giảm, làm tổn thương tim và gây gián đoạn khả năng bơm máu.",
+    "related_factors": "Bệnh có thể xảy ra do nguyên nhân trực tiếp như mảng xơ vữa, co thắt mạch, thuyên tắc mạch vành, viêm cơ tim, chất độc, chấn thương đụng dập cơ tim; hoặc do nguyên nhân gián tiếp như tăng huyết áp nghiêm trọng, tụt huyết áp, nhịp tim nhanh, hẹp van động mạch chủ, thuyên tắc phổi.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá và thuốc lá điện tử",
+    "Chế độ ăn nhiều muối, đường hoặc chất béo",
+    "Thiếu hoạt động thể chất",
+    "Sử dụng ma túu, đặc biệt là các chất kích thích",
+    "Tuổi cao (nguy cơ tăng theo tuổi)",
+    "Giới tính (nam giới có xu hướng bị sớm hơn phụ nữ)",
+    "Tiền sử gia đình mắc bệnh tim",
+    "Tình trạng di truyền hoặc bẩm sinh ảnh hưởng đến tim mạch",
+    "Tăng huyết áp",
+    "Cholesterol cao",
+    "Đái tháo đường",
+    "Béo phì"
+  ],
+  "complications": [
+    "Đau ngực liên tục hoặc đau lan rộng",
+    "Khó thở nặng",
+    "Đổ mồ hôi lạnh",
+    "Tim đập nhanh bất thường",
+    "Buồn nôn hoặc nôn mửa tiếp diễn",
+    "Chóng mặt, choáng váng nghiêm trọng",
+    "Ngất xỉu hoặc mất ý thức",
+    "Suy tim",
+    "Rối loạn nhịp tim",
+    "Biến chứng huyết khối",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám trực tiếp và khai thác tiền sử bệnh",
+      "Đánh giá các triệu chứng lâm sàng",
+      "Theo dõi hoạt động điện của tim"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Phát hiện hoạt động điện của tim, có thể cho thấy ST chênh xuống, đảo ngược sóng T mới hoặc ST chênh lên thoáng qua trong NSTEMI"
+      },
+      {
+        "name": "Xét nghiệm máu tìm dấu ấn sinh học tim (troponin)",
+        "description": "Đo lượng troponin trong máu, tăng cao khi có tổn thương cơ tim, là xét nghiệm đáng tin cậy nhất để chẩn đoán đau tim"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Sử dụng sóng âm để tạo hình ảnh bên trong và bên ngoài tim, có thể thực hiện tại giường bệnh trong phòng cấp cứu"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (MSCT) mạch vành",
+        "description": "Sử dụng tia X và thuốc cản quang để tạo hình ảnh 3D về hệ mạch vành, giúp xác định mảng vôi hóa hoặc hẹp trong động mạch vành"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Sử dụng nam châm mạnh và phần mềm xử lý để tạo hình ảnh chi tiết về cấu trúc tim"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị nhồi máu cơ tim không ST chênh lên cần nhanh chóng phục hồi lưu lượng máu nuôi cơ tim. Phương pháp điều trị phụ thuộc vào mức độ nghiêm trọng và tình trạng cụ thể của bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Can thiệp mạch vành qua da (PCI)",
+        "description": "Thủ thuật đưa ống thông vào mạch máu đến tim, bơm bóng để thông tắc nghẽn và đặt stent (giá đỡ) giúp mạch máu mở ra và không bị xẹp lại."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc như aspirin hoặc thuốc chống kết tập tiểu cầu, thuốc chống đông máu, thuốc chẹn beta, nitroglycerin để giãn mạch, và statin để giảm cholesterol."
+      },
+      {
+        "name": "Phẫu thuật bắc cầu động mạch vành (CABG)",
+        "description": "Trong trường hợp nhiều động mạch bị tắc nghẽn nghiêm trọng, phẫu thuật tạo đường vòng quanh động mạch bị tắc để khôi phục lưu lượng máu."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng liệu trình dùng thuốc",
+      "Tham gia các chương trình phục hồi chức năng tim sau điều trị",
+      "Thực hiện theo dõi sức khỏe định kỳ sau điều trị",
+      "Kiểm soát các yếu tố nguy cơ có thể điều chỉnh như huyết áp, cholesterol",
+      "Báo cáo ngay cho bác sĩ nếu triệu chứng tái phát hoặc nặng lên"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +132,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì cân nặng hợp lý",
+      "Thực hiện chế độ ăn uống cân bằng (như chế độ ăn Địa Trung Hải)",
+      "Tập thể dục ít nhất 150 phút mỗi tuần với cường độ vừa phải",
+      "Quản lý tình trạng sức khỏe đã có (uống thuốc đúng theo hướng dẫn)",
+      "Bỏ thuốc lá",
+      "Hạn chế tiêu thụ rượu bia",
+      "Kiểm soát stress",
+      "Khám sức khỏe tim mạch định kỳ mỗi năm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nhồi máu cơ tim không ST chênh lên có nguy hiểm không?",
+      "answer": "Có, nhồi máu cơ tim không ST chênh lên cũng nguy hiểm như các loại đau tim khác và có thể gây tử vong nếu không được điều trị kịp thời. Mặc dù tổn thương thường nhỏ hơn so với nhồi máu cơ tim ST chênh lên, nhưng vẫn gây ra những tổn thương nghiêm trọng cho cơ tim và làm tăng nguy cơ các vấn đề tim mạch trong tương lai."
+    },
+    {
+      "question": "Làm thế nào để phân biệt triệu chứng nhồi máu cơ tim không ST chênh lên với các vấn đề khác?",
+      "answer": "Triệu chứng của nhồi máu cơ tim không ST chênh lên có thể dễ nhầm lẫn với các vấn đề khác như khó tiêu, đau cơ hoặc lo âu. Các dấu hiệu cần chú ý bao gồm: đau ngực hoặc khó chịu kéo dài hơn vài phút hoặc biến mất rồi quay trở lại; đau lan ra cánh tay, cổ, lưng hoặc hàm; khó thở; đổ mồ hôi lạnh; buồn nôn hoặc chóng mặt. Nếu nghi ngờ đau tim, hãy tìm kiếm sự trợ giúp y tế ngay lập tức, không nên tự chẩn đoán."
+    },
+    {
+      "question": "Sau khi điều trị nhồi máu cơ tim không ST chênh lên, tôi cần lưu ý gì?",
+      "answer": "Sau khi điều trị, bạn cần tuân thủ các hướng dẫn của bác sĩ, bao gồm: uống thuốc đúng liều và đúng thời điểm; thực hiện các thay đổi lối sống như chế độ ăn uống lành mạnh, tập thể dục đều đặn, bỏ thuốc lá; tham gia chương trình phục hồi chức năng tim; thăm khám định kỳ; và cảnh giác với các triệu chứng tái phát. Việc quản lý các yếu tố nguy cơ như huyết áp cao, cholesterol cao và đái tháo đường cũng rất quan trọng để ngăn ngừa các vấn đề tim mạch trong tương lai."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau ngực và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-co-tim-khong-st-chenh-len",
+        "nhoi-mau-co-tim",
+        "dau-that-nguc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau dạ dày, khó tiêu và ợ chua. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-co-tim-khong-st-chenh-len",
+        "trao-nguoc-da-day-thuc-quan",
+        "viem-loet-da-day"
+      ]
+    },
+    {
+      "question": "Tôi bị buồn nôn, khó chịu và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-co-tim-khong-st-chenh-len",
+        "roi-loan-tieu-hoa",
+        "rung-nhi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị lâng lâng, ngất xỉu và tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-co-tim-khong-st-chenh-len",
+        "roi-loan-nhip-tim",
+        "ha-duong-huyet"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lan tỏa đến hàm, cổ, vai, cánh tay, lưng hoặc bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "nhoi-mau-co-tim-khong-st-chenh-len",
+        "dau-that-nguc",
+        "viem-mang-phoi"
+      ]
     }
   ]
 }

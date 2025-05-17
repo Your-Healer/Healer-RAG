@@ -1,58 +1,208 @@
 {
   "disease_id": "tieu-duong-tuyp-1",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tiểu đường tuýp 1",
+  "disease_alternative_names": [
+    "Đái tháo đường type 1",
+    "Đái tháo đường phụ thuộc insulin",
+    "Đái tháo đường vị thành niên"
+  ],
+  "disease_definition": "Tiểu đường tuýp 1 là tình trạng bệnh lý xảy ra khi tuyến tụy không sản xuất được hoặc sản xuất rất ít insulin dẫn đến thiếu hụt insulin nội sinh nghiêm trọng. Insulin là hormone giúp đưa glucose trong máu vào các tế bào để tạo năng lượng. Nếu không có insulin, glucose tích tụ dần trong máu dẫn đến tăng đường máu, trong khi các tế bào lại bị \"đói năng lượng\". Bệnh thường được chẩn đoán ở trẻ em hoặc người trẻ và chiếm khoảng 5-10% trong số người mắc bệnh đái tháo đường.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đi tiểu nhiều",
+      "description": "Cơ thể tăng thải lượng đường dư thừa trong máu qua thận dẫn đến tình trạng tiểu nhiều"
+    },
+    {
+      "name": "Khát nước nhiều",
+      "description": "Khi có nhiều đường trong máu, cơ thể sẽ đi tiểu nhiều hơn để loại bỏ đường, dẫn đến tình trạng mất nước, khô miệng, khát nước"
+    },
+    {
+      "name": "Uống nước nhiều",
+      "description": "Khi cơ thể bị mất nước sẽ cố gắng bù trừ bằng cách uống nhiều nước, đặc biệt là các loại nước ngọt"
+    },
+    {
+      "name": "Giảm cân nhanh chóng",
+      "description": "Khi glucose đi ra ngoài cơ thể qua đường tiểu sẽ mang theo calo, khiến người bệnh giảm cân dù ăn bình thường"
+    },
+    {
+      "name": "Cảm thấy đói nhanh chóng",
+      "description": "Đói nhanh ngay cả sau khi ăn do tế bào không nhận được glucose làm năng lượng"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Mệt mỏi thường xuyên do tế bào không nhận được đủ glucose làm năng lượng"
+    },
+    {
+      "name": "Mờ mắt",
+      "description": "Thị lực giảm sút do thay đổi nồng độ dịch trong mắt khi đường huyết cao"
+    },
+    {
+      "name": "Nhiễm trùng da, đường tiết niệu hoặc âm đạo",
+      "description": "Thường xuyên bị nhiễm trùng do lượng đường cao tạo môi trường thuận lợi cho vi khuẩn và nấm phát triển"
+    },
+    {
+      "name": "Cáu kỉnh hoặc thay đổi tâm trạng",
+      "description": "Biến đổi tâm trạng thất thường do ảnh hưởng của lượng đường không ổn định"
+    },
+    {
+      "name": "Đái dầm mới xuất hiện",
+      "description": "Ở trẻ trước đó không có, tiểu đêm không tự chủ là dấu hiệu cảnh báo"
+    },
+    {
+      "name": "Bứt rứt, lú lẫn",
+      "description": "Dấu hiệu cảnh báo nghiêm trọng do biến đổi sâu về chuyển hóa và mất nước"
+    },
+    {
+      "name": "Thở nhanh sâu (nhịp thở Kussmaul)",
+      "description": "Dấu hiệu của nhiễm toan ceton đái tháo đường, cơ thể cố gắng thải CO2 để cân bằng độ pH"
+    },
+    {
+      "name": "Hơi thở có mùi trái cây",
+      "description": "Mùi táo chín, do cơ thể sản sinh ra ceton khi đốt chất béo thay vì đường"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Triệu chứng của nhiễm toan ceton hoặc rối loạn chuyển hóa nghiêm trọng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tiểu đường tuýp 1 xảy ra do tế bào beta ở tuyến tụy bị phá hủy khiến cơ thể không còn hoặc còn rất ít insulin.",
+    "related_factors": "Đến 95% trường hợp do cơ chế tự miễn (tuýp 1A) và 5% không rõ nguyên nhân (tuýp 1B). Ở tuýp 1A, hệ miễn dịch tấn công nhầm và phá hủy các tế bào có nhiệm vụ sản xuất insulin ở tuyến tụy. Các yếu tố môi trường như nhiễm virus có thể đóng vai trò kích hoạt phản ứng tự miễn này ở người có yếu tố di truyền nguy cơ cao.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người da trắng dễ mắc bệnh hơn so với những nhóm người khác",
+    "Dưới 20 tuổi",
+    "Có cha mẹ hoặc anh chị em ruột mắc đái tháo đường tuýp 1",
+    "Có một số gen nhất định làm tăng nguy cơ mắc bệnh",
+    "Tiếp xúc với một số virus có thể kích hoạt phản ứng tự miễn"
+  ],
+  "complications": [
+    "Bệnh tim và mạch máu (bệnh động mạch vành, đau thắt ngực, nhồi máu cơ tim, đột quỵ, xơ vữa động mạch, tăng huyết áp)",
+    "Tổn thương dây thần kinh gây ngứa ran, tê, rát hoặc đau ở chân và tay",
+    "Rối loạn tiêu hóa (buồn nôn, nôn mửa, tiêu chảy hoặc táo bón)",
+    "Rối loạn cương ở nam giới",
+    "Bệnh thận đái tháo đường có thể dẫn đến suy thận",
+    "Tổn thương mắt (bệnh võng mạc đái tháo đường, đục thủy tinh thể, tăng nhãn áp)",
+    "Bàn chân đái tháo đường có thể dẫn đến cắt cụt chi",
+    "Nhiễm trùng da và miệng",
+    "Bệnh nướu răng và khô miệng",
+    "Biến chứng khi mang thai (sảy thai, thai lưu, dị tật bẩm sinh, tiền sản giật)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá các triệu chứng lâm sàng điển hình",
+      "Phát hiện các dấu hiệu cảnh báo nghiêm trọng như bứt rứt, lú lẫn, thở nhanh sâu, hơi thở có mùi trái cây",
+      "Theo dõi sự xuất hiện của ketones trong máu và nước tiểu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm đường huyết khi đói",
+        "description": "Đo nồng độ glucose trong máu sau nhịn đói ít nhất 8 giờ"
+      },
+      {
+        "name": "Xét nghiệm máu tìm tự kháng thể",
+        "description": "Tìm các kháng thể tấn công tế bào tuyến tụy, thường xuất hiện trong đái tháo đường tuýp 1"
+      },
+      {
+        "name": "Xét nghiệm ketones",
+        "description": "Xét nghiệm máu hoặc nước tiểu để tìm ketones, chất được tạo ra khi cơ thể ly giải lipid để tạo năng lượng"
+      },
+      {
+        "name": "Đo HbA1c",
+        "description": "Đánh giá nồng độ đường huyết trung bình trong 2-3 tháng qua"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện tại, chưa có cách chữa khỏi hoàn toàn bệnh đái tháo đường tuýp 1, nhưng bệnh có thể điều trị thành công bằng cách kiểm soát lượng đường trong máu.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng insulin",
+        "description": "Người bệnh cần phải sử dụng insulin để kiểm soát lượng đường trong máu và cung cấp năng lượng cho cơ thể, có thể dùng dạng tiêm hoặc bơm tiêm tự động insulin"
+      },
+      {
+        "name": "Kiểm tra đường huyết thường xuyên",
+        "description": "Thường xuyên kiểm tra lượng đường trong máu để điều chỉnh liều insulin và duy trì đường huyết ở mức mục tiêu"
+      },
+      {
+        "name": "Thay đổi lối sống",
+        "description": "Giảm stress, hoạt động thể chất thường xuyên, ngủ đủ giấc, tập thể dục đều đặn"
+      },
+      {
+        "name": "Điều chỉnh chế độ ăn",
+        "description": "Xây dựng kế hoạch ăn uống lành mạnh để giúp ổn định đường huyết, dưới sự tư vấn của chuyên gia dinh dưỡng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thực hiện lối sống lành mạnh theo hướng dẫn của bác sĩ",
+      "Kiểm soát tốt lượng đường trong máu",
+      "Kiểm tra sức khỏe định kỳ",
+      "Học cách tự quản lý bệnh đái tháo đường",
+      "Thường xuyên kiểm tra chỉ số đường huyết",
+      "Cân bằng liều lượng insulin, bữa ăn và cường độ tập luyện",
+      "Theo dõi các dấu hiệu của biến chứng và thông báo cho bác sĩ kịp thời"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện tại chưa có vaccine để phòng ngừa đái tháo đường tuýp 1.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hiện tại, chưa có cách ngăn ngừa hiệu quả bệnh đái tháo đường tuýp 1",
+      "Người có tiền sử gia đình mắc bệnh nên được theo dõi các dấu hiệu sớm",
+      "Chế độ ăn và thói quen sinh hoạt không dẫn đến đái tháo đường tuýp 1",
+      "Theo dõi sức khỏe định kỳ để phát hiện sớm nếu thuộc nhóm nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Đái tháo đường tuýp 1 có di truyền không?",
+      "answer": "Bệnh đái tháo đường tuýp 1 không được xếp vào nhóm bệnh rối loạn di truyền trực tiếp, tuy nhiên một người có nhiều khả năng mắc bệnh hơn nếu có người thân trực hệ (cha mẹ hoặc anh chị em) mắc bệnh này. Nhiều người mang một số gen nhất định làm tăng nguy cơ, nhưng không phải tất cả đều mắc bệnh ngay cả khi có yếu tố gen di truyền. Thường cần có một yếu tố khởi phát từ môi trường, như nhiễm virus, đóng vai trò quan trọng trong việc phát triển bệnh."
+    },
+    {
+      "question": "Có thể chữa khỏi hoàn toàn tiểu đường tuýp 1 không?",
+      "answer": "Hiện tại, không có cách chữa khỏi hoàn toàn bệnh đái tháo đường tuýp 1. Tuy nhiên, bệnh có thể được kiểm soát hiệu quả bằng cách sử dụng insulin, thường xuyên kiểm tra đường huyết, thực hiện lối sống lành mạnh và chế độ ăn uống phù hợp. Với sự quản lý tốt, người bệnh có thể sống một cuộc sống bình thường và giảm thiểu nguy cơ biến chứng."
+    },
+    {
+      "question": "Triệu chứng đái tháo đường tuýp 1 là gì?",
+      "answer": "Các triệu chứng của đái tháo đường tuýp 1 bao gồm: đi tiểu nhiều, khát nước nhiều, uống nước nhiều, giảm cân nhanh chóng dù ăn bình thường, cảm thấy đói nhanh sau khi ăn, mệt mỏi, mờ mắt, nhiễm trùng thường xuyên, cáu kỉnh hoặc thay đổi tâm trạng. Trong các trường hợp nghiêm trọng có thể xuất hiện bứt rứt, lú lẫn, thở nhanh sâu, hơi thở có mùi trái cây, đau bụng và thậm chí mất ý thức."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đi tiểu nhiều và khát nước nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường tuýp 1",
+        "Tiểu đường tuýp 2",
+        "Đái tháo nhạt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy uống nước nhiều và giảm cân nhanh chóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường tuýp 1",
+        "Cường giáp",
+        "Rối loạn ăn uống"
+      ]
+    },
+    {
+      "question": "Tôi hay mệt mỏi và mờ mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiểu đường tuýp 1", "Tăng huyết áp", "Thiếu máu"]
+    },
+    {
+      "question": "Tôi thường xuyên bị nhiễm trùng da, đường tiết niệu hoặc âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiểu đường tuýp 1",
+        "Suy giảm miễn dịch",
+        "Nhiễm nấm Candida"
+      ]
+    },
+    {
+      "question": "Tôi cáu kỉnh và thay đổi tâm trạng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiểu đường tuýp 1", "Rối loạn nội tiết", "Trầm cảm"]
     }
   ]
 }

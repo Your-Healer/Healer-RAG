@@ -1,39 +1,128 @@
 {
   "disease_id": "protein-nieu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Protein niệu",
+  "disease_alternative_names": [
+    "Protein trong nước tiểu",
+    "Proteinuria",
+    "Albumin niệu"
+  ],
+  "disease_definition": "Protein niệu là thuật ngữ dùng để mô tả hàm lượng protein cao trong nước tiểu. Đây cũng có thể là dấu hiệu cảnh báo về tình trạng tổn thương thận. Protein là thành phần cấu trúc đóng vai trò rất quan trọng đối với cơ thể, cần được giữ lại trong máu, nếu rò rỉ vào nước tiểu sẽ gây hại cho sức khỏe tổng thể.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng phù nề",
+      "description": "Sưng (phù nề) ở mặt, bụng, bàn chân hoặc mắt cá chân do giảm protein máu gây thất thoát dịch ra ngoài mạch máu."
+    },
+    {
+      "name": "Đi tiểu thường xuyên",
+      "description": "Tần suất đi tiểu tăng lên do thận không hoạt động bình thường."
+    },
+    {
+      "name": "Hụt hơi",
+      "description": "Cảm giác khó thở, hụt hơi, đặc biệt khi gắng sức."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, yếu sức do thận không lọc chất thải hiệu quả."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và có thể nôn do chất thải tích tụ trong cơ thể."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, ăn không ngon miệng."
+    },
+    {
+      "name": "Chuột rút cơ bắp",
+      "description": "Hiện tượng chuột rút cơ bắp, đặc biệt vào ban đêm do rối loạn điện giải."
+    },
+    {
+      "name": "Bọng quanh mắt",
+      "description": "Xuất hiện bọng quanh mắt, đặc biệt là vào buổi sáng do tích tụ dịch."
+    },
+    {
+      "name": "Nước tiểu sủi bọt",
+      "description": "Nước tiểu có nhiều bọt và bọt tồn tại lâu hơn bình thường, dấu hiệu của protein trong nước tiểu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Protein niệu xảy ra khi thận không lọc máu bình thường, cho phép protein rò rỉ từ máu vào nước tiểu. Tình trạng này thường là dấu hiệu của tổn thương thận hoặc bệnh thận.",
+    "related_factors": "Có nhiều nguyên nhân gây protein niệu, từ tạm thời như mất nước đến nghiêm trọng hơn như bệnh thận mạn tính, tiểu đường, và bệnh tự miễn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người lớn tuổi (nhóm đối tượng này thường xuyên bị mất nước và mắc các vấn đề về thận)",
+    "Những người mang thai sau 40 tuổi",
+    "Người bị huyết áp cao",
+    "Người mắc bệnh tiểu đường",
+    "Người có tiền sử gia đình mắc bệnh thận, tiền sản giật",
+    "Người bị thừa cân, béo phì"
+  ],
+  "complications": [
+    "Bệnh thận mãn tính (tình trạng mất dần chức năng thận)",
+    "Phải can thiệp thay thế thận, ghép thận hoặc lọc máu",
+    "Tăng nguy cơ tử vong do bệnh tim mạch",
+    "Hội chứng thận hư nếu protein niệu nặng (>3.5g/ngày)",
+    "Giảm protein máu dẫn đến phù nề và các biến chứng khác"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xét nghiệm nước tiểu để phát hiện protein",
+      "Theo dõi lượng protein trong nước tiểu qua thời gian",
+      "Đánh giá chức năng thận qua xét nghiệm máu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Sử dụng que thử nhúng vào mẫu nước tiểu, que sẽ đổi màu nếu có quá nhiều protein. Có thể thực hiện nhiều lần để đánh giá thời gian tồn tại protein."
+      },
+      {
+        "name": "Soi nước tiểu dưới kính hiển vi",
+        "description": "Giúp phát hiện các vấn đề bất thường về thận, bao gồm: hồng cầu, bạch cầu, tinh thể, vi khuẩn."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra chức năng thận qua các chỉ số như ure, creatinin và độ lọc cầu thận."
+      },
+      {
+        "name": "Xét nghiệm hình ảnh",
+        "description": "Chụp CT và siêu âm giúp phát hiện sỏi thận, khối u hoặc các vấn đề tắc nghẽn khác."
+      },
+      {
+        "name": "Sinh thiết thận",
+        "description": "Lấy một mẫu mô thận nhỏ để kiểm tra dưới kính hiển vi, giúp phát hiện các vấn đề bất thường như viêm cầu thận."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị protein niệu sẽ được dựa trên nguyên nhân gây bệnh. Uống nước sẽ không điều trị được nguyên nhân gây ra protein trong nước tiểu trừ khi cơ thể bị mất nước.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị protein niệu do tiểu đường",
+        "description": "Kiểm tra lượng đường trong máu thường xuyên, điều trị bằng thuốc kiểm soát đường huyết và huyết áp, thực hiện kế hoạch ăn uống khắt khe dành cho người bệnh tiểu đường."
+      },
+      {
+        "name": "Điều trị protein niệu do huyết áp cao",
+        "description": "Sử dụng thuốc ức chế men chuyển angiotensin (ACE) và thuốc ức chế thụ thể angiotensin (ARB) để kiểm soát huyết áp, giảm áp lực lọc trong cầu thận, từ đó giảm protein niệu và bảo vệ thận."
+      },
+      {
+        "name": "Điều trị protein niệu do viêm cầu thận nguyên phát",
+        "description": "Tùy từng loại viêm cầu thận (xác định qua sinh thiết thận), điều trị có thể bao gồm thuốc ức chế miễn dịch, corticoid, thuốc hạ áp nhóm ức chế men chuyển/ức chế thụ thể."
+      },
+      {
+        "name": "Điều trị protein niệu do bệnh tự miễn",
+        "description": "Điều trị theo phác đồ của bệnh tự miễn cụ thể như lupus ban đỏ, bệnh xơ cứng bì, hội chứng Goodpasture."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Xây dựng chế độ ăn ít chất đạm",
+      "Hạn chế lượng muối trong thực đơn hàng ngày để kiểm soát huyết áp",
+      "Ăn nhiều chất xơ để làm giảm cholesterol và điều chỉnh lượng đường trong máu",
+      "Tập thể dục và vận động đều đặn, ít nhất hai giờ mỗi tuần",
+      "Thường xuyên kiểm tra lượng đường trong máu nếu bị tiểu đường",
+      "Bỏ thuốc lá",
+      "Tránh tự ý dùng các loại thuốc chống viêm không steroid (NSAID) trừ khi được bác sĩ khuyến nghị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +130,52 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm soát bệnh tiểu đường nếu mắc bệnh",
+      "Kiểm soát huyết áp nếu bị tăng huyết áp",
+      "Duy trì cân nặng hợp lý",
+      "Hạn chế lượng protein trong chế độ ăn uống",
+      "Hạn chế lượng muối nạp vào cơ thể",
+      "Tập thể dục đều đặn",
+      "Bỏ thuốc lá",
+      "Khám sức khỏe định kỳ, xét nghiệm nước tiểu để phát hiện sớm protein niệu",
+      "Uống đủ nước để tránh mất nước"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Protein niệu có nguy hiểm không?",
+      "answer": "Protein niệu là một tình trạng rất nguy hiểm, có thể là dấu hiệu ban đầu của bệnh thận mãn tính (tình trạng mất dần chức năng thận, phải can thiệp thay thế thận, ghép thận hoặc lọc máu). Protein niệu còn làm tăng nguy cơ tử vong do bệnh tim mạch."
+    },
+    {
+      "question": "Protein niệu bình thường là bao nhiêu?",
+      "answer": "Lượng protein bình thường trong nước tiểu là thấp hơn 150 miligam mỗi ngày. Nếu con số này lớn hơn, chứng tỏ cơ thể đang bị protein niệu. Nếu nước tiểu chứa từ 3 - 3.5 gram protein mỗi ngày, bệnh đang ở mức độ thận hư, một tình trạng nghiêm trọng."
+    },
+    {
+      "question": "Làm thế nào để giảm protein trong nước tiểu?",
+      "answer": "Cách tốt nhất để làm giảm protein trong nước tiểu là theo đúng liệu trình của bác sĩ trong việc uống thuốc và chăm sóc cơ thể. Một số biện pháp bổ sung bao gồm: xây dựng chế độ ăn ít chất đạm, hạn chế lượng muối, ăn nhiều chất xơ, tập thể dục đều đặn, kiểm soát đường huyết, bỏ thuốc lá, và tránh tự ý dùng thuốc chống viêm không steroid (NSAID)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sưng ở mặt, bụng, bàn chân hoặc mắt cá chân, đi tiểu thường xuyên và hụt hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["protein-nieu", "benh-than-man-tinh", "suy-tim"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, buồn nôn và nôn, chán ăn và chuột rút cơ bắp vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["protein-nieu", "suy-than", "roi-loan-dien-giai"]
+    },
+    {
+      "question": "Tôi hay xuất hiện bọng quanh mắt, đặc biệt là vào buổi sáng. Nước tiểu của tôi cũng có bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["protein-nieu", "hoi-chung-than-hu", "benh-than"]
+    },
+    {
+      "question": "Tôi lo lắng vì các triệu chứng của mình giống với bệnh thận mãn tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["protein-nieu", "benh-than-man-tinh", "suy-than"]
+    },
+    {
+      "question": "Tôi muốn biết liệu protein niệu có nguy hiểm hay không. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["protein-nieu", "benh-than", "suy-than"]
     }
   ]
 }

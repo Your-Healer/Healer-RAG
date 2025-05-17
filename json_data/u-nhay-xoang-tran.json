@@ -1,39 +1,126 @@
 {
   "disease_id": "u-nhay-xoang-tran",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U nhầy xoang trán",
+  "disease_alternative_names": [
+    "Mucoceles",
+    "U nhầy mũi xoang",
+    "Túi nhầy xoang trán"
+  ],
+  "disease_definition": "U nhầy xoang trán (Mucoceles) là một loại u chứa đầy các dịch nhầy, phát triển trên xoang trán. U nhầy là tập hợp chất nhầy được bao bọc trong một túi biểu mô xoang lót bên trong xoang khí do sự tắc nghẽn lỗ thông xoang. Đây là những tổn thương lành tính, phát triển chậm, thường xảy ra ở nhóm xoang trán hoặc xoang sàng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu phía trước",
+      "description": "Đau đầu ở vùng trán, có thể âm ỉ hoặc dữ dội"
+    },
+    {
+      "name": "Lệch mặt hoặc sưng tấy",
+      "description": "Biến dạng khuôn mặt, sưng tấy ở vùng trán và quanh mắt"
+    },
+    {
+      "name": "Suy giảm thị lực",
+      "description": "Giảm khả năng nhìn do khối u chèn ép thần kinh thị giác"
+    },
+    {
+      "name": "Giảm khả năng di chuyển của mắt",
+      "description": "Khó khăn trong việc vận động nhãn cầu theo các hướng khác nhau"
+    },
+    {
+      "name": "Lồi mắt",
+      "description": "Mắt bị đẩy ra phía trước do khối u chèn ép hốc mắt"
+    },
+    {
+      "name": "Nhức đầu mất khả năng hoạt động",
+      "description": "Cơn đau đầu dữ dội khiến người bệnh không thể hoạt động bình thường"
+    },
+    {
+      "name": "Rối loạn thị giác",
+      "description": "Các vấn đề về thị giác như nhìn mờ, nhìn đôi, méo hình"
+    },
+    {
+      "name": "Nhìn đôi",
+      "description": "Hiện tượng nhìn thấy hai hình ảnh của một vật thể"
+    },
+    {
+      "name": "Đau quanh hốc mắt",
+      "description": "Cảm giác đau ở vùng xung quanh mắt"
+    },
+    {
+      "name": "Nhiễm khuẩn",
+      "description": "Viêm nhiễm ở vùng mắt và xoang do khối u bị nhiễm trùng"
+    },
+    {
+      "name": "Hạn chế các cử động vận nhãn",
+      "description": "Khó khăn trong việc di chuyển nhãn cầu do khối u chèn ép các cơ vận nhãn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây u nhầy xoang trán đến nay vẫn chưa được xác định rõ ràng, nhưng thường liên quan đến tình trạng tắc nghẽn lỗ thông mũi xoang.",
+    "related_factors": "Các yếu tố có thể gây u nhầy xoang trán bao gồm: bất thường cấu trúc hay viêm xoang mạn tính, xạ trị vùng đầu mặt gây xơ sẹo, các khối u trong xoang lâu ngày, sang chấn do chấn thương, biến chứng sau phẫu thuật xoang, loạn sản xơ, u xương hoặc u xơ hóa.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi từ 40 đến 60 tuổi",
+    "Tiền sử phẫu thuật xoang",
+    "Viêm xoang mạn tính",
+    "Chấn thương vùng mặt",
+    "Xạ trị vùng đầu mặt",
+    "Bất thường giải phẫu của xoang",
+    "Khối u xoang lâu ngày"
+  ],
+  "complications": [
+    "Bệnh lồi mắt một bên",
+    "Viêm não, màng não do u xâm lấn nội sọ",
+    "Liệt mặt do chèn ép thần kinh mặt",
+    "Động kinh và yếu liệt cơ quan",
+    "Giảm thị lực nghiêm trọng, nguy cơ mù lòa",
+    "Rò dịch não tủy",
+    "Ăn mòn xương thành xoang"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: đánh giá các triệu chứng và dấu hiệu thực thể",
+      "Đánh giá tiền sử bệnh và các phẫu thuật trước đó",
+      "Xác định vị trí và hướng của lồi mắt để xác định vị trí tổn thương"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp CT",
+        "description": "Phát hiện khối mật độ đồng nhất, bờ rõ ràng và có sự hủy xương quanh u, ăn mòn thành xoang với xơ hóa rìa"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Giúp chẩn đoán phân biệt với các trường hợp phức tạp như nang bì, bệnh mô bào Langerhans, nhiễm nấm và lao, u hạt cholesterol ở trán – ổ mắt"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị chủ yếu là phẫu thuật với mục tiêu là loại bỏ chất nhầy và thông khí cho xoang có liên quan. Bên cạnh đó, điều trị cũng cần lấy bỏ nang nhầy với tỷ lệ xâm lấn tối thiểu và ngăn ngừa tái phát.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật nội soi",
+        "description": "Phương pháp ít xâm lấn, bảo tồn niêm mạc xoang trán và duy trì một hốc trán tự nhiên, không để lại sẹo trên khuôn mặt"
+      },
+      {
+        "name": "Đặt stent",
+        "description": "Phương pháp an toàn và hiệu quả để duy trì sự thông thoáng của hệ thống dẫn lưu chất nhầy của xoang trán"
+      },
+      {
+        "name": "Mổ mở",
+        "description": "Áp dụng cho các trường hợp u nhầy phức tạp có kích thước rất lớn xâm lấn nội sọ, giúp loại bỏ toàn bộ niêm mạc u nang và ngăn ngừa tái phát"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Được chỉ định trong trường hợp nhiễm trùng, đặc biệt khi có liên quan nội sọ hoặc ổ mắt"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Vận động thể lực ở mức độ nhẹ đến trung bình vào ngày đầu sau mổ",
+      "Tránh môi trường khói bụi",
+      "Có chế độ dinh dưỡng đầy đủ giúp hố mổ mau lành",
+      "Chăm sóc mũi tại nhà bằng cách xịt rửa mũi 3-4 lần/ngày",
+      "Không đụng tay vào vết thương",
+      "Tái khám hàng tuần sau mổ và tiếp tục thăm khám định kỳ mỗi năm một lần"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +128,60 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không có cách nào giúp phòng ngừa u nhầy xoang trán",
+      "Những người từng phẫu thuật mũi xoang cần thăm khám tai mũi họng hàng năm",
+      "Điều trị sớm và hiệu quả các bệnh viêm xoang mạn tính",
+      "Chăm sóc tốt sau phẫu thuật xoang để tránh biến chứng",
+      "Tái khám theo lịch hẹn của bác sĩ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U nhầy xoang trán chèn hốc mắt có gây mù không?",
+      "answer": "U nhầy xoang trán chèn ép hốc mắt là một biến chứng nguy hiểm. Nó có thể dẫn đến chứng lồi mắt, thậm chí gây sưng tấy mắt và có nguy cơ gây mù loà nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "U nhầy xoang trán có chữa khỏi không?",
+      "answer": "U nhầy xoang trán không biến chứng dễ dàng được điều trị bằng phương pháp nội soi cho hiệu quả cao. Đối với các trường hợp có biến chứng, việc điều trị phức tạp hơn và tiên lượng phụ thuộc nhiều vào vị trí và mức độ của biến chứng. Giải quyết các biến chứng nội sọ thường khó khăn và có thể để lại di chứng. Do đó, điều quan trọng là người bệnh cần điều trị u nhầy ngay từ lúc nó mới xuất hiện."
+    },
+    {
+      "question": "U nhầy xoang trán chèn ép hốc mắt có nguy hiểm không?",
+      "answer": "Đây là một loại u mũi xoang lành tính, chủ yếu xảy ra ở người trưởng thành. Tuy nhiên, do bản chất ăn mòn, làm tiêu xương của thành xoang và gây chèn ép cấu trúc sọ mặt nên loại u này tiềm ẩn nhiều nguy hiểm. Nó có thể gây ra các biến chứng nghiêm trọng như lồi mắt, liệt mặt, viêm não, màng não nếu không được điều trị kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu phía trước, lệch mặt hoặc sưng tấy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nhầy xoang trán",
+        "Viêm xoang trán",
+        "Chấn thương sọ mặt"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy suy giảm thị lực, giảm khả năng di chuyển của mắt hoặc bị lồi mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U nhầy xoang trán", "U hốc mắt", "Bệnh Graves"]
+    },
+    {
+      "question": "Tôi hay bị nhức đầu mất khả năng hoạt động và rối loạn thị giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U nhầy xoang trán", "Đau nửa đầu Migraine", "U não"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chứng rối loạn thị giác và nhìn đôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nhầy xoang trán",
+        "Rối loạn thần kinh vận nhãn",
+        "Đau dây thần kinh số V"
+      ]
+    },
+    {
+      "question": "Tôi hay bị u nhầy xoang trán chèn ép hốc mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nhầy xoang trán",
+        "Viêm xoang biến chứng",
+        "U hốc mắt"
+      ]
     }
   ]
 }

@@ -1,39 +1,134 @@
 {
   "disease_id": "sa-tu-cung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sa tử cung",
+  "disease_alternative_names": [
+    "Sa dạ con",
+    "Sa sinh dục",
+    "Pelvic organ prolapse"
+  ],
+  "disease_definition": "Sa tử cung (sa dạ con, sa sinh dục) là tình trạng các cơ và dây chằng của sàn chậu bị kéo căng và suy yếu (sa tạng chậu). Sự suy yếu của các cấu trúc hỗ trợ cho phép tử cung di chuyển ra khỏi vị trí bình thường và tụt vào trong âm đạo. Tình trạng này có thể rút ngắn chiều dài của âm đạo, hoặc thậm chí sa xuống đủ xa để nhô ra ngoài qua cửa âm đạo.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm giác nặng nề hoặc áp lực trong vùng chậu",
+      "description": "Có cảm giác áp lực và nặng nề ở vùng chậu, đặc biệt khi đứng hoặc đi bộ trong thời gian dài"
+    },
+    {
+      "name": "Nhìn thấy hoặc cảm thấy khối phồng",
+      "description": "Nhìn thấy hoặc cảm thấy khối phồng ở âm đạo, có thể nhô ra ngoài trong trường hợp nặng"
+    },
+    {
+      "name": "Tiết dịch bất thường hoặc quá nhiều từ âm đạo",
+      "description": "Sự tiết dịch âm đạo tăng lên hoặc bất thường về màu sắc, mùi hôi"
+    },
+    {
+      "name": "Đau ở vùng khung chậu, bụng dưới hoặc lưng",
+      "description": "Cảm giác đau hoặc khó chịu ở vùng khung chậu, bụng dưới hoặc lưng, thường trở nên nặng hơn khi đứng lâu"
+    },
+    {
+      "name": "Nhiễm trùng bàng quang thường xuyên",
+      "description": "Dễ bị nhiễm trùng bàng quang tái phát do ảnh hưởng của tử cung sa xuống đè ép bàng quang"
+    },
+    {
+      "name": "Đi tiểu không tự chủ",
+      "description": "Khó kiểm soát nước tiểu, đặc biệt khi ho, cười, hắt hơi hoặc rặn"
+    },
+    {
+      "name": "Táo bón và khó đại tiện",
+      "description": "Khó khăn trong việc đại tiện, cần dùng tay hoặc rặn ép để việc đại tiện dễ dàng hơn"
+    },
+    {
+      "name": "Đau hoặc khó khăn khi giao hợp",
+      "description": "Cảm thấy đau đớn hoặc khó khăn khi quan hệ tình dục, có thể kèm theo giảm cảm giác"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sự suy yếu của các cơ sàn chậu và dây chằng nâng đỡ tử cung, khiến tử cung di chuyển ra khỏi vị trí bình thường và tụt vào trong âm đạo.",
+    "related_factors": "Mất trương lực cơ do lão hóa; Chấn thương khi sinh đẻ, đặc biệt nếu sinh nhiều con hoặc thai nhi có trọng lượng lớn; Béo phì hoặc chỉ số khối cơ thể lớn; Ho mãn tính gây áp lực xuống sàn chậu; Táo bón kéo dài.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ lớn tuổi, đặc biệt từ 50-79 tuổi",
+    "Phụ nữ đã từng sinh nở nhiều lần",
+    "Thời kỳ mãn kinh do giảm hormone estrogen",
+    "Tiền sử gia đình có người mắc bệnh sa tử cung",
+    "Thường xuyên lao động nặng nhọc hoặc mang vác vật nặng",
+    "Béo phì hoặc thừa cân",
+    "Ho mãn tính",
+    "Táo bón kéo dài",
+    "Thể trạng yếu, có dây chằng mỏng",
+    "Tử cung ở tư thế trung gian thẳng trục với âm đạo"
+  ],
+  "complications": [
+    "Ảnh hưởng đến các cơ quan khác trong vùng chậu như bàng quang và ruột",
+    "Nhiễm trùng đường tiết niệu tái phát",
+    "Tác động tiêu cực đến đời sống tình dục",
+    "Đau đớn mất cảm giác khi giao hợp",
+    "Ảnh hưởng đến chất lượng cuộc sống hàng ngày",
+    "Tiểu không tự chủ",
+    "Tăng nguy cơ nhiễm trùng đường tiết niệu"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám phụ khoa bằng mỏ vịt để kiểm tra âm đạo và tử cung",
+      "Yêu cầu rặn xuống ở tư thế nằm ngửa hoặc đứng để đánh giá mức độ sa",
+      "Kiểm tra sức mạnh cơ sàn chậu bằng cách siết chặt cơ sàn chậu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra vùng chậu",
+        "description": "Bác sĩ kiểm tra vùng chậu để xác định vị trí của tử cung, xem tử cung đã nằm đúng vị trí bình thường hay đã có dấu hiệu sa"
+      },
+      {
+        "name": "Khám bằng mỏ vịt",
+        "description": "Sử dụng mỏ vịt để kiểm tra âm đạo và tử cung, giúp phát hiện khối phồng do tử cung sa xuống ống âm đạo"
+      },
+      {
+        "name": "Kiểm tra sàn chậu",
+        "description": "Yêu cầu bệnh nhân rặn xuống ở tư thế nằm ngửa hoặc đứng để đánh giá mức độ tử cung đã trượt vào âm đạo"
+      },
+      {
+        "name": "Siêu âm vùng chậu",
+        "description": "Sử dụng siêu âm để đánh giá chi tiết hơn về vị trí của tử cung và các cơ quan vùng chậu khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Sa tử cung sau sinh có thể được điều trị bằng phương pháp phẫu thuật và không phẫu thuật. Tùy vào tình trạng của người bệnh, mục tiêu điều trị có muốn có con trong tương lai hay không, bác sĩ sẽ đưa ra các phác đồ điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cắt tử cung và sửa chữa sa cổ tử cung",
+        "description": "Phẫu thuật cắt bỏ một phần hoặc toàn bộ tử cung, áp dụng trong những trường hợp sa tử cung nặng nhất. Lưu ý rằng sau phẫu thuật này không thể mang thai được nữa"
+      },
+      {
+        "name": "Treo tử cung qua nội soi",
+        "description": "Phẫu thuật nội soi ổ bụng, mở bụng hở hoặc ngả âm đạo để thực hiện treo tử cung, phục hồi sự nâng đỡ tử cung và cấu trúc của sàn chậu"
+      },
+      {
+        "name": "Bài tập cơ sàn chậu (Kegel)",
+        "description": "Các bài tập đặc biệt giúp tăng cường sức mạnh cơ sàn chậu, có thể là phương pháp duy nhất cần thiết trong trường hợp sa tử cung nhẹ"
+      },
+      {
+        "name": "Tập vật lý trị liệu sàn chậu",
+        "description": "Sử dụng máy tập sàn chậu chuyên sâu với phác đồ tập được cập nhật theo tiêu chuẩn thế giới, kết hợp kích thích điện cơ"
+      },
+      {
+        "name": "Đặt vòng nâng tử cung (Pessary)",
+        "description": "Sử dụng dụng cụ đặt vào âm đạo để giữ tử cung ở đúng vị trí, có thể là lựa chọn điều trị tạm thời hoặc vĩnh viễn tùy theo mức độ phù hợp"
+      },
+      {
+        "name": "Liệu pháp thay thế Estrogen",
+        "description": "Bổ sung hormone estrogen để giúp làm chậm sự suy yếu của các cơ vùng chậu và mô liên kết hỗ trợ tử cung"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thực hiện chế độ sinh hoạt lành mạnh, duy trì cân nặng hợp lý",
+      "Tập thể dục thường xuyên và thực hiện bài tập Kegel",
+      "Thực hiện chế độ ăn uống lành mạnh với đầy đủ nhóm chất",
+      "Duy trì cân nặng hợp lý",
+      "Bỏ thuốc lá nếu đang hút",
+      "Tránh nâng vật nặng hoặc học kỹ thuật nâng vật đúng cách",
+      "Tái khám đều đặn theo lịch hẹn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +136,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện chế độ sinh hoạt lành mạnh, duy trì cân nặng hợp lý",
+      "Tập thể dục thường xuyên, thực hiện bài tập Kegel để tăng cường sức mạnh cơ sàn chậu",
+      "Thực hiện chế độ ăn uống lành mạnh với đầy đủ nhóm chất",
+      "Bỏ thuốc lá để tránh ho mãn tính",
+      "Tránh nâng vật nặng hoặc áp dụng kỹ thuật nâng vật đúng cách",
+      "Chăm sóc đúng cách trong và sau khi sinh con",
+      "Khám phụ khoa định kỳ để phát hiện sớm các vấn đề sàn chậu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sa tử cung là gì?",
+      "answer": "Sa tử cung (sa dạ con, sa sinh dục) là tình trạng các cơ và dây chằng của sàn chậu bị kéo căng và suy yếu. Sự suy yếu này cho phép tử cung di chuyển ra khỏi vị trí bình thường và tụt vào trong âm đạo. Tình trạng này có thể rút ngắn chiều dài của âm đạo, hoặc thậm chí sa xuống đủ xa để nhô ra ngoài qua cửa âm đạo."
+    },
+    {
+      "question": "Sa tử cung có những mức độ nào?",
+      "answer": "Sa tử cung được phân thành 4 mức độ: Giai đoạn I - Tử cung nằm ở nửa trên của âm đạo; Giai đoạn II - Tử cung đã hạ xuống gần đến lỗ âm đạo hoặc thập thò cách cửa âm đạo 1cm trở vào trong; Giai đoạn III - Tử cung trượt xuống và nhô ra ngoài âm đạo phần lớn; Giai đoạn IV - Đây là giai đoạn nặng nhất khi toàn bộ tử cung sa hẳn ra ngoài âm đạo."
+    },
+    {
+      "question": "Đối tượng nào dễ bị sa tử cung?",
+      "answer": "Sa tử cung có thể ảnh hưởng đến phụ nữ ở mọi lứa tuổi từ 20 tuổi trở lên, nhưng phổ biến nhất ở: phụ nữ đã từng sinh nở hoặc đã mãn kinh; phụ nữ từ 50-79 tuổi; phụ nữ có tiền sử gia đình bị sa tử cung; phụ nữ trong thời kỳ mãn kinh do giảm hormone estrogen; và phụ nữ thường xuyên lao động nặng nhọc, làm việc ở tư thế đứng, cúi, mang vác vật nặng."
+    },
+    {
+      "question": "Sa tử cung có chữa được không?",
+      "answer": "Sa tử cung có thể được điều trị hiệu quả bằng nhiều phương pháp, từ bài tập sàn chậu đến phẫu thuật, tùy thuộc vào mức độ nghiêm trọng của tình trạng. Đối với sa tử cung nhẹ, bài tập Kegel và thay đổi lối sống có thể đủ để kiểm soát triệu chứng. Trong trường hợp nghiêm trọng hơn, có thể cần đến phẫu thuật hoặc sử dụng vòng nâng tử cung (pessary)."
+    },
+    {
+      "question": "Sa tử cung có tái phát không?",
+      "answer": "Có, sa tử cung có thể tái phát sau điều trị. Tình trạng này thường xảy ra hơn nếu bạn bị sa cổ tử cung rất nặng, hoặc bạn bị béo phì, hoặc là phụ nữ trẻ tập thể thao, thể hình nặng. Tuy nhiên, trong hầu hết các trường hợp, triển vọng điều trị rất khả quan khi kết hợp điều trị với thay đổi lối sống để giúp phòng ngừa tái phát."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay cảm thấy nặng nề hoặc áp lực trong vùng chậu và nhìn thấy khối phồng ở âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tu-cung", "sa-tang-chau", "sa-bang-quang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nặng nề, có sức ép ở âm đạo và tiết dịch bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tu-cung", "viem-am-dao", "nhiem-trung-am-dao"]
+    },
+    {
+      "question": "Tôi hay bị đau ở vùng khung chậu, bụng dưới hoặc lưng và cổ tử cung tụt qua lỗ âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tu-cung", "sa-tu-cung-khi-mang-thai"]
+    },
+    {
+      "question": "Tôi hay bị nhiễm trùng bàng quang với mức độ thường xuyên và các vấn đề về tiểu tiện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sa-tu-cung",
+        "viem-duong-tiet-nieu",
+        "sa-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nặng nề, có sức ép ở âm đạo và đau khi giao hợp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tu-cung", "viem-co-tu-cung", "u-xo-tu-cung"]
     }
   ]
 }

@@ -1,39 +1,165 @@
 {
   "disease_id": "suy-tim",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy tim",
+  "disease_alternative_names": ["Bệnh tim suy", "Suy giảm chức năng tim"],
+  "disease_definition": "Suy tim là tình trạng tim bị suy yếu do các tổn thương thực thể hay các rối loạn chức năng tim khiến cho tâm thất không có đủ khả năng tiếp nhận máu hoặc tống máu. Đây được biết đến là một hội chứng lâm sàng phức tạp không thể cung cấp đủ máu cho các tế bào khiến người bệnh mệt mỏi và khó thở.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở xảy ra khi hoạt động hoặc nghỉ ngơi, nặng hơn khi nằm đầu thấp hoặc thức giấc về đêm do khó thở"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, yếu sức hầu như trong hầu hết thời gian"
+    },
+    {
+      "name": "Sưng chân và mắt cá chân",
+      "description": "Phù nề ở chân và mắt cá chân do tích nước, thường nhẹ vào buổi sáng và nặng hơn vào cuối ngày"
+    },
+    {
+      "name": "Ho dai dẳng",
+      "description": "Ho kéo dài, có thể nặng hơn vào ban đêm, đôi khi ho ra máu hoặc bọt hồng"
+    },
+    {
+      "name": "Thở khò khè",
+      "description": "Tiếng thở có âm thanh khò khè do đường thở bị hẹp"
+    },
+    {
+      "name": "Đầy hơi",
+      "description": "Cảm giác đầy bụng, khó chịu do ứ dịch"
+    },
+    {
+      "name": "Ăn mất ngon",
+      "description": "Giảm cảm giác thèm ăn, chán ăn"
+    },
+    {
+      "name": "Tăng cân hoặc sụt cân",
+      "description": "Tăng cân do tích nước hoặc sụt cân do tiêu hao năng lượng"
+    },
+    {
+      "name": "Chóng mặt và ngất xỉu",
+      "description": "Cảm giác chóng mặt, hoa mắt, có thể dẫn đến ngất xỉu do não không được cung cấp đủ máu"
+    },
+    {
+      "name": "Nhịp tim nhanh hoặc loạn nhịp",
+      "description": "Tim đập nhanh hoặc không theo nhịp điệu bình thường, cảm giác đánh trống ngực"
+    },
+    {
+      "name": "Trầm cảm, lo âu, mất ngủ",
+      "description": "Tình trạng tâm lý không ổn định, khó ngủ do căng thẳng và khó thở"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy tim thường là hậu quả cuối cùng của các bệnh tim mạch khác, do tim bị suy yếu không thể bơm máu hiệu quả.",
+    "related_factors": "Nguyên nhân phổ biến bao gồm bệnh mạch vành, tăng huyết áp, hẹp van tim, hở van tim, bệnh tim bẩm sinh, bệnh cơ tim giãn và các rối loạn nhịp tim. Một số yếu tố khác làm trầm trọng thêm tình trạng suy tim như chế độ ăn nhiều muối, không tuân thủ điều trị, giảm liều thuốc không hợp lý, nhiễm khuẩn, thiếu máu, lạm dụng rượu và có thai.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bệnh mạch vành",
+    "Tăng huyết áp",
+    "Bệnh van tim",
+    "Bệnh tim bẩm sinh",
+    "Rối loạn nhịp tim",
+    "Bệnh cơ tim",
+    "Tiểu đường",
+    "Lạm dụng rượu",
+    "Hút thuốc lá",
+    "Béo phì",
+    "Tuổi cao",
+    "Tiền sử gia đình có người mắc bệnh tim"
+  ],
+  "complications": [
+    "Giảm chất lượng cuộc sống",
+    "Rối loạn nhịp tim như rung nhĩ",
+    "Tăng nguy cơ đột quỵ do cục máu đông",
+    "Suy giảm khả năng thực hiện hoạt động hàng ngày",
+    "Đột tử do rối loạn nhịp thất",
+    "Suy tim giai đoạn cuối"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử cẩn thận",
+      "Hỏi về tiền sử gia đình",
+      "Khám lâm sàng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Phát hiện dày giãn buồng tim, rối loạn nhịp tim, block nhánh trái, sóng Q nhồi máu, thay đổi ST-T trong thiếu máu cục bộ cơ tim"
+      },
+      {
+        "name": "X-quang tim phổi",
+        "description": "Hiển thị hình ảnh bóng tim to, sung huyết phổi, tràn dịch màng phổi"
+      },
+      {
+        "name": "Siêu âm tim qua thành ngực",
+        "description": "Đánh giá chức năng thất trái, vận động vùng của tâm thất trái, hở van tim, kích thước buồng tim, áp lực động mạch phổi"
+      },
+      {
+        "name": "Holter điện tâm đồ 24 giờ",
+        "description": "Theo dõi liên tục hoạt động điện của tim để phát hiện rối loạn nhịp"
+      },
+      {
+        "name": "Chụp động mạch vành",
+        "description": "Phát hiện bệnh động mạch vành, đánh giá phân xuất tống máu thất trái"
+      },
+      {
+        "name": "MSCT động mạch vành",
+        "description": "Kiểm tra bệnh động mạch vành, bất thường cấu trúc tim, bệnh màng ngoài tim"
+      },
+      {
+        "name": "MRI tim",
+        "description": "Chẩn đoán viêm cơ tim hay bệnh cơ tim"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đo NT-Pro BNP và các chỉ số khác để chẩn đoán, tiên lượng và theo dõi điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Suy tim là bệnh mạn tính cần được quản lý suốt đời. Điều trị đúng cách có thể giúp người bệnh có cuộc sống chất lượng hơn, sống thọ hơn và giảm nguy cơ đột tử.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc ức chế men chuyển (ACE)",
+        "description": "Giúp giãn mạch máu để hạ huyết áp, cải thiện lưu lượng máu và giảm tải hoạt động cho tim"
+      },
+      {
+        "name": "Thuốc chẹn thụ thể angiotensin II",
+        "description": "Thay thế cho trường hợp bệnh nhân không dung nạp với thuốc ức chế men chuyển (ACE)"
+      },
+      {
+        "name": "Thuốc chẹn beta",
+        "description": "Làm chậm nhịp tim, hạ huyết áp, phòng ngừa và điều trị rối loạn nhịp nhanh, cải thiện chức năng tim"
+      },
+      {
+        "name": "Thuốc lợi tiểu",
+        "description": "Giúp bệnh nhân đi tiểu thường xuyên hơn, hạn chế việc tích nước trong cơ thể, đặc biệt là ở phổi"
+      },
+      {
+        "name": "Phẫu thuật bắc cầu mạch vành",
+        "description": "Điều trị cho bệnh nhân suy tim do hẹp động mạch vành"
+      },
+      {
+        "name": "Phẫu thuật van tim",
+        "description": "Điều trị cho bệnh nhân suy tim do bệnh van tim"
+      },
+      {
+        "name": "Thiết bị hỗ trợ",
+        "description": "Cấy máy khử rung tim tự động (ICD), liệu pháp tái đồng bộ tim (CRT), thiết bị hỗ trợ thất trái (LVAD)"
+      },
+      {
+        "name": "Ghép tim",
+        "description": "Điều trị cho trường hợp bệnh ở giai đoạn cuối, không đáp ứng với các biện pháp điều trị khác"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống thuốc đều đặn theo chỉ định của bác sĩ",
+      "Hạn chế ăn mặn, ăn nhiều rau và trái cây",
+      "Theo dõi cân nặng hàng ngày để phát hiện sớm tình trạng tích nước",
+      "Báo cáo cho bác sĩ nếu có dấu hiệu bệnh trở nặng như tăng cân nhanh, khó thở tăng, phù tăng",
+      "Hạn chế các hoạt động gắng sức quá mức"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +167,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập luyện thể dục nhẹ nhàng như đi bộ, tập yoga",
+      "Không làm việc hoặc hoạt động gắng sức",
+      "Bỏ thuốc lá và rượu bia",
+      "Tránh căng thẳng, duy trì trạng thái tâm lý vui vẻ, thoải mái",
+      "Hạn chế thực phẩm chứa nhiều mỡ hoặc chất béo",
+      "Duy trì cân nặng hợp lý, giảm cân nếu bị thừa cân, béo phì",
+      "Khám bệnh định kỳ, sử dụng thuốc theo phác đồ của bác sĩ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy tim là bệnh gì?",
+      "answer": "Suy tim là tình trạng tim bị suy yếu do các tổn thương thực thể hay các rối loạn chức năng tim khiến cho tâm thất không có đủ khả năng tiếp nhận máu hoặc tống máu. Đây là một hội chứng lâm sàng phức tạp, thường là hậu quả cuối cùng của nhiều bệnh tim mạch khác."
+    },
+    {
+      "question": "Suy tim có chữa được không?",
+      "answer": "Suy tim là bệnh mãn tính cần được quản lý suốt đời. Với việc điều trị đúng cách, các dấu hiệu và triệu chứng có thể được cải thiện, và đôi khi tim trở nên khỏe hơn, chức năng tim hồi phục. Điều trị đúng cách có thể giúp người bệnh có cuộc sống chất lượng hơn, sống thọ hơn và giảm nguy cơ đột tử."
+    },
+    {
+      "question": "Những dấu hiệu nào cho thấy bệnh suy tim đang trở nặng?",
+      "answer": "Dấu hiệu bệnh trở nặng bao gồm: tăng cân nhanh (tăng >= 1.5 kg/ngày hoặc >= 2.5 kg/tuần), phù tăng, khó thở tăng, ngất, hồi hộp đánh trống ngực, đau ngực hoặc nặng ngực, mệt mỏi hơn hoặc khó thở khi sinh hoạt tập luyện hàng ngày."
+    },
+    {
+      "question": "Các loại suy tim khác nhau như thế nào?",
+      "answer": "Suy tim có nhiều cách phân loại khác nhau. Theo vị trí, có suy tim trái, suy tim phải và suy tim toàn bộ. Theo thời gian diễn tiến, có suy tim cấp và suy tim mạn. Theo chức năng co bóp, có suy tim tâm thu (phân suất tống máu giảm) và suy tim tâm trương (phân suất tống máu bảo tồn)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó thở, mệt mỏi và sưng chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim",
+        "Bệnh phổi tắc nghẽn mạn tính",
+        "Bệnh thận"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ho khan, đầy hơi và ăn mất ngon. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim",
+        "Trào ngược dạ dày thực quản",
+        "Viêm phổi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tăng cân, chóng mặt và ngất xỉu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim", "Rối loạn tiền đình", "Tăng huyết áp"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhịp tim nhanh, loạn nhịp tim. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim", "Rối loạn nhịp tim", "Cường giáp"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đánh trống ngực và trầm cảm, lo âu, mất ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim", "Rối loạn lo âu", "Trầm cảm"]
     }
   ]
 }

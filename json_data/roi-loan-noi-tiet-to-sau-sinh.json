@@ -1,39 +1,145 @@
 {
   "disease_id": "roi-loan-noi-tiet-to-sau-sinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn nội tiết tố sau sinh",
+  "disease_alternative_names": [
+    "Mất cân bằng nội tiết tố sau sinh",
+    "Hormonal imbalance after childbirth"
+  ],
+  "disease_definition": "Rối loạn nội tiết tố sau sinh là sự mất cân bằng nội tiết sau sinh, làm thay đổi về thể chất và cảm xúc mà phụ nữ trải qua trong quá trình sinh và giai đoạn hậu sản.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài sau sinh dù đã nghỉ ngơi, thường do thiếu ngủ và thay đổi nội tiết tố"
+    },
+    {
+      "name": "Tăng cân",
+      "description": "Khó kiểm soát cân nặng sau sinh do sự thay đổi về nội tiết tố và quá trình chuyển hóa"
+    },
+    {
+      "name": "Khó tập trung",
+      "description": "Khó khăn trong việc tập trung vào công việc hoặc hoạt động hàng ngày, dễ bị phân tâm"
+    },
+    {
+      "name": "Mất trí nhớ ngắn hạn",
+      "description": "Hay quên những việc vừa làm hoặc dự định làm, khó ghi nhớ thông tin mới"
+    },
+    {
+      "name": "Tâm trạng thất thường",
+      "description": "Cảm xúc không ổn định, dễ thay đổi từ vui vẻ sang buồn bã, dễ cáu gắt hoặc khóc mà không rõ nguyên nhân"
+    },
+    {
+      "name": "Đau nửa đầu",
+      "description": "Cơn đau đầu dữ dội thường tập trung ở một bên đầu, có thể đi kèm với các triệu chứng khác như buồn nôn, nhạy cảm với ánh sáng"
+    },
+    {
+      "name": "Mất ngủ",
+      "description": "Khó đi vào giấc ngủ hoặc không ngủ ngon giấc dù rất mệt, thường xuyên thức giấc giữa đêm"
+    },
+    {
+      "name": "Lo lắng",
+      "description": "Cảm giác lo âu quá mức về sức khỏe của bản thân và em bé, sợ không thể chăm sóc con tốt"
+    },
+    {
+      "name": "Rụng tóc",
+      "description": "Tóc rụng nhiều hơn bình thường, thường xảy ra khoảng 3 tháng sau sinh do sự thay đổi nồng độ hormone"
+    },
+    {
+      "name": "Da khô",
+      "description": "Da trở nên khô và thiếu độ ẩm, đôi khi kèm theo các vấn đề về da như mụn trứng cá"
+    },
+    {
+      "name": "Táo bón",
+      "description": "Khó đi đại tiện, phân cứng, khô và ít hơn bình thường"
+    },
+    {
+      "name": "Chu kỳ kinh nguyệt không đều",
+      "description": "Kinh nguyệt không đều hoặc chưa trở lại bình thường sau sinh, có thể bất thường về lượng và thời gian"
+    },
+    {
+      "name": "Trầm cảm sau sinh",
+      "description": "Cảm giác buồn bã kéo dài, mất hứng thú với các hoạt động từng yêu thích, cảm giác vô giá trị, có thể có ý nghĩ tự hại"
+    },
+    {
+      "name": "Khô âm đạo",
+      "description": "Âm đạo khô và thiếu độ ẩm do nồng độ estrogen thấp, có thể gây khó khăn và đau khi quan hệ tình dục"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sự suy giảm nhanh chóng của hormone estrogen và progesterone sau khi sinh, cùng với sự thay đổi của hormone prolactin và oxytocin để hỗ trợ việc cho con bú.",
+    "related_factors": "Suy giảm endorphin sau sinh, giảm corticosteroid, thay đổi nồng độ prolactin, thay đổi nồng độ hormone tuyến thượng thận, sự suy giảm allopregnanolone, thay đổi hoạt động của các thụ thể GABA trong não.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử trầm cảm hoặc rối loạn tâm thần trước đó",
+    "Thay đổi đột ngột về nội tiết tố",
+    "Thiếu ngủ kéo dài sau sinh",
+    "Căng thẳng và lo lắng quá mức",
+    "Thiếu hỗ trợ từ gia đình và xã hội",
+    "Hội chứng Baby blues kéo dài hơn 2 tuần",
+    "Sử dụng rượu, thuốc lá và caffeine"
+  ],
+  "complications": [
+    "Trầm cảm sau sinh",
+    "Khó khăn trong việc chăm sóc con",
+    "Rối loạn giấc ngủ kéo dài",
+    "Sâu răng và bệnh nướu răng",
+    "Vấn đề về thị lực (tầm nhìn mờ hoặc khô mắt)",
+    "Mất cân bằng tâm lý",
+    "Suy giảm ham muốn tình dục",
+    "Khó khăn trong các mối quan hệ",
+    "Ảnh hưởng đến quá trình nuôi con bằng sữa mẹ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá triệu chứng lâm sàng",
+      "Theo dõi tâm trạng và biểu hiện cảm xúc",
+      "Xác định mức độ ảnh hưởng đến cuộc sống hàng ngày",
+      "Đánh giá khả năng chăm sóc trẻ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu kiểm tra nội tiết tố",
+        "description": "Đánh giá nồng độ hormone estrogen, progesterone, prolactin và các hormone khác"
+      },
+      {
+        "name": "Đánh giá tâm lý",
+        "description": "Sử dụng bảng câu hỏi để đánh giá mức độ trầm cảm, lo âu và các vấn đề tâm lý khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Rối loạn nội tiết tố sau sinh thường cải thiện dần theo thời gian, nhưng có một số biện pháp để giúp cân bằng nội tiết tố và giảm các triệu chứng khó chịu.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Bổ sung vitamin và khoáng chất",
+        "description": "Sử dụng các vitamin bổ sung, đặc biệt là vitamin D, giúp duy trì sự cân bằng nội tiết tố, cần hỏi ý kiến bác sĩ trước khi sử dụng"
+      },
+      {
+        "name": "Tập thể dục thường xuyên",
+        "description": "Hoạt động thể chất như đi bộ giúp giải phóng endorphin, cải thiện tâm trạng và giảm stress"
+      },
+      {
+        "name": "Yoga và thiền",
+        "description": "Các bài tập yoga và thiền giúp loại bỏ căng thẳng, thư giãn cơ thể, giảm lo lắng và thúc đẩy giấc ngủ ngon"
+      },
+      {
+        "name": "Chế độ ăn cân bằng",
+        "description": "Tăng lượng thực phẩm giàu chất xơ như rau xanh, súp lơ xanh, đậu lăng, đậu Hà Lan để loại bỏ bớt hàm lượng estrogen trong cơ thể"
+      },
+      {
+        "name": "Liệu pháp tâm lý",
+        "description": "Tư vấn tâm lý và liệu pháp nhận thức hành vi giúp đối phó với các triệu chứng lo âu và trầm cảm"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tránh xa các chất có hại như nicotine, rượu và caffeine",
+      "Tránh các sản phẩm từ đậu nành vì chứa phytoestrogen",
+      "Nhận đủ ánh nắng mặt trời để bổ sung vitamin D",
+      "Không dùng thực phẩm giàu axit béo không bão hòa đa",
+      "Ngủ đủ giấc khi có thể, nhờ người thân hỗ trợ chăm sóc bé",
+      "Thăm khám định kỳ sau sinh để được tư vấn",
+      "Chia sẻ cảm xúc với người thân, bạn bè hoặc chuyên gia"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +147,79 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì lối sống lành mạnh trước, trong và sau thai kỳ",
+      "Bổ sung đủ vitamin và khoáng chất theo hướng dẫn của bác sĩ",
+      "Thường xuyên tập thể dục nhẹ nhàng",
+      "Đảm bảo ngủ đủ giấc",
+      "Xây dựng mạng lưới hỗ trợ từ gia đình và bạn bè",
+      "Giảm stress bằng các biện pháp thư giãn",
+      "Tránh cô lập bản thân sau sinh",
+      "Chuẩn bị tâm lý tốt trước khi sinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Nội tiết tố sau sinh thay đổi như thế nào trong những ngày đầu?",
+      "answer": "Ngay sau khi em bé chào đời, nồng độ progesterone và estrogen giảm xuống đột ngột. Đồng thời, có sự tăng đột biến oxytocin để bù đắp cho sự sụt giảm này, nội tiết tố này gắn liền với cảm xúc và bản năng làm mẹ. Ngoài ra, prolactin tăng nhanh để kích thích tiết sữa. Những thay đổi này có thể khiến người mẹ cảm thấy dễ xúc động trong vài ngày đầu sau sinh."
+    },
+    {
+      "question": "Nội tiết tố ở tuần thứ 3 đến tuần thứ 6 sau sinh có gì đặc biệt?",
+      "answer": "Sau vài tuần đầu tiên, người phụ nữ sẽ cảm thấy ổn định hơn về mặt cảm xúc và dần quen với việc chăm con. Tuy nhiên, khoảng 6 tuần sau sinh, các triệu chứng trầm cảm sau sinh có thể xuất hiện do nồng độ hormone tiếp tục thay đổi. Những biểu hiện có thể bao gồm ngại tắm, sợ giao con cho người khác, không thể ngủ đủ giấc, chán ăn và không muốn tương tác với người xung quanh."
+    },
+    {
+      "question": "Nội tiết tố ở thời điểm 3 tháng sau sinh có gì đặc biệt?",
+      "answer": "Trong giai đoạn 3 tháng sau sinh, nồng độ hormone dần trở về ngang mức với thời điểm trước khi có thai, nhưng vẫn chưa hoàn toàn bình thường. Nồng độ cortisol vẫn tiếp tục tăng do căng thẳng trong quá trình chăm sóc bé. Sự thiếu ngủ làm giảm nồng độ melatonin và serotonin, có thể gây ảnh hưởng xấu đến tâm lý. Đây cũng là thời điểm nhiều phụ nữ bắt đầu bị rụng tóc nhiều."
+    },
+    {
+      "question": "Khi nào nồng độ các nội tiết tố sẽ quay về bình thường?",
+      "answer": "Thời điểm sẽ khác nhau tùy thuộc cơ địa mỗi người, nhưng khoảng 6 tháng sau sinh, nhiều hormone trong cơ thể mẹ sẽ trở về như trước khi mang thai. Vào thời điểm này, estrogen và progesterone sẽ trở lại mức trước khi mang thai và nhiều phụ nữ có kinh lần đầu tiên sau sinh. Đối với phụ nữ cho con bú, nồng độ hormone bị ức chế lâu hơn - cho con bú càng nhiều, thời gian ức chế càng lâu."
+    },
+    {
+      "question": "Vì sao mất cân bằng nội tiết có thể dẫn đến trầm cảm sau sinh?",
+      "answer": "Allopregnanolone là một loại steroid mà não sản sinh từ sự phân hủy progesterone. Khi mang thai, mức allopregnanolone tăng đều đặn, nhưng sau sinh con, steroid này sụt giảm nhanh chóng. Nếu mức độ allopregnanolone không tăng lên sau vài ngày sinh con, đây có thể là nguyên nhân gây trầm cảm. Ngoài ra, những thay đổi về hormone cũng ảnh hưởng đến hoạt động của các thụ thể GABA trong não, có vai trò quan trọng trong các vấn đề sức khỏe tâm thần."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi sau khi sinh con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-noi-tiet-to-sau-sinh",
+        "thieu-mau",
+        "suy-giap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tăng cân khó kiểm soát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-noi-tiet-to-sau-sinh",
+        "suy-giap",
+        "roi-loan-an-uong"
+      ]
+    },
+    {
+      "question": "Tôi hay khó tập trung và mất trí nhớ ngắn hạn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-noi-tiet-to-sau-sinh",
+        "thieu-ngu",
+        "thieu-mau-nao"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng tâm trạng lâng lâng thất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-noi-tiet-to-sau-sinh",
+        "tram-cam-sau-sinh",
+        "roi-loan-lo-au"
+      ]
+    },
+    {
+      "question": "Tôi bị rụng tóc và da khô. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-noi-tiet-to-sau-sinh",
+        "suy-giap",
+        "thieu-mau"
+      ]
     }
   ]
 }

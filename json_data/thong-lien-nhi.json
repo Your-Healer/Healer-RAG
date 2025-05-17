@@ -1,58 +1,179 @@
 {
   "disease_id": "thong-lien-nhi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thông liên nhĩ",
+  "disease_alternative_names": [
+    "Atrial Septal Defect (ASD)",
+    "Lỗ thông vách ngăn tâm nhĩ"
+  ],
+  "disease_definition": "Thông liên nhĩ là bệnh lý tim bẩm sinh với sự xuất hiện của một lỗ thủng giữa hai buồng tâm nhĩ. Chiếm từ 6-10% các trường hợp tim bẩm sinh. Lỗ thông liên nhĩ có thể nằm ở nhiều vị trí khác nhau trên vách liên nhĩ và được phân thành 4 loại: thông liên nhĩ lỗ thứ nhất, thông liên nhĩ lỗ thứ hai, thông liên nhĩ xoang tĩnh mạch, và thông liên nhĩ xoang vành.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Dễ mệt mỏi",
+      "description": "Cảm giác mệt mỏi ngay cả khi hoạt động nhẹ hoặc thường xuyên"
+    },
+    {
+      "name": "Thở nhanh",
+      "description": "Nhịp thở tăng nhanh, nhất là khi hoạt động hoặc gắng sức"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, thở không sâu được, nhất là khi gắng sức"
+    },
+    {
+      "name": "Chậm tăng trưởng",
+      "description": "Trẻ có thể chậm phát triển về cân nặng, chiều cao so với tuổi"
+    },
+    {
+      "name": "Thường xuyên bị nhiễm trùng đường hô hấp",
+      "description": "Dễ mắc các bệnh nhiễm trùng đường hô hấp như viêm phổi, viêm phế quản"
+    },
+    {
+      "name": "Rối loạn nhịp tim",
+      "description": "Nhịp tim không đều, có thể nhanh hoặc chậm bất thường"
+    },
+    {
+      "name": "Đau nửa đầu",
+      "description": "Đau một bên đầu, thường gặp ở trẻ lớn và người lớn bị thông liên nhĩ"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện nay, chưa giải thích được nguyên nhân chính xác gây thông liên nhĩ, nhưng một số dị tật tim bẩm sinh dường như có yếu tố di truyền.",
+    "related_factors": "Các yếu tố khi mang thai có thể làm tăng nguy cơ em bé sinh ra mắc thông liên nhĩ bao gồm: nhiễm rubella trong vài tháng đầu thai kỳ, sử dụng ma túy, thuốc lá, uống rượu hoặc tiếp xúc với chất kích thích như cocaine, mắc bệnh tiểu đường hoặc lupus trong thai kỳ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người mắc bệnh tim",
+    "Mẹ bị nhiễm rubella khi mang thai",
+    "Mẹ sử dụng ma túy, thuốc lá, rượu hoặc cocaine khi mang thai",
+    "Mẹ bị bệnh tiểu đường hoặc lupus khi mang thai",
+    "Rối loạn di truyền"
+  ],
+  "complications": [
+    "Suy tim bên phải",
+    "Rối loạn nhịp tim",
+    "Tăng nguy cơ đột quỵ",
+    "Giảm tuổi thọ",
+    "Tăng áp động mạch phổi",
+    "Hội chứng Eisenmenger (tăng áp động mạch phổi do khuyết tật tim bẩm sinh không được điều trị)",
+    "Viêm phổi và nhiễm trùng hô hấp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để phát hiện tiếng thổi ở tim",
+      "Đánh giá triệu chứng và tiền sử bệnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Ghi lại hoạt động điện của tim và phát hiện các bất thường do thông liên nhĩ gây ra"
+      },
+      {
+        "name": "Chụp X-quang tim phổi",
+        "description": "Cho thấy kích thước tim hoặc những thay đổi trong phổi do tăng lưu lượng máu lên phổi"
+      },
+      {
+        "name": "Siêu âm tim qua thành ngực",
+        "description": "Phương pháp chính trong chẩn đoán thông liên nhĩ, thường áp dụng cho trẻ nhỏ và người trẻ tuổi"
+      },
+      {
+        "name": "Siêu âm tim qua thực quản",
+        "description": "Áp dụng cho người lớn tuổi, có thành ngực dày, giúp xác định chẩn đoán và định hướng phương pháp điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Lựa chọn phương pháp điều trị thông liên nhĩ phụ thuộc vào kích thước lỗ thông cũng như trẻ có các dị tật tim bẩm sinh khác kèm theo hay không.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi",
+        "description": "Đối với lỗ thông liên nhĩ kích thước nhỏ có khả năng tự đóng trong thời thơ ấu, chỉ cần theo dõi định kỳ"
+      },
+      {
+        "name": "Dùng thuốc",
+        "description": "Thuốc không chữa được lỗ thông nhưng có thể kiểm soát nhịp tim (thuốc chẹn beta) và giảm nguy cơ hình thành cục máu đông (thuốc chống đông máu)"
+      },
+      {
+        "name": "Thông tim can thiệp",
+        "description": "Đưa dụng cụ vào để bít lỗ thông ở vách ngăn liên nhĩ mà không cần mổ hở"
+      },
+      {
+        "name": "Phẫu thuật tim hở",
+        "description": "Mở ngực để tiếp cận trực tiếp với tim và đóng lỗ thông"
+      },
+      {
+        "name": "Phẫu thuật xâm lấn tối thiểu hoặc phẫu thuật robot",
+        "description": "Thực hiện phẫu thuật qua những đường mổ rất nhỏ hoặc với sự hỗ trợ của robot"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tập thể dục thường xuyên dưới sự hướng dẫn của bác sĩ, nhất là với bệnh nhân có biến chứng",
+      "Duy trì chế độ dinh dưỡng cân bằng với nhiều nhóm chất, bổ sung rau củ, ngũ cốc và hạn chế cholesterol, chất béo",
+      "Tuân thủ phác đồ điều trị của bác sĩ để phòng tránh viêm nhiễm, nhất là viêm phổi và nhiễm trùng hô hấp",
+      "Theo dõi sức khỏe định kỳ sau can thiệp hoặc phẫu thuật"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc-xin phòng rubella trước khi mang thai ít nhất 3 tháng, vì đây là vaccine sống giảm độc lực.",
+      "recommended_for": [
+        "Phụ nữ trong độ tuổi sinh đẻ chưa có kháng thể miễn dịch với bệnh rubella"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thông báo với bác sĩ về tình trạng sức khỏe và các loại thuốc hiện tại khi dự định mang thai",
+      "Theo dõi các vấn đề sức khỏe định kỳ trong lúc mang thai",
+      "Tránh sử dụng ma túy, thuốc lá, rượu hoặc các chất kích thích khi mang thai",
+      "Nếu gia đình có người mắc bệnh tim hoặc có các rối loạn di truyền, cần tham khảo ý kiến bác sĩ về nguy cơ di truyền",
+      "Kiểm soát tốt tình trạng bệnh lý nếu có (như tiểu đường, lupus) trước và trong khi mang thai"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thông liên nhĩ có nguy hiểm không?",
+      "answer": "Nếu lỗ thông nhỏ, thường sẽ không gây ra biến chứng gì nguy hiểm và một số lỗ thông nhỏ sẽ tự bít lại khi trẻ 1-4 tuổi. Tuy nhiên, lỗ thông lớn có thể gây một số biến chứng nghiêm trọng như suy tim bên phải, rối loạn nhịp tim, tăng nguy cơ đột quỵ, giảm tuổi thọ, tăng áp động mạch phổi và hội chứng Eisenmenger."
+    },
+    {
+      "question": "Làm thế nào để phát hiện thông liên nhĩ?",
+      "answer": "Thông liên nhĩ có thể được phát hiện thông qua việc khám lâm sàng, điện tâm đồ, chụp X-quang tim phổi và đặc biệt là siêu âm tim. Siêu âm tim được xem là phương pháp chính trong chẩn đoán thông liên nhĩ, với trẻ nhỏ thường dùng siêu âm qua thành ngực, còn người lớn tuổi có thể cần siêu âm tim qua thực quản để chẩn đoán chính xác hơn."
+    },
+    {
+      "question": "Thông liên nhĩ có thể tự khỏi không?",
+      "answer": "Có, trong trường hợp thông liên nhĩ kích thước nhỏ, lỗ thông có khả năng tự đóng trong thời thơ ấu, đặc biệt là khi trẻ 1-4 tuổi. Tuy nhiên, đối với lỗ thông lớn hơn thường cần can thiệp bằng thông tim hoặc phẫu thuật tim để đóng lỗ thông."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi dễ mệt mỏi và thở nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thông liên nhĩ", "Suy tim", "Thiếu máu"]
+    },
+    {
+      "question": "Tôi khó thở và chậm tăng trưởng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thông liên nhĩ",
+        "Bệnh tim bẩm sinh",
+        "Suy dinh dưỡng"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị nhiễm trùng đường hô hấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thông liên nhĩ", "Hen suyễn", "Suy giảm miễn dịch"]
+    },
+    {
+      "question": "Tôi bị rối loạn nhịp tim. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thông liên nhĩ",
+        "Rối loạn nhịp tim",
+        "Bệnh van tim"
+      ]
+    },
+    {
+      "question": "Tôi bị thông liên nhĩ và bị đau nửa đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thông liên nhĩ",
+        "Đau nửa đầu nguyên phát",
+        "Thiếu máu não"
+      ]
     }
   ]
 }

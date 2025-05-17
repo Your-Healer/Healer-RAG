@@ -1,58 +1,171 @@
 {
   "disease_id": "omicron-tang-hinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Omicron tàng hình",
+  "disease_alternative_names": [
+    "Stealth variant",
+    "Omicron BA.2",
+    "Omicron vô hình",
+    "Biến thể phụ BA.2"
+  ],
+  "disease_definition": "Omicron tàng hình (stealth variant) là tên gọi của biến thể phụ BA.2 thuộc biến thể Omicron của virus SARS-CoV-2, được phát hiện đầu năm 2022. Có tên gọi là 'tàng hình' vì chủng này không có các đột biến đặc trưng của Omicron gốc, khiến việc phát hiện bằng test nhanh trở nên khó khăn hơn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt nhẹ",
+      "description": "Người nhiễm thường có triệu chứng sốt nhẹ, tương tự như khi bị cảm cúm thông thường."
+    },
+    {
+      "name": "Ho khan",
+      "description": "Ho là triệu chứng phổ biến của Omicron tàng hình, thường xuất hiện sớm trong quá trình nhiễm bệnh."
+    },
+    {
+      "name": "Đau rát và khô họng",
+      "description": "Cảm giác đau rát và khô khát ở vùng họng, một trong những triệu chứng đặc trưng giúp phân biệt với cảm cúm thông thường."
+    },
+    {
+      "name": "Mệt mỏi và nhức mỏi cơ thể",
+      "description": "Người bệnh cảm thấy mệt mỏi, ê nhức cơ thể, giảm khả năng hoạt động."
+    },
+    {
+      "name": "Hắt hơi",
+      "description": "Triệu chứng hắt hơi thường xuyên, có thể kèm theo sổ mũi nhẹ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Omicron tàng hình là kết quả của sự biến đổi gene của virus SARS-CoV-2, cụ thể là biến thể phụ BA.2 thuộc biến thể Omicron.",
+    "related_factors": "Theo WHO, BA.2 khác biệt với BA.1 (Omicron gốc) ở trình tự gene, gồm những khác biệt về axit amin trong protein đột biến và các protein khác. BA.2 có lợi thế tăng trưởng hơn, dễ lây truyền hơn BA.1.",
+    "transmission_routes": [
+      "Lây lan qua giọt bắn khi người bệnh ho, hắt hơi, nói chuyện",
+      "Tiếp xúc gần với người nhiễm bệnh",
+      "Tiếp xúc với bề mặt có virus rồi đưa tay lên mắt, mũi, miệng"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiếp xúc gần với người nhiễm bệnh",
+    "Không tiêm vaccine hoặc chưa tiêm đủ liều",
+    "Không thực hiện các biện pháp phòng ngừa như đeo khẩu trang",
+    "Những người từng nhiễm biến thể Delta hay Omicron gốc vẫn có thể tái nhiễm với Omicron tàng hình"
+  ],
+  "complications": [
+    "Hầu hết các ca nhiễm đều có triệu chứng nhẹ, một số người có cảm giác như bị cúm",
+    "Tỷ lệ nhập viện do biến thể Omicron tàng hình không cao hơn so với biến thể Omicron gốc",
+    "Người đã tiêm đủ liều vaccine COVID-19 có nguy cơ tiến triển nặng thấp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Dựa vào các triệu chứng đặc trưng",
+      "Xét nghiệm PCR",
+      "Test nhanh kháng nguyên (có thể cho kết quả âm tính giả)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm PCR",
+        "description": "Xét nghiệm PCR sử dụng kỹ thuật Real-time, lấy mẫu dịch tỵ hầu để phân tích, tìm ra đoạn gen của virus corona. Đây là phương pháp chính xác nhất để phát hiện Omicron tàng hình."
+      },
+      {
+        "name": "Test nhanh kháng nguyên",
+        "description": "Test nhanh ít chính xác hơn PCR và có thể cho kết quả âm tính giả với Omicron tàng hình, đặc biệt trong những ngày đầu nhiễm bệnh hoặc do thao tác sai, hoặc do dùng kit test cũ không phù hợp với biến thể mới."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tương tự như các biến thể COVID-19 khác, điều trị Omicron tàng hình chủ yếu là điều trị triệu chứng và theo dõi sát để ngăn ngừa biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi và cách ly",
+        "description": "Người bệnh cần nghỉ ngơi đầy đủ và tự cách ly để tránh lây lan virus cho người khác."
+      },
+      {
+        "name": "Uống nhiều nước",
+        "description": "Bổ sung đủ nước để cơ thể không bị mất nước."
+      },
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Sử dụng thuốc hạ sốt, giảm đau nếu cần thiết."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Theo dõi sát các triệu chứng, đặc biệt là sốt và khó thở",
+      "Đến cơ sở y tế nếu tình trạng trở nên nghiêm trọng",
+      "Đảm bảo cách ly đúng cách để tránh lây lan cho người khác",
+      "Duy trì lối sống lành mạnh, ăn uống đầy đủ dinh dưỡng"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly tại nhà ít nhất 7 ngày",
+      "Đeo khẩu trang khi ở gần người khác",
+      "Sử dụng phòng và đồ dùng riêng nếu có thể",
+      "Thường xuyên rửa tay và khử khuẩn các bề mặt thường xuyên tiếp xúc"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm chủng đủ liều vắc xin COVID-19 là biện pháp hàng đầu phòng ngừa biến thể Omicron tàng hình. Khi đã tiêm vắc xin đủ liều, nếu nhiễm bệnh, triệu chứng thường nhẹ như cảm nhẹ.",
+      "recommended_for": [
+        "Tất cả mọi người từ 5 tuổi trở lên",
+        "Đặc biệt quan trọng cho người cao tuổi và người có bệnh nền"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Đeo khẩu trang đúng cách khi ở nơi công cộng",
+      "Thường xuyên rửa tay bằng xà phòng hoặc dung dịch sát khuẩn",
+      "Giữ khoảng cách an toàn với người khác",
+      "Tránh tụ tập đông người, đặc biệt là trong không gian kín",
+      "Tiêm Evusheld - kháng thể đơn dòng dự phòng COVID-19 đối với người không thể tiêm vắc xin hoặc không thể sản sinh đủ kháng thể"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Omicron tàng hình có dễ lây lan hơn biến thể gốc không?",
+      "answer": "Có, theo các nghiên cứu ban đầu, Omicron tàng hình (BA.2) có khả năng lây nhiễm cao hơn đến 30% so với biến thể Omicron gốc (BA.1 và BA.1.1). BA.2 có lợi thế tăng trưởng hơn, dễ lây truyền hơn so với biến thể gốc."
+    },
+    {
+      "question": "Omicron tàng hình có gây bệnh nặng hơn biến thể gốc không?",
+      "answer": "Không, mặc dù có nghiên cứu của các nhà khoa học Nhật Bản đưa ra nhận định Omicron tàng hình có thể gây ra nhiều nguy cơ bệnh nặng hơn thể Omicron gốc, nhưng ghi nhận tại Đan Mạch cho thấy tỷ lệ nhập viện do biến thể BA.2 tương đương với Omicron gốc và nhẹ hơn so với biến thể Delta. Cơ quan Y tế công cộng của châu Phi cũng nhận định BA.2 không gây ra bệnh nặng hơn BA.1."
+    },
+    {
+      "question": "Vì sao kit test nhanh khó phát hiện Omicron tàng hình?",
+      "answer": "Có nhiều lý do dẫn đến việc test nhanh khó phát hiện Omicron tàng hình: 1) Bạn có thể đã test vào những ngày đầu phơi nhiễm biến thể Omicron; 2) Trong quá trình thực hiện test nhanh, bạn đã thao tác sai; 3) Thị trường có nhiều loại kit test với mức độ nhạy và độ đặc hiệu không đồng đều, các kit giả, kém chất lượng đều có thể cho kết quả không tin cậy; 4) Một số loại kit test cũ không còn phù hợp với biến thể này."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sốt nhẹ và ho khan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "omicron-tang-hinh",
+        "covid-19",
+        "cam-cum",
+        "viem-hong"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy người hơi mệt mỏi và đau nhức cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["omicron-tang-hinh", "covid-19", "cum", "viem-co"]
+    },
+    {
+      "question": "Tôi hay bị ho, kèm theo sốt nhẹ và cảm giác ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "omicron-tang-hinh",
+        "covid-19",
+        "viem-phoi",
+        "viem-phe-quan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau rát họng và ho khan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "omicron-tang-hinh",
+        "viem-hong",
+        "covid-19",
+        "viem-amidan"
+      ]
+    },
+    {
+      "question": "Tôi hay hắt hơi và cảm thấy mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "omicron-tang-hinh",
+        "cum",
+        "viem-mui-di-ung",
+        "covid-19"
+      ]
     }
   ]
 }

@@ -1,39 +1,120 @@
 {
   "disease_id": "tat-khuc-xa",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tật khúc xạ",
+  "disease_alternative_names": [
+    "Rối loạn khúc xạ mắt",
+    "Khúc xạ mắt",
+    "Refractive Error"
+  ],
+  "disease_definition": "Tật khúc xạ là thuật ngữ chung dùng để chỉ các rối loạn về mắt khiến hình ảnh không hội tụ chính xác trên võng mạc, dẫn đến thị lực kém và khó nhìn rõ các vật ở xa hoặc gần. Có 4 loại tật khúc xạ chính: cận thị, viễn thị, loạn thị và lão thị.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nhìn mờ",
+      "description": "Không nhìn rõ các vật ở xa, vật ở gần hoặc cả hai tùy thuộc vào loại tật khúc xạ"
+    },
+    {
+      "name": "Tầm nhìn mơ hồ",
+      "description": "Cảm giác nhìn không rõ ràng, không tập trung được"
+    },
+    {
+      "name": "Nheo mắt",
+      "description": "Nheo mắt khi đọc sách hoặc nhìn vật ở xa để cố gắng nhìn rõ hơn"
+    },
+    {
+      "name": "Mỏi mắt",
+      "description": "Cảm giác mệt mỏi ở mắt khi nhìn lâu, đặc biệt khi sử dụng máy tính hoặc điện thoại"
+    },
+    {
+      "name": "Nhức đầu",
+      "description": "Đau đầu do trương lực cơ mi bù trừ quá mức hoặc nheo mắt và cau mày kéo dài"
+    },
+    {
+      "name": "Chớp mắt nhiều",
+      "description": "Chớp mắt liên tục, đặc biệt khi cố gắng nhìn"
+    },
+    {
+      "name": "Dụi mắt",
+      "description": "Thường xuyên dụi mắt, đặc biệt ở trẻ em"
+    },
+    {
+      "name": "Nhíu mắt",
+      "description": "Nhíu mắt khi cố gắng nhìn các vật ở xa"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tật khúc xạ có hai nguyên nhân chính: di truyền và môi trường. Trong đó, yếu tố di truyền chiếm tỷ lệ không nhiều. Những người có cả cha mẹ bị tật khúc xạ thì khả năng cao con cái cũng sẽ mắc phải.",
+    "related_factors": "Môi trường là yếu tố ảnh hưởng rất lớn đến việc mắc các tật khúc xạ. Hiện những trường hợp mắc tật khúc xạ đều có điểm chung do thói quen sinh hoạt không hợp lý như: ngồi sai tư thế, đọc sách báo trong điều kiện thiếu ánh sáng, lạm dụng các thiết bị điện tử. Ngoài ra, một vài nguyên nhân khác có thể kể đến như: thủy tinh thể bị lão hóa, tổn thương do chấn thương mắt, tiếp xúc trực tiếp với các nguồn ánh sáng mạnh, vệ sinh mắt sai cách, tuổi tác.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình mắc tật khúc xạ",
+    "Sử dụng thiết bị điện tử quá nhiều",
+    "Đọc sách, học tập trong điều kiện thiếu ánh sáng",
+    "Ngồi sai tư thế khi đọc sách hoặc sử dụng máy tính",
+    "Tuổi tác (đặc biệt là lão thị ở người trên 40 tuổi)",
+    "Tiếp xúc với ánh sáng mạnh không có bảo vệ",
+    "Vệ sinh mắt không đúng cách"
+  ],
+  "complications": [
+    "Suy giảm thị lực tiến triển nếu không điều trị",
+    "Ảnh hưởng đến học tập, công việc và sinh hoạt hàng ngày",
+    "Giảm chất lượng cuộc sống",
+    "Mệt mỏi, căng thẳng do mắt phải điều tiết nhiều",
+    "Đau đầu thường xuyên"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám mắt bằng bảng thị lực",
+      "Đo khúc xạ bằng máy đo khúc xạ tự động",
+      "Soi bóng đồng tử (cho trẻ nhỏ hoặc người không phản hồi được)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra mắt bằng bảng thị lực",
+        "description": "Người bệnh nhìn bảng thị lực ở khoảng cách 5m và đọc các ký tự, chữ số để đánh giá khả năng nhìn"
+      },
+      {
+        "name": "Đo khúc xạ",
+        "description": "Sử dụng máy đo khúc xạ mắt tự động để xác định loại và mức độ tật khúc xạ"
+      },
+      {
+        "name": "Đo bề mặt và độ dày giác mạc",
+        "description": "Kiểm tra tình trạng và độ dày của giác mạc, đặc biệt quan trọng trước khi phẫu thuật"
+      },
+      {
+        "name": "Kiểm tra tình trạng khô mắt",
+        "description": "Đánh giá lượng nước mắt và tình trạng khô mắt trước khi chọn phương pháp điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Có 3 cách chính để điều trị tật khúc xạ, tùy thuộc vào mức độ và nhu cầu của từng người. Việc lựa chọn phương pháp điều trị cần có sự tư vấn của bác sĩ chuyên khoa mắt.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đeo kính mắt",
+        "description": "Phương pháp phổ biến nhất, tiện lợi, hợp túi tiền, dễ thay đổi, nhiều loại kính để lựa chọn. Cần kiểm tra độ kính 6 tháng/lần"
+      },
+      {
+        "name": "Đeo kính áp tròng",
+        "description": "Phù hợp với thanh thiếu niên và người lớn, nhỏ gọn, người ngoài khó nhận biết. Tuy nhiên cần vệ sinh kỹ, có thể gây trầy xước giác mạc hoặc nhiễm trùng nếu sử dụng không đúng cách"
+      },
+      {
+        "name": "Phẫu thuật Lasik",
+        "description": "Phẫu thuật sử dụng tia laser để khắc phục các vấn đề về thị lực do tật khúc xạ. Một ca phẫu thuật kéo dài dưới 30 phút, là phương pháp phổ biến với hơn 40 triệu ca đã được thực hiện"
+      },
+      {
+        "name": "Phẫu thuật PRK",
+        "description": "Phẫu thuật cắt bỏ giác mạc bằng ánh sáng, giúp điều trị cận thị, viễn thị và loạn thị. Không khuyến cáo cho người có bệnh tăng nhãn áp, đang mang thai hoặc cho con bú"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thăm khám mắt định kỳ 6 tháng/lần",
+      "Kiểm tra độ kính 6 tháng/lần nếu đeo kính",
+      "Vệ sinh kính áp tròng đúng cách nếu sử dụng",
+      "Tham khảo ý kiến bác sĩ trước khi quyết định phẫu thuật",
+      "Tuân thủ hướng dẫn của bác sĩ sau điều trị",
+      "Hạn chế sử dụng thiết bị điện tử quá nhiều để giảm mỏi mắt"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +122,64 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thăm khám mắt định kỳ 6 tháng/lần để phát hiện sớm tật khúc xạ",
+      "Cải thiện môi trường học tập, làm việc với đủ ánh sáng",
+      "Điều chỉnh khoảng cách 50-60cm khi đọc sách hoặc sử dụng thiết bị điện tử",
+      "Áp dụng quy tắc 20-20-20: sau 20 phút làm việc với thiết bị điện tử, nghỉ 20 giây và nhìn xa 20 feet (khoảng 6m)",
+      "Tập cho trẻ ngồi học đúng tư thế",
+      "Kiểm soát thời gian trẻ sử dụng thiết bị thông minh",
+      "Cho trẻ tham gia các hoạt động ngoài trời",
+      "Ăn uống đầy đủ chất dinh dưỡng như vitamin A, lutein, zeaxanthin và kẽm",
+      "Tăng cường thực phẩm như khoai lang, cà rốt, cải bó xôi, trứng, sữa và các sản phẩm từ sữa"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tật khúc xạ có di truyền không?",
+      "answer": "Tật khúc xạ có thể do di truyền hoặc môi trường gây ra. Yếu tố di truyền chiếm tỷ lệ không nhiều. Những người có cả cha mẹ bị tật khúc xạ thì khả năng cao con cái cũng sẽ mắc phải. Tuy nhiên, môi trường và thói quen sinh hoạt là yếu tố ảnh hưởng rất lớn đến việc mắc các tật khúc xạ."
+    },
+    {
+      "question": "Có bao nhiêu loại tật khúc xạ?",
+      "answer": "Có 4 loại tật khúc xạ chính: 1) Cận thị: mắt chỉ nhìn rõ vật ở gần, không nhìn rõ vật ở xa. 2) Viễn thị: mắt khó nhìn rõ vật ở gần, phải điều tiết nhiều. 3) Loạn thị: hình ảnh bị méo mó do giác mạc có độ cong khác nhau. 4) Lão thị: khó nhìn rõ vật ở gần do lão hóa thủy tinh thể, thường gặp ở người trên 40 tuổi."
+    },
+    {
+      "question": "Trẻ em cần làm gì để phòng ngừa tật khúc xạ?",
+      "answer": "Để phòng ngừa tật khúc xạ ở trẻ em, cần: 1) Tập cho con ngồi học đúng tư thế. 2) Đảm bảo môi trường học tập đủ ánh sáng. 3) Giữ khoảng cách 50-60cm khi đọc sách. 4) Kiểm soát thời gian sử dụng thiết bị điện tử. 5) Khuyến khích trẻ tham gia các hoạt động ngoài trời. 6) Đưa trẻ đi khám mắt định kỳ 6 tháng/lần. 7) Chú ý đến các dấu hiệu bất thường như nheo mắt, dụi mắt, nghiêng đầu, cúi sát tập vở."
+    },
+    {
+      "question": "Làm thế nào để đọc kết quả đo khúc xạ?",
+      "answer": "Kết quả đo khúc xạ mắt bao gồm các chỉ số: R/OD (mắt phải), L/OS (mắt trái), SPH (độ cầu, dấu - là cận thị, dấu + là viễn thị), CYL (độ trụ, cho biết độ loạn của mắt), AX (trục của độ loạn), ADD (độ tăng thêm cho lão thị), PD (khoảng cách giữa hai đồng tử). Ví dụ, kết quả OD: -2,00D, OS: +2D nghĩa là mắt phải bị cận 2 độ, mắt trái bị viễn 2 độ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hay nheo mắt khi đọc sách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tật khúc xạ", "Cận thị", "Loạn thị"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhìn mờ, nhức đầu khi sử dụng máy tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tật khúc xạ",
+        "Hội chứng mắt khô",
+        "Mỏi mắt kỹ thuật số"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy mắt mỏi khi nhìn lâu vào màn hình điện thoại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tật khúc xạ",
+        "Hội chứng mắt khô",
+        "Mỏi mắt kỹ thuật số"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy khó nhìn rõ các vật ở xa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tật khúc xạ", "Cận thị", "Loạn thị"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó nhìn rõ các vật ở gần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tật khúc xạ", "Viễn thị", "Lão thị"]
     }
   ]
 }

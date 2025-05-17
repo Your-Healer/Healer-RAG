@@ -1,39 +1,141 @@
 {
   "disease_id": "soi-ong-mat-chu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sỏi ống mật chủ",
+  "disease_alternative_names": [
+    "Sỏi đường mật chính",
+    "Bile duct stones",
+    "Choledocholithiasis"
+  ],
+  "disease_definition": "Sỏi ống mật chủ là sự xuất hiện của ít nhất một viên sỏi mật trong đường mật chính ở ngoài gan (ống mật chủ). Sỏi có thể được tạo thành từ sắc tố mật hay những muối canxi và cholesterol. Ống mật chủ đóng vai trò quan trọng trong quá trình lưu thông dịch mật từ gan đến tá tràng, và sỏi có thể gây tắc nghẽn, dẫn đến nhiều biến chứng nguy hiểm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau hạ sườn phải",
+      "description": "Cơn đau quặn ở vùng hạ sườn phải hoặc thượng vị, có thể lan rộng lên vai phải hay lan đến sau lưng, kéo dài có thể đến 2-3 giờ"
+    },
+    {
+      "name": "Sốt cao và rét run",
+      "description": "Triệu chứng sốt xuất hiện sau khi có cơn đau vài giờ, có thể sốt cao 39-40°C kèm rét run và vã mồ hôi"
+    },
+    {
+      "name": "Da vàng, niêm mạc vàng",
+      "description": "Ban đầu vàng nhẹ ở củng mạc mắt, sau đó vàng da và vàng niêm mạc rõ rệt hơn, đây là dấu hiệu rõ nhất nhưng thường xuất hiện muộn"
+    },
+    {
+      "name": "Nước tiểu sẫm màu",
+      "description": "Nước tiểu ít và có màu sẫm giống nước vối, là triệu chứng thường được phát hiện sớm"
+    },
+    {
+      "name": "Phân bạc màu",
+      "description": "Do tắc mật hoàn toàn nên phân có thể bạc màu, chuyển thành màu đất sét"
+    },
+    {
+      "name": "Nôn",
+      "description": "Triệu chứng nôn thường đi kèm với cơn đau"
+    },
+    {
+      "name": "Ngứa da",
+      "description": "Một số trường hợp người bệnh có thể bị ngứa ở vùng ngoài da do muối mật bị nhiễm độc"
+    },
+    {
+      "name": "Túi mật căng to",
+      "description": "Người bệnh đôi khi thấy túi mật nổi lên ngay dưới bờ sườn phải như quả trứng, khi sờ vào thấy tròn, đều, nhẵn và đau khi ấn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sỏi ống mật chủ có thể hình thành do sự kết tủa của sắc tố mật và muối mật, thường xảy ra khi có ứ trệ dịch mật và nhiễm khuẩn.",
+    "related_factors": "Nhiễm khuẩn, nhiễm ký sinh trùng gây tổn thương thành đường mật, kết tủa sắc tố mật và muối mật; giun mang theo trứng hay xác giun chui lên ống mật; hoặc sỏi từ đường mật trong gan hay túi mật di chuyển xuống ống mật.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Béo phì, thừa cân",
+    "Chế độ ăn thiếu chất xơ, nhiều calo, bổ sung nhiều chất béo",
+    "Phụ nữ mang thai",
+    "Ăn chay kéo dài",
+    "Giảm cân quá nhanh",
+    "Lười vận động",
+    "Tuổi cao",
+    "Giới tính nữ",
+    "Tiền sử gia đình có người bị sỏi mật",
+    "Tiền sử sỏi mật, bệnh túi mật hoặc đã cắt túi mật"
+  ],
+  "complications": [
+    "Viêm đường mật do tắc nghẽn gây ứ đọng dịch mật, tạo môi trường thuận lợi cho vi khuẩn phát triển",
+    "Viêm túi mật cấp do tắc mật và nhiễm khuẩn thứ cấp, có thể gây hoại tử túi mật",
+    "Chảy máu đường mật do tổn thương thành ống dẫn mật",
+    "Viêm mủ đường mật khi nhiễm trùng nặng tạo thành ổ mủ",
+    "Áp xe đường mật, áp xe gan khi nhiễm trùng tiến triển nặng",
+    "Viêm phúc mạc mật khi dịch mật nhiễm khuẩn vào ổ bụng",
+    "Sốc nhiễm trùng, nhiễm trùng huyết có nguy cơ tử vong cao"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để đánh giá các triệu chứng như đau, sốt, vàng da",
+      "Đánh giá tiền sử bệnh lý sỏi mật, túi mật"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm bụng",
+        "description": "Phương pháp đơn giản, không xâm lấn để xác định sỏi và vị trí của sỏi đường mật"
+      },
+      {
+        "name": "CT scan bụng",
+        "description": "Cung cấp hình ảnh chi tiết hơn về sỏi và các cấu trúc xung quanh"
+      },
+      {
+        "name": "Nội soi mật tụy ngược dòng (ERCP)",
+        "description": "Phương pháp chẩn đoán và điều trị, có thể thực hiện lấy sỏi trong cùng một thủ thuật"
+      },
+      {
+        "name": "Siêu âm nội soi",
+        "description": "Kết hợp siêu âm và nội soi để cung cấp hình ảnh chi tiết hơn về đường mật"
+      },
+      {
+        "name": "Cộng hưởng từ mật tụy (MRCP)",
+        "description": "Phương pháp không xâm lấn cung cấp hình ảnh chi tiết của đường mật"
+      },
+      {
+        "name": "Xét nghiệm bilirubin",
+        "description": "Đánh giá mức độ tắc mật và chức năng gan"
+      },
+      {
+        "name": "Công thức máu (CBC)",
+        "description": "Đánh giá tình trạng nhiễm trùng"
+      },
+      {
+        "name": "Xét nghiệm chức năng gan",
+        "description": "Đánh giá mức độ tổn thương gan"
+      },
+      {
+        "name": "Xét nghiệm men tụy",
+        "description": "Đánh giá tình trạng viêm tụy có thể do sỏi gây ra"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Sỏi ống mật chủ cần được điều trị, kể cả khi không có triệu chứng, do nguy cơ tiến triển thành nhiễm trùng đường mật và các biến chứng khác.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi chụp mật tụy ngược dòng (ERCP)",
+        "description": "Cắt cơ vòng Oddi lấy sỏi bằng bóng hoặc bằng rọ; có thể đặt dẫn lưu mật ruột tạm thời trong trường hợp nhiễm trùng đường mật nặng"
+      },
+      {
+        "name": "Nội soi đường mật",
+        "description": "Tán sỏi điện - thủy lực hoặc tán sỏi laser đối với trường hợp sỏi khó can thiệp qua nội soi mật tụy ngược dòng"
+      },
+      {
+        "name": "Phẫu thuật lấy sỏi ống mật chủ",
+        "description": "Áp dụng khi can thiệp qua nội soi mật tụy ngược dòng không lấy được sỏi hoặc sau cắt dạ dày mà máy nội soi không tiếp cận được papilla"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Chế độ ăn giảm mỡ động vật, tăng cường dầu thực vật",
+      "Ưu tiên rau quả củ trong thực đơn mỗi ngày",
+      "Giữ vệ sinh an toàn thực phẩm trong ăn uống",
+      "Uống nhiều nước",
+      "Thực hiện nếp sống đảm bảo vệ sinh mọi lúc, mọi nơi",
+      "Tẩy giun định kỳ sau khi xuất viện",
+      "Kiểm tra định kỳ sau xuất viện bao gồm lâm sàng và cận lâm sàng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +143,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bổ sung thực phẩm chứa chất béo lành mạnh như cá hồi, dầu ô-liu, dầu đậu nành, quả bơ hay các loại hạt",
+      "Tăng cường thực phẩm giàu chất xơ hòa tan, vitamin C và các vitamin tan trong dầu (A, D, E, K)",
+      "Sử dụng sữa và các chế phẩm từ sữa ít béo",
+      "Bổ sung đạm thực vật từ hạt hướng dương, hạt mè, rau có màu xanh thẫm",
+      "Lựa chọn nguồn đường bột từ thực phẩm còn nguyên vỏ cám như bánh mì đen, gạo lứt, ngũ cốc nguyên hạt",
+      "Uống nhiều nước mỗi ngày để giúp đào thải độc tố",
+      "Hạn chế chiên xào, ưu tiên nướng, hấp, luộc khi chế biến thức ăn",
+      "Tránh dùng dầu quá nhiều, hạn chế dùng muối (dưới 6g/ngày)"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sỏi ống mật chủ là gì?",
+      "answer": "Sỏi ống mật chủ là sự xuất hiện của ít nhất một viên sỏi mật trong đường mật chính ở ngoài gan (ống mật chủ). Sỏi có thể được tạo thành từ sắc tố mật hay những muối canxi và cholesterol. Ống mật chủ đóng vai trò quan trọng trong quá trình lưu thông dịch mật từ gan đến tá tràng nhằm hỗ trợ tiêu hóa thức ăn. Sỏi khi xuất hiện tại ống mật có thể làm giảm đáng kể lượng dịch mật đến tá tràng, gây đầy chướng và chậm tiêu."
+    },
+    {
+      "question": "Triệu chứng của sỏi ống mật chủ là gì?",
+      "answer": "Triệu chứng của sỏi ống mật chủ bao gồm: đau hạ sườn phải hoặc thượng vị, đau lan rộng lên vai phải hay lan đến sau lưng; sốt cao 39-40°C kèm rét run; da vàng, niêm mạc vàng; nước tiểu sẫm màu; phân bạc màu; nôn; ngứa da; và có thể thấy túi mật căng to. Các triệu chứng này thường diễn ra và biến mất theo một quá trình nhất định."
+    },
+    {
+      "question": "Sỏi ống mật chủ có nguy hiểm không?",
+      "answer": "Sỏi ống mật chủ rất nguy hiểm nếu không được điều trị kịp thời. Bệnh có thể gây ra nhiều biến chứng nghiêm trọng như viêm đường mật, viêm túi mật cấp, chảy máu đường mật, viêm mủ đường mật, áp xe đường mật và áp xe gan, viêm phúc mạc mật, sốc nhiễm trùng và nhiễm trùng huyết. Trong trường hợp sốc nhiễm trùng, nguy cơ tử vong rất cao nếu không được cấp cứu kịp thời."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán sỏi ống mật chủ?",
+      "answer": "Chẩn đoán sỏi ống mật chủ dựa vào khám lâm sàng và các phương pháp chẩn đoán hình ảnh như siêu âm bụng, CT scan bụng, nội soi mật tụy ngược dòng (ERCP), siêu âm nội soi và cộng hưởng từ mật tụy (MRCP). Ngoài ra, các xét nghiệm máu như bilirubin, công thức máu, xét nghiệm chức năng gan và men tụy cũng được sử dụng để đánh giá tình trạng nhiễm trùng và chức năng gan-tụy."
+    },
+    {
+      "question": "Sỏi ống mật chủ được điều trị như thế nào?",
+      "answer": "Điều trị sỏi ống mật chủ thường bao gồm: nội soi chụp mật tụy ngược dòng (ERCP) để cắt cơ vòng Oddi và lấy sỏi bằng bóng hoặc rọ; nội soi đường mật để tán sỏi điện-thủy lực hoặc tán sỏi laser; và phẫu thuật lấy sỏi ống mật chủ trong trường hợp không thể can thiệp qua nội soi. Ngay cả sỏi ống mật chủ không triệu chứng cũng cần được điều trị để ngăn ngừa biến chứng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi bị đau dữ dội ở hạ sườn phải, lan lên vai và lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-ong-mat-chu", "soi-mat", "viem-tui-mat"]
+    },
+    {
+      "question": "Tôi bị sốt cao, rét run và vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-ong-mat-chu", "viem-gan", "viem-duong-mat"]
+    },
+    {
+      "question": "Tôi thấy mệt mỏi, chán ăn và da vàng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-ong-mat-chu", "viem-gan", "xo-gan"]
+    },
+    {
+      "question": "Tôi bị đau bụng, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-ong-mat-chu", "viem-tui-mat", "viem-da-day"]
+    },
+    {
+      "question": "Tôi bị ngứa da và nước tiểu sẫm màu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["soi-ong-mat-chu", "viem-gan", "vang-da"]
     }
   ]
 }

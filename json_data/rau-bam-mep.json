@@ -1,39 +1,88 @@
 {
   "disease_id": "rau-bam-mep",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rau bám mép (Nhau bám mép)",
+  "disease_alternative_names": [
+    "Nhau bám mép",
+    "Rau tiền đạo bám mép",
+    "Placenta previa marginalis"
+  ],
+  "disease_definition": "Rau bám mép hay nhau bám mép là tình trạng bờ của bánh rau nằm sát mép lỗ tử cung, khi chuyển dạ cổ tử cung mở có thể sờ thấy mép của bánh rau.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chảy máu âm đạo bất thường",
+      "description": "Xuất hiện máu tươi hoặc máu cục từ âm đạo mà không gây đau đớn, thường xảy ra ở 3 tháng cuối của thai kỳ"
+    },
+    {
+      "name": "Xuất huyết âm đạo tự khỏi",
+      "description": "Tình trạng chảy máu tự hết không cần can thiệp điều trị, có thể tái phát sau vài ngày hoặc vài tuần với lượng máu ngày càng tăng"
+    },
+    {
+      "name": "Đau bụng do tử cung co thắt",
+      "description": "Xuất hiện cơn đau bụng do tử cung co thắt khi rau thai bám không đúng vị trí"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Phôi thai làm tổ ở đoạn dưới của tử cung, khiến nhau thai phát triển ở vị trí này và không xê dịch lên phía trên trong suốt thai kỳ.",
+    "related_factors": "Tuổi mẹ từ 35 trở lên, sinh nở nhiều lần, tiền sử sảy thai hoặc nạo phá thai nhiều lần, tiền sử viêm nhiễm cổ tử cung, tiền sử bị rau tiền đạo, mang song thai hoặc đa thai, hình dạng tử cung bất thường.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ mang thai từ 35 tuổi trở lên",
+    "Phụ nữ trải qua sinh nở nhiều lần",
+    "Tiền sử từng sảy thai hoặc nạo phá thai nhiều lần",
+    "Tiền sử viêm nhiễm cổ tử cung",
+    "Tiền sử bị rau tiền đạo ở những lần mang thai trước",
+    "Mang song thai hoặc đa thai",
+    "Hình dạng tử cung bất thường",
+    "Lối sống và sinh hoạt không lành mạnh, thường xuyên sử dụng chất kích thích"
+  ],
+  "complications": [
+    "Chảy máu âm đạo thường xuyên dẫn đến thiếu máu",
+    "Nguy cơ cao bị sinh non",
+    "Thai nhi bị thiếu máu và suy dinh dưỡng",
+    "Suy thai trong bụng mẹ",
+    "Ngôi thai ngược do khó xoay đầu",
+    "Thai nhi sinh non có thể mắc chứng suy hô hấp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Siêu âm thai từ tuần thứ 20 của thai kỳ",
+      "Theo dõi định kỳ theo hướng dẫn của bác sĩ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm thai",
+        "description": "Sử dụng siêu âm 2D, 3D, 4D, siêu âm màu Doppler để quan sát hình ảnh bánh rau bám vào vị trí nào ở tử cung"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nguyên tắc chung trong điều trị rau bám mép cổ tử cung là cầm máu ngay để đảm bảo an toàn tính mạng cho mẹ bầu. Tùy vào tuổi thai nhi và mức độ xuất huyết âm đạo mà sẽ có đánh giá và chỉ định phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi và theo dõi",
+        "description": "Hạn chế đi lại, nên nằm nghỉ ngơi nhiều, có chế độ ăn uống bổ sung dinh dưỡng hợp lý đối với trường hợp chưa có dấu hiệu chuyển dạ"
+      },
+      {
+        "name": "Truyền bù máu",
+        "description": "Truyền máu để bù lại lượng máu mất đi và tiếp tục thai kỳ nếu tình trạng mẹ và bé ổn định"
+      },
+      {
+        "name": "Mổ lấy thai khẩn cấp",
+        "description": "Nếu mẹ xuất huyết nhiều, chỉ định can thiệp mổ lấy thai ở bất kỳ tuổi thai nào nhằm cầm máu cứu mẹ"
+      },
+      {
+        "name": "Bấm ối và xé màng ối",
+        "description": "Nếu xuất huyết ít, xé màng ối về phía không có bánh rau để cầm máu trong trường hợp đang chuyển dạ"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chặt chẽ lịch khám thai",
+      "Nhập viện ngay nếu có dấu hiệu chảy máu âm đạo",
+      "Hạn chế hoạt động thể lực mạnh",
+      "Không quan hệ tình dục trong thời gian mang thai",
+      "Bổ sung đầy đủ dưỡng chất, đặc biệt là sắt để phòng tránh thiếu máu"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +90,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh mang thai khi đã lớn tuổi (trên 35 tuổi)",
+      "Tuân thủ chặt chẽ hướng dẫn của bác sĩ sau mổ lấy thai",
+      "Thực hiện lối sống lành mạnh, không sử dụng các chất kích thích khi mang thai",
+      "Thăm khám ngay ở cơ sở y tế có chuyên khoa Sản khi có bất cứ dấu hiệu bất thường",
+      "Nhập viện ngay để được theo dõi chặt chẽ nếu chẩn đoán rau bám mép ở những tháng cuối thai kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rau bám mép có nguy hiểm không?",
+      "answer": "Rau bám mép là một trong những nguyên nhân hàng đầu gây băng huyết trong thai kỳ, thậm chí đe dọa tính mạng của mẹ và bé nếu không được phát hiện sớm và can thiệp xử trí kịp thời. Khi bị rau bám mép, mẹ bầu có nguy cơ bị chảy máu âm đạo thường xuyên, dẫn đến thiếu máu và nguy cơ cao bị sinh non. Thai nhi cũng có thể bị thiếu máu, suy dinh dưỡng và suy thai ngay trong bụng mẹ."
+    },
+    {
+      "question": "Bị rau bám mép có sinh thường được không?",
+      "answer": "Phụ thuộc vào tình trạng sức khỏe của mẹ bầu khi chuyển dạ mà bác sĩ sẽ cân nhắc chỉ định sinh thường hay sinh mổ. Nhiều trường hợp vẫn có khả năng sinh thường nếu mẹ không xuất huyết nhiều hoặc không có vấn đề bất thường. Tuy nhiên, nếu sinh thường tiềm ẩn nhiều nguy cơ, bác sĩ sẽ chỉ định sinh mổ để đảm bảo an toàn cho mẹ bầu và thai nhi."
+    },
+    {
+      "question": "Làm sao để phát hiện sớm rau bám mép?",
+      "answer": "Hầu hết các trường hợp rau tiền đạo bám mép có thể được phát hiện từ tuần thứ 20 của thai kỳ nhờ phương pháp siêu âm thai. Khi siêu âm, bác sĩ có thể quan sát hình ảnh bánh rau bám vào vị trí nào ở tử cung. Vì vậy, mẹ bầu cần tuân thủ chặt chẽ lịch khám và theo dõi thai theo hướng dẫn của bác sĩ."
+    },
+    {
+      "question": "Nguyên nhân gây ra rau bám mép là gì?",
+      "answer": "Nguyên nhân chính dẫn đến rau bám mép là do phôi thai làm tổ ở đoạn dưới của tử cung nên nhau thai sẽ phát triển ở ngay vị trí này. Các yếu tố làm tăng nguy cơ bao gồm: phụ nữ mang thai từ 35 tuổi trở lên, sinh nở nhiều lần, tiền sử sảy thai hoặc nạo phá thai nhiều lần, tiền sử viêm nhiễm cổ tử cung, và tiền sử bị rau tiền đạo ở lần mang thai trước."
+    },
+    {
+      "question": "Cách điều trị rau bám mép như thế nào?",
+      "answer": "Nguyên tắc điều trị là cầm máu ngay để đảm bảo an toàn tính mạng cho mẹ bầu. Tùy vào tuổi thai và mức độ xuất huyết mà có thể áp dụng các biện pháp như nghỉ ngơi, hạn chế đi lại, truyền bù máu, hoặc mổ lấy thai khẩn cấp. Với trường hợp đang chuyển dạ, nếu xuất huyết ít có thể bấm ối và xé màng ối về phía không có bánh rau để cầm máu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang mang thai và có các triệu chứng như chảy máu âm đạo bất thường, có thể là máu tươi hoặc máu cục nhưng không hề gây đau đớn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rau-bam-mep", "rau-tien-dao"]
+    },
+    {
+      "question": "Tôi đang mang thai 3 tháng cuối và bị xuất huyết âm đạo tự khỏi mà không cần can thiệp điều trị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rau-bam-mep", "rau-tien-dao"]
+    },
+    {
+      "question": "Tôi hay bị xuất huyết âm đạo tái phát sau vài ngày hoặc vài tuần, và lượng máu ngày càng tăng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rau-bam-mep", "bang-huyet-sau-sinh"]
+    },
+    {
+      "question": "Tôi đang mang thai và bị đau bụng do tử cung co thắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rau-bam-mep", "doa-say-thai", "chuyen-da-som"]
+    },
+    {
+      "question": "Tôi lo lắng vì mình có nguy cơ cao bị rau bám mép. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["rau-bam-mep"]
     }
   ]
 }

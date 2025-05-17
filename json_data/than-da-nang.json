@@ -1,39 +1,133 @@
 {
   "disease_id": "than-da-nang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thận đa nang",
+  "disease_alternative_names": [
+    "Bệnh thận đa nang",
+    "Polycystic kidney disease (PKD)"
+  ],
+  "disease_definition": "Bệnh thận đa nang là một rối loạn di truyền, trong đó các cụm u nang phát triển bên trong thận, khiến thận tăng dần kích thước và suy giảm chức năng theo thời gian. U nang là những túi tròn không ung thư, có chứa chất lỏng, có thể phát triển rất lớn và gây hỏng thận. Bệnh thường xuất hiện ở độ tuổi sau 30-40, rất ít gặp khi còn nhỏ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Huyết áp cao",
+      "description": "Tăng huyết áp, thường là biến chứng phổ biến của bệnh thận đa nang"
+    },
+    {
+      "name": "Đau lưng hoặc đau hông",
+      "description": "Cảm giác đau ở vùng lưng hoặc hông do thận to gây chèn ép"
+    },
+    {
+      "name": "Có máu trong nước tiểu",
+      "description": "Nước tiểu có màu đỏ hoặc nâu do có máu lẫn trong đó"
+    },
+    {
+      "name": "Cảm giác đầy bụng",
+      "description": "Cảm giác căng, đầy ở vùng bụng"
+    },
+    {
+      "name": "Tăng kích thước bụng",
+      "description": "Bụng to ra do thận tăng kích thước"
+    },
+    {
+      "name": "Nhức đầu",
+      "description": "Đau đầu thường xuyên, có thể liên quan đến huyết áp cao"
+    },
+    {
+      "name": "Sỏi thận",
+      "description": "Hình thành sỏi trong thận"
+    },
+    {
+      "name": "Suy thận",
+      "description": "Thận không thể hoạt động bình thường để lọc chất thải"
+    },
+    {
+      "name": "Nhiễm trùng đường tiết niệu hoặc thận",
+      "description": "Viêm nhiễm ở hệ tiết niệu hoặc thận"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sự phát sinh và phát triển nang thận phụ thuộc vào hai yếu tố gen và môi trường. Bệnh chủ yếu có yếu tố di truyền, nhưng đôi khi do đột biến di truyền xảy ra tự phát.",
+    "related_factors": "Chất hóa học hoặc thuốc (như diphenyl-thiazole, nordihydro guaiaretic acid, alloxan, steptozotoxin, lithium cloride và cis-platinium) có thể gây bệnh. Bệnh được chia làm hai loại: thận đa nang trội trên nhiễm sắc thể thường (ADPKD) xuất hiện ở tuổi 30-40 và thận đa nang lặn trên nhiễm sắc thể thường (ARPKD) xuất hiện ngay sau sinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố di truyền từ cha mẹ",
+    "Có người thân trong gia đình mắc bệnh thận đa nang",
+    "Đột biến gen tự phát",
+    "Tiếp xúc với một số chất hóa học hoặc thuốc đặc biệt"
+  ],
+  "complications": [
+    "Huyết áp cao",
+    "Mất chức năng thận và suy thận",
+    "Đau mãn tính",
+    "Phát triển u nang trong gan",
+    "Phình động mạch trong não",
+    "Biến chứng khi mang thai như tiền sản giật",
+    "Bất thường van tim (sa van hai lá)",
+    "Các vấn đề về ruột kết",
+    "Chảy máu trong nang gây tiểu máu đại thể",
+    "Nhiễm khuẩn",
+    "Sỏi thận",
+    "Ung thư thận",
+    "Thiếu máu",
+    "Tăng acid uric máu"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá tiền sử gia đình",
+      "Khám lâm sàng để phát hiện dấu hiệu như đau lưng, huyết áp cao"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Kiểm tra kích thước thận và phát hiện các nang, thường thấy hai thận to, có nhiều nang kích cỡ khác nhau ở cả vùng vỏ và vùng tủy thận"
+      },
+      {
+        "name": "Chụp cắt lớp thận (CT scan)",
+        "description": "Cung cấp hình ảnh chi tiết về thận và các nang"
+      },
+      {
+        "name": "Xét nghiệm gen",
+        "description": "Xác định bất thường ở đầu xa nhánh ngắn của nhiễm sắc thể 16"
+      },
+      {
+        "name": "Kiểm tra sự hiện diện của nang ở gan",
+        "description": "Xác định sự hiện diện của nang ở gan, thường đi kèm với thận đa nang"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nguyên tắc chung là điều trị triệu chứng và biến chứng của bệnh thận đa nang, không có phương pháp điều trị đặc hiệu để chữa khỏi hoàn toàn bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nhiễm khuẩn thận",
+        "description": "Sử dụng kháng sinh phù hợp để điều trị nhiễm trùng thận"
+      },
+      {
+        "name": "Điều trị tăng huyết áp",
+        "description": "Sử dụng các nhóm thuốc hạ huyết áp để kiểm soát huyết áp"
+      },
+      {
+        "name": "Cắt thận",
+        "description": "Áp dụng khi nang thận quá to, có biến chứng tiểu máu, nhiễm trùng tái phát"
+      },
+      {
+        "name": "Điều trị suy thận",
+        "description": "Bảo tồn và thay thế khi suy thận giai đoạn cuối bằng lọc máu và ghép thận"
+      },
+      {
+        "name": "Lọc màng bụng",
+        "description": "Áp dụng cho những trường hợp nang không quá lớn"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống thuốc huyết áp theo chỉ định của bác sĩ",
+      "Duy trì chế độ ăn ít muối",
+      "Ăn nhiều trái cây, rau và ngũ cốc nguyên hạt",
+      "Duy trì cân nặng hợp lý",
+      "Luyện tập thể dục đều đặn ít nhất 30 phút mỗi ngày",
+      "Hạn chế sử dụng rượu bia",
+      "Bỏ thuốc lá nếu đang hút"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +135,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tìm đến bác sĩ di truyền để được tư vấn nếu có kế hoạch sinh con",
+      "Tầm soát bệnh nếu có người thân mắc bệnh thận đa nang",
+      "Kiểm soát huyết áp để giữ thận khỏe mạnh",
+      "Duy trì chế độ ăn ít muối",
+      "Duy trì cân nặng hợp lý",
+      "Bỏ thuốc lá",
+      "Luyện tập thể dục đều đặn",
+      "Hạn chế sử dụng rượu bia"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thận đa nang có di truyền không?",
+      "answer": "Có, thận đa nang là một bệnh di truyền. Có hai loại chính: thận đa nang trội trên nhiễm sắc thể thường (ADPKD) và thận đa nang lặn trên nhiễm sắc thể thường (ARPKD). Với ADPKD, nếu bố/mẹ mắc bệnh, mỗi đứa trẻ có 50% nguy cơ mắc bệnh. Với ARPKD, cả bố và mẹ đều phải có gen bất thường, khi đó mỗi đứa trẻ có 25% khả năng mắc bệnh."
+    },
+    {
+      "question": "Thận đa nang có điều trị được không?",
+      "answer": "Hiện không có phương pháp điều trị đặc hiệu để chữa khỏi hoàn toàn bệnh thận đa nang. Nguyên tắc chung là điều trị triệu chứng và biến chứng. Các phương pháp điều trị bao gồm: thuốc kháng sinh cho nhiễm khuẩn thận, thuốc hạ huyết áp cho tăng huyết áp, cắt thận khi nang quá to, và điều trị suy thận bằng lọc máu hoặc ghép thận khi bệnh tiến triển đến giai đoạn cuối."
+    },
+    {
+      "question": "Thận đa nang có gây ra những biến chứng gì?",
+      "answer": "Thận đa nang có thể gây ra nhiều biến chứng nghiêm trọng bao gồm: huyết áp cao, mất chức năng thận dẫn đến suy thận, đau mãn tính, u nang trong gan, phình động mạch não, biến chứng khi mang thai, bất thường van tim, vấn đề về ruột kết, chảy máu trong nang, nhiễm khuẩn, sỏi thận, ung thư thận, thiếu máu và tăng acid uric máu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau lưng, đau hông và huyết áp cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thận đa nang", "Suy thận", "Bệnh thận mạn tính"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đầy bụng, khó chịu và có máu trong nước tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thận đa nang",
+        "Nhiễm trùng đường tiết niệu",
+        "Sỏi thận"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu, sỏi thận và nhiễm trùng đường tiết niệu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thận đa nang", "Bệnh thận mạn tính", "Viêm bể thận"]
+    },
+    {
+      "question": "Tôi đang gặp vấn đề về thận, kích thước bụng tăng lên và cảm giác mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Thận đa nang", "Khối u thận", "Suy thận"]
+    },
+    {
+      "question": "Tôi hay bị đau lưng, tiểu buốt, tiểu rắt và nước tiểu có màu bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thận đa nang",
+        "Nhiễm trùng đường tiết niệu",
+        "Sỏi thận"
+      ]
     }
   ]
 }

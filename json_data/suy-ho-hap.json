@@ -1,58 +1,232 @@
 {
   "disease_id": "suy-ho-hap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy hô hấp",
+  "disease_alternative_names": [
+    "Hội chứng suy phổi",
+    "Suy phổi",
+    "Respiratory Failure"
+  ],
+  "disease_definition": "Suy hô hấp là tình trạng phổi không nhận đủ lượng oxy, hoặc sự tích tụ quá nhiều carbon dioxide làm hỏng các cơ quan trong cơ thể. Tình trạng này làm suy giảm oxy máu động mạch, kết quả làm chậm quá trình phân phối oxy đến các mô. Về mặt thực hành, suy hô hấp được định nghĩa bởi PaO2 (áp lực riêng khí oxy trong động mạch) < 60mmHg và/hoặc PaCO2 (áp lực riêng khí carbon dioxide trong động mạch) > 50mmHg.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó thở và thở nhanh",
+      "description": "Người bệnh có cảm giác khó thở, luôn cảm thấy thiếu không khí để hít thở"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cơ thể mệt mỏi, gặp khó khăn trong các hoạt động sinh hoạt hàng ngày như mặc quần áo, lên xuống cầu thang"
+    },
+    {
+      "name": "Buồn ngủ",
+      "description": "Người bệnh luôn trong trạng thái buồn ngủ do thiếu oxy lên não"
+    },
+    {
+      "name": "Da và môi tím tái",
+      "description": "Ngón tay, ngón chân và môi xanh xao, nhợt nhạt do thiếu oxy trong máu"
+    },
+    {
+      "name": "Nhìn mờ",
+      "description": "Thị lực giảm sút, nhìn mờ do nồng độ carbon dioxide trong máu tăng cao"
+    },
+    {
+      "name": "Đau đầu và lú lẫn",
+      "description": "Đau đầu, lú lẫn, không tỉnh táo do carbon dioxide tăng cao trong máu"
+    },
+    {
+      "name": "Nhịp tim nhanh",
+      "description": "Tim đập nhanh hơn bình thường, thở nhanh để bù đắp tình trạng thiếu oxy"
+    },
+    {
+      "name": "Kéo cơ ở giữa các xương sườn khi thở",
+      "description": "Đặc biệt ở trẻ sơ sinh, có hiện tượng kéo cơ ở giữa các xương sườn khi thở"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy hô hấp xảy ra do các tổn thương ở hệ hô hấp, có thể ảnh hưởng đến đường thở hoặc phổi; hoặc tác động đến các cơ, dây thần kinh, xương và các mô hỗ trợ hô hấp.",
+    "related_factors": "Bệnh có thể do tổn thương trực tiếp tại phổi như viêm phổi, xơ phổi, lao phổi, hoặc do nguyên nhân ngoài phổi như tắc nghẽn đường thở, chấn thương lồng ngực, tổn thương hệ thần kinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ sinh non (phổi chưa phát triển hoàn thiện)",
+    "Người lớn tuổi (sức đề kháng giảm sút)",
+    "Người thường tiếp xúc với khói bụi, hóa chất độc hại",
+    "Người hút thuốc lá, sử dụng chất kích thích",
+    "Người uống rượu bia quá nhiều",
+    "Người có tiền sử chấn thương ở đường hô hấp",
+    "Người mắc các bệnh lý phổi mạn tính như xơ phổi, viêm phổi, COPD",
+    "Người mắc các bệnh lý thần kinh-cơ ảnh hưởng đến hô hấp như ALS, chấn thương tủy sống",
+    "Người có vấn đề ở cột sống ảnh hưởng đến hô hấp như cong vẹo cột sống",
+    "Người bị chấn thương ngực và phổi"
+  ],
+  "complications": [
+    "Loạn nhịp tim",
+    "Chấn thương, tổn thương não",
+    "Suy thận",
+    "Tổn thương phổi",
+    "Đe dọa tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác bệnh sử và triệu chứng",
+      "Khám lâm sàng (kiểm tra màu da, nhịp tim, nghe phổi)",
+      "Đo oxy xung (SpO2)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm khí máu động mạch",
+        "description": "Lấy mẫu máu từ động mạch để kiểm tra nồng độ oxy, carbon dioxide, pH, bicarbonate"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp phát hiện nguyên nhân gây suy hô hấp cũng như tình trạng hoạt động của các cơ quan khác"
+      },
+      {
+        "name": "Xét nghiệm vi sinh",
+        "description": "Kiểm tra mẫu máu, nước tiểu hoặc đờm để xác định có nhiễm vi khuẩn hay không"
+      },
+      {
+        "name": "Nội soi phế quản",
+        "description": "Kiểm tra tắc nghẽn phế quản, các khối u và những nguyên nhân khác gây suy phổi"
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Xác định các tác nhân ở phổi hoặc tim gây suy hô hấp"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính lồng ngực",
+        "description": "Kiểm tra phổi và các hiện tượng viêm nhiễm, tổn thương nếu có"
+      },
+      {
+        "name": "Điện tâm đồ (EKG hoặc ECG)",
+        "description": "Kiểm tra nhịp tim và hoạt động của tim"
+      },
+      {
+        "name": "Siêu âm phổi",
+        "description": "Kiểm tra tình trạng hoạt động của phổi"
+      },
+      {
+        "name": "Sinh thiết phổi",
+        "description": "Thu thập các mẫu mô phổi của người bệnh để xét nghiệm"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục đích chính của việc điều trị suy hô hấp là đưa oxy đến phổi và các cơ quan khác, đồng thời loại bỏ carbon dioxide ra khỏi cơ thể. Bên cạnh đó, các phương pháp điều trị còn giúp loại bỏ các tác nhân gây bệnh, hạn chế nguy cơ gây biến chứng nguy hiểm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Liệu pháp oxy qua ống thông mũi",
+        "description": "Ống nhựa gắn với bình oxy di động được đặt vào mũi của người bệnh, hoặc sử dụng ống thông mũi dòng chảy cao"
+      },
+      {
+        "name": "Mặt nạ thông khí",
+        "description": "Người bệnh được đeo mặt nạ gắn vào túi khí để lượng oxy vào phổi nhiều hơn, thường sử dụng trong trường hợp suy hô hấp đợt cấp"
+      },
+      {
+        "name": "Thông khí áp lực dương không xâm lấn (NPPV)",
+        "description": "Sử dụng mặt nạ nối với máy thổi khí vào ống, giúp giữ đường thở của người bệnh được mở"
+      },
+      {
+        "name": "Máy thở cơ học",
+        "description": "Giúp thổi không khí với lượng oxy cao vào đường thở và phổi của người bệnh khi các liệu pháp thở oxy khác không hiệu quả"
+      },
+      {
+        "name": "Mở khí quản",
+        "description": "Phẫu thuật tạo một lỗ đi qua phía trước cổ và vào khí quản trong trường hợp đường thở bị tắc nghẽn"
+      },
+      {
+        "name": "Oxy hóa màng ngoài cơ thể (ECMO)",
+        "description": "Bơm máu qua phổi nhân tạo để bổ sung oxy, loại bỏ carbon dioxide trước khi đưa máu trở lại cơ thể, sử dụng cho người bệnh suy hô hấp nghiêm trọng"
+      },
+      {
+        "name": "Điều trị thuốc",
+        "description": "Sử dụng thuốc kháng sinh điều trị nhiễm trùng, thuốc giãn phế quản mở đường thở, corticoid thu nhỏ đường thở và giảm viêm"
+      },
+      {
+        "name": "Dinh dưỡng và vật lý trị liệu",
+        "description": "Bổ sung dinh dưỡng và thực hiện vật lý trị liệu để duy trì sức mạnh cơ thể, ngăn ngừa biến chứng và thúc đẩy phục hồi"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chỉ định của bác sĩ",
+      "Thực hiện các hoạt động sinh hoạt chậm hơn, tránh làm các triệu chứng khó thở tái diễn",
+      "Bỏ thói quen hút thuốc lá",
+      "Hạn chế hoặc tránh các chất kích thích, rượu bia",
+      "Tiêm ngừa đầy đủ các vắc xin cúm, phế cầu hàng năm",
+      "Đến ngay cơ sở y tế khi có các triệu chứng bất thường"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm ngừa đầy đủ các vắc xin cúm, phế cầu hàng năm theo khuyến cáo của Bộ Y tế để giảm nguy cơ mắc các bệnh hô hấp.",
+      "recommended_for": [
+        "Người lớn tuổi",
+        "Người có bệnh lý hô hấp mạn tính",
+        "Người có hệ miễn dịch suy giảm"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tuân thủ đúng phác đồ điều trị theo chỉ định của bác sĩ khi mắc bệnh phổi mạn tính",
+      "Không hút thuốc lá, tránh hít phải khói thuốc lá",
+      "Hạn chế rượu bia, không lạm dụng thuốc khi không có chỉ định từ bác sĩ",
+      "Duy trì chế độ ăn uống khoa học, cung cấp đầy đủ chất dinh dưỡng",
+      "Tập luyện thể dục, thể thao thường xuyên",
+      "Kiểm soát cân nặng hợp lý",
+      "Cân bằng cảm xúc, hạn chế căng thẳng",
+      "Đảm bảo giấc ngủ chất lượng",
+      "Đến ngay cơ sở y tế khi có triệu chứng bất thường ở đường hô hấp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy hô hấp là gì?",
+      "answer": "Suy hô hấp là tình trạng phổi không nhận đủ lượng oxy, hoặc sự tích tụ quá nhiều carbon dioxide làm hỏng các cơ quan trong cơ thể. Tình trạng này làm suy giảm oxy máu động mạch, kết quả làm chậm quá trình phân phối oxy đến các mô. Về mặt thực hành, suy hô hấp được định nghĩa bởi PaO2 (áp lực riêng khí oxy trong động mạch) < 60mmHg và/hoặc PaCO2 (áp lực riêng khí carbon dioxide trong động mạch) > 50mmHg."
+    },
+    {
+      "question": "Các triệu chứng của suy hô hấp là gì?",
+      "answer": "Triệu chứng của suy hô hấp phụ thuộc vào nguyên nhân gây bệnh, nồng độ oxy và carbon dioxide trong máu. Các triệu chứng phổ biến bao gồm: khó thở, thở nhanh, mệt mỏi, khó khăn trong các hoạt động hàng ngày, buồn ngủ, ngón tay ngón chân và môi xanh xao. Khi nồng độ carbon dioxide tăng cao, người bệnh có thể gặp thêm các triệu chứng như nhìn mờ, đau đầu, lú lẫn và nhịp tim nhanh."
+    },
+    {
+      "question": "Suy hô hấp có nguy hiểm không?",
+      "answer": "Suy hô hấp là bệnh lý nguy hiểm có thể dẫn đến các biến chứng nghiêm trọng như loạn nhịp tim, tổn thương não, suy thận, tổn thương phổi và thậm chí đe dọa tính mạng nếu không được cấp cứu điều trị kịp thời và đúng cách. Do đó, khi có các dấu hiệu của suy hô hấp, người bệnh cần đến ngay cơ sở y tế để được thăm khám và điều trị."
+    },
+    {
+      "question": "Ai có nguy cơ cao bị suy hô hấp?",
+      "answer": "Những người có nguy cơ cao bị suy hô hấp bao gồm: trẻ sinh non (do phổi chưa phát triển hoàn thiện), người lớn tuổi (do sức đề kháng giảm sút), người thường xuyên tiếp xúc với khói bụi và hóa chất độc hại, người hút thuốc lá và sử dụng chất kích thích, người có tiền sử chấn thương ở đường hô hấp, người mắc các bệnh lý phổi mạn tính, và người có vấn đề ở cột sống hoặc hệ thần kinh cơ ảnh hưởng đến hô hấp."
+    },
+    {
+      "question": "Làm thế nào để phòng tránh suy hô hấp?",
+      "answer": "Để phòng tránh suy hô hấp, bạn nên: tuân thủ đúng phác đồ điều trị theo chỉ định của bác sĩ khi mắc bệnh phổi mạn tính; không hút thuốc lá và tránh hít phải khói thuốc lá; hạn chế rượu bia; duy trì chế độ ăn uống khoa học; tập luyện thể dục thể thao thường xuyên; kiểm soát cân nặng hợp lý; cân bằng cảm xúc; đảm bảo giấc ngủ chất lượng; và đến ngay cơ sở y tế khi có triệu chứng bất thường ở đường hô hấp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó thở và thở nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-ho-hap", "hen-suyen", "copd"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và gặp khó khăn khi hoạt động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-ho-hap", "thieu-mau", "suy-tim"]
+    },
+    {
+      "question": "Tôi hay bị buồn ngủ và ngón tay, ngón chân, môi xanh xao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-ho-hap",
+        "benh-tim-bam-sinh",
+        "benh-phoi-man-tinh"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhìn mờ và đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-ho-hap", "tang-ap-luc-noi-so", "dai-thao-duong"]
+    },
+    {
+      "question": "Tôi đang cảm thấy lú lẫn và nhịp tim nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-ho-hap",
+        "nhiem-trung-huyet",
+        "roi-loan-nhip-tim"
+      ]
     }
   ]
 }

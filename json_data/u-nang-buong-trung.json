@@ -1,39 +1,125 @@
 {
   "disease_id": "u-nang-buong-trung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U nang buồng trứng",
+  "disease_alternative_names": ["Nang buồng trứng", "Ovarian cyst"],
+  "disease_definition": "U nang buồng trứng là một trong những bệnh lý phụ khoa thường gặp ở phụ nữ, có thể xảy ra ở mọi lứa tuổi từ bé gái đến tuổi mãn kinh, từ người bình thường đến phụ nữ mang thai đều có thể bị u buồng trứng. U nang buồng trứng có thể là tổ chức mới xuất hiện hoặc sự tích tụ dịch bên trong buồng trứng. Tỷ lệ u buồng trứng chiếm khoảng 5-10% trong cộng đồng dân số nữ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau ở vùng chậu, vùng thắt lưng",
+      "description": "Người bệnh gặp những cơn đau âm ỉ quanh vùng bụng dưới, vùng thắt lưng do các khối u chèn ép các cơ quan hoặc dây thần kinh chạy dọc ở vùng sau xương chậu"
+    },
+    {
+      "name": "Cảm giác khó chịu vùng chậu",
+      "description": "Khối u to chèn ép các cơ quan lân cận gây cảm giác khó chịu trong vùng chậu"
+    },
+    {
+      "name": "Bụng chướng",
+      "description": "Cảm giác căng tức, chướng bụng khi u phát triển to"
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Khi giao hợp, cảm thấy đau ở một bên so với bên còn lại, đặc biệt khi khối u nằm gần cổ tử cung"
+    },
+    {
+      "name": "Kinh nguyệt thất thường",
+      "description": "Rối loạn kinh nguyệt là một trong những dấu hiệu liên quan đến bệnh lý u nang buồng trứng"
+    },
+    {
+      "name": "Tiểu khó",
+      "description": "Khó khăn khi đi tiểu do khối u chèn ép bàng quang"
+    },
+    {
+      "name": "Táo bón",
+      "description": "Khó đi đại tiện do khối u chèn ép vào trực tràng"
+    },
+    {
+      "name": "Đau đột ngột và dữ dội",
+      "description": "Xuất hiện khi u bị xoắn hoặc vỡ, có thể kèm theo buồn nôn, nôn và choáng"
+    },
+    {
+      "name": "Bụng to nhanh chóng",
+      "description": "Khối u phát triển lớn dần làm bụng to nhanh chóng"
+    },
+    {
+      "name": "Sụt cân, chán ăn, mệt mỏi",
+      "description": "Các dấu hiệu gợi ý u có thể chuyển dạng ác tính cần được khám ngay"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "U nang buồng trứng có thể do rối loạn hoạt động nội tiết của buồng trứng (u nang cơ năng) hoặc do biến đổi tổ chức học buồng trứng (u nang thực thể).",
+    "related_factors": "Một số yếu tố làm tăng nguy cơ u nang buồng trứng như: thai kỳ (u nang có thể hình thành khi rụng trứng tồn tại trên buồng trứng trong suốt thai kỳ), lạc nội mạc tử cung (các tế bào nội mạc tử cung phát triển bên ngoài tử cung, một số mô có thể gắn ở buồng trứng), nhiễm trùng vùng chậu (khi nhiễm trùng lan đến buồng trứng có thể hình thành u nang).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử từng bị u nang buồng trứng",
+    "Tiền sử gia đình có mẹ hoặc chị gái bị u buồng trứng",
+    "Đang mang thai",
+    "Mắc bệnh lạc nội mạc tử cung",
+    "Nhiễm trùng vùng chậu",
+    "Rối loạn hormone",
+    "Thể trạng béo phì",
+    "Tuổi sinh sản (15-44 tuổi)"
+  ],
+  "complications": [
+    "Xoắn u nang: Khi u bị xoắn người bệnh đau bụng dữ dội, liên tục, buồn nôn, nôn, đôi khi sẽ choáng vì đau",
+    "Vỡ u nang buồng trứng: Khi áp lực dịch bên trong khối u quá lớn có thể gây vỡ u nang, gây đau bụng đột ngột và chảy máu trong ổ bụng",
+    "Chèn ép nội tạng: Khối u lớn có thể chèn ép bàng quang gây tiểu khó, chèn ép trực tràng gây táo bón, chèn ép niệu quản gây ứ nước bể thận",
+    "Biến chứng nhiễm trùng: Sau khi nang vỡ, người bệnh có thể có hội chứng nhiễm khuẩn",
+    "Vô sinh: Một số loại u nang có thể ảnh hưởng đến khả năng sinh sản",
+    "Ung thư hóa: Một số u nang thực thể có thể tiến triển thành ung thư buồng trứng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác tiền sử và các triệu chứng",
+      "Khám lâm sàng để đánh giá tình trạng đau, khối u",
+      "Thăm khám phụ khoa"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Phương pháp chẩn đoán hình ảnh không xâm lấn, cho biết vị trí u, hình dạng, kích thước khối u, tính chất bên trong u"
+      },
+      {
+        "name": "Chụp CT scan",
+        "description": "Hỗ trợ chẩn đoán chính xác sự lan rộng hay di căn của khối u"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Giúp thấy rõ hơn kết quả siêu âm, đặc biệt khi u có kích thước lớn"
+      },
+      {
+        "name": "Xét nghiệm dấu ấn bướu",
+        "description": "Tìm các dấu ấn bướu có thể gợi ý tính ác tính của u như: CA 125, AFP, beta HCG, HE4"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị tùy thuộc vào loại u nang, kích thước và nguyện vọng sinh sản của người bệnh. U nang cơ năng thường tự biến mất sau vài chu kỳ kinh nguyệt. U nang thực thể cần được điều trị kịp thời để tránh các biến chứng nguy hiểm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi và chờ đợi",
+        "description": "Đối với u nang cơ năng, không cần điều trị, khối u thường biến mất sau vài chu kỳ kinh nguyệt. Người bệnh được theo dõi bằng cách siêu âm lặp lại sau hành kinh xong"
+      },
+      {
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc tránh thai và các biện pháp được hướng dẫn để điều trị u nang buồng trứng cơ năng"
+      },
+      {
+        "name": "Phẫu thuật nội soi cắt",
+        "description": "Phương pháp ít gây đau và thời gian nằm viện ít, thời gian phục hồi nhanh. Chỉ định cho u buồng trứng không nghi ngờ ác tính, không quá to, không quá dính"
+      },
+      {
+        "name": "Phẫu thuật mở bụng",
+        "description": "Chỉ định cho những khối u nang có kích thước lớn, nghi ngờ ung thư. Sau phẫu thuật, khối u sẽ được kiểm tra mô bệnh học"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch tái khám và theo dõi sau điều trị",
+      "Thực hiện siêu âm theo hướng dẫn của bác sĩ để kiểm tra sự tái phát",
+      "Báo cáo với bác sĩ khi có những triệu chứng bất thường như đau bụng dữ dội, sốt",
+      "Tìm hiểu kỹ về tình trạng bệnh và các phương pháp điều trị có thể áp dụng",
+      "Thực hiện khám phụ khoa định kỳ để phát hiện sớm các bất thường"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +127,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thăm khám phụ khoa định kỳ 6 tháng/lần để phát hiện sớm các dấu hiệu bất thường",
+      "Sử dụng thuốc ngừa thai có thể giảm nguy cơ ung thư buồng trứng",
+      "Cho con bú trên 6 tháng được ghi nhận có thể giảm nguy cơ ung thư buồng trứng",
+      "Duy trì cân nặng hợp lý",
+      "Chế độ ăn uống lành mạnh, cân bằng dinh dưỡng",
+      "Tập thể dục đều đặn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U nang buồng trứng xảy ra ở độ tuổi nào?",
+      "answer": "Đây là bệnh lý phụ khoa thường gặp ở nữ giới, có thể xảy ra ở mọi đối tượng và độ tuổi, từ bé gái trước dậy thì, phụ nữ mang thai đến phụ nữ mãn kinh đều có nguy cơ mắc bệnh. Đặc biệt, u nang ở phụ nữ mang thai thường bắt đầu với kích thước nhỏ khoảng dưới 3 - 4cm, không có triệu chứng hoặc triệu chứng không rõ ràng nên gây nhầm lẫn, chủ quan không thăm khám."
+    },
+    {
+      "question": "U nang buồng trứng để lâu có sao không?",
+      "answer": "Quá trình diễn biến của một khối u có thể là không thay đổi kích thước (trường hợp này hiếm gặp); khối u biến mất (thường gặp ở khối u cơ năng); khối u to dần và kèm theo các biến chứng chèn ép như đau, bí tiểu, rối loạn tiểu tiện; khối u bị xoắn làm ngưng trệ tuần hoàn máu đến buồng trứng, lâu ngày dẫn đến thiếu máu nuôi gây hoại tử, vỡ u nang cần phải phẫu thuật ngay."
+    },
+    {
+      "question": "Có thai bị u nang buồng trứng phải làm sao?",
+      "answer": "Mức độ nguy hiểm của u nang buồng trứng khi mang thai sẽ phụ thuộc vào kích thước và phân loại của u nang. Khối u ban đầu có thể nhỏ và lành tính, nhưng có thể tăng dần kích thước trong suốt thai kỳ. Nếu không được phát hiện sớm và can thiệp kịp thời, khối u có thể gây các biến chứng nguy hiểm cho cả thai phụ và thai nhi như u chèn ép sự phát triển của thai nhi, u vỡ, u xoắn hoặc u chuyển ác tính."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dưới, đau lưng và kinh nguyệt thất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nang buồng trứng",
+        "Lạc nội mạc tử cung",
+        "Viêm vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó chịu vùng chậu và đau khi quan hệ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nang buồng trứng",
+        "Viêm cổ tử cung",
+        "Lạc nội mạc tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị rối loạn kinh nguyệt và đau bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nang buồng trứng",
+        "Rối loạn nội tiết",
+        "Viêm phần phụ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng dưới âm ỉ và kinh nguyệt không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nang buồng trứng",
+        "Hội chứng buồng trứng đa nang",
+        "Viêm nội mạc tử cung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng dữ dội và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U nang buồng trứng bị xoắn",
+        "Vỡ u nang buồng trứng",
+        "Viêm ruột thừa"
+      ]
     }
   ]
 }

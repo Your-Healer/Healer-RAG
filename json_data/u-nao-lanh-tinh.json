@@ -1,39 +1,149 @@
 {
   "disease_id": "u-nao-lanh-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U não lành tính",
+  "disease_alternative_names": [
+    "Khối u não lành tính",
+    "Bệnh u não lành tính",
+    "Benign brain tumor"
+  ],
+  "disease_definition": "U não lành tính là một tập hợp các tế bào não sinh sôi nhanh hơn mức bình thường – đủ để tạo thành khối u – mà không xâm lấn quá nhanh vào mô não khỏe mạnh hay di căn đến cơ quan khác. Đây là loại u não không phải là ung thư, thường có đường kính từ 2-3cm, có xu hướng nằm yên một chỗ và tăng trưởng chậm với tốc độ phát triển từ 1-2mm một năm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu",
+      "description": "Là dấu hiệu u não lành tính phổ biến nhất, khoảng 46-50% những người bị u não đều bị đau đầu, đặc biệt vào buổi sáng hoặc khi ho, hắt hơi"
+    },
+    {
+      "name": "Co giật",
+      "description": "Khoảng 33% số người bị u não sẽ bị co giật vào một thời điểm nào đó, thường là loại co giật khu trú - co giật cục bộ một phần của cơ thể"
+    },
+    {
+      "name": "Buồn nôn và nôn mửa",
+      "description": "Khoảng 20% số bệnh nhân bị u não thường có cảm giác buồn nôn hoặc nôn mửa, thường xảy ra vào buổi sáng"
+    },
+    {
+      "name": "Hoa mắt, lãng tai",
+      "description": "Khoảng 25% bệnh nhân u não trải qua các vấn đề suy giảm thính lực và thị lực"
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Khó khăn trong việc phối hợp vận động, mất khả năng giữ thăng bằng, cảm giác chao đảo, mất phương hướng"
+    },
+    {
+      "name": "Thay đổi hành vi và nhận thức",
+      "description": "Thay đổi tính nết, cách ứng xử, suy giảm trí nhớ, khó tập trung, nói hoặc làm những điều không phù hợp với hoàn cảnh"
+    },
+    {
+      "name": "Yếu hoặc tê một phần cơ thể",
+      "description": "Các khối u ở thùy trán có thể khiến bị yếu hoặc tê một phần cơ thể, một bên tay hoặc chân"
+    },
+    {
+      "name": "Vấn đề về ngôn ngữ và trí nhớ",
+      "description": "Các khối u ở thùy thái dương có thể gây ra các vấn đề chậm hiểu từ ngữ, quên gương mặt của người khác"
+    },
+    {
+      "name": "Vấn đề về thị lực",
+      "description": "Các khối u ở thùy chẩm, hoặc xung quanh tuyến yên, dây thần kinh thị giác có thể gây ra các vấn đề về thị lực"
+    },
+    {
+      "name": "Khó đọc, khó viết",
+      "description": "U não lành tính ở thùy đỉnh có thể gây nên chứng khó đọc, khó viết, không thể tính toán, đếm số"
+    },
+    {
+      "name": "Thay đổi hormone",
+      "description": "Các khối u trong tuyến yên có thể gây ra các triệu chứng tăng hoặc giảm sản xuất hormone dẫn đến những thay đổi như giảm hoặc tăng cân, rối loạn chức năng tình dục"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Trong mọi trường hợp, nguyên nhân chính xác của một khối u não lành tính là không thể xác định. Các nhà nghiên cứu cho biết khối u não phát triển khi một số gen trên nhiễm sắc thể của tế bào bị hư hỏng và không thể hoạt động bình thường.",
+    "related_factors": "Một số tác nhân chính có thể là yếu tố nguy cơ gây nên các đột biến trong DNA dẫn đến bệnh u não lành tính bao gồm: chế độ ăn uống (tiêu thụ rượu, bia, thực phẩm chứa hợp chất N-nitroso), rối loạn giấc ngủ, hút thuốc lá, ô nhiễm môi trường, tiếp xúc với bức xạ, và các hội chứng di truyền hiếm gặp.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (tỷ lệ mắc bệnh cao nhất ở những người trên 85 tuổi)",
+    "Giới tính nữ (tỷ lệ mắc bệnh ở nữ cao hơn nam)",
+    "Tiền sử gia đình có người bị u não",
+    "Tiêu thụ rượu bia thường xuyên",
+    "Ăn các thực phẩm chứa hợp chất N-nitroso",
+    "Ngủ không đúng giờ, rối loạn nhịp sinh học",
+    "Hút thuốc lá",
+    "Tiếp xúc với ô nhiễm môi trường và bức xạ",
+    "Các hội chứng di truyền hiếm gặp (U xơ thần kinh, Hội chứng Turcot, Hội chứng Gorlin, Phức hợp xơ cứng củ, Hội chứng Li-Fraumeni)"
+  ],
+  "complications": [
+    "Tổn thương não có thể gây rối loạn chức năng và để lại dị tật nghiêm trọng",
+    "Áp lực nội sọ tăng gây đau đầu, buồn nôn, nôn",
+    "Mất thị lực và thính lực",
+    "Rối loạn vận động và thăng bằng",
+    "Rối loạn nhận thức, trí nhớ và hành vi",
+    "Khối u nằm ở khu vực quan trọng của não có thể đe dọa tính mạng",
+    "Các biến chứng sau phẫu thuật",
+    "Biến chứng sau xạ trị và hóa trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe tổng quát và phỏng vấn",
+      "Kiểm tra thần kinh (khả năng giữa thăng bằng, thính lực và thị lực, nhận thức hành vi, trạng thái tâm thần)",
+      "Đánh giá các bất thường về thần kinh để xác định vùng não bị ảnh hưởng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp MRI não",
+        "description": "Chụp cộng hưởng từ (MRI) là xét nghiệm hình ảnh tốt nhất để xác định khối u não lành tính"
+      },
+      {
+        "name": "Chụp CT não",
+        "description": "Chụp cắt lớp vi tính (CT) là một lựa chọn thay thế tốt nếu bệnh nhân không thể chụp MRI"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Chiết tách một mẫu khối u nhỏ rồi đem kiểm tra dưới kính hiển vi để xác định loại khối u và đánh giá xem nó có phải là ung thư hay không"
+      },
+      {
+        "name": "Chọc dịch não tủy thắt lưng",
+        "description": "Thủ thuật này được tiến hành khi các bác sĩ nghi ngờ rằng khối u đã xâm lấn vào màng não"
+      },
+      {
+        "name": "Xét nghiệm máu và dịch não tủy",
+        "description": "Tìm chất chỉ điểm khối u – là chất mà một khối u tiết ra"
+      },
+      {
+        "name": "Xét nghiệm gen",
+        "description": "Kiểm tra các bất thường trong gen nhằm tìm ra các gen đặc trưng có khả năng gây u não"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Với các khối u não lành tính thì phẫu thuật là cách điều trị chính, thường được ưu tiên hàng đầu và đôi khi cũng là cách điều trị duy nhất cần thiết. Nghĩa là sau đó bệnh nhân có thể không cần đến hóa trị và xạ trị nếu như khối u đó đã được loại bỏ hoàn toàn qua phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Có 4 phương pháp chính: phương pháp mở hộp sọ, phương pháp cắt bỏ bằng tia năng lượng cao theo hướng dẫn, phương pháp nội soi thần kinh, và phương pháp sử dụng hệ thống banh vén hình ống"
+      },
+      {
+        "name": "Phẫu thuật radio",
+        "description": "Chiếu chùm tia bức xạ trực tiếp vào khối u để tiêu diệt tế bào u não lành tính, bao gồm Phẫu thuật Gamma Knife và Phẫu thuật phóng xạ lập thể (SRS)"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng 3 cách tiếp cận: xạ trị bên ngoài, xạ trị bên trong và xạ trị trong phẫu thuật (IORT), thường được sử dụng khi không thể phẫu thuật hoặc khi phẫu thuật chỉ loại bỏ được một phần khối u"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng các hóa chất mạnh để tiêu diệt tất cả các tế bào phát triển nhanh, với 4 mục đích: chữa khỏi hoàn toàn, làm cho các phương pháp điều trị khác hiệu quả hơn, giảm nguy cơ tái phát, và giảm thiểu các triệu chứng"
+      },
+      {
+        "name": "Thuốc nhắm mục tiêu",
+        "description": "Sử dụng thuốc để ngăn chặn hoạt động của một số enzym, protein hoặc các phân tử khác liên quan đến sự tăng sinh và lây lan của tế bào u não, như Avastin (bevacizumab) và Afintor/Everolimus"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sử dụng thuốc theo chỉ định của bác sĩ (thuốc chống co giật, chống động kinh, giảm đau, chống buồn nôn, kháng sinh)",
+      "Sử dụng steroid để giảm sưng và viêm não",
+      "Chăm sóc giảm nhẹ tập trung vào việc cải thiện sức khỏe tổng quát và đời sống tinh thần",
+      "Thực hành các chế độ ăn kiêng khoa học",
+      "Tập vật lý trị liệu, yoga, thiền, châm cứu",
+      "Tái khám định kỳ để theo dõi tình trạng sau điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +151,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế tiêu thụ rượu, bia",
+      "Tránh ăn các loại thực phẩm chứa hợp chất N-nitroso như thịt nướng, thịt xông khói",
+      "Duy trì giấc ngủ đúng giờ, đủ giấc",
+      "Không hút thuốc lá",
+      "Tránh tiếp xúc với nguồn ô nhiễm không khí, nguồn nước",
+      "Hạn chế tiếp xúc với bức xạ từ tia X",
+      "Tầm soát định kỳ nếu có tiền sử gia đình bị u não"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U não lành tính có nguy hiểm không?",
+      "answer": "Mặc dù không phải là ung thư, u não lành tính vẫn có thể gây nguy hiểm. Chúng có thể làm tổn thương các bộ phận của não, gây rối loạn chức năng và để lại dị tật nghiêm trọng. Các khối u não lành tính nằm ở khu vực quan trọng của não có thể đe dọa tính mạng. Tuy nhiên, tiên lượng sống của bệnh rất cao, với tỉ lệ sống sót sau 5 năm lên đến 91.8%."
+    },
+    {
+      "question": "Các triệu chứng của u não lành tính là gì?",
+      "answer": "Các triệu chứng phổ biến bao gồm đau đầu (đặc biệt vào buổi sáng), co giật, buồn nôn và nôn mửa, hoa mắt, lãng tai, mất thăng bằng, thay đổi hành vi và nhận thức, yếu hoặc tê một phần cơ thể, vấn đề về ngôn ngữ và trí nhớ, vấn đề về thị lực, khó đọc, khó viết, và thay đổi hormone. Triệu chứng cụ thể sẽ phụ thuộc vào vị trí của khối u trong não."
+    },
+    {
+      "question": "Phương pháp điều trị u não lành tính hiệu quả nhất là gì?",
+      "answer": "Phẫu thuật là cách điều trị chính và hiệu quả nhất đối với u não lành tính, thường được ưu tiên hàng đầu. Sau khi khối u đã được loại bỏ hoàn toàn qua phẫu thuật, bệnh nhân có thể không cần đến các phương pháp điều trị khác như hóa trị và xạ trị. Tuy nhiên, tùy thuộc vào vị trí và kích thước của khối u, bác sĩ có thể chỉ định thêm phẫu thuật radio, xạ trị, hóa trị hoặc thuốc nhắm mục tiêu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U não lành tính",
+        "Đau nửa đầu Migraine",
+        "Rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy hoa mắt, chóng mặt và mất thăng bằng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U não lành tính",
+        "Rối loạn tiền đình",
+        "Viêm tai trong"
+      ]
+    },
+    {
+      "question": "Tôi hay bị co giật, tê bì chân tay và thay đổi tính cách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U não lành tính", "Động kinh", "Đột quỵ"]
+    },
+    {
+      "question": "Tôi hay bị suy giảm trí nhớ, khó tập trung và đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U não lành tính", "Alzheimer", "Trầm cảm"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu dữ dội vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U não lành tính",
+        "Tăng áp lực nội sọ",
+        "Viêm xoang"
+      ]
     }
   ]
 }

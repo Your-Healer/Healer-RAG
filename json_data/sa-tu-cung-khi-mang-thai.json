@@ -1,58 +1,189 @@
 {
   "disease_id": "sa-tu-cung-khi-mang-thai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sa tử cung khi mang thai",
+  "disease_alternative_names": [
+    "Sa âm đạo thai kỳ",
+    "Uterine prolapse during pregnancy"
+  ],
+  "disease_definition": "Sa tử cung khi mang thai là hiện tượng khi mà tử cung tụt xuống âm đạo, đôi khi là tụt hẳn ngoài âm đạo do cơ dây chằng bị kéo căng, suy yếu dẫn đến không thể nâng đỡ tử cung.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nặng bụng dưới",
+      "description": "Cảm giác nặng nề khó chịu ở vùng bụng dưới, gây khó khăn khi đi lại hoặc hoạt động"
+    },
+    {
+      "name": "Âm đạo và âm hộ có cảm giác nặng nề",
+      "description": "Cảm giác như có vật gì đó đè nặng hoặc sa xuống vùng âm đạo và âm hộ"
+    },
+    {
+      "name": "Đau lưng",
+      "description": "Đau, mỏi vùng lưng dưới, có thể tăng lên khi đứng lâu hoặc đi lại nhiều"
+    },
+    {
+      "name": "Khó khăn trong quá trình đại tiện, tiểu tiện",
+      "description": "Cảm giác khó khăn, không thoải mái khi đi tiểu hoặc đại tiện"
+    },
+    {
+      "name": "Cảm giác mắc tiểu nhưng không đi được",
+      "description": "Cảm giác buồn tiểu nhưng khi đi lại không đi được hoặc đi không hết"
+    },
+    {
+      "name": "Cảm giác như có cái gì sắp rơi ra khỏi âm đạo",
+      "description": "Cảm giác có một khối gì đó đang chèn ép hoặc sắp rơi ra từ âm đạo"
+    },
+    {
+      "name": "Chảy máu âm đạo",
+      "description": "Xuất hiện máu từ âm đạo, có thể do tổn thương cổ tử cung"
+    },
+    {
+      "name": "Bí tiểu",
+      "description": "Không thể đi tiểu hoặc đi tiểu không hết"
+    },
+    {
+      "name": "Táo bón",
+      "description": "Khó khăn khi đi đại tiện, phân khô cứng và ít"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Sự phát triển của những thay đổi sinh lý trong thai kỳ dẫn đến các cấu trúc nâng đỡ của cơ quan vùng chậu bị suy yếu.",
+    "related_factors": "Sinh nhiều con, chấn thương sàn chậu, rối loạn chức năng sàn chậu bẩm sinh, nồng độ cortisol và progesterone tăng lên trong thai kỳ, chuyển dạ kéo dài hay sinh khó, cổ tử cung dài hay phì đại, tuổi cao, béo phì, hệ thống nâng đỡ cơ sàn chậu yếu bẩm sinh, tăng áp lực ổ bụng, u vùng chậu, chấn thương vùng chậu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Mang thai nhiều lần",
+    "Sinh nhiều con",
+    "Chuyển dạ kéo dài hoặc sinh khó",
+    "Tuổi cao",
+    "Béo phì",
+    "Suy dinh dưỡng",
+    "Khoảng cách giữa các lần sinh liên tiếp gần nhau",
+    "Tiền sử chấn thương sàn chậu",
+    "Rối loạn chức năng sàn chậu bẩm sinh",
+    "Hệ thống nâng đỡ cơ sàn chậu yếu bẩm sinh"
+  ],
+  "complications": [
+    "Chuyển dạ sinh non",
+    "Sảy thai",
+    "Thai chết lưu",
+    "Nhiễm trùng đường tiết niệu",
+    "Bí tiểu cấp tính",
+    "Tử vong mẹ",
+    "Không có khả năng giãn nở cổ tử cung hoàn toàn",
+    "Rách cổ tử cung",
+    "Chuyển dạ ngừng tiến triển",
+    "Thay đổi trục, hướng cổ tử cung không thuận lợi để sinh",
+    "Nhiễm trùng hậu sản",
+    "Xuất huyết sau sinh do đờ tử cung"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám âm đạo và tử cung", "Thăm khám sàn chậu"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đánh giá sức mạnh cơ sàn chậu",
+        "description": "Bác sĩ kiểm tra sức mạnh của cơ sàn chậu qua các hoạt động về khả năng co cơ mạnh hay yếu và thả lỏng cơ"
+      },
+      {
+        "name": "Kiểm tra với động tác rặn",
+        "description": "Bác sĩ yêu cầu thực hiện động tác rặn tương tự trong quá trình đi vệ sinh, để đánh giá mức độ của tình trạng sa tử cung"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Bác sĩ sẽ cân nhắc lựa chọn phương pháp chữa sa tử cung khi mang thai, theo mức độ sa và yêu cầu của thai phụ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng vòng nâng đỡ cổ tử cung (pessary)",
+        "description": "Đặt vòng nâng trong âm đạo, được xem là một biện pháp điều trị an toàn và hiệu quả, không xâm lấn, không chảy máu"
+      },
+      {
+        "name": "Nghỉ ngơi và điều chỉnh tư thế",
+        "description": "Nằm nghỉ ở tư thế thoải mái, thay đổi tư thế nằm mỗi 2 tiếng để tránh ứ trệ tuần hoàn"
+      },
+      {
+        "name": "Tập thể dục sàn chậu",
+        "description": "Luyện tập các bài tập thể dục sàn chậu được bác sĩ hướng dẫn để cải thiện chức năng vùng sàn chậu"
+      },
+      {
+        "name": "Phẫu thuật (trong trường hợp cần thiết)",
+        "description": "Mổ lấy thai nếu thai phụ chuyển dạ kéo dài, ngừng tiến triển do cổ tử cung phù nề mở chậm"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Vệ sinh vùng kín bằng nước sạch",
+      "Thuốc sát khuẩn chỉ dùng khi có chỉ định của bác sĩ",
+      "Tránh vận động mạnh",
+      "Không ngồi xổm lâu để áp lực không dồn lên vùng bụng",
+      "Tuân thủ lịch thăm khám và lời khuyên của bác sĩ",
+      "Thực hiện các bài tập sàn chậu ngay cả sau khi sinh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin đầy đủ trước khi mang thai, đặc biệt là vắc xin phòng rubella và vắc xin ngừa ung thư cổ tử cung.",
+      "recommended_for": ["Phụ nữ chuẩn bị mang thai"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám sức khỏe tổng thể trước khi mang thai",
+      "Khám thai định kỳ theo đúng lịch hẹn của bác sĩ",
+      "Hạn chế làm việc nặng, quá sức trong thời gian mang thai và hậu sản",
+      "Theo dõi thai kỳ chặt chẽ nếu có tiền sử mang thai nhiều lần",
+      "Không lạm dụng thuốc hoặc tự ý ngưng thuốc khi chưa có chỉ định của bác sĩ",
+      "Duy trì cân nặng lý tưởng",
+      "Thực hiện các bài tập nhẹ nhàng theo hướng dẫn của bác sĩ",
+      "Uống nhiều nước, dùng thực phẩm nhiều vitamin, trái cây tươi, rau xanh",
+      "Tránh đồ chế biến sẵn để hạn chế tình trạng táo bón"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sa tử cung khi mang thai là gì?",
+      "answer": "Sa tử cung khi mang thai hay sa âm đạo thai kỳ là hiện tượng khi mà tử cung tụt xuống âm đạo, đôi khi là tụt hẳn ngoài âm đạo do cơ dây chằng bị kéo căng, suy yếu dẫn đến không thể nâng đỡ tử cung. Đây là tình trạng hiếm gặp với tỷ lệ 1/10.000-15.000 phụ nữ mang thai."
+    },
+    {
+      "question": "Sa tử cung khi mang thai có nguy hiểm không?",
+      "answer": "Sa tử cung trong thai kỳ có thể gây ra nhiều biến chứng nguy hiểm như chuyển dạ sinh non, sảy thai, thai chết lưu, nhiễm trùng đường tiết niệu, bí tiểu cấp tính, rách cổ tử cung, chuyển dạ ngừng tiến triển, nhiễm trùng hậu sản và xuất huyết sau sinh. Trong trường hợp nghiêm trọng, có thể đe dọa tính mạng của cả mẹ và bé."
+    },
+    {
+      "question": "Bị sa tử cung khi mang thai có sinh thường được không?",
+      "answer": "Phần lớn với thai kỳ mà mẹ bầu bị sa tử cung, sinh thường hay sinh mổ vẫn nên theo chỉ định sản khoa của bác sĩ. Nếu cuộc chuyển dạ được theo dõi chặt chẽ và thuận lợi thì sinh ngả âm đạo cũng không làm nặng hơn tình trạng sa âm đạo. Tuy nhiên, nếu thai phụ chuyển dạ kéo dài, ngừng tiến triển do cổ tử cung phù nề mở chậm, không mở thêm thì bác sĩ cần chỉ định mổ lấy thai ngay."
+    },
+    {
+      "question": "Sa tử cung khi mang thai có điều trị được không?",
+      "answer": "Sa tử cung khi mang thai có thể được điều trị bằng cách sử dụng vòng nâng đỡ cổ tử cung (pessary), nghỉ ngơi và điều chỉnh tư thế, tập thể dục sàn chậu, và trong một số trường hợp cần thiết có thể phải phẫu thuật. Bác sĩ sẽ cân nhắc lựa chọn phương pháp điều trị phù hợp theo mức độ sa và yêu cầu của thai phụ."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa sa tử cung khi mang thai?",
+      "answer": "Để phòng ngừa sa tử cung khi mang thai, bạn nên: Khám sức khỏe tổng thể trước khi mang thai, khám thai định kỳ, hạn chế làm việc nặng, theo dõi thai kỳ chặt chẽ nếu có tiền sử mang thai nhiều lần, duy trì cân nặng lý tưởng, thực hiện các bài tập nhẹ nhàng theo hướng dẫn của bác sĩ, uống nhiều nước và ăn thực phẩm giàu dinh dưỡng để tránh táo bón."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang mang thai và cảm thấy nặng bụng dưới, âm đạo và âm hộ có cảm giác nặng nề, kèm theo đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tu-cung-khi-mang-thai", "sa-tang-chau"]
+    },
+    {
+      "question": "Tôi đang mang thai và gặp khó khăn khi đại tiện, tiểu tiện, có cảm giác mắc tiểu nhưng không đi được. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sa-tu-cung-khi-mang-thai",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và có cảm giác như có cái gì sắp rơi ra khỏi âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tu-cung-khi-mang-thai", "sa-tang-chau"]
+    },
+    {
+      "question": "Tôi đang mang thai và bị chảy máu âm đạo, đi tiêu, tiểu khó, bị bí tiểu hoặc táo bón. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tu-cung-khi-mang-thai", "doa-say-thai"]
+    },
+    {
+      "question": "Tôi đang mang thai và cảm thấy đau nhức vùng bụng dưới, âm đạo có cảm giác nặng nề. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sa-tu-cung-khi-mang-thai",
+        "sa-tang-chau",
+        "viem-duong-tiet-nieu"
+      ]
     }
   ]
 }

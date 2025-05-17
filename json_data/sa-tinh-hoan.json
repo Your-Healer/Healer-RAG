@@ -1,39 +1,104 @@
 {
   "disease_id": "sa-tinh-hoan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Sa tinh hoàn",
+  "disease_alternative_names": ["Xệ tinh hoàn", "Chảy xệ tinh hoàn"],
+  "disease_definition": "Sa tinh hoàn (xệ tinh hoàn) là tình trạng kích thước bìu treo tinh hoàn sẽ có chiều dài dài hơn dương vật ở trạng thái bình thường. Khi nam giới ngồi, lớp da bìu không thể co gói lại tinh hoàn như cơ chế hoạt động bình thường. Nguyên nhân là do bìu bị giãn làm tinh hoàn chảy xệ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Bìu giãn xuống và lỏng lẻo",
+      "description": "Bộ phận bìu giãn xuống, không co lại trong khoảng thời gian dài, hoặc lớp bìu không co ngay lại khi tiếp xúc nhiệt độ lạnh"
+    },
+    {
+      "name": "Cảm giác lỏng lẻo khi bìu co lại",
+      "description": "Khi co lại, lớp da bìu săn nhưng vẫn cảm thấy bìu lỏng lẻo, không chắc chắn"
+    },
+    {
+      "name": "Một bên tinh hoàn to lên",
+      "description": "Phát hiện thấy một trong hai bên tinh hoàn có kích thước to lên bất thường so với bên còn lại"
+    },
+    {
+      "name": "Phần ruột bị kéo xuống",
+      "description": "Phần ruột phía trên bị kéo xuống dưới, dồn lại theo chiều bên tinh hoàn bị xệ"
+    },
+    {
+      "name": "Kích thước bìu tăng dần",
+      "description": "Nhận thấy kích thước của bìu ngày càng to hơn so với bình thường"
+    },
+    {
+      "name": "Cảm giác nặng bất thường",
+      "description": "Cảm thấy nặng bất thường tại phần dưới do tinh hoàn tăng trọng lượng, gây tức và khó chịu tại vùng bụng dưới"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rối loạn cơ chế co giãn của bìu tinh hoàn, khiến bìu không thể co gói lại tinh hoàn như cơ chế hoạt động bình thường.",
+    "related_factors": "Viêm tinh hoàn; Tinh hoàn xoắn và giãn tĩnh mạch thừng tinh; Da bìu rộng hơn túi tinh; Nhiệt độ tăng cao; Kích thước tinh hoàn quá to; Tràn dịch ở tinh mạc; Ung thư ở tinh hoàn; Thoát vị bẹn; Tổn thương lớp màng tinh hoàn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giãn tĩnh mạch thừng tinh",
+    "Tràn dịch tĩnh mạch",
+    "Tổn thương màng tinh hoàn",
+    "Da bìu tinh hoàn rộng hơn túi tinh",
+    "Ung thư tinh hoàn",
+    "Thoát vị bẹn",
+    "Viêm tinh hoàn hoặc viêm mào tinh hoàn"
+  ],
+  "complications": [
+    "Chất lượng và số lượng tinh trùng bị suy giảm, dẫn tới nguy cơ vô sinh cao",
+    "Tăng nguy cơ mắc chứng viêm tuyến tiền liệt",
+    "Thiếu hụt hormone testosterone, làm giảm ham muốn và khả năng quan hệ tình dục",
+    "Lãnh cảm, yếu sinh lý",
+    "Nhiễm trùng đường tiết niệu nếu không được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Đánh giá triệu chứng và tiền sử bệnh",
+      "Kiểm tra sự bất thường ở cơ quan sinh dục"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm bìu",
+        "description": "Kiểm tra cấu trúc bên trong của tinh hoàn và phát hiện các bất thường như tràn dịch, khối u hoặc giãn tĩnh mạch"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá chức năng nội tiết và phát hiện dấu hiệu nhiễm trùng nếu có"
+      },
+      {
+        "name": "Siêu âm Doppler",
+        "description": "Đánh giá lưu lượng máu trong tĩnh mạch tinh hoàn, giúp chẩn đoán giãn tĩnh mạch thừng tinh"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị sa tinh hoàn thường là điều trị dựa theo nguyên nhân gây bệnh. Nếu được phát hiện sớm, điều trị kịp thời thì tình trạng này có thể được chữa khỏi.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa cho viêm tinh hoàn",
+        "description": "Sử dụng thuốc đặc trị, tùy theo tình trạng nhiễm khuẩn"
+      },
+      {
+        "name": "Phẫu thuật ngoại khoa cho giãn tĩnh mạch thừng tinh, xoắn tinh hoàn",
+        "description": "Cố định lại những dây tĩnh mạch thừng tinh bị giãn, giúp lượng máu lưu thông bình thường và ổn định hơn"
+      },
+      {
+        "name": "Phẫu thuật kết hợp nội khoa cho thoát vị bẹn",
+        "description": "Kết hợp phương pháp ngoại khoa và nội khoa để cải thiện tình trạng bệnh nhanh chóng"
+      },
+      {
+        "name": "Điều trị ung thư tinh hoàn",
+        "description": "Tùy theo giai đoạn phát hiện, có thể áp dụng hóa trị, xạ trị hay sinh học phù hợp"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tập thể dục thường xuyên, khoảng 30 phút mỗi ngày",
+      "Không hút thuốc",
+      "Hạn chế uống rượu bia",
+      "Bổ sung nhiều vitamin A, B, C và E cùng các axit béo sorbitol và omega 3 trong chế độ ăn uống",
+      "Uống nhiều nước: Uống khoảng 2 – 2,5 lít nước/ngày, tùy thuộc vào mức độ hoạt động",
+      "Mặc đồ lót hỗ trợ để giữ tinh hoàn ở vị trí thoải mái"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +106,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập thể dục thường xuyên, khoảng 30 phút mỗi ngày",
+      "Không hút thuốc",
+      "Hạn chế uống rượu bia",
+      "Bổ sung nhiều vitamin A, B, C và E cùng các axit béo sorbitol và omega 3 trong chế độ ăn uống",
+      "Uống nhiều nước: Uống khoảng 2 – 2,5 lít nước/ngày",
+      "Tránh các chấn thương vùng bìu",
+      "Kiểm tra tinh hoàn định kỳ để phát hiện bất thường sớm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Sa tinh hoàn là gì?",
+      "answer": "Sa tinh hoàn (xệ tinh hoàn) là tình trạng kích thước bìu treo tinh hoàn sẽ có chiều dài dài hơn dương vật ở trạng thái bình thường. Khi nam giới ngồi, lớp da bìu không thể co gói lại tinh hoàn như cơ chế hoạt động bình thường. Nguyên nhân là do bìu bị giãn làm tinh hoàn chảy xệ."
+    },
+    {
+      "question": "Sa tinh hoàn có nguy hiểm không?",
+      "answer": "Sa tinh hoàn có thể ảnh hưởng nghiêm trọng đến sức khỏe sinh sản của nam giới. Cụ thể: chất lượng và số lượng tinh trùng bị suy giảm, dẫn tới nguy cơ vô sinh rất cao; tăng nguy cơ mắc chứng viêm tuyến tiền liệt; thiếu hụt hormone testosterone, làm giảm ham muốn và khả năng quan hệ tình dục; có thể dẫn đến lãnh cảm và yếu sinh lý."
+    },
+    {
+      "question": "Nguyên nhân gây sa tinh hoàn là gì?",
+      "answer": "Nguyên nhân gây sa tinh hoàn bao gồm: viêm tinh hoàn; tinh hoàn xoắn và giãn tĩnh mạch thừng tinh; da bìu rộng hơn túi tinh; nhiệt độ tăng cao; kích thước tinh hoàn quá to; tràn dịch ở tinh mạc; ung thư ở tinh hoàn; thoát vị bẹn; hoặc tổn thương lớp màng tinh hoàn."
+    },
+    {
+      "question": "Khi nào cần đến gặp bác sĩ về tình trạng sa tinh hoàn?",
+      "answer": "Nếu nhận thấy sự khác lạ tại cơ quan sinh dục như bị sưng, xệ tinh hoàn đi kèm đau và tức, nam giới cần phải đến ngay các cơ sở y tế uy tín để được thăm khám, chẩn đoán và đưa ra những phương pháp điều trị phù hợp. Nếu được phát hiện sớm nguyên nhân gây sa tinh hoàn, triệu chứng này có thể được điều trị khỏi."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa sa tinh hoàn?",
+      "answer": "Sa tinh hoàn là một phần tự nhiên của quá trình lão hóa và không thể ngăn chặn hoàn toàn. Tuy nhiên, nam giới có thể làm chậm quá trình này bằng cách: tập thể dục thường xuyên (khoảng 30 phút mỗi ngày); không hút thuốc; hạn chế uống rượu bia; bổ sung vitamin A, B, C và E cùng các axit béo omega 3; uống khoảng 2-2,5 lít nước mỗi ngày."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sốt cao, đau nhức, sưng tấy ở tinh hoàn và bìu giãn ra. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sa-tinh-hoan",
+        "viem-tinh-hoan",
+        "viem-mao-tinh-hoan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tinh hoàn của mình to hơn bình thường và bìu chảy xệ xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sa-tinh-hoan",
+        "tran-dich-tinh-mac",
+        "gian-tinh-mach-thung-tinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tức vùng bìu, đặc biệt khi đi lại và đứng, kèm theo tinh hoàn chảy xệ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "sa-tinh-hoan",
+        "thoat-vi-ben",
+        "gian-tinh-mach-thung-tinh"
+      ]
+    },
+    {
+      "question": "Tôi thấy bìu của mình giãn xuống và lỏng lẻo, không co lại như bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tinh-hoan"]
+    },
+    {
+      "question": "Tôi hay cảm thấy nặng và khó chịu ở vùng bụng dưới, kèm theo bìu to hơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["sa-tinh-hoan", "thoat-vi-ben", "tran-dich-tinh-mac"]
     }
   ]
 }

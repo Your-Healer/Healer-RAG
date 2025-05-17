@@ -1,39 +1,97 @@
 {
   "disease_id": "thay-doi-soi-boc-tuyen-vu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thay đổi sợi bọc tuyến vú",
+  "disease_alternative_names": [
+    "Xơ nang tuyến vú",
+    "Fibrocystic Breast Changes"
+  ],
+  "disease_definition": "Thay đổi sợi bọc tuyến vú là tổn thương thường gặp nhất ở vú phụ nữ, bao gồm các mô có cấu trúc dạng khối đặc hoặc dạng sợi. Đây là những thay đổi bình thường của tuyến vú theo chu kỳ kinh nguyệt, không phải bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau vú, căng tức",
+      "description": "Cảm giác đau và căng tức ở tuyến vú, đặc biệt ở vùng trên ngoài của tuyến vú"
+    },
+    {
+      "name": "Khối u hoặc vùng dày lên ở vú",
+      "description": "Có thể sờ thấy những khối u ở vú hoặc một khối dày lên có xu hướng hòa vào mô vú xung quanh"
+    },
+    {
+      "name": "Đau không rõ điểm đau",
+      "description": "Đau chung chung không rõ điểm đau hoặc căng tức hay khó chịu ở vú"
+    },
+    {
+      "name": "Khối u thay đổi kích thước theo chu kỳ",
+      "description": "Các nốt hoặc khối u ở vú thay đổi kích thước theo chu kỳ kinh nguyệt"
+    },
+    {
+      "name": "Tiết dịch ở núm vú",
+      "description": "Núm vú tiết dịch màu nâu hoặc xám không chứa máu, dịch tiết có xu hướng rỉ ra mà không cần ấn hoặc bóp"
+    },
+    {
+      "name": "Thay đổi đối xứng hai bên",
+      "description": "Những thay đổi ở vú xảy ra tương tự nhau ở cả 2 bên"
+    },
+    {
+      "name": "Đau vú tăng lên theo chu kỳ",
+      "description": "Hàng tháng, đau vú tăng lên, nổi u cục bắt đầu từ giữa chu kỳ kinh (khoảng thời gian rụng trứng) đến ngay trước kỳ kinh, sau đó thuyên giảm khi chu kỳ kinh nguyệt khác bắt đầu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác của thay đổi sợi bọc tuyến vú vẫn chưa được biết rõ, nhưng các chuyên gia nghi ngờ rằng các hormone sinh sản đặc biệt là estrogen đóng vai trò quan trọng.",
+    "related_factors": "Trong chu kỳ kinh nguyệt, nồng độ hormon thay đổi gây khó chịu ở vú và các vùng mô vú dày lên, mềm, đau, sưng. Thay đổi sợi bọc vú có xu hướng khó chịu hơn ở trước kỳ kinh nguyệt, giảm bớt khi kỳ kinh nguyệt bắt đầu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
+  "risk_factors": [
+    "Phụ nữ trong độ tuổi từ 30-50",
+    "Sử dụng liệu pháp thay thế nội tiết tố như estrogen hay progesterone",
+    "Các thay đổi hormone trong chu kỳ kinh nguyệt"
+  ],
   "complications": [],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám tuyến vú để kiểm tra các mô vú bất thường",
+      "Đánh giá các hạch bạch huyết nằm ở vùng nách, trên xương đòn",
+      "Hỏi về tiền sử và các triệu chứng liên quan đến chu kỳ kinh nguyệt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chọc hút bằng kim nhỏ",
+        "description": "Bác sĩ dùng một kim nhỏ như sợi tóc để rút dịch ra khỏi nang, vừa có tác dụng chẩn đoán vừa có tác dụng điều trị, làm xẹp nang, giảm bớt sự khó chịu"
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Kiểm tra cấu trúc khối u và phân biệt giữa khối u đặc và nang chứa dịch"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nếu không có triệu chứng hoặc các triệu chứng nhẹ thì không cần điều trị. U nang gây đau nhiều, kích thước quá lớn hoặc đau có liên quan đến thay đổi sợi bọc vú có thể cần được cân nhắc điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chọc hút bằng kim nhỏ",
+        "description": "Bác sĩ dùng một kim nhỏ như sợi tóc để rút dịch ra khỏi nang, làm xẹp nang, giảm bớt sự khó chịu"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ",
+        "description": "Ít được chỉ định, áp dụng cho khối u tái phát dai dẳng mặc dù được chọc hút nhiều lần, hoặc u có các đặc điểm nghi ngờ"
+      },
+      {
+        "name": "Thuốc giảm đau không kê đơn",
+        "description": "Sử dụng acetaminophen (Tylenol, Panadol) hoặc các thuốc kháng viêm không steroid (NSAIDs) như ibuprofen (Advil, Motrin)"
+      },
+      {
+        "name": "Thuốc tránh thai đường uống",
+        "description": "Làm giảm nồng độ các hormone liên quan đến chu kỳ kinh nguyệt dẫn đến thay đổi sợi bọc tuyến vú"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Mặc áo ngực phù hợp theo tư vấn của chuyên gia",
+      "Mặc áo ngực thể thao khi tập thể dục và khi ngủ, đặc biệt khi tuyến vú quá nhạy cảm",
+      "Hạn chế hoặc tránh sử dụng các chất kích thích như caffeine",
+      "Ăn ít chất béo",
+      "Giảm hoặc ngưng liệu pháp nội tiết nếu đã mãn kinh (nhưng phải thảo luận trước với bác sĩ)",
+      "Dùng miếng đệm sưởi hoặc chai nước ấm chườm"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +99,68 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bổ sung tinh dầu hoa anh thảo có thể giúp giảm triệu chứng",
+      "Bổ sung vitamin E: uống 200 đơn vị (IU) vitamin E 2 lần mỗi ngày trong 2 tháng",
+      "Nữ trên 18 tuổi, đang mang thai và cho con bú, liều vitamin E tối đa là 1.000mg mỗi ngày (hoặc 1.500 IU)",
+      "Chỉ thử dùng một loại thực phẩm chức năng mỗi lần để xác định loại nào hiệu quả",
+      "Ngừng uống nếu tình trạng đau vú không được cải thiện sau vài tháng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thay đổi sợi bọc tuyến vú có phải là ung thư không?",
+      "answer": "Không, thay đổi sợi bọc tuyến vú là một tình trạng lành tính. Đây là những thay đổi bình thường của tuyến vú theo chu kỳ kinh nguyệt, không phải bệnh. Tuy nhiên, nếu bạn thấy một khối u mới hoặc thay đổi bất thường, nên đi khám để loại trừ các tình trạng khác."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ về thay đổi sợi bọc tuyến vú?",
+      "answer": "Bạn nên đi khám nếu: vú có một khối u lâu ngày hoặc phát hiện thấy một khối u mới; đau vú liên tục hoặc ngày càng nặng hơn ở những vùng nhất định; những thay đổi ở vú vẫn tiếp diễn sau chu kỳ kinh nguyệt; hoặc một khối u ở vú từng được bác sĩ khám nhưng bây giờ khối u này có vẻ to hơn hoặc thay đổi khác trước đây."
+    },
+    {
+      "question": "Làm thế nào để giảm các triệu chứng của thay đổi sợi bọc tuyến vú?",
+      "answer": "Có thể giảm triệu chứng bằng cách: mặc áo ngực phù hợp; mặc áo ngực thể thao khi tập thể dục và khi ngủ; hạn chế hoặc tránh caffeine; ăn ít chất béo; giảm hoặc ngưng liệu pháp nội tiết nếu đã mãn kinh (sau khi tham khảo ý kiến bác sĩ); dùng miếng đệm sưởi hoặc chai nước ấm chườm; bổ sung vitamin E hoặc tinh dầu hoa anh thảo (tham khảo ý kiến bác sĩ trước)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau vú, căng tức và nổi u cục ở vùng trên ngoài tuyến vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thay đổi sợi bọc tuyến vú",
+        "U nang vú",
+        "U xơ tuyến vú"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tức ngực, núm vú tiết dịch màu nâu hoặc xám. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thay đổi sợi bọc tuyến vú",
+        "Ống tuyến vú giãn",
+        "Viêm tuyến vú"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vú, sưng và nổi u cục trước kỳ kinh nguyệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thay đổi sợi bọc tuyến vú",
+        "Đau vú chu kỳ",
+        "Tăng sinh nang"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp vấn đề về vú như xuất hiện khối u, cảm giác đau nhức và tiết dịch bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thay đổi sợi bọc tuyến vú",
+        "Viêm tuyến vú",
+        "Ung thư vú"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vú, căng tức và nổi u cục ở cả hai bên vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thay đổi sợi bọc tuyến vú",
+        "Tăng sinh nang đôi bên",
+        "Rối loạn nội tiết"
+      ]
     }
   ]
 }

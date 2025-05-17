@@ -1,39 +1,124 @@
 {
   "disease_id": "tang-huyet-ap-thai-ky",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tăng huyết áp thai kỳ",
+  "disease_alternative_names": [
+    "Cao huyết áp khi mang thai",
+    "Pregnancy-Induced Hypertension (PIH)",
+    "Huyết áp cao trong thai kỳ"
+  ],
+  "disease_definition": "Tăng huyết áp thai kỳ là hiện tượng tăng huyết áp xuất hiện sau tuần thứ 20 của thai kỳ và trở về mức bình thường 6 tuần sau sinh. Huyết áp mang bầu cao ở mức độ nhẹ vào khoảng 140-159/90-109 mmHg, mức độ nặng khi ≥160/100 mmHg.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng phù chân, tay",
+      "description": "Tứ chi bị phù nề, sưng, đặc biệt là vùng mắt cá chân và bàn chân"
+    },
+    {
+      "name": "Tăng cân đột ngột",
+      "description": "Trọng lượng cơ thể tăng bất thường trong thời gian ngắn, không tương ứng với tiến trình phát triển thai nhi"
+    },
+    {
+      "name": "Rối loạn thị lực",
+      "description": "Nhìn mờ, nhìn đôi, mất thị lực thoáng qua hoặc các vấn đề về thị giác khác"
+    },
+    {
+      "name": "Buồn nôn, nôn mửa",
+      "description": "Cảm giác buồn nôn và nôn mửa không phải do nghén thông thường"
+    },
+    {
+      "name": "Đau đầu dữ dội",
+      "description": "Cơn đau đầu khó chịu, kéo dài, không đáp ứng với thuốc giảm đau thông thường"
+    },
+    {
+      "name": "Đau vùng thượng vị",
+      "description": "Đau ở vùng bụng trên, dưới xương ức"
+    },
+    {
+      "name": "Đau ngực và khó thở",
+      "description": "Cảm giác đau ngực sau xương ức và khó thở khi hoạt động hoặc nghỉ ngơi"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác gây tăng huyết áp thai kỳ chưa được xác định rõ ràng, nhưng liên quan đến nhiều yếu tố khác nhau tác động đến huyết áp trong quá trình mang thai.",
+    "related_factors": "Các yếu tố liên quan bao gồm chế độ dinh dưỡng khi mang thai không khoa học, thai phụ ăn quá mặn; thiếu hoạt động thể chất; thời tiết thay đổi đột ngột; tuổi thai phụ trên 35; và các bệnh lý nền như đái tháo đường.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ mang thai trên 35 tuổi",
+    "Thừa cân, béo phì trước khi mang thai",
+    "Tiền sử gia đình có người bị tăng huyết áp, tiền sản giật",
+    "Mắc bệnh đái tháo đường thai kỳ",
+    "Thiếu vận động thể chất",
+    "Chế độ ăn nhiều muối",
+    "Mang thai lần đầu",
+    "Mang đa thai",
+    "Thai trứng",
+    "Mắc hội chứng phospholipid",
+    "Tiền sử bệnh thận",
+    "Tiền sử tăng huyết áp mãn tính"
+  ],
+  "complications": [
+    "Tiền sản giật (25% phụ nữ mang thai bị huyết áp cao có nguy cơ tiền sản giật)",
+    "Sản giật (5-8% các trường hợp sản giật dẫn đến tử vong)",
+    "Ảnh hưởng xấu đến sức khỏe sau sinh, khả năng hồi phục chậm",
+    "Tăng nguy cơ cao huyết áp ở những lần mang thai tiếp theo",
+    "Nguy cơ mắc các bệnh tim mạch, thận",
+    "Thai nhi chậm phát triển hoặc chết lưu",
+    "Sinh non",
+    "Thai nhi thiếu oxy và chất dinh dưỡng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Theo dõi huyết áp thường xuyên trong thai kỳ",
+      "Đánh giá tiền sử bệnh của thai phụ",
+      "Khám lâm sàng triệu chứng phù nề, tăng cân đột ngột"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đo huyết áp",
+        "description": "Đo chỉ số huyết áp tâm thu và tâm trương, chẩn đoán khi huyết áp ≥140/90 mmHg"
+      },
+      {
+        "name": "Xét nghiệm protein niệu",
+        "description": "Kiểm tra protein trong nước tiểu, dùng để chẩn đoán tiền sản giật khi kết hợp với tăng huyết áp"
+      },
+      {
+        "name": "Các xét nghiệm máu",
+        "description": "Đánh giá chức năng gan, thận và tình trạng đông máu"
+      },
+      {
+        "name": "Siêu âm thai",
+        "description": "Kiểm tra sự phát triển của thai nhi và tình trạng nhau thai"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị tăng huyết áp khi mang thai cần được chẩn đoán và chỉ định của bác sĩ dựa trên quá trình mang thai, sức khỏe tổng thể và lịch sử bệnh của thai phụ, mức độ nghiêm trọng của bệnh, và khả năng chịu đựng của thai phụ đối với các loại thuốc hoặc các liệu pháp cụ thể.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị thuốc",
+        "description": "Sử dụng thuốc hạ huyết áp an toàn cho thai kỳ như methyldopa, labetalol; tránh dùng thuốc ức chế men chuyển, ức chế thụ thể vì có thể gây dị tật cho thai nhi"
+      },
+      {
+        "name": "Nhập viện theo dõi",
+        "description": "Khi huyết áp tâm thu ≥170 mmHg và/hoặc huyết áp tâm trương ≥110 mmHg, thai phụ cần được nhập viện ngay để cấp cứu"
+      },
+      {
+        "name": "Chấm dứt thai kỳ",
+        "description": "Thai phụ có hiện tượng tăng huyết áp hoặc tiền sản giật ở mức độ nhẹ được khuyến cáo chấm dứt thai kỳ ở tuần 37"
+      },
+      {
+        "name": "Nghỉ ngơi",
+        "description": "Hạn chế hoạt động mạnh, tránh căng thẳng nhưng không khuyến khích nằm liệt giường hoàn toàn"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi hợp lý, tránh stress",
+      "Hạn chế ăn mặn, thực hiện chế độ ăn giàu rau, trái cây",
+      "Tập thể dục nhẹ nhàng theo hướng dẫn của bác sĩ",
+      "Tuân thủ lịch khám thai định kỳ",
+      "Theo dõi các dấu hiệu bất thường để báo bác sĩ kịp thời",
+      "Uống đủ nước mỗi ngày"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +126,63 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh mang thai, sinh nở khi tuổi đã cao",
+      "Phụ nữ thừa cân cần có kế hoạch giảm cân trước khi mang thai",
+      "Thực hiện chế độ ăn uống lành mạnh, ăn nhiều hoa quả, rau xanh",
+      "Nếu đã mắc bệnh đái tháo đường, thai phụ cần kiểm soát tốt đường huyết trước và trong suốt quá trình mang thai",
+      "Tập thể dục thể thao điều độ trước và trong thai kỳ theo hướng dẫn của bác sĩ",
+      "Khám thai định kỳ để phát hiện sớm biến chứng",
+      "Hạn chế ăn mặn và thực phẩm giàu muối",
+      "Quản lý stress và có tinh thần thoải mái"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tăng huyết áp khi mang bầu có nguy hiểm không?",
+      "answer": "Tăng huyết áp thai kỳ có thể gây ảnh hưởng xấu đến sức khỏe của cả thai phụ và thai nhi. Mức độ nguy hiểm phụ thuộc vào thời gian mang thai và mức tăng huyết áp. Huyết áp càng cao, xuất hiện sớm thì nguy cơ biến chứng càng lớn. Các biến chứng nguy hiểm bao gồm tiền sản giật, sản giật, thai nhi chậm phát triển hoặc chết lưu, và sinh non."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa tăng huyết áp thai kỳ?",
+      "answer": "Để phòng ngừa tăng huyết áp thai kỳ, phụ nữ nên: tránh mang thai khi tuổi đã cao; giảm cân nếu thừa cân trước khi mang thai; thực hiện chế độ ăn uống lành mạnh với nhiều rau xanh, hoa quả; kiểm soát tốt đường huyết nếu mắc đái tháo đường; tập thể dục điều độ trước và trong thai kỳ theo hướng dẫn của bác sĩ."
+    },
+    {
+      "question": "Khi nào cần đến bệnh viện ngay lập tức với tăng huyết áp thai kỳ?",
+      "answer": "Thai phụ cần đến bệnh viện ngay lập tức khi huyết áp tâm thu ≥170 mmHg và/hoặc huyết áp tâm trương ≥110 mmHg, hoặc khi có các triệu chứng như đau đầu dữ dội, rối loạn thị lực, đau vùng thượng vị, đau ngực sau xương ức và khó thở, buồn nôn và nôn mửa kèm theo tăng huyết áp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sưng phù chân tay, tăng cân đột ngột khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng huyết áp thai kỳ",
+        "Tiền sản giật",
+        "Phù thai nghén"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu dữ dội, đau vùng thượng vị, đau ngực khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng huyết áp thai kỳ", "Tiền sản giật", "Sản giật"]
+    },
+    {
+      "question": "Tôi hay bị rối loạn thị lực khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng huyết áp thai kỳ",
+        "Tiền sản giật",
+        "Đái tháo đường thai kỳ"
+      ]
+    },
+    {
+      "question": "Tôi bị buồn nôn, nôn mửa khi mang thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng huyết áp thai kỳ", "Ốm nghén", "Tiền sản giật"]
+    },
+    {
+      "question": "Tôi mang thai trên 35 tuổi và lo lắng về nguy cơ tăng huyết áp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng huyết áp thai kỳ",
+        "Tiền sản giật",
+        "Đái tháo đường thai kỳ"
+      ]
     }
   ]
 }

@@ -1,39 +1,119 @@
 {
   "disease_id": "tai-cuc-som",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tái cực sớm",
+  "disease_alternative_names": [
+    "Hội chứng tái cực sớm",
+    "Early repolarization syndrome"
+  ],
+  "disease_definition": "Tái cực sớm là tình trạng bất thường trong hoạt động điện của tim, xảy ra khi quá trình tái cực (tim nghỉ ngơi sau co bóp) diễn ra sớm hơn bình thường. Được phát hiện qua những hình ảnh gợi ý trên điện tâm đồ (ECG) là những sóng dạng khấc nhỏ đi liền cuối sóng khử cực thất bình thường.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng",
+      "description": "Đa số bệnh nhân bị tái cực sớm không có bất kỳ triệu chứng đáng chú ý nào, bệnh thường được phát hiện tình cờ khi đo điện tim trong quá trình khám tổng quát"
+    },
+    {
+      "name": "Ngất xỉu",
+      "description": "Tình trạng mất ý thức tạm thời do tim không bơm đủ máu lên não, là dấu hiệu cảnh báo nguy hiểm của bệnh"
+    },
+    {
+      "name": "Gần ngất",
+      "description": "Cảm giác gần như ngất xỉu nhưng vẫn còn tỉnh táo"
+    },
+    {
+      "name": "Choáng váng từng cơn",
+      "description": "Cảm giác chóng mặt, choáng váng xuất hiện theo từng đợt"
+    },
+    {
+      "name": "Nhịp tim chậm",
+      "description": "Bệnh nhân bị tái cực sớm thường có nhịp tim cơ bản thấp hơn bình thường"
+    },
+    {
+      "name": "Tim đập nhanh và hồi hộp",
+      "description": "Cảm giác tim đập nhanh, mạnh hoặc không đều"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi do tim hoạt động không hiệu quả"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, đặc biệt khi gắng sức"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tái cực sớm xảy ra khi hệ thống điện của tim không hoạt động như bình thường, dẫn đến quá trình tái cực (tim nghỉ ngơi sau co bóp) diễn ra sớm hơn.",
+    "related_factors": "Các nghiên cứu gần đây đã chỉ ra rằng, bệnh tái cực có thể tiến triển thành những loạn nhịp tim nguy hiểm có nguy cơ ảnh hưởng tính mạng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người trẻ tuổi",
+    "Nam giới",
+    "Người Mỹ gốc Phi",
+    "Vận động viên"
+  ],
+  "complications": [
+    "Loạn nhịp tim nặng (nhịp nhanh thất, rung thất)",
+    "Đột tử tim"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Điện tâm đồ (ECG)",
+      "Khai thác bệnh sử và triệu chứng liên quan đến loạn nhịp tim",
+      "Khám lâm sàng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Phát hiện những sóng dạng khấc nhỏ đi liền cuối sóng khử cực thất bình thường"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá cấu trúc và chức năng của tim"
+      },
+      {
+        "name": "Holter ECG",
+        "description": "Theo dõi nhịp tim liên tục trong 24-48 giờ"
+      },
+      {
+        "name": "ECG gắng sức",
+        "description": "Đánh giá hoạt động điện của tim trong khi gắng sức"
+      },
+      {
+        "name": "MRI tim",
+        "description": "Đánh giá chi tiết cấu trúc và chức năng tim"
+      },
+      {
+        "name": "Xét nghiệm di truyền",
+        "description": "Tìm kiếm các đột biến gen liên quan đến rối loạn nhịp tim"
+      },
+      {
+        "name": "Thăm dò điện sinh lý tim",
+        "description": "Khảo sát, thăm dò hoạt động điện trong tim để đánh giá phân tầng nguy cơ"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị tái cực sớm phụ thuộc vào việc phân tầng nguy cơ của bệnh nhân. Nếu bệnh nhân được đánh giá là không có nguy cơ hoặc nguy cơ thấp thì thường không cần điều trị gì đặc hiệu. Nếu bệnh nhân được phân tầng có nguy cơ cao thì cần được điều trị đặc hiệu.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cấy máy khử rung tim (ICD)",
+        "description": "Máy được cấy vào ngực vùng gần tim để kiểm soát các xung điện bất thường, phương pháp này thường được sử dụng cho bệnh nhân có nguy cơ cao"
+      },
+      {
+        "name": "Dùng thuốc",
+        "description": "Một số loại thuốc có tác dụng giảm bớt các hoạt động điện bất thường trong tim gây ra loạn nhịp"
+      },
+      {
+        "name": "Triệt phá loạn nhịp bằng sóng cao tần",
+        "description": "Thủ thuật có hiệu quả cao trong việc loại bỏ hoặc giảm các vùng bất thường về điện học trong tim"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi thường xuyên với bác sĩ chuyên khoa tim mạch",
+      "Tuân thủ đúng phác đồ điều trị được bác sĩ chỉ định",
+      "Kiểm soát các yếu tố nguy cơ tim mạch khác nếu có",
+      "Thông báo cho bác sĩ khi có các triệu chứng bất thường như ngất, choáng váng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +121,60 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám sức khỏe định kỳ, đặc biệt khi thuộc nhóm nguy cơ cao",
+      "Đi khám ngay khi có các dấu hiệu cảnh báo như ngất, choáng váng",
+      "Duy trì lối sống lành mạnh với chế độ ăn uống cân đối và vận động phù hợp",
+      "Hạn chế các chất kích thích như rượu, caffeine",
+      "Quản lý stress hiệu quả"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tái cực sớm có nguy hiểm không?",
+      "answer": "Trước đây, tình trạng tái cực sớm thường được xem là lành tính và không phải tình trạng bệnh lý. Tuy nhiên, các nghiên cứu gần đây đã chỉ ra rằng, bệnh tái cực có thể tiến triển thành những loạn nhịp tim nguy hiểm có nguy cơ ảnh hưởng tính mạng. Nếu bệnh nhân được bác sĩ đánh giá có nguy cơ cao, sẽ cần được điều trị đặc hiệu để phòng ngừa biến chứng."
+    },
+    {
+      "question": "Làm thế nào để biết mình có bị tái cực sớm không?",
+      "answer": "Tái cực sớm thường được chẩn đoán tình cờ dựa vào điện tâm đồ (ECG) khi bệnh nhân đến khám vì những vấn đề sức khỏe khác. Đa số bệnh nhân bị tái cực sớm không có bất kỳ triệu chứng đáng chú ý nào. Tuy nhiên, nếu bạn có các triệu chứng như ngất, gần ngất, choáng váng từng cơn, bạn nên đi khám để được bác sĩ đánh giá."
+    },
+    {
+      "question": "Tái cực sớm có di truyền không?",
+      "answer": "Có một số bằng chứng cho thấy yếu tố di truyền có thể đóng vai trò trong việc phát triển tái cực sớm. Trong quá trình chẩn đoán, bác sĩ có thể chỉ định xét nghiệm di truyền để tìm kiếm các đột biến gen liên quan đến rối loạn nhịp tim. Tuy nhiên, không phải tất cả các trường hợp tái cực sớm đều có liên quan đến di truyền."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngất xỉu, choáng váng từng cơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tái cực sớm", "Rối loạn nhịp tim", "Hạ đường huyết"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tim đập nhanh và hồi hộp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tái cực sớm", "Rối loạn nhịp tim", "Lo âu"]
+    },
+    {
+      "question": "Tôi hay bị mệt mỏi và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tái cực sớm",
+        "Suy tim",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi là vận động viên và lo lắng về nguy cơ tái cực sớm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tái cực sớm",
+        "Tim vận động viên",
+        "Rối loạn nhịp tim"
+      ]
+    },
+    {
+      "question": "Tôi là người trẻ tuổi và lo lắng về nguy cơ tái cực sớm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tái cực sớm",
+        "Hội chứng Brugada",
+        "Rối loạn nhịp tim"
+      ]
     }
   ]
 }

@@ -1,39 +1,156 @@
 {
   "disease_id": "tang-huyet-ap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tăng huyết áp",
+  "disease_alternative_names": ["Cao huyết áp"],
+  "disease_definition": "Tăng huyết áp hay cao huyết áp là bệnh lý mạn tính, tình trạng này được xác định khi huyết áp đo tại phòng khám lớn hơn hoặc bằng 140/90 mmHg. Tiền tăng huyết áp khi nằm trong khoảng 120-139/80-89 mmHg và mức huyết áp bình thường khi < 120/80 mmHg.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nhức đầu",
+      "description": "Cảm giác đau ở đầu, có thể kéo dài và tái phát"
+    },
+    {
+      "name": "Nặng đầu",
+      "description": "Cảm giác đầu nặng, khó chịu, nhất là vào buổi sáng"
+    },
+    {
+      "name": "Mỏi gáy",
+      "description": "Cảm giác mệt mỏi, đau nhức ở vùng gáy"
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Cảm giác quay cuồng, không thăng bằng, hoa mắt"
+    },
+    {
+      "name": "Nóng phừng mặt",
+      "description": "Cảm giác nóng bừng ở mặt, đỏ mặt"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó khăn trong hô hấp, thở gấp hoặc nặng nề"
+    },
+    {
+      "name": "Chảy máu cam",
+      "description": "Chảy máu tự phát từ mũi"
+    },
+    {
+      "name": "Không có triệu chứng",
+      "description": "Khoảng 1/3 trường hợp người bệnh không có dấu hiệu gì, chỉ phát hiện bệnh khi đo huyết áp tình cờ hoặc đã có biến chứng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Khoảng 90% trường hợp tăng huyết áp không xác định được nguyên nhân (tăng huyết áp vô căn hay nguyên phát). Khoảng 10% trường hợp có nguyên nhân xác định (tăng huyết áp thứ phát).",
+    "related_factors": "Tăng huyết áp nguyên phát có tính gia đình, nhiều người trong gia đình cùng mắc. Các yếu tố khác bao gồm thói quen ăn mặn (nhiều muối), hút thuốc lá, uống rượu bia nhiều, dư cân hoặc béo phì, ít vận động, căng thẳng trong cuộc sống. Tăng huyết áp thứ phát có thể do bệnh thận, bệnh lý tuyến thượng thận, một số bệnh lý nội tiết khác, một số loại thuốc, hội chứng ngưng thở khi ngủ, hoặc bệnh tim bẩm sinh do hẹp eo động mạch chủ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình",
+    "Tuổi cao (huyết áp có xu hướng tăng dần theo tuổi)",
+    "Chế độ ăn nhiều muối",
+    "Hút thuốc lá",
+    "Uống rượu bia nhiều",
+    "Thừa cân hoặc béo phì",
+    "Ít vận động thể lực",
+    "Căng thẳng, áp lực trong cuộc sống",
+    "Một số bệnh lý như đái tháo đường",
+    "Mắc bệnh thận mạn tính"
+  ],
+  "complications": [
+    "Biến chứng ở tim: nhồi máu cơ tim, suy tim, suy tim mất bù, rung nhĩ",
+    "Biến chứng ở não: nhồi máu não, xuất huyết não, suy giảm trí nhớ",
+    "Biến chứng ở thận: suy thận, suy thận mạn giai đoạn cuối",
+    "Biến đổi mạch máu ở đáy mắt, xuất huyết, phù nề mạch máu võng mạc, mù lòa",
+    "Bệnh động mạch ngoại biên hai chân, đau chân khi đi lại, loét, hoại tử phải cắt chi",
+    "Rối loạn cương dương"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đo huyết áp tại phòng khám: ≥ 140/90 mmHg",
+      "Đo huyết áp tại nhà: ≥ 135/85 mmHg",
+      "Máy theo dõi huyết áp liên tục 24 giờ (máy Holter huyết áp): ≥ 130/80 mmHg"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm bụng tổng quát",
+        "description": "Tìm bệnh lý thận, tuyến thượng thận"
+      },
+      {
+        "name": "Siêu âm động mạch thận",
+        "description": "Tìm hẹp động mạch thận"
+      },
+      {
+        "name": "Siêu âm động mạch chủ",
+        "description": "Tìm bệnh hẹp eo động mạch chủ"
+      },
+      {
+        "name": "Xét nghiệm chức năng thận",
+        "description": "Đo creatinine máu, albumin niệu, tổng phân tích nước tiểu"
+      },
+      {
+        "name": "Xét nghiệm hormone",
+        "description": "Đo aldosterone máu, renin huyết tương, metanephrine máu, niệu, TSH, cortisol máu, ACTH"
+      },
+      {
+        "name": "Chụp CT hoặc MRI bụng",
+        "description": "Tìm u tuyến thượng thận"
+      },
+      {
+        "name": "Đa ký giấc ngủ",
+        "description": "Tìm bệnh ngưng thở khi ngủ"
+      },
+      {
+        "name": "Đo điện tim",
+        "description": "Phát hiện dày giãn buồng tim, rối loạn nhịp hoặc thiếu máu cơ tim"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Đánh giá chức năng tim, dày giãn buồng tim, hở van tim"
+      },
+      {
+        "name": "Xét nghiệm máu tổng quát",
+        "description": "Kiểm tra công thức máu, đường huyết đói, HbA1c, chức năng thận, điện giải đồ, acid uric máu, TSH, mỡ máu, men gan"
+      },
+      {
+        "name": "Đo vận tốc sóng mạch",
+        "description": "Đánh giá độ cứng của mạch máu"
+      },
+      {
+        "name": "Đo chỉ số huyết áp cổ chân/cánh tay (ABI)",
+        "description": "Tìm bệnh hẹp hoặc tắc động mạch ngoại biên ở 2 chân"
+      },
+      {
+        "name": "Chụp võng mạc",
+        "description": "Phát hiện tổn thương mạch máu đáy mắt do huyết áp cao lâu ngày"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị bệnh tăng huyết áp cần phối hợp giữa điều chỉnh lối sống với thuốc hạ huyết áp, giúp người bệnh dễ dàng kiểm soát huyết áp. Mức huyết áp mục tiêu cần đạt được là 130/80 mmHg hoặc thấp hơn tùy theo bệnh lý đi kèm hoặc đặc điểm riêng của từng người.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị không dùng thuốc",
+        "description": "Điều chỉnh lối sống, tập thể dục, giảm cân, thay đổi chế độ ăn (giảm muối, giảm mỡ béo), bỏ các thuốc gây cao huyết áp, thư giãn, giảm căng thẳng"
+      },
+      {
+        "name": "Thuốc hạ huyết áp",
+        "description": "5 nhóm thuốc cơ bản (ức chế men chuyển, chẹn thụ thể angiotensin 2, ức chế calci, lợi tiểu, chẹn bêta). Chọn lựa và phối hợp thuốc tùy theo đặc điểm của từng bệnh nhân"
+      },
+      {
+        "name": "Phẫu thuật hoặc thủ thuật",
+        "description": "Hủy thần kinh giao cảm động mạch thận, đặt stent động mạch thận trong một số trường hợp đặc biệt"
+      },
+      {
+        "name": "Điều trị theo nguyên nhân",
+        "description": "Điều trị dựa trên nguyên nhân gây bệnh trong trường hợp tăng huyết áp thứ phát"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống thuốc đều đặn mỗi ngày theo chỉ định của bác sĩ",
+      "Không tự ý ngưng thuốc khi nghi ngờ tác dụng phụ, hãy trao đổi với bác sĩ",
+      "Trang bị máy đo huyết áp cá nhân để tự kiểm tra huyết áp tại nhà",
+      "Theo dõi và ghi lại các chỉ số huyết áp để báo cáo cho bác sĩ",
+      "Tái khám định kỳ để bác sĩ điều chỉnh thuốc phù hợp",
+      "Thực hiện lối sống lành mạnh kết hợp với điều trị thuốc"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +158,67 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chế độ ăn lành mạnh: ít chất béo; nhiều trái cây, rau, củ, quả, hạt và các sản phẩm từ sữa ít béo",
+      "Giảm lượng muối ăn vào, giảm ăn thịt mỡ, thức ăn đóng hộp, thức ăn nhanh",
+      "Tập thể dục ít nhất 30 phút mỗi ngày vào hầu hết các ngày trong tuần",
+      "Kiểm soát cân nặng, giảm cân nếu dư cân",
+      "Hạn chế uống rượu bia",
+      "Không hút thuốc lá và tránh khói thuốc",
+      "Cân bằng cuộc sống, tránh căng thẳng",
+      "Khám sức khỏe định kỳ để phát hiện sớm những mối nguy cơ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Huyết áp bao nhiêu là cao?",
+      "answer": "Theo khuyến cáo của Hội Tim mạch học Quốc gia, tăng huyết áp được xác định khi huyết áp đo tại phòng khám lớn hơn hoặc bằng 140/90 mmHg. Tiền tăng huyết áp khi nằm trong khoảng 120-139/80-89 mmHg và mức huyết áp bình thường khi < 120/80 mmHg."
+    },
+    {
+      "question": "Làm thế nào để đo huyết áp đúng cách?",
+      "answer": "Để đo huyết áp đúng cách, bạn nên: Ngồi nghỉ 15 phút trước khi đo; Không hút thuốc lá, uống cafe 2 giờ trước khi đo; Ngồi dựa lưng vào ghế, hai chân chạm sàn nhà, không bắt chéo chân, tay duỗi thẳng, đặt ngang tim; Giữ im lặng trong lúc đo; Đo 2 lượt, cách nhau 2 phút; Sử dụng máy đo tự động có kích thước băng quấn phù hợp."
+    },
+    {
+      "question": "Tăng huyết áp có thể gây ra những biến chứng gì?",
+      "answer": "Tăng huyết áp có thể gây ra nhiều biến chứng nguy hiểm bao gồm: Biến chứng ở tim như nhồi máu cơ tim, suy tim, rung nhĩ; Biến chứng ở não như nhồi máu não, xuất huyết não, suy giảm trí nhớ; Biến chứng ở thận dẫn đến suy thận mạn; Biến đổi mạch máu ở đáy mắt có thể gây mù; Bệnh động mạch ngoại biên ở chân; Rối loạn cương dương."
+    },
+    {
+      "question": "Tăng huyết áp có chữa khỏi được không?",
+      "answer": "Tăng huyết áp nguyên phát (chiếm 90% các trường hợp) là bệnh mạn tính không thể chữa khỏi hoàn toàn, nhưng có thể kiểm soát tốt bằng thuốc và thay đổi lối sống. Tăng huyết áp thứ phát (chiếm 10% các trường hợp) có thể chữa khỏi nếu tìm ra và điều trị được nguyên nhân gây bệnh như bệnh thận, u tuyến thượng thận, hẹp eo động mạch chủ..."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nhức đầu, mỏi gáy, chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng huyết áp",
+        "Rối loạn tiền đình",
+        "Thiếu máu não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nóng phừng mặt, khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng huyết áp",
+        "Cơn tăng huyết áp kịch phát",
+        "Cơn bốc hỏa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy máu cam. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng huyết áp", "Viêm mũi", "Rối loạn đông máu"]
+    },
+    {
+      "question": "Tôi bị nhồi máu cơ tim. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tăng huyết áp",
+        "Bệnh mạch vành",
+        "Rối loạn lipid máu"
+      ]
+    },
+    {
+      "question": "Tôi bị đột quỵ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tăng huyết áp", "Rung nhĩ", "Xơ vữa động mạch"]
     }
   ]
 }

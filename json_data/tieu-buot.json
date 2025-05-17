@@ -1,39 +1,137 @@
 {
   "disease_id": "tieu-buot",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tiểu buốt",
+  "disease_alternative_names": [
+    "Đái buốt",
+    "Đau khi đi tiểu",
+    "Painful urination"
+  ],
+  "disease_definition": "Tiểu buốt là một thuật ngữ khá rộng, dùng để mô tả cảm giác nóng rát, nhói đau mỗi khi đi tiểu, nó gây nhiều phiền toái cho người bệnh. Đây là kết quả của sự kích thích bàng quang, niệu đạo. Nguyên nhân hay gặp nhất gây tiểu buốt là do nhiễm trùng đường tiết niệu dưới (viêm bàng quang, niệu đạo, tuyến tiền liệt), nhưng cũng có thể là nhiễm trùng đường tiết niệu trên (viêm thận, niệu quản).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm giác nóng rát khi đi tiểu",
+      "description": "Cảm giác nóng, rát, nhói đau trong quá trình đi tiểu"
+    },
+    {
+      "name": "Tiểu rắt",
+      "description": "Cảm giác buồn tiểu thường xuyên nhưng lượng nước tiểu ít"
+    },
+    {
+      "name": "Tiểu không sạch",
+      "description": "Cảm giác đi tiểu không hết, còn đọng lại nước tiểu"
+    },
+    {
+      "name": "Sốt",
+      "description": "Nhiệt độ cơ thể tăng cao, thường kèm theo trong trường hợp nhiễm trùng"
+    },
+    {
+      "name": "Tiết dịch vùng kín",
+      "description": "Có hiện tượng tiết dịch bất thường từ âm đạo hoặc dương vật"
+    },
+    {
+      "name": "Nước tiểu có mùi lạ",
+      "description": "Nước tiểu có mùi hôi hoặc bất thường"
+    },
+    {
+      "name": "Nước tiểu lẫn máu hoặc đục",
+      "description": "Có máu lẫn trong nước tiểu hoặc nước tiểu có màu đục"
+    },
+    {
+      "name": "Đau bụng dưới",
+      "description": "Đau tức vùng bụng dưới khi đi tiểu hoặc liên tục"
+    },
+    {
+      "name": "Đau lưng",
+      "description": "Đau ở vùng thắt lưng, đặc biệt là khi có vấn đề ở thận"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tiểu buốt là kết quả của sự kích thích bàng quang, niệu đạo. Nguyên nhân hay gặp nhất gây tiểu buốt là do nhiễm trùng đường tiết niệu dưới (viêm bàng quang, niệu đạo, tuyến tiền liệt).",
+    "related_factors": "Nhiễm trùng đường tiết niệu (80% do vi khuẩn E.Coli), bệnh lây truyền qua đường tình dục (STIs) như mụn rộp sinh dục, bệnh lậu và nấm chlamydia, viêm tuyến tiền liệt, viêm bàng quang, viêm niệu đạo, viêm mào tinh hoàn, bệnh viêm vùng chậu, tắc nghẽn niệu quản, sỏi đường tiết niệu, tác dụng phụ của thuốc (như thuốc điều trị ung thư, thuốc kháng sinh), kích ứng từ sản phẩm vệ sinh có tính tẩy rửa mạnh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nữ giới (do cấu tạo niệu đạo ngắn)",
+    "Người mắc đái tháo đường",
+    "Người cao tuổi",
+    "Người mắc các bệnh về tuyến tiền liệt",
+    "Phụ nữ mang thai",
+    "Phụ nữ trong giai đoạn mãn kinh",
+    "Người có đặt ống thông tiểu",
+    "Quan hệ tình dục không an toàn",
+    "Sử dụng sản phẩm vệ sinh có tính tẩy rửa mạnh"
+  ],
+  "complications": [
+    "Viêm bàng quang",
+    "Viêm bể thận",
+    "Nhiễm trùng đường tiết niệu",
+    "Tổn thương thận",
+    "Viêm bàng quang kẽ",
+    "Viêm tuyến tiền liệt mạn tính",
+    "Rối loạn chức năng tiết niệu"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử về các triệu chứng, thời điểm xuất hiện và biểu hiện kèm theo",
+      "Khám toàn thân để tìm dấu hiệu của các bệnh viêm khớp, viêm nhiễm phụ khoa",
+      "Khám khung chậu",
+      "Thăm trực tràng để đánh giá tuyến tiền liệt (với nam giới)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Phân tích tổng quát nước tiểu để tìm protein, hồng cầu và các dấu hiệu nhiễm trùng"
+      },
+      {
+        "name": "Cấy nước tiểu",
+        "description": "Nuôi cấy mẫu nước tiểu trong phòng thí nghiệm để xác định loại vi khuẩn gây bệnh và độ nhạy với kháng sinh"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Kiểm tra cấu trúc của thận, bàng quang và các cơ quan liên quan"
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Sử dụng dụng cụ đặc biệt để quan sát bên trong bàng quang, loại bỏ các yếu tố liên quan đến u bướu đường tiết niệu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Xác định nguyên nhân của tình trạng tiểu buốt là bước đầu tiên của quá trình điều trị. Sau khi tìm ra nguồn gốc gây bệnh, bác sĩ sẽ đề xuất phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh",
+        "description": "Điều trị tiểu buốt do nhiễm khuẩn, giúp tiêu diệt vi khuẩn gây bệnh"
+      },
+      {
+        "name": "Thuốc làm dịu bàng quang",
+        "description": "Giúp người bệnh cảm thấy thoải mái hơn khi bị bàng quang kích thích"
+      },
+      {
+        "name": "Thuốc điều trị viêm bàng quang kẽ",
+        "description": "Cần dùng thuốc kéo dài đến 4 tháng để cải thiện tình trạng tiểu buốt"
+      },
+      {
+        "name": "Thuốc điều trị viêm tuyến tiền liệt",
+        "description": "Kháng sinh được chỉ định dùng trong khoảng 12 tuần kèm với thuốc chống viêm"
+      },
+      {
+        "name": "Thuốc chống viêm không kê đơn",
+        "description": "Như Ibuprofen, giúp giảm triệu chứng viêm và đau"
+      },
+      {
+        "name": "Thuốc chẹn alpha",
+        "description": "Giúp thư giãn các cơ quanh tuyến tiền liệt, cải thiện dòng nước tiểu"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thay đổi thói quen sinh hoạt, tránh các chất kích thích bàng quang",
+      "Tránh thụt rửa vùng kín quá sâu",
+      "Xoa bóp tuyến tiền liệt (đối với nam giới)",
+      "Tắm nước ấm để làm giãn các cơ",
+      "Uống nhiều nước để làm loãng nước tiểu, giúp bớt đau khi tiểu",
+      "Nghỉ ngơi và tuân thủ điều trị theo chỉ dẫn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +139,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh xa các loại bột giặt và dung dịch vệ sinh cá nhân có mùi thơm, chất tẩy rửa mạnh",
+      "Sử dụng bao cao su hoặc các biện pháp bảo vệ khi quan hệ tình dục",
+      "Vệ sinh vùng kín nhẹ nhàng, không thụt rửa sâu",
+      "Lau khô bằng khăn sạch sau khi rửa",
+      "Uống đủ nước, đi tiểu thường xuyên, tránh nhịn tiểu",
+      "Xây dựng chế độ dinh dưỡng khoa học",
+      "Tránh thực phẩm và đồ uống có thể gây kích thích bàng quang như thực phẩm có tính axit cao, caffeine, rượu",
+      "Điều trị sớm các bệnh đường tiết niệu và bệnh phụ khoa"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tiểu buốt là triệu chứng của bệnh gì?",
+      "answer": "Tiểu buốt có thể là triệu chứng của nhiều bệnh như nhiễm trùng đường tiết niệu (80% do vi khuẩn E.Coli), bệnh lây truyền qua đường tình dục (STIs) như mụn rộp sinh dục, bệnh lậu và nấm chlamydia, viêm tuyến tiền liệt, viêm bàng quang, viêm niệu đạo, viêm mào tinh hoàn, bệnh viêm vùng chậu, tắc nghẽn niệu quản, sỏi đường tiết niệu, hoặc do kích ứng từ sản phẩm vệ sinh."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ nếu bị tiểu buốt?",
+      "answer": "Bạn nên đến ngay cơ sở y tế nếu tiểu buốt kéo dài hơn 24 giờ, kèm theo sốt, tiết dịch vùng kín, nước tiểu có mùi lạ, lẫn máu hoặc đục, đau bụng, đau ở hông hoặc lưng, hoặc nếu bạn có tiền sử bệnh về bàng quang hoặc sỏi thận."
+    },
+    {
+      "question": "Tiểu buốt có thể tự khỏi không?",
+      "answer": "Tùy thuộc vào nguyên nhân, một số trường hợp tiểu buốt nhẹ có thể tự khỏi khi uống nhiều nước và tránh các chất kích thích. Tuy nhiên, nếu tiểu buốt do nhiễm trùng hoặc các bệnh lý khác, cần phải được điều trị bằng thuốc kháng sinh hoặc các phương pháp điều trị phù hợp theo chỉ định của bác sĩ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiểu buốt, tiểu rắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Nhiễm trùng đường tiết niệu",
+        "Viêm bàng quang",
+        "Viêm niệu đạo"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nóng rát khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Nhiễm trùng đường tiết niệu",
+        "Viêm niệu đạo",
+        "Bệnh lây truyền qua đường tình dục"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu buốt sau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bàng quang",
+        "Nhiễm trùng đường tiết niệu",
+        "Bệnh lây truyền qua đường tình dục"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tức vùng bụng dưới và tiểu buốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bàng quang",
+        "Sỏi đường tiết niệu",
+        "Viêm tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu buốt và đi tiểu nhiều lần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm bàng quang",
+        "Nhiễm trùng đường tiết niệu",
+        "Bàng quang kích thích"
+      ]
     }
   ]
 }

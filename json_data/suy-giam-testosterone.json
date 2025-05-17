@@ -1,39 +1,134 @@
 {
   "disease_id": "suy-giam-testosterone",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy giảm Testosterone",
+  "disease_alternative_names": [
+    "Suy giảm nội tiết tố nam",
+    "Testosterone thấp",
+    "Hypogonadism"
+  ],
+  "disease_definition": "Suy giảm testosterone hay suy giảm nội tiết tố nam là tình trạng nồng độ testosterone trong máu thấp dưới mức trung bình 10-35 nanomol/lít ở người trưởng thành. Testosterone là hormone sinh dục được sản sinh chủ yếu tại tế bào Leydig ở tinh hoàn và một lượng nhỏ của tuyến thượng thận.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Giảm ham muốn tình dục",
+      "description": "Lượng hormone nam giảm kéo theo sự suy giảm ham muốn tình dục, nam giới \"mất lửa\", không còn hứng thú, ít nghĩ đến tình dục, thậm chí lảng tránh chuyện ân ái"
+    },
+    {
+      "name": "Khó khăn khi cương cứng",
+      "description": "Nam giới khó đạt được sự cương cứng cả khi quan hệ tình dục và cương cứng tự phát (trong khi ngủ) do thiếu hormone kích thích sản xuất Nitric Oxide"
+    },
+    {
+      "name": "Lượng tinh dịch thấp",
+      "description": "Nam giới nhận thấy lượng tinh dịch giảm trong khi xuất tinh, ít xuất tinh, ảnh hưởng đến khả năng sinh sản, có thể dẫn đến vô sinh hiếm muộn"
+    },
+    {
+      "name": "Rụng tóc",
+      "description": "Hói đầu, rụng toàn thân và lông mặt do hormone suy giảm không còn tác động lên hệ mao da"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm thấy rất mệt mỏi, năng lượng vơi đi, không còn năng nổ, hoạt bát trong mọi hoạt động dù đã ngủ đủ giấc"
+    },
+    {
+      "name": "Mất cơ",
+      "description": "Giảm khối lượng cơ, các khối cơ trở nên lỏng lẻo, kém săn chắc do thiếu hormone kích thích cơ phát triển"
+    },
+    {
+      "name": "Cơ thể tích mỡ",
+      "description": "Lượng cơ trên cơ thể mất đi và thay thế bởi lượng mỡ thừa, bụng tích tụ nhiều mỡ, hội chứng vú to, hoặc phì đại mô vú"
+    },
+    {
+      "name": "Giảm khối lượng xương",
+      "description": "Mật độ xương thấp, dễ bị gãy xương hơn do thiếu hormone giúp sản sinh và củng cố xương"
+    },
+    {
+      "name": "Thay đổi tâm trạng",
+      "description": "Thay đổi tâm trạng, trầm cảm, cáu kỉnh hoặc thiếu tập trung do hormone có vai trò điều hòa thần kinh và tâm thần bị suy giảm"
+    },
+    {
+      "name": "Đãng trí, hay quên",
+      "description": "Suy giảm khả năng nhận thức, đặc biệt là trí nhớ, do thiếu hormone bảo vệ các neuron thần kinh và đưa oxy đến não"
+    },
+    {
+      "name": "Kích thước tinh hoàn nhỏ",
+      "description": "Tinh hoàn có kích thước nhỏ hơn trung bình, thậm chí không cân đối do thiếu hormone phát triển cơ quan sinh dục"
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Thiếu máu gây ra các triệu chứng như khó tập trung, chuột rút, khó ngủ, chóng mặt, và nhịp tim nhanh bất thường"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy giảm testosterone chủ yếu xảy ra do tuổi tác, sau tuổi 30, lượng nội tiết tố nam bắt đầu suy giảm tự nhiên, giảm trung bình từ 1-2% mỗi năm và chỉ còn khoảng 70% ở tuổi 50 và 50% ở tuổi 70.",
+    "related_factors": "Ngoài tuổi tác, còn có các yếu tố khác như: stress, mệt mỏi, lạm dụng tình dục, tiếp xúc với hóa chất độc hại, môi trường ô nhiễm, tác dụng phụ của thuốc điều trị, và mắc một số bệnh lý như thừa cân, béo phì, huyết áp cao, tiểu đường, suy thận mãn tính, suy giáp nguyên phát nặng, HIV.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác (trên 30 tuổi)",
+    "Stress và mệt mỏi kéo dài",
+    "Lạm dụng tình dục",
+    "Tiếp xúc với hóa chất độc hại, khói bụi, thuốc trừ sâu, hút thuốc lá",
+    "Sử dụng một số loại thuốc như: thuốc an thần, thuốc ngủ, thuốc điều trị viêm loét dạ dày, khớp, ung thư tuyến tiền liệt",
+    "Thừa cân, béo phì",
+    "Huyết áp cao",
+    "Tiểu đường",
+    "Suy thận mãn tính",
+    "Suy giáp nguyên phát nặng",
+    "HIV",
+    "Lối sống, chế độ ăn uống, vận động không hợp lý"
+  ],
+  "complications": [
+    "Giảm ham muốn tình dục",
+    "Rối loạn cương dương",
+    "Vô sinh hiếm muộn",
+    "Loãng xương, dễ gãy xương",
+    "Thiếu máu",
+    "Trầm cảm, thay đổi tâm trạng",
+    "Béo phì, tăng mỡ cơ thể",
+    "Suy giảm khối lượng cơ",
+    "Bệnh tim mạch",
+    "Tiểu đường",
+    "Suy giảm trí nhớ và khả năng tập trung"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Đánh giá thể chất", "Xem xét các triệu chứng của người bệnh"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu đo lượng Testosterone",
+        "description": "Được thực hiện vào buổi sáng khi hormone này có nồng độ cao nhất; nếu Testosterone nằm trong khoảng 10-35 nanomol/lít là mức bình thường khỏe mạnh"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Testosterone thấp có ảnh hưởng rất lớn đến cuộc sống của các quý ông, vì vậy nếu gặp tình trạng này cần đến cơ sở y tế, bệnh viện uy tín để được thăm khám, và can thiệp kịp thời. Dựa vào tình trạng bệnh mà bác sĩ sẽ có chỉ định điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Liệu pháp bổ sung Testosterone",
+        "description": "Áp dụng cho người có các triệu chứng Testosterone thấp làm ảnh hưởng nhiều đến cuộc sống. Có thể thực hiện bằng tiêm vào bắp tay, miếng dán, gel, viên cấy hoặc viên uống. Hầu hết mọi người sẽ nhận thấy giảm các triệu chứng trong vòng 4–6 tuần kể từ khi áp dụng liệu pháp này."
+      },
+      {
+        "name": "Sử dụng thực phẩm chức năng",
+        "description": "Sử dụng các sản phẩm hỗ trợ, cải thiện khả năng sinh lý cho nam giới, nhưng cần chú ý đến nguồn gốc sản phẩm, thành phần, cơ chế tác động, độ an toàn và giấy phép lưu hành."
+      },
+      {
+        "name": "Tăng Testosterone tự nhiên",
+        "description": "Bao gồm thường xuyên tập thể dục thể thao (30-60 phút mỗi ngày, 5 lần/tuần), thay đổi lối sống tích cực, có chế độ ăn uống đủ chất và tăng cường thực phẩm tốt cho sinh lý nam."
+      },
+      {
+        "name": "Bài tập tăng cường Testosterone",
+        "description": "Các bài tập hiệu quả bao gồm: bơi lội, đi bộ nhanh, yoga, kegel, cử tạ, squat."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thường xuyên tập thể dục thể thao",
+      "Thay đổi lối sống tích cực",
+      "Có chế độ ăn uống đủ chất",
+      "Tăng cường các thực phẩm tốt cho sinh lý nam",
+      "Hạn chế stress và căng thẳng",
+      "Ngủ đủ giấc",
+      "Sinh hoạt tình dục điều độ",
+      "Kiểm soát cân nặng",
+      "Hạn chế tiếp xúc với hóa chất độc hại"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +136,75 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giảm thiểu căng thẳng, kiểm soát stress",
+      "Sắp xếp công việc hợp lý",
+      "Dành thời gian cho các hoạt động thư giãn",
+      "Tập hít thở sâu để giải tỏa căng thẳng",
+      "Tập thể dục đều đặn",
+      "Tránh thức khuya, ngủ đủ giấc 7-8 giờ mỗi ngày",
+      "Xây dựng chế độ ăn uống lành mạnh, khoa học",
+      "Tăng cường thực phẩm giàu kẽm, Omega-3, vitamin A, B, C, D, E",
+      "Hạn chế bia rượu, dầu mỡ, thức ăn đóng hộp, đồ ăn nhanh",
+      "Duy trì cân nặng hợp lý",
+      "Sinh hoạt tình dục đều đặn",
+      "Hạn chế tiếp xúc với hóa chất độc hại, khói bụi ô nhiễm, thuốc trừ sâu, khói thuốc lá"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy giảm Testosterone là gì?",
+      "answer": "Suy giảm testosterone hay suy giảm nội tiết tố nam là tình trạng nồng độ testosterone trong máu thấp dưới mức trung bình 10-35 nanomol/lít ở người trưởng thành. Theo Hiệp hội Tiết niệu Hoa Kỳ (AUA), có khoảng 20% đàn ông trên 60 tuổi có mức Testosterone thấp, con số này tăng lên 30% nam giới ở độ tuổi 70-80. Testosterone là hormone sinh dục được sản sinh chủ yếu tại tế bào Leydig ở tinh hoàn và một lượng nhỏ của tuyến thượng thận."
+    },
+    {
+      "question": "Dấu hiệu nhận biết tình trạng Testosterone thấp là gì?",
+      "answer": "Các dấu hiệu nhận biết Testosterone thấp bao gồm: giảm ham muốn tình dục, khó khăn khi cương cứng, lượng tinh dịch thấp, rụng tóc, mệt mỏi, mất cơ, cơ thể tích mỡ, giảm khối lượng xương, thay đổi tâm trạng, đãng trí hay quên, kích thước tinh hoàn nhỏ, và thiếu máu. Những triệu chứng này có thể ảnh hưởng nghiêm trọng đến chất lượng cuộc sống và sức khỏe của nam giới."
+    },
+    {
+      "question": "Nguyên nhân khiến nồng độ Testosterone suy giảm là gì?",
+      "answer": "Nguyên nhân khiến nồng độ Testosterone suy giảm bao gồm: tuổi tác (sau tuổi 30, lượng nội tiết tố nam bắt đầu suy giảm tự nhiên), stress và mệt mỏi kéo dài, lạm dụng tình dục, tiếp xúc với hóa chất độc hại và môi trường ô nhiễm, tác dụng phụ của một số loại thuốc, và mắc các bệnh lý như thừa cân béo phì, huyết áp cao, tiểu đường, suy thận mãn tính, suy giáp nguyên phát nặng, HIV."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán Testosterone thấp?",
+      "answer": "Để chẩn đoán testosterone thấp, bác sĩ sẽ đánh giá thể chất và xem xét các triệu chứng của người bệnh, sau đó yêu cầu xét nghiệm đo lượng Testosterone trong máu. Xét nghiệm này được thực hiện vào buổi sáng khi hormone có nồng độ cao nhất. Trước khi làm kiểm tra, bác sĩ có thể yêu cầu ngừng uống các loại thuốc có thể ảnh hưởng đến lượng hormone. Kết quả bình thường nằm trong khoảng 10-35 nanomol/lít."
+    },
+    {
+      "question": "Điều trị Testosterone thấp như thế nào?",
+      "answer": "Điều trị Testosterone thấp có nhiều phương pháp tùy thuộc vào tình trạng bệnh, bao gồm: liệu pháp bổ sung Testosterone (tiêm, miếng dán, gel, viên cấy, viên uống), sử dụng thực phẩm chức năng hỗ trợ sinh lý nam, tăng Testosterone tự nhiên thông qua tập thể dục thể thao, thay đổi lối sống tích cực, và áp dụng chế độ ăn uống đủ chất. Các bài tập hiệu quả bao gồm bơi lội, đi bộ nhanh, yoga, kegel, cử tạ, và squat."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như giảm ham muốn tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-giam-testosterone",
+        "roi-loan-cuong-duong",
+        "tram-cam"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó khăn khi cương cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-giam-testosterone",
+        "roi-loan-cuong-duong",
+        "tieu-duong"
+      ]
+    },
+    {
+      "question": "Tôi hay bị lượng tinh dịch thấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-giam-testosterone", "vo-sinh-nam-gioi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["suy-giam-testosterone", "thieu-mau", "suy-gian"]
+    },
+    {
+      "question": "Tôi đang cảm thấy bụng tích tụ nhiều mỡ và ngực to. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "suy-giam-testosterone",
+        "beo-phi",
+        "roi-loan-noi-tiet"
+      ]
     }
   ]
 }

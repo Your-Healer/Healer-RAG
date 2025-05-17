@@ -1,39 +1,102 @@
 {
   "disease_id": "polyp-dai-trang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Polyp đại tràng",
+  "disease_alternative_names": [
+    "Polyp đại trực tràng",
+    "Polyp ruột già",
+    "Colon polyps"
+  ],
+  "disease_definition": "Polyp đại tràng là khối u lồi trong lòng đại trực tràng, được hình thành do sự tăng sinh quá mức niêm mạc đại trực tràng. Phần lớn các polyp ở dạng u lành tính; tuy nhiên vẫn có một tỷ lệ nhất định có thể tiến triển thành ung thư đại tràng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chảy máu trực tràng",
+      "description": "Một trong các dấu hiệu điển hình của polyp đại tràng, dễ bị nhầm lẫn với bệnh trĩ hoặc tình trạng rách hậu môn."
+    },
+    {
+      "name": "Phân có màu bất thường",
+      "description": "Phân có thể có màu đen hoặc xuất hiện các tơ máu, là dấu hiệu của tình trạng chảy máu trong đại tràng."
+    },
+    {
+      "name": "Thay đổi thói quen đi tiêu",
+      "description": "Táo bón hoặc tiêu chảy kéo dài bất thường, không thuyên giảm là biểu hiện cảnh báo nguy cơ đang có u polyp."
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Người bị polyp đại tràng có thể thường xuyên thấy đau quặn bụng do bệnh gây tắc nghẽn một phần ruột."
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Chảy máu polyp diễn ra âm thầm trong thời gian dài gây sụt giảm lượng sắt, khiến người bệnh hay cảm thấy mệt mỏi và khó thở."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây polyp đại tràng chính xác vẫn chưa được xác định nhưng sự phân chia và phát triển tế bào nhiều hơn bình thường được xem là lý do chính. Polyp là kết quả của những thay đổi di truyền trong tế bào niêm mạc đại tràng ảnh hưởng đến chu kỳ sống của tế bào bình thường.",
+    "related_factors": "Một số yếu tố có liên quan tới sự hình thành polyp đại tràng bao gồm tuổi tác, tiền sử gia đình, hút thuốc và uống rượu quá mức, một số rối loạn di truyền, béo phì, lười vận động và tiêu thụ nhiều chất béo.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác: Hầu hết những người bị polyp đại tràng ở lứa tuổi từ 50 trở lên",
+    "Tiền sử gia đình: Có người thân bị polyp đại tràng hoặc ung thư đại tràng",
+    "Hút thuốc và uống rượu quá mức",
+    "Một số rối loạn di truyền: Hội chứng Gardner, hội chứng Lynch, Polyposis vị thành niên, hội chứng Peutz-Jeghers",
+    "Béo phì, lười vận động và tiêu thụ nhiều chất béo",
+    "Chủng tộc: Người Mỹ gốc Phi có nguy cơ tiến triển ung thư đại tràng cao hơn"
+  ],
+  "complications": [
+    "Ung thư đại tràng",
+    "Chảy máu đại tràng kéo dài gây thiếu máu",
+    "Tắc nghẽn đường ruột",
+    "Polyp tái phát sau khi cắt bỏ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá các triệu chứng",
+      "Sàng lọc định kỳ theo độ tuổi và yếu tố nguy cơ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi đại tràng",
+        "description": "Giúp quan sát tình trạng bên trong đại tràng, có khả năng loại bỏ hầu hết các polyp để kiểm tra nguy cơ ung thư."
+      },
+      {
+        "name": "Chụp cắt lớp CT (nội soi đại tràng ảo)",
+        "description": "Phương pháp chụp ảnh đại tràng từ bên ngoài. Nếu có dấu hiệu bất thường, người bệnh sẽ cần nội soi đại tràng thường xuyên."
+      },
+      {
+        "name": "Nội soi đại tràng sigma",
+        "description": "Xét nghiệm tương tự như nội soi đại tràng nhưng không quá phức tạp, có thể loại bỏ polyp phát hiện được."
+      },
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Xét nghiệm DNA trong phân để kiểm tra sự thay đổi gen. Nếu xét nghiệm có vấn đề, người bệnh sẽ cần phải nội soi."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy vào loại polyp đại tràng được phát hiện mà bác sĩ sẽ lựa chọn phương pháp điều trị phù hợp. Sau khi cắt bỏ, các polyp sẽ được gửi đi làm xét nghiệm mô bệnh học để đánh giá mức độ nghịch sản và nguy cơ ung thư.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cắt polyp trong lúc nội soi",
+        "description": "Bác sĩ sử dụng kẹp hoặc thòng lọng (snare) để cắt polyp. Nếu kích thước polyp quá lớn, bác sĩ sẽ tiêm một loại chất lỏng bên dưới để nâng và cô lập khối polyp khỏi mô xung quanh sau đó cắt bỏ."
+      },
+      {
+        "name": "Phẫu thuật xâm lấn tối thiểu",
+        "description": "Đối với những polyp đại tràng quá lớn hay không thể loại bỏ an toàn trong lúc nội soi, bác sĩ sẽ sử dụng phẫu thuật nội soi để loại bỏ phần ruột có polyp."
+      },
+      {
+        "name": "Cắt bỏ đại tràng",
+        "description": "Nếu người bệnh có tình trạng di truyền như polyposis tuyến gia đình, có thể cần phẫu thuật cắt bỏ một phần hoặc toàn bộ đại tràng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tầm soát nội soi định kỳ sau khi phát hiện và cắt polyp",
+      "Trong 5-10 năm nếu có 1 hoặc 2 u tuyến nhỏ",
+      "Trong 3-5 năm nếu có từ 3-4 u tuyến",
+      "Trong 3 năm nếu có 5-10 u tuyến, kích thước u tuyến lớn hơn 10mm",
+      "Trong 6 tháng đến 1 năm nếu có >10 polyp u tuyến hoặc u kích thước lớn",
+      "Thay đổi chế độ ăn uống, tăng cường rau xanh và chất xơ",
+      "Duy trì cân nặng hợp lý và tập thể dục đều đặn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +104,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát và loại bỏ polyp định kỳ",
+      "Tăng cường trái cây, rau xanh, các loại đậu, ngũ cốc giàu chất xơ trong chế độ ăn hằng ngày",
+      "Duy trì cân nặng khỏe mạnh, giảm cân nếu thừa cân hoặc béo phì",
+      "Hạn chế ăn quá nhiều thịt đỏ như thịt bò, thịt lợn, thịt dê, thịt cừu",
+      "Tập thể dục với cường độ vừa phải, đều đặn mỗi ngày",
+      "Không lạm dụng bia rượu, thuốc lá",
+      "Tham khảo ý kiến bác sĩ về việc bổ sung canxi và vitamin D hoặc dùng aspirin thường xuyên"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bị polyp đại tràng có nguy hiểm không?",
+      "answer": "Polyp đại tràng không thể xem nhẹ vì có nguy cơ tiến triển thành ung thư đại tràng. Mặc dù hầu hết polyp đại tràng là lành tính, nhưng một tỷ lệ nhất định (đặc biệt là loại u tuyến) có thể phát triển thành ung thư theo thời gian. Do đó, việc phát hiện sớm và loại bỏ polyp càng sớm càng tốt là rất quan trọng để ngăn ngừa nguy cơ ung thư."
+    },
+    {
+      "question": "Có nên cắt polyp đại tràng không?",
+      "answer": "Có, nên cắt bỏ polyp đại tràng. Polyp đại tràng có nguy cơ tiến triển thành ung thư, do đó việc cắt polyp trong quá trình nội soi có tác dụng loại bỏ polyp, ngăn chặn tiến trình chuyển sang ung thư và làm giảm tử vong do ung thư đại trực tràng. Người bệnh nếu cần cắt bỏ hay phẫu thuật polyp đại tràng nên được thực hiện ở các cơ sở y tế chuyên khoa tiêu hóa với đội ngũ bác sĩ giàu kinh nghiệm để đảm bảo an toàn."
+    },
+    {
+      "question": "Polyp đại tràng loại nào nguy hiểm nhất?",
+      "answer": "Polyp u tuyến (adenoma) là loại polyp đại tràng nguy hiểm nhất vì phần lớn trường hợp ung thư đại tràng đều phát triển từ loại polyp này. Trong các loại u tuyến, polyp u tuyến nhánh (villous adenoma) có nguy cơ cao nhất, với 10% có ung thư tại chỗ và 25-40% có ung thư xâm nhập. Polyp càng có kích thước lớn (trên 10mm) thì nguy cơ trở thành ung thư càng cao. Polyp tăng sản (hyperplastic) thường không có nguy cơ trở tiến triển sang giai đoạn ác tính."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chảy máu trực tràng và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["polyp-dai-trang", "tri", "ung-thu-dai-trang"]
+    },
+    {
+      "question": "Tôi hay bị táo bón và phân có màu đen. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-dai-trang",
+        "xuat-huyet-duong-tieu-hoa",
+        "loet-da-day"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi và khó thở, kèm theo phân có máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["polyp-dai-trang", "thieu-mau", "ung-thu-dai-trang"]
+    },
+    {
+      "question": "Tôi thường xuyên bị tiêu chảy và đau quặn bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-dai-trang",
+        "viem-dai-trang",
+        "hoi-chung-ruot-kich-thich"
+      ]
+    },
+    {
+      "question": "Tôi hay bị thay đổi thói quen đi tiêu và phân có tơ máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-dai-trang",
+        "ung-thu-dai-trang",
+        "viem-dai-trang"
+      ]
     }
   ]
 }

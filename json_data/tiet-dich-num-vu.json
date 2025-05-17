@@ -1,39 +1,118 @@
 {
   "disease_id": "tiet-dich-num-vu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tiết dịch núm vú",
+  "disease_alternative_names": ["Chảy dịch đầu vú", "Nipple discharge"],
+  "disease_definition": "Tiết dịch núm vú là tình trạng dịch chảy ra từ núm vú. Tiết dịch núm vú khi mang thai và cho con bú là bình thường. Tiết dịch núm vú ở những phụ nữ không mang thai hoặc cho con bú thì ít gặp, có thể không đáng lo ngại nhưng nên đi khám để bác sĩ đánh giá chính xác hơn. Nam giới bị tiết dịch ở núm vú trong bất kỳ trường hợp nào cũng nên được đánh giá.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tiết dịch màu trắng đục",
+      "description": "Dịch màu trắng đục chảy ra từ núm vú, thường gặp trong thai kỳ hoặc khi cho con bú"
+    },
+    {
+      "name": "Tiết dịch màu vàng nhạt",
+      "description": "Dịch màu vàng nhạt có thể xuất hiện sau giai đoạn cho con bú hoặc do rối loạn nội tiết"
+    },
+    {
+      "name": "Tiết dịch màu xanh lá cây",
+      "description": "Dịch màu xanh lá cây thường liên quan đến u nang"
+    },
+    {
+      "name": "Tiết dịch màu nâu",
+      "description": "Dịch màu nâu hoặc dịch tiết giống phô mai thường do giãn ống tuyến vú (ống dẫn sữa bị tắc)"
+    },
+    {
+      "name": "Tiết dịch có lẫn máu",
+      "description": "Dịch tiết có màu đỏ hoặc lẫn máu có thể liên quan đến u nhú hoặc ung thư vú"
+    },
+    {
+      "name": "Tiết dịch có mủ",
+      "description": "Dịch tiết màu trắng, đục, vàng hoặc có mủ thường do nhiễm trùng vú hoặc núm vú"
+    },
+    {
+      "name": "Tiết dịch từ một hoặc hai bên vú",
+      "description": "Dịch có thể tiết ra từ một bên vú hoặc cả hai bên, tiết dịch một bên thường đáng ngại hơn"
+    },
+    {
+      "name": "Tiết dịch tự nhiên hoặc khi bóp nặn",
+      "description": "Dịch có thể chảy ra tự nhiên hoặc khi có tác động cơ học như bóp nặn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tiết dịch núm vú có thể xuất phát từ nguyên nhân sinh lý hoặc bệnh lý. Nguyên nhân sinh lý bao gồm các thay đổi nội tiết tố trong thai kỳ, khi đang cho con bú hoặc sau khi ngưng cho con bú.",
+    "related_factors": "Nguyên nhân bệnh lý gồm các khối u lành tính như u nhú trong ống tuyến vú, áp xe vú, viêm vú, giãn ống tuyến vú, bệnh Paget vú, ung thư vú. Ngoài ra, tiết dịch núm vú còn có thể do sử dụng thuốc tránh thai, liệu pháp hormone thay thế, hoặc thuốc điều trị buồn nôn, trầm cảm và rối loạn tâm thần.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ trong độ tuổi sinh sản",
+    "Phụ nữ trên 40 tuổi hoặc đã mãn kinh",
+    "Tiền sử mang thai hoặc cho con bú",
+    "Sử dụng thuốc tránh thai hoặc liệu pháp hormone thay thế",
+    "Rối loạn nội tiết",
+    "Chấn thương vú",
+    "Kích thích ngực quá mức",
+    "Thay đổi nội tiết tố trong chu kỳ kinh nguyệt"
+  ],
+  "complications": [
+    "Nhiễm trùng vú",
+    "Ung thư vú",
+    "Ung thư biểu mô ống tuyến vú tại chỗ (DCIS)",
+    "Bệnh Paget vú",
+    "Giãn ống tuyến vú",
+    "U nhú trong ống tuyến vú",
+    "Áp xe vú",
+    "Viêm vú"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để kiểm tra vú có khối u hoặc các dấu hiệu bất thường",
+      "Quan sát màu sắc, tính chất của dịch tiết để đánh giá ban đầu về nguyên nhân"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm dịch từ núm vú",
+        "description": "Phân tích tế bào học dịch tiết để truy tìm tế bào ung thư bong ra, tuy nhiên kết quả thường khó đánh giá"
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Sử dụng sóng âm thanh tần số cực thấp để khảo sát cấu trúc bên trong mô vú, phát hiện bất thường về hình thái tuyến vú"
+      },
+      {
+        "name": "Chụp nhũ ảnh 3D",
+        "description": "Sử dụng tia X ghi nhận ảnh tuyến vú, giúp chẩn đoán khi xuất hiện các triệu chứng như tiết dịch núm vú, sờ có khối u"
+      },
+      {
+        "name": "Sinh thiết vú",
+        "description": "Lấy mẫu mô từ tuyến vú để phân tích các chỉ số hình thái tế bào và cấu trúc mô vú, xác định tính chất lành tính hay ác tính"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Khi chẩn đoán được nguyên nhân gây tiết dịch núm vú, các bác sĩ sẽ xây dựng phác đồ điều trị thích hợp. Nếu trường hợp dịch tiết do mang thai hoặc cho con bú có thể không cần can thiệp, điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị tình trạng nhiễm trùng",
+        "description": "Sử dụng kháng sinh hoặc các phương pháp điều trị khác nếu nguyên nhân là nhiễm trùng vú hoặc núm vú"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Can thiệp phẫu thuật để loại bỏ khối u, u nhú trong ống tuyến vú hoặc các tổn thương gây tiết dịch"
+      },
+      {
+        "name": "Điều trị nội tiết",
+        "description": "Sử dụng thuốc để điều chỉnh sự mất cân bằng nội tiết tố nếu đó là nguyên nhân"
+      },
+      {
+        "name": "Ngưng sử dụng thuốc",
+        "description": "Ngưng sử dụng các loại thuốc gây tăng prolactin như thuốc tránh thai, thuốc điều trị buồn nôn, trầm cảm"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nếu tiết dịch do mang thai hoặc cho con bú, không cần lo lắng và can thiệp",
+      "Đến gặp bác sĩ ngay nếu dịch tiết từ một bên vú, có máu, hoặc kèm theo các triệu chứng bất thường khác",
+      "Tránh kích thích núm vú thường xuyên, kể cả việc kiểm tra tiết dịch",
+      "Tuân thủ theo phác đồ điều trị của bác sĩ",
+      "Theo dõi và tái khám theo lịch hẹn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +120,72 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thường xuyên vệ sinh cơ thể sạch sẽ",
+      "Mặc áo ngực phù hợp với bầu ngực, chọn chất liệu thoáng mát",
+      "Không mặc áo ngực khi còn ẩm",
+      "Xây dựng chế độ dinh dưỡng hợp lý, bổ sung nhiều trái cây, rau xanh",
+      "Tăng cường thêm các thực phẩm giàu omega-3 và axit béo (các loại cá béo, các loại hạt)",
+      "Thể dục thể thao đều đặn với các bộ môn như đạp xe, chạy bộ, bơi lội, yoga",
+      "Tự khám vú tại nhà, định kỳ mỗi tháng 1 lần vào ngày thứ 7-10 của chu kỳ",
+      "Phụ nữ từ 40 tuổi nên tầm soát bệnh lý tuyến vú 1 năm/lần",
+      "Phụ nữ độ tuổi 20-30 nên tầm soát ung thư vú 3 năm một lần"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tiết dịch núm vú có nguy hiểm không?",
+      "answer": "Đa phần khi thấy vú tiết dịch màu trắng trong hoặc trắng gần giống như sữa thì không có vấn đề gì nghiêm trọng. Tiết dịch ở núm vú hiếm khi là dấu hiệu của ung thư vú, nhưng có thể là dấu hiệu của một tình trạng tiềm ẩn cần được thăm khám và điều trị."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ khi có tiết dịch núm vú?",
+      "answer": "Cần đi khám nếu bạn có tiết dịch núm vú kèm những triệu chứng sau: tiết dịch xảy ra thường xuyên và nhiều lần, tiết dịch từ 1 bên vú, dịch tiết có dính máu hoặc có mùi, bạn hiện tại không cho con bú, tiết dịch núm vú chảy tự nhiên không có kích thích, trên 50 tuổi, có các triệu chứng khác như có khối u, đau, đỏ hoặc sưng ở vú, hoặc bạn là nam giới."
+    },
+    {
+      "question": "Tiết dịch núm vú có màu trắng đục có phải lo lắng không?",
+      "answer": "Tiết dịch núm vú màu trắng đục thường liên quan đến các nguyên nhân sinh lý như thay đổi hormone, thai kỳ hoặc cho con bú và thường không nguy hiểm. Tuy nhiên, nếu bạn không mang thai hoặc không cho con bú mà vẫn tiết dịch, nên đi khám để bác sĩ đánh giá."
+    },
+    {
+      "question": "Tiết dịch núm vú có lẫn máu có ý nghĩa gì?",
+      "answer": "Tiết dịch núm vú có lẫn máu có thể liên quan đến u nhú trong ống tuyến vú hoặc trong một số trường hợp hiếm hơn là ung thư vú. Nếu bạn thấy dịch tiết có màu đỏ hoặc lẫn máu, nên đến gặp bác sĩ càng sớm càng tốt để được thăm khám và đánh giá."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiết dịch núm vú màu trắng đục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiết dịch núm vú",
+        "Thay đổi nội tiết tố",
+        "Mang thai"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiết dịch núm vú màu vàng nhạt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiết dịch núm vú",
+        "Giãn ống tuyến vú",
+        "Nhiễm trùng vú"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy núm vú tiết dịch màu xanh lá cây. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tiết dịch núm vú", "U nang vú", "Giãn ống tuyến vú"]
+    },
+    {
+      "question": "Tôi hay bị tiết dịch núm vú màu nâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiết dịch núm vú",
+        "Giãn ống tuyến vú",
+        "Tắc ống dẫn sữa"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy núm vú tiết dịch có lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tiết dịch núm vú",
+        "U nhú trong ống tuyến vú",
+        "Ung thư vú"
+      ]
     }
   ]
 }

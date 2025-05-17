@@ -1,58 +1,176 @@
 {
   "disease_id": "teo-tinh-hoan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Teo tinh hoàn",
+  "disease_alternative_names": ["Testicular atrophy", "Bệnh teo tinh hoàn"],
+  "disease_definition": "Teo tinh hoàn là hiện tượng tinh hoàn của người nam bị teo lại. Mỗi nam giới sẽ có hai tinh hoàn và có hình dạng như quả trứng. Hai tinh hoàn được bao bọc bởi bìu. Bìu có chức năng điều hòa nhiệt độ xung quanh hai tinh hoàn. Tình trạng teo tinh hoàn có thể xảy ra do chấn thương, giãn tĩnh mạch thừng tinh, biến chứng viêm tinh hoàn sau quai bị và nhiều nguyên nhân khác.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Co rút tinh hoàn",
+      "description": "Tinh hoàn bị co rút, teo nhỏ lại ở một bên hoặc cả hai bên"
+    },
+    {
+      "name": "Tinh hoàn không căng",
+      "description": "Khi sờ nắn thấy tinh hoàn không căng, mềm hơn bình thường"
+    },
+    {
+      "name": "Tinh hoàn nhỏ hơn bình thường",
+      "description": "Kích thước tinh hoàn nhỏ hơn so với kích thước bình thường (kích thước trung bình bình thường là 4-5cm và nặng khoảng 20g)"
+    },
+    {
+      "name": "Lông mặt, lông mu ít",
+      "description": "Các đặc điểm sinh dục phụ kém phát triển, thể hiện qua lông mặt và lông mu ít"
+    },
+    {
+      "name": "Giảm ham muốn tình dục",
+      "description": "Suy giảm ham muốn tình dục, không còn hứng thú đến việc chăn gối"
+    },
+    {
+      "name": "Giảm khối lượng cơ",
+      "description": "Giảm khối lượng cơ bắp và sức mạnh do sự suy giảm testosterone"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Teo tinh hoàn xảy ra do nhiều nguyên nhân khác nhau ảnh hưởng đến chức năng và cấu trúc của tinh hoàn, dẫn đến sự co rút và giảm kích thước của cơ quan này.",
+    "related_factors": "Các yếu tố liên quan đến teo tinh hoàn bao gồm: tuổi tác, mất cân bằng hormone, viêm tinh hoàn (đặc biệt là sau quai bị), xoắn tinh hoàn, lạm dụng rượu bia, giãn tĩnh mạch thừng tinh, tinh hoàn ẩn, ung thư tinh hoàn, sử dụng steroid đồng hóa hoặc liệu pháp thay thế testosterone.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (sau 30 tuổi, nồng độ testosterone giảm dần 0,8-1,4% mỗi năm)",
+    "Tiền sử mắc bệnh quai bị",
+    "Lạm dụng rượu bia",
+    "Sử dụng steroid đồng hóa hoặc liệu pháp thay thế testosterone",
+    "Tinh hoàn ẩn (không xuống bìu)",
+    "Viêm tinh hoàn do nhiễm trùng đường tiết niệu hoặc tình dục",
+    "Tiền sử xoắn tinh hoàn",
+    "Giãn tĩnh mạch thừng tinh",
+    "Ung thư tinh hoàn"
+  ],
+  "complications": [
+    "Rối loạn hormone giới tính",
+    "Suy dinh dục nam",
+    "Giảm ham muốn tình dục",
+    "Rối loạn cương dương",
+    "Giảm khả năng sinh sản",
+    "Vô tinh (không có tinh trùng trong tinh dịch)",
+    "Ảnh hưởng đến tâm lý và đời sống hôn nhân"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám bệnh sử và thói quen sinh hoạt tình dục",
+      "Kiểm tra lối sống (sử dụng rượu bia, thuốc lá)",
+      "Kiểm tra kích thước, cấu trúc và độ cứng của tinh hoàn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm công thức máu",
+        "description": "Kiểm tra các chỉ số máu cơ bản"
+      },
+      {
+        "name": "Siêu âm tinh hoàn",
+        "description": "Đánh giá cấu trúc, kích thước và các bất thường của tinh hoàn"
+      },
+      {
+        "name": "Xét nghiệm nội tiết",
+        "description": "Kiểm tra nồng độ hormone như testosterone, FSH, LH"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện nay việc điều trị teo tinh hoàn phụ thuộc vào nguyên nhân dẫn đến tình trạng teo. Không có phương pháp tự nhiên nào có thể khắc phục tình trạng teo tinh hoàn, vậy nên thăm khám sớm là chìa khóa để điều trị thành công.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kháng sinh",
+        "description": "Điều trị khi nguyên nhân xuất phát từ nhiễm trùng đường tình dục hoặc các bệnh nhiễm trùng khác"
+      },
+      {
+        "name": "Điều chỉnh nồng độ nội tiết",
+        "description": "Sử dụng thuốc điều chỉnh trục hạ đồi - tuyến yên - sinh dục ở bệnh nhân có dấu hiệu tổn thương nội tiết"
+      },
+      {
+        "name": "Phẫu thuật hạ tinh hoàn",
+        "description": "Áp dụng cho những bệnh nhân có tinh hoàn bị teo do tinh hoàn lạc chỗ, không nằm ở bìu mà nằm ở bụng"
+      },
+      {
+        "name": "Phẫu thuật cột giãn tĩnh mạch thừng tinh",
+        "description": "Điều trị cho bệnh nhân bị giãn tĩnh mạch thừng tinh làm suy yếu đời sống tinh trùng"
+      },
+      {
+        "name": "Kỹ thuật vi phẫu micro-TESE",
+        "description": "Trích mô tinh hoàn tìm tinh trùng, giúp nam giới teo tinh hoàn, vô tinh có cơ hội làm cha chính chủ thông qua hỗ trợ sinh sản"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chỉ định điều trị của bác sĩ",
+      "Duy trì chế độ tập luyện phù hợp",
+      "Thực hiện chế độ ăn uống dinh dưỡng, giàu protein, axit amin thiết yếu và omega-3",
+      "Hạn chế rượu bia và bỏ thuốc lá",
+      "Thăm khám định kỳ để theo dõi tình trạng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin quai bị để phòng nguy cơ mắc bệnh quai bị, giảm biến chứng teo tinh hoàn. Vắc xin phòng bệnh quai bị thường được kết hợp thành mũi vắc xin 3 trong 1 phòng sởi – quai bị – rubella.",
+      "recommended_for": [
+        "Trẻ em từ 12 tháng tuổi trở lên",
+        "Nam giới chưa từng tiêm vắc xin quai bị"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bỏ thuốc lá vì việc hút thuốc lá làm tổn thương gen di truyền của DNA",
+      "Hạn chế rượu bia vì đây là một trong những nguyên nhân làm rối loạn chuyển hóa",
+      "Tập thể dục và vận động thường xuyên để tăng cường quá trình chuyển hóa testosterone",
+      "Duy trì chế độ dinh dưỡng cân đối, chống béo phì, hạn chế tinh bột và tăng protein",
+      "Thăm khám sức khỏe định kỳ để phát hiện sớm các bất thường",
+      "Giải quyết kịp thời các vấn đề về tinh hoàn như giãn tĩnh mạch thừng tinh, tinh hoàn ẩn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Teo tinh hoàn có nguy hiểm không?",
+      "answer": "Teo tinh hoàn là bệnh lý nguy hiểm, ảnh hưởng trực tiếp đến sinh lý của người nam, gây giảm ham muốn, rối loạn cương và liệt dương. Tinh hoàn bị teo ảnh hưởng trực tiếp đến quá trình sản xuất testosterone và sinh tinh vì vậy nguy cơ hiếm muộn sẽ tăng lên. Bệnh có thể dẫn đến suy dinh dục nam và vô sinh nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Teo tinh hoàn có chữa được không?",
+      "answer": "Hiện nay việc điều trị teo tinh hoàn phụ thuộc vào nguyên nhân dẫn đến tình trạng teo. Không có phương pháp tự nhiên nào có thể khắc phục tình trạng teo tinh hoàn, vậy nên thăm khám sớm là chìa khóa để điều trị thành công. Tùy theo nguyên nhân, có thể áp dụng các phương pháp như điều trị kháng sinh, điều chỉnh nội tiết, phẫu thuật hạ tinh hoàn, cột giãn tĩnh mạch thừng tinh, hoặc kỹ thuật vi phẫu micro-TESE để tìm tinh trùng hỗ trợ sinh sản."
+    },
+    {
+      "question": "Nam giới bị teo tinh hoàn có thể có con không?",
+      "answer": "Với sự phát triển của kỹ thuật vi phẫu micro-TESE trích mô tinh hoàn tìm tinh trùng, nhiều nam giới teo tinh hoàn, vô tinh vẫn có cơ hội làm cha chính chủ. Ngay cả trong trường hợp tinh hoàn teo nhỏ chỉ còn bằng ¼ so với kích thước bình thường, vẫn có thể tìm được tinh trùng trong ống sinh tinh bằng kỹ thuật này để thực hiện thụ tinh trong ống nghiệm và có con chính chủ."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa teo tinh hoàn?",
+      "answer": "Để phòng ngừa teo tinh hoàn, nam giới nên: tiêm vắc xin quai bị, bỏ thuốc lá, hạn chế rượu bia, tập thể dục và vận động thường xuyên, duy trì chế độ dinh dưỡng cân đối, thăm khám sức khỏe định kỳ, giải quyết kịp thời các vấn đề về tinh hoàn như giãn tĩnh mạch thừng tinh, tinh hoàn ẩn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tinh hoàn bị teo nhỏ lại, giảm ham muốn tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Teo tinh hoàn",
+        "Suy giảm testosterone",
+        "Suy sinh dục nam"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tinh hoàn, sưng bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Teo tinh hoàn", "Viêm tinh hoàn", "Xoắn tinh hoàn"]
+    },
+    {
+      "question": "Tôi hay bị đau tức vùng bìu, khó chịu khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Teo tinh hoàn",
+        "Giãn tĩnh mạch thừng tinh",
+        "Viêm mào tinh"
+      ]
+    },
+    {
+      "question": "Tôi từng bị quai bị và tinh hoàn bị teo nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Teo tinh hoàn", "Biến chứng quai bị", "Vô sinh nam"]
+    },
+    {
+      "question": "Tôi bị teo tinh hoàn và lo lắng về nguy cơ vô sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Teo tinh hoàn", "Vô tinh", "Hiếm muộn nam"]
     }
   ]
 }

@@ -1,39 +1,149 @@
 {
   "disease_id": "suy-tim-sung-huyet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy tim sung huyết",
+  "disease_alternative_names": ["Suy tim ứ huyết"],
+  "disease_definition": "Suy tim sung huyết là tình trạng xảy ra khi tâm thất không thể bơm đủ lượng máu cho các cơ quan. Hệ quả là, máu và các chất dịch khác có thể tồn đọng bên trong phổi, bụng, gan và phần thân dưới.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi liên tục, không có sinh lực"
+    },
+    {
+      "name": "Sưng phù ở mắt cá chân, bàn chân và cẳng chân",
+      "description": "Tích tụ dịch gây sưng phù ở các chi dưới do máu không được bơm hiệu quả"
+    },
+    {
+      "name": "Khó thở khi nằm xuống",
+      "description": "Cảm giác khó thở xuất hiện hoặc trở nên nặng hơn khi người bệnh nằm xuống"
+    },
+    {
+      "name": "Thức giấc vào ban đêm do khó thở",
+      "description": "Người bệnh thường bị đánh thức do cảm giác khó thở xảy ra khi đang ngủ"
+    },
+    {
+      "name": "Nhịp tim không đều",
+      "description": "Tim đập nhanh hoặc không theo nhịp điệu bình thường"
+    },
+    {
+      "name": "Tăng cân",
+      "description": "Tăng cân đột ngột do cơ thể giữ nước"
+    },
+    {
+      "name": "Thở khò khè",
+      "description": "Tiếng thở có âm thanh khò khè do đường thở bị hẹp"
+    },
+    {
+      "name": "Da có màu xanh tím",
+      "description": "Da chuyển sang màu xanh tím do thiếu oxy"
+    },
+    {
+      "name": "Tăng nhu cầu đi tiểu, đặc biệt vào ban đêm",
+      "description": "Đi tiểu nhiều lần trong đêm do thận nhận được nhiều máu hơn khi nằm xuống"
+    },
+    {
+      "name": "Ngất xỉu",
+      "description": "Mất ý thức tạm thời do não không nhận được đủ oxy"
+    },
+    {
+      "name": "Ho do chất lỏng tích tụ trong phổi",
+      "description": "Ho kéo dài do dịch tích tụ trong phổi"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Đau ngực lan khắp phần trên cơ thể"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy tim sung huyết có thể là kết quả của các tình trạng sức khỏe khác ảnh hưởng trực tiếp đến hệ thống tim mạch.",
+    "related_factors": "Các nguyên nhân phổ biến bao gồm tăng huyết áp, bệnh mạch vành, bệnh van tim, bệnh đái tháo đường, bệnh tuyến giáp, thừa cân – béo phì, nhiễm trùng nặng và phản ứng dị ứng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tăng huyết áp",
+    "Đái tháo đường",
+    "Bệnh mạch vành",
+    "Hội chứng chuyển hóa",
+    "Tiền sử lạm dụng rượu",
+    "Tiền sử sốt thấp khớp",
+    "Tiền sử gia đình mắc bệnh cơ tim",
+    "Tiền sử dùng các loại thuốc có thể làm ảnh hưởng cơ tim",
+    "Thừa cân – béo phì",
+    "Bệnh tuyến giáp"
+  ],
+  "complications": [
+    "Nhịp tim bất thường",
+    "Tổn thương gan và thận",
+    "Suy giảm chức năng phổi",
+    "Mất năng lượng",
+    "Tăng nguy cơ hình thành cục máu đông",
+    "Phù phổi",
+    "Đột quỵ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe tổng quát",
+      "Nghe tim bằng ống nghe để phát hiện nhịp tim hoặc âm thổi bất thường",
+      "Đánh giá các triệu chứng lâm sàng",
+      "Đánh giá mức độ tiến triển của bệnh theo 4 giai đoạn (A, B, C, D)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Giúp phát hiện các tế bào máu bất thường, nhiễm trùng và kiểm tra mức độ NT-proBNP, một loại hormone tăng lên khi bị suy tim"
+      },
+      {
+        "name": "X-quang ngực",
+        "description": "Đánh giá kích thước tim cũng như lượng dịch tích tụ trong phổi và mạch máu"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Ghi lại chính xác nhịp tim để phát hiện các bất thường như nhịp tim nhanh hoặc nhịp không đều"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Sử dụng sóng âm thanh để ghi lại cấu trúc và chuyển động của tim, xác định bệnh van tim và đánh giá phân suất tống máu"
+      },
+      {
+        "name": "Siêu âm tim gắng sức",
+        "description": "Kiểm tra hoạt động của tim ở các mức độ gắng sức khác nhau"
+      },
+      {
+        "name": "Thông tim",
+        "description": "Kiểm tra mức độ tắc nghẽn của động mạch vành, lưu lượng máu và áp lực trong buồng tim"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Giúp bác sĩ kiểm tra tổn thương tim"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Dựa vào tình trạng sức khỏe tổng thể của người bệnh và mức độ tiến triển của bệnh, bác sĩ sẽ quyết định phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc ức chế men chuyển (ACE), thuốc ức chế thụ thể, thuốc chẹn beta, thuốc lợi tiểu để làm giảm gánh nặng cho tim và kiểm soát triệu chứng"
+      },
+      {
+        "name": "Nong động mạch vành",
+        "description": "Thủ thuật để mở rộng các động mạch vành bị tắc nghẽn"
+      },
+      {
+        "name": "Phẫu thuật sửa van tim",
+        "description": "Giúp van tim mở và đóng đúng cách"
+      },
+      {
+        "name": "Ghép tim",
+        "description": "Thay thế trái tim bị suy bằng tim của người hiến tặng, thường áp dụng cho bệnh nhân suy tim sung huyết giai đoạn cuối"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Duy trì lối sống lành mạnh",
+      "Theo dõi cân nặng hàng ngày",
+      "Hạn chế lượng muối trong khẩu phần ăn",
+      "Theo dõi và báo cáo các triệu chứng mới hoặc trở nặng cho bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +151,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ cân nặng hợp lý",
+      "Ưu tiên những thực phẩm tốt cho sức khỏe tim mạch như trái cây và rau quả, sữa ít béo, protein nạc và chất béo có lợi",
+      "Tập thể dục thường xuyên",
+      "Tránh bị căng thẳng kéo dài",
+      "Bỏ thuốc lá",
+      "Không uống rượu",
+      "Không sử dụng chất kích thích",
+      "Khám và điều trị các bệnh lý liên quan có thể làm tăng nguy cơ mắc bệnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy tim sung huyết là gì?",
+      "answer": "Suy tim sung huyết là tình trạng xảy ra khi tâm thất không thể bơm đủ lượng máu cho các cơ quan. Hệ quả là, máu và các chất dịch khác có thể tồn đọng bên trong phổi, bụng, gan và phần thân dưới."
+    },
+    {
+      "question": "Suy tim sung huyết có nguy hiểm không?",
+      "answer": "Có, suy tim sung huyết có thể gây ra nhiều biến chứng nghiêm trọng như nhịp tim bất thường, tổn thương gan và thận, suy giảm chức năng phổi, phù phổi, tăng nguy cơ hình thành cục máu đông dẫn đến đột quỵ. Nếu không được điều trị kịp thời và đúng cách, bệnh có thể đe dọa tính mạng."
+    },
+    {
+      "question": "Có những giai đoạn nào của suy tim sung huyết?",
+      "answer": "Suy tim sung huyết được chia thành 4 giai đoạn: Giai đoạn A (tiền suy tim, có nguy cơ cao bị suy tim), Giai đoạn B (có rối loạn chức năng tâm thu thất trái nhưng chưa có triệu chứng), Giai đoạn C (đã bắt đầu xuất hiện các triệu chứng), và Giai đoạn D (triệu chứng tiến triển không thuyên giảm dù đã được điều trị, là giai đoạn cuối của bệnh)."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa suy tim sung huyết?",
+      "answer": "Để phòng ngừa suy tim sung huyết, bạn nên giữ cân nặng hợp lý, ưu tiên những thực phẩm tốt cho sức khỏe tim mạch, tập thể dục thường xuyên, tránh căng thẳng kéo dài, bỏ thuốc lá, không uống rượu, không sử dụng chất kích thích, và khám và điều trị các bệnh lý liên quan có thể làm tăng nguy cơ mắc bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi và sưng phù ở mắt cá chân, bàn chân và cẳng chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim sung huyết", "Suy thận", "Xơ gan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở khi nằm xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim sung huyết",
+        "Bệnh phổi tắc nghẽn mạn tính",
+        "Hen suyễn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị thức giấc vào ban đêm và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim sung huyết",
+        "Ngưng thở khi ngủ",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhịp tim nhanh hoặc không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim sung huyết",
+        "Rối loạn nhịp tim",
+        "Cường giáp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tăng cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim sung huyết",
+        "Suy giáp",
+        "Hội chứng chuyển hóa"
+      ]
     }
   ]
 }

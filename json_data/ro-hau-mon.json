@@ -1,39 +1,111 @@
 {
   "disease_id": "ro-hau-mon",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rò hậu môn (Mạch lươn)",
+  "disease_alternative_names": ["Mạch lươn", "Lỗ rò hậu môn"],
+  "disease_definition": "Rò hậu môn là một tình trạng có đường hầm thông nối bất thường giữa ống hậu môn và da xung quanh hậu môn. Đây thường là hậu quả của một áp xe (ổ mủ) ở hậu môn trực tràng không được điều trị hoặc điều trị không khỏi hẳn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau và sưng quanh hậu môn",
+      "description": "Vùng hậu môn xuất hiện những cơn đau và sưng tấy, gây khó khăn khi ngồi hoặc di chuyển"
+    },
+    {
+      "name": "Tiết dịch có máu hoặc mủ hôi",
+      "description": "Dịch tiết ra từ lỗ rò có thể là máu hoặc mủ có mùi hôi khó chịu, gây ảnh hưởng đến sinh hoạt"
+    },
+    {
+      "name": "Kích ứng da xung quanh hậu môn",
+      "description": "Do dịch từ lỗ rò chảy ra gây kích ứng và ngứa ngáy vùng da xung quanh hậu môn"
+    },
+    {
+      "name": "Đau khi đại tiện",
+      "description": "Cảm giác đau rát hoặc đau nhói khi đi đại tiện, gây khó khăn trong sinh hoạt hàng ngày"
+    },
+    {
+      "name": "Chảy máu hậu môn",
+      "description": "Xuất hiện máu khi đi đại tiện hoặc sau khi đi đại tiện, có thể thấy máu dính trên giấy vệ sinh"
+    },
+    {
+      "name": "Sốt và mệt mỏi",
+      "description": "Tình trạng nhiễm trùng có thể gây sốt, ớn lạnh và cảm giác mệt mỏi, suy nhược cơ thể"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Thường là hậu quả của một áp xe (ổ mủ) ở hậu môn trực tràng không được điều trị hoặc điều trị không khỏi hẳn. Áp xe xảy ra khi các tuyến nhỏ tạo chất nhờn nằm ngay bên trong hậu môn bị tắc và nhiễm trùng.",
+    "related_factors": "Bệnh Crohn (viêm ruột), bức xạ (điều trị ung thư), chấn thương, dị vật vùng hậu môn, bệnh lây truyền qua đường tình dục, bệnh lao, ung thư, ảnh hưởng sau một phẫu thuật ở vùng gần hậu môn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người trưởng thành khoảng 40 tuổi trở lên",
+    "Nam giới có nguy cơ cao hơn nữ giới",
+    "Người mắc bệnh Crohn",
+    "Người từng bị áp xe hậu môn",
+    "Tiền sử phẫu thuật vùng hậu môn trực tràng",
+    "Người bị bệnh lao"
+  ],
+  "complications": [
+    "Rò hậu môn phức tạp với nhiều ngõ ngách",
+    "Nhiễm trùng tái phát",
+    "Gây khó khăn trong sinh hoạt hàng ngày",
+    "Tăng nguy cơ ung thư hậu môn - trực tràng nếu kéo dài",
+    "Ảnh hưởng đến tâm lý, gây mất tự tin",
+    "Tiêu không tự chủ (són phân, hơi) sau phẫu thuật"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám khu vực xung quanh hậu môn để tìm lỗ rò",
+      "Thăm trực tràng bằng ngón tay để tìm đường rò xơ chai"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm qua ngả hậu môn",
+        "description": "Bác sĩ dùng đầu dò siêu âm có hình giống ngón tay cho vào hậu môn để đánh giá đường rò"
+      },
+      {
+        "name": "Chụp MRI vùng chậu",
+        "description": "Giúp phát hiện đường rò và đánh giá xem đường rò đơn giản hay phức tạp để lên kế hoạch điều trị"
+      },
+      {
+        "name": "Chụp X quang đường rò",
+        "description": "Sử dụng chất cản quang bơm vào đường rò giúp hiện hình đường rò trên phim X-quang"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá tình trạng nhiễm trùng và tìm kiếm nguyên nhân gây bệnh như lao"
+      },
+      {
+        "name": "Nội soi đại tràng",
+        "description": "Kiểm tra đường tiêu hóa để loại trừ các nguyên nhân khác như ung thư hoặc bệnh Crohn"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phẫu thuật là phương pháp điều trị chính cho bệnh rò hậu môn. Nếu rò hậu môn do ung thư gây ra, cần có phương pháp điều trị phù hợp với loại ung thư đó.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt đường rò",
+        "description": "Là phương pháp chính để điều trị rò hậu môn, giúp cắt bỏ hoàn toàn đường rò và làm lành từ bên trong ra ngoài"
+      },
+      {
+        "name": "Điều trị bằng tia laser",
+        "description": "Bác sĩ cho một đầu phát tia laser nhỏ vào đường rò và đốt nó, giúp lành vết thương mà ít xâm lấn hơn"
+      },
+      {
+        "name": "Ngâm nước ấm",
+        "description": "Sau phẫu thuật, ngâm mình trong bồn nước ấm giúp làm giảm triệu chứng đau và thúc đẩy quá trình lành vết thương"
+      },
+      {
+        "name": "Dùng thuốc làm mềm phân",
+        "description": "Giúp người bệnh dễ dàng đi đại tiện sau phẫu thuật, tránh gây áp lực lên vùng vết thương"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ nghiêm ngặt hướng dẫn của bác sĩ sau phẫu thuật",
+      "Ngâm hậu môn thường xuyên để vết thương lành từ đáy lên",
+      "Tiếp tục dùng thuốc theo đơn của bác sĩ",
+      "Vận động nhẹ nhàng sau phẫu thuật",
+      "Ăn thức ăn dễ tiêu, giàu chất xơ trong những ngày đầu sau phẫu thuật",
+      "Kiêng đồ ăn cay, nóng để tránh kích thích vùng hậu môn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +113,58 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ ăn uống khoa học, giàu chất xơ",
+      "Tránh uống rượu, bia quá nhiều",
+      "Phòng ngừa táo bón để giảm áp lực lên vùng hậu môn",
+      "Giữ vệ sinh vùng hậu môn sạch sẽ",
+      "Đi thăm khám định kỳ để phát hiện sớm các bất thường",
+      "Điều trị triệt để áp xe hậu môn nếu có",
+      "Duy trì lối sống lành mạnh, khoa học"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rò hậu môn có nguy hiểm không?",
+      "answer": "Rò hậu môn thường là bệnh lý lành tính, chỉ gây khó chịu và khiến người bệnh mất tự tin. Tuy rò hậu môn không đe dọa tính mạng, nhưng cần một quá trình điều trị hợp lý với sự tuân thủ điều trị của bệnh nhân. Tuy nhiên, nếu rò hậu môn là một biến chứng của một loại ung thư tiêu hóa thì trường hợp này đặc biệt nguy hiểm vì các loại ung thư tiêu hóa nếu phát hiện muộn thường có tiên lượng xấu."
+    },
+    {
+      "question": "Phẫu thuật rò hậu môn bao lâu thì lành?",
+      "answer": "Với các trường hợp phẫu thuật rò hậu môn đơn giản thì chỉ 2-3 ngày là người bệnh có thể được xuất viện và sau 4-6 tuần thì vết thương sẽ lành hẳn. Đối với các trường hợp phẫu thuật phức tạp thì thời gian nằm viện cũng như thời gian phục hồi có thể dài hơn, tùy vào cơ địa cũng như cách chăm sóc sau phẫu thuật."
+    },
+    {
+      "question": "Sau khi mổ rò hậu môn có biến chứng gì không?",
+      "answer": "Sau phẫu thuật rò hậu môn, nếu không kiêng khem và điều trị đúng cách, các biến chứng có thể xảy ra như chảy máu hậu môn, nhiễm trùng chảy mủ, rò tái phát. Ngoài ra có thể có biến chứng tiêu không tự chủ (són phân, hơi), tùy thuộc tay nghề của phẫu thuật viên và tình trạng bệnh."
+    },
+    {
+      "question": "Rò hậu môn có chữa khỏi được không?",
+      "answer": "Phẫu thuật có thể giúp chữa khỏi hoàn toàn bệnh rò hậu môn nếu có biện pháp can thiệp và chăm sóc đúng cách. Điều quan trọng là người bệnh cần tuân thủ phác đồ điều trị của bác sĩ, bao gồm việc dùng thuốc đúng cách và có chế độ chăm sóc phù hợp sau phẫu thuật."
+    },
+    {
+      "question": "Làm thế nào để phòng tránh rò hậu môn tái phát?",
+      "answer": "Để phòng tránh rò hậu môn tái phát, người bệnh nên duy trì chế độ ăn uống, sinh hoạt khoa học; không uống rượu, bia; tránh táo bón; giữ vệ sinh vùng hậu môn sạch sẽ; và đi thăm khám định kỳ để phát hiện sớm các bất thường. Đặc biệt sau phẫu thuật, cần tuân thủ nghiêm ngặt hướng dẫn của bác sĩ về cách chăm sóc vết thương."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau và sưng quanh hậu môn, tiết dịch hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ro-hau-mon", "ap-xe-hau-mon"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khi đại tiện, chảy máu hậu môn, ngứa ngáy khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ro-hau-mon", "tri-noi", "nut-ke-hau-mon"]
+    },
+    {
+      "question": "Tôi hay bị chảy dịch mủ từ một lỗ nhỏ gần hậu môn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ro-hau-mon"]
+    },
+    {
+      "question": "Tôi đang bị sốt, ớn lạnh, mệt mỏi kèm theo đau nhức hậu môn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ro-hau-mon", "ap-xe-hau-mon", "viem-ruot"]
+    },
+    {
+      "question": "Tôi đang bị sưng đau hậu môn, kèm theo chảy dịch hôi và ngứa ngáy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ro-hau-mon", "ap-xe-hau-mon"]
     }
   ]
 }

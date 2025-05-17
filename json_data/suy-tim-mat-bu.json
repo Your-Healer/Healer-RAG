@@ -1,39 +1,134 @@
 {
   "disease_id": "suy-tim-mat-bu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy tim mất bù",
+  "disease_alternative_names": ["Đợt cấp của suy tim", "Suy tim cấp tính"],
+  "disease_definition": "Suy tim mất bù là tình trạng diễn ra cấp tính (mới phát hiện mà không có chẩn đoán trước đó) hoặc là kết quả của đợt cấp (giai đoạn các triệu chứng trở nên tồi tệ hơn) của bệnh lý suy tim đã có sẵn. Đây là tình trạng khi tim không thể bơm đủ máu để đáp ứng nhu cầu của cơ thể và các triệu chứng trở nên nghiêm trọng, cần điều trị ngay lập tức.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó thở",
+      "description": "Khó thở kèm theo tức ngực khi cố gắng hít thở sâu, thường là triệu chứng chính của bệnh"
+    },
+    {
+      "name": "Phù chân",
+      "description": "Sưng phù ở vùng chân do ứ dịch, thường xuất hiện kèm triệu chứng khó thở"
+    },
+    {
+      "name": "Ho vào ban đêm",
+      "description": "Cơn ho xuất hiện vào ban đêm, thường gây khó chịu và cản trở giấc ngủ"
+    },
+    {
+      "name": "Khó thở khi nằm",
+      "description": "Thở gấp xảy ra khi nằm và thuyên giảm khi ngồi thẳng dậy (orthopnea)"
+    },
+    {
+      "name": "Khó thở kịch phát về đêm",
+      "description": "Khó thở dữ dội khiến bệnh nhân thức giấc khi đang ngủ"
+    },
+    {
+      "name": "Ngất xỉu",
+      "description": "Mất ý thức tạm thời do não không nhận đủ máu và oxy"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân phổ biến nhất của suy tim mất bù là người bệnh không tuân thủ phác đồ điều trị của bác sĩ. Ngoài ra, còn có nhiều nguyên nhân khác nhau tùy theo loại suy tim.",
+    "related_factors": "Đối với suy tim mới khởi phát: hội chứng động mạch vành cấp tính, bệnh van tim cấp tính hoặc tiến triển, bệnh cơ tim mới khởi phát, tăng huyết áp mạn tính, viêm nội tâm mạc nhiễm khuẩn, viêm cơ tim, bắt đầu một thai kỳ. Đối với suy tim đã chẩn đoán trước đó: uống nhiều nước hoặc ăn mặn, một số loại thuốc (NSAID, thuốc gây mê, thuốc điều trị bệnh đái tháo đường), loạn nhịp tim, sốt và nhiễm trùng, uống rượu, mang thai.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bệnh động mạch vành",
+    "Bệnh van tim",
+    "Bệnh cơ tim",
+    "Tăng huyết áp mạn tính",
+    "Loạn nhịp tim",
+    "Nhiễm trùng cấp tính",
+    "Không tuân thủ chế độ ăn hạn chế muối",
+    "Uống nhiều nước",
+    "Sử dụng rượu bia",
+    "Sử dụng thuốc chống viêm không steroid",
+    "Thai kỳ"
+  ],
+  "complications": [
+    "Giảm khả năng bơm máu của tim",
+    "Tích tụ dịch trong phổi",
+    "Suy hô hấp",
+    "Suy đa cơ quan",
+    "Suy thận",
+    "Tăng nguy cơ nhiễm trùng",
+    "Tăng nguy cơ hình thành cục máu đông",
+    "Nguy cơ đột quỵ và nhồi máu cơ tim"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để đánh giá các triệu chứng",
+      "Đo chỉ số SpO2 (nồng độ oxy trong máu)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm peptide lợi niệu (NP)",
+        "description": "Đo mức BNP hoặc NT-proBNP, các chất được giải phóng vào máu khi các ngăn dưới của tim bị căng"
+      },
+      {
+        "name": "Điện giải đồ",
+        "description": "Đo lượng natri, clorua và kali trong máu để phát hiện mất cân bằng điện giải"
+      },
+      {
+        "name": "Xét nghiệm chức năng thận",
+        "description": "Đo nồng độ creatinin huyết thanh và nitơ urê trong máu (BUN) để đánh giá chức năng thận"
+      },
+      {
+        "name": "ECG (điện tâm đồ)",
+        "description": "Đánh giá rối loạn nhịp tim, kích thước các buồng tim, thiếu máu cơ tim"
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Xác định xem có tràn dịch màng phổi, màng tim và đánh giá tình trạng phù phổi"
+      },
+      {
+        "name": "Siêu âm tim (echo)",
+        "description": "Kiểm tra kích thước các buồng tim, chức năng co bóp cơ tim, bệnh lý van tim"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu của mọi phương pháp điều trị suy tim mất bù là ổn định các triệu chứng nhằm ngăn ngừa tổn thương thêm cho tim và bảo tồn chức năng thận.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc lợi tiểu (giảm quá tải thể tích), thuốc giãn mạch (giảm trương lực tĩnh mạch), thuốc trợ tim (tăng khả năng co bóp), thuốc cải thiện loạn nhịp, thuốc chống đông"
+      },
+      {
+        "name": "Phẫu thuật bắc cầu động mạch vành",
+        "description": "Áp dụng khi nguyên nhân gây suy tim là do bệnh mạch vành, nhằm tăng cường dẫn máu tới nuôi tim"
+      },
+      {
+        "name": "Phẫu thuật sửa chữa/thay van tim",
+        "description": "Dành cho những bệnh nhân bị suy tim mất bù do bệnh van tim"
+      },
+      {
+        "name": "Cấy máy tạo nhịp",
+        "description": "Giúp ổn định nhịp tim, ngăn bệnh tiến triển nặng thêm"
+      },
+      {
+        "name": "Cấy máy khử rung tim",
+        "description": "Điều chỉnh nhịp tim trở lại bình thường nếu phát hiện bất thường trong nhịp đập hoặc ngưng tim"
+      },
+      {
+        "name": "Thiết bị hỗ trợ tâm thất",
+        "description": "Thiết bị được cấy ở ngực và bụng, giúp tim bơm máu hiệu quả hơn"
+      },
+      {
+        "name": "Ghép tim",
+        "description": "Phương án cuối cùng khi tình trạng suy tim trở nên nghiêm trọng và không có phương pháp điều trị nào còn tác dụng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Không tự ý đổi/tăng giảm liều thuốc",
+      "Thực hiện chế độ ăn hạn chế muối (dưới 1,5g/ngày)",
+      "Hạn chế lượng nước uống vào theo chỉ định",
+      "Tránh các hoạt động gắng sức quá mức",
+      "Theo dõi cân nặng hàng ngày để phát hiện tích tụ dịch"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +136,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ nếu được chẩn đoán suy tim",
+      "Lên thực đơn ăn uống lành mạnh cho tim với nhiều rau xanh, trái cây, ngũ cốc nguyên hạt, chất béo tốt",
+      "Cắt giảm muối (dưới 1,5g/ngày), đồ ngọt và thức ăn chứa nhiều chất béo xấu",
+      "Dành thời gian vận động ít nhất 30 phút/ngày với cường độ phù hợp",
+      "Tránh xa thuốc lá (cả hút thuốc chủ động và hít khói thuốc thụ động)",
+      "Tiêm ngừa đầy đủ để phòng ngừa các bệnh nhiễm khuẩn",
+      "Khám sức khỏe tim mạch định kỳ (tối thiểu 1 lần/năm)",
+      "Kiểm soát các bệnh nền như tăng huyết áp, đái tháo đường"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy tim mất bù là gì?",
+      "answer": "Suy tim mất bù là tình trạng diễn ra cấp tính (mới phát hiện) hoặc là kết quả của đợt cấp của bệnh lý suy tim đã có sẵn. Đây là tình trạng khi tim không thể bơm đủ máu để đáp ứng nhu cầu của cơ thể và các triệu chứng trở nên nghiêm trọng, cần điều trị ngay lập tức."
+    },
+    {
+      "question": "Phân biệt suy tim mất bù và suy tim còn bù?",
+      "answer": "Suy tim còn bù là khi giảm cung lượng tim trong giai đoạn đầu, cơ thể có thể bù đắp cho sự thiếu hụt lượng máu qua các thay đổi như phì đại tâm thất, bệnh nhân thường không có triệu chứng hoặc triệu chứng rất nhẹ. Suy tim mất bù là khi những thay đổi về cấu trúc và chức năng không còn duy trì được cung lượng tim mong muốn, gây ra các triệu chứng rõ rệt như khó thở, phù nề, và cần điều trị tích cực."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa suy tim mất bù?",
+      "answer": "Biện pháp hiệu quả nhất để phòng ngừa suy tim mất bù là tuân thủ phác đồ điều trị của bác sĩ nếu bạn được chẩn đoán suy tim. Bên cạnh đó, cần kết hợp với lối sống và chế độ ăn uống lành mạnh, hạn chế muối, vận động đều đặn, tuân thủ lịch tái khám định kỳ, và không tự ý đổi/tăng giảm liều thuốc khi chưa có sự cho phép của bác sĩ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó thở và tức ngực khi hít thở sâu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim mất bù", "Viêm phổi", "Nhồi máu cơ tim"]
+    },
+    {
+      "question": "Tôi đang cảm thấy phù chân và ho vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim mất bù", "Suy thận", "Xơ gan"]
+    },
+    {
+      "question": "Tôi hay bị khó thở khi nằm và thuyên giảm khi ngồi thẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy tim mất bù", "Hen suyễn", "Tràn dịch màng phổi"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khó thở dữ dội khi đang ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim mất bù",
+        "Ngưng thở khi ngủ",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngất xỉu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy tim mất bù",
+        "Rối loạn nhịp tim",
+        "Hạ đường huyết"
+      ]
     }
   ]
 }

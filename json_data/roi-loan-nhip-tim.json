@@ -1,39 +1,152 @@
 {
   "disease_id": "roi-loan-nhip-tim",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn nhịp tim",
+  "disease_alternative_names": [
+    "Loạn nhịp tim",
+    "Arrhythmias",
+    "Cardiac Arrhythmia"
+  ],
+  "disease_definition": "Rối loạn nhịp tim là tình trạng xảy ra khi các xung điện điều khiển nhịp tim hoạt động bất thường, khiến tim đập quá nhanh, quá chậm hoặc không đều. Điều này có thể xảy ra do hoạt động của nút xoang trở nên bất thường, có ổ phát nhịp bất thường trong tim, hoặc hệ thống dẫn truyền nhịp tim bị tổn thương.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Hồi hộp, đánh trống ngực",
+      "description": "Cảm giác tim đập mạnh, rõ hơn bình thường, hoặc đập thình thịch trong lồng ngực"
+    },
+    {
+      "name": "Khó thở, hụt hơi",
+      "description": "Cảm giác khó hít đủ không khí, đặc biệt khi gắng sức hoặc khi nằm xuống"
+    },
+    {
+      "name": "Ran ngực, khó chịu ngực",
+      "description": "Cảm giác tức, đau hoặc khó chịu ở vùng ngực"
+    },
+    {
+      "name": "Yếu sức, mệt đừ",
+      "description": "Cảm giác mệt mỏi bất thường, ít năng lượng, không thể hoạt động như bình thường"
+    },
+    {
+      "name": "Chóng mặt, hoa mắt, tối sầm mắt",
+      "description": "Cảm giác choáng váng, đầu óc quay cuồng, mất thăng bằng, nhìn mờ hoặc tối trước mắt"
+    },
+    {
+      "name": "Gần ngất hoặc ngất",
+      "description": "Cảm giác sắp ngất xỉu hoặc mất ý thức tạm thời"
+    },
+    {
+      "name": "Vã mồ hôi",
+      "description": "Đổ mồ hôi nhiều bất thường, đặc biệt kèm theo các triệu chứng khác"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau thắt, đè nén hoặc nặng ở vùng ngực, có thể lan đến vai, cổ hoặc cánh tay"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Rối loạn nhịp tim xảy ra do bất thường trong sự hình thành hoặc dẫn truyền các xung điện đi khắp tim, gây ra nhịp tim bất thường.",
+    "related_factors": "Hoạt động của nút xoang trở nên bất thường, có ổ phát nhịp bất thường trong tim, có đường dẫn truyền bất thường, hệ thống dẫn truyền bị tổn thương, cơ tim bị tổn thương, rối loạn điện giải, tác dụng phụ của thuốc hoặc độc chất, hoặc bất thường của các cơ quan khác gây ảnh hưởng lên tim.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Cao tuổi",
+    "Bệnh mạch vành tim hoặc cơ tim",
+    "Bệnh van tim",
+    "Bệnh tim bẩm sinh",
+    "Tiền sử gia đình có người mắc bệnh tim",
+    "Tăng huyết áp",
+    "Đái tháo đường",
+    "Hút thuốc lá",
+    "Lạm dụng rượu hoặc chất kích thích",
+    "Bệnh lý tuyến giáp",
+    "Stress và lo âu kéo dài",
+    "Bệnh viêm hay nhiễm trùng có ảnh hưởng đến tim",
+    "Sử dụng một số loại thuốc nhất định",
+    "Tiền sử phẫu thuật tim",
+    "Rối loạn điện giải"
+  ],
+  "complications": [
+    "Đột quỵ do hình thành các cục máu đông",
+    "Suy tim do tim hoạt động không hiệu quả",
+    "Giảm khả năng gắng sức, hạn chế hoạt động sinh hoạt",
+    "Đột tử tim do nhịp tim nguy hiểm",
+    "Tổn thương não vĩnh viễn nếu cấp cứu chậm",
+    "Suy giảm chất lượng cuộc sống"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng và hỏi bệnh sử",
+      "Ghi lại các triệu chứng khi xuất hiện"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điện tâm đồ (ECG)",
+        "description": "Ghi lại hoạt động điện của tim thông qua các điện cực đặt trên cơ thể, giúp phát hiện rối loạn nhịp tim trong thời điểm thực hiện"
+      },
+      {
+        "name": "Máy theo dõi điện tim (Holter ECG) 24 giờ",
+        "description": "Theo dõi hoạt động điện của tim liên tục trong 24 giờ hoặc nhiều ngày hơn, giúp phát hiện các rối loạn nhịp xảy ra không thường xuyên"
+      },
+      {
+        "name": "Máy ghi sự kiện",
+        "description": "Được đeo trong thời gian dài (lên đến 30 ngày) để phát hiện các rối loạn nhịp tim lẻ tẻ, khi có triệu chứng"
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Sử dụng sóng âm thanh để tạo hình ảnh về kích thước, cấu trúc và chuyển động của tim"
+      },
+      {
+        "name": "Máy ghi vòng lặp cấy ghép (loop recorder)",
+        "description": "Thiết bị cấy dưới da vùng ngực, liên tục ghi lại hoạt động điện của tim và phát hiện nhịp tim không đều"
+      },
+      {
+        "name": "Nghiệm pháp gắng sức",
+        "description": "Theo dõi hoạt động của tim khi vận động, giúp phát hiện các rối loạn nhịp xuất hiện khi gắng sức"
+      },
+      {
+        "name": "Nghiệm pháp bàn nghiêng",
+        "description": "Giúp đánh giá nguyên nhân ngất, theo dõi điện tâm đồ, nhịp tim và huyết áp khi thay đổi tư thế"
+      },
+      {
+        "name": "Khảo sát và lập bản đồ điện sinh lý",
+        "description": "Luồn ống thông có điện cực vào tim để đo và lập bản đồ các xung điện, giúp xác định chính xác vị trí gây rối loạn nhịp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị rối loạn nhịp tim phụ thuộc vào loại rối loạn, nguyên nhân và mức độ nghiêm trọng. Một số rối loạn nhịp nhẹ không cần điều trị, chỉ cần theo dõi định kỳ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc",
+        "description": "Sử dụng các loại thuốc như thuốc kiểm soát nhịp tim, thuốc chống đông máu, thuốc chẹn beta, thuốc chẹn kênh canxi tùy theo loại rối loạn nhịp và bệnh lý nền"
+      },
+      {
+        "name": "Cắt đốt qua ống thông (catheter ablation)",
+        "description": "Thủ thuật luồn ống thông qua mạch máu đến tim, sử dụng nhiệt hoặc lạnh để tạo sẹo nhỏ, chặn tín hiệu điện bất thường và khôi phục nhịp tim bình thường"
+      },
+      {
+        "name": "Máy tạo nhịp tim",
+        "description": "Thiết bị nhỏ được cấy dưới da ở ngực để giúp kiểm soát nhịp tim chậm không đều, phát ra xung điện khi cần để giữ nhịp tim đều đặn"
+      },
+      {
+        "name": "Máy khử rung tim cấy được (ICD)",
+        "description": "Thiết bị được cấy cho những bệnh nhân có nguy cơ cao bị nhịp tim nhanh nguy hiểm hoặc rung thất, giúp phát hiện và ngăn chặn nhịp tim nguy hiểm"
+      },
+      {
+        "name": "Phẫu thuật Maze",
+        "description": "Tạo ra các vết sẹo nhỏ trong mô tim để chặn các tín hiệu điện bất thường, thường áp dụng cho rung nhĩ"
+      },
+      {
+        "name": "Phẫu thuật bắc cầu mạch vành",
+        "description": "Nếu rối loạn nhịp do bệnh mạch vành, phẫu thuật giúp phục hồi lưu lượng máu đến tim"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch tái khám và dùng thuốc theo đúng chỉ định của bác sĩ",
+      "Theo dõi và ghi lại các triệu chứng bất thường",
+      "Tránh các chất kích thích như cafein, rượu, thuốc lá",
+      "Không tự ý dừng thuốc khi chưa có ý kiến của bác sĩ",
+      "Học cách nhận biết các dấu hiệu của cơn rối loạn nhịp tim",
+      "Luôn mang theo thẻ nhận dạng y tế nếu mắc bệnh lý rối loạn nhịp nghiêm trọng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +154,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì thực đơn có lợi cho sức khỏe tim mạch, giàu rau quả, ngũ cốc nguyên hạt, thịt nạc, cá",
+      "Hạn chế chất béo bão hòa, chất béo chuyển hóa và cholesterol",
+      "Giữ cân nặng ổn định, tránh thừa cân và béo phì",
+      "Tập thể dục mỗi ngày, ít nhất 30 phút với cường độ vừa phải",
+      "Bỏ thuốc lá và hạn chế sử dụng rượu",
+      "Kiểm soát căng thẳng thông qua các biện pháp thư giãn",
+      "Kiểm tra sức khỏe tim mạch định kỳ",
+      "Kiểm soát các bệnh mạn tính như tăng huyết áp, đái tháo đường",
+      "Hạn chế thức uống có caffeine",
+      "Đảm bảo ngủ đủ giấc và có chất lượng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn nhịp tim có nguy hiểm không?",
+      "answer": "Mức độ nguy hiểm của rối loạn nhịp tim phụ thuộc vào loại rối loạn. Một số rối loạn nhịp nhẹ không gây nguy hại gì đến sức khỏe. Tuy nhiên, những rối loạn nhịp tim khác, đặc biệt các rối loạn nhịp gây triệu chứng rõ rệt như đau ngực, chóng mặt, ngất, nếu không được phát hiện và điều trị kịp thời có thể đe dọa tính mạng hoặc dẫn đến các biến chứng nghiêm trọng như đột quỵ, suy tim hoặc đột tử."
+    },
+    {
+      "question": "Làm thế nào để phát hiện rối loạn nhịp tim?",
+      "answer": "Rối loạn nhịp tim có thể được phát hiện thông qua triệu chứng (hồi hộp, đánh trống ngực, khó thở, chóng mặt, ngất) và các xét nghiệm như điện tâm đồ (ECG), Holter ECG 24 giờ, máy ghi sự kiện, siêu âm tim, nghiệm pháp gắng sức hoặc khảo sát điện sinh lý tim. Tuy nhiên, một số loạn nhịp có thể xảy ra từng lúc và không phát hiện được trong thời điểm khám, nên cần theo dõi trong thời gian dài hơn."
+    },
+    {
+      "question": "Các loại rối loạn nhịp tim thường gặp là gì?",
+      "answer": "Các rối loạn nhịp tim thường gặp bao gồm: các rối loạn nhịp nhanh (nhịp nhanh kịch phát trên thất, cuồng nhĩ, rung nhĩ, nhịp nhanh thất, rung thất), các rối loạn nhịp chậm (hội chứng suy nút xoang, block dẫn truyền nhĩ thất) và các rối loạn nhịp khác như ngoại tâm thu nhĩ và ngoại tâm thu thất. Mỗi loại có nguyên nhân, biểu hiện và mức độ nguy hiểm khác nhau."
+    },
+    {
+      "question": "Rối loạn nhịp tim có thể điều trị được không?",
+      "answer": "Hầu hết các rối loạn nhịp tim đều có thể điều trị được. Phương pháp điều trị phụ thuộc vào loại rối loạn, nguyên nhân và mức độ nghiêm trọng. Các phương pháp điều trị bao gồm dùng thuốc, cắt đốt qua ống thông, đặt máy tạo nhịp tim, máy khử rung tim cấy được, và phẫu thuật. Một số rối loạn nhịp nhẹ không cần điều trị, chỉ cần theo dõi định kỳ."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa rối loạn nhịp tim?",
+      "answer": "Để phòng ngừa rối loạn nhịp tim, bạn nên duy trì lối sống lành mạnh bằng cách: ăn thực phẩm có lợi cho tim mạch, tập thể dục đều đặn, giữ cân nặng hợp lý, bỏ thuốc lá, hạn chế rượu và caffeine, kiểm soát stress, ngủ đủ giấc, và kiểm soát các bệnh mạn tính như tăng huyết áp, đái tháo đường. Khám sức khỏe tim mạch định kỳ cũng rất quan trọng để phát hiện sớm và điều trị kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như hồi hộp, đánh trống ngực, và hụt hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-nhip-tim", "lo-au", "suy-tim"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở, ran ngực, và yếu sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-nhip-tim",
+        "suy-tim",
+        "benh-phoi-tac-nghen-man-tinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau ngực, vã mồ hôi, và chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-nhip-tim",
+        "benh-dong-mach-vanh",
+        "nhoi-mau-co-tim"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như hoa mắt, tối sầm mắt, và gần ngất. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-nhip-tim", "ha-huyet-ap", "thieu-mau-nao"]
+    },
+    {
+      "question": "Tôi hay bị tim đập nhanh và không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-nhip-tim", "rung-nhi", "cuong-nhi"]
     }
   ]
 }

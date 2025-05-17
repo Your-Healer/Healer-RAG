@@ -1,39 +1,115 @@
 {
   "disease_id": "roi-loan-luong-cuc",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn lưỡng cực",
+  "disease_alternative_names": ["Rối loạn hưng - trầm cảm", "Bipolar Disorder"],
+  "disease_definition": "Rối loạn lưỡng cực là một bệnh rối loạn tâm thần được đánh dấu bằng những thay đổi thất thường trong tâm trạng. Người bệnh có thể rơi vào tình trạng quá kích thích, tăng động, nhưng sau đó lại rơi vào trạng thái trầm cảm. Rối loạn lưỡng cực có đặc điểm là những cơn hay các giai đoạn bệnh lần lượt thay thế nhau theo chu kỳ dưới hình thức cơn hưng cảm hoặc trầm cảm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tăng động, dư thừa năng lượng",
+      "description": "Người bệnh cảm thấy tràn đầy năng lượng, không cần ngủ hoặc ngủ rất ít nhưng vẫn không cảm thấy mệt mỏi (trong giai đoạn hưng cảm)"
+    },
+    {
+      "name": "Nói nhiều, nói nhanh",
+      "description": "Nói liên tục, nói đến khàn tiếng, các câu nói thường không hoàn chỉnh do thiếu tập trung (trong giai đoạn hưng cảm)"
+    },
+    {
+      "name": "Quyết định liều lĩnh",
+      "description": "Đưa ra quyết định không tính toán về tiền bạc, công việc, tham gia vào những việc làm có nhiều nguy cơ (trong giai đoạn hưng cảm)"
+    },
+    {
+      "name": "Buồn vô cớ",
+      "description": "Cảm thấy buồn rầu không rõ nguyên nhân, không điều gì làm cho họ khuây khỏa hoặc vui lên được (trong giai đoạn trầm cảm)"
+    },
+    {
+      "name": "Đánh giá thấp bản thân",
+      "description": "Cảm giác có lỗi, tự đánh giá thấp khả năng của mình, không tin vào khả năng lành bệnh (trong giai đoạn trầm cảm)"
+    },
+    {
+      "name": "Thay đổi chế độ ăn uống và giấc ngủ",
+      "description": "Chán ăn, giảm khẩu vị, khó đi vào giấc ngủ, hay bị thức giấc giữa đêm (trong giai đoạn trầm cảm)"
+    },
+    {
+      "name": "Suy nghĩ chậm chạp",
+      "description": "Quá trình liên tưởng chậm, trả lời chậm, giảm khả năng tập trung chú ý (trong giai đoạn trầm cảm)"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác gây rối loạn lưỡng cực vẫn chưa được xác định rõ ràng, nhưng có liên quan đến yếu tố di truyền và sinh lý học.",
+    "related_factors": "Sự mất cân bằng trong chất dẫn truyền thần kinh hoặc hormone ảnh hưởng đến não, stress và các biến cố đời sống có thể khởi phát cho cơn rối loạn khí sắc đầu tiên.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người mắc rối loạn lưỡng cực",
+    "Trải qua sự đổ vỡ của mối quan hệ",
+    "Lạm dụng thể chất, tình dục hoặc tình cảm",
+    "Cái chết của người thân yêu",
+    "Bệnh lý về mặt thực thể",
+    "Rối loạn giấc ngủ",
+    "Căng thẳng về tiền bạc, công việc hoặc các mối quan hệ"
+  ],
+  "complications": [
+    "Khó khăn trong việc duy trì mối quan hệ",
+    "Gặp vấn đề trong công việc và học tập",
+    "Lạm dụng chất kích thích như rượu, thuốc lá, ma túy",
+    "Ý tưởng tự sát hoặc hành vi tự hại",
+    "Tổn hại đến sức khỏe thể chất",
+    "Khó khăn trong quản lý tài chính cá nhân",
+    "Cô lập xã hội"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Trò chuyện lâm sàng với bác sĩ tâm thần",
+      "Đánh giá trạng thái tâm thần và suy nghĩ, cảm xúc, thói quen",
+      "Thu thập thông tin từ người thân về các triệu chứng",
+      "Theo dõi biểu đồ tâm trạng hàng ngày"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đánh giá triệu chứng hưng cảm và trầm cảm",
+        "description": "Xác định các triệu chứng đặc trưng của hưng cảm hoặc hưng cảm nhẹ, kết hợp với triệu chứng trầm cảm"
+      },
+      {
+        "name": "Kiểm tra tiền sử bệnh",
+        "description": "Tìm hiểu về tiền sử xuất hiện các triệu chứng mệt mỏi, buồn ngủ hoặc rối loạn vận động"
+      },
+      {
+        "name": "Biểu đồ tâm trạng",
+        "description": "Bệnh nhân ghi lại tâm trạng mỗi ngày với các tình tiết như tâm trạng, giấc ngủ, phản ứng cảm xúc cơ thể"
+      },
+      {
+        "name": "Loại trừ các nguyên nhân khác",
+        "description": "Kiểm tra để loại trừ rối loạn do việc sử dụng các chất kích thần kinh hoặc các bệnh lý thực thể khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị rối loạn lưỡng cực thường kết hợp dùng thuốc và tâm lý trị liệu, được cá nhân hóa theo từng người bệnh cụ thể.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc ổn định khí sắc",
+        "description": "Được sử dụng để kiểm soát những thay đổi tâm trạng thất thường, giúp ổn định cảm xúc của người bệnh"
+      },
+      {
+        "name": "Thuốc chống loạn thần",
+        "description": "Sử dụng để kiểm soát các triệu chứng hưng cảm nặng với các biểu hiện loạn thần như ảo giác"
+      },
+      {
+        "name": "Thuốc chống trầm cảm",
+        "description": "Giúp cải thiện tâm trạng trong giai đoạn trầm cảm của người bệnh"
+      },
+      {
+        "name": "Tâm lý trị liệu",
+        "description": "Giúp bệnh nhân hiểu thêm về bệnh và bản thân, điều chỉnh hành vi và cảm xúc, quản lý bệnh và giảm những ảnh hưởng do bệnh mang lại"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ điều trị thuốc men theo đúng chỉ định của bác sĩ",
+      "Tham gia đầy đủ các buổi trị liệu tâm lý",
+      "Duy trì lối sống lành mạnh và thói quen sinh hoạt điều độ",
+      "Tránh các chất kích thích như rượu, thuốc lá",
+      "Xây dựng mạng lưới hỗ trợ từ gia đình và bạn bè",
+      "Học cách nhận biết các dấu hiệu cảnh báo sớm của cơn bệnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +117,57 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chế độ ăn uống khoa học, đủ chất dinh dưỡng",
+      "Tập thể dục đều đặn để cải thiện tâm trạng và sức khỏe",
+      "Xây dựng các mối quan hệ lành mạnh",
+      "Tăng cường tiếp xúc, trò chuyện với mọi người",
+      "Tham gia hoạt động xã hội, hoạt động tập thể",
+      "Ngủ đủ giấc và không lạm dụng chất kích thích"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn lưỡng cực có di truyền không?",
+      "answer": "Theo thống kê tỷ lệ người mắc rối loạn cảm xúc lưỡng cực chiếm 1% dân số toàn thế giới. Bệnh xảy ra ở cả 2 giới và tỷ lệ mắc bệnh không có sự khác biệt giữa 2 giới tính. Đặc biệt, rối loạn lưỡng cực có yếu tố di truyền. Cá nhân có nguy cơ cao mắc rối loạn khi cha/mẹ ruột của họ bị rối loạn lưỡng cực."
+    },
+    {
+      "question": "Rối loạn lưỡng cực có nguy hiểm không?",
+      "answer": "Người mắc rối loạn lưỡng cực sẽ có nhiều triệu chứng phức tạp, và việc tâm trạng dao động lên xuống ảnh hưởng nhiều đến cảm xúc cũng như động lực điều trị của bệnh nhân. Đây là rối loạn khiến tâm lý người bệnh thay đổi, ảnh hưởng đến sức khỏe, các sinh hoạt thường ngày trong đời sống, các mối quan hệ cũng như hiệu suất học tập, công việc. Đối với một số cá nhân có thể xuất hiện kèm ảo giác, dễ gây nguy hiểm cho cá nhân người bệnh và những người xung quanh, thế nên việc điều trị là cần thiết và cần được hỗ trợ kịp thời."
+    },
+    {
+      "question": "Các loại rối loạn lưỡng cực là gì?",
+      "answer": "Có nhiều loại rối loạn lưỡng cực, bao gồm: Rối loạn cảm xúc lưỡng cực I (có đặc điểm những cơn hưng cảm hoặc xen kẽ cơn trầm cảm), Rối loạn cảm xúc lưỡng cực II (có đặc điểm những cơn trầm cảm xen kẽ hưng cảm nhẹ), và Rối loạn lưỡng cực III (có đặc điểm những cơn trầm cảm tái diễn chuyển sang cơn hưng cảm khi sử dụng thuốc). Ngoài ra còn có rối loạn lưỡng cực chu kỳ nhanh có ít nhất 4 cơn trong vòng một năm và rối loạn lưỡng cực có nét loạn thần."
+    },
+    {
+      "question": "Triệu chứng của rối loạn lưỡng cực là gì?",
+      "answer": "Rối loạn lưỡng cực có 2 giai đoạn chính: giai đoạn hưng cảm và giai đoạn trầm cảm. Trong giai đoạn hưng cảm, người bệnh thường tăng động, tràn đầy năng lượng, nói nhiều và nhanh, suy nghĩ lạc quan đơn giản, và có thể đưa ra quyết định liều lĩnh. Trong giai đoạn trầm cảm, người bệnh cảm thấy buồn vô cớ, đánh giá thấp bản thân, có cảm giác tội lỗi, mất năng lượng, thay đổi chế độ ăn uống và giấc ngủ, khó tập trung và có thể có ý tưởng tự sát."
+    },
+    {
+      "question": "Có cách nào phòng ngừa rối loạn lưỡng cực không?",
+      "answer": "Khó có thể phòng ngừa hoàn toàn rối loạn lưỡng cực, nhưng bạn có thể tự giúp mình gia tăng nguồn sức mạnh bản thân khi đối diện với thử thách cuộc sống bằng cách: có chế độ ăn uống khoa học đủ chất dinh dưỡng, tập thể dục đều đặn, xây dựng các mối quan hệ lành mạnh, tăng cường tiếp xúc xã hội, ngủ đủ giấc và không lạm dụng chất kích thích. Những thói quen tích cực này giúp bạn có sức khỏe tâm thần tốt hơn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tràn đầy năng lượng, nói nhiều, và đưa ra quyết định liều lĩnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-luong-cuc"]
+    },
+    {
+      "question": "Tôi đang cảm thấy hưng phấn, ngủ ít, và suy nghĩ lạc quan một cách đơn giản. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-luong-cuc"]
+    },
+    {
+      "question": "Tôi hay có những giai đoạn tràn đầy năng lượng xen kẽ với giai đoạn buồn bã và mất năng lượng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-luong-cuc", "roi-loan-tam-than"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như hưng phấn thái quá và sau đó chuyển sang trầm cảm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-luong-cuc", "tram-cam"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mình có thể vượt qua mọi khó khăn xen kẽ với cảm giác bế tắc và tuyệt vọng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-luong-cuc", "tram-cam"]
     }
   ]
 }

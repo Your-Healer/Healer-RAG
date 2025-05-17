@@ -1,39 +1,111 @@
 {
   "disease_id": "roi-loan-cuong-duong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Rối loạn cương dương",
+  "disease_alternative_names": [
+    "Yếu sinh lý nam giới",
+    "Erectile dysfunction",
+    "ED"
+  ],
+  "disease_definition": "Rối loạn cương dương là trạng thái dương vật cương không đủ cứng hoặc không đủ khả năng duy trì sự cương cứng để tiến hành thỏa mãn hoạt động tình dục trọn vẹn. Đây là một trong các biểu hiện của bệnh yếu sinh lý ở nam giới.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Dương vật mềm, khó cương cứng",
+      "description": "Dương vật không thể cương cứng hoặc không đạt được độ cứng cần thiết dù đã có kích thích tình dục"
+    },
+    {
+      "name": "Không duy trì được sự cương cứng",
+      "description": "Dương vật có thể cương cứng nhưng không duy trì được đủ lâu để hoàn thành hoạt động tình dục, thường xảy ra mềm đột ngột trong quá trình quan hệ"
+    },
+    {
+      "name": "Giảm ham muốn tình dục",
+      "description": "Không còn hoặc giảm đáng kể sự khao khát, nhu cầu tình dục với bạn tình"
+    },
+    {
+      "name": "Cương cứng thất thường",
+      "description": "Cương cứng xảy ra không theo ý muốn hoặc không đều đặn, khó kiểm soát"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hầu hết các rối loạn cương dương đều liên quan đến rối loạn mạch máu, thần kinh, tâm lý và hoóc môn. Khoảng 70% trường hợp có nguyên nhân từ tổn thương thực thể.",
+    "related_factors": "Bệnh lý mạch máu như tiểu đường, bệnh tim, xơ vữa động mạch; suy giảm thần kinh; rối loạn nội tiết như giảm testosterone; tác dụng phụ của thuốc; chấn thương vùng chậu; phẫu thuật vùng chậu; yếu tố tâm lý như trầm cảm, lo âu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao (40-70 tuổi)",
+    "Mắc bệnh tiểu đường hoặc bệnh tim",
+    "Hút thuốc lá thường xuyên",
+    "Thừa cân, béo phì",
+    "Tiền sử phẫu thuật tuyến tiền liệt hoặc xạ trị ung thư",
+    "Chấn thương vùng dương vật hoặc vùng chậu",
+    "Sử dụng thuốc điều trị huyết áp cao, thuốc chống trầm cảm",
+    "Lạm dụng ma túy và rượu bia",
+    "Căng thẳng, lo lắng hoặc trầm cảm",
+    "Bệnh lý tuyến giáp hoặc tuyến yên"
+  ],
+  "complications": [
+    "Stress và lo âu kéo dài",
+    "Mất tự tin trong đời sống tình dục",
+    "Vấn đề trong mối quan hệ vợ chồng",
+    "Không thể có con do hạn chế khả năng quan hệ tình dục",
+    "Tăng nguy cơ mắc các bệnh tâm lý như trầm cảm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám khai thác bệnh sử để xác định nguyên nhân và mức độ",
+      "Kiểm tra chức năng cương dương vào ban đêm hoặc buổi sáng",
+      "Sử dụng bộ câu hỏi đánh giá chức năng cương dương IIEF",
+      "Thăm khám thực thể đánh giá bộ phận sinh dục và đặc điểm giới tính phụ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra đường huyết, lipid máu, hormone nam để xác định nguyên nhân thứ phát như tiểu đường, rối loạn nội tiết"
+      },
+      {
+        "name": "Siêu âm Doppler màu mạch máu dương vật",
+        "description": "Đánh giá tình trạng lưu thông máu đến dương vật, phát hiện xơ vữa động mạch hoặc rối loạn tuần hoàn"
+      },
+      {
+        "name": "Chụp vật hang kết hợp đo áp lực mạch máu vật hang",
+        "description": "Đánh giá chi tiết khả năng giãn mạch và lưu lượng máu vào thể hang"
+      },
+      {
+        "name": "Chụp động mạch dương vật",
+        "description": "Phát hiện các bất thường về mạch máu cung cấp cho dương vật"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nguyên tắc điều trị là xác định nguyên nhân cơ bản và sử dụng các biện pháp phù hợp. Các biện pháp không xâm lấn được ưu tiên trước, nếu không hiệu quả mới xem xét can thiệp phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc ức chế phosphodiesterase đường uống",
+        "description": "Các thuốc như sildenafil, vardenafil và tadalafil giúp tăng lưu lượng máu đến dương vật, hiệu quả từ 60-75% các trường hợp, bắt đầu có tác dụng sau 10-30 phút"
+      },
+      {
+        "name": "Prostaglandin E1 tiêm nội hang hoặc đặt niệu đạo",
+        "description": "Tiêm trực tiếp vào thể hang dương vật hoặc đặt vào niệu đạo, gây cương cứng kéo dài 30 phút đến 1 giờ"
+      },
+      {
+        "name": "Thiết bị cương cứng hút chân không",
+        "description": "Sử dụng thiết bị hút chân không kéo máu vào dương vật, sau đó đặt vòng đai đàn hồi ở gốc dương vật để duy trì cương cứng"
+      },
+      {
+        "name": "Vòng đai co thắt",
+        "description": "Dành cho người không duy trì được cương cứng đủ lâu, giúp giữ máu trong dương vật lâu hơn"
+      },
+      {
+        "name": "Phẫu thuật thay thể hang nhân tạo",
+        "description": "Chỉ định khi các phương pháp khác thất bại, cấy ghép thanh silicone bán cứng hoặc thiết bị có thể bơm phồng bằng nước muối"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Điều trị các nguyên nhân cơ bản như tiểu đường, rối loạn nội tiết",
+      "Ngưng sử dụng hoặc thay thế các loại thuốc có thể gây rối loạn cương dương",
+      "Kết hợp liệu pháp tâm lý nếu nguyên nhân từ stress, lo âu, trầm cảm",
+      "Tìm sự đồng cảm và hỗ trợ từ bạn đời",
+      "Theo dõi đánh giá hiệu quả điều trị và điều chỉnh kịp thời"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +113,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ăn uống điều độ, sinh hoạt lành mạnh",
+      "Không hút thuốc lá, hạn chế sử dụng thức uống có cồn",
+      "Duy trì sức khỏe thể chất bằng các hoạt động thể dục đều đặn",
+      "Kiểm soát tốt các bệnh mạn tính như tiểu đường, huyết áp cao",
+      "Luôn giữ tinh thần lạc quan, hạn chế stress và lo âu",
+      "Tìm kiếm sự đồng cảm từ bạn đời",
+      "Đi khám sức khỏe định kỳ và phát hiện triệu chứng sớm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Rối loạn cương dương có thể điều trị khỏi được không?",
+      "answer": "Tùy thuộc vào nguyên nhân, rối loạn cương dương có thể được điều trị hiệu quả trong nhiều trường hợp. Nếu nguyên nhân do tâm lý, lối sống, hoặc do thuốc, việc điều trị thường có kết quả tốt. Với nguyên nhân do các bệnh lý nền như tiểu đường, việc kiểm soát tốt bệnh cũng sẽ cải thiện tình trạng. Các phương pháp điều trị như thuốc ức chế PDE-5 cho hiệu quả 60-75% các trường hợp, và có nhiều lựa chọn khác nếu thuốc không hiệu quả."
+    },
+    {
+      "question": "Thuốc uống điều trị rối loạn cương dương có an toàn không?",
+      "answer": "Thuốc ức chế phosphodiesterase đường uống (như sildenafil, vardenafil, tadalafil) nhìn chung an toàn với hầu hết nam giới. Tuy nhiên, có thể gây tác dụng phụ như chóng mặt, nhức đầu, đỏ mặt, sổ mũi, hạ huyết áp, bất thường thị giác, khó tiêu. Đặc biệt không được sử dụng chung với thuốc nitrat điều trị bệnh mạch vành vì có thể gây nguy hiểm do hạ huyết áp đột ngột."
+    },
+    {
+      "question": "Liệu rối loạn cương dương có phải dấu hiệu của bệnh lý nghiêm trọng khác?",
+      "answer": "Trong nhiều trường hợp, rối loạn cương dương có thể là dấu hiệu sớm của các bệnh lý nghiêm trọng khác như tiểu đường, bệnh tim mạch, xơ vữa động mạch, rối loạn nội tiết, hoặc các vấn đề thần kinh. Đặc biệt, ở bệnh nhân tiểu đường, rối loạn cương dương xuất hiện sớm với tỷ lệ cao hơn 15-18 lần so với người không bị đái tháo đường cùng lứa tuổi. Vì vậy, khi gặp vấn đề này, bạn nên đi khám để kiểm tra sức khỏe tổng thể."
+    },
+    {
+      "question": "Tại sao tuổi tác lại ảnh hưởng đến khả năng cương dương?",
+      "answer": "Khi tuổi tác tăng, đặc biệt từ 40-70 tuổi, khả năng cương cứng của dương vật suy giảm do nhiều yếu tố sinh lý. Lưu lượng máu đến dương vật giảm do xơ vữa động mạch, khả năng giãn của động mạch và cơ trơn thành mạch kém hơn. Ngoài ra, nồng độ testosterone giảm theo tuổi tác cũng ảnh hưởng đến ham muốn tình dục và khả năng cương cứng."
+    },
+    {
+      "question": "Phẫu thuật có phải là lựa chọn cuối cùng cho rối loạn cương dương?",
+      "answer": "Đúng vậy, phẫu thuật cấy ghép thể hang nhân tạo chỉ được xem xét khi các phương pháp điều trị khác như thuốc uống, tiêm nội hang, thiết bị hút chân không đều thất bại. Phẫu thuật có thể mang lại hiệu quả nhưng cũng kèm theo rủi ro như gây tê, nhiễm trùng và đào thải vật ghép. Trước khi quyết định phẫu thuật, bệnh nhân cần được tư vấn kỹ về lợi ích và nguy cơ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như dương vật mềm, khó cương cứng dù có ham muốn tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-cuong-duong", "suy-giam-noi-tiet-to"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mất dần ham muốn tình dục và khả năng cương cứng của dương vật suy giảm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "roi-loan-cuong-duong",
+        "tram-cam",
+        "thieu-hut-testosterone"
+      ]
+    },
+    {
+      "question": "Tôi hay bị rối loạn cương cứng, dương vật chỉ cương cứng trong thời gian ngắn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-cuong-duong", "roi-loan-mach-mau"]
+    },
+    {
+      "question": "Tôi đang gặp tình trạng dương vật cương cứng thất thường, không theo ý muốn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-cuong-duong", "roi-loan-than-kinh"]
+    },
+    {
+      "question": "Tôi cảm thấy lo lắng vì không thể duy trì sự cương cứng của dương vật đủ lâu để quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["roi-loan-cuong-duong", "roi-loan-tam-ly"]
     }
   ]
 }

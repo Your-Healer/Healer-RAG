@@ -1,39 +1,146 @@
 {
   "disease_id": "te-bi-chan-tay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tê bì chân tay",
+  "disease_alternative_names": [
+    "Numbness of Limb",
+    "Tê tay chân",
+    "Rối loạn cảm giác chi"
+  ],
+  "disease_definition": "Tê bì chân tay là hội chứng bệnh thần kinh phổ biến nhất, có thể bắt gặp ở bất kì ai dù là từ thanh thiếu niên hay những người cao tuổi. Đây là tình trạng rối loạn cảm giác hay dị cảm một phần hoặc hoàn toàn ở các chi, thường đi kèm với cảm giác đau nhói bất thường như kim châm không liên quan đến kích thích cảm giác.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tê bì đầu ngón tay",
+      "description": "Cảm giác tê bì, châm chích xuất hiện ở các đầu ngón tay"
+    },
+    {
+      "name": "Tê bì bàn chân",
+      "description": "Cảm giác tê nhẹ như kim châm ở giai đoạn đầu, ngứa râm ran xuất hiện ở phần đùi, chân và từ mông xuống chân, ngón chân, lòng bàn chân"
+    },
+    {
+      "name": "Dị cảm",
+      "description": "Cảm giác bất thường như kiến bò, châm chích trên da"
+    },
+    {
+      "name": "Chuột rút",
+      "description": "Co thắt cơ đột ngột gây đau nhức"
+    },
+    {
+      "name": "Đau nhức xương khớp",
+      "description": "Cảm giác đau nhức ở các khớp đi kèm với tê bì"
+    },
+    {
+      "name": "Đau vai gáy",
+      "description": "Đau nhức khu vực vai gáy, đặc biệt khi có vấn đề về cột sống cổ"
+    },
+    {
+      "name": "Đau thắt lưng",
+      "description": "Đau vùng thắt lưng, thường liên quan đến các vấn đề về cột sống thắt lưng"
+    },
+    {
+      "name": "Khó cử động",
+      "description": "Khó khăn trong việc thực hiện các động tác cầm nắm hay di chuyển do tê bì"
+    },
+    {
+      "name": "Tê bì sau khi ngủ dậy",
+      "description": "Cảm giác tê bì xuất hiện sau khi thức dậy, thường do nằm sai tư thế"
+    },
+    {
+      "name": "Tê bì sau khi ngồi lâu",
+      "description": "Xuất hiện cảm giác tê bì sau khi ngồi trong một thời gian dài ở một vị trí"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính của tê bì chân tay là do các rối loạn chức năng của thần kinh ngoại vi khi dây thần kinh bị tác động, chèn ép hoặc bị tổn thương.",
+    "related_factors": "Thoái hóa cột sống, thoát vị đĩa đệm, thoái hóa khớp, viêm đa khớp dạng thấp, hẹp ống sống, đa xơ cứng, viêm đa rễ thần kinh, xơ vữa động mạch là các nguyên nhân y khoa phổ biến. Ngoài ra, làm việc không khoa học, sinh hoạt sai tư thế, chấn thương, căng thẳng mệt mỏi kéo dài cũng có thể gây tê bì chân tay.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người cao tuổi",
+    "Bệnh nhân rối loạn chuyển hóa (đái tháo đường, mỡ máu cao)",
+    "Phụ nữ sau sinh",
+    "Người làm nghề lái xe đường dài",
+    "Người làm việc văn phòng tiếp xúc với máy tính nhiều giờ",
+    "Người thường xuyên lao động nặng",
+    "Người bị chấn thương",
+    "Người thường xuyên ngồi, đứng lâu một tư thế",
+    "Người lười vận động",
+    "Người thường xuyên ngồi dưới máy lạnh"
+  ],
+  "complications": [
+    "Đau nhức kéo dài",
+    "Mất ngủ",
+    "Ảnh hưởng đến chức năng vận động",
+    "Khó khăn trong sinh hoạt và làm việc",
+    "Teo cơ",
+    "Liệt chi",
+    "Đại tiểu tiện không tự chủ",
+    "Nguy cơ liên quan đến khối u và ung thư chèn ép hệ thống dây thần kinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng các triệu chứng",
+      "Đánh giá tiền sử bệnh",
+      "Tìm hiểu về công việc và lối sống của người bệnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Kiểm tra cấu trúc xương, phát hiện thoái hóa, hẹp ống sống"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Cung cấp hình ảnh chi tiết hơn của cột sống và các tổ chức lân cận"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Hiển thị chi tiết mô mềm, tủy sống, rễ thần kinh và đĩa đệm"
+      },
+      {
+        "name": "Điện cơ",
+        "description": "Đo lường hoạt động điện của cơ bắp, đánh giá mức độ tổn thương thần kinh"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị tê bì chân tay tùy thuộc vào nguyên nhân gây bệnh. Việc điều trị cần phối hợp giữa điều trị căn nguyên và điều trị triệu chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Sử dụng thuốc giảm đau chống viêm không steroid (NSAIDs), kết hợp với paracetamol, vitamin nhóm B đường uống hoặc đường tiêm"
+      },
+      {
+        "name": "Kiểm soát đường huyết",
+        "description": "Đối với trường hợp tê bì do đái tháo đường, cần kiểm soát đường huyết ở mức ổn định"
+      },
+      {
+        "name": "Kiểm soát lipid máu",
+        "description": "Đối với trường hợp do rối loạn chuyển hóa lipid máu, cần duy trì mức lipid máu ở ngưỡng an toàn"
+      },
+      {
+        "name": "Bổ sung vitamin",
+        "description": "Bổ sung vitamin (đặc biệt là nhóm B) nếu tê bì do thiếu vitamin"
+      },
+      {
+        "name": "Điều trị thoái hóa",
+        "description": "Áp dụng các phương pháp điều trị chuyên biệt cho thoái hóa cột sống"
+      },
+      {
+        "name": "Điều trị viêm khớp",
+        "description": "Sử dụng các phương pháp điều trị viêm khớp nếu đây là nguyên nhân gây tê bì"
+      },
+      {
+        "name": "Điều trị nhiễm độc",
+        "description": "Loại bỏ tác nhân gây nhiễm độc và điều trị triệu chứng nhiễm độc"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tập luyện yoga để giúp máu lưu thông tốt hơn",
+      "Đi bộ với tốc độ vừa phải để cải thiện lưu thông máu",
+      "Massage tay chân trước khi đi ngủ trong khoảng 20-30 phút",
+      "Tránh ngồi lâu một vị trí, nên đi lại 5-10 phút sau mỗi 1-2 giờ làm việc",
+      "Duy trì cân nặng hợp lý để giảm áp lực lên cột sống",
+      "Xây dựng thói quen sinh hoạt, ăn uống khoa học"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +148,72 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bổ sung thực phẩm chứa nhiều vitamin D, vitamin K và canxi như trứng, cá, đậu nành, rau cải xoăn, sữa",
+      "Tập thể dục thể thao đều đặn phù hợp với thể trạng",
+      "Sắp xếp hợp lý thời gian làm việc và nghỉ ngơi",
+      "Tránh ngồi lâu một vị trí, nên đi lại sau mỗi 1-2 giờ làm việc liên tục",
+      "Hạn chế rượu bia, thuốc lá, đồ ăn nhanh, đồ ăn chiên rán",
+      "Duy trì cân nặng hợp lý",
+      "Giữ tinh thần thoải mái, tránh căng thẳng kéo dài",
+      "Tránh nằm sai tư thế, gối quá cao",
+      "Tránh đi giày cao gót thường xuyên"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tê bì tay chân khi ngủ là bệnh gì?",
+      "answer": "Cảm giác bị tê bì chân tay, ngứa ran, thậm chí là tê liệt, mất cảm giác ở chân tay khi ngủ thường do nằm sai tư thế, gối quá cao, khiến dây thần kinh chịu áp lực. Tuy nhiên, trong một số trường hợp, đây có thể là triệu chứng cảnh báo nhiều bệnh nguy hiểm như thoái hóa đốt sống cổ, viêm dây thần kinh ngoại biên, tiểu đường, bệnh tim mạch, thiếu máu não cục bộ, thiếu vitamin B12."
+    },
+    {
+      "question": "Tê tay chân có nguy hiểm không?",
+      "answer": "Cảm giác tê bì ở tay và chân là triệu chứng rất phổ biến, đặc biệt khi giữ một tư thế trong thời gian dài. Tình trạng này thường không gây ảnh hưởng nghiêm trọng đến tính mạng, nhưng nếu các triệu chứng xuất hiện với tần suất liên tục thì cần thăm khám ngay để kiểm tra các bệnh lý nguy hiểm như thoát vị đĩa đệm, đau thần kinh tọa, viêm khớp dạng thấp, hẹp ống sống, thiếu máu não, bệnh đa xơ cứng."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ khi bị tê bì chân tay?",
+      "answer": "Nếu triệu chứng tê bì chân tay xuất hiện liên tục khoảng trên 6 tuần thì cần đến ngay các cơ sở y tế thăm khám sớm. Trong trường hợp tê tay chân chỉ xuất hiện khoảng 1 – 5 tuần có thể do tác nhân cơ học, cần theo dõi thêm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tê bì chân tay, đau nhức xương khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tê bì chân tay",
+        "Thoái hóa cột sống",
+        "Viêm đa khớp dạng thấp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau vai gáy, đau thắt lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tê bì chân tay",
+        "Thoái hóa cột sống",
+        "Thoát vị đĩa đệm"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tê bì chân tay và khó cử động, cầm nắm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tê bì chân tay",
+        "Hội chứng ống cổ tay",
+        "Viêm đa rễ thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi bị tê bì chân tay sau khi ngủ dậy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tê bì chân tay",
+        "Thoái hóa đốt sống cổ",
+        "Viêm dây thần kinh ngoại biên"
+      ]
+    },
+    {
+      "question": "Tôi bị tê bì chân tay sau khi ngồi lâu một chỗ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tê bì chân tay",
+        "Chèn ép dây thần kinh",
+        "Hẹp ống sống"
+      ]
     }
   ]
 }

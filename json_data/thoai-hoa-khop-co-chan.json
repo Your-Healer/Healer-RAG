@@ -1,39 +1,122 @@
 {
   "disease_id": "thoai-hoa-khop-co-chan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Thoái hóa khớp cổ chân",
+  "disease_alternative_names": [
+    "Viêm khớp cổ chân",
+    "Thoái hóa mắt cá chân",
+    "Ankle Osteoarthritis"
+  ],
+  "disease_definition": "Thoái hóa khớp cổ chân là tình trạng sụn khớp bị bào mòn theo thời gian, khiến các xương cọ vào nhau khi di chuyển, kèm với phản ứng viêm nên gây đau, cứng và các triệu chứng khác cho người bệnh. Tình trạng này không chỉ ảnh hưởng đến sụn mà còn có thể gây tổn thương xương, dây chằng, gân xung quanh khớp.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhức vùng cổ chân",
+      "description": "Đau, nhức ở các khớp bị ảnh hưởng, đặc biệt là khi vận động hoặc chạm vào"
+    },
+    {
+      "name": "Sưng, nóng, đỏ",
+      "description": "Vùng khớp cổ chân bị sưng, nóng, đỏ và đau khi chạm vào"
+    },
+    {
+      "name": "Cứng khớp",
+      "description": "Cứng khớp, nhất là khi người bệnh không di chuyển trong một thời gian"
+    },
+    {
+      "name": "Khớp phát ra tiếng kêu",
+      "description": "Khớp phát ra tiếng kêu lắc rắc hoặc lạo xạo khi cử động bàn chân, mắt cá chân"
+    },
+    {
+      "name": "Giảm khả năng vận động",
+      "description": "Khớp cổ chân ít linh hoạt và giảm biên độ hoạt động"
+    },
+    {
+      "name": "Yếu và mất vững khớp",
+      "description": "Dây chằng yếu đi gây mất vững khi di chuyển"
+    },
+    {
+      "name": "Đau khi vận động",
+      "description": "Đau tăng khi đi bộ, leo cầu thang hay vận động mạnh và giảm khi nghỉ ngơi"
+    },
+    {
+      "name": "Thay đổi hình dạng khớp",
+      "description": "Quá trình sửa chữa trong khớp cổ chân có thể làm hình thành các gai ở rìa xương và thay đổi hình dạng khớp"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính của thoái hóa khớp cổ chân là sự bào mòn sụn khớp theo thời gian, dẫn đến tình trạng xương cọ xát trực tiếp vào nhau.",
+    "related_factors": "Khoảng 90% người bị thoái hóa cổ chân xuất phát từ một trong hai yếu tố nguy cơ chính là chấn thương (như bong gân, gãy xương) hoặc bệnh lý có từ trước (như viêm khớp dạng thấp, bệnh huyết học). Các nguyên nhân còn lại liên quan đến yếu tố di truyền, tuổi tác, thừa cân béo phì.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác (thường gặp nhất ở người trên 45 tuổi)",
+    "Chấn thương trước đó ở cổ chân (chiếm 70-80% các trường hợp)",
+    "Viêm khớp dạng thấp và viêm khớp phản ứng",
+    "Bệnh huyết học như máu khó đông, bệnh huyết sắc tố",
+    "Bàn chân khoèo hoặc các khuyết tật bẩm sinh ở chân",
+    "Bệnh hoại tử vô mạch",
+    "Căng thẳng khớp và chấn thương nhỏ lặp lại",
+    "Thừa cân, béo phì",
+    "Tiền sử gia đình có người bị thoái hóa khớp"
+  ],
+  "complications": [
+    "Hội chứng cứng khớp (Hallux Hardus) - tê cứng ngón chân cái",
+    "Viêm khớp biến dạng ngón chân cái (Bunion) - ngón chân cái bị nghiêng về phía các ngón chân khác",
+    "Hình thành các nốt chai ở bàn chân",
+    "Khó khăn khi đi lại, đứng",
+    "Đau mãn tính ảnh hưởng đến chất lượng cuộc sống"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: kiểm tra các triệu chứng ở cổ chân, hỏi bệnh sử và tình trạng sức khỏe",
+      "Yêu cầu người bệnh đi lại để đánh giá dáng đi và mức độ ảnh hưởng của tình trạng thoái hóa"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Cho thấy tình trạng thu hẹp không gian khớp cổ chân, mất sụn ở mắt cá chân và các gai xương"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh của mô mềm (dây chằng, gân và cơ) và xương ở vùng cổ chân, giúp loại trừ nguyên nhân viêm xương khớp, tổn thương dây chằng hoặc gân"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp loại trừ các dạng viêm khớp khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không có phương pháp nào có thể đẩy lùi tình trạng thoái hóa khớp cổ chân. Tuy nhiên, người bệnh có thể được điều trị các triệu chứng, giúp giảm đau và cải thiện khả năng vận động.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị không dùng thuốc",
+        "description": "Bao gồm dùng các loại kem bôi có chứa thành phần: capsaicin, tinh dầu bạc hà; giảm cân; thay đổi thói quen vận động; tập vật lý trị liệu; sử dụng nẹp, gậy hoặc mang giày chuyên dụng"
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Thuốc giảm đau như Acetaminophen; thuốc chống viêm không steroid (NSAIDS); điều trị tại chỗ bằng gel hoặc kem NSAID, Lidocain và Salicylat; tiêm glucocorticoid (không quá 3-4 lần/năm)"
+      },
+      {
+        "name": "Phẫu thuật nội soi",
+        "description": "Ít được áp dụng, nhưng vẫn có thể hữu ích cho một số người bệnh"
+      },
+      {
+        "name": "Phẫu thuật hợp nhất khớp",
+        "description": "Giúp giảm đau bằng cách cố định xương ở cổ chân"
+      },
+      {
+        "name": "Phẫu thuật tạo hình khớp",
+        "description": "Thay thế toàn bộ cổ chân, sụn và xương bị hư hỏng bằng khớp nhân tạo"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế các hoạt động gây đau",
+      "Nghỉ ngơi hợp lý sau khi hoạt động",
+      "Thực hiện đầy đủ các bài tập vật lý trị liệu theo hướng dẫn",
+      "Duy trì cân nặng hợp lý",
+      "Mang giày phù hợp, tránh giày cao gót",
+      "Sử dụng miếng lót giày để giảm áp lực lên khớp",
+      "Áp dụng nhiệt hoặc lạnh để giảm đau và sưng tấy"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +124,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh mang vác vật nặng quá sức",
+      "Tránh vận động cường độ cao khi chưa khởi động hoặc không có dụng cụ bảo vệ",
+      "Chọn giày dép đúng kích thước, độ mềm, tránh mang giày cao gót quá lâu",
+      "Vận động thường xuyên, phù hợp với thể lực và tình trạng sức khỏe",
+      "Xây dựng chế độ dinh dưỡng khoa học, với đầy đủ vitamin và khoáng chất",
+      "Duy trì cân nặng ở mức hợp lý",
+      "Điều trị sớm và đúng cách các chấn thương ở cổ chân"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Thoái hóa khớp cổ chân có chữa khỏi được không?",
+      "answer": "Thoái hóa khớp cổ chân không thể chữa khỏi hoàn toàn, nhưng có nhiều phương pháp điều trị giúp kiểm soát các triệu chứng, giảm đau và cải thiện khả năng vận động. Tùy thuộc vào mức độ nghiêm trọng của bệnh, các lựa chọn điều trị có thể bao gồm thuốc giảm đau, vật lý trị liệu, sử dụng nẹp hỗ trợ hoặc phẫu thuật trong các trường hợp nặng."
+    },
+    {
+      "question": "Làm thế nào để phân biệt thoái hóa khớp cổ chân với bong gân cổ chân?",
+      "answer": "Thoái hóa khớp cổ chân thường gây đau mãn tính, tăng dần theo thời gian, cứng khớp (đặc biệt là vào buổi sáng), tiếng kêu lắc rắc khi cử động, và sưng đau kéo dài. Trong khi đó, bong gân cổ chân thường xảy ra sau một chấn thương, gây đau đột ngột, sưng nhanh, có thể bầm tím, và thường hồi phục trong vài tuần đến vài tháng với điều trị thích hợp."
+    },
+    {
+      "question": "Những loại giày nào tốt cho người bị thoái hóa khớp cổ chân?",
+      "answer": "Người bị thoái hóa khớp cổ chân nên chọn giày có đặc điểm: đế mềm, có hỗ trợ vòm chân, có lớp đệm tốt, kích cỡ phù hợp (không quá chật hoặc quá rộng), và có độ ổn định tốt. Nên tránh giày cao gót, giày đế cứng hoặc giày không có đủ độ hỗ trợ. Giày chuyên dụng cho người bị vấn đề về khớp cổ chân cũng là một lựa chọn tốt."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức vùng cổ chân, tăng đau khi đi bộ và giảm khi nghỉ ngơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp cổ chân",
+        "Viêm khớp cổ chân",
+        "Viêm gân Achilles"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cổ chân sưng, cứng khớp và khó khăn khi cử động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp cổ chân",
+        "Viêm khớp dạng thấp",
+        "Gout"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức cổ chân, kèm theo tiếng kêu lạo xạo khi cử động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp cổ chân",
+        "Viêm bao hoạt dịch",
+        "Gãy sụn khớp"
+      ]
+    },
+    {
+      "question": "Tôi đang gặp khó khăn khi đi lại, cổ chân yếu và mất vững. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp cổ chân",
+        "Đứt dây chằng cổ chân",
+        "Tổn thương thần kinh cổ chân"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức cổ chân sau khi tập thể dục, chơi thể thao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Thoái hóa khớp cổ chân",
+        "Bong gân cổ chân",
+        "Viêm gân"
+      ]
     }
   ]
 }

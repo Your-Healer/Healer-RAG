@@ -1,39 +1,153 @@
 {
   "disease_id": "suy-than",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Suy thận",
+  "disease_alternative_names": ["Bệnh thận giai đoạn cuối"],
+  "disease_definition": "Suy thận là tình trạng thận bị mất chức năng và không còn khả năng lọc các chất thải từ máu. Đây là giai đoạn cuối của bệnh thận mạn tính. Nếu không được chạy thận hoặc ghép thận, người bệnh sẽ khó duy trì được sự sống.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Giảm lượng nước tiểu",
+      "description": "Lượng nước tiểu giảm so với bình thường, có thể tiểu ít hơn hoặc không tiểu"
+    },
+    {
+      "name": "Phù mắt cá chân, bàn chân",
+      "description": "Sưng phù ở vùng mắt cá chân và bàn chân do tích tụ dịch"
+    },
+    {
+      "name": "Khó thở không rõ nguyên nhân",
+      "description": "Khó thở do tích tụ chất lỏng trong phổi hoặc thiếu máu"
+    },
+    {
+      "name": "Đau hoặc cảm thấy nặng ngực",
+      "description": "Đau ngực hoặc cảm giác nặng ngực do tích tụ chất lỏng quanh tim hoặc phổi"
+    },
+    {
+      "name": "Buồn ngủ quá mức, mệt mỏi, uể oải",
+      "description": "Cảm giác mệt mỏi, kiệt sức, buồn ngủ nhiều do tích tụ chất độc trong máu"
+    },
+    {
+      "name": "Kém ăn, buồn nôn dai dẳng, nôn",
+      "description": "Mất cảm giác thèm ăn, cảm giác buồn nôn kéo dài và thường xuyên nôn"
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân không chủ ý do chán ăn và rối loạn chuyển hóa"
+    },
+    {
+      "name": "Ngứa ngáy",
+      "description": "Ngứa da do tích tụ các chất thải trong máu"
+    },
+    {
+      "name": "Co rút cơ",
+      "description": "Co thắt cơ bắp đặc biệt là ở chân do rối loạn điện giải"
+    },
+    {
+      "name": "Co giật",
+      "description": "Co giật do tích tụ độc tố trong não"
+    },
+    {
+      "name": "Hôn mê",
+      "description": "Trạng thái mất ý thức do độc tố tích tụ ảnh hưởng đến não"
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Thiếu máu do thận không sản xuất đủ hormone erythropoietin để kích thích tạo hồng cầu"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Suy thận có thể xảy ra do nhiều nguyên nhân, nhưng phổ biến nhất là do bệnh tiểu đường không kiểm soát, cao huyết áp, viêm cầu thận, và lão hóa do tuổi tác.",
+    "related_factors": "Các yếu tố góp phần gây suy thận bao gồm: giảm lưu lượng máu đến thận (do bệnh tim, sẹo gan, bỏng nặng, phản ứng dị ứng, nhiễm trùng nặng), vấn đề đào thải nước tiểu (do sỏi thận, phì đại tuyến tiền liệt, cục máu đông, ung thư), hoặc các bệnh lý khác như hội chứng tan máu tăng urê máu, đa u tủy xương, xơ cứng bì.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao",
+    "Bệnh tiểu đường không kiểm soát",
+    "Cao huyết áp",
+    "Béo phì",
+    "Hút thuốc lá",
+    "Lạm dụng thuốc giảm đau",
+    "Tiền sử gia đình có người bị bệnh thận",
+    "Bệnh tim mạch",
+    "Dùng thuốc điều trị ung thư",
+    "Tiếp xúc với kim loại nặng"
+  ],
+  "complications": [
+    "Thiếu máu",
+    "Bệnh về xương và tăng phốt phát trong máu",
+    "Bệnh tim",
+    "Tăng kali máu",
+    "Tích tụ nước trong cơ thể",
+    "Suy giảm sức khỏe tinh thần",
+    "Suy dinh dưỡng",
+    "Tăng nguy cơ nhiễm trùng",
+    "Rối loạn thần kinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá các triệu chứng",
+      "Đánh giá tiền sử bệnh và tiền sử gia đình",
+      "Kiểm tra các yếu tố nguy cơ như tiểu đường, cao huyết áp",
+      "Đánh giá mức độ suy thận theo thang đo GFR (độ lọc cầu thận)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm thận",
+        "description": "Kiểm tra hình ảnh thận bằng sóng âm tần số cao để đánh giá kích thước, cấu trúc thận và phát hiện các bệnh lý khu trú"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Tạo ra các hình ảnh chi tiết bên trong cơ thể để đánh giá tổng quan về các nguyên nhân gây bệnh"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Đánh giá tình trạng suy thận của người bệnh qua các triệu chứng như tiểu ra máu, nhiễm trùng đường tiết niệu thường xuyên"
+      },
+      {
+        "name": "Xạ hình thận",
+        "description": "Kỹ thuật chẩn đoán cung cấp thông tin về hình thái, chức năng thận và khả năng bài tiết nước tiểu"
+      },
+      {
+        "name": "Sinh thiết thận",
+        "description": "Lấy một mẩu mô thận để đánh giá tình trạng thận và nguy cơ xuất hiện các bệnh lý ác tính"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá nồng độ ure, creatinine, điện giải và các chỉ số khác trong máu"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Phân tích nước tiểu để kiểm tra protein, hồng cầu và các tế bào khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Bệnh thận không có cách chữa khỏi hoàn toàn, nhưng nếu có phác đồ điều trị hiệu quả vẫn đảm bảo cho người bệnh một cuộc sống năng động, thoải mái và tiếp tục học tập, làm việc.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Chăm sóc hỗ trợ và điều trị nội khoa giúp kiểm soát các triệu chứng một cách hiệu quả, bao gồm dùng thuốc kiểm soát huyết áp, thuốc lợi tiểu, thuốc điều chỉnh các rối loạn chuyển hóa"
+      },
+      {
+        "name": "Lọc máu nhân tạo (chạy thận nhân tạo)",
+        "description": "Sử dụng máy ở bên ngoài cơ thể để làm sạch các chất thải trong máu thay cho chức năng của thận, thường thực hiện 3 lần/tuần tại các cơ sở y tế"
+      },
+      {
+        "name": "Thẩm phân phúc mạc",
+        "description": "Sử dụng niêm mạc vùng ổ bụng (phúc mạc) để lọc chất thải từ máu bằng dịch lọc đặc biệt, có thể thực hiện tại nhà hoặc nơi làm việc"
+      },
+      {
+        "name": "Cấy ghép thận",
+        "description": "Phẫu thuật thay thế quả thận đã mất chức năng bằng một quả thận khỏe mạnh từ người hiến tặng còn sống hoặc người đã chết não"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch lọc máu hoặc thẩm phân phúc mạc theo chỉ định của bác sĩ",
+      "Uống thuốc theo đúng đơn thuốc và liều lượng quy định",
+      "Theo dõi và kiểm soát chặt chẽ các bệnh đi kèm như tiểu đường, cao huyết áp",
+      "Hạn chế ăn thực phẩm giàu kali, phospho, muối và protein nếu được chỉ định",
+      "Kiểm soát lượng nước uống vào theo hướng dẫn của bác sĩ",
+      "Tập thể dục nhẹ nhàng phù hợp với tình trạng sức khỏe",
+      "Sau ghép thận: dùng thuốc ức chế miễn dịch theo chỉ định để tránh đào thải"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +155,61 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Quản lý các bệnh khác một cách hiệu quả, đặc biệt là tiểu đường và cao huyết áp",
+      "Thận trọng khi dùng thuốc không kê đơn, đặc biệt là các loại thuốc giảm đau",
+      "Duy trì cân nặng hợp lý để giảm nguy cơ mắc các bệnh liên quan đến thận",
+      "Xây dựng chế độ dinh dưỡng lành mạnh, ít đường, ít cholesterol, giàu chất xơ",
+      "Giảm lượng muối nạp vào cơ thể để kiểm soát huyết áp",
+      "Uống đủ nước để duy trì lưu lượng máu đến thận",
+      "Hạn chế rượu bia và không hút thuốc lá",
+      "Giảm căng thẳng thông qua các hoạt động thư giãn",
+      "Tập thể dục thường xuyên với cường độ phù hợp",
+      "Khám sức khỏe định kỳ để phát hiện sớm các vấn đề về thận"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Suy thận là bệnh gì và có nguy hiểm không?",
+      "answer": "Suy thận là tình trạng thận bị mất chức năng và không còn khả năng lọc các chất thải từ máu. Đây là giai đoạn cuối của bệnh thận mạn tính và rất nguy hiểm. Nếu không được chạy thận hoặc ghép thận, người bệnh sẽ khó duy trì được sự sống."
+    },
+    {
+      "question": "Có những dấu hiệu nào cảnh báo suy thận?",
+      "answer": "Các dấu hiệu cảnh báo suy thận bao gồm: giảm lượng nước tiểu, phù mắt cá chân và bàn chân, khó thở không rõ nguyên nhân, đau hoặc nặng ngực, buồn ngủ quá mức, mệt mỏi, kém ăn, buồn nôn, nôn, sụt cân, ngứa ngáy, co rút cơ, và trong trường hợp nặng có thể có co giật hoặc hôn mê."
+    },
+    {
+      "question": "Suy thận có chữa được không?",
+      "answer": "Bệnh thận không có cách chữa khỏi hoàn toàn, nhưng có thể kiểm soát bằng các phương pháp điều trị như lọc máu nhân tạo, thẩm phân phúc mạc hoặc ghép thận. Với phác đồ điều trị phù hợp, người bệnh vẫn có thể duy trì cuộc sống bình thường, làm việc và học tập."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa suy thận?",
+      "answer": "Để phòng ngừa suy thận, cần quản lý tốt các bệnh như tiểu đường và cao huyết áp, thận trọng khi dùng thuốc giảm đau, duy trì cân nặng hợp lý, ăn uống lành mạnh, giảm muối, uống đủ nước, hạn chế rượu bia, không hút thuốc, giảm căng thẳng, tập thể dục thường xuyên và khám sức khỏe định kỳ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như giảm lượng nước tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy thận", "Suy thận cấp", "Suy thận mạn"]
+    },
+    {
+      "question": "Tôi đang cảm thấy phù mắt cá chân và bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy thận", "Suy tim", "Xơ gan"]
+    },
+    {
+      "question": "Tôi hay bị khó thở không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Suy thận",
+        "Suy tim",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau ngực hoặc cảm thấy nặng ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy thận", "Bệnh tim mạch", "Viêm phổi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy buồn ngủ quá mức, mệt mỏi, uể oải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Suy thận", "Thiếu máu", "Rối loạn tuyến giáp"]
     }
   ]
 }

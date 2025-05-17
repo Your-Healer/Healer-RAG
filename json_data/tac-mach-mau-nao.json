@@ -1,39 +1,127 @@
 {
   "disease_id": "tac-mach-mau-nao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Tắc mạch máu não",
+  "disease_alternative_names": ["Tắc nghẽn mạch máu não", "Nhồi máu não"],
+  "disease_definition": "Tắc mạch máu não là tình trạng mạch máu cung cấp oxy và chất dinh dưỡng cho não bị bít tắc, dẫn đến nhồi máu não. Đây là nguyên nhân thường gặp nhất của đột quỵ, chiếm khoảng 85% các trường hợp. Tình trạng này cần được cấp cứu điều trị kịp thời vì có thể đe dọa đến tính mạng của người bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Yếu liệt nửa người",
+      "description": "Khó cử động tay chân, không thể giơ cùng lúc hai tay lên cao khỏi đầu"
+    },
+    {
+      "name": "Méo mặt",
+      "description": "Lệch mặt, cười méo miệng sang một bên"
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Đi loạng choạng không vững"
+    },
+    {
+      "name": "Đau đầu dữ dội",
+      "description": "Có thể đi kèm với chóng mặt, buồn nôn và nôn ói"
+    },
+    {
+      "name": "Rối loạn ngôn ngữ",
+      "description": "Khó nói, nói ngọng, nói đớt tiếng dù trước đây vẫn có thể nói chuyện như bình thường, hoặc không thể nói"
+    },
+    {
+      "name": "Rối loạn thị giác",
+      "description": "Nhìn đôi hay mờ mắt"
+    },
+    {
+      "name": "Co giật",
+      "description": "Cơ thể có các cơn co giật không kiểm soát"
+    },
+    {
+      "name": "Rối loạn ý thức",
+      "description": "Lơ mơ hay hôn mê"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Tắc mạch máu não xảy ra khi mạch máu não bị bít tắc, ngăn cản máu giàu oxy và chất dinh dưỡng đến được mô não. Các mạch máu tắc nghẽn do xơ vữa động mạch chiếm khoảng 65% các ca, do huyết khối chiếm 20-30%, và do các nguyên nhân khác như bệnh máu hay viêm nhiễm chiếm khoảng 5%.",
+    "related_factors": "Các mạch máu cung cấp máu cho não bị tích tụ các mảng bám là các vệt mỡ (chất béo và cholesterol) khiến động mạch hẹp lại và giảm lưu lượng máu đến não. Mảng bám ngày càng lớn có thể bít hoàn toàn lòng mạch hoặc mảng xơ vữa bị nứt vỡ tạo thành cục máu đông. Ngoài ra, mạch máu não cũng có thể bị bít tắc do huyết khối - cục máu đông từ nơi khác (như tim hay chân) theo dòng máu đến mạch máu nhỏ hơn ở não.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiểu đường (nguy cơ cao gấp 4 lần)",
+    "Tăng huyết áp",
+    "Bệnh động mạch cảnh",
+    "Rung nhĩ",
+    "Tăng mỡ máu (tăng cholesterol máu)",
+    "Lối sống kém lành mạnh (ít vận động, béo phì, ăn nhiều chất béo, nhiều muối)",
+    "Hút thuốc lá",
+    "Tuổi trên 55",
+    "Tiền sử tắc mạch máu não thoáng qua"
+  ],
+  "complications": [
+    "Liệt nửa người, không thể tự chăm sóc bản thân",
+    "Rối loạn ngôn ngữ (không nói được hoặc không hiểu được)",
+    "Chóng mặt, thất điều đi đứng không vững",
+    "Đại, tiểu tiện khó khăn",
+    "Hôn mê và nguy cơ tử vong cao"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Đánh giá các triệu chứng thần kinh",
+      "Sử dụng ống nghe để phát hiện tắc nghẽn ở động mạch cảnh ngoài sọ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Giúp phát hiện các tổn thương não do thiếu máu cục bộ"
+      },
+      {
+        "name": "Chụp MRI não",
+        "description": "Phát hiện các bất thường nhỏ nhất ở mạch máu não, đặc biệt hiệu quả với máy MRI 3 Tesla"
+      },
+      {
+        "name": "Siêu âm doppler xuyên sọ",
+        "description": "Đánh giá lưu lượng máu trong các mạch máu não"
+      },
+      {
+        "name": "Chụp mạch số hóa xóa nền (DSA)",
+        "description": "Cung cấp hình ảnh chi tiết của mạch máu não và các bất thường"
+      },
+      {
+        "name": "Siêu âm Doppler động mạch cảnh",
+        "description": "Đánh giá tình trạng tắc nghẽn hoặc hẹp của động mạch cảnh"
+      },
+      {
+        "name": "Chụp mạch máu cộng hưởng từ (MRA)",
+        "description": "Tạo hình ảnh mạch máu não mà không cần tiêm thuốc cản quang"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị tắc mạch máu não cần được thực hiện trong 'thời gian vàng' để đạt hiệu quả cao nhất. Mục tiêu là tái thông mạch máu, cung cấp oxy và chất dinh dưỡng cho não, ngăn ngừa tổn thương não không hồi phục.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng thuốc tan huyết khối",
+        "description": "Làm vỡ các cục máu đông trong lòng mạch, giúp dòng máu di chuyển dễ dàng cung cấp oxy và chất dinh dưỡng cho não, hiệu quả nhất khi được dùng trong 'thời gian vàng'"
+      },
+      {
+        "name": "Can thiệp mạch",
+        "description": "Thực hiện can thiệp nội mạch để lấy cục máu đông, mảng xơ vữa hoặc nút tắc đoạn mạch bị phình vỡ, ít xâm lấn và hiệu quả cao"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ nội mạc động mạch cảnh",
+        "description": "Áp dụng khi động mạch cảnh bị thu hẹp hoặc tắc nghẽn nghiêm trọng để phòng ngừa đột quỵ tái phát"
+      },
+      {
+        "name": "Nong mạch và đặt stent",
+        "description": "Phẫu thuật giúp mở rộng lòng mạch bị hẹp và đặt stent để duy trì lưu thông máu"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thay đổi chế độ sinh hoạt hàng ngày",
+      "Xây dựng chế độ ăn lành mạnh, ít chất béo",
+      "Tập thể dục điều độ",
+      "Ngưng hút thuốc",
+      "Hạn chế uống rượu bia",
+      "Tuân thủ điều trị nghiêm ngặt với các bệnh nền như huyết áp cao, rung nhĩ, tăng cholesterol",
+      "Theo dõi sức khỏe thường xuyên sau điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +129,67 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá chủ động và tránh xa khói thuốc",
+      "Thường xuyên tập thể dục thể thao, tối thiểu 3 buổi/tuần, mỗi buổi 20-30 phút",
+      "Xây dựng lối sống lành mạnh, hạn chế căng thẳng",
+      "Duy trì chế độ ăn uống ít chất béo và dầu mỡ, giảm đường và muối",
+      "Ăn nhiều rau củ quả và trái cây",
+      "Hạn chế sản phẩm chế biến sẵn",
+      "Sử dụng thuốc giảm cholesterol và kiểm soát huyết áp theo chỉ định của bác sĩ",
+      "Thăm khám, kiểm tra sức khỏe định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tắc mạch máu não là gì?",
+      "answer": "Tắc mạch máu não là tình trạng mạch máu cung cấp oxy và chất dinh dưỡng cho não bị bít tắc, dẫn đến nhồi máu não. Đây là nguyên nhân thường gặp nhất của đột quỵ, chiếm khoảng 85% các trường hợp và cần được cấp cứu điều trị kịp thời."
+    },
+    {
+      "question": "Dấu hiệu nhận biết tắc mạch máu não là gì?",
+      "answer": "Các dấu hiệu nhận biết tắc mạch máu não bao gồm: yếu liệt nửa người, khó cử động tay chân; méo mặt, lệch mặt; mất thăng bằng, đi loạng choạng; đau đầu dữ dội, chóng mặt; khó nói, nói ngọng; nhìn đôi hay mờ mắt; co giật; và lơ mơ hay hôn mê."
+    },
+    {
+      "question": "Nguyên nhân nào gây tắc mạch máu não?",
+      "answer": "Nguyên nhân chính gây tắc mạch máu não bao gồm xơ vữa động mạch (chiếm 65% các ca), huyết khối (20-30%), và các nguyên nhân khác như bệnh máu hay viêm nhiễm (khoảng 5%). Các yếu tố nguy cơ bao gồm tiểu đường, tăng huyết áp, bệnh động mạch cảnh, rung nhĩ, tăng mỡ máu, lối sống không lành mạnh, hút thuốc lá và tuổi tác."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa tắc mạch máu não?",
+      "answer": "Để phòng ngừa tắc mạch máu não, cần không hút thuốc lá, tập thể dục thường xuyên, xây dựng lối sống lành mạnh, duy trì chế độ ăn uống hợp lý, giảm chất béo và muối, ăn nhiều rau củ quả, sử dụng thuốc giảm cholesterol và kiểm soát huyết áp theo chỉ định, và thăm khám sức khỏe định kỳ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang cảm thấy yếu liệt nửa người, khó cử động tay chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tắc mạch máu não", "Đột quỵ", "Xuất huyết não"]
+    },
+    {
+      "question": "Tôi đang bị méo miệng, cười bị lệch sang một bên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Tắc mạch máu não", "Liệt mặt", "Đột quỵ"]
+    },
+    {
+      "question": "Tôi hay bị đau đầu dữ dội, chóng mặt, buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tắc mạch máu não",
+        "Xuất huyết não",
+        "Viêm màng não"
+      ]
+    },
+    {
+      "question": "Tôi đang bị nói ngọng, nói đớt, khó khăn trong việc phát âm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tắc mạch máu não",
+        "Đột quỵ",
+        "Rối loạn thần kinh trung ương"
+      ]
+    },
+    {
+      "question": "Tôi đang bị nhìn mờ, nhìn đôi, mắt nhìn không rõ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Tắc mạch máu não",
+        "Tăng nhãn áp",
+        "Đục thủy tinh thể"
+      ]
     }
   ]
 }

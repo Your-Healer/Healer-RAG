@@ -1,39 +1,104 @@
 {
   "disease_id": "polyp-truc-trang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Polyp trực tràng",
+  "disease_alternative_names": [
+    "Polyp đại trực tràng",
+    "Polyp hậu môn",
+    "Rectal polyp"
+  ],
+  "disease_definition": "Polyp trực tràng là tình trạng xuất hiện một hoặc nhiều khối u trong lòng trực tràng, thường ở vị trí phía cuối ruột già. Khối mô polyp thường có hình dáng cây nấm bám vào màng nhầy trực tràng bằng một đoạn \"cuống\". Polyp đại trực tràng có 2 dạng: không cuống (polyp phẳng) và có cuống, trong đó loại không cuống có độ phổ biến hơn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đi ngoài ra máu",
+      "description": "Người bệnh có thể xuất hiện máu khi đi đại tiện, thường phát hiện khi tiến triển đến giai đoạn muộn."
+    },
+    {
+      "name": "Sa ra ngoài khi đi tiêu",
+      "description": "Polyp có thể lòi ra ngoài khi đi đại tiện, đặc biệt khi bệnh đã phát triển đến giai đoạn muộn."
+    },
+    {
+      "name": "Tắc ruột",
+      "description": "Trong trường hợp nặng, polyp có thể gây tắc nghẽn đường ruột, gây ra các triệu chứng nghiêm trọng."
+    },
+    {
+      "name": "Không có triệu chứng",
+      "description": "Phần lớn polyp trực tràng không có triệu chứng, điều này gây không ít khó khăn cho việc nhận biết bệnh sớm. Người bệnh chỉ thường phát hiện khi đi soi đại tràng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Polyp đại trực tràng hình thành do sự tăng sinh quá mức/bất thường của niêm mạc, tạo thành khối tế bào nhỏ trên niêm mạc đại tràng.",
+    "related_factors": "Nguyên nhân cụ thể hình thành nên polyp trực tràng vẫn chưa được biết rõ. Phần lớn các polyp đại trực tràng là vô hại, nhưng theo thời gian, một số polyp có thể phát triển thành ung thư.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người trên 50 tuổi",
+    "Người bị thừa cân, béo phì",
+    "Có tiền sử gia đình mắc polyp hoặc ung thư đại trực tràng",
+    "Từng có polyp trong quá khứ",
+    "Phụ nữ bị ung thư buồng trứng hoặc ung thư tử cung trước 50 tuổi",
+    "Có tình trạng viêm ảnh hưởng đến đại tràng, như bệnh Crohn hoặc viêm loét đại tràng",
+    "Mắc bệnh tiểu đường",
+    "Mắc chứng rối loạn di truyền như hội chứng Lynch hoặc hội chứng Gardner",
+    "Hút thuốc",
+    "Uống rượu thường xuyên",
+    "Lối sống ít vận động",
+    "Chế độ ăn nhiều chất béo, dầu mỡ; ít chất xơ",
+    "Stress kéo dài"
+  ],
+  "complications": [
+    "Nguy cơ phát triển thành ung thư đại trực tràng",
+    "Chảy máu trực tràng",
+    "Tắc nghẽn đường ruột",
+    "Tái phát polyp sau điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và thu thập bệnh sử",
+      "Đánh giá các triệu chứng liên quan đến đường tiêu hóa"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi đại trực tràng",
+        "description": "Phương pháp chẩn đoán chính, mang độ chính xác cao đối với polyp trực tràng. Nội soi giúp xác định các tổn thương, có thể thực hiện bằng ống soi cứng hoặc mềm và lấy mô mẫu để sinh thiết."
+      },
+      {
+        "name": "Xét nghiệm máu trong phân",
+        "description": "Giúp phát hiện máu trong phân mà không thể nhìn thấy bằng mắt thường, đặc biệt hữu ích trong giai đoạn đầu khi polyp có thể gây chảy máu nhẹ."
+      },
+      {
+        "name": "Chụp MRI (cộng hưởng từ)",
+        "description": "Áp dụng với những bệnh nhân không thể nội soi, giúp xác định mức độ ung thư trực tràng sau khi đã có kết quả chẩn đoán."
+      },
+      {
+        "name": "Chụp CT (cắt lớp)",
+        "description": "Tùy theo chỉ định của bác sĩ, phương pháp này được áp dụng với những bệnh nhân không thể nội soi để xác định tình trạng bệnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Cách tốt nhất để điều trị polyp đại tràng là loại bỏ chúng. Sau khi loại bỏ polyp, người bệnh vẫn cần nội soi trực tràng định kỳ để phát hiện sớm nếu có polyp tái phát.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cắt bỏ polyp qua nội soi",
+        "description": "Đây là phương pháp phổ biến nhất, bác sĩ có thể cắt bỏ hoàn toàn polyp trong quá trình nội soi. Các polyp sau đó được gửi đi làm xét nghiệm mô bệnh học để xác định loại polyp và kiểm tra tế bào ung thư."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Người bệnh có thể cần phẫu thuật để loại bỏ polyp nếu đó là loại polyp lớn và không thể cắt bỏ khi nội soi."
+      },
+      {
+        "name": "Điều trị phòng ngừa tái phát",
+        "description": "Aspirin và thuốc ức chế COX-2 có thể được dùng để ngăn ngừa hình thành polyp mới ở những người đã từng bị, nhưng cần tuân theo chỉ định của bác sĩ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nội soi định kỳ để theo dõi và phát hiện sớm polyp tái phát",
+      "Thời gian tái khám định kỳ tùy thuộc vào số lượng, kích thước và loại polyp đã cắt bỏ trước đó",
+      "Duy trì chế độ ăn giàu chất xơ, nhiều rau xanh và trái cây",
+      "Hạn chế bia rượu, thuốc lá",
+      "Tập thể dục đều đặn",
+      "Giảm stress"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +106,67 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tăng cường chất xơ thông qua rau xanh, trái cây, các loại hạt trong chế độ ăn uống",
+      "Hạn chế bia rượu, thuốc lá",
+      "Bổ sung vitamin D, canxi theo chỉ định của bác sĩ",
+      "Tập thể dục thể thao đều đặn ít nhất 30 phút mỗi ngày",
+      "Giữ tinh thần thoải mái, không nên chịu áp lực/stress trong thời gian dài",
+      "Sinh hoạt theo giờ giấc ổn định để góp phần tránh gây rối loạn tiêu hóa",
+      "Thăm khám định kỳ nếu gia đình có tiền sử bị polyp trực tràng",
+      "Xét nghiệm sàng lọc thường xuyên, đặc biệt là sau tuổi 50"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Polyp trực tràng có nguy hiểm không?",
+      "answer": "Mặc dù đa số polyp trực tràng là lành tính nhưng vẫn có một số trường hợp có khả năng trở thành ác tính (ung thư). Một người càng xuất hiện nhiều polyp trực tràng hoặc có polyp với kích thước lớn càng cần phải cảnh giác, không được chủ quan, vì có thể diễn biến thành ung thư bất cứ lúc nào. Việc phát hiện và điều trị sớm giúp giảm thiểu đáng kể nguy cơ tiến triển thành ung thư."
+    },
+    {
+      "question": "Có những loại polyp trực tràng nào?",
+      "answer": "Có 2 dạng polyp chính với mức độ nguy hiểm khác nhau: polyp tuyến (polyp phát triển bất thường) và polyp không phải dạng tuyến (không phát triển bất thường). Các loại polyp phổ biến bao gồm: U tuyến ống (chiếm khoảng 70% trường hợp), Polyp tăng sản (nguy cơ ung thư thấp), Polyp răng cưa (nguy cơ tiền ung thư), Polyp viêm (thường xảy ra ở người bệnh bị viêm ruột), và U tuyến ống nhánh (khoảng 5-15% trường hợp)."
+    },
+    {
+      "question": "Làm thế nào để điều trị polyp trực tràng?",
+      "answer": "Cách tốt nhất để điều trị polyp đại tràng là loại bỏ chúng. Bác sĩ có thể cắt bỏ hoàn toàn polyp trong quá trình nội soi, đây là thủ thuật xâm lấn tối thiểu. Các polyp sau đó được gửi đi làm xét nghiệm mô bệnh học. Trong một số trường hợp, người bệnh có thể cần phẫu thuật để loại bỏ polyp lớn không thể cắt bỏ khi nội soi. Sau điều trị, người bệnh cần nội soi trực tràng định kỳ để phát hiện sớm nếu có polyp tái phát."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đi ngoài ra máu, sa ra ngoài khi đi tiêu và tắc ruột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["polyp-truc-trang", "ung-thu-truc-trang", "tri-noi"]
+    },
+    {
+      "question": "Tôi lo lắng vì mình có nguy cơ cao mắc polyp trực tràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-truc-trang",
+        "viem-loet-dai-trang",
+        "hoi-chung-ruot-kich-thich"
+      ]
+    },
+    {
+      "question": "Tôi muốn biết cách phát hiện sớm polyp trực tràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-truc-trang",
+        "ung-thu-truc-trang",
+        "viem-dai-trang"
+      ]
+    },
+    {
+      "question": "Tôi lo lắng về nguy cơ ung thư từ polyp trực tràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-truc-trang",
+        "ung-thu-dai-trang",
+        "ung-thu-truc-trang"
+      ]
+    },
+    {
+      "question": "Tôi cần lưu ý gì để phòng ngừa polyp trực tràng? Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "polyp-truc-trang",
+        "viem-dai-trang",
+        "hoi-chung-dai-trang-kich-thich"
+      ]
     }
   ]
 }

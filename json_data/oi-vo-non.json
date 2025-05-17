@@ -1,39 +1,106 @@
 {
   "disease_id": "oi-vo-non",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ối vỡ non",
+  "disease_alternative_names": [
+    "Vỡ ối sớm",
+    "Vỡ màng ối trước sinh",
+    "Premature rupture of membranes",
+    "PROM"
+  ],
+  "disease_definition": "Ối vỡ non là tình trạng màng ối bị rách trước khi thai đủ tháng (37 tuần), làm cho nước ối rò rỉ ra bên ngoài thông qua cổ tử cung và âm đạo. Đây là một trong những tai biến sản khoa nguy hiểm, gây ảnh hưởng không nhỏ đến sức khỏe và tính mạng của thai nhi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Rỉ nước từ âm đạo",
+      "description": "Nước ối có thể rỉ một ít hoặc chảy ồ ạt. Thường nước ối chảy chậm hơn so với són tiểu, không màu và không mùi."
+    },
+    {
+      "name": "Rỉ ối kèm xuất huyết",
+      "description": "Trong trường hợp nghiêm trọng, nước ối chảy ồ ạt có thể kèm theo xuất huyết, đây là dấu hiệu nguy hiểm cần can thiệp y tế ngay lập tức."
+    },
+    {
+      "name": "Rỉ ối có màu hoặc mùi bất thường",
+      "description": "Nếu nước ối có mùi hoặc màu lạ như vàng, xanh, đây có thể là dấu hiệu của nhiễm trùng ối hoặc có lẫn phân su."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ối vỡ non xảy ra khi màng ối bị rách trước khi thai đủ tháng (37 tuần), khiến lớp bảo vệ thai nhi bị suy yếu và nước ối rò rỉ ra ngoài.",
+    "related_factors": "Có nhiều nguyên nhân khiến sản phụ bị vỡ ối, bao gồm nhiễm trùng đường sinh dục dưới, bệnh lý lây truyền qua đường tình dục, ngôi thai bất thường, hút thuốc lá, cơ địa cổ tử cung ngắn, hoặc thể trạng sản phụ kém do thiếu dinh dưỡng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm trùng đường sinh dục dưới như viêm cổ tử cung, viêm âm đạo, âm hộ",
+    "Bệnh lý lây truyền qua đường tình dục như giang mai, lậu, herpes sinh dục",
+    "Ngôi thai bất thường như ngôi ngang, ngôi mông",
+    "Đa thai, đa ối",
+    "Khung chậu hẹp",
+    "Nhau tiền đạo",
+    "Hút thuốc lá",
+    "Cổ tử cung ngắn, hở eo cổ tử cung",
+    "Thể trạng sản phụ kém do thiếu dinh dưỡng",
+    "Chấn thương"
+  ],
+  "complications": [
+    "Nhiễm trùng cho cả mẹ và bé",
+    "Thai nhi bị suy hô hấp khi chào đời",
+    "Sa dây rốn, thậm chí rụng rốn",
+    "Sinh non (trước 37 tuần)",
+    "Bệnh lý hô hấp ở trẻ",
+    "Bệnh lý thị giác ở trẻ",
+    "Nhiễm trùng máu, viêm phúc mạc ở mẹ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng kiểm tra cổ tử cung",
+      "Xác định xem hiện tượng rỉ nước có phải là rỉ ối không",
+      "Kiểm tra xem nước ối có bị nhiễm trùng không",
+      "Đánh giá xem sản phụ đã khởi phát chuyển dạ hay chưa"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm thai",
+        "description": "Để xác định chính xác lượng ối còn trong buồng ối, tình trạng thai nhi"
+      },
+      {
+        "name": "Monitor sản khoa",
+        "description": "Theo dõi tim thai và cơn gò tử cung, được thực hiện 1-3 lần/ngày"
+      },
+      {
+        "name": "Cấy dịch",
+        "description": "Lấy mẫu dịch từ cổ tử cung, âm đạo, hậu môn để xác định tình trạng nhiễm trùng"
+      },
+      {
+        "name": "Kiểm tra nhiệt độ cơ thể",
+        "description": "Đo nhiệt độ mỗi 4-8 giờ, nhiệt độ trên 37°C có thể là dấu hiệu nhiễm trùng"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy thuộc vào tuổi thai nhi khi mẹ bị vỡ ối mà bác sĩ sản khoa sẽ có hướng can thiệp xử trí phù hợp. Với thai nhi đủ tháng, sẽ tiến hành chấm dứt thai kỳ ngay. Với ối vỡ non khi tuổi thai còn nhỏ, cần chăm sóc và nuôi dưỡng thai.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xử trí tuổi thai 22-31 tuần",
+        "description": "Dùng thuốc trưởng thành phổi, quản lý nhiễm khuẩn bằng kháng sinh phổ rộng, theo dõi monitor sản khoa, siêu âm đánh giá thai, rau và nước ối, sử dụng thuốc chống co thắt khi có cơn gò chuyển dạ."
+      },
+      {
+        "name": "Xử trí tuổi thai 32-33 tuần",
+        "description": "Sử dụng corticoid kích thích trưởng thành phổi, theo dõi monitor tim thai, kiểm soát nhiễm khuẩn, sử dụng thuốc giảm co, chỉ định khởi phát chuyển dạ khi có đủ cơ sở trưởng thành phổi."
+      },
+      {
+        "name": "Xử trí tuổi thai 34-36 tuần",
+        "description": "Theo dõi thai nhi qua siêu âm và monitor sản khoa, không dùng corticoid, tùy tình trạng mà chờ chuyển dạ tự nhiên, khởi phát chuyển dạ hoặc mổ lấy thai."
+      },
+      {
+        "name": "Xử trí tuổi thai trên 37 tuần",
+        "description": "Chấm dứt thai kỳ trong vòng 12-24 giờ sau vỡ ối để hạn chế biến chứng, khởi phát chuyển dạ sau 12 giờ hoặc sớm hơn nếu thuận lợi."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đến ngay cơ sở y tế để được kiểm tra khi nhận thấy dấu hiệu vỡ ối",
+      "Theo dõi nhiệt độ cơ thể mỗi 4-8 giờ, quay lại ngay cơ sở y tế nếu nhiệt độ trên 37°C",
+      "Theo dõi màu sắc nước ối bằng miếng băng vệ sinh, chú ý thay đổi về màu sắc và mùi",
+      "Chuẩn bị tinh thần cho việc sinh sớm nếu cần thiết",
+      "Tìm hiểu về cách chăm sóc sức khỏe sau mổ và nuôi trẻ sinh non"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +108,50 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiểm soát và điều trị hiệu quả các bệnh lý nhiễm trùng đường sinh dục dưới trong quá trình mang thai",
+      "Thiết lập chế độ dinh dưỡng khoa học, bổ sung đầy đủ các chất dinh dưỡng cần thiết",
+      "Có chế độ nghỉ ngơi hợp lý",
+      "Duy trì lối sống lành mạnh, không hút thuốc lá",
+      "Chọn lựa cơ sở y tế có đơn vị sản khoa và đơn vị sơ sinh mạnh để đảm bảo chăm sóc tốt nhất",
+      "Không tự ý mua và sử dụng thuốc kháng sinh khi chưa có chỉ định của bác sĩ",
+      "Khám thai và siêu âm định kỳ theo chỉ định của bác sĩ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ối vỡ non có nguy hiểm không?",
+      "answer": "Ối vỡ non là một trong những tai biến sản khoa nguy hiểm, gây ảnh hưởng không nhỏ đến sức khỏe và tính mạng của thai nhi. Biến chứng chính là nhiễm trùng và sinh non. Khi bị nhiễm trùng, thai nhi có nguy cơ bị suy hô hấp khi chào đời, sa dây rốn, thậm chí rụng rốn. Sản phụ có thể bị nhiễm trùng máu, viêm phúc mạc. Sinh non (trước 37 tuần) có thể gây nhiều ảnh hưởng nghiêm trọng đến sức khỏe trẻ như bệnh lý hô hấp, thị giác, và nhiễm trùng."
+    },
+    {
+      "question": "Khi nào cần đến bệnh viện khi nghi ngờ vỡ ối?",
+      "answer": "Ngay khi nhận thấy các dấu hiệu cảnh báo vỡ ối như rỉ nước từ âm đạo (nước ối không màu và không mùi), nước ối chảy ồ ạt kèm xuất huyết, hoặc rỉ ối có màu hoặc có mùi bất thường, sản phụ cần đến ngay cơ sở y tế để được thăm khám và can thiệp kịp thời. Việc chậm trễ có thể dẫn đến nhiễm trùng và các biến chứng nguy hiểm khác."
+    },
+    {
+      "question": "Phòng tránh ối vỡ non bằng cách nào?",
+      "answer": "Sản phụ có thể phòng ngừa ối vỡ non bằng cách: kiểm soát và điều trị hiệu quả các bệnh lý nhiễm trùng đường sinh dục dưới; thiết lập chế độ dinh dưỡng khoa học, bổ sung đầy đủ các chất dinh dưỡng cần thiết; có chế độ nghỉ ngơi hợp lý; duy trì lối sống lành mạnh, không hút thuốc lá; khám thai và siêu âm định kỳ theo chỉ định; và không tự ý mua và sử dụng thuốc kháng sinh khi chưa có chỉ định của bác sĩ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như rỉ nước từ âm đạo, không màu và không mùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["oi-vo-non", "son-tieu", "viem-am-dao"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nước ối chảy ồ ạt và kèm theo xuất huyết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["oi-vo-non", "nhau-bong-non", "nhau-tien-dao"]
+    },
+    {
+      "question": "Tôi hay bị rỉ nước ối có màu vàng và có mùi lạ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["oi-vo-non", "viem-mang-oi", "nhiem-trung-oi"]
+    },
+    {
+      "question": "Tôi nhận thấy nước ối rỉ ra chậm hơn so với són tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["oi-vo-non", "roi-dich-am-dao", "viem-am-dao"]
+    },
+    {
+      "question": "Tôi lo lắng về khả năng sinh non khi bị ối vỡ non. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["oi-vo-non", "sinh-non", "chuyen-da-som"]
     }
   ]
 }
