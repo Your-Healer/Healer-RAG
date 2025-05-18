@@ -1,39 +1,164 @@
 {
   "disease_id": "ung-thu-than",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư thận",
+  "disease_alternative_names": ["U thận ác tính", "Carcinoma tế bào thận"],
+  "disease_definition": "Ung thư thận là sự phát triển ác tính các tế bào, hình thành một khối u trong thận. Cần lưu ý rằng không phải bất kỳ một khối u thận nào cũng ác tính, một số trường hợp có thể là u lành tính, không phải ung thư.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau một bên cơ thể",
+      "description": "Cảm giác đau ở vùng lưng hoặc bụng một bên, nơi có vị trí thận bị ung thư"
+    },
+    {
+      "name": "Khối u ở bụng",
+      "description": "Xuất hiện khối u có thể sờ thấy ở vùng bụng"
+    },
+    {
+      "name": "Tiểu ra máu",
+      "description": "Nước tiểu có màu đỏ hoặc hồng do có máu"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài, không thuyên giảm sau khi nghỉ ngơi"
+    },
+    {
+      "name": "Sụt cân không rõ nguyên nhân",
+      "description": "Giảm cân mà không có lý do rõ ràng như thay đổi chế độ ăn uống hoặc tập luyện"
+    },
+    {
+      "name": "Đau xương",
+      "description": "Đau ở vùng xương, có thể là dấu hiệu của ung thư đã di căn đến xương"
+    },
+    {
+      "name": "Ho dai dẳng",
+      "description": "Ho kéo dài không đáp ứng với điều trị thông thường, có thể là dấu hiệu của ung thư đã di căn đến phổi"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt kéo dài không rõ nguyên nhân"
+    },
+    {
+      "name": "Huyết áp cao",
+      "description": "Tăng huyết áp do ảnh hưởng của khối u đến chức năng thận"
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Giảm số lượng hồng cầu trong máu, gây mệt mỏi và xanh xao"
+    },
+    {
+      "name": "Giảm khối lượng cơ",
+      "description": "Giảm sút khối lượng cơ bắp trên cơ thể"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn uống"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân của ung thư thận thường khó xác định chính xác. Ung thư thận hình thành khi DNA của một số tế bào thận bị đột biến, khiến các tế bào phát triển và phân chia nhanh chóng, tạo thành khối u ác tính.",
+    "related_factors": "Mặc dù nguyên nhân chính xác chưa được biết rõ, các yếu tố nguy cơ như hút thuốc và béo phì đã được xác định có liên quan đến sự phát triển của ung thư thận.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá",
+    "Béo phì",
+    "Cao huyết áp",
+    "Tiền sử gia đình có người bị ung thư thận",
+    "Tuổi cao (thường gặp ở độ tuổi 60-70)",
+    "Giới tính nam (nam giới có tỷ lệ mắc cao hơn nữ)",
+    "Tiếp xúc với một số hóa chất độc hại",
+    "Bệnh thận mạn tính",
+    "Suy thận đang điều trị lọc máu"
+  ],
+  "complications": [
+    "Di căn đến phổi",
+    "Di căn đến xương",
+    "Di căn đến não",
+    "Di căn đến các hạch bạch huyết",
+    "Tổn thương chức năng thận",
+    "Hội chứng cận ung thư (thay đổi men gan và tiểu cầu trong máu)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng tổng quát",
+      "Khai thác tiền sử bệnh",
+      "Khai thác tiền sử gia đình",
+      "Đánh giá các triệu chứng đang xuất hiện"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm bụng",
+        "description": "Phương pháp hình ảnh không xâm lấn sử dụng sóng âm để phát hiện các bất thường trong thận"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT) có tiêm chất tương phản",
+        "description": "Phương pháp chẩn đoán hình ảnh chi tiết giúp xác định vị trí, kích thước khối u và đánh giá liệu ung thư đã lan đến các mô xung quanh, hạch bạch huyết hay các cơ quan khác"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Sử dụng từ trường và sóng vô tuyến để tạo hình ảnh chi tiết của các cơ quan nội tạng, thường được sử dụng khi bệnh nhân bị dị ứng với chất tương phản CT"
+      },
+      {
+        "name": "Sinh thiết khối u thận",
+        "description": "Lấy một mẫu mô từ khối u để phân tích dưới kính hiển vi, giúp xác định chính xác loại ung thư. Thường chỉ thực hiện khi kết quả hình ảnh không rõ ràng hoặc với khối u nhỏ"
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Kiểm tra xem ung thư đã di căn đến phổi chưa"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá chức năng thận, tình trạng thiếu máu, thay đổi men gan và tiểu cầu trong máu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị ung thư thận phụ thuộc vào nhiều yếu tố như giai đoạn bệnh, loại khối u, mức độ ác tính của tế bào khối u và tình trạng sức khỏe tổng thể của bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cắt bỏ một phần thận (Phẫu thuật bảo tồn thận)",
+        "description": "Phẫu thuật loại bỏ khối u và một phần nhỏ mô thận xung quanh, giữ lại phần lớn thận khỏe mạnh. Thường áp dụng cho khối u nhỏ hoặc khi cần bảo tồn chức năng thận"
+      },
+      {
+        "name": "Cắt thận triệt căn",
+        "description": "Phẫu thuật loại bỏ toàn bộ thận bị ung thư, đôi khi cả mô xung quanh, hạch bạch huyết và tuyến thượng thận. Thường áp dụng cho khối u lớn hoặc ung thư đã lan rộng"
+      },
+      {
+        "name": "Theo dõi chủ động",
+        "description": "Theo dõi chặt chẽ khối u nhỏ bằng các xét nghiệm hình ảnh định kỳ thay vì can thiệp ngay lập tức. Áp dụng cho khối u nhỏ, phát triển chậm, đặc biệt ở người lớn tuổi"
+      },
+      {
+        "name": "Hủy u bằng sóng vô tuyến (RFA)",
+        "description": "Sử dụng sóng vô tuyến tần số cao để tạo nhiệt, tiêu diệt tế bào ung thư. Thường dùng cho khối u nhỏ ở bệnh nhân không thể phẫu thuật"
+      },
+      {
+        "name": "Liệu pháp áp lạnh (Cryotherapy)",
+        "description": "Sử dụng nhiệt độ cực thấp để đóng băng và phá hủy các tế bào ung thư. Thường dùng cho khối u nhỏ ở bệnh nhân không thể phẫu thuật"
+      },
+      {
+        "name": "Tắc mạch (Embolization)",
+        "description": "Chặn nguồn cung cấp máu đến khối u, làm khối u co lại. Thường dùng trước phẫu thuật hoặc để giảm triệu chứng trong ung thư tiến triển"
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Sử dụng thuốc tấn công vào các đặc điểm cụ thể của tế bào ung thư, thường được sử dụng trong ung thư thận di căn"
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Kích thích hệ thống miễn dịch của cơ thể tấn công tế bào ung thư, sử dụng trong một số trường hợp ung thư thận di căn"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng bức xạ năng lượng cao để tiêu diệt tế bào ung thư, thường dùng để điều trị các triệu chứng của ung thư di căn, đặc biệt là đau do di căn xương"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch tái khám và theo dõi sau điều trị",
+      "Bỏ hút thuốc để giảm nguy cơ tái phát",
+      "Duy trì chế độ ăn uống lành mạnh và cân nặng hợp lý",
+      "Tập thể dục đều đặn theo khả năng",
+      "Theo dõi chức năng thận còn lại nếu đã phẫu thuật cắt thận",
+      "Báo cáo ngay cho bác sĩ nếu có triệu chứng mới xuất hiện"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +166,54 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá",
+      "Duy trì cân nặng hợp lý",
+      "Kiểm soát huyết áp",
+      "Ăn uống lành mạnh với nhiều rau quả",
+      "Hạn chế tiếp xúc với hóa chất độc hại",
+      "Tập thể dục đều đặn",
+      "Khám sức khỏe định kỳ, đặc biệt nếu có tiền sử gia đình mắc ung thư thận"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư thận có phổ biến không?",
+      "answer": "Ung thư thận chiếm tỷ lệ thấp, khoảng 2% tổng số ung thư. Nam giới có tỷ lệ mắc bệnh ung thư thận cao hơn phụ nữ. Hầu hết người bệnh được chẩn đoán trong độ tuổi 60 và 70. Trong hai mươi năm qua, số trường hợp ung thư thận tăng nhẹ, nhưng tỷ lệ sống sót cũng đã tăng lên."
+    },
+    {
+      "question": "Làm thế nào để phát hiện ung thư thận sớm?",
+      "answer": "Trong hầu hết các trường hợp, ung thư thận thường không có triệu chứng và được phát hiện tình cờ qua siêu âm kiểm tra sức khỏe. Nhờ những tiến bộ về hình ảnh học như siêu âm và công nghệ chụp cắt lớp vi tính hỗ trợ chẩn đoán chính xác, ngày càng có nhiều trường hợp ung thư thận được phát hiện ở giai đoạn sớm."
+    },
+    {
+      "question": "Khi nào cần sinh thiết khối u thận?",
+      "answer": "Sinh thiết thận không phải là phương pháp tiêu chuẩn trong chẩn đoán ung thư thận. Người bệnh có thể cần sinh thiết trong trường hợp: kết quả hình ảnh học không rõ ràng, có một khối u nhỏ có thể theo dõi mà chưa cần phẫu thuật, hoặc có một khối u nhỏ có thể được điều trị bằng cách hủy u với sóng vô tuyến hoặc liệu pháp áp lạnh."
+    },
+    {
+      "question": "Ung thư thận có thể chữa khỏi không?",
+      "answer": "Khả năng chữa khỏi phụ thuộc vào giai đoạn bệnh khi phát hiện. Nếu ung thư chỉ giới hạn ở thận (ung thư thận khu trú), tiên lượng rất tốt sau phẫu thuật. Nếu ung thư đã di căn, bệnh thường không thể chữa khỏi hoàn toàn, nhưng các phương pháp điều trị hiện đại có thể giúp kéo dài thời gian sống và cải thiện chất lượng cuộc sống."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau một bên cơ thể, có khối u ở bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư thận", "Sỏi thận", "U thận lành tính"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sụt cân không rõ nguyên nhân và tiểu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư thận", "Viêm cầu thận", "Lao thận"]
+    },
+    {
+      "question": "Tôi hay bị đau xương, ho dai dẳng và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư thận di căn", "Lao phổi", "Ung thư phổi"]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như huyết áp cao, thiếu máu, giảm khối lượng cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư thận", "Bệnh thận mạn tính", "Suy thận"]
+    },
+    {
+      "question": "Tôi hay bị chán ăn, thay đổi men gan và tiểu cầu trong máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư thận", "Viêm gan", "Bệnh gan mạn tính"]
     }
   ]
 }

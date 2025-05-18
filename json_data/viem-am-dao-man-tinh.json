@@ -1,58 +1,203 @@
 {
   "disease_id": "viem-am-dao-man-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm âm đạo mạn tính",
+  "disease_alternative_names": [
+    "Viêm âm đạo do vi khuẩn mạn tính",
+    "Viêm âm đạo do nấm Candida mạn tính",
+    "Viêm âm đạo do Trichomonas mạn tính"
+  ],
+  "disease_definition": "Viêm âm đạo mạn tính là tình trạng viêm nhiễm xảy ra ở âm đạo ở người phụ nữ, gây nên hiện tượng ngứa rát, tiết dịch bất thường ở vùng kín. Đây là tình trạng viêm nhiễm âm đạo kéo dài dai dẳng, tái đi tái lại nhiều lần do không được điều trị kịp thời hoặc điều trị không đúng cách.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khí hư bất thường",
+      "description": "Âm đạo tiết khí hư nhiều hơn, khí hư có màu trắng như bột kèm ngứa ngáy, có mùi hôi khó chịu. Màu sắc và đặc điểm khí hư thay đổi tùy theo tác nhân gây bệnh."
+    },
+    {
+      "name": "Khí hư do vi khuẩn",
+      "description": "Khí hư thường có màu trắng xám, có mùi hôi tanh khi bị viêm âm đạo do vi khuẩn."
+    },
+    {
+      "name": "Khí hư do nấm Candida",
+      "description": "Khí hư màu trắng và dày như phô mai, hoặc có dạng lỏng như nước đặc, có màu trắng mủ, lợn cợn thành từng mảng khi bị viêm âm đạo do nấm."
+    },
+    {
+      "name": "Khí hư do Trichomonas",
+      "description": "Khí hư có màu vàng xanh, hơi loãng, có bọt khí li ti và mùi hôi khó chịu khi bị viêm âm đạo do trùng roi."
+    },
+    {
+      "name": "Ngứa ngáy ở vùng kín",
+      "description": "Khi bị viêm âm đạo, người bệnh sẽ cảm thấy ngứa ngáy và nóng rát ở vùng kín."
+    },
+    {
+      "name": "Đau rát ở âm đạo",
+      "description": "Khi tình trạng viêm nhiễm chuyển sang giai đoạn mạn tính, có thể bị đau rát, nhất là khi tiểu tiện hoặc quan hệ tình dục."
+    },
+    {
+      "name": "Chảy máu bất thường",
+      "description": "Có thể bị xuất huyết bất thường ở vùng kín mặc dù không trong chu kỳ hành kinh."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Vi khuẩn, nấm men Candida và trùng roi Trichomonas là những tác nhân chính gây viêm nhiễm âm đạo.",
+    "related_factors": "Tình trạng viêm âm đạo cấp không được điều trị kịp thời hoặc điều trị không đúng cách có thể phát triển thành mạn tính. Sự mất cân bằng hệ vi sinh vật âm đạo và các yếu tố nguy cơ như vệ sinh không đúng cách, quan hệ tình dục không an toàn cũng góp phần làm bệnh kéo dài.",
+    "transmission_routes": [
+      "Trùng roi Trichomonas lây nhiễm qua đường tình dục"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thói quen vệ sinh vùng kín không đúng cách, nhất là vào những ngày hành kinh, sau tiểu tiện hoặc quan hệ tình dục",
+    "Quan hệ tình dục thiếu an toàn, nhiều bạn tình hoặc không sử dụng các biện pháp bảo vệ",
+    "Mất cân bằng độ pH ở âm đạo do thụt rửa sâu hoặc sử dụng dung dịch vệ sinh không phù hợp",
+    "Điều trị viêm âm đạo không đúng cách, tự ý mua thuốc hoặc điều trị tại cơ sở không uy tín",
+    "Không chăm sóc sau điều trị, không tuân thủ hướng dẫn của bác sĩ"
+  ],
+  "complications": [
+    "Viêm nhiễm ngược dòng lên các phần phụ khác như viêm nội mạc tử cung, viêm buồng trứng, viêm dính tắc vòi trứng, viêm vùng chậu",
+    "Vô sinh, hiếm muộn",
+    "Khó thụ thai, mang thai ngoài tử cung, sảy thai, sinh non",
+    "Trẻ sinh ra từ mẹ bị viêm âm đạo có thể bị nhiễm khuẩn, nhiễm nấm ở mắt, miệng, hầu họng hoặc ở da",
+    "Tăng nguy cơ mắc các bệnh ung thư như ung thư cổ tử cung, ung thư buồng trứng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm hỏi tiền sử bệnh lý và triệu chứng",
+      "Khám vùng chậu bằng mỏ vịt để quan sát tình trạng âm đạo",
+      "Lấy mẫu dịch tiết âm đạo để xét nghiệm",
+      "Kiểm tra độ pH âm đạo"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám âm đạo",
+        "description": "Bác sĩ dùng mỏ vịt đưa qua âm hộ để quan sát tình trạng của âm đạo như có sưng không, có tiết dịch và đặc điểm dịch tiết."
+      },
+      {
+        "name": "Xét nghiệm dịch âm đạo",
+        "description": "Lấy dịch tiết âm đạo để tiến hành xét nghiệm, tìm ra nguyên nhân gây bệnh như vi khuẩn, nấm men, hoặc trùng roi."
+      },
+      {
+        "name": "Kiểm tra độ pH",
+        "description": "Sử dụng que thử hoặc giấy đo để kiểm tra độ pH âm đạo. Nếu độ pH tăng cao, có thể là dấu hiệu nhiễm trùng do vi khuẩn hoặc trùng roi Trichomonas."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm âm đạo mạn tính cần phải xác định chính xác tác nhân gây bệnh để có phác đồ điều trị phù hợp. Không nên tự ý điều trị tại nhà khi chưa có chẩn đoán của bác sĩ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh đường uống",
+        "description": "Thuốc kháng sinh được chỉ định tùy theo tác nhân gây bệnh, thường dùng để điều trị viêm âm đạo do vi khuẩn."
+      },
+      {
+        "name": "Thuốc đặt âm đạo",
+        "description": "Dạng viên đặt, kem, gel có chứa kháng sinh, chất kháng nấm hoặc kháng Trichomonas tùy theo nguyên nhân gây bệnh."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Đảm bảo vùng kín luôn khô thoáng và sạch sẽ",
+      "Mặc quần áo lót vừa vặn, chất liệu thông thoáng, hút ẩm tốt",
+      "Không thụt rửa sâu trong âm đạo",
+      "Quan hệ tình dục an toàn và chung thủy một bạn tình",
+      "Không tự ý ngưng thuốc hoặc thay đổi liều lượng khi chưa có chỉ định của bác sĩ",
+      "Tái khám đúng lịch hẹn để theo dõi tình trạng và điều chỉnh phác đồ nếu cần"
+    ],
+    "prevention_of_transmission": [
+      "Tránh quan hệ tình dục trong thời gian điều trị",
+      "Yêu cầu bạn tình cùng điều trị nếu viêm nhiễm do trùng roi Trichomonas"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh vùng kín đúng cách, hàng ngày bằng nước sạch hoặc dung dịch vệ sinh phụ nữ có pH phù hợp",
+      "Thay quần lót thường xuyên, mặc quần áo lót vừa vặn, thông thoáng",
+      "Tránh mặc quần áo chật, ẩm ướt trong thời gian dài",
+      "Không thụt rửa sâu trong âm đạo",
+      "Quan hệ tình dục an toàn, sử dụng bao cao su và chung thủy một bạn tình",
+      "Thăm khám phụ khoa định kỳ để phát hiện sớm và điều trị kịp thời các vấn đề viêm nhiễm",
+      "Tuân thủ hướng dẫn của bác sĩ khi điều trị viêm âm đạo để tránh tái phát"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm âm đạo mạn tính có nguy hiểm không?",
+      "answer": "Viêm âm đạo mạn tính có thể gây nhiều biến chứng nguy hiểm nếu không được điều trị kịp thời và đúng cách. Bệnh có thể gây viêm nhiễm ngược dòng lên các phần phụ khác như viêm nội mạc tử cung, viêm buồng trứng, viêm vùng chậu, dẫn đến vô sinh, hiếm muộn. Trong trường hợp nặng, bệnh còn làm tăng nguy cơ mắc ung thư cổ tử cung, ung thư buồng trứng."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ nếu nghi ngờ bị viêm âm đạo?",
+      "answer": "Bạn nên đến gặp bác sĩ khi có các dấu hiệu như: Âm đạo tiết dịch bất thường, khí hư có màu xám đục hoặc màu vàng xanh, có mùi hôi khó chịu; ngứa ngáy và đau rát khi tiểu tiện hoặc quan hệ tình dục; đã từng bị viêm âm đạo và triệu chứng tái phát; đang mang thai hoặc ở giai đoạn tiền mãn kinh, mãn kinh; hoặc sau khi quan hệ tình dục không an toàn."
+    },
+    {
+      "question": "Làm thế nào để phân biệt các loại viêm âm đạo?",
+      "answer": "Có thể dựa vào đặc điểm khí hư để nhận biết sơ bộ: Viêm âm đạo do vi khuẩn thường có khí hư màu trắng xám, mùi hôi tanh; Viêm âm đạo do nấm Candida có khí hư màu trắng và dày như phô mai; Viêm âm đạo do Trichomonas có khí hư màu vàng xanh, hơi loãng, có bọt khí li ti và mùi hôi khó chịu. Tuy nhiên, chẩn đoán chính xác cần dựa vào thăm khám và xét nghiệm của bác sĩ."
+    },
+    {
+      "question": "Viêm âm đạo mạn tính có thể tự khỏi không?",
+      "answer": "Viêm âm đạo mạn tính thường không tự khỏi mà cần được điều trị đúng phác đồ. Nếu không được điều trị kịp thời và đúng cách, bệnh sẽ tái phát nhiều lần, trở nên dai dẳng và khó điều trị hơn, đồng thời có thể gây ra nhiều biến chứng nguy hiểm. Vì vậy, bạn nên đến gặp bác sĩ ngay khi có các triệu chứng viêm âm đạo."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm nhiễm xảy ra ở âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao-man-tinh",
+        "viem-am-dao",
+        "viem-co-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa rát, tiết dịch bất thường ở vùng kín. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao-man-tinh",
+        "viem-am-dao-do-nam",
+        "viem-am-dao-do-vi-khuan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm âm đạo do vệ sinh vùng kín không đúng cách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-am-dao-man-tinh", "viem-am-dao", "viem-am-ho"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm âm đạo do sự thay đổi nội tiết tố trong cơ thể, rong kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao-man-tinh",
+        "roi-loan-noi-tiet",
+        "roi-loan-kinh-nguyet"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy âm đạo tiết khí hư nhiều hơn, khí hư có màu trắng như bột kèm ngứa ngáy, có mùi hôi khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao-man-tinh",
+        "viem-am-dao-do-nam",
+        "viem-am-dao"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm âm đạo do vi khuẩn với khí hư thường có màu trắng xám, có mùi hôi tanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao-man-tinh",
+        "viem-am-dao-do-vi-khuan",
+        "mat-can-bang-vi-khuan-am-dao"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm âm đạo do nhiễm nấm Candida với khí hư màu trắng và dày như phô mai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao-man-tinh",
+        "viem-am-dao-do-nam",
+        "nam-candida"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm âm đạo do Trichomonas với khí hư có màu vàng xanh, hơi loãng, có bọt khí li ti và mùi hôi khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao-man-tinh",
+        "viem-am-dao-do-trichomonas",
+        "benh-lay-truyen-qua-duong-tinh-duc"
+      ]
     }
   ]
 }

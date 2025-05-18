@@ -1,39 +1,157 @@
 {
   "disease_id": "ung-thu-vu-giai-doan-3",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vú giai đoạn 3",
+  "disease_alternative_names": [
+    "Ung thư vú tiến triển tại chỗ tại vùng",
+    "Ung thư vú giai đoạn IIIA",
+    "Ung thư vú giai đoạn IIIB",
+    "Ung thư vú giai đoạn IIIC",
+    "Ung thư vú dạng viêm"
+  ],
+  "disease_definition": "Ung thư vú giai đoạn III là ung thư vú có kích thước bướu >5cm hoặc đã phát triển vào các mô lân cận (da trên vú hoặc cơ thành ngực bên dưới vú), có thể kèm theo ung thư đã di căn đến nhiều hạch bạch huyết gần đó (hạch nách, hạch vú trong, trên hoặc dưới đòn cùng bên). Ung thư vú dạng viêm (da trên vú đỏ, phù nề) cũng được xem là một dạng ung thư giai đoạn III nếu bệnh chưa di căn các cơ quan khác trong cơ thể.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Da dày lên, giống vỏ cam",
+      "description": "Da vú có thể dày lên, sần sùi với kết cấu giống vỏ cam hoặc trông có thể giống lúm đồng tiền."
+    },
+    {
+      "name": "Da trên vú bị loét",
+      "description": "Xuất hiện vết loét trên da vú, có thể chảy dịch hoặc máu."
+    },
+    {
+      "name": "U vú sùi ra da",
+      "description": "Khối u phát triển và xâm lấn qua da, gây ra các tổn thương sùi trên bề mặt da vú."
+    },
+    {
+      "name": "Khối u ở vú dính cứng vào thành ngực",
+      "description": "Khối u có thể xâm lấn sâu và dính vào cơ thành ngực, làm hạn chế khả năng di động của khối u khi khám."
+    },
+    {
+      "name": "Khối u vú hay da vú sưng đỏ, nóng",
+      "description": "Vùng da vú sưng đỏ, nóng, có dấu hiệu viêm. Đây là dấu hiệu của ung thư vú dạng viêm, một dạng đặc biệt của ung thư vú giai đoạn III."
+    },
+    {
+      "name": "Khối u lớn ở nách",
+      "description": "Sự xuất hiện của khối u hoặc hạch nách to, có thể di động hay cố định, do di căn của ung thư vú đến hạch bạch huyết vùng nách."
+    },
+    {
+      "name": "Khối u ở cổ",
+      "description": "Xuất hiện hạch ở vùng cổ (hạch trên đòn, dưới đòn) do di căn của ung thư vú đến các hạch bạch huyết xa hơn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác của ung thư vú giai đoạn 3 chưa được xác định rõ ràng, tương tự như các giai đoạn khác của ung thư vú.",
+    "related_factors": "Sự phát triển của ung thư vú giai đoạn 3 liên quan đến sự tiến triển không được phát hiện hoặc điều trị từ các giai đoạn sớm hơn của bệnh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người mắc ung thư vú",
+    "Đột biến gen BRCA1 hoặc BRCA2",
+    "Tuổi cao",
+    "Kinh nguyệt sớm hoặc mãn kinh muộn",
+    "Không sinh con hoặc sinh con đầu lòng sau 30 tuổi",
+    "Sử dụng liệu pháp hormone thay thế sau mãn kinh",
+    "Sử dụng thuốc tránh thai kéo dài",
+    "Tiền sử mắc ung thư vú hoặc các bệnh lý tiền ung thư vú",
+    "Uống rượu",
+    "Béo phì",
+    "Tiếp xúc với bức xạ",
+    "Mật độ mô vú cao"
+  ],
+  "complications": [
+    "Nguy cơ tái phát sau điều trị cao",
+    "Di căn xa đến các cơ quan khác như xương, phổi, gan, não",
+    "Tác dụng phụ của điều trị như suy giảm hệ miễn dịch, mệt mỏi, rụng tóc",
+    "Phù tay sau phẫu thuật nạo vét hạch nách",
+    "Tổn thương thần kinh, giảm chức năng hoạt động vùng vai cùng bên nạo hạch nách",
+    "Ảnh hưởng tâm lý như trầm cảm, lo âu",
+    "Dày nội mạc tử cung, xuất huyết âm đạo bất thường khi sử dụng Tamoxifen",
+    "Giảm mật độ xương, loãng xương, huyết khối do liệu pháp nội tiết"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Siêu âm vú",
+      "Chụp nhũ ảnh",
+      "Chụp cộng hưởng từ (MRI) vú",
+      "Sinh thiết tổn thương vú",
+      "Siêu âm bụng, siêu âm cổ",
+      "X-quang ngực",
+      "CT scan bụng, ngực, não",
+      "Xạ hình xương",
+      "Xét nghiệm xác định tình trạng thụ thể nội tiết và các đặc điểm sinh học của khối u"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm vú",
+        "description": "Kiểm tra vú bằng sóng âm thanh để tạo ra hình ảnh của các cấu trúc bên trong vú, giúp phát hiện khối u và đánh giá tính chất của khối u."
+      },
+      {
+        "name": "Chụp nhũ ảnh",
+        "description": "Sử dụng tia X để tạo hình ảnh vú, giúp phát hiện các khối u mà không thể sờ thấy và các bất thường khác như vi vôi hóa."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI) vú",
+        "description": "Tạo ra hình ảnh chi tiết của vú sử dụng từ trường và sóng vô tuyến, thường được sử dụng để đánh giá mức độ xâm lấn của khối u và phát hiện các khối u khác trong vú."
+      },
+      {
+        "name": "Sinh thiết tổn thương vú",
+        "description": "Lấy mẫu mô từ khối u để xét nghiệm, xác định bản chất của khối u là lành tính hay ác tính, đồng thời phân loại loại tế bào ung thư."
+      },
+      {
+        "name": "Xét nghiệm sinh học của khối u",
+        "description": "Xác định tình trạng thụ thể nội tiết Estrogen (ER), Progesteron (PR), thụ thể yếu tố tăng trưởng biểu bì (HER2), và mức độ tăng sinh tế bào (Ki67) để định hướng điều trị."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Ung thư vú giai đoạn III có tỷ lệ sống còn sau 5 năm khoảng 86%. Trong đó, giai đoạn IIIA có tỷ lệ sống còn sau 5 năm là 67%, giai đoạn IIIB - IIIC có tỷ lệ sống còn sau 5 năm là 41-49%.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Liệu pháp toàn thân trước phẫu thuật (tân hỗ trợ)",
+        "description": "Sử dụng thuốc hóa trị, liệu pháp nội tiết, liệu pháp nhắm trúng đích hoặc miễn dịch trước phẫu thuật nhằm giảm kích thước khối u và hạch vùng, giúp phẫu thuật thuận lợi hơn và tiêu diệt các di căn vi thể."
+      },
+      {
+        "name": "Phẫu thuật bảo tồn vú",
+        "description": "Cắt bỏ khối u và một phần mô lành không bị ung thư xung quanh u, giữ lại được một phần mô vú. Sau phẫu thuật bảo tồn, bệnh nhân sẽ được chỉ định xạ trị vào toàn bộ tuyến vú để ngăn bệnh tái phát."
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ tuyến vú (đoạn nhũ)",
+        "description": "Cắt bỏ toàn bộ tuyến vú có khối u, có thể giữ lại núm vú và da xung quanh núm vú tùy thuộc vào vị trí, kích thước, số lượng và tính chất khối u."
+      },
+      {
+        "name": "Phẫu thuật nạo vét hạch nách",
+        "description": "Loại bỏ các hạch bạch huyết ở nách, giúp kiểm soát bệnh, giảm tái phát hạch nách và tiên lượng bệnh. Có thể gây tác dụng phụ như phù tay, tổn thương thần kinh, giảm chức năng hoạt động vùng vai cùng bên."
+      },
+      {
+        "name": "Phẫu thuật tái tạo vú",
+        "description": "Tạo ra vú mới có hình dạng giống với vú cũ bằng cách đặt túi độn hoặc dùng các mô từ bộ phận khác. Có thể thực hiện cùng lúc với phẫu thuật cắt bỏ vú (tái tạo tức thì) hoặc sau khi hoàn tất điều trị (tái tạo trì hoãn)."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng tia bức xạ năng lượng cao để tiêu diệt tế bào ung thư. Thường được thực hiện một tháng sau phẫu thuật hoặc hóa trị, nhằm giảm nguy cơ tái phát tại chỗ."
+      },
+      {
+        "name": "Liệu pháp nội tiết hỗ trợ",
+        "description": "Chỉ định cho bệnh nhân có thụ thể nội tiết ER hoặc PR dương tính. Có thể sử dụng Tamoxifen, thuốc ức chế Aromatase, hoặc cắt chức năng buồng trứng tùy theo tình trạng mãn kinh của bệnh nhân."
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Sử dụng cho bệnh nhân có thụ thể HER2 dương tính, thường với thuốc kháng HER2 như Trastuzumab, Pertuzumab hoặc TDM-1 trong trường hợp bệnh còn tồn tại sau điều trị tân hỗ trợ."
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Đặc biệt với nhóm ung thư vú tam âm (ER, PR, HER2 âm tính), có thể sử dụng thuốc ức chế điểm miễn dịch như Pembrolizumab kết hợp với hóa trị."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch tái khám mỗi 3-4 tháng trong 2-3 năm đầu, sau đó mỗi 4-6 tháng trong 2-3 năm tiếp theo",
+      "Thực hiện các xét nghiệm kiểm tra theo chỉ định của bác sĩ",
+      "Chụp nhũ ảnh kiểm tra mỗi năm, bắt đầu từ 6-12 tháng sau khi kết thúc xạ trị nếu đã phẫu thuật bảo tồn vú",
+      "Khám phụ khoa ít nhất 1 lần/năm nếu đang sử dụng Tamoxifen",
+      "Duy trì lối sống lành mạnh, chế độ ăn uống cân bằng, tập thể dục thường xuyên",
+      "Đến khám ngay khi có bất kỳ dấu hiệu bất thường nào"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +159,99 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám vú định kỳ và tầm soát ung thư vú thường xuyên",
+      "Duy trì cân nặng hợp lý",
+      "Hạn chế uống rượu bia",
+      "Tập thể dục đều đặn",
+      "Cân nhắc rủi ro khi sử dụng liệu pháp hormone thay thế sau mãn kinh",
+      "Cho con bú nếu có thể",
+      "Xét nghiệm di truyền nếu có tiền sử gia đình mắc ung thư vú",
+      "Tuân thủ lịch tái khám sau khi đã điều trị ung thư vú giai đoạn sớm hơn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư vú giai đoạn 3 có chữa được không?",
+      "answer": "Ung thư vú giai đoạn III thường có nguy cơ tái phát sau điều trị cao và tiên lượng tương đối xấu. Tuy nhiên, bệnh vẫn có thể được kiểm soát với phác đồ điều trị cá thể hóa - chuyên biệt. Sự hợp tác chủ động của bệnh nhân cũng góp phần mang lại kết quả điều trị tốt hơn."
+    },
+    {
+      "question": "Ung thư vú giai đoạn 3 sống được bao lâu?",
+      "answer": "Theo Hiệp hội Ung thư Hoa Kỳ, ung thư vú giai đoạn III có tỷ lệ sống còn sau 5 năm khoảng 86%. Trong đó, giai đoạn IIIA có tỷ lệ sống còn sau 5 năm là 67%, giai đoạn IIIB - IIIC có tỷ lệ sống còn sau 5 năm là 41-49%. Tiên lượng sống còn có thể thay đổi dựa trên giai đoạn bệnh, các yếu tố sinh học của u và tuổi của bệnh nhân."
+    },
+    {
+      "question": "Phương pháp điều trị nào hiệu quả nhất cho ung thư vú giai đoạn 3?",
+      "answer": "Ung thư vú giai đoạn III thường được điều trị với liệu pháp toàn thân trước (hóa trị, liệu pháp nhắm trúng đích, miễn dịch). Sau đó, tùy mức độ đáp ứng, bệnh nhân sẽ được phẫu thuật (cắt toàn bộ tuyến vú kèm nạo hạch nách), xạ trị bổ túc và điều trị toàn thân sau mổ. Phương pháp điều trị cụ thể phụ thuộc vào đặc điểm sinh học của khối u và tình trạng sức khỏe của bệnh nhân."
+    },
+    {
+      "question": "Ung thư vú dạng viêm là gì và thuộc giai đoạn nào?",
+      "answer": "Ung thư vú dạng viêm là một dạng đặc biệt của ung thư vú với biểu hiện khối u vú hay da vú sưng đỏ, nóng. Thể bệnh này được xem là một dạng ung thư vú giai đoạn III (nếu bệnh chưa di căn các cơ quan khác trong cơ thể). Dù ít gặp, nhưng ung thư vú dạng viêm thường diễn tiến nhanh ồ ạt và có tiên lượng xấu, cần can thiệp điều trị toàn thân sớm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da dày lên, giống vỏ cam hoặc trông có thể giống lúm đồng tiền. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-3",
+        "viem-mo-bao-mo",
+        "benh-da-cam"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy da trên vú bị loét. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-3",
+        "viem-da",
+        "nhiem-trung-da"
+      ]
+    },
+    {
+      "question": "Tôi hay bị u vú sùi ra da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-3",
+        "ung-thu-vu-giai-doan-4",
+        "u-lanh-tinh-tren-da"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khối u ở vú dính cứng vào thành ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-3",
+        "ung-thu-vu-giai-doan-4",
+        "ap-xe-vu"
+      ]
+    },
+    {
+      "question": "Tôi có khối u vú hay da vú sưng đỏ, nóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-3",
+        "ung-thu-vu-dang-viem",
+        "viem-tuyen-vu"
+      ]
+    },
+    {
+      "question": "Tôi bị khối u lớn ở nách (hạch nách) có thể di động hay không. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-3",
+        "viem-hach-nach",
+        "ung-thu-hach"
+      ]
+    },
+    {
+      "question": "Tôi bị khối u ở cổ (hạch cổ). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-3",
+        "viem-hach-co",
+        "ung-thu-tuyen-giap"
+      ]
+    },
+    {
+      "question": "Tôi được bác sĩ chẩn đoán ung thư vú dạng viêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-3",
+        "ung-thu-vu-dang-viem",
+        "ung-thu-vu"
+      ]
     }
   ]
 }

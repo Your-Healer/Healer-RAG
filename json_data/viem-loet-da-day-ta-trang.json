@@ -1,58 +1,168 @@
 {
   "disease_id": "viem-loet-da-day-ta-trang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm loét dạ dày tá tràng",
+  "disease_alternative_names": ["Loét dạ dày", "Loét tá tràng"],
+  "disease_definition": "Viêm loét dạ dày tá tràng là một bệnh tiêu hóa xuất hiện khi dạ dày tá tràng bị viêm, loét. Trong bệnh viêm loét dạ dày tá tràng, các vết loét niêm mạc thường xuất hiện ở dạ dày và phần đầu của tá tràng. Niêm mạc đường tiêu hóa là lớp màng bên trong cùng, có chức năng sản xuất chất nhầy và enzyme để hỗ trợ quá trình tiêu hóa. Sự tổn thương của niêm mạc, chủ yếu là do vi khuẩn H.pylori và thuốc giảm đau chống viêm không steroid (NSAIDs), sẽ gây ra tình trạng viêm loét dẫn đến cơn đau thượng vị và một số triệu chứng khác gây khó chịu cho người bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cơn đau thượng vị",
+      "description": "Xuất hiện các cơn đau thượng vị, đau nhói hoặc đau rát 2-5 tiếng sau ăn, khi bụng đói hoặc về đêm"
+    },
+    {
+      "name": "Buồn nôn và nôn mửa",
+      "description": "Người bệnh thường cảm thấy buồn nôn và có thể nôn mửa"
+    },
+    {
+      "name": "Chướng bụng, đầy hơi",
+      "description": "Cảm giác đầy hơi và chướng bụng khó chịu"
+    },
+    {
+      "name": "Phân đen hoặc có lẫn máu",
+      "description": "Triệu chứng này báo hiệu khả năng xuất huyết tiêu hóa, cần đi khám ngay"
+    },
+    {
+      "name": "Giảm cân đột ngột",
+      "description": "Giảm cân không rõ lý do, có thể là dấu hiệu cảnh báo của biến chứng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nhiễm vi khuẩn Helicobacter pylori và sử dụng các loại thuốc kháng viêm không steroid (NSAID) là hai nguyên nhân chính gây ra viêm loét dạ dày tá tràng.",
+    "related_factors": "Căng thẳng thần kinh, chế độ ăn uống không khoa học, và sử dụng rượu bia có thể làm tăng nguy cơ mắc bệnh hoặc làm trầm trọng thêm các vết loét.",
+    "transmission_routes": [
+      "Nhiễm vi khuẩn H.pylori qua đường miệng từ thực phẩm và nước uống không sạch",
+      "Lây truyền từ người sang người trong môi trường có điều kiện vệ sinh kém"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người sống tại nơi có điều kiện vệ sinh kém, tiềm ẩn vi khuẩn HP",
+    "Người lạm dụng thuốc giảm đau không steroid (NSAID)",
+    "Người sử dụng nhiều rượu bia",
+    "Người dễ bị căng thẳng thần kinh",
+    "Người có chế độ ăn uống không khoa học",
+    "Người trên 60 tuổi, đặc biệt là nam giới"
+  ],
+  "complications": [
+    "Hẹp môn vị dạ dày",
+    "Thủng dạ dày",
+    "Xuất huyết tiêu hóa",
+    "Ung thư dạ dày"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Nội soi tiêu hóa trên",
+      "Chụp X-quang tiêu hóa trên",
+      "Kiểm tra HP bằng hơi thở"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tiêu hóa trên",
+        "description": "Bác sĩ sẽ đặt một ống mềm có camera vào bên trong người bệnh nhân theo đường miệng, giúp phát hiện và chụp hình những tổn thương viêm loét, đồng thời có thể thực hiện sinh thiết và hỗ trợ điều trị trong trường hợp chảy máu dạ dày."
+      },
+      {
+        "name": "Chụp X-quang tiêu hóa trên",
+        "description": "Bệnh nhân sẽ được yêu cầu uống chất cản quang barit trước khi chụp hình. Chất này giúp các bác sĩ xác định được các vết loét ở niêm mạc dạ dày và chẩn đoán tình trạng bệnh."
+      },
+      {
+        "name": "Kiểm tra HP bằng hơi thở",
+        "description": "Người bệnh uống dung dịch có chứa urea 15-30 phút trước khi lấy mẫu hơi thở để kiểm tra vi khuẩn HP, phương pháp này có kết quả chính xác và dễ dàng thực hiện."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị bệnh viêm loét dạ dày tá tràng sẽ phụ thuộc vào tình trạng viêm loét, giai đoạn phát bệnh và bệnh sử của bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng tiết acid",
+        "description": "Sử dụng các loại thuốc ức chế acid phổ biến là nhóm thuốc ức chế bơm proton (PPI) có khả năng ngăn chặn acid mạnh. Người bệnh thường cần ăn một bữa sau dùng thuốc 30 phút để kích hoạt thuốc hoạt động hiệu quả."
+      },
+      {
+        "name": "Điều trị bằng kháng sinh",
+        "description": "Đối với người bị nhiễm vi khuẩn HP sẽ được điều trị bằng thuốc kháng sinh. Phương pháp này yêu cầu người bệnh cần hoàn thành đầy đủ liều và uống thuốc đúng thời điểm để quá trình điều trị đạt được kết quả tốt nhất."
+      },
+      {
+        "name": "Can thiệp qua nội soi",
+        "description": "Bác sĩ sẽ sử dụng ống soi để can thiệp những vết loét đang hoặc có nguy cơ cao chảy máu."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Ăn đúng giờ, không để bụng đói quá lâu",
+      "Tránh các thực phẩm cay nóng, kích thích dạ dày",
+      "Ăn chậm, nhai kỹ",
+      "Giảm căng thẳng, stress"
+    ],
+    "prevention_of_transmission": [
+      "Vệ sinh tay thường xuyên, đặc biệt trước khi ăn và sau khi đi vệ sinh",
+      "Ăn thức ăn đã được nấu chín kỹ",
+      "Uống nước sạch, đã đun sôi"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa viêm loét dạ dày tá tràng",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế nguy cơ nhiễm vi khuẩn HP bằng cách vệ sinh tay thường xuyên và ăn những loại thực phẩm sạch, được nấu chín hoàn toàn",
+      "Hạn chế sử dụng thuốc giảm đau hoặc sử dụng thuốc giảm đau theo tư vấn chuyên môn từ phía bác sĩ để tránh tình trạng sử dụng quá nhiều NSAID",
+      "Không uống rượu và hút thuốc lá",
+      "Duy trì chế độ ăn uống lành mạnh, đều đặn",
+      "Khám sức khỏe định kỳ để phát hiện sớm các vấn đề về dạ dày"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm loét dạ dày tá tràng có nguy hiểm không?",
+      "answer": "Bệnh viêm loét dạ dày tá tràng là bệnh có thể hoàn toàn chữa được nếu được phát hiện sớm. Tuy nhiên, nếu bệnh nhân chủ quan và không thực hiện nghiêm túc việc chữa trị hoặc phát hiện bệnh quá trễ sẽ phải đối mặt với những biến chứng xấu của bệnh, đặc biệt là ung thư dạ dày có nguy cơ tử vong cao."
+    },
+    {
+      "question": "Bệnh viêm loét dạ dày tá tràng có những triệu chứng gì?",
+      "answer": "Triệu chứng thường gặp bao gồm: xuất hiện các cơn đau thượng vị, đau nhói hoặc đau rát thượng vị 2 đến 5 tiếng sau ăn, khi bụng đói hoặc về đêm, buồn nôn và nôn mửa, chướng bụng, đầy hơi. Các triệu chứng nguy hiểm cần chú ý: phân đen hoặc có lẫn máu đỏ, nôn mửa có lẫn máu, giảm cân đột ngột không lý do."
+    },
+    {
+      "question": "Bệnh viêm loét dạ dày tá tràng được chẩn đoán như thế nào?",
+      "answer": "Chẩn đoán bệnh viêm loét dạ dày tá tràng chủ yếu dựa vào phương pháp nội soi tiêu hóa trên, chụp X-quang tiêu hóa trên, và kiểm tra HP bằng hơi thở. Trong đó, phương pháp nội soi tiêu hóa trên được ưu tiên sử dụng hơn vì có thể phát hiện chính xác vết loét và lấy mẫu sinh thiết nếu cần."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm, loét dạ dày tá tràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm loét dạ dày tá tràng",
+        "Viêm dạ dày cấp tính",
+        "Viêm dạ dày mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhói hoặc đau rát thượng vị 2 đến 5 tiếng sau ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm loét dạ dày tá tràng",
+        "Trào ngược dạ dày thực quản",
+        "Viêm tụy"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khi bụng đói hoặc về đêm, buồn nôn và nôn mửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm loét dạ dày tá tràng",
+        "Viêm dạ dày",
+        "Hội chứng ruột kích thích"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nhiễm vi khuẩn Helicobacter pylori. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm loét dạ dày tá tràng",
+        "Viêm dạ dày",
+        "Ung thư dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chướng bụng, đầy hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm loét dạ dày tá tràng",
+        "Rối loạn tiêu hóa",
+        "Hội chứng ruột kích thích"
+      ]
     }
   ]
 }

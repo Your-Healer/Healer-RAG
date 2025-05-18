@@ -1,58 +1,230 @@
 {
   "disease_id": "viem-duong-ho-hap-duoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm đường hô hấp dưới",
+  "disease_alternative_names": [
+    "Nhiễm trùng đường hô hấp dưới",
+    "Lower Respiratory Tract Infections (LRTI)"
+  ],
+  "disease_definition": "Viêm đường hô hấp dưới hay nhiễm trùng đường hô hấp dưới là các bệnh lý nhiễm trùng ảnh hưởng đến đường hô hấp dưới (ở dưới thanh quản), trong đó viêm phổi và viêm phế quản là hai bệnh lý viêm hô hấp dưới thường gặp nhất. Bệnh lây truyền qua những giọt bắn chứa vi khuẩn, virus khi người bệnh ho, hắt hơi hoặc bám trên các bề mặt tiếp xúc.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nghẹt mũi hoặc chảy nước mũi",
+      "description": "Triệu chứng thường gặp trong giai đoạn đầu của bệnh, tương tự như cảm lạnh thông thường."
+    },
+    {
+      "name": "Sốt nhẹ",
+      "description": "Thân nhiệt tăng nhẹ, thường gặp trong các trường hợp nhiễm trùng nhẹ."
+    },
+    {
+      "name": "Ho khan",
+      "description": "Ho không có đờm, thường là triệu chứng ban đầu của nhiễm trùng đường hô hấp dưới."
+    },
+    {
+      "name": "Đau họng",
+      "description": "Cảm giác đau rát ở họng, thường xuất hiện cùng với các triệu chứng khác của nhiễm trùng đường hô hấp."
+    },
+    {
+      "name": "Đau đầu, chóng mặt",
+      "description": "Triệu chứng toàn thân thường gặp khi cơ thể bị nhiễm trùng."
+    },
+    {
+      "name": "Ho dữ dội, ho có đờm",
+      "description": "Xuất hiện trong các trường hợp nhiễm trùng nặng hơn, đờm có thể trong hoặc đục tùy theo tác nhân gây bệnh."
+    },
+    {
+      "name": "Sốt cao",
+      "description": "Thân nhiệt tăng cao trên 38.5°C, thường gặp trong các trường hợp nhiễm trùng nặng."
+    },
+    {
+      "name": "Nhịp tim nhanh",
+      "description": "Tim đập nhanh hơn bình thường, là dấu hiệu của cơ thể đang chiến đấu với nhiễm trùng."
+    },
+    {
+      "name": "Thở khò khè hoặc khó thở",
+      "description": "Khó thở, thở nhanh hoặc có tiếng khò khè khi hít thở, là dấu hiệu nguy hiểm cần được điều trị ngay."
+    },
+    {
+      "name": "Cảm thấy nặng hoặc đau ở ngực",
+      "description": "Đau tức ngực, cảm giác nặng nề ở ngực, thường gặp trong viêm phổi hoặc viêm phế quản nặng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân chính gây viêm đường hô hấp dưới là các tác nhân virus và vi khuẩn, đặc biệt là vào thời điểm giao mùa.",
+    "related_factors": "Các yếu tố khác có thể gây viêm đường hô hấp dưới bao gồm khói thuốc lá, khói bụi do ô nhiễm môi trường, hóa chất và các chất gây dị ứng.",
+    "transmission_routes": [
+      "Lây truyền qua những giọt bắn chứa vi khuẩn, virus khi người bệnh ho, hắt hơi",
+      "Tiếp xúc với các bề mặt có chứa mầm bệnh rồi đưa lên miệng, mũi hoặc mắt"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em và người lớn tuổi, đặc biệt là trẻ em dưới 5 tuổi và người lớn trên 65 tuổi",
+    "Người có thói quen hút thuốc lá",
+    "Phụ nữ mang thai",
+    "Người mắc các bệnh lý mãn tính như hen suyễn, phổi tắc nghẽn mãn tính, bệnh tim mạch, tiểu đường, các bệnh về gan và thận",
+    "Những người có hệ miễn dịch suy giảm do mắc các bệnh ung thư, hoặc vừa trải qua phẫu thuật điều trị, hóa trị liệu cao"
+  ],
+  "complications": [
+    "Nhiễm trùng huyết",
+    "Suy tim",
+    "Suy hô hấp cấp (ARDS)",
+    "Ngừng thở",
+    "Áp xe phổi",
+    "Rối loạn chức năng hô hấp",
+    "Tràn khí màng phổi",
+    "Xẹp phổi",
+    "Tử vong trong trường hợp nặng và không được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi tiền sử bệnh",
+      "Đo nhiệt độ cơ thể",
+      "Nghe lồng ngực để kiểm tra lượng oxy trong cơ thể",
+      "Chụp X-quang",
+      "Xét nghiệm máu và chất nhầy",
+      "Đo lượng oxy trong máu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Xác định mức độ nhiễm trùng và vị trí tổn thương trong phổi."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra số lượng bạch cầu và các chỉ số viêm để đánh giá mức độ nhiễm trùng."
+      },
+      {
+        "name": "Xét nghiệm đờm",
+        "description": "Xác định loại vi khuẩn, virus gây viêm hô hấp dưới để có chỉ định kháng sinh phù hợp."
+      },
+      {
+        "name": "Đo thở oxy",
+        "description": "Xác định lượng oxy trong máu để đánh giá mức độ suy hô hấp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mặc dù nhiễm trùng đường hô hấp dưới thường nhẹ và tự cải thiện trong khoảng từ 7-10 ngày, nhưng một số trường hợp có thể diễn tiến nặng cần được điều trị kịp thời.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị viêm phế quản cấp",
+        "description": "Nghỉ ngơi, bỏ thói quen hút thuốc lá, chú ý giữ ấm cho cơ thể. Uống đủ nước trong ngày, bù nước và các chất điện giải cho cơ thể. Bổ sung vitamin và khoáng chất. Dùng thuốc theo hướng dẫn của bác sĩ."
+      },
+      {
+        "name": "Điều trị viêm phổi",
+        "description": "Dùng thuốc theo chỉ định của bác sĩ, thường là kháng sinh phù hợp với tác nhân gây bệnh. Điều trị thở oxy khi người bệnh có các dấu hiệu của suy hô hấp cấp (ARDS) như khó thở, tím tái."
+      },
+      {
+        "name": "Điều trị viêm tiểu phế quản",
+        "description": "Hầu hết các trường hợp sẽ tự khỏi và có thể chăm sóc tại nhà. Hiện chưa có vắc xin đặc trị cho viêm tiểu phế quản. Thuốc kháng sinh hoặc thuốc cảm thông thường không hiệu quả với bệnh này."
+      },
+      {
+        "name": "Điều trị lao phổi",
+        "description": "Điều trị có kiểm soát trực tiếp (DOTS) theo phác đồ chuẩn của Bộ Y tế. Người bệnh cần uống thuốc đúng phác đồ, đủ thời gian và thường xuyên theo chỉ dẫn của bác sĩ."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Nghỉ ngơi, tránh những việc quá sức khiến cơ thể mệt mỏi",
+      "Bù nước cho cơ thể, tránh mất nước và giúp đờm trong phổi loãng hơn, dễ khạc nhổ",
+      "Xông hít tinh dầu bạc hà để sạch đờm",
+      "Bỏ thói quen hút thuốc lá",
+      "Uống nước ấm pha mật ong và chanh để giảm triệu chứng khó chịu khi ho",
+      "Ăn uống đầy đủ chất dinh dưỡng, bổ sung nhiều rau xanh và trái cây"
+    ],
+    "prevention_of_transmission": [
+      "Đeo khẩu trang, che miệng khi ho hoặc hắt hơi để tránh mầm bệnh lây lan sang người khác",
+      "Rửa tay thường xuyên, tránh để vi khuẩn tấn công cơ thể",
+      "Khử trùng, làm sạch các bề mặt thường xuyên tiếp xúc",
+      "Tránh xa người bệnh khi phát hiện các triệu chứng của bệnh đường hô hấp dưới"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm ngừa vắc xin đầy đủ theo khuyến cáo của Bộ Y tế có thể giúp phòng ngừa một số bệnh lý viêm đường hô hấp dưới.",
+      "recommended_for": [
+        "Vắc xin phòng cúm",
+        "Vắc xin phòng sởi – quai bị – rubella",
+        "Vắc xin phòng bệnh do phế cầu khuẩn"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bỏ thói quen hút thuốc lá, tránh những nơi khói thuốc",
+      "Rửa tay thường xuyên, tránh để vi khuẩn tấn công cơ thể",
+      "Khử trùng, làm sạch các bề mặt thường xuyên tiếp xúc",
+      "Đeo khẩu trang, che miệng khi ho hoặc hắt hơi để tránh mầm bệnh lây lan sang người khác",
+      "Tránh xa người bệnh khi phát hiện các triệu chứng của bệnh đường hô hấp dưới",
+      "Tiêm ngừa vắc xin đầy đủ theo khuyến cáo của Bộ Y tế"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Làm thế nào phân biệt nhiễm trùng đường hô hấp dưới với nhiễm trùng đường hô hấp trên?",
+      "answer": "Nhiễm trùng đường hô hấp dưới là tình trạng nhiễm trùng ở đường dẫn khí bên dưới thanh quản, còn nhiễm trùng đường hô hấp trên là nhiễm trùng ở cấu trúc từ thanh quản trở lên. Triệu chứng đặc trưng của các bệnh nhiễm trùng đường hô hấp dưới là ho, gồm các bệnh viêm phế quản, viêm tiểu phế quản, viêm phổi và lao. Còn nhiễm trùng đường hô hấp trên gồm cảm lạnh, viêm xoang, viêm amidan và viêm thanh quản... sẽ có các dấu hiệu xuất phát từ vùng cổ trở lên như đau họng, đau đầu, sốt."
+    },
+    {
+      "question": "Bệnh nhân nên ăn gì và kiêng ăn gì?",
+      "answer": "Để việc điều trị nhiễm trùng đường hô hấp dưới đạt hiệu quả cao nhất, người bệnh nên bổ sung các loại trái cây và rau xanh vào chế độ ăn hàng ngày, uống nhiều nước để cung cấp đủ nước cho cơ thể. Có thể uống mật ong pha nước chanh ấm, mật ong pha trà gừng giúp cải thiện các triệu chứng bệnh. Người bệnh cần kiêng các thực phẩm đóng hộp, nước uống có ga, thức ăn chế biến sẵn, vì chúng có thể làm chậm hồi phục hoặc khiến bệnh tiến triển nặng hơn."
+    },
+    {
+      "question": "Viêm đường hô hấp dưới có nguy hiểm không?",
+      "answer": "Viêm đường hô hấp dưới là một trong những bệnh lý hô hấp nguy hiểm thường gặp, có thể dẫn đến nhiều trường hợp nhập viện cấp cứu, thậm chí tử vong, đặc biệt là ở trẻ em và người lớn tuổi. Nếu người bệnh chủ quan, không điều trị từ sớm, để bệnh diễn tiến nặng có thể gây ra các biến chứng nguy hiểm như nhiễm trùng huyết, suy tim, suy hô hấp cấp, ngừng thở, áp xe phổi, và có nguy cơ đe dọa tính mạng."
+    },
+    {
+      "question": "Viêm đường hô hấp dưới có tự khỏi không?",
+      "answer": "Nhiễm trùng đường hô hấp dưới thường nhẹ và tự cải thiện trong khoảng từ 7 – 10 ngày. Tuy nhiên, một số trường hợp bệnh có thể đột ngột diễn tiến nặng, dẫn đến biến chứng nguy hiểm. Do đó, người bệnh nên đến cơ sở y tế để được thăm khám, theo dõi và điều trị kịp thời thay vì tự điều trị tại nhà."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nghẹt mũi hoặc chảy nước mũi, sốt nhẹ, ho khan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-duong-ho-hap-duoi", "viem-mui-hong", "cam-cum"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau họng, đau đầu, chóng mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-duong-ho-hap-duoi", "viem-hong", "cam-cum"]
+    },
+    {
+      "question": "Tôi hay bị ho dữ dội, ho có đờm, sốt cao, nhịp tim nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ho-hap-duoi",
+        "viem-phoi",
+        "viem-phe-quan-cap"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như thở khò khè hoặc khó thở, cảm thấy nặng hoặc đau ở ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-duong-ho-hap-duoi", "hen-suyen", "viem-phoi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm đường hô hấp dưới do virus gây bệnh cúm hoặc virus hợp bào hô hấp (Respiratory Syncytial Virus – RSV). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ho-hap-duoi",
+        "viem-phe-quan",
+        "viem-tieu-phe-quan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm đường hô hấp dưới do vi khuẩn Streptococcus pneumoniae (phế cầu khuẩn) hoặc Staphylococcus aureus. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ho-hap-duoi",
+        "viem-phoi",
+        "viem-phe-quan-cap"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm phế quản cấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ho-hap-duoi",
+        "viem-phe-quan-cap",
+        "hen-phquan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nhiễm trùng phổi thường gặp ở trẻ nhỏ, có các triệu chứng ban đầu của bệnh tương tự như cảm lạnh thông thường, sau đó trẻ có thể ho, thở khò khè, thậm chí khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ho-hap-duoi",
+        "viem-tieu-phe-quan",
+        "viem-phoi"
+      ]
     }
   ]
 }

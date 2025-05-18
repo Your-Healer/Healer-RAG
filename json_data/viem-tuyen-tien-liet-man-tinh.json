@@ -1,58 +1,207 @@
 {
   "disease_id": "viem-tuyen-tien-liet-man-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tuyến tiền liệt mạn tính",
+  "disease_alternative_names": [
+    "Viêm tuyến tiền liệt mạn do vi khuẩn",
+    "Hội chứng đau vùng chậu mạn tính",
+    "Chronic prostatitis"
+  ],
+  "disease_definition": "Viêm tuyến tiền liệt mạn tính là tình trạng nhiễm trùng tại tuyến tiền liệt gây ra những cơn đau ở vùng chậu, giảm chức năng sinh sản và những vấn đề khác gây bất tiện trong cuộc sống. Đây là một bệnh thuộc hệ tiết niệu ở nam giới, có thể kéo dài trong nhiều tháng hoặc nhiều năm, gây ảnh hưởng đáng kể đến chất lượng cuộc sống nếu không được điều trị và chăm sóc đúng cách.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau tức vùng bụng dưới",
+      "description": "Cảm giác đau tức ở vùng giữa bìu và hậu môn, vùng trên xương mu"
+    },
+    {
+      "name": "Đau vùng lưng dưới",
+      "description": "Đau ở các vùng lưng dưới, lan đến dương vật, tinh hoàn, trực tràng hoặc đùi trong"
+    },
+    {
+      "name": "Tiểu buốt và tiểu rắt",
+      "description": "Đau rát khi đi tiểu, tần suất đi tiểu thay đổi bất thường (nhiều hơn hoặc ít hơn)"
+    },
+    {
+      "name": "Đau khi xuất tinh",
+      "description": "Cảm giác đau nhức hoặc khó chịu khi xuất tinh"
+    },
+    {
+      "name": "Sốt",
+      "description": "Xuất hiện trong trường hợp người bệnh bị viêm tuyến tiền liệt mạn tính do vi khuẩn"
+    },
+    {
+      "name": "Rối loạn cương dương",
+      "description": "Khó khăn trong việc đạt được hoặc duy trì sự cương cứng"
+    },
+    {
+      "name": "Giảm khả năng sinh sản",
+      "description": "Chất lượng và số lượng tinh trùng có thể bị ảnh hưởng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm tuyến tiền liệt mạn tính có thể do vi khuẩn hoặc không rõ nguyên nhân. Viêm tuyến tiền liệt mạn tính do vi khuẩn thường là hệ quả từ việc tái phát viêm tuyến tiền liệt cấp tính nhiều lần hoặc bệnh kéo dài không được chữa trị.",
+    "related_factors": "Viêm tuyến tiền liệt mạn tính có hội chứng đau vùng chậu mạn tính được xem là một loại viêm tuyến tiền liệt không rõ nguyên nhân, có thể liên quan đến căng thẳng tâm lý, rối loạn thần kinh, rối loạn miễn dịch, nhiễm khuẩn đường tiết niệu, biến chứng của phẫu thuật vùng bụng dưới, hoặc rối loạn nội tiết.",
+    "transmission_routes": [
+      "Vi khuẩn xâm nhập vào tuyến tiền liệt qua đường tiết niệu",
+      "Nhiễm trùng từ các cơ quan lân cận (bàng quang, ống thông tiểu)",
+      "Nhiễm trùng sau phẫu thuật hoặc nội soi"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử viêm tuyến tiền liệt cấp tính",
+    "Nhiễm trùng đường tiết niệu tái phát",
+    "Phẫu thuật hoặc nội soi đường tiết niệu",
+    "Căng thẳng tâm lý kéo dài",
+    "Rối loạn miễn dịch",
+    "Không điều trị dứt điểm viêm tuyến tiền liệt cấp tính",
+    "Thói quen nhịn tiểu thường xuyên"
+  ],
+  "complications": [
+    "Rối loạn chức năng tình dục",
+    "Giảm khả năng sinh sản",
+    "Nhiễm trùng bàng quang tái phát",
+    "Tụ mủ tuyến tiền liệt",
+    "Ảnh hưởng đến tâm lý, chất lượng cuộc sống"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và khai thác tiền sử",
+      "Thăm khám tuyến tiền liệt qua trực tràng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thăm khám tuyến tiền liệt qua trực tràng",
+        "description": "Bác sĩ sẽ dùng 01 ngón tay để đưa vào trực tràng của người bệnh và xác định tình trạng tuyến tiền liệt có to hay không, rắn hay mềm, đau nhiều hay ít, ranh giới của tuyến với xung quanh."
+      },
+      {
+        "name": "Siêu âm Doppler tuyến tiền liệt",
+        "description": "Thực hiện bằng đầu dò trực tràng 2 bình diện, cho phép đánh giá được mật độ nhu mô, tình trạng vôi hóa, nang, ổ giảm âm, các vùng tổn thương nghi ngờ ác tính của tuyến tiền liệt và tình trạng túi tinh 02 bên."
+      },
+      {
+        "name": "Chụp cộng hưởng MRI",
+        "description": "Xác định các vùng bị viêm tuyến tiền liệt dựa trên kết quả hình ảnh, đồng thời loại trừ khả năng ung thư tuyến tiền liệt."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu và dịch tuyến tiền liệt",
+        "description": "Kiểm tra sự hiện diện của vi khuẩn, tế bào viêm hoặc máu trong nước tiểu và dịch tuyến tiền liệt."
+      },
+      {
+        "name": "Nuôi cấy nước tiểu",
+        "description": "Xác định loại vi khuẩn gây bệnh và độ nhạy của vi khuẩn với kháng sinh."
+      },
+      {
+        "name": "Xét nghiệm miễn dịch",
+        "description": "Đánh giá PSA toàn phần, PSA tự do, tỉ lệ PSA tự do/PSA toàn phần để đánh giá nguy cơ ung thư hoặc để theo dõi trong quá trình điều trị viêm tuyến tiền liệt."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm tuyến tiền liệt mạn tính rất khó có thể điều trị dứt điểm. Người bệnh có thể duy trì và cải thiện các triệu chứng bằng cách uống thuốc và kết hợp chế độ ăn uống và lối sống phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh",
+        "description": "Fluoroquinolon là loại thuốc phổ biến dùng để điều trị viêm tuyến tiền liệt mạn tính do vi khuẩn. Phác đồ sử dụng thuốc thường kéo dài 12 tuần."
+      },
+      {
+        "name": "Thuốc chống viêm không steroid (NSAID)",
+        "description": "Giúp giảm tình trạng viêm và đau."
+      },
+      {
+        "name": "Thuốc chẹn alpha",
+        "description": "Như Flomax, giúp giảm các triệu chứng tiết niệu nhất định."
+      },
+      {
+        "name": "Thuốc giãn cơ và thuốc lợi tiểu",
+        "description": "Sử dụng cho người bị viêm tuyến tiền liệt mạn tính có hội chứng đau vùng chậu mạn tính."
+      },
+      {
+        "name": "Thuốc chống lo âu",
+        "description": "Giúp giảm căng thẳng tâm lý, một yếu tố có thể làm nặng thêm triệu chứng."
+      },
+      {
+        "name": "Liệu pháp vật lý",
+        "description": "Tắm nước nóng hoặc ngâm vùng sinh dục với nước ấm hàng ngày vào buổi tối trước ngủ."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Uống nhiều nước",
+      "Hạn chế hoặc ngừng tiêu thụ thực phẩm cay nóng",
+      "Tránh thực phẩm có khả năng làm tăng tiết acid trong cơ thể",
+      "Tránh nhịn tiểu",
+      "Duy trì vệ sinh cá nhân tốt, đặc biệt là vùng sinh dục",
+      "Hạn chế hoặc tránh dùng rượu, bia, cà phê"
+    ],
+    "prevention_of_transmission": [
+      "Viêm tuyến tiền liệt mạn tính không lây truyền trực tiếp từ người sang người"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa viêm tuyến tiền liệt mạn tính",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ gìn vệ sinh cơ thể thật tốt, đặc biệt là bộ phận sinh dục",
+      "Điều trị kịp thời và triệt để viêm tuyến tiền liệt cấp tính",
+      "Thường xuyên uống nước, không nhịn tiểu",
+      "Tránh các hoạt động gây áp lực lên vùng tuyến tiền liệt như đạp xe trong thời gian dài",
+      "Duy trì lối sống lành mạnh, tránh căng thẳng tâm lý",
+      "Tránh quan hệ tình dục không an toàn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tuyến tiền liệt mạn tính có nguy hiểm không?",
+      "answer": "Viêm tuyến tiền liệt mạn tính thuộc bệnh tiết niệu ở nam giới. Dù bệnh không làm tăng khả năng ung thư tuyến tiền liệt nhưng khi bệnh tiến triển thành mạn tính sẽ tiềm ẩn nhiều biến chứng nguy hiểm khác cho người bệnh như rối loạn chức năng tình dục và sinh sản. Những ảnh hưởng của viêm tuyến tiền liệt mạn tính sẽ làm giảm sút chất lượng cuộc sống của người bệnh nếu không được điều trị và duy trì sức khỏe tiết niệu."
+    },
+    {
+      "question": "Viêm tuyến tiền liệt mạn tính có chữa được không?",
+      "answer": "Viêm tuyến tiền liệt mạn tính rất khó có thể điều trị dứt điểm, đặc biệt là với viêm tuyến tiền liệt cho hội chứng đau vùng chậu mạn tính. Người bệnh có thể duy trì và cải thiện các triệu chứng bằng cách uống thuốc và kết hợp chế độ ăn uống và lối sống phù hợp. Phác đồ điều trị viêm tuyến tiền liệt mạn tính chủ yếu là để giảm thiểu tối đa các triệu chứng và sự ảnh hưởng đến cuộc sống của người bệnh."
+    },
+    {
+      "question": "Viêm tuyến tiền liệt mạn tính có lây không?",
+      "answer": "Viêm tuyến tiền liệt mạn tính không phải là bệnh lây truyền từ người sang người. Bệnh chủ yếu xảy ra do vi khuẩn từ môi trường xâm nhập vào cơ thể qua đường tiết niệu hoặc do các yếu tố nội sinh như căng thẳng, rối loạn miễn dịch, hoặc biến chứng sau phẫu thuật."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau tức vùng bụng dưới, tiểu buốt và tiểu rắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt mạn tính",
+        "Viêm bàng quang",
+        "Nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức vùng tầng sinh môn và đau khi xuất tinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt mạn tính",
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu buốt, tiểu rắt và đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt mạn tính",
+        "Sỏi thận",
+        "Viêm bàng quang"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau nhức vùng tầng sinh môn, đau khi xuất tinh và rối loạn cương dương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt mạn tính",
+        "Rối loạn chức năng tình dục",
+        "Hội chứng đau vùng chậu mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau tức vùng bụng dưới, tiểu buốt, tiểu rắt và tiểu đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt mạn tính",
+        "Tăng sinh lành tính tuyến tiền liệt",
+        "Viêm bàng quang"
+      ]
     }
   ]
 }

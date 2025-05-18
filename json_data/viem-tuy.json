@@ -1,58 +1,213 @@
 {
   "disease_id": "viem-tuy",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tụy",
+  "disease_alternative_names": [
+    "Viêm tụy cấp tính",
+    "Viêm tụy mạn tính",
+    "Pancreatitis"
+  ],
+  "disease_definition": "Viêm tụy là tình trạng tuyến tụy bị viêm sưng, đỏ do dịch tiêu hóa hoặc enzym tấn công tuyến tụy. Tụy là một tuyến nằm sau dạ dày, ở phía bên trái bụng, gần với phần đầu tiên của ruột non. Tuyến tụy thực hiện 2 nhiệm vụ chính: tạo ra các enzym cung cấp cho ruột non để phân hủy thức ăn và tạo ra các hormone insulin và glucagon cho máu để kiểm soát lượng đường trong máu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng trên",
+      "description": "Cơn đau bắt đầu từ từ hoặc đột ngột ở vùng bụng trên, có thể lan ra sau lưng và kéo dài vài ngày"
+    },
+    {
+      "name": "Buồn nôn và nôn mửa",
+      "description": "Cảm giác buồn nôn và có thể bị nôn mửa"
+    },
+    {
+      "name": "Sốt",
+      "description": "Thân nhiệt tăng cao"
+    },
+    {
+      "name": "Chướng bụng",
+      "description": "Cảm giác đầy hơi, khó chịu ở bụng"
+    },
+    {
+      "name": "Nhịp tim nhanh",
+      "description": "Tim đập nhanh hơn bình thường"
+    },
+    {
+      "name": "Tiêu chảy",
+      "description": "Đi phân lỏng, đặc biệt ở bệnh nhân viêm tụy mạn tính"
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân không chủ ý, đặc biệt ở bệnh nhân viêm tụy mạn tính"
+    },
+    {
+      "name": "Phân có mỡ",
+      "description": "Phân có nhiều chất béo, thường gặp ở bệnh nhân viêm tụy mạn tính"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm tụy thường do lạm dụng rượu bia, sỏi mật, tăng mỡ máu (triglyceride máu cao), và các yếu tố khác như chấn thương bụng, phẫu thuật, hoặc nhiễm trùng.",
+    "related_factors": "Các enzym tụy bị hoạt hóa trong tuyến tụy, gây tổn thương tế bào tụy và quá trình viêm.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bệnh sỏi mật",
+    "Lạm dụng rượu bia",
+    "Tăng mỡ máu (triglyceride máu cao)",
+    "Chấn thương bụng hoặc phẫu thuật",
+    "Hàm lượng canxi trong máu rất cao",
+    "Sử dụng một số loại thuốc như estrogen, steroid và thuốc lợi tiểu thiazid",
+    "Nhiễm trùng, chẳng hạn như quai bị, viêm gan A hoặc B, hoặc vi khuẩn salmonella",
+    "Khiếm khuyết di truyền",
+    "Bất thường bẩm sinh ở tuyến tụy"
+  ],
+  "complications": [
+    "Viêm tụy hoại tử nhiễm trùng",
+    "Suy cơ quan",
+    "Nhiễm trùng huyết",
+    "Ung thư tuyến tụy",
+    "Suy dinh dưỡng",
+    "Đái tháo đường",
+    "Suy chức năng tụy ngoại tiết"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và khai thác bệnh sử",
+      "Đánh giá triệu chứng đau bụng và các dấu hiệu liên quan"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Nhằm giúp hỗ trợ chẩn đoán xác định viêm tụy cấp (lipase hoặc amylase), chẩn đoán nguyên nhân (triglyceride máu, calci máu…) hoặc giúp đánh giá mức độ nặng của viêm tụy cấp (urea, dung tích hồng cầu, CRP..)"
+      },
+      {
+        "name": "Chụp X-quang bụng",
+        "description": "Giúp chẩn đoán phân biệt viêm tụy cấp với các bệnh lý ngoại khoa khác như bán tắc ruột, thủng tạng rỗng trong trường hợp bệnh nhân đau bụng cấp nhập viện"
+      },
+      {
+        "name": "Siêu âm ổ bụng",
+        "description": "Là lựa chọn đầu tiên giúp gợi ý chẩn đoán viêm tụy cấp, chẩn đoán nguyên nhân viêm tụy cấp (sỏi mật..) cũng như chẩn đoán phân biệt nguyên nhân khác trong ổ bụng"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Chụp cắt lớp vi tính (CT) ổ bụng với thuốc cản quang có độ chính xác cao trong chẩn đoán viêm tụy cấp"
+      },
+      {
+        "name": "Chụp cộng hưởng từ mật tụy (MRCP)",
+        "description": "Được sử dụng khi không tìm thấy nguyên nhân gây viêm tụy, đặc biệt những trường hợp viêm tụy tái phát nhiều lần"
+      },
+      {
+        "name": "Siêu âm nội soi (EUS)",
+        "description": "Phương pháp thay thế để chẩn đoán bệnh khi không tìm thấy nguyên nhân rõ ràng"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị viêm tụy sẽ căn cứ theo hai loại viêm: Viêm tụy cấp tính và viêm tụy mãn tính.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Giảm đau",
+        "description": "Người bệnh được giảm đau tích cực với các thuốc giảm đau để kiểm soát cơn đau"
+      },
+      {
+        "name": "Bù dịch",
+        "description": "Tùy mức độ nặng và bệnh lý kèm theo, người bệnh có thể được truyền dung dịch Ringer lactat hoặc Sodium cloride 0.9%"
+      },
+      {
+        "name": "Cho ăn sớm",
+        "description": "Tùy theo mức độ nặng nhẹ cũng như khả năng dung nạp mà người bệnh viêm tụy cấp được khuyến cáo cho ăn sớm trong vòng 24h-72h sau nhập viện"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Chỉ sử dụng khi có bằng chứng nhiễm trùng, không sử dụng để phòng ngừa nhiễm trùng"
+      },
+      {
+        "name": "Điều trị nguyên nhân",
+        "description": "Ngưng rượu, thuốc lá, điều trị sỏi mật, tăng triglyceride máu để ngăn ngừa viêm tụy tái phát"
+      },
+      {
+        "name": "Điều trị hỗ trợ men tụy",
+        "description": "Sử dụng ở những bệnh nhân có bằng chứng thiếu men tụy ngoại tiết"
+      },
+      {
+        "name": "Điều trị với insulin",
+        "description": "Áp dụng nếu bệnh nhân có biến chứng đái tháo đường"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi thường xuyên theo hướng dẫn của bác sĩ",
+      "Uống nhiều nước và giữ đủ nước cho cơ thể",
+      "Ăn nhiều bữa nhỏ trong ngày để giảm gánh nặng cho hệ tiêu hóa",
+      "Ăn thực phẩm giàu protein và chất chống oxy hóa"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine đặc hiệu để phòng ngừa viêm tụy",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế uống rượu, bia, thuốc lá",
+      "Ăn uống khoa học, sạch sẽ để tránh nhiễm ký sinh trùng",
+      "Hạn chế ăn mặn, ăn đồ ăn nhanh, đồ ăn nhiều chất béo",
+      "Nếu mắc bệnh đái tháo đường, mỡ máu, sỏi mật cần quản lý tốt bệnh nền",
+      "Thăm khám định kỳ để tránh biến chứng gây viêm tụy"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tụy có nguy hiểm không?",
+      "answer": "Có thể coi viêm tụy là một bệnh nguy hiểm, đặc biệt là viêm tụy cấp vì có thể dẫn đến tử vong nhanh chóng nếu không được can thiệp kịp thời."
+    },
+    {
+      "question": "Bệnh viêm tụy có chữa được không?",
+      "answer": "Bệnh viêm tụy cấp có thể điều trị dứt điểm và càng điều trị sớm thì mức độ hiệu quả càng cao, càng đỡ tốn kém và người bệnh cũng tránh được những biến chứng gây ảnh hưởng đến sức khỏe."
+    },
+    {
+      "question": "Viêm tụy kiêng ăn gì và viêm tụy nên ăn gì?",
+      "answer": "Người bị viêm tụy nên kiêng thịt đỏ, đồ chiên, sữa đầy đủ chất béo, món tráng miệng có đường, nước ngọt, cafein và rượu. Nên ăn nhiều bữa nhỏ trong ngày, ăn thực phẩm giàu protein và chất chống oxy hóa, uống nhiều chất lỏng để giữ đủ nước."
+    },
+    {
+      "question": "Bệnh viêm tụy có tái phát không?",
+      "answer": "Bệnh viêm tụy không khó chữa nhưng cũng rất dễ tái phát. Do đó, điều quan trọng là sau điều trị người bệnh cần tiếp tục duy trì các khuyến nghị của bác sĩ nhằm tránh bệnh tái phát."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng trên, buồn nôn và nôn mửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tụy",
+        "Viêm dạ dày",
+        "Loét dạ dày tá tràng",
+        "Sỏi mật"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng, sốt và chướng bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tụy",
+        "Viêm thận",
+        "Viêm phổi",
+        "Nhiễm khuẩn đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiêu chảy, sụt cân và phân có mỡ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tụy mạn tính",
+        "Hội chứng kém hấp thu",
+        "Bệnh Crohn",
+        "Bệnh celiac"
+      ]
+    },
+    {
+      "question": "Tôi bị sỏi mật và hiện đang đau bụng dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tụy cấp tính",
+        "Cơn đau quặn mật",
+        "Viêm túi mật"
+      ]
+    },
+    {
+      "question": "Tôi lạm dụng rượu bia và hiện đang đau bụng, nôn mửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tụy cấp tính", "Viêm dạ dày do rượu", "Xơ gan"]
     }
   ]
 }

@@ -1,39 +1,130 @@
 {
   "disease_id": "u-tuyen-tung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U tuyến tùng",
+  "disease_alternative_names": [
+    "Khối u tuyến tùng",
+    "U não vùng tuyến tùng",
+    "Pineal gland tumor"
+  ],
+  "disease_definition": "U tuyến tùng là khối u xuất hiện ở vùng tuyến tùng, bao gồm u các thành phần và u của tuyến tùng. Tuyến tùng là một tuyến nội tiết nhỏ trong hộp sọ, nằm ở vị trí gần trung tâm não, có chức năng điều chỉnh nhịp sinh học (chu kỳ thức – ngủ) cho cơ thể. Khối u này có khả năng cao sẽ chèn ép não thất III, chèn ép cống não và gây ra tình trạng não úng thủy.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu, buồn nôn, ói mửa",
+      "description": "Do tăng áp lực nội sọ, khối u gây tắc nghẽn lưu thông dòng chảy của nước não tủy"
+    },
+    {
+      "name": "Rối loạn nhịp thở",
+      "description": "Biểu hiện do tăng áp lực nội sọ, có thể gây nhầm lẫn với các bệnh lý tiêu hóa khác"
+    },
+    {
+      "name": "Rối loạn nhìn",
+      "description": "Nhìn mờ, khó ngước mắt lên trên, mất tập trung 2 nhãn cầu (dấu hiệu Parinaud)"
+    },
+    {
+      "name": "Đau đầu mạn tính",
+      "description": "Triệu chứng kéo dài do khối u vùng tuyến tùng gây ra"
+    },
+    {
+      "name": "Suy giảm tri giác hoặc hôn mê",
+      "description": "Xuất hiện khi khối u ác tính, phát triển nhanh, gây biểu hiện lâm sàng cấp tính"
+    },
+    {
+      "name": "Đau sau gáy, đau lưng",
+      "description": "Biểu hiện khi khối u ác tính theo nước não tủy di chuyển xuống tủy sống"
+    },
+    {
+      "name": "Đái tháo nhạt, tăng nồng độ HCG",
+      "description": "Xảy ra khi khối u vùng tuyến tùng xâm lấn vào vùng dưới đồi, tuyến yên"
+    },
+    {
+      "name": "Dậy thì sớm",
+      "description": "Biểu hiện ở trẻ em, xảy ra trước 10 tuổi do khối u ảnh hưởng đến nội tiết tố"
+    },
+    {
+      "name": "Rối loạn tâm thần, tính cách",
+      "description": "Do khối u phát triển chèn ép xung quanh vùng tuyến tùng"
+    },
+    {
+      "name": "Mất dần khả năng phối hợp động tác",
+      "description": "Tình trạng rối loạn vận động do áp lực khối u gây ra"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện khoa học chưa có câu trả lời chính xác về những nguyên nhân hình thành khối u vùng tuyến tùng trong não.",
+    "related_factors": "Việc xuất hiện khối u trong não có thể do các tác động của những yếu tố nguy cơ như: sự tắc nghẽn các ống bài tiết của tuyến sau quá trình chấn thương sọ não, nhiễm trùng hệ thần kinh, bệnh lý về mạch máu, sự mất cân bằng nội tiết, vi khuẩn echinococcus ăn vào các tế bào cơ thể, các yếu tố bẩm sinh, bộ gen của cơ thể, tác động của môi trường hoặc tiếp xúc với bức xạ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Chấn thương sọ não",
+    "Nhiễm trùng hệ thần kinh",
+    "Bệnh lý về mạch máu",
+    "Mất cân bằng nội tiết",
+    "Nhiễm vi khuẩn echinococcus",
+    "Yếu tố bẩm sinh",
+    "Tiếp xúc với bức xạ",
+    "Yếu tố di truyền"
+  ],
+  "complications": [
+    "Não úng thủy (tích tụ dịch trong não)",
+    "Chèn ép tiểu não, cuống não trên",
+    "Chèn ép hố sau",
+    "Rối loạn tâm thần",
+    "Thay đổi tính cách",
+    "Mất khả năng phối hợp động tác",
+    "Rối loạn nội tiết",
+    "Tăng áp lực nội sọ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe thần kinh để kiểm tra phản xạ, chuyển động của mắt",
+      "Đánh giá chức năng vận động, cảm giác, sự phối hợp và thăng bằng",
+      "Khai thác tiền sử bệnh của bệnh nhân và gia đình"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Định lượng AFP, HCG",
+        "description": "Giúp xác định bản chất của khối u và theo dõi hiệu quả điều trị, đánh giá khả năng tái phát"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Có giá trị trong việc chẩn đoán và dự báo thương tổn giải phẫu, đánh giá kích thước, hình thái và mức độ xâm lấn của khối u"
+      },
+      {
+        "name": "Chụp cắt lớp điện toán (CT-Scan)",
+        "description": "Giúp phát hiện vôi hóa trong khối u, mức độ ngấm thuốc cản quang và tình trạng tắc nghẽn, giãn não thất"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô để xác định bản chất và loại của khối u, giúp chọn phương pháp điều trị phù hợp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Để có được hướng điều trị u vùng tuyến tùng chính xác, bệnh nhân cần làm sinh thiết để xác định bản chất và loại của khối u.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xạ trị",
+        "description": "Chỉ định cho khối u tuyến tùng ác tính, đa số khối u vùng này tương đối nhạy với xạ trị"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Chỉ định cho khối u tuyến tùng lành tính, nhằm loại bỏ hoàn toàn khối u"
+      },
+      {
+        "name": "Nội soi mở thông sàn não thất",
+        "description": "Điều trị cho bệnh nhân mắc phải tình trạng não úng thủy do khối u gây ra"
+      },
+      {
+        "name": "Dẫn lưu não thất và ổ bụng",
+        "description": "Giải quyết tình trạng tích tụ dịch não do khối u gây ra"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám định kỳ để theo dõi tiến triển",
+      "Làm các xét nghiệm định lượng AFP, HCG để đánh giá hiệu quả điều trị",
+      "Thực hiện chụp MRI, CT định kỳ để phát hiện tái phát sớm",
+      "Tuân thủ theo phác đồ điều trị của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +132,59 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Có quá trình quản lý thai kỳ đúng đắn",
+      "Ngăn ngừa tình trạng thiếu oxy ở thai nhi",
+      "Hạn chế tình trạng suy nhau thai",
+      "Giữ vững thói quen sống lành mạnh nhất là đối với phụ nữ có ý định làm mẹ",
+      "Ngăn ngừa bệnh lý nhiễm trùng tử cung",
+      "Không tự ý sử dụng thuốc trong thai kỳ khi chưa được sự cho phép của bác sĩ",
+      "Kiểm soát đặc biệt với yếu tố Rh âm ở cơ thể người mẹ",
+      "Kiểm tra sức khỏe tổng quát định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U tuyến tùng có nguy hiểm không?",
+      "answer": "U tuyến tùng có nguy hiểm không còn phụ thuộc vào tính chất, mức độ, vị trí của khối u. Thực tế cho thấy rằng khối u vùng tuyến tùng phần lớn là ác tính (chiếm đến 40%) nhưng đa số sẽ nhạy với phương pháp xạ trị. Các khối u vùng tuyến tùng lành tính thì sẽ được điều trị khỏi bệnh bằng phương pháp phẫu thuật. Dù lành tính hay ác tính đều có hướng điều trị tích cực, nhưng những ảnh hưởng xấu của khối u này đến não bộ là vấn đề nghiêm trọng."
+    },
+    {
+      "question": "Các loại u tuyến tùng thường gặp là gì?",
+      "answer": "Các loại u tuyến tùng thường gặp bao gồm: U tế bào mầm (thường gặp ở trẻ 10-12 tuổi), Khối u nhu mô tuyến tùng (cấp độ II hoặc III, gặp ở mọi lứa tuổi), U tuyến tùng dạng nhú (phổ biến ở người trưởng thành), U nguyên bào (phát triển nhanh, xâm lấn và phá hủy mô khỏe mạnh), và U tuyến tùng hỗn hợp (sự kết hợp của các loại tế bào phát triển chậm và nhanh)."
+    },
+    {
+      "question": "U tuyến tùng được chẩn đoán như thế nào?",
+      "answer": "Để chẩn đoán u tuyến tùng, bác sĩ sẽ hỏi về tiền sử gia đình và các triệu chứng, tiến hành kiểm tra thần kinh, định lượng AFP và HCG, và thực hiện các chẩn đoán hình ảnh như MRI và CT-Scan. Hình ảnh trên CT-Scan có giá trị tốt trong chẩn đoán khối u vùng tuyến tùng, cho thấy vôi hóa trong khối u và sự ngấm thuốc cản quang. MRI giúp chẩn đoán và dự báo thương tổn giải phẫu, đánh giá kích thước, hình thái và mức độ xâm lấn của khối u."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu, buồn nôn, ói mửa, rối loạn nhịp thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tuyến tùng",
+        "Tăng áp lực nội sọ",
+        "Viêm màng não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nhìn mờ, khó ngước mắt lên trên, mất tập trung 2 nhãn cầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tuyến tùng",
+        "Rối loạn thần kinh vận nhãn",
+        "U não thùy chẩm"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu mạn tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U tuyến tùng", "Đau nửa đầu", "Tăng huyết áp"]
+    },
+    {
+      "question": "Tôi hay bị suy giảm tri giác hoặc hôn mê. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U tuyến tùng", "Xuất huyết não", "Hạ đường huyết"]
+    },
+    {
+      "question": "Tôi bị đau sau gáy, đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U tuyến tùng", "Thoát vị đĩa đệm", "Viêm màng não"]
     }
   ]
 }

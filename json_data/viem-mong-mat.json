@@ -1,58 +1,176 @@
 {
   "disease_id": "viem-mong-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm mống mắt thể mi",
+  "disease_alternative_names": [
+    "Viêm màng bồ đào trước",
+    "Viêm phần trước của màng bồ đào"
+  ],
+  "disease_definition": "Viêm mống mắt thể mi là tình trạng viêm phần trước của màng bồ đào (mống mắt) hay còn gọi viêm màng bồ đào trước. Bệnh thường gặp nhất trong các dạng viêm màng bồ đào. Mống mắt nằm ở phần phía trước của màng bồ đào, là màng sắc tố có đặc điểm quyết định màu mắt của con người.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đỏ mắt",
+      "description": "Mắt bị đỏ, có biểu hiện viêm rõ ràng"
+    },
+    {
+      "name": "Đau nhức mắt",
+      "description": "Cảm giác khó chịu hoặc đau nhức ở vùng mắt"
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Mắt trở nên nhạy cảm với ánh sáng nhiều hơn bình thường"
+    },
+    {
+      "name": "Giảm thị lực",
+      "description": "Nhìn mờ hơn, thị lực suy giảm"
+    },
+    {
+      "name": "Đồng tử bất thường",
+      "description": "Đồng tử co nhỏ hoặc có hình dạng hai bên không đều"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Thông thường, không thể xác định được nguyên nhân gây viêm mống mắt thể mi. Đa số các trường hợp là viêm mống mắt vô căn (không rõ nguyên nhân).",
+    "related_factors": "Bệnh có thể liên quan đến chấn thương mắt, nhiễm trùng, yếu tố di truyền hoặc các bệnh tự miễn dịch khác trong cơ thể.",
+    "transmission_routes": [
+      "Nhiễm virus như herpes simplex, bệnh zona",
+      "Nhiễm khuẩn, ký sinh trùng toxoplasmosis"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá",
+    "Bệnh suy giảm hệ miễn dịch",
+    "Thay đổi về gen ảnh hưởng đến chức năng hệ thống miễn dịch",
+    "Bệnh tự miễn như viêm cột sống dính khớp, viêm khớp",
+    "Bệnh viêm ruột và vảy nến",
+    "Bệnh Behcet",
+    "Viêm khớp dạng thấp ở thiếu niên",
+    "Bệnh Sarcoidosis",
+    "Lupus ban đỏ",
+    "Sử dụng một số loại thuốc như kháng sinh rifabutin, thuốc kháng virus cidofovir"
+  ],
+  "complications": [
+    "Đục thủy tinh thể",
+    "Tăng nhãn áp",
+    "Sạn vôi ở mắt",
+    "Bong rách võng mạc",
+    "Viêm mống mắt tái phát"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá triệu chứng",
+      "Kiểm tra thị lực",
+      "Quan sát bên trong mắt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra bên ngoài",
+        "description": "Bác sĩ sử dụng đèn led để quan sát đồng tử, tình trạng viêm mắt và các dấu hiệu khác nếu có"
+      },
+      {
+        "name": "Kiểm tra thị lực",
+        "description": "Bác sĩ kiểm tra thị lực bằng bảng thị lực để đánh giá mức độ ảnh hưởng đến thị lực"
+      },
+      {
+        "name": "Kiểm tra bằng đèn khe",
+        "description": "Sử dụng đèn khe khám mắt để quan sát bên trong mắt, tìm dấu hiệu viêm mống mắt. Bác sĩ có thể nhỏ thuốc làm giãn đồng tử để nhìn rõ hơn"
+      },
+      {
+        "name": "Xét nghiệm bổ sung",
+        "description": "Có thể chỉ định một số xét nghiệm để tìm nguyên nhân gây bệnh như xét nghiệm máu, kiểm tra các bệnh tự miễn"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm mống mắt nhằm bảo tồn thị lực, giảm đau và viêm. Người bệnh cần theo dõi và tái khám theo hướng dẫn của bác sĩ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc nhỏ mắt giảm viêm",
+        "description": "Corticosteroid dạng nhỏ mắt được chỉ định để giảm viêm"
+      },
+      {
+        "name": "Thuốc nhỏ mắt giãn đồng tử",
+        "description": "Giúp giảm cơn đau do viêm mống mắt và bảo vệ chức năng đồng tử, ngăn ngừa dính mống mắt với thủy tinh thể"
+      },
+      {
+        "name": "Thuốc uống chống viêm",
+        "description": "Đối với trường hợp triệu chứng nặng hoặc không đáp ứng với thuốc nhỏ, bác sĩ có thể kê đơn thuốc uống chống viêm"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng hướng dẫn sử dụng thuốc của bác sĩ",
+      "Tái khám sau 1 tuần để đánh giá hiệu quả điều trị",
+      "Trong trường hợp đau nặng hơn hoặc giảm thị lực đột ngột, cần đến khám lại ngay"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa viêm mống mắt thể mi",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Viêm mống mắt thể mi thường không thể ngăn ngừa được vì không rõ nguyên nhân",
+      "Ở người mắc bệnh tự miễn dịch, việc chăm sóc tốt tình trạng bệnh có thể ngăn sự xuất hiện của bệnh viêm mống mắt",
+      "Khám mắt định kỳ để phát hiện sớm các vấn đề về mắt"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm mống mắt thể mi có nguy hiểm không?",
+      "answer": "Viêm mống mắt thể mi tuy không nguy hiểm đến tính mạng nhưng có thể gây khó chịu và giảm thị lực. Nếu không được điều trị kịp thời, bệnh có thể dẫn đến các biến chứng nghiêm trọng như đục thủy tinh thể, tăng nhãn áp, sạn vôi ở mắt và bong rách võng mạc."
+    },
+    {
+      "question": "Viêm mống mắt thể mi có hay tái phát không?",
+      "answer": "Một số trường hợp bệnh viêm mống thể mi có xu hướng tái phát. Điều trị sớm có thể rút ngắn thời gian điều trị và giảm nguy cơ tái phát. Đối với những người có bệnh nền như bệnh tự miễn dịch, nguy cơ tái phát cao hơn."
+    },
+    {
+      "question": "Làm thế nào để phân biệt viêm mống mắt với các bệnh về mắt khác?",
+      "answer": "Viêm mống mắt thường có các triệu chứng đặc trưng như đỏ mắt, đau nhức, nhạy cảm với ánh sáng, giảm thị lực và đồng tử có hình dạng bất thường. Tuy nhiên, chỉ bác sĩ nhãn khoa mới có thể chẩn đoán chính xác thông qua việc khám bằng đèn khe và các phương pháp chẩn đoán khác."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm mống mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mống mắt thể mi",
+        "Viêm màng bồ đào trước",
+        "Viêm kết mạc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức mắt và nhạy cảm với ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mống mắt thể mi",
+        "Viêm giác mạc",
+        "Viêm màng bồ đào"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chấn thương mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mống mắt thể mi",
+        "Viêm giác mạc",
+        "Xuất huyết kết mạc",
+        "Đục thủy tinh thể do chấn thương"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mắc một số bệnh tự miễn do gen di truyền ảnh hưởng đến hệ thống miễn dịch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mống mắt thể mi",
+        "Viêm khớp dạng thấp",
+        "Lupus ban đỏ",
+        "Bệnh Behcet"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đỏ mắt và giảm thị lực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mống mắt thể mi",
+        "Viêm kết mạc",
+        "Glaucoma cấp tính",
+        "Viêm giác mạc"
+      ]
     }
   ]
 }

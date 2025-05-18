@@ -1,58 +1,230 @@
 {
   "disease_id": "viem-ket-mac",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm kết mạc mắt",
+  "disease_alternative_names": ["Đau mắt đỏ", "Proctitis"],
+  "disease_definition": "Viêm kết mạc là tình trạng viêm lớp mô mỏng trong suốt nằm trên phần tròng trắng của mắt và lót bên trong mí mắt (kết mạc). Khi các mạch máu nhỏ trong kết mạc sưng lên và bị kích thích sẽ khiến cho tròng trắng mắt có màu đỏ hoặc hồng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đỏ mắt",
+      "description": "Đỏ mắt là triệu chứng điển hình của viêm kết mạc. Đây là dấu hiệu phổ biến và rất ít trường hợp diễn biến nghiêm trọng và không gây tổn thương mắt hoặc thị lực lâu dài nếu được phát hiện và điều trị kịp thời."
+    },
+    {
+      "name": "Ngứa hoặc cộm ở mắt",
+      "description": "Cảm giác ngứa ngáy, nóng rát trong mắt hoặc khó chịu như có vật gì kẹt trong mắt là triệu chứng điển hình của viêm kết mạc. Ngứa dữ dội thường gặp trong viêm kết mạc dị ứng."
+    },
+    {
+      "name": "Tiết nhiều dịch ở mắt",
+      "description": "Nước mắt chảy nhiều thường gặp ở bệnh nhân viêm kết mạc do virus và dị ứng. Viêm kết mạc do vi khuẩn gây ra sẽ cho dịch tiết ra có màu vàng xanh (mủ)."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Đau mắt đỏ có thể gây ra tình trạng nhạy cảm nhẹ với ánh sáng. Nhạy cảm nghiêm trọng với ánh sáng có thể do nhiễm trùng lan rộng ra ngoài kết mạc, nhiễm trùng nặng hoặc viêm bên trong mắt."
+    },
+    {
+      "name": "Đóng màng, ghèn sau khi thức dậy",
+      "description": "Thức dậy với mí mắt bị dính chặt lại với nhau có thể là do dịch tiết ra từ bệnh đau mắt đỏ tích tụ trong khi ngủ."
+    },
+    {
+      "name": "Chảy nước mắt",
+      "description": "Đau mắt đỏ do virus và dị ứng là nguyên nhân chính gây ra tình trạng tiết nhiều nước mắt hơn bình thường."
+    },
+    {
+      "name": "Sưng mí mắt",
+      "description": "Sưng mí mắt thường do vi khuẩn và dị ứng gây ra, làm cho mí mắt có vẻ ngoài phồng lên và đỏ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm kết mạc có thể do nhiều nguyên nhân gây ra, bao gồm nhiễm khuẩn, nhiễm virus, dị ứng, kích ứng do hóa chất hoặc dị vật.",
+    "related_factors": "Viêm kết mạc truyền nhiễm phổ biến nhất là do adenovirus, virus herpes simplex và virus varicella-zoster, hoặc do vi khuẩn như Staphylococcus aureus, Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis.",
+    "transmission_routes": [
+      "Tiếp xúc trực tiếp với người bệnh viêm kết mạc",
+      "Chạm vào vật dụng đã bị nhiễm virus hoặc vi khuẩn rồi chạm vào mắt",
+      "Hắt hơi hoặc ho từ người bệnh",
+      "Sử dụng các đồ dùng cá nhân chung như khăn mặt, gối, hoặc đồ trang điểm mắt"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiếp xúc với người đang bị viêm kết mạc",
+    "Tiếp xúc với môi trường có nhiều chất gây dị ứng như phấn hoa, bụi nhà, lông thú cưng",
+    "Sử dụng kính áp tròng, đặc biệt là khi không vệ sinh kính đúng cách",
+    "Làm việc trong môi trường có nhiều bụi bẩn, khói, hóa chất",
+    "Có tiền sử các bệnh dị ứng như sốt, hen suyễn, bệnh chàm",
+    "Hệ miễn dịch suy yếu do HIV, điều trị ung thư hoặc các điều kiện sức khỏe khác",
+    "Đeo kính áp tròng không đúng cách hoặc không vệ sinh kính thường xuyên",
+    "Bị tắc tuyến lệ"
+  ],
+  "complications": [
+    "Nhú gai kết mạc sụn mi trên",
+    "Loét giác mạc",
+    "Biến dạng bờ mi",
+    "Lông quặm",
+    "Khô mắt",
+    "Mù lòa (trong trường hợp nghiêm trọng)",
+    "Sẹo giác mạc (đặc biệt trong trường hợp bỏng hóa chất)",
+    "Nhiễm trùng lan rộng ra ngoài kết mạc"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để đánh giá các triệu chứng và mức độ viêm kết mạc",
+      "Hỏi bệnh sử và các yếu tố nguy cơ",
+      "Lấy mẫu dịch tiết ở mắt để xét nghiệm vi sinh (nếu nghi ngờ nhiễm trùng nghiêm trọng)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám mắt",
+        "description": "Bác sĩ sẽ kiểm tra mắt để đánh giá mức độ đỏ, sưng, và dịch tiết, giúp xác định loại viêm kết mạc và nguyên nhân gây bệnh."
+      },
+      {
+        "name": "Lấy mẫu dịch tiết",
+        "description": "Trong một số trường hợp, bác sĩ có thể lấy mẫu dịch tiết từ mắt để xét nghiệm vi sinh, giúp xác định chính xác tác nhân gây bệnh và hướng điều trị thích hợp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị viêm kết mạc phụ thuộc vào nguyên nhân gây bệnh. Hầu hết các trường hợp viêm kết mạc do virus đều nhẹ và sẽ tự khỏi sau 7-14 ngày mà không cần điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị viêm kết mạc do virus",
+        "description": "Hầu hết các trường hợp sẽ tự khỏi sau 7-14 ngày mà không cần điều trị đặc hiệu. Bác sĩ có thể kê đơn thuốc kháng virus cho người bệnh để điều trị các dạng viêm kết mạc nghiêm trọng hơn, ví dụ viêm kết mạc do virus herpes simplex hoặc virus varicella-zoster gây ra."
+      },
+      {
+        "name": "Điều trị viêm kết mạc do vi khuẩn",
+        "description": "Viêm kết mạc do vi khuẩn nhẹ có thể tự cải thiện trong 2-5 ngày, nhưng có thể mất đến 2 tuần để khỏi hẳn. Các đơn thuốc kháng sinh bác sĩ kê thường là các loại thuốc tại chỗ như thuốc nhỏ mắt hoặc thuốc mỡ, giúp rút ngắn thời gian nhiễm trùng và giảm lây lan."
+      },
+      {
+        "name": "Điều trị viêm kết mạc dị ứng",
+        "description": "Thường được cải thiện bằng cách loại bỏ chất gây dị ứng khỏi môi trường sống. Thuốc chống dị ứng và một số loại thuốc nhỏ mắt (thuốc kháng histamine và thuốc co mạch tại chỗ) cũng có thể giúp thuyên giảm các triệu chứng."
+      },
+      {
+        "name": "Điều trị viêm kết mạc do hóa chất",
+        "description": "Rửa mắt bằng nước muối là phương pháp điều trị tiêu chuẩn. Người bệnh cũng có thể cần sử dụng steroid tại chỗ. Tổn thương mắt do hóa chất thường nghiêm trọng, đặc biệt bỏng kiềm là trường hợp cấp cứu y tế."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Rửa tay thường xuyên, đặc biệt trước khi chạm vào mắt hoặc sử dụng thuốc nhỏ mắt",
+      "Tránh chạm hoặc dụi mắt để ngăn bệnh trở nên tồi tệ hơn hoặc lây sang mắt còn lại",
+      "Dùng khăn hoặc bông gòn sạch để lau dịch tiết từ mắt",
+      "Tránh đeo kính áp tròng đến khi được bác sĩ cho phép",
+      "Sử dụng khăn riêng biệt và không dùng chung với người khác",
+      "Thay vỏ gối, khăn trải giường thường xuyên",
+      "Vứt bỏ các sản phẩm trang điểm mắt đã sử dụng khi bị nhiễm trùng",
+      "Sử dụng nước mắt nhân tạo để giảm khô và kích ứng"
+    ],
+    "prevention_of_transmission": [
+      "Rửa tay thường xuyên và kỹ lưỡng, đặc biệt sau khi chạm vào mắt hoặc xung quanh mắt",
+      "Không dùng chung khăn mặt, khăn tắm, gối, hoặc các vật dụng cá nhân khác",
+      "Thay khăn trải giường và vỏ gối thường xuyên",
+      "Không dùng chung đồ trang điểm mắt, kính áp tròng hoặc dung dịch vệ sinh kính",
+      "Người bị viêm kết mạc nên hạn chế tiếp xúc với người khác cho đến khi hết dịch tiết"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế dùng tay chạm vào mắt",
+      "Rửa tay thường xuyên bằng xà phòng và nước ấm ít nhất 20 giây",
+      "Sử dụng khăn sạch và không dùng chung khăn",
+      "Thay vỏ gối, khăn trải giường, khăn mặt và khăn tắm thường xuyên",
+      "Không dùng mỹ phẩm mắt cũ hoặc đã hết hạn sử dụng",
+      "Không dùng chung các vật dụng cá nhân như gối, khăn, thuốc nhỏ mắt, đồ trang điểm mắt",
+      "Làm sạch, bảo quản, thay thế kính áp tròng theo chỉ định của bác sĩ",
+      "Tránh môi trường nhiều bụi bẩn hoặc chất gây dị ứng",
+      "Giữ vệ sinh khi bơi, tránh bơi khi mắt đang bị viêm nhiễm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm kết mạc có lây không?",
+      "answer": "Viêm kết mạc do virus và vi khuẩn rất dễ lây lan thông qua tiếp xúc trực tiếp hoặc gián tiếp với dịch tiết từ mắt của người bị nhiễm bệnh. Virus có thể lây lan qua tiếp xúc cá nhân như chạm hoặc bắt tay, lan truyền trong không khí do ho và hắt hơi, hoặc chạm vào đồ vật, bề mặt có vi trùng. Viêm kết mạc dị ứng hoặc do kích ứng không lây."
+    },
+    {
+      "question": "Viêm kết mạc kéo dài bao lâu?",
+      "answer": "Thời gian phục hồi phụ thuộc vào nguyên nhân gây bệnh. Viêm kết mạc do virus thường kéo dài 7-14 ngày, nhưng có thể mất 2-3 tuần để khỏi hoàn toàn. Viêm kết mạc do vi khuẩn có thể tự cải thiện trong 2-5 ngày nhưng mất đến 2 tuần để khỏi hẳn. Viêm kết mạc dị ứng thường cải thiện khi loại bỏ chất gây dị ứng."
+    },
+    {
+      "question": "Khi nào cần đi khám bác sĩ nếu bị viêm kết mạc?",
+      "answer": "Bạn nên đến gặp bác sĩ ngay lập tức nếu có các triệu chứng sau: đau mắt, nhạy cảm với ánh sáng, tầm nhìn bị mờ, mắt đỏ ngầu, các triệu chứng trở nên tồi tệ hơn, có hệ thống miễn dịch suy yếu, hoặc bị tổn thương thể chất ở mắt. Trẻ sơ sinh có triệu chứng viêm kết mạc cũng cần được khám ngay."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm kết mạc?",
+      "answer": "Để phòng ngừa viêm kết mạc, bạn nên: hạn chế dùng tay chạm vào mắt, rửa tay thường xuyên, sử dụng khăn sạch và không dùng chung, thay vỏ gối thường xuyên, không dùng mỹ phẩm mắt cũ, không dùng chung mỹ phẩm và các vật dụng cá nhân, làm sạch kính áp tròng theo hướng dẫn, và tránh môi trường có nhiều chất gây dị ứng hoặc kích ứng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đỏ mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-ket-mac", "glocom", "viem-giac-mac"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa hoặc cộm ở mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-ket-mac", "kho-mat", "di-ung-mat"]
+    },
+    {
+      "question": "Tôi hay bị tiết nhiều dịch ở mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-ket-mac", "nhiem-khuan-mat", "tac-ong-dan-le"]
+    },
+    {
+      "question": "Tôi hay bị nhạy cảm với ánh sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-ket-mac", "viem-giac-mac", "duc-thuy-tinh-the"]
+    },
+    {
+      "question": "Tôi bị đóng màng, ghèn sau khi thức dậy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-ket-mac", "viem-mi-mat", "viem-le-dao"]
+    },
+    {
+      "question": "Tôi bị chảy nước mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-ket-mac", "viem-le-dao", "khoi-u-tuyen-le"]
+    },
+    {
+      "question": "Tôi bị đỏ mắt, dịch tiết ra có màu vàng xanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-ket-mac",
+        "nhiem-khuan-mat",
+        "viem-ket-mac-vi-khuan"
+      ]
+    },
+    {
+      "question": "Tôi bị đỏ mắt, dịch tiết ra lỏng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-ket-mac",
+        "viem-ket-mac-virus",
+        "viem-giac-mac"
+      ]
+    },
+    {
+      "question": "Tôi bị đỏ mắt, ngứa dữ dội, chảy nước mắt và sưng tấy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-ket-mac",
+        "viem-ket-mac-di-ung",
+        "viem-ket-giac-mac"
+      ]
+    },
+    {
+      "question": "Tôi bị đỏ mắt do hóa chất bắn vào mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-ket-mac",
+        "bong-giac-mac-hoa-chat",
+        "bong-mat-hoa-chat"
+      ]
+    },
+    {
+      "question": "Tôi đeo kính áp tròng và bị ngứa và rát ở cả hai mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-ket-mac",
+        "viem-giac-mac-do-kinh-ap-trong",
+        "kho-mat"
+      ]
+    },
+    {
+      "question": "Tôi tiếp xúc với người bị viêm kết mạc và bị đỏ mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-ket-mac",
+        "viem-ket-mac-virus",
+        "viem-ket-mac-vi-khuan"
+      ]
     }
   ]
 }

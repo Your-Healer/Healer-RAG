@@ -1,58 +1,198 @@
 {
   "disease_id": "ung-thu-vom-hong-giai-doan-2",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vòm họng giai đoạn 2",
+  "disease_alternative_names": [
+    "Ung thư vòm họng T2N0M0",
+    "Ung thư vòm họng T2N1M0",
+    "Ung thư vòm họng T0N1M0",
+    "Ung thư vòm họng T1N1M0"
+  ],
+  "disease_definition": "Ung thư vòm họng giai đoạn 2 là bệnh ở giai đoạn trung gian nhưng vẫn được xem là giai đoạn sớm trong điều trị ung thư vòm họng. Trong giai đoạn này, khối u có thể giới hạn ở vùng vòm họng, có thể phát triển vào vùng miệng họng, khoang mũi mà chưa xâm lấn vùng quanh hầu họng, và có thể đã di căn đến hạch ở một bên cổ với kích thước dưới 6cm nằm trên sụn nhẫn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Triệu chứng vùng mũi - xoang",
+      "description": "Nghẹt mũi xuất hiện cùng các cơn đau đầu, tăng dần cả về mức độ và tần suất. Người bệnh có thể chảy dịch nhầy, máu hoặc mủ từ mũi."
+    },
+    {
+      "name": "Triệu chứng vùng tai",
+      "description": "Người bệnh cảm thấy đau nhức, ù tai, giảm thính lực. Một số trường hợp bị viêm tai giữa thanh dịch do bội nhiễm."
+    },
+    {
+      "name": "Nổi hạch cổ",
+      "description": "Các khối hạch xuất hiện rõ ở giai đoạn 2, ban đầu có kích thước nhỏ sau đó lớn dần, có thể đạt kích thước tới 6 cm. Hạch cứng, ấn vào không đau, ít di động và thường nằm ở một bên cổ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chủ yếu liên quan đến nhiễm virus Epstein-Barr (EBV), tương tự như các giai đoạn khác của ung thư vòm họng.",
+    "related_factors": "Các yếu tố nguy cơ bao gồm virus Epstein-Barr (EBV), virus HPV, tiếp xúc với các chất gây ung thư từ môi trường, yếu tố di truyền và chế độ ăn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm virus Epstein-Barr (EBV)",
+    "Nhiễm virus HPV",
+    "Tiền sử gia đình có người mắc ung thư vòm họng",
+    "Hút thuốc lá, uống rượu bia",
+    "Chế độ ăn nhiều thực phẩm muối chua, ít rau xanh và trái cây",
+    "Tiếp xúc với khói, bụi và hóa chất độc hại"
+  ],
+  "complications": [
+    "Suy giảm thính lực kéo dài",
+    "Khó khăn trong việc nuốt và nói",
+    "Khô miệng do giảm tiết nước bọt sau xạ trị",
+    "Thay đổi vị giác",
+    "Suy nhược cơ thể, gầy sút cân",
+    "Di căn đến các cơ quan khác nếu không điều trị kịp thời",
+    "Biến chứng muộn sau xạ trị như suy giáp, hoại tử xương hàm, xơ cứng vùng cổ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Nội soi tai mũi họng và sinh thiết",
+      "Chẩn đoán hình ảnh (X-quang ngực, siêu âm hạch vùng cổ)",
+      "Chụp cắt lớp vi tính (CT)",
+      "Chụp cộng hưởng từ (MRI)",
+      "PET/CT"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai mũi họng và sinh thiết",
+        "description": "Bác sĩ đưa dụng cụ soi chuyên dụng để kiểm tra các bất thường khu vực tai-mũi-họng. Khi đánh giá có bất thường, bác sĩ sẽ tiến hành sinh thiết tổn thương, lấy mẫu bệnh phẩm để xác định liệu có phải ung thư hay không."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Giúp xác định vị trí, mức độ xâm lấn của khối u với các mô lành xung quanh, đồng thời đánh giá sự hiện diện của các hạch bạch huyết có thể đã bị di căn."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết hơn về mô mềm, giúp đánh giá chính xác mức độ xâm lấn của khối u và phát hiện hạch sau hầu mà CT có thể bỏ sót."
+      },
+      {
+        "name": "PET/CT",
+        "description": "Kỹ thuật tân tiến giúp đánh giá được bệnh đã di căn xa hay còn ở tại chỗ, hỗ trợ chẩn đoán chính xác giai đoạn bệnh để lập kế hoạch điều trị phù hợp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Ung thư vòm họng giai đoạn 2 có tỷ lệ điều trị khỏi bệnh và thời gian sống còn sau 5 năm từ 70-80%. Với phương pháp điều trị phù hợp, tiên lượng sống còn trên 5 năm có thể đạt hơn 90%.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xạ trị",
+        "description": "Phương pháp điều trị sử dụng các hạt hoặc sóng có năng lượng cao (như tia X, tia gamma, proton) chiếu tới khối u nhằm tiêu diệt hoặc phá hỏng các tế bào ung thư. Kỹ thuật xạ trị điều biến liều (IMRT) giúp tối ưu hiệu quả điều trị và giảm thiểu tác dụng phụ."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Có thể được tiến hành đồng thời với xạ trị (hóa-xạ trị đồng thời) hoặc trước xạ trị để giảm kích thước khối u. Hóa chất thường được sử dụng là cisplatin hoặc carboplatin (trong trường hợp không dung nạp cisplatin)."
+      },
+      {
+        "name": "Hóa-xạ trị đồng thời",
+        "description": "Phương pháp kết hợp xạ trị và hóa trị cùng lúc, thường được chỉ định cho các bệnh nhân ung thư vòm họng có nguy cơ cao (như u kích thước lớn, nồng độ EBV DNA trong máu cao)."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì chế độ ăn uống thức ăn mềm, dễ nuốt, giàu dinh dưỡng",
+      "Chia nhỏ các bữa ăn trong ngày để cải thiện cảm giác ngon miệng",
+      "Tránh thực phẩm chứa nhiều acid hoặc có vị chua gây rát vòm họng",
+      "Tránh sử dụng thuốc lá, bia rượu, các loại thức ăn cay nóng",
+      "Duy trì chế độ vận động nhẹ nhàng phù hợp với thể trạng",
+      "Tuân thủ phác đồ điều trị và tái khám định kỳ 3-6 tháng theo lịch hẹn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc-xin phòng HPV có thể giúp giảm nguy cơ mắc ung thư vòm họng liên quan đến HPV.",
+      "recommended_for": ["Thanh thiếu niên trước khi có hoạt động tình dục"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thăm khám sức khỏe định kỳ, nhất là khi có các triệu chứng bất thường về tai-mũi-họng",
+      "Hạn chế hoặc tránh tiếp xúc với khói thuốc lá, bia rượu",
+      "Duy trì chế độ ăn uống cân bằng, giàu rau củ quả",
+      "Tránh tiếp xúc với các hóa chất độc hại, môi trường ô nhiễm",
+      "Thực hiện tầm soát ung thư định kỳ nếu thuộc nhóm nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư vòm họng giai đoạn 2 sống được bao lâu?",
+      "answer": "Tiên lượng sống còn cho người mắc ung thư vòm họng giai đoạn 2 phụ thuộc vào nhiều yếu tố như độ tuổi, tình trạng sức khỏe chung và các bệnh lý đi kèm. Tỷ lệ sống còn trên 5 năm khoảng từ 70-80%, nhưng có thể đạt hơn 90% nếu được điều trị kịp thời với phương pháp phù hợp."
+    },
+    {
+      "question": "Triệu chứng của ung thư vòm họng giai đoạn 2 là gì?",
+      "answer": "Triệu chứng của ung thư vòm họng giai đoạn 2 thường rõ ràng hơn giai đoạn 1, bao gồm: triệu chứng vùng mũi-xoang (nghẹt mũi, đau đầu, chảy dịch nhầy, máu hoặc mủ), triệu chứng vùng tai (đau nhức, ù tai, giảm thính lực, viêm tai giữa thanh dịch), và nổi hạch cổ (hạch cứng, ấn không đau, ít di động, kích thước có thể đến 6cm, thường ở một bên cổ)."
+    },
+    {
+      "question": "Phương pháp điều trị ung thư vòm họng giai đoạn 2 là gì?",
+      "answer": "Phương pháp điều trị nền tảng cho ung thư vòm họng giai đoạn 2 là xạ trị và hóa trị. Xạ trị với kỹ thuật điều biến liều (IMRT) giúp tiêu diệt tế bào ung thư và hạn chế tác động đến mô lành. Hóa trị có thể được thực hiện đồng thời với xạ trị (hóa-xạ trị đồng thời) hoặc trước xạ trị để giảm kích thước khối u, thường sử dụng cisplatin hoặc carboplatin."
+    },
+    {
+      "question": "Chẩn đoán ung thư vòm họng giai đoạn 2 bằng cách nào?",
+      "answer": "Chẩn đoán ung thư vòm họng giai đoạn 2 được thực hiện thông qua khám lâm sàng, nội soi tai mũi họng và sinh thiết tổn thương, kết hợp với các phương pháp chẩn đoán hình ảnh như CT, MRI, PET/CT. Những kỹ thuật này giúp xác định vị trí, mức độ xâm lấn của khối u và đánh giá tình trạng di căn hạch hay di căn xa."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nghẹt mũi, đau đầu và ù tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-2",
+        "viem-xoang",
+        "viem-tai-giua"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy giảm thính lực, đau họng và nổi hạch ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-2",
+        "viem-amidan",
+        "viem-hach-lympho"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy máu mũi, viêm tai giữa và nổi hạch ở một bên cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-2",
+        "leukemia",
+        "viem-xoang-man"
+      ]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như nghẹt mũi, đau nhức tai và hạch cổ cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-2",
+        "viem-tai-giua",
+        "lao-mang-hach-co"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy dịch nhầy ở mũi, giảm thính lực và nổi hạch ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-2",
+        "viem-xoang",
+        "viem-tai-giua"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu, đau rát họng và nổi hạch ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-2",
+        "viem-amidan",
+        "viem-hach-lympho"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nghẹt mũi, ù tai và hạch cổ ít di động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-2",
+        "ung-thu-vom-hong-giai-doan-3",
+        "lymphoma"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy máu mũi, viêm tai giữa và hạch cổ kích thước lớn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-2",
+        "ung-thu-vom-hong-giai-doan-3",
+        "leukemia"
+      ]
     }
   ]
 }

@@ -1,58 +1,223 @@
 {
   "disease_id": "ung-thu-vom-hong-giai-doan-3",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vòm họng giai đoạn 3",
+  "disease_alternative_names": [
+    "Ung thư vòm họng T3N0M0",
+    "Ung thư vòm họng T0N2M0",
+    "Ung thư vòm họng T1N2M0",
+    "Ung thư vòm họng T2N2M0"
+  ],
+  "disease_definition": "Ung thư vòm họng giai đoạn 3 được xem là giai đoạn tiến xa tại chỗ – tại vùng, khi các tế bào ung thư đã xâm lấn đến khu vực xung quanh như nền sọ, cột sống cổ, các xoang mũi, hoặc có tình trạng di căn hạch nhiều ở cả 2 bên vùng cổ mà chưa có biểu hiện của di căn xa.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu dữ dội",
+      "description": "Các cơn đau đầu có thể xuất hiện đột ngột, dữ dội; đôi khi kèm theo đau sâu trong hốc mắt."
+    },
+    {
+      "name": "Nổi hạch ở cổ",
+      "description": "Xuất hiện các hạch bạch huyết sưng to ở vùng cổ, nếu hạch vỡ có thể gây nhiễm trùng và đau đớn."
+    },
+    {
+      "name": "Các vấn đề về nuốt",
+      "description": "Người bệnh gặp khó khăn khi nuốt do khối u phát triển chèn ép vùng miệng, họng."
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Người bệnh có thể khạc nhổ dịch đờm lẫn máu, nếu lượng máu mất nhiều có thể gây suy nhược cơ thể."
+    },
+    {
+      "name": "Nghẹt mũi và chảy máu mũi",
+      "description": "Triệu chứng nghẹt mũi kéo dài và chảy máu mũi thường xuyên."
+    },
+    {
+      "name": "Các vấn đề về tai",
+      "description": "Ù tai, giảm thính lực, tai chảy mủ lẫn máu do kích thước khối u lớn ảnh hưởng đến vòi nhĩ và các bộ phận liên quan đến tai."
+    },
+    {
+      "name": "Các biểu hiện toàn thân",
+      "description": "Mệt mỏi, gầy sút cân, ăn uống kém, chán ăn và các biểu hiện suy nhược khác của bệnh lý ác tính."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính liên quan đến nhiễm virus Epstein-Barr (EBV), được xác định qua xét nghiệm tải lượng DNA EBV trong máu.",
+    "related_factors": "Các yếu tố khác có thể góp phần vào tiến triển bệnh giai đoạn 3 bao gồm phát hiện muộn, không điều trị kịp thời từ giai đoạn sớm.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm virus Epstein-Barr (EBV)",
+    "Nhiễm virus HPV",
+    "Tiền sử gia đình có người mắc ung thư vòm họng",
+    "Hút thuốc lá, uống rượu bia",
+    "Chế độ ăn nhiều thực phẩm muối chua, ít rau xanh và trái cây",
+    "Tiếp xúc với khói, bụi và hóa chất độc hại"
+  ],
+  "complications": [
+    "Đau đớn mãn tính ở đầu và vùng mặt",
+    "Khó khăn khi ăn uống dẫn đến suy dinh dưỡng",
+    "Suy giảm thính lực nghiêm trọng",
+    "Nhiễm trùng tai, mũi, họng",
+    "Tác động tâm lý như lo âu, trầm cảm",
+    "Giảm chất lượng cuộc sống",
+    "Biến chứng do điều trị như viêm da, khô miệng, viêm niêm mạc"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng và đánh giá tình trạng dinh dưỡng",
+      "Nội soi tai mũi họng",
+      "Sinh thiết mẫu bệnh phẩm từ vùng tổn thương",
+      "Xét nghiệm phân tích ADN EBV trong máu",
+      "Chụp cắt lớp vi tính (CT)",
+      "Chụp cộng hưởng từ (MRI)",
+      "PET-CT để đánh giá mức độ di căn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai mũi họng",
+        "description": "Sử dụng camera gắn vào đầu dây ống mềm, luồn qua mũi, tai và họng để quan sát rõ khu vực bên trong vòm họng, phát hiện tổn thương bất thường với hình ảnh phóng đại gấp 10-30 lần."
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô từ vùng tổn thương để xác định bản chất ác tính hay lành tính thông qua phân tích giải phẫu bệnh."
+      },
+      {
+        "name": "Xét nghiệm tải lượng ADN EBV",
+        "description": "Đo tải lượng virus EBV trong máu giúp đánh giá tiên lượng bệnh. Tải lượng dưới 400 copies/mL có tiên lượng tốt hơn tải lượng cao hơn 400 copies/mL."
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "Sử dụng CT, MRI, PET-CT để đánh giá kích thước, mức độ xâm lấn của khối u, tình trạng di căn hạch và phát hiện di căn xa nếu có."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tiên lượng sống cho người bệnh ung thư vòm họng giai đoạn 3 tùy thuộc vào từng cá thể, tình trạng sức khỏe chung, mức độ đáp ứng với điều trị và sự dung nạp của mỗi người. Với tải lượng virus EBV thấp (dưới 400 copies/mL), 66% khả năng người bệnh có thể sống đến hơn 5 năm từ thời điểm chẩn đoán.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xạ trị",
+        "description": "Sử dụng bức xạ ion hóa năng lượng cao (tia X, proton) để tiêu diệt tế bào ung thư. Kỹ thuật xạ trị điều biến liều (IMRT) giúp nâng cao hiệu quả điều trị và giảm tác dụng phụ trên mô lành xung quanh."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng các hóa chất tiêu diệt tế bào ung thư thông qua truyền tĩnh mạch hoặc đường uống. Các thuốc nhóm Platinum như Cisplatin và Carboplatin thường được sử dụng."
+      },
+      {
+        "name": "Hóa-xạ trị đồng thời",
+        "description": "Phối hợp xạ trị và hóa trị cùng lúc, tăng hiệu quả điều trị tiêu diệt khối u và hạch di căn. Đây là phương pháp thường được chỉ định cho ung thư vòm họng giai đoạn 3."
+      },
+      {
+        "name": "Hóa trị dẫn đầu",
+        "description": "Sử dụng thuốc hóa trị trước khi xạ trị hoặc trước hóa-xạ trị, giúp thu nhỏ khối u và hạch di căn, tạo điều kiện thuận lợi cho xạ trị sau đó. Phác đồ Gemcitabine và Cisplatin thường được sử dụng."
+      },
+      {
+        "name": "Hóa trị hỗ trợ",
+        "description": "Sử dụng thuốc hóa trị sau khi hoàn thành liệu trình hóa-xạ trị đồng thời, giúp củng cố hiệu quả điều trị. Phác đồ Cisplatin và Fluorouracil thường được chỉ định."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ nghiêm ngặt lịch trình điều trị do bác sĩ đề ra",
+      "Duy trì chế độ ăn uống đa dạng, mềm, dễ nuốt, giàu dinh dưỡng",
+      "Tăng cường tập luyện thể dục nhẹ nhàng như đi bộ, tập dưỡng sinh, yoga",
+      "Duy trì tinh thần lạc quan, tránh căng thẳng, lo âu",
+      "Tái khám định kỳ theo lịch hẹn của bác sĩ",
+      "Theo dõi và xử lý kịp thời các tác dụng phụ của điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc-xin phòng HPV có thể giúp giảm nguy cơ mắc ung thư vòm họng liên quan đến HPV.",
+      "recommended_for": ["Thanh thiếu niên trước khi có hoạt động tình dục"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát ung thư vòm họng sớm để phát hiện và điều trị từ giai đoạn đầu",
+      "Tránh hút thuốc lá, hạn chế uống rượu bia",
+      "Duy trì chế độ ăn uống giàu rau xanh, trái cây, hạn chế thực phẩm muối chua",
+      "Hạn chế tiếp xúc với môi trường ô nhiễm, khói bụi và hóa chất độc hại",
+      "Kiểm tra sức khỏe định kỳ, đặc biệt khi có các triệu chứng bất thường ở vùng đầu cổ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư vòm họng giai đoạn 3 có chữa khỏi được không?",
+      "answer": "Ung thư vòm họng giai đoạn 3 có thể điều trị được, tuy nhiên tiên lượng phụ thuộc vào nhiều yếu tố như tình trạng sức khỏe chung, đáp ứng với điều trị và tải lượng virus EBV. Với tải lượng virus EBV thấp (dưới 400 copies/mL), khoảng 66% bệnh nhân có thể sống được hơn 5 năm sau chẩn đoán."
+    },
+    {
+      "question": "Ung thư vòm họng giai đoạn 3 sống được bao lâu?",
+      "answer": "Thời gian sống với ung thư vòm họng giai đoạn 3 rất khác nhau giữa các bệnh nhân. Có người có thể sống 5-6 năm sau khi phát hiện bệnh, cũng có trường hợp chỉ sống được 6 tháng - 1 năm. Tiên lượng phụ thuộc vào tình trạng sức khỏe, mức độ đáp ứng với điều trị và tải lượng virus EBV trong máu."
+    },
+    {
+      "question": "Phương pháp điều trị ung thư vòm họng giai đoạn 3 là gì?",
+      "answer": "Ung thư vòm họng giai đoạn 3 thường được điều trị bằng phương pháp đa mô thức, bao gồm hóa-xạ trị đồng thời, hoặc hóa trị dẫn đầu theo sau là hóa-xạ trị đồng thời, hoặc hóa-xạ trị đồng thời theo sau bởi hóa trị hỗ trợ. Phác đồ cụ thể sẽ phụ thuộc vào tuổi, tình trạng sức khỏe và khả năng dung nạp điều trị của người bệnh."
+    },
+    {
+      "question": "Triệu chứng ung thư vòm họng giai đoạn 3 là gì?",
+      "answer": "Triệu chứng ung thư vòm họng giai đoạn 3 bao gồm: đau đầu dữ dội, đau sâu trong hốc mắt, nổi hạch ở cổ, khó nuốt, ho ra máu, khạc nhổ dịch đờm lẫn máu, nghẹt mũi, chảy máu mũi, ù tai, giảm thính lực, tai chảy mủ lẫn máu, mệt mỏi, gầy sút cân, ăn uống kém và chán ăn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu dữ dội, nổi hạch ở cổ và nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-3",
+        "viem-xoang",
+        "viem-amidan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sụt cân, ăn uống kém và ho ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-3",
+        "ung-thu-phoi",
+        "lao-phoi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau hốc mắt, khó nuốt và chảy máu mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-3",
+        "ung-thu-mui-xoang",
+        "u-nao"
+      ]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như ù tai, giảm thính lực và tai chảy mủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-3",
+        "viem-tai-giua",
+        "viem-tai-ngoai"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu, nghẹt mũi và khạc nhổ dịch đờm lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-3",
+        "ung-thu-mui-xoang",
+        "lao-phoi"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nổi hạch ở cổ, đau họng và chảy máu mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-3",
+        "viem-amidan",
+        "ung-thu-mau"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sụt cân, chán ăn và ù tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-3",
+        "suy-giam-mien-dich",
+        "viem-tai-giua"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau hốc mắt, khó nuốt và giảm thính lực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-3",
+        "viem-xoang",
+        "u-nao"
+      ]
     }
   ]
 }

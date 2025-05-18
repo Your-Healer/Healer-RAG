@@ -1,58 +1,215 @@
 {
   "disease_id": "viem-tuyen-tien-liet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tuyến tiền liệt",
+  "disease_alternative_names": [
+    "Viêm tuyến tiền liệt cấp tính",
+    "Viêm tuyến tiền liệt mạn tính",
+    "Prostatitis"
+  ],
+  "disease_definition": "Viêm tuyến tiền liệt là thuật ngữ y khoa được dùng để chỉ tình trạng nhiễm trùng tại tuyến tiền liệt. Tuyến tiền liệt là một cấu trúc thuộc hệ tiết niệu - sinh dục, chỉ có ở nam giới. Tuyến này nằm dưới bàng quang, bao bọc quanh niệu đạo sau, trọng lượng khoảng 20gram, có vai trò tiết ra dịch trong tinh dịch và hỗ trợ phóng tinh ở nam giới.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau rát khi đi tiểu",
+      "description": "Cảm giác nóng rát, đau buốt khi đi tiểu"
+    },
+    {
+      "name": "Tiểu khó",
+      "description": "Tiểu khó, tiểu nhỏ giọt, tiểu ngập ngừng"
+    },
+    {
+      "name": "Tiểu nhiều",
+      "description": "Tiểu nhiều lần, tiểu đêm, cảm giác muốn đi tiểu liên tục"
+    },
+    {
+      "name": "Nước tiểu bất thường",
+      "description": "Nước tiểu đục và/hoặc có máu"
+    },
+    {
+      "name": "Đau vùng bụng dưới",
+      "description": "Đau bụng, đau bẹn, đau lưng dưới"
+    },
+    {
+      "name": "Đau khu vực đáy chậu",
+      "description": "Đau ở giữa bìu, trực tràng"
+    },
+    {
+      "name": "Đau bộ phận sinh dục",
+      "description": "Đau dương vật, tinh hoàn"
+    },
+    {
+      "name": "Đau khi xuất tinh",
+      "description": "Cảm giác đau nhức khi xuất tinh"
+    },
+    {
+      "name": "Triệu chứng toàn thân",
+      "description": "Đau nhức cơ, ớn lạnh, sốt trong trường hợp viêm cấp tính"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm tuyến tiền liệt có nhiều nguyên nhân, phổ biến nhất là do vi sinh vật xâm nhập vào tuyến tiền liệt qua niệu đạo gây viêm tuyến tiền liệt cấp tính và mạn tính.",
+    "related_factors": "Ngoài nguyên nhân do vi khuẩn, viêm tuyến tiền liệt còn có thể do phản ứng của hệ thống miễn dịch với tình trạng nhiễm trùng đường tiểu, do các thủ thuật liên quan đến niệu đạo, sau sinh thiết tuyến tiền liệt, do chấn thương hay sang chấn khi chơi thể thao, vận động mạnh.",
+    "transmission_routes": [
+      "Vi khuẩn xâm nhập vào tuyến tiền liệt qua niệu đạo",
+      "Vi khuẩn có thể ngược theo đường dẫn tinh"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam thanh niên hoặc trung niên tuổi trên 50",
+    "Tiền sử bị viêm tuyến tiền liệt",
+    "Từng bị nhiễm trùng đường tiết niệu hoặc cơ quan sinh dục",
+    "Mắc Hội chứng suy giảm miễn dịch (HIV/AIDS)",
+    "Từng đặt ống thông tiểu",
+    "Từng được sinh thiết tuyến tiền liệt",
+    "Uống ít nước khiến cho nước tiểu ít được tống xuất",
+    "Thường bị mất nước do đặc thù công việc, bệnh lý",
+    "Làm các công việc thường bị rung lắc, chấn động",
+    "Hẹp bao quy đầu",
+    "Áp lực tâm lý",
+    "Từng bị tổn thương dây thần kinh ở vùng chậu do phẫu thuật hoặc chấn thương"
+  ],
+  "complications": [
+    "Nhiễm trùng máu",
+    "Viêm mào tinh hoàn",
+    "Áp xe tuyến tiền liệt",
+    "Nhiễm trùng lan đến các vùng lân cận như xương chậu, xương sống",
+    "Rối loạn chức năng tình dục, điển hình như rối loạn cương dương",
+    "Những thay đổi trong tinh trùng và tinh dịch có thể gây vô sinh",
+    "Lo lắng, trầm cảm",
+    "Tử vong, trong những trường hợp nghiêm trọng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá tiền sử bệnh và khám lâm sàng",
+      "Thăm khám tuyến tiền liệt qua ngả trực tràng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Phân tích nước tiểu để tìm kiếm vi khuẩn, máu và các yếu tố khác có nguy cơ gây viêm tuyến tiền liệt hoặc do viêm tuyến tiền liệt gây ra"
+      },
+      {
+        "name": "Cấy nước tiểu",
+        "description": "Nuôi cấy nước tiểu trong phòng thí nghiệm giúp tìm ra loại vi khuẩn đã tấn công vào tuyến tiền liệt và dự kiến loại kháng sinh phù hợp để điều trị"
+      },
+      {
+        "name": "Cấy dịch niệu đạo",
+        "description": "Tương tự như cấy nước tiểu, việc cấy dịch niệu đạo trong phòng thí nghiệm cũng giúp xác định chủng vi khuẩn và xây dựng phác đồ điều trị phù hợp"
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Giúp bác sĩ khảo sát đường tiểu dưới để tầm soát, chẩn đoán, theo dõi tình hình và đánh giá kết quả điều trị"
+      },
+      {
+        "name": "Siêu âm qua ngả trực tràng",
+        "description": "Giúp xác định kích thước tuyến tiền liệt, tình trạng các mô nhu, khối u, ổ viêm"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cho phép khảo sát tuyến tiền liệt một cách toàn diện, nhằm đánh giá nguy cơ nhiễm trùng để có biện pháp can thiệp phù hợp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy theo nguyên nhân gây viêm tuyến tiền liệt (viêm do vi khuẩn hay không do vi khuẩn), bác sĩ sẽ chỉ định phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh",
+        "description": "Các loại thuốc kháng sinh như Levofloxacin, Ciprofloxacin thường được bác sĩ chỉ định cho bệnh nhân bị viêm tuyến tiền liệt do nguyên nhân vi khuẩn. Thuốc có thể dùng qua đường uống hoặc tiêm."
+      },
+      {
+        "name": "Thuốc chẹn alpha",
+        "description": "Nhóm thuốc này giúp giãn các cơ tuyến tiền liệt, cổ bàng quang để giải quyết các triệu chứng tiểu rát, tiểu buốt, tiểu nhiều lần."
+      },
+      {
+        "name": "Thuốc chống viêm, giảm đau",
+        "description": "Các thuốc Ibuprofen, Piroxicam, Diclofenac, Paracetamol hỗ trợ làm giảm các triệu chứng khó chịu khi bị viêm tuyến tiền liệt như đau nhức, sốt."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp, bác sĩ có thể chỉ định phẫu thuật để giải phóng bàng quang tắc nghẽn, loại bỏ mô sẹo để cải thiện lưu lượng nước tiểu."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ lịch uống thuốc của bác sĩ",
+      "Uống nhiều nước để đẩy vi khuẩn ra khỏi cơ thể",
+      "Hạn chế đồ uống có chứa caffeine, rượu bia",
+      "Nghỉ ngơi đầy đủ, tránh các hoạt động gây áp lực lên tuyến tiền liệt",
+      "Tắm nước ấm để giảm đau"
+    ],
+    "prevention_of_transmission": [
+      "Quan hệ tình dục an toàn",
+      "Vệ sinh vùng kín sạch sẽ trước và sau khi quan hệ tình dục"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện tại không có vaccine đặc hiệu phòng ngừa viêm tuyến tiền liệt",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Quan hệ tình dục an toàn",
+      "Vệ sinh vùng kín sạch sẽ trước và sau khi quan hệ tình dục",
+      "Uống nhiều nước (từ 2-3 lít mỗi ngày)",
+      "Đi tiểu ngay khi cảm thấy buồn tiểu",
+      "Tránh thức ăn cay nóng, rượu bia, chất kích thích",
+      "Xây dựng lối sống lành mạnh, vận động phù hợp, ăn nhiều rau xanh",
+      "Hạn chế ngồi lâu, tránh chơi các môn thể thao gây áp lực lên tuyến tiền liệt"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tuyến tiền liệt có nguy hiểm không?",
+      "answer": "Viêm tuyến tiền liệt thường không làm tăng nguy cơ ung thư tuyến tiền liệt. Tuy nhiên, tình trạng này có thể tái phát nhiều lần, ảnh hưởng đến sức khỏe tinh thần và gây ra các biến chứng như rối loạn chức năng sinh dục, vô sinh, nhiễm trùng huyết. Trong những trường hợp nghiêm trọng, nếu không được điều trị kịp thời, bệnh có thể gây nguy hiểm đến tính mạng."
+    },
+    {
+      "question": "Viêm tuyến tiền liệt có mấy loại?",
+      "answer": "Có 4 dạng viêm tuyến tiền liệt: 1) Viêm tuyến tiền liệt cấp tính do vi khuẩn: người bệnh có các triệu chứng đột ngột, nghiêm trọng như nóng rát, đau buốt khi đi tiểu, đau bụng, sốt; 2) Viêm tuyến tiền liệt mạn tính do vi khuẩn: các triệu chứng nhiễm trùng diễn ra, tái phát nhiều lần; 3) Viêm tuyến tiền liệt mạn tính không do vi khuẩn: có triệu chứng tương tự viêm mạn tính do vi khuẩn nhưng không tìm thấy vi khuẩn; 4) Viêm tuyến tiền liệt không có triệu chứng: người bệnh không nhận ra mình có bệnh cho đến khi tình cờ phát hiện."
+    },
+    {
+      "question": "Khi nào cần đi khám khi nghi ngờ viêm tuyến tiền liệt?",
+      "answer": "Khi bị viêm tuyến tiền liệt, người bệnh có thể có triệu chứng hoặc không. Tuy nhiên, nếu nhận thấy những biểu hiện như chảy máu (nhất là sau khi quan hệ tình dục), xuất tinh bất thường, xuất tinh có lẫn máu, xuất hiện các cơn đau nặng ở vùng chậu, lưng dưới thì nên đến ngay các cơ quan y tế để được chẩn đoán và điều trị kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiểu buốt, tiểu rắt và đau bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Viêm bàng quang",
+        "Nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng dưới, đau khi xuất tinh và tiểu đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Viêm mào tinh hoàn",
+        "Sỏi thận"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu khó, tiểu nhiều lần và nước tiểu có màu đục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Nhiễm trùng đường tiết niệu",
+        "Tăng sinh lành tính tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tôi bị đau rát khi đi tiểu và tiểu nhiều lần vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Viêm bàng quang",
+        "Viêm niệu đạo"
+      ]
+    },
+    {
+      "question": "Tôi bị đau vùng chậu, đau lưng dưới và tiểu khó. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến tiền liệt",
+        "Viêm tuyến tiền liệt mạn tính",
+        "Hội chứng đau vùng chậu mạn tính"
+      ]
     }
   ]
 }

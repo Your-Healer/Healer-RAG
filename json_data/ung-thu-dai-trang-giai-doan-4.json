@@ -1,39 +1,169 @@
 {
   "disease_id": "ung-thu-dai-trang-giai-doan-4",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư đại tràng giai đoạn 4",
+  "disease_alternative_names": [
+    "Ung thư ruột kết giai đoạn 4",
+    "Stage 4 Colon Cancer",
+    "Ung thư đại tràng di căn"
+  ],
+  "disease_definition": "Ung thư đại tràng giai đoạn 4 là trường hợp các tế bào ác tính đã di căn đến các mô và cơ quan khác của cơ thể như gan, phổi, phúc mạc, xương và các vị trí khác. Đây là giai đoạn muộn nhất của bệnh, khi khối u đã lan rộng ra ngoài đại tràng và các hạch bạch huyết lân cận.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mệt mỏi và suy nhược",
+      "description": "Cảm giác mệt mỏi kéo dài, chán ăn, gầy yếu, suy kiệt, thiếu máu"
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Táo bón hoặc tiêu chảy, đi ngoài phân nhầy máu hoặc phân đen"
+    },
+    {
+      "name": "Biến chứng của khối u",
+      "description": "Tắc ruột, bán tắc ruột, thủng ruột gây viêm phúc mạc, đau bụng dữ dội"
+    },
+    {
+      "name": "Triệu chứng di căn gan",
+      "description": "Vàng da, vàng mắt, chướng bụng, đau hạ sườn phải"
+    },
+    {
+      "name": "Triệu chứng di căn phổi",
+      "description": "Khó thở, đau tức ngực, ho kéo dài"
+    },
+    {
+      "name": "Triệu chứng di căn xương",
+      "description": "Đau nhức xương, gãy xương bệnh lý"
+    },
+    {
+      "name": "Buồn ngủ và thiếu tỉnh táo",
+      "description": "Do thay đổi trong quá trình trao đổi chất, người bệnh thường ngủ nhiều và/hoặc không phản ứng"
+    },
+    {
+      "name": "Lẫn lộn và bồn chồn",
+      "description": "Lẫn lộn về thời gian, địa điểm và/hoặc danh tính của người thân; cảm giác bồn chồn"
+    },
+    {
+      "name": "Giảm khả năng giao tiếp",
+      "description": "Khó khăn trong giao tiếp do giảm oxy lên não, giảm lưu lượng máu"
+    },
+    {
+      "name": "Mất kiểm soát bàng quang hoặc ruột",
+      "description": "Không kiểm soát được việc đi tiểu, đi đại tiện do giãn các cơ vùng chậu"
+    },
+    {
+      "name": "Thay đổi nước tiểu",
+      "description": "Nước tiểu sẫm màu hoặc giảm lượng nước tiểu do chức năng thận suy giảm"
+    },
+    {
+      "name": "Thay đổi da",
+      "description": "Da lạnh khi chạm vào, có màu hơi xanh do giảm tuần hoàn đến các chi"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư đại tràng giai đoạn 4 là hậu quả của sự phát triển và di căn của các tế bào ung thư từ đại tràng đến các cơ quan khác trong cơ thể. Nguyên nhân gốc rễ thường liên quan đến các đột biến DNA trong tế bào niêm mạc đại tràng.",
+    "related_factors": "Các yếu tố nguy cơ bao gồm tuổi cao, tiền sử cá nhân hoặc gia đình về polyp hoặc ung thư đại tràng, chế độ ăn giàu chất béo và thịt đỏ, hút thuốc, uống rượu, béo phì, và thiếu hoạt động thể chất.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi trên 50",
+    "Tiền sử cá nhân về polyp hoặc ung thư đại tràng",
+    "Tiền sử gia đình về ung thư đại tràng",
+    "Viêm ruột mạn tính (viêm loét đại tràng, bệnh Crohn)",
+    "Hội chứng di truyền (hội chứng Lynch, bệnh polyp tuyến gia đình)",
+    "Chế độ ăn giàu thịt đỏ và thịt chế biến sẵn, ít chất xơ",
+    "Hút thuốc lá",
+    "Uống rượu bia quá mức",
+    "Béo phì hoặc thừa cân",
+    "Thiếu hoạt động thể chất",
+    "Đái tháo đường týp 2"
+  ],
+  "complications": [
+    "Di căn đến gan",
+    "Di căn đến phổi",
+    "Di căn đến phúc mạc",
+    "Di căn đến màng phổi",
+    "Di căn đến buồng trứng (ở phụ nữ)",
+    "Di căn đến xương",
+    "Di căn đến não",
+    "Tắc ruột",
+    "Thủng ruột gây viêm phúc mạc",
+    "Xuất huyết tiêu hóa",
+    "Thiếu máu",
+    "Suy kiệt cơ thể"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Đánh giá tiền sử bệnh",
+      "Phân giai đoạn ung thư theo hệ thống TNM"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi đại tràng",
+        "description": "Nội soi đại trực tràng bằng ống mềm, giúp phát hiện khối u đại tràng, và sinh thiết để làm xét nghiệm mô bệnh học giúp chẩn đoán xác định ung thư đại tràng"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Chụp cắt lớp vi tính để đánh giá khối u, hạch di căn, các tổn thương di căn đến các cơ quan khác"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Chụp cộng hưởng từ có giá trị khi muốn đánh giá độ xâm lấn khối u vào thành ruột, hạch vùng, đánh giá di căn gan hoặc tổn thương di căn não"
+      },
+      {
+        "name": "Chụp PET/CT",
+        "description": "Phương pháp chụp cắt lớp phát xạ positron nhằm tìm tế bào khối u ác tính trong cơ thể, giúp phát hiện các ổ di căn tốt hơn"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp đánh giá tình trạng của người bệnh, có thiếu máu hay không, chức năng gan thận"
+      },
+      {
+        "name": "Xét nghiệm CEA",
+        "description": "Xét nghiệm kháng nguyên carcinoembryonic là chất chỉ điểm khối u trong máu, tăng cao ở các bệnh nhân ung thư đại tràng di căn, dùng để theo dõi đánh giá trong quá trình điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị ung thư đại tràng giai đoạn 4 thường tập trung vào kiểm soát bệnh, kéo dài thời gian sống và cải thiện chất lượng cuộc sống cho bệnh nhân. Trong một số trường hợp đặc biệt khi di căn hạn chế, có thể áp dụng phương pháp điều trị với mục tiêu chữa khỏi.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật loại bỏ đoạn đại tràng có khối u cùng với các hạch bạch huyết lân cận, kết hợp với phẫu thuật loại bỏ các mô u di căn (nhân phúc mạc, u gan) nếu có thể. Trong trường hợp tắc ruột, có thể cần phẫu thuật cấp cứu hoặc đặt hậu môn nhân tạo"
+      },
+      {
+        "name": "Hóa trị tân bổ trợ",
+        "description": "Hóa trị trước phẫu thuật để thu nhỏ khối u, giúp phẫu thuật dễ dàng hơn và có thể loại bỏ hoàn toàn khối u"
+      },
+      {
+        "name": "Hóa trị bổ trợ",
+        "description": "Hóa trị sau phẫu thuật để tiêu diệt các tế bào ung thư còn sót lại, giảm nguy cơ tái phát và di căn"
+      },
+      {
+        "name": "Thuốc nhắm trúng đích",
+        "description": "Sử dụng các thuốc nhắm vào những đặc tính cụ thể của tế bào ung thư để ngăn chặn sự phát triển và di căn"
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Đối với những người khối u có sự mất ổn định vệ tinh, có thể điều trị bằng thuốc miễn dịch như nivolumab (Opdivo) hoặc pembrolizumab (Keytruda)"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Có thể áp dụng xạ trị để ngăn ngừa hoặc làm giảm các triệu chứng của ung thư như đau đại tràng hoặc các cơ quan di căn"
+      },
+      {
+        "name": "Chăm sóc giảm nhẹ",
+        "description": "Tập trung vào việc giảm đau và các triệu chứng khác, cải thiện chất lượng cuộc sống cho bệnh nhân"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sau phẫu thuật, hạn chế ăn chất xơ trong khoảng 6 tuần, sau đó tăng dần lượng chất xơ trở lại",
+      "Uống nhiều nước, thức uống bổ sung chất lỏng và muối trong cơ thể",
+      "Ghi lại những thực phẩm gây khó chịu bụng để tránh",
+      "Ăn thực phẩm giàu calo và protein để giúp chữa lành và chống nhiễm trùng",
+      "Ăn các bữa nhỏ, thường xuyên hơn thay vì 3 bữa lớn mỗi ngày",
+      "Giảm lượng caffeine trong một ngày để tránh kích thích ruột",
+      "Ngậm từng ngụm nhỏ và nhai thức ăn một cách chậm rãi",
+      "Tránh các loại thực phẩm gây đầy hơi, chướng bụng như hành tây, cải thìa, bắp cải, đậu, đồ uống có ga, bia và rượu, thức ăn giàu chất béo"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +171,75 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát định kỳ ung thư đại tràng từ 45-50 tuổi",
+      "Duy trì cân nặng hợp lý",
+      "Tăng cường vận động thể chất",
+      "Ăn nhiều rau, trái cây, ngũ cốc nguyên hạt",
+      "Hạn chế thịt đỏ và thịt chế biến sẵn",
+      "Hạn chế rượu bia",
+      "Không hút thuốc lá",
+      "Kiểm soát tốt các bệnh mạn tính như đái tháo đường, viêm ruột mạn tính"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư đại tràng giai đoạn 4 có chữa khỏi được không?",
+      "answer": "Ung thư đại tràng giai đoạn 4 thường khó chữa khỏi hoàn toàn, vì ở giai đoạn này ung thư đã di căn đến các cơ quan khác trong cơ thể. Tuy nhiên, trong một số trường hợp nhất định, khi di căn hạn chế (chỉ di căn đến một vài khu vực trong gan hoặc phổi) và có thể loại bỏ hoàn toàn bằng phẫu thuật kết hợp với các phương pháp điều trị khác, thì vẫn có khả năng kiểm soát bệnh lâu dài. Nhờ sự phát triển của y học và các thuốc thế hệ mới, điều trị ung thư đại tràng giai đoạn 4 ngày càng hiệu quả hơn, giúp kéo dài thời gian sống và cải thiện chất lượng cuộc sống cho người bệnh."
+    },
+    {
+      "question": "Tiên lượng sống của ung thư đại tràng giai đoạn 4 như thế nào?",
+      "answer": "Tiên lượng sống của ung thư đại tràng giai đoạn 4 phụ thuộc vào nhiều yếu tố như vị trí và mức độ di căn, tình trạng sức khỏe tổng thể của bệnh nhân, đáp ứng với điều trị, và các yếu tố sinh học của khối u. Tỷ lệ sống sót sau 5 năm nói chung của bệnh nhân ung thư đại tràng giai đoạn 4 đã tăng lên đáng kể nhờ vào tiến bộ của y học và sự xuất hiện của các thuốc điều trị mới. Theo số liệu từ Trung tâm Công nghệ sinh học Hoa Kỳ, khoảng 25% bệnh nhân ung thư đại tràng mới được chẩn đoán đã có di căn, và 50% số bệnh nhân có thể tử vong do triệu chứng tại cơ quan di căn."
+    },
+    {
+      "question": "Ung thư đại tràng thường di căn đến những cơ quan nào?",
+      "answer": "Ung thư đại tràng giai đoạn 4 thường di căn đến gan nhiều nhất, khoảng 50% trường hợp. Các vị trí di căn phổ biến khác bao gồm phổi, phúc mạc, màng phổi và xương. Di căn buồng trứng xảy ra ở 5-8% tổng số phụ nữ bị ung thư đại tràng. Tuy nhiên, di căn có thể xảy ra ở bất kỳ cơ quan nào của cơ thể, bao gồm cả não hoặc các hạch bạch huyết xa."
+    },
+    {
+      "question": "Chế độ ăn uống sau điều trị ung thư đại tràng giai đoạn 4 nên như thế nào?",
+      "answer": "Sau điều trị ung thư đại tràng, đặc biệt là sau phẫu thuật, người bệnh nên hạn chế ăn chất xơ trong khoảng 6 tuần, sau đó tăng dần lượng chất xơ trở lại. Nên uống nhiều nước, thức uống bổ sung chất lỏng và muối trong cơ thể. Người bệnh nên ăn thực phẩm giàu calo và protein để giúp chữa lành và chống nhiễm trùng, ăn các bữa nhỏ thường xuyên hơn. Cần tránh các thực phẩm gây đầy hơi, chướng bụng như hành tây, cải thìa, bắp cải, đậu, đồ uống có ga, bia và rượu, thức ăn giàu chất béo. Người bệnh cũng nên ghi lại những thực phẩm gây khó chịu bụng để tránh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, đi ngoài ra máu và sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 4",
+        "Trĩ nội",
+        "Viêm loét đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn và suy nhược cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 4",
+        "Thiếu máu",
+        "Viêm gan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị táo bón, tiêu chảy và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 4",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 4",
+        "Viêm dạ dày",
+        "Tắc ruột"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở và đau tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 4 di căn phổi",
+        "Viêm phổi",
+        "Suy tim"
+      ]
     }
   ]
 }

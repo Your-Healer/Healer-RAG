@@ -1,58 +1,197 @@
 {
   "disease_id": "viem-tai-xuong-chum",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tai xương chũm",
+  "disease_alternative_names": [
+    "Viêm tai xương chũm cấp tính",
+    "Viêm tai xương chũm mạn tính",
+    "Viêm tai xương chũm hài nhi",
+    "Mastoiditis"
+  ],
+  "disease_definition": "Viêm tai xương chũm là một bệnh nhiễm trùng do vi khuẩn của các tế bào khí xương chũm bao quanh tai trong và tai giữa. Xương chũm tai thuộc xương thái dương của hộp sọ. Đây là một biến chứng thường gặp của bệnh viêm tai giữa cấp, có thể dẫn đến biến chứng ngoài sọ và nội sọ đe doạ tính mạng, đặc biệt ở trẻ dưới 2 tuổi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau tai dữ dội",
+      "description": "Cảm giác đau nhức tai dữ dội, thường tăng dần và có thể lan xuống vùng cổ và nửa bên đầu"
+    },
+    {
+      "name": "Sốt cao",
+      "description": "Người bệnh thường có biểu hiện sốt cao, đặc biệt ở trẻ em"
+    },
+    {
+      "name": "Ban đỏ sau tai",
+      "description": "Vùng sau tai xuất hiện sưng đỏ, nóng và đau"
+    },
+    {
+      "name": "Dái tai sưng tấy",
+      "description": "Dái tai bị sưng phồng, đôi khi chuyển vị trí"
+    },
+    {
+      "name": "Chảy mủ tai",
+      "description": "Tai chảy dịch mủ, có thể kèm theo mùi hôi"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau đầu dữ dội, đặc biệt là ở người lớn"
+    },
+    {
+      "name": "Khối phồng sau tai",
+      "description": "Xuất hiện khối phồng có mủ phía sau tai, da trên bề mặt xương chũm sưng đỏ"
+    },
+    {
+      "name": "Quấy khóc, hôn mê",
+      "description": "Ở trẻ em xuất hiện các triệu chứng như khó chịu, quấy khóc, hôn mê"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm tai xương chũm chủ yếu do nhiễm khuẩn từ viêm tai giữa cấp tính tiến triển. Các vi khuẩn phổ biến gây bệnh bao gồm Streptococcus pneumoniae, Streptococcus pyogenes, Haemophilus influenzae và Staphylococcus aureus.",
+    "related_factors": "Bệnh thường xảy ra khi viêm tai giữa cấp tính chưa được chữa khỏi, gây bít tắc ống Eustachian dẫn đến tình trạng viêm và nhiễm trùng xương chũm. Ống Eustachian kết nối từ tai giữa đến họng mũi, có nhiệm vụ lưu thông dịch hoặc không khí từ tai giữa.",
+    "transmission_routes": [
+      "Bệnh không lây truyền trực tiếp từ người sang người",
+      "Nhiễm trùng từ tai giữa lan sang xương chũm"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em dưới 2 tuổi",
+    "Người có tình trạng suy giảm miễn dịch",
+    "Người bị viêm tai giữa cấp tính tái phát",
+    "Nhiễm liên cầu khuẩn tan huyết beta nhóm A",
+    "Nhiễm tụ cầu vàng",
+    "Nhiễm Streptococcus pyogenes",
+    "Nhiễm Haemophilus influenzae"
+  ],
+  "complications": [
+    "Áp xe dưới màng xương",
+    "Liệt dây thần kinh mặt",
+    "Viêm mê đạo",
+    "Viêm - áp xe xương",
+    "Áp xe Bezold (viêm xương chũm lan rộng gây áp xe vùng bên cổ)",
+    "Áp xe thùy thái dương hoặc tiểu não",
+    "Áp xe ngoài màng cứng hoặc dưới màng cứng",
+    "Huyết khối xoang tĩnh mạch",
+    "Viêm não màng não"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán phân biệt thông qua khám sức khỏe kỹ lưỡng và khai thác tiền sử bệnh",
+      "Nội soi tai mũi họng",
+      "Khám lâm sàng phát hiện các triệu chứng đặc trưng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp CT-scan",
+        "description": "Được chỉ định nếu nghi ngờ viêm tai xương chũm phức tạp, nặng hoặc mạn tính. Có thể cho biết sự gián đoạn của vách ngăn xương trong các tế bào khí xương chũm và khả năng nhiễm trùng lan rộng."
+      },
+      {
+        "name": "X-quang Schuller",
+        "description": "Giúp phát hiện tình trạng vách thông bào dày không rõ, có chỗ thành những hốc rỗng do mất vách ngăn giữa các thông bào."
+      },
+      {
+        "name": "Chụp cộng hưởng từ",
+        "description": "Trong trường hợp viêm phức tạp, gây biến chứng, bác sĩ có thể chỉ định chụp cộng hưởng từ để chẩn đoán bệnh."
+      },
+      {
+        "name": "Công thức máu",
+        "description": "Phát hiện bạch cầu trong máu tăng do tình trạng nhiễm trùng, tăng tỷ lệ bạch cầu trung tính."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Bác sĩ sẽ căn cứ vào tình trạng viêm tai xương chũm để quyết định chữa bệnh bằng phương pháp nội khoa hay ngoại khoa.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Liệu pháp kháng sinh là trọng tâm của điều trị nội khoa. Người viêm xương chũm cấp tính không biến chứng được điều trị bằng kháng sinh đường tiêm tĩnh mạch."
+      },
+      {
+        "name": "Thủ thuật đặt ống thông khí màng nhĩ",
+        "description": "Trường hợp xương chũm tụ dịch nhiều gây hủy các bè xương chũm, sốt cao hoặc có các dấu hiệu thần kinh nhưng không có biến chứng có thể áp dụng thủ thuật đặt ống thông khí màng nhĩ kết hợp với điều trị bằng kháng sinh IV, steroid liều cao IV."
+      },
+      {
+        "name": "Phẫu thuật xương chũm",
+        "description": "Nếu tình trạng viêm tai xương chũm không cải thiện trong 48 giờ nhập viện, phẫu thuật cắt xương chũm được chỉ định kết hợp với dùng kháng sinh."
+      },
+      {
+        "name": "Điều trị vancomycin",
+        "description": "Ở những bệnh nhân có tiền sử viêm tai giữa mạn tính, cần điều trị bằng kháng sinh vancomycin (một loại kháng sinh liều cao) để ngăn chặn biến chứng do khuẩn Streptococcus pyogenes và Staphylococcus aureus."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Theo dõi sức khỏe liên tục",
+      "Uống thuốc đầy đủ theo chỉ định của bác sĩ",
+      "Đối với trẻ còn bú mẹ: Tăng cường cho trẻ bú nhiều hơn",
+      "Đối với trẻ đã cai sữa: Nên cho bé ăn thức ăn lỏng để dễ tiêu hóa, các loại cháo, súp nóng giàu dinh dưỡng"
+    ],
+    "prevention_of_transmission": [
+      "Bệnh không lây truyền trực tiếp từ người sang người",
+      "Tránh tiếp xúc với người bị nhiễm trùng đường hô hấp"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin là phương pháp phòng bệnh quan trọng nhất đối với bệnh viêm tai xương chũm. Vắc xin phế cầu 13 có thể phòng ngừa các bệnh phế cầu khuẩn xâm lấn như viêm phổi, viêm màng não, nhiễm khuẩn huyết và cả viêm tai giữa cấp tính do phế cầu khuẩn Streptococcus Pneumoniae gây ra.",
+      "recommended_for": ["Trẻ từ 6 tháng tuổi", "Người bị suy giảm miễn dịch"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Điều trị sớm bệnh viêm tai giữa cấp tính",
+      "Vệ sinh tai đúng cách",
+      "Tăng cường sức đề kháng bằng chế độ dinh dưỡng hợp lý",
+      "Tránh tiếp xúc với môi trường ô nhiễm, khói bụi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tai xương chũm có nguy hiểm không?",
+      "answer": "Viêm tai xương chũm không nguy hiểm nếu không có biến chứng. Các trường hợp có biến chứng, nhất là với trẻ nhỏ rất nguy hiểm vì có thể gây áp xe xương, viêm màng não đe doạ tính mạng."
+    },
+    {
+      "question": "Viêm tai xương chũm có chữa khỏi được không?",
+      "answer": "Viêm tai xương chũm có thể chữa khỏi hoàn toàn, không để lại di chứng nếu được phát hiện và điều trị kịp thời. Có thể điều trị bằng kháng sinh hoặc phẫu thuật và điều trị càng sớm thì tỷ lệ thành công càng cao, càng rút ngắn thời gian nằm viện, ít chi phí và ngược lại."
+    },
+    {
+      "question": "Viêm tai xương chũm có phải mổ không?",
+      "answer": "Tùy thuộc vào loại viêm và mức độ viêm, bác sĩ có thể chỉ định điều trị bằng kháng sinh hay phẫu thuật. Đối với các trường hợp viêm phức tạp nhưng không có biến chứng, có thể áp dụng thủ thuật thông khí màng nhĩ. Các trường hợp không đáp ứng kháng sinh sau 48 giờ nhập viện, có thể cần phẫu thuật cắt xương chũm. Các bệnh nhân viêm xương chũm cấp tính nhưng không có biến chứng, chỉ cần điều trị bằng kháng sinh, chưa cần phẫu thuật."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chảy dịch tai, đau tai và sưng sau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai xương chũm",
+        "Viêm tai giữa cấp tính",
+        "Viêm tai ngoài"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu, sốt cao và đau tai dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai xương chũm",
+        "Viêm tai giữa cấp tính",
+        "Viêm màng não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ù tai, chảy mủ tai và đau nửa đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai xương chũm",
+        "Viêm tai giữa mạn tính",
+        "Viêm xoang"
+      ]
+    },
+    {
+      "question": "Con tôi bị sốt, quấy khóc và sưng sau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai xương chũm",
+        "Viêm tai giữa cấp tính",
+        "Hạch viêm sau tai"
+      ]
+    },
+    {
+      "question": "Tôi bị đau tai, sốt và có khối phồng sau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai xương chũm",
+        "Áp xe sau tai",
+        "Viêm hạch sau tai"
+      ]
     }
   ]
 }

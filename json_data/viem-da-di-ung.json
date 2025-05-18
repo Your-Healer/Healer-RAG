@@ -1,39 +1,111 @@
 {
   "disease_id": "viem-da-di-ung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm da dị ứng",
+  "disease_alternative_names": [
+    "Chàm cơ địa",
+    "Chàm thể tạng",
+    "Chàm sữa (ở trẻ nhỏ)",
+    "Lác sữa (ở trẻ nhỏ)"
+  ],
+  "disease_definition": "Viêm da dị ứng là bệnh lý chàm cơ địa, hay còn gọi là chàm thể tạng. Bệnh khá phổ biến, thường xuất hiện nhiều ở trẻ dưới 5 tuổi và không có tính lây nhiễm. Đây là tình trạng da liễu có thể gặp phải ở mọi lứa tuổi, từ trẻ sơ sinh cho đến người lớn tuổi, gây nhiều bất tiện trong đời sống.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ngứa ngáy và da nổi mẩn đỏ",
+      "description": "Triệu chứng đầu tiên phổ biến nhất của viêm da dị ứng, gây khó chịu và khiến người bệnh muốn gãi vùng da bị tổn thương."
+    },
+    {
+      "name": "Da thô ráp, bong tróc",
+      "description": "Da trở nên thô ráp, bong tróc, dễ bị viêm và kích ứng do phản ứng miễn dịch và việc gãi ngứa liên tục."
+    },
+    {
+      "name": "Tổn thương ở các vị trí đặc trưng",
+      "description": "Dấu hiệu thường tập trung ở cánh tay, khuỷu tay, mặt sau đầu gối, vùng má hoặc da đầu. Ở trẻ sơ sinh có thể xuất hiện ở mặt, các nếp da vùng nách và bẹn."
+    },
+    {
+      "name": "Xuất hiện các mảng da tối màu",
+      "description": "Da xuất hiện các mảng tối màu hoặc có màu đỏ/nâu xám ở vùng bị viêm."
+    },
+    {
+      "name": "Da nổi mụn nước nhỏ",
+      "description": "Da nổi mụn nước nhỏ, có thể chảy dịch khi bị vỡ, là dấu hiệu của tình trạng nhiễm trùng khi bị viêm da."
+    },
+    {
+      "name": "Các mảng da đóng vảy khô hoặc phồng rộp",
+      "description": "Vùng da bị tổn thương có thể trở nên dày hơn, khô ráp hơn, đóng vảy hoặc phồng rộp."
+    },
+    {
+      "name": "Viêm da dạng lichen hóa",
+      "description": "Các mảng da dày lên, sần sùi, ranh giới rõ, hình thành do gãi nhiều, chà xát lâu ngày."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây viêm da dị ứng bắt nguồn từ những tác động phức tạp lẫn nhau giữa yếu tố môi trường, hệ miễn dịch và di truyền.",
+    "related_factors": "Hệ thống miễn dịch hoạt động quá mức khi da tiếp xúc với các chất kích ứng bên ngoài là lý do thường gặp gây viêm da dị ứng. Ở người có gien cơ địa dị ứng, da thường bị khiếm khuyết về chức năng bảo vệ như giữ ẩm, chống thoát nước, điều hòa thân nhiệt và bảo vệ cơ thể khỏi vi khuẩn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình mắc bệnh dị ứng (viêm da, viêm mũi dị ứng, hen suyễn)",
+    "Chất tẩy rửa, xà phòng, mỹ phẩm",
+    "Thời tiết khô và lạnh, ẩm ướt",
+    "Bụi, nấm mốc, lông thú cứng, phấn hoa, mồ hôi",
+    "Thực phẩm như sữa bò, trứng, lúa mì hoặc đậu phộng",
+    "Len hoặc sợi vải tổng hợp",
+    "Thay đổi nội tiết tố khi mang thai hoặc trong kỳ kinh nguyệt",
+    "Tâm trạng căng thẳng, lo lắng",
+    "Nhiễm trùng da",
+    "Người có da khô, da nhạy cảm"
+  ],
+  "complications": [
+    "Nhiễm trùng da: xảy ra khi da bị nứt nẻ, khô ráp, bong tróc kết hợp với gãi ngứa nhiều tạo điều kiện cho vi khuẩn xâm nhập",
+    "Hen suyễn và viêm mũi dị ứng: hơn một nửa số trẻ nhỏ bị viêm da dị ứng sau đó phát triển thêm thành tình trạng hen suyễn và viêm mũi dị ứng",
+    "Ảnh hưởng tâm lý: có thể gây tình trạng tăng động giảm chú ý ở trẻ nhỏ, mặc cảm, nhút nhát, khó hòa nhập tập thể",
+    "Ảnh hưởng giấc ngủ: tình trạng ngứa ngáy, đau rát làm giảm chất lượng giấc ngủ dẫn đến mệt mỏi, khó tập trung, cáu gắt"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: đánh giá các dấu hiệu lâm sàng trên da",
+      "Hỏi tiền sử bệnh của người bệnh và gia đình",
+      "Tầm soát dị ứng nguyên"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm loại trừ các bệnh ngoài da khác",
+        "description": "Được thực hiện để loại trừ các bệnh ngoài da khác với các triệu chứng tương tự."
+      },
+      {
+        "name": "Test dị ứng",
+        "description": "Xác định các chất gây dị ứng có thể bằng phương pháp test áp (patch test) hoặc test lẩy da (prick test)."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị chủ yếu là loại bỏ nguyên nhân gây dị ứng bằng cách tầm soát các dị ứng nguyên. Tuy nhiên cho đến nay, y khoa chỉ mới tìm ra được một số ít dị ứng nguyên trong không khí, môi trường và thực phẩm, vì vậy rất khó kiểm soát được bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc dạng kem hoặc thuốc mỡ corticosteroid",
+        "description": "Thường được kê toa dùng kèm theo sau bước dưỡng ẩm để giúp giảm ngứa và phục hồi vùng da bị dị ứng, làm giảm đóng vảy. Không nên lạm dụng thuốc để tránh nguy cơ tác dụng phụ."
+      },
+      {
+        "name": "Kem bôi chứa chất ức chế calcineurin",
+        "description": "Sử dụng cho trẻ từ 2 tuổi trở lên và người lớn, tác động tới hệ thống miễn dịch, ngăn hệ miễn dịch phản ứng quá mức, giảm bớt tần suất dị ứng của da."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Cần thiết khi da có vết loét hoặc xuất hiện dấu hiệu nhiễm trùng, giúp giảm bớt tình trạng viêm nhiễm."
+      },
+      {
+        "name": "Liệu pháp ánh sáng",
+        "description": "Sử dụng tia cực tím hoặc đèn chiếu để ngăn chặn các phản ứng miễn dịch gây dị ứng, áp dụng cho người không đáp ứng với điều trị tại chỗ hoặc viêm da tái phát nhanh."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Áp dụng các biện pháp thư giãn như yoga, hít thở sâu, thiền định để giảm căng thẳng",
+      "Chườm lạnh hoặc ngâm mình trong nước ấm 15-20 phút mỗi ngày để giảm ngứa và làm mềm da",
+      "Tránh xa hoặc hạn chế tiếp xúc với các tác nhân gây dị ứng đã xác định",
+      "Tham vấn chuyên gia dinh dưỡng để thay thế thức ăn phù hợp nếu bị dị ứng thực phẩm",
+      "Hạn chế gãi ngứa để tránh da bị xơ hóa hoặc trầy xước dẫn đến nhiễm trùng",
+      "Đối với trẻ nhỏ, có thể đeo găng tay lúc ngủ để tránh gãi không kiểm soát"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +113,82 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Dưỡng ẩm cho da ít nhất 2 lần mỗi ngày, đặc biệt khi thời tiết hanh khô",
+      "Uống đủ nước (khoảng 2-3 lít nước mỗi ngày)",
+      "Sử dụng sản phẩm tiếp xúc với da dịu nhẹ, không kiềm, không hương liệu, không phẩm màu",
+      "Mặc quần áo thoáng mát với chất vải cotton hay sợi tự nhiên",
+      "Thường xuyên vệ sinh, lau dọn để giảm bớt bụi bẩn, lông thú, phấn hoa",
+      "Tránh hút thuốc lá và tránh xa khói thuốc",
+      "Thư giãn, giải tỏa áp lực để ngăn ngừa viêm da tái phát"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm da dị ứng có lây không?",
+      "answer": "Viêm da dị ứng là một bệnh không lây. Bệnh chỉ có nguy cơ cao khi bạn bị hen suyễn hoặc dị ứng."
+    },
+    {
+      "question": "Viêm da dị ứng có tự khỏi được không?",
+      "answer": "Phần lớn các trường hợp viêm da dị ứng đều cần có sự can thiệp y tế nhằm kiểm soát triệu chứng. Có một tỷ lệ nhỏ bệnh có thể tự thuyên giảm nhưng thường đòi hỏi thời gian kéo dài."
+    },
+    {
+      "question": "Bị viêm da dị ứng cần kiêng gì?",
+      "answer": "Hóa chất, dung môi, chất tẩy rửa, nước hoa, thành phần trong sản phẩm chăm sóc da, một số loại vải, khói thuốc, thức ăn gây kích ứng,... nếu nhận thấy da thường xuyên phản ứng với các tác nhân này thì bạn nên tránh xa hoặc hạn chế tiếp xúc ở mức thấp nhất. Ngoài ra người bị viêm da dị ứng cũng nên hạn chế cà phê và rượu bia; cố gắng điều chỉnh tâm trạng để không quá căng thẳng."
+    },
+    {
+      "question": "Viêm da dị ứng có nguy hiểm không?",
+      "answer": "Bệnh viêm da dị ứng không gây nguy hiểm nhưng ảnh hưởng khá nhiều tới sinh hoạt và tâm lý người bệnh, nhất là với trẻ em. Bệnh có thể kéo dài cả đời nhưng may mắn là kiểm soát được nhờ vào nhiều loại thuốc kê đơn và không kê đơn. Điều quan trọng là cần bảo vệ và chăm sóc da để hạn chế các yếu tố kích ứng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngứa ngáy và da nổi mẩn đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-di-ung", "me-day", "viem-da-tiep-xuc"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da thô ráp, bong tróc, dễ bị viêm và kích ứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-di-ung", "viem-da-co-dia", "vay-nen"]
+    },
+    {
+      "question": "Tôi hay bị nổi mẩn ở cánh tay, khuỷu tay, mặt sau đầu gối, vùng má hoặc da đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-di-ung",
+        "viem-da-co-dia",
+        "viem-da-tiet-ba"
+      ]
+    },
+    {
+      "question": "Tôi hay bị xuất hiện các mảng da tối màu hoặc có màu đỏ/ nâu xám. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-di-ung", "vay-nen", "viem-da-tiet-ba"]
+    },
+    {
+      "question": "Tôi bị da nổi mụn nước nhỏ, chảy dịch khi bị vỡ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-di-ung",
+        "viem-da-tiep-xuc",
+        "viem-da-mun-mu"
+      ]
+    },
+    {
+      "question": "Tôi bị các mảng da đóng vảy khô hoặc phồng rộp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-di-ung", "vay-nen", "viem-da-tiet-ba"]
+    },
+    {
+      "question": "Tôi bị dị ứng với chất tẩy rửa và da nổi mẩn đỏ, ngứa ngáy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-di-ung",
+        "viem-da-tiep-xuc",
+        "viem-da-kich-ung"
+      ]
+    },
+    {
+      "question": "Tôi bị dị ứng với mỹ phẩm và da nổi mẩn đỏ, ngứa ngáy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-di-ung",
+        "viem-da-tiep-xuc",
+        "viem-da-kich-ung"
+      ]
     }
   ]
 }

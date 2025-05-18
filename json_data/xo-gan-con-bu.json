@@ -1,58 +1,177 @@
 {
   "disease_id": "xo-gan-con-bu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xơ gan còn bù",
+  "disease_alternative_names": ["Compensated Liver Cirrhosis"],
+  "disease_definition": "Xơ gan còn bù là giai đoạn tổn thương gan trung bình, khi các tế bào gan khỏe mạnh vẫn có thể hoạt động \"bù\" cho các tế bào đã bị tổn thương, do đó chức năng hoạt động bình thường của gan cơ bản vẫn được duy trì. Đây là tổn thương gan có thể điều trị được trước khi bước qua giai đoạn nghiêm trọng về sau đó là xơ gan mất bù và các biến chứng, có thể dẫn tới ung thư gan.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chán ăn, ăn không ngon",
+      "description": "Người bệnh thường có cảm giác không muốn ăn hoặc ăn không thấy ngon miệng."
+    },
+    {
+      "name": "Mệt mỏi, không tỉnh táo",
+      "description": "Cảm giác mệt mỏi kéo dài, tinh thần không minh mẫn, tập trung kém."
+    },
+    {
+      "name": "Ngứa ngáy, bầm tím ngoài da",
+      "description": "Da thường ngứa không rõ nguyên nhân và xuất hiện các vết bầm tím dù không va chạm mạnh."
+    },
+    {
+      "name": "Phù nhẹ ở chân",
+      "description": "Chân bị sưng nhẹ, đặc biệt về cuối ngày."
+    },
+    {
+      "name": "Tức vùng hạ sườn phải",
+      "description": "Thỉnh thoảng có cảm giác tức ở vùng gan (dưới sườn bên phải)."
+    },
+    {
+      "name": "Nước tiểu vàng đậm",
+      "description": "Nước tiểu có màu vàng sẫm hơn bình thường."
+    },
+    {
+      "name": "Chảy máu cam",
+      "description": "Có thể có chảy máu cam không rõ nguyên do."
+    },
+    {
+      "name": "Suy giảm khả năng tình dục",
+      "description": "Nam giới có thể gặp khó khăn trong sinh hoạt tình dục, phụ nữ có thể bị kinh nguyệt không đều."
+    },
+    {
+      "name": "Nổi mao mạch hình sao",
+      "description": "Xuất hiện các mao mạch hình sao ở lưng, ngực, cổ, bụng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Xơ gan còn bù thường là hậu quả của tổn thương gan mạn tính dẫn đến sẹo hóa mô gan. Tuy nhiên ở giai đoạn này, các tế bào gan khỏe mạnh vẫn có thể hoạt động bù đắp cho các tế bào bị tổn thương.",
+    "related_factors": "Bệnh gan nhiễm mỡ, thừa cân/béo phì, chế độ ăn không hợp lý, tiếp xúc với chất độc hại như thạch tín, asen.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Viêm gan virus B, C, D chưa được kiểm soát tốt",
+    "Bệnh gan nhiễm mỡ",
+    "Thừa cân, béo phì",
+    "Lạm dụng rượu bia",
+    "Chế độ ăn uống không đủ chất, quá nhiều thực phẩm chiên rán",
+    "Tiếp xúc thường xuyên với các chất độc hại như thạch tín, asen",
+    "Tiền sử gia đình có người mắc các bệnh lý về gan"
+  ],
+  "complications": [
+    "Cổ trướng",
+    "Vàng da",
+    "Xuất huyết tiêu hóa do vỡ giãn tĩnh mạch thực quản, dạ dày",
+    "Bệnh não gan",
+    "Tiến triển thành xơ gan mất bù",
+    "Ung thư gan"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng dựa trên triệu chứng",
+      "Thăm khám vùng gan để phát hiện bất thường"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm hóa sinh gan",
+        "description": "Kiểm tra các chỉ số albumin, đông máu, bilirubin, men gan để đánh giá chức năng gan"
+      },
+      {
+        "name": "Siêu âm gan",
+        "description": "Kiểm tra hình ảnh gan, phát hiện những thay đổi như bờ gan không đều, tĩnh mạch cửa giãn, lách to"
+      },
+      {
+        "name": "Đo độ cứng của gan (đo đàn hồi gan)",
+        "description": "Đánh giá mức độ xơ hóa của gan, giúp phát hiện xơ gan còn bù"
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Lấy mẫu mô gan để xét nghiệm, thường chỉ thực hiện khi không rõ nguyên nhân"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Bệnh xơ gan còn bù có thể điều trị được. Dựa vào kết quả xét nghiệm có thể biết được mức độ tiến triển của bệnh, từ đó có hướng điều trị thích hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nguyên nhân",
+        "description": "Điều trị viêm gan virus B, C, D nếu có"
+      },
+      {
+        "name": "Loại bỏ tác nhân gây hại",
+        "description": "Ngưng sử dụng rượu, thuốc lá, và tránh tiếp xúc với các chất độc hại"
+      },
+      {
+        "name": "Chế độ dinh dưỡng",
+        "description": "Xây dựng chế độ ăn uống đủ dưỡng chất, hạn chế muối"
+      },
+      {
+        "name": "Thuốc lợi tiểu",
+        "description": "Giúp giảm tình trạng phù khi cần thiết"
+      },
+      {
+        "name": "Thuốc chống táo bón",
+        "description": "Giúp cải thiện tiêu hóa ở bệnh nhân xơ gan"
+      },
+      {
+        "name": "Thuốc chống xơ",
+        "description": "Có thể sử dụng một số thuốc như corticoids, colchicine trong một số trường hợp"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chỉ định của bác sĩ",
+      "Thường xuyên tái khám để theo dõi tình trạng bệnh",
+      "Tầm soát ung thư gan định kỳ",
+      "Sống lành mạnh, tránh các tác nhân gây hại đến gan"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm chủng đầy đủ để hạn chế nguy cơ tổn thương gan cấp tính do virus",
+      "recommended_for": ["Tiêm vaccine viêm gan B cho người chưa nhiễm virus"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiêng hoàn toàn bia rượu hay đồ uống có cồn",
+      "Quản lý cân nặng; giảm cân nếu đang thừa cân/béo phì",
+      "Cân nhắc việc dùng thuốc để tránh làm nhiễm độc gan",
+      "Tránh dùng thuốc chống viêm không steroid",
+      "Kiểm soát điều trị đái tháo đường, rối loạn lipid máu",
+      "Xây dựng chế độ ăn uống giàu rau xanh và trái cây; giảm lượng chất béo",
+      "Tầm soát ung thư biểu mô tế bào gan định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xơ gan còn bù có chữa được không?",
+      "answer": "Bệnh xơ gan còn bù có thể điều trị được. Đây là giai đoạn nếu điều trị tốt thì gan vẫn có cơ hội phục hồi. Điều quan trọng là người bệnh cần phát hiện sớm cũng như có những thay đổi tích cực về lối sống, cách ăn uống, rèn luyện sức khỏe."
+    },
+    {
+      "question": "Xơ gan còn bù và mất bù cái nào nguy hiểm hơn?",
+      "answer": "Xơ gan còn bù ít nguy hiểm hơn so với xơ gan mất bù. Người bệnh xơ gan còn bù thường không có triệu chứng và có thời gian sống thêm trung bình từ 12 năm trở lên. Trong khi đó xơ gan mất bù có nguy cơ biến chứng cao - một khi đã có ít nhất 1 biến chứng thì thời gian sống còn lại sẽ giảm mạnh xuống trung bình là 2-5 năm."
+    },
+    {
+      "question": "Xơ gan còn bù có biến chứng không?",
+      "answer": "Phần lớn trường hợp xơ gan còn bù không có biến chứng. Tuy nhiên, nếu để bệnh tiến triển sang giai đoạn sau - xơ gan mất bù - thì có thể xảy ra các vấn đề sức khỏe nghiêm trọng như cổ trướng, vàng da, xuất huyết tiêu hóa do vỡ giãn tĩnh mạch thực quản, dạ dày hoặc bệnh não gan."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chán ăn, ăn không ngon và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan còn bù"]
+    },
+    {
+      "question": "Tôi đang cảm thấy không tỉnh táo, ngứa ngáy và bầm tím ngoài da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan còn bù"]
+    },
+    {
+      "question": "Tôi hay bị phù nhẹ ở chân, tức vùng hạ sườn phải và nước tiểu vàng đậm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan còn bù"]
+    },
+    {
+      "question": "Tôi bị viêm gan virus B và hiện đang bị chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan còn bù"]
+    },
+    {
+      "question": "Tôi hay lạm dụng rượu bia và hiện đang bị tức vùng hạ sườn phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan còn bù"]
     }
   ]
 }

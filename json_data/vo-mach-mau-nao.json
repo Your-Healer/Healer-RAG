@@ -1,58 +1,209 @@
 {
   "disease_id": "vo-mach-mau-nao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Vỡ mạch máu não",
+  "disease_alternative_names": [
+    "Vỡ phình mạch máu não",
+    "Xuất huyết não do vỡ phình mạch"
+  ],
+  "disease_definition": "Vỡ mạch máu não là tình trạng túi phình trên mạch máu não bị vỡ, gây chảy máu vào não hoặc khoang dưới nhện. Tình trạng này xảy ra khi mạch máu não bị tổn thương, có hiện tượng xơ vữa động mạch, hình thành túi phình tại vị trí phân chia của các động mạch. Khi túi phình vỡ, máu tràn ra kích thích màng não, phóng thích các sản phẩm nguy hại, làm hỏng các tế bào não và gây tăng áp lực nội sọ, đe dọa tính mạng người bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu dữ dội đột ngột",
+      "description": "Cơn đau đầu xuất hiện đột ngột và dữ dội, không thuyên giảm dù có sử dụng thuốc giảm đau."
+    },
+    {
+      "name": "Co giật",
+      "description": "Xuất hiện hiện tượng tay chân co giật không kiểm soát."
+    },
+    {
+      "name": "Yếu liệt tứ chi",
+      "description": "Tay chân yếu, không thể cử động bình thường, thậm chí liệt nửa người."
+    },
+    {
+      "name": "Tê bì chân tay",
+      "description": "Cảm giác tê cứng hoặc bị kim châm ở các chi."
+    },
+    {
+      "name": "Cứng cổ và gáy",
+      "description": "Cảm giác cứng và đau ở vùng cổ và gáy."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và có thể nôn ói."
+    },
+    {
+      "name": "Rối loạn thị giác",
+      "description": "Thị lực suy giảm, mắt nhạy cảm hơn với ánh sáng, có hiện tượng nhìn mờ hoặc nhìn đôi."
+    },
+    {
+      "name": "Rối loạn ngôn ngữ",
+      "description": "Nói khó, nói ngọng hoặc không thể nói được."
+    },
+    {
+      "name": "Mất ý thức",
+      "description": "Lú lẫn, mất ý thức, có thể dẫn đến hôn mê."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Vỡ mạch máu não xảy ra khi túi phình trên mạch máu não bị vỡ do thành mạch máu bị mỏng, yếu đi và không chịu được áp lực của máu.",
+    "related_factors": "Các yếu tố làm tăng nguy cơ vỡ túi phình bao gồm tăng huyết áp đột ngột, căng thẳng lo âu, thức khuya, ngủ không đủ giấc, chế độ ăn nhiều muối và rối loạn lipid máu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tăng huyết áp",
+    "Phình mạch máu não",
+    "Dị dạng mạch máu bẩm sinh",
+    "Sử dụng thuốc chống đông máu",
+    "Bệnh lý mạch máu não thoái hóa",
+    "Giới tính: phụ nữ có nguy cơ cao hơn nam giới 1,5 lần",
+    "Tuổi tác: người trên 55 tuổi có nguy cơ cao hơn",
+    "Chế độ ăn uống không lành mạnh",
+    "Sử dụng chất kích thích",
+    "Thay đổi bất thường của thời tiết"
+  ],
+  "complications": [
+    "Mất ngôn ngữ, nói ngọng, khó giao tiếp",
+    "Liệt tay chân hoặc liệt nửa người",
+    "Co cứng cơ, khó cử động",
+    "Mất khả năng vận động",
+    "Rối loạn nuốt",
+    "Xẹp phổi, viêm phổi",
+    "Nhiễm trùng đường tiết niệu",
+    "Rối loạn tâm lý như lo âu, trầm cảm",
+    "Tử vong hoặc sống thực vật trong trường hợp nặng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Đánh giá các triệu chứng khởi phát",
+      "Kiểm tra tiền sử bệnh và tiền sử gia đình"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp CT (cắt lớp vi tính)",
+        "description": "Phát hiện khối máu tụ trong nhu mô não hoặc các khoang màng não, đánh giá cấu trúc giải phẫu bên trong não."
+      },
+      {
+        "name": "Chụp CTA (chụp mạch máu não)",
+        "description": "Phát hiện các mạch máu bị phình vỡ hoặc đánh giá tình trạng xơ vữa động mạch."
+      },
+      {
+        "name": "Chụp MRI (cộng hưởng từ)",
+        "description": "Kiểm tra chi tiết các nhu mô não và đánh giá tình trạng các mạch máu trên não."
+      },
+      {
+        "name": "Chọc dò tủy sống",
+        "description": "Kiểm tra xem trong dịch não tủy có lẫn với máu hay không, từ đó đánh giá tình trạng vỡ phình mạch máu não."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Vỡ phình mạch máu não là một bệnh lý thần kinh có nguy cơ tử vong cao. Việc tiên lượng bệnh và điều trị cấp cứu càng sớm sẽ càng giảm thiểu các biến chứng và tỷ lệ tử vong, giúp nâng cao hiệu quả điều trị và tăng khả năng phục hồi.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng thuốc giảm đau để giảm đau đầu, thuốc kiểm soát huyết áp để hạn chế chảy máu và kiểm soát áp lực nội sọ, thuốc chống động kinh nếu người bệnh có nguy cơ co giật."
+      },
+      {
+        "name": "Phẫu thuật mở hộp sọ",
+        "description": "Thực hiện bằng cách cắt xương sọ, sử dụng kính vi phẫu xác định vị trí mạch máu bị vỡ và dùng kẹp titan gắn vào cổ túi phình, loại bỏ túi phình ra khỏi dòng chảy của máu."
+      },
+      {
+        "name": "Phẫu thuật bắc cầu động mạch não",
+        "description": "Lấy một đoạn mạch nhỏ trong cơ thể người bệnh để nối tắt qua động mạch đã vỡ, tạo đường đi mới cho máu, áp dụng khi động mạch vỡ tổn thương nghiêm trọng."
+      },
+      {
+        "name": "Can thiệp nút coil",
+        "description": "Đưa ống thông vào động mạch ở bẹn và đi vào các mạch máu trong não tới vị trí mạch máu bị vỡ, đưa các cuộn dây bạch kim vào để lấp đầy túi phình."
+      },
+      {
+        "name": "Đặt stent mạch não",
+        "description": "Đặt stent trong lòng mạch máu, tạo giá đỡ trong lòng mạch, bít tắc túi phình mạch, nắn dòng chảy trong lòng mạch não."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Cần đưa người bệnh đến cơ sở y tế ngay khi có dấu hiệu vỡ mạch máu não",
+      "Can thiệp càng sớm càng tốt, tốt nhất trong vòng 24 giờ đầu",
+      "Người bệnh cần được theo dõi sát trong phòng chăm sóc đặc biệt từ 10-14 ngày đầu",
+      "Duy trì tinh thần lạc quan, tích cực phối hợp điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa vỡ mạch máu não",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thường xuyên tập thể dục, ít nhất 2-3 lần/tuần với mỗi lần tối thiểu 30 phút",
+      "Duy trì chế độ ăn uống lành mạnh, hạn chế ăn mặn, thức ăn có chứa chất béo bão hòa và cholesterol",
+      "Ăn nhiều rau và trái cây",
+      "Không hút thuốc, hạn chế uống rượu bia",
+      "Duy trì huyết áp ở mức ổn định",
+      "Nghỉ ngơi hợp lý, ngủ đủ 7-8 tiếng mỗi ngày",
+      "Tránh căng thẳng quá mức",
+      "Chủ động thăm khám, tầm soát bệnh lý thần kinh định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Vỡ mạch máu não có cứu (hoặc chữa) được không?",
+      "answer": "Người bệnh bị vỡ phình mạch máu não nếu được cấp cứu kịp thời và có phương pháp điều trị phù hợp có thể hạn chế tối đa biến chứng và tăng cao khả năng điều trị thành công. Do đó, các trường hợp vỡ mạch máu não nên được đưa đi cấp cứu can thiệp càng sớm càng tốt."
+    },
+    {
+      "question": "Vỡ mạch máu não sống được bao lâu?",
+      "answer": "Thời gian sống của bệnh nhân bị vỡ phình mạch máu não phụ thuộc vào nhiều yếu tố như: được cấp cứu kịp thời hay không, mức độ tổn thương não, thể trạng người bệnh, chế độ dinh dưỡng và chăm sóc sau điều trị. Người bệnh được cấp cứu trong thời gian vàng và có mức độ tổn thương não nhẹ có khả năng sống và phục hồi cao hơn. Ngoài ra, giữ tinh thần lạc quan là yếu tố quan trọng giúp kéo dài thời gian sống."
+    },
+    {
+      "question": "Vỡ mạch máu não bao lâu mới hồi phục?",
+      "answer": "Thời gian hồi phục sau vỡ mạch máu não tùy thuộc vào mức độ tổn thương não, thời gian được cấp cứu và phương pháp điều trị. Sau khi được điều trị, người bệnh có thể mất từ 3 tháng đến vài năm để phục hồi sức khỏe và điều trị hoàn toàn các biến chứng có thể xảy ra."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu dữ dội, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vỡ mạch máu não",
+        "Đau nửa đầu (Migraine)",
+        "Xuất huyết não",
+        "Viêm màng não"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu, chóng mặt và nhìn mờ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vỡ mạch máu não",
+        "Tăng huyết áp",
+        "Thiếu máu não cục bộ",
+        "Rối loạn tiền đình"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau đầu, tê bì chân tay và yếu liệt nửa người. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vỡ mạch máu não",
+        "Đột quỵ não",
+        "Xuất huyết não",
+        "U não"
+      ]
+    },
+    {
+      "question": "Tôi đang bị co giật, cứng cổ gáy và mất ý thức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vỡ mạch máu não",
+        "Xuất huyết não",
+        "Viêm màng não",
+        "Động kinh"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau đầu dữ dội, buồn nôn, nôn và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vỡ mạch máu não",
+        "Viêm màng não",
+        "Xuất huyết não",
+        "Nhiễm trùng hệ thần kinh trung ương"
+      ]
     }
   ]
 }

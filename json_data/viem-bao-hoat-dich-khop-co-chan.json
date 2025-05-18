@@ -1,39 +1,138 @@
 {
   "disease_id": "viem-bao-hoat-dich-khop-co-chan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bao hoạt dịch khớp cổ chân",
+  "disease_alternative_names": [
+    "Viêm bao hoạt dịch mắt cá chân",
+    "Viêm bao hoạt dịch Achilles",
+    "Viêm bao hoạt dịch Retrocalcaneal",
+    "Viêm bao hoạt dịch Medial Malleolus"
+  ],
+  "disease_definition": "Viêm bao hoạt dịch khớp cổ chân là tình trạng viêm các túi nhỏ chứa đầy chất lỏng (bao hoạt dịch) tại khớp cổ chân, gây đau nhức, khó chịu và ảnh hưởng trực tiếp đến sinh hoạt hàng ngày. Bao hoạt dịch tại vị trí này thực hiện nhiệm vụ làm giảm ma sát giữa gân và xương. Các bao có thể bị viêm bao gồm: Achilles, Retrocalcaneal, và Medial Malleolus, có thể bị viêm độc lập hoặc cùng lúc.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhức vùng phía sau cổ chân",
+      "description": "Cảm giác đau xuất hiện ở vùng phía sau cổ chân, đặc biệt khi vận động hoặc chịu áp lực."
+    },
+    {
+      "name": "Đi khập khiễng",
+      "description": "Người bệnh đi không vững, có xu hướng tránh chịu lực lên chân bị đau."
+    },
+    {
+      "name": "Phạm vi chuyển động bị hạn chế",
+      "description": "Khả năng vận động của cổ chân giảm, khó thực hiện các động tác gập, duỗi hoặc xoay."
+    },
+    {
+      "name": "Cổ chân bị căng cứng",
+      "description": "Cảm giác căng cứng, không thoải mái khi vận động cổ chân."
+    },
+    {
+      "name": "Sưng, đỏ và nóng vùng cổ chân",
+      "description": "Các dấu hiệu viêm cổ điển xuất hiện tại vùng cổ chân bị tổn thương."
+    },
+    {
+      "name": "Khó khăn khi thực hiện hoạt động chịu trọng lượng",
+      "description": "Khó khăn khi thực hiện các hoạt động như chạy, đứng do cổ chân bị viêm và đau."
+    },
+    {
+      "name": "Đau khi sờ nắn",
+      "description": "Cảm giác đau xuất hiện khi chạm vào vùng cổ chân bị viêm, triệu chứng thường gặp trong viêm cấp tính."
+    },
+    {
+      "name": "Đau dữ dội khi vận động",
+      "description": "Cơn đau trở nên dữ dội khi thực hiện động tác co lại hoặc duỗi ra do các cơ bị nén, đặc biệt trong viêm cấp tính."
+    },
+    {
+      "name": "Tăng nhiệt độ da vùng viêm",
+      "description": "Trong trường hợp viêm do nhiễm trùng, nhiệt độ trên da tăng lên, có thể chênh lệch so với mức nhiệt ban đầu khoảng 2,2 độ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm bao hoạt dịch khớp cổ chân xảy ra do các hoạt động gây áp lực quá mức lên khớp, chấn thương, nhiễm trùng hoặc các bệnh lý khớp khác.",
+    "related_factors": "Viêm bao hoạt dịch cấp tính thường xuất phát từ chấn thương, nhiễm trùng hoặc bệnh khớp. Viêm bao hoạt dịch mạn tính thường xảy ra do các chấn thương lặp đi lặp lại hoặc khớp chịu áp lực quá lớn trong thời gian dài.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Vận động quá mức hoặc thực hiện các động tác lặp đi lặp lại (đi bộ, chạy, nhảy)",
+    "Tập luyện thể thao không khởi động kỹ, đặc biệt là các động tác leo lên cao",
+    "Mang giày không vừa vặn, đi giày cao gót gây áp lực lên cổ chân",
+    "Nhiễm trùng do Staphylococcus Aureus, Streptococci hoặc một số loại nấm",
+    "Tiền sử chấn thương khớp cổ chân",
+    "Bệnh lý nền như gút, viêm khớp dạng thấp",
+    "Thường xuyên tiếp xúc với thời tiết lạnh, môi trường nhiệt độ thấp",
+    "Tham gia các bộ môn thể thao đòi hỏi va chạm nhiều (bóng đá, bóng rổ)",
+    "Công việc đòi hỏi đứng liên tục trong nhiều giờ (bán hàng, bảo vệ)"
+  ],
+  "complications": [
+    "Vùng viêm trở nên dày, to vĩnh viễn",
+    "Các cấu trúc xung quanh bị chèn ép nghiêm trọng, gây đau đớn khi di chuyển",
+    "Khả năng vận động của cổ chân bị hạn chế dài hạn",
+    "Teo cơ xung quanh vùng cổ chân do cơn đau kéo dài hạn chế vận động"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng và hỏi bệnh sử",
+      "Đánh giá mức độ đau và phạm vi vận động",
+      "Xét nghiệm máu",
+      "Siêu âm cổ chân",
+      "Chụp X-quang hoặc MRI",
+      "Cấy dịch từ bao hoạt dịch"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Được thực hiện nhằm kiểm tra nhiễm trùng hoặc một số bệnh có thể gây ra tình trạng viêm bao hoạt dịch tại khớp cổ chân."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Giúp đánh giá tổng quát về độ dày, lượng dịch trong mỗi bao hoạt dịch, tình trạng xơ cứng của gân vùng cổ chân."
+      },
+      {
+        "name": "Chụp X-quang hoặc MRI",
+        "description": "Giúp bác sĩ xác định các vấn đề liên quan đến vị trí xương, tình trạng viêm khớp hoặc gãy xương đang gặp phải. Có thể sử dụng chất tương phản để hình ảnh hiển thị rõ hơn."
+      },
+      {
+        "name": "Cấy dịch",
+        "description": "Bác sĩ sử dụng kim để hút chất lỏng từ bao hoạt dịch sau đó mang đến phòng thí nghiệm để kiểm tra nhiễm trùng. Việc loại bỏ chất lỏng cũng giúp làm giảm các triệu chứng đau nhức."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm bao hoạt dịch khớp cổ chân tùy thuộc vào mức độ viêm. Với trường hợp nhẹ, có thể áp dụng các phương pháp không phẫu thuật. Trường hợp nặng hoặc không đáp ứng với điều trị nội khoa có thể cần đến phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi và chăm sóc tại nhà",
+        "description": "Giữ cổ chân ở trạng thái nghỉ ngơi, chườm đá lên vùng cổ chân để giảm sưng đau, thực hiện 3-4 lần mỗi ngày, mỗi lần 15-20 phút. Có thể chườm nóng để giảm cứng khớp."
+      },
+      {
+        "name": "Dùng thuốc giảm đau và chống viêm",
+        "description": "Sử dụng thuốc chống viêm không Steroid (NSAID) như Ibuprofen, Aspirin để giúp giảm sưng đau và hạ sốt. Lưu ý NSAID có thể gây hiện tượng chảy máu dạ dày hoặc các vấn đề về thận."
+      },
+      {
+        "name": "Tiêm Steroid",
+        "description": "Giúp giảm sưng đau nhưng có thể làm tăng nguy cơ chấn thương gân, gây teo da và nhiễm trùng trong một số trường hợp."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Bao gồm kỹ thuật trị liệu bằng tay (MTT), các bài tập trị liệu (TE), phương pháp NMR và các phương thức khác như sóng siêu âm, tia laser lạnh, kích thích điện. Các bài tập kéo giãn giúp phục hồi chuyển động và tăng cường sức mạnh cho khớp."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Áp dụng khi tình trạng viêm nghiêm trọng và các phương pháp điều trị nội khoa không hiệu quả. Bác sĩ sẽ rạch một đường trên da, hút dịch dư thừa hoặc loại bỏ hoàn toàn bao bị viêm."
+      },
+      {
+        "name": "Liệu pháp xơ hóa",
+        "description": "Phương pháp mới nhưng chưa phổ biến, tập trung thu nhỏ và giết chết các mô đệm bằng cách tiêm chất gây kích ứng vào bao hoạt dịch bị viêm."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sử dụng đệm lót theo hướng dẫn của bác sĩ để tránh chấn thương và giảm áp lực cho vùng cổ chân",
+      "Sử dụng giày dép có kích cỡ vừa vặn để làm giảm áp lực lên cổ chân",
+      "Sử dụng nẹp hoặc bó bột theo hướng dẫn của bác sĩ khi cần thiết",
+      "Điều trị các bệnh nền nếu viêm bao hoạt dịch do bệnh lý",
+      "Đi bộ nhẹ nhàng có thể giúp cải thiện tình trạng, nhưng cần sử dụng giày phù hợp và không lạm dụng",
+      "Người bệnh gút nên tránh thức ăn và đồ uống có chứa nhiều Purin như rượu, bia, nội tạng động vật, thịt đỏ, hải sản",
+      "Người bệnh viêm khớp dạng thấp nên tránh thực phẩm có thể làm nặng thêm tình trạng viêm như thức ăn chế biến sẵn, bánh ngọt"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +140,99 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập luyện thể dục thể thao đều đặn, bao gồm các bài tập kéo giãn như yoga, thái cực quyền (ít nhất 30 phút mỗi ngày), bơi lội",
+      "Luôn khởi động kỹ trước khi tập luyện thể dục thể thao",
+      "Xây dựng chế độ ăn với thực phẩm chống viêm (bông cải xanh, ớt chuông, bơ), tránh thực phẩm chế biến sẵn hoặc nhiều đường",
+      "Duy trì cân nặng ở mức hợp lý để giảm áp lực lên khớp",
+      "Sau khi khỏi bệnh, nên chuyển sang các bộ môn thể thao nhẹ nhàng như đạp xe đạp, yoga thay cho chạy bộ",
+      "Tránh các chuyển động lặp đi lặp lại, giật mạnh hoặc tăng trọng lượng đột ngột",
+      "Điều trị sớm các bệnh lý có thể dẫn đến viêm bao hoạt dịch như gút, viêm khớp dạng thấp",
+      "Mang giày dép có kích cỡ vừa vặn với chân để giảm cọ xát và căng thẳng ở vùng Achilles"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bao hoạt dịch khớp cổ chân có tự khỏi không?",
+      "answer": "Viêm bao hoạt dịch khớp cổ chân ở mức độ nhẹ có thể tự lành nếu nghỉ ngơi và chăm sóc đúng cách. Tuy nhiên, nhiều trường hợp vẫn cần đến sự chăm sóc và can thiệp y tế để tránh biến chứng nguy hiểm. Việc chủ quan không điều trị sớm có thể khiến tình trạng tiến triển nặng thêm."
+    },
+    {
+      "question": "Phụ nữ có nguy cơ bị viêm bao hoạt dịch khớp cổ chân cao hơn không?",
+      "answer": "Viêm bao hoạt dịch cổ chân thường xảy ra ở nữ giới nhiều hơn nam giới do thói quen sử dụng giày cao gót trong thời gian dài. Giày cao gót gây áp lực lên cổ chân, làm tăng nguy cơ mắc bệnh, đặc biệt nếu thói quen này không được thay đổi."
+    },
+    {
+      "question": "Làm thế nào để giảm đau khi bị viêm bao hoạt dịch khớp cổ chân?",
+      "answer": "Để giảm đau khi bị viêm bao hoạt dịch khớp cổ chân, có thể áp dụng các biện pháp như: nghỉ ngơi cổ chân, chườm đá lên vùng viêm (3-4 lần/ngày, mỗi lần 15-20 phút), dùng thuốc giảm đau (NSAID) theo chỉ định của bác sĩ, sử dụng nẹp hoặc đệm lót theo hướng dẫn, và thực hiện các bài tập vật lý trị liệu nhẹ nhàng."
+    },
+    {
+      "question": "Phẫu thuật điều trị viêm bao hoạt dịch khớp cổ chân khi nào cần thiết?",
+      "answer": "Phẫu thuật điều trị viêm bao hoạt dịch khớp cổ chân được chỉ định khi tình trạng viêm nghiêm trọng và các phương pháp điều trị nội khoa không đem lại hiệu quả. Phẫu thuật giúp hút hết chất lỏng dư thừa ra khỏi bao hoặc loại bỏ hoàn toàn bao bị viêm, giúp giảm vĩnh viễn tình trạng sưng đau."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức vùng phía sau cổ chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-co-chan",
+        "viem-gan-achilles",
+        "trat-khop-co-chan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đi khập khiễng, phạm vi chuyển động của cổ chân bị hạn chế. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-co-chan",
+        "trat-khop-co-chan",
+        "gay-xuong-co-chan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị cổ chân bị căng cứng, vùng da cổ chân bị sưng, đỏ và nóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-co-chan",
+        "viem-khop-co-chan",
+        "nhiem-trung-da-va-mo-mem"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như cảm thấy khó khăn khi thực hiện các hoạt động chịu trọng lượng như chạy, đứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-co-chan",
+        "trat-khop-co-chan",
+        "viem-gan-achilles"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khi sờ nắn, phạm vi cử động của khớp bị thu hẹp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-co-chan",
+        "viem-khop-co-chan",
+        "thoai-hoa-khop-co-chan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau dữ dội khi vận động, cơn đau trở nên dữ dội khi thực hiện động tác co lại hoặc duỗi ra do các cơ bị nén. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-co-chan",
+        "viem-gan-co-ban-chan",
+        "chen-ep-than-kinh-co-chan"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm bao hoạt dịch do nhiễm trùng với nhiệt độ trên da tăng lên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-co-chan",
+        "nhiem-trung-da-va-mo-mem",
+        "viem-khop-nhiem-trung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm bao hoạt dịch khớp cổ chân do vận động quá mức hoặc thực hiện các động tác lặp đi lặp lại như đi bộ, chạy, nhảy… gây áp lực lên khớp cổ chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-co-chan",
+        "viem-gan-achilles",
+        "viem-can-gan-ban-chan"
+      ]
     }
   ]
 }

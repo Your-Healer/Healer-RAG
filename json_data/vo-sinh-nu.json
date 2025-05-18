@@ -1,58 +1,216 @@
 {
   "disease_id": "vo-sinh-nu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Vô sinh nữ",
+  "disease_alternative_names": [
+    "Vô sinh nguyên phát ở nữ",
+    "Vô sinh thứ phát ở nữ"
+  ],
+  "disease_definition": "Vô sinh nữ là tình trạng người phụ nữ không có thai tự nhiên được sau 1 năm quan hệ vợ chồng thường xuyên mà không dùng các biện pháp tránh thai nào. Theo Hiệp hội Y học Sinh sản Hoa Kỳ (ASRM), nên bắt đầu việc thăm khám nếu hai vợ chồng có quan hệ tình dục không sử dụng biện pháp tránh thai trong vòng 12 tháng hoặc trong vòng 6 tháng đối với phụ nữ trên 35 tuổi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có thai sau thời gian dài",
+      "description": "Không có thai tự nhiên sau 1 năm quan hệ vợ chồng thường xuyên mà không dùng biện pháp tránh thai (hoặc 6 tháng đối với phụ nữ trên 35 tuổi)"
+    },
+    {
+      "name": "Rối loạn kinh nguyệt",
+      "description": "Vòng kinh quá ngắn (dưới 21 ngày) hoặc dài (trên 35 ngày), chu kỳ kinh nguyệt không đều (khoảng cách giữa chu kỳ ngắn nhất và chu kỳ kinh dài nhất trên 8 ngày)"
+    },
+    {
+      "name": "Vô kinh",
+      "description": "Từ 18 tuổi trở lên chưa có kinh nguyệt hoặc đã từng hành kinh nhưng kinh nguyệt biến mất quá 6 tháng liên tục"
+    },
+    {
+      "name": "Thống kinh",
+      "description": "Đau bụng dưới mỗi lần có kinh nguyệt, có thể do các bất thường giải phẫu như tử cung gập sau, tử cung có vách ngăn, dính buồng tử cung hoặc bệnh lý như u xơ tử cung, lạc nội mạc tử cung"
+    },
+    {
+      "name": "Dịch âm đạo bất thường",
+      "description": "Dịch âm đạo có màu vàng, ngả xanh hoặc có mùi hôi khó chịu, khác với dịch âm đạo bình thường (trong, trắng, không mùi hôi)"
+    },
+    {
+      "name": "Đau bụng không liên quan đến kinh nguyệt",
+      "description": "Đau bụng xảy ra sau giao hợp hoặc thời gian bất kỳ, có thể là biểu hiện của u xơ tử cung, u buồng trứng, viêm nhiễm vùng chậu hoặc chửa ngoài tử cung"
+    },
+    {
+      "name": "Sảy thai",
+      "description": "Đặc biệt là trường hợp sảy thai liên tiếp, có thể do bệnh lý về nội tiết tuyến giáp, tiểu đường, bất thường sinh dục, bệnh lý đông máu hoặc di truyền"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Vô sinh do yếu tố nữ chiếm 40% tổng số trường hợp vô sinh nói chung. Vô sinh nữ có thể được chia làm 2 nhóm: vô sinh nguyên phát (chưa mang thai lần nào) và vô sinh thứ phát (đã từng mang thai nhưng sau đó không thể mang thai trở lại).",
+    "related_factors": "Các yếu tố phổ biến nhất dẫn đến vô sinh nữ bao gồm: rối loạn phóng noãn (25%), lạc nội mạc tử cung (15%), viêm vùng chậu (12%), tắc nghẽn ống dẫn trứng (11%), các bất thường khác về ống dẫn trứng và tử cung (11%), và tăng prolactin máu (7%).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao, đặc biệt là phụ nữ trên 35 tuổi",
+    "Hút thuốc lá",
+    "Chỉ số cân nặng (BMI) quá cao hoặc quá thấp",
+    "Mắc các bệnh lây qua đường tình dục",
+    "Rối loạn nội tiết",
+    "Tiền sử viêm nhiễm phụ khoa nhiều lần",
+    "Tiền sử nạo phá thai hoặc lạm dụng thuốc tránh thai",
+    "Bệnh buồng trứng đa nang",
+    "Lạc nội mạc tử cung",
+    "Viêm vùng chậu",
+    "Tắc nghẽn ống dẫn trứng",
+    "Polyp tử cung",
+    "U xơ tử cung",
+    "Tử cung dị dạng",
+    "Chít hẹp hoặc dính cổ tử cung",
+    "Tăng prolactin máu"
+  ],
+  "complications": [
+    "Ảnh hưởng xấu lên đời sống tình cảm, tinh thần",
+    "Gây áp lực tâm lý, căng thẳng",
+    "Ảnh hưởng đến hôn nhân, mối quan hệ vợ chồng",
+    "Gánh nặng tài chính do chi phí điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám sức khỏe tổng quát",
+      "Đánh giá bệnh sử và tiền sử gia đình",
+      "Kiểm tra các bệnh toàn thân/tại chỗ liên quan đến sinh sản"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra dự trữ buồng trứng",
+        "description": "Đánh giá số lượng và chất lượng trứng còn lại trong buồng trứng"
+      },
+      {
+        "name": "Xét nghiệm máu và nội tiết",
+        "description": "Kiểm tra các hormone sinh sản, hormone tuyến giáp, prolactin và các bệnh lý toàn thân ảnh hưởng đến khả năng sinh sản"
+      },
+      {
+        "name": "Siêu âm tử cung, buồng trứng, vùng chậu",
+        "description": "Đánh giá tình trạng tử cung, buồng trứng và các cơ quan sinh sản khác"
+      },
+      {
+        "name": "Chụp tử cung vòi trứng",
+        "description": "Kiểm tra tình trạng tắc nghẽn hoặc bất thường ở ống dẫn trứng"
+      },
+      {
+        "name": "Xét nghiệm các bệnh lây truyền qua đường tình dục",
+        "description": "Kiểm tra các bệnh nhiễm trùng có thể gây viêm và tổn thương ống dẫn trứng"
+      },
+      {
+        "name": "Phẫu thuật nội soi",
+        "description": "Đánh giá trực tiếp tình trạng của các cơ quan trong ổ bụng và vùng chậu"
+      },
+      {
+        "name": "Sinh thiết niêm mạc",
+        "description": "Kiểm tra lớp niêm mạc tử cung và đánh giá khả năng làm tổ của phôi"
+      },
+      {
+        "name": "Xét nghiệm di truyền",
+        "description": "Phát hiện các bất thường di truyền có thể ảnh hưởng đến khả năng sinh sản"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị vô sinh hiếm muộn phụ thuộc vào nhiều yếu tố gồm nguyên nhân, độ tuổi và tình trạng sức khỏe tổng thể của bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Sử dụng các thuốc hỗ trợ, kiểm soát sự phát triển nang trứng, gây rụng trứng hoặc điều chỉnh cân bằng nội tiết cũng như hỗ trợ sức khỏe chung"
+      },
+      {
+        "name": "Phẫu thuật nội soi buồng tử cung",
+        "description": "Khắc phục các vấn đề về giải phẫu tử cung, loại bỏ polyp nội mạc tử cung, một số loại u xơ làm hỏng buồng tử cung hoặc loại bỏ dính vùng chậu"
+      },
+      {
+        "name": "Phẫu thuật ống dẫn trứng",
+        "description": "Sửa chữa hoặc tái tạo lại ống dẫn trứng giúp có thể có thai tự nhiên, hoặc cắt bỏ vòi tử cung bị tổn thương để tăng khả năng thành công của IVF"
+      },
+      {
+        "name": "Thụ tinh nhân tạo (IUI)",
+        "description": "Tinh trùng khỏe mạnh được lọc rửa, cô đặc lại và bơm vào bên trong tử cung vào thời điểm rụng trứng để làm tăng cơ hội mang thai"
+      },
+      {
+        "name": "Thụ tinh trong ống nghiệm (IVF)",
+        "description": "Lấy trứng và tinh trùng ra ngoài, cho thụ tinh và tạo ra phôi trong phòng thí nghiệm, sau đó chuyển phôi vào tử cung"
+      },
+      {
+        "name": "Tiêm tinh trùng vào bào tương noãn (ICSI)",
+        "description": "Một tinh trùng chất lượng tốt được chọn lọc để tiêm trực tiếp vào noãn, tăng khả năng thụ tinh, đặc biệt hiệu quả khi người đàn ông có vấn đề về tinh trùng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đi khám sớm nhất có thể, đặc biệt với phụ nữ trên 35 tuổi",
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Duy trì tinh thần lạc quan trong quá trình điều trị",
+      "Tham gia các hoạt động giảm stress như yoga, thiền",
+      "Chăm sóc sức khỏe tổng thể, duy trì lối sống lành mạnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine đặc hiệu cho việc phòng ngừa vô sinh nữ",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện lối sống lành mạnh, duy trì cân nặng hợp lý",
+      "Từ bỏ hút thuốc, không uống rượu",
+      "Giảm căng thẳng trong cuộc sống",
+      "Thăm khám sức khỏe sinh sản định kỳ",
+      "Phòng tránh các bệnh lây qua đường tình dục",
+      "Điều trị sớm các bệnh phụ khoa",
+      "Tránh lạm dụng phá thai và thuốc tránh thai",
+      "Không trì hoãn việc mang thai quá lâu, đặc biệt với phụ nữ trên 35 tuổi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Vô sinh nữ là gì?",
+      "answer": "Vô sinh nữ là tình trạng người phụ nữ không có thai tự nhiên được sau 1 năm quan hệ vợ chồng thường xuyên mà không dùng các biện pháp tránh thai nào. Theo khuyến nghị của Hiệp hội Y học Sinh sản Hoa Kỳ (ASRM), nên bắt đầu việc thăm khám nếu hai vợ chồng có quan hệ tình dục không sử dụng biện pháp tránh thai trong vòng 12 tháng hoặc trong vòng 6 tháng đối với phụ nữ trên 35 tuổi."
+    },
+    {
+      "question": "Có những dấu hiệu nào để nhận biết vô sinh nữ?",
+      "answer": "Dấu hiệu chính của vô sinh nữ là không có thai sau 1 năm quan hệ tình dục thường xuyên không sử dụng biện pháp tránh thai. Ngoài ra, một số dấu hiệu cảnh báo khác bao gồm: rối loạn kinh nguyệt (chu kỳ quá ngắn, quá dài hoặc không đều), vô kinh, thống kinh, dịch âm đạo bất thường, đau bụng không liên quan đến kinh nguyệt, và sảy thai đặc biệt là sảy thai liên tiếp."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa vô sinh nữ?",
+      "answer": "Để phòng ngừa vô sinh nữ, bạn nên: thực hiện lối sống lành mạnh và duy trì cân nặng hợp lý; từ bỏ hút thuốc và không uống rượu; giảm căng thẳng trong cuộc sống; thăm khám sức khỏe sinh sản định kỳ; phòng tránh các bệnh lây qua đường tình dục; điều trị sớm các bệnh phụ khoa; tránh lạm dụng phá thai và thuốc tránh thai; và không trì hoãn việc mang thai quá lâu, đặc biệt với phụ nữ trên 35 tuổi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như không có thai sau 1 năm quan hệ tình dục thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nữ",
+        "Vô sinh nguyên phát",
+        "Vô sinh thứ phát"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy rối loạn kinh nguyệt và khó thụ thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nữ",
+        "Buồng trứng đa nang",
+        "Rối loạn nội tiết",
+        "Suy buồng trứng sớm"
+      ]
+    },
+    {
+      "question": "Tôi hay bị thống kinh và khó có con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nữ",
+        "Lạc nội mạc tử cung",
+        "U xơ tử cung",
+        "Viêm vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi bị lạc nội mạc tử cung và khó thụ thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nữ",
+        "Lạc nội mạc tử cung",
+        "Viêm dính vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi bị tắc nghẽn ống dẫn trứng và khó thụ thai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Vô sinh nữ", "Viêm vòi trứng", "Chửa ngoài tử cung"]
     }
   ]
 }

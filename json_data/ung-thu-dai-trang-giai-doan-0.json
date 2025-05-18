@@ -1,39 +1,95 @@
 {
   "disease_id": "ung-thu-dai-trang-giai-doan-0",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư đại tràng giai đoạn 0",
+  "disease_alternative_names": ["Ung thư biểu mô tại chỗ", "Ung thư biểu mô trong niêm mạc (Tis)", "Stage 0 Colon Cancer"],
+  "disease_definition": "Ung thư đại tràng giai đoạn 0 là ung thư giai đoạn rất sớm. Tế bào ung thư chỉ được tìm thấy trong lớp lót bên trong của thành đại tràng hoặc trực tràng (tế bào u mới phát triển ở lớp niêm mạc chưa xâm lấn qua màng đáy). Nó còn được gọi là ung thư biểu mô tại chỗ hoặc ung thư biểu mô trong niêm mạc (Tis).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng đặc hiệu",
+      "description": "Ung thư đại tràng giai đoạn 0 thường không có bất kỳ dấu hiệu hoặc triệu chứng nào, đó là lý do tại sao việc tầm soát ung thư là rất quan trọng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư đại tràng giai đoạn 0 có thể phát triển từ lớp niêm mạc đại trực tràng, trên các polyp hay u tuyến (adenoma).",
+    "related_factors": "Các tế bào ung thư phát triển ở lớp niêm mạc của đại tràng và chưa phá vỡ màng đáy, do đó chưa có khả năng di căn đến các hạch bạch huyết và các cơ quan khác trong cơ thể.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người từ 45 tuổi trở lên",
+    "Tiền sử cá nhân về bệnh đại tràng mạn tính (viêm loét đại tràng chảy máu, polyp đại tràng hoặc bệnh Crohn)",
+    "Tiền sử gia đình có mô hình ung thư phức tạp: Nhiều người mắc ung thư, mắc ung thư tuổi trẻ hoặc một thành viên mắc cùng lúc nhiều loại ung thư",
+    "Hội chứng ung thư đại trực tràng di truyền đã được xác nhận hoặc nghi ngờ",
+    "Tiền sử bản thân từng bị bức xạ vào vùng bụng hoặc vùng chậu",
+    "Chế độ ăn uống thiếu khoa học, thừa cân, béo phì, ít vận động"
+  ],
+  "complications": [
+    "Tiến triển thành ung thư đại tràng giai đoạn cao hơn nếu không được điều trị kịp thời",
+    "Rối loạn tiêu hóa sau phẫu thuật"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám sức khỏe",
+      "Hỏi bệnh sử cá nhân và gia đình",
+      "Hỏi triệu chứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi đại tràng",
+        "description": "Phương pháp thăm dò hiệu quả nhất trong chẩn đoán ung thư đại tràng, cho phép bác sĩ xác định vị trí, số lượng, hình thái, kích thước của khối u và lấy một phần u để kiểm tra mô học"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra chất chỉ điểm khối u CEA và CA 19-9, giúp đánh giá kết quả, theo dõi tái phát và tiên lượng bệnh"
+      },
+      {
+        "name": "Phân tích di truyền",
+        "description": "Phân tích khối u để tìm các đột biến gen liên quan, đặc biệt xét nghiệm loại trừ hội chứng Lynch và xác định đột biến gen như KRAS, NRAS, BRAF"
+      },
+      {
+        "name": "Chẩn đoán hình ảnh (CT, MRI, PET/CT)",
+        "description": "Giúp đánh giá giai đoạn bệnh, tình trạng khối u, mức xâm lấn, di căn hạch, di căn xa đến các cơ quan khác trong cơ thể"
+      },
+      {
+        "name": "Xét nghiệm tìm máu ẩn trong phân",
+        "description": "Xét nghiệm chẩn đoán đơn giản, không xâm lấn để phát hiện hemoglobin trong phân, cho thấy có xuất huyết từ đường tiêu hóa"
+      },
+      {
+        "name": "Xét nghiệm FIT",
+        "description": "Xét nghiệm miễn dịch tìm máu ẩn trong phân, sử dụng một protein đặc hiệu đóng vai trò kháng thể tìm và gắn với hemoglobin trong phân"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Do ung thư đại tràng giai đoạn 0 chưa phát triển ra ngoài lớp niêm mạc đại tràng, phẫu thuật thường là phương pháp điều trị duy nhất.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cắt bỏ polyp",
+        "description": "Phẫu thuật cắt bỏ polyp đơn thuần qua nội soi trong hầu hết các trường hợp"
+      },
+      {
+        "name": "Cắt niêm mạc nội soi (Mucosectomy)",
+        "description": "Phương pháp áp dụng nếu tổn thương ở lớp sm1/2, G1,2"
+      },
+      {
+        "name": "Cắt hình chêm",
+        "description": "Cắt rộng tổn thương để đảm bảo loại bỏ hoàn toàn khối u"
+      },
+      {
+        "name": "Cắt đoạn đại tràng nối ngay",
+        "description": "Được áp dụng nếu cắt rộng tổn thương không chắc chắn đã lấy hết tổn thương hoặc diện cắt dương tính"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sau phẫu thuật, người bệnh cần tiếp tục thăm khám định kỳ và thực hiện các xét nghiệm",
+      "Nội soi đại tràng tầm soát nên được tiến hành trong vòng 1 năm sau phẫu thuật",
+      "Nội soi đại tràng tầm soát từ lần thứ hai nên được thực hiện 3 năm tiếp theo",
+      "Hỏi tiền sử, khám lâm sàng và đánh giá nồng độ CEA huyết thanh 3-6 tháng/lần trong 2 năm đầu",
+      "Đánh giá nồng độ CEA huyết thanh 6 tháng/lần trong 3-5 năm tiếp theo",
+      "Chụp CT hoặc MRI mỗi năm 1 lần",
+      "Điều chỉnh chế độ ăn uống, hạn chế ăn chất xơ trong thời gian đầu sau phẫu thuật",
+      "Tránh ăn các thực phẩm lên men như dưa, cà, các loại tôm, cá chua; hạn chế ăn mặn",
+      "Không uống nước ngọt, bia, rượu"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +97,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thăm khám sức khỏe định kỳ mỗi năm 2 lần",
+      "Tầm soát ung thư đại tràng từ độ tuổi 45 trở lên",
+      "Tầm soát sớm hơn với nhóm nguy cơ cao",
+      "Duy trì chế độ ăn uống lành mạnh, hạn chế thực phẩm lên men, đồ ăn mặn",
+      "Tránh uống bia rượu, nước ngọt",
+      "Duy trì cân nặng hợp lý, tăng cường vận động"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư đại tràng giai đoạn 0 có triệu chứng gì?",
+      "answer": "Theo TS.BS Vũ Hữu Khiêm - Trưởng khoa Ung bướu, BVĐK Tâm Anh Hà Nội, ung thư đại tràng giai đoạn 0 thường không có bất kỳ dấu hiệu hoặc triệu chứng nào. Đó là lý do tại sao việc tầm soát ung thư là rất quan trọng, đặc biệt đối với những người có các yếu tố nguy cơ cao."
+    },
+    {
+      "question": "Ung thư đại tràng giai đoạn 0 có tỷ lệ chữa khỏi cao không?",
+      "answer": "Ung thư đại tràng giai đoạn 0 là giai đoạn tiền bệnh với tỷ lệ khỏi bệnh lên tới gần 100% nếu được điều trị kịp thời. Ở giai đoạn này, tế bào ung thư chưa phá vỡ màng đáy nên chưa có hiện tượng di căn hạch và di căn xa đến các cơ quan khác trong cơ thể, nên việc điều trị cực kỳ hiệu quả."
+    },
+    {
+      "question": "Điều trị ung thư đại tràng giai đoạn 0 như thế nào?",
+      "answer": "Do ung thư đại tràng giai đoạn 0 chưa phát triển ra ngoài lớp niêm mạc đại tràng, phẫu thuật thường là phương pháp điều trị duy nhất. Trong hầu hết các trường hợp, phẫu thuật có thể được thực hiện bằng cách cắt bỏ polyp hoặc cắt đoạn đại tràng qua nội soi (local excision). Trong một số trường hợp cần cắt đoạn đại tràng nối ngay nếu cắt rộng tổn thương không chắc chắn đã lấy hết tổn thương hoặc diện cắt dương tính."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, rối loạn tiêu hóa và thay đổi thói quen đại tiện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 0",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn và sụt cân không rõ lý do. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 0",
+        "Ung thư dạ dày",
+        "Suy nhược cơ thể"
+      ]
+    },
+    {
+      "question": "Tôi hay bị táo bón, tiêu chảy và phân có máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 0",
+        "Trĩ",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, phân có nhầy và cảm giác đại tiện không hết phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 0",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn và phân có màu đen. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 0",
+        "Loét dạ dày",
+        "Xuất huyết tiêu hóa"
+      ]
     }
   ]
 }

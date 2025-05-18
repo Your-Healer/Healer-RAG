@@ -1,58 +1,197 @@
 {
   "disease_id": "viem-tai-giua",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tai giữa",
+  "disease_alternative_names": [
+    "Viêm tai giữa cấp tính",
+    "Viêm tai giữa mạn tính",
+    "Viêm tai giữa ứ dịch",
+    "Otitis media"
+  ],
+  "disease_definition": "Viêm tai giữa là tình trạng tai giữa (khu vực phía sau màng nhĩ) bị nhiễm trùng gây sưng, đau, sốt, chảy dịch. Viêm tai giữa có thể xảy ra ở mọi lứa tuổi song phổ biến nhất là trẻ em từ 6-36 tháng tuổi do cấu trúc tai chưa phát triển hoàn chỉnh, miễn dịch yếu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau tai",
+      "description": "Đau tai, đặc biệt khi nằm xuống"
+    },
+    {
+      "name": "Khó ngủ",
+      "description": "Trẻ thường khó ngủ, mất ngủ do đau tai"
+    },
+    {
+      "name": "Khóc nhiều",
+      "description": "Trẻ quấy khóc nhiều do cảm giác đau và khó chịu"
+    },
+    {
+      "name": "Nghe kém",
+      "description": "Khó nghe hoặc phản ứng kém với âm thanh"
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Rối loạn thăng bằng, đi đứng không vững"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt từ 38 độ trở lên"
+    },
+    {
+      "name": "Chảy dịch tai",
+      "description": "Dịch chảy ra từ tai, có thể trong hoặc đục, mủ"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau đầu, khó chịu"
+    },
+    {
+      "name": "Ăn kém",
+      "description": "Trẻ ăn kém, bỏ bú, biếng ăn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nhiễm trùng tai do vi khuẩn hoặc virus trong tai giữa gây ra. Tình trạng nhiễm trùng cũng thường xảy ra do cảm lạnh, cúm hoặc dị ứng gây tắc nghẽn cửa mũi sau (viêm VA), vùng họng và vòi nhĩ.",
+    "related_factors": "Vòi nhĩ (vòi Eustachian) khi bị sưng có thể làm tắc nghẽn, khiến chất lỏng tích tụ trong tai giữa gây nhiễm trùng. VA (Adenoids) khi bị viêm sưng to có thể làm tắc nghẽn vòi nhĩ, dẫn đến nhiễm trùng tai giữa.",
+    "transmission_routes": [
+      "Lây qua đường mũi họng",
+      "Do viêm mũi họng biến chứng viêm tai giữa"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ từ 6-36 tháng tuổi",
+    "Trẻ sử dụng núm vú giả",
+    "Trẻ đi nhà trẻ",
+    "Trẻ bú bình",
+    "Người tiếp xúc với mức độ ô nhiễm không khí cao",
+    "Trải qua những thay đổi về độ cao",
+    "Trải qua những thay đổi trong khí hậu, nhất là vùng khí hậu lạnh",
+    "Bị cảm lạnh, cúm, viêm xoang hoặc nhiễm trùng tai gần đây",
+    "Dị tật bẩm sinh vùng mũi họng"
+  ],
+  "complications": [
+    "Giảm thính lực tạm thời hoặc vĩnh viễn",
+    "Chậm nói hoặc chậm phát triển ở trẻ em",
+    "Thủng màng nhĩ",
+    "Viêm não hoặc màng não",
+    "Viêm xương chũm",
+    "Hình thành các u nang chứa mủ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám tai",
+      "Khám các bộ phận khác như cổ họng, mũi xoang, vùng vòm"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai",
+        "description": "Bác sĩ sử dụng nội soi tai hoặc đèn soi tai để quan sát màng nhĩ. Màng nhĩ khỏe mạnh thường có màu xám hồng hoặc trắng sáng, trong mờ. Khi bị nhiễm trùng, màng nhĩ sẽ bị viêm, sung huyết, căng phồng, bên trong hòm nhĩ chứa dịch."
+      },
+      {
+        "name": "Kiểm tra nhịp thở",
+        "description": "Kiểm tra nhịp thở để tìm dấu hiệu nhiễm trùng đường hô hấp"
+      },
+      {
+        "name": "Đo thính lực",
+        "description": "Đánh giá mức độ suy giảm thính lực"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Cách chữa viêm tai giữa tại bệnh viện thường được áp dụng theo 2 phương pháp: điều trị bằng thuốc và điều trị bằng phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Người bệnh có thể được điều trị bằng thuốc kháng sinh, thuốc kháng histamin, thuốc chống viêm phù nề, thuốc xịt mũi, bơm hơi vòi nhĩ. Thời gian điều trị bằng thuốc thường kéo dài 1 đến 2 tuần."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong trường hợp nhiễm trùng lan rộng, điều trị bằng thuốc không mang lại hiệu quả, người bệnh có thể cần điều trị ngoại khoa như nạo VA, cắt amidan, đặt ống thông khí tùy vào từng tình trạng bệnh cụ thể."
+      },
+      {
+        "name": "Vệ sinh tai",
+        "description": "Trong trường hợp màng nhĩ bị thủng, người bệnh cần dùng thuốc nhỏ tai kết hợp với vệ sinh tai, làm sạch mủ bằng nước muối và dung dịch sát trùng thích hợp để ngăn tình trạng bít tắc ống tai."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ đúng liều lượng và thời gian dùng thuốc theo chỉ định của bác sĩ",
+      "Không tự ý dùng thuốc, đặc biệt là kháng sinh khi chưa có chỉ định",
+      "Tái khám đúng hẹn để bác sĩ theo dõi tình trạng bệnh"
+    ],
+    "prevention_of_transmission": [
+      "Rửa tay thường xuyên",
+      "Không dùng chung đồ dùng ăn uống",
+      "Che miệng khi ho, hắt hơi"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Chích ngừa cúm theo mùa, tiêm vắc xin phế cầu và các loại vắc xin khác để giúp ngăn ngừa bệnh viêm tai giữa.",
+      "recommended_for": ["Trẻ em theo lịch tiêm chủng", "Người có nguy cơ cao"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Nhắc nhở trẻ thường xuyên rửa sạch tay bằng xà phòng",
+      "Không dùng chung đồ dùng ăn uống",
+      "Dạy trẻ che miệng khi ho, hắt hơi",
+      "Cho trẻ bú mẹ ít nhất trong 6 tháng đầu đời",
+      "Hạn chế cho trẻ ngậm bình sữa hoặc núm vú giả",
+      "Tránh để trẻ bị sặc, trớ",
+      "Giữ ấm trong mùa lạnh",
+      "Ăn uống, vận động khoa học để tăng cường sức đề kháng",
+      "Tránh tiếp xúc với khói thuốc lá"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh viêm tai giữa có nguy hiểm không?",
+      "answer": "Viêm tai giữa là bệnh lý viêm nhiễm, nếu không được điều trị dứt điểm có thể dẫn đến viêm tai giữa mạn tính. Tình trạng này khó điều trị hơn và bệnh hay bị tái phát. Các biến chứng nghiêm trọng tiếp theo là gây nghe kém hoặc điếc. Tình trạng này khiến trẻ nhỏ chậm nói, chậm phát triển, khiến người lớn mất tự tin và khó khăn trong việc giao tiếp. Biến chứng viêm não, hoặc viêm màng não rất nguy hiểm, có thể đe dọa tính mạng của người bệnh."
+    },
+    {
+      "question": "Bệnh viêm tai giữa có lây không?",
+      "answer": "Bệnh viêm tai giữa có thể lây qua đường mũi họng, do viêm mũi họng biến chứng viêm tai giữa. Viêm tai giữa rất phổ biến và dễ trở thành dịch trong các trường mầm non và tiểu học. Do đó, người dân nên chú ý phòng ngừa, nhất là cho trẻ em lứa tuổi mầm non. Phụ huynh cần lưu ý rằng biến chứng mất thính lực do viêm tai giữa làm chậm khả năng nhận thức, phát triển sẽ gây hệ lụy nghiêm trọng, ảnh hưởng suốt đời đến tương lai và sức khỏe của trẻ."
+    },
+    {
+      "question": "Tại sao trẻ em bị nhiễm trùng tai nhiều hơn người lớn?",
+      "answer": "Trẻ em có nhiều khả năng bị nhiễm trùng tai hơn người lớn vì vòi nhĩ ở trẻ nhỏ thường ngắn và nằm ngang, tạo điều kiện thuận lợi cho chất lỏng tích tụ lại phía sau màng nhĩ. Hệ thống miễn dịch của trẻ em, đặc biệt là hệ thống chống nhiễm trùng của cơ thể vẫn đang chưa phát triển toàn diện. VA ở trẻ em lớn hơn so với người lớn nên dễ xuất hiện tình trạng viêm nhiễm hơn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang bị đau tai, sốt và chảy dịch tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa",
+        "Viêm tai ngoài",
+        "Viêm tai giữa cấp tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ù tai và nghe kém sau khi bị cảm lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa",
+        "Viêm tai giữa ứ dịch",
+        "Viêm vòi nhĩ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tai và sốt cao, kèm theo quấy khóc (ở trẻ em). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa",
+        "Viêm tai giữa cấp tính",
+        "Nhiễm trùng đường hô hấp trên"
+      ]
+    },
+    {
+      "question": "Tôi đang bị đau họng, ho và nghẹt mũi, kèm theo đau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa",
+        "Viêm họng",
+        "Viêm mũi xoang",
+        "Cảm cúm"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau nhức tai và nghe kém, kèm theo sốt cao và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa",
+        "Viêm tai giữa cấp tính",
+        "Viêm tai ngoài"
+      ]
     }
   ]
 }

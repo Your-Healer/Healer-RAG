@@ -1,58 +1,171 @@
 {
   "disease_id": "viem-xung-huyet-hang-vi-da-day",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm xung huyết hang vị dạ dày",
+  "disease_alternative_names": ["Viêm hang vị dạ dày", "Xung huyết hang vị"],
+  "disease_definition": "Viêm xung huyết hang vị dạ dày là thuật ngữ chỉ tình trạng lớp niêm mạc vùng hang vị dạ dày bị viêm nhiễm, các mạch máu bị xung huyết (mạch máu giãn). Bệnh có liên quan mật thiết tới tình trạng đau dạ dày; nếu không điều trị kịp thời có thể dẫn tới những biến chứng. Bệnh có thể xảy ra đột ngột (cấp tính) hoặc kéo dài (mạn tính).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau rát vùng thượng vị",
+      "description": "Cảm giác đau rát, khó chịu vùng thượng vị là triệu chứng bệnh khá thường gặp. Cơn đau thượng vị có thể xuất hiện từng cơn đơn lẻ hoặc kéo dài âm ỉ."
+    },
+    {
+      "name": "Ợ hơi ợ chua",
+      "description": "Người bệnh sẽ hay có cảm giác nóng rát hoặc cồn cào trong dạ dày giữa các bữa ăn hoặc vào ban đêm."
+    },
+    {
+      "name": "Buồn nôn, nôn",
+      "description": "Khi niêm mạc hang vị dạ dày bị viêm sẽ cản trở hoạt động tiêu hóa – phân giải thức ăn. Điều này khiến người bị vấn đề bao tử hay thấy buồn nôn, nôn ói và trào ngược."
+    },
+    {
+      "name": "Khó tiêu",
+      "description": "Người bệnh có thể gặp các vấn đề tiêu hóa, cảm giác khó chịu sau khi ăn."
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Người bệnh có thể cảm thấy đau vùng bụng, đặc biệt là sau khi ăn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm xung huyết hang vị dạ dày có nhiều nguyên nhân, phổ biến nhất là nhiễm khuẩn Helicobacter pylori (HP), sử dụng thuốc giảm đau không steroid (NSAID) và uống nhiều bia rượu.",
+    "related_factors": "Các yếu tố liên quan khác bao gồm trào ngược mật, lớn tuổi, hút thuốc lá, điều trị ung thư, viêm dạ dày tự miễn, HIV/AIDS, bệnh Crohn, bệnh celiac, bệnh sarcoidosis và nhiễm ký sinh trùng.",
+    "transmission_routes": [
+      "Vi khuẩn HP lây lan qua đường miệng-miệng",
+      "Lây nhiễm qua đồ ăn, nước uống bị nhiễm khuẩn",
+      "Tiếp xúc với dụng cụ nội soi không được khử trùng đúng cách"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm khuẩn Helicobacter pylori",
+    "Thường xuyên sử dụng thuốc giảm đau không steroid (NSAID)",
+    "Uống nhiều bia rượu, chất kích thích",
+    "Hút thuốc lá",
+    "Căng thẳng thần kinh kéo dài",
+    "Chế độ ăn uống không khoa học",
+    "Sống trong môi trường có điều kiện vệ sinh kém"
+  ],
+  "complications": [
+    "Xuất huyết dạ dày (chảy máu đường tiêu hóa)",
+    "Đi phân đen hoặc nôn ói ra máu",
+    "Viêm teo niêm mạc dạ dày",
+    "Dị sản ruột",
+    "Loạn sản",
+    "Ung thư dạ dày"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám triệu chứng lâm sàng", "Đánh giá tiền sử gia đình"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tiêu hóa",
+        "description": "Thủ thuật đưa một ống mềm có camera vào dạ dày thông qua đường miệng để quan sát trực tiếp tình trạng bên trong dạ dày và hang vị."
+      },
+      {
+        "name": "Test tìm vi khuẩn HP",
+        "description": "Có thể thực hiện qua nhiều phương pháp như test hơi thở, sinh thiết niêm mạc dạ dày, hoặc xét nghiệm máu."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị viêm xung huyết hang vị dạ dày phụ thuộc vào nguyên nhân cụ thể gây ra bệnh. Ví dụ như đối với trường hợp cấp tính do uống thuốc chống viêm không steroid hoặc lạm dụng bia rượu thì để giúp bệnh thuyên giảm, bệnh nhân cần giảm hoặc ngừng sử dụng thuốc/bia rượu.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh diệt vi khuẩn HP",
+        "description": "Chỉ điều trị diệt HP khi có chỉ định, do bác sĩ thực hiện."
+      },
+      {
+        "name": "Thuốc ngăn chặn sản xuất axit",
+        "description": "Thuốc chẹn histamin (H-2), thuốc ức chế bơm proton, giảm axit hoạt động bằng cách ngăn hoạt động của tế bào tạo ra axit. Những thuốc này có thể là thuốc kê toa hoặc thuốc không kê toa."
+      },
+      {
+        "name": "Thuốc trung hòa axit",
+        "description": "Giúp giảm đau dạ dày. So với thuốc ngăn chặn sản xuất axit hiệu quả không bằng, nhưng lại có tác dụng giảm đau nhanh, thuốc thường dùng sau ăn khoảng 2 giờ để giúp trung hòa phần thừa của axit sau khi đã được trung hòa bằng thức ăn."
+      },
+      {
+        "name": "Giảm căng thẳng",
+        "description": "Thông qua tập thể dục thể thao đều đặn, thiền hoặc tập yoga."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Thay đổi chế độ ăn uống: ăn chậm, chia nhỏ bữa ăn",
+      "Tránh ăn quá no, quá nhanh",
+      "Hạn chế thức ăn chiên, mặn, nhiều đường hay cay nóng",
+      "Tránh uống rượu bia, cà phê và các đồ uống có chất kích thích",
+      "Không hút thuốc lá"
+    ],
+    "prevention_of_transmission": [
+      "Rửa tay thường xuyên trước khi ăn và sau khi đi vệ sinh",
+      "Ăn chín uống sôi, đảm bảo vệ sinh an toàn thực phẩm",
+      "Không dùng chung đồ ăn, đồ uống với người khác"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa viêm xung huyết hang vị dạ dày hoặc nhiễm khuẩn H. pylori",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ vệ sinh tốt: Duy trì các thói quen vệ sinh như rửa tay có khả năng giúp giảm nguy cơ nhiễm khuẩn H. pylori",
+      "Chăm sóc sức khỏe tinh thần: Giảm căng thẳng giúp giảm nguy cơ phát triển nhiều bệnh đường tiêu hóa",
+      "Thay đổi cách ăn uống: Ăn chậm, đều đặn, chia nhỏ các bữa ăn, tránh ăn quá nhiều cùng một lúc hoặc nhịn đói, bỏ bữa",
+      "Hạn chế thực phẩm chiên, mặn, nhiều đường hay cay nóng",
+      "Bỏ hút thuốc lá",
+      "Hạn chế các đồ uống có chất kích thích"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm xung huyết hang vị có nguy hiểm không?",
+      "answer": "Phần lớn số trường hợp không nguy hiểm. Tuy nhiên, viêm xung huyết hang vị dạ dày trong một số trường hợp có thể dẫn tới biến chứng như xuất huyết dạ dày (chảy máu đường tiêu hóa). Những trường hợp viêm xung huyết do vi khuẩn HP, lâu ngày thành mạn tính dẫn tới viêm teo niêm mạc dạ dày, dị sản ruột loạn sản và ung thư dạ dày. Tuy nhiên, không phải ai bị viêm xung huyết dạ dày cũng tất yếu dẫn đến ung thư dạ dày."
+    },
+    {
+      "question": "Làm thế nào để điều trị viêm xung huyết hang vị dạ dày?",
+      "answer": "Việc điều trị viêm xung huyết hang vị dạ dày phụ thuộc vào nguyên nhân cụ thể gây ra bệnh. Các phương pháp điều trị có thể bao gồm: sử dụng thuốc kháng sinh diệt vi khuẩn HP (khi có chỉ định), thuốc ngăn chặn sản xuất axit, thuốc trung hòa axit, và giảm căng thẳng thông qua tập thể dục, thiền hoặc yoga. Đối với trường hợp cấp tính do uống thuốc chống viêm không steroid hoặc lạm dụng bia rượu, bệnh nhân cần giảm hoặc ngừng sử dụng thuốc/bia rượu."
+    },
+    {
+      "question": "Có thể phòng ngừa viêm xung huyết hang vị dạ dày bằng cách nào?",
+      "answer": "Có thể phòng ngừa bệnh bằng các biện pháp sau: giữ vệ sinh tốt (rửa tay thường xuyên), chăm sóc sức khỏe tinh thần (giảm căng thẳng), thay đổi cách ăn uống (ăn chậm, đều đặn, chia nhỏ các bữa ăn), hạn chế thực phẩm chiên, mặn, nhiều đường hay cay nóng, bỏ hút thuốc lá, và hạn chế các đồ uống có chất kích thích."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau rát vùng thượng vị và ợ hơi, ợ chua. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xung huyết hang vị dạ dày",
+        "Viêm dạ dày",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy buồn nôn, nôn và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xung huyết hang vị dạ dày",
+        "Viêm dạ dày cấp tính",
+        "Viêm ruột thừa",
+        "Ngộ độc thực phẩm"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau rát vùng thượng vị, ợ hơi, ợ chua sau khi ăn no. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xung huyết hang vị dạ dày",
+        "Viêm loét dạ dày tá tràng",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi đang bị đau bụng dữ dội, nôn ra máu và đi ngoài phân đen. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xung huyết hang vị dạ dày biến chứng xuất huyết",
+        "Loét dạ dày chảy máu",
+        "Xuất huyết tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau rát vùng thượng vị, ợ hơi, ợ chua sau khi uống rượu bia. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xung huyết hang vị dạ dày",
+        "Viêm dạ dày do rượu",
+        "Trào ngược dạ dày thực quản"
+      ]
     }
   ]
 }

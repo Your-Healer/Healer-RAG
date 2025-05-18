@@ -1,39 +1,142 @@
 {
   "disease_id": "ung-thu-dai-trang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư đại tràng",
+  "disease_alternative_names": [
+    "Ung thư ruột kết",
+    "Colon Cancer",
+    "Cancer of the colon"
+  ],
+  "disease_definition": "Ung thư đại tràng là bệnh lý ung thư xảy ra ở đại tràng (phần dài nhất của ruột già). Đây là căn bệnh ung thư phổ biến được chẩn đoán ở cả nam giới và nữ giới. Các tế bào ung thư được hình thành từ các tế bào lót bên trong đại tràng (niêm mạc), phần lớn do sự phát triển của các polyp trong đại tràng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Máu trong phân",
+      "description": "Xuất hiện máu hoặc đàm nhớt trong phân"
+    },
+    {
+      "name": "Thay đổi tính chất và hình dạng phân",
+      "description": "Phân dẹt hơn bình thường, có mùi tanh bất thường"
+    },
+    {
+      "name": "Thay đổi thói quen đại tiện",
+      "description": "Đi cầu lắt nhắt, táo bón hoặc tiêu chảy kéo dài"
+    },
+    {
+      "name": "Cảm giác đại tiện không sạch",
+      "description": "Cảm giác đi tiêu không hết phân, vẫn còn cảm giác muốn đi tiêu"
+    },
+    {
+      "name": "Suy nhược, mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài, cơ thể suy nhược"
+    },
+    {
+      "name": "Sụt cân không rõ lý do",
+      "description": "Giảm cân mà không có sự thay đổi trong chế độ ăn uống hoặc tập luyện"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau hoặc khó chịu vùng bụng dưới"
+    },
+    {
+      "name": "Nôn ói",
+      "description": "Triệu chứng nôn ói, buồn nôn"
+    },
+    {
+      "name": "Xuất hiện khối u ở vùng bụng",
+      "description": "Bụng to dần, xuất hiện khối u có thể sờ thấy"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư đại tràng xuất hiện khi có sự biến đổi của một số gene nhất định, liên quan đến một số hội chứng di truyền như bệnh đa polyp đại tràng gia đình (FAP), hội chứng ung thư đại tràng di truyền không polyp (HNPCC hoặc hội chứng Lynch).",
+    "related_factors": "Các tổn thương tiền ung thư như viêm đại tràng chảy máu, Bệnh Crohn, Polyp đại tràng, và yếu tố dinh dưỡng không hợp lý như chế độ ăn nhiều thịt, mỡ động vật, ít chất xơ, thiếu vitamin, hoặc thực phẩm có chứa nitrosamin.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thừa cân hoặc béo phì",
+    "Lối sống thiếu vận động",
+    "Chế độ ăn uống nhiều thịt đỏ và thực phẩm chế biến sẵn",
+    "Hút thuốc lá",
+    "Uống nhiều rượu bia",
+    "Người cao tuổi (trên 50 tuổi)",
+    "Tiền sử mắc ung thư đại tràng trước đó",
+    "Polyp tuyến nguy cơ cao",
+    "Tiền sử ung thư buồng trứng",
+    "Bệnh viêm ruột (IBD) như viêm loét đại tràng, bệnh Crohn",
+    "Tiền sử gia đình có người mắc ung thư đại tràng",
+    "Hội chứng di truyền (Lynch, FAP)"
+  ],
+  "complications": [
+    "Di căn đến các cơ quan khác trong cơ thể",
+    "Tắc ruột",
+    "Thủng ruột",
+    "Chèn ép gây đau đớn",
+    "Xuất huyết tiêu hóa",
+    "Thiếu máu"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám ban đầu, ghi nhận thông tin về triệu chứng, tiền sử bệnh lý",
+      "Đánh giá các yếu tố nguy cơ",
+      "Khám lâm sàng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm ổ bụng",
+        "description": "Giúp phát hiện các dấu hiệu cảnh báo gián tiếp như thành đại tràng dày, tắc ruột"
+      },
+      {
+        "name": "Xét nghiệm máu trong phân",
+        "description": "Phát hiện sự hiện diện của máu trong phân, có thể gặp khi có polyp, ung thư hoặc bệnh lý khác của đại tràng"
+      },
+      {
+        "name": "Chụp CT cắt lớp vi tính",
+        "description": "Giúp phát hiện đặc điểm hình dạng, kích thước và mức độ xâm lấn của khối u, cũng như phát hiện sự lan tràn của ung thư"
+      },
+      {
+        "name": "Chụp cộng hưởng từ MRI",
+        "description": "Cung cấp hình ảnh chi tiết về khối u và mức độ xâm lấn vào các cấu trúc xung quanh"
+      },
+      {
+        "name": "Nội soi đại tràng",
+        "description": "Kỹ thuật để xem bên trong lòng đại tràng, quan sát polyp, vùng mô bất thường hoặc ung thư; có thể lấy mẫu mô bất thường để làm sinh thiết"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Mẫu mô hoặc tế bào bất thường được bác sĩ giải phẫu bệnh quan sát dưới kính hiển vi để tìm tế bào ác tính"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy theo loại tế bào ung thư và giai đoạn bệnh, bác sĩ sẽ chỉ định đơn trị hoặc kết hợp các phương pháp điều trị. Tỷ lệ sống trên 5 năm đối với việc điều trị giai đoạn I là khoảng trên 90%, giai đoạn II khoảng 80-83%, giai đoạn III còn khoảng 60% và giai đoạn IV chỉ còn 11%.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Cắt bỏ phần đại tràng bị ung thư và các tuyến bạch huyết. Có thể thực hiện bằng phẫu thuật nội soi hoặc phẫu thuật lỗ khóa giúp giảm thiểu vết sẹo và thời gian phục hồi"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng các chùm tia năng lượng cao để tiêu diệt tế bào ung thư hoặc làm chậm sự phát triển. Thường áp dụng cho ung thư di căn đến xương, não"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng thuốc để ngăn chặn sự phát triển, tiêu diệt hoặc ngăn chặn sự phân chia của tế bào ung thư. Được sử dụng sau phẫu thuật hoặc khi có dấu hiệu di căn"
+      },
+      {
+        "name": "Điều trị đích",
+        "description": "Sử dụng thuốc nhắm đến và tiêu diệt các tế bào ung thư mang đặc tính cụ thể, bao gồm kháng thể đơn dòng và kháng sinh mạch"
+      },
+      {
+        "name": "Miễn dịch",
+        "description": "Sử dụng hệ thống miễn dịch của người bệnh để chống lại bệnh ung thư"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Bổ sung nhiều rau củ quả, trái cây, ngũ cốc nguyên hạt",
+      "Tránh các thức ăn nhiều dầu mỡ",
+      "Bổ sung axit folic từ thực vật (cam, bưởi, quýt)",
+      "Bổ sung đầy đủ canxi (700-800 mg/ngày) và vitamin D",
+      "Tái khám định kỳ theo lịch hẹn của bác sĩ",
+      "Tuân thủ chế độ điều trị và liệu trình theo dõi"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +144,61 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá",
+      "Hạn chế thức uống có cồn",
+      "Duy trì cân nặng hợp lý, tránh thừa cân hoặc béo phì",
+      "Tuân thủ chế độ ăn nhiều chất xơ, ít thịt đỏ và thực phẩm chế biến sẵn",
+      "Tập thể dục thể thao đều đặn, 2-3 lần/tuần",
+      "Tầm soát ung thư đại tràng định kỳ, đặc biệt từ 45 tuổi hoặc sớm hơn nếu có yếu tố nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư đại tràng có nguy hiểm không?",
+      "answer": "Ung thư đại tràng là một trong những căn bệnh ung thư có tiên lượng tốt, nghĩa là mức độ gây nguy hiểm của bệnh thấp hơn các bệnh lý ung thư khác. Nếu bệnh nhân điều trị kịp thời và tích cực thì cơ hội sống cao, nhiều trường hợp phát hiện sớm và can thiệp điều trị ngay từ giai đoạn đầu có thể chữa khỏi bệnh. Tuy nhiên, nếu không được phát hiện sớm và can thiệp điều trị kịp thời, ung thư có thể di căn đến các cơ quan khác, gây ra những biến chứng nguy hiểm."
+    },
+    {
+      "question": "Ung thư đại tràng có chữa được không?",
+      "answer": "Việc phát hiện và điều trị ở giai đoạn càng sớm, tiên lượng điều trị càng tốt. Ung thư ở giai đoạn đầu thường tiến triển chậm hơn, nếu được phát hiện và can thiệp sớm sẽ có tiên lượng tốt. Tỷ lệ sống trên 5 năm đối với việc điều trị theo từng giai đoạn như sau: Giai đoạn I là khoảng trên 90%, giai đoạn II khoảng 80-83%, giai đoạn III còn khoảng 60% và giai đoạn IV giảm rất thấp, chỉ còn 11%."
+    },
+    {
+      "question": "Các giai đoạn của ung thư đại tràng là gì?",
+      "answer": "Ung thư đại tràng được chia thành 5 giai đoạn chính: Giai đoạn 0 (ung thư tại chỗ), Giai đoạn I (tế bào ung thư đã lan đến lớp dưới niêm mạc hoặc lớp cơ), Giai đoạn II (ung thư phát triển sâu hơn vào thành đại tràng), Giai đoạn III (ung thư đã lan đến hạch bạch huyết lân cận), và Giai đoạn IV (ung thư đã di căn đến các cơ quan xa như gan, phổi)."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa ung thư đại tràng?",
+      "answer": "Bạn có thể phòng ngừa ung thư đại tràng bằng cách không hút thuốc lá, hạn chế thức uống có cồn, duy trì cân nặng hợp lý, tuân thủ chế độ ăn nhiều chất xơ và ít thịt đỏ, tập thể dục thể thao đều đặn 2-3 lần/tuần, và chủ động tầm soát ung thư đại tràng định kỳ, đặc biệt từ 45 tuổi hoặc sớm hơn nếu có yếu tố nguy cơ cao."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, đại tiện ra máu và thay đổi thói quen đại tiện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư đại tràng", "Trĩ", "Viêm đại tràng"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn và sụt cân không rõ lý do. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư đại tràng", "Viêm dạ dày", "Bệnh Crohn"]
+    },
+    {
+      "question": "Tôi hay bị táo bón, tiêu chảy và phân có nhầy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, nôn ói và bụng to dần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư đại tràng", "Tắc ruột", "Viêm phúc mạc"]
+    },
+    {
+      "question": "Tôi hay bị thay đổi thói quen đại tiện, phân dẹt và cảm giác đại tiện không hết phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng"
+      ]
     }
   ]
 }

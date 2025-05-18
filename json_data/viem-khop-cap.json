@@ -1,39 +1,130 @@
 {
   "disease_id": "viem-khop-cap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm khớp cấp",
+  "disease_alternative_names": ["Viêm khớp cấp tính"],
+  "disease_definition": "Viêm khớp cấp là tình trạng viêm, đau khởi phát nhanh chóng hoặc đột ngột, do hệ thống miễn dịch hoạt động quá mức, dẫn đến nhiều khớp bị tấn công cùng lúc. Vấn đề bệnh lý này ít phổ biến nhưng cũng có nguy cơ tiến triển thành mãn tính nếu không được chẩn đoán và điều trị sớm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng, đỏ và nóng ở các khớp",
+      "description": "Các khớp bị ảnh hưởng thường xuất hiện sưng, đỏ và nóng, là những dấu hiệu điển hình của tình trạng viêm cấp tính."
+    },
+    {
+      "name": "Phạm vi chuyển động bị hạn chế",
+      "description": "Người bệnh gặp khó khăn khi vận động khớp, phạm vi chuyển động bị giới hạn do đau và sưng."
+    },
+    {
+      "name": "Đau khớp đột ngột",
+      "description": "Cơn đau xuất hiện đột ngột, có thể xảy ra sau một bữa ăn thịnh soạn hoặc khi thời tiết thay đổi."
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt thường đi kèm với tình trạng viêm khớp cấp, là dấu hiệu cơ thể đang phản ứng với tình trạng viêm nhiễm."
+    },
+    {
+      "name": "Phát ban với các đốm màu tím",
+      "description": "Xuất hiện các đốm màu tím trên da, đây là triệu chứng cần được chú ý và thăm khám ngay."
+    },
+    {
+      "name": "Vết loét trong miệng, mũi hoặc bộ phận sinh dục",
+      "description": "Triệu chứng này có thể xuất hiện kèm theo viêm khớp cấp, đặc biệt trong các bệnh lý tự miễn."
+    },
+    {
+      "name": "Đau ngực, khó thở",
+      "description": "Triệu chứng nghiêm trọng cần được chú ý và đi khám ngay, có thể là dấu hiệu của biến chứng."
+    },
+    {
+      "name": "Ho dữ dội",
+      "description": "Ho dữ dội kèm theo viêm khớp cấp là dấu hiệu cảnh báo cần được thăm khám ngay."
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau bụng có thể xuất hiện kèm theo viêm khớp cấp trong một số trường hợp."
+    },
+    {
+      "name": "Đổ mồ hôi, ớn lạnh",
+      "description": "Cơ thể có thể phản ứng với tình trạng viêm bằng việc đổ mồ hôi và ớn lạnh."
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Sụt cân không rõ nguyên nhân kèm theo viêm khớp cấp cần được kiểm tra."
+    },
+    {
+      "name": "Đau hoặc đỏ mắt",
+      "description": "Viêm khớp cấp có thể kèm theo các triệu chứng viêm ở mắt, gây đau hoặc đỏ mắt."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm khớp cấp là tình trạng viêm, đau khởi phát nhanh chóng hoặc đột ngột, do hệ thống miễn dịch hoạt động quá mức, dẫn đến nhiều khớp bị tấn công cùng lúc.",
+    "related_factors": "Nhiều nguyên nhân khác nhau có thể gây viêm khớp cấp, bao gồm nhiễm virus, viêm cột sống dính khớp, hoại tử vô mạch, ung thư xương, gãy xương, viêm bao hoạt dịch, bệnh gút, lupus, thấp khớp và nhiều bệnh lý khác.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác",
+    "Tiền sử gia đình có người mắc bệnh",
+    "Tổn thương hoặc chấn thương khớp trước đó",
+    "Gặp phải các vấn đề sức khỏe tiềm ẩn, điển hình như béo phì",
+    "Có các bệnh nền điều trị không ổn định, dễ gặp trường hợp viêm khớp phản ứng"
+  ],
+  "complications": [
+    "Phá hủy xương và sụn khớp: Khớp bị viêm có thể gây ảnh hưởng đến cơ, gân, dây chằng khiến cho xương khớp yếu đi, gây viêm bao khớp, làm giảm chất lượng dịch khớp",
+    "Làm biến dạng khớp: Bệnh tiến triển nặng sẽ xuất hiện các khối u tại vùng khớp bị viêm, khớp trở nên gồ ghề, thậm chí lệch sang một bên",
+    "Tiến triển thành viêm khớp mạn tính khi không được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh về tiền sử triệu chứng, mức độ nghiêm trọng của cơn đau, dạng khởi phát, và các yếu tố làm tăng hoặc giảm cơn đau",
+      "Khám thể chất để kiểm tra tình trạng sưng đỏ, nóng, đau của khớp",
+      "Kiểm tra tiếng động khi khớp cử động và phạm vi chuyển động",
+      "Kiểm tra mắt, miệng, mũi và vùng sinh dục để phát hiện vết loét hoặc các dấu hiệu viêm nhiễm",
+      "Kiểm tra chức năng hệ thần kinh để phát hiện các rối loạn cơ hoặc dây thần kinh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm dịch khớp",
+        "description": "Bác sĩ sẽ lấy dịch khớp để xét nghiệm thông qua chọc hút khớp hoặc chọc dò khớp. Dịch khớp được kiểm tra các dấu hiệu nhiễm trùng, gút hoặc rối loạn khác dựa trên số lượng bạch cầu."
+      },
+      {
+        "name": "Xét nghiệm kháng thể",
+        "description": "Giúp phát hiện một số rối loạn tự miễn như viêm khớp dạng thấp hoặc lupus ban đỏ liên quan đến viêm khớp cấp."
+      },
+      {
+        "name": "Xét nghiệm tốc độ máu lắng (ESR) và CRP",
+        "description": "ESR đo tốc độ lắng xuống đáy ống nghiệm của bạch cầu, tốc độ càng cao thì tình trạng viêm toàn thân càng lớn. CRP là xét nghiệm bổ sung để đánh giá mức độ viêm."
+      },
+      {
+        "name": "Xét nghiệm hình ảnh",
+        "description": "Bao gồm chụp X-quang, CT scan, và MRI giúp phát hiện các khối u xương hoặc khớp, đánh giá mức độ tổn thương sụn và xương."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Cách điều trị viêm khớp cấp tính sẽ dựa vào từng nguyên nhân và mức độ nghiêm trọng của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nguyên nhân gốc",
+        "description": "Đối với viêm khớp phản ứng do viêm nhiễm tại các cơ quan bộ phận lân cận, cần điều trị nguyên nhân gốc. Ví dụ, người bị nhiễm trùng lậu ở khớp cần dùng kháng sinh."
+      },
+      {
+        "name": "Điều trị giảm đau",
+        "description": "Trường hợp đau không viêm thường được chỉ định dùng acetaminophen, cố định khớp bằng nẹp, chườm nóng, chườm lạnh để giảm đau."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Sau khi cơn đau cấp tính giảm bớt, người bệnh có thể được chỉ định thực hiện vật lý trị liệu để cải thiện phạm vi chuyển động và tăng cường sức mạnh cho các cơ xung quanh."
+      },
+      {
+        "name": "Hoạt động thể chất",
+        "description": "Trong trường hợp đã tiến triển đến mãn tính, hoạt động thể chất liên tục là phương pháp quan trọng để ngăn ngừa hiện tượng mất cơ và cứng khớp vĩnh viễn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi đủ để giảm áp lực lên khớp viêm",
+      "Sử dụng thuốc giảm đau theo chỉ định của bác sĩ",
+      "Áp dụng liệu pháp nóng/lạnh để giảm đau và sưng",
+      "Tập vật lý trị liệu theo hướng dẫn của chuyên gia",
+      "Duy trì cân nặng hợp lý để giảm áp lực lên khớp",
+      "Theo dõi và báo cáo các triệu chứng mới hoặc nghiêm trọng cho bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +132,83 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Xây dựng chế độ ăn giàu Omega-3, bao gồm các loại cá, các loại hạt, dầu thực vật",
+      "Bổ sung nhóm thực phẩm tốt cho xương như sữa ít béo, bông cải xanh, trà xanh, cam quýt",
+      "Hoạt động thể chất đều đặn, vận động vừa phải 30 phút mỗi ngày, một tuần 5 lần",
+      "Quản lý cân nặng ở mức hợp lý để giảm áp lực lên khớp",
+      "Kiểm soát đường huyết ở mức ổn định",
+      "Từ bỏ thói quen hút thuốc",
+      "Kiểm soát tốt các bệnh mạn tính như tim mạch, nội tiết để phòng tránh viêm khớp phản ứng",
+      "Khám sức khỏe định kỳ để phát hiện và điều trị sớm các vấn đề về khớp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm khớp cấp khác gì với viêm khớp thông thường?",
+      "answer": "Khác với viêm khớp thông thường, viêm khớp cấp tính xảy ra đột ngột và không phải do tổn thương. Một số nguyên nhân có thể gây đau khớp cấp tính ngoài viêm khớp bao gồm: viêm bao hoạt dịch, bong gân, bệnh gút, viêm cho chấn thương, vận động quá mức. Tùy vào mức độ nghiêm trọng, tình trạng này thường khỏi trong vài tuần bằng cách tự chăm sóc và điều trị bảo tồn."
+    },
+    {
+      "question": "Khi nào cần đi gặp bác sĩ khi bị viêm khớp cấp?",
+      "answer": "Nếu các dấu hiệu sưng đau khớp vẫn không cải thiện trong một vài tuần, thậm chí trở nên năng hơn hoặc xuất hiện thêm các triệu chứng như sưng, đỏ, nóng khớp nghiêm trọng, phát ban với các đốm màu tím, xuất hiện vết loét trong miệng/mũi/bộ phận sinh dục, đau ngực, khó thở, ho dữ dội, đau bụng, sốt, đổ mồ hôi, ớn lạnh, sụt cân, đau hoặc đỏ mắt, người bệnh nên liên hệ ngay với bác sĩ."
+    },
+    {
+      "question": "Biến chứng của viêm khớp cấp là gì?",
+      "answer": "Viêm khớp cấp nếu không được điều trị kịp thời có thể dẫn đến nhiều biến chứng nguy hiểm như: phá hủy xương và sụn khớp, làm biến dạng khớp, và tiến triển thành viêm khớp mạn tính. Khớp bị viêm có thể ảnh hưởng đến cơ, gân, dây chằng khiến cho xương khớp yếu đi, gây viêm bao khớp, làm giảm chất lượng dịch khớp, khiến sụn khớp bị thiếu dưỡng chất nuôi dưỡng, dần trở nên khô ráp và bong tróc."
+    },
+    {
+      "question": "Làm thế nào để phòng tránh viêm khớp cấp?",
+      "answer": "Để phòng tránh viêm khớp cấp, cần: xây dựng chế độ ăn giàu Omega-3 và thực phẩm tốt cho xương; hoạt động thể chất đều đặn (30 phút mỗi ngày, 5 lần/tuần); quản lý cân nặng ở mức hợp lý; kiểm soát đường huyết ổn định; từ bỏ thói quen hút thuốc; kiểm soát tốt các bệnh mạn tính như tim mạch, nội tiết; và khám sức khỏe định kỳ để phát hiện và điều trị sớm các vấn đề về khớp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sưng, đỏ và nóng ở các khớp bị ảnh hưởng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop-cap", "thap-khop", "gut"]
+    },
+    {
+      "question": "Tôi đang cảm thấy phạm vi chuyển động bị hạn chế. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop-cap", "thoai-hoa-khop", "viem-khop-man"]
+    },
+    {
+      "question": "Tôi hay bị đau các khớp xuất hiện đột ngột, sau một bữa ăn thịnh soạn hoặc khi thời tiết thay đổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop-cap", "gut", "viem-khop-do-crystal"]
+    },
+    {
+      "question": "Tôi hay bị sưng đau khớp và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-cap",
+        "thap-khop",
+        "viem-khop-nhiem-trung"
+      ]
+    },
+    {
+      "question": "Tôi bị phát ban với các đốm màu tím. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop-cap", "lupus", "henoch-schonlein-purpura"]
+    },
+    {
+      "question": "Tôi bị xuất hiện vết loét trong miệng, mũi hoặc bộ phận sinh dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop-cap", "benh-behcet", "lupus"]
+    },
+    {
+      "question": "Tôi bị đau ngực, khó thở và ho dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop-cap", "viem-mang-phoi", "viem-phoi"]
+    },
+    {
+      "question": "Tôi bị đau bụng, sốt, đổ mồ hôi, ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop-cap", "viem-ruot", "viem-phu-mac"]
+    },
+    {
+      "question": "Tôi bị sụt cân, đau hoặc đỏ mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop-cap", "benh-behcet", "hoi-chung-sjogren"]
+    },
+    {
+      "question": "Tôi bị nhiễm virus và sưng đau khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-cap",
+        "viem-khop-do-virus",
+        "viem-khop-phan-ung"
+      ]
     }
   ]
 }

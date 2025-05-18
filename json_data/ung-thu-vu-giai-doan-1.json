@@ -1,39 +1,129 @@
 {
   "disease_id": "ung-thu-vu-giai-doan-1",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vú giai đoạn 1",
+  "disease_alternative_names": [
+    "Ung thư vú giai đoạn 1A T1N0M0",
+    "Ung thư vú giai đoạn 1B",
+    "Ung thư biểu mô ống dẫn sữa xâm lấn (IDC) giai đoạn 1",
+    "Ung thư biểu mô tiểu thùy xâm lấn (ILC) giai đoạn 1"
+  ],
+  "disease_definition": "Ung thư vú giai đoạn 1 là giai đoạn sớm nhất của ung thư vú xâm lấn. 'Xâm lấn' ở đây không có nghĩa là ung thư đã xâm lấn các khu vực khác của cơ thể mà các tế bào trong khối u đã xâm nhập vào khu vực qua màng đệm. Khối u giai đoạn 1 nhỏ (dưới 2cm) và nếu đã lan đến các hạch bạch huyết, thì sự lây lan chỉ ở mức độ vi mô.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối u ở vú",
+      "description": "Một khối u nhỏ (dưới 2cm) có thể được phát hiện trong vú hoặc ở nách khi tự khám hoặc khám sàng lọc."
+    },
+    {
+      "name": "Tiết dịch núm vú",
+      "description": "Dịch tiết ra từ núm vú không phải do cho con bú, có thể trong, vàng hoặc có máu."
+    },
+    {
+      "name": "Da bị lõm",
+      "description": "Một vùng da ở vú bị lõm vào hoặc có dấu hiệu co kéo khi so sánh với vú bên kia."
+    },
+    {
+      "name": "Sưng hoặc đỏ vú",
+      "description": "Vú có thể sưng nhẹ hoặc đỏ ở một vùng cụ thể, không do nhiễm trùng."
+    },
+    {
+      "name": "Thay đổi kết cấu của da vú",
+      "description": "Da vú có thể trở nên sần sùi hoặc có cấu trúc giống vỏ cam (peau d'orange)."
+    },
+    {
+      "name": "Núm vú dẹt hoặc tụt vào trong",
+      "description": "Núm vú có thể bị dẹt hoặc tụt vào trong, đặc biệt là khi so sánh với trạng thái trước đó."
+    },
+    {
+      "name": "Giảm cân không rõ nguyên nhân",
+      "description": "Mất cân nặng không chủ ý khi không có thay đổi trong chế độ ăn uống hoặc tập luyện."
+    },
+    {
+      "name": "Hạch nách sưng",
+      "description": "Nổi hạch ở nách, thường nhỏ và có thể di động."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác của ung thư vú giai đoạn 1 chưa được xác định rõ ràng.",
+    "related_factors": "Sự phát triển bất thường của tế bào trong ống dẫn sữa hoặc tiểu thùy của vú có thể dẫn đến ung thư vú giai đoạn 1.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người mắc ung thư vú",
+    "Tuổi cao",
+    "Tiếp xúc với bức xạ",
+    "Kinh nguyệt sớm hoặc mãn kinh muộn",
+    "Không sinh con hoặc sinh con đầu lòng sau 30 tuổi",
+    "Sử dụng liệu pháp hormone thay thế sau mãn kinh",
+    "Uống rượu",
+    "Béo phì",
+    "Đột biến gen BRCA1 hoặc BRCA2"
+  ],
+  "complications": [
+    "Tái phát ung thư vú",
+    "Di căn đến các cơ quan khác",
+    "Ảnh hưởng tâm lý như lo lắng, trầm cảm",
+    "Tác dụng phụ từ các phương pháp điều trị",
+    "Thay đổi ngoại hình và ảnh hưởng đến hình ảnh cơ thể",
+    "Tác động đến tình dục và sinh sản"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Chụp nhũ ảnh",
+      "Siêu âm vú",
+      "Chụp cộng hưởng từ (MRI)",
+      "Sinh thiết mô"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp nhũ ảnh",
+        "description": "Phương pháp chụp X-quang vú để phát hiện các bất thường. Kỹ thuật chụp nhũ ảnh kỹ thuật số cắt lớp (DPT) có thể làm tăng tỷ lệ phát hiện ung thư lên 40% và giảm tỷ lệ dương tính giả 40%."
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Phương pháp thường được chỉ định sau chụp nhũ ảnh, giúp đánh giá kích thước và độ đặc của các khối u vú."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Thường được chỉ định cho bệnh nhân nghi ngờ bệnh ác tính đa ổ hoặc hai bên, hoặc có tổn thương ẩn. Đặc biệt quan trọng trong các trường hợp ung thư biểu mô tiểu thùy xâm lấn."
+      },
+      {
+        "name": "Sinh thiết mô",
+        "description": "Là việc lấy mô vú để giải phẫu bệnh dưới kính hiển vi, giúp đánh giá mức độ nghiêm trọng của ung thư vú. Các loại sinh thiết có thể bao gồm chọc hút tế bào bằng kim nhỏ, sinh thiết lõi, hoặc sinh thiết rạch hay cắt."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Ung thư vú giai đoạn 1 có thể được điều trị thành công với tỷ lệ gần 100%. Phương pháp điều trị phụ thuộc vào nhiều yếu tố như khả năng đáp ứng với điều trị, loại ung thư vú, và sức khỏe tổng thể của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Phần lớn các bệnh nhân ung thư vú giai đoạn 1 được điều trị bằng phẫu thuật. Các lựa chọn bao gồm cắt bỏ khối u (chỉ cắt bỏ một phần vú) hoặc cắt bỏ vú (cắt bỏ toàn bộ vú). Nếu cắt bỏ khối u, sau phẫu thuật thường cần xạ trị để kiểm soát ung thư."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Đôi khi được sử dụng như một phương pháp điều trị bổ trợ để điều trị bất kỳ tế bào ung thư nào đã lan ra khỏi vú trước khi phát triển thành di căn. Việc sử dụng hóa trị phụ thuộc vào tình trạng đáp ứng của khối u và các yếu tố liên quan."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Thường được sử dụng sau phẫu thuật cắt bỏ khối u để điều trị các mô vú còn lại, nhằm tiêu diệt các tế bào ung thư có thể còn sót lại hoặc quá nhỏ không thể nhìn thấy."
+      },
+      {
+        "name": "Liệu pháp hormone",
+        "description": "Nếu khối u dương tính với thụ thể estrogen, liệu pháp nội tiết tố thường được khuyến cáo sau khi điều trị bằng phẫu thuật, hóa trị và xạ trị nhằm giảm nguy cơ ung thư tái phát. Thuốc tamoxifen thường dùng cho phụ nữ tiền mãn kinh, còn chất ức chế aromatase dùng cho phụ nữ sau mãn kinh."
+      },
+      {
+        "name": "Thuốc điều trị nhắm mục tiêu",
+        "description": "Nếu khối u HER2 dương tính, thuốc nhắm mục tiêu HER2 như Herceptin (trastuzumab) thường được chỉ định để đặc hiệu nhắm vào các tế bào ung thư có biểu hiện HER2."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch tái khám và làm các xét nghiệm để theo dõi tình trạng ung thư sau điều trị",
+      "Duy trì lối sống lành mạnh với chế độ ăn uống cân đối và tập thể dục đều đặn",
+      "Giữ tinh thần lạc quan và tìm kiếm hỗ trợ tâm lý nếu cần",
+      "Tham gia các nhóm hỗ trợ bệnh nhân ung thư để chia sẻ kinh nghiệm và nhận thông tin",
+      "Thảo luận với bác sĩ về các tác dụng phụ có thể xảy ra và cách quản lý chúng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +131,94 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tự khám vú định kỳ hàng tháng",
+      "Khám sàng lọc ung thư vú theo khuyến cáo của bác sĩ",
+      "Duy trì cân nặng hợp lý",
+      "Hạn chế uống rượu",
+      "Tập thể dục đều đặn",
+      "Cân nhắc rủi ro khi sử dụng liệu pháp hormone thay thế sau mãn kinh",
+      "Xem xét các biện pháp phòng ngừa đặc biệt nếu có nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư vú giai đoạn 1 có chữa được không?",
+      "answer": "Hầu hết những người bị ung thư vú giai đoạn 1 đều có thể được điều trị thành công với tỷ lệ gần 100%. Tuy nhiên, tiên lượng sống sót và hiệu quả điều trị phụ thuộc vào nhiều yếu tố như khả năng đáp ứng với điều trị, loại ung thư vú mắc phải, tốc độ phát triển khối u, và các yếu tố khác như tuổi, tiền sử bệnh và sức khỏe tổng thể."
+    },
+    {
+      "question": "Ung thư vú giai đoạn 1 sống được bao lâu?",
+      "answer": "Trong hầu hết các trường hợp, ung thư vú càng được chẩn đoán và điều trị sớm, cơ hội sống thêm càng cao. Tỷ lệ sống sau 5 năm của ung thư vú giai đoạn 1 rất cao, tiệm cận 100% với các phương pháp điều trị hiện đại."
+    },
+    {
+      "question": "Các triệu chứng của ung thư vú giai đoạn 1 là gì?",
+      "answer": "Triệu chứng của ung thư vú giai đoạn 1 có thể không rõ ràng, nhưng có thể bao gồm: tiết dịch núm vú, da bị lõm, sưng hoặc đỏ vú, khối u ở vú hoặc nách, thay đổi kết cấu của da vú, núm vú dẹt, và giảm cân không rõ nguyên nhân."
+    },
+    {
+      "question": "Phương pháp điều trị nào hiệu quả nhất cho ung thư vú giai đoạn 1?",
+      "answer": "Phẫu thuật là phương pháp chính để điều trị ung thư vú giai đoạn 1, có thể là cắt bỏ khối u (bảo tồn vú) hoặc cắt bỏ toàn bộ vú. Sau phẫu thuật, người bệnh có thể cần xạ trị, hóa trị, liệu pháp hormone, hoặc liệu pháp nhắm mục tiêu tùy thuộc vào đặc điểm của khối u."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiết dịch núm vú và da bị lõm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-1",
+        "viem-tuyen-sua",
+        "nang-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức vùng vú và sờ thấy khối u ở vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-1",
+        "u-xo-tuyen-vu",
+        "viem-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng hoặc đỏ vú và thay đổi kết cấu của da vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-1",
+        "viem-vu",
+        "ung-thu-vu-viem"
+      ]
+    },
+    {
+      "question": "Tôi sờ thấy khối u ở vú, kích thước khoảng 1cm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-1",
+        "u-lanh-tuyen-vu",
+        "nang-vu"
+      ]
+    },
+    {
+      "question": "Tôi phát hiện hạch ở nách, kích thước nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-1",
+        "viem-hach-nach",
+        "ung-thu-hach"
+      ]
+    },
+    {
+      "question": "Tôi thấy vú thay đổi hình dạng, da vú sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu-giai-doan-1", "ung-thu-vu", "viem-da-vu"]
+    },
+    {
+      "question": "Tôi bị đau nhức vùng núm vú, sờ thấy khối u ở vú, kích thước nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-1",
+        "viem-tuyen-sua",
+        "u-nhu-ong-sua"
+      ]
+    },
+    {
+      "question": "Tôi bị tiết dịch núm vú có màu trắng đục, núm vú bị tụt vào trong. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-1",
+        "benh-paget-num-vu",
+        "u-trong-ong-sua"
+      ]
     }
   ]
 }

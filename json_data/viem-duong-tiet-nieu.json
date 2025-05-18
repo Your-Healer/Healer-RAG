@@ -1,39 +1,135 @@
 {
   "disease_id": "viem-duong-tiet-nieu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm đường tiết niệu",
+  "disease_alternative_names": [
+    "Viêm đường tiểu",
+    "Nhiễm khuẩn niệu",
+    "Nhiễm trùng tiết niệu"
+  ],
+  "disease_definition": "Viêm đường tiết niệu hay viêm đường tiểu là tình trạng xảy ra khi nước tiểu có sự xâm nhập của vi khuẩn khiến một số cơ quan trong hệ tiết niệu bị viêm nhiễm. Bệnh được phân loại theo vị trí (viêm đường tiết niệu trên và dưới) hoặc theo diễn biến (nhiễm khuẩn niệu đơn giản và phức tạp).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tiểu gắt buốt",
+      "description": "Người bệnh cảm thấy nóng rát, đau buốt khi đi tiểu tiện."
+    },
+    {
+      "name": "Tiểu lắt nhắt",
+      "description": "Đi tiểu nhiều lần nhưng mỗi lần chỉ ra một lượng nước tiểu rất ít, thậm chí là chỉ vài giọt."
+    },
+    {
+      "name": "Cảm giác còn nước tiểu trong bàng quang",
+      "description": "Người bệnh luôn cảm thấy bàng quang chưa được làm trống hoàn toàn dù mới đi tiểu xong."
+    },
+    {
+      "name": "Bất thường trong nước tiểu",
+      "description": "Nước tiểu có màu đục, mùi hôi nồng, có thể lẫn máu hoặc mủ."
+    },
+    {
+      "name": "Đau hạ vị",
+      "description": "Cảm giác đau ở vùng bụng dưới, thường gặp khi viêm bàng quang."
+    },
+    {
+      "name": "Đau vùng hông lưng",
+      "description": "Đau ở vùng thắt lưng, thường xuất hiện khi viêm thận – bể thận, áp xe thận."
+    },
+    {
+      "name": "Tiểu đêm nhiều lần",
+      "description": "Người bệnh phải thức dậy nhiều lần vào ban đêm để đi tiểu."
+    },
+    {
+      "name": "Đau rát và ngứa tại niệu đạo",
+      "description": "Ở nam giới, có thể xuất hiện mủ trên miệng sáo."
+    },
+    {
+      "name": "Triệu chứng toàn thân",
+      "description": "Sốt cao, rét run, môi khô, lưỡi dơ, gương mặt hốc hác khi nhiễm khuẩn nặng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Khoảng 95% nguyên nhân gây viêm đường tiết niệu là do vi khuẩn bội nhiễm ngược dòng niệu đạo vào bàng quang (5% từ đường máu), trong đó Escherichia coli (E.coli) chiếm 80% tác nhân gây bệnh.",
+    "related_factors": "Escherichia Coli là vi khuẩn thường trú ở đường ruột, xuất hiện nhiều ở trên da gần hậu môn và có khả năng thâm nhập vào đường tiết niệu nếu không biết vệ sinh đúng cách. Vị trí đường tiểu và hậu môn của nữ gần hơn nam nên nguy cơ bị viêm nhiễm cũng sẽ cao hơn.",
+    "transmission_routes": [
+      "Vi khuẩn bội nhiễm ngược dòng niệu đạo vào bàng quang",
+      "Nhiễm khuẩn qua đường máu (ít gặp, chiếm khoảng 5%)"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam giới: Viêm quy đầu, da quy đầu do vệ sinh không đúng cách",
+    "Nam giới: Chấn thương dương vật do quan hệ tình dục thô bạo",
+    "Nam giới: Sỏi tiết niệu, phì đại tuyến tiền liệt, bàng quang thần kinh, hẹp niệu quản, hẹp niệu đạo",
+    "Nữ giới: Thói quen vệ sinh vùng kín từ sau ra trước",
+    "Nữ giới: Nhịn tiểu quá lâu",
+    "Nữ giới: Quan hệ tình dục không lành mạnh, không vệ sinh vùng kín trước và sau khi giao hợp",
+    "Nữ giới: Sử dụng băng vệ sinh kém chất lượng hoặc không thay băng vệ sinh thường xuyên",
+    "Nữ giới: Mang thai",
+    "Chung: Sỏi đường tiết niệu, bàng quang thần kinh, hẹp niệu quản",
+    "Chung: Đặt Catheter đường tiết niệu"
+  ],
+  "complications": [
+    "Viêm thận - bể thận cấp và mạn tính",
+    "Áp xe thận, thận ứ mủ",
+    "Phá hủy chủ mô thận",
+    "Hoại tử nhú thận",
+    "Suy giảm chức năng thận",
+    "Suy thận vĩnh viễn hoặc phải cắt bỏ thận",
+    "Nam giới: Áp-xe tuyến tiền liệt, viêm tinh hoàn, viêm mào tinh",
+    "Nam giới: Bít tắc ống dẫn tinh, tăng nguy cơ vô sinh",
+    "Nhiễm khuẩn huyết, sốc nhiễm khuẩn, tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng, hỏi tiền sử bệnh",
+      "Xét nghiệm nước tiểu tổng quát",
+      "Nuôi cấy vi khuẩn trong nước tiểu",
+      "Khám vùng hông lưng để phát hiện đau khi có sỏi thận gây ứ nước, nhiễm trùng hoặc áp-xe thận"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu tổng quát",
+        "description": "Giúp phát hiện các dấu hiệu nhiễm trùng như bạch cầu, nitrite, protein và hồng cầu trong nước tiểu."
+      },
+      {
+        "name": "Nuôi cấy vi khuẩn và kháng sinh đồ",
+        "description": "Xác định loại vi khuẩn gây bệnh và các loại kháng sinh mà vi khuẩn đó nhạy cảm. Thường được thực hiện trong trường hợp bệnh tái phát nhiều lần, người bệnh có dị dạng đường niệu hoặc đang đặt ống tiểu."
+      },
+      {
+        "name": "Siêu âm hệ tiết niệu",
+        "description": "Kiểm tra các bất thường về cấu trúc có thể gây tắc nghẽn đường tiết niệu."
+      },
+      {
+        "name": "Chụp X-quang hoặc CT scan",
+        "description": "Giúp phát hiện sỏi tiết niệu hoặc các dị dạng khác của hệ tiết niệu."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm đường tiết niệu là bệnh lý khá phổ biến và có thể điều trị khỏi hoàn toàn. Tuy nhiên, nếu không phát hiện và điều trị kịp thời, tình trạng này có thể gây ra nhiều biến chứng nghiêm trọng, thậm chí là tử vong.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng kháng sinh đường uống",
+        "description": "Được chỉ định cho người bệnh chỉ xuất hiện những triệu chứng khu trú ở đường tiết niệu dưới do viêm bàng quang, viêm niệu đạo. Thời gian điều trị thường kéo dài 5-7 ngày."
+      },
+      {
+        "name": "Điều trị bằng kháng sinh đường tĩnh mạch",
+        "description": "Được chỉ định khi có triệu chứng sốt và ớn lạnh, nhiễm trùng huyết, ổ viêm tại đường niệu trên. Người bệnh cần nhập viện để được điều trị."
+      },
+      {
+        "name": "Thuốc có tính sát trùng trên hệ niệu",
+        "description": "Có hiệu quả trong việc tiêu diệt vi khuẩn, có thể được chỉ định dùng với kháng sinh. Tuy nhiên, bằng chứng của các loại thuốc này vẫn chưa rõ ràng."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Được chỉ định khi ổ nhiễm khuẩn không khống chế được bằng thuốc hoặc có biến chứng ở thận như thận ứ nước nhiễm khuẩn, thận ứ mủ, áp-xe thận. Nhằm dẫn lưu ổ nhiễm khuẩn hoặc chỉnh sửa dị tật hệ niệu."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống nhiều nước để tăng bài tiết nước tiểu, giúp đẩy vi khuẩn ra khỏi cơ thể",
+      "Đi tiểu ngay khi có nhu cầu, không nhịn tiểu quá lâu",
+      "Vệ sinh vùng kín đúng cách, từ trước ra sau (đặc biệt quan trọng với nữ giới)",
+      "Đi tiểu trước và sau khi quan hệ tình dục",
+      "Thay băng vệ sinh thường xuyên trong kỳ kinh nguyệt",
+      "Hoàn thành toàn bộ liệu trình kháng sinh theo chỉ định của bác sĩ, ngay cả khi các triệu chứng đã biến mất"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +137,94 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Đảm bảo uống đủ 2-2,5 lít nước mỗi ngày để thận tăng bài tiết nước tiểu, tống vi trùng ra ngoài",
+      "Giữ gìn vệ sinh cơ quan sinh dục đúng cách, đặc biệt là nữ giới khi có kinh nguyệt",
+      "Người từng bị hay đang bị sỏi thận - tiết niệu cần thường xuyên khám và tầm soát nhiễm trùng tiểu",
+      "Khi bị viêm đường tiểu, cần điều trị đúng phương pháp và triệt để ngay từ đầu để ngừa tình trạng tái phát",
+      "Không tự ý sử dụng thuốc khi chưa có chỉ định của bác sĩ",
+      "Với nữ giới, không vệ sinh vùng kín từ sau ra trước, tránh làm vi khuẩn từ hậu môn di chuyển đến niệu đạo",
+      "Tránh các chất gây kích ứng niệu đạo như đồ uống có cồn, caffeine, đồ ăn cay nóng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm đường tiết niệu có nguy hiểm không?",
+      "answer": "Viêm tiết niệu đơn giản, xảy ra ở phụ nữ trẻ và không có bất thường về đường tiết niệu thì đa phần không gây biến chứng. Ngược lại, nhiễm trùng tiết niệu phức tạp ở những người bệnh có sẵn các yếu tố thuận lợi trước đó có thể dẫn tới nhiều biến chứng nặng, thậm chí là gây nguy hiểm đến tính mạng nếu không được can thiệp điều trị kịp thời."
+    },
+    {
+      "question": "Viêm đường tiết niệu có thể gây biến chứng gì?",
+      "answer": "Nhiễm trùng niệu có thể gây nhiều biến chứng như phá hủy chủ mô thận, hoại tử nhú thận, tắc nghẽn hay suy giảm chức năng thận, suy thận vĩnh viễn. Ở nam giới có thể gây áp-xe tuyến tiền liệt, viêm tinh hoàn, viêm mào tinh, làm bít tắc ống dẫn tinh, tăng nguy cơ vô sinh. Trường hợp nặng có thể dẫn đến nhiễm khuẩn huyết, sốc nhiễm khuẩn và tử vong."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm đường tiết niệu?",
+      "answer": "Để phòng ngừa viêm đường tiết niệu, cần đảm bảo uống đủ 2-2,5 lít nước mỗi ngày, giữ gìn vệ sinh cơ quan sinh dục đúng cách, đặc biệt là nữ giới khi có kinh nguyệt. Người từng bị hay đang bị sỏi thận - tiết niệu cần thường xuyên khám và tầm soát nhiễm trùng tiểu. Khi bị viêm đường tiểu, cần điều trị đúng phương pháp và triệt để ngay từ đầu để ngừa tình trạng tái phát."
+    },
+    {
+      "question": "Viêm đường tiết niệu điều trị bằng cách nào?",
+      "answer": "Kháng sinh là phương pháp điều trị viêm đường tiết niệu thường được sử dụng nhất. Nếu chỉ có triệu chứng ở đường tiết niệu dưới, bác sĩ sẽ chỉ định kháng sinh đường uống trong 5-7 ngày. Nếu có sốt, nhiễm trùng huyết, viêm đường niệu trên, cần nhập viện dùng kháng sinh đường tĩnh mạch. Trường hợp nặng có thể cần phẫu thuật để dẫn lưu ổ nhiễm khuẩn hoặc chỉnh sửa dị tật hệ niệu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nước tiểu có sự xâm nhập của vi khuẩn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu",
+        "viem-bang-quang",
+        "viem-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy một số cơ quan trong hệ tiết niệu bị viêm nhiễm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu",
+        "viem-be-than",
+        "viem-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm đường tiết niệu trên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-duong-tiet-nieu", "viem-be-than", "viem-than"]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm đường tiết niệu dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu",
+        "viem-bang-quang",
+        "viem-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm bàng quang, viêm niệu đạo, viêm tinh hoàn, viêm tiền liệt tuyến. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu",
+        "viem-bang-quang",
+        "viem-tien-liet-tuyen"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy vi khuẩn bội nhiễm ngược dòng niệu đạo vào bàng quang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu",
+        "viem-bang-quang",
+        "viem-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi hay bị vi khuẩn Escherichia coli (E.coli) xâm nhập vào đường tiết niệu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu",
+        "viem-bang-quang",
+        "viem-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như vi khuẩn xâm nhập phát triển và gây viêm nhiễm đường tiết niệu do thói quen vệ sinh vùng kín từ sau ra trước, nhịn tiểu quá lâu, vệ sinh cá nhân không sạch sẽ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu",
+        "viem-bang-quang-o-nu-gioi",
+        "viem-nieu-dao"
+      ]
     }
   ]
 }

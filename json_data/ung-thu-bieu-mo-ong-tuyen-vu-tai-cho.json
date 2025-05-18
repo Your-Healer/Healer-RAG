@@ -1,39 +1,105 @@
 {
   "disease_id": "ung-thu-bieu-mo-ong-tuyen-vu-tai-cho",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư biểu mô ống tuyến vú tại chỗ",
+  "disease_alternative_names": [
+    "DCIS",
+    "Ductal Carcinoma In Situ",
+    "Ung thư vú giai đoạn 0"
+  ],
+  "disease_definition": "Ung thư biểu mô ống tuyến vú tại chỗ (DCIS) là sự hiện diện của các tế bào bất thường bên trong ống dẫn sữa ở vú. DCIS được xem là dạng ung thư vú sớm nhất, không xâm lấn và ít có nguy cơ trở thành xâm lấn. DCIS thường được chẩn đoán qua nhũ ảnh tầm soát hoặc chẩn đoán bất thường dạng khối u ở vú.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối u vú",
+      "description": "Xuất hiện một khối u hoặc cục cứng ở trong vú"
+    },
+    {
+      "name": "Chảy máu núm vú",
+      "description": "Tiết dịch hoặc chảy máu từ núm vú bất thường"
+    },
+    {
+      "name": "Đau tức ngực",
+      "description": "Cảm giác đau hoặc tức ở ngực, đặc biệt là ở vùng vú"
+    },
+    {
+      "name": "Khối u nhỏ ở vú",
+      "description": "Cục u nhỏ có thể sờ thấy được trong vú"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Không rõ nguyên nhân gây ra DCIS. DCIS hình thành khi đột biến gen xảy ra trong DNA của tế bào ống dẫn sữa.",
+    "related_factors": "Các đột biến di truyền làm cho các tế bào xuất hiện bất thường, nhưng các tế bào này chưa có khả năng ăn lan ra khỏi ống dẫn sữa. Các yếu tố có thể đóng một phần nào đó bao gồm lối sống, môi trường và gen di truyền từ cha mẹ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi ngày càng cao",
+    "Tiền sử cá nhân mắc sang thương tiền ung như tăng sản không điển hình",
+    "Tiền sử gia đình mắc bệnh ung thư vú",
+    "Chưa từng mang thai",
+    "Sinh con đầu lòng sau 30 tuổi",
+    "Có kinh lần đầu trước 12 tuổi",
+    "Bắt đầu mãn kinh sau 55 tuổi",
+    "Đột biến gen BRCA1 và BRCA2"
+  ],
+  "complications": [
+    "Phát triển thành ung thư vú xâm lấn",
+    "Tái phát sau điều trị",
+    "Ảnh hưởng tâm lý",
+    "Tác dụng phụ từ điều trị như đau, thay đổi hình dáng vú sau phẫu thuật"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám vú để tìm kiếm các triệu chứng bất thường",
+      "Kiểm tra các cụm vi vôi hóa nhỏ có hình dạng và kích thước không đều"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám vú",
+        "description": "Bác sĩ sờ thấy khối u nhỏ ở vú của bệnh nhân trong một số trường hợp, mặc dù DCIS hiếm khi xuất hiện khối u"
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Kỹ thuật sử dụng sóng siêu âm nhằm tái tạo hình ảnh và cấu trúc tuyến vú, từ đó giúp phát hiện những bất thường của cơ quan này"
+      },
+      {
+        "name": "Chụp nhũ ảnh",
+        "description": "Phương pháp phát hiện phổ biến nhất cho DCIS, cho thấy vi vôi hóa tạo cụm hoặc phân nhánh có hình dạng hoặc kích thước không đều"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI vú)",
+        "description": "Sử dụng từ trường và sóng vô tuyến để tái tạo hình ảnh chi tiết của tuyến vú, giúp sàng lọc người có nguy cơ cao và kiểm tra các bất thường"
+      },
+      {
+        "name": "Sinh thiết vú",
+        "description": "Lấy các mẫu mô từ vùng nghi ngờ bằng kim rỗng, đôi khi được hướng dẫn bằng siêu âm hoặc nhũ ảnh (sinh thiết định vị không gian 3 chiều)"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mặc dù DCIS không phải là trường hợp khẩn cấp, nhưng nó cần được đánh giá và cân nhắc các lựa chọn điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật bảo tồn vú (cắt rộng khối u)",
+        "description": "Loại bỏ vùng DCIS và một phần mô lành quanh tổn thương, cho phép giữ lại càng nhiều mô vú càng tốt"
+      },
+      {
+        "name": "Phẫu thuật đoạn nhũ",
+        "description": "Phẫu thuật cắt bỏ toàn bộ vú, có thể được chỉ định khi DCIS trên diện rộng, có nhiều vùng tổn thương, không thể xạ trị sau phẫu thuật cắt rộng khối u"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng các chùm năng lượng cao như tia X hoặc proton để tiêu diệt các tế bào bất thường, thường được sử dụng sau khi cắt rộng khối u"
+      },
+      {
+        "name": "Liệu pháp hormone (nội tiết tố)",
+        "description": "Ngăn chặn hormone tiếp cận tế bào ung thư, chỉ có hiệu quả đối với ung thư vú dương tính với thụ thể hormone, giảm nguy cơ tái phát"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám định kỳ sau điều trị",
+      "Theo dõi chặt chẽ để phát hiện sớm các dấu hiệu tái phát",
+      "Duy trì lối sống lành mạnh",
+      "Tiếp tục tầm soát ung thư vú định kỳ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +107,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ dinh dưỡng lành mạnh với nhiều trái cây, rau và ngũ cốc",
+      "Ngủ đủ giấc mỗi đêm",
+      "Tìm cách giảm căng thẳng trong cuộc sống",
+      "Tập thể dục khoảng 30 phút hầu hết các ngày trong tuần",
+      "Tự khám vú tại nhà thường xuyên",
+      "Phụ nữ từ 40 tuổi trở lên nên chụp nhũ ảnh hàng năm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư biểu mô ống tuyến vú tại chỗ (DCIS) có nguy hiểm không?",
+      "answer": "DCIS không đe dọa đến tính mạng, tuy nhiên, nếu đã được chẩn đoán mắc DCIS, người bệnh có nguy cơ phát triển sang ung thư vú xâm lấn cao hơn so với người bình thường. DCIS được xem là dạng ung thư vú sớm nhất, không xâm lấn và ít có nguy cơ trở thành xâm lấn."
+    },
+    {
+      "question": "Phẫu thuật nào thường được sử dụng cho DCIS?",
+      "answer": "Hầu hết phụ nữ bị DCIS đều phẫu thuật cắt rộng khối u, giúp bảo tồn vú. Tuy nhiên, phẫu thuật đoạn nhũ (cắt bỏ toàn bộ vú) có thể được chỉ định trong một số trường hợp như DCIS trên diện rộng, có nhiều vùng tổn thương, không thể xạ trị sau phẫu thuật cắt rộng khối u, hoặc theo ý muốn của bệnh nhân."
+    },
+    {
+      "question": "Có cần hóa trị khi bị DCIS không?",
+      "answer": "Phương pháp hóa trị không cần thiết cho ung thư biểu mô ống tuyến vú (DCIS) vì bệnh không xâm lấn. Các phương pháp điều trị chính cho DCIS bao gồm phẫu thuật, xạ trị, và liệu pháp nội tiết tố tùy thuộc vào từng trường hợp cụ thể."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chảy máu núm vú và xuất hiện khối u vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư biểu mô ống tuyến vú tại chỗ",
+        "Ung thư vú",
+        "U vú lành tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tức ngực và sờ thấy khối u nhỏ ở vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư biểu mô ống tuyến vú tại chỗ",
+        "U xơ vú",
+        "Viêm tuyến vú"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy máu núm vú, xuất hiện khối u và đau tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư biểu mô ống tuyến vú tại chỗ",
+        "Ung thư vú xâm lấn",
+        "Bệnh tuyến vú xơ nang"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện khối u vú và đau tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư biểu mô ống tuyến vú tại chỗ",
+        "U vú lành tính",
+        "Viêm tuyến vú"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tức ngực và chảy máu núm vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư biểu mô ống tuyến vú tại chỗ",
+        "Ống tuyến vú giãn",
+        "Ung thư vú"
+      ]
     }
   ]
 }

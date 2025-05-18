@@ -1,58 +1,205 @@
 {
   "disease_id": "ung-thu-co-tu-cung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư cổ tử cung",
+  "disease_alternative_names": ["Cervical Cancer", "UTCTC"],
+  "disease_definition": "Ung thư cổ tử cung là bệnh lý ác tính của tế bào biểu mô lát (tế bào biểu mô vảy) hoặc tế bào biểu mô tuyến cổ tử cung phát triển bất thường dẫn đến hình thành các khối u trong cổ tử cung. Các khối u này nhân lên một cách mất kiểm soát, xâm lấn và tác động đến các cơ quan xung quanh, thường gặp nhất là di căn đến phổi, gan, bàng quang, âm đạo và trực tràng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau rát vùng chậu",
+      "description": "Cảm giác đau rát ở vùng chậu hoặc đau khi quan hệ tình dục"
+    },
+    {
+      "name": "Chảy máu âm đạo bất thường",
+      "description": "Máu xuất hiện sau khi quan hệ tình dục, giữa các kỳ kinh nguyệt, sau mãn kinh hoặc sau khi khám phụ khoa"
+    },
+    {
+      "name": "Dịch tiết âm đạo bất thường",
+      "description": "Dịch tiết âm đạo nhiều hơn, có màu xám đục và có mùi hôi"
+    },
+    {
+      "name": "Khó chịu khi đi tiểu",
+      "description": "Cảm giác khó chịu, đau rát khi đi tiểu và tiểu nhiều lần hơn bình thường"
+    },
+    {
+      "name": "Đi tiểu, đi ngoài ra máu",
+      "description": "Xuất hiện máu trong nước tiểu hoặc phân, dấu hiệu cảnh báo ung thư đã xâm lấn bàng quang, trực tràng"
+    },
+    {
+      "name": "Kinh nguyệt thất thường",
+      "description": "Chu kỳ kinh nguyệt không đều, kéo dài hơn bình thường"
+    },
+    {
+      "name": "Sụt cân và mệt mỏi",
+      "description": "Giảm cân và cảm thấy mệt mỏi không rõ nguyên nhân"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Thống kê của WHO cho thấy, khoảng 99.7% trường hợp ung thư cổ tử cung đều có sự hiện diện của virus HPV (Human Papilloma Virus). Do đó, virus HPV được coi là yếu tố nguy cơ cao nhất dẫn đến việc mắc bệnh lý này ở nữ giới.",
+    "related_factors": "Virus HPV là loại virus có hơn 100 týp với khoảng 15 týp được xếp vào nhóm nguy cơ cao dẫn đến khối u ác tính cổ tử cung, phổ biến nhất là các týp 16 và 18 (nguyên nhân của hơn 70% trường hợp mắc bệnh ở nữ giới), tiếp đến là týp 31 và 45.",
+    "transmission_routes": [
+      "Virus HPV chủ yếu lây nhiễm qua đường tình dục",
+      "Một số ít trường hợp lây nhiễm qua tiếp xúc ngoài da"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Có nhiều bạn tình",
+    "Quan hệ tình dục sớm",
+    "Mang thai quá sớm (trước 17 tuổi)",
+    "Mang thai nhiều lần (≥ 4 lần)",
+    "Mắc các bệnh lây nhiễm qua đường tình dục khác như chlamydia, giang mai, HIV/AIDS",
+    "Hệ miễn dịch suy yếu",
+    "Hút thuốc lá"
+  ],
+  "complications": [
+    "Vô sinh do xâm lấn cổ tử cung hoặc do cắt tử cung và buồng trứng",
+    "Ảnh hưởng tâm sinh lý, gây rối loạn cảm xúc, trầm cảm",
+    "Chảy máu bất thường khi khối u xâm lấn âm đạo, ruột, bàng quang",
+    "Suy thận do khối u chen vào niệu quản, làm tắc dòng nước tiểu"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Tầm soát định kỳ bằng xét nghiệm Pap smear, Thinprep hoặc xét nghiệm HPV"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Soi cổ tử cung",
+        "description": "Sử dụng kính hiển vi có đèn chiếu sáng để quan sát cổ tử cung, phát hiện những bất thường"
+      },
+      {
+        "name": "Sinh thiết cổ tử cung",
+        "description": "Lấy một mẫu mô nhỏ để kiểm tra, phát hiện các tế bào ung thư"
+      },
+      {
+        "name": "Kiểm tra vùng chậu",
+        "description": "Thực hiện sau khi gây mê tổng quát, kiểm tra tế bào ung thư ở tử cung, âm đạo, bàng quang và trực tràng"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá tình trạng và mức độ tổn thương gan, thận và tủy xương"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT) và cộng hưởng từ (MRI)",
+        "description": "Xác định khối u, thăm dò mức độ xâm lấn và di căn của các tế bào bất thường"
+      },
+      {
+        "name": "Chụp X-quang phổi",
+        "description": "Kiểm tra tế bào ung thư đã di căn đến phổi chưa"
+      },
+      {
+        "name": "Chụp PET-CT",
+        "description": "Xác định xem ung thư đã di căn hay chưa, đồng thời thăm dò khả năng đáp ứng với các phương pháp điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị ung thư cổ tử cung thường là đa mô thức, tùy theo từng giai đoạn bệnh mà sẽ có phác đồ điều trị khác nhau.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị giai đoạn tiền ung thư",
+        "description": "Khoét chóp, LEEP, cắt cụt cổ tử cung hoặc cắt bỏ tử cung bảo tồn buồng trứng tùy theo độ tuổi và mong muốn có con"
+      },
+      {
+        "name": "Điều trị giai đoạn I",
+        "description": "Cắt một phần hoặc toàn bộ tử cung, hoặc sử dụng phương pháp xạ trị"
+      },
+      {
+        "name": "Điều trị giai đoạn II - III",
+        "description": "Xạ trị kết hợp hóa trị liệu, hoặc phẫu thuật cắt bỏ tử cung và buồng trứng kết hợp xạ trị và hóa trị"
+      },
+      {
+        "name": "Điều trị giai đoạn IV",
+        "description": "Điều trị giảm thiểu các triệu chứng và kéo dài thời gian sống cho người bệnh"
+      },
+      {
+        "name": "Bảo tồn chức năng sinh sản",
+        "description": "Lưu trữ buồng trứng trước khi thực hiện xạ trị, hóa trị để bảo tồn thiên chức làm mẹ"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Phát hiện và điều trị ở giai đoạn sớm để tăng khả năng chữa khỏi bệnh",
+      "Tuân thủ phác đồ điều trị theo hướng dẫn của bác sĩ",
+      "Tái khám định kỳ để theo dõi tình trạng sức khỏe",
+      "Xây dựng lối sống lành mạnh, tăng cường dinh dưỡng trong quá trình điều trị",
+      "Tham gia các nhóm hỗ trợ tâm lý dành cho người bệnh ung thư"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin phòng virus HPV được xem là biện pháp phòng ngừa đơn giản mà hữu hiệu nhất, để giảm nguy cơ mắc bệnh. Tại Việt Nam, vắc xin phòng ngừa virus HPV đã được Bộ Y tế cấp phép có hiệu lực sử dụng từ năm 2007, có khả năng phòng ngừa tổn thương và lây nhiễm gây ra bởi 2 tuýp HPV nguy cơ cao là 16 và 18.",
+      "recommended_for": [
+        "Phụ nữ từ 9-26 tuổi",
+        "Đặc biệt là trước khi có quan hệ tình dục"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không quan hệ tình dục sớm, nhất là ở độ tuổi vị thành niên",
+      "Thực hiện quan hệ tình dục an toàn",
+      "Không quan hệ tình dục với nhiều bạn tình",
+      "Vệ sinh sạch sẽ vùng kín trong các kỳ kinh nguyệt, sau khi quan hệ tình dục",
+      "Đến ngay cơ sở chuyên khoa để thăm khám và điều trị kịp thời khi có những triệu chứng bất thường",
+      "Tầm soát ung thư cổ tử cung định kỳ từ 21 tuổi trở lên"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư cổ tử cung có thể chữa khỏi không?",
+      "answer": "Ung thư cổ tử cung có thể chữa khỏi, nếu được phát hiện sớm. Những trường hợp phát hiện sớm ngay từ giai đoạn tiền ung thư, có biện pháp can thiệp kịp thời và đúng cách thì tỷ lệ chữa khỏi bệnh hoàn toàn có thể lên đến trên 90%, đồng thời bảo tồn chức năng sinh sản."
+    },
+    {
+      "question": "Ung thư cổ tử cung có thể sống bao lâu?",
+      "answer": "Tùy thuộc vào giai đoạn phát hiện và điều trị. Giai đoạn I: tỷ lệ sống sau 5 năm lên đến khoảng 90%. Giai đoạn II: tỷ lệ sống sau 5 năm là 50-65%. Giai đoạn III: tỷ lệ sống sau 5 năm khoảng 25-35%. Giai đoạn IV: tỷ lệ sống sau 5 năm chỉ còn dưới 15%."
+    },
+    {
+      "question": "Bị u cổ tử cung có sinh con được không?",
+      "answer": "Khả năng sinh con của người bệnh ung thư cổ tử cung phụ thuộc vào giai đoạn bệnh và phương pháp điều trị. Nếu phát hiện bệnh ở giai đoạn sớm, bác sĩ có thể cân nhắc phác đồ điều trị bảo tồn chức năng sinh sản. Trong trường hợp phải cắt bỏ tử cung và buồng trứng, có thể cân nhắc lưu trữ buồng trứng trước khi thực hiện xạ trị, hóa trị."
+    },
+    {
+      "question": "Khi nào nên thực hiện tầm soát u cổ tử cung?",
+      "answer": "Khuyến cáo chị em phụ nữ từ 21 tuổi trở lên nên thực hiện tầm soát ung thư cổ tử cung định kỳ theo yêu cầu của từng phương pháp cũng như chỉ định của bác sĩ. Việc tầm soát có ý nghĩa quan trọng để phát hiện sớm những nguy cơ và có biện pháp điều trị kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau rát vùng chậu khi quan hệ tình dục và ra máu bất thường sau khi quan hệ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung",
+        "Viêm cổ tử cung",
+        "Polyp cổ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau rát vùng chậu, ra máu bất thường và dịch tiết âm đạo có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung",
+        "Viêm âm đạo",
+        "Viêm vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chảy máu âm đạo bất thường, dịch tiết âm đạo có màu xám đục và có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung",
+        "Viêm âm đạo do vi khuẩn",
+        "Bệnh lây truyền qua đường tình dục"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khi quan hệ tình dục và đi tiểu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung",
+        "Viêm đường tiết niệu",
+        "Viêm cổ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khi quan hệ, chảy máu âm đạo bất thường sau khi quan hệ và dịch tiết âm đạo có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung",
+        "Viêm cổ tử cung",
+        "Nhiễm trùng âm đạo"
+      ]
     }
   ]
 }

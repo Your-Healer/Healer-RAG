@@ -1,39 +1,131 @@
 {
   "disease_id": "ung-thu-tuyen-tien-liet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư tuyến tiền liệt",
+  "disease_alternative_names": [
+    "Ung thư biểu mô tuyến tuyến tiền liệt",
+    "Ung thư tuyến tiền liệt không biệt hoá",
+    "Ung thư biểu mô tế bào vảy tuyến tiền liệt",
+    "Ung thư biểu mô ống tuyến chuyển tiếp"
+  ],
+  "disease_definition": "Ung thư tuyến tiền liệt (tên tiếng Anh: Prostate Cancer) là một bệnh nam giới thường gặp, đặc biệt là ở độ tuổi trên 50. Đây là trường hợp các tế bào tuyến tiền liệt phát triển bất thường, mất kiểm soát, dẫn đến hình thành khối u ác tính. Tuyến tiền liệt là cơ quan sinh dục chỉ có ở đàn ông, nằm phía dưới bàng quang và phía trên trực tràng, cạnh túi tinh, với nhiệm vụ tạo ra tinh dịch. Bệnh thường phát triển rất chậm và không có biểu hiện về bệnh lý ở giai đoạn đầu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Rối loạn tiểu tiện",
+      "description": "Cảm giác đi tiểu không hết, còn sót lại nước tiểu sau khi tiểu; tia nước tiểu yếu, không mạnh như lúc trước; tiểu không tự chủ, bí tiểu cấp tính, tiểu đêm nhiều lần."
+    },
+    {
+      "name": "Nước tiểu có máu",
+      "description": "Hiện tượng máu lẫn trong nước tiểu, có thể nhìn thấy bằng mắt thường hoặc chỉ phát hiện được qua xét nghiệm."
+    },
+    {
+      "name": "Đau cột sống và vùng xương chậu",
+      "description": "Triệu chứng thường xuất hiện khi tế bào ung thư đã lan tỏa hoặc di căn đến xương."
+    },
+    {
+      "name": "Xuất tinh có máu hoặc đau buốt khi xuất tinh",
+      "description": "Triệu chứng thường gặp khi khối u xâm lấn túi tinh hoặc các mô lân cận."
+    },
+    {
+      "name": "Phù nề chi dưới",
+      "description": "Sưng phù ở chân do tế bào ung thư chèn ép vào hệ thống bạch huyết hoặc tĩnh mạch."
+    },
+    {
+      "name": "Rối loạn cương dương",
+      "description": "Khó khăn trong việc đạt được hoặc duy trì sự cương cứng của dương vật, có thể do khối u chèn ép hoặc xâm lấn các dây thần kinh."
+    },
+    {
+      "name": "Các triệu chứng toàn thân",
+      "description": "Suy thận, gầy sút, thiếu máu thường xuất hiện ở giai đoạn muộn của bệnh."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện nay, nguyên nhân gây ung thư tuyến tiền liệt vẫn chưa được làm rõ. Về cơ bản, ung thư tuyến tiền liệt xảy ra khi những tế bào khỏe mạnh trong tuyến tiền liệt bị đột biến. Đa phần bệnh ung thư tuyến tiền liệt bắt đầu trong những tế bào mầm chịu trách nhiệm tạo ra tinh dịch.",
+    "related_factors": "Bệnh có liên quan đến một số gene trong quá trình phát sinh và phát triển của tế bào ung thư, cũng như các yếu tố nguy cơ từ môi trường, chế độ dinh dưỡng, và lối sống.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác (nguy cơ tăng cao khi trên 54 tuổi, khoảng 65% các trường hợp nằm trong độ tuổi 55-74)",
+    "Chủng tộc (người da màu có nguy cơ cao hơn người da trắng, người châu Á có tỷ lệ mắc thấp hơn)",
+    "Tiền sử gia đình (nguy cơ tăng 2-3 lần nếu bố hoặc anh em trai đã mắc bệnh)",
+    "Tân sản trong lớp biểu mô tuyến tiền liệt (PIN) biệt hoá cao",
+    "Chế độ ăn nhiều thịt đỏ, ít rau củ quả",
+    "Béo phì",
+    "Hút thuốc lá",
+    "Tiền sử mắc bệnh lây qua đường tình dục",
+    "Viêm tuyến tiền liệt",
+    "Thắt ống dẫn tinh"
+  ],
+  "complications": [
+    "Di căn ung thư đến các cơ quan khác, đặc biệt là xương, gây đau và có thể dẫn đến gãy xương",
+    "Tiểu không tự chủ do khối u chèn ép hoặc các biến chứng sau điều trị",
+    "Rối loạn cương dương do bệnh hoặc là tác dụng phụ của các phương pháp điều trị",
+    "Đau mãn tính, đặc biệt là ở vùng xương chậu và cột sống",
+    "Suy thận nếu tuyến tiền liệt phì đại gây tắc nghẽn đường tiểu",
+    "Thiếu máu và suy kiệt cơ thể ở giai đoạn muộn"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám trực tràng để phát hiện bất thường ở tuyến tiền liệt",
+      "Xét nghiệm máu đo nồng độ PSA (kháng nguyên đặc hiệu tuyến tiền liệt)",
+      "Sinh thiết tuyến tiền liệt",
+      "Chụp CT và MRI vùng chậu",
+      "Xạ hình xương"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu PSA",
+        "description": "Xét nghiệm PSA (prostate specific antigen) dùng để định lượng nồng độ kháng nguyên đặc hiệu của tuyến tiền liệt trong máu. Bình thường, giá trị PSA dưới 4ng/mL và tỷ lệ PSA tự do so với PSA toàn thể trên 20%. Nếu PSA tăng cao trên 4ng/mL và tỷ lệ PSA tự do/tổng thể dưới 15%, nguy cơ mắc bệnh rất cao."
+      },
+      {
+        "name": "Sinh thiết tuyến tiền liệt",
+        "description": "Khi khám tuyến tiền liệt có dấu hiệu bất thường, bệnh nhân sẽ được sinh thiết tuyến tiền liệt để tìm tế bào ung thư và đánh giá mức độ ác tính của khối u. Sinh thiết có thể thực hiện với gây tê tại chỗ."
+      },
+      {
+        "name": "Chụp cộng hưởng từ MRI vùng chậu",
+        "description": "Giúp đánh giá kích thước, vị trí của khối u và mức độ xâm lấn vào các cơ quan lân cận, cũng như khả năng di căn hạch bạch huyết."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Giúp phát hiện các tổn thương di căn hạch vùng và di căn xa đến các cơ quan khác như xương, phổi."
+      },
+      {
+        "name": "Xạ hình xương",
+        "description": "Phương pháp chẩn đoán hình ảnh để xác định tế bào ung thư đã di căn đến xương hay chưa."
+      },
+      {
+        "name": "PET-CT",
+        "description": "Kỹ thuật này có thể được dùng để đánh giá bướu đã di căn đến các cơ quan khác hay chưa trong trường hợp nghi ngờ nhưng các phương pháp khác không xác định được."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị được lựa chọn dựa trên tuổi và ước lượng thời gian cuộc sống còn lại của bệnh nhân, tình trạng di căn hạch hoặc di căn xa, các bệnh lý nội khoa kèm theo, tình trạng sinh hoạt tình dục, mức độ PSA và mức độ ác tính của tế bào ung thư.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt tuyến tiền liệt tận gốc",
+        "description": "Chỉ định cho những trường hợp ung thư giai đoạn sớm 1 hoặc 2, và bệnh nhân có thể sống trên 10 năm. Bác sĩ sẽ cắt hết toàn bộ tuyến tiền liệt, túi tinh và mô quanh tuyến tiền liệt ra ngoài. Biến chứng sau mổ thường gặp nhất là tiểu không kiểm soát hoàn toàn (5-10%) và rối loạn cương (70%)."
+      },
+      {
+        "name": "Xạ trị ngoài",
+        "description": "Sử dụng tia X năng lượng cao để tiêu diệt tế bào ung thư ở tuyến tiền liệt. Thời gian điều trị kéo dài 6-7 tuần. Chỉ định cho những trường hợp ung thư giai đoạn muộn (chủ yếu là giai đoạn 3 và 4)."
+      },
+      {
+        "name": "Đốt tuyến tiền liệt với siêu âm hội tụ (HIFU)",
+        "description": "Sử dụng sóng siêu âm để phá hủy tế bào ung thư bằng nhiệt. Thích hợp cho những bệnh nhân ung thư giai đoạn sớm nhưng không chấp nhận các nguy cơ và biến chứng của phẫu thuật."
+      },
+      {
+        "name": "Điều trị bằng nội tiết",
+        "description": "Áp dụng cho những bệnh nhân đã có di căn hạch hoặc di căn xa. Bệnh nhân có thể lựa chọn giữa phẫu thuật cắt bỏ 2 tinh hoàn hoặc sử dụng thuốc tiêm (28 ngày/lần, liên tục trong ít nhất 6-12 tháng) nhằm cắt đứt nguồn cung cấp testosterone để tế bào ung thư không thể phát triển tiếp tục."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì chế độ ăn ít thịt đỏ, ít mỡ động vật và nhiều rau xanh cùng trái cây",
+      "Theo dõi định kỳ để phát hiện sớm tái phát",
+      "Tập luyện thể dục thể thao đều đặn để cải thiện sức khỏe tổng thể",
+      "Quản lý triệu chứng tiểu tiện và các tác dụng phụ của điều trị",
+      "Trao đổi với bác sĩ về biện pháp bảo tồn khả năng sinh sản trước khi điều trị",
+      "Tuân thủ lịch tái khám và xét nghiệm theo chỉ định của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +133,97 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ưu tiên cung cấp dinh dưỡng cho cơ thể bằng một chế độ ăn uống hợp lý, khoa học với nhiều rau củ quả và trái cây thay vì lạm dụng thực phẩm chức năng",
+      "Tập luyện thể dục thể thao đều đặn để cải thiện sức khỏe tổng thể cũng như sức khỏe tinh thần",
+      "Duy trì cân nặng hợp lý, tránh béo phì",
+      "Hạn chế hút thuốc lá và uống rượu bia",
+      "Khám sức khỏe định kỳ 6 tháng/lần, đặc biệt đối với nam giới trên 50 tuổi",
+      "Chủ động tầm soát nếu có nguy cơ mắc bệnh (tuổi cao, gia đình có người từng bị bệnh)"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh nhân ung thư tuyến tiền liệt sống được bao lâu?",
+      "answer": "Tiên lượng sống của mỗi người bệnh sẽ khác nhau tùy thuộc vào nhiều yếu tố như mức độ phát triển của ung thư, tuổi tác, tình trạng sức khoẻ hiện tại, bệnh nền. Ví dụ, bệnh nhân 70 tuổi có bệnh nền độ 0, 1 hoặc 2 và sinh hoạt bình thường có thể sống thêm 18 năm. Tuy nhiên, cũng ở độ tuổi trên, nếu người bệnh có ít nhất một bệnh nền độ 3 và cần được giúp đỡ trong sinh hoạt, thời gian sống sẽ giảm xuống còn khoảng 12 năm."
+    },
+    {
+      "question": "Ung thư tiền liệt tuyến giai đoạn cuối có chữa được không?",
+      "answer": "Ung thư giai đoạn cuối vẫn có thể chữa được. Tuy nhiên, cần lưu ý rằng mục đích điều trị bệnh ở giai đoạn này là làm chậm quá trình tiến triển của ung thư, đồng thời kéo dài tuổi thọ của bệnh nhân chứ không thể chữa khỏi hoàn toàn như ở giai đoạn sớm."
+    },
+    {
+      "question": "Làm sao để phát hiện sớm ung thư tuyến tiền liệt?",
+      "answer": "Để phát hiện ung thư tuyến tiền liệt ở giai đoạn sớm, cần làm xét nghiệm máu để kiểm tra mức độ kháng nguyên đặc hiệu tuyến tiền liệt (PSA). Ngoài ra, thăm khám trực tràng (digital rectal exam) cũng là cách khám xác định tiền liệt tuyến có lớn bất thường hay không một cách tương đối chính xác."
+    },
+    {
+      "question": "Ung thư tuyến tiền liệt có chữa được không?",
+      "answer": "Bệnh hoàn toàn có thể chữa được, đặc biệt nếu phát hiện ở giai đoạn sớm. Bác sĩ sẽ cân nhắc lựa chọn phương pháp điều trị dựa trên nhiều yếu tố như tuổi tác, tình trạng di căn, các bệnh lý nội khoa kèm theo, tình trạng sinh hoạt tình dục, chỉ số PSA và mức độ ác tính của tế bào ung thư."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đi tiểu không hết, tia nước tiểu yếu, tiểu đêm nhiều lần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-tien-liet",
+        "phi-dai-lanh-tinh-tuyen-tien-liet",
+        "viem-tuyen-tien-liet"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau buốt khi xuất tinh và nước tiểu có máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-tien-liet",
+        "viem-tuyen-tien-liet",
+        "viem-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau cột sống và vùng xương chậu, kèm theo phù nề chi dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-tien-liet",
+        "ung-thu-xuong",
+        "thoat-vi-dia-dem"
+      ]
+    },
+    {
+      "question": "Tôi trên 50 tuổi và gần đây thường xuyên đi tiểu đêm, tia nước tiểu yếu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-tien-liet",
+        "phi-dai-lanh-tinh-tuyen-tien-liet",
+        "viem-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi có bố bị ung thư tuyến tiền liệt và hiện tôi cũng đang gặp vấn đề tiểu tiện khó khăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-tien-liet",
+        "phi-dai-lanh-tinh-tuyen-tien-liet",
+        "viem-tuyen-tien-liet"
+      ]
+    },
+    {
+      "question": "Tôi bị béo phì và đang gặp vấn đề rối loạn cương dương, tiểu khó. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-tien-liet",
+        "roi-loan-cuong-duong",
+        "dai-thao-duong"
+      ]
+    },
+    {
+      "question": "Tôi từng bị viêm tuyến tiền liệt và hiện đang bị tiểu rắt, tiểu buốt, đau khi xuất tinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-tien-liet",
+        "viem-tuyen-tien-liet-man",
+        "viem-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lưng dưới, tiểu đêm, tia nước tiểu yếu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-tien-liet",
+        "phi-dai-lanh-tinh-tuyen-tien-liet",
+        "soi-than"
+      ]
     }
   ]
 }

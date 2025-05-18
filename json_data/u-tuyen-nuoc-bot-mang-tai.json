@@ -1,39 +1,107 @@
 {
   "disease_id": "u-tuyen-nuoc-bot-mang-tai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U tuyến nước bọt mang tai",
+  "disease_alternative_names": [
+    "U tuyến mang tai",
+    "Khối u tuyến mang tai",
+    "Parotid gland tumor"
+  ],
+  "disease_definition": "U tuyến mang tai hay u tuyến nước bọt mang tai là một dạng của u tuyến nước bọt. Tuyến mang tai là tuyến nước bọt lớn nhất trong cơ thể nằm ở vùng ngoài của mặt, gần góc hàm mỗi bên. U tuyến nước bọt không hiếm gặp, 80% là lành tính và có thể xảy ra ở mọi lứa tuổi. Nguy cơ ác tính chỉ chiếm 20%, chủ yếu gặp ở trẻ em và người từ 60 tuổi trở lên.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối sưng vùng góc hàm",
+      "description": "Xuất hiện một khối u ở góc hàm, thường phát triển chậm trong nhiều năm nếu lành tính"
+    },
+    {
+      "name": "Liệt mặt",
+      "description": "Tình trạng mất khả năng cử động một phần hoặc toàn bộ mặt do khối u chèn ép dây thần kinh mặt"
+    },
+    {
+      "name": "Khó nhai",
+      "description": "Khó khăn khi thực hiện động tác nhai do khối u ảnh hưởng đến cơ nhai"
+    },
+    {
+      "name": "Căng tức vùng mang tai",
+      "description": "Cảm giác căng tức, khó chịu ở vùng mang tai, thường gặp khi khối u bị nhiễm trùng hoặc tạo nang"
+    },
+    {
+      "name": "Đau",
+      "description": "Đau ở vùng khối u, thường gặp trong các trường hợp u ác tính"
+    },
+    {
+      "name": "Phát triển nhanh của khối u",
+      "description": "Khối u tăng kích thước nhanh chóng, thường là dấu hiệu của u ác tính"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân hình thành u tuyến mang tai hiện tại vẫn chưa rõ ràng.",
+    "related_factors": "Một số yếu tố nguy cơ xuất hiện u tuyến mang tai bao gồm thay đổi gen, tiếp xúc với tia xạ và hút thuốc lá.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thay đổi gen",
+    "Tiếp xúc với tia xạ",
+    "Hút thuốc lá",
+    "Tuổi cao (trên 60 tuổi)",
+    "Tuổi trẻ (đối với một số loại u ác tính)"
+  ],
+  "complications": [
+    "Chèn ép dây thần kinh mặt gây liệt mặt",
+    "Suy giảm thính lực",
+    "Nguy cơ mù lòa",
+    "Di căn đến đầu, cổ, phổi (đối với u ác tính)",
+    "Biến đổi ác tính của u tuyến đa dạng sau nhiều năm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Kiểm tra và sờ nắn khối u",
+      "Kiểm tra miệng và ống tuyến nước bọt liên quan",
+      "Đánh giá dây thần kinh mặt",
+      "Sờ nắn hạch cổ",
+      "Kiểm tra da đầu và cổ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sinh thiết chọc hút kim nhỏ (FNA)",
+        "description": "Công cụ chẩn đoán chính để đánh giá các tổn thương tuyến nước bọt. Đây là một thủ thuật không đau, ít biến chứng, giúp ngăn ngừa chỉ định phẫu thuật không chính xác"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Cung cấp thông tin về vị trí, kích thước và bản chất của khối u cũng như sự hiện diện của hạch cổ phì đại. Kết hợp với FNA có thể giúp phân biệt ác tính và lành tính từ 80-90% trường hợp"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Hữu ích trong việc đánh giá và xác định cấu trúc giải phẫu, phần mở rộng của khối u vào thùy sâu và liên quan đến dây thần kinh mặt"
+      },
+      {
+        "name": "Chụp CT-scan",
+        "description": "Giúp đánh giá khối u, mức độ xâm lấn và giúp lên kế hoạch điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy vào tính chất của u tuyến nước bọt mà có thể lựa chọn phương pháp điều trị phù hợp. Thông thường, phẫu thuật là phương pháp điều trị phổ biến nhất.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt bỏ khối u",
+        "description": "Là phương pháp điều trị phổ biến cho cả u lành tính và ác tính. Đối với u lành tính, cần phẫu thuật triệt để để tránh tái phát"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Thường kết hợp với phẫu thuật để điều trị u ác tính, đặc biệt là sau phẫu thuật cắt bỏ rộng để ngăn ngừa tái phát"
+      },
+      {
+        "name": "Phẫu thuật giải phóng dây thần kinh mặt",
+        "description": "Chỉ nên được thực hiện trong trường hợp khối u liên quan trực tiếp đến dây thần kinh mặt"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi định kỳ sau phẫu thuật",
+      "Đối với khối u ác tính, cần theo dõi chặt chẽ để phát hiện sớm tái phát hoặc di căn",
+      "Tuân thủ phác đồ điều trị và tái khám theo hẹn của bác sĩ",
+      "Tránh hút thuốc lá và tiếp xúc với tia xạ",
+      "Nếu phẫu thuật triệt để, khả năng hồi phục tốt và khả năng tái phát thấp đối với u lành tính"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +109,68 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không sử dụng thuốc lá",
+      "Hạn chế tiếp xúc với tia xạ",
+      "Khám sức khỏe tổng quát hàng năm",
+      "Thăm khám với bác sĩ chuyên khoa (thường là bác sĩ tai mũi họng hoặc răng hàm mặt) khi có dấu hiệu bất thường",
+      "Phẫu thuật cắt bỏ khối u lành tính càng sớm càng tốt để tránh tiềm năng biến đổi ác tính"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U tuyến nước bọt mang tai có nguy hiểm không?",
+      "answer": "U tuyến nước bọt mang tai phần lớn là lành tính (khoảng 80%), hiếm khi là ác tính (khoảng 20%). Tuy nhiên, nếu u tuyến mang tai thể đa dạng thì có tiềm năng phát triển ác tính sau nhiều năm (thường từ 10-15 năm). Do đó, người bệnh nên phẫu thuật cắt bỏ khối u lành tính càng sớm càng tốt."
+    },
+    {
+      "question": "Người bị u tuyến mang tai khi nào nên đến gặp bác sĩ và nên khám bệnh ở khoa nào?",
+      "answer": "Khi vùng mang tai xuất hiện các khối phồng có thể có triệu chứng hoặc không có triệu chứng, người bệnh nên đến các bệnh viện uy tín để được bác sĩ chuyên khoa Tai Mũi Họng thăm khám."
+    },
+    {
+      "question": "Chi phí phẫu thuật và điều trị u tuyến mang tai thế nào?",
+      "answer": "Phẫu thuật u tuyến mang tai là một phẫu thuật tương đối phức tạp vì thường liên quan đến dây thần kinh mặt. Do đó, đòi hỏi bác sĩ phải có tay nghề giỏi, giàu kinh nghiệm. Chi phí phẫu thuật tùy thuộc vào loại phẫu thuật cũng như giá dịch vụ ở mỗi bệnh viện. Để biết chi tiết, người bệnh có thể liên hệ trực tiếp với bộ phận chăm sóc khách hàng của bệnh viện."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khối sưng vùng góc hàm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tuyến nước bọt mang tai",
+        "Viêm tuyến mang tai",
+        "Hạch bạch huyết"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy liệt mặt, khó nhai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tuyến nước bọt mang tai",
+        "Liệt mặt Bell",
+        "Viêm dây thần kinh mặt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị căng tức vùng mang tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tuyến nước bọt mang tai",
+        "Viêm tuyến mang tai",
+        "Sỏi tuyến nước bọt"
+      ]
+    },
+    {
+      "question": "Tôi bị đau và liệt không hoàn toàn hoặc liệt hoàn toàn dây thần kinh mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tuyến nước bọt mang tai ác tính",
+        "Liệt mặt Bell",
+        "U não"
+      ]
+    },
+    {
+      "question": "Tôi bị chèn ép dây thần kinh mặt gây liệt mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tuyến nước bọt mang tai",
+        "U não",
+        "Viêm thần kinh mặt"
+      ]
     }
   ]
 }

@@ -1,39 +1,143 @@
 {
   "disease_id": "ung-thu-thanh-quan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư thanh quản",
+  "disease_alternative_names": [
+    "U thanh quản ác tính",
+    "Carcinoma thanh quản",
+    "Ung thư dây thanh"
+  ],
+  "disease_definition": "Ung thư thanh quản là các khối u ác tính xuất phát từ biểu mô thanh quản (gồm ba tầng). Đây là loại ung thư thuộc đường hô hấp trên. Ở giai đoạn phát triển, ung thư có thể xâm lấn các khu vực xung quanh và lan rộng đến các vùng khác của cơ thể.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khàn tiếng",
+      "description": "Triệu chứng sớm và chủ yếu của ung thư thanh quản, biểu hiện giọng khàn, kéo dài và tăng dần, dùng thuốc không đỡ. Tính chất khàn thô, cứng (rè, giọng cứng như gỗ)"
+    },
+    {
+      "name": "Ho khan",
+      "description": "Ban đầu ho khan, sau đó là ho khạc đờm nhầy lẫn máu"
+    },
+    {
+      "name": "Khó chịu ở họng",
+      "description": "Cảm giác như có dị vật mắc ở họng"
+    },
+    {
+      "name": "Rối loạn nuốt",
+      "description": "Khi khối u lan ra ngoài thanh quản đến hạ họng, người bệnh có thể bị nuốt vướng, nghẹn, đau"
+    },
+    {
+      "name": "Khó thở thanh quản",
+      "description": "Xảy ra khi khối u lan rộng che lấp lòng thanh quản"
+    },
+    {
+      "name": "Xuất hiện hạch cổ",
+      "description": "Biểu hiện hạch cổ sớm thấy nhất ở ung thư thượng thanh môn"
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Xuất hiện máu trong đờm khi ho"
+    },
+    {
+      "name": "Nuốt vướng, nghẹn, đau",
+      "description": "Khó khăn và đau đớn khi nuốt, thường ở giai đoạn tiến triển"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện nay, nguyên nhân chính xác dẫn đến ung thư thanh quản vẫn chưa được xác định rõ ràng.",
+    "related_factors": "Những yếu tố có thể làm tăng nguy cơ mắc bệnh bao gồm hút thuốc lá và uống rượu, một số viêm thanh quản mạn tính, trào ngược dạ dày, thoát vị thanh quản, u nhú thanh quản, và tiếp xúc với chất phóng xạ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá là yếu tố nguy cơ hàng đầu",
+    "Uống rượu thường xuyên",
+    "Kết hợp hút thuốc lá và uống rượu làm tăng nguy cơ nhiều lần",
+    "Viêm thanh quản mạn tính (bạch sản, hồng sản) có tỷ lệ chuyển thành ác tính từ 10-40%",
+    "Trào ngược dạ dày thực quản",
+    "Thoát vị thanh quản",
+    "U nhú thanh quản",
+    "Làm việc trong môi trường tiếp xúc với chất phóng xạ",
+    "Nam giới có nguy cơ cao hơn, chiếm đến 96,9% ca mắc",
+    "Độ tuổi từ 45-65"
+  ],
+  "complications": [
+    "Tắc nghẽn đường thở",
+    "Khó thở nặng cần phải mở khí quản cấp cứu",
+    "Di căn đến các hạch cổ",
+    "Di căn xa đến các cơ quan khác như phổi, gan, xương",
+    "Mất khả năng nói sau phẫu thuật cắt bỏ thanh quản",
+    "Khó nuốt kéo dài",
+    "Suy dinh dưỡng",
+    "Tái phát sau điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng và đánh giá tiền sử bệnh",
+      "Kiểm tra cổ họng",
+      "Đánh giá các triệu chứng người bệnh đang gặp phải"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi thanh quản gián tiếp",
+        "description": "Dùng một gương nhỏ có cán dài đặt ở cuống họng bệnh nhân để quan sát sơ bộ tổn thương"
+      },
+      {
+        "name": "Nội soi thanh quản trực tiếp",
+        "description": "Sử dụng ống mềm qua đường mũi hoặc ống cứng qua đường miệng, quan sát thấy khối u ở dây thanh, khối u thường ở dạng u sùi, loét"
+      },
+      {
+        "name": "Nội soi hoạt nghiệm thanh quản",
+        "description": "Phương pháp nội soi giúp quan sát rõ tổn thương nghi ngờ ác tính, đánh giá ảnh hưởng của khối u đến chức năng hoạt động của dây thanh"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô để xác định bản chất khối u và chẩn đoán chính xác, là cách duy nhất để khẳng định khối u lành tính hay ác tính"
+      },
+      {
+        "name": "Chụp X-quang phổi",
+        "description": "Đánh giá ung thư di căn phổi"
+      },
+      {
+        "name": "CT scan và MRI",
+        "description": "Đánh giá sự lan của khối u, các khoang của thanh quản, và tình trạng hạch cổ"
+      },
+      {
+        "name": "Siêu âm vùng cổ",
+        "description": "Phát hiện các hạch cổ mà không thấy được qua thăm khám lâm sàng"
+      },
+      {
+        "name": "PET CT scan",
+        "description": "Phát hiện các ổ di căn, phân biệt tái phát với các tổn thương hoại tử sụn do tia hoặc các di chứng trong quá trình điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc lựa chọn phương pháp điều trị sẽ phụ thuộc vào giai đoạn ung thư, vị trí, kích thước khối u và sức khỏe tổng thể của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Cắt bỏ một phần hoặc toàn bộ thanh quản, có thể kết hợp nạo vét hạch cổ. Trường hợp cắt bỏ toàn bộ thanh quản, có thể lắp van thanh âm khí thực quản, tập giọng nói thực quản hoặc lắp thiết bị điện vào cổ họng để tạo ra âm thanh"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng tia bức xạ năng lượng cao để tiêu diệt tế bào ung thư, thường được chỉ định cho giai đoạn sớm hoặc kết hợp với phẫu thuật và hóa trị ở giai đoạn muộn"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng thuốc để tiêu diệt hoặc ức chế sự phát triển của tế bào ung thư, thường kết hợp với xạ trị và phẫu thuật ở giai đoạn tiến xa"
+      },
+      {
+        "name": "Điều trị phối hợp",
+        "description": "Kết hợp cả 3 phương pháp (phẫu thuật, xạ trị, hóa trị) trong những trường hợp ung thư giai đoạn nặng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Bổ sung protein từ đậu nành, trứng, cá, thịt gia cầm bỏ da, thịt bò thăn, bào ngư",
+      "Ăn nhiều trái cây và rau củ như bơ, chuối, thanh long, bí xanh, bí đỏ, rau ngót",
+      "Bổ sung chất béo từ nguồn thực vật như dầu thực vật, bơ thực vật",
+      "Ưu tiên chế biến món ăn ở dạng mềm, lỏng như cháo, súp để dễ nuốt",
+      "Chia nhỏ khẩu phần thành 5-6 bữa thay vì 3 bữa chính để hấp thu tốt hơn",
+      "Tránh đồ ăn cay nóng, thực phẩm cứng giòn, thực phẩm chế biến sẵn",
+      "Tránh đồ ăn chiên xào, nhiều dầu mỡ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +145,69 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bỏ hút thuốc lá và không sử dụng các sản phẩm thuốc lá không khói khác",
+      "Hạn chế tối đa việc tiêu thụ rượu và các thức uống chứa cồn",
+      "Sử dụng thiết bị an toàn khi thường xuyên phải tiếp xúc với amiăng hoặc các chất độc khác tại nơi làm việc",
+      "Xây dựng chế độ ăn uống lành mạnh với nhiều trái cây tươi và rau quả",
+      "Bổ sung thực phẩm giàu dưỡng chất như cà chua, trái cây họ cam quýt, dầu ô liu, dầu cá",
+      "Khám tai mũi họng định kỳ, đặc biệt khi có triệu chứng khàn tiếng kéo dài hơn 3 tuần"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Có phương pháp tầm soát ung thư thanh quản không?",
+      "answer": "Hiện nay, có thể tầm soát bệnh ung thư thanh quản. Người bệnh khi có các biểu hiện bất thường như khàn giọng hơn 3 tuần, ho dai dẳng, nuốt đau... nên đến thăm khám tại các cơ sở y tế chuyên sâu Tai Mũi Họng để được nội soi thanh quản kiểm tra, nội soi hoạt nghiệm thanh quản, thực hiện các xét nghiệm chẩn đoán cần thiết khi nghi ngờ tổn thương ác tính."
+    },
+    {
+      "question": "Ung thư thanh quản có nguy hiểm không?",
+      "answer": "Bệnh ung thư thanh quản là bệnh lý ác tính nguy hiểm và có thể đe dọa đến tính mạng người bệnh. Dù vậy, nếu phát hiện ở giai đoạn sớm, bệnh có thể chữa trị khỏi bằng các phương pháp điều trị phù hợp."
+    },
+    {
+      "question": "Ung thư thanh quản sống được bao lâu?",
+      "answer": "Tiên lượng sống của ung thư dây thanh quản phụ thuộc vào giai đoạn bệnh, vị trí và kích thước khối u, độ tuổi, giới tính và sức khỏe chung của bệnh nhân. Con số này cũng phụ thuộc vào việc chọn lựa phương pháp điều trị đúng và triệt để. Trung bình, tiên lượng sống sau 5 năm của ung thư thanh quản đạt trên 60%. Tiên lượng sẽ xấu hơn khi xuất hiện ung thư thứ hai."
+    },
+    {
+      "question": "Ung thư thanh quản có lây không?",
+      "answer": "Ung thư thanh quản không có tính lây nhiễm. Vì vậy, những người tiếp xúc với bệnh nhân ung thư thanh quản sẽ không bị mắc bệnh do lây truyền. Nhưng có thể có yếu tố gia đình, nếu có người cùng huyết thống bị ung thư thanh quản, thì bạn nên khám tầm soát ung thư thanh quản theo lịch khám sức khoẻ định kỳ mỗi năm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khàn tiếng, ho khan, khó chịu ở họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư thanh quản",
+        "Viêm thanh quản mạn tính",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nuốt vướng, nghẹn, đau và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư thanh quản",
+        "Ung thư hạ họng",
+        "Viêm amidan mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khó thở, khàn tiếng kéo dài, ho ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư thanh quản", "Ung thư phổi", "Lao phổi"]
+    },
+    {
+      "question": "Tôi hút thuốc lá nhiều năm và hiện tại bị khàn tiếng kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư thanh quản",
+        "Viêm thanh quản mạn tính",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm thanh quản mạn tính và hiện tại bị khàn tiếng kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư thanh quản",
+        "Viêm thanh quản mạn tính nặng lên",
+        "Bạch sản dây thanh"
+      ]
     }
   ]
 }

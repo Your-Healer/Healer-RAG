@@ -1,58 +1,232 @@
 {
   "disease_id": "vo-sinh-nguyen-phat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Vô sinh nguyên phát",
+  "disease_alternative_names": ["Vô sinh sơ phát", "Primary infertility"],
+  "disease_definition": "Vô sinh nguyên phát là tình trạng vô sinh ở các đôi vợ chồng mà người vợ chưa có thai lần nào. Theo định nghĩa chung, vô sinh là tình trạng một đôi vợ chồng không có thai sau 12 tháng chung sống, quan hệ tình dục bình thường, không áp dụng bất cứ hình thức tránh thai nào. Với trường hợp nữ giới trên 35 tuổi, thời gian không có thai này chỉ khoảng 6 tháng là đã được xem là vô sinh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có thai sau thời gian quan hệ",
+      "description": "Quan hệ tình dục đều đặn 2-3 lần/tuần, không áp dụng biện pháp tránh thai trong 12 tháng (nữ dưới 35 tuổi) hoặc 6 tháng (nữ trên 35 tuổi) mà không có thai"
+    },
+    {
+      "name": "Triệu chứng ở nam giới - Rối loạn xuất tinh",
+      "description": "Đau khi xuất tinh, tinh dịch lẫn máu, bất thường về tinh dịch"
+    },
+    {
+      "name": "Triệu chứng ở nam giới - Bất thường ở bìu và tinh hoàn",
+      "description": "Sưng to vùng bìu, căng tròn như quả bóng, tinh hoàn bị xoắn hay không nằm đúng vị trí trong bìu, tinh hoàn sưng đau, tấy đỏ"
+    },
+    {
+      "name": "Triệu chứng ở nam giới - Rối loạn chức năng tình dục",
+      "description": "Khó khăn trong việc cương dương hoặc duy trì cương cứng, giảm ham muốn tình dục"
+    },
+    {
+      "name": "Triệu chứng ở nữ giới - Rối loạn kinh nguyệt",
+      "description": "Mất kinh, rong kinh kéo dài hơn 10 ngày, thống kinh, kinh nguyệt ra quá ít, kinh nguyệt chỉ diễn ra trong 2-3 ngày rồi hết hẳn, kinh nguyệt có màu đen và vón cục"
+    },
+    {
+      "name": "Triệu chứng ở nữ giới - Mệt mỏi và tình trạng cơ thể bất thường",
+      "description": "Cơ thể luôn mệt mỏi, trong tình trạng béo phì hay quá gầy yếu, da xanh xao hay vàng vọt, đau đầu, chóng mặt"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây vô sinh nguyên phát khác nhau ở nam và nữ giới. Ở nam giới, nguyên nhân phổ biến là do số lượng tinh trùng ít, tinh trùng bị dị dạng nhiều, tỷ lệ tinh trùng di động thấp hay không có tinh trùng. Ở nữ giới, nguyên nhân thường do bệnh vòi tử cung và phúc mạc (khoảng 70%), rối loạn phóng noãn (20%) và 10% không rõ lý do.",
+    "related_factors": "Đa số nguyên nhân gây vô sinh nguyên phát ở nữ là do các bệnh phụ khoa. Ở nam giới là do bất thường ở tinh hoàn, ảnh hưởng của thuốc, bệnh lây qua đường tình dục, viêm nhiễm đường sinh sản. Ngoài ra, thói quen ăn uống không lành mạnh, rượu bia, thuốc lá, tiếp xúc với môi trường độc hại cũng là yếu tố ảnh hưởng đến khả năng sinh sản ở cả nam và nữ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam giới có bất thường ở tinh hoàn như viêm tinh hoàn, viêm ống sinh tinh, giãn tĩnh mạch thừng tinh",
+    "Nam giới bị rối loạn hormone sinh dục nam",
+    "Nam giới sử dụng thuốc ảnh hưởng tới chất lượng tinh trùng như thuốc điều trị đau dạ dày, tăng huyết áp",
+    "Nam giới có tiền sử mắc bệnh lây truyền qua đường tình dục",
+    "Nam giới có các bệnh lý như nhiễm trùng đường tiết niệu, viêm mào tinh hoàn, lao mào tinh hoàn, đái tháo đường, huyết áp cao, liệt dương",
+    "Nam giới tiếp xúc với tia phóng xạ",
+    "Nam giới nghiện rượu, thuốc lá",
+    "Nữ giới bị viêm nhiễm ở vùng chậu do vi khuẩn như lậu, chlamydia",
+    "Nữ giới mắc bệnh buồng trứng đa nang",
+    "Nữ giới bị viêm tắc ống dẫn trứng",
+    "Nữ giới có chất lượng trứng kém",
+    "Nữ giới mắc các bệnh lý tử cung như u xơ tử cung, polyp tử cung",
+    "Nữ giới mắc các bệnh lý khác như gout, béo phì, đái tháo đường, bệnh thận, bệnh gan, bệnh tuyến giáp",
+    "Nữ giới trên 35 tuổi",
+    "Căng thẳng tâm lý kéo dài ở cả nam và nữ"
+  ],
+  "complications": [
+    "Căng thẳng tâm lý, áp lực tinh thần",
+    "Trầm cảm, lo âu",
+    "Rạn nứt mối quan hệ vợ chồng",
+    "Áp lực từ gia đình và xã hội",
+    "Chi phí điều trị cao, đặc biệt là các kỹ thuật hỗ trợ sinh sản"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng tổng quát",
+      "Đánh giá tiền sử bệnh lý",
+      "Đánh giá hoạt động tình dục"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm cho nam giới - Tinh dịch đồ",
+        "description": "Đánh giá số lượng, chất lượng và khả năng di chuyển của tinh trùng"
+      },
+      {
+        "name": "Xét nghiệm cho nam giới - Xét nghiệm hormone",
+        "description": "Kiểm tra nồng độ hormone sinh dục nam để xác định rối loạn hormone"
+      },
+      {
+        "name": "Xét nghiệm cho nam giới - Siêu âm bìu",
+        "description": "Kiểm tra tình trạng của tinh hoàn, mào tinh hoàn và các cấu trúc trong bìu"
+      },
+      {
+        "name": "Xét nghiệm cho nam giới - Xét nghiệm di truyền",
+        "description": "Xác định các vấn đề liên quan tới di truyền ảnh hưởng đến khả năng sinh sản"
+      },
+      {
+        "name": "Xét nghiệm cho nam giới - Sinh thiết tinh hoàn",
+        "description": "Được thực hiện khi các biện pháp thăm dò khác không tìm được tinh trùng"
+      },
+      {
+        "name": "Xét nghiệm cho nữ giới - Chụp buồng trứng tử cung",
+        "description": "Kiểm tra tình trạng của buồng trứng và tử cung"
+      },
+      {
+        "name": "Xét nghiệm cho nữ giới - Kiểm tra dự trữ buồng trứng",
+        "description": "Đánh giá khả năng dự trữ trứng của buồng trứng"
+      },
+      {
+        "name": "Xét nghiệm cho nữ giới - Xét nghiệm hormone",
+        "description": "Kiểm tra nồng độ hormone sinh dục nữ để xác định rối loạn hormone"
+      },
+      {
+        "name": "Xét nghiệm cho nữ giới - Kiểm tra rụng trứng",
+        "description": "Xác định xem có sự rụng trứng hay không và chất lượng của trứng"
+      },
+      {
+        "name": "Xét nghiệm cho nữ giới - Siêu âm vùng chậu",
+        "description": "Kiểm tra tình trạng của tử cung, buồng trứng và các cấu trúc trong vùng chậu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Nguyên tắc điều trị vô sinh nguyên phát là dựa vào nguyên nhân gây bệnh. Đây là cơ sở để các bác sĩ có thể đưa ra phác đồ điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Hạn chế nạp các món ăn nhiều dầu mỡ, tập thể dục đều đặn, cải thiện cân nặng (khi quá gầy hoặc béo phì), không hút thuốc lá, không uống rượu bia, ưu tiên bổ sung những thực phẩm có lợi cho sức khỏe"
+      },
+      {
+        "name": "Sử dụng thuốc",
+        "description": "Thuốc giúp thụ thai để kích thích sự rụng trứng, thuốc điều trị rối loạn cương dương, thuốc cân bằng hormone, thuốc chống oxy hóa, thuốc kháng sinh điều trị tình trạng viêm nhiễm"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật điều trị tắc nghẽn ống dẫn tinh, phẫu thuật giãn tĩnh mạch ở tinh hoàn, phẫu thuật giải quyết các vấn đề ở tử cung như polyp nội mạc tử cung, mô sẹo trong tử cung, vách ngăn tử cung"
+      },
+      {
+        "name": "Thụ tinh trong ống nghiệm (IVF)",
+        "description": "Tinh trùng và trứng được kết hợp trong ống nghiệm, sau khi phôi thai được hình thành thành công sẽ được chuyển lại vào buồng tử cung"
+      },
+      {
+        "name": "Tiêm tinh trùng vào bào tương noãn (ICSI)",
+        "description": "Một tinh trùng chất lượng tốt được chọn để tiêm trực tiếp vào noãn, giúp làm tăng khả năng thụ tinh"
+      },
+      {
+        "name": "Hỗ trợ phôi thoát màng (AH)",
+        "description": "Làm mỏng hay mở lớp màng ngoài của phôi, làm tăng khả năng bám dính của phôi vào niêm mạc tử cung"
+      },
+      {
+        "name": "Bơm tinh trùng vào tử cung (IUI)",
+        "description": "Tinh trùng được lọc rửa, chọn lọc các tinh trùng khỏe mạnh để bơm trực tiếp vào tử cung của nữ giới"
+      },
+      {
+        "name": "Cho nhận noãn, tinh trùng, phôi",
+        "description": "Sử dụng noãn, tinh trùng hoặc phôi từ người hiến tặng khi không thể sử dụng của bản thân"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ theo chỉ định và phác đồ điều trị của bác sĩ",
+      "Duy trì tâm lý tích cực, tránh căng thẳng, áp lực",
+      "Quan hệ tình dục đều đặn 2-3 lần/tuần",
+      "Vệ sinh sạch sẽ trước và sau khi giao hợp",
+      "Bổ sung đủ dưỡng chất có lợi cho sức khỏe sinh sản",
+      "Thăm khám định kỳ để theo dõi tình trạng sức khỏe"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine đặc hiệu phòng ngừa vô sinh nguyên phát",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì đời sống vợ chồng an toàn, vệ sinh sạch sẽ trước và sau khi giao hợp",
+      "Chế độ giao hợp đều đặn 2-3 lần/tuần",
+      "Giữ tâm trạng vui vẻ, nhịp nhàng khi quan hệ tình dục",
+      "Hạn chế sử dụng chất kích thích như rượu bia, thuốc lá",
+      "Thường xuyên vận động cơ thể để có thể lực khỏe mạnh",
+      "Bổ sung đủ dưỡng chất, đặc biệt là hải sản chứa kẽm và các loại rau củ",
+      "Hạn chế tiếp xúc với môi trường độc hại như hóa chất, ô nhiễm, bức xạ",
+      "Thăm khám sức khỏe định kỳ để phát hiện sớm các vấn đề"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Vô sinh nguyên phát có chữa được không?",
+      "answer": "Vô sinh nguyên phát có thể chữa được tùy theo nguyên nhân gây bệnh. Nhiều đôi vợ chồng vô sinh nguyên phát vẫn có thể có con nếu được phát hiện sớm và có biện pháp can thiệp phù hợp. Phương pháp điều trị phụ thuộc vào nguyên nhân cụ thể, có thể bao gồm thay đổi lối sống, dùng thuốc, phẫu thuật hoặc các kỹ thuật hỗ trợ sinh sản như thụ tinh trong ống nghiệm (IVF), tiêm tinh trùng vào bào tương noãn (ICSI), bơm tinh trùng vào tử cung (IUI), v.v."
+    },
+    {
+      "question": "Vô sinh nguyên phát thường gặp ở đối tượng nào?",
+      "answer": "Vô sinh nguyên phát có thể gặp ở cả nam và nữ. Ở nam giới, đối tượng thường gặp là người có bất thường ở tinh hoàn, rối loạn hormone sinh dục, tiền sử mắc bệnh lây truyền qua đường tình dục, hoặc người có thói quen hút thuốc lá, uống rượu bia nhiều. Ở nữ giới, đối tượng thường gặp là người bị viêm nhiễm vùng chậu, buồng trứng đa nang, viêm tắc ống dẫn trứng, các bệnh lý tử cung, hoặc phụ nữ trên 35 tuổi."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa vô sinh nguyên phát?",
+      "answer": "Để phòng ngừa vô sinh nguyên phát, cả nam và nữ nên: duy trì đời sống vợ chồng an toàn với chế độ giao hợp đều đặn 2-3 lần/tuần; vệ sinh sạch sẽ trước và sau khi giao hợp; hạn chế sử dụng chất kích thích như rượu bia, thuốc lá; thường xuyên vận động cơ thể; bổ sung đủ dưỡng chất, đặc biệt là hải sản chứa kẽm và các loại rau củ; hạn chế tiếp xúc với môi trường độc hại; và thăm khám sức khỏe định kỳ để phát hiện sớm các vấn đề về sức khỏe sinh sản."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như không có thai sau 12 tháng chung sống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nguyên phát",
+        "Vô sinh thứ phát",
+        "Vô sinh không rõ nguyên nhân"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khi xuất tinh và tinh dịch lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nguyên phát",
+        "Viêm tuyến tiền liệt",
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng to vùng bìu, căng tròn như quả bóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nguyên phát",
+        "Giãn tĩnh mạch thừng tinh",
+        "Tràn dịch màng tinh hoàn",
+        "Thoát vị bẹn"
+      ]
+    },
+    {
+      "question": "Tôi bị rối loạn chức năng tình dục và không có con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nguyên phát",
+        "Rối loạn cương dương",
+        "Suy giảm testosterone",
+        "Rối loạn xuất tinh"
+      ]
+    },
+    {
+      "question": "Tôi bị rối loạn kinh nguyệt và không có con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nguyên phát ở nữ giới",
+        "Buồng trứng đa nang",
+        "Rối loạn nội tiết",
+        "Suy buồng trứng sớm"
+      ]
     }
   ]
 }

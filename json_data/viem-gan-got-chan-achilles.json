@@ -1,39 +1,107 @@
 {
   "disease_id": "viem-gan-got-chan-achilles",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm gân gót chân Achilles",
+  "disease_alternative_names": [
+    "Viêm điểm bám gân Achilles (Insertional Achilles tendinitis)",
+    "Viêm sợi gân (Noninsertional Achilles tendinitis)",
+    "Viêm gân Achilles"
+  ],
+  "disease_definition": "Viêm gân gót chân là tình trạng gân Achilles hoạt động quá mức dẫn tới tình trạng bị quá tải về lực và trọng lực, gây tổn thương vùng gót chân. Gân Achilles là khu vực có ít mạch máu, cách chỗ bám vào xương gót 3 – 6cm. Cấu tạo của gân gồm nhiều sợi collagen nhỏ nên chỉ cần một tác động bất ngờ cũng đủ gây tổn thương gót chân.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau rát bỏng hoặc đau cứng phần thấp bắp chân sau",
+      "description": "Triệu chứng này thường xuất hiện vào buổi sáng, làm người bệnh cảm thấy khó chịu khi bắt đầu vận động."
+    },
+    {
+      "name": "Đau vùng gót chân",
+      "description": "Đau đặc biệt khi căng gót hay đứng trên đầu mũi chân, gây khó khăn khi đi lại."
+    },
+    {
+      "name": "Đau dai dẳng",
+      "description": "Cảm giác đau không giảm theo thời gian nếu không được điều trị đúng cách."
+    },
+    {
+      "name": "Phù nề vùng gót chân",
+      "description": "Xuất hiện do tình trạng viêm và có thể kèm theo chảy máu giữa các sợi gân khi đã bị đứt gân."
+    },
+    {
+      "name": "Rách một phần hoặc đứt gân hoàn toàn",
+      "description": "Trong trường hợp nặng, gân Achilles có thể bị tổn thương nghiêm trọng dẫn đến rách một phần hoặc đứt hoàn toàn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Căng thẳng lặp đi lặp lại nhiều lần ở chân là nguyên nhân chủ yếu gây viêm gân Achilles. Tình trạng này thường xảy ra ở người tập thể dục quá mức, đặc biệt là vận động viên.",
+    "related_factors": "Ngoài ra, một số bệnh lý xương khớp như viêm khớp dạng thấp, viêm khớp nhiễm trùng cũng có thể là nguyên nhân gây viêm gân gót chân.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Không khởi động hoặc khởi động sai cách trước khi tập thể dục",
+    "Bị căng cơ chân khi thực hiện những động tác lặp lại nhiều lần",
+    "Chơi các môn thể thao yêu cầu đổi hướng, di chuyển nhanh như bóng đá, quần vợt, bóng rổ, bóng chuyền",
+    "Gia tăng các hoạt động thể chất đột ngột mà không cho cơ thể thời gian thích nghi",
+    "Đi giày không vừa chân, giày quá cũ hoặc chất lượng kém",
+    "Mang giày cao gót liên tục trong thời gian dài",
+    "Xuất hiện gai xương ở phía sau gót chân (gai gót chân)",
+    "Thoái hóa gân do tuổi tác",
+    "Giới tính nam",
+    "Tuổi cao",
+    "Hội chứng bàn chân bẹt",
+    "Mắc bệnh vảy nến hay tăng huyết áp",
+    "Sử dụng thuốc kháng sinh fluoroquinolones"
+  ],
+  "complications": [
+    "Hạn chế khả năng đi lại",
+    "Biến dạng gân và xương gót chân",
+    "Đứt gân Achilles hoàn toàn"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để kiểm tra các triệu chứng và hoạt động bình thường",
+      "Ấn nhẹ vào khu vực bị tổn thương để xác định vị trí đau sưng",
+      "Yêu cầu người bệnh đứng trên một quả bóng để đánh giá sự linh hoạt, phạm vi chuyển động và phản xạ của bàn chân, mắt cá chân"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Giúp bác sĩ quan sát hình ảnh bàn chân và xương chân, loại trừ những nguyên nhân khác có khả năng dẫn tới những triệu chứng tương tự."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Sử dụng sóng âm tần số cao để tạo ra hình ảnh chi tiết tại các mô mềm như gân, đánh giá lưu lượng máu xung quanh gân."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Sử dụng từ trường mạnh, sóng vô tuyến để tạo ra hình ảnh chi tiết của gân gót chân, giúp bác sĩ phát hiện vị trí gân bị viêm."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phần lớn trường hợp chấn thương nhẹ đều có thể tự khỏi khi người bệnh biết cách chăm sóc tốt.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "RICE (Rest - Ice - Compression - Elevation)",
+        "description": "Rest (nghỉ ngơi): Nghỉ ngơi giúp cơ thể sản sinh năng lượng mới, tăng khả năng phục hồi, giảm áp lực lên hệ xương và gân. Ice (chườm đá): Đặt túi nước đá lên vùng bị thương 15-20 phút để giảm đau và sưng tấy. Compression (băng ép): Dùng băng vải hoặc băng thun cố định vùng bị thương để giảm sưng. Elevation (kê cao): Nâng chân bị thương cao hơn tim để giảm sưng và đau."
+      },
+      {
+        "name": "Dùng thuốc",
+        "description": "Sử dụng các loại thuốc giảm đau hay thuốc chống viêm không kê đơn như naproxen, ibuprofen, aspirin. Trường hợp đau nhức kéo dài có thể được chỉ định thuốc giảm viêm hay giảm đau liều mạnh hoặc tiêm huyết tương tiểu giàu tiểu cầu (PRP) hay tiêm steroid."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Thực hiện các bài tập trị liệu giúp thúc đẩy quá trình chữa lành vết thương, tăng cường sức mạnh gân Achilles và hạn chế nguy cơ viêm tái phát. Sử dụng các thiết bị hỗ trợ như miếng đệm hay miếng lót giày nâng cao để giảm căng thẳng cho gân."
+      },
+      {
+        "name": "Phẫu thuật gân Achilles",
+        "description": "Chỉ định khi điều trị bảo tồn không hiệu quả hoặc trong trường hợp đứt gân/nguy cơ đứt gân. Bác sĩ sẽ rạch một đường mổ ở phía sau gót chân, nối lại gân đứt hoặc cắt bỏ phần gân bị hư rồi sửa chữa phần gân còn lại. Trường hợp tổn thương nghiêm trọng có thể thay thế một phần hay toàn bộ gân."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi cho đến khi có thể đi lại mà không còn cảm giác đau",
+      "Sử dụng nạng để chống đỡ, hạn chế gây áp lực lên chân khi cần di chuyển",
+      "Băng ép không nên quá chặt để không cản trở lưu thông máu",
+      "Nên hoàn thành liệu trình điều trị dù các triệu chứng đã thuyên giảm",
+      "Không tự ý sử dụng thuốc khi chưa có chỉ định từ bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +109,101 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh tăng mức độ hoạt động đột ngột, nên tăng dần thời lượng và cường độ tập luyện",
+      "Không hoạt động quá sức, tránh những hoạt động gây căng thẳng quá mức cho gân",
+      "Khởi động kỹ trước khi tập luyện để làm ấm cơ thể, giúp các cơ và mô liên kết linh hoạt hơn",
+      "Dừng lại ngay khi cảm thấy đau trong lúc tập",
+      "Dành thời gian kéo căng cơ bắp và gân chân vào mỗi buổi sáng trước khi tập thể dục",
+      "Tránh chạy trên những mặt phẳng cứng hay dễ trượt",
+      "Chọn quần áo phù hợp với loại hình luyện tập",
+      "Đa dạng hóa bài tập, thay thế những bài tập cường độ cao bằng những bài tập cường độ thấp",
+      "Chọn giày phù hợp, vừa vặn với chân và hỗ trợ tốt cho tất cả các hoạt động của bàn chân",
+      "Thay giày mới khi giày đã cũ, bị hao mòn quá mức"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm gân gót chân Achilles có nguy hiểm không?",
+      "answer": "Viêm gân gót chân có thể gây ra nhiều biến chứng nguy hiểm nếu trì hoãn điều trị hoặc điều trị sai cách, bao gồm hạn chế khả năng đi lại, biến dạng gân và xương gót chân, và nguy hiểm nhất là đứt gân Achilles hoàn toàn. Các biến chứng này có thể ảnh hưởng nghiêm trọng đến sinh hoạt hằng ngày và cần can thiệp y tế."
+    },
+    {
+      "question": "Viêm gân gót chân có tự khỏi không?",
+      "answer": "Phần lớn trường hợp chấn thương nhẹ đều có thể tự khỏi khi người bệnh biết cách chăm sóc tốt. Áp dụng phương pháp RICE (nghỉ ngơi, chườm đá, băng ép, kê cao) có thể giúp giảm đau và thúc đẩy quá trình lành bệnh. Tuy nhiên, nếu tình trạng viêm kéo dài hoặc nghiêm trọng, cần được bác sĩ thăm khám và điều trị phù hợp."
+    },
+    {
+      "question": "Viêm gân gót chân có cần phẫu thuật không?",
+      "answer": "Không phải tất cả các trường hợp viêm gân gót chân đều cần phẫu thuật. Phẫu thuật chỉ được chỉ định khi điều trị bảo tồn không hiệu quả, hoặc trong trường hợp đứt gân hoặc có nguy cơ đứt gân. Hầu hết các trường hợp đều có thể điều trị bằng các phương pháp không xâm lấn như nghỉ ngơi, dùng thuốc giảm đau, vật lý trị liệu."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm gân gót chân?",
+      "answer": "Để phòng ngừa viêm gân gót chân, bạn nên: tránh tăng mức độ hoạt động đột ngột; không hoạt động quá sức; khởi động kỹ trước khi tập luyện; kéo căng cơ bắp và gân chân mỗi ngày; tránh chạy trên mặt phẳng cứng; đa dạng hóa bài tập; chọn giày phù hợp và thay giày mới khi giày đã cũ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau rát bỏng hoặc đau cứng phần thấp bắp chân sau vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-got-chan-achilles",
+        "viem-khop-chan",
+        "chan-thuong-bap-chan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau vùng gót, đặc biệt là khi căng gót hay đứng trên đầu mũi chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-got-chan-achilles",
+        "gai-got-chan",
+        "viem-gan-ban-chan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau dai dẳng, phù nề vùng gót chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-got-chan-achilles",
+        "viem-khop-co-chan",
+        "chan-thuong-gan-got"
+      ]
+    },
+    {
+      "question": "Tôi là vận động viên và hay bị đau gót chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-got-chan-achilles",
+        "chan-thuong-gan-got",
+        "gai-got-chan"
+      ]
+    },
+    {
+      "question": "Tôi tập thể dục quá mức và hay bị đau gót chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-got-chan-achilles",
+        "viem-gan-ban-chan",
+        "chan-thuong-qua-tai"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm khớp dạng thấp và hay bị đau gót chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-got-chan-achilles",
+        "viem-khop-dang-thap",
+        "viem-gan-chung-he-thong"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm khớp nhiễm trùng và hay bị đau gót chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-got-chan-achilles",
+        "viem-khop-nhiem-trung",
+        "viem-gan-chung-he-thong"
+      ]
+    },
+    {
+      "question": "Tôi không khởi động kỹ trước khi tập thể dục và bị đau gót chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-got-chan-achilles",
+        "chan-thuong-gan-got",
+        "viem-gan-ban-chan"
+      ]
     }
   ]
 }

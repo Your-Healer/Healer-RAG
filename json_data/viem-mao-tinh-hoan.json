@@ -1,58 +1,208 @@
 {
   "disease_id": "viem-mao-tinh-hoan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm mào tinh hoàn",
+  "disease_alternative_names": ["Epididymitis"],
+  "disease_definition": "Viêm mào tinh hoàn là tình trạng mào tinh hoàn bị viêm sưng, đôi khi đi kèm với viêm tinh hoàn. Bệnh khiến phần mào tinh hoàn sưng tấy bìu gây ra cơn đau tại vị trí và những triệu chứng khác. Viêm mào tinh hoàn hầu hết là do nhiễm trùng (vi khuẩn hoặc virus), xảy ra nhiều ở nam giới dưới 35 tuổi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bìu",
+      "description": "Đau bìu dữ dội, cơn đau quặn có thể lan đến vùng bụng"
+    },
+    {
+      "name": "Chảy mủ niệu đạo",
+      "description": "Dịch mủ chảy ra từ niệu đạo"
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng thân nhiệt, cảm giác nóng"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và có thể nôn"
+    },
+    {
+      "name": "Đau khi chạm vào tinh hoàn",
+      "description": "Đau khi chạm hoặc nắn tinh hoàn và mào tinh hoàn"
+    },
+    {
+      "name": "Sưng tấy mào tinh hoàn",
+      "description": "Mào tinh hoàn bị sưng tấy, xơ cứng và sung huyết"
+    },
+    {
+      "name": "Nhịp tim nhanh",
+      "description": "Tăng nhịp tim"
+    },
+    {
+      "name": "Hạ huyết áp",
+      "description": "Giảm huyết áp"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm mào tinh hoàn chủ yếu là do sự nhiễm trùng tiết niệu hoặc cơ quan sinh dục, đặc biệt là các bệnh lây truyền qua đường tình dục (STDs) ở nam giới dưới 35 tuổi.",
+    "related_factors": "Ngoài nhiễm trùng, bệnh còn có thể do nguyên nhân thứ phát hoặc chấn thương tại chỗ, kích ứng hóa chất.",
+    "transmission_routes": [
+      "Lây truyền qua quan hệ tình dục không an toàn",
+      "Nhiễm trùng từ đường tiết niệu hoặc tuyến tiền liệt lan đến mào tinh hoàn",
+      "Nhiễm virus quai bị (hiếm gặp)",
+      "Nhiễm virus, vi khuẩn lao (hiếm gặp)"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam giới từ 14-35 tuổi",
+    "Quan hệ tình dục không sử dụng biện pháp an toàn",
+    "Người có bệnh sử các bệnh lây truyền qua đường tình dục",
+    "Bệnh sử nhiễm trùng tuyến tiền liệt hoặc đường tiết niệu",
+    "Người từng can thiệp các thủ thuật y tế có ảnh hưởng đến đường tiết niệu",
+    "Không cắt bao quy đầu dương vật",
+    "Biến chứng từ phẫu thuật đường tiết niệu",
+    "Phì đại tuyến tiền liệt",
+    "Tắc nghẽn niệu đạo hoặc ống dẫn tiểu"
+  ],
+  "complications": [
+    "Áp xe da bìu",
+    "Viêm tinh hoàn",
+    "Viêm và nhiễm trùng lan rộng khắp vùng da bìu",
+    "Viêm mào tinh hoàn mạn tính",
+    "Vô sinh",
+    "Tăng nguy cơ mắc các bệnh tiết niệu khác"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá lâm sàng",
+      "Kiểm tra triệu chứng sưng đau bằng sờ nắn mào tinh hoàn",
+      "Loại trừ trường hợp xoắn tinh hoàn",
+      "Xét nghiệm để tìm nguyên nhân nhiễm khuẩn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm dịch niệu đạo",
+        "description": "Kiểm tra dịch niệu đạo để phát hiện các bệnh lây truyền qua đường tình dục như lậu, chlamydia"
+      },
+      {
+        "name": "Xét nghiệm PCR",
+        "description": "Phát hiện các bệnh lây truyền qua đường tình dục"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu và nuôi cấy",
+        "description": "Thực hiện khi không thấy nhiễm khuẩn trong niệu đạo để tìm nguyên nhân khác"
+      },
+      {
+        "name": "Siêu âm doppler tinh hoàn và mào tinh hoàn",
+        "description": "Kiểm tra tình trạng sưng viêm và dòng máu ở mào tinh hoàn"
+      },
+      {
+        "name": "Tổng phân tích máu và đo tốc độ máu lắng",
+        "description": "Xác định mức độ viêm nhiễm trong cơ thể"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều kiện tiên quyết trong điều trị viêm mào tinh hoàn là để mào tinh hoàn nghỉ ngơi, giảm các cọ xát và kết hợp với thuốc điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi tại giường",
+        "description": "Người bệnh cần nghỉ ngơi tại giường, để bìu ở vị trí cao bằng cách sử dụng quần lót hỗ trợ, giảm tối đa các sự cọ xát"
+      },
+      {
+        "name": "Sử dụng thuốc",
+        "description": "Sử dụng thuốc giảm đau chống viêm, kháng sinh phổ rộng theo liều lượng chỉ định của bác sĩ. Trường hợp nghi ngờ nhiễm trùng huyết có thể được tiêm kháng sinh nhóm aminoglycosid"
+      },
+      {
+        "name": "Thủ thuật can thiệp",
+        "description": "Giải phẫu để dẫn lưu cho trường hợp áp xe và tràn mủ ở màng tinh hoàn"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ mào tinh hoàn",
+        "description": "Xem xét cho những ca bệnh mạn tính, không đáp ứng với các phương pháp điều trị khác"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ chỉ định của bác sĩ về liều lượng thuốc",
+      "Nâng đỡ bìu để giảm áp lực",
+      "Chườm lạnh để giảm đau và sưng",
+      "Hạn chế hoạt động nặng và vận động mạnh"
+    ],
+    "prevention_of_transmission": [
+      "Tránh quan hệ tình dục trong thời gian điều trị",
+      "Sử dụng bao cao su khi quan hệ tình dục sau khi bệnh thuyên giảm",
+      "Thông báo cho đối tác tình dục nếu nguyên nhân là từ các bệnh lây truyền qua đường tình dục"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Không có vaccine đặc hiệu cho viêm mào tinh hoàn, nhưng có thể tiêm phòng các bệnh có thể dẫn đến viêm mào tinh hoàn",
+      "recommended_for": [
+        "Tiêm phòng các bệnh STDs",
+        "Tiêm phòng quai bị",
+        "Tiêm phòng lao"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Sử dụng bao cao su trong quan hệ tình dục",
+      "Duy trì ý thức và thực hiện tốt về tình dục an toàn",
+      "Cắt bao quy đầu trong độ tuổi phù hợp và quy định",
+      "Giữ vệ sinh cho môi trường xung quanh, đặc biệt là khu vực nhà tắm, phòng vệ sinh",
+      "Khám sức khỏe định kỳ để phát hiện sớm các vấn đề tiết niệu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm mào tinh hoàn có lây không?",
+      "answer": "Viêm mào tinh hoàn chủ yếu là do sự truyền nhiễm từ vi khuẩn gây bệnh. Dù bệnh viêm mào tinh hoàn không được xếp vào bệnh lây truyền qua đường tình dục, nhưng bệnh vẫn có thể lây truyền nếu quan hệ không sử dụng biện pháp an toàn. Đặc biệt, những người bị viêm mào tinh hoàn do hậu quả của bệnh truyền qua đường tình dục càng có khả năng truyền nhiễm bệnh sang cho người khác cao hơn."
+    },
+    {
+      "question": "Viêm mào tinh hoàn ảnh hưởng đến khả năng sinh sản không?",
+      "answer": "Nếu người bệnh viêm mào tinh hoàn không được điều trị sớm, ít nhất trong thời gian 6 tuần giai đoạn cấp tính, bệnh sẽ phát triển thành nhiều biến chứng nguy hiểm, ảnh hưởng nghiêm trọng đến chất lượng cuộc sống và sức khỏe của người bệnh. Đặc biệt là khả năng sinh sản cũng sẽ chịu tác động xấu, nguy cơ cao dẫn đến vô sinh."
+    },
+    {
+      "question": "Khi nào cần đi khám nếu nghi ngờ bị viêm mào tinh hoàn?",
+      "answer": "Viêm mào tinh hoàn dù cấp tính hay mạn tính cũng cần đến gặp bác sĩ ngay khi vừa phát hiện triệu chứng của bệnh hoặc nghi ngờ bệnh. Bệnh viêm mào tinh hoàn không có khả năng tự khỏi mà không cần điều trị. Nguy hiểm hơn, viêm mào tinh hoàn cấp tính nếu kéo dài 6 tuần sẽ trở thành mạn tính và gây ra nhiều biến chứng nghiêm trọng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như mào tinh hoàn bị viêm sưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mào tinh hoàn",
+        "Viêm tinh hoàn",
+        "Xoắn tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau dữ dội ở vị trí tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mào tinh hoàn",
+        "Viêm tinh hoàn",
+        "Xoắn tinh hoàn",
+        "Chấn thương tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sưng tấy bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mào tinh hoàn",
+        "Viêm tinh hoàn",
+        "Thoát vị bẹn",
+        "Giãn tĩnh mạch thừng tinh"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như bệnh lây truyền qua đường tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mào tinh hoàn",
+        "Lậu",
+        "Chlamydia",
+        "Giang mai"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bìu, cơn đau quặn có thể lan đến vùng bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mào tinh hoàn",
+        "Viêm tinh hoàn",
+        "Sỏi niệu quản",
+        "Xoắn tinh hoàn"
+      ]
     }
   ]
 }

@@ -1,39 +1,151 @@
 {
   "disease_id": "ung-thu-buong-trung-giai-doan-4",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư buồng trứng giai đoạn 4",
+  "disease_alternative_names": [
+    "Ung thư buồng trứng giai đoạn IV",
+    "Ung thư buồng trứng giai đoạn cuối",
+    "Stage 4 Ovarian Cancer"
+  ],
+  "disease_definition": "Ung thư buồng trứng giai đoạn IV (giai đoạn cuối) là hiện tượng các tế bào ung thư khởi phát từ buồng trứng hay vòi tử cung hoặc phúc mạc đã di căn đến các cơ quan xa nằm ngoài khoang phúc mạc của cơ thể (như gan, phổi, xương). Bệnh được chia thành giai đoạn IVA (tế bào ung thư được phát hiện trong dịch màng phổi) và giai đoạn IVB (tế bào ung thư đã di căn tới các hạch bạch huyết bên ngoài ổ bụng hoặc các tạng khác).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài, suy nhược cơ thể"
+    },
+    {
+      "name": "Ăn uống kém",
+      "description": "Chán ăn, giảm cảm giác thèm ăn"
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân nhanh chóng không do chế độ ăn uống"
+    },
+    {
+      "name": "Da xanh xao",
+      "description": "Da nhợt nhạt, thiếu sức sống"
+    },
+    {
+      "name": "Cổ trướng",
+      "description": "Tích tụ dịch trong ổ bụng gây căng phồng bụng"
+    },
+    {
+      "name": "Đau vùng bụng dưới",
+      "description": "Các cơn đau thắt vùng bụng dưới, khung chậu thường xuyên và ngày càng dữ dội"
+    },
+    {
+      "name": "Tức ngực và khó thở",
+      "description": "Xuất hiện các cơn tức ngực, khó thở do tế bào ung thư di căn đến màng phổi"
+    },
+    {
+      "name": "Triệu chứng thần kinh",
+      "description": "Đau đầu, buồn nôn, động kinh, yếu liệt do ung thư di căn"
+    },
+    {
+      "name": "Đau nhức xương khớp",
+      "description": "Đau nhức tại vị trí xương khớp do ung thư di căn đến xương"
+    },
+    {
+      "name": "Tắc ruột",
+      "description": "Đau bụng, buồn nôn, bí trung đại tiện do khối u chèn ép đường ruột"
+    },
+    {
+      "name": "Huyết khối tĩnh mạch",
+      "description": "Tình trạng tăng đông gây ra huyết khối ở tĩnh mạch chi"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư buồng trứng là nhóm bệnh lý ác tính với các tế bào u bắt nguồn từ buồng trứng, vòi tử cung hoặc từ phúc mạc phát triển thành. Nguyên nhân chính xác gây ra ung thư buồng trứng vẫn chưa được xác định rõ ràng.",
+    "related_factors": "Các tế bào ung thư buồng trứng có thể phát triển từ các tế bào biểu mô của buồng trứng, vòi tử cung hoặc phúc mạc, sau đó phát triển và di căn đến các cơ quan khác trong cơ thể.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố di truyền: tiền sử gia đình có người thân mắc ung thư buồng trứng, ung thư vú hay ung thư đại-trực tràng",
+    "Người mang đột biến gen BRCA1/BRCA2",
+    "Người mắc hội chứng Lynch",
+    "Tuổi cao",
+    "Thừa cân béo phì",
+    "Điều trị các triệu chứng mãn kinh bằng hormone thay thế",
+    "Sinh con muộn (sau 35 tuổi) hoặc không sinh nở"
+  ],
+  "complications": [
+    "Di căn lan rộng đến các cơ quan xa như gan, phổi, xương",
+    "Tràn dịch màng phổi ác tính",
+    "Cổ trướng (tràn dịch ổ bụng)",
+    "Tắc ruột do khối u chèn ép",
+    "Tổn thương thần kinh do di căn não",
+    "Huyết khối tĩnh mạch",
+    "Suy kiệt cơ thể nghiêm trọng do bệnh tiến triển"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để đánh giá các triệu chứng",
+      "Phân giai đoạn theo hệ thống TNM (AJCC)",
+      "Phân giai đoạn theo FIGO (Liên đoàn Sản Phụ khoa Quốc tế)",
+      "Đánh giá mức độ di căn đến các cơ quan xa"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang ngực",
+        "description": "Phát hiện tổn thương di căn phổi hoặc tràn dịch màng phổi"
+      },
+      {
+        "name": "Chụp CT scan ổ bụng và ngực",
+        "description": "Đánh giá kích thước khối u, mức độ di căn và xâm lấn"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Cung cấp hình ảnh chi tiết về khối u và các tổn thương di căn"
+      },
+      {
+        "name": "Xét nghiệm máu marker CA-125",
+        "description": "Đánh giá mức độ của dấu ấn sinh học CA-125 trong máu"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu tế bào hoặc mô để xác định bản chất ác tính của tổn thương"
+      },
+      {
+        "name": "Chọc dịch màng phổi/màng bụng",
+        "description": "Lấy dịch để xác định sự hiện diện của tế bào ung thư"
+      },
+      {
+        "name": "PET/CT scan",
+        "description": "Đánh giá toàn thân để phát hiện các ổ di căn xa"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục đích điều trị cho những bệnh nhân ung thư buồng trứng giai đoạn IV là giảm nhẹ các triệu chứng của bệnh và kéo dài thời gian sống còn, không phải chữa khỏi hoàn toàn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật giảm tổng khối bướu (debulking)",
+        "description": "Phẫu thuật cắt tử cung toàn bộ và 2 phần phụ, cắt mạc nối lớn, nạo vét hạch và lấy tối đa nhân di căn phúc mạc nhằm giảm kích thước khối u"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng các thuốc như carboplatin kết hợp với paclitaxel hoặc docetaxel để tiêu diệt tế bào ung thư, thường được dùng sau phẫu thuật hoặc trước phẫu thuật (tân bổ trợ)"
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Sử dụng thuốc kháng sinh mạch VEGF (như bevacizumab) hoặc thuốc ức chế PARP (olaparib) nhằm tấn công trực tiếp vào các con đường phân tử đặc trưng của tế bào ung thư"
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Sử dụng các thuốc ức chế chốt kiểm soát miễn dịch như Pembrolizumab để kích hoạt hệ miễn dịch tấn công tế bào ung thư"
+      },
+      {
+        "name": "Chăm sóc giảm nhẹ",
+        "description": "Các can thiệp như mở hậu môn nhân tạo khi tắc ruột, chọc hút dịch cổ trướng, truyền máu, chọc hút dịch màng phổi, giảm đau, nâng cao dinh dưỡng nhằm cải thiện chất lượng sống"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Động viên, quan tâm, hỏi han ân cần, chăm sóc đời sống cũng như tinh thần người bệnh",
+      "Giúp người bệnh cân bằng được cảm xúc, tránh hoang mang, lo lắng quá độ, tuyệt vọng về tình trạng bệnh",
+      "Dùng thuốc chống nôn hoặc giảm đau để làm dịu các cơn đau theo chỉ định của bác sĩ",
+      "Vận động nhẹ nhàng, thư giãn như đi bộ, tập dưỡng sinh",
+      "Xây dựng thực đơn đa dạng nhằm kích thích người bệnh ăn ngon miệng",
+      "Tuân thủ phác đồ điều trị của bác sĩ, tuyệt đối không tự ý ngưng thuốc, uống sai liều đã được chỉ định"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +153,68 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thăm khám phụ khoa định kỳ để phát hiện sớm các bất thường",
+      "Xét nghiệm gen BRCA1/BRCA2 nếu có tiền sử gia đình mắc ung thư buồng trứng",
+      "Duy trì cân nặng hợp lý, tránh béo phì",
+      "Sử dụng thuốc ngừa thai có thể giúp giảm nguy cơ ung thư buồng trứng",
+      "Cân nhắc phẫu thuật cắt buồng trứng và vòi tử cung dự phòng nếu có nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư buồng trứng giai đoạn 4 sống được bao lâu?",
+      "answer": "Dựa theo cơ sở dữ liệu SEER 22 (thống kê từ năm 2013 đến 2019), tỷ lệ sống còn sau 5 năm đối với bệnh nhân ung thư buồng trứng giai đoạn IV là khoảng 31%. Tuy nhiên, tỷ lệ này chỉ mang tính chất dự đoán, kết quả điều trị thực tế còn phụ thuộc vào nhiều yếu tố khác như thể giải phẫu bệnh, tình trạng sức khỏe chung của người bệnh, mức độ đáp ứng điều trị."
+    },
+    {
+      "question": "Ung thư buồng trứng giai đoạn 4 có chữa khỏi được không?",
+      "answer": "Ở giai đoạn IV, việc loại bỏ hoàn toàn tế bào ung thư buồng trứng là điều không thể, bởi lúc này tế bào ung thư đã di căn đến các cơ quan xa như gan, phổi, não. Mục đích điều trị chủ yếu là giảm nhẹ các triệu chứng của bệnh và kéo dài thời gian sống còn, không phải chữa khỏi hoàn toàn."
+    },
+    {
+      "question": "Ung thư buồng trứng giai đoạn 4 có những biểu hiện nào?",
+      "answer": "Các biểu hiện chính bao gồm: mệt mỏi, ăn uống kém, sụt cân, da xanh xao, cổ trướng, đau vùng bụng dưới, khó thở và tức ngực (do tràn dịch màng phổi), các triệu chứng thần kinh (đau đầu, buồn nôn, động kinh, yếu liệt), đau nhức xương khớp, tắc ruột (đau bụng, buồn nôn, bí trung đại tiện), và huyết khối tĩnh mạch."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dưới, sụt cân nhanh chóng và mệt mỏi kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng giai đoạn 4",
+        "Ung thư đại tràng",
+        "Viêm ruột mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chướng bụng, khó thở và đau nhức xương khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng giai đoạn 4",
+        "Xơ gan cổ trướng",
+        "Ung thư di căn xương"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng dữ dội, buồn nôn và táo bón kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng giai đoạn 4",
+        "Tắc ruột",
+        "Hội chứng ruột kích thích"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sụt cân, da xanh xao và cổ trướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng giai đoạn 4",
+        "Xơ gan",
+        "Suy tim"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn và có dịch tràn ở bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng giai đoạn 4",
+        "Xơ gan cổ trướng",
+        "Suy tim"
+      ]
     }
   ]
 }

@@ -1,58 +1,182 @@
 {
   "disease_id": "xep-dot-song",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xẹp đốt sống",
+  "disease_alternative_names": [
+    "Lún đốt sống",
+    "Gãy lún đốt sống",
+    "Vertebral compression fracture"
+  ],
+  "disease_definition": "Xẹp đốt sống hay lún đốt sống là tình trạng thân đốt sống không giữ được chiều cao vốn có, gây tổn thương vùng cột sống và những cơn đau dữ dội cho người bệnh. Lún xẹp đốt sống có liên quan đến yếu tố tuổi tác và ảnh hưởng nghiêm trọng đến sức khỏe. Bệnh có thể làm tăng nguy cơ gãy đốt sống, ảnh hưởng đến khả năng vận động và thậm chí là tuổi thọ của người bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau lưng đột ngột",
+      "description": "Xuất hiện đột ngột tình trạng đau lưng, thường là triệu chứng đầu tiên"
+    },
+    {
+      "name": "Đau tăng khi vận động",
+      "description": "Độ đau tăng lên khi đứng hoặc đi bộ, gây khó khăn trong sinh hoạt"
+    },
+    {
+      "name": "Đau giảm khi nghỉ ngơi",
+      "description": "Cường độ đau giảm khi nằm nghỉ, giúp người bệnh dễ chịu hơn"
+    },
+    {
+      "name": "Hạn chế khả năng di động",
+      "description": "Khả năng di động cột sống bị hạn chế, khó cúi hoặc xoay người"
+    },
+    {
+      "name": "Giảm chiều cao",
+      "description": "Người bệnh có thể giảm chiều cao do đốt sống bị lún xẹp"
+    },
+    {
+      "name": "Gù lưng",
+      "description": "Biến dạng cột sống gây tư thế khom lưng được gọi là gù cột sống (Chứng kyphosis)"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Có rất nhiều nguyên nhân gây xẹp đốt sống, nhưng điển hình nhất là do loãng xương, chấn thương cột sống và một số bệnh lý khác.",
+    "related_factors": "Loãng xương là nguyên nhân hàng đầu gây ra tình trạng xẹp đốt sống, đặc biệt ở người cao tuổi. Chấn thương do tai nạn, té ngã cũng là nguyên nhân phổ biến. Ngoài ra, một số bệnh lý như ung thư xương, ung thư di căn, viêm xương biến dạng Paget, viêm tủy xương cũng có thể gây xẹp đốt sống.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi cao: Nguy cơ tăng theo tuổi tác, đặc biệt ở người trên 50 tuổi",
+    "Giới tính: Phụ nữ có nguy cơ cao hơn nam giới, đặc biệt sau mãn kinh",
+    "Loãng xương: Làm xương trở nên xốp, mềm và dễ gãy",
+    "Chủng tộc: Phụ nữ da trắng và châu Á có nguy cơ mắc bệnh cao hơn",
+    "Cân nặng thấp: Người còi xương, suy dinh dưỡng dễ bị xẹp đốt sống",
+    "Mãn kinh sớm: Phụ nữ mãn kinh trước 50 tuổi có nguy cơ cao hơn",
+    "Hút thuốc lá: Làm mất độ dày của xương, khiến xương yếu đi",
+    "Tiền sử gãy lún đốt sống: Người đã từng bị xẹp lún đốt sống do loãng xương có nguy cơ bị lần hai cao hơn 5 lần"
+  ],
+  "complications": [
+    "Ảnh hưởng đến độ cân bằng của cột sống, thúc đẩy nguy cơ thoái hóa",
+    "Biến dạng cột sống, gù lưng, vẹo cột sống",
+    "Giảm chiều cao vĩnh viễn",
+    "Chèn ép các cơ quan nội tạng",
+    "Tổn thương dây thần kinh, gây tê, đau nhức và tàn phế",
+    "Thoát vị đĩa đệm",
+    "Thoái hóa cột sống",
+    "Loét tì đè (do nằm lâu)",
+    "Viêm phổi ứ đọng (do bất động)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng dựa trên triệu chứng",
+      "Đánh giá mức độ đau và khả năng vận động",
+      "Kiểm tra tiền sử bệnh và các yếu tố nguy cơ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Đo mật độ xương (DEXA)",
+        "description": "Đây là tiêu chuẩn vàng để chẩn đoán bệnh loãng xương. Loãng xương được chẩn đoán khi mật độ khoáng xương ≤ -2,5 độ lệch chuẩn (T-Score)."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Kết quả chụp X-quang sẽ cho thấy hình ảnh thân đốt sống bị giảm chiều cao. Phương pháp này còn giúp đánh giá mức độ thoái hóa cột sống, mức độ biến dạng cột sống và cung cấp thông tin để tiến lên kế hoạch phẫu thuật, nếu cần."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT Scan)",
+        "description": "Chỉ định này được đưa ra khi cần đánh giá hình ảnh đốt sống chi tiết như mức độ lún, xẹp, mảnh rời, nguy cơ rò rỉ cement vào ống sống."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Đây là một biện pháp chẩn đoán tiêu chuẩn vàng, cung cấp thông tin về sinh học xương. Qua kết quả MRI, có thể phát hiện tình trạng gãy xương cấp tính, bán cấp, không lành và cũ hay đã lành, cũng như phát hiện sự xâm nhập ác tính."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Để điều trị xẹp đốt sống, yếu tố trước tiên là cần được chẩn đoán chính xác. Tùy theo mức độ xẹp lún, tình trạng sức khỏe và hoàn cảnh cá nhân, bác sĩ sẽ đưa ra phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bảo tồn",
+        "description": "Bao gồm nghỉ bất động tại giường, dùng thuốc giảm đau, chống viêm không steroid, thuốc giãn cơ, thuốc chống loãng xương, thuốc ức chế hủy cốt bào và dùng nẹp cố định. Tuy nhiên, phương pháp này cũng có thể làm cho xẹp đốt sống trở nên nặng hơn do làm mất xương tiến triển, gây yếu cơ."
+      },
+      {
+        "name": "Can thiệp tối thiểu",
+        "description": "Bơm xi măng cột sống qua cuống hoặc đường ngoài cuống có bóng (Kyphoplasty) hoặc không bóng (Vertebroplasty). Xi măng sinh học dạng lỏng sẽ tràn vào các bè xương xốp, sau đó cứng lại, đảm bảo độ vững chắc cho đốt sống."
+      },
+      {
+        "name": "Phẫu thuật mở",
+        "description": "Sử dụng hệ thống cố định bằng nẹp vít cột sống (Vít chân cung thông thường, Vít rỗng nòng, Vít nở có lỗ bơm cement, Hệ thống móc, Lồng titanium, Vít xương cứng). Được chỉ định điều trị các trường hợp xẹp đốt sống nặng gây biến dạng cột sống lớn, có thể kết hợp với giải chèn ép thần kinh khi có tổn thương thần kinh kèm theo."
+      },
+      {
+        "name": "Điều trị sau phẫu thuật",
+        "description": "Điều trị loãng xương bằng thuốc ức chế tiêu xương, điều trị loãng xương nhóm Biphosphonate; điều trị thông qua các biện pháp về dinh dưỡng; phối hợp các bài tập vật trị liệu, phục hồi chức năng, vận động phù hợp."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chỉ định điều trị của bác sĩ",
+      "Duy trì chế độ dinh dưỡng cân đối, giàu canxi và vitamin D",
+      "Tập luyện vật lý trị liệu theo hướng dẫn của chuyên gia",
+      "Hạn chế các hoạt động có thể gây tổn thương cột sống",
+      "Theo dõi và tái khám định kỳ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa xẹp đốt sống",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Xây dựng chế độ dinh dưỡng phù hợp, bổ sung các khoáng chất giàu vitamin D, canxi và các vitamin khác",
+      "Ăn uống cân đối và đầy đủ các chất dinh dưỡng",
+      "Thường xuyên khám sức khỏe định kỳ để phát hiện loãng xương hoặc các bệnh lý cột sống khác và điều trị kịp thời",
+      "Thay đổi lối sống bằng cách hạn chế rượu, bia, thuốc lá và tránh các chất kích thích",
+      "Thường xuyên luyện tập thể dục nâng cao sức khỏe bằng các môn phù hợp với thể chất",
+      "Chú ý trong các hoạt động sinh hoạt hàng ngày, điều khiển phương tiện giao thông hay làm việc để tránh bị chấn thương, té ngã"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xẹp đốt sống có nguy hiểm không?",
+      "answer": "Xẹp đốt sống rất nguy hiểm nếu không được chẩn đoán và điều trị đúng phác đồ. Bệnh có thể gây ra tình trạng ảnh hưởng đến độ cân bằng của cột sống, thúc đẩy nguy cơ thoái hóa, biến dạng cột sống làm mất chiều cao, gù lưng, vẹo cột sống. Về lâu dài, đốt sống bị xẹp làm chèn ép các cơ quan nội tạng và có thể dẫn đến biến chứng tổn thương dây thần kinh, gây tê, đau nhức và tàn phế."
+    },
+    {
+      "question": "Xẹp đốt sống có chữa được không?",
+      "answer": "Cùng với sự tiến bộ của y học hiện đại và các trang thiết bị tối tân, hiện nay xẹp đốt sống có thể được chữa khỏi bằng nhiều phương pháp. Tuy nhiên, các chuyên gia cơ xương khớp khuyến cáo rằng, khi phát hiện các triệu chứng bất thường của đốt sống, người bệnh nên đến các cơ sở y tế chuyên khoa, uy tín càng sớm càng tốt để đảm bảo hiệu quả điều trị, tiết kiệm chi phí và tránh gặp biến chứng nguy hiểm."
+    },
+    {
+      "question": "Ai là người có nguy cơ bị xẹp đốt sống cao nhất?",
+      "answer": "Người có nguy cơ bị xẹp đốt sống cao nhất là phụ nữ sau mãn kinh do loãng xương. Theo Tổ chức Loãng xương Quốc tế (IOF), ở độ tuổi 65, 1% phụ nữ và 0,5% nam giới sẽ bị chèn ép đốt sống cấp tính. Phụ nữ da trắng và châu Á, người có cân nặng thấp, mãn kinh sớm và người hút thuốc lá cũng có nguy cơ cao hơn. Những người đã từng bị xẹp lún đốt sống do loãng xương có nguy cơ bị gãy lún lần hai cao hơn so với người khác đến 5 lần."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau lưng và giảm chiều cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xẹp đốt sống", "Loãng xương", "Thoái hóa cột sống"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng, tăng lên khi đứng hoặc đi bộ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Xẹp đốt sống",
+        "Thoát vị đĩa đệm",
+        "Viêm cột sống dính khớp"
+      ]
+    },
+    {
+      "question": "Tôi bị loãng xương và hiện đang bị đau lưng, giảm chiều cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Xẹp đốt sống",
+        "Gãy lún đốt sống do loãng xương",
+        "Gù cột sống (Kyphosis)"
+      ]
+    },
+    {
+      "question": "Tôi bị đau lưng và khả năng di động cột sống bị hạn chế. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Xẹp đốt sống",
+        "Thoái hóa cột sống",
+        "Viêm cột sống"
+      ]
+    },
+    {
+      "question": "Tôi bị đau lưng và gù lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Xẹp đốt sống",
+        "Loãng xương",
+        "Gù cột sống (Kyphosis)"
+      ]
     }
   ]
 }

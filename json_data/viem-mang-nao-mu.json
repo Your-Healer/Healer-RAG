@@ -1,58 +1,204 @@
 {
   "disease_id": "viem-mang-nao-mu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm màng não mủ",
+  "disease_alternative_names": [
+    "Viêm màng não do vi khuẩn",
+    "Viêm màng não nhiễm khuẩn"
+  ],
+  "disease_definition": "Viêm màng não mủ là tình trạng viêm của màng não khi có sự xâm lấn và tăng sinh của các yếu tố gây bệnh trong dịch não tủy. Đây là một trong những bệnh thường gặp ở trẻ dưới 5 tuổi với tỷ lệ tử vong cao. Nếu may mắn sống sót, trẻ có thể chịu những di chứng nặng nề về thần kinh và vận động.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt cao đột ngột",
+      "description": "Trẻ thường sốt cao đột ngột, có thể lên đến 40-41 độ C"
+    },
+    {
+      "name": "Li bì, mệt mỏi",
+      "description": "Trẻ tỏ ra li bì, mệt mỏi, không muốn tiếp xúc hoặc chơi đùa"
+    },
+    {
+      "name": "Bỏ ăn, quấy khóc",
+      "description": "Trẻ bỏ ăn, quấy khóc và dễ cáu gắt"
+    },
+    {
+      "name": "Cứng cổ",
+      "description": "Đặc biệt ở trẻ trên 18 tháng tuổi, có biểu hiện cứng cổ, khó di chuyển cổ"
+    },
+    {
+      "name": "Nôn và buồn nôn",
+      "description": "Trẻ thường xuyên nôn hoặc buồn nôn không liên quan đến ăn uống"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau đầu dữ dội, trẻ lớn có thể mô tả, trẻ nhỏ thể hiện qua quấy khóc"
+    },
+    {
+      "name": "Sợ ánh sáng",
+      "description": "Trẻ tỏ ra khó chịu khi có ánh sáng chiếu vào, thường nằm ở tư thế cò súng"
+    },
+    {
+      "name": "Co giật",
+      "description": "Trẻ có thể xuất hiện các cơn co giật"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm màng não mủ gây ra bởi nhiều loại vi khuẩn, phổ biến nhất là Haemophilus influenzae type B (Hib), phế cầu (Streptococcus pneumonia), và não mô cầu (Neisseria meningitidis).",
+    "related_factors": "Các yếu tố như suy giảm miễn dịch, nhiễm khuẩn huyết, và các bệnh lý nền có thể làm tăng nguy cơ mắc bệnh. Đối với trẻ sơ sinh, vi khuẩn gây bệnh phổ biến là Escherichia coli, Listeria monocytogenes, và B.streptococcus.",
+    "transmission_routes": [
+      "Lây truyền qua đường hô hấp từ dịch mũi họng của người bệnh",
+      "Vi khuẩn có thể xâm nhập từ tai, mũi, họng, phổi vào não theo đường máu",
+      "Từ các ổ nhiễm khuẩn cạnh màng não",
+      "Trực tiếp qua chấn thương sọ não hoặc nứt sọ não"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em dưới 5 tuổi, đặc biệt là trẻ sơ sinh và trẻ nhỏ",
+    "Người có bệnh lý nền liên quan đến tổn thương não",
+    "Người bị viêm tai, viêm xoang",
+    "Người bị suy giảm miễn dịch",
+    "Trẻ sinh non, nhiễm khuẩn ối và ngạt sau đẻ",
+    "Tiếp xúc gần với người mang vi khuẩn gây bệnh"
+  ],
+  "complications": [
+    "Tổn thương thần kinh vĩnh viễn",
+    "Liệt tay chân",
+    "Tổn thương não",
+    "Tràn dịch dưới màng cứng",
+    "Mất thính lực",
+    "Câm",
+    "Não úng thủy",
+    "Lác mắt",
+    "Sa sút trí tuệ",
+    "Động kinh",
+    "Tử vong (15-20% với viêm màng não do Hib)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá biểu hiện lâm sàng",
+      "Xét nghiệm dịch não tủy",
+      "Xét nghiệm công thức máu",
+      "Siêu âm qua thóp",
+      "Chụp CT sọ não"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm dịch não tủy",
+        "description": "Xét nghiệm quan trọng mang tính chất quyết định để chẩn đoán viêm màng não mủ. Dịch não tủy có màu lờ đục hoặc màu trong như nước vo gạo là dấu hiệu cần điều trị ngay."
+      },
+      {
+        "name": "Công thức máu",
+        "description": "Bạch cầu tăng cao, tỷ lệ bạch cầu đa nhân trung tính chiếm ưu thế. Ở trẻ sơ sinh và trẻ nhỏ có thể thấy giảm nồng độ huyết sắc tố."
+      },
+      {
+        "name": "Cấy máu và dịch tỵ hầu",
+        "description": "Giúp xác định chính xác vi khuẩn gây bệnh, từ đó có hướng điều trị kháng sinh phù hợp."
+      },
+      {
+        "name": "Siêu âm qua thóp và chụp CT sọ não",
+        "description": "Giúp xác định các biến chứng có thể gặp như tràn dịch não, não úng thủy."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm màng não mủ là bệnh vô cùng nguy hiểm cần được chẩn đoán nhanh chóng và điều trị kịp thời để tránh các di chứng nặng nề.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị kháng sinh",
+        "description": "Liệu pháp sử dụng kháng sinh cần phải được chỉ định đúng và càng sớm càng tốt, không nên chờ đợi kết quả xét nghiệm nếu có nghi ngờ cao về viêm màng não mủ."
+      },
+      {
+        "name": "Điều trị hỗ trợ hô hấp",
+        "description": "Trong trường hợp suy hô hấp, bệnh nhân cần được thở oxy hoặc hỗ trợ hô hấp, có thể thở máy nếu có chỉ định."
+      },
+      {
+        "name": "Hỗ trợ dinh dưỡng",
+        "description": "Trong trường hợp bệnh nhân không ăn được cần truyền dinh dưỡng qua đường tĩnh mạch hoặc cho ăn qua sonde."
+      },
+      {
+        "name": "Điều trị tích cực",
+        "description": "Bệnh nhân hôn mê hoặc có dấu hiệu nhiễm khuẩn nặng cần được điều trị và chăm sóc tại phòng cấp cứu hoặc phòng điều trị tích cực."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Đưa trẻ đến cơ sở y tế ngay khi có dấu hiệu nghi ngờ",
+      "Không tự ý điều trị tại nhà khi chưa rõ bệnh lý",
+      "Tuân thủ điều trị kháng sinh đầy đủ theo chỉ định của bác sĩ",
+      "Theo dõi chặt chẽ tình trạng tiến triển của bệnh"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly bệnh nhân theo quy định",
+      "Khử khuẩn môi trường cũng như các dụng cụ sinh hoạt",
+      "Sử dụng kháng sinh dự phòng cho người tiếp xúc gần theo chỉ định của bác sĩ"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng là biện pháp hiệu quả nhất để phòng bệnh viêm màng não mủ cũng như hạn chế những biến chứng mà bệnh có thể gây ra.",
+      "recommended_for": [
+        "Vaccine Hib: Tiêm cho trẻ từ 2 tháng tuổi",
+        "Vaccine não mô cầu: Theo lịch tiêm chủng khuyến cáo",
+        "Vaccine phế cầu: Theo lịch tiêm chủng khuyến cáo"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh cá nhân và môi trường sống xung quanh sạch sẽ",
+      "Tránh tiếp xúc với người bệnh",
+      "Dùng thuốc dự phòng theo chỉ định của bác sĩ cho người có tiếp xúc với nguồn lây",
+      "Đảm bảo dinh dưỡng để tăng cường sức đề kháng",
+      "Khám sức khỏe định kỳ để phát hiện sớm các bệnh lý"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm màng não mủ có nguy hiểm không?",
+      "answer": "Viêm màng não mủ là bệnh rất nguy hiểm, đặc biệt là ở trẻ em. Tỷ lệ tử vong có thể lên đến 15-20% với viêm màng não do Hib, cao hơn ở trẻ dưới 2 tháng tuổi và người suy giảm miễn dịch. Khoảng 30-65% trường hợp có thể để lại di chứng thần kinh ở các mức độ khác nhau, từ nhẹ đến nặng."
+    },
+    {
+      "question": "Làm thế nào để nhận biết viêm màng não mủ ở trẻ?",
+      "answer": "Triệu chứng của viêm màng não mủ ở trẻ bao gồm: sốt cao đột ngột, li bì, mệt mỏi, bỏ ăn, quấy khóc. Trẻ trên 18 tháng tuổi có thể có dấu hiệu cứng cổ. Trẻ cũng có thể có biểu hiện nôn mửa, đau đầu, sợ ánh sáng, co giật. Với trẻ sơ sinh, các triệu chứng thường kín đáo hơn như bỏ bú, nôn trớ, thở không đều, thóp phồng. Nếu thấy các dấu hiệu này, cần đưa trẻ đến cơ sở y tế ngay lập tức."
+    },
+    {
+      "question": "Cách phòng ngừa viêm màng não mủ?",
+      "answer": "Phương pháp phòng ngừa viêm màng não mủ hiệu quả nhất là tiêm vaccine đầy đủ theo lịch tiêm chủng, bao gồm vaccine Hib, não mô cầu và phế cầu. Ngoài ra, cần đảm bảo vệ sinh cá nhân và môi trường sống, tránh tiếp xúc với người bệnh. Người tiếp xúc gần với bệnh nhân viêm màng não mủ có thể được chỉ định dùng kháng sinh dự phòng theo hướng dẫn của bác sĩ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm của màng não khi có sự xâm lấn và tăng sinh của các yếu tố gây bệnh trong dịch não tủy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng não mủ",
+        "Viêm màng não do virus",
+        "Nhiễm trùng hệ thần kinh trung ương"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt cao đột ngột, li bì, mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng não mủ",
+        "Cúm",
+        "Sốt xuất huyết",
+        "Viêm phổi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị suy giảm miễn dịch, nhiễm khuẩn huyết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm màng não mủ", "Sốc nhiễm khuẩn", "HIV/AIDS"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như vi khuẩn Haemophilus influenzae type B (Hib). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng não mủ",
+        "Viêm họng",
+        "Viêm phổi",
+        "Viêm thanh quản cấp"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như cứng cổ, đau đầu và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng não mủ",
+        "Viêm màng não do virus",
+        "Xuất huyết não"
+      ]
     }
   ]
 }

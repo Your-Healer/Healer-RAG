@@ -1,39 +1,105 @@
 {
   "disease_id": "viem-bao-hoat-dich-co-tay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bao hoạt dịch cổ tay",
+  "disease_alternative_names": [
+    "Viêm màng hoạt dịch cổ tay",
+    "Viêm màng hoạt dịch khớp cổ tay"
+  ],
+  "disease_definition": "Viêm bao hoạt dịch cổ tay là tình trạng dịch tích tụ quá nhiều trong bao hoạt dịch của khớp cổ tay. Điều này khiến người bệnh bị viêm và sưng đau ở cổ tay. Khi bao hoạt dịch bị viêm, việc cử động phần cổ tay sẽ gặp nhiều khó khăn, gây ảnh hưởng xấu tới một số hoạt động sinh hoạt hàng ngày của người bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhức cổ tay",
+      "description": "Người bệnh cảm thấy đau, giống như có vật nặng đè lên khớp cổ tay. Cơn đau tăng nếu có lực tác động vào cổ tay."
+    },
+    {
+      "name": "Sưng tấy và xuất hiện u nhỏ",
+      "description": "Cổ tay xuất hiện những cục u nhỏ hay sưng tấy kèm theo tình trạng đỏ sẫm ngoài da."
+    },
+    {
+      "name": "Khớp cổ tay thiếu linh hoạt",
+      "description": "Khớp cổ tay thiếu linh hoạt, khó chuyển động. Khi thực hiện động tác xoay cổ tay, người bệnh cảm thấy đau đớn, khó chịu."
+    },
+    {
+      "name": "Sốt cao và các triệu chứng toàn thân",
+      "description": "Sốt cao kèm theo chóng mặt, choáng váng, buồn nôn. Tình trạng này có thể là dấu hiệu của viêm bao hoạt dịch liên quan tới nhiễm trùng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân viêm màng hoạt dịch cổ tay là do khớp này phải thường xuyên lặp đi lặp lại những chuyển động mạnh. Điều này khiến màng bao hoạt dịch chịu quá nhiều căng thẳng, áp lực trong thời gian dài, dẫn tới tình trạng viêm.",
+    "related_factors": "Viêm bao hoạt dịch cổ tay có thể xảy ra ở tất cả mọi người, đặc biệt phổ biến ở người trên 40 tuổi do nhóm tuổi này đã bước qua giai đoạn lão hóa và phần khớp cổ tay phải chịu tác động, căng thẳng trong thời gian lâu dài.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác: Khi lớn tuổi, phần sụn đệm cổ tay dần hao mòn, làm cho không gian trong khớp thu hẹp lại, tạo áp lực lớn lên bao hoạt dịch",
+    "Nhiễm trùng: Vi khuẩn, nấm, virus có thể tấn công vào phần bao hoạt dịch khớp cổ tay, dẫn tới viêm nhiễm",
+    "Các bệnh lý khác: Viêm khớp dạng thấp, gout, lupus ban đỏ, đái tháo đường",
+    "Hoạt động lặp đi lặp lại: Các công việc yêu cầu vận động cổ tay nhiều như viết, đánh máy, làm vườn, chơi nhạc cụ, nâng tạ, chơi bóng chuyền, bóng rổ"
+  ],
+  "complications": [
+    "Suy giảm khả năng vận động của khớp: Người bệnh thậm chí không thể cầm nắm hoặc nâng vác đồ vật lên do cảm giác đau dữ dội ở khu vực cổ tay",
+    "Nhiễm trùng bao hoạt dịch: Vi khuẩn khi xâm nhập vào bao hoạt dịch có khả năng sinh sôi, phát triển nhanh chóng, khiến chất dịch bên trong bị nhiễm trùng",
+    "Viêm nhiễm, hoại tử màng hoạt dịch: Phần màng hoạt dịch bên ngoài có thể bị viêm nhiễm, hoại tử với những triệu chứng tương tự viêm khớp nhiễm trùng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng dựa theo các triệu chứng nóng, sưng đỏ tại khớp cổ tay",
+      "Phân tích dịch khớp",
+      "Chụp X-quang",
+      "Chụp MRI",
+      "Siêu âm cổ tay"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thăm khám lâm sàng",
+        "description": "Bác sĩ kiểm tra các triệu chứng gồm nóng, sưng đỏ tại khớp cổ tay và đánh giá mức độ đau cũng như khả năng vận động của khớp."
+      },
+      {
+        "name": "Phân tích dịch khớp",
+        "description": "Bác sĩ tiến hành lấy lượng dịch quanh khớp viêm rồi mang đi xét nghiệm để xác định nguyên nhân gây bệnh (vi khuẩn, nấm, virus)."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Giúp chẩn đoán phân biệt những bệnh lý về xương khớp khác, đánh giá tình trạng tổn thương xương và khớp."
+      },
+      {
+        "name": "Chụp MRI hoặc siêu âm",
+        "description": "Giúp nhìn rõ hơn các tổn thương của mô mềm, tình trạng viêm của bao hoạt dịch và các cấu trúc xung quanh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy thuộc vào nguyên nhân, tình trạng viêm có thể tự khỏi trong vòng vài tuần, với các phương pháp điều trị tại nhà kết hợp điều chỉnh thói quen hàng ngày.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc chống viêm NSAID",
+        "description": "Các trường hợp viêm ở giai đoạn đầu với những triệu chứng cơ bản như sưng và đau thường được chỉ định dùng thuốc chống viêm không chứa steroid (NSAID) như ibuprofen và naproxen. Thuốc giúp ức chế quá trình gây viêm trong cơ thể."
+      },
+      {
+        "name": "Thuốc chống viêm corticosteroids",
+        "description": "Được sử dụng cho các trường hợp nghiêm trọng hơn. Thuốc được điều chế dưới nhiều dạng như kem bôi, thuốc tiêm, thuốc uống. Không áp dụng cho các trường hợp viêm bao hoạt dịch liên quan đến nhiễm trùng."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Người viêm màng hoạt dịch khớp cổ tay do vi khuẩn thường được chỉ định dùng thuốc kháng sinh. Thuốc tiêu diệt triệt để mầm mống gây bệnh, đồng thời hỗ trợ chữa lành các khu vực bị viêm nhiễm trong bao hoạt dịch."
+      },
+      {
+        "name": "Tiêm thuốc",
+        "description": "Khi bệnh tiến triển nặng, bác sĩ có thể chỉ định người bệnh tiêm thuốc corticosteroid trực tiếp ở vị trí bao hoạt dịch bị viêm."
+      },
+      {
+        "name": "Chọc hút dịch",
+        "description": "Khi các phương pháp điều trị nội khoa không hiệu quả, người bệnh có thể được chỉ định thực hiện kỹ thuật chọc hút dịch nhằm loại bỏ toàn bộ dịch khớp dư thừa, ngăn ngừa tình trạng thoái hóa và hư tổn sụn khớp."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thực hiện chườm nóng và chườm lạnh đúng cách",
+      "Dành thời gian cho cổ tay nghỉ ngơi sau khi thực hiện các bài tập và các hoạt động lặp đi lặp lại",
+      "Giảm thiểu các hành động gây căng thẳng lên cổ tay như viết, đánh máy, làm vườn, chơi nhạc cụ, nâng tạ",
+      "Sử dụng các thiết bị hỗ trợ như dụng cụ mở nắp, dụng cụ xoay chìa khóa, kéo khóa lớn",
+      "Đeo nẹp cổ tay hoặc găng tay để hỗ trợ cổ tay khi ngủ hoặc thực hiện các chuyển động lặp đi lặp lại",
+      "Bổ sung rau xanh, hoa quả, các loại hạt và đậu giàu chất chống viêm",
+      "Hạn chế thực phẩm giàu omega-6, gluten, thực phẩm nhiều đường, muối, dầu mỡ và đồ uống có cồn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +107,97 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tăng cường tập luyện cho vùng khớp cổ tay bằng những động tác đơn giản như xoay cổ tay, gập duỗi nhẹ nhàng",
+      "Không thực hiện lặp đi lặp lại những động tác yêu cầu dùng đến cổ tay trong thời gian dài",
+      "Dành thời gian nghỉ ngơi để thư giãn khớp cổ tay nếu công việc đòi hỏi vận động cổ tay nhiều",
+      "Duy trì lối sống khoa học, lành mạnh bằng cách kiểm soát tốt cân nặng, bổ sung đầy đủ dưỡng chất",
+      "Tránh những loại đồ uống chứa cồn, chất kích thích và thuốc lá",
+      "Khám bác sĩ sớm khi cổ tay xuất hiện tình trạng đau nhức dai dẳng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bao hoạt dịch cổ tay có nguy hiểm không?",
+      "answer": "Viêm bao hoạt dịch cổ tay không gây nguy hiểm đến tính mạng khi phát hiện sớm và có biện pháp can thiệp phù hợp. Tuy nhiên, nếu trì hoãn điều trị, người bệnh có thể đối mặt với một số biến chứng như suy giảm khả năng vận động của khớp, nhiễm trùng bao hoạt dịch, hoặc viêm nhiễm và hoại tử màng hoạt dịch."
+    },
+    {
+      "question": "Tình trạng viêm bao hoạt dịch cổ tay có tự khỏi không?",
+      "answer": "Tùy thuộc vào nguyên nhân, tình trạng viêm có thể tự khỏi trong vòng vài tuần, với các phương pháp điều trị tại nhà kết hợp điều chỉnh thói quen hàng ngày. Các biện pháp như chườm nóng/lạnh, nghỉ ngơi cổ tay, giảm thiểu các hành động gây căng thẳng lên cổ tay, sử dụng thiết bị hỗ trợ, và đeo nẹp cổ tay có thể giúp cải thiện tình trạng."
+    },
+    {
+      "question": "Người bị viêm bao hoạt dịch cổ tay nên ăn gì?",
+      "answer": "Người bệnh nên bổ sung vào thực đơn hàng ngày các thực phẩm như rau xanh (rau chân vịt, cải xoăn, cà rốt, bí đỏ), các loại hoa quả (táo, nho, việt quất, dâu tây, đu đủ, dứa), các loại hạt và đậu (đậu xanh, đậu đỏ, óc chó, hạnh nhân), nước ép trái cây tươi và trà xanh. Đồng thời, nên hạn chế thực phẩm giàu omega-6, gluten, thực phẩm nhiều đường, muối, dầu mỡ và đồ uống có cồn."
+    },
+    {
+      "question": "Viêm bao hoạt dịch cổ tay thường gặp ở đối tượng nào?",
+      "answer": "Viêm bao hoạt dịch khớp cổ tay có thể xảy ra ở tất cả mọi người, nhưng đặc biệt phổ biến ở người trên 40 tuổi. Do nhóm tuổi này đã bước qua giai đoạn lão hóa, phần khớp cổ tay phải chịu tác động, căng thẳng trong thời gian lâu dài. Người làm các công việc yêu cầu vận động cổ tay nhiều cũng có nguy cơ cao mắc bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức cổ tay, giống như có vật nặng đè lên khớp cổ tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-co-tay",
+        "viem-khop-co-tay",
+        "hoi-chung-ong-co-tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cơn đau tăng nếu có lực tác động vào cổ tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-co-tay",
+        "viem-gan-co-tay",
+        "gay-xuong-co-tay"
+      ]
+    },
+    {
+      "question": "Tôi hay bị cổ tay xuất hiện những cục u nhỏ hay sưng tấy kèm theo tình trạng đỏ sẫm ngoài da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-co-tay",
+        "u-bao-hoat-dich",
+        "viem-mo-mem"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khớp cổ tay thiếu linh hoạt, khó chuyển động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-co-tay",
+        "thoai-hoa-khop-co-tay",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy khi thực hiện động tác xoay cổ tay, đau đớn, khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-co-tay",
+        "viem-gan-co-tay",
+        "hoi-chung-de-quervain"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sốt cao kèm theo chóng mặt, choáng váng, buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-co-tay",
+        "nhiem-trung-huyet",
+        "viem-mang-nao"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm bao hoạt dịch liên quan tới nhiễm trùng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-co-tay",
+        "nhiem-trung-khop",
+        "viem-khop-nhiem-trung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm bao hoạt dịch cổ tay do khớp này phải thường xuyên lặp đi lặp lại những chuyển động mạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-co-tay",
+        "viem-gan-co-tay",
+        "hoi-chung-ong-co-tay"
+      ]
     }
   ]
 }

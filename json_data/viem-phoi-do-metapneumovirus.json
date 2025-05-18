@@ -1,58 +1,217 @@
 {
   "disease_id": "viem-phoi-do-metapneumovirus",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm phổi do Metapneumovirus",
+  "disease_alternative_names": [
+    "Human Metapneumovirus Pneumonia",
+    "hMPV Pneumonia"
+  ],
+  "disease_definition": "Viêm phổi do Metapneumovirus là tình trạng nhu mô phổi bị viêm nhiễm, bao gồm viêm phế nang, túi phế nang, ống phế nang, tổ chức liên kết khe kẽ và viêm tiểu phế quản tận cùng do sự xâm nhập và lây lan nhanh chóng của Metapneumovirus.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ho",
+      "description": "Triệu chứng ban đầu, có thể trở nên nặng hơn với ho có đờm đặc"
+    },
+    {
+      "name": "Chảy nước mũi",
+      "description": "Triệu chứng thường gặp ở giai đoạn đầu của bệnh"
+    },
+    {
+      "name": "Sốt",
+      "description": "Ban đầu có thể sốt nhẹ, sau đó sốt cao nếu bệnh tiến triển nặng"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Xuất hiện khi bệnh trở nên nghiêm trọng hơn"
+    },
+    {
+      "name": "Thở khò khè",
+      "description": "Âm thanh phát ra khi thở, là dấu hiệu của bệnh tiến triển"
+    },
+    {
+      "name": "Da, môi tím tái",
+      "description": "Biểu hiện của việc thiếu oxy, cần được điều trị khẩn cấp"
+    },
+    {
+      "name": "Suy hô hấp",
+      "description": "Tình trạng nghiêm trọng khi phổi không thể cung cấp đủ oxy cho cơ thể"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân gây nên tình trạng viêm phổi này là do sự xâm nhập của Metapneumovirus (Human Metapneumovirus- hMPV), một virus thuộc họ Paramyxovirus được phát hiện từ năm 2001 bởi các nhà khoa học ở Hà Lan.",
+    "related_factors": "Thời tiết thay đổi thất thường, độ ẩm trong không khí cao tạo điều kiện cho virus phát triển. Khi đồng nhiễm Metapneumovirus cùng các vi khuẩn, virus khác thì nguy cơ bệnh diễn tiến nặng, gây biến chứng sẽ tăng cao.",
+    "transmission_routes": [
+      "Tiếp xúc trực tiếp với các giọt bắn có chứa virus gây bệnh trong không khí được người bệnh giải phóng ra khỏi cơ thể khi giao tiếp, ho, hắt hơi",
+      "Tiếp xúc với các bề mặt có chứa virus gây bệnh như tay nắm cửa, đồ chơi, đồ dùng cá nhân"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em dưới 5 tuổi",
+    "Người lớn trên 65 tuổi",
+    "Những người có hệ thống miễn dịch yếu",
+    "\"Nợ miễn dịch\" sau thời gian giãn cách xã hội và giảm tiếp xúc trong đại dịch Covid-19",
+    "Sống hoặc làm việc trong môi trường tập thể (trường học, nhà trẻ)",
+    "Tiếp xúc gần với người bệnh"
+  ],
+  "complications": [
+    "Nhiễm trùng huyết: xảy ra khi vi khuẩn xâm nhập vào máu từ phổi, lan rộng ra đến các cơ quan khác, có thể gây suy nội tạng",
+    "Suy hô hấp: thường xảy ra khi bệnh nhân bị viêm phổi nặng, cần hỗ trợ thở máy",
+    "Tràn dịch màng phổi: chất lỏng tích tụ bên trong khoang màng phổi gây khó thở",
+    "Áp xe phổi: mủ hình thành trong một khoang của phổi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám lâm sàng", "Hỏi về tiền sử bệnh"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang phổi ngực",
+        "description": "Giúp phát hiện các tổn thương trên phổi"
+      },
+      {
+        "name": "Nuôi cấy đờm",
+        "description": "Xác định loại vi khuẩn gây bệnh (nếu có đồng nhiễm)"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra các chỉ số nhiễm trùng trong máu"
+      },
+      {
+        "name": "Nội soi phế quản",
+        "description": "Kiểm tra trực tiếp đường thở và lấy mẫu bệnh phẩm"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Cung cấp hình ảnh chi tiết hơn về tổn thương phổi"
+      },
+      {
+        "name": "Xét nghiệm PCR",
+        "description": "Phát hiện sự hiện diện của virus"
+      },
+      {
+        "name": "Xét nghiệm Panel 2",
+        "description": "Xét nghiệm đa tác nhân gây bệnh đường hô hấp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện tại, chưa có nhiều nghiên cứu cụ thể về thuốc điều trị đặc hiệu hay biến chứng sau khi nhiễm Metapneumovirus. Các phương pháp điều trị hiện có đều hướng đến điều trị triệu chứng, nhiễm trùng và ngăn ngừa xuất hiện biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc hạ sốt",
+        "description": "Paracetamol hoặc ibuprofen với liều lượng phù hợp khi bệnh nhân sốt cao"
+      },
+      {
+        "name": "Bù nước và điện giải",
+        "description": "Uống nhiều nước, nước ép hoa quả hoặc dung dịch bù nước và điện giải oresol"
+      },
+      {
+        "name": "Khí dung",
+        "description": "Thực hiện khi bệnh nhân xuất hiện tình trạng co thắt"
+      },
+      {
+        "name": "Hỗ trợ hô hấp",
+        "description": "Thở oxy, sử dụng máy thở khi bệnh nhân bị suy hô hấp"
+      },
+      {
+        "name": "Cân chỉnh chế độ dinh dưỡng",
+        "description": "Bổ sung năng lượng và nâng cao sức đề kháng cho bệnh nhân"
+      },
+      {
+        "name": "Thuốc trị ho, sổ mũi",
+        "description": "Sử dụng theo đúng chỉ định của bác sĩ"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ",
+      "Uống nhiều nước",
+      "Theo dõi nhịp thở của trẻ khi nằm yên",
+      "Đưa đến bệnh viện nếu có dấu hiệu nặng (sốt cao liên tục, khó thở, tím môi)",
+      "Cần đến bệnh viện nếu bệnh không thuyên giảm sau 7-10 ngày"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly người bệnh",
+      "Đeo khẩu trang",
+      "Rửa tay thường xuyên",
+      "Hạn chế tiếp xúc gần với người bệnh"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện nay, Metapneumovirus chưa có vaccine phòng ngừa",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện chế độ dinh dưỡng khoa học, đầy đủ dưỡng chất và uống đủ nước mỗi ngày",
+      "Đeo khẩu trang khi đến những nơi công cộng",
+      "Hạn chế đến những nơi đông người khi dịch bệnh bùng phát",
+      "Tránh tiếp xúc với những người có dấu hiệu mắc các bệnh về đường hô hấp",
+      "Xây dựng thói quen thường xuyên rửa tay với xà phòng hoặc nước rửa tay có cồn khử khuẩn",
+      "Thường xuyên súc miệng bằng nước muối hoặc dung dịch sát khuẩn",
+      "Dọn dẹp nhà cửa gọn gàng, sạch sẽ",
+      "Thường xuyên khử khuẩn môi trường sống",
+      "Không hút thuốc lá và hạn chế tiếp xúc với môi trường nhiều khói bụi",
+      "Hạn chế dùng chung các vật dụng cá nhân với người khác",
+      "Tiêm vaccine đầy đủ theo khuyến cáo của Bộ Y tế",
+      "Tăng cường hệ miễn dịch bằng cách ngủ đủ giấc, giữ tinh thần thoải mái, thường xuyên tập luyện thể dục"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm phổi do Metapneumovirus có nguy hiểm không?",
+      "answer": "Phần lớn các trường hợp viêm phổi do Metapneumovirus đều xuất hiện ở mức độ nhẹ và tự hết sau khoảng 7 ngày. Tuy nhiên, bệnh có thể trở nên nghiêm trọng hơn và gây ra các biến chứng nguy hiểm như nhiễm trùng huyết, suy hô hấp, tràn dịch màng phổi và áp xe phổi nếu không được điều trị đúng cách, đặc biệt ở trẻ nhỏ và người có hệ miễn dịch yếu."
+    },
+    {
+      "question": "Khi nào cần đưa trẻ bị viêm phổi do Metapneumovirus đến bệnh viện?",
+      "answer": "Cần đưa trẻ đến bệnh viện ngay khi có các dấu hiệu: sốt cao liên tục; sốt trên 39 độ và không hạ sau khi dùng thuốc hạ sốt; khó thở; khò khè nhiều; ăn kém, bỏ ăn, bỏ bú; tím môi, tím đầu chi; hoặc nếu nhịp thở của trẻ vượt quá các chỉ số: trẻ dưới 2 tháng tuổi, nhịp thở trên 60 lần/phút; trẻ từ 2 tháng – 1 tuổi, nhịp thở dưới 50 lần/phút."
+    },
+    {
+      "question": "Có vaccine phòng ngừa viêm phổi do Metapneumovirus không?",
+      "answer": "Hiện nay chưa có vaccine đặc hiệu phòng ngừa Metapneumovirus. Tuy nhiên, có thể giảm nguy cơ mắc bệnh bằng cách thực hiện các biện pháp phòng ngừa như: đeo khẩu trang, rửa tay thường xuyên, tránh tiếp xúc với người bệnh, tăng cường sức đề kháng và tiêm các vaccine phòng bệnh hô hấp khác theo khuyến cáo của Bộ Y tế."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi đang có các triệu chứng như ho, chảy nước mũi, sốt và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm phổi do Metapneumovirus",
+        "Cúm",
+        "Viêm phế quản",
+        "COVID-19"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sốt cao và ho có đờm đặc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm phổi do Metapneumovirus",
+        "Viêm phổi do vi khuẩn",
+        "Viêm phế quản",
+        "Lao phổi"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khó thở, thở khò khè và da, môi tím tái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm phổi do Metapneumovirus",
+        "Suy hô hấp cấp",
+        "Hen suyễn",
+        "Viêm tiểu phế quản"
+      ]
+    },
+    {
+      "question": "Con tôi bị sốt, ho, chảy nước mũi và bỏ bú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm phổi do Metapneumovirus",
+        "Cúm",
+        "Viêm phế quản",
+        "Viêm tiểu phế quản"
+      ]
+    },
+    {
+      "question": "Tôi bị ho dai dẳng, khó thở và đau tức ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm phổi do Metapneumovirus",
+        "Viêm phổi vi khuẩn",
+        "Viêm phế quản mạn tính",
+        "Lao phổi"
+      ]
     }
   ]
 }

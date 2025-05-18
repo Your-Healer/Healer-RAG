@@ -1,39 +1,122 @@
 {
   "disease_id": "u-tuyen-giap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U tuyến giáp",
+  "disease_alternative_names": ["Nhân tuyến giáp", "Thyroid nodule"],
+  "disease_definition": "U tuyến giáp hay còn gọi là nhân tuyến giáp là những nốt/khối đặc hoặc lỏng được hình thành bên trong nhu mô tuyến giáp. Tuyến giáp là một tuyến nhỏ nằm ở vùng cổ trước, ngay trên xương ức. Hầu hết các u tuyến giáp không nghiêm trọng và không gây ra các triệu chứng nên không dễ phát hiện.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối u ở vùng cổ trước",
+      "description": "Khối u có thể nhìn thấy được ở vùng cổ trước"
+    },
+    {
+      "name": "Khàn tiếng",
+      "description": "Khối u chèn ép vào dây thanh quản quặt ngược gây khàn tiếng"
+    },
+    {
+      "name": "Khó thở hoặc khó nuốt",
+      "description": "Khối u chèn ép vào khí quản hoặc thực quản, gây khó thở hoặc khó nuốt"
+    },
+    {
+      "name": "Triệu chứng cường giáp",
+      "description": "Giảm cân không rõ nguyên nhân, tăng tiết mồ hôi, run, lo lắng, nhịp tim nhanh hoặc không đều, rối loạn kinh nguyệt hoặc mất kinh, tiêu chảy và đi tiểu thường xuyên hơn, tăng khẩu vị"
+    },
+    {
+      "name": "Triệu chứng suy giáp",
+      "description": "Mệt mỏi, tê và ngứa ran ở tay, tăng cân, da và tóc khô, thô ráp, táo bón, trầm cảm, kinh nguyệt ra nhiều và thường xuyên"
+    },
+    {
+      "name": "Đau vùng cổ",
+      "description": "Một số ít bệnh nhân, đặc biệt là những người bị viêm tuyến giáp có thể bị đau vùng cổ"
+    },
+    {
+      "name": "Sưng to vùng cổ",
+      "description": "Sưng to vùng cổ dẫn đến khó nuốt và khó thở"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đến nay, nguyên nhân của u tuyến giáp vẫn chưa được biết rõ, nhưng có một số yếu tố nguy cơ được cho là gây ra bệnh này.",
+    "related_factors": "Bức xạ ion hóa là một yếu tố nguy cơ được biết đến đối với cả nhân giáp lành tính và ác tính. Thiếu i-ốt hoặc thừa i-ốt trong chế độ ăn uống cũng có thể khiến tuyến giáp phát triển các nhân giáp.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiếp xúc với bức xạ ion hóa",
+    "Thiếu hụt hoặc thừa i-ốt trong chế độ ăn",
+    "Hút thuốc lá",
+    "Béo phì",
+    "Hội chứng chuyển hóa",
+    "Uống rượu",
+    "Tăng mức độ yếu tố tăng trưởng giống insulin-1 (IGF-1)",
+    "U xơ tử cung"
+  ],
+  "complications": [
+    "Cường giáp với các triệu chứng như đổ mồ hôi, đánh trống ngực, rối loạn dung nạp glucose",
+    "Khó nuốt và khó thở do sưng to vùng cổ",
+    "Ung thư tuyến giáp (trong một số trường hợp)",
+    "Thay đổi giọng nói",
+    "Nhiễm độc giáp",
+    "Hạ canxi",
+    "Suy giáp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác tiền sử cá nhân và gia đình",
+      "Khám sức khỏe tổng quát",
+      "Đánh giá các triệu chứng và dấu hiệu lâm sàng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm hormone kích thích tuyến giáp (TSH)",
+        "description": "Đo lượng TSH để đánh giá chức năng tuyến giáp, giúp hướng dẫn xử trí sau này. TSH bình thường hoặc cao có thể gợi ý nguy cơ ác tính, trong khi TSH thấp thường gợi ý nốt lành tính"
+      },
+      {
+        "name": "Siêu âm tuyến giáp",
+        "description": "Cung cấp thông tin về kích thước, cấu trúc, những thay đổi nhu mô và có thể phát hiện các tổn thương nhỏ đến 2 mm, giúp phân biệt giữa các tổn thương lành tính và ác tính"
+      },
+      {
+        "name": "Chọc hút kim nhỏ (FNA)",
+        "description": "Lấy mẫu tế bào từ nốt/u tuyến giáp để phân tích, thường được thực hiện dưới hướng dẫn của siêu âm để tăng độ chính xác"
+      },
+      {
+        "name": "Xét nghiệm tế bào học theo phân loại Bethesda",
+        "description": "Phân loại kết quả tế bào học thành 6 loại chính, từ không chẩn đoán/không đạt yêu cầu đến ác tính, mỗi loại có một cách xử trí khác nhau"
+      },
+      {
+        "name": "Xạ hình tuyến giáp",
+        "description": "Sử dụng Tc-99m hoặc I-ốt 131 để đánh giá khả năng xuất hiện nhân độc tuyến giáp (nhân tuyến giáp tăng chức năng)"
+      },
+      {
+        "name": "Xét nghiệm gen di truyền và dấu ấn hóa mô miễn dịch",
+        "description": "Được sử dụng trong một số trường hợp để xác định bản chất di truyền của khối u"
+      },
+      {
+        "name": "Chụp MRI, CT và FDG-PET/CT",
+        "description": "Chụp chiếu đánh giá thêm trong các trường hợp phức tạp hoặc nghi ngờ di căn"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Xử trí ban đầu của nhân giáp phụ thuộc vào loại tổn thương được tìm thấy, đặc điểm của siêu âm, và nó có chức năng hay không. Kết quả FNA cuối cùng sẽ hướng dẫn điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi",
+        "description": "Đối với các nốt lành tính (Bethesda II), thường được theo dõi mà không cần phẫu thuật. Theo dõi định kỳ bằng siêu âm ban đầu từ 12-24 tháng"
+      },
+      {
+        "name": "Lấy mẫu FNA bổ sung",
+        "description": "Đối với các nốt có tế bào học không xác định (Bethesda III và IV), có thể lấy mẫu FNA bổ sung để kiểm tra thêm hoặc lặp lại FNA sau 6-12 tuần"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Đối với các nốt nghi ngờ là bệnh ác tính (Bethesda V) hoặc ác tính (Bethesda VI), điều trị nên bao gồm phẫu thuật cắt bỏ tuyến giáp"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Đối với nốt lành tính, nên siêu âm theo dõi định kỳ từ 12-24 tháng",
+      "Nếu siêu âm cho thấy những phát hiện đáng ngờ, FNA nên được lặp lại trong vòng 12 tháng",
+      "Đối với các nốt có tế bào học không xác định, nên tuân thủ theo dõi chặt chẽ và làm xét nghiệm bổ sung theo chỉ định của bác sĩ",
+      "Sau phẫu thuật cắt tuyến giáp, người bệnh cần dùng thuốc thay thế hormone tuyến giáp suốt đời",
+      "Theo dõi định kỳ và tái khám theo lịch hẹn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +124,61 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Nguyên nhân gây u tuyến giáp vẫn chưa được xác định rõ ràng nên không có cách nào để phòng ngừa hoàn toàn",
+      "Giảm nguy cơ bằng cách quản lý các yếu tố rủi ro: nếu béo phì, hãy cố gắng giảm cân",
+      "Nếu đang hút thuốc lá, hãy bỏ thuốc lá",
+      "Đảm bảo đủ i-ốt trong chế độ ăn uống hàng ngày",
+      "Hạn chế sử dụng biện pháp tránh thai bằng đường uống và/hoặc statin nếu không cần thiết",
+      "Khám sức khỏe định kỳ và tầm soát u tuyến giáp để phòng ngừa và can thiệp kịp thời"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tôi có con nhỏ bị u tuyến giáp thì phải làm sao?",
+      "answer": "Mặc dù trẻ em ít mắc u tuyến giáp hơn so với người lớn, nhưng tỷ lệ ác tính ở trẻ em lại cao hơn người lớn. Do đó, khi phát hiện trẻ có u tuyến giáp cần đưa trẻ đi làm các xét nghiệm tầm soát để xem khối u tuyến giáp của trẻ thuộc loại nào (u lành hay ung thư). Sau đó bác sĩ sẽ đưa ra hướng điều trị phù hợp với loại u tuyến giáp của trẻ."
+    },
+    {
+      "question": "Những rủi ro có thể gặp phải khi cắt bỏ tuyến giáp?",
+      "answer": "Người bệnh có thể gặp phải rủi ro khi phẫu thuật cắt bỏ tuyến giáp như nhiễm trùng, chảy máu, cơn bão giáp trạng, thay đổi giọng nói, nhiễm độc giáp, hạ canxi, suy giáp, khó nuốt. Do đó, điều quan trọng là người bệnh nên tìm đến các bệnh viện uy tín, trang thiết bị hiện đại, có chuyên khoa Ung bướu, Nội tiết, Tai mũi họng để được các chuyên khoa phối hợp điều trị nhằm mang lại hiệu quả cao, giảm biến chứng hoặc kịp thời xử trí biến chứng nếu có xảy ra."
+    },
+    {
+      "question": "U tuyến giáp có phải là ung thư không?",
+      "answer": "Hầu hết các u tuyến giáp là lành tính. Theo thống kê, hơn 90% các u tuyến giáp được phát hiện là tổn thương lành tính và chỉ 4,0% đến 6,5% là ung thư. Tuy nhiên, cần thực hiện các xét nghiệm như siêu âm tuyến giáp và chọc hút kim nhỏ (FNA) để xác định bản chất của khối u và có kế hoạch điều trị phù hợp."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khối u ở vùng cổ trước có thể nhìn thấy được. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U tuyến giáp", "Hạch bạch huyết", "U bã đậu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khối u chèn ép vào dây thanh quản quặt ngược gây khàn tiếng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tuyến giáp",
+        "Ung thư thanh quản",
+        "Viêm thanh quản"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khó thở hoặc khó nuốt do khối u chèn ép vào khí quản hoặc thực quản. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U tuyến giáp", "Ung thư thực quản", "Bướu cổ"]
+    },
+    {
+      "question": "Tôi đang giảm cân không rõ nguyên nhân, tăng tiết mồ hôi, run, lo lắng, nhịp tim nhanh hoặc không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tuyến giáp cường giáp",
+        "Bệnh Basedow",
+        "Rối loạn lo âu"
+      ]
+    },
+    {
+      "question": "Tôi hay mệt mỏi, tê và ngứa ran ở tay, tăng cân, da và tóc khô, thô ráp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tuyến giáp suy giáp",
+        "Viêm tuyến giáp Hashimoto",
+        "Suy giáp"
+      ]
     }
   ]
 }

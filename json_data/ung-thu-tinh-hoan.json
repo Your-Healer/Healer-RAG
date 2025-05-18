@@ -1,39 +1,112 @@
 {
   "disease_id": "ung-thu-tinh-hoan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư tinh hoàn",
+  "disease_alternative_names": [
+    "Bướu tế bào mầm (Seminoma)",
+    "Bướu không phải tế bào mầm (Nonseminoma)"
+  ],
+  "disease_definition": "Ung thư tinh hoàn là tình trạng những tế bào bình thường trong tinh hoàn biến đổi, phát triển mất kiểm soát, dẫn tới việc hình thành các khối u. Tinh hoàn là một bộ phận trong hệ sinh dục nam, nằm ở phía dưới dương vật và trong bìu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối u không đau hay sưng trên tinh hoàn",
+      "description": "Xuất hiện trên một trong hai tinh hoàn, ban đầu có kích thước nhỏ nhưng có thể phát triển lớn hơn nếu không được điều trị kịp thời."
+    },
+    {
+      "name": "Cảm giác nặng nề ở bìu",
+      "description": "Một tinh hoàn có thể trở nên cứng so với tinh hoàn còn lại, hoặc tinh hoàn phát triển lớn hơn hay nhỏ hơn bình thường."
+    },
+    {
+      "name": "Đau âm ỉ ở bụng dưới hay bẹn",
+      "description": "Cảm giác đau âm ỉ có thể lan tỏa từ vùng tinh hoàn đến bụng dưới hoặc vùng bẹn."
+    },
+    {
+      "name": "Tích tụ dịch trong bìu",
+      "description": "Hiện tượng tích tụ dịch làm bìu sưng phồng, có thể kèm theo các triệu chứng khác."
+    },
+    {
+      "name": "Ngực mềm hay phát triển",
+      "description": "Tình trạng hiếm gặp, một số khối u tinh hoàn sản sinh ra hormone gây đau ngực hay tăng trưởng mô ngực (cường tuyến vú nam)."
+    },
+    {
+      "name": "Các triệu chứng giai đoạn muộn",
+      "description": "Đau lưng dưới, khó thở, đau ngực, đờm lẫn máu có thể là dấu hiệu của ung thư tinh hoàn giai đoạn muộn khi đã di căn."
+    },
+    {
+      "name": "Sưng chân và khó thở",
+      "description": "Sưng một bên hoặc hai bên chân, khó thở do cục máu đông có thể là dấu hiệu của ung thư tinh hoàn đã di căn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện vẫn chưa tìm ra nguyên nhân chính xác gây ung thư tinh hoàn. Về cơ bản, ung thư tinh hoàn xảy ra khi những tế bào khỏe mạnh trong tinh hoàn bị đột biến.",
+    "related_factors": "Đa phần bệnh ung thư tinh hoàn bắt đầu trong những tế bào mầm - những tế bào trong tinh hoàn tạo ra tinh trùng chưa trưởng thành.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tinh hoàn lạc chỗ (tinh hoàn không hạ xuống bìu trước khi sinh)",
+    "Tinh hoàn bất thường (phát triển không bình thường)",
+    "Tiền sử gia đình có người mắc ung thư tinh hoàn",
+    "Tuổi tác (phổ biến ở độ tuổi 15-35)",
+    "Đã từng mắc ung thư tinh hoàn ở bên đối diện"
+  ],
+  "complications": [
+    "Di căn tới các cơ quan khác trong cơ thể",
+    "Ảnh hưởng đến khả năng sinh sản nếu bị cắt một hoặc cả hai tinh hoàn",
+    "Tác dụng phụ của xạ trị như buồn nôn, mệt mỏi, đỏ da và kích ứng vùng bụng và bẹn",
+    "Tác dụng phụ của hóa trị như mệt mỏi, rụng tóc, buồn nôn, tăng nguy cơ nhiễm trùng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Siêu âm tinh hoàn",
+      "Xét nghiệm máu tìm chất chỉ điểm ung thư",
+      "Phẫu thuật cắt bỏ một tinh hoàn để chẩn đoán xác định",
+      "Chụp cắt lớp vi tính (CT) để xác định mức độ di căn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm tinh hoàn",
+        "description": "Sử dụng sóng âm thanh để tạo ra hình ảnh của bìu và tinh hoàn, giúp xác định bản chất của khối u (rắn hoặc chứa đầy chất lỏng) và vị trí khối u."
+      },
+      {
+        "name": "Xét nghiệm máu tìm chất chỉ điểm ung thư",
+        "description": "Xác định các chất chỉ điểm ung thư trong máu có thể tăng cao trong trường hợp ung thư tinh hoàn, giúp định hướng chẩn đoán."
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ một tinh hoàn",
+        "description": "Tinh hoàn bị cắt bỏ sẽ được phân tích để xác định bản chất khối u và loại ung thư tinh hoàn."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Giúp tìm ra những dấu hiệu cho thấy ung thư đã lan rộng đến các cơ quan khác ngoài tinh hoàn."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Ung thư tinh hoàn là bệnh lý có khả năng chữa trị thành công rất cao, thậm chí ngay cả khi ung thư đã di căn ra khỏi tinh hoàn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt bỏ tinh hoàn",
+        "description": "Đây là phương pháp điều trị chính cho phần lớn các giai đoạn và loại ung thư tinh hoàn, giúp loại bỏ khối u ác tính."
+      },
+      {
+        "name": "Phẫu thuật nạo hạch bạch huyết",
+        "description": "Thực hiện qua đường mổ ở bụng để loại bỏ các hạch bạch huyết đã bị di căn. Cần cẩn thận để tránh tổn thương các dây thần kinh xung quanh."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng những chùm năng lượng mạnh như tia X để tiêu diệt tế bào ung thư. Có thể thực hiện đơn độc hoặc sau phẫu thuật cắt bỏ tinh hoàn."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng thuốc để tiêu diệt tế bào ung thư trong toàn bộ cơ thể. Thường được chỉ định đơn độc hoặc kết hợp với phẫu thuật."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Trao đổi với bác sĩ về biện pháp bảo tồn khả năng sinh sản trước khi bắt đầu điều trị",
+      "Cân nhắc bảo quản tinh trùng trước khi hóa trị hoặc xạ trị để dự phòng vô sinh",
+      "Theo dõi sát sao các tác dụng phụ của điều trị để có biện pháp xử lý kịp thời",
+      "Tái khám định kỳ sau điều trị để phát hiện sớm dấu hiệu tái phát"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +114,96 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thường xuyên tự kiểm tra tinh hoàn để phát hiện dấu hiệu bất thường sớm",
+      "Kiểm tra trẻ nhỏ có bị tinh hoàn lạc chỗ hay không để điều trị sớm",
+      "Không nên e ngại khi quyết định khám tinh hoàn với bác sĩ nếu phát hiện bất thường",
+      "Người đã từng mắc ung thư tinh hoàn cần theo dõi chặt chẽ để phát hiện tái phát",
+      "Nam giới nên trang bị kiến thức về cách tự kiểm tra tinh hoàn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư tinh hoàn có chữa được không?",
+      "answer": "Ung thư tinh hoàn là bệnh lý có khả năng chữa trị thành công rất cao, thậm chí ngay cả khi ung thư đã di căn ra khỏi tinh hoàn. Tỷ lệ sống 5 năm ở người bệnh ung thư tinh hoàn là rất cao nếu phát hiện sớm và điều trị kịp thời."
+    },
+    {
+      "question": "Làm thế nào để phát hiện ung thư tinh hoàn sớm?",
+      "answer": "Nam giới nên thường xuyên tự kiểm tra tinh hoàn để phát hiện các dấu hiệu bất thường như khối u, sưng tinh hoàn, cảm giác nặng nề ở bìu. Nếu phát hiện bất kỳ dấu hiệu nào, cần đi khám bác sĩ ngay để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Ung thư tinh hoàn có ảnh hưởng đến khả năng sinh sản không?",
+      "answer": "Phương pháp điều trị ung thư tinh hoàn như cắt bỏ tinh hoàn, xạ trị, hóa trị có thể ảnh hưởng đến khả năng sinh sản. Tuy nhiên, nam giới vẫn có thể có con nếu còn một tinh hoàn khỏe mạnh. Ngoài ra, trước khi bắt đầu điều trị, người bệnh có thể trao đổi với bác sĩ về biện pháp bảo quản tinh trùng để dự phòng."
+    },
+    {
+      "question": "Ung thư tinh hoàn thường gặp ở độ tuổi nào?",
+      "answer": "Ung thư tinh hoàn thường ảnh hưởng đến thanh thiếu niên và nam giới trẻ tuổi, đặc biệt là trong độ tuổi từ 15 đến 35. Tuy nhiên, bệnh vẫn có thể xuất hiện ở mọi lứa tuổi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sưng tinh hoàn, cảm giác nặng nề ở bìu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tinh-hoan",
+        "viem-tinh-hoan",
+        "thoat-vi-ben"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau âm ỉ ở bụng dưới và bẹn, tinh hoàn sưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tinh-hoan",
+        "viem-mao-tinh-hoan",
+        "xoan-tinh-hoan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tích tụ dịch trong bìu và sưng tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tinh-hoan",
+        "tran-dich-mang-tinh-hoan",
+        "viem-mao-tinh-hoan"
+      ]
+    },
+    {
+      "question": "Tôi bị tinh hoàn lạc chỗ và hiện tại có khối u ở tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tinh-hoan",
+        "u-lanh-tinh-tinh-hoan",
+        "nang-tinh-hoan"
+      ]
+    },
+    {
+      "question": "Tôi có anh trai bị ung thư tinh hoàn và hiện tại tôi cũng thấy tinh hoàn sưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tinh-hoan",
+        "viem-tinh-hoan",
+        "tran-dich-mang-tinh-hoan"
+      ]
+    },
+    {
+      "question": "Tôi ở độ tuổi 20 và tinh hoàn của tôi sưng, có khối u. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tinh-hoan",
+        "u-lanh-tinh-tinh-hoan",
+        "nang-tinh-hoan"
+      ]
+    },
+    {
+      "question": "Tôi bị đau lưng dưới, khó thở, đau ngực và sưng tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tinh-hoan",
+        "ung-thu-phoi",
+        "tran-dich-mang-phoi"
+      ]
+    },
+    {
+      "question": "Tôi sưng một bên chân, khó thở và có khối u ở tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tinh-hoan",
+        "huyet-khoi-tinh-mach-sau",
+        "suy-tim"
+      ]
     }
   ]
 }

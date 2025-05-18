@@ -1,39 +1,165 @@
 {
   "disease_id": "xo-cung-bi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xơ cứng bì",
+  "disease_alternative_names": ["Scleroderma"],
+  "disease_definition": "Xơ cứng bì là bệnh tự miễn mạn tính, ảnh hưởng tới da, các mô liên kết và cơ quan nội tạng. Bệnh xảy ra khi hệ thống miễn dịch của cơ thể tấn công các mô, dẫn tới việc sản xuất quá nhiều protein collagen trên các mô liên kết. Tình trạng này khiến da dày lên, xơ hóa, tích tụ mô sẹo.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Da trơn bóng và dày cứng",
+      "description": "Da trơn bóng do các mô dày và cứng gây ra, thường xuất hiện ở mặt và tay."
+    },
+    {
+      "name": "Hiện tượng Raynaud",
+      "description": "Ngón tay, ngón chân lạnh và bị chuyển sang màu đỏ, trắng hay xanh khi tiếp xúc với lạnh hoặc căng thẳng."
+    },
+    {
+      "name": "Loét đầu ngón tay",
+      "description": "Bị đau và lở loét đầu ngón tay do giảm lưu lượng máu."
+    },
+    {
+      "name": "Giãn mao mạch",
+      "description": "Xuất hiện các đốm đỏ nhỏ trên mặt và ngực do bị giãn mao mạch."
+    },
+    {
+      "name": "Đau và sưng khớp",
+      "description": "Sưng, đau ngón tay, ngón chân và các khớp khác trong cơ thể."
+    },
+    {
+      "name": "Yếu cơ",
+      "description": "Cảm giác yếu cơ và mệt mỏi."
+    },
+    {
+      "name": "Hội chứng Sjogren",
+      "description": "Mặt và miệng bị khô do giảm tiết dịch của các tuyến."
+    },
+    {
+      "name": "Vấn đề tiêu hóa",
+      "description": "Khó thở, tiêu chảy, ợ nóng và sụt cân không rõ lý do."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Bệnh xơ cứng bì là một loại bệnh tự miễn, xảy ra khi hệ miễn dịch - vốn có nhiệm vụ bảo vệ cơ thể khỏi vi trùng, nhưng giờ lại gây viêm da và làm tổn thương những bộ phận khác của cơ thể.",
+    "related_factors": "Bất thường trong hệ miễn dịch, cấu trúc gen bất thường, các kích thích trong môi trường và yếu tố nội tiết.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính: Bệnh thường xảy ra ở nữ giới trong độ tuổi 30-35, tỷ lệ cao hơn nam giới tới 7-12 lần",
+    "Yếu tố di truyền",
+    "Tiếp xúc với hóa chất và dung môi hữu cơ",
+    "Nhiễm siêu vi trùng",
+    "Nội tiết tố nữ, đặc biệt là estrogen"
+  ],
+  "complications": [
+    "Tay: Tổn thương vĩnh viễn ở các đầu ngón tay, gây ra các vết rỗ hoặc loét",
+    "Phổi: Sẹo ở mô phổi có thể làm suy giảm chức năng phổi, gây tăng áp động mạch phổi",
+    "Thận: Tăng huyết áp, tăng lượng protein trong nước tiểu, thậm chí suy thận nhanh chóng",
+    "Tim: Sẹo ở mô tim dẫn đến rối loạn nhịp tim, suy tim xung huyết, viêm màng ngoài tim",
+    "Hệ tiêu hóa: Ợ nóng, khó nuốt, chướng bụng, táo bón hoặc tiêu chảy",
+    "Chức năng tình dục: Rối loạn cương dương ở nam giới, giảm khả năng bôi trơn và co thắt âm đạo ở nữ giới"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Đánh giá các triệu chứng trên da và các cơ quan nội tạng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm tim",
+        "description": "Đánh giá tình trạng tim và tăng áp phổi"
+      },
+      {
+        "name": "Tầm soát kháng thể đặc hiệu",
+        "description": "Xác định kháng thể kháng nhân, kháng thể kháng Scl-70, kháng thể kháng centromere"
+      },
+      {
+        "name": "Chụp CT-Scan lồng ngực",
+        "description": "Kiểm tra tình trạng phổi và các tổn thương"
+      },
+      {
+        "name": "Chụp X-quang bàn tay",
+        "description": "Đánh giá mức độ tổn thương ở bàn tay"
+      },
+      {
+        "name": "Thăm dò chức năng hô hấp",
+        "description": "Kiểm tra khả năng hoạt động của phổi"
+      },
+      {
+        "name": "Đo áp lực thực quản",
+        "description": "Đánh giá chức năng thực quản"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Kiểm tra hoạt động của tim"
+      },
+      {
+        "name": "Tổng phân tích tế bào máu",
+        "description": "Kiểm tra các chỉ số máu"
+      },
+      {
+        "name": "Tổng phân tích nước tiểu",
+        "description": "Kiểm tra chức năng thận"
+      },
+      {
+        "name": "Kiểm tra chức năng gan thận",
+        "description": "Đánh giá chức năng gan thận"
+      },
+      {
+        "name": "Nội soi đường tiêu hóa trên",
+        "description": "Kiểm tra tình trạng của đường tiêu hóa"
+      },
+      {
+        "name": "NT-pro-BNP",
+        "description": "Đánh giá tình trạng tim"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phần lớn trường hợp xơ cứng bì ảnh hưởng tới da sẽ tự biến mất sau 2-5 năm. Trong khi, những trường hợp ảnh hưởng tới cơ quan nội tạng thường nghiêm trọng theo thời gian.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc steroid",
+        "description": "Kem hay thuốc steroid giúp cải thiện tình trạng sưng và đau khớp, làm chậm quá trình làm cứng da."
+      },
+      {
+        "name": "Thuốc giãn mạch",
+        "description": "Giúp ngăn ngừa những vấn đề nghiêm trọng ở phổi và thận, hỗ trợ điều trị hiện tượng Raynaud."
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch",
+        "description": "Giúp giảm những triệu chứng xơ cứng bì bằng cách ức chế hệ thống miễn dịch."
+      },
+      {
+        "name": "Thuốc giảm axit dạ dày",
+        "description": "Giúp người bệnh giảm chứng ợ nóng."
+      },
+      {
+        "name": "Thuốc điều hòa nhu động ruột",
+        "description": "Giúp giảm chứng chướng bụng, tiêu chảy, táo bón."
+      },
+      {
+        "name": "Thuốc mỡ kháng sinh",
+        "description": "Giúp ngăn ngừa nhiễm trùng loét ngón tay do hiện tượng Raynaud."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Giúp kiểm soát cơn đau, cải thiện sức mạnh cơ bắp và khả năng vận động."
+      },
+      {
+        "name": "Liệu pháp ánh sáng và laser",
+        "description": "Điều trị da bị xơ cứng bằng liệu pháp ánh sáng và laser."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong trường hợp nghiêm trọng, bác sĩ có thể chỉ định phẫu thuật cắt cụt chi hoặc ghép phổi."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Xây dựng lối sống lành mạnh, thường xuyên tập thể dục thể thao",
+      "Kiểm soát căng thẳng, quản lý stress",
+      "Tập thể dục đều đặn để cải thiện tuần hoàn",
+      "Bổ sung nhiều chất xơ, chất lỏng trong chế độ ăn uống",
+      "Tiêm phòng cúm và viêm phổi thường xuyên để bảo vệ phổi đã bị tổn thương"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +167,49 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc: Nicotine trong thuốc lá có thể làm co mạch máu, khiến tình trạng bệnh nặng hơn",
+      "Bảo vệ da bằng kem dưỡng, kem chống nắng, tránh tắm nước quá nóng hay dùng các loại xà phòng có chất tẩy rửa mạnh",
+      "Chế độ ăn uống khoa học, tránh những món ăn làm tăng nguy cơ ợ nóng hoặc làm tăng axit dạ dày",
+      "Đeo găng tay để bảo vệ da khỏi thời tiết lạnh, ngay cả khi sử dụng tủ lạnh",
+      "Che phủ mặt và đầu cẩn thận khi thời tiết lạnh",
+      "Duy trì thói quen tập thể dục đều đặn để máu lưu thông dễ dàng, giảm tình trạng xơ cứng biểu bì da"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xơ cứng bì là gì?",
+      "answer": "Xơ cứng bì là bệnh tự miễn mạn tính, ảnh hưởng tới da, các mô liên kết và cơ quan nội tạng. Bệnh xảy ra khi hệ thống miễn dịch của cơ thể tấn công các mô, dẫn tới việc sản xuất quá nhiều protein collagen trên các mô liên kết. Tình trạng này khiến da dày lên, xơ hóa, tích tụ mô sẹo."
+    },
+    {
+      "question": "Xơ cứng bì có những loại nào?",
+      "answer": "Xơ cứng bì được chia thành 2 loại chính: xơ cứng bì khu trú (chỉ ảnh hưởng tới da) và xơ cứng bì toàn thể (ảnh hưởng tới da, các mô, mạch máu và cơ quan nội tạng). Xơ cứng bì khu trú bao gồm thể mảng và thể dải. Xơ cứng bì toàn thể bao gồm xơ cứng bì lan tỏa và xơ cứng bì giới hạn (hội chứng CREST)."
+    },
+    {
+      "question": "Xơ cứng bì có chữa được không?",
+      "answer": "Phần lớn trường hợp xơ cứng bì ảnh hưởng tới da sẽ tự biến mất sau 2-5 năm. Hiện vẫn chưa có loại thuốc điều trị khỏi hay ngăn chặn quá trình sản xuất collagen quá mức của bệnh. Tuy nhiên, một số loại thuốc có thể giúp người bệnh kiểm soát các triệu chứng bệnh và ngăn ngừa biến chứng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da dày lên, xơ hóa và tích tụ mô sẹo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngón tay, ngón chân lạnh và chuyển sang màu xanh, trắng, đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì", "Hiện tượng Raynaud"]
+    },
+    {
+      "question": "Tôi hay bị đau và lở loét đầu ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì"]
+    },
+    {
+      "question": "Tôi bị xơ cứng bì và hiện đang bị tổn thương tim. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì toàn thể", "Xơ cứng bì"]
+    },
+    {
+      "question": "Tôi bị xơ cứng bì và hiện đang bị khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì", "Xơ cứng bì toàn thể"]
     }
   ]
 }

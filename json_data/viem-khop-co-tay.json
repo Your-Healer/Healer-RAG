@@ -1,39 +1,121 @@
 {
   "disease_id": "viem-khop-co-tay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm khớp cổ tay",
+  "disease_alternative_names": [
+    "Viêm khớp cổ tay sau chấn thương",
+    "Thoái hóa khớp cổ tay"
+  ],
+  "disease_definition": "Viêm khớp cổ tay là tình trạng tổn thương các bộ phận cấu thành khớp như mô sụn, đầu xương, dây thần kinh, màng bao hoạt dịch, dây chằng. Từ đó kích thích phản ứng viêm mô mềm xung quanh và dẫn tới triệu chứng đau nhức, ê mỏi, tê cứng, sưng nóng ở cổ tay. Đây là bệnh lý về xương khớp thường gặp ở bất kỳ độ tuổi nào.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau khớp",
+      "description": "Khi bị viêm khớp cổ tay, người bệnh thường thấy xuất hiện các cơn đau khớp âm ỉ. Cơn đau có thể tăng dần, tiến triển dai dẳng hoặc có thể khởi phát đột ngột."
+    },
+    {
+      "name": "Cứng khớp",
+      "description": "Những cơn đau dai dẳng khi khớp cổ tay bị viêm nếu không được điều trị kịp thời có thể dẫn đến cứng khớp. Lúc này, khớp thường có biểu hiện tê cứng, khó cầm nắm."
+    },
+    {
+      "name": "Sưng tấy",
+      "description": "Hiện tượng sưng tấy, viêm nóng, đau nhức có thể xảy ra khi tình trạng bệnh tiến triển nặng. Ở vùng da bao quanh khớp thường thấy sưng đỏ và nóng hơn các vị trí xung quanh."
+    },
+    {
+      "name": "Hạn chế cử động",
+      "description": "Một trong những điều đáng ngại của bệnh này chính là hạn chế vận động, gây khó khăn trong việc vận động linh hoạt. Nếu không được kiểm tra và chữa trị có thể khiến bệnh tiến triển nhanh."
+    },
+    {
+      "name": "Âm thanh lục cục khi cử động",
+      "description": "Khi chuyển động thường xuất hiện âm thanh \"lục cục\", đặc biệt trong trường hợp thoái hóa khớp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm khớp cổ tay có thể xảy ra do tình trạng viêm cấp tính hoặc mãn tính ở khớp và các mô mềm xung quanh. Bệnh có thể xảy ra sau chấn thương khớp hay do bệnh tự miễn, bệnh chuyển hóa hoặc thoái hóa.",
+    "related_factors": "Không phải tất cả mọi người bị tình trạng này đều có các triệu chứng giống nhau. Đặc điểm của các triệu chứng sẽ phụ thuộc vào nguyên nhân gây viêm khớp, mức độ nặng của bệnh, thời gian bị bệnh và bệnh phối hợp đi kèm.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ mang thai do nội tiết tố nữ progesterone, estrogen, testosterone bị giảm sút",
+    "Vận động viên của các bộ môn sử dụng tay nhiều như cầu lông, bóng rổ, tennis, bóng bàn",
+    "Người cao tuổi, đặc biệt trên 60 tuổi",
+    "Phụ nữ có nguy cơ mắc bệnh cao gấp 3 lần nam giới",
+    "Người làm việc văn phòng phải dùng máy tính nhiều",
+    "Người thực hiện các động tác lặp đi lặp lại liên quan đến cổ tay",
+    "Người đã từng bị chấn thương cổ tay"
+  ],
+  "complications": [
+    "Phần sụn khớp bị bào mòn, hẹp dần các khe khớp",
+    "Teo cơ, dính khớp, biến dạng khớp",
+    "Mất khả năng vận động của khớp",
+    "Tổn thương da và nội tạng trong trường hợp viêm khớp tự miễn"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử và khám lâm sàng",
+      "Chụp X-quang",
+      "Siêu âm",
+      "Xét nghiệm máu",
+      "Chụp MRI hoặc CT",
+      "Chọc hút dịch khớp",
+      "Sinh thiết tổn thương",
+      "Đo xung điện thần kinh",
+      "Nội soi khớp"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Giúp đánh giá tình trạng xương, phát hiện gai xương, hẹp khe khớp hoặc các dấu hiệu thoái hóa khớp."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Giúp đánh giá tổn thương phần mềm, quan sát tình trạng viêm, dịch khớp, bao hoạt dịch và các mô mềm xung quanh khớp."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp phát hiện các dấu hiệu viêm, yếu tố thấp, acid uric, và các chỉ số khác liên quan đến bệnh tự miễn hoặc chuyển hóa."
+      },
+      {
+        "name": "Chụp MRI hoặc CT",
+        "description": "Cung cấp hình ảnh chi tiết hơn về tình trạng của khớp, đặc biệt hữu ích trong giai đoạn sớm của bệnh hoặc trường hợp phức tạp."
+      },
+      {
+        "name": "Chọc hút dịch khớp",
+        "description": "Giúp xác định rõ nguyên nhân gây viêm như nhiễm trùng, viêm khớp dạng thấp, viêm khớp vảy nến, bệnh gout."
+      },
+      {
+        "name": "Đo xung điện thần kinh",
+        "description": "Xác định nhanh chóng và chính xác mức độ chèn ép dây thần kinh và chức năng di chuyển của khớp, ngón tay."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm khớp cổ tay có thể được điều trị bằng nhiều phương pháp khác nhau. Nhằm nâng cao hiệu quả tốt nhất có thể, bác sĩ sẽ xây dựng phác đồ điều trị cho từng trường hợp dựa trên nguyên nhân gây bệnh, mức độ nặng của bệnh, bệnh lý phối hợp và tuổi tác, công việc của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc chống viêm và các loại thuốc điều trị nguyên nhân",
+        "description": "Các thuốc giảm đau, chống viêm không chứa steroid (NSAIDs) là loại thuốc được sử dụng khá phổ biến. Ngoài ra, bác sĩ có thể chỉ định các nhóm thuốc tác động vào cơ chế bệnh sinh của bệnh giúp điều trị triệt để bệnh và tránh tái phát."
+      },
+      {
+        "name": "Tiêm tại chỗ",
+        "description": "Nếu các triệu chứng ở mức độ trung bình hoặc nghiêm trọng, bác sĩ có thể cho tiêm thuốc chống viêm tại chỗ. Trong một số trường hợp viêm khớp hoặc viêm phần mềm quanh khớp mạn tính, bác sĩ có thể sử dụng tiêm huyết tương giàu tiểu cầu hay tiêm collagen."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Bao gồm mang nẹp cố định ổ khớp, chườm lạnh để giảm sưng viêm và đau nhức, cùng với các bài tập dành riêng cho vùng cổ tay và ngón tay để cải thiện khả năng vận động và làm chậm quá trình tiến triển của bệnh."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Khi bệnh ở mức độ nặng, các cách điều trị bảo tồn không thể đáp ứng. Các kỹ thuật phẫu thuật bao gồm cắt bỏ gai xương, bó bột khớp cổ tay, phẫu thuật giải áp hội chứng ống cổ tay, phẫu thuật loại bỏ hạt tophi, hoặc thay thế khớp nhân tạo."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ chỉ định về thuốc và liều dùng của bác sĩ",
+      "Không tự ý dùng thuốc khi chưa có chỉ định",
+      "Nghỉ ngơi phù hợp và tránh các hoạt động gây căng thẳng cho cổ tay",
+      "Thực hiện đầy đủ các bài tập vật lý trị liệu",
+      "Duy trì chế độ ăn uống cân bằng dinh dưỡng",
+      "Hạn chế mang vác vật nặng",
+      "Thăm khám định kỳ để theo dõi tiến triển của bệnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +123,116 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế tập thể thao với các môn tác động trực tiếp đến cổ tay như đánh cầu lông, tennis",
+      "Khuyến khích tập luyện thể thao với các môn có cường độ vận động nhẹ như bơi lội, đi bộ, yoga",
+      "Tạo thói quen nghỉ từ 5 – 10 phút sau mỗi giờ đánh máy, vẽ hoặc may vá",
+      "Bỏ thói quen uống rượu bia, dùng thuốc lá",
+      "Điều chỉnh hàm lượng đạm phù hợp trong bữa ăn hàng ngày",
+      "Uống đủ nước, bổ sung nhiều rau xanh, trái cây",
+      "Thận trọng khi tham gia giao thông, chơi thể thao, sinh hoạt thường ngày",
+      "Hạn chế mang vác vật nặng",
+      "Sử dụng dụng cụ hỗ trợ khi cần di chuyển đồ đạc nặng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ai là người dễ bị viêm khớp cổ tay?",
+      "answer": "Bệnh có thể xảy ra ở bất kỳ độ tuổi nào, nhưng thường gặp ở phụ nữ mang thai, vận động viên của các bộ môn sử dụng tay nhiều, và người cao tuổi (trên 60 tuổi). Phụ nữ có nguy cơ mắc bệnh cao gấp 3 lần nam giới. Người làm việc văn phòng phải dùng máy tính nhiều và người thực hiện các động tác lặp đi lặp lại liên quan đến cổ tay cũng có nguy cơ cao."
+    },
+    {
+      "question": "Viêm khớp cổ tay có những biến chứng gì?",
+      "answer": "Nếu không được xác định đúng nguyên nhân và chữa trị kịp thời, bệnh có thể gây ra nhiều biến chứng như: phần sụn khớp bị bào mòn, hẹp dần các khe khớp; teo cơ, dính khớp, biến dạng khớp; mất khả năng vận động. Đối với những bệnh xương khớp có tính chất hệ thống (viêm khớp tự miễn), tổn thương có thể xuất hiện ở da và một số bộ phận nội tạng."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán viêm khớp cổ tay?",
+      "answer": "Bác sĩ sẽ chẩn đoán bằng cách hỏi tình trạng bệnh, thăm khám sức khỏe và chụp X-quang, siêu âm và làm một số xét nghiệm máu cần thiết. Trong trường hợp phức tạp, có thể cần thêm chụp MRI hoặc CT, chọc hút dịch khớp, sinh thiết tổn thương, và đo xung điện thần kinh để xác định chính xác nguyên nhân gây viêm."
+    },
+    {
+      "question": "Có thể điều trị viêm khớp cổ tay như thế nào?",
+      "answer": "Viêm khớp cổ tay có thể được điều trị bằng nhiều phương pháp khác nhau tùy theo nguyên nhân và mức độ, bao gồm: thuốc chống viêm và các loại thuốc điều trị nguyên nhân; tiêm thuốc tại chỗ; vật lý trị liệu (mang nẹp, chườm lạnh, tập luyện); và phẫu thuật trong trường hợp nặng. Bác sĩ sẽ xây dựng phác đồ điều trị phù hợp cho từng người bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau, nhức, mỏi ở vùng cổ tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-co-tay",
+        "viem-bao-hoat-dich-co-tay",
+        "hoi-chung-ong-co-tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sưng nóng, tê cứng ở cổ tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-co-tay",
+        "viem-gan-co-tay",
+        "viem-bao-hoat-dich-co-tay"
+      ]
+    },
+    {
+      "question": "Tôi hay bị hạn chế vận động cổ tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-co-tay",
+        "thoai-hoa-khop-co-tay",
+        "viem-gan-co-tay"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức, ê mỏi, tê cứng, sưng nóng ở cổ tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-co-tay",
+        "viem-bao-hoat-dich-co-tay",
+        "hoi-chung-ong-co-tay"
+      ]
+    },
+    {
+      "question": "Tôi bị đau nhức cổ tay sau chấn thương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-co-tay",
+        "gay-xuong-co-tay",
+        "viem-gan-co-tay"
+      ]
+    },
+    {
+      "question": "Tôi bị đau nhức, cứng khớp cổ tay, đặc biệt là rất khó chuyển động khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-co-tay",
+        "thoai-hoa-khop-co-tay",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi bị đau nhức cổ tay và khi chuyển động thường xuất hiện âm thanh \"lục cục\". Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-co-tay",
+        "thoai-hoa-khop-co-tay",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm nhiều khớp đối xứng, cứng khớp buổi sáng đặc biệt là nhóm khớp cổ tay và bàn ngón tay hai bên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-dang-thap",
+        "viem-khop-co-tay",
+        "lupus-ban-do-he-thong"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm khớp ngoại biên không đối xứng, kèm tổn thương cột sống – cùng chậu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "viem-khop-co-tay",
+        "viem-cot-song-dinh-khop"
+      ]
+    },
+    {
+      "question": "Tôi bị tê bì, đau buốt ở đầu các ngón tay cái, ngón 2 và ngón 3. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "hoi-chung-ong-co-tay",
+        "viem-khop-co-tay",
+        "viem-day-than-kinh"
+      ]
     }
   ]
 }

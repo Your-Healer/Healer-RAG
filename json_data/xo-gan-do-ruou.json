@@ -1,39 +1,122 @@
 {
   "disease_id": "xo-gan-do-ruou",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xơ gan do rượu",
+  "disease_alternative_names": ["Xơ gan do bia rượu", "Xơ gan rượu"],
+  "disease_definition": "Xơ gan do rượu là tình trạng tổn thương gan mạn tính kéo dài do uống bia rượu. Đây là bệnh lý về gan liên quan đến cồn nguy hiểm nhất, xảy ra sau một thời gian dài uống quá nhiều rượu. Các mô sẹo hình thành từ những tổn thương do rượu và âm thầm phát triển, chúng dần dần chiếm hết không gian sống của các tế bào khỏe mạnh trong gan.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Gan nhiễm mỡ (giai đoạn đầu)",
+      "description": "Gan phình to, có thể gây tức nhẹ vùng hạ sườn bên phải. Người bệnh cảm thấy mệt mỏi, chán ăn nhưng thường không có triệu chứng rõ rệt."
+    },
+    {
+      "name": "Viêm gan do rượu (giai đoạn tiến triển)",
+      "description": "Đau tức nặng vùng gan, sốt nhẹ, mệt mỏi, buồn nôn và nôn ói, mất cảm giác ăn ngon miệng, nước tiểu vàng, vàng da và củng mạc mắt vàng."
+    },
+    {
+      "name": "Tăng áp lực tĩnh mạch cửa",
+      "description": "Áp lực trong hệ tĩnh mạch cửa tăng cao do gan xơ hóa, gây ra nhiều biến chứng nghiêm trọng."
+    },
+    {
+      "name": "Lá lách to",
+      "description": "Lá lách phình to, có thể gây cảm giác tức ở hạ sườn bên trái."
+    },
+    {
+      "name": "Suy dinh dưỡng",
+      "description": "Người bệnh bị suy kiệt, thiếu hụt dinh dưỡng do gan không thể chuyển hóa chất dinh dưỡng hiệu quả."
+    },
+    {
+      "name": "Chảy máu tiêu hóa",
+      "description": "Biểu hiện như nôn ra máu, đại tiện phân đen do vỡ giãn tĩnh mạch thực quản hoặc dạ dày."
+    },
+    {
+      "name": "Cổ trướng",
+      "description": "Tích tụ dịch trong ổ bụng, gây bụng to, chướng bụng."
+    },
+    {
+      "name": "Dễ bị bầm tím",
+      "description": "Da dễ bị bầm tím do rối loạn đông máu vì gan không sản xuất đủ yếu tố đông máu."
+    },
+    {
+      "name": "Nổi đốm đỏ ở lòng bàn tay",
+      "description": "Xuất hiện các đốm đỏ trong lòng bàn tay do giãn mạch máu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ethanol có trong bia rượu, khi vào gan chuyển hóa thành Acetaldehyde, là chất gây độc cho gan. Uống nhiều bia rượu dẫn đến tổn thương gan, hình thành sẹo và dần dần phát triển thành xơ gan.",
+    "related_factors": "Thời gian uống rượu bia kéo dài và lượng tiêu thụ cao.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nghiện rượu nặng (khoảng 10-20% người bệnh xơ gan là do nghiện rượu nặng)",
+    "Thời gian uống rượu kéo dài",
+    "Lượng rượu tiêu thụ lớn hàng ngày",
+    "Suy dinh dưỡng do nghiện rượu lâu dài"
+  ],
+  "complications": [
+    "Vàng da, vàng mắt",
+    "Mất trương lực cơ (teo cơ)",
+    "Xuất huyết tiêu hóa do vỡ giãn tĩnh mạch thực quản hoặc dạ dày",
+    "Nhiễm trùng dịch cổ trướng",
+    "Tràn dịch đa màng (màng phổi, màng tim)",
+    "Bệnh não gan (nặng là hôn mê gan)",
+    "Hội chứng gan thận",
+    "Ung thư gan"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Tìm hiểu bệnh sử và thói quen uống rượu bia"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Bao gồm xét nghiệm công thức máu, xét nghiệm điện giải, đánh giá mức độ đông máu, thăm dò chức năng gan"
+      },
+      {
+        "name": "Xét nghiệm men gan",
+        "description": "Đo nồng độ gamma-glutamyltransferase (GGT), aspartate aminotransferase (AST) và alanin aminotransferase (ALT). Ở người bệnh xơ gan do rượu, AST thường cao gấp hai lần ALT"
+      },
+      {
+        "name": "Siêu âm gan",
+        "description": "Kiểm tra hình ảnh gan và đánh giá độ đàn hồi của gan"
+      },
+      {
+        "name": "Chụp CT cắt lớp, chụp cộng hưởng từ MRI",
+        "description": "Cung cấp hình ảnh chi tiết về tình trạng gan, đánh giá mức độ tổn thương"
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Ít được sử dụng hiện nay, nhưng có thể cần thiết trong một số trường hợp"
+      },
+      {
+        "name": "Nội soi tiêu hóa trên",
+        "description": "Giúp phát hiện búi giãn tĩnh mạch thực quản, dạ dày"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hai mục tiêu chính trong điều trị xơ gan do rượu là: giúp người bệnh cai rượu và cải thiện sức khỏe gan. Khi đã mắc xơ gan do rượu, các mô tế bào gan không thể khôi phục lại như ban đầu, nhưng có thể ngăn ngừa bệnh tiếp tục phát triển.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Hạn chế hoặc ngừng uống rượu bia",
+        "description": "Đây là yếu tố quan trọng nhất trong điều trị xơ gan do rượu. Người bệnh thường cảm thấy cải thiện sau khoảng 3 tháng giảm rượu bia."
+      },
+      {
+        "name": "Điều trị triệu chứng cai rượu",
+        "description": "Đối với người nghiện rượu nặng, việc ngừng uống đột ngột có thể gây lo lắng, mệt mỏi, đau đầu, buồn nôn. Các thuốc, dịch truyền tĩnh mạch hoặc thuốc an thần có thể được sử dụng."
+      },
+      {
+        "name": "Cải thiện dinh dưỡng",
+        "description": "Bổ sung các nguồn dinh dưỡng, đặc biệt là chất đạm, vitamin và khoáng chất. Sữa là sản phẩm tốt và đầy đủ các chất, thích hợp cho người xơ gan."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi định kỳ để kiểm soát bệnh",
+      "Tuân thủ chế độ ăn uống khoa học",
+      "Duy trì lối sống lành mạnh",
+      "Uống đủ nước",
+      "Tránh các thuốc có hại cho gan"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +124,51 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế hoặc không uống rượu bia",
+      "Duy trì chế độ ăn uống cân bằng, đầy đủ dinh dưỡng",
+      "Kiểm tra sức khỏe định kỳ, đặc biệt là chức năng gan",
+      "Tránh dùng các thuốc gây độc cho gan",
+      "Không kết hợp rượu bia với thuốc"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xơ gan do rượu có thể phục hồi được không?",
+      "answer": "Khi đã mắc xơ gan do rượu, các mô tế bào gan của người bệnh không thể khôi phục lại như ban đầu. Các phương pháp điều trị, thay đổi thói quen sống và sinh hoạt chỉ có tác dụng ngăn ngừa bệnh tiếp tục phát triển, giảm nguy cơ biến chứng. Ở những trường hợp nhẹ, nếu được kiểm soát tốt, người bệnh xơ gan do rượu có thể tận hưởng cuộc sống như người bình thường."
+    },
+    {
+      "question": "Tại sao uống rượu gây xơ gan?",
+      "answer": "Ethanol có trong bia rượu bản chất là chất không độc nhưng khi vào gan chất này chuyển hóa thành Acetaldehyde, đây là chất gây độc, chính vì vậy nếu uống nhiều bia rượu dù là loại nào thì cũng sẽ gây độc với gan. Hậu quả từ viêm gan đến xơ gan là xuất hiện các vết sẹo ở mô gan, dẫn đến suy giảm chức năng gan."
+    },
+    {
+      "question": "Sau bao lâu ngừng uống rượu thì gan sẽ phục hồi?",
+      "answer": "Thông thường, người bệnh sẽ cảm thấy những cải thiện tích cực sau khoảng 3 tháng giảm rượu bia. Tuy nhiên, khi gan đã bị xơ hóa, các mô tế bào không thể khôi phục hoàn toàn. Việc ngừng rượu bia sẽ giúp ngăn chặn tiến triển của bệnh và giảm nguy cơ biến chứng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tăng áp lực tĩnh mạch cửa và lá lách to. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan do rượu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy suy dinh dưỡng, chảy máu tiêu hóa và cổ trướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan do rượu"]
+    },
+    {
+      "question": "Tôi uống nhiều bia, rượu trong thời gian dài và hiện đang bị tăng áp lực tĩnh mạch cửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan do rượu"]
+    },
+    {
+      "question": "Tôi bị xơ gan do rượu và hiện đang bị vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Xơ gan do rượu",
+        "Vàng da do suy giảm chức năng gan"
+      ]
+    },
+    {
+      "question": "Tôi bị xơ gan do rượu và hiện đang bị xuất huyết tiêu hóa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan do rượu", "Vỡ giãn tĩnh mạch thực quản"]
     }
   ]
 }

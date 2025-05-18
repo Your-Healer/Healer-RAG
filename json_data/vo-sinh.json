@@ -1,58 +1,222 @@
 {
   "disease_id": "vo-sinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Vô sinh",
+  "disease_alternative_names": ["Hiếm muộn", "Không thể có con"],
+  "disease_definition": "Vô sinh là thuật ngữ diễn tả tình trạng không thể thụ thai ở các đôi vợ chồng mặc dù quan hệ tình dục đều đặn mà không sử dụng bất kỳ biện pháp tránh thai nào từ 6 tháng đến hơn 1 năm. Đây chính là tình trạng mất khả năng sinh sản ở các đôi vợ chồng muốn có con. Ngoài ra, vô sinh cũng là thuật ngữ để chỉ nữ giới có thể thụ thai nhưng không có khả năng mang thai cho đến khi sinh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có thai sau thời gian dài",
+      "description": "Không thể thụ thai sau 6 tháng đến hơn 1 năm quan hệ tình dục đều đặn mà không sử dụng biện pháp tránh thai"
+    },
+    {
+      "name": "Suy giảm khả năng sản xuất tinh trùng (nam giới)",
+      "description": "Giảm số lượng, chất lượng hoặc khả năng di chuyển của tinh trùng"
+    },
+    {
+      "name": "Rối loạn chức năng tình dục (nam giới)",
+      "description": "Rối loạn cương dương, xuất tinh sớm hoặc xuất tinh ngược dòng"
+    },
+    {
+      "name": "Kinh nguyệt bất thường (nữ giới)",
+      "description": "Chu kỳ kinh nguyệt quá dài (35 ngày trở lên) hoặc quá ngắn (dưới 21 ngày), không đều hay không có"
+    },
+    {
+      "name": "Vấn đề về hormone (nữ giới)",
+      "description": "Biểu hiện qua lông mọc nhiều hơn bình thường, da nổi nhiều mụn trứng, tóc mỏng hơn, thay đổi ham muốn tình dục"
+    },
+    {
+      "name": "Sảy thai nhiều lần (nữ giới)",
+      "description": "Xảy ra nhiều lần sảy thai liên tiếp"
+    },
+    {
+      "name": "Đau bụng, đau lưng kéo dài (nữ giới)",
+      "description": "Đau lưng, đau vùng xương chậu, chuột rút trong thời gian dài"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Vô sinh có thể bắt nguồn từ các vấn đề ở nam giới, nữ giới hoặc cả hai. Các nguyên nhân chính bao gồm rối loạn phóng noãn ở nữ, các vấn đề về tinh trùng ở nam, tổn thương vòi tử cung, lạc nội mạc tử cung và một số trường hợp không rõ nguyên nhân.",
+    "related_factors": "Có rất nhiều nguyên nhân dẫn tới tình trạng vô sinh, có thể là do người chồng hoặc người vợ hoặc cả hai. Tình trạng này cũng có khả năng xảy ra ở các đôi vợ chồng sử dụng nhiều phương pháp ngăn chặn mang thai trước đó.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Độ tuổi: Khả năng sinh sản giảm dần theo tuổi tác, đặc biệt ở nữ giới sau 30 tuổi và nam giới trên 40 tuổi",
+    "Hút thuốc lá: Làm giảm cơ hội thụ thai, tăng nguy cơ rối loạn cương dương và giảm số lượng tinh trùng",
+    "Sử dụng rượu bia: Làm giảm lượng tinh trùng, khả năng vận động và tăng nguy cơ dị tật bẩm sinh",
+    "Ăn uống không lành mạnh: Rối loạn ăn uống như chán ăn hay ăn vô độ, áp dụng chế độ ăn hạn chế calo",
+    "Thừa cân, béo phì: Lối sống ít hoạt động, béo phì ảnh hưởng đến số lượng tinh trùng và mức testosterone",
+    "Bệnh lý mạn tính: Đái tháo đường, quai bị, các bệnh lây qua đường tình dục",
+    "Căng thẳng, stress: Làm rối loạn nội tiết tố, ảnh hưởng đến khả năng sinh sản",
+    "Tiếp xúc với hóa chất và chất độc: Thuốc trừ sâu, bức xạ, cần sa, steroid",
+    "Mặc quần áo bó sát (nam giới): Làm tăng nhiệt độ tinh hoàn, ngăn cản quá trình sinh tinh"
+  ],
+  "complications": [
+    "Căng thẳng tâm lý, trầm cảm, lo âu",
+    "Ảnh hưởng đến mối quan hệ vợ chồng",
+    "Gánh nặng tài chính do chi phí điều trị",
+    "Áp lực từ gia đình và xã hội"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Đánh giá tiền sử bệnh và tiền sử gia đình",
+      "Khảo sát đời sống tình dục"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm cho nam giới - Phân tích tinh dịch",
+        "description": "Đánh giá số lượng, chất lượng và khả năng di chuyển của tinh trùng"
+      },
+      {
+        "name": "Xét nghiệm cho nam giới - Xét nghiệm nội tiết",
+        "description": "Kiểm tra nồng độ hormone sinh dục nam để xác định rối loạn hormone"
+      },
+      {
+        "name": "Xét nghiệm cho nam giới - Siêu âm doppler bìu tinh hoàn",
+        "description": "Kiểm tra tình trạng của tinh hoàn và các cấu trúc trong bìu"
+      },
+      {
+        "name": "Xét nghiệm cho nam giới - Sinh thiết tinh hoàn",
+        "description": "Được thực hiện khi các biện pháp thăm dò khác không tìm được tinh trùng"
+      },
+      {
+        "name": "Xét nghiệm cho nữ giới - Chụp HSG",
+        "description": "Chụp buồng tử cung vòi trứng có cản quang để kiểm tra tình trạng của tử cung và vòi trứng"
+      },
+      {
+        "name": "Xét nghiệm cho nữ giới - Xét nghiệm rụng trứng",
+        "description": "Đánh giá khả năng rụng trứng của buồng trứng"
+      },
+      {
+        "name": "Xét nghiệm cho nữ giới - Xét nghiệm nội tiết",
+        "description": "Kiểm tra nồng độ hormone sinh dục nữ để xác định rối loạn hormone"
+      },
+      {
+        "name": "Xét nghiệm cho nữ giới - Xét nghiệm dự trữ buồng trứng",
+        "description": "Đánh giá khả năng dự trữ trứng của buồng trứng"
+      },
+      {
+        "name": "Xét nghiệm cho nữ giới - Siêu âm",
+        "description": "Kiểm tra tình trạng của tử cung, buồng trứng và các cấu trúc sinh sản khác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị vô sinh phụ thuộc vào nguyên nhân, tuổi tác, thời gian vô sinh và sở thích cá nhân. Trong một số trường hợp, bệnh có thể được điều trị chỉ bằng thuốc hoặc phẫu thuật. Nhưng nhiều cặp đôi cần các kỹ thuật hỗ trợ sinh sản.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị vô sinh nam - Phẫu thuật",
+        "description": "Phẫu thuật giãn tĩnh mạch thừng tinh hay sửa chữa ống dẫn tinh bị tắc nghẽn, giúp lưu thông trở lại. Nếu không có tinh trùng trong quá trình xuất tinh, tinh trùng có thể được lấy trực tiếp từ tinh hoàn hay mào tinh hoàn."
+      },
+      {
+        "name": "Điều trị vô sinh nam - Điều trị nhiễm trùng",
+        "description": "Điều trị bằng kháng sinh cho các bệnh nhiễm trùng đường sinh sản. Tuy nhiên, không phải trường hợp nào cũng có thể phục hồi khả năng sinh sản."
+      },
+      {
+        "name": "Điều trị vô sinh nam - Điều trị chức năng tình dục",
+        "description": "Phương pháp này được áp dụng cho các trường hợp bị rối loạn cương dương hay rối loạn xuất tinh, có thể sử dụng thuốc hay tư vấn của bác sĩ để cải thiện khả năng sinh sản."
+      },
+      {
+        "name": "Điều trị vô sinh nữ - Thuốc hỗ trợ sinh sản",
+        "description": "Thuốc kích thích rụng trứng như gonadotropins (Gonal-F, Follistim, Humegon và Pregnyl), clomiphene citrate (Clomid, Serophene) giúp nữ giới mang thai thông qua việc kích thích buồng trứng giải phóng nhiều trứng."
+      },
+      {
+        "name": "Điều trị vô sinh nữ - Phẫu thuật",
+        "description": "Phẫu thuật giúp phục hồi khả năng sinh sản ở nữ giới. Những vấn đề về tử cung như polyp nội mạc tử cung, u xơ tử cung có thể được chỉ định điều trị phẫu thuật nội soi."
+      },
+      {
+        "name": "Phương pháp hỗ trợ sinh sản - IUI",
+        "description": "Trong quá trình thụ tinh ở tử cung, tinh trùng khỏe mạnh (đã được rửa bằng dung dịch đặc biệt) được đặt trực tiếp vào tử cung trong khoảng thời gian buồng trứng giải phóng một hay nhiều trứng để thụ tinh."
+      },
+      {
+        "name": "Phương pháp hỗ trợ sinh sản - IVF",
+        "description": "Thụ tinh ống nghiệm (In vitro fertilization – IVF) là kỹ thuật mà tinh trùng của nam giới và trứng của nữ giới được thụ tinh trong phòng lab để tạo thành phôi, sau đó phôi được đưa trở lại buồng tử cung."
+      },
+      {
+        "name": "Phương pháp hỗ trợ sinh sản - ICSI",
+        "description": "Tiêm tinh trùng vào bào tương: trong phòng thí nghiệm, tinh trùng từ nam giới được tiêm trực tiếp vào trứng của nữ giới. Kỹ thuật này thường được chỉ định khi nam giới có ít tinh trùng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Quan hệ tình dục thường xuyên trong khoảng thời gian rụng trứng (bắt đầu 5 ngày trước và 1 ngày sau khi rụng trứng)",
+      "Tránh hút thuốc lá và hạn chế uống rượu bia",
+      "Tránh tiếp xúc với các chất độc hại trong môi trường",
+      "Duy trì chế độ tập luyện vừa phải, không tập quá sức",
+      "Hạn chế dùng caffein",
+      "Kiểm soát tốt cân nặng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine đặc hiệu cho việc phòng ngừa vô sinh",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Đối với các đôi vợ chồng: Thường xuyên quan hệ tình dục nhiều lần trong khoảng thời gian rụng trứng để tăng tỷ lệ đậu thai",
+      "Nam giới: Tránh hút thuốc lá và hạn chế uống rượu bia, tránh tiếp xúc với các chất độc hại, tập luyện vừa phải",
+      "Nữ giới: Hạn chế dùng thuốc lá, thức uống có cồn, caffein, tập thể dục đều đặn, kiểm soát cân nặng",
+      "Cả hai: Thực hiện khám sức khỏe sinh sản định kỳ, điều trị sớm các bệnh lý liên quan"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Vô sinh có chữa được không?",
+      "answer": "Vô sinh là tình trạng có thể chữa được trong nhiều trường hợp. Tùy thuộc vào nguyên nhân gây vô sinh, các phương pháp điều trị bao gồm dùng thuốc, phẫu thuật và các kỹ thuật hỗ trợ sinh sản như IUI, IVF và ICSI. Tuy nhiên, hiệu quả điều trị phụ thuộc vào nhiều yếu tố như tuổi tác, thời gian vô sinh và nguyên nhân cụ thể."
+    },
+    {
+      "question": "Độ tuổi nào là tốt nhất để sinh con?",
+      "answer": "Khả năng sinh sản của nữ giới sẽ giảm dần theo tuổi tác, tình trạng suy giảm này sẽ rõ rệt hơn sau tuổi 30 và đặc biệt sau 35 tuổi. Đối với nam giới, khả năng sinh sản cũng giảm sau 40 tuổi. Vì vậy, thời điểm tốt nhất để có con là khi phụ nữ còn trẻ, lý tưởng nhất là trước 35 tuổi."
+    },
+    {
+      "question": "Các thói quen nào ảnh hưởng đến khả năng sinh sản?",
+      "answer": "Nhiều thói quen không lành mạnh có thể ảnh hưởng đến khả năng sinh sản của cả nam và nữ giới. Các thói quen này bao gồm hút thuốc lá, sử dụng rượu bia quá mức, chế độ ăn uống không lành mạnh, béo phì, căng thẳng kéo dài, và tiếp xúc với các chất độc hại trong môi trường. Nam giới cũng nên tránh mặc quần áo quá chật vì có thể làm tăng nhiệt độ tinh hoàn, ảnh hưởng đến quá trình sản xuất tinh trùng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như kinh nguyệt không đều và đau bụng kinh dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh",
+        "Lạc nội mạc tử cung",
+        "Buồng trứng đa nang",
+        "Rối loạn nội tiết"
+      ]
+    },
+    {
+      "question": "Tôi hay bị rối loạn cương dương và xuất tinh sớm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nam",
+        "Rối loạn chức năng sinh dục",
+        "Rối loạn nội tiết nam",
+        "Stress và lo âu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng giảm số lượng tinh trùng và tinh trùng yếu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nam",
+        "Giãn tĩnh mạch thừng tinh",
+        "Rối loạn nội tiết nam",
+        "Béo phì"
+      ]
+    },
+    {
+      "question": "Tôi đang bị tắc vòi trứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nữ",
+        "Viêm vòi trứng",
+        "Viêm phần phụ",
+        "Bệnh viêm vùng chậu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm nhiễm phụ khoa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh nữ",
+        "Viêm âm đạo",
+        "Viêm cổ tử cung",
+        "Viêm nội mạc tử cung"
+      ]
     }
   ]
 }

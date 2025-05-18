@@ -1,58 +1,196 @@
 {
   "disease_id": "viem-tui-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm túi mật",
+  "disease_alternative_names": [
+    "Viêm túi mật cấp tính do sỏi",
+    "Viêm túi mật mãn tính",
+    "Viêm túi mật không do sỏi",
+    "Cholecystitis"
+  ],
+  "disease_definition": "Viêm túi mật là tình trạng túi mật bị viêm do vi khuẩn, thường xảy ra trên người bệnh có tắc nghẽn ống dẫn mật. Túi mật là một cơ quan nhỏ, hình quả lê nằm bên phải bụng, phía dưới gan, chứa dịch mật bài tiết vào ruột non. Tình trạng viêm xảy ra nếu không được điều trị kịp thời có nguy cơ sẽ dẫn đến nhiều biến chứng nghiêm trọng, thậm chí là thủng túi mật, gây đe dọa đến tính mạng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhói vùng hạ sườn phải",
+      "description": "Cảm thấy đau nhói, đột ngột ở phía trên bên phải bụng (vùng hạ sườn phải)"
+    },
+    {
+      "name": "Đau lưng hoặc dưới xương bả vai phải",
+      "description": "Cảm thấy đau ở lưng hoặc bên dưới xương bả vai phải, cảm giác này càng trở nên tồi tệ hơn khi hít thở sâu"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn mửa"
+    },
+    {
+      "name": "Sốt",
+      "description": "Nhiệt độ cơ thể tăng cao"
+    },
+    {
+      "name": "Đầy hơi",
+      "description": "Cảm giác đầy bụng, khó chịu"
+    },
+    {
+      "name": "Vàng da hoặc vàng mắt",
+      "description": "Da và phần trắng của mắt chuyển sang màu vàng"
+    },
+    {
+      "name": "Phân lỏng và có màu nhạt",
+      "description": "Triệu chứng này thường đi kèm với các vấn đề về mật"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân phổ biến nhất viêm túi mật là do sỏi chặn đường ống dẫn mật đến ruột non, gây ứ đọng mật tại cơ quan.",
+    "related_factors": "Ngoài sỏi mật, các yếu tố khác bao gồm bùn túi mật (chất rắn dạng hạt tích tụ trong túi mật), khối u chặn đường dẫn của mật, túi mật không có nguồn cung cấp máu tốt do mắc bệnh tiểu đường, và nhiễm trùng (vi khuẩn có thể phá hỏng hệ thống dẫn lưu mật).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nữ giới trên 50 tuổi",
+    "Nam giới trên 60 tuổi",
+    "Thừa cân",
+    "Tiểu đường",
+    "Đang mang thai",
+    "Mắc bệnh Crohn",
+    "Mắc bệnh thận giai đoạn cuối",
+    "Mắc bệnh tim",
+    "Tăng lipid máu",
+    "Mắc bệnh hồng cầu hình liềm",
+    "Người có chế độ ăn uống có nhiều chất béo và cholesterol"
+  ],
+  "complications": [
+    "Nhiễm trùng túi mật: Nếu mật tích tụ trong túi mật gây viêm về lâu dài có thể dẫn đến nhiễm trùng",
+    "Hoại thư: Viêm túi mật không được điều trị có thể khiến mô bị chết (hoại thư)",
+    "Túi mật bị thủng: Do túi mật bị sưng, nhiễm trùng hoặc chết mô",
+    "Viêm mãn tính: Viêm túi mật cấp tính lặp đi lặp lại có thể dẫn đến viêm mãn tính"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Kiểm tra tiền sử bệnh lý", "Khám sức khỏe tổng quát"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm công thức máu toàn bộ (CBC)",
+        "description": "Xét nghiệm này giúp đo số lượng bạch cầu, nếu bị nhiễm trùng, số lượng này sẽ tăng cao"
+      },
+      {
+        "name": "Xét nghiệm chức năng gan",
+        "description": "Xét nghiệm này sẽ giúp xác định được khả năng hoạt động của gan"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Sử dụng sóng âm thanh tần số cao để tạo hình ảnh các cơ quan trong cơ thể, giúp kiểm tra gan, túi mật và lưu lượng máu qua các mạch khác nhau"
+      },
+      {
+        "name": "Chụp X-quang bụng",
+        "description": "Tạo ra hình ảnh chi tiết về các mô bên trong, xương và cơ quan bằng cách sử dụng những chùm năng lượng điện từ"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Sử dụng tia X và máy tính để tạo ra hình ảnh chi tiết của cơ thể, chi tiết hơn chụp X-quang thông thường"
+      },
+      {
+        "name": "Quét HIDA (chụp xạ hình mật hoặc xạ hình gan mật)",
+        "description": "Giúp kiểm tra bất kỳ chuyển động bất thường nào ở túi mật cũng như tình trạng ống mật bị chặn bằng cách tiêm hoá chất phóng xạ vào tĩnh mạch"
+      },
+      {
+        "name": "PTC (Chụp đường mật xuyên gan qua da)",
+        "description": "Sử dụng kim mỏng luồn qua da vào ống mật trong gan, sau đó tiêm thuốc nhuộm để hình ảnh ống dẫn mật rõ hơn"
+      },
+      {
+        "name": "ERCP (Chụp mật tụy ngược dòng qua nội soi)",
+        "description": "Sử dụng tia X và ống nội soi để phát hiện và điều trị các vấn đề về gan, túi mật, ống mật và tuyến tụy"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy theo từng mức độ nghiêm trọng của bệnh, bác sĩ sẽ chỉ định phương pháp điều trị viêm túi mật phù hợp. Với các triệu chứng viêm có thể cải thiện trong vòng khoảng 2-3 ngày, nhưng viêm túi mật vẫn có khả năng tái phát.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Bao gồm ngưng ăn uống trong thời gian đầu, truyền dịch qua tĩnh mạch, dùng thuốc kháng sinh để chống nhiễm trùng, thuốc giảm đau, thủ thuật lấy sỏi (ERCP), và dẫn lưu túi mật trong một số trường hợp"
+      },
+      {
+        "name": "Điều trị ngoại khoa",
+        "description": "Phẫu thuật cắt bỏ túi mật, thường là thủ thuật xâm lấn tối thiểu với một vài vết rạch nhỏ trên bụng. Sau khi cắt bỏ túi mật, mật sẽ chảy trực tiếp từ gan vào ruột non"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi chặt chẽ các triệu chứng và tái khám theo lịch hẹn của bác sĩ",
+      "Tuân thủ hướng dẫn về việc dùng thuốc kháng sinh để điều trị nhiễm trùng",
+      "Thực hiện chế độ ăn nhẹ, tránh thực phẩm nhiều chất béo sau khi điều trị",
+      "Uống đủ nước để giữ cơ thể được hydrat hóa"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine phòng ngừa viêm túi mật",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giảm cân từ từ: Quá trình giảm cân nên được thực hiện từ từ, tránh vội vàng giảm nhanh chóng",
+      "Duy trì cân nặng hợp lý: Tình trạng thừa cân sẽ làm tăng nguy cơ mắc sỏi mật",
+      "Chọn một chế độ ăn uống lành mạnh: Tăng cường chất xơ, hạn chế chất béo, ăn nhiều rau, ngũ cốc và trái cây",
+      "Tránh các bữa ăn nhiều chất béo có thể làm tình trạng viêm túi mật trở nên tồi tệ hơn",
+      "Tập thể dục đều đặn để duy trì cân nặng hợp lý"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm túi mật có nguy hiểm không?",
+      "answer": "Viêm túi mật nếu không được điều trị kịp thời có thể dẫn đến nhiều biến chứng nghiêm trọng như nhiễm trùng túi mật, hoại thư (mô bị chết), và túi mật bị thủng. Đây có thể là những biến chứng nguy hiểm, đặc biệt là ở những người lớn tuổi, người đang chờ điều trị hoặc mắc bệnh tiểu đường, và có khả năng đe dọa đến tính mạng."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm túi mật?",
+      "answer": "Để phòng ngừa viêm túi mật, bạn nên: giảm cân từ từ (tránh giảm cân nhanh chóng có thể làm tăng nguy cơ hình thành sỏi mật), duy trì cân nặng hợp lý (thừa cân làm tăng nguy cơ mắc sỏi mật), và chọn chế độ ăn uống lành mạnh (tăng cường chất xơ, hạn chế chất béo, ăn nhiều rau, ngũ cốc và trái cây)."
+    },
+    {
+      "question": "Sau khi cắt bỏ túi mật, cơ thể còn có thể tiêu hóa thức ăn được không?",
+      "answer": "Sau khi cắt bỏ túi mật, mật sẽ chảy trực tiếp từ gan vào ruột non, thay vì được lưu trữ trong túi mật như bình thường. Ngay cả khi không có túi mật, cơ thể người bệnh vẫn có thể thực hiện tiêu hóa thức ăn. Tuy nhiên, có thể cần điều chỉnh chế độ ăn và tránh thực phẩm giàu chất béo."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhói ở vùng hạ sườn phải, buồn nôn và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm túi mật",
+        "Sỏi mật",
+        "Viêm gan cấp tính",
+        "Viêm tụy cấp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng, vàng da và vàng mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm túi mật",
+        "Viêm gan",
+        "Tắc mật",
+        "Sỏi ống mật chủ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng dữ dội sau khi ăn đồ ăn nhiều dầu mỡ, kèm theo buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm túi mật",
+        "Sỏi mật",
+        "Viêm tụy",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau bụng, đầy hơi và khó tiêu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm túi mật",
+        "Hội chứng ruột kích thích",
+        "Viêm dạ dày",
+        "Táo bón"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau bụng, buồn nôn và nôn, kèm theo phân lỏng và có màu nhạt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm túi mật",
+        "Viêm tụy",
+        "Tắc mật",
+        "Nhiễm trùng đường ruột"
+      ]
     }
   ]
 }

@@ -1,58 +1,211 @@
 {
   "disease_id": "viem-xoang-do-nam",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm xoang do nấm",
+  "disease_alternative_names": [
+    "Viêm xoang do nấm dị ứng",
+    "U nấm xoang (mycetoma)",
+    "Viêm xoang do nấm hoại sinh",
+    "Viêm xoang do nấm xâm lấn"
+  ],
+  "disease_definition": "Viêm xoang do nấm là một dạng đặc biệt của viêm xoang, chiếm khoảng 10% trong số các ca bệnh viêm xoang trên thế giới. Nấm có thể phát triển thành khối choán đầy trong xoang, phá hủy các thành xoang, sau đó xâm lấn vào những cơ quan lân cận như hốc mắt, sọ não, gây ra nhiều biến chứng nguy hiểm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nghẹt mũi",
+      "description": "Cảm giác tắc nghẹt ở mũi, khó thở qua mũi"
+    },
+    {
+      "name": "Chảy nước mũi",
+      "description": "Tiết dịch từ mũi, có thể trong hoặc có màu"
+    },
+    {
+      "name": "Suy giảm khứu giác",
+      "description": "Giảm hoặc mất khả năng ngửi mùi"
+    },
+    {
+      "name": "Mùi hôi trong mũi",
+      "description": "Cảm nhận mùi hôi từ bên trong mũi"
+    },
+    {
+      "name": "Đau và áp lực vùng xoang",
+      "description": "Cảm giác đau, nhức và nặng nề ở vùng xoang, đau khi chạm vào má hoặc trán"
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng thân nhiệt, thường xuất hiện trong giai đoạn cấp"
+    },
+    {
+      "name": "Lồi mắt",
+      "description": "Mắt lồi ra trước hoặc lồi ra khỏi hốc mắt, thường gặp ở người có hệ miễn dịch suy yếu"
+    },
+    {
+      "name": "Thay đổi màu da",
+      "description": "Da có thể chuyển sang rất nhợt nhạt hoặc đen"
+    },
+    {
+      "name": "Tê bì da mặt",
+      "description": "Cảm giác tê hoặc giảm cảm giác ở da mặt"
+    },
+    {
+      "name": "Căng tức ở mặt và hốc mắt",
+      "description": "Cảm giác căng, nặng nề ở vùng mặt và hốc mắt"
+    },
+    {
+      "name": "Giảm thị lực hoặc mù lòa",
+      "description": "Nhìn mờ, giảm thị lực hoặc mất thị lực hoàn toàn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm xoang do nấm chủ yếu gây ra bởi hai loại nấm chính là nấm mốc và nấm men, trong đó nấm mốc thường phổ biến hơn.",
+    "related_factors": "Hai loại nấm phổ biến gây bệnh là Aspergillus (hay gặp ở u nấm xoang, thường tại xoang hàm) và Aspergillus flavus (thường gây viêm xoang do nấm xâm lấn u hạt).",
+    "transmission_routes": [
+      "Nấm từ môi trường xâm nhập vào xoang qua đường hô hấp",
+      "Tiếp xúc với đất, khói bụi, hóa chất có chứa bào tử nấm"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Dị hình giải phẫu mũi xoang",
+    "Tiếp xúc với khói bụi, hóa chất, đất trồng",
+    "Sống ở vùng khí hậu ấm áp, ẩm ướt như Đông Nam Á",
+    "Giới tính nữ (có nhiều khả năng bị nấm bóng hơn nam giới)",
+    "Suy giảm miễn dịch (người nhiễm HIV, ung thư, điều trị hóa chất)",
+    "Bệnh đái tháo đường",
+    "Bệnh nhân sau khi cấy ghép nội tạng đang dùng thuốc ức chế miễn dịch",
+    "Viêm xoang mạn tính",
+    "Viêm mũi dị ứng"
+  ],
+  "complications": [
+    "Nấm xâm lấn vào hốc mắt gây mù vĩnh viễn",
+    "Viêm màng não, viêm não nếu nấm xâm nhập hộp sọ",
+    "Liệt dây thần kinh nếu nấm xâm nhập vào dây thần kinh",
+    "Chảy máu ồ ạt dẫn đến tử vong nếu nấm xâm nhập vào mạch máu",
+    "Hoại tử mô và xương",
+    "Đau mãn tính",
+    "Bất thường trên khuôn mặt do bị mất mô"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám lâm sàng", "Đánh giá triệu chứng"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi Tai Mũi Họng",
+        "description": "Giúp bác sĩ đánh giá tình trạng mũi, lỗ thông xoang, các bệnh tích hay dị hình ở hốc mũi"
+      },
+      {
+        "name": "Chụp CLVT (CT Scan)",
+        "description": "Nhằm đánh giá viêm một hay nhiều xoang, tình trạng niêm mạc và bệnh tích trong xoang, sự phá hủy xương và các tổn thương lân cận"
+      },
+      {
+        "name": "Đánh giá mô bệnh học",
+        "description": "Xét nghiệm mô cho thấy sự hiện diện của mucin dị ứng"
+      },
+      {
+        "name": "Soi tươi",
+        "description": "Phương pháp này giúp phát hiện các sợi nấm trong nhầy mucin"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị viêm xoang do nấm phụ thuộc vào loại viêm xoang và mức độ nghiêm trọng của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc trị nấm",
+        "description": "Thuốc kháng nấm được kê toa, thường dùng kèm với can thiệp phẫu thuật"
+      },
+      {
+        "name": "Thuốc corticosteroid",
+        "description": "Thuốc steroid có tác dụng giảm viêm mạnh, được sử dụng theo chỉ dẫn cụ thể của bác sĩ"
+      },
+      {
+        "name": "Rửa mũi",
+        "description": "Nước muối sinh lý 0.9% được dùng để rửa mũi, kể cả trước hoặc sau phẫu thuật, đặc biệt hiệu quả trong thể viêm xoang nấm không xâm lấn hoại sinh"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Can thiệp phẫu thuật nhằm loại bỏ tổ chức nấm và dẫn lưu ổ viêm cùng các can thiệp khác nếu cần"
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Đang được áp dụng để điều trị viêm xoang nấm, nhất là thể viêm xoang nấm dị ứng (AFS)"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ đúng phác đồ điều trị của bác sĩ",
+      "Sử dụng đúng liều lượng và thời gian dùng thuốc",
+      "Kiểm tra sức khỏe định kỳ sau điều trị",
+      "Giữ môi trường sống khô ráo, thoáng mát"
+    ],
+    "prevention_of_transmission": [
+      "Viêm xoang do nấm không lây từ người sang người"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa viêm xoang do nấm",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ ấm mũi, họng",
+      "Thường xuyên vệ sinh mũi họng",
+      "Đeo khẩu trang khi ra khỏi nhà",
+      "Vệ sinh nhà cửa sạch sẽ, thoáng mát, tránh để ẩm mốc",
+      "Phơi khăn mặt dưới nắng mặt trời",
+      "Tránh để mắc các bệnh về mũi họng khiến cơ quan này suy yếu dễ bị nấm tấn công",
+      "Đối với người có yếu tố nguy cơ, nên đến bệnh viện khám nội soi Tai Mũi Họng định kỳ ít nhất một lần"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh nấm xoang có nguy hiểm không?",
+      "answer": "Bệnh nấm xoang có thể nguy hiểm, đặc biệt là nhiễm trùng xoang do nấm xâm lấn. Nếu không được điều trị, nó có thể gây nhiều biến chứng nặng thậm chí ảnh hưởng đến tính mạng của người bệnh. Viêm xoang do nấm xâm lấn tối cấp cấp tính có thể gây tử vong rất nhanh. Sau điều trị, một số người vẫn có thể bị tổn thương dây thần kinh, đau mãn tính hoặc xuất hiện các bất thường trên khuôn mặt do bị mất mô."
+    },
+    {
+      "question": "Viêm xoang do nấm nên ăn và kiêng gì?",
+      "answer": "Không có khuyến nghị chính thức về việc ăn kiêng đối với các trường hợp viêm xoang do nấm. Tuy nhiên, người bệnh nên hạn chế ăn đồ lạnh, gia vị cay nóng vì chúng có thể gây kích ứng khiến cho các triệu chứng sưng, đau thêm trầm trọng hơn. Người bệnh nên ăn đồ nóng ấm để giúp máu lưu thông tốt vùng xoang mũi, từ đó làm giảm các triệu chứng khó chịu do viêm xoang gây ra."
+    },
+    {
+      "question": "Viêm xoang do nấm có thể tự khỏi không?",
+      "answer": "Viêm xoang do nấm thường không tự khỏi và cần được điều trị y tế. Đặc biệt với các thể xâm lấn, bệnh có thể tiến triển nhanh và gây ra các biến chứng nghiêm trọng. Việc chẩn đoán sớm và điều trị đúng cách là rất quan trọng để ngăn ngừa các biến chứng nguy hiểm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nghẹt mũi, chảy nước mũi và suy giảm khứu giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang do nấm",
+        "Viêm mũi dị ứng",
+        "Viêm xoang cấp tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau, nhức và áp lực ở vùng xoang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang do nấm",
+        "Viêm xoang cấp tính",
+        "Viêm xoang mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi bị suy giảm miễn dịch và hiện đang bị đau nhức vùng xoang, chảy nước mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang do nấm xâm lấn",
+        "Viêm xoang cấp tính",
+        "Nhiễm trùng cơ hội ở đường hô hấp"
+      ]
+    },
+    {
+      "question": "Tôi bị đái tháo đường và hiện đang bị đau nhức vùng xoang, chảy nước mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang do nấm",
+        "Viêm xoang do nấm xâm lấn mạn tính",
+        "Viêm xoang mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi bị lồi mắt và hiện đang bị đau nhức vùng xoang, chảy nước mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang do nấm xâm lấn u hạt",
+        "Viêm xoang do nấm xâm lấn cấp tính",
+        "U nhãn cầu"
+      ]
     }
   ]
 }

@@ -1,58 +1,213 @@
 {
   "disease_id": "viem-xoang-mui-di-ung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm xoang mũi dị ứng",
+  "disease_alternative_names": [
+    "Viêm mũi xoang dị ứng",
+    "Viêm mũi dị ứng theo mùa",
+    "Viêm mũi dị ứng quanh năm"
+  ],
+  "disease_definition": "Viêm xoang mũi dị ứng là tình trạng kích thích và viêm của niêm mạc mũi gây ra bởi các tác nhân dị ứng từ môi trường như phấn hoa, lông động vật, hóa chất, khói bụi, mạt nhà… không phải do virus, vi khuẩn, hay nấm. Viêm xoang dị ứng có thể là hậu quả của viêm mũi dị ứng, khi niêm mạc mũi viêm dẫn tới phù nề niêm mạc xoang, làm bít tắc lỗ thông xoang gây ứ dịch và nhiễm trùng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ngứa mũi",
+      "description": "Cảm giác ngứa ngáy bên trong mũi, thường xuất hiện khi tiếp xúc với tác nhân gây dị ứng"
+    },
+    {
+      "name": "Hắt xì liên tục",
+      "description": "Hắt hơi nhiều lần liên tiếp, đặc biệt khi tiếp xúc với tác nhân gây dị ứng"
+    },
+    {
+      "name": "Chảy nước mũi trong",
+      "description": "Nước mũi trong suốt chảy ra nhiều, không phải mủ hay đờm đặc"
+    },
+    {
+      "name": "Nghẹt mũi",
+      "description": "Khó thở qua mũi do niêm mạc mũi bị phù nề"
+    },
+    {
+      "name": "Ngứa mắt và chảy nước mắt",
+      "description": "Mắt bị ngứa, đỏ và chảy nước mắt, thường đi kèm với các triệu chứng ở mũi"
+    },
+    {
+      "name": "Ngứa họng và ho",
+      "description": "Cảm giác ngứa ngáy ở họng có thể dẫn đến ho và khạc đờm trong"
+    },
+    {
+      "name": "Nhức đầu và đau mặt",
+      "description": "Cảm giác đau ở vùng mặt và đầu do viêm xoang"
+    },
+    {
+      "name": "Giảm khứu giác",
+      "description": "Khả năng ngửi mùi bị giảm do tình trạng viêm và phù nề niêm mạc mũi"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân gây viêm mũi xoang dị ứng chủ yếu là do các tác nhân gây dị ứng trong môi trường sống tác động lên hệ miễn dịch, gây ra phản ứng viêm ở niêm mạc mũi và xoang.",
+    "related_factors": "Khi hệ miễn dịch phản ứng quá mức với các tác nhân gây dị ứng, cơ thể sẽ sản xuất các kháng thể IgE, dẫn đến giải phóng histamine và các chất khác gây viêm, phù nề và tăng tiết dịch ở niêm mạc mũi và xoang.",
+    "transmission_routes": [
+      "Hít phải các tác nhân gây dị ứng từ không khí",
+      "Tiếp xúc với phấn hoa, bụi mịn, lông động vật",
+      "Không lây truyền từ người sang người"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử dị ứng cá nhân hoặc gia đình",
+    "Sống trong môi trường nhiều tác nhân gây dị ứng",
+    "Thay đổi thời tiết đột ngột",
+    "Môi trường ô nhiễm",
+    "Tiếp xúc với phấn hoa theo mùa",
+    "Tiếp xúc với lông động vật hoặc phân của chúng",
+    "Tiếp xúc với bụi mịn trong nhà hoặc ngoài trời",
+    "Tiếp xúc với hóa mỹ phẩm như xà bông, dầu gội",
+    "Tiếp xúc với nấm mốc"
+  ],
+  "complications": [
+    "Niêm mạc mũi phì đại",
+    "Hình thành polyp mũi",
+    "Viêm xoang mạn tính",
+    "Viêm họng mạn tính",
+    "Viêm thanh quản",
+    "Giảm chất lượng cuộc sống",
+    "Rối loạn giấc ngủ",
+    "Ảnh hưởng đến học tập và sinh hoạt hàng ngày"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán lâm sàng dựa trên các triệu chứng đặc trưng",
+      "Đánh giá đáp ứng với điều trị bằng thuốc kháng histamin hoặc corticoid xịt mũi"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi mũi",
+        "description": "Kiểm tra bên trong mũi và xoang để xác định tình trạng viêm, phù nề, dị vật hoặc polyp"
+      },
+      {
+        "name": "Chụp CT scan",
+        "description": "Cung cấp hình ảnh chi tiết về các xoang và mức độ viêm, giúp xác định có viêm xoang hay không"
+      },
+      {
+        "name": "Xét nghiệm dị ứng da",
+        "description": "Bôi một số chất lên da để xem cơ thể phản ứng, nếu dị ứng sẽ xuất hiện vết đỏ hoặc sưng tấy"
+      },
+      {
+        "name": "Xét nghiệm máu hoặc RAST",
+        "description": "Đo lượng kháng thể immunoglobulin E đối với các chất gây dị ứng cụ thể trong máu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc chọn phương pháp điều trị viêm mũi xoang dị ứng sẽ phụ thuộc vào mức độ triệu chứng cũng như bệnh nhân có tình trạng viêm xoang kèm theo hay không. Người bệnh chỉ nên dùng thuốc khi có chỉ định của bác sĩ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng Histamin",
+        "description": "Giúp người bệnh giảm các triệu chứng khó chịu bằng cách ngăn tiết Histamin trong các phản ứng dị ứng. Có dạng viên uống, siro, hoặc dạng xịt."
+      },
+      {
+        "name": "Thuốc Corticoid",
+        "description": "Giúp làm giảm viêm và giảm các triệu chứng. Dạng xịt thường được sử dụng kết hợp với thuốc kháng Histamin và có thể sử dụng lâu dài mà ít gây biến chứng."
+      },
+      {
+        "name": "Thuốc ức chế leukotriene",
+        "description": "Ngăn chặn hoạt động của leukotrienes - hóa chất do hệ thống miễn dịch tiết ra gây các triệu chứng viêm mũi xoang dị ứng."
+      },
+      {
+        "name": "Thuốc thông mũi",
+        "description": "Có dạng uống và dạng xịt giúp cải thiện tình trạng nghẹt mũi bằng cách tác động lên các thụ thể adrenergic, gây co mạch ở niêm mạc mũi."
+      },
+      {
+        "name": "Thuốc xịt cromolyn natri",
+        "description": "Giúp ổn định dưỡng bào trong cơ thể, ngăn chặn sản xuất các chất gây phản ứng dị ứng như histamine, hiệu quả nhất khi dùng trước khi tiếp xúc với chất gây dị ứng."
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Tiêm định kỳ một lượng nhỏ chất gây dị ứng vào cơ thể trong 3-5 năm hoặc đặt thuốc dưới lưỡi, giúp cơ thể quen dần với các chất gây dị ứng."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Được chỉ định khi có tình trạng viêm xoang mạn tính dị ứng bội nhiễm, kèm phì đại cuốn mũi, polyp mũi không đáp ứng với điều trị bằng thuốc."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tránh tiếp xúc với các chất có thể gây dị ứng",
+      "Vệ sinh mũi thường xuyên bằng nước muối sinh lý",
+      "Tuân thủ đúng liều lượng và thời gian dùng thuốc theo chỉ định",
+      "Thăm khám định kỳ để đánh giá hiệu quả điều trị",
+      "Nhận thức về cơ địa dị ứng của bản thân"
+    ],
+    "prevention_of_transmission": [
+      "Viêm xoang mũi dị ứng không lây truyền từ người sang người"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Hiện không có vaccine đặc hiệu phòng ngừa viêm xoang mũi dị ứng, tuy nhiên tiêm phòng vắc-xin cúm có thể hỗ trợ phòng ngừa các yếu tố làm nặng thêm bệnh.",
+      "recommended_for": ["Người có tiền sử viêm mũi xoang dị ứng"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Luôn giữ nhà cửa sạch sẽ, hút bụi hàng ngày",
+      "Không nên nuôi thú nuôi trong nhà",
+      "Luôn đeo khẩu trang khi ra khỏi nhà, nhất là trong các mùa bạn thường bị dị ứng",
+      "Nếu dị ứng với phấn hoa, tìm và loại bỏ nguồn hoa gây dị ứng khỏi khu vực sống",
+      "Tránh tiếp xúc với khói thuốc lá",
+      "Tăng cường miễn dịch qua chế độ ăn uống khoa học và tập thể dục thường xuyên",
+      "Nếu dị ứng theo mùa, có thể điều trị bằng liệu pháp miễn dịch trước mùa dị ứng",
+      "Xịt rửa mũi thường xuyên để thanh thải và loại bỏ các tác nhân gây dị ứng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm xoang mũi dị ứng có nguy hiểm không?",
+      "answer": "Viêm mũi xoang dị ứng mặc dù không đặc biệt nghiêm trọng, nhưng nếu các triệu chứng của bệnh kéo dài sẽ gây ra sự mệt mỏi, khó chịu, suy giảm miễn dịch, ảnh hưởng đến sinh hoạt, giấc ngủ và học tập. Những đợt viêm mũi xoang dị ứng tái phát nhiều lần hoặc kéo dài có thể dẫn đến niêm mạc mũi phì đại, thoái hóa hình thành polyp mũi, làm bệnh nhân xuất hiện nghẹt mũi ngay cả khi không đang có tình trạng dị ứng mũi."
+    },
+    {
+      "question": "Viêm xoang mũi dị ứng kiêng gì và ăn gì?",
+      "answer": "Không có chế độ ăn uống nào được khuyến nghị chính thức cho bệnh nhân viêm xoang mũi dị ứng. Nhưng chế độ ăn uống có lợi cho miễn dịch để ngăn ngừa các yếu tố viêm có thể hữu ích. Người bệnh nên uống nhiều nước, ăn nhiều các loại rau, củ, quả chứa vitamin C như trái cây họ cam, cải bó xôi, và hạn chế ăn các loại thực phẩm mà cơ địa bị dị ứng với nó."
+    },
+    {
+      "question": "Làm thế nào để phân biệt viêm xoang mũi dị ứng với cảm cúm thông thường?",
+      "answer": "Viêm xoang mũi dị ứng thường có các triệu chứng như ngứa mũi, mắt, chảy nước mũi trong và hắt hơi liên tục, đặc biệt khi tiếp xúc với tác nhân gây dị ứng. Các triệu chứng này thường không đi kèm với sốt cao. Trong khi đó, cảm cúm thường có các triệu chứng như sốt cao, đau nhức cơ thể, mệt mỏi và nước mũi có thể đặc, vàng hoặc xanh. Nếu không chắc chắn, nên thăm khám bác sĩ để được chẩn đoán chính xác."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngứa mũi, hắt xì liên tục và chảy nước mũi trong. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang mũi dị ứng",
+        "Viêm mũi dị ứng",
+        "Viêm mũi dị ứng theo mùa"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa mắt, chảy nước mắt và nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang mũi dị ứng",
+        "Viêm kết mạc dị ứng",
+        "Viêm mũi dị ứng"
+      ]
+    },
+    {
+      "question": "Tôi bị dị ứng phấn hoa và hiện đang hắt xì, chảy nước mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang mũi dị ứng",
+        "Viêm mũi dị ứng theo mùa",
+        "Viêm kết mạc dị ứng"
+      ]
+    },
+    {
+      "question": "Tôi bị ngứa mũi, chảy nước mũi và nhức đầu khi thời tiết thay đổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang mũi dị ứng",
+        "Viêm mũi dị ứng thời tiết",
+        "Viêm xoang"
+      ]
+    },
+    {
+      "question": "Tôi bị nghẹt mũi, chảy nước mũi và giảm khứu giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang mũi dị ứng",
+        "Viêm xoang mạn tính",
+        "Viêm mũi"
+      ]
     }
   ]
 }

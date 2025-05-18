@@ -1,58 +1,186 @@
 {
   "disease_id": "viem-tai-ngoai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tai ngoài",
+  "disease_alternative_names": [
+    "Viêm tai ngoài cấp tính",
+    "Viêm tai ngoài mạn tính",
+    "Viêm tai ngoài ác tính (hoại tử)",
+    "External otitis"
+  ],
+  "disease_definition": "Viêm tai ngoài là tình trạng nhiễm trùng vùng tai ngoài dẫn đến viêm, sưng tấy, đỏ và đau. Tình trạng viêm có thể lây lan sang các mô lân cận và gây ra một số biến chứng nếu không được điều trị phù hợp. Tai ngoài bao gồm vành tai và ống tai ngoài. Ống tai ngoài dẫn từ màng nhĩ đến vành tai.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau tai",
+      "description": "Cơn đau dữ dội trong tai, thường trở nên tồi tệ hơn khi kéo vành tai"
+    },
+    {
+      "name": "Chảy dịch tai",
+      "description": "Có dịch chảy ra từ tai, có thể kèm theo mùi hôi"
+    },
+    {
+      "name": "Ngứa tai",
+      "description": "Cảm giác ngứa trong tai, thường khiến người bệnh muốn gãi"
+    },
+    {
+      "name": "Sưng tấy ống tai",
+      "description": "Ống tai sưng, phù nề, có thể bít lấp hoàn toàn ống tai"
+    },
+    {
+      "name": "Ù tai",
+      "description": "Cảm giác ù tai, nghe tiếng ù trong tai"
+    },
+    {
+      "name": "Nghe kém",
+      "description": "Khả năng nghe giảm do ống tai bị bít lấp bởi sưng phù hoặc dịch tiết"
+    },
+    {
+      "name": "Da ống tai thay đổi",
+      "description": "Da của ống tai có thể đỏ hoặc nhợt nhạt do phù nề; trong viêm tai ngoài mạn tính, da ống tai khô, có vảy, ẩm đỏ hoặc bóng"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt có thể xuất hiện trong các trường hợp nặng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nhiễm trùng tai ngoài thường do vi khuẩn gây ra. Các loại vi khuẩn gây bệnh phổ biến nhất là S. aureus và S. aureus [MRSA]. Nhưng nấm cũng là một tác nhân phổ biến gây nấm ống tai ngoài, đặc biệt là các loài nấm Aspergillus niger và Candida albicans.",
+    "related_factors": "Các bệnh về da hoặc các phản ứng dị ứng, chẳng hạn như dị ứng với dầu gội đầu cũng có thể dẫn đến viêm tai ngoài.",
+    "transmission_routes": [
+      "Không được xem là bệnh lây nhiễm từ người sang người"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bơi lội: Tai tiếp xúc với nước hồ bơi, vệ sinh tai không đúng cách",
+    "Chấn thương nhỏ ở tai: Sử dụng bông ngoáy tai hoặc thường xuyên đeo tai nghe",
+    "Tiền sử bị viêm tai: Người đã bị viêm tai ngoài dễ bị tái nhiễm",
+    "Lấy ráy tai không đảm bảo an toàn: Sử dụng chung dụng cụ lấy ráy tai không tiệt trùng",
+    "Mắc các bệnh về da như chàm hoặc bệnh vẩy nến",
+    "Bệnh đái tháo đường hoặc suy giảm miễn dịch (đặc biệt cho viêm tai ngoài ác tính)",
+    "Tuổi cao (viêm tai ngoài ác tính chủ yếu ở nam giới cao tuổi)"
+  ],
+  "complications": [
+    "Nhiễm trùng lan sang các mô lân cận",
+    "Tắc nghẽn ống tai",
+    "Xơ hóa ống tai tiến triển (trong viêm tai ngoài mạn tính)",
+    "Viêm màng não và viêm cốt tủy xương của nền sọ bên (trong viêm tai ngoài ác tính)",
+    "Tử vong (đối với viêm tai ngoài ác tính)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử và thăm khám lâm sàng",
+      "Đánh giá triệu chứng đặc trưng như đau tai, tăng khi kéo vành tai",
+      "Đánh giá mức độ sưng nề ống tai"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai",
+        "description": "Bác sĩ sẽ nội soi tai để đánh giá ống tai phía trong, màng nhĩ và tai giữa, quan sát các dấu hiệu đặc trưng như sưng nề, đỏ hoặc nhợt nhạt do phù nề"
+      },
+      {
+        "name": "Lấy mẫu dịch tai nuôi cấy",
+        "description": "Có thể lấy mẫu dịch tai để nuôi cấy và làm kháng sinh đồ, xác định chính xác tác nhân gây bệnh"
+      },
+      {
+        "name": "Chụp CT scan",
+        "description": "Trong một số trường hợp nặng, khó đánh giá cần phải chụp CT scan để chẩn đoán chính xác mức độ của bệnh"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị viêm tai ngoài phụ thuộc vào mức độ, loại viêm (cấp tính, mạn tính, ác tính) và nguyên nhân gây bệnh (vi khuẩn, nấm hoặc nhọt).",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Làm sạch ống tai",
+        "description": "Được thực hiện tại bệnh viện bởi bác sĩ chuyên khoa Tai Mũi Họng, giúp loại bỏ ráy tai và dịch tiết. Bác sĩ sẽ nội soi hoặc dùng kính hiển vi, sử dụng ống hút hoặc các dụng cụ chuyên dụng."
+      },
+      {
+        "name": "Điều trị tại chỗ",
+        "description": "Sử dụng thuốc nhỏ tai kháng sinh, kháng viêm hoặc kháng nấm tùy theo nguyên nhân. Trong trường hợp nhiễm nấm, bác sĩ sẽ lấy hết mô nấm và dùng thuốc kháng nấm."
+      },
+      {
+        "name": "Điều trị toàn thân",
+        "description": "Đối với các trường hợp viêm tai nặng, ống tai phù nề, bệnh lan rộng, người bệnh đái tháo đường hoặc suy giảm miễn dịch, có thể dùng kháng sinh đường uống hoặc tiêm truyền (đặc biệt cho viêm tai ngoài ác tính)."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số trường hợp như viêm tai ngoài ác tính có mô và xương hoại tử hoặc viêm tai ngoài mạn tính gây hẹp ống tai, có thể cần phẫu thuật."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Giữ ống tai khô ráo, tránh dầu gội đầu hoặc xà phòng rơi vào tai",
+      "Khi điều trị bằng thuốc nhỏ tai, nên nằm nghiêng khi nhỏ thuốc và tiếp tục nằm nghiêng 3-5 phút sau đó",
+      "Nhẹ nhàng ấn nhẹ nắp tai qua lại để thuốc vào sâu trong tai",
+      "Tuân thủ lịch tái khám sau 48-72 giờ điều trị để đánh giá đáp ứng",
+      "Nếu các triệu chứng không cải thiện, cần thăm khám chuyên khoa lại"
+    ],
+    "prevention_of_transmission": ["Tránh dùng chung dụng cụ vệ sinh tai"]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa viêm tai ngoài",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không đưa các vật nhọn vào ống tai, không lấy ráy bằng dụng cụ bằng kim loại",
+      "Đeo bịt tai khi đi bơi, khi tắm",
+      "Sau khi bơi, tắm xong nên nghiêng đầu sang một bên và kéo dái tai xuống để nước chảy ra ngoài",
+      "Lau khô bên ngoài lỗ tai sau khi tắm bằng bông ngoáy tai, không vào sâu lỗ tai",
+      "Tránh sử dụng các loại dầu gội, dầu xả gây dị ứng",
+      "Chú ý vệ sinh thiết bị tai nghe dạng nút tai, tránh ẩm mốc và hạn chế dùng tai nghe kéo dài",
+      "Tránh rửa tai bằng xà phòng",
+      "Tránh bơi trong nước bị ô nhiễm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tai ngoài có nguy hiểm không?",
+      "answer": "Viêm tai ngoài có nhiều mức độ nghiêm trọng từ nhiễm trùng nhẹ ống tai ngoài đến viêm tai ngoài ác tính đe dọa tính mạng nếu không được điều trị kịp thời. Viêm tai ngoài ác tính có thể gây viêm màng não và viêm cốt tủy xương của nền sọ bên, đe dọa tính mạng, đặc biệt ở người cao tuổi, người đái tháo đường và người suy giảm miễn dịch."
+    },
+    {
+      "question": "Viêm tai ngoài có tự khỏi?",
+      "answer": "Viêm tai ngoài không thể tự khỏi. Người bệnh cần điều trị ngay khi phát hiện để phòng ngừa nguy cơ nhiễm trùng lan sang các mô lân cận. Không nên tự ý điều trị tại nhà mà cần đến cơ sở y tế để được chẩn đoán và điều trị đúng cách."
+    },
+    {
+      "question": "Viêm tai ngoài bao lâu thì khỏi?",
+      "answer": "Viêm tai ngoài thường khỏi trong 10 ngày nếu điều trị đúng cách, có thể kéo dài vài tuần nếu không điều trị đúng. Viêm tai ngoài cấp tính thường cải thiện sau vài ngày điều trị, trong khi viêm tai ngoài mạn tính có thể kéo dài trên 3 tháng. Viêm tai ngoài ác tính thường cần điều trị kháng sinh trong ít nhất 4-6 tuần."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau tai, chảy dịch tai và ngứa tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai ngoài",
+        "Viêm tai giữa có thủng màng nhĩ",
+        "Viêm ống tai ngoài do nấm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ù tai, nghe kém và sưng tấy ống tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai ngoài",
+        "Viêm tai giữa",
+        "Tắc nghẽn ống tai do ráy tai"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tai, đặc biệt là khi kéo vành tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai ngoài",
+        "Nhọt ống tai ngoài",
+        "Chấn thương ống tai"
+      ]
+    },
+    {
+      "question": "Tôi vừa đi bơi về và hiện đang bị đau tai, chảy dịch tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tai ngoài", "Tai người bơi lội", "Nấm ống tai"]
+    },
+    {
+      "question": "Tôi bị đau tai, chảy dịch tai và bị tiểu đường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai ngoài",
+        "Viêm tai ngoài ác tính",
+        "Nhiễm trùng tai"
+      ]
     }
   ]
 }

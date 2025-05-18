@@ -1,39 +1,126 @@
 {
   "disease_id": "viem-khop-nhiem-khuan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm khớp nhiễm khuẩn",
+  "disease_alternative_names": [
+    "Nhiễm trùng khớp",
+    "Viêm khớp nhiễm trùng",
+    "Viêm khớp truyền nhiễm"
+  ],
+  "disease_definition": "Viêm khớp nhiễm khuẩn là tình trạng viêm nhiễm trong khớp do vi khuẩn trực tiếp gây ra. Đây là tình trạng nhiễm trùng bên trong khớp do vi khuẩn xâm nhập nội khớp, gây ra sưng tấy và đau khớp. Viêm khớp nhiễm khuẩn rất ít khi xuất hiện cùng lúc ở nhiều khớp.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt cao",
+      "description": "Người bệnh thường có biểu hiện sốt cao, đây là phản ứng của cơ thể đối với tình trạng nhiễm khuẩn."
+    },
+    {
+      "name": "Đau nhói tại khớp",
+      "description": "Cảm giác đau nhói tại khớp bị viêm, đặc biệt khi cử động khớp, gây khó khăn trong vận động."
+    },
+    {
+      "name": "Sưng và đỏ khớp",
+      "description": "Các khớp bị viêm sẽ sưng và đỏ, dễ nhận thấy bằng mắt thường."
+    },
+    {
+      "name": "Cảm giác ấm, nóng tại khớp",
+      "description": "Xuất hiện tình trạng ấm, nóng tại vị trí khớp bị viêm do phản ứng viêm và tăng lưu lượng máu."
+    },
+    {
+      "name": "Chán ăn, bỏ ăn (ở trẻ em)",
+      "description": "Trẻ em bị viêm khớp nhiễm khuẩn thường có biểu hiện chán ăn, bỏ ăn."
+    },
+    {
+      "name": "Thể trạng bất ổn (ở trẻ em)",
+      "description": "Trẻ em có thể có biểu hiện thể trạng bất ổn, không như bình thường."
+    },
+    {
+      "name": "Tim đập nhanh (ở trẻ em)",
+      "description": "Nhịp tim ở trẻ em có thể tăng nhanh do phản ứng của cơ thể với tình trạng nhiễm khuẩn."
+    },
+    {
+      "name": "Luôn cảm thấy khó chịu, quấy khóc (ở trẻ em)",
+      "description": "Trẻ em thường xuyên quấy khóc, tỏ ra khó chịu khi bị viêm khớp nhiễm khuẩn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân gây ra tình trạng viêm nhiễm ở khớp chủ yếu là vi khuẩn, đôi khi có thể do virus hay nấm. Vi khuẩn staphylococcus aureus (tụ cầu khuẩn) là thủ phạm gây bệnh hàng đầu.",
+    "related_factors": "Viêm khớp nhiễm khuẩn có thể xảy ra sau khi cơ thể bị một nhiễm khuẩn nào đó như nhiễm trùng da hay nhiễm trùng đường tiểu, lây lan qua máu đến khớp. Một số nguyên nhân ít phổ biến hơn là vết thương xuyên khớp, sau tiêm thuốc hay sau phẫu thuật vào khớp hoặc gần khớp.",
+    "transmission_routes": [
+      "Qua đường máu từ nhiễm khuẩn ở nơi khác trong cơ thể",
+      "Trực tiếp từ vết thương xuyên khớp",
+      "Sau tiêm thuốc hoặc phẫu thuật vào khớp"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Vấn đề sẵn có tại khớp (viêm xương khớp, gút, viêm khớp dạng thấp, lupus, khớp nhân tạo, chấn thương khớp, phẫu thuật vào khớp)",
+    "Dùng thuốc điều trị viêm khớp dạng thấp (có thể gây ức chế hoạt động của hệ miễn dịch)",
+    "Da không khỏe mạnh (bệnh vẩy nến, bệnh chàm)",
+    "Hệ miễn dịch yếu (tiểu đường, bệnh lý về gan và thận, đang sử dụng thuốc ức chế hệ miễn dịch)",
+    "Chấn thương khớp (vết cắn động vật, vết thương xuyên khớp hay vết cắt qua khớp)"
+  ],
+  "complications": [
+    "Thoái hóa khớp",
+    "Tổn thương khớp vĩnh viễn",
+    "Viêm xương khớp",
+    "Biến dạng khớp",
+    "Phải phẫu thuật tái tạo khớp khi tình trạng viêm nhiễm trầm trọng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Xét nghiệm dịch khớp",
+      "Xét nghiệm máu",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm dịch khớp",
+        "description": "Dịch khớp được chọc hút từ khớp viêm rồi mang đi xét nghiệm. Kết quả xét nghiệm sẽ giúp bác sĩ xác định khớp có nhiễm khuẩn hay không, nhiễm loại vi khuẩn nào, từ đó định hướng quá trình điều trị phù hợp."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kết quả từ xét nghiệm này có thể xác định những dấu hiệu của nhiễm khuẩn như số lượng bạch cầu tăng cao, các chỉ số viêm CRP, máu lắng tăng."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Chụp X-quang khớp bị viêm giúp đánh giá tình trạng bệnh, phát hiện các dấu hiệu của tổn thương xương và khớp."
+      },
+      {
+        "name": "Các kỹ thuật chẩn đoán hình ảnh khác",
+        "description": "Có thể bao gồm chụp CT, MRI để đánh giá chi tiết hơn về tình trạng của khớp bị viêm và các mô xung quanh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm khớp nhiễm khuẩn cần được điều trị sớm và tích cực để ngăn ngừa tổn thương khớp vĩnh viễn. Phần lớn người bệnh sẽ nhận thấy các triệu chứng bệnh dần thuyên giảm trong khoảng 48 giờ sau khi bắt đầu điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng kháng sinh",
+        "description": "Bác sĩ sẽ dựa vào kết quả xét nghiệm để chọn một loại kháng sinh có khả năng tiêu diệt vi khuẩn gây viêm khớp. Người bệnh sẽ được tiêm kháng sinh vào tĩnh mạch để đảm bảo khớp bị viêm đã nhanh chóng nhận được thuốc tiêu diệt vi khuẩn, sau đó sử dụng kháng sinh bằng đường uống. Quá trình điều trị thường kéo dài trong 2-6 tuần."
+      },
+      {
+        "name": "Thoát dịch khớp",
+        "description": "Bác sĩ có thể phải tháo dịch khớp khỏi khớp bị nhiễm trùng nếu tình trạng viêm nhiễm tái tiết dịch quá nhanh. Thoát dịch bị nhiễm từ khớp là để loại bỏ vi khuẩn tại khớp, giảm áp lực lên khớp và cung cấp cho bác sĩ mẫu thử để kiểm tra. Phương pháp phổ biến của loại bỏ dịch khớp là thông qua nội soi khớp."
+      },
+      {
+        "name": "Chọc hút dịch khớp viêm",
+        "description": "Có thể thực hiện bằng kim hút arthrocentesis. Phương pháp điều trị này có thể được lặp đi lặp lại mỗi ngày cho đến khi không còn vi khuẩn trong dịch khớp."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Nếu tình trạng viêm khớp nhiễm trùng tại khớp hông, bệnh nhân có thể cần đến phẫu thuật mở để thoát dịch. Trong một số trường hợp, phẫu thuật có thể thực hiện thêm nhiều lần nhằm đảm bảo loại bỏ 100% vi khuẩn ra khỏi dịch khớp."
+      },
+      {
+        "name": "Vận động nhẹ nhàng",
+        "description": "Khi đã kiểm soát được tình trạng nhiễm trùng, bệnh nhân có thể được khuyến khích cử động nhẹ nhàng để duy trì chức năng khớp. Chuyển động nhẹ sẽ giúp ngăn ngừa tình trạng cứng khớp và yếu cơ, đồng thời hỗ trợ lưu thông máu, giúp quá trình phục hồi tiến triển nhanh hơn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng chỉ định của bác sĩ về liều lượng và thời gian sử dụng kháng sinh",
+      "Theo dõi các tác dụng phụ của thuốc kháng sinh như buồn nôn, nôn và tiêu chảy",
+      "Nghỉ ngơi đủ để giảm áp lực lên khớp bị viêm",
+      "Khi tình trạng nhiễm trùng đã được kiểm soát, tập vận động nhẹ nhàng để duy trì chức năng khớp",
+      "Đến khám bác sĩ ngay khi có dấu hiệu sốt cao, đau nhức khớp hoặc sưng đỏ khớp"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +128,112 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện vô trùng tuyệt đối khi tiến hành các thủ thuật, phẫu thuật khớp",
+      "Điều trị dứt điểm những dạng nhiễm khuẩn khác trên cơ thể như tại da, phần mềm và xương",
+      "Giữ gìn vệ sinh cá nhân tốt để ngăn ngừa nhiễm trùng",
+      "Xử lý kịp thời các vết thương để tránh nhiễm khuẩn lan sang khớp",
+      "Kiểm soát tốt các bệnh mạn tính như tiểu đường, bệnh thận để duy trì hệ miễn dịch khỏe mạnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm khớp nhiễm khuẩn có điều trị khỏi được không?",
+      "answer": "Viêm khớp nhiễm trùng có thể được điều trị dứt điểm khi người bệnh chủ động thăm khám sớm. Phần lớn người bệnh sẽ nhận thấy các triệu chứng bệnh dần thuyên giảm trong khoảng 48 giờ sau khi bắt đầu điều trị. Tuy nhiên, nếu không được điều trị kịp thời và đúng cách, viêm khớp nhiễm trùng có thể khiến khớp bị tổn thương vĩnh viễn."
+    },
+    {
+      "question": "Viêm khớp nhiễm khuẩn thường gặp ở những khớp nào?",
+      "answer": "Các khớp thường dễ bị nhiễm trùng là khớp gối, khớp hông, khớp cổ tay, khuỷu tay, khớp vai và khớp mắt cá chân. Ở người trưởng thành, các khớp tay và chân, nhất là đầu gối dễ bị ảnh hưởng. Ở trẻ em, phần lớn khớp hông có khả năng bị ảnh hưởng. Một số trường hợp hiếm, có thể xuất hiện tình trạng khớp nhiễm khuẩn ở cổ, lưng và đầu."
+    },
+    {
+      "question": "Những ai có nguy cơ cao mắc viêm khớp nhiễm khuẩn?",
+      "answer": "Những người có nguy cơ cao mắc viêm khớp nhiễm khuẩn bao gồm: người có vấn đề sẵn có tại khớp (viêm xương khớp, gút, viêm khớp dạng thấp, lupus, khớp nhân tạo, chấn thương khớp), người dùng thuốc điều trị viêm khớp dạng thấp, người có vấn đề về da (bệnh vẩy nến, bệnh chàm), người có hệ miễn dịch yếu (tiểu đường, bệnh lý về gan và thận), và người bị chấn thương khớp (vết cắn động vật, vết thương xuyên khớp)."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm khớp nhiễm khuẩn?",
+      "answer": "Không có biện pháp phòng ngừa tất cả nguy cơ gây viêm khớp nhiễm khuẩn. Tuy nhiên, có thể giảm thiểu nguy cơ bằng cách thực hiện vô trùng tuyệt đối khi tiến hành các thủ thuật, phẫu thuật khớp. Ngoài ra, cần điều trị dứt điểm những dạng nhiễm khuẩn khác trên cơ thể như tại da, phần mềm và xương, giữ gìn vệ sinh cá nhân tốt, và kiểm soát tốt các bệnh mạn tính."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau khớp, sưng khớp và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-nhiem-khuan",
+        "thap-khop-cap",
+        "viem-khop-phan-ung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhói ở khớp, đặc biệt là khi cử động và khớp bị sưng, đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-nhiem-khuan",
+        "gut",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sốt, ớn lạnh và đau khớp, nhất là khớp gối. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-nhiem-khuan",
+        "thap-khop-cap",
+        "viem-khop-do-sot-thap"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng sưng, nóng, đỏ ở khớp và có tiền sử chấn thương khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-nhiem-khuan",
+        "viem-khop-sau-chan-thuong",
+        "viem-bao-hoat-dich"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức khớp, sưng khớp và có vết thương hở gần khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-nhiem-khuan",
+        "nhiem-trung-mo-mem",
+        "viem-xuong-tuy"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sốt cao, mệt mỏi và đau khớp, đặc biệt là khớp háng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-nhiem-khuan",
+        "thap-khop-cap",
+        "viem-cau-than-cap"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau nhức khớp, sưng khớp và có tiền sử tiêm thuốc vào khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-nhiem-khuan",
+        "phan-ung-sau-tiem-khop",
+        "viem-bao-hoat-dich"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức khớp, sưng khớp và có tiền sử phẫu thuật khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-nhiem-khuan",
+        "nhiem-trung-sau-phau-thuat",
+        "long-khop-nhan-tao"
+      ]
+    },
+    {
+      "question": "Tôi hay bị suy giảm hệ miễn dịch do bệnh tiểu đường và đau khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-nhiem-khuan",
+        "viem-xuong-khop-do-tieu-duong",
+        "thoai-hoa-khop"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau nhức khớp, sưng khớp và đang sử dụng thuốc ức chế miễn dịch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-nhiem-khuan",
+        "viem-khop-do-thuoc",
+        "lupus"
+      ]
     }
   ]
 }

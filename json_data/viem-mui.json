@@ -1,58 +1,196 @@
 {
   "disease_id": "viem-mui",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm mũi",
+  "disease_alternative_names": ["Rhinitis"],
+  "disease_definition": "Viêm mũi là tình trạng viêm sưng lớp niêm mạc ở khoang mũi, dẫn đến các triệu chứng nghẹt mũi, chảy nước mũi, ngứa và hắt hơi. Viêm mũi có thể ảnh hưởng đến người bệnh trong ngắn hạn (cấp tính) hoặc dài hạn (mạn tính).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nghẹt mũi",
+      "description": "Cảm giác bít tắc ở mũi, khó thở qua mũi"
+    },
+    {
+      "name": "Sổ mũi",
+      "description": "Chảy nước mũi nhiều"
+    },
+    {
+      "name": "Ngứa mũi, họng, mắt và tai",
+      "description": "Cảm giác ngứa ran ở mũi, họng, và các vùng liên quan"
+    },
+    {
+      "name": "Chảy dịch mũi sau",
+      "description": "Dịch từ mũi chảy xuống họng"
+    },
+    {
+      "name": "Hắt xì",
+      "description": "Hắt hơi thường xuyên, đôi khi liên tục"
+    },
+    {
+      "name": "Ho",
+      "description": "Ho do kích thích từ dịch mũi chảy xuống họng"
+    },
+    {
+      "name": "Viêm họng",
+      "description": "Đau rát ở họng"
+    },
+    {
+      "name": "Chảy nước mắt",
+      "description": "Mắt bị kích thích và chảy nước"
+    },
+    {
+      "name": "Ngủ ngáy",
+      "description": "Ngáy khi ngủ do tắc nghẽn đường thở"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Cảm giác đau ở vùng đầu"
+    },
+    {
+      "name": "Đau mặt",
+      "description": "Đau ở vùng mặt, đặc biệt quanh mũi và xoang"
+    },
+    {
+      "name": "Giảm khứu giác, vị giác hoặc thính giác",
+      "description": "Giảm khả năng cảm nhận mùi, vị hoặc nghe"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm mũi có nhiều nguyên nhân khác nhau tùy thuộc vào loại viêm mũi. Viêm mũi dị ứng xảy ra khi hệ thống miễn dịch phản ứng với các dị nguyên từ môi trường. Viêm mũi không dị ứng không liên quan đến hệ miễn dịch.",
+    "related_factors": "Viêm mũi cấp tính thường do nhiễm virus, vi khuẩn hoặc dị ứng. Viêm mũi mạn tính thường đi kèm với viêm xoang-họng mạn tính.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử bệnh hen suyễn hoặc các loại dị ứng khác",
+    "Tiền sử gia đình có người bị dị ứng hoặc hen suyễn",
+    "Môi trường sống hoặc làm việc tiếp xúc với dị nguyên",
+    "Tuổi trên 20 (đối với viêm mũi không dị ứng)",
+    "Giới tính nữ (do thay đổi nội tiết tố trong kỳ kinh nguyệt và thai kỳ)",
+    "Tiếp xúc thường xuyên với chất kích thích như khói bụi, khói thải",
+    "Nghề nghiệp tiếp xúc với chất gây kích ứng",
+    "Các bệnh lý mãn tính như suy giáp, hội chứng mệt mỏi mãn tính và bệnh tiểu đường"
+  ],
+  "complications": [
+    "Viêm xoang mạn tính",
+    "Viêm họng mạn tính",
+    "Suy giảm chất lượng cuộc sống",
+    "Rối loạn giấc ngủ",
+    "Giảm khứu giác"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Kiểm tra bệnh sử và triệu chứng",
+      "Đánh giá các phản ứng dị ứng",
+      "Kiểm tra cấu trúc mũi"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm dị ứng",
+        "description": "Xét nghiệm máu hoặc xét nghiệm da để xác định các chất gây dị ứng"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Xác định chẩn đoán và kiểm tra những thay đổi trong khoang mũi, loại trừ viêm xoang"
+      },
+      {
+        "name": "Nội soi mũi",
+        "description": "Kiểm tra bên trong khoang mũi, loại trừ viêm xoang hoặc các bất thường cấu trúc"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị viêm mũi phụ thuộc vào nguyên nhân gây bệnh và chẩn đoán cụ thể.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Tránh dị nguyên",
+        "description": "Tránh tiếp xúc với các chất gây dị ứng là cách tốt nhất để ngăn các triệu chứng của viêm mũi dị ứng"
+      },
+      {
+        "name": "Thuốc xịt mũi corticosteroid",
+        "description": "Giúp giảm viêm và các triệu chứng của viêm mũi"
+      },
+      {
+        "name": "Thuốc kháng histamine",
+        "description": "Giúp giảm các triệu chứng dị ứng như hắt hơi, sổ mũi và ngứa"
+      },
+      {
+        "name": "Thuốc thông mũi",
+        "description": "Giúp giảm nghẹt mũi, nhưng cần tránh lạm dụng để không gây viêm mũi do thuốc"
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Giúp giảm độ nhạy cảm của cơ thể với các chất gây dị ứng thông qua việc tiếp xúc dần dần với các dị nguyên"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Có thể cần thiết nếu nguyên nhân của các triệu chứng là các bất thường trong cấu trúc khoang mũi"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tránh các tác nhân gây bệnh hoặc khiến các triệu chứng bệnh thêm trầm trọng",
+      "Không lạm dụng thuốc thông mũi",
+      "Liên hệ lại với bác sĩ nếu việc điều trị không hiệu quả"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa bệnh viêm mũi",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh các tác nhân gây bệnh hoặc làm trầm trọng triệu chứng",
+      "Không lạm dụng thuốc thông mũi",
+      "Bổ sung thực phẩm giàu vitamin C để tăng sức đề kháng",
+      "Bổ sung thực phẩm giàu omega-3",
+      "Uống đủ nước và các loại canh, súp ấm",
+      "Hạn chế ăn các thực phẩm dễ gây dị ứng",
+      "Tránh đồ ăn cay nóng",
+      "Hạn chế sữa và sản phẩm từ sữa",
+      "Không uống bia, rượu, cà phê"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm mũi dị ứng có thể phòng ngừa được không?",
+      "answer": "Không có cách nào để phòng ngừa bệnh viêm mũi dị ứng, vì nó là phản ứng của hệ thống miễn dịch. Dù vậy, để tránh các triệu chứng ảnh hưởng đến cuộc sống, người bệnh cần tìm cách hạn chế tối đa việc tiếp xúc với các chất gây dị ứng và dùng thuốc theo chỉ dẫn của bác sĩ."
+    },
+    {
+      "question": "Viêm mũi dị ứng khác gì với viêm mũi không dị ứng?",
+      "answer": "Viêm mũi dị ứng xảy ra khi hệ thống miễn dịch phản ứng với các dị nguyên từ môi trường, trong khi viêm mũi không dị ứng không bị kích hoạt bởi chất gây dị ứng và không liên quan đến phản ứng của hệ thống miễn dịch."
+    },
+    {
+      "question": "Viêm mũi thường diễn ra trong bao lâu?",
+      "answer": "Viêm mũi có thể ảnh hưởng đến người bệnh trong ngắn hạn (cấp tính) hoặc dài hạn (mạn tính). Viêm mũi cấp tính thường là do nhiễm virus, vi khuẩn hoặc dị ứng. Viêm mũi mạn tính thường đi kèm với các bệnh lý viêm xoang – họng mạn tính."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm sưng lớp niêm mạc ở khoang mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm mũi", "Viêm mũi dị ứng", "Viêm mũi mạn tính"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nghẹt mũi, chảy nước mũi, ngứa và hắt hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi",
+        "Viêm mũi dị ứng",
+        "Cảm lạnh thông thường"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm mũi cấp tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm mũi", "Viêm mũi dị ứng", "Viêm mũi do virus"]
+    },
+    {
+      "question": "Tôi đang cảm thấy nghẹt mũi, sổ mũi, ngứa mũi, họng, mắt và tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm mũi", "Viêm mũi dị ứng", "Viêm xoang"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như chảy dịch mũi sau, hắt xì, ho. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi",
+        "Viêm mũi dị ứng",
+        "Viêm xoang",
+        "Cảm lạnh"
+      ]
     }
   ]
 }

@@ -1,58 +1,220 @@
 {
   "disease_id": "ung-thu-vom-hong-giai-doan-dau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vòm họng giai đoạn đầu",
+  "disease_alternative_names": [
+    "Ung thư vòm họng giai đoạn sớm",
+    "Ung thư vòm họng giai đoạn 0-III (T1N2)"
+  ],
+  "disease_definition": "Ung thư vòm họng giai đoạn đầu là ung thư vòm họng ở giai đoạn từ 0 đến III (T1N2), khi bệnh còn giới hạn tại chỗ và tại vùng, chưa di căn sang các vị trí xa trong cơ thể. Đây là giai đoạn bệnh có tiên lượng tốt với tỷ lệ sống sau 5 năm từ 60-75%.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau khi nuốt hoặc khó nuốt",
+      "description": "Người bệnh có thể gặp khó khăn, đau rát hoặc cảm giác vướng khi nuốt thức ăn hoặc nước uống."
+    },
+    {
+      "name": "Các vấn đề về tai",
+      "description": "Đau tai, viêm tai giữa, ù tai, và có thể giảm khả năng nghe được âm thanh bình thường."
+    },
+    {
+      "name": "Đau họng hoặc ho dai dẳng",
+      "description": "Đau họng kéo dài không khỏi với thuốc thông thường hoặc ho kéo dài không rõ nguyên nhân."
+    },
+    {
+      "name": "Nổi hạch ở cổ",
+      "description": "Xuất hiện các khối u nhỏ ở cổ, có thể kèm theo sưng đau hoặc không. Đây thường là dấu hiệu phổ biến của ung thư vòm họng giai đoạn đầu."
+    },
+    {
+      "name": "Thay đổi giọng nói",
+      "description": "Khàn giọng hoặc giọng nói không rõ ràng kéo dài không khỏi với điều trị thông thường."
+    },
+    {
+      "name": "Chảy dịch mũi kéo dài",
+      "description": "Chảy dịch mũi liên tục, dịch có thể trong hoặc có màu, có thể lẫn máu hoặc mủ, không đáp ứng với các phương pháp điều trị thông thường."
+    },
+    {
+      "name": "Khạc đờm có máu",
+      "description": "Ho khạc ra đờm có lẫn máu, mủ hoặc các chất bất thường khác."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư vòm họng chưa xác định được nguyên nhân cụ thể, nhưng có liên quan đến nhiễm virus, đặc biệt là virus Epstein-Barr (EBV) và Human Papilloma Virus (HPV).",
+    "related_factors": "Các yếu tố nguy cơ như sử dụng thuốc lá, rượu bia, tiếp xúc với hóa chất độc hại và thói quen ăn uống không lành mạnh có thể làm tăng khả năng phát triển bệnh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sử dụng thuốc lá",
+    "Uống rượu bia không kiểm soát",
+    "Tiếp xúc với hóa chất độc hại",
+    "Chế độ ăn không lành mạnh",
+    "Nhiễm virus HPV",
+    "Có người thân trong gia đình mắc ung thư vòm họng",
+    "Thuộc chủng tộc Trung Quốc hoặc Đông Nam Á (bao gồm Việt Nam)",
+    "Quan hệ tình dục qua đường miệng và có nhiều bạn tình (tăng nguy cơ nhiễm HPV)"
+  ],
+  "complications": [
+    "Tái phát ung thư sau điều trị",
+    "Di căn đến các cơ quan xa trong cơ thể như phổi, xương, gan, hạch, não",
+    "Giảm chất lượng cuộc sống do các tác dụng phụ của điều trị",
+    "Suy giảm thính lực kéo dài",
+    "Khó khăn khi nuốt và nói"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi tiền sử bệnh của bản thân và gia đình",
+      "Khám lâm sàng vùng đầu cổ",
+      "Nội soi tai mũi họng",
+      "Chụp cắt lớp vi tính (CT) hoặc PET/CT",
+      "Chụp cộng hưởng từ (MRI)",
+      "Sinh thiết qua nội soi tai mũi họng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai mũi họng",
+        "description": "Dùng một ống nội soi nhỏ đưa qua mũi hoặc miệng để quan sát vòm họng, giúp phát hiện các bất thường như khối u, vết loét hoặc viêm."
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy một mẫu mô nhỏ từ khối u hoặc tổn thương nghi ngờ để kiểm tra dưới kính hiển vi, giúp xác định chính xác bản chất của tổn thương."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Tạo ra hình ảnh chi tiết của vòm họng, giúp xác định vị trí, kích thước của khối u và mức độ xâm lấn vào các mô xung quanh."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết hơn về các mô mềm, giúp đánh giá mức độ lan rộng của khối u và phát hiện di căn hạch."
+      },
+      {
+        "name": "PET/CT",
+        "description": "Kết hợp hình ảnh CT với chất đánh dấu phóng xạ để phát hiện hoạt động trao đổi chất bất thường, giúp xác định các vị trí ung thư đã lan đến."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Ung thư vòm họng giai đoạn đầu có tiên lượng tốt, với tỷ lệ sống trong 5 năm đạt 60-75% nếu được chẩn đoán và điều trị đúng cách.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xạ trị",
+        "description": "Phương pháp điều trị chính cho ung thư vòm họng giai đoạn đầu, sử dụng tia bức xạ năng lượng cao để tiêu diệt tế bào ung thư."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Thường kết hợp với xạ trị (hóa-xạ trị đồng thời) để tăng hiệu quả điều trị. Các thuốc hóa trị thường được sử dụng bao gồm Cisplatin, Carboplatin, 5-FU, Docetaxel, Gemcitabine, Capecitabine."
+      },
+      {
+        "name": "Hóa-xạ trị đồng thời",
+        "description": "Sự kết hợp giữa hóa trị và xạ trị đồng thời mang lại kết quả điều trị tốt hơn, giúp bệnh nhân sống lâu hơn so với chỉ xạ trị đơn thuần."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Hầu như không có vai trò trong điều trị triệt để ung thư vòm họng giai đoạn đầu. Tuy nhiên, có thể được chỉ định trong trường hợp còn hạch cổ sau khi kết thúc hóa-xạ trị."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch trình điều trị do bác sĩ đề ra",
+      "Thăm khám định kỳ sau khi hoàn thành điều trị để phát hiện sớm bệnh tái phát",
+      "Duy trì chế độ ăn uống lành mạnh, cân bằng dinh dưỡng",
+      "Tránh sử dụng thuốc lá và rượu bia",
+      "Tham gia các nhóm hỗ trợ bệnh nhân ung thư để được hỗ trợ về mặt tinh thần"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc-xin HPV giúp làm giảm nguy cơ nhiễm một số loại HPV, từ đó giảm nguy cơ mắc các bệnh ung thư liên quan đến HPV, bao gồm ung thư vùng miệng và hầu họng.",
+      "recommended_for": ["Thanh thiếu niên trước khi có hoạt động tình dục"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh sử dụng thuốc lá và rượu bia",
+      "Tránh tiếp xúc với hóa chất độc hại, sử dụng các biện pháp bảo hộ khi làm việc trong môi trường có nguy cơ",
+      "Duy trì chế độ ăn uống lành mạnh với đầy đủ các nhóm dinh dưỡng, nhiều trái cây, rau và ngũ cốc nguyên hạt",
+      "Tiêm vắc-xin HPV và thực hiện các biện pháp phòng ngừa lây nhiễm HPV",
+      "Khám sức khỏe định kỳ mỗi 6 tháng hoặc hàng năm",
+      "Chủ động tầm soát nếu có các yếu tố nguy cơ hoặc triệu chứng bất thường về tai mũi họng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư vòm họng giai đoạn đầu có chữa được không?",
+      "answer": "Có, ung thư vòm họng giai đoạn đầu có tỷ lệ điều trị thành công cao. Theo các nghiên cứu, tỷ lệ sống sau 5 năm có thể đạt 60-75% đối với bệnh nhân ung thư vòm họng giai đoạn đầu nếu được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Triệu chứng của ung thư vòm họng giai đoạn đầu là gì?",
+      "answer": "Triệu chứng của ung thư vòm họng giai đoạn đầu có thể bao gồm đau khi nuốt, đau tai, viêm tai giữa, ù tai, đau họng hoặc ho dai dẳng, nổi hạch ở cổ, thay đổi giọng nói (đặc biệt là khàn giọng), chảy dịch mũi kéo dài và khạc đờm có máu. Tuy nhiên, các triệu chứng này thường không rõ ràng và dễ nhầm lẫn với các bệnh viêm mũi họng thông thường."
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm ung thư vòm họng?",
+      "answer": "Để phát hiện sớm ung thư vòm họng, cần chú ý đến các triệu chứng bất thường kéo dài như đau khi nuốt, đau tai, ù tai, đau họng, ho dai dẳng, nổi hạch ở cổ, và đi khám bác sĩ ngay khi có các dấu hiệu này. Đặc biệt, nếu bạn thuộc nhóm có nguy cơ cao (như có tiền sử gia đình, thường xuyên sử dụng thuốc lá, rượu bia), nên tầm soát định kỳ bằng cách nội soi tai mũi họng."
+    },
+    {
+      "question": "Điều trị ung thư vòm họng giai đoạn đầu như thế nào?",
+      "answer": "Ung thư vòm họng giai đoạn đầu thường được điều trị bằng phác đồ kết hợp xạ trị và hóa trị. Phương pháp phổ biến nhất là hóa-xạ trị đồng thời, mang lại kết quả tốt hơn so với chỉ xạ trị đơn thuần. Phẫu thuật hầu như không có vai trò trong điều trị triệt để ung thư vòm họng giai đoạn đầu, trừ trường hợp cần lấy bỏ hạch cổ sau khi hoàn thành hóa-xạ trị."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau khi nuốt, đau tai, ù tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-dau",
+        "viem-amidan",
+        "viem-tai-giua"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau họng, ho dai dẳng và nổi hạch ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-dau",
+        "viem-amidan",
+        "lao-hang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy dịch mũi kéo dài, khạc đờm có máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-dau",
+        "viem-xoang",
+        "lao-phoi"
+      ]
+    },
+    {
+      "question": "Tôi hút thuốc lá nhiều năm và hiện tại bị đau họng, ho dai dẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-dau",
+        "viem-hong-man",
+        "ung-thu-phoi"
+      ]
+    },
+    {
+      "question": "Tôi uống rượu bia thường xuyên và hiện tại bị ù tai, chảy dịch mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-dau",
+        "viem-tai-giua",
+        "viem-xoang"
+      ]
+    },
+    {
+      "question": "Tôi có bố bị ung thư vòm họng và hiện tại bị đau khi nuốt, nổi hạch ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-dau",
+        "viem-amidan",
+        "viem-hong"
+      ]
+    },
+    {
+      "question": "Tôi tiếp xúc nhiều với hóa chất và hiện tại bị chảy dịch mũi, khạc đờm có máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-dau",
+        "viem-phoi-do-hoa-chat",
+        "viem-mui-man"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khi nuốt, đau tai, ù tai, chảy dịch mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-dau",
+        "viem-tai-mui-hong",
+        "viem-xoang"
+      ]
     }
   ]
 }

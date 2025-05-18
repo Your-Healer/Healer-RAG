@@ -1,58 +1,205 @@
 {
   "disease_id": "u-than-lanh-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U thận lành tính",
+  "disease_alternative_names": ["Khối u thận lành tính", "Benign kidney tumor"],
+  "disease_definition": "U thận lành tính là tình trạng khối u hình thành và phát triển trong quả thận, nhưng không có khả năng di căn đến các bộ phận khác của cơ thể. Đôi khi, kích thước của khối u có thể lớn dần, chèn lên các cơ quan nội tạng và các mô lân cận.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tăng huyết áp",
+      "description": "Người bệnh bị tăng huyết áp khá cao, đột ngột và gây nguy hiểm cho sức khỏe"
+    },
+    {
+      "name": "Tăng nhịp tim bất thường",
+      "description": "Nhiều trường hợp tăng đến 180 lần/phút"
+    },
+    {
+      "name": "Màu da tái nhợt, xanh xao",
+      "description": "Da có màu tái nhợt do thiếu máu"
+    },
+    {
+      "name": "Mệt mỏi, yếu ớt, sụt cân",
+      "description": "Cảm giác mệt mỏi, cơ thể yếu đi và cân nặng giảm"
+    },
+    {
+      "name": "Đau đầu không rõ nguyên nhân",
+      "description": "Cảm giác đau đầu mà không tìm được nguyên nhân cụ thể"
+    },
+    {
+      "name": "Buồn nôn, khó thở",
+      "description": "Cảm giác buồn nôn và khó khăn khi hít thở"
+    },
+    {
+      "name": "Ớn lạnh, đổ mồ hôi",
+      "description": "Cảm giác lạnh và đổ mồ hôi bất thường"
+    },
+    {
+      "name": "Táo bón",
+      "description": "Khó khăn khi đi đại tiện"
+    },
+    {
+      "name": "Tâm trạng bất an, lo lắng, bồn chồn",
+      "description": "Cảm giác bất an, lo lắng không yên"
+    },
+    {
+      "name": "Không có triệu chứng",
+      "description": "Nhiều trường hợp u thận lành tính không có triệu chứng rõ ràng, được phát hiện trong các kiểm tra sức khỏe định kỳ"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây u thận lành tính rất đa dạng và hiện vẫn là một trong những vấn đề được các chuyên gia quan tâm nghiên cứu.",
+    "related_factors": "Do người bệnh có các bệnh lý về thận không được điều trị kịp thời; do sử dụng các loại thuốc ức chế enzyme monoamin oxidase trong điều trị trầm cảm; do rối loạn di truyền như bệnh xơ hóa thần kinh đệm 1, bệnh di truyền đa u tuyến nội tiết type 1; hoặc do thói quen sống thiếu khoa học như ăn uống không lành mạnh, ít vận động, dùng thuốc không đúng chỉ định, hút thuốc lá.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Độ tuổi từ 20-50, nguy cơ tăng dần theo tuổi",
+    "Nam giới dễ mắc u thận hơn nữ giới",
+    "Người thường gặp các vấn đề về sức khỏe",
+    "Người thường xuyên dùng thuốc không đúng chỉ định",
+    "Người có tiền sử gia đình bị u thận",
+    "Người mắc các bệnh di truyền như xơ cứng củ",
+    "Người có lối sống không lành mạnh"
+  ],
+  "complications": [
+    "Khối u có thể trở nên ác tính theo thời gian",
+    "Chèn ép vào nhu mô thận gây ảnh hưởng đến chức năng thận",
+    "Chèn ép các cơ quan lân cận",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Tăng huyết áp kéo dài, khó kiểm soát",
+    "Rối loạn chức năng cơ quan nơi u xuất hiện",
+    "Biến chứng sau phẫu thuật nếu can thiệp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng, thu thập tiền sử bệnh và đánh giá các triệu chứng",
+      "Khám thực thể để phát hiện các dấu hiệu bất thường"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá chức năng thận qua các chỉ số: creatinin, ure, axit uric"
+      },
+      {
+        "name": "Phân tích nước tiểu",
+        "description": "Tìm hồng cầu, bạch cầu, nồng độ hormone tuyến thượng thận"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Đánh giá số lượng, kích thước, cấu tạo khối u"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT scan)",
+        "description": "Xác định đặc tính khối u thận lành tính, hoạt động của thận còn lại"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Kiểm tra vị trí, kích thước, tính chất khối u"
+      },
+      {
+        "name": "Chụp cắt lớp phát xạ positron (PET)",
+        "description": "Đánh giá đặc tính khối u và khả năng di căn"
+      },
+      {
+        "name": "Chụp thận có thuốc cản quang",
+        "description": "Tìm kiếm sự chèn ép vào nhu mô thận và phân biệt với các bệnh lý thận khác như thận ứ nước"
+      },
+      {
+        "name": "Xét nghiệm di truyền",
+        "description": "Xác định yếu tố nguy cơ gây u thận lành tính, nhất là với Hội chứng polyp gia đình và bệnh di truyền đa u tuyến nội tiết tuýp 1"
+      },
+      {
+        "name": "Sinh thiết u thận",
+        "description": "Chẩn đoán xác định u thận lành tính hoặc ác tính, giúp bác sĩ đưa ra phương án điều trị phù hợp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không phải tất cả các khối u thận lành tính đều cần điều trị. Nếu khối u nhỏ và không gây ra bất kỳ triệu chứng nào, bác sĩ có thể hướng dẫn theo dõi định kỳ. Phương pháp điều trị cụ thể sẽ phụ thuộc vào vị trí của khối u, nguy cơ ảnh hưởng đến các cơ quan nội tạng, dây thần kinh, mạch máu.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật nội soi",
+        "description": "Kỹ thuật ít xâm lấn với vết mổ nhỏ, ít chảy máu và rút ngắn thời gian hồi phục, người bệnh thường phải ở lại bệnh viện 1-2 ngày sau phẫu thuật"
+      },
+      {
+        "name": "Phẫu thuật mổ mở",
+        "description": "Phương pháp xâm lấn truyền thống, thời gian phục hồi tỷ lệ thuận với mức độ can thiệp, có thể cần liệu pháp vận động và chăm sóc chuyên biệt sau mổ"
+      },
+      {
+        "name": "Theo dõi tích cực",
+        "description": "Đối với các khối u nhỏ, không triệu chứng, bác sĩ có thể khuyến nghị theo dõi thường xuyên thay vì phẫu thuật ngay"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thăm khám định kỳ sau điều trị để phát hiện sớm tình trạng tái phát",
+      "Tuân thủ theo lịch hẹn tái khám của bác sĩ",
+      "Duy trì lối sống lành mạnh",
+      "Báo cáo với bác sĩ ngay khi có các triệu chứng bất thường",
+      "Phục hồi chức năng và vận động nhẹ nhàng sau phẫu thuật"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm ngừa vắc xin viêm gan B, HPV là một trong các biện pháp phòng ngừa u thận hiệu quả",
+      "recommended_for": [
+        "Người trong độ tuổi từ 9-45 đối với HPV",
+        "Mọi người đối với viêm gan B"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế và nỗ lực ngừng hẳn việc sử dụng thuốc lá, tránh xa khói thuốc",
+      "Xây dựng chế độ dinh dưỡng lành mạnh, cân bằng",
+      "Hạn chế ăn các loại thịt chế biến sẵn",
+      "Ăn nhiều thực phẩm có nguồn gốc thực vật, đạm từ thịt nạc và chất béo lành mạnh",
+      "Tránh uống rượu hoặc uống có chừng mực",
+      "Giữ cân nặng hợp lý bằng cách tăng cường vận động cơ thể ít nhất 30 phút/ngày",
+      "Che chắn cơ thể khỏi ánh nắng mặt trời",
+      "Tiêm phòng các bệnh nhiễm virus có thể dẫn đến ung thư thận như viêm gan B và HPV",
+      "Không sử dụng thuốc khi chưa có chỉ định của bác sĩ",
+      "Tuân thủ lịch chăm sóc sức khỏe định kỳ để tầm soát các loại ung thư kịp thời"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U thận lành tính có nguy hiểm không?",
+      "answer": "Xét về nguyên lý khoa học, u thận lành tính không phải là u ác tính và không nguy hiểm đến sức khỏe người bệnh. Tuy nhiên, trong một số trường hợp u lành vẫn có thể chuyển thành u ác do sự thay đổi cấu trúc của tế bào. Ngoài ra, các khối u thận lành tính có thể gây ra các triệu chứng bất thường như tăng huyết áp, tăng nhịp tim, đau đầu, mệt mỏi, ảnh hưởng đến chất lượng cuộc sống hằng ngày."
+    },
+    {
+      "question": "Các loại u thận lành tính phổ biến là gì?",
+      "answer": "Có 4 loại u thận lành tính chính: (1) U tuyến thận (Adenoma) - xuất hiện nhiều, có kích thước khoảng 2 cm, ở vùng vỏ ngoài tách biệt với thận, màu xám hay vàng nhạt; (2) U tế bào hạt (Oncocytom) - hiếm gặp, thường xuất hiện ở nam giới, có đường kính khoảng 12 cm, màu vàng hoặc nâu nhạt; (3) U mạch cơ mỡ thận - hiếm nhất nhưng có nguy cơ trở thành ác tính cao hơn; (4) Nang đơn thận - khối dịch bất thường ở một hoặc hai bên quả thận, thường xuất hiện ở người lớn tuổi."
+    },
+    {
+      "question": "Khi nào cần phẫu thuật u thận lành tính?",
+      "answer": "Không phải tất cả các khối u thận lành tính đều cần điều trị. Nếu khối u nhỏ và không gây ra bất kỳ triệu chứng nào, bác sĩ có thể hướng dẫn theo dõi định kỳ. Việc phẫu thuật thường được chỉ định khi khối u có kích thước lớn, gây ra các triệu chứng đáng kể như tăng huyết áp, đau đầu, hoặc khi có nguy cơ chuyển thành ác tính. Phương pháp phẫu thuật cụ thể sẽ phụ thuộc vào vị trí của khối u, mức độ ảnh hưởng đến các cơ quan xung quanh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tăng huyết áp, tăng nhịp tim bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U thận lành tính",
+        "Tăng huyết áp nguyên phát",
+        "Cường giáp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy màu da tái nhợt, xanh xao, người mệt mỏi, yếu ớt, sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U thận lành tính", "Thiếu máu", "Suy thận"]
+    },
+    {
+      "question": "Tôi hay bị đau đầu không tìm được nguyên nhân, buồn nôn, khó thở, ớn lạnh, hay đổ mồ hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U thận lành tính", "Tăng huyết áp", "Nhiễm trùng"]
+    },
+    {
+      "question": "Tôi đang cảm thấy có vấn đề về tiêu hóa như táo bón, tâm trạng bất an, lo lắng, bồn chồn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U thận lành tính",
+        "Rối loạn lo âu",
+        "Hội chứng ruột kích thích"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như khối u lành tính ở thận. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U thận lành tính", "Nang thận", "U mạch cơ mỡ thận"]
     }
   ]
 }

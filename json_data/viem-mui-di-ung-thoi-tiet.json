@@ -1,58 +1,197 @@
 {
   "disease_id": "viem-mui-di-ung-thoi-tiet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm mũi dị ứng thời tiết",
+  "disease_alternative_names": ["Viêm mũi dị ứng theo mùa"],
+  "disease_definition": "Viêm mũi dị ứng thời tiết là bệnh viêm mũi dị ứng có tính chất kéo dài từ năm này qua năm khác và thời điểm khởi phát các triệu chứng sẽ phụ thuộc vào mùa xuất hiện của các tác nhân gây dị ứng như mùa nở hoa của một loại cây nào đó, mùa sâu bướm sinh sôi, mùa ẩm ướt nhiều nấm mốc phát triển, mùa khô lạnh...",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chảy nước mũi",
+      "description": "Tiết dịch mũi nhiều, thường là dịch trong"
+    },
+    {
+      "name": "Nghẹt mũi",
+      "description": "Khó thở qua mũi, cảm giác tắc nghẽn ở mũi"
+    },
+    {
+      "name": "Hắt hơi",
+      "description": "Hắt hơi liên tục, đặc biệt khi tiếp xúc với tác nhân gây dị ứng"
+    },
+    {
+      "name": "Ngứa mũi",
+      "description": "Cảm giác ngứa ran trong mũi, khó chịu"
+    },
+    {
+      "name": "Chảy dịch mũi sau",
+      "description": "Dịch mũi chảy xuống cổ họng gây khó chịu"
+    },
+    {
+      "name": "Giảm khứu giác",
+      "description": "Giảm hoặc mất khả năng ngửi"
+    },
+    {
+      "name": "Đau mặt",
+      "description": "Cảm giác đau, tức ở vùng mặt do viêm xoang"
+    },
+    {
+      "name": "Mắt đỏ ngứa",
+      "description": "Kết mạc mắt bị kích ứng, ngứa và đỏ"
+    },
+    {
+      "name": "Mắt sưng và thâm quầng",
+      "description": "Sưng và xuất hiện quầng thâm quanh mắt"
+    },
+    {
+      "name": "Đau họng và khàn giọng",
+      "description": "Cảm giác đau rát họng và giọng nói khàn"
+    },
+    {
+      "name": "Ù tai",
+      "description": "Cảm giác ù, tắc nghẽn hoặc ngứa ở tai"
+    },
+    {
+      "name": "Rối loạn giấc ngủ",
+      "description": "Thở bằng miệng, thường xuyên thức giấc, mệt mỏi vào ban ngày"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây viêm mũi dị ứng thời tiết chủ yếu do phấn hoa từ một loài cây thường nở hoa vào mùa nào đó trong năm, như hoa cây nhãn, cây xoan vào mùa xuân; hoa cây phượng, bằng lăng vào mùa hè; hoa cây hoa sữa, ngọc lan vào mùa thu; hoa cây cúc hoạ mi, cải ngồng vào mùa đông.",
+    "related_factors": "Ngoài phấn hoa, viêm mũi dị ứng thời tiết còn có thể do mạt bụi, nấm mốc, tiếp xúc với hóa chất, lông hoặc phân động vật. Những người bị hen, suyễn cũng thường đồng mắc viêm mũi dị ứng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người bị hen suyễn hoặc eczema",
+    "Người có tiền sử gia đình bị hen suyễn hoặc viêm mũi dị ứng",
+    "Trẻ em có cơ địa nhạy cảm",
+    "Người trong độ tuổi 30-40 (triệu chứng có thể trở nên nghiêm trọng hơn)"
+  ],
+  "complications": [
+    "Bội nhiễm gây viêm tai giữa",
+    "Viêm màng não (hiếm gặp)",
+    "Suy giảm khả năng học tập và làm việc",
+    "Rối loạn giấc ngủ kéo dài",
+    "Viêm xoang mạn tính"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán lâm sàng dựa trên các triệu chứng đặc trưng",
+      "Đánh giá đáp ứng với thuốc kháng histamin hoặc corticoid xịt mũi",
+      "Xác định thời gian xuất hiện triệu chứng theo mùa"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm da",
+        "description": "Thực hiện để xác định phản ứng với chất gây dị ứng như phấn hoa, lông hoặc phân động vật"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá IgE huyết thanh đặc hiệu dị ứng, được chỉ định khi xét nghiệm da không đạt hiệu quả"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị viêm mũi dị ứng thời tiết tập trung vào kiểm soát các triệu chứng và tránh xa các tác nhân gây dị ứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng histamin H1",
+        "description": "Thuốc kháng histamin dạng uống có tác dụng nhanh chóng khi có triệu chứng, tuy nhiên tác dụng với triệu chứng nghẹt mũi khá khiêm tốn"
+      },
+      {
+        "name": "Corticoid dạng xịt mũi",
+        "description": "Được đánh giá là loại thuốc hiệu quả nhất đối với chứng viêm mũi dị ứng theo mùa, có tác dụng cả với các triệu chứng ở mũi và mắt"
+      },
+      {
+        "name": "Thuốc đối kháng thụ thể leukotriene",
+        "description": "Có tác dụng tương tự hoặc ít hơn một chút so với thuốc kháng histamine đường uống"
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Thuốc tiêm dưới da giúp điều trị, nhưng có nguy cơ gây phản ứng toàn thân, hiếm khi dẫn đến sốc phản vệ"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Rửa mũi bằng nước muối sinh lý để loại bỏ các chất gây dị ứng ra khỏi mũi",
+      "Xông hơi với nước nóng để thông đường thở và giảm nhẹ các triệu chứng",
+      "Dùng thuốc theo chỉ định của bác sĩ, tránh tự ý dùng thuốc kéo dài"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine đặc hiệu phòng ngừa viêm mũi dị ứng thời tiết",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh nhà cửa sạch sẽ hàng ngày; giặt ga, gối, nệm, chăn, chiếu hàng tuần",
+      "Không nên nuôi thú cưng có lông như chó mèo trong nhà",
+      "Loại bỏ các loài thực vật gây dị ứng trong vườn",
+      "Hạn chế tiếp xúc với hóa chất như nước giặt, thuốc xịt côn trùng",
+      "Thường xuyên mở cửa các phòng trong nhà để đón ánh nắng mặt trời để khử nấm mốc",
+      "Giữ ấm cơ thể, ăn uống đồ ấm, nhất là vào mùa lạnh",
+      "Tăng cường miễn dịch cho cơ thể"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm mũi dị ứng thời tiết có chữa được không?",
+      "answer": "Viêm mũi dị ứng thời tiết có thể điều trị được bằng thuốc và phòng ngừa bằng cách tránh xa các tác nhân gây dị ứng."
+    },
+    {
+      "question": "Có phải trẻ em thường dễ bị viêm mũi dị ứng thời tiết giao mùa?",
+      "answer": "Những trẻ có cơ địa nhạy cảm, mắc bệnh hen suyễn dễ bùng phát các triệu chứng viêm mũi dị ứng khi thời tiết giao mùa. Chẳng hạn như trẻ sẽ bị viêm mũi dị ứng thời tiết lạnh ở những ngày cuối thu, đầu đông."
+    },
+    {
+      "question": "Viêm mũi dị ứng thời tiết có khác viêm xoang dị ứng thời tiết?",
+      "answer": "Viêm mũi dị ứng là tình trạng viêm các niêm mạc phủ trong hốc mũi do các tác nhân dị ứng gây ra. Viêm xoang dị ứng là tình trạng viêm lớp niêm mạc phủ trong xoang do các tác nhân gây dị ứng. Niêm mạc các xoang cạnh mũi và hốc mũi là một thể thống nhất, các bệnh lý viêm mũi dị ứng và viêm xoang dị ứng được gọi chung là viêm mũi xoang dị ứng."
+    },
+    {
+      "question": "Viêm mũi dị ứng thời tiết có nguy hiểm không?",
+      "answer": "Viêm mũi dị ứng thời tiết không phải là một bệnh lý cấp tính đe dọa tính mạng, nhưng có thể gây ảnh hưởng tới sức khỏe, tinh thần làm suy giảm khả năng học tập, lao động do chứng nghẹt mũi gây ra. Thêm nữa, nếu không được điều trị sớm, các biến chứng của viêm mũi dị ứng theo mùa có thể bội nhiễm gây biến chứng viêm tai giữa, viêm màng não… đe dọa tính mạng."
+    },
+    {
+      "question": "Viêm mũi dị ứng thời tiết nên làm gì?",
+      "answer": "Khi nghi ngờ mắc viêm mũi dị ứng thời tiết, đặc biệt là ở trẻ em, tốt nhất người bệnh nên đến các cơ sở y tế có chuyên khoa Tai Mũi Họng để thăm khám nhằm phát hiện đúng bệnh và có phương pháp điều trị khoa học, hiệu quả."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như hắt hơi, ngứa mũi và chảy nước mũi, đặc biệt là vào mùa xuân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi dị ứng thời tiết",
+        "Viêm mũi dị ứng theo mùa",
+        "Cảm lạnh thông thường"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa mắt, chảy nước mắt và sưng mắt kèm theo nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi dị ứng thời tiết",
+        "Viêm kết mạc dị ứng",
+        "Viêm mũi xoang dị ứng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy nước mũi, nghẹt mũi và hắt hơi khi thời tiết thay đổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi dị ứng thời tiết",
+        "Viêm mũi vận mạch",
+        "Cảm cúm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa mũi, mắt và họng sau khi tiếp xúc với phấn hoa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi dị ứng thời tiết",
+        "Viêm mũi dị ứng theo mùa",
+        "Viêm kết mạc dị ứng"
+      ]
+    },
+    {
+      "question": "Tôi hay hắt hơi, sổ mũi và ngứa mắt khi tiếp xúc với lông chó mèo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi dị ứng",
+        "Dị ứng với lông động vật",
+        "Viêm mũi dị ứng thời tiết"
+      ]
     }
   ]
 }

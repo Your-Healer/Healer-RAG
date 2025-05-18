@@ -1,39 +1,116 @@
 {
   "disease_id": "viem-hau-mon",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm hậu môn",
+  "disease_alternative_names": ["Viêm niêm mạc hậu môn", "Proctitis"],
+  "disease_definition": "Viêm hậu môn là tình trạng da xung quanh lỗ hậu môn bị kích ứng, dẫn đến các triệu chứng đau, rát hoặc ngứa ở vùng hậu môn, đặc biệt là trong lúc đi vệ sinh. Bệnh xảy ra khi niêm mạc ống hậu môn bị viêm nhiễm, thường liên quan đến sức khỏe tiêu hóa, viêm nhiễm đường tiêu hóa hoặc rối loạn tiêu hóa.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau, rát hoặc ngứa ở vùng hậu môn",
+      "description": "Cảm giác khó chịu, đau rát hoặc ngứa ngáy ở vùng hậu môn, đặc biệt là khi đi vệ sinh."
+    },
+    {
+      "name": "Chảy máu trực tràng",
+      "description": "Xuất hiện máu khi đi vệ sinh hoặc sau khi đi vệ sinh, có thể thấy máu trên giấy vệ sinh hoặc trong bồn cầu."
+    },
+    {
+      "name": "Đi vệ sinh có chất nhầy",
+      "description": "Phân có lẫn chất nhầy, là dấu hiệu của viêm nhiễm trong đường tiêu hóa."
+    },
+    {
+      "name": "Các cơn đau thắt ở vùng hậu môn và trực tràng",
+      "description": "Đau thắt, co thắt hoặc đau âm ỉ ở vùng hậu môn và trực tràng, đặc biệt nghiêm trọng ở người bị viêm hậu môn do bệnh lậu, herpes simplex và cytomegalovirus."
+    },
+    {
+      "name": "Luôn cảm thấy buồn đi đại tiện",
+      "description": "Cảm giác cần đi đại tiện gấp dù cơ thể thật sự không có nhu cầu, tạo sự khó chịu và bất tiện cho người bệnh."
+    },
+    {
+      "name": "Ngứa và kích thích hậu môn",
+      "description": "Cảm giác ngứa dai dẳng, khó chịu ở vùng hậu môn, thường tăng lên sau khi đi vệ sinh."
+    },
+    {
+      "name": "Mót rặn",
+      "description": "Cảm giác mót rặn hoặc chưa đi hết phân sau khi đã đi vệ sinh."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm hậu môn thường đến từ những tác nhân liên quan đến sức khỏe tiêu hóa, viêm nhiễm đường tiêu hóa hoặc rối loạn tiêu hóa.",
+    "related_factors": "Ngoài các nguyên nhân thứ phát này, viêm hậu môn cũng có thể là bệnh do di truyền, đặc biệt là di truyền từ các bệnh tình dục (STI). Tuy nhiên, nguyên nhân này không phổ biến bằng nguyên nhân thứ phát do chế độ ăn uống không phù hợp.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người có sức khỏe tiêu hóa yếu",
+    "Chế độ ăn uống không lành mạnh, tiêu thụ nhiều thực phẩm có khả năng tăng acid tiết ra trong cơ thể",
+    "Người bệnh ung thư đang điều trị bằng phương pháp xạ trị",
+    "Nam giới có quan hệ tình dục đồng giới",
+    "Lạm dụng kháng sinh hoặc thuốc không theo chỉ định của bác sĩ",
+    "Tiêu thụ quá nhiều thực phẩm giàu protein",
+    "Người mắc bệnh tiêu hóa như viêm đường ruột, Crohn, viêm đại tràng thể loét",
+    "Người bị nhiễm trùng qua đường tình dục"
+  ],
+  "complications": [
+    "Viêm nhiễm lan rộng sang các cơ quan lân cận",
+    "Khó khăn trong sinh hoạt hàng ngày do đau và khó chịu",
+    "Chảy máu hậu môn kéo dài có thể dẫn đến thiếu máu",
+    "Nhiễm trùng hậu môn nặng có thể gây áp xe",
+    "Tổn thương niêm mạc hậu môn có thể dẫn đến các vấn đề khác như nứt hậu môn",
+    "Ảnh hưởng đến chất lượng cuộc sống của người bệnh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Soi trực tràng",
+      "Soi đại tràng sigma",
+      "Xét nghiệm các bệnh STDs (bệnh lây qua đường tình dục)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Soi trực tràng",
+        "description": "Phương pháp chẩn đoán bằng hình ảnh, bác sĩ đưa ống nội soi có gắn camera chuyên dụng vào người bệnh qua đường hậu môn và tiến sâu vào trực tràng. Giúp quan sát tình trạng niêm mạc và thành của hậu môn, trực tràng."
+      },
+      {
+        "name": "Soi đại tràng sigma",
+        "description": "Phương pháp đưa dụng cụ nội soi vào đại tràng thông qua đường hậu môn để quan sát và chẩn đoán tình trạng tổn thương của đại tràng cũng như những vị trí lân cận gồm trực tràng và hậu môn."
+      },
+      {
+        "name": "Xét nghiệm bệnh STDs",
+        "description": "Xét nghiệm nước tiểu, xét nghiệm huyết thanh, hoặc xét nghiệm tăm bông để phát hiện các bệnh lây qua đường tình dục có thể gây viêm hậu môn."
+      },
+      {
+        "name": "Sinh thiết mô",
+        "description": "Lấy mẫu mô tại khu vực viêm để xét nghiệm vi sinh và tìm nguyên nhân gây bệnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị bệnh viêm hậu môn thường không phức tạp và hoàn toàn có thể điều trị dứt điểm. Tuy nhiên, cần tìm ra nguyên nhân của bệnh để có thể chỉ định phác đồ và phương pháp điều trị tối ưu.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị viêm hậu môn do nhiễm khuẩn",
+        "description": "Điều trị nội khoa bằng thuốc kháng sinh đường uống. Phác đồ điều trị thường kéo dài từ 7-10 ngày. Cần sử dụng đúng liều lượng kháng sinh theo chỉ định của bác sĩ để loại bỏ vi khuẩn dứt điểm."
+      },
+      {
+        "name": "Điều trị viêm hậu môn do ảnh hưởng bức xạ",
+        "description": "Bôi thuốc tại chỗ khi có tình trạng chảy máu hậu môn. Sử dụng corticosteroid dạng bọt, thụt rửa giữ sucralfate, hoặc điều trị bằng oxy cao áp nếu không đáp ứng với các phương pháp khác."
+      },
+      {
+        "name": "Phương pháp điều trị nội soi",
+        "description": "Thực hiện cầm máu ngay trong quá trình nội soi chẩn đoán bệnh nếu phát hiện tình trạng xuất huyết. Cầm máu bằng laser, đốt điện hoặc đầu dò gia nhiệt."
+      },
+      {
+        "name": "Điều chỉnh chế độ ăn",
+        "description": "Tránh thực phẩm gây kích ứng như đồ cay nóng, cafein, rượu bia; bổ sung chất xơ và uống nhiều nước giúp cải thiện tình trạng bệnh."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giữ khu vực hậu môn sạch sẽ và khô ráo",
+      "Sử dụng giấy vệ sinh mềm hoặc giấy ướt không chứa cồn, hương liệu",
+      "Tránh các thực phẩm kích thích như đồ cay nóng, caffeine, rượu bia",
+      "Uống nhiều nước và bổ sung chất xơ để phòng táo bón",
+      "Không tự ý sử dụng thuốc kháng sinh khi chưa có chỉ định của bác sĩ",
+      "Nếu có quan hệ tình dục qua đường hậu môn, cần sử dụng biện pháp bảo vệ",
+      "Theo dõi chặt chẽ các triệu chứng và báo cáo với bác sĩ nếu tình trạng trở nên nghiêm trọng hơn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +118,75 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Xây dựng thói quen sống đảm bảo vệ sinh",
+      "Thực hiện chế độ dinh dưỡng lành mạnh",
+      "Hạn chế để hậu môn hoặc cơ quan sinh dục tiếp xúc với môi trường chứa vi khuẩn gây bệnh",
+      "Kiểm soát lượng thực phẩm và chất dinh dưỡng nạp vào cơ thể",
+      "Chú ý đến lượng đạm để tránh tình trạng dư thừa gây ra kích ứng trong hệ tiêu hóa",
+      "Hạn chế thực phẩm làm tăng tiết acid dạ dày như rượu bia, đồ cay nóng",
+      "Thực hiện quan hệ tình dục an toàn",
+      "Kiểm tra sức khỏe định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm hậu môn và bệnh trĩ có phải là bệnh giống nhau không?",
+      "answer": "Viêm hậu môn và bệnh trĩ là hai bệnh lý khác nhau hoàn toàn mặc dù có một số triệu chứng tương đồng. Viêm hậu môn là tình trạng da xung quanh lỗ hậu môn bị kích ứng, dẫn đến các triệu chứng đau, rát hoặc ngứa, xảy ra khi niêm mạc ống hậu môn bị viêm nhiễm. Trong khi đó, bệnh trĩ là tình trạng các tĩnh mạch ở hậu môn và trực tràng bị phình to, gây ra các triệu chứng như chảy máu và đau khi đi vệ sinh."
+    },
+    {
+      "question": "Viêm hậu môn có thể tự khỏi không?",
+      "answer": "Viêm hậu môn cấp tính có thể tự khỏi sau một thời gian phát bệnh ngắn, nhưng điều này phụ thuộc vào nguyên nhân gây bệnh. Viêm hậu môn do nhiễm khuẩn thường cần điều trị bằng kháng sinh, trong khi viêm hậu môn do các yếu tố khác như chế độ ăn uống có thể cải thiện khi thay đổi thói quen. Nếu triệu chứng kéo dài hoặc nặng hơn, cần đi khám bác sĩ để được điều trị thích hợp."
+    },
+    {
+      "question": "Làm thế nào để giảm bớt các triệu chứng viêm hậu môn?",
+      "answer": "Để giảm bớt các triệu chứng viêm hậu môn, bạn có thể: giữ khu vực hậu môn sạch sẽ và khô ráo; sử dụng giấy vệ sinh mềm hoặc giấy ướt không chứa cồn, hương liệu; ngâm nước ấm 10-15 phút sau khi đi vệ sinh; bôi kem hoặc thuốc mỡ theo chỉ định của bác sĩ; tránh các thực phẩm kích thích; uống nhiều nước và bổ sung chất xơ để phòng táo bón."
+    },
+    {
+      "question": "Viêm hậu môn có lây không?",
+      "answer": "Viêm hậu môn thông thường không lây nhiễm, trừ khi nguyên nhân gây bệnh là do nhiễm trùng qua đường tình dục (STDs). Trong trường hợp viêm hậu môn do STDs, bệnh có thể lây qua quan hệ tình dục không an toàn. Vì vậy, những người có quan hệ tình dục qua đường hậu môn nên sử dụng biện pháp bảo vệ để phòng ngừa."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau, rát hoặc ngứa ở vùng hậu môn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hau-mon", "tri", "nurt-hau-mon"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau hậu môn khi đi vệ sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hau-mon", "tri", "nurt-hau-mon"]
+    },
+    {
+      "question": "Tôi hay bị tạo cảm giác cần đi vệ sinh dù cơ thể không có nhu cầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hau-mon",
+        "viem-dai-trang",
+        "hoi-chung-ruot-kich-thich"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như máu lẫn trong phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hau-mon", "tri", "ung-thu-dai-trang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da xung quanh lỗ hậu môn bị kích ứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hau-mon", "viem-da-tiep-xuc", "viem-da-di-ung"]
+    },
+    {
+      "question": "Tôi hay bị rối loạn tiêu hóa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hau-mon",
+        "hoi-chung-ruot-kich-thich",
+        "viem-dai-trang"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm hậu môn do viêm đường ruột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hau-mon", "crohn", "viem-loet-dai-trang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm hậu môn do nhiễm trùng qua đường tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hau-mon", "lau", "herpes-sinh-duc"]
     }
   ]
 }

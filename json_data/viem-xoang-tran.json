@@ -1,58 +1,195 @@
 {
   "disease_id": "viem-xoang-tran",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm xoang trán",
+  "disease_alternative_names": ["Viêm xoang trán cấp tính"],
+  "disease_definition": "Viêm xoang trán là tình trạng viêm xoang cấp tính do chất nhầy trong xoang trán bị bít tắc, không thoát ra ngoài đúng cách nên tạo thành môi trường thuận lợi cho vi khuẩn và các mầm bệnh phát triển. Xoang trán là một cặp xoang nhỏ chứa đầy không khí nằm ngay trên mắt ở vùng chân mày. Khi các triệu chứng viêm xoang trán kéo dài dưới 4 tuần được gọi là viêm xoang trán cấp tính.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chảy nước mũi",
+      "description": "Dịch mũi chảy ra phía trước hoặc xuống họng"
+    },
+    {
+      "name": "Cảm giác nặng hoặc căng tức sau mắt",
+      "description": "Áp lực và cảm giác nặng nề phía sau mắt"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau nhức đầu, đặc biệt ở vùng trán, thường tăng khi cúi người"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, kiệt sức do nhiễm trùng"
+    },
+    {
+      "name": "Đau họng",
+      "description": "Cảm giác đau rát họng do dịch mũi chảy xuống"
+    },
+    {
+      "name": "Đau cơ",
+      "description": "Đau nhức cơ bắp toàn thân"
+    },
+    {
+      "name": "Nghẹt mũi",
+      "description": "Khó thở qua mũi do tắc nghẽn"
+    },
+    {
+      "name": "Giảm khứu giác",
+      "description": "Khả năng ngửi mùi bị giảm sút"
+    },
+    {
+      "name": "Hôi miệng",
+      "description": "Hơi thở có mùi hôi do nhiễm trùng và dịch mủ"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt nhẹ hoặc sốt cao tùy theo mức độ nhiễm trùng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm xoang trán phát triển khi vi trùng vượt qua khả năng phòng vệ tự nhiên của cơ thể hoặc khi các yếu tố khác gây ra viêm.",
+    "related_factors": "Tình trạng nghẹt mũi do nhiễm virus, nhiễm khuẩn, dị ứng, lệch vách ngăn hoặc polyp mũi làm cho chất nhầy trong xoang trán bị ứ đọng, tạo điều kiện thuận lợi cho vi khuẩn phát triển gây viêm.",
+    "transmission_routes": [
+      "Nhiễm virus đường hô hấp trên",
+      "Nhiễm khuẩn từ đường mũi hoặc từ các xoang lân cận",
+      "Tiếp xúc với chất gây dị ứng"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm virus đường hô hấp trên (cảm cúm)",
+    "Dị ứng với bụi, phấn hoa và lông động vật",
+    "Lệch vách ngăn mũi",
+    "Polyp mũi",
+    "Hệ miễn dịch suy yếu",
+    "Ở độ tuổi thanh thiếu niên hoặc thanh niên, đặc biệt là nam",
+    "Tiếp xúc với khói thuốc lá, ô nhiễm môi trường"
+  ],
+  "complications": [
+    "Biến chứng mắt: viêm dây thần kinh và túi lệ, suy giảm thị lực hoặc mù lòa vĩnh viễn",
+    "Biến chứng sọ não: viêm màng não, áp xe não, áp xe ngoài màng cứng, áp xe dưới màng cứng, phù não, huyết khối tĩnh mạch xoang hang",
+    "Viêm tắc tĩnh mạch huyết khối",
+    "Viêm tủy xương"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng dựa trên triệu chứng",
+      "Đánh giá tiền sử bệnh tai mũi họng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp CT",
+        "description": "Chụp CT giúp xác định mức độ viêm xoang và trong một số trường hợp, giúp chẩn đoán phân biệt hoặc tìm ra nguyên nhân gây bệnh"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Chụp MRI cung cấp hình ảnh chi tiết về các mô mềm, giúp đánh giá tình trạng và phát hiện các biến chứng"
+      },
+      {
+        "name": "Nội soi mũi",
+        "description": "Bác sĩ sử dụng một ống nội soi có camera đưa vào sâu bên trong mũi để khảo sát tình trạng hốc mũi và các xoang"
+      },
+      {
+        "name": "Chọc dò tủy sống",
+        "description": "Phương pháp này chỉ được thực hiện khi nghi ngờ biến chứng nội sọ, giúp lấy dịch não tủy để chẩn đoán viêm màng não"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu của việc điều trị viêm xoang trán là cải thiện sự thoát dịch nhầy và giữ cho xoang thông thoáng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị viêm xoang trán do nhiễm virus",
+        "description": "Nghỉ ngơi, uống nhiều nước và sử dụng thuốc xịt mũi hoặc thuốc giả nghẹt mũi không kê đơn"
+      },
+      {
+        "name": "Điều trị nhiễm trùng xoang trán do vi khuẩn",
+        "description": "Kháng sinh (thường là amoxicillin-clavulanate) trong 7-14 ngày cho các trường hợp không biến chứng. Trường hợp biến chứng cần nhập viện điều trị bằng kháng sinh đường tĩnh mạch và có thể cần phẫu thuật nội soi xoang hoặc chọc dò xoang"
+      },
+      {
+        "name": "Điều trị viêm xoang trán do dị ứng",
+        "description": "Thuốc xịt mũi corticosteroid, thuốc kháng histamin và thuốc thông mũi để làm giảm các triệu chứng"
+      },
+      {
+        "name": "Điều trị viêm xoang trán do lệch vách ngăn mũi và polyp mũi",
+        "description": "Phẫu thuật có thể được chỉ định cho các trường hợp lệch vách ngăn hoặc polyp mũi"
+      },
+      {
+        "name": "Chăm sóc tại nhà",
+        "description": "Xông hơi, rửa mũi bằng nước muối, sử dụng máy xông tinh dầu với tinh dầu bạch đàn, tinh dầu bạc hà, hoa cúc để giảm các triệu chứng"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Thực hiện đúng liệu trình điều trị do bác sĩ kê đơn",
+      "Không nên lạm dụng xông hơi vì có thể gây tổn thương niêm mạc mũi",
+      "Rửa mũi bằng nước muối đúng cách theo hướng dẫn của bác sĩ",
+      "Đến bệnh viện ngay nếu triệu chứng không cải thiện sau 7 ngày điều trị"
+    ],
+    "prevention_of_transmission": [
+      "Vệ sinh tay thường xuyên, đặc biệt trước khi ăn và sau khi đi vệ sinh",
+      "Đeo khẩu trang khi có dịch bệnh đường hô hấp",
+      "Cách ly người bệnh khi có dấu hiệu nhiễm trùng"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin phòng bệnh cúm mùa và các bệnh lý mũi họng, hô hấp có thể giúp phòng ngừa các yếu tố nguy cơ gây viêm xoang trán",
+      "recommended_for": [
+        "Người có tiền sử viêm xoang thường xuyên",
+        "Người có hệ miễn dịch suy yếu",
+        "Nhóm nguy cơ cao như người lớn tuổi, trẻ nhỏ"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh cơ thể sạch sẽ hàng ngày nhất là vệ sinh tay",
+      "Giữ ấm tai, mũi, họng để bảo vệ đường tai mũi họng không bị cảm lạnh",
+      "Đeo khẩu trang khi ra khỏi nhà để phòng ngừa nguy cơ lây nhiễm",
+      "Hạn chế ăn và uống đồ lạnh, đặc biệt là nước đá",
+      "Tránh tiếp xúc với các chất gây dị ứng",
+      "Điều trị sớm, triệt để các bệnh về mũi, họng",
+      "Ăn uống đủ chất, sinh hoạt điều độ, luyện tập thể dục mỗi ngày"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm xoang trán có gây mất ngủ không?",
+      "answer": "Viêm xoang trán có thể gây mất ngủ. Khi viêm xảy ra sẽ xuất hiện các triệu chứng khó chịu như chảy nước mũi, nghẹt mũi, ho. Nghẹt mũi sẽ gây thiếu oxy lên não, phổi khiến người bệnh khó thở và không thể ngủ ngon giấc. Ngoài ra, việc thở bằng miệng do nghẹt mũi còn khiến người bệnh bị khô miệng và họng, dẫn đến ho. Ho cũng gây mất ngủ."
+    },
+    {
+      "question": "Viêm xoang trán có gây đau đầu?",
+      "answer": "Viêm xoang trán chắc chắn có gây ra triệu chứng đau đầu vì hai lý do. Thứ nhất, viêm xoang thường gây nghẹt mũi, khó thở, dẫn đến oxy lên não kém. Tình trạng thiếu oxy lên não sẽ gây ra đau đầu. Thứ 2, viêm xoang trán chắc chắn sẽ gây đau nhức vùng trán, đặc biệt nếu có các biến chứng sọ não thì triệu chứng đau đầu càng rõ hơn."
+    },
+    {
+      "question": "Viêm xoang trán có nguy hiểm không?",
+      "answer": "Viêm xoang trán có thể gây ra nhiều biến chứng nguy hiểm, nhất là các biến chứng ở sọ não. Do cấu trúc xoang trán gần với hốc mắt và não, nhiễm trùng có thể lan vào hốc mắt gây viêm dây thần kinh, suy giảm thị lực hoặc mù lòa. Biến chứng sọ não bao gồm viêm màng não, áp xe não, áp xe ngoài màng cứng, áp xe dưới màng cứng, phù não, huyết khối tĩnh mạch xoang hang, có thể đe dọa tính mạng nếu không được điều trị kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức vùng trán, chảy nước mũi và nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang trán", "Viêm mũi", "Viêm xoang mạn tính"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu, sốt và chảy nước mũi màu vàng xanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang trán", "Viêm xoang cấp tính", "Cúm"]
+    },
+    {
+      "question": "Tôi hay bị nghẹt mũi, chảy nước mũi và đau nhức vùng trán sau khi bị cảm lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang trán", "Viêm mũi", "Viêm xoang mạn tính"]
+    },
+    {
+      "question": "Tôi đang bị đau đầu, sưng mắt và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang trán với biến chứng mắt",
+        "Viêm mô tế bào hốc mắt",
+        "Nhiễm trùng mắt"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau đầu, sốt cao và chảy mủ mũi kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang trán do vi khuẩn",
+        "Viêm xoang cấp tính",
+        "Nhiễm trùng đường hô hấp trên"
+      ]
     }
   ]
 }

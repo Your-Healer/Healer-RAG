@@ -1,39 +1,100 @@
 {
   "disease_id": "viem-gan-gap-ngon-tay-cai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm gân gấp ngón tay cái",
+  "disease_alternative_names": [
+    "Ngón tay cò súng",
+    "Ngón tay khấc ngầm",
+    "De Quervain's tenosynovitis"
+  ],
+  "disease_definition": "Bệnh viêm gân gấp ngón cái xảy ra do tình trạng viêm bao gân ở ngón tay, gây chít hẹp bao gân. Một số trường hợp còn xuất hiện hạt xơ trong bao gân, khiến di động gân qua vị trí hạt xơ bị cản trở. Mỗi lần người bệnh gấp, duỗi ngón tay cái rất khó khăn, hạn chế, phải cố gắng mới bật được ngón tay ra hoặc phải dùng tay bên lành kéo ngón tay ra.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ngón cái bật nhẹ",
+      "description": "Triệu chứng ban đầu thường gặp là tình trạng ngón cái bật nhẹ không đau hay cảm giác khó chịu mỗi khi cử động."
+    },
+    {
+      "name": "Hiện tượng bật và âm thanh bật",
+      "description": "Khi bệnh tiến triển, người bệnh sẽ xuất hiện hiện tượng bật, âm thanh bật, ấn đau ở khớp bàn ngón hay liên đốt gần ở trong lòng bàn tay."
+    },
+    {
+      "name": "Ngón tay cái bị cố định hoặc khóa",
+      "description": "Ngón tay cái thường bị cố định, kẹt hay khóa trong tư thế gập khi người bệnh vận động. Cần có người khác kéo thẳng hay bẻ ngón tay về vị trí cũ."
+    },
+    {
+      "name": "Đau trên vùng gân",
+      "description": "Cảm giác đau trên vùng gân, đau nhiều khi vận động."
+    },
+    {
+      "name": "Sưng ngón tay cái",
+      "description": "Ngón tay cái bị sưng, đặc biệt là khi bệnh đã tiến triển."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Bệnh xảy ra do tình trạng viêm bao gân ở ngón tay, gây chít hẹp bao gân, có thể xuất hiện hạt xơ trong bao gân khiến di động gân qua vị trí hạt xơ bị cản trở.",
+    "related_factors": "Nguyên nhân chủ yếu liên quan đến nghề nghiệp phải sử dụng ngón tay cái nhiều, chấn thương, hoặc biến chứng từ một số bệnh lý nền.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nghề nghiệp có nguy cơ cao như giáo viên, nông dân, thợ cắt tóc, bác sĩ phẫu thuật, thợ thủ công",
+    "Sử dụng ngón tay cái nhiều, thường xuyên thực hiện động tác véo, nắm",
+    "Chấn thương trong sinh hoạt hằng ngày hoặc khi chơi thể thao",
+    "Bệnh nền như tiểu đường, viêm khớp dạng thấp, viêm khớp vảy nến, gout"
+  ],
+  "complications": [
+    "Đau mạn tính kéo dài",
+    "Hạn chế tầm vận động ngón cái",
+    "Ảnh hưởng đến sinh hoạt hàng ngày và khả năng lao động",
+    "Biến chứng sau phẫu thuật như chảy máu, nhiễm trùng, tổn thương dây thần kinh cảm giác",
+    "Lành sẹo xấu và sẹo tăng dị cảm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Đánh giá mức độ bệnh theo 4 cấp độ",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Siêu âm với đầu dò tần số > 7.5 – 20MHz giúp bác sĩ thấy gân, bao gân dày lên, dịch bao quanh và hình ảnh hạt xơ trong bao gân."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Thường không có dấu hiệu gì đặc biệt nhưng giúp loại trừ các tổn thương xương."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Giúp bác sĩ phát hiện chất tiết, tràn dịch hay sưng tấy của bao gân, cấu trúc và chất lượng của gân có thể thay đổi."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Xét nghiệm máu cho kết quả bạch cầu, tốc độ máu lắng tăng cao."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm gân gấp ngón tay cái là bệnh không quá nguy hiểm. Bệnh có thể được kiểm soát tốt khi được phát hiện sớm và chữa trị đúng hướng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Hạn chế vận động ngón tay bị tổn thương, có thể sử dụng nẹp ngón tay nhằm cố định, chườm lạnh hay chiếu tia hồng ngoại. Sử dụng thuốc kháng viêm, giảm đau bằng đường uống, tiêm hay tiêm corticoid tại chỗ. Sử dụng kháng sinh khi xuất hiện tình trạng viêm nhiễm và khi toàn thân có biểu hiện nhiễm trùng. Bổ sung vitamin, đặc biệt là vitamin C."
+      },
+      {
+        "name": "Tiêm corticoid tại chỗ",
+        "description": "Chỉ thực hiện với điều kiện có bác sĩ chuyên khoa nội cơ xương khớp có kinh nghiệm, phòng tiêm phải vô trùng. Các chế phẩm thường dùng là Methylprednisolone acetate hoặc Betamethasone với liều lượng phù hợp."
+      },
+      {
+        "name": "Điều trị ngoại khoa",
+        "description": "Phẫu thuật được chỉ định cho những trường hợp bệnh ở mức độ nặng, đã áp dụng những phương pháp điều trị khác thất bại hay kéo dài nhưng bệnh vẫn không thuyên giảm. Bác sĩ phẫu thuật sẽ tiến hành cắt bao gân duỗi, giải phóng gân tại vị trí khoang gân duỗi bị viêm."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế vận động ngón tay bị tổn thương",
+      "Sử dụng thuốc theo chỉ định của bác sĩ",
+      "Không tự ý sử dụng thuốc khi chưa có chỉ định",
+      "Theo dõi các tác dụng phụ có thể xảy ra sau điều trị",
+      "Điều trị càng sớm càng tốt để hạn chế biến chứng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +102,93 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh những hoạt động ngón tay, bàn tay lặp đi lặp lại trong thời gian dài, nhất những động tác phải thường xuyên gồng ngón tay cái",
+      "Dành thời gian nghỉ ngơi hợp lý",
+      "Thực hiện những bài tập dành cho gân khớp vùng ngón cái, bàn tay",
+      "Tránh xoa bóp rượu thuốc và dầu nóng vì dễ khiến tình trạng viêm nặng hơn",
+      "Thường xuyên thăm khám sức khỏe định kỳ để kiểm soát tốt tình trạng bệnh nền",
+      "Bổ sung dinh dưỡng đầy đủ trong chế độ ăn uống mỗi ngày, đặc biệt là thực phẩm giàu canxi và vitamin C"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm gân gấp ngón tay cái có nguy hiểm không?",
+      "answer": "Viêm gân gấp ngón tay cái là bệnh lý không gây nguy hiểm đến tính mạng. Tuy nhiên, bệnh sẽ ảnh hưởng đến vận động của ngón tay cái, làm hạn chế khả năng lao động và chức năng của ngón tay này. Người bệnh cần chữa trị bệnh sớm để hạn chế rủi ro về sức khỏe, nhanh chóng lấy lại tầm vận động của ngón tay."
+    },
+    {
+      "question": "Viêm gân gấp ngón tay cái có tự khỏi không?",
+      "answer": "Bệnh có thể không tự khỏi mà cần được điều trị đúng cách. Nếu điều trị nội khoa theo liệu trình mà bệnh vẫn không thuyên giảm, bác sĩ có thể chỉ định tiêm corticoid tại chỗ hoặc phẫu thuật trong trường hợp nặng. Trì hoãn việc chữa trị sẽ dẫn đến tình trạng đau mạn tính, hạn chế tầm vận động ngón cái, ảnh hưởng lớn đến sinh hoạt hàng ngày."
+    },
+    {
+      "question": "Viêm gân gấp ngón tay cái có bao nhiêu cấp độ?",
+      "answer": "Bệnh được phân loại thành 4 cấp độ: Cấp 1: Cảm giác đau mặt lòng, khó chịu tại ròng rọc, gân gấp ngón cái. Cấp 2: Bị vướng ngón tay. Cấp 3: Bị khóa ngón tay cái, chỉ có thể cử động thụ động. Cấp 4: Bị khóa cố định ngón tay cái, không thể cử động."
+    },
+    {
+      "question": "Viêm gân gấp ngón tay cái có cần phẫu thuật không?",
+      "answer": "Phẫu thuật được chỉ định cho những trường hợp bệnh ở mức độ nặng, đã áp dụng những phương pháp điều trị khác thất bại hay kéo dài nhưng bệnh vẫn không thuyên giảm. Bác sĩ phẫu thuật sẽ tiến hành cắt bao gân duỗi, giải phóng gân tại vị trí khoang gân duỗi bị viêm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngón cái bật nhẹ không đau hay cảm giác khó chịu mỗi khi cử động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-gap-ngon-tay-cai",
+        "viem-khop",
+        "chan-thuong-gan-tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngón tay cái thường bị cố định, kẹt hay khóa trong tư thế gập khi vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-gap-ngon-tay-cai",
+        "viem-khop-dong-vien",
+        "chan-thuong-gan-ngon-tay"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau trên vùng gân ngón cái, đau nhiều khi vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-gap-ngon-tay-cai",
+        "viem-khop-dang-thap",
+        "chan-thuong-gan-tay"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng ngón tay cái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-gan-gap-ngon-tay-cai", "viem-khop", "gout"]
+    },
+    {
+      "question": "Tôi là giáo viên và hay bị đau nhức ngón cái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-gap-ngon-tay-cai",
+        "viem-khop-nghe-nghiep",
+        "hoi-chung-ong-co-tay"
+      ]
+    },
+    {
+      "question": "Tôi là nông dân và hay bị đau nhức ngón cái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-gap-ngon-tay-cai",
+        "viem-khop-do-lao-dong",
+        "chan-thuong-gan-tay"
+      ]
+    },
+    {
+      "question": "Tôi bị tiểu đường và bị đau nhức ngón cái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-gap-ngon-tay-cai",
+        "viem-khop-do-tieu-duong",
+        "viem-day-than-kinh-ngoai-bien"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm khớp dạng thấp và bị đau nhức ngón cái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-gap-ngon-tay-cai",
+        "viem-khop-dang-thap",
+        "bien-dang-khop-do-thap-khop"
+      ]
     }
   ]
 }

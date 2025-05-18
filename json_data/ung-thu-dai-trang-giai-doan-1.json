@@ -1,39 +1,120 @@
 {
   "disease_id": "ung-thu-dai-trang-giai-doan-1",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư đại tràng giai đoạn 1",
+  "disease_alternative_names": ["Ung thư ruột kết giai đoạn 1", "Stage 1 Colon Cancer", "T1/T2, N0, M0 Colon Cancer"],
+  "disease_definition": "Ung thư đại tràng giai đoạn 1 là ung thư đã phát triển xuyên qua lớp dưới niêm mạc, cơ niêm của đại tràng hoặc vào thành cơ nhưng không phát triển thêm nữa. Không có ung thư trong các hạch bạch huyết. Theo phân đoạn TNM, ung thư đại tràng giai đoạn 1 được xác định là T1 hoặc T2, N0, M0.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thay đổi thói quen đại tiện",
+      "description": "Tiêu chảy, táo bón kéo dài hơn một vài ngày"
+    },
+    {
+      "name": "Phân dẹt hình lá lúa",
+      "description": "Phân có hình dạng dẹt, bất thường giống như lá lúa"
+    },
+    {
+      "name": "Cảm giác đại tiện không hết phân",
+      "description": "Cảm giác vẫn còn phân trong trực tràng sau khi đi vệ sinh"
+    },
+    {
+      "name": "Đại tiện ra máu",
+      "description": "Chảy máu trực tràng kèm theo máu đỏ tươi hoặc nhầy lẫn máu"
+    },
+    {
+      "name": "Phân đen",
+      "description": "Phân có màu đen do xuất huyết tiêu hóa"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Chuột rút hoặc đau bụng không rõ nguyên nhân"
+    },
+    {
+      "name": "Suy nhược và mệt mỏi",
+      "description": "Cảm giác uể oải, mệt mỏi kéo dài"
+    },
+    {
+      "name": "Giảm cân không chủ ý",
+      "description": "Sụt cân ngoài ý muốn không do chế độ ăn kiêng hay tập luyện"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, ăn ít đi"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư đại tràng giai đoạn 1 phát triển từ các tế bào bình thường trong đại tràng trở thành tế bào bất thường sau nhiều năm do các đột biến di truyền.",
+    "related_factors": "Các đột biến di truyền trong gen được gọi là đột biến xôma có thể bao gồm EGFR, KRAS, NRAS, BRAF, MSI, và HER2-Neu. Những đột biến này chỉ được tìm thấy trong các tế bào ung thư và không thể truyền cho thế hệ con cháu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá",
+    "Uống rượu bia",
+    "Tiền sử bản thân và gia đình có polyp hoặc mắc bệnh ung thư đại trực tràng",
+    "Thừa cân/béo phì",
+    "Chế độ ăn nhiều thịt đỏ và thực phẩm chế biến sẵn",
+    "Thiếu vitamin D trong máu",
+    "Tuổi từ 50 trở lên",
+    "Mắc bệnh viêm ruột (IBD)",
+    "Người Mỹ gốc Phi, người Do Thái gốc Đông Âu",
+    "Mắc bệnh đái tháo đường tuyp 2",
+    "Người làm việc về đêm",
+    "Từng điều trị các loại ung thư khác trước đây"
+  ],
+  "complications": [
+    "Tiến triển đến giai đoạn ung thư cao hơn nếu không được điều trị",
+    "Tái phát sau điều trị",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Biến chứng do phẫu thuật như nhiễm trùng, chảy máu, tắc ruột"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xem xét bệnh sử và khám sức khỏe",
+      "Đánh giá các triệu chứng liên quan đến đường tiêu hóa",
+      "Phân loại giai đoạn theo hệ thống TNM"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi đại tràng và sinh thiết",
+        "description": "Bác sĩ lấy một mảnh mô nhỏ bằng dụng cụ đặc biệt để giải phẫu bệnh, xác định có tế bào bất thường hay không"
+      },
+      {
+        "name": "CT và MRI",
+        "description": "Chụp cắt lớp vi tính và cộng hưởng từ để xác định giai đoạn của ung thư và kiểm tra di căn sang các cơ quan khác"
+      },
+      {
+        "name": "Siêu âm nội soi",
+        "description": "Nội soi có kết hợp siêu âm trong lòng đại trực tràng để đánh giá mức độ xâm lấn của khối u"
+      },
+      {
+        "name": "Xét nghiệm di truyền",
+        "description": "Tìm các đột biến gen trong tế bào ung thư như EGFR, KRAS, NRAS, BRAF, MSI, HER2-Neu để đánh giá khả năng đáp ứng với điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Ung thư đại tràng giai đoạn 1 đã phát triển sâu hơn vào các lớp của thành đại tràng, nhưng chưa lan ra ngoài thành đại tràng hoặc xâm lấn vào các hạch bạch huyết gần đó.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cắt bỏ polyp",
+        "description": "Nếu ung thư được phát hiện trong polyp và polyp được loại bỏ hoàn toàn trong quá trình nội soi đại tràng, không có tế bào ung thư ở các cạnh của mảnh được cắt bỏ, có thể không cần điều trị thêm"
+      },
+      {
+        "name": "Phẫu thuật bổ sung",
+        "description": "Nếu ung thư trong polyp là loại nguy cơ cao hoặc có tế bào ung thư ở các cạnh của polyp, hoặc không thể cắt bỏ hoàn toàn polyp, có thể cần phẫu thuật thêm"
+      },
+      {
+        "name": "Phẫu thuật cắt đoạn đại tràng",
+        "description": "Đối với các bệnh ung thư không phải polyp hoặc khó đánh giá mức độ xâm lấn, cần cắt bỏ một phần đại tràng bị ung thư và vét các hạch bạch huyết gần đó"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tiếp tục theo dõi định kỳ với bác sĩ sau điều trị",
+      "Thực hiện các kiểm tra cận lâm sàng theo chỉ định",
+      "Thay đổi lối sống lành mạnh",
+      "Duy trì chế độ ăn uống cân bằng giàu rau củ quả",
+      "Hạn chế thịt đỏ và thực phẩm chế biến sẵn",
+      "Tăng cường hoạt động thể chất"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +122,75 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát ung thư đại tràng định kỳ, bắt đầu từ 45 tuổi",
+      "Khám sức khỏe 6 tháng một lần",
+      "Duy trì cân nặng hợp lý",
+      "Hạn chế rượu bia, không hút thuốc",
+      "Tăng cường ăn rau củ quả, giảm thịt đỏ và thực phẩm chế biến sẵn",
+      "Bổ sung đủ vitamin D",
+      "Tập thể dục thường xuyên",
+      "Không đợi đến khi có triệu chứng mới đi khám"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư đại tràng giai đoạn 1 có nguy hiểm không?",
+      "answer": "Bệnh ung thư chắc chắn nguy hiểm, tuy nhiên với ung thư giai đoạn sớm như giai đoạn 1, mức độ nguy hiểm sẽ ít hơn ung thư giai đoạn muộn. Ung thư đại tràng giai đoạn 1 thuộc ung thư đại tràng giai đoạn sớm nên cơ hội chữa khỏi hoặc tỷ lệ sống sau 5 năm rất cao (hơn 90%)."
+    },
+    {
+      "question": "Ung thư đại tràng giai đoạn 1 có chữa được không?",
+      "answer": "Ung thư đại tràng giai đoạn 1 có thể chữa được. Ở giai đoạn này, tế bào ung thư chỉ khu trú ở đại tràng chứ chưa gây ảnh hưởng đến các bộ phận khác của cơ thể, nên nó có thể được chữa khỏi bằng cách phẫu thuật cắt bỏ hoàn toàn."
+    },
+    {
+      "question": "Ung thư đại tràng giai đoạn 1 có tái phát trở lại không?",
+      "answer": "Hầu hết những người bị ung thư đại tràng giai đoạn 1 đều đáp ứng điều trị tốt. Khoảng 90% những người được điều trị ung thư đại tràng giai đoạn 1 sống ít nhất 5 năm sau khi phát hiện ung thư. Ung thư đại tràng có thể quay trở lại (tái phát), nhưng nguy cơ tái phát ở giai đoạn 1 thấp hơn các giai đoạn khác."
+    },
+    {
+      "question": "Tiên lượng sống sau 5 năm của ung thư đại tràng giai đoạn 1 là bao nhiêu?",
+      "answer": "Theo số liệu từ Hiệp hội Ung thư Hoa Kỳ, tỷ lệ sống sau 5 năm của ung thư đại tràng giai đoạn 1 là 90%. Tiên lượng của ung thư đại tràng giai đoạn 1 là rất tốt, cơ hội chữa khỏi cao."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, đại tiện phân nhầy lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 1",
+        "Trĩ nội",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sụt cân không rõ lý do và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 1",
+        "Hội chứng ruột kích thích",
+        "Viêm dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi hay bị táo bón, phân có máu và cảm giác đại tiện không hết phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 1",
+        "Trĩ",
+        "Nứt kẽ hậu môn"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tiêu chảy kéo dài, phân dẹt hình lá lúa và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 1",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị thay đổi thói quen đại tiện, phân có máu và sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 1",
+        "Viêm loét đại tràng",
+        "Bệnh Crohn"
+      ]
     }
   ]
 }

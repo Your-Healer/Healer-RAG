@@ -1,39 +1,147 @@
 {
   "disease_id": "xo-cung-bi-toan-the",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xơ cứng bì toàn thể",
+  "disease_alternative_names": ["Xơ cứng bì hệ thống", "Xơ cứng bì toàn thân"],
+  "disease_definition": "Xơ cứng bì toàn thể hay xơ cứng bì hệ thống là một dạng rối loạn tự miễn dịch ảnh hưởng đến da và các cơ quan nội tạng. Tình trạng này nghiêm trọng hơn xơ cứng bì khu trú, vốn chỉ ảnh hưởng tới da, có thể tiến triển tốt dần theo thời gian, thậm chí là tự khỏi mà không cần điều trị.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Da căng cứng và bóng",
+      "description": "Làn da xuất hiện từng mảng da căng, cứng và bóng lên, làm hạn chế cử động. Các mảng da có hình bầu dục, to hoặc nhỏ."
+    },
+    {
+      "name": "Hiện tượng Raynaud",
+      "description": "Các mạch máu nhỏ ở ngón tay và ngón chân bắt đầu co lại (đặc biệt là khi gặp lạnh), gây đau hoặc tê, và chuyển sang màu xanh/trắng/đỏ."
+    },
+    {
+      "name": "Vấn đề đường tiêu hóa",
+      "description": "Bệnh có thể gây ợ chua, khó nuốt, đầy hơi, tiêu chảy, táo bón và thiếu hụt dinh dưỡng."
+    },
+    {
+      "name": "Nốt canxi hóa (Calcinosis)",
+      "description": "Sự lắng đọng canxi tạo thành các khối u nhỏ xuất hiện trong các mô liên kết."
+    },
+    {
+      "name": "Cứng ngón (Sclerodactyly)",
+      "description": "Sự tăng sinh tạo ra collagen dư thừa trong da, làm cho các ngón tay trở nên dày và căng cứng."
+    },
+    {
+      "name": "Giãn mao mạch (Telangiectasia)",
+      "description": "Các mạch máu nhỏ bị sưng, giãn ra, làm xuất hiện những đốm đỏ nhỏ trên tay và mặt."
+    },
+    {
+      "name": "Tổn thương cơ quan nội tạng",
+      "description": "Bệnh có thể ảnh hưởng đến tim, phổi, thận và đường tiêu hóa, gây ra nhiều biến chứng nghiêm trọng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Bệnh xơ cứng bì toàn thể xảy ra do sự tăng sinh quá mức collagen và tích tụ chúng trong các mô.",
+    "related_factors": "Hệ thống miễn dịch và sự kết hợp của các yếu tố nguy cơ khác có vai trò nhất định.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Di truyền",
+    "Đột biến ở một số gen nhất định",
+    "Tiếp xúc với một số tác nhân như vi-rút, thuốc, hóa chất, ma túy",
+    "Rối loạn hệ thống miễn dịch",
+    "Mắc các bệnh lý về rối loạn mô liên kết như: viêm đa cơ, viêm khớp dạng thấp, hội chứng Sjögren, lupus ban đỏ hệ thống",
+    "Nội tiết tố nữ (bệnh gặp ở phụ nữ nhiều hơn nam giới)"
+  ],
+  "complications": [
+    "Đau dạ dày",
+    "Bệnh trào ngược dạ dày thực quản",
+    "Thoát vị khe hoành",
+    "Barrett thực quản",
+    "Tắc ruột",
+    "Tăng huyết áp phổi",
+    "Huyết áp cao",
+    "Thiếu máu não cục bộ thoáng qua và đột quỵ",
+    "Viêm khớp",
+    "Viêm cơ",
+    "Bệnh tim",
+    "Rối loạn nhịp tim",
+    "Viêm màng ngoài tim",
+    "Bệnh thận do xơ cứng bì"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Tìm hiểu bệnh sử, tiền sử bản thân và gia đình có từng mắc các bệnh tự miễn",
+      "Thăm khám tình trạng cơ thể và các triệu chứng hiện tại",
+      "Thực hiện các bài kiểm tra thể chất"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm tim",
+        "description": "Đánh giá tình trạng tăng áp phổi"
+      },
+      {
+        "name": "Tầm soát kháng thể đặc hiệu",
+        "description": "Xác định các kháng thể đặc hiệu của xơ cứng bì"
+      },
+      {
+        "name": "Chụp CT-Scan lồng ngực",
+        "description": "Kiểm tra tình trạng phổi"
+      },
+      {
+        "name": "Chụp X-quang bàn tay",
+        "description": "Đánh giá mức độ tổn thương ở bàn tay"
+      },
+      {
+        "name": "Thăm dò chức năng hô hấp",
+        "description": "Kiểm tra khả năng hoạt động của phổi"
+      },
+      {
+        "name": "Đo áp lực thực quản",
+        "description": "Đánh giá chức năng thực quản"
+      },
+      {
+        "name": "Điện tâm đồ",
+        "description": "Kiểm tra hoạt động của tim"
+      },
+      {
+        "name": "Tổng phân tích tế bào máu",
+        "description": "Kiểm tra các chỉ số máu"
+      },
+      {
+        "name": "Tổng phân tích nước tiểu",
+        "description": "Kiểm tra chức năng thận"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không thể điều trị dứt điểm bệnh xơ cứng bì hệ thống. Mục tiêu của các phương pháp điều trị hiện có chủ yếu tập trung vào giảm triệu chứng, làm chậm sự tiến triển của bệnh và ngăn ngừa biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc corticosteroid",
+        "description": "Giúp giảm viêm và ức chế phản ứng miễn dịch"
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch",
+        "description": "Sử dụng các thuốc như methotrexate hoặc cytoxan để làm chậm phản ứng miễn dịch"
+      },
+      {
+        "name": "Thuốc chống viêm không steroid (NSAID)",
+        "description": "Giúp giảm đau và viêm"
+      },
+      {
+        "name": "Thuốc huyết áp",
+        "description": "Kiểm soát huyết áp cao"
+      },
+      {
+        "name": "Thuốc hỗ trợ hô hấp",
+        "description": "Hỗ trợ chức năng hô hấp"
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Các bài tập vật lý trị liệu giúp duy trì khả năng vận động"
+      },
+      {
+        "name": "Điều trị hội chứng Raynaud",
+        "description": "Sử dụng thuốc mỡ nitroglycerine 2% và thuốc chẹn kênh canxi như Nifedipin"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Chăm sóc răng miệng thường xuyên để ngăn ngừa tổn thương cho miệng và răng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +149,49 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thường xuyên tập thể dục để giúp máu lưu thông dễ dàng, giảm tình trạng xơ cứng biểu bì da",
+      "Sử dụng kem dưỡng da, kem chống nắng",
+      "Tránh tắm nước quá nóng hay dùng các loại xà phòng có chất tẩy rửa mạnh để bảo vệ da",
+      "Giữ ấm cơ thể, đeo găng tay, che phủ mặt và đầu cẩn thận để bảo vệ da khỏi thời tiết lạnh",
+      "Chế độ ăn uống khoa học, hạn chế các loại thực phẩm tăng nguy cơ ợ nóng hoặc làm tăng axit dạ dày",
+      "Không hút thuốc: Nicotine trong thuốc lá sẽ làm co mạch máu, khiến tình trạng bệnh nặng hơn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xơ cứng bì toàn thể là gì?",
+      "answer": "Xơ cứng bì toàn thể hay xơ cứng bì hệ thống là một dạng rối loạn tự miễn dịch ảnh hưởng đến da và các cơ quan nội tạng. Tình trạng này nghiêm trọng hơn xơ cứng bì khu trú, vốn chỉ ảnh hưởng tới da."
+    },
+    {
+      "question": "Xơ cứng bì toàn thể có nguy hiểm không?",
+      "answer": "Mặc dù vẫn chưa có phương pháp điều trị khỏi hoàn toàn bệnh xơ cứng bì, nhưng đa số người bệnh có thể 'chung sống hòa bình' với bệnh nếu được điều trị phù hợp. Tuy nhiên, trong một số trường hợp, bệnh có thể dẫn đến những biến chứng nghiêm trọng và đe dọa tính mạng, đặc biệt khi ảnh hưởng đến tim, phổi hoặc thận."
+    },
+    {
+      "question": "Xơ cứng bì toàn thể có thể chữa khỏi không?",
+      "answer": "Không thể điều trị dứt điểm bệnh xơ cứng bì hệ thống. Mục tiêu của các phương pháp điều trị hiện có chủ yếu tập trung vào giảm triệu chứng, làm chậm sự tiến triển của bệnh và ngăn ngừa biến chứng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da căng cứng, bóng và khó cử động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì toàn thể"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau cơ xương khớp và ngứa da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì toàn thể"]
+    },
+    {
+      "question": "Tôi hay bị ngón tay, ngón chân lạnh và chuyển sang màu xanh, trắng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì toàn thể", "Hiện tượng Raynaud"]
+    },
+    {
+      "question": "Tôi bị khó nuốt, ợ nóng và đầy hơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì toàn thể"]
+    },
+    {
+      "question": "Tôi bị xơ cứng bì giới hạn ở da và hiện đang bị đau, tê ngón tay, ngón chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì toàn thể", "Xơ cứng bì giới hạn ở da"]
     }
   ]
 }

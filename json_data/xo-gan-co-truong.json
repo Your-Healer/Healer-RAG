@@ -1,39 +1,134 @@
 {
   "disease_id": "xo-gan-co-truong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xơ gan cổ trướng",
+  "disease_alternative_names": ["Xơ gan cổ chướng"],
+  "disease_definition": "Xơ gan cổ trướng là một loại bệnh mạn tính nguy hiểm gây suy giảm chức năng gan trầm trọng từ sự tổn thương gan. Cổ trướng là chất lỏng màu vàng (dịch ổ bụng) tích tụ trong khoang bụng khi gan suy giảm chức năng cộng thêm xơ hóa trong gan làm tăng áp lực tĩnh mạch cửa, từ đó tạo áp lực đẩy dịch vào ổ bụng. Đây là bệnh khá phổ biến, khi cứ 10 người có bệnh lý về gan thì có 8 người mắc bệnh xơ gan cổ trướng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chướng bụng",
+      "description": "Bụng bị chướng do sự tích tụ của dịch ổ bụng, gây khó chịu và đau."
+    },
+    {
+      "name": "Cân nặng thay đổi nhanh chóng",
+      "description": "Người bệnh có thể tăng cân nhanh chóng không rõ nguyên nhân, đặc biệt khi phù và cổ trướng nhiều."
+    },
+    {
+      "name": "Gan to",
+      "description": "Gan to thường gặp ở xơ gan do rượu, xơ gan do tim."
+    },
+    {
+      "name": "Đau bụng và buồn nôn",
+      "description": "Người bệnh cảm thấy đau bụng, buồn nôn và khó thở do sự tích tụ của dịch ổ bụng."
+    },
+    {
+      "name": "Phù tay và phù chân",
+      "description": "Tay và chân bị phù do tích tụ dịch."
+    },
+    {
+      "name": "Đỏ lòng bàn tay và bàn chân",
+      "description": "Lòng bàn tay và bàn chân bị đỏ bất thường."
+    },
+    {
+      "name": "Xuất huyết tiêu hóa",
+      "description": "Có thể nôn ra máu hoặc đại tiện phân đen do giãn tĩnh mạch thực quản hoặc dạ dày."
+    },
+    {
+      "name": "Vàng da và vàng mắt",
+      "description": "Da và mắt chuyển sang màu vàng, đây là dấu hiệu của giai đoạn nặng."
+    },
+    {
+      "name": "Lá lách to",
+      "description": "Lá lách bị phình to, là dấu hiệu của bệnh xơ gan cổ trướng giai đoạn cuối."
+    },
+    {
+      "name": "Giãn mạch máu trên da",
+      "description": "Có thể thấy rõ giãn mạch máu trên da vùng ngực và cổ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân hàng đầu gây xơ gan cổ trướng là viêm gan virus B hoặc C và lạm dụng bia rượu. Đặc biệt, bia rượu là nguyên nhân ngày càng hay gặp gây xơ gan ở Việt Nam.",
+    "related_factors": "Người có nhiễm viêm gan virus B hoặc C mạn tính mà uống nhiều bia rượu càng dễ bị xơ gan. Ngoài ra còn gặp các nguyên nhân như xơ gan do viêm gan nhiễm mỡ không do rượu, viêm gan tự miễn, xơ gan mật tiên phát hoặc thứ phát sau sỏi mật, viêm đường mật xơ hóa tiên phát, các bệnh chuyển hóa: rối loạn chuyển hóa đồng như Wilson, rối loạn chuyển hóa sắt như Hemochromatosis. Có thể gặp xơ gan do bệnh tim.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Viêm gan virus B",
+    "Viêm gan virus C",
+    "Lạm dụng rượu bia",
+    "Viêm gan nhiễm mỡ không do rượu",
+    "Viêm gan tự miễn",
+    "Sỏi mật",
+    "Viêm đường mật xơ hóa tiên phát",
+    "Rối loạn chuyển hóa đồng",
+    "Rối loạn chuyển hóa sắt",
+    "Bệnh tim"
+  ],
+  "complications": [
+    "Viêm phúc mạc tiên phát do vi khuẩn tự phát",
+    "Cổ trướng nhiều kháng trị",
+    "Chảy máu do vỡ giãn tĩnh mạch thực hoặc dạ dày",
+    "Hội chứng gan thận",
+    "Bệnh não gan",
+    "Ung thư gan"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng dựa trên triệu chứng",
+      "Quan sát thay đổi trên cơ thể"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Dựa trên kết quả xét nghiệm máu, bác sĩ có thể tìm ra được những chỉ số bất thường để xác định bệnh."
+      },
+      {
+        "name": "Chụp cắt lớp (CT scan)",
+        "description": "Thu được những hình ảnh chi tiết bên trong cơ thể, giúp bác sĩ dễ dàng chẩn đoán được bệnh và giai đoạn phát bệnh."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Hình ảnh được chẩn đoán thông qua kích thước của gan. Phương pháp này không tân tiến bằng chụp cắt lớp nhưng chi phí hợp lý hơn."
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Lấy mẫu mô và quan sát mức độ tổn thương, xơ hóa của gan dưới kính hiển vi. Phương pháp này khá xâm lấn và có thể gây đau."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện nay vẫn chưa có phương pháp hay phác đồ điều trị hoàn toàn khỏi xơ gan cổ trướng. Tuy nhiên, nếu điều trị tốt bệnh nhân vẫn có cuộc sống gần như bình thường và sống được lâu.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chế độ ăn hạn chế muối",
+        "description": "Không ăn quá mặn, hàng ngày theo dõi cân nặng để kiểm soát cổ trướng hiệu quả."
+      },
+      {
+        "name": "Sử dụng thuốc lợi tiểu",
+        "description": "Giúp giảm phù và cổ trướng, giúp người bệnh dễ chịu và ăn uống được tốt hơn. Thuốc lợi tiểu thường dùng là Spironolactone và Furosemide."
+      },
+      {
+        "name": "Chọc dịch cổ trướng",
+        "description": "Được thực hiện khi sử dụng thuốc lợi tiểu không mang lại hiệu quả."
+      },
+      {
+        "name": "Nội soi thực quản dạ dày",
+        "description": "Giúp có kế hoạch dự phòng xuất huyết tiêu hóa, đây là biến chứng nặng có thể gây nguy hiểm đến tính mạng."
+      },
+      {
+        "name": "Điều trị nguyên nhân",
+        "description": "Điều trị viêm gan virus B, C nếu có. Dừng hoàn toàn bia rượu giúp xơ gan do bia rượu hồi phục chức năng."
+      },
+      {
+        "name": "Phẫu thuật ghép gan",
+        "description": "Là phương pháp cuối cùng và hiệu quả nhất để điều trị xơ gan cổ trướng giai đoạn cuối."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Không sử dụng rượu bia, đồ uống có cồn",
+      "Không sử dụng thuốc gây độc với gan, không dùng các loại thuốc không cần thiết và thuốc không rõ nguồn gốc vì làm tăng gánh nặng cho gan",
+      "Hạn chế các món ăn có nhiều dầu mỡ để tránh khó tiêu hóa trong khẩu phần ăn",
+      "Tăng cường dinh dưỡng chất đạm để tăng cường sức khỏe",
+      "Hạn chế nước và dịch khi cổ trướng nhiều"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +136,60 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế rượu bia để bảo vệ gan",
+      "Duy trì lối sống lành mạnh",
+      "Khám định kỳ 6 tháng 1 lần với những người có bệnh gan mạn tính như viêm gan virus B, C",
+      "Bổ sung đầy đủ các chất dinh dưỡng như đạm, vitamin và chất xơ",
+      "Ăn các thực phẩm giàu Beta-carotene và Omega-3 fatty acids",
+      "Hạn chế muối trong chế độ ăn (2000-4000mg mỗi ngày) để kiểm soát cổ trướng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xơ gan cổ trướng giai đoạn cuối có chữa được không?",
+      "answer": "Những người bị xơ gan cổ trướng ở giai đoạn cuối, gan lúc này gần như đã mất hết chức năng vốn có và không thể phục hồi lại được. Để điều trị, người bệnh có thể thực hiện phương pháp ghép gan mới có thể điều trị được khỏi hoàn toàn. Xơ gan cổ trướng giai đoạn cuối vẫn có khả năng kiểm soát tốt, hạn chế nguy cơ tử vong bằng cách thay đổi chế độ ăn phù hợp, uống thuốc, đặc biệt là thuốc lợi tiểu để giúp thận đào thải được natri bên trong."
+    },
+    {
+      "question": "Xơ gan cổ trướng có phải ung thư không?",
+      "answer": "Xơ gan cổ trướng không phải là bệnh ung thư. Đây là bệnh xơ gan và người bệnh còn bị tích tụ dịch ổ bụng gây sự suy giảm chức năng gan. Tuy nhiên, xơ gan cổ trướng có thể dẫn đến biến chứng nặng nhất là ung thư gan."
+    },
+    {
+      "question": "Xơ gan cổ trướng uống thuốc gì? Có nên dùng đông y không?",
+      "answer": "Tùy theo tình trạng bệnh và triệu chứng của mỗi người mà bác sĩ sẽ kê cho đơn thuốc phù hợp nhằm làm giảm những triệu chứng và ngăn ngừa các biến chứng bệnh. Thuốc lợi tiểu Spironolactone và Furosemide là hai loại thuốc lợi tiểu được dùng phổ biến. Đến nay thuốc đông y rõ nguồn gốc cũng chỉ làm giảm nhẹ một số triệu chứng, nhưng không phòng được các biến chứng nguy hiểm như xuất huyết tiêu hóa."
+    },
+    {
+      "question": "Xơ gan cổ trướng có nguy hiểm không?",
+      "answer": "Xơ gan cổ trướng là một căn bệnh về gan nguy hiểm và có tỷ lệ tử vong cao, lên đến 90% nếu ở giai đoạn muộn. Không chỉ thế, xơ gan cổ trướng còn là một tiền đề dẫn đến ung thư gan, một loại bệnh ung thư có 21% tỷ lệ tử vong do ung thư."
+    },
+    {
+      "question": "Bệnh xơ gan cổ trướng có lây không?",
+      "answer": "Hiện tượng xơ gan cổ chướng là vấn đề tổn thương về gan đến từ hai nguyên nhân chính là viêm gan B và viêm gan C và sự lạm dụng rượu bia. Đối với người bệnh xơ gan cổ trướng do rượu bia thì không có khả năng lây nhiễm cho người khác. Tuy nhiên, với người bị xơ gan cổ trướng do viêm gan B hoặc viêm gan C vẫn có thể lây cho người khác thông qua những con đường tương tự sự lây nhiễm của virus viêm gan B, gồm: từ mẹ sang con, quan hệ tình dục không an toàn, và đường máu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chướng bụng và cân nặng thay đổi nhanh chóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan cổ trướng"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng, buồn nôn và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan cổ trướng"]
+    },
+    {
+      "question": "Tôi hay bị phù tay, phù chân và đỏ lòng bàn tay, bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan cổ trướng"]
+    },
+    {
+      "question": "Tôi bị viêm gan virus B và hiện đang bị chướng bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan cổ trướng"]
+    },
+    {
+      "question": "Tôi bị xơ gan cổ trướng và hiện đang bị nôn ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Xơ gan cổ trướng",
+        "Xuất huyết tiêu hóa do vỡ giãn tĩnh mạch thực quản"
+      ]
     }
   ]
 }

@@ -1,39 +1,163 @@
 {
   "disease_id": "ung-thu-phoi-khong-te-bao-nho-giai-doan-3",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư phổi không tế bào nhỏ giai đoạn 3",
+  "disease_alternative_names": [
+    "Ung thư phổi NSCLC giai đoạn III",
+    "Stage III Non-small cell lung cancer",
+    "NSCLC giai đoạn tiến triển tại vùng"
+  ],
+  "disease_definition": "Ung thư phổi không tế bào nhỏ giai đoạn III được xem là giai đoạn tiến triển tại vùng, khi các khối u đã lan đến các cấu trúc lân cận, di căn hạch vùng, nhưng chưa lan đến phổi đối bên và chưa di căn xa đến các cơ quan khác trong cơ thể. Giai đoạn này được chia thành ba mức độ: IIIA, IIIB và IIIC, tùy thuộc vào kích thước, vị trí, mức độ xâm lấn của khối u và tình trạng di căn hạch vùng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ho, viêm phế quản kéo dài",
+      "description": "Ho, viêm phế quản hoặc viêm phổi kéo dài hoặc tái phát không cải thiện với điều trị nội khoa"
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Khạc ra máu màu đỏ bầm hoặc đỏ tươi khi ho"
+    },
+    {
+      "name": "Đau ngực thường xuyên",
+      "description": "Cảm giác đau tức vùng ngực xuất hiện thường xuyên"
+    },
+    {
+      "name": "Hụt hơi, khó thở",
+      "description": "Cảm thấy hụt hơi, khó thở hoặc không đủ sức khi thực hiện các hoạt động thường ngày như leo cầu thang, tập thể dục, đi bộ"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài, không khỏe khoắn"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, không hứng thú với thức ăn"
+    },
+    {
+      "name": "Sụt cân không rõ nguyên nhân",
+      "description": "Giảm cân không chủ ý mà không thay đổi chế độ ăn uống"
+    },
+    {
+      "name": "Đau ngực, đau xương sườn",
+      "description": "Đau ngực, đau xương sườn do khối u xâm lấn thành ngực"
+    },
+    {
+      "name": "Đau vai và đau lưng",
+      "description": "Đau vai và đau lưng do khối u xâm lấn cột sống"
+    },
+    {
+      "name": "Nuốt khó, nuốt nghẹn",
+      "description": "Khó khăn khi nuốt hoặc cảm giác nghẹn do khối u xâm lấn thực quản"
+    },
+    {
+      "name": "Khàn tiếng",
+      "description": "Giọng nói khàn đục do khối u xâm lấn thần kinh quặt ngược thanh quản"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư phổi không tế bào nhỏ xảy ra khi các tế bào phổi có sự thay đổi (đột biến) trong DNA, khiến các tế bào phát triển nhanh và bất thường, tạo thành khối u ác tính.",
+    "related_factors": "Nguyên nhân gây đột biến có thể là do tiếp xúc với các chất gây ung thư từ khói thuốc lá, khói thuốc thụ động, radon, amiăng, ô nhiễm không khí, và các chất độc hại khác. Một số trường hợp ung thư phổi có liên quan đến yếu tố di truyền.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá",
+    "Tiếp xúc với khói thuốc thụ động",
+    "Tiếp xúc với radon",
+    "Tiếp xúc với amiăng",
+    "Tiếp xúc với các chất gây ô nhiễm không khí",
+    "Tiền sử gia đình có người mắc ung thư phổi",
+    "Tuổi cao (nguy cơ tăng theo tuổi, đặc biệt sau 50 tuổi)",
+    "Bệnh phổi mạn tính trước đó",
+    "Tiếp xúc với các hóa chất công nghiệp"
+  ],
+  "complications": [
+    "Xẹp phổi do tắc nghẽn đường thở",
+    "Tràn dịch màng phổi",
+    "Viêm phổi tái phát",
+    "Suy hô hấp",
+    "Đau không kiểm soát được",
+    "Tổn thương thần kinh",
+    "Nuốt khó, nuốt nghẹn",
+    "Di căn xa đến các cơ quan khác nếu không điều trị kịp thời",
+    "Các biến chứng của điều trị như viêm phổi do xạ trị, suy tủy do hóa trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Chụp X-quang phổi",
+      "Phân giai đoạn theo hệ thống TNM của Ủy ban Liên hợp Ung thư Hoa Kỳ (AJCC)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp cắt lớp vi tính (CT scan)",
+        "description": "Phương tiện phổ biến nhất để đánh giá ung thư phổi, giúp phát hiện các nốt phổi kích thước nhỏ từ 2-3mm và đánh giá toàn diện sự phát triển khối u theo mọi hướng"
+      },
+      {
+        "name": "Chụp MRI não",
+        "description": "Khảo sát di căn não, đặc biệt quan trọng trong việc đánh giá giai đoạn di căn"
+      },
+      {
+        "name": "PET-CT",
+        "description": "Kết hợp chụp CT và PET để đánh giá chính xác giai đoạn bệnh, phát hiện các ổ tổn thương di căn có thể bị bỏ sót"
+      },
+      {
+        "name": "Xạ hình xương (Bone scan)",
+        "description": "Đánh giá di căn xương nếu có dấu hiệu nghi ngờ"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "\"Tiêu chuẩn vàng\" để chẩn đoán xác định ung thư phổi, thực hiện bằng cách sinh thiết bằng kim dưới sự hướng dẫn của CT, hoặc nội soi phế quản, hoặc phẫu thuật sinh thiết"
+      },
+      {
+        "name": "Xét nghiệm đột biến gen",
+        "description": "Thực hiện trên mẫu mô được sinh thiết để cân nhắc việc sử dụng thuốc hỗ trợ sau phẫu thuật bằng liệu pháp miễn dịch hoặc nhắm trúng đích"
+      },
+      {
+        "name": "Xét nghiệm chức năng hô hấp",
+        "description": "Đánh giá khả năng hô hấp của người bệnh để xác định khả năng chịu đựng phẫu thuật"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị ung thư phổi không tế bào nhỏ giai đoạn III thường đòi hỏi sự phối hợp nhiều phương pháp điều trị (điều trị đa mô thức), tùy thuộc vào mức độ bệnh, thể trạng người bệnh và các bệnh đi kèm. Tỷ lệ sống 5 năm cho giai đoạn IIIA là 36%, giai đoạn IIIB là 26%, và giai đoạn IIIC là 13%.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật kết hợp điều trị hỗ trợ",
+        "description": "Áp dụng cho giai đoạn IIIA, phẫu thuật loại bỏ khối u trước, sau đó điều trị hỗ trợ nhằm tiêu diệt các tế bào u còn sót lại như xạ trị, hóa trị, hóa-xạ đồng thời, liệu pháp miễn dịch hoặc nhắm trúng đích"
+      },
+      {
+        "name": "Hóa-xạ đồng thời triệt để",
+        "description": "Phối hợp cùng lúc hóa trị và xạ trị, áp dụng cho các trường hợp ung thư phổi giai đoạn IIIA không thể phẫu thuật, sau đó có thể điều trị củng cố với liệu pháp miễn dịch (Durvalumab)"
+      },
+      {
+        "name": "Hóa-xạ đồng thời trước phẫu thuật",
+        "description": "Áp dụng cho các trường hợp khối u ở vị trí đỉnh phổi, sau liệu trình hóa-xạ đồng thời, người bệnh sẽ được đánh giá khả năng phẫu thuật"
+      },
+      {
+        "name": "Hóa trị tân hỗ trợ",
+        "description": "Hóa trị trước (tân hỗ trợ), có thể kết hợp với liệu pháp miễn dịch (Nivolumab), sau đó tùy đáp ứng mà tiến hành phẫu thuật hoặc hóa-xạ trị đồng thời"
+      },
+      {
+        "name": "Điều trị duy trì với liệu pháp miễn dịch",
+        "description": "Sử dụng Atezolizumab (Tecentriq) hoặc Pembrolizumab (Keytruda) sau khi người bệnh đã phẫu thuật và hóa trị hỗ trợ, giúp cải thiện thời gian sống còn"
+      },
+      {
+        "name": "Điều trị củng cố với Durvalumab",
+        "description": "Áp dụng sau khi người bệnh đã hóa-xạ trị đồng thời, giúp cải thiện thời gian sống còn"
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Sử dụng Osimertinib (Tagrisso) để điều trị sau phẫu thuật hoặc sau hóa trị cho người bệnh có đột biến EGFR phù hợp"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Chủ động thông báo với bác sĩ các triệu chứng gặp phải để được tư vấn, kiểm soát triệu chứng tốt nhất",
+      "Ăn uống đầy đủ để duy trì sức khỏe cho các đợt điều trị tiếp theo",
+      "Tập luyện các bài tập thở sâu, phục hồi chức năng hô hấp để cải thiện triệu chứng",
+      "Bỏ thuốc lá nếu đang hút thuốc",
+      "Tâm sự thường xuyên với gia đình, trò chuyện nhiều hơn với các nhân viên y tế",
+      "Duy trì thái độ lạc quan, tránh những suy nghĩ tiêu cực",
+      "Tham gia các nhóm hỗ trợ bệnh nhân ung thư"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +165,75 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá và tránh tiếp xúc với khói thuốc thụ động",
+      "Tránh tiếp xúc với các chất độc hại như amiăng, radon, khí thải công nghiệp",
+      "Thực hiện tầm soát ung thư phổi định kỳ, đặc biệt là những người có nguy cơ cao",
+      "Ăn uống lành mạnh, tăng cường rau xanh và trái cây",
+      "Tập thể dục đều đặn",
+      "Hạn chế uống rượu bia",
+      "Kiểm tra nhà cửa đối với khí radon",
+      "Tuân thủ các quy định an toàn khi làm việc với các chất độc hại"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư phổi không tế bào nhỏ giai đoạn 3 sống được bao lâu?",
+      "answer": "Theo Hiệp hội Ung thư Hoa Kỳ, tỷ lệ sống 5 năm của ung thư phổi không tế bào nhỏ giai đoạn III là: Giai đoạn IIIA: 36%, Giai đoạn IIIB: 26%, Giai đoạn IIIC: 13%. Tuy nhiên, tiên lượng của từng người bệnh có thể khác nhau tùy thuộc vào nhiều yếu tố như tuổi tác, tổng trạng, mức độ sụt cân trước điều trị, đáp ứng với điều trị và các bệnh lý đi kèm."
+    },
+    {
+      "question": "Ung thư phổi không tế bào nhỏ giai đoạn 3 có chữa được không?",
+      "answer": "Ung thư phổi không tế bào nhỏ giai đoạn III không phải là bản án tử như nhiều người vẫn nghĩ. Tuy là giai đoạn tiến triển tại vùng, nhưng với các phương pháp điều trị hiện đại như phẫu thuật kết hợp điều trị hỗ trợ, hóa-xạ trị đồng thời, liệu pháp miễn dịch và liệu pháp nhắm trúng đích, nhiều người bệnh vẫn có cơ hội kiểm soát bệnh và kéo dài thời gian sống."
+    },
+    {
+      "question": "Các triệu chứng của ung thư phổi không tế bào nhỏ giai đoạn 3 là gì?",
+      "answer": "Các triệu chứng thường gặp bao gồm: ho, viêm phế quản hoặc viêm phổi kéo dài; ho ra máu; đau ngực thường xuyên; hụt hơi, khó thở khi thực hiện các hoạt động thường ngày; mệt mỏi, chán ăn, sụt cân không rõ nguyên nhân. Ngoài ra, tùy theo vị trí khối u, có thể gặp các triệu chứng như đau ngực, đau xương sườn, đau vai và lưng (do xâm lấn thành ngực, cột sống); nuốt khó, nuốt nghẹn (do xâm lấn thực quản); khàn tiếng (do xâm lấn thần kinh quặt ngược thanh quản)."
+    },
+    {
+      "question": "Điều trị ung thư phổi không tế bào nhỏ giai đoạn 3 như thế nào?",
+      "answer": "Điều trị thường bao gồm sự phối hợp của nhiều phương pháp (đa mô thức). Đối với giai đoạn IIIA, có thể áp dụng phẫu thuật kết hợp điều trị hỗ trợ, hoặc hóa-xạ đồng thời triệt để, hoặc hóa-xạ đồng thời trước phẫu thuật, hoặc hóa trị tân hỗ trợ. Với giai đoạn IIIB và IIIC, điều trị chính yếu là hóa-xạ trị đồng thời, sau đó điều trị củng cố bằng liệu pháp miễn dịch. Các tiến bộ mới trong điều trị bao gồm liệu pháp miễn dịch và liệu pháp nhắm trúng đích."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ho, viêm phế quản kéo dài và đau ngực thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 3",
+        "Viêm phế quản mạn tính",
+        "Bệnh phổi tắc nghẽn mạn tính (COPD)"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy hụt hơi, khó thở khi leo cầu thang và mệt mỏi, chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 3",
+        "Suy tim",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ho ra máu, đau ngực và sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 3",
+        "Lao phổi",
+        "Giãn phế quản"
+      ]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như viêm phổi tái phát, khó thở và đau xương sườn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 3",
+        "Viêm phổi tái phát",
+        "Gãy xương sườn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ho dai dẳng, nuốt khó và khàn tiếng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 3",
+        "Trào ngược dạ dày thực quản",
+        "Viêm thanh quản mạn tính"
+      ]
     }
   ]
 }

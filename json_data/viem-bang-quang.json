@@ -1,39 +1,123 @@
 {
   "disease_id": "viem-bang-quang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bàng quang",
+  "disease_alternative_names": [
+    "Viêm bàng quang cấp tính",
+    "Viêm bàng quang mãn tính",
+    "Nhiễm trùng bàng quang"
+  ],
+  "disease_definition": "Viêm bàng quang là tình trạng viêm cấp tính hoặc mãn tính trong bàng quang. Nguyên nhân thường gặp nhất là do nhiễm khuẩn, chiếm hơn 50% số trường hợp nhiễm khuẩn đường tiết niệu. Trong một số trường hợp, bệnh có thể tái phát nhiều lần trong thời gian dài.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đi tiểu nhiều lần",
+      "description": "Người bệnh cảm thấy đi tiểu nhiều lần trong ngày hơn so với bình thường, mỗi lần chỉ tiểu ra một ít."
+    },
+    {
+      "name": "Tiểu máu, nước tiểu đục",
+      "description": "Nước tiểu có máu, đục hoặc có mùi hôi nồng do niêm mạc bàng quang bị viêm nhiễm."
+    },
+    {
+      "name": "Đau hoặc nóng rát khi tiểu",
+      "description": "Cảm giác đau hoặc nóng rát khi đi tiểu do niêm mạc bàng quang bị viêm."
+    },
+    {
+      "name": "Cảm giác đi tiểu gấp",
+      "description": "Luôn có cảm giác phải đi tiểu gấp, không thể kiềm chế được."
+    },
+    {
+      "name": "Đau trằn bụng dưới",
+      "description": "Cảm giác đau tức hoặc trằn ở vùng bụng dưới, nơi bàng quang bị viêm."
+    },
+    {
+      "name": "Đái dầm ban ngày ở trẻ em",
+      "description": "Trẻ em bị viêm bàng quang có thể đái dầm vào ban ngày do không kiểm soát được việc đi tiểu."
+    },
+    {
+      "name": "Sốt nhẹ",
+      "description": "Người bệnh có thể bị sốt nhẹ, thường xảy ra khi viêm nhiễm nặng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân phổ biến nhất của viêm bàng quang là do vi khuẩn xâm nhập từ bên ngoài qua đường dẫn tiểu (ống niệu đạo). Vi khuẩn Escherichia Coli là tác nhân gây bệnh chính, chiếm tỉ lệ 80% các trường hợp viêm bàng quang.",
+    "related_factors": "Hệ tiết niệu bình thường có thể ngăn chặn vi khuẩn tồn tại và phát triển do đặc tính khó bám dính trên bề mặt niêm mạc đường tiểu và khả năng tống xuất vi khuẩn ra ngoài. Nước tiểu cũng có đặc tính kháng khuẩn. Tuy nhiên, khi cơ thể suy yếu, sức đề kháng giảm hay niệu đạo bị tổn thương, vi khuẩn sẽ có cơ hội thâm nhập, gây bệnh.",
+    "transmission_routes": [
+      "Vi khuẩn từ vùng hậu môn di chuyển đến ống niệu đạo và vào bàng quang",
+      "Nhiễm khuẩn qua quan hệ tình dục"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính: tần suất bệnh ở nữ giới nhiều hơn nam giới",
+    "Tuổi: gia tăng theo độ tuổi",
+    "Quan hệ tình dục không an toàn",
+    "Bất động lâu ngày",
+    "Phụ nữ mang thai",
+    "Phụ nữ mãn kinh",
+    "Có bất thường đường tiết niệu như: sỏi niệu, phì đại tuyến tiền liệt, bàng quang thần kinh, hẹp niệu đạo...",
+    "Thủ thuật đường tiết niệu như đặt thông tiểu, nội soi bàng quang...",
+    "Bệnh đái tháo đường, nhiễm HIV hay đang điều trị ung thư",
+    "Đặt ống thông tiểu trong thời gian dài",
+    "Vệ sinh vùng kín không đúng cách"
+  ],
+  "complications": [
+    "Tiểu ra máu: Do niêm mạc bàng quang phù nề xuất huyết khi bệnh tiến triển nặng",
+    "Viêm đài bể thận: Do vi khuẩn từ bàng quang di chuyển ngược lên thận gây viêm",
+    "Nguy cơ vô sinh, hiếm muộn: Viêm nhiễm có thể lây lan sang cơ quan sinh dục",
+    "Bàng quang tăng hoạt: Tình trạng viêm kéo dài gây biến chứng lên thần kinh, cơ bàng quang"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử",
+      "Thăm khám lâm sàng",
+      "Xét nghiệm nước tiểu",
+      "Nội soi bàng quang",
+      "Chụp X-quang hoặc siêu âm đường tiết niệu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra sự hiện diện của tế bào bạch cầu, tế bào máu, phản ứng nitrit trong nước tiểu. Trong một số trường hợp cần thiết, mẫu nước tiểu được đem nuôi cấy để tìm vi khuẩn gây bệnh."
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Một ống soi được đưa qua niệu đạo vào bàng quang nhằm thu hình ảnh bên trong, giúp bác sĩ quan sát và đánh giá tổn thương. Khi nội soi, bác sĩ có thể lấy một mẫu mô nhỏ để sinh thiết."
+      },
+      {
+        "name": "Xét nghiệm hình ảnh",
+        "description": "Chụp X-quang hay siêu âm giúp phát hiện các bất thường của đường tiết niệu như sỏi bàng quang, phì đại tuyến tiền liệt, hẹp niệu đạo..."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị bệnh viêm bàng quang sẽ tùy thuộc vào nguyên nhân gây bệnh. Nếu chữa trị kịp thời và đúng cách, người bệnh thường mau chóng khỏi bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kháng sinh",
+        "description": "Thuốc kháng sinh là lựa chọn đầu tiên khi điều trị viêm bàng quang do vi khuẩn. Các loại kháng sinh thường được sử dụng bao gồm amoxicillin, nitrofurantoin, ciprofloxacin, sulfamethoxazole, trimethoprim."
+      },
+      {
+        "name": "Điều trị viêm bàng quang do hóa chất",
+        "description": "Người bệnh cần tránh tiếp xúc với những hóa chất gây viêm bàng quang để giảm triệu chứng và ngăn ngừa tái phát."
+      },
+      {
+        "name": "Điều trị viêm bàng quang do xạ trị hay do thuốc",
+        "description": "Bác sĩ có thể chỉ định thuốc giảm triệu chứng hoặc khuyên uống nhiều nước để đào thải các chất gây kích thích bàng quang."
+      },
+      {
+        "name": "Estrogen cho phụ nữ mãn kinh",
+        "description": "Phụ nữ mãn kinh bị viêm bàng quang có thể cần sử dụng thêm thuốc estrogen dạng kem để cải thiện tình trạng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống đủ nước, nhất là khi đang trải qua hóa trị hoặc xạ trị (khoảng 2-2.5 lít nước/ngày)",
+      "Hạn chế uống cà phê, trà, rượu, nước cam, chanh và tránh thức ăn cay nóng",
+      "Đi tiểu ngay khi thấy buồn tiểu, không nên nhịn tiểu quá lâu",
+      "Vệ sinh đúng cách: sau khi đại tiện, rửa sạch và lau từ trước ra sau",
+      "Nếu bị nhiễm trùng đường tiểu, nên tắm vòi sen thay vì tắm bồn",
+      "Đi vệ sinh sớm sau khi quan hệ tình dục và uống thêm nước",
+      "Trong thời gian kinh nguyệt, thường xuyên thay băng vệ sinh",
+      "Có thể sử dụng khăn hoặc túi chườm nóng vùng bụng để giảm cảm giác căng tức",
+      "Tránh mặc quần áo quá chật, gây ẩm vùng kín"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +125,95 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Uống nhiều nước, khoảng 2-2,5 lít/ngày",
+      "Đi tiểu ngay khi thấy buồn tiểu, không nên nhịn tiểu quá lâu",
+      "Vệ sinh đúng cách: sau khi đại tiện, rửa sạch và lau từ trước ra sau",
+      "Tránh sử dụng dung dịch vệ sinh có chất tẩy rửa quá mạnh",
+      "Đi vệ sinh sớm sau khi quan hệ tình dục",
+      "Thay băng vệ sinh thường xuyên trong thời gian kinh nguyệt",
+      "Tránh mặc quần áo quá chật",
+      "Kiểm tra sức khỏe định kỳ để phát hiện sớm các vấn đề về đường tiết niệu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bàng quang có nguy hiểm không?",
+      "answer": "Bệnh viêm bàng quang nếu không được điều trị kịp thời có thể dẫn đến những biến chứng nguy hiểm như tiểu ra máu, viêm đài bể thận, nguy cơ vô sinh và hiếm muộn, cũng như bàng quang tăng hoạt. Vi khuẩn từ bàng quang có thể di chuyển ngược lên thận gây viêm thận, tạo thành các sẹo xơ nhu mô thận, dẫn đến suy giảm chức năng thận."
+    },
+    {
+      "question": "Uống thuốc gì để điều trị viêm bàng quang?",
+      "answer": "Kháng sinh thường là lựa chọn đầu tiên để điều trị viêm bàng quang do vi khuẩn. Các loại kháng sinh thường được chỉ định bao gồm amoxicillin, nitrofurantoin, ciprofloxacin, sulfamethoxazole và trimethoprim. Liều lượng và thời gian điều trị sẽ tùy thuộc vào mức độ nghiêm trọng của bệnh và tiền sử viêm bàng quang của người bệnh."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm bàng quang?",
+      "answer": "Để phòng ngừa viêm bàng quang, bạn nên: uống nhiều nước (khoảng 2-2,5 lít/ngày), đi tiểu ngay khi thấy buồn tiểu, vệ sinh đúng cách (lau từ trước ra sau), tránh sử dụng dung dịch vệ sinh có chất tẩy rửa quá mạnh, đi vệ sinh sớm sau khi quan hệ tình dục, thay băng vệ sinh thường xuyên trong thời gian kinh nguyệt, và tránh mặc quần áo quá chật."
+    },
+    {
+      "question": "Viêm bàng quang cần kiêng ăn gì?",
+      "answer": "Khi bị viêm bàng quang, người bệnh nên hạn chế uống cà phê, trà, rượu, nước cam, chanh và tránh những thức ăn vị cay nóng. Các loại thực phẩm này có khả năng gây kích thích bàng quang, làm tăng cảm giác khó chịu cho người bệnh. Thay vào đó, nên bổ sung nhiều nước lọc để giúp đào thải vi khuẩn ra khỏi cơ thể."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau và khó chịu khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang",
+        "viem-nieu-dao",
+        "viem-than-be-than"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nóng rát khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang",
+        "viem-nieu-dao",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vùng bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-bang-quang", "viem-phu-khoa", "viem-ruot-thua"]
+    },
+    {
+      "question": "Tôi hay bị tiểu nhiều lần trong ngày hơn so với bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang",
+        "dai-thao-duong",
+        "tang-san-tuyen-tien-liet"
+      ]
+    },
+    {
+      "question": "Tôi bị tiểu máu, nước tiểu đục hay có mùi hôi nồng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang",
+        "soi-duong-tiet-nieu",
+        "ung-thu-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi luôn có cảm giác phải đi tiểu gấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang",
+        "bang-quang-tang-hoat",
+        "u-xa-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm bàng quang sau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang",
+        "viem-nieu-dao",
+        "viem-co-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi xét nghiệm nước tiểu và phát hiện có vi khuẩn Escherichia coli. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang",
+        "nhiem-trung-duong-tiet-nieu",
+        "viem-than-be-than"
+      ]
     }
   ]
 }

@@ -1,58 +1,168 @@
 {
   "disease_id": "viem-mang-bo-dao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm màng bồ đào",
+  "disease_alternative_names": ["Viêm mống mắt", "Viêm hắc mạc"],
+  "disease_definition": "Viêm màng bồ đào là tình trạng viêm ở bất kỳ vị trí nào trong lớp có sắc tố bên trong mắt (màng bồ đào). Bệnh có thể gây ảnh hưởng đến thủy tinh thể, võng mạc, các dây thần kinh thị giác. Màng bồ đào bao gồm 3 cấu trúc: mống mắt, thể mi và hắc mạc.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau dữ dội ở mắt",
+      "description": "Đau nhức mắt dữ dội, đặc biệt là trong trường hợp viêm màng bồ đào trước"
+    },
+    {
+      "name": "Mắt đỏ",
+      "description": "Mắt bị đỏ, có thể nhìn thấy các mạch máu nổi rõ trên bề mặt của mắt gần rìa giác mạc"
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Đau hơn khi tiếp xúc với ánh sáng chói, gọi là hiện tượng sợ ánh sáng"
+    },
+    {
+      "name": "Giảm thị lực",
+      "description": "Thị lực có thể bị giảm, mức độ thị lực giảm phụ thuộc vào vị trí và mức độ viêm"
+    },
+    {
+      "name": "Ruồi bay",
+      "description": "Nhìn thấy các đốm đen bất thường (ruồi bay), đặc biệt trong viêm màng bồ đào trung gian và sau"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Đa phần người mắc bệnh đều không xác định được nguyên nhân (gọi là viêm màng bồ đào vô căn hoặc viêm màng bồ đào không rõ nguyên nhân).",
+    "related_factors": "Bệnh có thể liên quan đến các rối loạn ở các cơ quan khác trong cơ thể, nhiễm trùng, chấn thương mắt hoặc phản ứng với một số loại thuốc.",
+    "transmission_routes": [
+      "Nhiễm trùng mắt do virus như herpes simplex, varicella-zoster",
+      "Nhiễm khuẩn như lao, giang mai, Lyme"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Các bệnh tự miễn như hội chứng Behçet, viêm cột sống dính khớp",
+    "Viêm khớp tự phát ở trẻ vị thành niên",
+    "Bệnh sarcoidosis",
+    "Bệnh viêm ruột (bệnh Crohn và viêm loét đại tràng)",
+    "Bệnh Vogt-Koyanagi-Harada",
+    "Nhiễm trùng như lao, giang mai, bệnh Lyme",
+    "Nhiễm virus như herpes, zona, cytomegalovirus",
+    "Hệ miễn dịch suy yếu",
+    "Chấn thương mắt",
+    "Sử dụng một số loại thuốc như pamidronate, rifabutin"
+  ],
+  "complications": [
+    "Phù điểm vàng",
+    "Tổn thương võng mạc",
+    "Tăng nhãn áp",
+    "Đục thủy tinh thể",
+    "Mất thị lực vĩnh viễn",
+    "Viêm màng bồ đào tái phát hoặc mãn tính"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám mắt toàn diện",
+      "Xét nghiệm để xác định nguyên nhân tiềm ẩn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám bằng đèn khe",
+        "description": "Bác sĩ khám bằng đèn khe để nhìn thấy các mạch máu nổi rõ trên bề mặt của mắt, các tế bào trôi nổi ở phần trước của mắt và lắng đọng trên bề mặt bên trong của giác mạc."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Có thể được thực hiện để tìm các bệnh viêm nhiễm hoặc tự miễn liên quan đến viêm màng bồ đào"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm màng bồ đào phải bắt đầu sớm để ngăn ngừa tổn thương vĩnh viễn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Corticosteroid",
+        "description": "Thường được dùng dưới dạng thuốc nhỏ mắt, có thể được dùng bằng đường uống hoặc tiêm vào hoặc xung quanh mắt."
+      },
+      {
+        "name": "Thuốc làm giãn đồng tử",
+        "description": "Thuốc nhỏ homatropine hoặc cyclopentolate được sử dụng để giảm đau và ngăn ngừa dính mống mắt với thủy tinh thể."
+      },
+      {
+        "name": "Thuốc điều trị nguyên nhân cụ thể",
+        "description": "Nếu nguyên nhân là do nhiễm trùng, có thể dùng thuốc để loại bỏ sinh vật lây nhiễm như kháng sinh, thuốc kháng virus."
+      },
+      {
+        "name": "Điều trị bổ sung",
+        "description": "Trong một số trường hợp, có thể cần phẫu thuật, sử dụng tia laser, hoặc các loại thuốc ức chế miễn dịch qua đường uống, tiêm tĩnh mạch hoặc tiêm vào da."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ nghiêm ngặt kế hoạch điều trị",
+      "Khám định kỳ để theo dõi tiến triển bệnh",
+      "Báo cáo với bác sĩ khi có sự thay đổi hoặc triệu chứng mới"
+    ],
+    "prevention_of_transmission": [
+      "Đối với nguyên nhân nhiễm trùng, tuân thủ hướng dẫn để ngăn ngừa lây nhiễm"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa viêm màng bồ đào",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Điều trị các bệnh lý nền có liên quan",
+      "Tránh chấn thương mắt",
+      "Kiểm soát tốt các bệnh tự miễn",
+      "Khám mắt định kỳ để phát hiện sớm các vấn đề"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm màng bồ đào có nguy hiểm không?",
+      "answer": "Viêm màng bồ đào có thể nguy hiểm nếu không được điều trị kịp thời. Bệnh có thể nhanh chóng làm hỏng mắt và gây ra các biến chứng lâu dài, đe dọa đến thị lực, như phù điểm vàng, tổn thương võng mạc, tăng nhãn áp và đục thủy tinh thể. Trong trường hợp nghiêm trọng, có thể dẫn đến mù lòa."
+    },
+    {
+      "question": "Viêm màng bồ đào có chữa được không?",
+      "answer": "Viêm màng bồ đào có thể điều trị được, nhưng hiệu quả phụ thuộc vào việc phát hiện và can thiệp sớm. Nhiều người chỉ bị một đợt viêm màng bồ đào và khỏi hoàn toàn sau điều trị, nhưng một số người khác có thể bị tái phát định kỳ hoặc viêm mãn tính cần điều trị lâu dài."
+    },
+    {
+      "question": "Viêm màng bồ đào có mấy loại?",
+      "answer": "Viêm màng bồ đào được phân loại thành 4 loại chính dựa trên vị trí bị viêm: viêm màng bồ đào trước (ảnh hưởng đến mống mắt), viêm màng bồ đào trung gian (liên quan đến pha lê thể), viêm màng bồ đào sau (liên quan đến hắc mạc và có thể ảnh hưởng đến võng mạc), và viêm toàn màng bồ đào (ảnh hưởng đến toàn bộ màng bồ đào)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm ở bất kỳ vị trí nào trong lớp có sắc tố bên trong mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm màng bồ đào", "Viêm mống mắt", "Viêm hắc mạc"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau dữ dội ở mắt, mắt đỏ, đau hơn khi tiếp xúc với ánh sáng chói. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng bồ đào",
+        "Viêm màng bồ đào trước",
+        "Viêm giác mạc",
+        "Viêm kết mạc"
+      ]
+    },
+    {
+      "question": "Tôi hay bị giảm thị lực và nhìn thấy các đốm đen bất thường (ruồi bay). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng bồ đào",
+        "Viêm màng bồ đào trung gian",
+        "Viêm màng bồ đào sau",
+        "Bong võng mạc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chấn thương mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng bồ đào",
+        "Viêm màng bồ đào trước",
+        "Chấn thương mắt",
+        "Xuất huyết kết mạc"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm màng bồ đào vô căn hoặc viêm màng bồ đào không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng bồ đào",
+        "Bệnh tự miễn ảnh hưởng đến mắt",
+        "Viêm màng bồ đào vô căn"
+      ]
     }
   ]
 }

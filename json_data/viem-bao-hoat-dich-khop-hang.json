@@ -1,39 +1,127 @@
 {
   "disease_id": "viem-bao-hoat-dich-khop-hang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bao hoạt dịch khớp háng",
+  "disease_alternative_names": [
+    "Viêm bao hoạt dịch mấu chuyển khớp háng",
+    "Viêm bao hoạt dịch vùng mấu chuyển khớp háng"
+  ],
+  "disease_definition": "Viêm bao hoạt dịch khớp háng, chính xác hơn là viêm bao hoạt dịch mấu chuyển khớp háng là tình trạng viêm các túi nhỏ (bursa) chứa chất dịch đệm, bôi trơn các vùng giữa dây chằng và xương tại khớp háng, dẫn đến tình trạng sưng và đau nhức. Khi viêm, chức năng và hoạt động của bao hoạt dịch sẽ bị suy yếu, khớp háng có xu hướng tăng tiết hoạt dịch, sưng to có kèm đau nhức, khó vận động.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng to và đau nhức ở khớp háng",
+      "description": "Tình trạng viêm bao hoạt dịch sẽ làm tăng tiết dịch nhầy, dẫn tới tình trạng sưng to và đau nhức nhiều ở khớp háng."
+    },
+    {
+      "name": "Đau tăng khi vận động",
+      "description": "Cơn đau tăng khi người bệnh đi lại, vận động nhiều và thuyên giảm khi ngừng hoạt động, nghỉ ngơi."
+    },
+    {
+      "name": "Cứng khớp",
+      "description": "Người bệnh cảm thấy cứng khớp, khó khăn khi thực hiện các động tác."
+    },
+    {
+      "name": "Hạn chế khả năng đi lại và vận động",
+      "description": "Khả năng đi lại và vận động của người bệnh bị hạn chế do đau và cứng khớp."
+    },
+    {
+      "name": "Khu vực tổn thương bị bầm tím hoặc đỏ",
+      "description": "Vùng khớp háng bị viêm có thể xuất hiện các dấu hiệu bầm tím hoặc đỏ trên da."
+    },
+    {
+      "name": "Tiếng kêu rắc rắc khi đi lại",
+      "description": "Khi đi lại, khớp háng có thể phát ra tiếng kêu rắc rắc do tình trạng viêm."
+    },
+    {
+      "name": "Khô hay tràn dịch khớp",
+      "description": "Khớp háng có thể bị khô hoặc tràn dịch, tùy thuộc vào tình trạng viêm."
+    },
+    {
+      "name": "Sốt nhẹ vào buổi chiều tối",
+      "description": "Người bệnh có thể bị sốt nhẹ, đặc biệt là vào buổi chiều tối."
+    },
+    {
+      "name": "Mệt mỏi, suy nhược",
+      "description": "Cảm giác mệt mỏi, suy nhược toàn thân có thể xuất hiện do tình trạng viêm nhiễm."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Người bệnh có thể mất cảm giác ngon miệng, dẫn đến chán ăn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm bao hoạt dịch khớp háng chủ yếu xảy ra do người bệnh sử dụng khớp quá mức, lặp đi lặp lại một vài chuyển động khiến khớp háng tổn thương. Do có chức năng đệm cho xương, gân và cơ gần khớp, bao hoạt dịch dễ bị ảnh hưởng khi có tác động, làm tăng sức ép trong thời gian dài.",
+    "related_factors": "Ngoài nguyên nhân chính, viêm bao hoạt dịch còn có thể xảy ra khi người bệnh có chấn thương ở khớp hoặc các mô mềm bao quanh. Bao hoạt dịch thường bị viêm ngay tại thời điểm chấn thương khớp hoặc tiến triển sau khi chấn thương nếu không được điều trị dứt điểm. Các bệnh lý tự miễn mạn tính như gout, viêm khớp dạng thấp, viêm khớp, lao xương, lupus ban đỏ, viêm khớp vảy nến, viêm khớp nhiễm trùng cũng có thể gây viêm bao hoạt dịch thứ phát.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác: Quá trình lão hóa tự nhiên sẽ khiến sức khỏe và chức năng của bao hoạt dịch khớp suy giảm",
+    "Yếu tố nghề nghiệp: Người làm việc quá sức hoặc có công việc ít vận động, ngồi nhiều, đứng lâu một chỗ",
+    "Vận động viên: Những người thường xuyên chơi thể thao có động tác lặp đi lặp lại hoặc tạo áp lực lớn lên bao hoạt dịch khớp háng",
+    "Thừa cân béo phì: Làm tăng nguy cơ viêm bao hoạt dịch tại khớp gối và khớp háng",
+    "Lặp đi lặp lại một số chuyển động ở khớp háng hoặc lạm dụng khớp",
+    "Chấn thương ở khớp háng hoặc các mô mềm bao quanh",
+    "Bệnh lý như gout, viêm khớp dạng thấp, viêm khớp, lao xương, lupus ban đỏ, viêm khớp vảy nến, viêm khớp nhiễm trùng"
+  ],
+  "complications": [
+    "Yếu cơ do không vận động được bình thường",
+    "Teo cơ do không sử dụng trong thời gian dài",
+    "Tàn phế, bại liệt trong trường hợp nghiêm trọng",
+    "Tăng nguy cơ mắc những bệnh lý xương khớp như thoái hóa khớp háng, viêm khớp dạng thấp, viêm khớp háng, u nang bao hoạt dịch"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Kiểm tra yếu tố nghề nghiệp, tiền sử chấn thương và bệnh sử",
+      "Đánh giá các triệu chứng ở khớp (sưng, đỏ, bầm tím, cơn đau, cứng khớp, tràn dịch)",
+      "Đánh giá các triệu chứng toàn thân (mệt mỏi, sốt, chán ăn)",
+      "Chẩn đoán phân biệt với các bệnh lý tương tự"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Giúp bác sĩ quan sát mô xương để tìm kiếm các tổn thương, chẩn đoán phân biệt viêm bao hoạt dịch với những bệnh lý xương khớp khác."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Giúp quan sát các mô mềm xung quanh khớp, đồng thời kiểm tra lượng máu dồn về khớp và tình trạng dày lên của bao hoạt dịch."
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Bác sĩ sẽ lấy một mẫu mô nhỏ tại khớp tổn thương rồi quan sát dưới kính hiển vi để đánh giá chính xác về các vấn đề đang diễn ra bên trong khớp."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Phương pháp được chỉ định khi bác sĩ nghi ngờ nguyên nhân viêm bao hoạt dịch khớp háng do nhiễm trùng, lao hoặc do những bệnh lý tự miễn."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phần lớn trường hợp viêm bao hoạt dịch khớp háng có thể được điều trị bằng thuốc và các biện pháp chăm sóc tại nhà. Phẫu thuật chỉ được chỉ định cho các trường hợp nghiêm trọng, ảnh hưởng tới khả năng vận động.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc",
+        "description": "Tùy theo tình trạng và mức độ nghiêm trọng, một số loại thuốc giảm đau và kháng viêm có thể được chỉ định như thuốc giảm đau không kê đơn, thuốc chống viêm không steroid (NSAID), thuốc steroid, thuốc kháng sinh hoặc kháng lao."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Giúp thư giãn khớp và các mô mềm bao quanh, giảm đau, tăng sự linh hoạt và khả năng vận động cho người bệnh. Vật lý trị liệu còn giúp kích thích tuần hoàn máu, giảm căng cơ, giảm sưng, hỗ trợ rất tốt cho quá trình điều trị."
+      },
+      {
+        "name": "Phẫu thuật nội soi ổ khớp",
+        "description": "Giúp loại bỏ các phần viêm của bao hoạt dịch, qua đó giảm đau và tăng khả năng vận động cho người bệnh."
+      },
+      {
+        "name": "Phẫu thuật thay thế toàn bộ khớp",
+        "description": "Khi tổn thương khớp và bao hoạt dịch không thể phục hồi, bác sĩ có thể khuyến nghị người bệnh thực hiện phẫu thuật thay thế toàn bộ khớp bằng bộ phận nhân tạo để duy trì khả năng vận động, giảm đau."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi: Giúp giảm áp lực lên bao hoạt dịch viêm, tạo thời gian thư giãn cho khớp háng và bao hoạt dịch",
+      "Chườm đá: Để giảm sưng và viêm, chườm lên khớp háng khoảng 15-20 phút, 3 lần/ngày",
+      "Chườm ấm: Thư giãn cơ, xương khớp và các mô mềm, kích thích lưu thông máu, giảm sưng và đau",
+      "Ăn uống lành mạnh: Bổ sung thực phẩm axit béo omega-3, thực phẩm kháng viêm, thực phẩm canxi, vitamin D và vitamin C",
+      "Duy trì vận động nhẹ nhàng: Ngăn ngừa cứng khớp, khó vận động, đồng thời hỗ trợ giảm đau, viêm và sưng",
+      "Kiêng các thực phẩm gây viêm: Thức ăn nhiều dầu mỡ và chất béo, thực phẩm cay nóng, thực phẩm lên men, rượu"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +129,102 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế lặp đi lặp lại một số chuyển động ở khớp háng hoặc sử dụng khớp háng quá mức",
+      "Sử dụng các biện pháp bảo hộ trong lao động, lái xe, chơi thể thao để ngăn ngừa chấn thương",
+      "Cân bằng thời gian nghỉ ngơi và làm việc, tránh hoạt động quá sức",
+      "Hạn chế thực hiện các hoạt động tác động trực tiếp lên khớp háng",
+      "Thường xuyên chườm ấm, tắm nước ấm và xoa bóp để thư giãn xương khớp (đối với vận động viên hoặc người làm việc nặng)",
+      "Nâng vật nặng đúng cách để hạn chế tạo áp lực lớn lên khớp háng và khớp gối",
+      "Thường xuyên đi lại và vận động nhẹ nhàng, đặc biệt là người làm công việc ngồi nhiều",
+      "Kiểm soát tốt cân nặng, tránh thừa cân béo phì",
+      "Khởi động, làm ấm cơ thể trước khi chơi thể thao hoặc thực hiện hoạt động gắng sức",
+      "Duy trì vận động và tập thể dục, ít nhất 30 phút mỗi ngày",
+      "Ăn uống lành mạnh và đủ chất để nuôi dưỡng xương khớp và mô mềm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bao hoạt dịch khớp háng có nguy hiểm không?",
+      "answer": "Nếu có biện pháp can thiệp sớm, viêm bao hoạt dịch khớp háng thường được điều trị khỏi, không gây nguy hiểm. Tuy nhiên, nếu trì hoãn điều trị, một số biến chứng có thể xuất hiện như yếu cơ, teo cơ, tàn phế, bại liệt, hoặc tăng nguy cơ mắc những bệnh lý xương khớp như thoái hóa khớp háng, viêm khớp dạng thấp, viêm khớp háng, u nang bao hoạt dịch."
+    },
+    {
+      "question": "Viêm bao hoạt dịch khớp háng có chữa được không?",
+      "answer": "Viêm bao hoạt dịch khớp háng hoàn toàn có thể chữa được. Phần lớn trường hợp đều được điều trị bằng thuốc và các biện pháp chăm sóc tại nhà như nghỉ ngơi, chườm đá hoặc chườm ấm, vật lý trị liệu và điều chỉnh chế độ ăn uống. Trong trường hợp nghiêm trọng, bác sĩ có thể chỉ định phẫu thuật nội soi ổ khớp hoặc phẫu thuật thay thế toàn bộ khớp."
+    },
+    {
+      "question": "Ai dễ bị viêm bao hoạt dịch khớp háng?",
+      "answer": "Viêm bao hoạt dịch khớp háng có thể xảy ra ở bất kỳ độ tuổi và nhóm đối tượng nào. Tuy nhiên, nguy cơ tăng cao ở người cao tuổi do quá trình lão hóa, người làm việc quá sức hoặc có công việc ít vận động, vận động viên thường xuyên chơi thể thao với động tác lặp đi lặp lại, và người thừa cân béo phì. Người bị các bệnh lý như gout, viêm khớp dạng thấp, lao xương, lupus ban đỏ cũng có nguy cơ cao bị viêm bao hoạt dịch."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm bao hoạt dịch khớp háng?",
+      "answer": "Để phòng ngừa viêm bao hoạt dịch khớp háng, bạn nên: hạn chế lặp đi lặp lại các chuyển động ở khớp háng, sử dụng biện pháp bảo hộ khi làm việc hoặc chơi thể thao, cân bằng thời gian nghỉ ngơi và làm việc, kiểm soát cân nặng, khởi động trước khi tập luyện, duy trì vận động nhẹ nhàng đều đặn, và ăn uống lành mạnh, đủ chất."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức, sưng to và đau nhức nhiều ở khớp háng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-hang",
+        "viem-khop-hang",
+        "thoai-hoa-khop-hang"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cơn đau tăng khi đi lại, vận động nhiều và thuyên giảm khi ngừng hoạt động, nghỉ ngơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-hang",
+        "viem-gan",
+        "thoai-hoa-khop"
+      ]
+    },
+    {
+      "question": "Tôi hay bị cứng khớp và hạn chế khả năng đi lại và vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-hang",
+        "viem-khop-dang-thap",
+        "thoai-hoa-khop"
+      ]
+    },
+    {
+      "question": "Tôi hay bị bầm tím hoặc đỏ ở khu vực khớp háng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-hang",
+        "chay-mau-duoi-da",
+        "chau-thuong-mo-mem"
+      ]
+    },
+    {
+      "question": "Tôi bị tiếng kêu rắc rắc khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-hang",
+        "thoai-hoa-khop",
+        "gay-xuong-vi-tri"
+      ]
+    },
+    {
+      "question": "Tôi bị khô hay tràn dịch khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-hang",
+        "viem-khop",
+        "thoai-hoa-khop"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên lặp đi lặp lại một số chuyển động ở khớp háng và bị đau nhức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-hang",
+        "viem-gan",
+        "thoai-hoa-khop-hang"
+      ]
+    },
+    {
+      "question": "Tôi bị chấn thương ở khớp háng hoặc các mô mềm bao quanh và bị đau nhức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-hang",
+        "gay-xuong",
+        "dut-gan"
+      ]
     }
   ]
 }

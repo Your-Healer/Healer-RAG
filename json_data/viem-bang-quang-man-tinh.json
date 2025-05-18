@@ -1,39 +1,116 @@
 {
   "disease_id": "viem-bang-quang-man-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bàng quang mạn tính",
+  "disease_alternative_names": [
+    "Viêm bàng quang kẽ",
+    "Bệnh bàng quang đau mạn tính"
+  ],
+  "disease_definition": "Viêm bàng quang mạn tính (hay còn gọi là viêm bàng quang kẽ) là tình trạng tổn thương lớp niêm mạc bàng quang không do vi khuẩn. Đó có thể là hậu quả của một quá trình viêm bàng quang cấp tái diễn nhiều lần không được điều trị triệt để. Viêm bàng quang mạn tính gây ra những triệu chứng tương tự viêm bàng quang cấp tính nhưng dai dẳng và khó điều trị dứt điểm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau ở vùng hạ sườn và vùng chậu",
+      "description": "Người bệnh cảm thấy đau thắt ở vùng hạ vị, có thể kèm theo sốt trong một số trường hợp."
+    },
+    {
+      "name": "Đau thắt khó chịu ở vùng bụng dưới",
+      "description": "Cảm giác đau thắt ở vùng bụng dưới, diễn ra theo các đợt với cường độ khác nhau."
+    },
+    {
+      "name": "Tiểu buốt, tiểu rắt, tiểu gấp",
+      "description": "Cảm giác nóng rát, châm chích khi đi tiểu, thường xuyên có nhu cầu đi tiểu và phải đi tiểu ngay khi có nhu cầu."
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Cảm giác đau trong và sau khi quan hệ tình dục do tình trạng viêm nhiễm bàng quang."
+    },
+    {
+      "name": "Nước tiểu có lẫn máu hoặc có màu sẫm",
+      "description": "Nước tiểu có thể chứa máu hoặc có màu sẫm, là dấu hiệu của tình trạng viêm nhiễm."
+    },
+    {
+      "name": "Luôn cảm thấy bàng quang căng tức",
+      "description": "Cảm giác bàng quang luôn đầy và căng tức dù đã đi tiểu."
+    },
+    {
+      "name": "Tần suất đi tiểu tăng cao bất thường",
+      "description": "Người bệnh phải đi tiểu với tần suất cao hơn bình thường."
+    },
+    {
+      "name": "Niệu đạo bị đau rát khi đi tiểu",
+      "description": "Cảm giác nóng rát, đau đớn tại niệu đạo mỗi khi đi tiểu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm bàng quang mạn tính thường phát triển từ tình trạng viêm bàng quang cấp tính kéo dài hoặc tái phát nhiều lần không được điều trị triệt để.",
+    "related_factors": "Khoảng 70% trường hợp viêm bàng quang mạn tính do vi khuẩn Escherichia coli gây ra. Khi vi khuẩn xâm nhập vào bàng quang thông qua đường niệu đạo, chúng sẽ tấn công vào niêm mạc khiến bàng quang viêm sưng. Ngoài ra, điều trị không đúng cách các bệnh tiết niệu cũng có thể dẫn đến viêm bàng quang mạn tính.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiếp xúc với vi khuẩn thông qua quan hệ tình dục không sử dụng biện pháp an toàn",
+    "Không giữ vệ sinh vùng sinh dục hoặc vệ sinh sai cách",
+    "Lạm dụng hoặc sử dụng thuốc tránh thai và thuốc diệt tinh trùng không đúng cách",
+    "Không điều trị dứt điểm tình trạng nhiễm trùng tiết niệu",
+    "Viêm bàng quang không triệu chứng",
+    "Phụ nữ trong giai đoạn mãn kinh",
+    "Người làm công việc tiếp xúc với hóa chất",
+    "Uống ít nước"
+  ],
+  "complications": [
+    "Nhiễm trùng ngược dòng, ảnh hưởng đến chức năng thận",
+    "Ảnh hưởng đến hệ thống sinh dục",
+    "Viêm bàng quang kẽ",
+    "Nhiễm trùng thận",
+    "Suy thận"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để nắm rõ bệnh sử và tình trạng sức khỏe của bệnh nhân",
+      "Xét nghiệm nước tiểu",
+      "Nội soi bàng quang",
+      "Chụp x-quang"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Phân tích nước tiểu để tìm vi khuẩn gây bệnh và tế bào bạch cầu. Trong một số trường hợp cần thiết, bác sĩ sẽ thực hiện cấy nước tiểu để có kết quả chẩn đoán chính xác hơn."
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Sử dụng máy soi chuyên dụng được đưa vào người bệnh nhân qua niệu đạo để quan sát hình ảnh bàng quang. Bác sĩ có thể lấy mẫu mô để sinh thiết nếu cần thiết."
+      },
+      {
+        "name": "Chụp x-quang",
+        "description": "Sử dụng ống niệu đạo có bôi chất cản quang để chụp ảnh bàng quang. Đối với viêm bàng quang mạn tính, thành bàng quang sẽ dày hơn bàng quang khỏe mạnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm bàng quang mạn tính là một bệnh nhiễm trùng đường tiết niệu không thể điều trị hoàn toàn. Người bệnh cần chú ý sức khỏe, uống thuốc kháng sinh kết hợp với lối sống lành để kiểm soát được các triệu chứng của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi thói quen và chế độ ăn uống",
+        "description": "Thay đổi thói quen đi tiểu và uống nước, kèm chế độ ăn uống giảm bớt chất ngọt, béo, kích thích. Chườm ấm bàng quang cũng được khuyến khích."
+      },
+      {
+        "name": "Thuốc antimuscarinic",
+        "description": "Làm giảm co bóp cơ chóp bàng quang. Bác sĩ sẽ bơm thuốc này vào bàng quang của người bệnh giúp tăng cường chất bảo vệ niêm mạc."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Hỗ trợ quá trình điều trị viêm bàng quang mạn tính bằng thuốc, giúp giảm đau và cải thiện chức năng bàng quang."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Chỉ định cho những trường hợp do vi khuẩn gây ra. Cần tuân thủ liệu trình điều trị đầy đủ để tránh tình trạng kháng thuốc."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thay đổi chế độ ăn lành mạnh, đủ chất dinh dưỡng",
+      "Hạn chế mất nước cho cơ thể, uống đủ nước mỗi ngày",
+      "Luyện tập bàng quang để kiểm soát được nhu cầu và tần suất đi tiểu",
+      "Nắm rõ những thời điểm bùng phát của bệnh để có sự can thiệp phù hợp",
+      "Hạn chế sử dụng cafein để tránh làm tăng cường độ của cơn đau"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +118,98 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ gìn vệ sinh và thực hiện khám sức khỏe định kỳ 2 lần mỗi năm",
+      "Thực hiện đúng theo chỉ định điều trị từ bác sĩ khi bị viêm bàng quang",
+      "Hạn chế nhịn tiểu lâu",
+      "Sử dụng biện pháp an toàn khi quan hệ tình dục",
+      "Uống nhiều nước",
+      "Giữ vệ sinh cho bộ phận sinh dục",
+      "Điều trị dứt điểm các đợt viêm bàng quang cấp tính"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bàng quang mạn tính có chữa khỏi hoàn toàn được không?",
+      "answer": "Viêm bàng quang mạn tính là một bệnh nhiễm trùng đường tiết niệu không thể điều trị hoàn toàn. Người bệnh chỉ có thể kiểm soát và cải thiện các triệu chứng bằng thuốc hoặc những phương pháp điều trị do bác sĩ chỉ định, kết hợp với việc duy trì lối sống lành mạnh."
+    },
+    {
+      "question": "Viêm bàng quang mạn tính có nguy hiểm không?",
+      "answer": "Viêm bàng quang mạn tính có thể gây ra nhiễm trùng trùng ngược, ảnh hưởng đến chức năng thận và hệ thống sinh dục. Người bị viêm bàng quang mạn tính có nguy cơ đối mặt với các bệnh lý nguy hiểm về thận và tiết niệu khác như viêm bàng quang kẽ, nhiễm trùng thận, suy thận nếu không quản lý tốt sức khỏe."
+    },
+    {
+      "question": "Làm thế nào để phát hiện viêm bàng quang mạn tính?",
+      "answer": "Viêm bàng quang mạn tính được chẩn đoán thông qua các triệu chứng lâm sàng và các phương pháp cận lâm sàng như xét nghiệm nước tiểu, nội soi bàng quang và chụp x-quang. Bác sĩ sẽ thực hiện khám lâm sàng trước, sau đó tiến hành các xét nghiệm cận lâm sàng để có chẩn đoán chính xác."
+    },
+    {
+      "question": "Làm thế nào để kiểm soát triệu chứng viêm bàng quang mạn tính?",
+      "answer": "Để kiểm soát triệu chứng viêm bàng quang mạn tính, bạn cần thay đổi chế độ ăn lành mạnh, đủ chất dinh dưỡng, hạn chế mất nước cho cơ thể, luyện tập bàng quang để kiểm soát được nhu cầu và tần suất đi tiểu, nắm rõ những thời điểm bùng phát của bệnh để có sự can thiệp phù hợp, hạn chế sử dụng cafein, đồng thời tuân thủ liệu trình điều trị của bác sĩ."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau ở vùng hạ sườn và vùng chậu, đôi lúc kèm sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-man-tinh",
+        "viem-bang-quang-cap",
+        "viem-than-be-than"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau thắt khó chịu ở vùng bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-man-tinh",
+        "viem-phu-khoa",
+        "viem-ruot-thua"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu buốt, tiểu rắt, tiểu gấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-man-tinh",
+        "viem-bang-quang-cap",
+        "viem-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-man-tinh",
+        "viem-phu-khoa",
+        "viem-am-dao"
+      ]
+    },
+    {
+      "question": "Tôi bị nước tiểu có lẫn máu hoặc có màu sẫm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-man-tinh",
+        "soi-duong-tiet-nieu",
+        "ung-thu-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi bị nhiễm trùng đường tiết niệu nhiều lần và hiện tại đang bị đau, khó chịu khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-man-tinh",
+        "viem-nieu-dao",
+        "viem-bang-quang-cap"
+      ]
+    },
+    {
+      "question": "Tôi luôn cảm thấy bàng quang căng tức dù đã đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-man-tinh",
+        "viem-bang-quang-ke",
+        "bang-quang-tang-hoat"
+      ]
+    },
+    {
+      "question": "Tôi có tần suất đi tiểu tăng cao bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-man-tinh",
+        "bang-quang-tang-hoat",
+        "dai-thao-duong"
+      ]
     }
   ]
 }

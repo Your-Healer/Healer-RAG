@@ -1,39 +1,145 @@
 {
   "disease_id": "viem-be-than",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bể thận",
+  "disease_alternative_names": [
+    "Viêm thận bể thận cấp",
+    "Viêm thận bể thận mạn",
+    "Pyelonephritis"
+  ],
+  "disease_definition": "Viêm bể thận (pyelonephritis) là bệnh lý nhiễm khuẩn đường tiết niệu, thường xảy ra khi vi khuẩn xâm nhập gây nhiễm trùng, với tác nhân phổ biến nhất là vi khuẩn gram âm. Bệnh có hai dạng: viêm bể thận cấp gây triệu chứng đột ngột, nghiêm trọng; và viêm bể thận mạn là tình trạng tổn thương mạn tính ở nhu mô, mô kẽ của thận do viêm đài bể thận lặp đi lặp lại hoặc kéo dài.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt cao",
+      "description": "Sốt trên 38,9°C, thường là dấu hiệu đặc trưng của tình trạng nhiễm trùng."
+    },
+    {
+      "name": "Đau ở bụng, lưng, bên hông hoặc bẹn",
+      "description": "Cảm giác đau thường lệch một bên, tại vị trí thận bị viêm, có thể lan đến bụng, lưng, bên hông hoặc bẹn."
+    },
+    {
+      "name": "Tiểu đau, tiểu rát",
+      "description": "Cảm giác đau buốt hoặc rát khi đi tiểu, là triệu chứng của nhiễm trùng đường tiết niệu."
+    },
+    {
+      "name": "Nước tiểu đục",
+      "description": "Nước tiểu mất tính trong suốt, có thể chứa mủ hoặc máu do nhiễm trùng."
+    },
+    {
+      "name": "Xuất hiện mủ hoặc máu trong nước tiểu",
+      "description": "Mủ hoặc máu trong nước tiểu là dấu hiệu của tình trạng viêm nhiễm nặng."
+    },
+    {
+      "name": "Tiểu gấp hoặc tiểu dắt",
+      "description": "Cảm giác mắc tiểu liên tục hoặc tiểu không hết."
+    },
+    {
+      "name": "Nước tiểu có mùi tanh",
+      "description": "Mùi hôi bất thường của nước tiểu, thường do vi khuẩn gây nhiễm trùng."
+    },
+    {
+      "name": "Gai rét, sốt rét run, ớn lạnh",
+      "description": "Triệu chứng kèm theo sốt cao, cho thấy cơ thể đang chống lại nhiễm trùng nghiêm trọng."
+    },
+    {
+      "name": "Buồn nôn, nôn mửa",
+      "description": "Triệu chứng thường gặp khi nhiễm trùng nặng, có thể là dấu hiệu của viêm bể thận lan rộng."
+    },
+    {
+      "name": "Đau nhức, mệt mỏi",
+      "description": "Cảm giác mệt mỏi toàn thân, đau nhức do tình trạng viêm nhiễm."
+    },
+    {
+      "name": "Rối loạn tâm thần",
+      "description": "Đặc biệt thường gặp ở người lớn tuổi và có thể là triệu chứng duy nhất của họ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm bể thận thường bắt đầu từ nhiễm trùng đường tiết niệu dưới, khi vi khuẩn xâm nhập vào cơ thể qua niệu đạo, sinh sôi và lan lên bàng quang, sau đó trào ngược qua niệu quản đến thận.",
+    "related_factors": "Vi khuẩn gây bệnh thường là những vi khuẩn gram âm như E. Coli, Klebsiella, Proteus mirabilis và Enterobacter. Ngoài ra, những vi khuẩn Gram dương như tụ cầu, liên cầu cũng có khả năng gây bệnh nhưng hiếm gặp hơn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sỏi thận",
+    "Bất thường ở thận hoặc bàng quang",
+    "Tuổi cao",
+    "Hệ miễn dịch suy giảm (đái tháo đường, HIV/AIDS, ung thư)",
+    "Trào ngược bàng quang niệu quản (vesicoureteral reflux)",
+    "Tăng sinh lành tính tuyến tiền liệt",
+    "Sử dụng ống thông tiểu (catheter)",
+    "Nội soi bàng quang",
+    "Phẫu thuật tiết niệu",
+    "Một số loại thuốc",
+    "Tổn thương dây thần kinh hoặc tủy sống",
+    "Tắc nghẽn đường tiết niệu",
+    "Giới tính nữ (niệu đạo ngắn hơn nam giới)"
+  ],
+  "complications": [
+    "Áp xe thận (ổ mủ quanh thận)",
+    "Nhiễm khuẩn huyết (vi khuẩn tràn vào máu)",
+    "Suy thận cấp (thiểu niệu hoặc vô niệu)",
+    "Hoại tử nhú thận (nhú thận bị chết và bong ra)",
+    "Kháng thuốc kháng sinh",
+    "Suy thận mạn (do viêm tái phát nhiều lần)",
+    "Tăng huyết áp cấp",
+    "Phù phổi cấp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng đánh giá biểu hiện nhiễm trùng",
+      "Đánh giá biểu hiện bàng quang cấp",
+      "Đánh giá biểu hiện đau vùng thận",
+      "Xét nghiệm công thức máu",
+      "Xét nghiệm nước tiểu",
+      "Cấy nước tiểu tìm vi khuẩn",
+      "Xét nghiệm protein niệu và cặn Addis"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm công thức máu",
+        "description": "Kiểm tra chỉ số bạch cầu tăng rõ rệt, đặc biệt là tăng bạch cầu đa nhân trung tính, đặc trưng cho tình trạng nhiễm trùng."
+      },
+      {
+        "name": "Cấy máu",
+        "description": "Giúp xác định trường hợp nhiễm trùng tiết niệu do nhóm vi khuẩn nào, từ đó có hướng điều trị kháng sinh phù hợp."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Tìm dấu hiệu giãn niệu quản, giãn đài bể thận, hình ảnh sỏi thận – tiết niệu, khối u chèn ép."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Được chỉ định khi nghi ngờ có trào ngược bàng quang – thận, giúp đánh giá tình trạng tắc nghẽn đường tiết niệu."
+      },
+      {
+        "name": "Cấy nước tiểu",
+        "description": "Xác định chính xác loại vi khuẩn gây bệnh và độ nhạy cảm với kháng sinh, từ đó có phác đồ điều trị phù hợp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Người bệnh viêm bể thận nếu bị rét run hay sử dụng thuốc kháng sinh ngoại trú 3 – 5 ngày không đáp ứng, bệnh không giảm sẽ được chuyển điều trị nội trú. Nếu triệu chứng nhẹ sẽ được theo dõi ngoại trú và sử dụng kháng sinh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sử dụng kháng sinh",
+        "description": "Đối với các trường hợp không có triệu chứng nặng, được chỉ định dùng kháng sinh trong 1-14 ngày bằng đường uống. Các loại kháng sinh thường được chỉ định bao gồm: Aminopenicillins, Aminoglycosides, Aztreonam, Cephalosporines thế hệ 2 hay 3, Cotrimoxazol và Fluoroquinolones."
+      },
+      {
+        "name": "Điều trị tại bệnh viện",
+        "description": "Chỉ định cho các trường hợp có triệu chứng nặng, thai phụ, người có bệnh lý nền. Phụ nữ mang thai được điều trị bằng kháng sinh beta-lactam ít nhất 24 giờ cho đến khi các triệu chứng được cải thiện."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Được chỉ định khi có tình trạng tắc nghẽn ở thận hoặc sốc nhiễm khuẩn, nhằm giải quyết tình trạng tắc nghẽn, loại bỏ vật cản hoặc sửa chữa vấn đề cấu trúc trong thận. Phẫu thuật cũng có thể cần thiết để dẫn lưu ổ áp xe không đáp ứng với kháng sinh."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ việc uống kháng sinh đúng liều, đúng thời gian theo chỉ định của bác sĩ",
+      "Cần tiếp tục uống hết thuốc ngay cả khi các triệu chứng đã biến mất",
+      "Theo dõi đáp ứng thuốc sau 3-5 ngày, nếu tình trạng không cải thiện cần thông báo cho bác sĩ",
+      "Uống nhiều nước để giúp đào thải vi khuẩn qua nước tiểu",
+      "Nghỉ ngơi đầy đủ trong thời gian điều trị",
+      "Kiểm tra lại sau khi hoàn thành đợt điều trị để đảm bảo nhiễm trùng đã được loại bỏ hoàn toàn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +147,78 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ vệ sinh cơ quan sinh dục – tiết niệu, đặc biệt là nữ giới cần vệ sinh kỹ trong thời kỳ kinh nguyệt, sau quan hệ tình dục",
+      "Điều trị sớm nhiễm khuẩn tiết niệu do tắc nghẽn đường tiết niệu",
+      "Uống nhiều nước (2-2,5 lít/ngày) để đảm bảo lượng nước tiểu từ 1,5-2 lít/ngày",
+      "Tránh nhịn tiểu khi có nhu cầu",
+      "Người bị tiểu ra sỏi cần hạn chế những thức ăn chứa nhiều canxi",
+      "Khám sức khỏe tổng quát định kỳ (6 tháng/lần) để sớm phát hiện các nhiễm trùng tiềm ẩn",
+      "Điều trị triệt để khi mắc các bệnh lý nhiễm trùng tiết niệu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bể thận có nguy hiểm không?",
+      "answer": "Viêm bể thận nếu không được chữa trị kịp thời có thể dẫn tới những biến chứng nguy hiểm như áp xe thận, nhiễm khuẩn huyết, suy thận cấp, hoại tử nhú thận, kháng kháng sinh và suy thận mạn. Những biến chứng này có thể đe dọa đến tính mạng người bệnh nếu không được can thiệp sớm."
+    },
+    {
+      "question": "Viêm bể thận bao lâu thì khỏi?",
+      "answer": "Thời gian điều trị viêm bể thận phụ thuộc vào mức độ nghiêm trọng của bệnh. Đối với các trường hợp không có triệu chứng nặng, thời gian điều trị bằng kháng sinh thường từ 1-14 ngày. Sau khi điều trị, nếu tuân thủ đúng phác đồ, người bệnh có thể khỏi hoàn toàn sau 2-3 tuần."
+    },
+    {
+      "question": "Làm sao để phòng tránh viêm bể thận?",
+      "answer": "Để phòng tránh viêm bể thận cần: giữ vệ sinh cơ quan sinh dục-tiết niệu, điều trị sớm nhiễm khuẩn tiết niệu, uống đủ nước (2-2,5 lít/ngày), tránh nhịn tiểu, người bị tiểu ra sỏi cần hạn chế thức ăn chứa nhiều canxi, khám sức khỏe định kỳ (6 tháng/lần), và điều trị triệt để khi mắc các bệnh lý nhiễm trùng tiết niệu."
+    },
+    {
+      "question": "Viêm bể thận nên kiêng ăn gì?",
+      "answer": "Khi bị viêm bể thận, người bệnh nên hạn chế thực phẩm chứa nhiều muối và gia vị cay nóng, hạn chế đồ uống có chứa caffeine và rượu bia vì có thể kích thích bàng quang. Người bị tiểu ra sỏi cần hạn chế những thức ăn chứa nhiều canxi. Nên uống nhiều nước và ăn nhiều rau xanh, trái cây để tăng cường hệ miễn dịch."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sốt trên 38,9°C và đau ở bụng, lưng, bên hông hoặc bẹn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-be-than", "soi-than", "viem-dai-bang-quang"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lệch 1 bên và tiểu đau, tiểu rát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-be-than", "viem-nieu-dao", "viem-bang-quang"]
+    },
+    {
+      "question": "Tôi hay bị nước tiểu đục và xuất hiện mủ hoặc máu trong nước tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-be-than",
+        "viem-bang-quang",
+        "soi-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu gấp hoặc tiểu dắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-be-than",
+        "viem-bang-quang",
+        "tang-sinh-lanh-tinh-tuyen-tien-liet"
+      ]
+    },
+    {
+      "question": "Tôi bị nước tiểu có mùi tanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-be-than",
+        "viem-bang-quang",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi bị gai rét, sốt rét run, ớn lạnh, buồn nôn, nôn mửa, đau nhức, mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-be-than", "cum", "nhiem-trung-huyet"]
+    },
+    {
+      "question": "Tôi bị rối loạn tâm thần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-be-than", "tram-cam", "roi-loan-lo-au"]
+    },
+    {
+      "question": "Tôi bị nhiễm trùng đường tiểu và sốt cao, đau hông lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-be-than", "ap-xe-than", "viem-nieu-quan"]
     }
   ]
 }

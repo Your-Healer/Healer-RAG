@@ -1,39 +1,105 @@
 {
   "disease_id": "xo-cung-bi-khu-tru",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xơ cứng bì khu trú",
+  "disease_alternative_names": ["Xơ cứng bì cục bộ", "Morphea"],
+  "disease_definition": "Xơ cứng bì khu trú là tình trạng hiếm gặp, gây ra các mảng đổi màu không đau trên da, chủ yếu xuất hiện ở mặt, cánh tay và chân. Theo thời gian, những vùng này dần trở nên dày, khô, cứng hơn nhưng thường có xu hướng chỉ ảnh hưởng đến lớp da bên ngoài. Trong một số ít trường hợp, bệnh gây tác động đến các mô sâu hơn, làm hạn chế chuyển động ở khớp.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Các mảng da đổi màu, dày và cứng",
+      "description": "Da xuất hiện các mảng đổi màu, dày và có thể có hình bầu dục. Bên trong thường màu đỏ, mép ngoài có thể là màu hoa cà. Càng về phía trung tâm hình bầu dục, màu sắc dần chuyển thành trắng hoặc vàng."
+    },
+    {
+      "name": "Thể mảng (Plaque morphea)",
+      "description": "Loại phổ biến nhất, thường xuất hiện với 3 – 4 mảng bám hình bầu dục, không đau nhưng có thể gây ngứa."
+    },
+    {
+      "name": "Thể mảng lan rộng (Generalized plaque morphea)",
+      "description": "Loại xơ cứng với tổn thương lan rộng hơn, ảnh hưởng đến các mô sâu hơn và có nguy cơ dẫn đến biến dạng."
+    },
+    {
+      "name": "Xơ cứng bì sâu (Pansclerotic morphea)",
+      "description": "Loại này tiến triển nhanh chóng với nhiều mảng bao phủ gần như toàn bộ cơ thể (ngoại trừ tay, chân) cần được điều trị kịp thời."
+    },
+    {
+      "name": "Thể dải (Linear morphea)",
+      "description": "Triệu chứng đặc trưng là một dải da dày, đổi màu, thường ở cánh tay, chân hoặc trán. Loại này thường được tìm thấy ở trẻ em trong độ tuổi đi học."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân gây ra xơ cứng bì khu trú vẫn chưa được xác định chính xác. Đây được coi là một dạng bệnh lý tự miễn dịch, xảy ra khi hệ thống miễn dịch của cơ thể tấn công lên da.",
+    "related_factors": "Xạ trị, chấn thương lặp đi lặp lại, nhiễm trùng, tiếp xúc với hóa chất, dùng thuốc.",
+    "transmission_routes": [
+      "Xơ cứng bì khu trú không có khả năng lây nhiễm khi chạm vào người bệnh."
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính: Nữ",
+    "Người da trắng",
+    "Tuổi tác: Bệnh phổ biến ở giai đoạn từ 2 – 14 tuổi hoặc giữa những năm 40 tuổi",
+    "Tiền sử gia đình có người mắc bệnh"
+  ],
+  "complications": [
+    "Hạn chế khả năng vận động của khớp",
+    "Đau khớp",
+    "Dị tật",
+    "Tổn thương mắt vĩnh viễn ở trẻ em",
+    "Rụng tóc",
+    "Tổn thương răng",
+    "Xơ cứng tại cơ quan sinh dục"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Kiểm tra vùng da bị ảnh hưởng", "Hỏi bệnh sử và triệu chứng"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Giúp bác sĩ phân biệt tình trạng này với một số bệnh lý khác"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Siêu âm 10 – 25 MHz có thể xác định được độ dày của da, tương quan với mức độ nghiêm trọng của bệnh"
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Phương pháp chẩn đoán thường được ưu tiên đối với các trường hợp xơ cứng thể dải hoặc xơ cứng bì khu trú đã đi sâu vào bên trong, gây ảnh hưởng đến xương"
+      },
+      {
+        "name": "Điện não đồ",
+        "description": "Cho thấy những bất thường xảy ra đối với người bệnh mắc xơ cứng thể dải ở sọ"
+      },
+      {
+        "name": "Sinh thiết da",
+        "description": "Một mẫu da nhỏ sẽ được kiểm tra để xác định những thay đổi bất thường, như sự tăng lên quá mức của collagen lớp hạ bì"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Xơ cứng bì khu trú có thể kéo dài vài năm và sau đó tự khỏi mà không cần điều trị y tế. Tuy nhiên, bệnh có thể để lại sẹo hoặc những vùng da bị sạm, đổi màu.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kem bôi da",
+        "description": "Bác sĩ có thể kê đơn một số loại kem Vitamin D, như Calcipotriene, để giúp làm mềm da. Tác dụng phụ thường gặp là bỏng rát, châm chích và phát ban."
+      },
+      {
+        "name": "Kem Corticosteroid",
+        "description": "Loại kem này có tác dụng làm giảm viêm, nhưng sử dụng liên tục trong thời gian dài có thể làm mỏng da và nhiều biến chứng khác."
+      },
+      {
+        "name": "Liệu pháp ánh sáng",
+        "description": "Đối với tình trạng bệnh nghiêm trọng, tổn thương lan rộng, bác sĩ có thể chỉ định điều trị bằng liệu pháp ánh sáng."
+      },
+      {
+        "name": "Thuốc uống",
+        "description": "Đối với tình trạng bệnh nghiêm trọng, bác sĩ có thể chỉ định dùng thuốc ức chế miễn dịch như Methotrexate, Corticosteroid, Hydroxychloroquine, Mycophenolate Mofetil."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Nếu tổn thương này gây ảnh hưởng đến khớp, vật lý trị liệu có thể được chỉ định thực hiện để cải thiện khả năng cử động."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Người bệnh nên trao đổi kỹ với bác sĩ trước khi dùng thuốc để tránh tác dụng phụ không mong muốn",
+      "Nếu nhận thấy da xuất hiện các mảng cứng và màu đỏ thì cần lập tức liên hệ bác sĩ để được thăm khám sớm"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +107,49 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì thói quen tập thể dục đều đặn để cơ thể thêm linh hoạt, cải thiện tuần hoàn máu và giảm tình trạng căng cứng",
+      "Bảo vệ da bằng cách sử dụng kem dưỡng và kem chống nắng thường xuyên",
+      "Hạn chế tắm nước quá nóng, tắm bằng xà phòng chứa chất tẩy rửa mạnh, tiếp xúc với hóa chất",
+      "Bảo vệ tay, chân khỏi lạnh bằng cách mang găng tay, ủng ấm vào mùa đông",
+      "Từ bỏ thói quen hút thuốc",
+      "Sử dụng máy tạo độ ẩm trong không gian sống để tránh khô da, đặc biệt là vào mùa đông"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xơ cứng bì khu trú có nguy hiểm không?",
+      "answer": "Xơ cứng bì khu trú xuất hiện trên mặt, cổ hoặc những tổn thương sâu, lan rộng nếu không được điều trị sớm có thể dẫn đến các biến chứng nguy hiểm như hạn chế khả năng vận động của khớp, đau khớp, dị tật, tổn thương mắt vĩnh viễn ở trẻ em, rụng tóc và các vấn đề khác."
+    },
+    {
+      "question": "Xơ cứng bì khu trú có lây không?",
+      "answer": "Xơ cứng bì khu trú không có khả năng lây nhiễm khi chạm vào người bệnh."
+    },
+    {
+      "question": "Xơ cứng bì khu trú có tự khỏi không?",
+      "answer": "Xơ cứng bì khu trú có thể kéo dài vài năm và sau đó tự khỏi mà không cần điều trị y tế. Tuy nhiên, bệnh có thể để lại sẹo hoặc những vùng da bị sạm, đổi màu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như da xuất hiện các mảng đổi màu, dày và cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì khu trú"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ngứa da và các mảng da có hình bầu dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì khu trú", "Xơ cứng bì thể mảng"]
+    },
+    {
+      "question": "Tôi hay bị các mảng da đổi màu, dày và có màu trắng hoặc vàng ở trung tâm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì khu trú"]
+    },
+    {
+      "question": "Tôi bị xơ cứng bì khu trú và hiện đang bị hạn chế khả năng vận động khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì khu trú"]
+    },
+    {
+      "question": "Tôi bị xơ cứng bì khu trú và hiện đang bị xơ cứng tại cơ quan sinh dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ cứng bì khu trú"]
     }
   ]
 }

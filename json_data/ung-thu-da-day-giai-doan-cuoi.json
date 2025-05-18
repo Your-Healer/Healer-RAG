@@ -1,39 +1,184 @@
 {
   "disease_id": "ung-thu-da-day-giai-doan-cuoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư dạ dày giai đoạn cuối",
+  "disease_alternative_names": ["Ung thư dạ dày giai đoạn 4", "Ung thư dạ dày di căn", "Stage 4 gastric cancer"],
+  "disease_definition": "Ung thư dạ dày giai đoạn cuối (giai đoạn 4) là tình trạng các tế bào ung thư đã di căn từ dạ dày đến các cơ quan xa như gan, phổi, xương, não, hoặc đến các hạch bạch huyết ở vùng xa. Đây là giai đoạn nặng nhất của bệnh ung thư dạ dày với tiên lượng kém và điều trị chủ yếu nhằm kéo dài thời gian sống và nâng cao chất lượng cuộc sống.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn, thậm chí với những món ăn yêu thích"
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân nhanh chóng và không chủ ý do không ăn đủ và do tác động của khối u"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Cảm giác đau ở vùng thượng vị, đau âm ỉ hoặc dữ dội, thường nặng hơn sau khi ăn"
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Cảm giác khó khăn khi nuốt thức ăn, đặc biệt là thức ăn rắn"
+    },
+    {
+      "name": "Ợ nóng",
+      "description": "Cảm giác nóng rát ở vùng ngực hoặc cổ họng sau khi ăn"
+    },
+    {
+      "name": "Nôn ói",
+      "description": "Nôn ra thức ăn hoặc dịch tiêu hóa, có thể kèm theo máu"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài, không cải thiện sau khi nghỉ ngơi"
+    },
+    {
+      "name": "Đau xương",
+      "description": "Đau nhức ở xương do các tế bào ung thư dạ dày di căn đến xương"
+    },
+    {
+      "name": "Bụng trướng",
+      "description": "Cảm giác đầy hơi và căng tức ở vùng bụng"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở khi các tế bào ung thư di căn đến phổi hoặc do tràn dịch màng phổi"
+    },
+    {
+      "name": "Vàng da, vàng mắt",
+      "description": "Da và mắt có màu vàng do các tế bào ung thư di căn đến gan, gây tắc mật"
+    },
+    {
+      "name": "Phù chân",
+      "description": "Sưng phù ở chân do tắc nghẽn hệ bạch huyết hoặc tĩnh mạch"
+    },
+    {
+      "name": "Cổ trướng",
+      "description": "Tích tụ dịch trong ổ bụng gây bụng to ra, căng tức"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư dạ dày giai đoạn cuối là kết quả của sự phát triển và di căn của các tế bào ung thư nguyên phát từ dạ dày. Đây là giai đoạn cuối cùng của quá trình diễn tiến bệnh khi không được phát hiện và điều trị kịp thời ở giai đoạn sớm.",
+    "related_factors": "Các yếu tố nguy cơ bao gồm nhiễm khuẩn Helicobacter pylori mạn tính, chế độ ăn nhiều muối và thực phẩm hun khói, tiền sử gia đình có người mắc ung thư dạ dày, hút thuốc lá, uống rượu, béo phì, và một số yếu tố di truyền.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm khuẩn Helicobacter pylori kéo dài",
+    "Viêm dạ dày teo mạn tính",
+    "Chế độ ăn nhiều muối, thực phẩm hun khói, ít rau và trái cây",
+    "Tiền sử gia đình có người mắc ung thư dạ dày",
+    "Hút thuốc lá",
+    "Uống rượu quá mức",
+    "Những người đã phẫu thuật dạ dày",
+    "Thiếu máu ác tính",
+    "Polyp dạ dày trên 2cm",
+    "Bệnh xơ gan tiến triển",
+    "Trào ngược dạ dày thực quản mạn tính"
+  ],
+  "complications": [
+    "Tắc nghẽn đường tiêu hóa",
+    "Xuất huyết tiêu hóa",
+    "Di căn gan gây suy gan",
+    "Di căn phổi gây suy hô hấp",
+    "Di căn xương gây gãy xương bệnh lý",
+    "Tràn dịch màng bụng",
+    "Tràn dịch màng phổi",
+    "Suy dinh dưỡng nặng",
+    "Thiếu máu",
+    "Đau khó kiểm soát",
+    "Nhiễm trùng cơ hội"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Khai thác tiền sử bệnh và gia đình",
+      "Đánh giá các triệu chứng đặc trưng",
+      "Phân giai đoạn ung thư theo hệ thống TNM"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi dạ dày",
+        "description": "Quan sát trực tiếp tổn thương trong dạ dày và lấy mẫu sinh thiết để xác định tế bào ung thư"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô để kiểm tra dưới kính hiển vi xác định tế bào ung thư và loại mô học"
+      },
+      {
+        "name": "Chụp CT ngực, bụng, chậu",
+        "description": "Đánh giá mức độ xâm lấn của khối u và di căn đến các cơ quan khác"
+      },
+      {
+        "name": "Chụp PET/CT",
+        "description": "Phát hiện các ổ di căn xa, đánh giá giai đoạn bệnh và đáp ứng điều trị"
+      },
+      {
+        "name": "Chụp MRI não",
+        "description": "Kiểm tra di căn não nếu có các triệu chứng thần kinh"
+      },
+      {
+        "name": "Xạ hình xương",
+        "description": "Phát hiện di căn xương nếu có triệu chứng đau xương"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá các chỉ số sinh hóa, dấu ấn ung thư và tình trạng sức khỏe tổng quát"
+      },
+      {
+        "name": "Xét nghiệm dấu ấn ung thư",
+        "description": "Kiểm tra nồng độ CEA, CA 19-9, CA 72-4 có thể tăng cao ở bệnh nhân ung thư dạ dày"
+      },
+      {
+        "name": "Siêu âm bụng",
+        "description": "Đánh giá gan, các hạch bạch huyết và tràn dịch ổ bụng"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị ung thư dạ dày giai đoạn cuối chủ yếu nhằm mục đích giảm nhẹ các triệu chứng, kéo dài thời gian sống và nâng cao chất lượng cuộc sống cho người bệnh, không nhằm mục đích chữa khỏi hoàn toàn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Hóa trị liệu",
+        "description": "Sử dụng các thuốc hóa chất như 5-FU, Cisplatin, Oxaliplatin, Docetaxel, Irinotecan để tiêu diệt tế bào ung thư hoặc làm chậm sự phát triển của chúng"
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Sử dụng các thuốc như Trastuzumab (Herceptin) cho bệnh nhân có biểu hiện HER2 dương tính hoặc Ramucirumab để ức chế sự hình thành mạch máu mới nuôi khối u"
+      },
+      {
+        "name": "Phẫu thuật giảm nhẹ",
+        "description": "Thực hiện để giảm nhẹ triệu chứng như tắc nghẽn, chảy máu hoặc thủng dạ dày nhưng không nhằm mục đích điều trị triệt để"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng tia bức xạ năng lượng cao để tiêu diệt tế bào ung thư và giảm đau do di căn xương"
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Sử dụng thuốc như Pembrolizumab (Keytruda) để kích thích hệ miễn dịch tấn công tế bào ung thư, đặc biệt ở bệnh nhân có bất ổn vi vệ tinh cao (MSI-H)"
+      },
+      {
+        "name": "Điều trị tràn dịch màng bụng",
+        "description": "Chọc hút dịch màng bụng để giảm triệu chứng căng tức và khó thở"
+      },
+      {
+        "name": "Điều trị tràn dịch màng phổi",
+        "description": "Chọc hút dịch màng phổi và có thể gắn màng phổi để giảm tái phát"
+      },
+      {
+        "name": "Chăm sóc giảm nhẹ",
+        "description": "Bao gồm kiểm soát đau, dinh dưỡng, hỗ trợ tâm lý và các biện pháp nâng cao chất lượng cuộc sống"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì chế độ ăn nhỏ, nhiều bữa, thức ăn mềm và dễ tiêu hóa",
+      "Nghỉ ngơi đầy đủ và tránh các hoạt động gắng sức",
+      "Tuân thủ lịch điều trị và uống thuốc đúng liều lượng",
+      "Theo dõi và báo cáo các tác dụng phụ của điều trị với bác sĩ",
+      "Tham gia các nhóm hỗ trợ tâm lý cho bệnh nhân ung thư",
+      "Thảo luận với bác sĩ về các lựa chọn chăm sóc giảm nhẹ và chăm sóc cuối đời",
+      "Kiểm soát đau bằng thuốc giảm đau theo chỉ định"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +186,70 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Phát hiện và điều trị nhiễm khuẩn Helicobacter pylori",
+      "Duy trì chế độ ăn uống cân bằng, giàu rau củ quả, hạn chế thực phẩm muối, hun khói",
+      "Không hút thuốc lá và hạn chế uống rượu",
+      "Duy trì cân nặng hợp lý",
+      "Khám sức khỏe định kỳ, đặc biệt những người có nguy cơ cao",
+      "Nội soi dạ dày định kỳ đối với người có tiền sử gia đình mắc ung thư dạ dày",
+      "Điều trị các tình trạng tiền ung thư như viêm dạ dày teo mạn tính, loạn sản"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh nhân ung thư dạ dày giai đoạn cuối sống được bao lâu?",
+      "answer": "Thời gian sống của bệnh nhân ung thư dạ dày giai đoạn cuối rất khác nhau tùy thuộc vào nhiều yếu tố như tình trạng sức khỏe tổng quát, tuổi tác, mức độ di căn và đáp ứng với điều trị. Theo thống kê, tỷ lệ sống 5 năm ở bệnh nhân ung thư dạ dày giai đoạn 4 thường dưới 5%. Thời gian sống trung bình có thể từ 4-12 tháng, tuy nhiên một số trường hợp có thể sống lâu hơn đặc biệt khi có đáp ứng tốt với các liệu pháp điều trị mới."
+    },
+    {
+      "question": "Điều trị ung thư dạ dày giai đoạn cuối có mục đích gì?",
+      "answer": "Điều trị ung thư dạ dày giai đoạn cuối không nhằm mục đích chữa khỏi hoàn toàn mà chủ yếu nhằm kiểm soát các triệu chứng, cải thiện chất lượng cuộc sống và kéo dài thời gian sống cho người bệnh. Các phương pháp điều trị bao gồm hóa trị, liệu pháp nhắm trúng đích, liệu pháp miễn dịch, xạ trị giảm nhẹ và chăm sóc giảm nhẹ để kiểm soát đau và các triệu chứng khác."
+    },
+    {
+      "question": "Ung thư dạ dày giai đoạn cuối có những dấu hiệu gì?",
+      "answer": "Ung thư dạ dày giai đoạn cuối thường có các dấu hiệu như: chán ăn, sụt cân nhanh chóng, đau bụng dai dẳng, khó nuốt, nôn ói (có thể kèm máu), mệt mỏi, đau xương (do di căn), bụng trướng, vàng da và vàng mắt (do di căn gan), khó thở (do di căn phổi hoặc tràn dịch màng phổi), phù chân và cổ trướng (tích tụ dịch trong ổ bụng)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chán ăn, sụt cân nhanh và đau bụng vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày giai đoạn cuối",
+        "Viêm loét dạ dày",
+        "Viêm tụy cấp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng, buồn nôn và khó nuốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày giai đoạn cuối",
+        "Trào ngược dạ dày thực quản",
+        "Viêm dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nôn ói, mệt mỏi và gần đây thấy vàng da vàng mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày giai đoạn cuối",
+        "Viêm gan",
+        "Sỏi mật"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như bụng trướng, mệt mỏi và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày giai đoạn cuối",
+        "Suy tim",
+        "Xơ gan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng, sụt cân và bụng to ra. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày giai đoạn cuối",
+        "Ung thư tụy",
+        "Thoát vị đĩa đệm"
+      ]
     }
   ]
 }

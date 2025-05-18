@@ -1,39 +1,144 @@
 {
   "disease_id": "viem-bao-hoat-dich-khop-vai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bao hoạt dịch khớp vai",
+  "disease_alternative_names": [
+    "Viêm màng hoạt dịch khớp vai",
+    "Viêm bao hoạt dịch vai",
+    "Viêm màng bao hoạt dịch khớp vai"
+  ],
+  "disease_definition": "Viêm bao hoạt dịch khớp vai là tình trạng bệnh lý thường gặp ở mọi lứa tuổi, gây nên hiện tượng đau nhức, sưng đỏ ở vị trí giữa đầu xương cánh tay và mỏm cùng vai. Bao hoạt dịch tại vị trí này là những túi chứa đầy chất lỏng, đóng vai trò như bộ phận đệm giữa xương và mô liên kết, giúp giảm ma sát đồng thời hỗ trợ cơ, xương hoạt động trơn tru.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau xung quanh vị trí bên ngoài vai hoặc đầu vai",
+      "description": "Người bệnh cảm thấy đau ở vùng xung quanh khớp vai, đặc biệt là phần bên ngoài hoặc đầu vai."
+    },
+    {
+      "name": "Đau khi chạm vào vai",
+      "description": "Vai trở nên nhạy cảm và gây đau khi chạm vào, ngay cả với áp lực nhẹ."
+    },
+    {
+      "name": "Phạm vi chuyển động bình thường của khớp vai bị hạn chế",
+      "description": "Người bệnh khó khăn khi thực hiện các cử động vai thông thường do đau và viêm."
+    },
+    {
+      "name": "Vùng quanh vai bị sưng và đỏ",
+      "description": "Xuất hiện tình trạng sưng và đỏ ở vùng vai, tuy nhiên sưng thường không đáng kể vì bao hoạt dịch bị viêm chỉ dày lên khoảng 0,5mm so với ban đầu."
+    },
+    {
+      "name": "Đau vai khi thực hiện động tác nâng cánh tay lên",
+      "description": "Cảm giác đau xuất hiện hoặc tăng lên khi người bệnh cố gắng nâng cánh tay lên cao."
+    },
+    {
+      "name": "Đau dữ dội vào ban đêm",
+      "description": "Cơn đau có xu hướng trở nên trầm trọng hơn vào ban đêm, đặc biệt là khi nằm lên vùng vai bị tổn thương hoặc giữ cố định vai trong một thời gian dài."
+    },
+    {
+      "name": "Sốt khi có hiện tượng nhiễm trùng",
+      "description": "Trong trường hợp viêm bao hoạt dịch do nhiễm trùng, người bệnh có thể bị sốt kèm triệu chứng đau vai dữ dội và vùng vai ửng đỏ hoặc tím cùng cảm giác ấm khi chạm vào."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm bao hoạt dịch vai xuất phát từ nhiều nguyên nhân khác nhau, chủ yếu do chấn thương hoặc vận động quá sức khiến chất lỏng trong bao hoạt dịch tụ lại thành từng chùm, dẫn đến viêm.",
+    "related_factors": "Khi chấn thương vai xảy ra hoặc vận động quá sức, chất lỏng trong bao hoạt dịch sẽ tụ lại thành từng chùm, dẫn đến viêm. Nghiên cứu cho thấy, các bao khỏe mạnh chỉ có độ dày trung bình khoảng 0,74mm, trong khi bao hoạt dịch bị viêm dày đến 1,27mm, chênh lệch đến 0,53mm.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Những người thường xuyên thực hiện các chuyển động vai lặp đi lặp lại như họa sĩ, thợ mộc, người chơi bóng chày, quần vợt, bóng đá",
+    "Người đang mắc phải các bệnh lý như viêm khớp dạng thấp, gút, tiểu đường, bệnh thận, bệnh tuyến giáp",
+    "Tuổi tác cao",
+    "Thường xuyên không khởi động kỹ trước khi tập luyện thể dục thể thao",
+    "Những công việc đòi hỏi nâng vật nặng thường xuyên",
+    "Tư thế không đúng, chẳng hạn như thường xuyên khom vai",
+    "Chấn thương trực tiếp do va đập, ngã, tai nạn",
+    "Sau phẫu thuật",
+    "Canxi lắng đọng ở vai",
+    "Gai xương hình thành và phát triển không kiểm soát",
+    "Nhiễm trùng"
+  ],
+  "complications": [
+    "Viêm bao hoạt dịch vai mãn tính và tái phát liên tục có thể làm tăng nguy cơ làm hỏng bao hoạt dịch, ảnh hưởng đến khả năng vận động của vai",
+    "Vi khuẩn gây viêm có thể lây lan đến các bộ phận và cơ quan khác trong cơ thể",
+    "Tình trạng viêm nhiễm nặng như nhiễm trùng huyết có thể đe dọa đến tính mạng",
+    "Yếu vai và cánh tay do hạn chế vận động trong thời gian dài",
+    "Teo cơ vai do không sử dụng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá tiền sử bệnh và khám lâm sàng",
+      "Kiểm tra phạm vi chuyển động của khớp vai",
+      "Đánh giá mức độ đau khi vận động và khi nghỉ ngơi",
+      "Xét nghiệm máu để kiểm tra nhiễm trùng và viêm toàn thân"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Giúp loại trừ nguyên nhân gây viêm gồm tổn thương xương hoặc viêm khớp, từ đó xác định và đưa ra lựa chọn điều trị phù hợp nhất."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Cho thấy các tình trạng viêm xuất hiện trong bao hoạt dịch hoặc tổn thương mô, xương xung quanh."
+      },
+      {
+        "name": "Kiểm tra dịch khớp",
+        "description": "Dịch khớp lấy ra từ bao hoạt dịch sẽ được mang đi xét nghiệm để loại trừ trường hợp nhiễm trùng."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp xác định hoặc loại trừ nguyên nhân nhiễm trùng và viêm toàn thân (viêm khớp dạng thấp, đau đa cơ…)."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm bao hoạt dịch khớp vai tập trung vào việc giảm đau, giảm viêm và cải thiện khả năng vận động của vai. Phương pháp điều trị phụ thuộc vào nguyên nhân gây bệnh và mức độ nghiêm trọng của tình trạng viêm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi",
+        "description": "Đưa vai về trạng thái nghỉ ngơi là giải pháp hữu ích để làm giảm các triệu chứng. Người bệnh nên tránh các hoạt động có xu hướng làm cơn đau trở nên trầm trọng, bao gồm cả một số bộ môn thể thao."
+      },
+      {
+        "name": "Chườm đá",
+        "description": "Chườm đá là giải pháp giảm viêm hiệu quả, mỗi lần chườm chỉ nên thực hiện từ 10-15 phút. Chườm nóng không phải là giải pháp nên áp dụng vì dễ khiến triệu chứng viêm trở nên trầm trọng hơn."
+      },
+      {
+        "name": "Thuốc bôi",
+        "description": "Các loại kem bôi trực tiếp lên vùng khớp bị đau giúp gây tê các đầu dây thần kinh để làm giảm hoặc loại bỏ hẳn triệu chứng khó chịu, đồng thời tránh được các tác dụng phụ mà thuốc uống có thể gây ra cho đường tiêu hóa."
+      },
+      {
+        "name": "Thuốc giảm đau không kê đơn",
+        "description": "Thuốc chống viêm không Steroid (NSAID) như Ibuprofen (Advil, Motrin), Naproxen natri (Aleve), Acetaminophen (Tylenol) thường được sử dụng trong điều trị viêm bao hoạt dịch vai."
+      },
+      {
+        "name": "Mang nẹp vai",
+        "description": "Giải pháp này sẽ giữ cho vai và cánh tay ở trạng thái cố định tránh hoạt động quá sức."
+      },
+      {
+        "name": "Các bài tập kéo giãn nhẹ nhàng",
+        "description": "Thực hiện các bài tập kéo giãn nhẹ nhàng từ 2-3 lần/ngày để giúp giảm căng thẳng cho cơ vai, bao gồm bài tập căng sau, bóp bả vai, và chuyển động xương vai."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Các chuyên gia vật lý trị liệu sẽ thiết kế một chương trình điều trị cụ thể để tăng tốc độ phục hồi tổn thương. Thông thường, nếu chương trình phù hợp, kết quả sẽ thấy rõ sau 2-8 tuần thực hiện."
+      },
+      {
+        "name": "Tiêm Corticosteroid",
+        "description": "Tiêm Corticosteroid (Kenalog, Celestone…) được thực hiện khi các phương pháp dùng thuốc không kê đơn, điều trị tại nhà không đem lại kết quả. Tuy nhiên, không nên tiêm khớp vai quá nhiều vì có thể làm tăng nguy cơ đứt gân."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Nếu viêm bao hoạt dịch do nhiễm trùng, người bệnh cần dùng đến thuốc kháng sinh để tránh nguy cơ vi khuẩn lây lan vào máu. Đối với trường hợp không thể sử dụng qua đường uống, bác sĩ có thể sẽ chỉ định truyền qua đường tĩnh mạch."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trong một số ít trường hợp, bác sĩ có thể đề nghị phẫu thuật. Nội soi khớp vai được ưu tiên thực hiện thay vì mổ hở truyền thống, giúp loại bỏ mô xương và bao hoạt dịch nhằm tăng không gian cho vùng dưới mỏm cùng vai, giúp cơ và gân được tự do di chuyển."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thực hiện đúng và đủ các bài tập vật lý trị liệu do bác sĩ hướng dẫn",
+      "Tránh các hoạt động gây đau và làm tăng viêm",
+      "Sử dụng thuốc giảm đau theo đúng chỉ định của bác sĩ",
+      "Sau phẫu thuật, tuân thủ chương trình phục hồi chức năng để đạt kết quả tốt nhất",
+      "Theo dõi và báo cáo các triệu chứng bất thường cho bác sĩ ngay lập tức"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +146,99 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khởi động kỹ trước khi tập luyện thể dục hoặc chơi thể thao",
+      "Bắt đầu các bài tập hoặc môn thể thao mới một cách nhẹ nhàng, chậm rãi, sau đó tăng dần cường độ theo khả năng",
+      "Thường xuyên dành thời gian nghỉ ngơi khi thực hiện các động tác lặp đi lặp lại",
+      "Sử dụng các miếng đệm bảo vệ khi chơi thể thao",
+      "Duy trì tư thế nằm, đi, đứng, làm việc đúng",
+      "Tập thể dục, chơi thể thao đúng kỹ thuật",
+      "Khám sức khỏe định kỳ để theo dõi, phát hiện sớm các triệu chứng bất thường",
+      "Xây dựng chế độ ăn giàu dinh dưỡng, đặc biệt chú trọng bổ sung Canxi, Vitamin D"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bao hoạt dịch khớp vai có nguy hiểm không?",
+      "answer": "Viêm bao hoạt dịch khớp vai thường không nguy hiểm nếu được phát hiện và điều trị kịp thời. Tuy nhiên, nếu không điều trị, tình trạng viêm có thể trở nên mãn tính, tái phát liên tục và làm tăng nguy cơ làm hỏng bao hoạt dịch, ảnh hưởng đến khả năng vận động của vai. Trong trường hợp viêm do nhiễm trùng, vi khuẩn có thể lây lan đến các bộ phận khác trong cơ thể, thậm chí gây nhiễm trùng huyết đe dọa tính mạng."
+    },
+    {
+      "question": "Làm thế nào để giảm đau khi bị viêm bao hoạt dịch khớp vai?",
+      "answer": "Để giảm đau khi bị viêm bao hoạt dịch khớp vai, bạn có thể áp dụng các phương pháp sau: nghỉ ngơi vai, tránh các hoạt động gây đau; chườm đá từ 10-15 phút, 3-4 lần mỗi ngày; sử dụng thuốc giảm đau không kê đơn như Ibuprofen, Naproxen natri, Acetaminophen theo hướng dẫn của bác sĩ; thực hiện các bài tập kéo giãn nhẹ nhàng để giảm căng cơ; và có thể sử dụng nẹp vai để giữ vai ở trạng thái cố định, tránh hoạt động quá sức."
+    },
+    {
+      "question": "Viêm bao hoạt dịch khớp vai có thể tự khỏi không?",
+      "answer": "Trong một số trường hợp nhẹ, viêm bao hoạt dịch khớp vai có thể tự khỏi khi người bệnh nghỉ ngơi đầy đủ và tránh các hoạt động gây căng thẳng cho vai. Tuy nhiên, nhiều trường hợp cần có can thiệp y tế như thuốc giảm đau, vật lý trị liệu hoặc thậm chí phẫu thuật để giải quyết triệt để tình trạng viêm. Nếu nguyên nhân là do nhiễm trùng, cần phải điều trị bằng thuốc kháng sinh."
+    },
+    {
+      "question": "Bao lâu thì viêm bao hoạt dịch khớp vai khỏi?",
+      "answer": "Thời gian hồi phục của viêm bao hoạt dịch khớp vai phụ thuộc vào nguyên nhân, mức độ nghiêm trọng và phương pháp điều trị. Với các trường hợp nhẹ, có thể thuyên giảm sau vài ngày đến vài tuần khi áp dụng các biện pháp nghỉ ngơi, chườm đá và dùng thuốc giảm đau. Đối với các trường hợp mãn tính hoặc nặng, thời gian hồi phục có thể kéo dài từ vài tuần đến vài tháng. Nếu điều trị bằng vật lý trị liệu, thường sẽ thấy kết quả rõ rệt sau 2-8 tuần tập luyện."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức, sưng đỏ ở vị trí giữa đầu xương cánh tay và mỏm cùng vai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-vai",
+        "viem-khop-vai",
+        "dut-gan-ro-tat"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau xung quanh vị trí bên ngoài vai hoặc đầu vai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-vai",
+        "viem-gan-ro-tat",
+        "hoi-chung-dung-doi-khop-vai"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khi chạm vào vai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-vai",
+        "viem-khop-dang-thap",
+        "co-cat-co-vai"
+      ]
+    },
+    {
+      "question": "Tôi hay bị hạn chế phạm vi chuyển động bình thường của khớp vai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-vai",
+        "viem-quanh-khop-vai",
+        "hoai-tu-vo-xuong-khop-vai"
+      ]
+    },
+    {
+      "question": "Tôi bị đau vai khi thực hiện động tác nâng cánh tay lên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-vai",
+        "viem-gan-ro-tat",
+        "viem-bao-gan-hai-dau"
+      ]
+    },
+    {
+      "question": "Tôi bị đau vai dữ dội vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-vai",
+        "viem-quanh-khop-vai",
+        "thoai-hoa-khop-vai"
+      ]
+    },
+    {
+      "question": "Tôi bị đau vai và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-vai",
+        "viem-khop-nhiem-trung",
+        "nhiem-trung-mo-mem"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên thực hiện các chuyển động vai lặp đi lặp lại và bị đau vai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-vai",
+        "viem-gan-ro-tat",
+        "hoi-chung-choc-gach-vai"
+      ]
     }
   ]
 }

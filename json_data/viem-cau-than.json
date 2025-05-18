@@ -1,39 +1,125 @@
 {
   "disease_id": "viem-cau-than",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm cầu thận",
+  "disease_alternative_names": [
+    "Viêm cầu thận cấp tính",
+    "Viêm cầu thận mạn tính"
+  ],
+  "disease_definition": "Viêm cầu thận là tình trạng viêm xảy ra ở cầu thận bao gồm viêm ở các tiểu cầu thận và các mạch máu trong thận. Bệnh làm thay đổi tính thấm của màng nền cầu thận, khiến cầu thận để lọt hồng cầu và protein vào nước tiểu. Viêm cầu thận có 2 thể cấp và mạn, xảy ra do nhiều nguyên nhân khác nhau.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Phù",
+      "description": "Phù là một trong các triệu chứng lâm sàng thường gặp ở bệnh lý cầu thận, có thể kín đáo như mắt cá chân hoặc toàn thân mặt sưng lên do sự tích nước. Phù xuất hiện rõ quanh mắt khi thức dậy buổi sáng trong viêm cầu thận cấp tính."
+    },
+    {
+      "name": "Nước tiểu lẫn máu",
+      "description": "Nước tiểu có màu nâu, sẫm hoặc lẫn máu, là dấu hiệu của sự rò rỉ hồng cầu qua cầu thận bị tổn thương."
+    },
+    {
+      "name": "Có bọt trong nước tiểu",
+      "description": "Xuất hiện bọt trong nước tiểu do protein lẫn trong nước tiểu, một dấu hiệu của cầu thận bị tổn thương."
+    },
+    {
+      "name": "Huyết áp cao",
+      "description": "Tăng huyết áp xảy ra do thận bị viêm không điều tiết được lượng muối và nước trong cơ thể."
+    },
+    {
+      "name": "Chán ăn, buồn nôn và nôn, chậm tiêu",
+      "description": "Các triệu chứng tiêu hóa xuất hiện do tích tụ chất thải trong máu khi chức năng thận bị suy giảm."
+    },
+    {
+      "name": "Chuột rút vào ban đêm",
+      "description": "Xảy ra các cơn chuột rút vào ban đêm do rối loạn điện giải khi thận không hoạt động bình thường."
+    },
+    {
+      "name": "Đi tiểu nhiều vào ban đêm",
+      "description": "Người bệnh có xu hướng đi tiểu nhiều vào ban đêm, một dấu hiệu của chức năng thận bị thay đổi."
+    },
+    {
+      "name": "Đau thận",
+      "description": "Cơn đau dữ dội ở lưng trên, sau xương sườn do đau thận, có thể xuất hiện trong một số trường hợp viêm cầu thận."
+    },
+    {
+      "name": "Giảm lượng nước tiểu",
+      "description": "Lượng nước tiểu giảm, đặc biệt trong viêm cầu thận cấp tính, do khả năng lọc của thận bị giảm."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm cầu thận là tình trạng viêm xảy ra ở cầu thận, gây ra do nhiều nguyên nhân khác nhau bao gồm nhiễm trùng, bệnh tự miễn, viêm mạch máu, và tình trạng xơ cứng.",
+    "related_factors": "Các yếu tố liên quan đến viêm cầu thận bao gồm: nhiễm trùng (viêm cầu thận hậu liên cầu, viêm nội tâm mạc do vi khuẩn, nhiễm trùng thận do virus), bệnh tự miễn (lupus ban đỏ, hội chứng goodpasture, bệnh thận IgA), viêm mạch máu, và tình trạng xơ cứng do sẹo ở cầu thận.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người có tiền sử gia đình bị viêm cầu thận hoặc các bệnh liên quan đến thận",
+    "Nhiễm liên cầu khuẩn beta tan huyết nhóm A (sau nhiễm khuẩn ngoài da hay viêm họng)",
+    "Mắc các bệnh tự miễn như lupus ban đỏ, hội chứng goodpasture",
+    "Viêm đa mạch và u hạt kèm viêm đa mạch",
+    "Huyết áp cao không kiểm soát tốt",
+    "Đái tháo đường",
+    "Xơ vữa cầu thận đoạn khu trú",
+    "Hội chứng Alport (viêm thận di truyền)",
+    "Người có thị lực và thính lực kém",
+    "Người mắc các bệnh ung thư"
+  ],
+  "complications": [
+    "Suy thận cấp: Gây ra sự suy giảm chức năng thận đột ngột và tiến triển nhanh chóng, cần điều trị kịp thời bằng máy lọc máu nhân tạo",
+    "Bệnh thận mạn tính: Khi tình trạng viêm nhiễm hoặc tổn thương ở thận kéo dài, có thể dẫn đến suy thận vĩnh viễn",
+    "Huyết áp cao: Tổn thương cầu thận làm ức chế vai trò điều hòa huyết áp của thận",
+    "Hội chứng thận hư: Protein liên tục bị đào thải qua nước tiểu dẫn đến giảm protein trong máu, có thể làm hình thành cục máu đông trong mạch máu thận"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi tiền sử bệnh",
+      "Xét nghiệm nước tiểu",
+      "Xét nghiệm máu",
+      "Sinh thiết thận"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra độ thanh thải creatinin (chất thải được lọc bởi thận), lượng protein trong nước tiểu, nồng độ nước tiểu, và tế bào hồng cầu trong nước tiểu."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá mức độ các tế bào hồng cầu trong máu, mức albumin, mức độ nitrogen urine trong máu, và mức độ creatinin trong máu."
+      },
+      {
+        "name": "Sinh thiết thận",
+        "description": "Bác sĩ lấy một mẩu mô thận người bệnh và kiểm tra dấu hiệu viêm nhiễm dưới kính hiển vi. Phương pháp này giúp xác định loại viêm cầu thận và lập kế hoạch điều trị phù hợp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm cầu thận cấp tính thường có thể tự khỏi, trong khi viêm cầu thận mạn tính thường không thể điều trị dứt điểm. Việc điều trị tập trung vào kiểm soát triệu chứng và làm chậm tiến triển của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc lợi tiểu",
+        "description": "Được chỉ định trong trường hợp người bệnh có tình trạng phù nhiều, giúp giảm phù và tăng lượng nước tiểu."
+      },
+      {
+        "name": "Thuốc hạ áp",
+        "description": "Được dùng để kiểm soát huyết áp cao, một triệu chứng thường gặp trong viêm cầu thận."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Được sử dụng khi người bệnh có đợt viêm nhiễm, đặc biệt là cho bệnh nhân viêm cầu thận cấp tính do nhiễm liên cầu khuẩn."
+      },
+      {
+        "name": "Corticoid và thuốc ức chế miễn dịch",
+        "description": "Sử dụng trong viêm cầu thận mạn tính để giảm viêm và ức chế hệ miễn dịch tấn công cầu thận."
+      },
+      {
+        "name": "Thuốc bổ sung canxi",
+        "description": "Được khuyến nghị để cân bằng nồng độ canxi trong cơ thể cho một số trường hợp viêm cầu thận cấp."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế ăn các thực phẩm giàu protein, kali và muối",
+      "Kiểm soát huyết áp thông qua chế độ ăn uống và thuốc",
+      "Uống đủ nước theo chỉ định của bác sĩ",
+      "Tái khám định kỳ để theo dõi tình trạng bệnh",
+      "Tuân thủ chỉ định thuốc của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +127,80 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập thể dục thường xuyên để tăng cường sức khỏe",
+      "Khám sức khỏe định kỳ để phát hiện sớm bất thường",
+      "Kiểm soát huyết áp, các bệnh lý chuyển hóa như đái tháo đường",
+      "Giữ gìn vệ sinh cá nhân tốt để giảm nguy cơ nhiễm trùng",
+      "Sử dụng biện pháp an toàn khi quan hệ tình dục",
+      "Uống đủ nước hàng ngày (2-2.5 lít/ngày)",
+      "Hạn chế các thực phẩm chế biến sẵn, nhiều muối",
+      "Kiểm soát tốt lượng kali và protein nạp vào cơ thể",
+      "Ăn những loại thực phẩm tốt cho thận như súp lơ, lòng trắng trứng, cá vược, nho đỏ, tỏi, kiều mạch, dầu olive"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm cầu thận có thể tự khỏi không?",
+      "answer": "Viêm cầu thận cấp tính có thể tự khỏi mà không cần dùng thuốc, ngoại trừ người bệnh có tình trạng nhiễm trùng cần điều trị bằng kháng sinh. Tuy nhiên, các chuyên gia y tế khuyến cáo người bệnh nên đi khám ngay khi có triệu chứng để được điều trị kịp thời và đúng cách, tránh tiến triển thành viêm cầu thận mạn tính."
+    },
+    {
+      "question": "Viêm cầu thận mạn tính có nguy hiểm không?",
+      "answer": "Viêm cầu thận mạn tính tiềm ẩn nguy cơ suy thận rất cao, ảnh hưởng đến tính mạng và chất lượng cuộc sống của người bệnh. Bệnh có thể dẫn đến nhiều biến chứng như suy thận mạn tính, huyết áp cao, hội chứng thận hư. Vì vậy, khi phát hiện mình bị viêm cầu thận mạn tính, bạn cần tiếp nhận điều trị ngay lập tức."
+    },
+    {
+      "question": "Viêm cầu thận có những triệu chứng gì?",
+      "answer": "Triệu chứng của viêm cầu thận bao gồm: phù (đặc biệt ở mắt, chân, mắt cá chân), nước tiểu lẫn máu hoặc có màu sẫm, có bọt trong nước tiểu, huyết áp cao, chán ăn, buồn nôn và nôn, chuột rút vào ban đêm, đi tiểu nhiều vào ban đêm, và có thể có cơn đau ở vùng thận."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm cầu thận?",
+      "answer": "Để phòng ngừa viêm cầu thận, bạn nên: tập thể dục thường xuyên, khám sức khỏe định kỳ, kiểm soát huyết áp và các bệnh lý chuyển hóa, giữ gìn vệ sinh cá nhân tốt, uống đủ nước, hạn chế thực phẩm nhiều muối, kiểm soát lượng protein và kali nạp vào cơ thể, và ăn những thực phẩm tốt cho thận như súp lơ, cá vược, nho đỏ, tỏi, kiều mạch, dầu olive."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm ở các tiểu cầu thận và các mạch máu trong thận. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-cau-than", "viem-than-ban", "viem-be-than"]
+    },
+    {
+      "question": "Tôi đang cảm thấy thay đổi tính thấm của màng nền cầu thận. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than",
+        "hoi-chung-than-hu",
+        "viem-cau-than-lupus"
+      ]
+    },
+    {
+      "question": "Tôi hay bị cầu thận để lọt hồng cầu và protein vào nước tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than",
+        "viem-cau-than-cap",
+        "hoi-chung-than-hu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như phù, tăng huyết áp, thiếu máu, tiểu máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-cau-than", "viem-cau-than-cap", "suy-than"]
+    },
+    {
+      "question": "Tôi hay bị nước tiểu lẫn máu, có bọt trong nước tiểu do protein lẫn trong nước tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than",
+        "viem-cau-than-cap",
+        "hoi-chung-than-hu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như huyết áp cao, chán ăn, buồn nôn và nôn, chậm tiêu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-cau-than", "suy-than", "viem-cau-than-man"]
+    },
+    {
+      "question": "Tôi đang cảm thấy xảy ra các cơn chuột rút vào ban đêm, đi tiểu nhiều vào ban đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-cau-than", "suy-than", "dai-thao-duong"]
+    },
+    {
+      "question": "Tôi hay bị cơn đau dữ dội ở lưng trên, sau xương sườn do đau thận. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-cau-than", "soi-than", "viem-be-than"]
     }
   ]
 }

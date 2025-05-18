@@ -1,58 +1,191 @@
 {
   "disease_id": "viem-thanh-quan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm thanh quản",
+  "disease_alternative_names": [
+    "Viêm thanh quản cấp tính",
+    "Viêm thanh quản mạn tính",
+    "Viêm nắp thanh quản",
+    "Laryngitis"
+  ],
+  "disease_definition": "Viêm thanh quản là tình trạng viêm của thanh quản do hoạt động quá mức, bị kích ứng hoặc nhiễm trùng. Bên trong thanh quản là các dây thanh – hai nếp gấp của màng nhầy – bao phủ cơ và sụn. Khi thanh quản bị viêm, dây thanh âm dễ rơi vào trạng thái bị kích thích, gây sưng ở dây thanh âm, làm biến dạng âm thanh khi không khí đi qua, khiến giọng nói trở nên thay đổi, suy yếu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khàn tiếng",
+      "description": "Giọng nói khàn khàn, nói hụt hơi, yếu giọng"
+    },
+    {
+      "name": "Mất giọng",
+      "description": "Thỉnh thoảng mất giọng hoàn toàn, nhất là khi bệnh nặng"
+    },
+    {
+      "name": "Ho khó chịu",
+      "description": "Cơn ho khó chịu không biến mất"
+    },
+    {
+      "name": "Hắng giọng",
+      "description": "Có nhu cầu hắng giọng thường xuyên"
+    },
+    {
+      "name": "Cảm giác vướng họng",
+      "description": "Vướng họng, khó nuốt"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Ở trẻ em, có thể khó thở và phát ra âm thanh khò khè hay tiếng rít khi thở"
+    },
+    {
+      "name": "Chảy nhiều nước bọt",
+      "description": "Đặc biệt ở trẻ em, khi bị viêm nắp thanh quản"
+    },
+    {
+      "name": "Sốt",
+      "description": "Có thể xuất hiện tình trạng sốt, đặc biệt khi viêm thanh quản do nhiễm trùng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm thanh quản thường do nhiễm virus, vi khuẩn hoặc do hoạt động quá mức của dây thanh quản. Viêm thanh quản có thể diễn ra trong thời gian ngắn (cấp tính) hoặc kéo dài (mãn tính).",
+    "related_factors": "Sử dụng giọng gắng sức (nói nhiều, la hét, hát to), uống quá nhiều rượu bia, tiếp xúc với hóa chất độc hại, trào ngược axit từ dạ dày, viêm mũi xoang thường xuyên, hút thuốc lá, và bội nhiễm nấm do sử dụng thuốc hít điều trị hen suyễn là các yếu tố liên quan.",
+    "transmission_routes": [
+      "Lây truyền qua đường hô hấp từ các giọt bắn khi ho, hắt hơi",
+      "Tiếp xúc trực tiếp với người bị nhiễm virus gây viêm thanh quản"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người thường xuyên nói nhiều, nói to như giáo viên, ca sĩ, MC, người kinh doanh",
+    "Người tiếp xúc thường xuyên với hóa chất độc hại, chất gây dị ứng",
+    "Người bị trào ngược axit dạ dày",
+    "Người bị viêm mũi xoang nhiều đợt",
+    "Người thường xuyên hút thuốc hoặc ở gần người hút thuốc",
+    "Người sử dụng ống hít hen suyễn dễ bị nhiễm nấm",
+    "Trẻ em thường xuyên viêm mũi họng",
+    "Trẻ hay la hét hoặc hát quá nhiều"
+  ],
+  "complications": [
+    "Hẹp đường thở",
+    "Viêm phế quản phổi",
+    "Tổn thương dây thanh âm mạn tính",
+    "Tình trạng đe dọa tính mạng ở trẻ em nếu bị viêm nắp thanh quản"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám lâm sàng", "Đánh giá tiền sử bệnh"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi thanh quản",
+        "description": "Đưa một ống mềm, đường kính nhỏ có gắn camera siêu nhỏ đi vào miệng hoặc mũi để xem xét dấu hiệu viêm thanh quản như dây thanh phù nề, sung huyết, đọng nhầy mủ"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Nếu xuất hiện một tổn thương hoặc khối u đáng ngờ, bác sĩ có thể yêu cầu sinh thiết để loại trừ ung thư vòm họng"
+      },
+      {
+        "name": "Xét nghiệm dị ứng da",
+        "description": "Giúp xác định nguyên nhân gây viêm thanh quản do dị ứng"
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Để loại trừ các vấn đề khác có thể gây ra các triệu chứng tương tự"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Cách chữa viêm thanh quản tốt nhất là để bộ phận này được \"nghỉ ngơi\", giảm bớt hoạt động dây thanh, nhờ đó bệnh dần thuyên giảm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc corticoid",
+        "description": "Đây là một nhóm thuốc kháng viêm giúp làm giảm sưng tấy"
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Sử dụng khi nguyên nhân do vi khuẩn"
+      },
+      {
+        "name": "Thuốc giảm đau",
+        "description": "Có thể dùng acetaminophen hoặc ibuprofen để giảm đau nhưng tần suất và lượng dùng cần tuân theo chỉ định của bác sĩ"
+      },
+      {
+        "name": "Thuốc xịt họng thanh quản",
+        "description": "Giúp giảm viêm và làm dịu cơn đau họng"
+      },
+      {
+        "name": "Liệu pháp giọng nói",
+        "description": "Bác sĩ trị liệu sẽ hướng dẫn cách chăm sóc và giảm bớt những hoạt động quá mức gây tổn thương dây thanh"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Uống nhiều nước, tránh uống rượu và cafein",
+      "Sử dụng máy tạo độ ẩm",
+      "Súc miệng bằng dung dịch sát khuẩn",
+      "Dùng thuốc ngậm tại chỗ",
+      "Tránh ở trong môi trường không khí khô, khói hoặc bụi",
+      "Hạn chế nói nhiều, nói to, nói liên tục"
+    ],
+    "prevention_of_transmission": [
+      "Rửa tay thường xuyên",
+      "Tránh tiếp xúc gần với những người đang bị nhiễm siêu vi",
+      "Che miệng khi ho hoặc hắt hơi"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine đặc hiệu để phòng ngừa viêm thanh quản",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh hút thuốc và tránh xa khói thuốc",
+      "Hạn chế rượu và cafein",
+      "Uống nhiều nước, khoảng 2 lít nước mỗi ngày",
+      "Tránh dùng thức ăn cay chua, tránh ăn khuya, để tránh trào ngược dạ dày thực quản",
+      "Sử dụng thực phẩm lành mạnh: ăn nhiều trái cây, rau xanh và ngũ cốc nguyên hạt",
+      "Tránh hắng giọng, hạn chế nói nhiều, nói to, nói liên tục, la hét",
+      "Tránh nhiễm trùng đường hô hấp trên: Rửa tay thường xuyên và tránh tiếp xúc gần với những người đang bị nhiễm siêu vi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm thanh quản có nguy hiểm không?",
+      "answer": "Viêm thanh quản ở người lớn thường không nghiêm trọng, nhưng bạn nên đi khám nếu bị khàn tiếng kéo dài hơn 2 tuần, sốt, ho hoặc khó thở. Đối với trẻ em, viêm thanh quản có thể gây ra vấn đề sức khỏe nghiêm trọng như hẹp đường thở, viêm phế quản phổi hoặc thậm chí đe dọa tính mạng. Nếu trẻ khóc không ra tiếng, khó nuốt, khó thở hoặc có âm thanh khò khè khi hít vào, cần đưa trẻ đi khám ngay lập tức."
+    },
+    {
+      "question": "Viêm thanh quản có tự khỏi không?",
+      "answer": "Viêm thanh quản cấp tính do virus thường biến mất trong vòng vài tuần mà không cần điều trị đặc biệt, chỉ cần để bộ phận này được \"nghỉ ngơi\", giảm bớt hoạt động dây thanh. Tuy nhiên, nếu tình trạng diễn ra lâu hơn hoặc là viêm thanh quản mạn tính, bạn cần phải đi khám bác sĩ để tránh nguy cơ ảnh hưởng đến dây thanh âm và thanh quản."
+    },
+    {
+      "question": "Làm thế nào để phòng tránh viêm thanh quản?",
+      "answer": "Để phòng tránh viêm thanh quản, bạn nên: tránh hút thuốc và tránh xa khói thuốc; hạn chế rượu và cafein; uống nhiều nước, khoảng 2 lít nước mỗi ngày; tránh dùng thức ăn cay chua và ăn khuya để tránh trào ngược dạ dày; ăn nhiều trái cây, rau xanh và ngũ cốc nguyên hạt; hạn chế nói nhiều, nói to, nói liên tục, la hét; rửa tay thường xuyên và tránh tiếp xúc gần với những người đang bị nhiễm virus."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khàn tiếng, đau họng và ho khan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm thanh quản", "Viêm họng", "Cảm lạnh"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mất giọng, khó nuốt và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm thanh quản", "Viêm amidan", "Viêm họng"]
+    },
+    {
+      "question": "Tôi hay bị khàn tiếng và ho sau khi nói nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thanh quản",
+        "Viêm thanh quản mạn tính",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi đang bị khàn tiếng, khó thở và chảy nước dãi (ở trẻ em). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thanh quản",
+        "Viêm nắp thanh quản",
+        "Viêm thanh thiệt"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ợ chua, ợ nóng và khàn tiếng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thanh quản mạn tính",
+        "Trào ngược dạ dày thực quản",
+        "Viêm thực quản"
+      ]
     }
   ]
 }

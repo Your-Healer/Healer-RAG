@@ -1,58 +1,198 @@
 {
   "disease_id": "ung-thu-vom-hong-giai-doan-0",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vòm họng giai đoạn 0",
+  "disease_alternative_names": [
+    "Ung thư biểu mô tại chỗ (Carcinoma in situ – CIS)"
+  ],
+  "disease_definition": "Ung thư vòm họng giai đoạn 0 là ung thư vòm giai đoạn sớm nhất, hay còn gọi là ung thư biểu mô tại chỗ (Carcinoma in situ – CIS). Ở giai đoạn 0, bướu chỉ giới hạn ở lớp bề mặt, chưa phát triển sâu hơn, tế bào ung thư chưa di căn đến các hạch bạch huyết và các cơ quan xa.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng rõ ràng",
+      "description": "Ung thư vòm họng giai đoạn 0 thường không có triệu chứng. Nếu có, các triệu chứng thường giống với các bệnh tai mũi họng thông thường, khiến người bệnh dễ bỏ qua."
+    },
+    {
+      "name": "Khó khăn khi nuốt",
+      "description": "Người bệnh có thể cảm thấy nuốt vướng, nuốt đau, hoặc nuốt khó khi bệnh tiến triển."
+    },
+    {
+      "name": "Các vấn đề về tai",
+      "description": "Có thể xuất hiện viêm tai giữa, đau tai, ù tai, nghe kém hoặc chảy dịch ở tai."
+    },
+    {
+      "name": "Đau họng",
+      "description": "Đau họng kéo dài không tự khỏi, có thể kèm theo ho dai dẳng."
+    },
+    {
+      "name": "Chảy dịch mũi",
+      "description": "Nghẹt mũi liên tục, chảy máu mũi, không đáp ứng với điều trị thông thường."
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau liên tục, âm ỉ, lan tỏa, không đáp ứng với thuốc giảm đau thông thường."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân cụ thể chưa được xác định rõ ràng, nhưng có liên quan đến nhiễm virus Epstein-Barr (EBV) và virus Human Papilloma (HPV).",
+    "related_factors": "Sự kết hợp các yếu tố khác như đặc điểm di truyền của mỗi người, tình trạng tiếp xúc với thuốc lá có thể tác động đến quá trình phản ứng của cơ thể với EBV, từ đó thúc đẩy ung thư vòm phát triển.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam giới (tỷ lệ mắc cao gấp 3 lần so với nữ giới)",
+    "Nhiễm virus Epstein-Barr (EBV)",
+    "Nhiễm virus HPV, đặc biệt ở nhóm người trẻ dưới 30 tuổi",
+    "Hút thuốc lá (có thể làm tăng nguy cơ bằng cách tái hoạt virus EBV)",
+    "Uống rượu bia",
+    "Chế độ ăn nhiều cá muối, thịt muối (chứa nitrosamine - chất sinh ung thư)",
+    "Tiền sử gia đình có người mắc ung thư vòm họng"
+  ],
+  "complications": [
+    "Tiến triển thành các giai đoạn ung thư tiến xa hơn nếu không được điều trị",
+    "Tái phát sau điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử và tiền sử gia đình",
+      "Thăm khám vùng đầu cổ",
+      "Nội soi tai mũi họng",
+      "Sinh thiết để lấy mẫu mô khi phát hiện tổn thương nghi ngờ",
+      "Chụp cắt lớp vi tính (CT) vùng đầu cổ",
+      "Chụp cộng hưởng từ (MRI) vùng đầu cổ",
+      "PET-CT để đánh giá di căn xa"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai mũi họng và sinh thiết",
+        "description": "Kiểm tra vòm họng và lấy mẫu mô nếu phát hiện tổn thương nghi ngờ, mẫu mô được các bác sĩ giải phẫu bệnh đánh giá để phát hiện tế bào ung thư."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Đánh giá các đặc điểm bướu tại chỗ và tình trạng di căn hạch vùng."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Giúp đánh giá chi tiết hơn về cấu trúc mô mềm và xâm lấn của khối u."
+      },
+      {
+        "name": "PET-CT",
+        "description": "Dùng để đánh giá bướu đã di căn đến các cơ quan khác hay chưa."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Bệnh ung thư vòm họng giai đoạn 0 có cơ hội điều trị khỏi bệnh rất cao, với tỷ lệ sống sau 5 năm trên 82%.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xạ trị",
+        "description": "Xạ trị là biện pháp điều trị chính cho bệnh ung thư vòm ở giai đoạn sớm. Mặc dù ở giai đoạn này ung thư chưa di căn đến các hạch bạch huyết lân cận, nhưng thường các hạch này vẫn cần được xạ trị vì có thể đã có tế bào ung thư di căn chưa phát hiện được."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ hướng dẫn của bác sĩ chuyên khoa trong quá trình điều trị",
+      "Tuân thủ đúng lịch hẹn tái khám sau khi kết thúc điều trị",
+      "Không nên bỏ dở điều trị hoặc kết hợp với các phương pháp dân gian không rõ cơ chế",
+      "Không nên ăn kiêng theo bất kỳ phương pháp nào mà không có chỉ định của bác sĩ điều trị",
+      "Ăn uống đa dạng, đủ chất, tránh các thực phẩm kích thích như đồ ăn cay, nóng, nhiều dầu mỡ",
+      "Tránh sử dụng rượu bia, thuốc lá, nước ngọt, chất kích thích",
+      "Duy trì công việc hàng ngày, thường xuyên vận động và tập thể dục thể thao ở mức độ vừa phải",
+      "Duy trì trạng thái tinh thần lạc quan, không quá căng thẳng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc-xin phòng HPV có thể giúp giảm nguy cơ vì HPV là một trong những yếu tố nguy cơ của ung thư vòm họng.",
+      "recommended_for": ["Thanh thiếu niên trước khi có hoạt động tình dục"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh tiếp xúc với các yếu tố nguy cơ như thuốc lá, rượu bia",
+      "Hạn chế ăn các thực phẩm muối như cá muối, thịt muối (chứa nitrosamine)",
+      "Chế độ ăn giàu các loại hạt ngũ cốc, trái cây, rau xanh và ít sữa",
+      "Tiêm vắc-xin phòng HPV",
+      "Chủ động tầm soát định kỳ nếu thuộc nhóm người có nguy cơ cao (nam giới, tiền căn nhiễm virus HPV, EBV, gia đình có người mắc bệnh)"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư vòm họng giai đoạn 0 có triệu chứng không?",
+      "answer": "Ung thư vòm họng giai đoạn 0 thường không có triệu chứng. Nếu có, các triệu chứng có thể tương tự như các bệnh tai mũi họng thông thường, như nuốt khó, đau tai, ù tai, đau họng, chảy dịch mũi kéo dài, đau đầu."
+    },
+    {
+      "question": "Ung thư vòm họng giai đoạn 0 có nguy hiểm không?",
+      "answer": "Điều trị ung thư vòm họng giai đoạn 0 thường có kết quả tốt, với tỷ lệ sống sau 5 năm trên 82%. Tuy nhiên, đã mắc ung thư là rơi vào tình trạng nguy hiểm, vì vậy người bệnh không được lơ là trong việc điều trị và tái khám nhằm kiểm soát ung thư."
+    },
+    {
+      "question": "Điều trị ung thư vòm họng giai đoạn 0 như thế nào?",
+      "answer": "Xạ trị là biện pháp điều trị chính cho bệnh ung thư vòm ở giai đoạn sớm. Mặc dù ung thư chưa di căn đến các hạch bạch huyết lân cận, nhưng thường các hạch này vẫn cần được xạ trị vì có thể đã có tế bào ung thư di căn nhưng chưa phát hiện được."
+    },
+    {
+      "question": "Ung thư vòm họng giai đoạn 0 có thể chữa khỏi không?",
+      "answer": "Bệnh ung thư vòm họng giai đoạn 0 có cơ hội điều trị khỏi bệnh rất cao, với tỷ lệ sống sau 5 năm trên 82%. Tuy nhiên, bệnh vẫn có thể tái phát nên cần tiếp tục theo dõi sau điều trị."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nghẹt mũi, chảy máu mũi và đau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-0",
+        "viem-xoang",
+        "viem-tai-giua"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ù tai, giảm thính lực và đau họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-0",
+        "viem-amidan",
+        "viem-tai-giua"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm tai giữa, đau đầu và ho dai dẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-0",
+        "viem-xoang",
+        "viem-hong-man"
+      ]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như nghẹt mũi, chảy dịch mũi kéo dài và khạc đờm có lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-0",
+        "ung-thu-mui-xoang",
+        "lao-phoi"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau họng, đau đầu và nổi hạch ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-0",
+        "viem-amidan",
+        "viem-hach-lympho"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ù tai, giảm thính lực và tê mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-0",
+        "viem-day-than-kinh-so-7",
+        "u-nao"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm tai giữa, đau đầu và nhìn đôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-0",
+        "u-nao",
+        "viem-mang-nao"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy máu mũi, đau đầu và lé. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong-giai-doan-0",
+        "ung-thu-mui-xoang",
+        "tang-huyet-ap"
+      ]
     }
   ]
 }

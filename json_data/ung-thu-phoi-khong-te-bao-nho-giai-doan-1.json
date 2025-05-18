@@ -1,39 +1,158 @@
 {
   "disease_id": "ung-thu-phoi-khong-te-bao-nho-giai-doan-1",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư phổi không tế bào nhỏ giai đoạn 1",
+  "disease_alternative_names": [
+    "Ung thư phổi NSCLC giai đoạn 1",
+    "Non-small cell lung cancer stage 1",
+    "NSCLC stage 1"
+  ],
+  "disease_definition": "Ung thư phổi không tế bào nhỏ giai đoạn 1 là ung thư phổi ở giai đoạn đầu tiên, được chẩn đoán khi khối u còn rất nhỏ, chưa di căn hạch và chưa di căn sang các cơ quan khác của cơ thể, có tiên lượng điều trị tốt.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ho dai dẳng",
+      "description": "Ho kéo dài, không khỏi với các thuốc thông thường"
+    },
+    {
+      "name": "Ho có đờm",
+      "description": "Ho kèm theo chất nhầy từ đường hô hấp"
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Xuất hiện máu trong đờm khi ho"
+    },
+    {
+      "name": "Đau ngực hoặc vai",
+      "description": "Cảm giác đau, tức ở vùng ngực hoặc lan đến vai"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác kiệt sức, thiếu năng lượng"
+    },
+    {
+      "name": "Hụt hơi",
+      "description": "Khó thở, đặc biệt khi gắng sức hoặc leo cầu thang"
+    },
+    {
+      "name": "Sụt cân không rõ nguyên do",
+      "description": "Giảm cân không chủ ý mà không thay đổi chế độ ăn uống"
+    },
+    {
+      "name": "Viêm phế quản kéo dài",
+      "description": "Tình trạng viêm lâu dài ở đường dẫn khí vào phổi"
+    },
+    {
+      "name": "Viêm phổi tái phát",
+      "description": "Nhiễm trùng phổi tái đi tái lại nhiều lần"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn và hứng thú với thức ăn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính là do đột biến tế bào gây ra sự phát triển bất thường và không kiểm soát của các tế bào trong phổi.",
+    "related_factors": "Ung thư phổi không tế bào nhỏ giai đoạn 1 thường liên quan đến hút thuốc lá, tiếp xúc với khói thuốc thụ động, tiếp xúc với chất độc hại môi trường như amiăng, radon, khí thải công nghiệp, và một số trường hợp có thể do yếu tố di truyền hoặc tiền sử gia đình.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá (đặc biệt là người hút trên 20 gói-năm)",
+    "Tiếp xúc với khói thuốc thụ động",
+    "Tuổi trên 50",
+    "Tiền sử gia đình có người mắc ung thư phổi",
+    "Tiếp xúc với các chất độc hại như amiăng, radon",
+    "Tiếp xúc với ô nhiễm không khí, khí thải công nghiệp",
+    "Tiền sử bệnh phổi mạn tính",
+    "Tiếp xúc với bức xạ ion hóa"
+  ],
+  "complications": [
+    "Khả năng tái phát sau điều trị",
+    "Giảm chức năng hô hấp sau phẫu thuật cắt thùy phổi",
+    "Các biến chứng liên quan đến phẫu thuật: nhiễm trùng, chảy máu, rò khí",
+    "Các tác dụng phụ của xạ trị: viêm phổi do xạ, đau, mệt mỏi",
+    "Các tác dụng phụ của liệu pháp toàn thân: buồn nôn, mệt mỏi, suy giảm miễn dịch"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá triệu chứng",
+      "Phân đoạn TNM theo Ủy ban Ung thư Hoa Kỳ",
+      "Tầm soát bằng chụp CT ngực liều thấp cho nhóm nguy cơ cao",
+      "Đánh giá mức độ xâm lấn của khối u"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp CT ngực liều thấp (LDCT)",
+        "description": "Phương pháp tầm soát được khuyến nghị, sử dụng liều lượng tia X thấp, tạo hình ảnh 3 chiều về phổi và quan sát khối u nhỏ nhất"
+      },
+      {
+        "name": "Nội soi phế quản",
+        "description": "Đưa một ống mềm, có gắn camera qua đường mũi hoặc miệng xuống phổi để quan sát và lấy mẫu mô"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Tạo hình ảnh chi tiết bên trong cơ thể, giúp xác định vị trí, kích thước và mức độ lan rộng của khối u"
+      },
+      {
+        "name": "Cộng hưởng từ (MRI)",
+        "description": "Sử dụng từ trường mạnh và sóng vô tuyến để tạo hình ảnh chi tiết các cấu trúc bên trong cơ thể"
+      },
+      {
+        "name": "PET-CT",
+        "description": "Kết hợp chụp CT và PET để phát hiện các tế bào ung thư đang hoạt động mạnh trong cơ thể"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô để xét nghiệm dưới kính hiển vi, xác định loại tế bào ung thư"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Bệnh nhân ung thư phổi không tế bào nhỏ giai đoạn 1 có tiên lượng tốt nhất trong 4 giai đoạn ung thư phổi. Việc lựa chọn phương pháp điều trị chủ yếu phụ thuộc vào giai đoạn bệnh, đồng thời cũng cần xét đến các yếu tố như: loại ung thư phổi, các đột biến gen liên quan, tình trạng sức khỏe của bệnh nhân, các bệnh lý kèm theo, điều kiện kinh tế...",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt hình chêm",
+        "description": "Cắt bỏ một mảnh phổi nhỏ có hình chêm, chỉ loại bỏ phần chứa khối u của thùy phổi"
+      },
+      {
+        "name": "Phẫu thuật cắt phân thùy",
+        "description": "Cắt bỏ một hoặc nhiều phân thùy nhưng ít hơn cắt toàn bộ thùy phổi"
+      },
+      {
+        "name": "Phẫu thuật cắt thùy phổi",
+        "description": "Cắt toàn bộ thùy phổi chứa u, là phương pháp được ưu tiên áp dụng cho ung thư phổi không tế bào nhỏ giai đoạn đầu"
+      },
+      {
+        "name": "Phẫu thuật cắt vát thùy phổi",
+        "description": "Cắt bỏ toàn bộ thùy phổi kèm một phần của đường dẫn khí, nhằm tránh phải cắt bỏ một bên phổi"
+      },
+      {
+        "name": "Phẫu thuật cắt phổi",
+        "description": "Cắt bỏ hoàn toàn một bên phổi khi khối u lớn, lan rộng hoặc ở vị trí trung tâm"
+      },
+      {
+        "name": "Nạo hạch",
+        "description": "Loại bỏ các hạch bạch huyết lân cận khối u trong phổi và các hạch kế cận phổi"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng tia X năng lượng cao để điều trị ung thư, có thể tiến hành sau phẫu thuật nhằm điều trị ung thư còn sót lại"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Dùng hóa chất để tiêu diệt các tế bào phân chia nhanh, trong đó có các tế bào ung thư, thường được tiến hành sau phẫu thuật cho giai đoạn IB"
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Ngăn chặn các cơ chế đặc biệt mà dựa vào đó các tế bào ung thư tiếp tục tồn tại và phát triển, như Osimertinib (Tagrisso) cho bệnh nhân có đột biến gen phù hợp"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám theo lịch hẹn để phát hiện sớm và kịp thời điều trị nếu có bất thường",
+      "Duy trì lối sống lành mạnh, tập luyện thể thao",
+      "Áp dụng chế độ ăn khoa học, đầy đủ dinh dưỡng",
+      "Duy trì tâm lý lạc quan, tránh căng thẳng",
+      "Ngừng hút thuốc và tránh tiếp xúc với khói thuốc",
+      "Tham gia các nhóm hỗ trợ bệnh nhân ung thư"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +160,74 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá và tránh tiếp xúc với khói thuốc thụ động",
+      "Tránh tiếp xúc với các chất độc hại như amiăng, radon, khí thải công nghiệp",
+      "Thực hiện tầm soát ung thư phổi định kỳ với chụp CT ngực liều thấp cho người có nguy cơ cao (≥ 50 tuổi có tiền sử hút thuốc 20 gói-năm trở lên)",
+      "Ăn uống lành mạnh, tăng cường rau xanh và trái cây",
+      "Tập thể dục đều đặn",
+      "Hạn chế uống rượu bia",
+      "Kiểm tra nhà cửa đối với khí radon"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư phổi không tế bào nhỏ giai đoạn 1 sống được bao lâu?",
+      "answer": "Tỷ lệ sống sau 5 năm kể từ thời điểm chẩn đoán đối với ung thư phổi không tế bào nhỏ giai đoạn I là từ 74-92%. Cụ thể, giai đoạn IA1 có tỷ lệ sống 5 năm là 92%, giai đoạn IA2 là 86%, giai đoạn IA3 là 81%, và giai đoạn IB là 74%. Với phương pháp điều trị đúng và người bệnh tuân thủ tốt kế hoạch điều trị, khả năng chữa khỏi của ung thư phổi không tế bào nhỏ giai đoạn I là rất cao."
+    },
+    {
+      "question": "Ung thư phổi không tế bào nhỏ giai đoạn 1 có triệu chứng gì?",
+      "answer": "Ung thư phổi không tế bào nhỏ giai đoạn I thường không gây ra triệu chứng đáng kể, được phát hiện khi thăm khám tình cờ hoặc do người bệnh chủ động tầm soát. Tuy nhiên, một số triệu chứng có thể gặp bao gồm: ho nhiều, ho dai dẳng, ho có đờm, ho ra máu, đau ở ngực hoặc vai, mệt mỏi, hụt hơi, sụt cân không rõ nguyên do, viêm phế quản kéo dài hoặc viêm phổi tái phát."
+    },
+    {
+      "question": "Điều trị ung thư phổi không tế bào nhỏ giai đoạn 1 bằng phương pháp nào là tốt nhất?",
+      "answer": "Phẫu thuật là phương pháp điều trị được lựa chọn đầu tiên và tốt nhất cho ung thư phổi không tế bào nhỏ giai đoạn I. Phẫu thuật cắt thùy phổi là phương pháp điều trị được ưu tiên áp dụng, với mục tiêu cắt bỏ hoàn toàn khối u. Đối với ung thư phổi không tế bào nhỏ giai đoạn IB, sau phẫu thuật, bác sĩ có thể cân nhắc các phương pháp điều trị hỗ trợ như hóa trị, liệu pháp miễn dịch, liệu pháp nhắm trúng đích để giảm nguy cơ tái phát."
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm ung thư phổi không tế bào nhỏ giai đoạn 1?",
+      "answer": "Ung thư phổi không tế bào nhỏ giai đoạn I thường được phát hiện thông qua tầm soát định kỳ bằng chụp cắt lớp vi tính ngực liều thấp (LDCT). Đối tượng được khuyến cáo tầm soát ung thư phổi hàng năm là người ≥ 50 tuổi có tiền sử hút thuốc 20 gói-năm trở lên. Sàng lọc định kỳ có ý nghĩa quan trọng giúp phát hiện bệnh ở giai đoạn sớm, tăng cơ hội điều trị thành công và cải thiện tỷ lệ sống."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ho, viêm phế quản kéo dài và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 1",
+        "Viêm phế quản mạn tính",
+        "Bệnh phổi tắc nghẽn mạn tính (COPD)"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy hụt hơi, khó thở khi leo cầu thang và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 1",
+        "Bệnh tim mạch",
+        "Thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ho có đờm, đau vai và sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 1",
+        "Lao phổi",
+        "Viêm phổi"
+      ]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như viêm phổi tái phát, khó thở và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 1",
+        "Bệnh phổi tắc nghẽn mạn tính (COPD)",
+        "Bệnh phổi kẽ"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ho ra máu, đau ngực và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 1",
+        "Lao phổi",
+        "Giãn phế quản"
+      ]
     }
   ]
 }

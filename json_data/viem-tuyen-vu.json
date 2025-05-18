@@ -1,58 +1,161 @@
 {
   "disease_id": "viem-tuyen-vu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tuyến vú",
+  "disease_alternative_names": [
+    "Mastitis",
+    "Viêm vú",
+    "Viêm tuyến vú khi cho con bú"
+  ],
+  "disease_definition": "Viêm tuyến vú là tình trạng viêm của mô tuyến vú đôi khi có liên quan đến nhiễm trùng. Tình trạng viêm này làm cho vú sưng, nóng, đỏ và đau, đôi khi có thể bị sốt và ớn lạnh. Viêm tuyến vú thường xảy ra nhất ở phụ nữ đang cho con bú (viêm tuyến vú do tiết sữa), nhưng cũng có thể xảy ra ở phụ nữ không cho con bú và ở nam giới.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng tấy vú",
+      "description": "Vú sưng tấy lên, có thể cảm thấy mô vú dày lên hoặc có khối u ở vú"
+    },
+    {
+      "name": "Đau vú",
+      "description": "Cảm giác đau hoặc nóng rát xuất hiện liên tục hoặc khi cho con bú"
+    },
+    {
+      "name": "Da vú đỏ và nóng",
+      "description": "Sờ vào vú cảm thấy ấm, nóng và xuất hiện một mảng đỏ da, thường có dạng hình nêm"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt từ 38,5 độ C trở lên"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm thấy mệt mỏi, kiệt sức, gây khó khăn cho việc chăm sóc em bé"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm tuyến vú có hai nguyên nhân chính là tắc ống dẫn sữa và nhiễm trùng do vi khuẩn xâm nhập vào tuyến vú.",
+    "related_factors": "Tắc ống dẫn sữa xảy ra khi vú không hết sữa hoàn toàn sau khi cho bú, sữa tồn dư vón cục lại có thể làm một trong các ống dẫn sữa bị tắc nghẽn. Vi khuẩn từ bề mặt da và miệng của em bé có thể xâm nhập vào ống dẫn sữa qua vết nứt trên núm vú hoặc qua lỗ mở ống dẫn sữa.",
+    "transmission_routes": ["Không lây truyền từ người sang người"]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Từng bị viêm tuyến vú trước đó khi đang cho con bú",
+    "Núm vú bị đau hoặc nứt",
+    "Mặc áo ngực chật hoặc tạo áp lực lên ngực",
+    "Kỹ thuật cho con bú không đúng cách",
+    "Quá căng thẳng hoặc mệt mỏi",
+    "Dinh dưỡng kém",
+    "Hút thuốc lá"
+  ],
+  "complications": [
+    "Áp xe vú (khối mủ trong tuyến vú)",
+    "Tắc tia sữa kéo dài",
+    "Đau đớn khi cho con bú",
+    "Cai sữa cho con trước dự định"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe toàn diện",
+      "Hỏi về các dấu hiệu và triệu chứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Cấy vi khuẩn từ sữa mẹ",
+        "description": "Giúp bác sĩ xác định loại kháng sinh tốt nhất, đặc biệt nếu bạn bị nhiễm trùng nặng"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Có thể được đề nghị để loại trừ các nguyên nhân khác gây triệu chứng tương tự"
+      },
+      {
+        "name": "Chụp quang tuyến vú (nhũ ảnh)",
+        "description": "Được thực hiện để loại trừ khả năng bị ung thư vú, đặc biệt là ung thư vú dạng viêm (IBC)"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Trong trường hợp các triệu chứng vẫn tồn tại sau khi hoàn thành điều trị kháng sinh, có thể cần làm sinh thiết để loại trừ ung thư vú"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm tuyến vú thường bao gồm thuốc kháng sinh, thuốc giảm đau và tiếp tục cho con bú để loại bỏ nhiễm trùng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh",
+        "description": "Nếu có nhiễm trùng, có thể bạn cần dùng một đợt kháng sinh dài ngày. Quan trọng là phải dùng đủ liều thuốc để giảm thiểu khả năng tái phát."
+      },
+      {
+        "name": "Thuốc giảm đau",
+        "description": "Bác sĩ có thể khuyên dùng thuốc giảm đau như acetaminophen (Tylenol) hoặc ibuprofen (Advil hay Motrin IB)."
+      },
+      {
+        "name": "Tiếp tục cho con bú",
+        "description": "Cho con bú thực sự giúp loại bỏ nhiễm trùng. Cai sữa cho bé đột ngột có khả năng làm trầm trọng thêm các triệu chứng."
+      },
+      {
+        "name": "Phẫu thuật dẫn lưu",
+        "description": "Nếu viêm tuyến vú không được điều trị đầy đủ và dẫn đến áp xe, có thể cần phẫu thuật dẫn lưu mủ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tránh để vú đầy sữa quá lâu trước khi cho con bú",
+      "Đảm bảo em bé ngậm vú đúng cách",
+      "Xoa bóp vú trong khi cho con bú",
+      "Đảm bảo bầu vú không còn sữa thừa sau khi cho con bú",
+      "Chườm lạnh hoặc túi nước đá lên ngực sau khi cho con bú",
+      "Mặc áo ngực hỗ trợ",
+      "Nghỉ ngơi càng nhiều càng tốt"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa viêm tuyến vú",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Cho con bú đúng cách",
+      "Hút hết sữa ra khỏi tuyến vú mỗi khi cho con bú xong",
+      "Trong khi bú, cho bé bú hết một bên vú trước khi chuyển sang vú bên kia",
+      "Thay đổi tư thế cho con bú từ lần bú này sang lần bú tiếp theo",
+      "Hãy chắc chắn rằng em bé ngậm vú đúng cách trong khi bú",
+      "Nếu bạn hút thuốc, hãy hỏi bác sĩ về việc cai thuốc lá"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tuyến vú có làm tăng nguy cơ ung thư vú không?",
+      "answer": "Viêm tuyến vú không làm tăng nguy cơ ung thư vú. Tuy nhiên, các triệu chứng viêm tuyến vú tương tự như các triệu chứng của ung thư vú dạng viêm (IBC – Inflammatory Breast Cancer). Đây là loại ung thư hiếm gặp và nguy hiểm, có phát ban ở ngực. Giống như viêm tuyến vú, một hoặc cả hai vú có thể đỏ, sưng lên. Ung thư vú dạng viêm thường không gây ra khối u ở vú."
+    },
+    {
+      "question": "Tôi có thể cho con bú khi bị viêm tuyến vú không?",
+      "answer": "Bạn có thể tiếp tục cho con bú nếu bị viêm tuyến vú. Cho con bú thực sự giúp loại bỏ nhiễm trùng. Cai sữa cho bé đột ngột có khả năng làm trầm trọng thêm các dấu hiệu và triệu chứng của bạn. Bác sĩ có thể giới thiệu bạn đến một chuyên gia tư vấn cho con bú để được giúp đỡ và hỗ trợ liên tục."
+    },
+    {
+      "question": "Khi nào tôi nên đến gặp bác sĩ nếu bị viêm tuyến vú?",
+      "answer": "Bạn nên đi khám bác sĩ khi xuất hiện các triệu chứng như đau vú, tiết dịch núm vú, hoặc nếu cảm giác xấu đi sau 24 giờ dùng kháng sinh hoặc vài ngày tự điều trị tại nhà. Việc điều trị sớm có thể giúp ngăn ngừa biến chứng như áp xe vú."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau tức ngực, sưng tấy vú và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tuyến vú", "Tắc tia sữa", "Áp xe vú"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau rát vú, núm vú tiết dịch và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tuyến vú", "Nhiễm trùng núm vú", "Áp xe vú"]
+    },
+    {
+      "question": "Tôi hay bị đau tức ngực và sưng tấy vú khi cho con bú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tuyến vú", "Tắc tia sữa", "Ứ sữa"]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau tức ngực, sưng tấy vú và da vú đỏ, nóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tuyến vú", "Áp xe vú", "Ung thư vú dạng viêm"]
+    },
+    {
+      "question": "Tôi hay bị đau tức ngực, sưng tấy vú và tắc tia sữa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến vú",
+        "Tắc ống dẫn sữa",
+        "Viêm tuyến vú do tiết sữa"
+      ]
     }
   ]
 }

@@ -1,58 +1,185 @@
 {
   "disease_id": "vo-tu-cung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Vỡ tử cung",
+  "disease_alternative_names": ["Uterine Rupture", "Vỡ buồng tử cung"],
+  "disease_definition": "Vỡ tử cung là tình trạng các lớp cơ ở tử cung bị nứt hoặc rách hoàn toàn tự nhiên mà không phải do phẫu thuật, làm cho các thành phần bên trong tử cung (bao gồm một phần hoặc toàn bộ thai nhi) bị tống xuất vào ổ bụng. Đây là một trong năm tai biến sản khoa nguy hiểm, thường xảy ra trong quá trình mang thai và chuyển dạ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhói vùng hạ vị đột ngột",
+      "description": "Cơn đau bụng dữ dội, có thể đau tự nhiên hoặc đau sau chấn thương trực tiếp ở vùng bụng, nhất là chỗ sẹo mổ cũ"
+    },
+    {
+      "name": "Choáng, sốc",
+      "description": "Choáng nhẹ hoặc nặng tùy mức độ mất máu, huyết áp thấp, mạch đập nhanh, chậm bất thường hoặc không đo được"
+    },
+    {
+      "name": "Đau nhói chỗ sẹo mổ cũ",
+      "description": "Cảm giác đau rõ rệt khi chạm hoặc ấn vào vùng sẹo mổ cũ"
+    },
+    {
+      "name": "Giảm cơn co tử cung",
+      "description": "Giảm hoặc không nhận thấy cơn co tử cung"
+    },
+    {
+      "name": "Xuất huyết âm đạo",
+      "description": "Chảy máu âm đạo ít hoặc nhiều, có thể kèm theo nước ối có màu đỏ"
+    },
+    {
+      "name": "Dấu hiệu suy thai",
+      "description": "Nhịp tim thai nhi chậm hoặc không nghe thấy, thai không máy"
+    },
+    {
+      "name": "Tử cung thắt lại hình quả bầu nậm",
+      "description": "Dấu hiệu dọa vỡ tử cung, tử cung bị thắt lại tạo thành hình quả bầu nậm"
+    },
+    {
+      "name": "Thành đoạn dưới tử cung mỏng và đau",
+      "description": "Khi ấn vào thành đoạn dưới tử cung thấy mỏng và đau, có thể sờ chạm ngôi thai"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Vỡ tử cung xảy ra khi các lớp cơ ở tử cung bị nứt hoặc rách hoàn toàn tự nhiên do các yếu tố từ mẹ bầu, thai nhi hoặc quá trình chuyển dạ.",
+    "related_factors": "Nguyên nhân chính bao gồm sẹo mổ cũ trên tử cung, bất tương xứng khung chậu - thai, dị dạng tử cung, và các cuộc sinh khó khăn kèm theo cơn co tử cung bất thường.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Có sẹo mổ cũ trên tử cung (mổ lấy thai, mổ bóc nhân xơ, mổ khâu vỡ tử cung, sẹo mổ dọc thân tử cung)",
+    "Bất tương xứng khung chậu - thai (khung chậu không rộng rãi, không tương xứng với cân nặng của thai)",
+    "Dị dạng tử cung (tử cung một sừng, tử cung hai sừng, tử cung đôi)",
+    "Mang thai và sinh nở nhiều lần, tiền sử sinh song thai, đa thai",
+    "Có thai sớm sau sinh mổ",
+    "Nạo hút, phá thai nhiều lần",
+    "Chấn thương mạnh ở vùng bụng khi mang thai",
+    "Thai nhi to hoặc bất thường (não úng thủy, dính nhau)",
+    "Ngôi thai bất thường (ngôi mông, ngôi ngang)",
+    "Cuộc sinh kéo dài, khó khăn",
+    "Sử dụng thuốc tăng co không đúng"
+  ],
+  "complications": [
+    "Mất máu nhiều, gây sốc",
+    "Thai nhi thiếu oxy, có thể tử vong",
+    "Cần phải cắt tử cung (14-33% các trường hợp)",
+    "Tổn thương các cơ quan lân cận (bàng quang, trực tràng, mạch máu hạ vị, niệu quản)",
+    "Nguy cơ tử vong của mẹ nếu không được cấp cứu kịp thời",
+    "Biến chứng nhiễm trùng sau sinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá tiền căn của mẹ bầu",
+      "Khám lâm sàng",
+      "Đánh giá các yếu tố nguy cơ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chẩn đoán lâm sàng",
+        "description": "Dựa vào các triệu chứng như đau nhói vùng bụng dưới, choáng, xuất huyết âm đạo, dấu hiệu suy thai"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Để xác định vị trí thai nhi và đánh giá tình trạng tử cung"
+      },
+      {
+        "name": "Đánh giá tim thai",
+        "description": "Kiểm tra nhịp tim thai để phát hiện dấu hiệu suy thai"
+      },
+      {
+        "name": "Các xét nghiệm máu",
+        "description": "Đánh giá mức độ mất máu và tình trạng của mẹ"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Vỡ tử cung là một trường hợp cấp cứu sản khoa, cần được can thiệp ngay lập tức để cứu tính mạng cả mẹ và con.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Mổ lấy thai cấp cứu tối khẩn",
+        "description": "Tất cả các trường hợp dọa vỡ tử cung hay vỡ tử cung cần mổ lấy thai cấp cứu tối khẩn, vừa hồi sức vừa mổ"
+      },
+      {
+        "name": "Hồi sức cho mẹ",
+        "description": "Bồi hoàn thể tích tuần hoàn: bù lại khối lượng máu bị mất, truyền dịch trước, trong và sau phẫu thuật"
+      },
+      {
+        "name": "Khâu bảo tồn tử cung",
+        "description": "Áp dụng khi mẹ còn trẻ, còn nguyện vọng sinh con, vết vỡ tử cung đơn giản, không nhiễm khuẩn"
+      },
+      {
+        "name": "Cắt tử cung",
+        "description": "Áp dụng khi mẹ lớn tuổi, đã sinh đủ con, vết vỡ phức tạp, nhiễm khuẩn nhiều"
+      },
+      {
+        "name": "Điều trị kháng sinh",
+        "description": "Sử dụng kháng sinh liều cao sau phẫu thuật để phòng ngừa nhiễm trùng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi sát tình trạng sau phẫu thuật",
+      "Sử dụng phương pháp tránh thai ít nhất 1 năm sau khi bị vỡ tử cung",
+      "Theo dõi sát sao ở các lần mang thai sau nếu vẫn còn tử cung"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa vỡ tử cung",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì lối sống tích cực, tránh căng thẳng trong suốt quá trình mang thai",
+      "Thăm khám thai kỳ đều đặn theo hướng dẫn của bác sĩ",
+      "Liên hệ ngay với bác sĩ khi có những triệu chứng bất thường",
+      "Phụ nữ có tiền sử sinh mổ, có sẹo mổ cũ trên thân tử cung cần sử dụng biện pháp tránh thai ít nhất 1 năm",
+      "Mẹ bầu nằm trong nhóm đối tượng nguy cơ cao cần lựa chọn cơ sở y tế có đơn vị Sản khoa giỏi để được bảo vệ, chăm sóc thai kỳ khỏe mạnh và an toàn",
+      "Tham khảo ý kiến bác sĩ về phương pháp sinh phù hợp nếu có các yếu tố nguy cơ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Vỡ tử cung có nguy hiểm không?",
+      "answer": "Vỡ tử cung là một trong năm tai biến sản khoa cực kỳ nguy hiểm, đe dọa tính mạng cả mẹ bầu lẫn thai nhi. Tình trạng này có thể gây mất máu, sốc, nguy cơ tử vong cao cho thai nhi, và 14-33% trường hợp mẹ bầu có thể phải cắt tử cung. Ngoài ra còn có nguy cơ tổn thương các cơ quan lân cận như bàng quang, trực tràng trong quá trình mổ cấp cứu."
+    },
+    {
+      "question": "Ai là người có nguy cơ cao bị vỡ tử cung?",
+      "answer": "Người có nguy cơ cao bị vỡ tử cung bao gồm: phụ nữ có tiền sử mổ lấy thai, đặc biệt mổ dọc thân tử cung; phụ nữ có từ hai lần mổ lấy thai trở lên; phụ nữ có tiền sử mổ cắt góc tử cung, mổ bóc nhân xơ tử cung, khâu lỗ thủng tử cung; người có bất tương xứng khung chậu - thai; người có dị dạng tử cung; và phụ nữ có thai sớm sau sinh mổ."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa vỡ tử cung?",
+      "answer": "Để phòng ngừa vỡ tử cung, mẹ bầu cần: duy trì lối sống tích cực, tránh căng thẳng; thăm khám thai kỳ đều đặn; liên hệ ngay với bác sĩ khi có triệu chứng bất thường; phụ nữ có sẹo mổ cũ trên tử cung nên sử dụng biện pháp tránh thai ít nhất 1 năm; và phụ nữ thuộc nhóm nguy cơ cao nên chọn cơ sở y tế có đơn vị Sản khoa giỏi để được chăm sóc thai kỳ an toàn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhói vùng hạ vị đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vỡ tử cung",
+        "Dọa vỡ tử cung",
+        "Nhau bong non",
+        "Viêm phúc mạc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy choáng nhẹ hoặc nặng và đau nhói chỗ sẹo mổ cũ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vỡ tử cung",
+        "Vết mổ cũ bị bục",
+        "Nhiễm trùng vết mổ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị giảm cơn co tử cung, sốc, huyết áp thấp và mạch đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vỡ tử cung",
+        "Xuất huyết sản khoa",
+        "Sốc nhiễm khuẩn"
+      ]
+    },
+    {
+      "question": "Tôi bị đau bụng nhiều, cơn đau kéo dài và cường độ đau tăng dần. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Dọa vỡ tử cung", "Vỡ tử cung", "Chuyển dạ khó khăn"]
+    },
+    {
+      "question": "Tôi có sẹo mổ cũ trên tử cung và hiện đang bị đau bụng nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Vỡ tử cung", "Dọa vỡ tử cung", "Sẹo mổ cũ bị bục"]
     }
   ]
 }

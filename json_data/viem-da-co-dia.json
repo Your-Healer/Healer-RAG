@@ -1,58 +1,210 @@
 {
   "disease_id": "viem-da-co-dia",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm da cơ địa",
+  "disease_alternative_names": ["Chàm thể tạng", "Chàm sữa", "Lác sữa"],
+  "disease_definition": "Viêm da cơ địa là bệnh phổ biến với triệu chứng ngứa rất điển hình. Bệnh có đặc trưng xuất hiện các mảng da viêm đỏ, bong vảy, hoặc da viêm đỏ rỉ dịch và ngứa dữ dội. Bệnh liên quan đến di truyền (rối loạn chức năng miễn dịch và rối loạn cấu tạo da) và thường nặng thêm do các tác động của yếu tố môi trường. Người bệnh bị tổn thương da dai dẳng gây ảnh hưởng đến thẩm mỹ, giảm tự tin khi giao tiếp, gây trầm cảm, mất ngủ và giảm chất lượng cuộc sống.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ngứa râm ran hay ngứa dữ dội",
+      "description": "Triệu chứng điển hình nhất của viêm da cơ địa, gây khó chịu và khiến người bệnh gãi, làm tổn thương da và nguy cơ nhiễm trùng."
+    },
+    {
+      "name": "Da viêm đỏ, tróc vảy, chảy dịch",
+      "description": "Vùng da bị ảnh hưởng thường đỏ, có thể bong tróc vảy da, chảy dịch và tạo thành vảy tiết khi khô."
+    },
+    {
+      "name": "Ban đỏ, tróc vảy ở vùng mặt và thân mình",
+      "description": "Ở trẻ sơ sinh và nhũ nhi, thường xuất hiện ban đỏ, tróc vảy ở 2 bên má, quanh miệng, trán, thân mình, cổ và bẹn, các kẽ da (nếp da)."
+    },
+    {
+      "name": "Mụn nước và viêm trợt",
+      "description": "Trên vùng da bị tổn thương thường có mụn nước nhỏ, có thể vỡ ra chảy dịch gây viêm trợt."
+    },
+    {
+      "name": "Da khô ráp, nứt nẻ",
+      "description": "Da thường khô, có thể xuất hiện các vết nứt, đặc biệt là ở trẻ em từ 2-12 tuổi."
+    },
+    {
+      "name": "Tổn thương ở các vùng cụ thể",
+      "description": "Ở trẻ em, tổn thương thường xuất hiện ở vùng sau đầu gối, trên đầu gối, khuỷu tay, các nếp da. Ở trẻ nhỏ, ban đầu xuất hiện ở mặt duỗi, sau lan đến các nếp gấp."
+    },
+    {
+      "name": "Các mảng lichen hóa dạng đĩa",
+      "description": "Biểu hiện da dày lên, hình thành các mảng tròn hoặc bầu dục, bề mặt sần sùi, ranh giới rõ, thường gặp ở trẻ em."
+    },
+    {
+      "name": "Da khô sần sùi kéo dài",
+      "description": "Ở người trưởng thành, bệnh thường ít có triệu chứng rầm rộ như trẻ em, có thể chỉ biểu hiện bằng da khô sần sùi kéo dài dai dẳng."
+    },
+    {
+      "name": "Nhiễm trùng da và biến chứng",
+      "description": "Da bị tổn thương có thể bị bội nhiễm, loét, mụn mủ, sưng nóng, đặc biệt khi gãi nhiều."
+    },
+    {
+      "name": "Thâm sạm, dày sừng, nứt nẻ",
+      "description": "Trong giai đoạn mạn tính, vùng da bị tổn thương thường thâm sạm, dày sừng, nứt nẻ và ngứa âm ỉ đến dữ dội."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm da cơ địa có liên quan đến di truyền, đặc biệt là các gen gây ra rối loạn chức năng miễn dịch và rối loạn cấu tạo da.",
+    "related_factors": "Ngoài yếu tố di truyền, bệnh còn liên quan đến các yếu tố môi trường như dị ứng, các chất kích ứng (xà phòng, chất tẩy rửa), thời tiết, dị ứng thực phẩm, nhiễm trùng cấp tính, rối loạn nội tiết và căng thẳng thần kinh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình bị viêm da cơ địa, hen suyễn hoặc viêm mũi dị ứng",
+    "Người hay bị dị ứng",
+    "Tiếp xúc với các chất gây kích ứng như xà phòng, chất tẩy rửa",
+    "Dị ứng thực phẩm, đặc biệt ở trẻ nhỏ",
+    "Nhiễm trùng cấp tính gây suy giảm miễn dịch",
+    "Rối loạn nội tiết",
+    "Căng thẳng thần kinh",
+    "Hệ miễn dịch yếu",
+    "Tắm nước nóng quá lâu"
+  ],
+  "complications": [
+    "Hen suyễn và sốt cỏ khô: Hơn 50% trẻ bị viêm da cơ địa dễ mắc thêm bệnh hen suyễn và sốt cỏ khô",
+    "Viêm da thần kinh mạn tính: Biểu hiện da có vảy và ngứa mạn tính, càng gãi càng ngứa, khiến vùng da bị tổn thương, đổi màu, dày lên",
+    "Nhiễm trùng da: Do gãi nhiều gây ra các vết loét, vết nứt, làm tăng nguy cơ nhiễm vi khuẩn và vi rút",
+    "Viêm da tay: Đặc biệt với người làm trong môi trường ẩm ướt, tiếp xúc với xà phòng và chất tẩy rửa",
+    "Viêm da tiếp xúc dị ứng hoặc kích ứng: Do tiếp xúc với các hóa chất công nghiệp, hóa mỹ phẩm, ô nhiễm môi trường",
+    "Rối loạn giấc ngủ: Việc bị ngứa nhiều ảnh hưởng đến giấc ngủ như ngủ không ngon, thức dậy lúc nửa đêm"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: Xem tình trạng da, các triệu chứng ở người bệnh",
+      "Hỏi tiền sử bệnh của người bệnh và gia đình",
+      "Đánh giá các triệu chứng như da khô, viêm kết mạc mắt tái phát, viêm môi, da mặt bị đỏ hoặc tái, chàm ở lòng hoặc mu bàn tay, vảy trắng",
+      "Xác định tiền sử cá nhân hoặc gia đình có bị viêm da cơ địa, dị ứng, hen, viêm mũi dị ứng, viêm da mãn tính"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm dị ứng",
+        "description": "Xác định các chất gây dị ứng có thể làm trầm trọng thêm tình trạng viêm da."
+      },
+      {
+        "name": "Xét nghiệm mẫu da",
+        "description": "Trong một số trường hợp, cần lấy mẫu da để kiểm tra dưới kính hiển vi nhằm loại trừ các bệnh da liễu khác."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm da cơ địa là bệnh mạn tính, không thể chữa dứt điểm (stop) hoàn toàn nhưng vẫn có thể kiểm soát (control) được bệnh. Các biện pháp điều trị hiện nay chỉ nhằm đưa da về tình trạng bình thường càng lâu càng tốt, phòng ngừa và điều trị các cơn bùng phát/các biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng kem chống ngứa",
+        "description": "Giúp người bệnh giảm cảm giác ngứa, tránh gãi nhiều gây tổn thương da. Trong trường hợp vẫn cảm thấy ngứa nhiều, cần uống thêm thuốc kháng histamine chống dị ứng."
+      },
+      {
+        "name": "Bảo vệ da bằng kem dưỡng ẩm",
+        "description": "Sử dụng kem dưỡng ẩm để làm mềm da từ 2-3 lần mỗi ngày, tránh nứt nẻ gây nhiễm trùng."
+      },
+      {
+        "name": "Bôi kem kháng viêm",
+        "description": "Được sử dụng khi da viêm, sưng đỏ, ngứa. Khi đã bớt sưng đỏ, ngứa nên hạn chế sử dụng kem kháng viêm, tăng cường liệu pháp chăm sóc làm ẩm."
+      },
+      {
+        "name": "Điều trị kháng sinh nếu da bị nhiễm trùng",
+        "description": "Chỉ bổ sung thêm kháng sinh trong thời gian ngắn. Nếu vết thương bị hở hay chảy dịch cần đắp gạc và vệ sinh thay băng mỗi ngày để tránh bội nhiễm."
+      },
+      {
+        "name": "Chườm lạnh",
+        "description": "Giúp giảm viêm và giảm ngứa ở da."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tránh áp lực và căng thẳng khi làm việc, cần nghỉ và ngủ điều độ đủ giấc",
+      "Thường xuyên tập thể dục",
+      "Xây dựng chế độ ăn uống lành mạnh, đầy đủ dinh dưỡng, tăng cường hệ miễn dịch",
+      "Tránh ăn thức ăn dễ gây dị ứng",
+      "Vệ sinh nhà cửa sạch sẽ, thường xuyên giặt chăn, nệm, thảm, rèm cửa",
+      "Tránh khói thuốc lá và môi trường nhiều bụi, ô nhiễm",
+      "Không tắm quá 20 phút một lần, ưu tiên tắm bằng nước ấm hơn là nước nóng",
+      "Nên dùng cố định 1 loại xà phòng, nước hoa, dầu gội, chất tẩy rửa nhẹ nhàng",
+      "Hạn chế tối đa gãi ngứa, cắt móng tay tránh việc gãi mạnh gây tổn thương da",
+      "Nên mặc áo thoáng mát, vải mềm, mỏng trong thời tiết nóng. Uống đủ nước mỗi ngày"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng bệnh viêm da cơ địa.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh cơ thể sạch sẽ và thường xuyên, đặc biệt sau khi đổ nhiều mồ hôi, sau khi chơi thể thao, tiếp xúc trong môi trường nhiều bụi ô nhiễm",
+      "Bôi kem dưỡng ẩm cho da sau khi tắm để tránh da bị khô gây nứt nẻ, viêm nhiễm",
+      "Hạn chế tắm nước nóng để tránh kích thích da, gây ngứa và viêm",
+      "Lựa chọn nước hoa, mỹ phẩm, xà phòng tắm gội dịu nhẹ, phù hợp với làn da",
+      "Hạn chế ăn hải sản, uống rượu bia, không hút thuốc lá,… có thể kích thích dị ứng, gây ngứa ngáy",
+      "Không tự ý mua thuốc chống dị ứng, cần uống theo toa của bác sĩ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh viêm da cơ địa có chữa dứt hoàn toàn được không?",
+      "answer": "Bệnh viêm da cơ địa là một bệnh mạn tính, bệnh không chữa dứt hoàn toàn được nhưng có thể kiểm soát được bệnh bằng nhiều biện pháp (giống như bệnh viêm mũi dị ứng, không thể chữa dứt được nhưng có thể phòng ngừa và kiểm soát được)."
+    },
+    {
+      "question": "Người bệnh viêm da cơ địa nên ăn gì, kiêng gì?",
+      "answer": "Người bệnh nên ăn các loại thực phẩm giàu omega giúp kháng viêm như: cá ngừ, cá thu, cá hồi, cá mòi, cá trích; các loại sản phẩm lên men chứa nhiều probiotic; trái cây và rau củ có chứa flavonoid kháng viêm như: dâu, sơ ri, táo, súp lơ xanh, cải bó xôi, cải xoăn. Nên tránh ăn thực phẩm dễ gây dị ứng như: trứng, đậu nành, cà chua, các loại hạt, cây họ cam quýt, các sản phẩm từ sữa, vani, quế, đinh hương, và các thực phẩm chứa nhiều niken."
+    },
+    {
+      "question": "Viêm da cơ địa có nguy hiểm không?",
+      "answer": "Bệnh viêm da cơ địa không nguy hiểm đến tính mạng nhưng ảnh hưởng nghiêm trọng đến sức khỏe, bệnh gây chướng ngại về tâm lý vì ảnh hưởng đến thẩm mỹ và giao tiếp; ngứa nhiều gây mất ngủ, giảm tập trung trong học tập và công việc, gây khó chịu và trầm cảm cho người bệnh, làm giảm chất lượng cuộc sống. Nếu không được điều trị đúng cách có thể gây biến chứng như viêm da thần kinh, viêm da cơ địa bội nhiễm, sốt cao, đau nhức, sưng hạch bạch huyết."
+    },
+    {
+      "question": "Ai có nguy cơ mắc viêm da cơ địa?",
+      "answer": "Trẻ em là đối tượng có nguy cơ cao bị mắc viêm da cơ địa. Nghiên cứu cho thấy những người có hệ miễn dịch yếu, hay bị dị ứng hoặc có gia đình có tiền sử từng bị viêm da cơ địa, hen suyễn, dị ứng,… lại dễ mắc bệnh nhất. Tại Việt Nam, viêm da cơ địa chiếm khoảng 5% dân số. Nếu trong gia đình có người bị viêm da cơ địa, con cái có 60-80% nguy cơ mắc bệnh này."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ?",
+      "answer": "Ngay khi phát hiện các dấu hiệu viêm da cơ địa, người bệnh nên đến bệnh viện có chuyên khoa Da liễu để được thăm khám và có phác đồ điều trị phù hợp. Với trường hợp vết thương ở da sưng đỏ, có mụn mủ, đau, sốt,… cần đến bệnh viện ngay để được xử trí kịp thời, tránh tình trạng bội nhiễm hoặc nhiễm trùng da."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ngứa râm ran hay ngứa dữ dội. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-co-dia",
+        "viem-da-tiet-ba",
+        "viem-da-di-ung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy da viêm đỏ, tróc vảy, chảy dịch, dày sừng, nứt nẻ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-co-dia", "vay-nen", "viem-da-tiet-ba"]
+    },
+    {
+      "question": "Tôi hay bị xuất hiện ban đỏ, tróc vảy ở 2 bên má, quanh miệng, trán, thân mình, cổ và bẹn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-co-dia",
+        "viem-da-di-ung",
+        "viem-da-tiet-ba"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện các mảng da viêm đỏ, bong vảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-co-dia", "vay-nen", "viem-da-tiet-ba"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da viêm đỏ rỉ dịch và ngứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-co-dia",
+        "viem-da-di-ung",
+        "viem-da-tiep-xuc"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tổn thương da dai dẳng gây ảnh hưởng đến thẩm mỹ, giảm tự tin khi giao tiếp, gây trầm cảm, mất ngủ và giảm chất lượng cuộc sống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-co-dia", "vay-nen", "mun-trung-ca"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như da khô ráp, nứt nẻ, ngứa ngáy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-co-dia", "viem-da-khan", "viem-da-tiet-ba"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tổn thương da thường xuất hiện ở các vùng sau đầu gối, trên đầu gối, khuỷu tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-co-dia", "vay-nen", "viem-da-khan"]
     }
   ]
 }

@@ -1,58 +1,207 @@
 {
   "disease_id": "viem-ruot-man-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm ruột mạn tính",
+  "disease_alternative_names": [
+    "Bệnh viêm ruột (IBD)",
+    "Viêm loét đại tràng",
+    "Bệnh Crohn"
+  ],
+  "disease_definition": "Viêm ruột mạn tính IBD (inflammatory bowel disease) là bệnh viêm mạn tính của đường ruột gồm 2 nhóm bệnh chính là viêm loét đại tràng và bệnh Crohn (viêm ruột từng vùng). Bệnh là kết quả của đáp ứng miễn dịch quá mức, kéo dài tại niêm mạc đường tiêu hóa.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tiêu chảy kéo dài",
+      "description": "Tiêu chảy kéo dài trên 6 tuần, có thể liên tục với trường hợp trên 20 lần/ngày"
+    },
+    {
+      "name": "Tiêu máu",
+      "description": "Đi ngoài ra máu, thường gặp trong viêm loét đại tràng"
+    },
+    {
+      "name": "Đau quặn bụng",
+      "description": "Đau bụng với tính chất thay đổi"
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân do tiêu chảy kéo dài và giảm hấp thu"
+    },
+    {
+      "name": "Sốt nhẹ",
+      "description": "Thân nhiệt tăng nhẹ do tình trạng viêm"
+    },
+    {
+      "name": "Mót rặn",
+      "description": "Cảm giác buồn đi vệ sinh nhưng không đi được hoặc đi không hết"
+    },
+    {
+      "name": "Tiêu gấp",
+      "description": "Cảm giác cần đi vệ sinh gấp, không thể chờ đợi"
+    },
+    {
+      "name": "Đi tiêu về đêm",
+      "description": "Thường xuyên phải thức dậy vào ban đêm để đi vệ sinh"
+    },
+    {
+      "name": "Biểu hiện quanh hậu môn",
+      "description": "Nếp da thừa, sa búi trĩ, rò hậu môn (gặp trong 40% ca bệnh Crohn)"
+    },
+    {
+      "name": "Rò tiêu hóa",
+      "description": "Có thể rò giữa đường tiêu hóa với các tạng trong cơ thể (rò bàng quang, âm đạo) hoặc rò ra da, ổ bụng (gặp trong 35% ca bệnh Crohn)"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Cơ chế bệnh sinh trong viêm ruột mạn tính vẫn chưa được biết rõ. Tuy nhiên, đây là kết quả của đáp ứng miễn dịch quá mức tại niêm mạc đường tiêu hóa.",
+    "related_factors": "Tương tác giữa yếu tố môi trường, yếu tố miễn dịch của cơ thể, hệ vi sinh, di truyền của người bệnh đóng vai trò quan trọng. Trong những năm gần đây, người ta ghi nhận sự bất thường hệ vi sinh vật đường ruột trong bệnh Crohn, tăng cao một số chủng vi khuẩn gây bệnh như E.Coli, proteobacteria, Actinobacteria và sự sụt giảm chủng Firmicutes và Bacteroides.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố di truyền (35% nguy cơ IBD ở người trong gia đình và 30% nguy cơ ở cặp song sinh cùng trứng)",
+    "Độ tuổi 20-30 và trên 60 tuổi",
+    "Hút thuốc lá (tăng nguy cơ bệnh Crohn và biến chứng chít hẹp, rò, nhu cầu phẫu thuật)",
+    "Sử dụng thuốc kháng viêm NSAIDs",
+    "Sử dụng thuốc ức chế miễn dịch hoặc hormone thay thế",
+    "Chế độ ăn (nhiều chất béo động vật hoặc acid béo không bão hòa tăng nguy cơ)",
+    "Thiếu vitamin D",
+    "Lo lắng, căng thẳng, trầm cảm"
+  ],
+  "complications": [
+    "Chậm tăng trưởng và dậy thì trễ (ở trẻ em)",
+    "Biểu hiện ngoài tiêu hóa (đau khớp, viêm mắt, tổn thương da, vàng da)",
+    "Chít hẹp hoặc thủng ruột",
+    "Phải nhập viện (>80% trường hợp bệnh Crohn)",
+    "Cần phẫu thuật cắt đoạn ruột (>50% ca bệnh Crohn trong 10 năm đầu)",
+    "Ung thư đại tràng (nguy cơ tăng 6 lần sau 8-10 năm mắc bệnh)",
+    "Thiếu máu",
+    "Suy dinh dưỡng và thiếu hụt vi chất"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám lâm sàng", "Đánh giá triệu chứng đặc trưng"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi đại tràng",
+        "description": "Giúp quan sát trực tiếp tổn thương và sinh thiết mô để xét nghiệm"
+      },
+      {
+        "name": "Chụp Cắt lớp vi tính (CT) hoặc MRI",
+        "description": "Giúp đánh giá tổn thương ruột và các cơ quan lân cận"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra dấu ấn viêm như CRP và các chỉ số viêm khác"
+      },
+      {
+        "name": "Xét nghiệm calprotectin trong phân",
+        "description": "Giúp chẩn đoán và tiên lượng bệnh. Calprotectin >100 ug/gr cho thấy khả năng tái phát trên nội soi với độ nhạy 89%"
+      },
+      {
+        "name": "Sinh thiết mô",
+        "description": "Lấy mẫu mô qua nội soi để xác định chẩn đoán chính xác"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị IBD là một thử thách và phức tạp. IBD là một bệnh tiến triển, tái phát từng đợt. Hiện nay, vẫn chưa có bằng chứng chữa khỏi bệnh trên lâm sàng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị thể nhẹ",
+        "description": "Sử dụng corticoid tại chỗ hoặc Sulfasalazin để kiểm soát triệu chứng"
+      },
+      {
+        "name": "Điều trị thể trung bình và nặng",
+        "description": "Cá thể hóa điều trị, đặc biệt ở nhóm bệnh nhân trẻ tuổi, tổn thương rộng, loét sâu, phụ thuộc corticoid hoặc kháng với corticoid"
+      },
+      {
+        "name": "Thuốc sinh học",
+        "description": "Sử dụng thuốc anti TNF (Adalimumab và Infliximab) cho những trường hợp thể nặng, kết hợp thuốc điều hòa miễn dịch (Azathioprine, methotrexate)"
+      },
+      {
+        "name": "Hỗ trợ dinh dưỡng",
+        "description": "Đảm bảo nhu cầu dinh dưỡng hợp lý, điều chỉnh tình trạng thiếu hụt vi chất và cải thiện triệu chứng tiêu hóa. Cung cấp Protein nhiều (1-1.5g/kg) cho bệnh nhân có tổn thương rò"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Bỏ hút thuốc lá",
+      "Tránh các thuốc NSAIDs",
+      "Hạn chế các chất xơ khó hấp thu, cà phê, rượu",
+      "Bổ sung các thiếu hụt vi chất như sắt, Vitamin B12, acid folic, vitamin D, magie, kẽm",
+      "Điều trị các vấn đề tâm lý như lo âu, trầm cảm"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine đặc hiệu phòng ngừa viêm ruột mạn tính",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát và điều trị phòng ngừa tái hoạt lao, viêm gan virus trước khi điều trị IBD bằng thuốc sinh học",
+      "Bỏ hút thuốc lá",
+      "Tránh sử dụng các thuốc NSAIDs",
+      "Quản lý stress và lo âu",
+      "Duy trì chế độ dinh dưỡng hợp lý",
+      "Hạn chế rượu bia và cà phê",
+      "Khám sức khỏe định kỳ để phát hiện sớm bệnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm ruột mạn tính có chữa khỏi hoàn toàn được không?",
+      "answer": "Hiện nay, vẫn chưa có bằng chứng chữa khỏi bệnh trên lâm sàng. IBD là một bệnh tiến triển, tái phát từng đợt. Điều trị chủ yếu tập trung vào kiểm soát triệu chứng, ngăn ngừa biến chứng và cải thiện chất lượng cuộc sống cho người bệnh."
+    },
+    {
+      "question": "Viêm ruột mạn tính có nguy cơ ung thư không?",
+      "answer": "Có, nguy cơ ung thư đại tràng tăng sau 8-10 năm mắc bệnh. Nguy cơ này cao gấp 6 lần so với người không mắc IBD. Vì vậy, người bệnh cần được theo dõi và tầm soát ung thư đại tràng định kỳ."
+    },
+    {
+      "question": "Người bị viêm ruột mạn tính nên ăn uống thế nào?",
+      "answer": "Người bệnh cần đảm bảo nhu cầu dinh dưỡng hợp lý, hạn chế các chất xơ khó hấp thu, cà phê, rượu. Bệnh nhân trong giai đoạn tiến triển có tổn thương rò, tiêu chảy gây mất Protein nhiều cần cung cấp Protein nhiều trong chế độ ăn 1-1.5g/kg. Nên bổ sung các thiếu hụt vi chất như sắt, Vitamin B12, acid folic, vitamin D, magie, kẽm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiêu chảy kéo dài, đau quặn bụng và sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm ruột mạn tính",
+        "Bệnh Crohn",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sốt nhẹ và đi tiêu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm ruột mạn tính",
+        "Viêm loét đại tràng",
+        "Trĩ nội",
+        "Viêm đại tràng nhiễm khuẩn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khớp, viêm mắt và có các vấn đề về da. Liệu những triệu chứng này có liên quan đến đường tiêu hóa không?",
+      "related_diseases": [
+        "Viêm ruột mạn tính",
+        "Bệnh Crohn",
+        "Viêm loét đại tràng",
+        "Bệnh tự miễn"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên bị tiêu chảy vào ban đêm và mót rặn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm ruột mạn tính",
+        "Viêm loét đại tràng",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng nhiễm khuẩn"
+      ]
+    },
+    {
+      "question": "Tôi có tiền sử gia đình mắc bệnh viêm ruột. Hiện tôi đang bị đau bụng và tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm ruột mạn tính",
+        "Bệnh Crohn",
+        "Viêm loét đại tràng",
+        "Hội chứng ruột kích thích"
+      ]
     }
   ]
 }

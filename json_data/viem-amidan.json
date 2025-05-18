@@ -1,58 +1,226 @@
 {
   "disease_id": "viem-amidan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm amidan",
+  "disease_alternative_names": [
+    "Viêm amidan cấp tính",
+    "Viêm amidan mãn tính",
+    "Viêm amidan quá phát"
+  ],
+  "disease_definition": "Viêm amidan là tình trạng tổ chức lympho phía sau cổ họng bị viêm tấy và sưng đỏ. Amidan được xem là tấm 'áo giáp' bảo vệ hệ hô hấp, giúp ngăn chặn sự xâm nhập của các vi khuẩn, virus, nấm, đồng thời sản sinh miễn dịch cho cơ thể. Tuy nhiên, vì là lớp chắn đầu tiên và có cấu tạo đặc thù với nhiều khe, hốc nhỏ nên amidan dễ trở thành nơi lưu trú của các tác nhân gây bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau cổ họng",
+      "description": "Cảm giác đau rát, khó chịu ở vùng cổ họng, có thể tăng nặng khi nuốt nước bọt hoặc thức ăn."
+    },
+    {
+      "name": "Amidan sưng đỏ",
+      "description": "Tình trạng viêm tấy và sưng đỏ ở vùng amidan, có thể nhìn thấy khi soi miệng."
+    },
+    {
+      "name": "Xuất hiện lớp dịch phủ màu trắng hoặc vàng",
+      "description": "Trên bề mặt amidan có thể thấy lớp dịch bao phủ màu trắng hoặc vàng, đặc biệt khi viêm do vi khuẩn."
+    },
+    {
+      "name": "Vết phồng rộp hoặc loét đau rát trên cổ họng",
+      "description": "Có thể xuất hiện các vết loét, vết phồng rộp gây đau rát khi nuốt hoặc nói chuyện."
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Cảm giác đau nhức đầu, đặc biệt là khi viêm amidan do vi khuẩn."
+    },
+    {
+      "name": "Ăn mất ngon",
+      "description": "Mất cảm giác thèm ăn, ăn không ngon do cảm giác đau khi nuốt và vị giác bị ảnh hưởng."
+    },
+    {
+      "name": "Đau tai",
+      "description": "Đau tai có thể xảy ra do viêm lan từ amidan đến ống Eustachi kết nối họng và tai giữa."
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Cảm giác khó nuốt, đau khi nuốt thức ăn hoặc nước do amidan sưng to."
+    },
+    {
+      "name": "Sưng hạch ở cổ hoặc hàm",
+      "description": "Các hạch bạch huyết ở vùng cổ hoặc hàm có thể sưng lên như một phản ứng chống lại nhiễm trùng."
+    },
+    {
+      "name": "Sốt và ớn lạnh",
+      "description": "Nhiệt độ cơ thể tăng cao, có thể lên đến 39-40 độ C, kèm theo cảm giác ớn lạnh, đặc biệt trong viêm amidan cấp tính."
+    },
+    {
+      "name": "Hôi miệng",
+      "description": "Miệng có mùi hôi do vi khuẩn tại vùng amidan bị viêm nhiễm, đặc biệt là trong viêm amidan mãn tính."
+    },
+    {
+      "name": "Giọng nói khó nghe hoặc nghẹt thở",
+      "description": "Giọng nói có thể thay đổi do amidan sưng to hoặc do tổn thương ở họng, trong trường hợp nặng có thể gây khó thở."
+    },
+    {
+      "name": "Ho khan từng cơn",
+      "description": "Ho khan, đặc biệt về đêm, thường kèm theo khạc nhổ có đờm và có những cơn ho kéo dài."
+    },
+    {
+      "name": "Thở khò khè, ngủ ngáy",
+      "description": "Thở khò khè, người lớn ngủ ngáy, trẻ em có thể gặp hội chứng ngưng thở khi ngủ do amidan sưng to làm hẹp đường thở."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm amidan thường do nhiễm trùng bởi virus hoặc vi khuẩn. Phổ biến nhất là vi khuẩn Streptococcal và các virus như cúm, Parainfluenza, herpes simplex, Epstein-Barr.",
+    "related_factors": "Khi hệ miễn dịch suy giảm, các yếu tố bất lợi như vi khuẩn, virus dễ tấn công vào amidan. Thêm vào đó, cấu tạo amidan có nhiều khe, hốc nhỏ trở thành nơi lưu trú của các tác nhân gây bệnh. Việc sử dụng rượu bia, thuốc lá cũng làm tăng nguy cơ viêm amidan.",
+    "transmission_routes": [
+      "Qua đường không khí khi người bệnh ho hoặc hắt hơi",
+      "Qua tiếp xúc trực tiếp với người bệnh",
+      "Qua việc dùng chung đồ dùng cá nhân với người bệnh"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử mắc các bệnh đường hô hấp hay các bệnh truyền nhiễm như ho gà, sởi",
+    "Vệ sinh khoang miệng không sạch sẽ",
+    "Dị tật ở cổ họng hay amidan",
+    "Môi trường ô nhiễm (khói bụi, vệ sinh không kỹ)",
+    "Sử dụng thực phẩm không đảm bảo vệ sinh, hoặc sản phẩm đông lạnh (kem, đá)",
+    "Thời tiết thay đổi đột ngột",
+    "Sử dụng rượu bia, thuốc lá",
+    "Tiền sử mắc các bệnh viêm VA, viêm xoang, viêm răng",
+    "Trẻ em trong độ tuổi 5-15 tuổi (thường tiếp xúc gần với bạn bè trong trường lớp)",
+    "Suy giảm hệ miễn dịch"
+  ],
+  "complications": [
+    "Biến chứng tại chỗ: khó thở, ngưng thở khi ngủ, nhiễm trùng lan sâu vào mô xung quanh, áp xe phúc mạc, viêm amidan hốc mủ",
+    "Biến chứng kế cận: viêm mũi, viêm xoang, viêm tai giữa, viêm hạch, viêm thanh khí phế quản",
+    "Biến chứng toàn thân: sốt thấp khớp, viêm cầu thận (nếu viêm do liên cầu nhóm A không được điều trị kịp thời)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng cổ họng",
+      "Lấy dịch cổ họng để xét nghiệm",
+      "Xét nghiệm máu để kiểm tra tình trạng nhiễm trùng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ khám cổ họng để đánh giá tình trạng sưng, đỏ của amidan, có lớp dịch trên bề mặt hay không."
+      },
+      {
+        "name": "Lấy dịch cổ họng",
+        "description": "Dùng dụng cụ lấy dịch ngoáy nhẹ vào cổ họng người bệnh. Mẫu bệnh phẩm sau khi lấy sẽ được gửi đến phòng thí nghiệm để xác định nguyên nhân gây nhiễm trùng."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra tình trạng nhiễm trùng là do virus hay vi khuẩn, từ đó đưa ra hướng điều trị phù hợp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị viêm amidan phụ thuộc vào nguyên nhân gây bệnh, mức độ nghiêm trọng và tần suất tái phát của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa (dùng thuốc)",
+        "description": "Nếu xác định nguyên nhân viêm do nhiễm vi khuẩn, bác sĩ có thể sẽ kê đơn thuốc kháng sinh. Người bệnh cần uống đúng và đủ liều theo chỉ định ngay cả khi các triệu chứng đã hết hẳn để tránh tình trạng bệnh trở nặng hoặc di chứng."
+      },
+      {
+        "name": "Áp dụng các bài thuốc dân gian",
+        "description": "Một số bài thuốc dân gian giúp làm giảm triệu chứng như súc miệng với nước muối, súc miệng bằng nước ép hành, ngậm gừng với mật ong. Tuy nhiên chỉ nên coi đây là biện pháp hỗ trợ, không thay thế điều trị y khoa."
+      },
+      {
+        "name": "Phẫu thuật cắt amidan",
+        "description": "Khi các phương pháp khác không hiệu quả hoặc bệnh tái phát nhiều lần ảnh hưởng đến sức khỏe và chất lượng cuộc sống, cắt amidan là giải pháp tối ưu. Hiện nay, công nghệ Plasma được ưu tiên áp dụng vì thời gian phẫu thuật nhanh, ít đau, ít biến chứng."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Nghỉ ngơi đầy đủ để cơ thể phục hồi",
+      "Uống nhiều nước để giữ ẩm họng và tránh mất nước",
+      "Sử dụng thức ăn mềm nếu cảm thấy đau khi nuốt",
+      "Sử dụng máy tạo độ ẩm trong phòng ngủ để giảm khô họng",
+      "Súc miệng nhiều lần trong ngày bằng nước muối ấm",
+      "Tránh các thực phẩm cay nóng, nhiều chất béo, thức uống quá lạnh",
+      "Tránh các chất kích thích như thuốc lá, nước uống có gas, cà phê",
+      "Tuân thủ đúng liều lượng và thời gian dùng thuốc theo chỉ định"
+    ],
+    "prevention_of_transmission": [
+      "Rửa tay thường xuyên bằng xà phòng, đặc biệt sau khi tiếp xúc với người bệnh",
+      "Tránh tiếp xúc gần với người đang bị cảm, viêm họng, viêm amidan",
+      "Không dùng chung đồ dùng cá nhân như khăn, ly uống nước với người bệnh",
+      "Che miệng khi ho hoặc hắt hơi để tránh phát tán virus và vi khuẩn"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chế độ dinh dưỡng khoa học bổ sung đầy đủ dưỡng chất (vitamin C, E, A) từ trái cây và rau xanh",
+      "Súc miệng thường xuyên bằng nước muối sinh lý để vệ sinh họng, miệng",
+      "Giữ gìn phòng ốc, môi trường sống luôn sạch sẽ",
+      "Uống nhiều nước (gồm nước trái cây) để bù nước và giảm tình trạng viêm, khô họng",
+      "Hạn chế nói to, nói nhiều tránh những tổn thương đến họng",
+      "Giữ ấm vùng họng khi thời tiết thay đổi",
+      "Tăng cường tập luyện thể thao, duy trì sức khỏe, tăng sức đề kháng",
+      "Vệ sinh răng miệng sạch sẽ, đánh răng ngày hai lần vào buổi sáng và tối",
+      "Không hút thuốc lá, hạn chế uống rượu bia",
+      "Tuân thủ lịch tái khám theo chỉ định khi bị viêm amidan"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Khi nào nên cắt amidan?",
+      "answer": "Cắt amidan là biện pháp cuối cùng sau khi đã áp dụng các cách thức điều trị khác không hiệu quả. Bác sĩ sẽ chỉ định phẫu thuật cắt amidan khi bệnh ngày càng trở nặng và lặp lại nhiều lần, hoặc khi xảy ra các biến chứng khó kiểm soát như khó thở khi ngủ, thở khó khăn, khó nuốt, áp xe không cải thiện khi điều trị bằng kháng sinh."
+    },
+    {
+      "question": "Viêm amidan có lây không?",
+      "answer": "Tình trạng viêm amidan xảy ra khi bộ phận này bị nhiễm trùng do virus hoặc vi khuẩn. Bản thân bệnh không có tính lây lan nhưng các virus và vi khuẩn gây bệnh có thể lây từ người bị bệnh sang người bình thường thông qua nhiều con đường khác nhau, đặc biệt khi người bệnh ho hoặc hắt hơi."
+    },
+    {
+      "question": "Viêm amidan có những biến chứng gì?",
+      "answer": "Viêm amidan có thể dẫn đến nhiều biến chứng nguy hiểm nếu không được điều trị kịp thời, bao gồm: biến chứng tại chỗ (khó thở, ngưng thở khi ngủ, nhiễm trùng lan sâu vào mô xung quanh, áp xe phúc mạc), biến chứng kế cận (viêm mũi, viêm xoang, viêm tai giữa, viêm hạch), và biến chứng toàn thân (sốt thấp khớp, viêm cầu thận nếu viêm do liên cầu nhóm A không được điều trị kịp thời)."
+    },
+    {
+      "question": "Viêm amidan có những loại nào?",
+      "answer": "Viêm amidan được phân loại thành: Viêm amidan cấp tính (triệu chứng kéo dài dưới 10 ngày), Viêm amidan mãn tính (tình trạng viêm tái phát nhiều lần trong năm), và Viêm amidan quá phát (có nguồn cơn từ viêm amidan mãn tính, xảy ra khoảng 4 lần mỗi năm với các triệu chứng tương tự viêm cấp tính nhưng kéo dài hơn)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau cổ họng, amidan sưng đỏ, xuất hiện lớp dịch phủ màu trắng hoặc vàng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan", "viem-hong", "viem-nao-hong"]
+    },
+    {
+      "question": "Tôi đang cảm thấy xuất hiện vết phồng rộp hoặc vết loét đau rát trên cổ họng, đau đầu, ăn mất ngon. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-amidan",
+        "viem-hong-herpes",
+        "viem-hong-nhuom-tat"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tai, khó nuốt, sưng hạch ở cổ hoặc hàm, sốt và ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan", "viem-tai-giua", "viem-hach-lympho"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như hôi miệng, giọng nói khó nghe hoặc nghẹt thở, cổ cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan", "viem-thanh-quan", "viem-mang-nao"]
+    },
+    {
+      "question": "Tôi hay bị viêm amidan cấp tính với các triệu chứng kéo dài dưới 10 ngày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan", "viem-amidan-cap", "cum"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm amidan mãn tính với tình trạng viêm tái phát nhiều lần trong năm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-amidan",
+        "viem-amidan-man-tinh",
+        "viem-hong-man"
+      ]
+    },
+    {
+      "question": "Tôi hay bị cảm giác vướng víu nơi cổ họng khi nuốt thức ăn hoặc uống nước, thể trạng kém, yếu ớt và có thể sốt khi về chiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan", "viem-hong-man", "lao-hong"]
+    },
+    {
+      "question": "Tôi hay bị sỏi amidan do các mảnh vật chất như tế bào chết, nước bọt và thức ăn tích tụ trong các kẽ của amidan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan", "soi-amidan", "viem-amidan-man-tinh"]
     }
   ]
 }

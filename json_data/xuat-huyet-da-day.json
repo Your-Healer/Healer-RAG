@@ -1,39 +1,102 @@
 {
   "disease_id": "xuat-huyet-da-day",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xuất huyết dạ dày",
+  "disease_alternative_names": ["Xuất huyết bao tử", "Chảy máu dạ dày"],
+  "disease_definition": "Xuất huyết dạ dày là một triệu chứng rối loạn đường tiêu hóa thường gặp. Dấu hiệu dễ nhận biết nhất là máu xuất hiện trong phân hoặc chất nôn nhưng không phải lúc nào cũng có thể nhìn thấy bằng mắt thường. Ngoài ra, xuất huyết bao tử còn có thể khiến phân chuyển sang màu đen hoặc hắc ín. Mức độ chảy máu nhẹ hoặc nặng sẽ phụ thuộc vào tình trạng bệnh lý, trong nhiều trường hợp còn gây ảnh hưởng đến tính mạng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng vùng thượng vị",
+      "description": "Xuất huyết bao tử do phần niêm mạc bị tổn thương sẽ gây ra những đau tại vùng thượng vị có thể lan ra sau lưng."
+    },
+    {
+      "name": "Thay đổi sắc tố da hay da niêm mạc nhợt",
+      "description": "Khi bệnh nhân bị xuất huyết dẫn đến hiện tượng mất máu, gây ra tình trạng suy nhược, mệt mỏi, da tái nhợt và thiếu sức sống."
+    },
+    {
+      "name": "Buồn nôn, nôn ra máu",
+      "description": "Ban đầu, người bệnh sẽ cảm thấy đầy bụng, chướng bụng, sau đó nôn ra thức ăn lẫn máu tươi hoặc máu đen."
+    },
+    {
+      "name": "Đi ngoài ra máu",
+      "description": "Đi ngoài ra máu có màu đen như bã cà phê kèm mùi khó chịu là triệu chứng điển hình của xuất huyết bao tử. Nếu lượng máu chảy ra quá nhiều sẽ gây nên tình trạng đại tiện kèm máu đỏ tươi."
+    },
+    {
+      "name": "Dấu hiệu thiếu máu",
+      "description": "Xuất hiện các dấu hiệu như hoa mắt, chóng mặt, choáng váng, tụt huyết áp, mệt mỏi, vã mồ hôi (sốc mất máu)."
+    },
+    {
+      "name": "Mệt mỏi, khó thở",
+      "description": "Thiếu máu do xuất huyết dẫn đến mệt mỏi, khó thở, thở dốc và có thể bị ngất."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Xuất huyết dạ dày xuất phát từ nhiều nhóm nguyên nhân khác nhau. Phần lớn là do tiền sử bệnh lý, thói quen sinh hoạt, ăn uống.",
+    "related_factors": "Viêm loét dạ dày tá tràng là nguyên nhân chính và phổ biến nhất, chiếm đến hơn 40% các trường hợp. Ngoài ra còn có các nguyên nhân khác như lạm dụng rượu bia, sử dụng thuốc NSAIDs/Aspirin, vỡ giãn tĩnh mạch thực quản, hội chứng Mallory Weiss, ung thư thực quản và dạ dày.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Độ tuổi từ 20-50 tuổi",
+    "Nam giới có tỷ lệ mắc cao hơn nữ giới do thường uống nhiều rượu bia",
+    "Người lớn tuổi thường dùng thuốc giảm đau chống viêm Non-steroid hoặc Aspirin",
+    "Người mắc bệnh gan nặng như xơ gan",
+    "Người thường xuyên sử dụng rượu bia"
+  ],
+  "complications": [
+    "Thiếu máu nghiêm trọng",
+    "Sốc mất máu",
+    "Tụt huyết áp",
+    "Tử vong nếu không được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xem xét tiền sử bệnh",
+      "Khám sức khỏe tổng quát",
+      "Đánh giá các triệu chứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Theo dõi công thức máu, tốc độ máu, số lượng tiểu cầu và chức năng gan."
+      },
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Phân tích phân để xác định nguyên nhân chảy máu và tìm máu ẩn trong phân."
+      },
+      {
+        "name": "Nội soi",
+        "description": "Sử dụng ống dài kèm camera đưa qua miệng để kiểm tra đường tiêu hóa bên trong, tìm nguyên nhân xuất huyết và can thiệp điều trị nếu cần."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Đối với một số trường hợp nhẹ, xuất huyết bao tử sẽ tự ngừng mà không cần đến các can thiệp điều trị y tế. Tuy nhiên, nếu tình trạng nghiêm trọng, người bệnh buộc phải tiến hành xét nghiệm, thực hiện các thủ thuật y khoa hoặc uống thuốc theo chỉ định của bác sĩ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc ức chế bơm proton (PPI)",
+        "description": "Tiêm thuốc PPI để ngăn chặn sản xuất axit dạ dày, giúp giảm tình trạng viêm loét và xuất huyết."
+      },
+      {
+        "name": "Truyền dịch",
+        "description": "Bổ sung dịch qua đường tĩnh mạch để duy trì thể tích tuần hoàn."
+      },
+      {
+        "name": "Truyền máu",
+        "description": "Trong trường hợp mất máu nhiều, cần truyền máu để phòng tránh sốc và cải thiện tình trạng thiếu máu."
+      },
+      {
+        "name": "Nội soi can thiệp",
+        "description": "Kẹp clip ổ loét đang chảy máu hoặc thắt đường vỡ của tĩnh mạch thực quản thông qua nội soi."
+      },
+      {
+        "name": "Ngừng thuốc làm loãng máu",
+        "description": "Dừng sử dụng thuốc làm loãng máu, aspirin và thuốc chống viêm không steroid nếu đang dùng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi sát tình trạng bệnh",
+      "Thăm khám định kỳ với bác sĩ chuyên khoa",
+      "Tuân thủ chỉ định về thuốc và chế độ ăn uống"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +104,49 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh hút thuốc lá, uống rượu bia nhiều",
+      "Duy trì thói quen tập thể dục mỗi ngày để tăng sức đề kháng và nâng cao hệ miễn dịch",
+      "Cân bằng thời gian nghỉ ngơi và làm việc hợp lý",
+      "Hạn chế dùng thuốc giảm đau chống viêm không Steroid, nếu bắt buộc sử dụng, nên tham khảo ý kiến bác sĩ",
+      "Duy trì ăn uống sinh hoạt ngủ nghỉ điều độ, tránh căng thẳng, stress",
+      "Hình thành đồng hồ sinh học lý tưởng cho cơ thể, hạn chế tối đa việc thức khuya"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xuất huyết dạ dày có nguy hiểm không?",
+      "answer": "Xuất huyết bao tử là bệnh lý gây nguy hiểm cho hệ tiêu hóa đồng thời có nguy cơ đe dọa đến tính mạng nếu không được điều trị kịp thời. Về lâu dài, xuất huyết dạ dày sẽ trở nên trầm trọng, lượng máu chảy ra nhiều và liên tục hơn, gây ra các biến chứng như thiếu máu nghiêm trọng, sốc mất máu và có thể dẫn đến tử vong."
+    },
+    {
+      "question": "Xuất huyết dạ dày xảy ra ở đối tượng nào?",
+      "answer": "Xuất huyết dạ dày là tình trạng bệnh lý xảy ra phổ biến ở độ tuổi từ 20 – 50 tuổi, trong đó nam giới thường chiếm tỷ lệ cao hơn nữ giới bởi có xu hướng uống nhiều rượu bia hơn. Người lớn tuổi hay dùng các thuốc giảm đau chống viêm Non-steroid hoặc Aspirin cũng có nguy cơ cao xuất huyết tiêu hóa."
+    },
+    {
+      "question": "Làm thế nào để chẩn đoán xuất huyết dạ dày?",
+      "answer": "Xuất huyết dạ dày được chẩn đoán thông qua việc xem xét tiền sử bệnh, khám sức khỏe tổng quát và đánh giá các triệu chứng. Các xét nghiệm thường được thực hiện bao gồm xét nghiệm máu để theo dõi công thức máu, xét nghiệm phân để tìm máu ẩn, và đặc biệt là nội soi để kiểm tra đường tiêu hóa bên trong, tìm nguyên nhân xuất huyết và can thiệp điều trị nếu cần."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng vùng thượng vị và đi ngoài ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xuất huyết dạ dày"]
+    },
+    {
+      "question": "Tôi đang cảm thấy da niêm mạc nhợt nhạt, buồn nôn và nôn ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xuất huyết dạ dày"]
+    },
+    {
+      "question": "Tôi hay bị mệt mỏi, khó thở và tụt huyết áp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xuất huyết dạ dày", "Thiếu máu"]
+    },
+    {
+      "question": "Tôi bị viêm loét dạ dày tá tràng và hiện đang bị đau bụng vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xuất huyết dạ dày", "Viêm loét dạ dày tá tràng"]
+    },
+    {
+      "question": "Tôi uống quá nhiều bia rượu và hiện đang bị nôn ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xuất huyết dạ dày", "Hội chứng Mallory Weiss"]
     }
   ]
 }

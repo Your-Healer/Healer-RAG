@@ -1,39 +1,120 @@
 {
   "disease_id": "viem-khop-phan-ung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm khớp phản ứng",
+  "disease_alternative_names": ["Viêm khớp vô khuẩn", "Hội chứng Reiter"],
+  "disease_definition": "Viêm khớp phản ứng hay viêm khớp vô khuẩn là tình trạng sưng, tình trạng viêm ở khớp xảy ra do nhiễm trùng ở một số cơ quan trong cơ thể, đặc biệt là ở các bộ phận như hệ tiết niệu, hệ tiêu hóa và cơ quan sinh dục. Ngoài ra, bệnh còn gây tổn thương ở nhiều cơ quan khác ngoài khớp như kết mạc, niệu đạo, cầu thận và đại tràng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt, mệt mỏi, sụt cân",
+      "description": "Người bệnh thường có những triệu chứng ban đầu như sốt, cảm thấy mệt mỏi và giảm cân mà không rõ lý do."
+    },
+    {
+      "name": "Đau nhức xương khớp",
+      "description": "Người bệnh có những cơn đau nhức ở xương khớp, đặc biệt là đầu gối, bàn chân, mắt cá chân và hông, mức độ khác nhau tùy tiến triển của bệnh."
+    },
+    {
+      "name": "Viêm gân",
+      "description": "Viêm gân ở những vị trí bám gân như viêm gân chân, viêm gân Achilles, viêm màng xương ngón."
+    },
+    {
+      "name": "Viêm kết mạc",
+      "description": "Người bệnh gặp tình trạng đỏ và đau vùng mắt, chảy nước mắt thường xuyên. Một số người bệnh có thể sợ ánh sáng."
+    },
+    {
+      "name": "Viêm niệu đạo",
+      "description": "Triệu chứng này có thể xuất hiện từ 7-14 ngày sau quan hệ tình dục, cùng lúc với các triệu chứng sốt nhẹ và viêm khớp. Ở nam giới, viêm niệu đạo ít đau, hiện tượng chảy mủ cũng ít hơn so với viêm niệu đạo trong lậu. Ở nữ giới, triệu chứng thường thoáng qua hoặc không có triệu chứng."
+    },
+    {
+      "name": "Loét niêm mạc",
+      "description": "Bệnh có thể gây loét các bề mặt ở niêm mạc lưỡi, miệng và ở cơ quan sinh dục (dương vật, âm đạo)."
+    },
+    {
+      "name": "Tổn thương da",
+      "description": "Một số trường hợp xuất hiện mụn nước ở lòng bàn tay và bàn chân ở vùng xung quanh móng (tương tự như bệnh vảy nến ở thể mủ), sau đó sừng hóa và tạo vảy."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân chủ yếu gây viêm khớp phản ứng được xác định là do các loại vi khuẩn gây nhiễm trùng đường tiết niệu, tiêu hóa và cơ quan sinh dục.",
+    "related_factors": "Bệnh có thể xảy ra sau các bệnh viêm đường ruột mạn tính như viêm loét đại tràng, bệnh Crohn. Hơn 20% trường hợp không tìm được nguyên nhân gây bệnh.",
+    "transmission_routes": [
+      "Qua đường ăn uống bởi các vi khuẩn như Salmonella, Yersinia, Shigella, Borrelia, Campylobacter",
+      "Qua quan hệ tình dục bởi vi khuẩn như Chlamydia Trachomatis"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nam (đặc biệt trong độ tuổi 20-40)",
+    "Yếu tố di truyền (có kháng nguyên HLA-B27)",
+    "Nhiễm trùng đường tiêu hóa do vi khuẩn",
+    "Nhiễm trùng đường tiết niệu và cơ quan sinh dục",
+    "Nhiễm virus như rubella, HIV, virus viêm gan",
+    "Mắc các bệnh viêm đường ruột mạn tính như viêm loét đại tràng, bệnh Crohn"
+  ],
+  "complications": [
+    "Các triệu chứng trở nặng gây khó khăn, cản trở tới các hoạt động thường ngày",
+    "Tàn phế suốt đời nếu không được điều trị kịp thời và đúng cách",
+    "Bệnh có nguy cơ tái phát hoặc chuyển sang mạn tính",
+    "Biến chứng sang viêm cột sống dính khớp (15-30% trường hợp)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng và hỏi bệnh sử",
+      "Xét nghiệm máu",
+      "Kiểm tra dịch khớp",
+      "Chụp X-quang",
+      "Chụp MRI hoặc CT scanner",
+      "Xét nghiệm phân, nước tiểu, cơ quan sinh dục, chất nhầy ở cổ họng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Giúp xác định nhiễm trùng (các vi khuẩn, virus gây bệnh), tình trạng viêm (thông qua tỷ lệ lắng máu) và yếu tố di truyền (phát hiện kháng nguyên HLA-B27)."
+      },
+      {
+        "name": "Kiểm tra dịch khớp",
+        "description": "Sử dụng kim thu hồi mẫu chất lỏng ở khớp xương bị tác động để phát hiện nhiễm trùng và kiểm tra sự tồn tại của tinh thể acid uric - thường xuất hiện ở bệnh gout."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Hiển thị những tổn thương ở xương khớp, mô mềm, sụn và những gân bám vào xương, giúp phát hiện nhiều bệnh lý viêm khớp."
+      },
+      {
+        "name": "Chụp MRI hoặc CT scanner",
+        "description": "Kiểm tra kỹ hơn những tổn thương có ở xương và mô mềm phần hông."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu chính của việc điều trị viêm khớp phản ứng là quản lý tốt các triệu chứng bệnh, kiểm soát hiệu quả các bệnh nhiễm trùng ở bệnh nhân tiềm ẩn tác nhân gây bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh",
+        "description": "Nhằm loại bỏ các vi khuẩn gây bệnh còn tồn tại trong cơ thể. Loại kháng sinh sẽ phụ thuộc vào loại vi khuẩn có trong cơ thể."
+      },
+      {
+        "name": "Thuốc chống viêm không steroid (NSAIDs)",
+        "description": "Có tác dụng giảm các triệu chứng đau và viêm do bệnh."
+      },
+      {
+        "name": "Corticosteroid",
+        "description": "Có tác dụng ngăn chặn việc viêm khớp xương, giảm các triệu chứng viêm và giúp cơ xương khớp hoạt động bình thường."
+      },
+      {
+        "name": "Thuốc DMARDs",
+        "description": "Khi tiến triển thành viêm khớp mạn tính, có thể cần điều trị các thuốc DMARDs kinh điển như Methotrexat, Sulfasalazin."
+      },
+      {
+        "name": "Tập vật lý trị liệu",
+        "description": "Giúp cải thiện chức năng, tăng cường sức mạnh và độ dẻo dai cho cơ xương khớp. Cần tập luyện những bài tập theo chỉ định của bác sĩ, tránh tập quá sức."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sử dụng đúng thuốc và đủ liều lượng theo chỉ định của bác sĩ",
+      "Tránh tự ý dùng thuốc khi chưa có chỉ định",
+      "Tập luyện những bài tập theo chỉ định của bác sĩ",
+      "Để bệnh nhân được nghỉ ngơi thoải mái, tránh các tư thế ảnh hưởng hoặc gây biến dạng khớp",
+      "Thực hiện chế độ ăn uống khoa học, bổ sung đầy đủ các dưỡng chất thiết yếu",
+      "Tắm nước nóng để tránh hiện tượng co cứng, sưng và đau do bệnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +122,113 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế tối đa việc tiếp xúc với các vi khuẩn, virus gây bệnh",
+      "Đảm bảo lưu trữ, bảo quản thực phẩm ở nhiệt độ thích hợp",
+      "Ăn uống theo tiêu chí \"ăn chín uống sôi\"",
+      "Thực hiện thăm khám định kỳ đầy đủ theo chỉ định của bác sĩ",
+      "Tập luyện thể dục thể thao hàng ngày, tăng sức mạnh và dẻo dai của cơ xương khớp",
+      "Quan hệ tình dục an toàn, tránh bệnh lây qua đường tình dục",
+      "Không sử dụng nội tạng động vật và thực phẩm chứa nhiều muối",
+      "Không ăn đồ ăn nhiều dầu mỡ như chiên, rán",
+      "Không uống rượu bia và các loại đồ uống có cồn",
+      "Tránh xa các loại thực phẩm có thể gây dị ứng như lươn, trạch"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm khớp phản ứng có nguy hiểm không?",
+      "answer": "Hầu hết bệnh nhân viêm khớp phản ứng được tiên lượng tốt, các triệu chứng thuyên giảm nhanh chóng, hồi phục sau vài tuần, vài tháng hoặc sớm hơn nếu được phát hiện sớm và tích cực điều trị. Tuy nhiên, bệnh sẽ trở nên nguy hiểm khi không tuân thủ chỉ định điều trị và có thói quen sinh hoạt, ăn uống không khoa học. Về lâu dài, các triệu chứng trở nặng có thể cản trở hoạt động thường ngày, thậm chí dẫn đến tàn phế suốt đời nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Viêm khớp phản ứng bao lâu thì khỏi?",
+      "answer": "Thời gian khỏi bệnh phụ thuộc vào yếu tố di truyền và thể trạng của bệnh nhân. Với những người có sức khỏe tốt, hệ miễn dịch mạnh, tích cực điều trị và thực hiện đầy đủ hướng dẫn của bác sĩ, bệnh có thể thuyên giảm sau 1-2 tuần. Với người có sức đề kháng kém hoặc có bệnh nền, điều trị có thể kéo dài từ vài tháng đến vài năm. Bệnh có nguy cơ tái phát lên đến 50% ở những người mang yếu tố nguy cơ di truyền nếu không được điều trị đúng cách."
+    },
+    {
+      "question": "Viêm khớp phản ứng kiêng gì?",
+      "answer": "Để điều trị viêm khớp phản ứng hiệu quả, bệnh nhân nên kiêng: không sử dụng nội tạng động vật và thức ăn chứa nhiều muối vì chứa nhiều photpho khiến xương bị tổn thương; không ăn đồ nhiều dầu mỡ như chiên rán vì có thể gây phản ứng viêm; không uống rượu bia và đồ uống có cồn; tránh xa các thực phẩm có thể gây dị ứng như lươn, trạch."
+    },
+    {
+      "question": "Viêm khớp phản ứng có tái phát không?",
+      "answer": "Viêm khớp phản ứng hoàn toàn có nguy cơ tái phát nếu không được điều trị đúng cách, nhất là ở những người mang yếu tố nguy cơ di truyền. Tỷ lệ tái phát bệnh có thể lên đến 50%. Do đó, bệnh nhân nên đến thăm khám và điều trị tại cơ sở y tế uy tín để chữa dứt điểm bệnh, tránh những triệu chứng khó chịu và biến chứng nguy hiểm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau khớp, sưng khớp sau khi bị nhiễm trùng đường tiết niệu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-phan-ung",
+        "viem-khop-nhiem-khuan",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức ở đầu gối, bàn chân, mắt cá chân và có tiền sử viêm niệu đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-phan-ung",
+        "viem-khop-nhiem-khuan",
+        "viem-khop-gut"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau mắt đỏ, chảy nước mắt và sưng đau các khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-phan-ung",
+        "hoi-chung-sjogren",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng viêm kết mạc, đau nhức xương khớp và mệt mỏi không rõ lý do. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-phan-ung",
+        "lupus-ban-do",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức ở gót chân, viêm gân Achilles và có tiền sử nhiễm trùng đường tiêu hóa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-phan-ung",
+        "viem-gan-got-chan-achilles",
+        "viem-khop-vay-nen"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sốt, sút cân và đau khớp, đặc biệt là khớp háng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-phan-ung",
+        "viem-khop-nhiem-khuan",
+        "lao-khop-hang"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng loét miệng, lưỡi và đau khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop-phan-ung", "benh-behcet", "lupus-ban-do"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức khớp, sưng khớp và có mụn nước ở lòng bàn tay, bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-phan-ung",
+        "viem-khop-vay-nen",
+        "phong-thap-cot-song"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lưng, khó gập duỗi cột sống và có tiền sử viêm khớp phản ứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cot-song-dinh-khop",
+        "viem-khop-phan-ung",
+        "thoai-hoa-cot-song"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau khớp, sưng khớp sau khi bị nhiễm trùng đường sinh dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-phan-ung",
+        "viem-khop-do-lau",
+        "viem-khop-nhiem-khuan"
+      ]
     }
   ]
 }

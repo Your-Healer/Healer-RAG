@@ -1,39 +1,135 @@
 {
   "disease_id": "ung-thu-xuong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư xương",
+  "disease_alternative_names": [
+    "Bone Cancer",
+    "U xương ác tính",
+    "Sarcoma xương (Osteogenic Sarcoma)",
+    "Sarcoma sụn (Chondrosarcoma)",
+    "Ewing's Sarcoma",
+    "Đa u tủy (Multiple Myeloma)"
+  ],
+  "disease_definition": "Ung thư xương là bệnh xảy ra khi một khối u hoặc một khối mô bất thường hình thành trong xương. Đây là loại ung thư liên kết từ 3 loại tế bào: tế bào tạo xương, tế bào tạo sụn và tế bào liên kết của mô xương. Một khối u được đánh giá ác tính (ung thư) khi phát triển mạnh mẽ và lan sang các bộ phận khác của cơ thể.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau mỏi chân tay",
+      "description": "Ở giai đoạn đầu, người bệnh thường có cảm giác đau mỏi ở chân tay, đây là dấu hiệu dễ bị bỏ qua vì không biểu hiện rõ rệt."
+    },
+    {
+      "name": "Xương có cảm giác đau và vận động yếu hơn",
+      "description": "Người bệnh có thể cảm thấy đau ở vùng xương bị ảnh hưởng và khả năng vận động bị giảm sút."
+    },
+    {
+      "name": "Đau xương tăng dần",
+      "description": "Cảm giác đau xương tăng dần, đau liên tục, đau lan sang cả các vùng lân cận khi khối u tiến triển lớn dần lên."
+    },
+    {
+      "name": "Sưng tấy tại vị trí đau xương",
+      "description": "Vị trí đau xương có dấu hiệu sưng tấy, thường xuất hiện khi khối u phát triển."
+    },
+    {
+      "name": "Mệt mỏi và sốt nhẹ",
+      "description": "Người bệnh luôn cảm thấy mệt mỏi, có thể kèm theo sốt nhẹ do phản ứng của cơ thể với khối u."
+    },
+    {
+      "name": "Giảm cân không rõ nguyên nhân",
+      "description": "Người bệnh có thể bị sụt cân mà không rõ nguyên nhân, đây là dấu hiệu thường gặp ở nhiều loại ung thư."
+    },
+    {
+      "name": "Xương dễ gãy",
+      "description": "Xương bị ảnh hưởng bởi khối u trở nên yếu hơn và dễ gãy hơn bình thường, thậm chí với các va chạm nhẹ."
+    },
+    {
+      "name": "Khối hạch cứng, rắn chắc trong xương dài",
+      "description": "Có thể sờ thấy khối hạch cứng, rắn chắc trong xương dài của các chi khi khối u đã phát triển đủ lớn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân của ung thư xương chưa được xác định chính xác.",
+    "related_factors": "Có một số yếu tố nhất định có thể góp phần gây ra hoặc làm tăng khả năng hình thành các khối u phát triển bất thường trong xương.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố di truyền",
+    "Tiền sử gia đình bị ung thư, đặc biệt là ung thư liên quan đến xương hoặc sụn",
+    "Đã từng được điều trị hoặc xạ trị trong quá khứ",
+    "Bệnh Paget: một tình trạng khiến xương bị gãy và sau đó phát triển trở lại bất thường",
+    "Hiện tại hoặc trước đây có nhiều khối u trong sụn, là mô liên kết trong xương",
+    "Tuổi tác: thường gặp ở trẻ em và trẻ vị thành niên (9-19 tuổi) hoặc người trẻ dưới 30 tuổi",
+    "Khoảng 10% các trường hợp mắc ung thư xương phát triển ở những người trong độ tuổi 60-70"
+  ],
+  "complications": [
+    "Mất chức năng chi thể",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Có thể phải cắt cụt chi trong trường hợp nặng",
+    "Di căn đến các cơ quan khác như phổi hoặc não",
+    "Gãy xương bệnh lý do khối u làm yếu xương",
+    "Đau đớn mãn tính ảnh hưởng đến sinh hoạt",
+    "Nguy cơ tử vong cao nếu không điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Sinh thiết (phân tích một mẫu mô nhỏ để chẩn đoán ung thư)",
+      "Quét xương (kiểm tra tình trạng của xương)",
+      "Xét nghiệm máu",
+      "Chụp X-quang để đánh giá cấu trúc xương",
+      "Chụp MRI để có cái nhìn chi tiết về mô mềm và xương",
+      "Chụp CT để tạo hình ảnh 3D của khối u và khu vực xung quanh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sinh thiết",
+        "description": "Phân tích một mẫu mô nhỏ để chẩn đoán xác định ung thư và loại tế bào ung thư."
+      },
+      {
+        "name": "Quét xương",
+        "description": "Kiểm tra tình trạng của xương để phát hiện các bất thường và vị trí của khối u."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp đánh giá tình trạng sức khỏe tổng quát và có thể phát hiện các marker ung thư."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Phương pháp hình ảnh đầu tiên để đánh giá cấu trúc xương và phát hiện các bất thường."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Cung cấp hình ảnh chi tiết về mô mềm và xương, giúp xác định mức độ xâm lấn của khối u."
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Tạo hình ảnh 3D của khối u và khu vực xung quanh, hỗ trợ việc đánh giá giai đoạn bệnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị sẽ phụ thuộc vào tình trạng của từng bệnh nhân, được đánh giá cụ thể theo các yếu tố: giai đoạn ung thư, tuổi tác, sức khỏe tổng thể, kích thước và vị trí của khối u.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Bệnh nhân có thể được phẫu thuật loại bỏ các khối u hoặc mô bị ảnh hưởng. Mục đích của ca phẫu thuật là loại bỏ và thay thế phần xương bị hư hỏng. Phương pháp này giúp ngăn chặn ung thư lây lan nhanh chóng."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng hóa chất và thuốc đặc trị để tiêu diệt các tế bào ung thư. Hóa trị có thể được dùng để thu hẹp kích thước khối u để hỗ trợ cho việc phẫu thuật, hoặc được dùng để tiêu diệt những tế bào còn sót lại hậu phẫu thuật và phòng ngừa tái phát trở lại."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Dùng tia phóng xạ được kiểm soát làm tổn thương, ngăn chặn sự phát triển và phá hủy tế bào ung thư."
+      },
+      {
+        "name": "Phẫu thuật bảo tồn chi thể",
+        "description": "Là xu hướng chủ đạo trong phẫu thuật hiện nay thay thế cho các quan điểm cắt cụt chi thể như trước kia. Phương pháp này đòi hỏi phẫu thuật viên phải có kiến thức hoàn chỉnh về tạo hình xương khớp cũng như các kỹ thuật can thiệp trên phần mềm như vạt che phủ, chuyển gân."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch tái khám sau phẫu thuật",
+      "Thực hiện đúng phác đồ hóa trị, xạ trị theo hướng dẫn của bác sĩ",
+      "Chế độ dinh dưỡng đầy đủ để hỗ trợ quá trình phục hồi",
+      "Tập vật lý trị liệu và phục hồi chức năng chi sau phẫu thuật",
+      "Tâm lý ổn định và tinh thần lạc quan giúp quá trình điều trị hiệu quả hơn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +137,88 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám sức khỏe định kỳ để phát hiện sớm các bất thường",
+      "Không chủ quan với các cơn đau xương khớp kéo dài",
+      "Bổ sung đầy đủ canxi và vitamin D để duy trì sức khỏe xương",
+      "Không nên tự ý sử dụng thuốc giảm đau khi có dấu hiệu đau xương kéo dài mà cần đi khám bác sĩ",
+      "Thăm khám ngay khi có dấu hiệu đau mỏi, sưng tấy xương khớp để phòng ngừa nguy cơ ung thư xương"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư xương có chữa được không?",
+      "answer": "Ung thư xương có thể điều trị được, đặc biệt khi phát hiện sớm. Tiên lượng phụ thuộc vào nhiều yếu tố như loại ung thư, giai đoạn bệnh, vị trí khối u, tuổi tác và tình trạng sức khỏe tổng thể của bệnh nhân. Phẫu thuật, hóa trị và xạ trị là những phương pháp điều trị chính, với xu hướng hiện đại là bảo tồn chi thể thay vì cắt cụt như trước đây."
+    },
+    {
+      "question": "Ung thư xương phổ biến ở độ tuổi nào?",
+      "answer": "Ung thư xương có tần suất phát hiện cao ở trẻ em và trẻ vị thành niên, từ 9-19 tuổi, và người trẻ dưới 30 tuổi. Tuy nhiên, khoảng 10% các trường hợp mắc ung thư xương phát triển ở những người trong độ tuổi 60-70."
+    },
+    {
+      "question": "Làm thế nào để phát hiện ung thư xương sớm?",
+      "answer": "Để phát hiện ung thư xương sớm, cần chú ý đến các dấu hiệu như đau mỏi chân tay, xương có cảm giác đau và vận động yếu hơn. Nếu các triệu chứng này kéo dài, nên đi khám để được bác sĩ thăm khám và chỉ định các phương pháp chẩn đoán như sinh thiết, quét xương, xét nghiệm máu và chẩn đoán hình ảnh."
+    },
+    {
+      "question": "Ung thư xương nguyên phát và di căn khác nhau như thế nào?",
+      "answer": "Ung thư xương nguyên phát là loại ung thư xuất phát trực tiếp từ xương hoặc mô xung quanh, là loại ung thư hiếm gặp, chiếm khoảng 1% các loại bệnh ung thư. Ung thư xương di căn (thứ phát) là ung thư lây lan từ phần khác của cơ thể đến xương, phổ biến hơn so với ung thư xương nguyên phát. Các ví dụ phổ biến bao gồm đa u tủy, sarcoma xương, sarcoma sụn, và Ewing's sarcoma."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau mỏi chân tay, xương có cảm giác đau và vận động yếu hơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-xuong", "viem-khop", "loang-xuong"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau xương tăng dần, đau liên tục, đau lan sang cả các vùng lân cận. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-xuong",
+        "viem-khop-dang-thap",
+        "thoat-vi-dia-dem"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau xương, sưng tấy và luôn cảm thấy mệt mỏi, có thể kèm theo sốt nhẹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-xuong",
+        "viem-xuong-tuy",
+        "nhiem-trung-xuong"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau xương, giảm cân không rõ nguyên nhân và xương dễ gãy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-xuong",
+        "loang-xuong",
+        "cang-thang-cuc-bo-xuong"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên đau xương và sờ thấy khối hạch cứng, rắn chắc trong xương dài của các chi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-xuong",
+        "u-xuong-lanh-tinh",
+        "viem-mang-xuong"
+      ]
+    },
+    {
+      "question": "Tôi bị đau xương, sưng tấy và đã từng được điều trị hoặc xạ trị trong quá khứ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-xuong",
+        "hoai-tu-xuong",
+        "ung-thu-xuong-tai-phat"
+      ]
+    },
+    {
+      "question": "Tôi có tiền sử gia đình bị ung thư, đặc biệt là ung thư liên quan đến xương hoặc sụn, và hiện tại đang bị đau xương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-xuong", "u-sun-xuong", "u-te-bao-khong-lo"]
+    },
+    {
+      "question": "Tôi đang ở độ tuổi vị thành niên và bị đau nhức ở xương tay, xương chân hoặc xương chậu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-xuong",
+        "viem-khop-thieu-nien",
+        "dau-do-tang-truong"
+      ]
     }
   ]
 }

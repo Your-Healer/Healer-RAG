@@ -1,58 +1,209 @@
 {
   "disease_id": "viem-tinh-hoan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tinh hoàn",
+  "disease_alternative_names": [
+    "Viêm tinh hoàn cấp tính",
+    "Viêm tinh hoàn mạn tính",
+    "Orchitis"
+  ],
+  "disease_definition": "Viêm tinh hoàn là tình trạng tinh hoàn ở người bị viêm một hoặc hai bên. Phổ biến nhất là viêm tinh hoàn một bên do nhiễm trùng tiết niệu. Bệnh có thể truyền nhiễm từ người sang người bằng đường máu. Tinh hoàn là cơ quan nằm trong tuyến sinh dục nam, đóng vai trò chính là sản xuất tinh trùng và tiết testosterone, hormone sinh dục nam.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau da bìu",
+      "description": "Cảm giác đau ở bìu tinh hoàn, thường bắt đầu với một bên rồi lan sang bên còn lại"
+    },
+    {
+      "name": "Đau tinh hoàn",
+      "description": "Đau một hoặc cả hai bên tinh hoàn, có thể kèm theo đau vùng háng"
+    },
+    {
+      "name": "Sưng tinh hoàn",
+      "description": "Tinh hoàn sưng to một hoặc hai bên"
+    },
+    {
+      "name": "Sưng bìu",
+      "description": "Phần da bìu bọc quanh tinh hoàn bị sưng"
+    },
+    {
+      "name": "Tiểu buốt",
+      "description": "Cảm giác đau rát khi đi tiểu"
+    },
+    {
+      "name": "Đau khi xuất tinh",
+      "description": "Cảm giác đau khi xuất tinh"
+    },
+    {
+      "name": "Tinh dịch lẫn máu",
+      "description": "Tinh dịch có màu đỏ hoặc hồng do lẫn máu"
+    },
+    {
+      "name": "Sưng hạch bạch huyết",
+      "description": "Sưng hạch bạch huyết ở vùng háng bẹn"
+    },
+    {
+      "name": "Các triệu chứng toàn thân",
+      "description": "Buồn nôn, nôn, mệt mỏi, sốt, ớn lạnh, đau cơ"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm tinh hoàn chủ yếu do vi khuẩn gây ra, trong đó vi khuẩn mumps (thuộc họ Paramyxoviridae) gây ra bệnh quai bị là nguyên nhân phổ biến nhất. Ngoài ra, bệnh cũng có thể do nhiễm trùng đường tiết niệu hoặc do các bệnh lây truyền qua đường tình dục.",
+    "related_factors": "Viêm tinh hoàn có thể là hệ quả của các bệnh như quai bị, thủy đậu, bệnh hạt vùi cự bào, nhiễm trùng virus Cytomegalovirus, bệnh tay chân miệng, hoặc các bệnh lây truyền qua đường tình dục như lậu, giang mai, viêm mào tinh hoàn.",
+    "transmission_routes": [
+      "Truyền nhiễm từ người sang người bằng đường máu",
+      "Lây truyền qua đường tình dục"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ trai từ 10 – 19 tuổi",
+    "Nam giới có các hoạt động tình dục",
+    "Nam giới trên 45 tuổi",
+    "Người đang bị bệnh quai bị",
+    "Người không tiêm phòng vaccine quai bị",
+    "Quan hệ tình dục không sử dụng biện pháp an toàn",
+    "Có bệnh sử bị các bệnh lây truyền qua đường tình dục",
+    "Người từng hoặc đang đặt ống thông tiểu",
+    "Người mắc các bệnh bẩm sinh về hệ tiết niệu"
+  ],
+  "complications": [
+    "Áp xe ở bìu",
+    "Tích tụ chất dịch ở trong bìu",
+    "Teo tinh hoàn",
+    "Viêm tinh hoàn mạn tính",
+    "Nhiễm trùng huyết",
+    "Giảm khả năng sinh sản (nếu bệnh kéo dài hoặc tái phát nhiều lần)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thu thập các dấu hiệu lâm sàng",
+      "Khai thác bệnh sử và các yếu tố nguy cơ",
+      "Kiểm tra tình trạng tinh hoàn",
+      "Đánh giá hạch bạch huyết và dịch tiết"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm dịch tiết",
+        "description": "Lấy mẫu dịch để làm xét nghiệm bệnh lây truyền qua đường tình dục STDs"
+      },
+      {
+        "name": "Chẩn đoán tình trạng trực tràng",
+        "description": "Kiểm tra tình trạng trực tràng và nguy cơ phì đại tuyến tiền liệt"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Xét nghiệm máu để chẩn đoán các bệnh STDs và bệnh truyền nhiễm khác"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Phân tích nước tiểu để tìm dấu hiệu nhiễm trùng đường tiết niệu"
+      },
+      {
+        "name": "Siêu âm tinh hoàn",
+        "description": "Siêu âm giúp quan sát cấu trúc tiết niệu của người bệnh gồm tinh hoàn, các mô xung quanh và trong bìu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm tinh hoàn được điều trị bằng cách ức chế sự phát triển của vi khuẩn gây bệnh và làm thuyên giảm các triệu chứng. Đa số là điều trị nội khoa bằng thuốc đường uống.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh",
+        "description": "Sử dụng thuốc kháng sinh nếu có dấu hiệu nhiễm trùng, bệnh lậu hoặc giang mai"
+      },
+      {
+        "name": "Thuốc chống viêm và giảm đau",
+        "description": "Sử dụng thuốc chống viêm và thuốc giảm đau theo chỉ định liều lượng từ bác sĩ"
+      },
+      {
+        "name": "Nghỉ ngơi và nâng cao tinh hoàn",
+        "description": "Người bệnh cần nghỉ ngơi, nâng cao tinh hoàn để thuyên giảm cơn đau"
+      },
+      {
+        "name": "Chườm lạnh",
+        "description": "Nếu cơn đau xuất hiện nhiều, người bệnh có thể chườm lạnh ở vị trí tinh hoàn"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ đúng liều lượng thuốc theo chỉ định của bác sĩ",
+      "Hạn chế các hoạt động có thể ảnh hưởng đến tinh hoàn",
+      "Uống nhiều nước để thúc đẩy việc bài tiết"
+    ],
+    "prevention_of_transmission": [
+      "Sử dụng biện pháp tình dục an toàn (bao cao su)",
+      "Tránh quan hệ tình dục trong thời gian điều trị",
+      "Đảm bảo vệ sinh cá nhân tốt"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng bệnh quai bị là biện pháp hiệu quả để phòng ngừa viêm tinh hoàn do quai bị, một trong những nguyên nhân phổ biến của bệnh",
+      "recommended_for": [
+        "Trẻ em theo lịch tiêm chủng quốc gia",
+        "Người chưa từng tiêm phòng quai bị"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện tất cả các biện pháp tình dục an toàn để tránh nguy cơ mắc bệnh STDs",
+      "Giữ gìn vệ sinh môi trường sống và xây dựng thói quen sống sạch sẽ, hợp vệ sinh",
+      "Các trẻ trai đến tuổi cần cắt bao quy đầu đúng lúc",
+      "Giảm số lượng bạn tình",
+      "Điều trị viêm tinh hoàn sớm trong giai đoạn cấp tính",
+      "Hạn chế tái bệnh để tránh nguy cơ bị viêm tinh hoàn mạn tính"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh viêm tinh hoàn có nguy hiểm không?",
+      "answer": "Bệnh viêm tinh hoàn rất hiếm khi ảnh hưởng đến khả năng sinh sản ở người bệnh nếu được điều trị sớm và đúng cách. Tuy nhiên, viêm tinh hoàn nếu kéo dài hoặc tái phát nhiều lần sẽ gây ra tình trạng lan rộng phạm vi viêm nhiễm, dẫn đến các biến chứng như áp xe ở bìu, tích tụ chất dịch trong bìu, teo tinh hoàn, viêm tinh hoàn mạn tính và nhiễm trùng huyết."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ khi bị viêm tinh hoàn?",
+      "answer": "Người bệnh viêm tinh hoàn cần đến gặp bác sĩ ngay khi phát hiện hoặc có triệu chứng nghi ngờ bệnh. Khả năng điều trị dứt điểm viêm tinh hoàn sẽ càng cao nếu bệnh được điều trị trong giai đoạn sớm. Đặc biệt, với người bị viêm tinh hoàn có các triệu chứng như cơn đau tinh hoàn cường độ cao, tiểu buốt, cần đến gặp bác sĩ tiết niệu để được điều trị kịp thời."
+    },
+    {
+      "question": "Viêm tinh hoàn có gây vô sinh không?",
+      "answer": "Viêm tinh hoàn rất hiếm khi ảnh hưởng đến khả năng sinh sản ở người bệnh. Tuy nhiên, nếu viêm tinh hoàn kéo dài hoặc tái phát nhiều lần, có thể dẫn đến teo tinh hoàn và ảnh hưởng đến khả năng sản xuất tinh trùng. Vì vậy, điều trị sớm và đúng cách là rất quan trọng để bảo vệ khả năng sinh sản."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau tinh hoàn, sưng bìu và tiểu buốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tinh hoàn, sốt và ớn lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Nhiễm trùng đường tiết niệu",
+        "Viêm mào tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tinh hoàn sau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Viêm mào tinh hoàn",
+        "Bệnh lây truyền qua đường tình dục"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau tinh hoàn sau khi bị quai bị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn do quai bị",
+        "Biến chứng của quai bị",
+        "Viêm tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi đang bị đau tinh hoàn, sưng bìu và tiểu buốt sau khi đặt ống thông tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tinh hoàn",
+        "Nhiễm trùng đường tiết niệu",
+        "Viêm niệu đạo"
+      ]
     }
   ]
 }

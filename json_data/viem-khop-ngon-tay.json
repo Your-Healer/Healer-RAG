@@ -1,39 +1,115 @@
 {
   "disease_id": "viem-khop-ngon-tay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm khớp ngón tay",
+  "disease_alternative_names": [
+    "Viêm xương khớp ngón tay",
+    "Viêm khớp dạng thấp ở ngón tay",
+    "Gout ở ngón tay"
+  ],
+  "disease_definition": "Viêm khớp ngón tay là tình trạng có thể xảy ra tại bất kỳ ngón tay nào như khớp ngón tay cái, khớp ngón tay út… Bệnh lý này là tình trạng sụn nằm tại đầu những xương hình thành khớp ngón tay bị mòn hay thoái hóa, diễn ra từ từ trong nhiều năm. Khi bị viêm dẫn tới thoái hóa khớp bàn tay và ngón tay, những sụn bao phủ đầu xương bị giảm chất lượng. Bề mặt sụn trở nên sần sùi. Các xương khi đó cọ xát với nhau có thể dẫn tới tổn thương khớp.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau khớp ngón tay",
+      "description": "Triệu chứng đầu tiên và thường gặp nhất. Các cơn đau có thể xuất hiện ở gốc ngón tay khi cầm nắm, chụp một vật nào đó hay sử dụng lực các ngón tay. Ban đầu chỉ đau khi vận động, sau đó có thể xuất hiện ngay cả khi nghỉ ngơi."
+    },
+    {
+      "name": "Biến dạng ngón tay",
+      "description": "Khi bệnh tiến triển nặng hơn, ngón tay có xu hướng biến dạng. Những khớp ngón tay bắt đầu hướng về một phía (về bên ngón út), gây đau và yếu tay, khó khăn trong sinh hoạt hàng ngày."
+    },
+    {
+      "name": "Biến dạng khớp liên đốt",
+      "description": "Khớp liên đốt ngón tay bị gập hay duỗi quá mức, tạo thành biến dạng cổ thiên nga (khớp liên đốt gần duỗi quá mức, khớp liên đốt xa gập lại) hoặc biến dạng boutonniere (khớp liên đốt gần gập, khớp liên đốt xa duỗi)."
+    },
+    {
+      "name": "Sưng khớp liên đốt",
+      "description": "Khớp liên đốt gần bị to mặt sau, sưng và đau, tạo thành nốt Bouchard. Khớp liên đốt xa sưng to tạo thành nốt Heberden."
+    },
+    {
+      "name": "Cứng khớp buổi sáng",
+      "description": "Cảm giác cứng khớp xuất hiện vào buổi sáng hoặc sau thời gian nghỉ ngơi, khiến việc vận động ngón tay trở nên khó khăn."
+    },
+    {
+      "name": "Giảm sức mạnh khi cầm nắm",
+      "description": "Người bệnh cảm thấy yếu tay, khó cầm nắm chắc chắn các vật dụng, ảnh hưởng đến sinh hoạt hàng ngày."
+    },
+    {
+      "name": "Hạn chế tầm vận động",
+      "description": "Khả năng gập, duỗi, xoay ngón tay bị giảm sút, hạn chế khả năng thực hiện các động tác tinh của bàn tay."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm khớp ngón tay thường xảy ra do lão hóa, chấn thương, hoặc các bệnh lý tự miễn tấn công vào sụn khớp.",
+    "related_factors": "Khi bị viêm, sụn bao phủ đầu xương bị giảm chất lượng, bề mặt sụn trở nên sần sùi, và các xương cọ xát với nhau dẫn tới tổn thương khớp và hình thành gai xương.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nữ giới",
+    "Trên 40 tuổi",
+    "Thừa cân, béo phì",
+    "Yếu tố di truyền: Dây chằng khớp lỏng, khớp bị biến dạng",
+    "Công việc tạo áp lực lên ngón tay, hoạt động lặp đi lặp lại",
+    "Chấn thương trước đó như bong gân nặng, gãy xương hay chấn thương khớp ngón tay",
+    "Mắc các bệnh làm thay đổi cấu trúc, chức năng bình thường của sụn khớp"
+  ],
+  "complications": [
+    "Mất chức năng vận động tạm thời",
+    "Khớp co cứng",
+    "Teo cơ biến dạng khớp",
+    "Bại liệt"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Chụp X-quang"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ sẽ hỏi người bệnh về bệnh sử, những triệu chứng và trực tiếp xem xét những dấu hiệu sưng trên những khớp ngón tay. Bác sĩ giữ khớp cố định trong khi di chuyển ngón tay, nếu có âm thanh hoặc đau khi cử động, có thể là dấu hiệu sụn đã bị mòn."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Giúp bác sĩ nhận diện những dấu hiệu viêm khớp ngón tay gồm: gai xương, mòn sụn, mất không gian chung. Qua kết quả X-quang, bác sĩ xác định sự thay đổi của khớp, mức độ thoái hóa khớp và ước lượng lượng sụn khớp còn lại."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm khớp ngón tay tùy thuộc vào mức độ bệnh, có thể bao gồm các phương pháp không can thiệp phẫu thuật hoặc phương pháp phẫu thuật khi tình trạng viêm khớp nặng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc uống",
+        "description": "Khi khớp ngón tay chỉ đau khi làm việc nhiều hay việc nặng, bác sĩ sẽ chỉ định thuốc giảm đau, kháng viêm. Người bệnh cũng cần hạn chế hoạt động nặng hay ngưng làm công việc yêu cầu cử động lặp đi lặp lại của bàn tay và ngón."
+      },
+      {
+        "name": "Dùng thuốc tiêm",
+        "description": "Huyết tương giàu tiểu cầu giúp kích thích tái sinh mô bị hư hại, kháng viêm, chấm dứt nhanh chóng các cơn đau, cải thiện khả năng vận động cho cơ và khớp."
+      },
+      {
+        "name": "Tiêm Cortisone",
+        "description": "Bác sĩ có thể chỉ định tiêm Cortisone (thuốc kháng viêm mạnh) vào khớp ngón tay nhằm giảm đau tạm thời. Tác dụng của thuốc chỉ kéo dài vài tuần tới vài tháng và có thể kèm theo nguy cơ nhiễm trùng khớp."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Các bài tập vật lý trị liệu giúp kiểm soát triệu chứng, duy trì tình trạng ổn định. Chuyên viên sẽ hướng dẫn cách làm dịu cơn đau, thực hiện bài tập biên độ chuyển động, căng cơ và tăng sức mạnh cho bàn tay."
+      },
+      {
+        "name": "Băng thun hoặc nẹp ngón tay",
+        "description": "Giúp giảm đau, định vị đúng khớp, ngăn ngừa biến dạng khớp, giúp khớp nghỉ ngơi. Có thể đeo nẹp vào ban đêm hay cả ngày nếu không cảm thấy trở ngại trong sinh hoạt."
+      },
+      {
+        "name": "Hàn xương",
+        "description": "Phương pháp chữa trị giúp loại bỏ các cơn đau bằng cách cho phép các xương tạo thành khớp phát triển về phía nhau tạo thành một khối xương đặc. Thường dùng cho khớp liên đốt gần và liên đốt xa, giúp hết đau nhưng khớp sẽ mất vận động."
+      },
+      {
+        "name": "Thay khớp nhân tạo",
+        "description": "Sử dụng khớp nhân tạo bằng nhựa hay kim loại thay thế cho khớp bị viêm. Khớp mới sẽ tạo thành một bản lề cho phép chuyển động tự do và giảm đau."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi đủ để giảm áp lực lên khớp ngón tay bị viêm",
+      "Sử dụng thuốc giảm đau, kháng viêm theo chỉ định của bác sĩ",
+      "Thực hiện các bài tập vật lý trị liệu để cải thiện phạm vi chuyển động và tăng cường sức mạnh",
+      "Đeo nẹp hoặc băng thun để định vị đúng khớp và ngăn ngừa biến dạng",
+      "Tránh các hoạt động gây áp lực lên ngón tay",
+      "Xoa bóp nhẹ nhàng hay dùng gel kháng viêm khi bị cứng khớp"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +117,109 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập luyện đều đặn để tăng cường sức đề kháng, giảm bớt tình trạng đau cứng khớp, hỗ trợ máu lưu thông tại khớp tốt hơn",
+      "Không để tay làm việc quá nhiều, dành thời gian nghỉ ngơi khi làm việc bằng bàn tay quá nhiều",
+      "Giữ ấm cơ thể, đặc biệt là khi trời trở lạnh để giảm đau cứng khớp",
+      "Xoa bóp nhẹ nhàng hoặc dùng gel kháng viêm khi bị cứng khớp ngón tay",
+      "Xây dựng chế độ ăn uống lành mạnh, bổ sung thực phẩm giàu canxi, sắt, kẽm, selen, vitamin và khoáng chất",
+      "Tránh thực phẩm chế biến nhiều dầu mỡ, cay nóng và các chất kích thích"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm khớp ngón tay có nguy hiểm không?",
+      "answer": "Viêm khớp ngón tay có thể dẫn đến các biến chứng nguy hiểm nếu không được điều trị kịp thời, bao gồm mất chức năng vận động tạm thời, khớp co cứng, teo cơ biến dạng khớp, và trong trường hợp nặng có thể dẫn đến bại liệt. Vì vậy, nếu nhận thấy các dấu hiệu viêm khớp ngón tay, nên đi khám bác sĩ sớm để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Viêm khớp ngón tay có chữa được không?",
+      "answer": "Viêm khớp ngón tay có thể điều trị hiệu quả nếu được phát hiện sớm. Phương pháp điều trị phụ thuộc vào mức độ bệnh và nguyên nhân gây bệnh, bao gồm dùng thuốc uống, tiêm thuốc, vật lý trị liệu, sử dụng nẹp, hoặc phẫu thuật trong trường hợp nặng. Việc điều trị sớm và đúng cách sẽ giúp ngăn ngừa biến chứng và cải thiện chất lượng cuộc sống của người bệnh."
+    },
+    {
+      "question": "Làm thế nào để giảm đau khi bị viêm khớp ngón tay?",
+      "answer": "Để giảm đau khi bị viêm khớp ngón tay, người bệnh có thể thực hiện một số biện pháp như: nghỉ ngơi đủ, tránh các hoạt động gây áp lực lên ngón tay; sử dụng thuốc giảm đau, kháng viêm theo chỉ định của bác sĩ; xoa bóp nhẹ nhàng hoặc dùng gel kháng viêm; sử dụng nẹp hoặc băng thun để định vị đúng khớp; thực hiện các bài tập vật lý trị liệu phù hợp; và giữ ấm bàn tay, đặc biệt là khi trời lạnh."
+    },
+    {
+      "question": "Nên ăn gì khi bị viêm khớp ngón tay?",
+      "answer": "Khi bị viêm khớp ngón tay, nên xây dựng chế độ ăn uống lành mạnh, bổ sung các thực phẩm giàu canxi, sắt, kẽm, selen, vitamin và khoáng chất. Các thực phẩm có tính chống viêm như cá béo (cá hồi, cá ngừ), dầu oliu, các loại hạt, trái cây và rau xanh đều có lợi. Nên tránh các thực phẩm chế biến nhiều dầu mỡ, cay nóng và các chất kích thích vì chúng có thể làm tăng tình trạng viêm và ảnh hưởng đến sức đề kháng của cơ thể."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau khớp ngón tay, sưng khớp và cứng khớp buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-ngon-tay",
+        "viem-khop-dang-thap",
+        "thoai-hoa-khop"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức ở gốc ngón tay khi cầm nắm đồ vật và ngón tay có xu hướng biến dạng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-ngon-tay",
+        "thoai-hoa-khop-ban-tay",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng khớp liên đốt ngón tay, đau nhức và khó khăn khi cử động ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop-ngon-tay", "viem-khop-dang-thap", "gut"]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng khớp liên đốt ngón tay bị gập, duỗi quá mức và đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-ngon-tay",
+        "viem-khop-dang-thap",
+        "bien-dang-khop-ngon-tay"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức khớp ngón tay, sưng khớp và có nốt sần ở khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-ngon-tay",
+        "gut",
+        "thoai-hoa-khop-ban-tay"
+      ]
+    },
+    {
+      "question": "Tôi hay bị giảm sức mạnh khi cầm nắm, tầm vận động ngón tay hạn chế và đau khớp ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-ngon-tay",
+        "viem-gan-ban-tay",
+        "hoi-chung-ong-co-tay"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau nhức khớp ngón tay, sưng khớp và có tiền sử gia đình mắc bệnh viêm khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-ngon-tay",
+        "viem-khop-dang-thap",
+        "thoai-hoa-khop"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức khớp ngón tay, sưng khớp và trên 40 tuổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-ngon-tay",
+        "thoai-hoa-khop-ban-tay",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức khớp ngón tay, sưng khớp và thường xuyên làm việc nặng bằng tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-ngon-tay",
+        "viem-gan-ban-tay",
+        "hoi-chung-de-quattervain"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau nhức khớp ngón tay, sưng khớp và có tiền sử chấn thương khớp ngón tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-ngon-tay",
+        "thoai-hoa-khop-sau-chan-thuong",
+        "viem-gan-ban-tay"
+      ]
     }
   ]
 }

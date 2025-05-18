@@ -1,58 +1,222 @@
 {
   "disease_id": "viem-am-dao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm âm đạo",
+  "disease_alternative_names": [
+    "Viêm nhiễm vùng kín",
+    "Viêm âm đạo do nấm",
+    "Viêm âm đạo do vi khuẩn",
+    "Viêm âm đạo do Trichomonas"
+  ],
+  "disease_definition": "Viêm âm đạo là tình trạng âm đạo bị viêm nhiễm, tiết ra dịch có mùi khó chịu, gây nên tình trạng ngứa và đau. Đây là bệnh phụ khoa thường gặp ở phụ nữ độ tuổi 15-44, có thể do nhiều nguyên nhân khác nhau gây ra như nấm men, vi khuẩn, trùng roi, virus, hoặc các tác nhân gây kích ứng không lây nhiễm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thay đổi dịch tiết âm đạo",
+      "description": "Dịch tiết âm đạo có màu vàng hoặc trắng đục, có mùi hôi, tiết ra nhiều hơn bình thường. Màu sắc và đặc điểm dịch tiết thay đổi tùy theo nguyên nhân gây bệnh."
+    },
+    {
+      "name": "Ngứa hoặc kích ứng âm đạo",
+      "description": "Cảm giác ngứa ngáy, khó chịu ở vùng âm đạo và âm hộ, đặc biệt là khi bị viêm do nấm men."
+    },
+    {
+      "name": "Đau khi giao hợp",
+      "description": "Quan hệ tình dục trở nên đau đớn, khó chịu do tình trạng viêm nhiễm và kích ứng của niêm mạc âm đạo."
+    },
+    {
+      "name": "Rát, buốt khi đi tiểu",
+      "description": "Cảm giác nóng rát, buốt khi đi tiểu do nước tiểu chạm vào vùng viêm nhiễm bị kích ứng."
+    },
+    {
+      "name": "Chảy máu âm đạo nhẹ",
+      "description": "Xuất hiện máu trong dịch tiết âm đạo, không liên quan đến kỳ kinh nguyệt."
+    },
+    {
+      "name": "Đỏ, sưng âm đạo và âm hộ",
+      "description": "Vùng âm đạo và âm hộ trở nên đỏ, đôi khi sưng tấy, đặc biệt khi bị viêm do nấm men."
+    },
+    {
+      "name": "Khô rát vùng da âm hộ",
+      "description": "Vùng da âm hộ trở nên khô, dễ bị tổn thương và cảm giác rát, đặc biệt khi bị viêm teo âm đạo."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm âm đạo có thể do nhiều nguyên nhân như nấm men (Candida), vi khuẩn, trùng roi Trichomonas, virus, hoặc kích ứng không lây nhiễm.",
+    "related_factors": "Mất cân bằng hệ vi sinh vật trong âm đạo là nguyên nhân chính dẫn đến viêm nhiễm. Khi các vi khuẩn 'có lợi' giảm, các tác nhân gây bệnh có cơ hội phát triển mạnh và gây viêm nhiễm.",
+    "transmission_routes": [
+      "Quan hệ tình dục không an toàn (đối với viêm do Trichomonas, Chlamydia, và virus)",
+      "Tiếp xúc với các chất kích ứng, sản phẩm vệ sinh không phù hợp"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thay đổi nội tiết tố (mang thai, dùng thuốc tránh thai, mãn kinh)",
+    "Sinh hoạt tình dục thường xuyên, đặc biệt với nhiều bạn tình",
+    "Quan hệ tình dục không sử dụng bao cao su",
+    "Sử dụng thuốc kháng sinh và steroid",
+    "Dùng chất diệt tinh trùng để tránh thai",
+    "Bệnh đái tháo đường",
+    "Sử dụng các sản phẩm vệ sinh vùng kín không phù hợp",
+    "Thụt rửa âm đạo thường xuyên",
+    "Mặc quần lót ẩm ướt hoặc bó sát",
+    "Sử dụng dụng cụ tử cung (IUD) để ngừa thai",
+    "Hút thuốc lá"
+  ],
+  "complications": [
+    "Lây lan viêm nhiễm đến các cơ quan vùng chậu, gây viêm vùng chậu (PID)",
+    "Tăng nguy cơ mắc các bệnh lây truyền qua đường tình dục (STD)",
+    "Tăng nguy cơ sinh non nếu bị viêm do vi khuẩn khi mang thai",
+    "Ảnh hưởng đến khả năng thụ thai",
+    "Tác động tiêu cực đến đời sống tình dục và tâm lý"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xem lại bệnh sử và triệu chứng",
+      "Khám phụ khoa sử dụng mỏ vịt",
+      "Thu thập mẫu dịch tiết âm đạo để xét nghiệm",
+      "Kiểm tra độ pH âm đạo"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám âm đạo",
+        "description": "Bác sĩ sử dụng mỏ vịt để kiểm tra bên trong âm đạo, đánh giá tình trạng viêm và dịch tiết bất thường."
+      },
+      {
+        "name": "Xét nghiệm dịch tiết âm đạo",
+        "description": "Phân tích mẫu dịch tiết âm đạo dưới kính hiển vi để xác định loại vi sinh vật gây bệnh (nấm, vi khuẩn hoặc trùng roi)."
+      },
+      {
+        "name": "Kiểm tra độ pH",
+        "description": "Sử dụng que thử hoặc giấy đo độ pH. Độ pH tăng cao có thể cho thấy viêm do vi khuẩn hoặc trùng roi, trong khi độ pH bình thường thường gặp trong viêm do nấm."
+      },
+      {
+        "name": "Xét nghiệm tìm tác nhân gây bệnh",
+        "description": "Xét nghiệm chuyên biệt để tìm virus HPV, herpes, chlamydia trong trường hợp nghi ngờ viêm do các tác nhân này."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm âm đạo phụ thuộc vào nguyên nhân gây bệnh. Việc xác định đúng tác nhân gây bệnh là rất quan trọng để có phương pháp điều trị hiệu quả.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị viêm do vi khuẩn",
+        "description": "Sử dụng thuốc viên metronidazole đường uống, gel metronidazole hoặc kem bôi clindamycin theo chỉ định của bác sĩ."
+      },
+      {
+        "name": "Điều trị viêm do nấm men",
+        "description": "Sử dụng thuốc bôi hoặc kem chống nấm như miconazole, clotrimazole, butoconazole hoặc tioconazole. Trong một số trường hợp, bác sĩ có thể kê đơn thuốc kháng nấm đường uống như fluconazole."
+      },
+      {
+        "name": "Điều trị viêm do trichomonas",
+        "description": "Dùng thuốc metronidazole hoặc tinidazole theo chỉ định của bác sĩ. Trong trường hợp này, cả người bệnh và bạn tình cần được điều trị đồng thời."
+      },
+      {
+        "name": "Điều trị viêm teo âm đạo",
+        "description": "Sử dụng estrogen dạng kem, viên hoặc vòng đặt âm đạo để cải thiện tình trạng khô và teo âm đạo."
+      },
+      {
+        "name": "Điều trị viêm không do nhiễm trùng",
+        "description": "Tránh xa tác nhân gây kích ứng như dung dịch vệ sinh, bột giặt, nước xả vải, băng vệ sinh, tampon không phù hợp."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ đúng liều lượng và thời gian điều trị theo chỉ định của bác sĩ",
+      "Tạm ngưng quan hệ tình dục trong thời gian điều trị viêm âm đạo do các tác nhân lây qua đường tình dục",
+      "Sử dụng đồ lót cotton, thoáng mát",
+      "Tránh xa các tác nhân gây kích ứng đã được xác định",
+      "Uống đủ nước và duy trì chế độ ăn uống cân bằng",
+      "Quay lại tái khám nếu các triệu chứng không cải thiện sau khi hoàn thành đợt điều trị"
+    ],
+    "prevention_of_transmission": [
+      "Kiêng quan hệ tình dục trong thời gian điều trị viêm do Trichomonas hoặc Chlamydia",
+      "Sử dụng bao cao su khi quan hệ tình dục",
+      "Điều trị đồng thời cho bạn tình trong trường hợp viêm nhiễm lây qua đường tình dục"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc-xin HPV có thể giúp phòng ngừa viêm âm đạo do virus HPV.",
+      "recommended_for": ["Phụ nữ và nam giới từ 9-26 tuổi"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh tắm bồn, nhất là bồn nước nóng và bồn tạo sóng, nên tắm bằng vòi hoa sen",
+      "Xả sạch xà phòng/sữa tắm khỏi vùng kín sau khi tắm, không dùng xà phòng có tính tẩy rửa mạnh",
+      "Luôn giữ vùng kín khô ráo để tránh kích ứng",
+      "Lau từ trước ra sau sau khi đi vệ sinh để tránh vi khuẩn từ hậu môn vào âm đạo",
+      "Không thụt rửa âm đạo",
+      "Sử dụng bao cao su khi quan hệ tình dục",
+      "Mặc đồ lót bằng vải cotton thoáng mát, thay quần lót thường xuyên",
+      "Tránh dùng quá nhiều sản phẩm vệ sinh vùng kín",
+      "Khám phụ khoa định kỳ 6 tháng/lần"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm âm đạo có nguy hiểm không?",
+      "answer": "Hầu hết các trường hợp viêm âm đạo không gây ra vấn đề nghiêm trọng cho sức khỏe khi được điều trị đúng cách. Tuy nhiên, nếu không chữa trị dứt điểm, nhiễm trùng âm đạo có thể lây lan sang các cơ quan vùng chậu khác, gây viêm vùng chậu (PID). Viêm âm đạo kéo dài cũng làm tăng nguy cơ mắc các bệnh lây truyền qua đường tình dục. Đối với phụ nữ mang thai, viêm âm đạo do vi khuẩn có thể làm tăng nguy cơ sinh non."
+    },
+    {
+      "question": "Tình trạng viêm nhiễm kéo dài thì có khả năng mang thai không?",
+      "answer": "Viêm vùng kín kéo dài, khí hư ra nhiều có thể làm tắc nghẽn ống dẫn trứng, cản trở trứng gặp tinh trùng. Thêm vào đó, môi trường âm đạo bị mất cân bằng sẽ khiến tinh trùng không thể sống ở đây. Do vậy, khả năng mang thai sẽ bị suy giảm nghiêm trọng ở những phụ nữ bị viêm nhiễm phụ khoa kéo dài."
+    },
+    {
+      "question": "Chưa quan hệ tình dục có nguy cơ khiến âm đạo bị viêm không?",
+      "answer": "Viêm âm đạo không chỉ tìm đến những phụ nữ đã quan hệ tình dục. Ngay cả trẻ em nữ ở độ tuổi dậy thì, chưa từng sinh hoạt tình dục cũng có nguy cơ bị viêm âm đạo do thói quen vệ sinh vùng kín không đúng cách, mặc đồ lót quá chật, sử dụng băng vệ sinh kém chất lượng, tự ý dùng các loại thuốc đặt âm đạo mà không hỏi ý kiến bác sĩ."
+    },
+    {
+      "question": "Quan hệ tình dục khi bị viêm âm đạo có hại không?",
+      "answer": "Nếu viêm âm đạo của bạn là do các tác nhân lây truyền qua đường tình dục gây ra, cần tuyệt đối kiêng giao hợp trong giai đoạn điều trị bệnh. Quan hệ tình dục trong lúc này không chỉ khiến bạn khó chịu mà còn làm trầm trọng thêm các triệu chứng và có thể lây bệnh cho bạn tình. Đối với viêm không lây qua đường tình dục như nhiễm nấm men hay viêm do vi khuẩn, việc giao hợp có thể không làm triệu chứng xấu đi nhưng vẫn nên tránh để điều trị hiệu quả hơn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như âm đạo bị viêm nhiễm, tiết ra dịch có mùi khó chịu, gây nên tình trạng ngứa và đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-am-dao", "viem-am-ho", "viem-co-tu-cung"]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm âm đạo do nấm men (Candida). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao",
+        "viem-am-dao-do-nam",
+        "benh-nam-candida"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm âm đạo do vi khuẩn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao",
+        "viem-am-dao-do-vi-khuan",
+        "mat-can-bang-he-vi-sinh-vat"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm âm đạo do trùng roi Trichomonas. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao",
+        "viem-am-dao-do-trichomonas",
+        "benh-lay-truyen-qua-duong-tinh-duc"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm âm đạo do lậu (Chlamydia). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao",
+        "nhiem-chlamydia",
+        "benh-lay-truyen-qua-duong-tinh-duc"
+      ]
+    },
+    {
+      "question": "Tôi hay bị thay đổi màu sắc, mùi hoặc lượng dịch tiết ra từ âm đạo: dịch màu vàng hoặc trắng đục, có mùi hôi, ra rất nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-am-dao",
+        "viem-am-dao-do-vi-khuan",
+        "viem-am-dao-do-trichomonas"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ngứa hoặc kích ứng âm đạo, đau khi giao hợp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-am-dao", "viem-am-dao-do-nam", "viem-am-ho"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm âm đạo do nấm men với âm đạo tiết dịch đặc, màu trắng ngà và không có mùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-am-dao", "viem-am-dao-do-nam", "nam-candida"]
     }
   ]
 }

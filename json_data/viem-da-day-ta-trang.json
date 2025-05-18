@@ -1,58 +1,234 @@
 {
   "disease_id": "viem-da-day-ta-trang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm dạ dày tá tràng",
+  "disease_alternative_names": [
+    "Viêm dạ dày tá tràng cấp",
+    "Viêm dạ dày tá tràng mạn",
+    "Viêm teo niêm mạc dạ dày",
+    "Gastroduodenitis"
+  ],
+  "disease_definition": "Viêm dạ dày tá tràng là tình trạng viêm của niêm mạc dạ dày, đặc trưng là sự thấm nhập của các tế bào viêm như bạch cầu đa nhân, bạch cầu lympho, tương bào. Đây là tổn thương thường gặp ở mọi đối tượng thuộc mọi lứa tuổi. Phần lớn bệnh nhân viêm dạ dày tá tràng không có triệu chứng mà chủ yếu có triệu chứng là do viêm cấp tính.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau vùng thượng vị",
+      "description": "Đau ở vùng thượng vị khi đói hoặc sau khi ăn, gây ra những bất tiện khó chịu trong hoạt động ăn uống."
+    },
+    {
+      "name": "Ăn nhanh no",
+      "description": "Cảm giác no sớm khi ăn, làm giảm khẩu phần ăn và có thể dẫn đến sụt cân."
+    },
+    {
+      "name": "Ậm ạch khó chịu vùng thượng vị",
+      "description": "Cảm giác khó chịu, đầy hơi ở vùng thượng vị sau khi ăn."
+    },
+    {
+      "name": "Nóng rát thượng vị",
+      "description": "Cảm giác nóng rát ở vùng dạ dày, thường xảy ra sau khi ăn hoặc khi đói."
+    },
+    {
+      "name": "Ợ hơi",
+      "description": "Tình trạng đẩy khí từ dạ dày lên miệng, thường kèm theo cảm giác khó chịu."
+    },
+    {
+      "name": "Ợ chua",
+      "description": "Cảm giác chua hoặc đắng ở miệng do axit dạ dày trào ngược lên thực quản."
+    },
+    {
+      "name": "Đầy bụng",
+      "description": "Cảm giác căng tức, đầy hơi ở vùng bụng trên, làm giảm khả năng ăn uống."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm dạ dày tá tràng có nhiều nguyên nhân khác nhau, trong đó nhiễm vi khuẩn Helicobacter Pylori được xem là nguyên nhân hàng đầu gây viêm teo niêm dạ dày mạn tính.",
+    "related_factors": "Các yếu tố khác góp phần gây viêm dạ dày tá tràng bao gồm thói quen ăn uống không khoa học, lối sống không lành mạnh, lạm dụng rượu bia và các chất kích thích.",
+    "transmission_routes": [
+      "Vi khuẩn Helicobacter Pylori có thể xâm nhập vào cơ thể thông qua nước hoặc thực phẩm bị ô nhiễm",
+      "Lây truyền qua đường miệng khi không đảm bảo vệ sinh"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm vi khuẩn Helicobacter Pylori (60%-80% người Việt Nam có nhiễm)",
+    "Ăn nhiều gia vị có tính kích ứng mạnh niêm mạc dạ dày",
+    "Bỏ bữa sáng, ăn không đúng bữa hoặc không có giờ giấc cụ thể",
+    "Lạm dụng rượu bia (tăng sự bài tiết axit trong dạ dày)",
+    "Sử dụng thuốc kháng viêm không steroid, aspirin",
+    "Sống trong môi trường không đảm bảo vệ sinh",
+    "Tiếp xúc với các chất độc hại",
+    "Stress kéo dài",
+    "Xạ trị ung thư và hóa trị toàn thân"
+  ],
+  "complications": [
+    "Chảy máu đường tiêu hóa (xuất huyết dạ dày)",
+    "Ung thư dạ dày (do viêm teo niêm mạc dẫn đến dị sản ruột, loạn sản và ung thư)",
+    "Hẹp môn vị",
+    "Thủng dạ dày",
+    "Loét dạ dày tá tràng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để đánh giá triệu chứng",
+      "Khai thác bệnh sử và tiền sử bệnh",
+      "Xét nghiệm tìm vi khuẩn Helicobacter Pylori",
+      "Nội soi dạ dày tá tràng",
+      "Sinh thiết niêm mạc dạ dày tá tràng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi dạ dày tá tràng",
+        "description": "Phương pháp trực tiếp quan sát niêm mạc dạ dày tá tràng thông qua ống nội soi, giúp phát hiện các tổn thương viêm, xuất huyết hoặc loét."
+      },
+      {
+        "name": "Sinh thiết niêm mạc dạ dày",
+        "description": "Lấy mẫu mô từ niêm mạc dạ dày để xét nghiệm mô học, đánh giá tình trạng viêm, teo niêm mạc, dị sản ruột, loạn sản và phát hiện vi khuẩn H.P."
+      },
+      {
+        "name": "Xét nghiệm hơi thở tìm H. pylori",
+        "description": "Phát hiện sự hiện diện của vi khuẩn H. pylori thông qua phân tích khí thở."
+      },
+      {
+        "name": "Xét nghiệm máu tìm kháng thể kháng H. pylori",
+        "description": "Phát hiện kháng thể kháng H. pylori trong máu, chỉ ra tình trạng nhiễm khuẩn hiện tại hoặc trước đây."
+      },
+      {
+        "name": "Xét nghiệm phân tìm kháng nguyên H. pylori",
+        "description": "Phát hiện kháng nguyên của vi khuẩn H. pylori trong phân."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phần lớn viêm niêm mạc dạ dày không có triệu chứng, chỉ điều trị khi có triệu chứng hoặc điều trị diệt H.P khi có triệu chứng. Tùy vào lý do mắc bệnh viêm dạ dày tá tràng cũng như triệu chứng của từng người mà bác sĩ sẽ chỉ định những phương pháp điều trị khác nhau.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị diệt vi khuẩn H. pylori",
+        "description": "Sử dụng phác đồ kháng sinh kết hợp gồm Amoxicillin, Tetracycline, Clarithromycin cùng với thuốc ức chế bơm proton. Thời gian điều trị thường là hai tuần."
+      },
+      {
+        "name": "Thuốc ức chế bơm proton (PPI)",
+        "description": "Các loại thuốc như esoprazole, rabeprazole, pantoprazole, lansoprazole, omeprazole có khả năng giảm lượng axit bài tiết trong dạ dày, giúp giảm viêm và tạo điều kiện cho niêm mạc dạ dày tự hồi phục."
+      },
+      {
+        "name": "Thuốc kháng acid",
+        "description": "Giúp trung hòa axit dạ dày, tạm thời làm giảm các triệu chứng như nóng rát, đau thượng vị."
+      },
+      {
+        "name": "Thuốc tạo màng bọc bảo vệ niêm mạc",
+        "description": "Tạo một lớp bảo vệ trên bề mặt niêm mạc dạ dày, giúp giảm tác động của axit và pepsin."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Ăn uống điều độ, chia nhỏ bữa ăn",
+      "Nên ăn chậm, nhai kỹ",
+      "Tránh ăn quá no hoặc để bụng đói quá lâu",
+      "Hạn chế ăn các thực phẩm chua, cay, nóng",
+      "Giảm thiểu stress",
+      "Tránh sử dụng rượu bia, thuốc lá",
+      "Không tự ý dùng thuốc giảm đau kháng viêm không steroid khi không có chỉ định",
+      "Định kỳ tái khám theo hướng dẫn của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Rửa tay sạch sẽ trước khi ăn và sau khi đi vệ sinh",
+      "Ăn chín uống sôi",
+      "Sử dụng nguồn nước sạch",
+      "Không dùng chung bát đũa"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vắc-xin phòng ngừa viêm dạ dày tá tràng hoặc nhiễm H. pylori.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ gìn vệ sinh sạch sẽ để hạn chế vi khuẩn xâm nhập vào trong cơ thể thông qua đường miệng",
+      "Chế độ ăn uống khoa học với dinh dưỡng phù hợp cơ thể",
+      "Không lạm dụng các chất kích thích",
+      "Hạn chế với những đồ ăn cay nóng, nhiều dầu mỡ",
+      "Ăn đúng bữa, đúng giờ",
+      "Định kỳ kiểm tra sức khỏe, đặc biệt là những người có nguy cơ cao",
+      "Nội soi định kỳ 1-3 năm/lần đối với người đã có tổn thương viêm teo niêm mạc dạ dày và dị sản ruột"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm dạ dày tá tràng có nguy hiểm không?",
+      "answer": "Viêm dạ dày tá tràng cấp không quá nguy hiểm và có thể điều trị dứt điểm với thuốc giảm tiết axit. Tuy nhiên, viêm dạ dày tá tràng mạn có tiềm ẩn tăng nguy cơ phát sinh ung thư dạ dày. Bởi vì viêm dạ dày tá tràng mạn không thể điều trị dứt điểm, người bệnh cần thực hiện những biện pháp phòng tránh bệnh, định kỳ nội soi dạ dày để phát hiện sớm nguy cơ ung thư."
+    },
+    {
+      "question": "Viêm dạ dày tá tràng có chữa được không?",
+      "answer": "Viêm dạ dày tá tràng cấp tính có thể chữa khỏi hoàn toàn bằng thuốc. Tuy nhiên, viêm dạ dày tá tràng mạn tính thường khó điều trị dứt điểm, cần quản lý lâu dài bằng thuốc, kết hợp với chế độ ăn uống và lối sống lành mạnh."
+    },
+    {
+      "question": "Viêm dạ dày tá tràng nên ăn gì và kiêng gì?",
+      "answer": "Người bị viêm dạ dày tá tràng nên ăn chế độ nhiều rau xanh, trái cây, ngũ cốc nguyên hạt, thực phẩm giàu protein dễ tiêu hóa như thịt gà, cá. Nên kiêng ăn thực phẩm cay nóng, nhiều dầu mỡ, đồ ăn chua, thức ăn chiên rán, đồ uống có cồn, cà phê, nước có ga và các chất kích thích khác."
+    },
+    {
+      "question": "Khi nào cần đi nội soi dạ dày tá tràng?",
+      "answer": "Bạn nên đi nội soi dạ dày tá tràng khi có các triệu chứng như đau thượng vị kéo dài, ợ nóng, ợ chua, đầy bụng kéo dài không đáp ứng với điều trị, sụt cân không rõ nguyên nhân, buồn nôn hoặc nôn kéo dài, đi ngoài phân đen hoặc có máu. Người đã có tổn thương viêm teo niêm mạc dạ dày và dị sản ruột cần đi nội soi định kỳ từ 1-3 năm/lần."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau ở vùng thượng vị khi đói hoặc sau khi ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-ta-trang",
+        "loet-da-day-ta-trang",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ăn nhanh no, ậm ạch khó chịu vùng thượng vị sau ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-ta-trang",
+        "roi-loan-tieu-hoa-chuc-nang",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nóng rát thượng vị, ợ hơi, ợ chua và đầy bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-ta-trang",
+        "trao-nguoc-da-day-thuc-quan",
+        "roi-loan-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vùng thượng vị, gây ra những bất tiện khó chịu trong hoạt động ăn uống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-ta-trang",
+        "loet-da-day-ta-trang",
+        "viem-tuy-cap"
+      ]
+    },
+    {
+      "question": "Tôi bị nhiễm vi khuẩn Helicobacter Pylori và bị đau vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-ta-trang",
+        "loet-da-day-ta-trang",
+        "viem-da-day-man"
+      ]
+    },
+    {
+      "question": "Tôi ăn nhiều gia vị có tính kích ứng mạnh niêm mạc dạ dày và bị đau vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-ta-trang",
+        "viem-da-day-cap",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi bỏ bữa sáng, ăn không đúng bữa hoặc có giờ giấc cụ thể và bị đau vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-ta-trang",
+        "loet-da-day-ta-trang",
+        "viem-da-day-cap"
+      ]
+    },
+    {
+      "question": "Tôi lạm dụng rượu bia và bị đau vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-ta-trang",
+        "viem-da-day-do-ruou",
+        "loet-da-day-ta-trang"
+      ]
     }
   ]
 }

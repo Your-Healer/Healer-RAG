@@ -1,39 +1,145 @@
 {
   "disease_id": "ung-thu-dai-trang-giai-doan-3",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư đại tràng giai đoạn 3",
+  "disease_alternative_names": [
+    "Ung thư ruột kết giai đoạn 3",
+    "Stage 3 Colon Cancer"
+  ],
+  "disease_definition": "Ung thư đại tràng giai đoạn 3 là giai đoạn khối u đại tràng di căn đến các hạch bạch huyết cạnh đó, nhưng bệnh vẫn chưa lây lan đến các cơ quan xa trong cơ thể, chẳng hạn như gan hoặc phổi. Giai đoạn này được chia thành ba mức độ: 3A, 3B và 3C tùy thuộc vào mức độ xâm lấn của khối u và số lượng hạch bạch huyết bị di căn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tắc nghẽn đại tràng",
+      "description": "Khối u phát triển có thể gây tắc nghẽn một phần hoặc hoàn toàn đoạn ruột, làm hẹp đường đi của phân"
+    },
+    {
+      "name": "Thay đổi thói quen đại tiện",
+      "description": "Táo bón hoặc tiêu chảy, thay đổi thói quen đi tiêu do sự thu hẹp và tắc nghẽn của đại tràng"
+    },
+    {
+      "name": "Đau quặn bụng",
+      "description": "Đau bụng quặn thắt từng cơn do tắc nghẽn đại tràng hoặc kích thích từ khối u"
+    },
+    {
+      "name": "Chảy máu đại tràng",
+      "description": "Máu đỏ tươi trong phân hoặc phân có màu nâu sẫm/đen do khối u gây chảy máu"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn ói, đặc biệt khi có tắc nghẽn đường tiêu hóa"
+    },
+    {
+      "name": "Ăn mất ngon",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn"
+    },
+    {
+      "name": "Chướng bụng, đầy hơi",
+      "description": "Cảm giác đầy hơi, chướng bụng do khí không thể di chuyển qua đoạn ruột bị tắc nghẽn"
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Đau bụng liên tục hoặc không liên tục do khối u gây kích thích"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, suy nhược do ung thư và thiếu máu"
+    },
+    {
+      "name": "Sút cân",
+      "description": "Giảm cân không chủ ý do giảm ăn uống và quá trình chuyển hóa bất thường"
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Thiếu máu do chảy máu mạn tính từ khối u, biểu hiện bằng da xanh xao, mệt mỏi, khó thở khi gắng sức"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư đại tràng giai đoạn 3 là kết quả của sự phát triển và lan rộng của khối u nguyên phát từ niêm mạc đại tràng, đã xâm lấn qua thành đại tràng và di căn đến các hạch bạch huyết lân cận.",
+    "related_factors": "Các yếu tố liên quan đến sự phát triển của ung thư đại tràng bao gồm đột biến di truyền trong gene EGFR, KRAS, NRAS, BRAF, MSI, và HER2-Neu. Những đột biến này chỉ được tìm thấy trong các tế bào ung thư và không truyền cho thế hệ con cháu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử cá nhân hoặc gia đình mắc ung thư đại trực tràng",
+    "Tuổi trên 50",
+    "Chế độ ăn nhiều thịt đỏ và thực phẩm chế biến sẵn",
+    "Hút thuốc lá",
+    "Uống rượu bia",
+    "Thừa cân/béo phì",
+    "Thiếu vitamin D trong máu",
+    "Mắc bệnh viêm ruột (IBD) như viêm loét đại tràng hoặc bệnh Crohn",
+    "Đái tháo đường tuyp 2",
+    "Làm việc về đêm",
+    "Tiền sử polyp đại tràng"
+  ],
+  "complications": [
+    "Tắc ruột do khối u chèn ép",
+    "Xuất huyết tiêu hóa",
+    "Thủng đại tràng",
+    "Nhiễm trùng tại chỗ",
+    "Thiếu máu do mất máu mạn tính",
+    "Suy nhược toàn thân",
+    "Tái phát sau điều trị",
+    "Di căn xa đến các cơ quan khác nếu không được điều trị kịp thời",
+    "Tác dụng phụ sau hóa trị như rối loạn tiêu hóa, bệnh thần kinh ngoại vi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá triệu chứng lâm sàng",
+      "Phân loại giai đoạn theo hệ thống TNM của AJCC (The American Joint Committee on Cancer)",
+      "Theo dõi sau điều trị bằng nội soi và xét nghiệm CEA định kỳ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi đại tràng và sinh thiết khối u",
+        "description": "Sử dụng ống mềm có camera để quan sát trực tiếp đại tràng, phát hiện và sinh thiết khối u để xác định bản chất mô học"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Đánh giá tổng thể về khối u, hạch di căn và khả năng di căn xa đến các cơ quan khác trong cơ thể"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Được chỉ định khi nghi ngờ di căn gan, não hoặc cần đánh giá chi tiết về mức độ xâm lấn của khối u"
+      },
+      {
+        "name": "Chụp PET/CT",
+        "description": "Kỹ thuật chụp toàn thân sử dụng thuốc phóng xạ gắn với glucose để phát hiện tế bào ung thư và tổn thương di căn"
+      },
+      {
+        "name": "Xét nghiệm máu cơ bản",
+        "description": "Đánh giá tình trạng thiếu máu, chức năng đông máu, chức năng gan, thận của người bệnh"
+      },
+      {
+        "name": "Xét nghiệm chỉ điểm khối u (CEA)",
+        "description": "Đánh giá nồng độ CEA trong máu, giúp theo dõi đáp ứng điều trị và phát hiện tái phát sau điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị ung thư đại tràng giai đoạn 3 thường bao gồm phẫu thuật kết hợp với hóa trị bổ trợ. Tiên lượng sống sau 5 năm với điều trị đầy đủ dao động từ 53% đến 90% tùy theo phân nhóm 3A, 3B, hoặc 3C.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt bỏ đại tràng",
+        "description": "Cắt bỏ phần đại tràng bị ung thư và các hạch bạch huyết lân cận, là phương pháp điều trị tiêu chuẩn cho ung thư đại tràng giai đoạn 3"
+      },
+      {
+        "name": "Hóa trị bổ trợ",
+        "description": "Hóa trị sau phẫu thuật để tiêu diệt các tế bào ung thư còn sót lại, thường kéo dài 3-6 tháng sau phẫu thuật"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Có thể được cân nhắc kết hợp với hóa trị ở một số trường hợp đặc biệt hoặc cho những người không đủ điều kiện phẫu thuật"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám định kỳ theo lịch hẹn của bác sĩ chuyên khoa mỗi 3-6 tháng một lần",
+      "Nội soi đại tràng khoảng một năm sau phẫu thuật, sau đó 3 năm và 5 năm nếu kết quả bình thường",
+      "Chụp CT định kỳ 6-12 tháng một lần trong vài năm đầu",
+      "Xét nghiệm CEA định kỳ để theo dõi tái phát",
+      "Vận động thể chất đều đặn ở mức độ phù hợp với thể trạng",
+      "Duy trì chế độ ăn lành mạnh giàu rau, trái cây, ngũ cốc nguyên hạt, thịt gà và cá",
+      "Hạn chế ăn đường, chất béo tinh chế, thịt đỏ hoặc thịt đã qua chế biến",
+      "Thông báo cho bác sĩ về các tác dụng phụ sau điều trị như rối loạn tiêu hóa, tê bì ngón tay chân"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +147,76 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát ung thư đại tràng định kỳ từ 45 tuổi",
+      "Nội soi đại tràng 10 năm một lần nếu không có yếu tố nguy cơ",
+      "Xét nghiệm tìm máu ẩn trong phân hàng năm",
+      "Duy trì chế độ ăn uống cân bằng, giàu chất xơ, rau củ quả",
+      "Hạn chế thịt đỏ và thịt đã qua chế biến",
+      "Tăng cường hoạt động thể chất, giữ cân nặng hợp lý",
+      "Hạn chế uống rượu bia",
+      "Không hút thuốc lá",
+      "Kiểm soát tốt các bệnh mạn tính như đái tháo đường, huyết áp cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tỷ lệ sống sau 5 năm của ung thư đại tràng giai đoạn 3 là bao nhiêu?",
+      "answer": "Tỷ lệ sống còn sau 5 năm của người bệnh ung thư đại tràng giai đoạn 3 nếu được điều trị đầy đủ sẽ dao động tùy theo phân nhóm cụ thể: Giai đoạn 3A có tỷ lệ khoảng 90%, giai đoạn 3B khoảng 72%, và giai đoạn 3C khoảng 53%."
+    },
+    {
+      "question": "Ung thư đại tràng giai đoạn 3 có chữa được không?",
+      "answer": "Có, ung thư đại tràng giai đoạn 3 có thể chữa được với tỷ lệ thành công cao nếu được phát hiện và điều trị kịp thời, đúng phác đồ. Phương pháp điều trị tiêu chuẩn là phẫu thuật cắt bỏ phần đại tràng bị ung thư và các hạch bạch huyết lân cận, sau đó kết hợp với hóa trị bổ trợ."
+    },
+    {
+      "question": "Sau điều trị ung thư đại tràng giai đoạn 3 cần theo dõi như thế nào?",
+      "answer": "Sau điều trị, người bệnh cần tái khám định kỳ mỗi 3-6 tháng một lần theo lịch hẹn của bác sĩ, nội soi đại tràng khoảng một năm sau phẫu thuật, chụp CT định kỳ, xét nghiệm CEA định kỳ để theo dõi tái phát. Nếu các kết quả bình thường, tần suất kiểm tra có thể giãn ra."
+    },
+    {
+      "question": "Những biến chứng nào có thể gặp phải sau điều trị ung thư đại tràng giai đoạn 3?",
+      "answer": "Sau điều trị có thể gặp một số biến chứng như rối loạn tiêu hoá kéo dài (đi ngoài nhiều lần/ngày), tê hoặc ngứa ran ở ngón tay và ngón chân (bệnh thần kinh ngoại vi) do tác dụng phụ của hóa chất. Ngoài ra còn có thể gặp các biến chứng khác như nhiễm trùng vết mổ, thoát vị, tắc ruột sau phẫu thuật."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, đi ngoài ra máu và sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 3",
+        "Trĩ nội",
+        "Viêm loét đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn và suy nhược cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 3",
+        "Thiếu máu",
+        "Viêm dạ dày mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị táo bón, tiêu chảy và đau bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 3",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 3",
+        "Viêm dạ dày",
+        "Tắc ruột"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chướng bụng, đầy hơi và khó tiêu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 3",
+        "Hội chứng ruột kích thích",
+        "Rối loạn tiêu hóa"
+      ]
     }
   ]
 }

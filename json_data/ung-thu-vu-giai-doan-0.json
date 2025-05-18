@@ -1,39 +1,106 @@
 {
   "disease_id": "ung-thu-vu-giai-doan-0",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vú giai đoạn 0",
+  "disease_alternative_names": [
+    "Ung thư biểu mô tuyến vú tại chỗ",
+    "DCIS – Ung thư biểu mô ống tuyến vú tại chỗ",
+    "LCIS – Ung thư biểu mô dạng tiểu thùy tại chỗ",
+    "Bệnh Paget của núm vú"
+  ],
+  "disease_definition": "Ung thư vú giai đoạn 0 là một loại ung thư không xâm lấn, còn được gọi là ung thư biểu mô tuyến vú tại chỗ. Đặc điểm của giai đoạn này là các tế bào ung thư được tìm thấy trong lớp niêm mạc của ống tuyến vú, chưa lan ra ngoài ống tuyến vú hoặc tiểu thùy vào mô vú xung quanh. Đây là giai đoạn rất sớm, có khả năng điều trị khỏi bệnh cao.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng rõ ràng",
+      "description": "Ung thư vú giai đoạn 0 gần như không bộc lộ triệu chứng, bệnh nhân thường chỉ phát hiện được trong các cuộc thăm khám sức khỏe định kỳ hoặc khi thăm khám vì các bệnh khác."
+    },
+    {
+      "name": "Tiết dịch núm vú",
+      "description": "Trong một số trường hợp, có thể có hiện tượng tiết dịch từ núm vú, đặc biệt là với bệnh Paget của núm vú."
+    },
+    {
+      "name": "Thay đổi kết cấu da vú",
+      "description": "Có thể có hiện tượng da vú dày lên, sần sùi hoặc có kết cấu khác thường."
+    },
+    {
+      "name": "Thay đổi ở núm vú",
+      "description": "Núm vú có thể bị tụt vào trong hoặc có các thay đổi khác."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác của ung thư vú giai đoạn 0 chưa được xác định rõ ràng.",
+    "related_factors": "Bệnh có thể liên quan đến yếu tố di truyền, đặc biệt là các đột biến gen BRCA1/BRCA2.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người mắc ung thư vú",
+    "Đột biến gen BRCA1/BRCA2",
+    "Phơi nhiễm với bức xạ",
+    "Tuổi cao",
+    "Tiếp xúc với estrogen trong thời gian dài",
+    "Tiền sử sinh sản (chưa sinh con hoặc sinh con đầu lòng sau 30 tuổi)",
+    "Liệu pháp hormone thay thế sau mãn kinh",
+    "Béo phì",
+    "Uống rượu"
+  ],
+  "complications": [
+    "Tái phát ung thư vú",
+    "Phát triển thành ung thư vú xâm lấn nếu không được điều trị kịp thời",
+    "Ảnh hưởng tâm lý và chất lượng cuộc sống"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Chụp nhũ ảnh",
+      "Siêu âm vú",
+      "Chụp cộng hưởng từ (MRI)",
+      "Sinh thiết tổn thương vú"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp nhũ ảnh",
+        "description": "Phương pháp chẩn đoán cho tỷ lệ chính xác cao và thường được sử dụng trong tầm soát ung thư vú. Kỹ thuật chụp nhũ ảnh kỹ thuật số (DBT) giúp tăng tỷ lệ phát hiện ung thư tới 40% và giảm tỷ lệ dương tính giả."
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Giúp đánh giá được tính chất và kích thước của các khối u vú."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Được chỉ định trong một số tình huống đặc biệt để kiểm tra chi tiết mô vú và phát hiện các tổn thương mà các phương pháp khác có thể bỏ sót."
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Bắt buộc thực hiện để chẩn đoán xác định bệnh ung thư vú. Có thể áp dụng chọc hút bằng kim nhỏ (FNA), sinh thiết lõi bằng kim lớn (Core biopsy) hoặc sinh thiết một phần/trọn bướu bằng phẫu thuật."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tỷ lệ sống còn 5 năm của bệnh ung thư vú giai đoạn 0 là gần 100% nếu được phát hiện sớm và điều trị kịp thời.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật bảo tồn vú (BCS)",
+        "description": "Bác sĩ phẫu thuật loại bỏ khối u và một phần mô vú bình thường xung quanh nó. Sau phẫu thuật, người bệnh thường được xạ trị toàn bộ vú để giảm nguy cơ ung thư tái phát ở mô vú còn lại. Ưu điểm chính là giúp phụ nữ bảo tồn được phần lớn vú của mình."
+      },
+      {
+        "name": "Phẫu thuật cắt toàn bộ tuyến vú",
+        "description": "Được chỉ định khi diện tích ung thư ống tuyến vú tại chỗ rất lớn, vú có nhiều vùng ung thư ống tuyến vú tại chỗ riêng biệt, hoặc phẫu thuật bảo tồn vú không thể loại bỏ ung thư hoàn toàn. Phụ nữ phẫu thuật cắt bỏ tuyến vú thường không cần xạ trị và có thể chọn tái tạo vú ngay lập tức hoặc sau đó."
+      },
+      {
+        "name": "Liệu pháp hormone",
+        "description": "Nếu ung thư ống tuyến vú tại chỗ dương tính với thụ thể hormone (Estrogen hoặc Progesterone), bệnh nhân có thể được điều trị bằng Tamoxifen hoặc chất ức chế Aromatase, như Exemestane hoặc Anastrozole."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Thường được thực hiện sau phẫu thuật bảo tồn vú để giảm nguy cơ tái phát ung thư trong mô vú còn lại."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch điều trị và tái khám do bác sĩ quy định",
+      "Theo dõi và báo cáo bất kỳ triệu chứng bất thường nào cho bác sĩ",
+      "Duy trì lối sống lành mạnh với chế độ ăn uống cân bằng và tập thể dục đều đặn",
+      "Thực hiện tự kiểm tra vú hàng tháng và khám vú định kỳ với bác sĩ",
+      "Tham gia các nhóm hỗ trợ để được tư vấn và chia sẻ kinh nghiệm"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +108,95 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện tầm soát ung thư vú định kỳ theo khuyến cáo của bác sĩ",
+      "Tự kiểm tra vú hàng tháng",
+      "Duy trì cân nặng hợp lý",
+      "Hạn chế uống rượu bia",
+      "Tập thể dục đều đặn",
+      "Tránh các liệu pháp hormone sau mãn kinh nếu không cần thiết",
+      "Cho con bú nếu có thể",
+      "Xem xét các biện pháp phòng ngừa cụ thể cho những người có nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư vú giai đoạn 0 có tái phát không?",
+      "answer": "Ung thư vú giai đoạn 0 vẫn có thể tái phát sau điều trị. Tuy nhiên, tỷ lệ này rất thấp, do đó bệnh nhân cần tái khám định kỳ để bác sĩ theo dõi, phát hiện sớm bất thường và xử trí kịp thời."
+    },
+    {
+      "question": "Ai có nguy cơ mắc ung thư vú giai đoạn 0?",
+      "answer": "Bất kỳ ai cũng có nguy cơ mắc ung thư vú giai đoạn 0. Nguy cơ mắc bệnh tăng lên nếu bạn có người thân trực tiếp mắc bệnh ung thư vú hoặc nếu bạn mang đột biến gen gây ung thư vú, như BRCA1/BRCA2."
+    },
+    {
+      "question": "Sau khi phẫu thuật vú cần làm gì?",
+      "answer": "Sau khi điều trị bệnh ung thư vú giai đoạn 0, người bệnh vẫn có nguy cơ tái phát hoặc phát triển ung thư vú xâm lấn trong tương lai. Do đó, người bệnh cần tuân thủ tái khám định kỳ và làm các xét nghiệm thường xuyên để theo dõi bệnh."
+    },
+    {
+      "question": "Tỷ lệ sống còn của bệnh nhân ung thư vú giai đoạn 0 là bao nhiêu?",
+      "answer": "Theo Hiệp hội Ung thư Hoa Kỳ, tỷ lệ sống còn 5 năm của bệnh ung thư vú giai đoạn 0 là gần 100% nếu được phát hiện sớm và điều trị kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiết dịch núm vú và da vú dày lên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-0",
+        "viem-tuyen-sua",
+        "nang-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức vùng vú và sờ thấy hạch ở nách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-0",
+        "ung-thu-vu",
+        "viem-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi hay bị thay đổi kích thước, hình dạng của vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-0",
+        "u-lanh-tinh-vu",
+        "hoi-chung-tien-kinh-nguyet"
+      ]
+    },
+    {
+      "question": "Tôi sờ thấy khối u ở vú, kích thước nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-0",
+        "u-soi-tuyen-vu",
+        "nang-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi phát hiện hạch ở nách, kích thước nhỏ, di động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-0",
+        "viem-hach-nach",
+        "viem-nhiem-da"
+      ]
+    },
+    {
+      "question": "Tôi thấy vú thay đổi hình dạng, da vú sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu-giai-doan-0", "ung-thu-vu", "viem-da-vu"]
+    },
+    {
+      "question": "Tôi bị đau nhức vùng núm vú, sờ thấy khối u ở vú, kích thước nhỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-0",
+        "viem-tuyen-sua",
+        "u-nhu-ong-sua"
+      ]
+    },
+    {
+      "question": "Tôi bị tiết dịch núm vú có màu trắng đục, núm vú bị tụt vào trong. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-0",
+        "benh-paget-num-vu",
+        "u-trong-ong-sua"
+      ]
     }
   ]
 }

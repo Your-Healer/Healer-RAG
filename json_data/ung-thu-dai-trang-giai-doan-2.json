@@ -1,39 +1,151 @@
 {
   "disease_id": "ung-thu-dai-trang-giai-doan-2",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư đại tràng giai đoạn 2",
+  "disease_alternative_names": [
+    "Ung thư ruột kết giai đoạn 2",
+    "Stage 2 Colon Cancer",
+    "T3-4, N0, M0 Colon Cancer"
+  ],
+  "disease_definition": "Ung thư đại tràng giai đoạn 2 là khi khối u đã phát triển xuyên qua thành đại tràng, nhưng chưa di căn đến các hạch bạch huyết hoặc các cơ quan khác trong cơ thể. Theo phân loại TNM, giai đoạn 2 bao gồm T3N0M0 (khối u xâm lấn qua lớp cơ đến thanh mạc) hoặc T4N0M0 (khối u xâm lấn qua thành đại tràng hoặc các mô và cơ quan lân cận).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thay đổi thói quen đại tiện",
+      "description": "Táo bón hoặc tiêu chảy kéo dài hơn 2 tuần, hoặc luân phiên giữa cả hai tình trạng"
+    },
+    {
+      "name": "Phân có máu",
+      "description": "Máu tươi hoặc máu đen trong phân, đôi khi chỉ nhìn thấy qua xét nghiệm"
+    },
+    {
+      "name": "Đau bụng hoặc chuột rút",
+      "description": "Đau bụng kéo dài, cảm giác đầy hơi hoặc co thắt"
+    },
+    {
+      "name": "Cảm giác đi tiêu không hết phân",
+      "description": "Cảm giác vẫn còn phân trong trực tràng sau khi đã đi vệ sinh"
+    },
+    {
+      "name": "Phân dẹt hình lá lúa",
+      "description": "Phân có hình dạng dẹt, bất thường, do khối u chèn ép lòng ruột"
+    },
+    {
+      "name": "Mệt mỏi không rõ nguyên nhân",
+      "description": "Cảm giác mệt mỏi kéo dài, không thuyên giảm khi nghỉ ngơi"
+    },
+    {
+      "name": "Sụt cân không chủ ý",
+      "description": "Giảm cân mà không thay đổi chế độ ăn uống hoặc tập luyện"
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Da xanh xao, mệt mỏi, hụt hơi khi gắng sức do mất máu từ khối u"
+    },
+    {
+      "name": "Đau khi đại tiện",
+      "description": "Cảm giác đau hoặc khó chịu khi đi đại tiện"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn, đôi khi nôn khi khối u bắt đầu gây tắc nghẽn một phần ruột"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư đại tràng giai đoạn 2 phát triển từ các tế bào ung thư ban đầu trong lớp niêm mạc đại tràng, tiến triển qua các lớp của thành ruột, nhưng chưa lan đến các hạch bạch huyết.",
+    "related_factors": "Ung thư đại tràng thường bắt đầu từ các polyp hoặc u tuyến lành tính trên thành đại tràng, sau đó phát triển thành ung thư qua nhiều năm. Một số trường hợp có thể liên quan đến các đột biến di truyền bao gồm EGFR, KRAS, NRAS, BRAF, MSI và các gene khác.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi trên 50",
+    "Tiền sử cá nhân về polyp đại tràng",
+    "Tiền sử cá nhân hoặc gia đình về ung thư đại tràng",
+    "Bệnh viêm ruột mạn tính như viêm loét đại tràng hoặc bệnh Crohn",
+    "Một số hội chứng di truyền như hội chứng Lynch hoặc polyposis tuyến đại tràng gia đình",
+    "Chế độ ăn nhiều thịt đỏ, thịt chế biến sẵn và ít chất xơ",
+    "Lối sống ít vận động",
+    "Béo phì hoặc thừa cân",
+    "Hút thuốc lá",
+    "Uống nhiều rượu bia",
+    "Tiểu đường type 2"
+  ],
+  "complications": [
+    "Tắc nghẽn đường ruột",
+    "Xuất huyết tiêu hóa nặng",
+    "Thủng đại tràng",
+    "Tiến triển đến giai đoạn ung thư cao hơn",
+    "Tái phát sau điều trị",
+    "Biến chứng do phẫu thuật như nhiễm trùng vết mổ, thoát vị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá tiền sử bệnh",
+      "Đánh giá giai đoạn theo hệ thống TNM"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi đại tràng",
+        "description": "Cho phép bác sĩ quan sát trực tiếp bên trong đại tràng và lấy mẫu sinh thiết để chẩn đoán xác định"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô để xác định tế bào ung thư và mức độ phát triển"
+      },
+      {
+        "name": "Xét nghiệm máu ẩn trong phân",
+        "description": "Phát hiện lượng máu nhỏ trong phân không thể nhìn thấy bằng mắt thường"
+      },
+      {
+        "name": "Xét nghiệm chỉ điểm khối u CEA và CA 19-9",
+        "description": "Giúp đánh giá kết quả, theo dõi tái phát và tiên lượng bệnh"
+      },
+      {
+        "name": "Chụp CT bụng và ngực",
+        "description": "Đánh giá mức độ xâm lấn của khối u và tìm di căn xa"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Cung cấp hình ảnh chi tiết của khối u và mức độ xâm lấn vào các cấu trúc lân cận"
+      },
+      {
+        "name": "Siêu âm nội soi",
+        "description": "Đánh giá mức độ xâm lấn của khối u qua các lớp của thành đại tràng"
+      },
+      {
+        "name": "Xét nghiệm phân tử",
+        "description": "Xác định các đột biến gene như KRAS, NRAS, BRAF, và tình trạng MSI để hướng dẫn điều trị"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị ung thư đại tràng giai đoạn 2 chủ yếu dựa vào phẫu thuật, với khả năng bổ sung hóa trị hỗ trợ trong một số trường hợp có nguy cơ cao tái phát.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt bỏ đoạn đại tràng",
+        "description": "Loại bỏ đoạn đại tràng có khối u cùng với mạch máu và hạch bạch huyết vùng tương ứng, sau đó nối hai đầu đại tràng lại với nhau"
+      },
+      {
+        "name": "Phẫu thuật nội soi đại tràng",
+        "description": "Phương pháp ít xâm lấn, sử dụng camera và dụng cụ nhỏ qua các vết mổ nhỏ để cắt bỏ khối u"
+      },
+      {
+        "name": "Hóa trị hỗ trợ (liệu pháp bổ trợ)",
+        "description": "Dùng thuốc hóa chất sau phẫu thuật để tiêu diệt các tế bào ung thư còn sót lại, thường chỉ định cho bệnh nhân có yếu tố nguy cơ cao (khối u xâm lấn ngoài lớp cơ, xâm lấn mạch máu/bạch huyết, chẩn đoán dưới 50 tuổi, độ biệt hóa thấp, tắc/thủng ruột)"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Hiếm khi được sử dụng trong ung thư đại tràng giai đoạn 2, nhưng có thể được cân nhắc trong một số trường hợp đặc biệt như khối u ở vị trí nguy cơ cao tái phát tại chỗ"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Khám theo dõi định kỳ theo lịch hẹn của bác sĩ",
+      "Chụp CT ngực, bụng, chậu định kỳ",
+      "Xét nghiệm máu định kỳ bao gồm chỉ điểm u CEA",
+      "Nội soi đại tràng theo dõi, thường 1 năm sau phẫu thuật và sau đó 3-5 năm tùy kết quả",
+      "Duy trì chế độ ăn giàu chất xơ, rau củ quả",
+      "Hạn chế thịt đỏ, thịt chế biến sẵn",
+      "Tập thể dục đều đặn",
+      "Duy trì cân nặng hợp lý",
+      "Không hút thuốc, hạn chế rượu bia"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +153,77 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát ung thư đại tràng định kỳ từ 45 tuổi",
+      "Nội soi đại tràng 5-10 năm một lần từ 45 tuổi",
+      "Xét nghiệm máu ẩn trong phân hàng năm",
+      "Chế độ ăn giàu chất xơ, rau củ quả",
+      "Hạn chế thịt đỏ và thịt chế biến sẵn",
+      "Tập thể dục đều đặn ít nhất 30 phút mỗi ngày",
+      "Duy trì cân nặng hợp lý",
+      "Không hút thuốc lá",
+      "Hạn chế rượu bia",
+      "Tăng cường vitamin D và canxi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tỷ lệ sống của ung thư đại tràng giai đoạn 2 là bao nhiêu?",
+      "answer": "Tỷ lệ sống sau 5 năm của ung thư đại tràng giai đoạn 2 vào khoảng 80-85%. Tỷ lệ này được cải thiện đáng kể nhờ vào phẫu thuật triệt để và có thể kết hợp với hóa trị bổ trợ trong các trường hợp có yếu tố nguy cơ cao."
+    },
+    {
+      "question": "Ung thư đại tràng giai đoạn 2 có cần hóa trị sau phẫu thuật không?",
+      "answer": "Không phải tất cả bệnh nhân ung thư đại tràng giai đoạn 2 đều cần hóa trị bổ trợ sau phẫu thuật. Việc sử dụng hóa trị thường được cân nhắc cho các trường hợp có các yếu tố nguy cơ cao như: khối u có độ biệt hóa kém, xâm lấn mạch máu hoặc bạch huyết, tắc nghẽn hoặc thủng đại tràng trước khi phẫu thuật, số lượng hạch bạch huyết được kiểm tra ít hơn 12 hạch, hoặc có bất thường di truyền như MSI thấp/MSS với BRAF đột biến."
+    },
+    {
+      "question": "Sau phẫu thuật ung thư đại tràng giai đoạn 2 cần theo dõi như thế nào?",
+      "answer": "Sau phẫu thuật, bệnh nhân thường được theo dõi chặt chẽ với lịch khám định kỳ: kiểm tra lâm sàng và xét nghiệm CEA mỗi 3-6 tháng trong 2 năm đầu, sau đó mỗi 6 tháng trong 3 năm tiếp theo; chụp CT ngực, bụng, chậu mỗi 6-12 tháng trong 3-5 năm đầu; nội soi đại tràng sau 1 năm, nếu bình thường thì 3 năm sau và tiếp theo mỗi 5 năm một lần."
+    },
+    {
+      "question": "Ung thư đại tràng giai đoạn 2 có thể tái phát không?",
+      "answer": "Có, ung thư đại tràng giai đoạn 2 có thể tái phát sau điều trị, mặc dù nguy cơ thấp hơn so với giai đoạn 3 và 4. Nguy cơ tái phát cao nhất trong 2-3 năm đầu sau điều trị. Vì vậy, việc theo dõi định kỳ rất quan trọng để phát hiện sớm nếu có tái phát và có biện pháp can thiệp kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như thay đổi thói quen đi vệ sinh và phân có máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 2",
+        "Trĩ",
+        "Viêm đại tràng mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng, mệt mỏi và sụt cân không rõ lý do. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 2",
+        "Hội chứng ruột kích thích",
+        "Bệnh Crohn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị cảm giác đi vệ sinh không hết và phân dẹt hình lá lúa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 2",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như buồn nôn, đau khi đi vệ sinh và phân có màu đen. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 2",
+        "Xuất huyết tiêu hóa trên",
+        "Loét dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy thiếu máu, mệt mỏi và khó thở khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư đại tràng giai đoạn 2",
+        "Thiếu máu do thiếu sắt",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
     }
   ]
 }

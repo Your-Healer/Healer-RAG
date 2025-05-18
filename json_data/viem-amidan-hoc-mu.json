@@ -1,39 +1,128 @@
 {
   "disease_id": "viem-amidan-hoc-mu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm amidan hốc mủ",
+  "disease_alternative_names": [
+    "Viêm amidan hốc mủ bã đậu",
+    "Viêm amidan mãn tính"
+  ],
+  "disease_definition": "Viêm amidan hốc mủ là tình trạng tổn thương viêm nhiễm cấp tính hoặc mãn tính tuyến amidan do vi khuẩn gây nên. Trong cấu trúc amidan có nhiều hốc, ngăn khiến bụi bẩn và thức ăn dễ bám vào, đọng lại và phát triển, lâu ngày gây viêm nhiễm và hình thành các khối mủ.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khàn tiếng hoặc mất tiếng",
+      "description": "Người bệnh đột nhiên khàn tiếng hoặc mất tiếng do tình trạng viêm nhiễm ảnh hưởng đến dây thanh quản."
+    },
+    {
+      "name": "Ho khan hoặc ho có đờm",
+      "description": "Đờm vướng trong cổ họng, cộng với các cặn bã tích tụ khiến người bệnh cảm thấy ngứa vùng cổ, ho và khạc nhổ liên tục."
+    },
+    {
+      "name": "Đau rát cổ họng",
+      "description": "Vi khuẩn trú ẩn trong cổ họng khiến người bệnh cảm thấy ngứa ngáy, vướng víu. Càng khạc nhổ thì tổ chức amidan càng tổn thương khiến đau hơn."
+    },
+    {
+      "name": "Có đờm vướng trong cổ",
+      "description": "Người bệnh cảm thấy có đờm vướng trong cổ, rất khó khạc nhổ hoặc nuốt."
+    },
+    {
+      "name": "Khạc ra những hạt nhỏ màu trắng hoặc xanh",
+      "description": "Thỉnh thoảng khi ho hoặc hắt hơi, người bệnh sẽ thấy những hạt nhỏ lấm tấm màu trắng hoặc xanh, có mùi hôi khó chịu."
+    },
+    {
+      "name": "Ổ mủ quanh amidan",
+      "description": "Trong hốc amidan có mủ màu trắng hoặc xanh lấm tấm trong khoang miệng. Amidan có màu đỏ, phình to và có dịch màu trắng ở bề mặt."
+    },
+    {
+      "name": "Hơi thở có mùi hôi",
+      "description": "Quá trình va chạm khiến các hạt mủ trên lưỡi và vòm họng người bệnh cọ xát, bong ra lẫn vào trong miệng dẫn đến có mùi hôi."
+    },
+    {
+      "name": "Khó khăn khi nhai và nuốt thức ăn",
+      "description": "Amidan sưng to khiến người bệnh mệt mỏi, khó khăn trong nhai và nuốt thức ăn."
+    },
+    {
+      "name": "Sốt",
+      "description": "Người bệnh có thể bị sốt, thậm chí sốt cao lên đến 40 độ C cùng nhiều biểu hiện tương tự các bệnh liên quan đến đường hô hấp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Vi khuẩn xâm nhập vào đường hô hấp là nguyên nhân chính gây viêm amidan hốc mủ. Amidan nằm ngay vị trí giao thoa giữa đường ăn và đường thở, nơi tiếp xúc với nhiều bụi bẩn, thức ăn nên rất dễ bị tấn công bởi các yếu tố vi khuẩn gây hại.",
+    "related_factors": "Cấu trúc của amidan gồm nhiều hốc, ngăn nên đây là \"nơi cư trú\" của nhiều loại vi khuẩn tấn công đường hô hấp và gây viêm. Tình trạng viêm amidan kéo dài, không được điều trị dứt điểm là yếu tố quan trọng dẫn đến viêm amidan hốc mủ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Không điều trị viêm amidan cấp tính triệt để",
+    "Sống trong môi trường ô nhiễm, chứa nhiều bụi bẩn, vi khuẩn và virus có hại",
+    "Thay đổi đột ngột về nhiệt độ và độ ẩm môi trường",
+    "Lối sống không lành mạnh như thức khuya, hút thuốc lá",
+    "Ăn uống không khoa học, thói quen ăn đồ cay nóng, uống rượu bia",
+    "Vệ sinh răng miệng không sạch sẽ",
+    "Sức đề kháng yếu"
+  ],
+  "complications": [
+    "Áp-xe amidan (mủ tụ lại thành ổ)",
+    "Viêm tấy quanh amidan",
+    "Viêm họng",
+    "Viêm xoang",
+    "Viêm tai giữa",
+    "Viêm thanh khí quản",
+    "Viêm phế quản",
+    "Áp-xe thành bên họng",
+    "Viêm cầu thận",
+    "Viêm khớp",
+    "Viêm tim",
+    "Nhiễm khuẩn huyết",
+    "Khó thở do amidan sưng to chèn ép hệ hô hấp"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng vùng họng",
+      "Quan sát amidan và khoang miệng",
+      "Kiểm tra các triệu chứng đau họng, khó nuốt, ho",
+      "Nội soi họng",
+      "Xét nghiệm máu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám lâm sàng",
+        "description": "Bác sĩ sẽ khám vùng họng, quan sát amidan để phát hiện dấu hiệu viêm nhiễm, sưng đỏ, nổi hạch, có mủ hoặc không."
+      },
+      {
+        "name": "Nội soi họng",
+        "description": "Sử dụng ống nội soi mềm để quan sát chi tiết tình trạng amidan, phát hiện các hốc mủ và mức độ viêm nhiễm."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Giúp đánh giá tình trạng viêm nhiễm trong cơ thể, số lượng bạch cầu tăng cao có thể là dấu hiệu của viêm nhiễm."
+      },
+      {
+        "name": "Cấy vi khuẩn từ vùng họng",
+        "description": "Lấy mẫu dịch từ họng hoặc amidan để xác định loại vi khuẩn gây bệnh, giúp lựa chọn kháng sinh phù hợp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Khi mắc amidan cấp tính, nếu người bệnh được thăm khám và điều trị đúng cách sẽ khỏi bệnh trong khoảng 10 ngày. Tuy nhiên, nếu bệnh kéo dài không điều trị hoặc điều trị không đúng cách, bệnh sẽ trở nặng và dẫn đến nhiều biến chứng nguy hiểm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng mẹo dân gian",
+        "description": "Một số phương pháp dân gian có thể giúp giảm triệu chứng khi bệnh chưa tiến triển nặng: Súc miệng bằng nước muối, sử dụng lá húng chanh, mật ong và gừng để giảm viêm nhiễm, sưng tấy tại vùng amidan."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Bác sĩ có thể kê thuốc kháng sinh để ức chế quá trình phát triển của vi khuẩn, thuốc giảm đau và giảm viêm để làm giảm các cơn đau rát ở cổ họng và tình trạng sưng amidan, thuốc hạ sốt, thuốc ho, thuốc giảm phù nề khi cần thiết."
+      },
+      {
+        "name": "Phẫu thuật cắt amidan",
+        "description": "Đây là phương pháp điều trị cuối cùng khi các phương pháp khác không mang lại hiệu quả. Chỉ định khi bệnh gây biến chứng nguy hiểm, amidan quá to cản trở ăn uống, ngưng thở hoặc nhiễm trùng tái phát nhiều lần ảnh hưởng chất lượng cuộc sống."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống nhiều nước để bù nước và giảm mệt mỏi, có thể sử dụng sữa, nước ép trái cây để bổ sung dinh dưỡng",
+      "Ăn thức ăn lỏng, dễ nuốt như soup, cháo, canh để giảm đau họng khi ăn và giảm áp lực lên amidan",
+      "Vệ sinh răng miệng, mũi, họng sạch sẽ bằng cách súc miệng với nước muối ấm sau khi ăn",
+      "Đeo khẩu trang để tránh bụi bẩn từ môi trường xung quanh, đặc biệt ở nơi ô nhiễm",
+      "Không tự ý sử dụng thuốc hoặc dùng đơn thuốc của người khác"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +130,75 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh răng miệng sạch sẽ, đánh răng ít nhất 2 lần/ngày",
+      "Tránh môi trường ô nhiễm, bụi bẩn",
+      "Không hút thuốc lá, hạn chế uống rượu bia",
+      "Tránh tiếp xúc với không khí lạnh đột ngột",
+      "Giữ lối sống lành mạnh, không thức khuya, tập thể dục đều đặn",
+      "Ăn uống điều độ, tránh thức ăn cay nóng",
+      "Uống nhiều nước, giữ cơ thể đủ nước",
+      "Điều trị dứt điểm các bệnh viêm nhiễm đường hô hấp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm amidan hốc mủ có lây không?",
+      "answer": "Mặc dù là bệnh về đường hô hấp do vi khuẩn hoặc virus gây nên, nhưng các nghiên cứu cho thấy rằng viêm amidan hốc mủ không có khả năng lây nhiễm từ người này sang người khác."
+    },
+    {
+      "question": "Viêm amidan hốc mủ có nguy hiểm không?",
+      "answer": "Viêm amidan hốc mủ có thể gây ra nhiều biến chứng nguy hiểm nếu không được điều trị kịp thời. Biến chứng bao gồm áp-xe amidan, viêm tấy quanh amidan, viêm phế quản, viêm xoang, viêm thận, viêm khớp, viêm tim và nhiễm khuẩn huyết. Trường hợp amidan sưng quá to còn có thể chèn ép hệ hô hấp, gây áp lực cho phổi, người bệnh khó thở hoặc ngưng thở tạm thời."
+    },
+    {
+      "question": "Viêm amidan hốc mủ bao lâu thì khỏi?",
+      "answer": "Khi mắc amidan cấp tính, nếu người bệnh được thăm khám và điều trị đúng cách sẽ khỏi bệnh trong khoảng 10 ngày. Tuy nhiên, nếu bệnh kéo dài không điều trị hoặc điều trị không đúng cách, bệnh sẽ trở nặng và dẫn đến nhiều biến chứng nguy hiểm."
+    },
+    {
+      "question": "Khi nào cần phải cắt amidan?",
+      "answer": "Cắt amidan là phương pháp điều trị cuối cùng khi các phương pháp khác không mang lại hiệu quả. Cắt amidan được chỉ định khi bệnh gây ảnh hưởng nhiều đến sức khỏe, cụ thể là: bệnh gây nên những biến chứng nguy hiểm, người bệnh có dấu hiệu bệnh tiến triển nặng, amidan có kích thước quá to cản trở việc ăn uống, người bệnh ngưng thở hoặc nhiễm trùng tái phát nhiều lần, hoặc khi amidan có quá nhiều ngóc ngách chứa chất tiết gây hôi miệng, khó nuốt."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khàn tiếng hoặc mất tiếng, ho khan hoặc ho có đờm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan-hoc-mu", "viem-hong", "viem-thanh-quan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau họng, rát họng, có thể có triệu chứng sốt hoặc không. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan-hoc-mu", "viem-hong", "viem-amidan-cap"]
+    },
+    {
+      "question": "Tôi hay bị có đờm vướng trong cổ, rất khó khạc nhổ hoặc nuốt, thỉnh thoảng ho, hắt hơi sẽ thấy những hạt nhỏ lấm tấm màu trắng, có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-amidan-hoc-mu",
+        "viem-xoang",
+        "viem-mũi-di-ung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau rát cổ họng, càng khạc nhổ thì tổ chức amidan càng tổn thương khiến đau hơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan-hoc-mu", "viem-amidan-cap", "viem-hong"]
+    },
+    {
+      "question": "Tôi hay bị biến đổi giọng nói, đột nhiên khàn tiếng hoặc mất tiếng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan-hoc-mu", "viem-thanh-quan", "viem-hong"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ho khan hoặc ho có đờm, đờm vướng trong cổ họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-amidan-hoc-mu",
+        "viem-phe-quan",
+        "viem-hong-man"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ho và khạc nhổ liên tục, đôi khi khạc ra các hạt nhỏ lấm tấm có màu trắng hoặc xanh, có mùi hôi khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan-hoc-mu", "viem-xoang", "viem-phe-quan"]
+    },
+    {
+      "question": "Tôi hay bị ổ mủ quanh amidan, hốc amidan có mủ màu trắng hoặc xanh lấm tấm trong khoang miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-amidan-hoc-mu", "ap-xe-amidan", "viem-hong-mu"]
     }
   ]
 }

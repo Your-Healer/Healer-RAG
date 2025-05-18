@@ -1,58 +1,211 @@
 {
   "disease_id": "ung-thu-co-tu-cung-giai-doan-1",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư cổ tử cung giai đoạn I",
+  "disease_alternative_names": [
+    "Ung thư cổ tử cung giai đoạn đầu",
+    "Stage 1 Cervical Cancer"
+  ],
+  "disease_definition": "Ung thư cổ tử cung giai đoạn I được chẩn đoán khi bệnh giới hạn trong cổ tử cung, chưa lan sang các mô xung quanh hoặc các cơ quan khác. Theo hệ thống phân loại của Hội Sản Phụ khoa Quốc tế (FIGO), đây là giai đoạn đầu của bệnh, có tiên lượng tốt và điều trị cho hiệu quả cao.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng đặc hiệu",
+      "description": "Ở giai đoạn đầu, bệnh thường không có triệu chứng rõ ràng và chỉ được phát hiện qua tầm soát"
+    },
+    {
+      "name": "Dịch âm đạo có máu, khí hư",
+      "description": "Tiết dịch âm đạo bất thường có lẫn máu hoặc khí hư"
+    },
+    {
+      "name": "Chảy máu âm đạo bất thường",
+      "description": "Xuất hiện máu sau khi giao hợp, giữa chu kỳ kinh nguyệt hoặc sau khi mãn kinh"
+    },
+    {
+      "name": "Kinh nguyệt kéo dài",
+      "description": "Kinh nguyệt có thể ra nhiều và kéo dài hơn bình thường"
+    },
+    {
+      "name": "Đau vùng chậu",
+      "description": "Cảm giác đau ở vùng chậu khi bệnh tiến triển"
+    },
+    {
+      "name": "Tiểu khó, tiểu đau",
+      "description": "Khó khăn và đau đớn khi đi tiểu, đôi khi có máu trong nước tiểu khi bệnh tiến triển"
+    },
+    {
+      "name": "Đau lưng",
+      "description": "Cảm giác đau lưng âm ỉ khi bệnh tiến triển"
+    },
+    {
+      "name": "Mệt mỏi, sụt cân",
+      "description": "Cảm giác mệt mỏi và giảm cân không rõ nguyên nhân khi bệnh tiến triển"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính gây ung thư cổ tử cung là nhiễm virus HPV (Human Papillomavirus), đặc biệt là các typ có nguy cơ cao như HPV 16 và 18.",
+    "related_factors": "Virus HPV lây truyền qua đường tình dục và có thể gây ra những thay đổi trong tế bào cổ tử cung, dẫn đến ung thư nếu không được phát hiện và điều trị kịp thời.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm HPV (virus gây u nhú ở người)",
+    "Quan hệ tình dục sớm",
+    "Nhiều bạn tình",
+    "Hút thuốc lá",
+    "Hệ miễn dịch suy yếu",
+    "Sử dụng thuốc tránh thai kéo dài",
+    "Tiền sử mắc các bệnh lây truyền qua đường tình dục",
+    "Sinh nhiều con"
+  ],
+  "complications": [
+    "Tiến triển thành các giai đoạn cao hơn nếu không được điều trị kịp thời",
+    "Ảnh hưởng đến khả năng sinh sản tùy thuộc vào phương pháp điều trị",
+    "Tái phát sau điều trị",
+    "Di căn đến các cơ quan lân cận hoặc xa",
+    "Ảnh hưởng đến chất lượng cuộc sống"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám phụ khoa định kỳ",
+      "Đánh giá các triệu chứng bất thường",
+      "Kiểm tra cổ tử cung"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm Pap (Pap smear)",
+        "description": "Thu thập các tế bào từ cổ tử cung, sau đó kiểm tra để tìm các dấu hiệu tiền ung thư, ung thư hoặc các bệnh lý lành tính khác"
+      },
+      {
+        "name": "Xét nghiệm HPV",
+        "description": "Đánh giá các tế bào từ cổ tử cung có nhiễm HPV hay không, thường được thực hiện nếu xét nghiệm Pap có bất thường"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô từ cổ tử cung để kiểm tra tế bào ung thư, có thể sử dụng bấm kim sinh thiết hay khoét chóp"
+      },
+      {
+        "name": "MRI vùng tiểu khung",
+        "description": "Chụp cộng hưởng từ để đánh giá kích thước và mức độ xâm lấn của khối u"
+      },
+      {
+        "name": "Chụp CT ngực - bụng - chậu hoặc PET/CT",
+        "description": "Đánh giá giai đoạn bệnh và tìm kiếm các dấu hiệu di căn xa"
+      },
+      {
+        "name": "Nội soi bàng quang, trực tràng",
+        "description": "Kiểm tra xem ung thư có xâm lấn vào bàng quang hoặc trực tràng không"
+      },
+      {
+        "name": "Xét nghiệm máu và sinh hóa",
+        "description": "Đánh giá tình trạng sức khỏe tổng quát và các chỉ số liên quan đến ung thư"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phẫu thuật là phương pháp điều trị chính cho bệnh ung thư cổ tử cung giai đoạn I. Việc lựa chọn loại phẫu thuật sẽ phụ thuộc vào nhiều yếu tố, bao gồm tuổi tác, giai đoạn và nguyện vọng sinh sản của bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khoét chóp cổ tử cung",
+        "description": "Phương pháp này có thể được chỉ định cho những phụ nữ mắc ung thư cổ tử cung giai đoạn IA1 còn nguyện vọng sinh đẻ, loại bỏ phần mô bị ảnh hưởng và bảo tồn chức năng sinh sản"
+      },
+      {
+        "name": "Phẫu thuật cắt cổ tử cung",
+        "description": "Loại bỏ cổ tử cung, phần trên của âm đạo và một số cấu trúc xung quanh, thích hợp cho giai đoạn IA2 và IB1 kích thước nhỏ khi người bệnh muốn bảo tồn khả năng sinh sản"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ tử cung",
+        "description": "Loại bỏ tử cung và cổ tử cung, có thể kèm theo cắt buồng trứng và vòi tử cung, là phương pháp phổ biến nhất cho phụ nữ giai đoạn I không còn nguyện vọng sinh sản"
+      },
+      {
+        "name": "Sinh thiết hạch cửa",
+        "description": "Lấy bệnh phẩm hạch bạch huyết từ chặng hạch gần nhất để đánh giá sự di căn, giúp quyết định mức độ nạo vét hạch"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Được sử dụng khi người bệnh từ chối phẫu thuật hoặc không thể phẫu thuật, bao gồm xạ trị chiếu ngoài và xạ trị áp sát"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Hóa-xạ trị đồng thời được sử dụng nếu người bệnh không thể phẫu thuật hoặc sau mổ trong các trường hợp có yếu tố nguy cơ cao tái phát"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Khám theo dõi định kỳ sau điều trị",
+      "Thực hiện tầm soát ung thư cổ tử cung thường xuyên",
+      "Thảo luận với bác sĩ về các phương pháp điều trị tối ưu và ít ảnh hưởng đến khả năng sinh sản",
+      "Cân nhắc các biện pháp dự phòng sinh sản sau điều trị như trữ trứng",
+      "Duy trì lối sống lành mạnh và chế độ dinh dưỡng cân bằng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vaccine phòng ngừa HPV là biện pháp hiệu quả để ngăn ngừa nhiễm HPV và giảm nguy cơ phát triển ung thư cổ tử cung.",
+      "recommended_for": [
+        "Trẻ em và thanh thiếu niên từ 9-14 tuổi",
+        "Người lớn đến 26 tuổi chưa tiêm hoặc chưa tiêm đủ liều"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tầm soát ung thư cổ tử cung định kỳ với xét nghiệm Pap và HPV",
+      "Thực hiện quan hệ tình dục an toàn để giảm nguy cơ nhiễm HPV",
+      "Hạn chế số lượng bạn tình",
+      "Không hút thuốc lá",
+      "Duy trì hệ miễn dịch khỏe mạnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Có thể cảm nhận ung thư cổ tử cung bằng ngón tay trong giai đoạn I không?",
+      "answer": "Không, bạn sẽ không thể cảm nhận ung thư cổ tử cung bằng ngón tay của mình trong giai đoạn này do kích thước khối u còn rất nhỏ và chỉ có thể quan sát thấy dưới kính hiển vi. Bạn nên đến bệnh viện thăm khám ngay nếu nhận thấy có khối bất thường bên trong âm đạo."
+    },
+    {
+      "question": "Làm thế nào biết có bị ung thư cổ tử cung hay không?",
+      "answer": "Hầu hết người bệnh sẽ không biết mình bị ung thư cổ tử cung cho đến khi được chẩn đoán bệnh. Bác sĩ sẽ tiến hành các xét nghiệm và làm sinh thiết để xác định giải phẫu bệnh. Các dấu hiệu sớm của ung thư cổ tử cung giai đoạn I thường không rõ ràng và chỉ có thể được phát hiện thông qua thăm khám. Vì vậy, việc khám sức khỏe toàn diện và tầm soát định kỳ là cực kỳ quan trọng."
+    },
+    {
+      "question": "Tỷ lệ sống còn cho ung thư cổ tử cung giai đoạn I là bao nhiêu?",
+      "answer": "Tỷ lệ sống còn 5 năm cho ung thư cổ tử cung giai đoạn I tại Mỹ vào khoảng 92% (theo SEER), cho thấy tiên lượng rất tốt nếu bệnh được phát hiện và điều trị sớm ở giai đoạn này."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ra máu âm đạo bất thường và đau vùng chậu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn I",
+        "Viêm cổ tử cung",
+        "U xơ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khi quan hệ tình dục và ra máu âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn I",
+        "Viêm âm đạo",
+        "Polyp cổ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị kinh nguyệt kéo dài và ra nhiều hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn I",
+        "Rối loạn nội tiết",
+        "U xơ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vùng chậu và ra khí hư bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn I",
+        "Viêm vùng chậu",
+        "Viêm âm đạo"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ra máu âm đạo sau khi mãn kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn I",
+        "Ung thư nội mạc tử cung",
+        "Teo âm đạo"
+      ]
     }
   ]
 }

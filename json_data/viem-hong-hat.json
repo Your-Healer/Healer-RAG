@@ -1,58 +1,210 @@
 {
   "disease_id": "viem-hong-hat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm họng hạt",
+  "disease_alternative_names": [
+    "Viêm họng hạt mạn tính",
+    "Viêm họng mạn tính thể hạt"
+  ],
+  "disease_definition": "Viêm họng hạt là tình trạng niêm mạc họng bị viêm mạn tính, khiến các mô lympho thành sau họng sưng lên, tạo thành các hạt màu đỏ hoặc hồng ở niêm mạc họng. Kích thước của những hạt này có thể to nhỏ khác nhau, từ bằng đầu đinh ghim đến hạt đậu. Viêm họng hạt là một thể bệnh của viêm họng mạn tính, xuất hiện ở mọi đối tượng, mọi lứa tuổi, đặc biệt phổ biến ở những người có sức đề kháng yếu, cơ thể suy nhược.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khô và ngứa họng",
+      "description": "Người bệnh thường xuyên cảm thấy khô họng, ngứa họng và phải tằng hắng hay khạc ra để bớt cảm giác ngứa."
+    },
+    {
+      "name": "Xuất hiện các hạt đỏ hoặc hồng ở cổ họng",
+      "description": "Các hạt này lồi cao hơn so với niêm mạc xung quanh, có kích thước từ bằng đầu đinh ghim đến hạt đậu."
+    },
+    {
+      "name": "Nuốt khó, nuốt đau",
+      "description": "Người bệnh gặp khó khăn khi nuốt, thậm chí cảm thấy đau khi nuốt nước bọt."
+    },
+    {
+      "name": "Ho",
+      "description": "Có thể là ho khan hoặc ho có đờm, gây khó chịu cho người bệnh."
+    },
+    {
+      "name": "Sốt",
+      "description": "Trong một số trường hợp, người bệnh có thể bị sốt, thậm chí sốt cao trên 38 độ C."
+    },
+    {
+      "name": "Cổ nổi hạch",
+      "description": "Hạch ở cổ có thể bị sưng to, cứng và đau khi chạm vào."
+    },
+    {
+      "name": "Mệt mỏi, chán ăn",
+      "description": "Người bệnh cảm thấy mệt mỏi, không có năng lượng và giảm cảm giác thèm ăn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm họng hạt là tình trạng niêm mạc họng bị viêm mạn tính, khiến các mô lympho thành sau họng sưng lên, tạo thành các hạt màu đỏ hoặc hồng ở niêm mạc họng.",
+    "related_factors": "Bệnh có thể xuất hiện ở mọi đối tượng, mọi lứa tuổi, đặc biệt phổ biến ở những người có sức đề kháng yếu, cơ thể suy nhược.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sự tấn công của các tác nhân gây hại như virus, vi khuẩn hoặc nấm",
+    "Biến chứng từ viêm mũi xoang mạn tính",
+    "Viêm họng cấp tái phát nhiều lần",
+    "Viêm amidan mạn tính",
+    "Trào ngược họng thanh quản",
+    "Bất thường trong giải phẫu cấu trúc mũi xoang (polyp mũi, lệch vẹo vách ngăn)",
+    "Môi trường sống ô nhiễm (tiếp xúc với hóa chất độc hại, khói bụi, khói thuốc lá)",
+    "Thời tiết thất thường",
+    "Lối sống không lành mạnh (lạm dụng rượu bia, đồ ăn cay nóng)",
+    "Vệ sinh răng miệng kém",
+    "Yếu tố cơ địa, di truyền"
+  ],
+  "complications": [
+    "Sưng tấy, áp xe ở vùng thành họng",
+    "Viêm sưng amidan",
+    "Viêm nhiễm khu vực lân cận và cơ quan hô hấp",
+    "Viêm xoang",
+    "Viêm tai giữa",
+    "Viêm thanh khí phế quản",
+    "Viêm phổi",
+    "Viêm nhiễm các cơ quan xa (viêm khớp, viêm cầu thận, viêm màng ngoài tim)",
+    "Tăng nguy cơ ung thư vòm họng (trong trường hợp mạn tính)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám tai mũi họng",
+      "Nội soi thanh quản",
+      "Chụp X-quang phổi",
+      "CT scan",
+      "MRI"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám tai mũi họng",
+        "description": "Bác sĩ sẽ hỏi về các triệu chứng và thời gian khởi phát bệnh, sau đó tiến hành khám tai mũi họng để quan sát các biểu hiện thực thể của viêm họng hạt."
+      },
+      {
+        "name": "Nội soi thanh quản",
+        "description": "Phương pháp này giúp bác sĩ quan sát niêm mạc họng chi tiết hơn, từ đó đưa ra chẩn đoán chính xác về tình trạng viêm họng hạt."
+      },
+      {
+        "name": "Chụp X-quang phổi, CT scan, MRI",
+        "description": "Được chỉ định trong trường hợp nghi ngờ viêm họng hạt kéo theo các viêm nhiễm thuộc đường hô hấp dưới hoặc ảnh hưởng các cơ quan khác."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy vào nguyên nhân và tình trạng viêm mà bác sĩ sẽ chỉ định các phương pháp điều trị phù hợp với người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị theo nguyên nhân",
+        "description": "Nếu viêm họng hạt là biến chứng của một bệnh lý khác, bác sĩ sẽ ưu tiên giải quyết dứt điểm các bệnh lý này trước, như điều trị viêm mũi xoang, kiểm soát trào ngược họng thanh quản, hoặc phẫu thuật cắt bỏ amidan, VA sưng viêm, polyp mũi hay phẫu thuật vẹo vách ngăn mũi."
+      },
+      {
+        "name": "Thuốc điều trị",
+        "description": "Bao gồm các loại thuốc ức chế virus, vi khuẩn hay nấm, thuốc điều trị trào ngược họng thanh quản, và các loại thuốc giảm triệu chứng như giảm ngứa họng, giảm ho, tiêu đờm, giảm đau, hạ sốt. Người bệnh cần tuân thủ nghiêm ngặt hướng dẫn về liều dùng của thuốc."
+      },
+      {
+        "name": "Các biện pháp hỗ trợ điều trị tại nhà",
+        "description": "Bao gồm súc miệng bằng nước muối sinh lý, uống nhiều nước ấm, sử dụng mật ong nguyên chất hoặc pha với nước ấm, dùng tỏi như một loại kháng sinh tự nhiên, nghỉ ngơi và hạn chế sử dụng giọng nói."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ nghiêm ngặt hướng dẫn về liều dùng của thuốc",
+      "Không tự ý bỏ ngang hoặc thay đổi liều lượng thuốc",
+      "Súc miệng bằng nước muối sinh lý để sát khuẩn và làm dịu cơn đau họng",
+      "Uống nhiều nước ấm để cổ họng bớt khô và giúp loãng đờm",
+      "Sử dụng mật ong có tác dụng diệt khuẩn, kháng viêm",
+      "Dành thời gian nghỉ ngơi, hạn chế sử dụng giọng nói",
+      "Tránh dùng chất kích thích và bỏ hút thuốc lá"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Những người có hệ miễn dịch kém nên cân nhắc tiêm phòng vắc xin để giảm nguy cơ lây nhiễm bệnh đường hô hấp.",
+      "recommended_for": ["Người có hệ miễn dịch kém"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Điều trị dứt điểm viêm họng và các bệnh lý vùng mũi – xoang, hô hấp, đường tiêu hóa trên",
+      "Vệ sinh răng miệng sạch sẽ và đúng cách, thường xuyên súc miệng với nước muối sinh lý",
+      "Xây dựng chế độ ăn uống và sinh hoạt khoa học, hợp lý",
+      "Luyện tập thể dục thể thao đều đặn để tăng cường sức khỏe",
+      "Bỏ hút thuốc lá, tránh rượu bia, chất kích thích và đồ quá cay, nhiều dầu mỡ",
+      "Giữ ấm cổ và cơ thể, đặc biệt khi thời tiết chuyển lạnh",
+      "Hạn chế tiếp xúc với hóa chất và khói bụi",
+      "Sử dụng đồ bảo hộ lao động đúng cách khi làm việc trong môi trường độc hại"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm họng hạt có tự khỏi không?",
+      "answer": "Viêm họng hạt không thể tự khỏi. Do đó, người bệnh cần đến gặp bác sĩ chuyên khoa tai mũi họng để được điều trị đúng cách và dứt điểm, tránh tái phát gây ảnh hưởng đến sức khỏe và cuộc sống."
+    },
+    {
+      "question": "Viêm họng hạt có chữa được không?",
+      "answer": "Viêm họng hạt hoàn toàn có thể chữa khỏi bằng phương pháp điều trị phù hợp. Bệnh càng được phát hiện và chữa trị càng sớm thì khả năng chữa khỏi dứt điểm càng cao."
+    },
+    {
+      "question": "Viêm họng hạt có nguy hiểm không?",
+      "answer": "Viêm họng hạt dù không quá nguy hiểm nhưng vẫn có thể dẫn đến nhiều biến chứng, gây khó chịu và làm giảm chất lượng cuộc sống của người bệnh. Các biến chứng thường gặp gồm sưng tấy, áp xe ở vùng thành họng, viêm nhiễm các cơ quan lân cận và thậm chí làm tăng nguy cơ ung thư vòm họng nếu bệnh kéo dài."
+    },
+    {
+      "question": "Viêm họng hạt nên ăn gì và kiêng gì?",
+      "answer": "Người bệnh viêm họng hạt nên ăn thực phẩm giàu vitamin A, C, E, protein và kẽm, cũng như các thực phẩm có tính kháng viêm như gừng, tỏi, mật ong. Nên kiêng các thức ăn khô cứng, cay, chua, nóng, đồ chiên rán, đồ ăn tái sống, thực phẩm chứa arginine, rượu bia, cà phê và đồ uống có ga."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khô và ngứa họng, thường phải tằng hắng hay khạc ra để bớt ngứa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hong-hat", "viem-hong", "viem-amidan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy xuất hiện các hạt đỏ hoặc hồng ở cổ họng, lồi cao hơn so với niêm mạc xung quanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hong-hat",
+        "viem-amidan-mun-mu",
+        "ap-xe-quanh-amidan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nuốt khó, nuốt đau, thậm chí là khi nuốt nước bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hong-hat", "viem-amidan", "viem-hong"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ho khan, ho có đờm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hong-hat", "viem-phoi", "viem-phe-quan"]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt, có thể cao trên 38 độ C. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hong-hat", "viem-amidan", "cam-cum"]
+    },
+    {
+      "question": "Tôi hay bị cổ nổi hạch, cứng, đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hong-hat",
+        "viem-hach-lympho",
+        "ung-thu-hach-co"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mệt mỏi, chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hong-hat", "viem-gan-a", "viem-da-day"]
+    },
+    {
+      "question": "Tôi đang cảm thấy niêm mạc họng bị viêm mạn tính, khiến các mô lympho thành sau họng sưng lên, tạo thành các hạt màu đỏ hoặc hồng ở niêm mạc họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hong-hat",
+        "viem-hong-man-tinh",
+        "viem-amidan-man"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm họng hạt do viêm mũi xoang mạn tính, viêm họng cấp tái phát nhiều lần, viêm amidan mạn tính hoặc các bệnh đường tiêu hóa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hong-hat",
+        "viem-mui-xoang-man",
+        "viem-amidan-man"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm họng hạt do polyp mũi, lệch vẹo vách ngăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hong-hat", "polyp-mui", "veo-vach-ngan"]
     }
   ]
 }

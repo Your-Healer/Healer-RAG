@@ -1,39 +1,161 @@
 {
   "disease_id": "ung-thu-phoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư phổi",
+  "disease_alternative_names": [
+    "U phổi ác tính",
+    "Lung Cancer",
+    "Lung Carcinoma"
+  ],
+  "disease_definition": "Ung thư phổi (u phổi ác tính) là loại ung thư khởi phát từ phổi. Bệnh xảy ra khi một khối u ác tính hình thành trong phổi, phát triển nhanh về kích cỡ dẫn tới xâm lấn, chèn ép các cơ quan xung quanh. Đây là căn bệnh nguy hiểm hàng đầu trên thế giới với hơn 2 triệu người mắc mới và hơn 1 triệu người tử vong mỗi năm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ho kéo dài",
+      "description": "Ho dai dẳng không đáp ứng với điều trị thông thường"
+    },
+    {
+      "name": "Ho có đờm hoặc máu",
+      "description": "Ho kèm theo đờm hoặc máu, có thể thấy máu màu đỏ bầm hoặc đỏ tươi"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Đau ngực trầm trọng hơn khi thở sâu, cười hoặc ho"
+    },
+    {
+      "name": "Khàn tiếng",
+      "description": "Giọng nói trở nên khàn đục hơn bình thường"
+    },
+    {
+      "name": "Hụt hơi",
+      "description": "Cảm giác khó thở, thiếu không khí, đặc biệt khi gắng sức"
+    },
+    {
+      "name": "Thở khò khè",
+      "description": "Tiếng khò khè khi hít thở, giống như có vật cản trong đường thở"
+    },
+    {
+      "name": "Suy nhược và mệt mỏi",
+      "description": "Cảm giác kiệt sức, mệt mỏi kéo dài không thuyên giảm sau khi nghỉ ngơi"
+    },
+    {
+      "name": "Chán ăn và sụt cân",
+      "description": "Giảm cảm giác thèm ăn dẫn đến sụt cân không chủ ý"
+    },
+    {
+      "name": "Nhiễm trùng đường hô hấp tái phát",
+      "description": "Bị viêm phổi hoặc viêm phế quản nhiều lần trong thời gian ngắn"
+    },
+    {
+      "name": "Nổi u ở cổ hoặc xương đòn",
+      "description": "Sưng hạch bạch huyết, đặc biệt ở cổ hoặc xương đòn"
+    },
+    {
+      "name": "Đau xương",
+      "description": "Đau nhức ở lưng, xương sườn hoặc hông do ung thư di căn đến xương"
+    },
+    {
+      "name": "Vàng da và mắt",
+      "description": "Da và mắt chuyển sang màu vàng do ung thư di căn đến gan"
+    },
+    {
+      "name": "Hội chứng Horner",
+      "description": "Sụp mí mắt, đồng tử nhỏ, không đổ mồ hôi ở một bên mặt, đau nhức vai"
+    },
+    {
+      "name": "Sưng mặt, cổ và ngực trên",
+      "description": "Sưng phù vùng mặt, cổ, ngực trên do khối u đè lên tĩnh mạch lớn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư phổi xảy ra khi tế bào phổi bị đột biến và phát triển không kiểm soát. Hút thuốc là nguyên nhân chính của bệnh, chiếm tới 90% các trường hợp.",
+    "related_factors": "Ngoài hút thuốc lá, các yếu tố nguy cơ khác bao gồm: tiếp xúc với radon (một loại khí phóng xạ tự nhiên), hít phải các chất độc hại như silic, amiăng, thạch tín, cadimi, crom, niken, uranium, đột biến gene di truyền, và từng trải qua quá trình xạ trị vùng ngực.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá",
+    "Hút thuốc lá thụ động",
+    "Tiếp xúc với radon",
+    "Tiếp xúc với các chất độc hại như amiăng, silic, thạch tín, cadimi, crom, niken, uranium",
+    "Biến đổi trong gen di truyền",
+    "Tiền sử xạ trị vùng ngực",
+    "Ô nhiễm không khí"
+  ],
+  "complications": [
+    "Khó thở do khối u làm tắc nghẽn đường hô hấp",
+    "Ho ra máu do chảy máu trong đường hô hấp",
+    "Tràn dịch màng phổi",
+    "Di căn đến các cơ quan khác như não, xương, gan",
+    "Đau đớn, buồn nôn và các triệu chứng khác do di căn",
+    "Suy kiệt cơ thể"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe tổng quát",
+      "Đánh giá các triệu chứng",
+      "Phân tích tiền sử bệnh và tiền sử hút thuốc"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chẩn đoán hình ảnh",
+        "description": "Chụp X-quang, MRI, CT và PET để phát hiện khối u bất thường trong phổi"
+      },
+      {
+        "name": "Xét nghiệm đờm",
+        "description": "Kiểm tra đờm dưới kính hiển vi để phát hiện tế bào ung thư"
+      },
+      {
+        "name": "Nội soi phế quản",
+        "description": "Đưa ống soi mềm qua mũi hoặc miệng, vào phổi để quan sát và lấy mẫu mô"
+      },
+      {
+        "name": "Nội soi trung thất",
+        "description": "Mở đường nhỏ vào lồng ngực, đưa dụng cụ vào lấy mẫu từ hạch bạch huyết"
+      },
+      {
+        "name": "Sinh thiết kim phổi",
+        "description": "Đưa kim sinh thiết qua thành ngực đến mô phổi có khối u để lấy mẫu"
+      },
+      {
+        "name": "Chụp xương",
+        "description": "Kiểm tra xem ung thư đã di căn đến xương chưa"
+      },
+      {
+        "name": "Siêu âm ổ bụng",
+        "description": "Kiểm tra ung thư đã di căn đến các cơ quan trong ổ bụng chưa"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị ung thư phổi phụ thuộc vào loại ung thư, giai đoạn bệnh và tình trạng sức khỏe tổng thể của bệnh nhân. Đối với ung thư phổi không tế bào nhỏ (NSCLC), phương pháp điều trị khác nhau theo từng giai đoạn. Còn với ung thư phổi tế bào nhỏ (SCLC), hóa trị và xạ trị là phương pháp điều trị phổ biến.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Loại bỏ một phần hoặc toàn bộ lá phổi, thường áp dụng cho ung thư phổi không tế bào nhỏ giai đoạn 1 và 2"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng thuốc để tiêu diệt tế bào ung thư, có thể dùng sau phẫu thuật để hạn chế tái phát hoặc là phương pháp chính cho ung thư phổi tế bào nhỏ"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng tia X năng lượng cao để tiêu diệt tế bào ung thư, thường kết hợp với hóa trị hoặc phẫu thuật"
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Sử dụng hệ miễn dịch của cơ thể để chống lại ung thư, thường áp dụng cho giai đoạn 4"
+      },
+      {
+        "name": "Điều trị triệu chứng",
+        "description": "Các biện pháp giảm đau, kiểm soát triệu chứng và nâng cao chất lượng cuộc sống cho bệnh nhân ung thư giai đoạn cuối"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch điều trị đã được bác sĩ chỉ định",
+      "Tránh tiếp xúc với khói thuốc lá",
+      "Duy trì chế độ ăn uống lành mạnh với nhiều rau củ quả",
+      "Tập thể dục nhẹ nhàng theo khả năng",
+      "Tham gia các nhóm hỗ trợ bệnh nhân ung thư",
+      "Theo dõi và báo cáo các triệu chứng mới hoặc tác dụng phụ của điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +163,62 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh xa thuốc lá và không hút thuốc",
+      "Tránh tiếp xúc với khói thuốc thụ động",
+      "Kiểm tra mức độ radon trong nhà",
+      "Bảo vệ bản thân khỏi các chất độc hại tại nơi làm việc bằng các biện pháp như đeo khẩu trang, mặc đồ bảo hộ",
+      "Duy trì chế độ ăn nhiều rau củ quả, hạn chế thịt đỏ và thịt đã qua chế biến",
+      "Tập thể dục đều đặn ít nhất 30 phút mỗi ngày",
+      "Kiểm tra sức khỏe định kỳ và tầm soát ung thư phổi nếu thuộc nhóm nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư phổi có chữa được không?",
+      "answer": "Bệnh ung thư phổi hoàn toàn có khả năng chữa khỏi nếu được phát hiện và điều trị ở giai đoạn sớm khi khối u chưa phát triển lớn và lan rộng. Tỷ lệ điều trị thành công phụ thuộc vào giai đoạn phát hiện, loại ung thư và tình trạng sức khỏe chung của bệnh nhân."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa ung thư phổi?",
+      "answer": "Để phòng ngừa ung thư phổi, bạn nên: tránh xa thuốc lá, tránh hít khói thuốc thụ động, kiểm tra mức độ radon trong nhà, tránh tiếp xúc với các chất độc hại tại nơi làm việc, duy trì chế độ ăn giàu rau củ quả, tập thể dục đều đặn (ít nhất 30 phút mỗi ngày), và thường xuyên kiểm tra sức khỏe."
+    },
+    {
+      "question": "Ung thư phổi có di truyền không?",
+      "answer": "Mặc dù đột biến gen di truyền có thể làm tăng nguy cơ mắc ung thư phổi, nhưng phần lớn các trường hợp (khoảng 90%) là do hút thuốc lá. Nguy cơ do yếu tố di truyền sẽ tăng cao nếu người đó hút thuốc hoặc tiếp xúc với các chất gây ung thư khác."
+    },
+    {
+      "question": "Các dấu hiệu cảnh báo ung thư phổi là gì?",
+      "answer": "Các dấu hiệu cảnh báo ung thư phổi bao gồm: ho kéo dài, ho có đờm hoặc máu, đau ngực khi thở sâu hoặc ho, khàn tiếng, hụt hơi, thở khò khè, suy nhược và mệt mỏi, chán ăn dẫn đến sụt cân, nhiễm trùng đường hô hấp tái phát như viêm phổi hoặc viêm phế quản."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ho kéo dài, ho có đờm và đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư phổi", "Viêm phế quản mạn tính", "Lao phổi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khàn tiếng, hụt hơi khi leo cầu thang và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi",
+        "Bệnh phổi tắc nghẽn mạn tính (COPD)",
+        "Suy tim"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ho ra máu, đau ngực trầm trọng khi ho và sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư phổi", "Lao phổi", "Giãn phế quản"]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như thở khò khè, hụt hơi và suy nhược. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi",
+        "Hen suyễn",
+        "Bệnh phổi tắc nghẽn mạn tính (COPD)"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chán ăn, nhiễm trùng đường hô hấp tái phát và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư phổi", "Suy giảm miễn dịch", "HIV/AIDS"]
     }
   ]
 }

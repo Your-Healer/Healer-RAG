@@ -1,39 +1,122 @@
 {
   "disease_id": "viem-khop-lien-cau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm khớp liên cầu",
+  "disease_alternative_names": [
+    "Viêm khớp liên cầu khuẩn",
+    "Viêm khớp do liên cầu khuẩn",
+    "Viêm khớp nhiễm khuẩn liên cầu"
+  ],
+  "disease_definition": "Viêm khớp liên cầu là bệnh tổn thương xương khớp xảy ra khi vi khuẩn liên cầu Streptococcus (thường tồn tại sẵn trên da, niêm mạc cơ thể) xâm nhập vào bên trong cơ thể khi sức đề kháng giảm sút. Chúng kết hợp với các vi khuẩn khác như tụ cầu vàng, trực khuẩn mủ xanh để tấn công các khớp, gây tổn thương và viêm nhiễm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhức ở khớp bị nhiễm khuẩn",
+      "description": "Người bệnh thường bị đau nhức dữ dội, liên tục ở các khớp bị nhiễm khuẩn, đặc biệt là khớp háng, khớp gối, khớp vai, khớp cổ tay, khớp khuỷu tay. Cơn đau tăng lên nhiều khi vận động."
+    },
+    {
+      "name": "Viêm sưng, nóng, đỏ tại khớp",
+      "description": "Khớp bị viêm thường có biểu hiện sưng, nóng, đỏ và một số trường hợp có thể rỉ dịch mủ."
+    },
+    {
+      "name": "Sốt cao",
+      "description": "Người bệnh thường có biểu hiện sốt cao khoảng 39°C - 40°C, có thể kèm theo lạnh run."
+    },
+    {
+      "name": "Gầy sút, mệt mỏi",
+      "description": "Bệnh nhân thường cảm thấy mệt mỏi, suy nhược và có dấu hiệu gầy sút trong quá trình bệnh tiến triển."
+    },
+    {
+      "name": "Lưỡi bẩn, da khô",
+      "description": "Các biểu hiện toàn thân khác có thể bao gồm lưỡi bẩn và da khô."
+    },
+    {
+      "name": "Nổi hạch",
+      "description": "Nổi hạch tại vị trí viêm tương ứng, có thể xuất hiện một số dấu hiệu của ổ nhiễm trùng khởi phát."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm khớp liên cầu do vi khuẩn liên cầu Streptococcus gây ra. Khi cơ thể ở trạng thái khỏe mạnh, vi khuẩn này không gây hại, nhưng khi sức đề kháng giảm sút, chúng xâm nhập vào cơ thể và gây bệnh.",
+    "related_factors": "Bệnh thường xuất hiện sau các tổn thương ở da hay một số cơ quan lân cận hoặc nhiễm khuẩn huyết, tạo điều kiện cho vi khuẩn từ bên ngoài hoặc từ các cơ quan khác thâm nhập vào khớp.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tổn thương da, chấn thương khớp, rách hở bao khớp",
+    "Xuất hiện các ổ nhiễm khuẩn bên cạnh khớp như mụn nhọt, viêm gân, cơ, viêm xương",
+    "Viêm đường tiết niệu, tiêu hóa hay bộ phận sinh dục gần khớp",
+    "Từng thực hiện các thủ thuật chọc dò dịch khớp, tiêm khớp không đúng kỹ thuật hoặc không đảm bảo vô trùng",
+    "Nhiễm trùng ở cơ quan khác như viêm phổi, nhiễm khuẩn huyết",
+    "Người có đề kháng kém như trẻ em, thai phụ, người lớn tuổi",
+    "Người mắc bệnh đái tháo đường",
+    "Người bị suy dinh dưỡng",
+    "Người mắc các bệnh lý về xương khớp như chấn thương khớp, gút, viêm khớp dạng thấp"
+  ],
+  "complications": [
+    "Tổn thương khớp nghiêm trọng: vi khuẩn tấn công tất cả các cấu trúc của khớp, ăn mòn sụn, xương và có thể gây mất chức năng, cản trở sinh hoạt",
+    "Nhiễm khuẩn, nhiễm trùng toàn thân: vi khuẩn có thể di chuyển vào những cơ quan bên trong thông qua đường máu, gây nguy hiểm đến tính mạng",
+    "Khớp có thể bị hư hại vĩnh viễn nếu không được điều trị kịp thời và đúng cách"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán lâm sàng dựa trên triệu chứng và tiền sử bệnh",
+      "Xét nghiệm máu",
+      "Xét nghiệm dịch khớp",
+      "Cấy máu",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra số lượng bạch cầu đa nhân, nồng độ protein phản ứng C (CRP), pro-calcitonin để đánh giá tình trạng viêm nhiễm."
+      },
+      {
+        "name": "Xét nghiệm dịch khớp",
+        "description": "Chọc ổ khớp để làm xét nghiệm đếm tế bào, soi nhuộm gram, cấy mủ tìm vi trùng. Đặc điểm màu sắc, mùi dịch khớp cũng có thể gợi ý nhiễm trùng khớp do vi khuẩn."
+      },
+      {
+        "name": "Cấy máu",
+        "description": "Lấy mẫu máu của người bệnh rồi nuôi cấy vi khuẩn để xác định chủng vi khuẩn gây bệnh đang du hành trong máu."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Giúp xác định vị trí và mức độ tổn thương ở ổ khớp."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Giúp đánh giá tình trạng viêm, sưng, tổn thương của mô mềm quanh khớp."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết về mức độ tổn thương của khớp, giúp đánh giá chính xác tình trạng bệnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Quá trình điều trị viêm khớp liên cầu tương đối phức tạp. Tuy nhiên, khi đã xác định đúng chủng vi khuẩn và mức độ tổn thương ở khớp, việc điều trị sẽ không còn quá khó khăn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Bệnh khởi đầu điều trị bằng các loại kháng sinh đường tĩnh mạch theo kinh nghiệm. Sau đó tùy theo kết quả cấy vi khuẩn, kháng sinh đồ (kiểm tra mức độ kháng thuốc của vi khuẩn), diễn tiến bệnh mà thời gian dùng kháng sinh, cũng như loại kháng sinh có thể được thay đổi."
+      },
+      {
+        "name": "Nội soi khớp, chọc hút dẫn lưu",
+        "description": "Bên cạnh kháng sinh điều trị, bác sĩ có thể chỉ định thực hiện dẫn lưu mủ khớp, rửa khớp để làm sạch và giảm áp lực trong khớp."
+      },
+      {
+        "name": "Điều trị ngoại khoa",
+        "description": "Với trường hợp nhiễm khuẩn nặng, khớp, xương hư hại, bác sĩ có thể cân nhắc chỉ định phẫu thuật cắt lọc xương, đặt xi măng sinh học để điều trị."
+      },
+      {
+        "name": "Biện pháp phối hợp điều trị",
+        "description": "Giảm đau, hạ sốt bằng paracetamol, kháng viêm phối hợp khi có triệu chứng đau dữ dội, sốt cao. Cung cấp đầy đủ dinh dưỡng cho cơ thể cũng như kiểm soát các bệnh mạn tính có sẵn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng liệu trình sử dụng kháng sinh theo chỉ định của bác sĩ",
+      "Nghỉ ngơi hợp lý để giảm áp lực lên khớp bị tổn thương",
+      "Bổ sung dinh dưỡng đầy đủ để tăng cường sức đề kháng",
+      "Kiểm soát tốt các bệnh mạn tính nếu có như đái tháo đường",
+      "Tái khám định kỳ theo lịch hẹn của bác sĩ để theo dõi tiến triển của bệnh",
+      "Sử dụng thuốc giảm đau theo chỉ định của bác sĩ khi cần thiết"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +124,112 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Điều trị triệt để những bệnh nhiễm trùng khi chúng xuất hiện, đặc biệt là nhiễm trùng da, mô mềm",
+      "Thường xuyên tập thể dục thể thao để nâng cao hệ thống miễn dịch, tăng sự dẻo dai cho xương khớp",
+      "Thăm khám ở các cơ sở y tế uy tín để được dùng kháng sinh thích hợp, thực hiện dẫn lưu, nội soi rửa khớp, phẫu thuật đúng kỹ thuật",
+      "Tích cực điều trị và vệ sinh vết thương theo hướng dẫn của bác sĩ khi chấn thương khớp để ngăn ngừa nguy cơ nhiễm khuẩn",
+      "Xây dựng chế độ ăn uống khoa học, tránh tình trạng tăng cân mất kiểm soát, béo phì để giảm áp lực lên các khớp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm khớp liên cầu có nguy hiểm không?",
+      "answer": "Viêm khớp liên cầu khuẩn có thể tiến triển rất nhanh và gây nguy hiểm nếu không được phát hiện và điều trị kịp thời. Các biến chứng nghiêm trọng bao gồm tổn thương khớp (vi khuẩn tấn công tất cả các cấu trúc của khớp, ăn mòn sụn, xương và có thể gây mất chức năng) và tổn thương các tạng (vi khuẩn có thể di chuyển vào những cơ quan bên trong, gây nhiễm khuẩn, nhiễm trùng toàn thân, có thể gây nguy hiểm đến tính mạng)."
+    },
+    {
+      "question": "Làm sao để chẩn đoán viêm khớp liên cầu?",
+      "answer": "Chẩn đoán viêm khớp liên cầu dựa trên nhiều phương pháp: chẩn đoán lâm sàng (thông tin về tình trạng hiện tại và tiền sử bệnh), xét nghiệm máu (kiểm tra số lượng bạch cầu, CRP, pro-calcitonin), xét nghiệm dịch khớp (chọc ổ khớp để đếm tế bào, soi nhuộm gram, cấy mủ), cấy máu (xác định chủng vi khuẩn), và chẩn đoán hình ảnh (X-quang, siêu âm, MRI để xác định vị trí và mức độ tổn thương)."
+    },
+    {
+      "question": "Viêm khớp liên cầu có thể điều trị được không?",
+      "answer": "Viêm khớp liên cầu có thể điều trị được nếu phát hiện sớm và có phương pháp điều trị phù hợp. Các phương pháp điều trị bao gồm: điều trị nội khoa (kháng sinh đường tĩnh mạch), nội soi khớp và chọc hút dẫn lưu (dẫn lưu mủ khớp, rửa khớp), điều trị ngoại khoa (phẫu thuật cắt lọc xương, đặt xi măng sinh học cho trường hợp nhiễm khuẩn nặng), và các biện pháp phối hợp (giảm đau, hạ sốt, bổ sung dinh dưỡng)."
+    },
+    {
+      "question": "Những ai dễ mắc viêm khớp liên cầu?",
+      "answer": "Những đối tượng dễ mắc viêm khớp liên cầu bao gồm: người có đề kháng kém (trẻ em, thai phụ, người lớn tuổi), người mắc bệnh đái tháo đường, người bị suy dinh dưỡng, và người đã mắc các bệnh lý về xương khớp (chấn thương khớp, gút, viêm khớp dạng thấp). Ngoài ra, người có tiền sử tổn thương da, chấn thương khớp, đã từng thực hiện các thủ thuật chọc dò dịch khớp, tiêm khớp không đúng kỹ thuật cũng có nguy cơ cao mắc bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức khớp dữ dội, sưng khớp và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-lien-cau",
+        "viem-khop-nhiem-khuan",
+        "thap-khop-cap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức khớp, sưng khớp và có mủ ở khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-lien-cau",
+        "viem-khop-nhiem-khuan",
+        "viem-xuong-khop"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sốt cao, ớn lạnh, mệt mỏi và đau khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-lien-cau",
+        "viem-khop-nhiem-khuan",
+        "thap-khop-cap"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng sưng, nóng, đỏ ở khớp và có tiền sử chấn thương da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-lien-cau",
+        "viem-khop-nhiem-khuan",
+        "nhiemtrung-mo-mem"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức khớp, sưng khớp và có mụn nhọt gần khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-lien-cau",
+        "viem-khop-nhiem-khuan",
+        "nhiem-trung-da"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức khớp, sưng khớp và có tiền sử viêm gân, cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-lien-cau",
+        "viem-khop-nhiem-khuan",
+        "viem-gan-co"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau nhức khớp, sưng khớp và có tiền sử viêm xương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-lien-cau",
+        "viem-khop-nhiem-khuan",
+        "viem-xuong-tuy"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức khớp, sưng khớp và có tiền sử viêm đường tiết niệu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-lien-cau",
+        "viem-khop-nhiem-khuan",
+        "viem-khop-phan-ung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức khớp, sưng khớp và có tiền sử viêm đường tiêu hóa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-lien-cau",
+        "viem-khop-phan-ung",
+        "viem-khop-enteropathic"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau nhức khớp, sưng khớp và có tiền sử nhiễm trùng huyết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-lien-cau",
+        "viem-khop-nhiem-khuan",
+        "nhiem-trung-huyet"
+      ]
     }
   ]
 }

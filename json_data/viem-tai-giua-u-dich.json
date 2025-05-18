@@ -1,58 +1,206 @@
 {
   "disease_id": "viem-tai-giua-u-dich",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tai giữa ứ dịch",
+  "disease_alternative_names": ["Tai giữa không nung mủ", "O.M.E"],
+  "disease_definition": "Viêm tai giữa ứ dịch (O.M.E) hay còn gọi là tai giữa không nung mủ. Đây là tình trạng ứ dịch trong tai giữa do sự điều trị không hoàn toàn bệnh viêm tai giữa cấp hoặc tắc vòi tai nhưng không bị nhiễm trùng. Ống vòi tai còn gọi là vòi eustache, là một ống dẫn dịch từ tai vào phía sau họng mũi. Nếu dòng chảy bị chặn, dịch có thể bị giữ lại trong khoang tai giữa dẫn đến tình trạng ứ dịch.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nghe kém",
+      "description": "Nghe kém dẫn truyền từ nhẹ đến trung bình, là triệu chứng biểu hiện thường xuyên nhất"
+    },
+    {
+      "name": "Ù tai",
+      "description": "Cảm giác ù tai, đặc biệt khi nuốt"
+    },
+    {
+      "name": "Đau tai",
+      "description": "Các cơn đau tai thường đi kèm với nhiễm trùng đường hô hấp trên"
+    },
+    {
+      "name": "Nặng tai",
+      "description": "Cảm giác nặng tai hoặc ù tai khi nuốt"
+    },
+    {
+      "name": "Nghe âm lượng lớn",
+      "description": "Có xu hướng nghe đài hoặc vô tuyến ở mức âm lượng lớn hơn bình thường"
+    },
+    {
+      "name": "Thay đổi ở màng nhĩ",
+      "description": "Màng nhĩ có màu hổ phách hoặc màu xám, co rút nhẹ đến nặng, có thể không di động"
+    },
+    {
+      "name": "Mức dịch khí hoặc bọt khí",
+      "description": "Có thể nhìn thấy mức dịch khí hoặc bọt khí qua màng nhĩ"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Tình trạng ứ dịch trong tai là do một số dạng rối loạn chức năng vòi Eustache.",
+    "related_factors": "Rối loạn chức năng của vòi Eustache hoặc của hệ thống lông chuyển hoặc cả hai gây tích tụ dịch tiết trong tai giữa.",
+    "transmission_routes": [
+      "Viêm tai giữa ứ dịch có thể lây nhiễm nếu có nguyên nhân từ virus"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em (đặc biệt là trẻ dưới 2 tuổi)",
+    "Nhiễm virus cảm lạnh dẫn đến nhiễm trùng tai",
+    "VA quá phát",
+    "Các khối u lân cận phát triển làm tắc vòi Eustache",
+    "Tiếp xúc với chất kích thích hóa học như khói thuốc lá",
+    "Xạ trị ở bệnh nhân mắc các bệnh ung thư đầu và cổ",
+    "Chấn thương vùng tai, đặc biệt khi áp suất không khí thay đổi nhanh chóng (đi máy bay, lặn biển)",
+    "Mắc hội chứng Down hoặc hở hàm ếch",
+    "Tiền sử viêm mũi xoang hoặc viêm amidan"
+  ],
+  "complications": [
+    "Viêm tai giữa mạn tính",
+    "Chậm phát triển lời nói và ngôn ngữ (ở trẻ em)",
+    "Học tập kém (ở trẻ em)",
+    "Rối loạn đọc (ở trẻ em)",
+    "Khó khăn trong việc giáo dục (ở trẻ em)",
+    "Gặp các vấn đề về hành vi (ở trẻ em)",
+    "Màng nhĩ biến dạng",
+    "Hoại tử xương con",
+    "Xơ nhĩ",
+    "U hạt cholesterol, cholesteatoma",
+    "Nghe kém tiếp nhận thần kinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Thăm khám tai mũi họng", "Đánh giá thính lực"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai",
+        "description": "Dùng đèn soi tai hoặc máy nội soi để phát hiện những thay đổi ở màng nhĩ như có màu hổ phách hoặc vàng đục, tăng sinh mạch máu của đầu búa, màng nhĩ co rút, hòm nhĩ chứa dịch, có mức nước hơi hoặc bọt khí"
+      },
+      {
+        "name": "Đo nhĩ lượng",
+        "description": "Xác định có dịch tai giữa bằng cách cho thấy màng nhĩ không di động, là bước kiểm tra khách quan đáng tin cậy nhất để chẩn đoán viêm tai giữa ứ dịch ở mọi lứa tuổi"
+      },
+      {
+        "name": "Đo thính lực",
+        "description": "Áp dụng cho trẻ em trên 4 tuổi và người trưởng thành, giúp đánh giá mức độ nghiêm trọng của bệnh. Suy giảm thính lực trung bình đối với viêm tai giữa ứ dịch nhẹ là 23dB, mức độ trung bình là 29dB và mức độ nặng là 34dB"
+      },
+      {
+        "name": "Khám mũi họng",
+        "description": "Giúp loại trừ khối u ác tính, đặc biệt đối với người lớn và thanh thiếu niên có viêm tai giữa ứ dịch một bên"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm tai giữa ứ dịch cần cá thể hóa. Điều này phụ thuộc vào tác nhân gây bệnh, thời gian mắc bệnh, mức độ nghiêm trọng của tình trạng nghe kém và mức độ ảnh hưởng của việc nghe kém.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc kháng sinh",
+        "description": "Đối với viêm tai giữa ứ dịch mãn tính, điều trị bằng kháng sinh kéo dài có thể giúp quản lý tình trạng nhiễm trùng"
+      },
+      {
+        "name": "Thuốc kháng histamin và thuốc thông mũi",
+        "description": "Được dùng phổ biến để làm giảm tắc nghẽn của vòi Eustache, có thể dùng đơn lẻ hoặc kết hợp"
+      },
+      {
+        "name": "Thuốc loãng dịch nhầy",
+        "description": "Trong trường hợp viêm tai giữa ứ dịch có mủ, thuốc loãng dịch nhầy có lợi cho việc thanh thải dịch qua vòi Eustache"
+      },
+      {
+        "name": "Thuốc steroid",
+        "description": "Được chỉ định khi viêm tai giữa ứ dịch có nguyên nhân do dị ứng"
+      },
+      {
+        "name": "Luyện tập thể dục vùng vòm họng",
+        "description": "Các bài tập như 'nhai kẹo cao su' và 'thổi bóng bay' có thể tạo điều kiện thuận lợi cho việc mở vòi Eustache, tăng tốc độ thông khí của tai giữa"
+      },
+      {
+        "name": "Phẫu thuật nạo VA",
+        "description": "Nạo VA hoặc kết hợp với đặt ống thông khí là một phẫu thuật phổ biến, đặc biệt khi có bằng chứng về phì đại VA hoặc nhiễm trùng khu trú"
+      },
+      {
+        "name": "Đặt ống thông khí",
+        "description": "Phương pháp điều trị phẫu thuật hiệu quả nhất, thường được chỉ định cho các trường hợp mãn tính và không đáp ứng với điều trị bảo tồn. Ống thông thường giữ nguyên vị trí trong khoảng 6-12 tháng trước khi tống ra ngoài tự nhiên"
+      },
+      {
+        "name": "Phẫu thuật khác",
+        "description": "Trong trường hợp viêm tai giữa ứ dịch gây biến chứng, các phẫu thuật mở xoang, mở xương chũm có thể được chỉ định"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ chỉ định của bác sĩ chuyên khoa tai mũi họng về liều lượng và cách dùng thuốc",
+      "Không nên tự ý mua thuốc về dùng vì có thể gây tác dụng phụ bất lợi",
+      "Theo dõi sát tình trạng bệnh, đặc biệt là khả năng nghe của trẻ",
+      "Đưa trẻ đi tái khám theo lịch hẹn của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Hạn chế tiếp xúc với người bị nhiễm virus đường hô hấp",
+      "Đảm bảo vệ sinh cá nhân tốt, rửa tay thường xuyên",
+      "Tránh môi trường có nhiều khói bụi hoặc chất kích ứng"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine đặc hiệu cho viêm tai giữa ứ dịch, nhưng vaccine phòng ngừa cảm cúm và các bệnh đường hô hấp có thể giúp giảm nguy cơ mắc bệnh",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Vệ sinh tai khô ráo, sạch sẽ; tránh để nước, dị vật, côn trùng chui vào tai",
+      "Tránh để mắc các bệnh về tai, mũi, họng đặc biệt là bệnh viêm xoang, viêm amidan, viêm VA",
+      "Tránh để mắc cảm cúm và các bệnh lây truyền khác",
+      "Khi tai, mũi, họng có các triệu chứng bất thường, trên một tuần không khỏi, cần đến bệnh viện thăm khám chuyên khoa",
+      "Không nên lấy ráy tai bằng các vật cứng, đặc biệt là tại các tiệm cắt tóc",
+      "Đối với trẻ em, cần theo dõi các dấu hiệu về nghe kém hoặc chậm phát triển ngôn ngữ để phát hiện bệnh sớm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tai giữa ứ dịch có lây không?",
+      "answer": "Viêm tai giữa ứ dịch có thể lây nhiễm nếu có nguyên nhân từ virus."
+    },
+    {
+      "question": "Viêm tai giữa ứ dịch uống thuốc gì?",
+      "answer": "Thuốc kháng sinh, thuốc kháng histamin, thuốc loãng dịch nhầy, thuốc steroid thường được dùng trong điều trị viêm tai giữa ứ dịch. Tuy nhiên, người bệnh cần dùng thuốc khi có kê đơn và chỉ định của bác sĩ chuyên khoa tai mũi họng; không nên tự ý mua thuốc về dùng vì có thể gây ra các tác dụng phụ bất lợi cho việc điều trị."
+    },
+    {
+      "question": "Viêm tai giữa ứ dịch ở người lớn có phổ biến không?",
+      "answer": "Viêm tai giữa ứ dịch phổ biến ở trẻ em, đặc biệt là trẻ dưới 2 tuổi hơn là ở người lớn. Bệnh cũng gây ảnh hưởng đến trẻ em nhiều hơn so với người lớn do giảm hoặc mất thính lực dễ dẫn đến phát triển chậm cả về ngôn ngữ và nhận thức."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nghe kém, ù tai và đau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa ứ dịch",
+        "Viêm tai giữa cấp tính",
+        "Viêm tai ngoài"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nặng tai, đau tai khi nuốt và có tiền sử viêm tai giữa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa ứ dịch",
+        "Viêm tai giữa mạn tính",
+        "Viêm vòi nhĩ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ù tai, nghe kém và phải nghe đài, vô tuyến với âm lượng lớn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa ứ dịch",
+        "Điếc dẫn truyền",
+        "Viêm tai giữa mạn tính"
+      ]
+    },
+    {
+      "question": "Con tôi bị nghe kém, chậm nói và hay nghịch tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa ứ dịch",
+        "Viêm tai giữa mạn tính",
+        "Nghe kém bẩm sinh"
+      ]
+    },
+    {
+      "question": "Tôi bị ù tai, nghe kém và có tiền sử viêm mũi xoang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa ứ dịch",
+        "Viêm vòi nhĩ",
+        "Viêm tai do viêm xoang"
+      ]
     }
   ]
 }

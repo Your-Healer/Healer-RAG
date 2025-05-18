@@ -1,39 +1,112 @@
 {
   "disease_id": "u-xo-tu-cung-khi-mang-thai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U xơ tử cung khi mang thai",
+  "disease_alternative_names": [
+    "U xơ tử cung thai kỳ",
+    "Nhân xơ tử cung khi mang thai",
+    "Uterine fibroids during pregnancy"
+  ],
+  "disease_definition": "U xơ tử cung khi mang thai là tình trạng tăng sinh ở lớp cơ trơn và mô liên kết của tử cung, dẫn đến việc hình thành các khối u ở lớp cơ tử cung trong giai đoạn thai kỳ. Bệnh được chia thành 3 nhóm: nhóm khối u nằm trong cơ tử cung, nhóm khối u nằm dưới thanh mạc và nhóm khối u ở dưới niêm mạc.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng trong 3 tháng đầu thai kỳ",
+      "description": "Khoảng 59% mẹ bầu bị u xơ tử cung có triệu chứng đau bụng trong tam cá nguyệt thứ nhất"
+    },
+    {
+      "name": "Xuất huyết bất thường trong 3 tháng đầu thai kỳ",
+      "description": "Khoảng 11% mẹ bầu bị u xơ tử cung có triệu chứng xuất huyết bất thường trong tam cá nguyệt thứ nhất"
+    },
+    {
+      "name": "Đau bụng và xuất huyết trong 3 tháng đầu thai kỳ",
+      "description": "Khoảng 30% mẹ bầu bị u xơ tử cung có cả đau bụng và xuất huyết trong tam cá nguyệt thứ nhất"
+    },
+    {
+      "name": "Đau quặn bụng",
+      "description": "Trong 3 tháng giữa và cuối thai kỳ, mẹ bầu có thể cảm thấy đau quặn bụng khi khối u bị chèn ép hoặc hoại tử vô khuẩn"
+    },
+    {
+      "name": "Đau bụng dữ dội",
+      "description": "Khi khối u tăng kích thước nhưng không được cung cấp đủ lượng máu, mẹ bầu có thể gặp phải những cơn đau bụng dữ dội"
+    },
+    {
+      "name": "Khó khăn trong chuyển dạ",
+      "description": "Khối u xơ làm giảm khả năng co bóp của tử cung, khiến cổ tử cung không mở, gây khó khăn trong quá trình sinh nở"
+    },
+    {
+      "name": "Sinh ngôi mông",
+      "description": "Mẹ bầu bị u xơ có nhiều khả năng sinh ngôi mông, tức là ngôi thai bị ngược, mông của thai nhi ở phần dưới của tử cung"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện tại nguyên nhân chính gây ra bệnh u xơ tử cung khi mang thai vẫn chưa được xác định rõ ràng.",
+    "related_factors": "Nội tiết tố nữ Estrogen có thể có liên quan đến sự hình thành và phát triển của các khối u xơ. Khi mang thai, nồng độ hormone này trong cơ thể phụ nữ tăng cao, có thể đây chính là lý do dẫn đến sự phát triển của u xơ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ trong độ tuổi sinh nở",
+    "Phụ nữ trên 35 tuổi (khoảng 40-60% phụ nữ bị u xơ tử cung ở độ tuổi này)",
+    "Phụ nữ tiền mãn kinh - mãn kinh (khoảng 80% phụ nữ bị u xơ ở tuổi 50)",
+    "Tăng cao nồng độ hormone Estrogen trong thai kỳ"
+  ],
+  "complications": [
+    "Vô sinh - hiếm muộn do thay đổi lớp nội mạc tử cung, gây bất lợi cho sự làm tổ của phôi thai",
+    "Sảy thai liên tiếp do lớp nội mạc tử cung không phát triển đầy đủ, buồng tử cung bị chèn ép",
+    "Sinh non do ngôi thai bất thường hoặc nhau thai bám ở vị trí bất thường",
+    "Khó khăn trong chuyển dạ, mất nhiều thời gian hơn",
+    "Tăng nguy cơ phải mổ lấy thai (cao gấp 6 lần so với mẹ bầu không bị u xơ)",
+    "Băng huyết sau sinh do ảnh hưởng đến khả năng co bóp của tử cung",
+    "Nhiễm khuẩn hậu sản, bế sản dịch",
+    "Thai nhi bị suy dinh dưỡng, nhẹ cân do máu nuôi dưỡng bị chia sẻ cho khối u xơ",
+    "Rau bong non, đe dọa tính mạng cả mẹ và thai nhi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe tổng quát",
+      "Chẩn đoán phân biệt giữa sự dày lên của cơ tử cung khi mang thai với bệnh lý u xơ",
+      "Theo dõi thai kỳ chặt chẽ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm 2D",
+        "description": "Kiểm tra kích thước, vị trí và đặc điểm của các khối u xơ tử cung"
+      },
+      {
+        "name": "Siêu âm 3D, 4D",
+        "description": "Cung cấp hình ảnh chi tiết hơn về khối u và mối quan hệ của nó với thai nhi"
+      },
+      {
+        "name": "Siêu âm màu Doppler",
+        "description": "Đánh giá dòng máu đến khối u và tử cung, giúp xác định mức độ nuôi dưỡng của khối u"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phác đồ điều trị u xơ tử cung khi mang thai phụ thuộc vào vị trí, số lượng, kích thước và những triệu chứng do u xơ gây ra.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa bằng Progesterone",
+        "description": "Sử dụng hormone Progesterone để giảm cơn co thắt tử cung do khối u xơ gây ra, đồng thời hạn chế sự phát triển của khối u xơ"
+      },
+      {
+        "name": "Phẫu thuật mổ lấy thai (khi đủ tháng hoặc chuyển dạ)",
+        "description": "Chỉ định cho nhiều trường hợp có u xơ tiền đạo, ngôi bất thường, hoặc có sẹo mổ cũ"
+      },
+      {
+        "name": "Phẫu thuật mổ mở bóc tách khối u xơ",
+        "description": "Tiến hành rạch một đường ở bụng để mở đường tiếp cận với tử cung nhằm loại bỏ khối u xơ, thường thực hiện 6-12 tháng sau sinh"
+      },
+      {
+        "name": "Phẫu thuật mổ nội soi bóc tách khối u xơ",
+        "description": "Rạch một đường da nhỏ gần rốn để đưa ống nội soi có gắn camera vào bụng để loại bỏ khối u, thường thực hiện 6-12 tháng sau sinh"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tham khảo ý kiến bác sĩ để được tư vấn và hướng dẫn cách chăm sóc đúng cách",
+      "Tuân thủ lịch khám thai đều đặn theo chỉ định của bác sĩ",
+      "Theo dõi thai kỳ sát sao để có can thiệp kịp thời và hiệu quả",
+      "Sau mổ u xơ, nên đợi khoảng 1 năm để tử cung hồi phục tổn thương trước khi mang thai lại",
+      "Đối với phụ nữ lớn tuổi không còn nhu cầu sinh con, có thể cân nhắc cắt bỏ tử cung để điều trị triệt để"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +114,67 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám phụ khoa định kỳ để phát hiện sớm các khối u xơ tử cung",
+      "Điều trị các khối u xơ tử cung trước khi mang thai nếu có thể",
+      "Theo dõi chặt chẽ thai kỳ nếu đã được chẩn đoán có u xơ tử cung",
+      "Tham khảo ý kiến bác sĩ về thời điểm thích hợp để mang thai sau khi điều trị u xơ tử cung"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bị u xơ tử cung có mang thai được không?",
+      "answer": "Có thể mang thai khi bị u xơ tử cung. Với khối u xơ có kích thước nhỏ hơn 5cm và không gây biến chứng, chị em vẫn có thể mang thai bình thường nhưng cần tuân thủ chặt chẽ lịch thăm khám. Đối với khối u xơ có kích thước lớn hơn 5cm hoặc gây biến chứng nguy hiểm, cần được điều trị mổ bóc tách khối u xơ trước khi mang thai."
+    },
+    {
+      "question": "Vì sao bị u xơ tử cung khi mang thai?",
+      "answer": "Nguyên nhân chính gây u xơ tử cung khi mang thai chưa được xác định rõ ràng. Tuy nhiên, nội tiết tố nữ Estrogen có thể liên quan đến sự hình thành và phát triển của các khối u xơ. Khi mang thai, nồng độ hormone này trong cơ thể phụ nữ tăng cao, có thể đây chính là lý do dẫn đến sự phát triển của u xơ."
+    },
+    {
+      "question": "Ảnh hưởng của khối u xơ tử cung đến thai kỳ là gì?",
+      "answer": "U xơ tử cung có thể gây ra nhiều biến chứng trong thai kỳ như vô sinh - hiếm muộn, sảy thai liên tiếp, sinh non, khó khăn trong chuyển dạ, tăng nguy cơ mổ lấy thai, băng huyết sau sinh, nhiễm khuẩn hậu sản, và ảnh hưởng đến sự phát triển của thai nhi như suy dinh dưỡng, nhẹ cân. Một biến chứng nguy hiểm là rau bong non, đe dọa tính mạng cả mẹ và thai nhi."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, hoặc tình trạng xuất huyết bất thường, hoặc gặp cả hai triệu chứng trong 3 tháng đầu thai kỳ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U xơ tử cung khi mang thai",
+        "Dọa sảy thai",
+        "Thai ngoài tử cung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau quặn bụng trong 3 tháng giữa và 3 tháng cuối thai kỳ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U xơ tử cung khi mang thai",
+        "Chuyển dạ sớm",
+        "Rau bong non"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng dữ dội trong thai kỳ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U xơ tử cung khi mang thai",
+        "Rau bong non",
+        "Vỡ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị rau bong non trong thai kỳ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U xơ tử cung khi mang thai",
+        "Tăng huyết áp thai kỳ",
+        "Tiền sản giật"
+      ]
+    },
+    {
+      "question": "Tôi bị sinh non. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U xơ tử cung khi mang thai",
+        "Viêm màng ối",
+        "Đa thai"
+      ]
     }
   ]
 }

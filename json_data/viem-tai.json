@@ -1,58 +1,210 @@
 {
   "disease_id": "viem-tai",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tai",
+  "disease_alternative_names": [
+    "Viêm tai ngoài",
+    "Viêm tai giữa",
+    "Viêm tai trong",
+    "Ear infection"
+  ],
+  "disease_definition": "Viêm tai là tình trạng tai bị nhiễm trùng dẫn đến viêm và đau. Tình trạng viêm có thể kèm sưng tấy, chảy mủ tai, tai có mùi hôi và có thể nghe kém.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhức tai",
+      "description": "Cảm giác đau tai, đặc biệt khi nằm xuống hoặc chạm vào tai"
+    },
+    {
+      "name": "Tai sưng, tấy đỏ",
+      "description": "Tai bị sưng, đỏ và nóng khi chạm vào"
+    },
+    {
+      "name": "Chảy mủ tai",
+      "description": "Dịch chảy ra từ tai, có thể là mủ hoặc dịch trong"
+    },
+    {
+      "name": "Tai có mùi hôi",
+      "description": "Mùi hôi phát ra từ tai do nhiễm trùng"
+    },
+    {
+      "name": "Ngứa tai",
+      "description": "Cảm giác ngứa ngáy trong tai"
+    },
+    {
+      "name": "Ù tai",
+      "description": "Cảm giác nghe tiếng ù hoặc tiếng vo ve trong tai"
+    },
+    {
+      "name": "Giảm thính lực",
+      "description": "Khả năng nghe bị giảm sút, âm thanh không rõ"
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng thân nhiệt, thường đi kèm với các triệu chứng khác"
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Cảm giác quay cuồng, không giữ được thăng bằng"
+    },
+    {
+      "name": "Mất thăng bằng",
+      "description": "Khó khăn trong việc duy trì thăng bằng khi đứng hoặc đi lại"
+    },
+    {
+      "name": "Đau nhức đầu",
+      "description": "Đau đầu, thường xuất hiện kèm theo viêm tai"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân gây viêm tai phổ biến nhất là do nhiễm vi khuẩn, virus và nấm. Trong đó, các loại vi khuẩn Streptococcus pneumoniae, Haemophilus influenzae và virus cảm lạnh là tác nhân chủ yếu gây bệnh viêm tai.",
+    "related_factors": "Các yếu tố liên quan đến bệnh viêm tai bao gồm tổn thương tai, bơi lội, suy giảm miễn dịch, viêm mũi xoang, dị ứng và các bệnh về da.",
+    "transmission_routes": [
+      "Lây qua đường không khí nếu viêm tai do virus cúm",
+      "Trẻ em độ tuổi mẫu giáo thường bị viêm tai giữa do nhiễm virus cúm khi đi học",
+      "Viêm tai do bơi lội thường không có tính lây nhiễm"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tổn thương tai",
+    "Bơi lội",
+    "Suy giảm miễn dịch",
+    "Viêm mũi xoang",
+    "Dị ứng",
+    "Viêm da tiết bã",
+    "Bệnh vảy nến",
+    "Chàm",
+    "Sử dụng thiết bị hỗ trợ thính lực",
+    "Phẫu thuật tai",
+    "Trẻ nhỏ vệ sinh tai kém"
+  ],
+  "complications": [
+    "Thủng màng nhĩ dẫn đến nghe kém",
+    "Viêm xương chũm",
+    "Viêm mê nhĩ dẫn đến rối loạn tiền đình với các biểu hiện mất cân bằng, chóng mặt",
+    "Liệt mặt do tổn thương dây thần kinh vận động cơ mặt (thần kinh mặt)",
+    "Các biến chứng nội sọ nguy hiểm như viêm màng não, apxe nội sọ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng tai",
+      "Khai thác bệnh sử",
+      "Đánh giá các triệu chứng đặc trưng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Khám tai",
+        "description": "Bác sĩ sẽ kiểm tra tai bằng dụng cụ chuyên dụng để phát hiện các dấu hiệu viêm, sưng tấy hoặc tích tụ dịch."
+      },
+      {
+        "name": "Kiểm tra thính lực",
+        "description": "Đánh giá khả năng nghe và mức độ giảm thính lực do viêm tai gây ra."
+      },
+      {
+        "name": "Lấy mẫu dịch tai",
+        "description": "Lấy mẫu dịch chảy ra từ tai để xét nghiệm xác định loại vi khuẩn hoặc nấm gây bệnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy thuộc vào loại viêm tai, bác sĩ có thể đưa ra các phương pháp điều trị phù hợp gồm điều trị nội khoa và điều trị ngoại khoa.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Bao gồm vệ sinh tai, sử dụng các loại thuốc như thuốc nhỏ tai, thuốc thoa ngoài tai, thuốc kháng sinh và kháng viêm. Một số trường hợp có thể cần dùng thuốc chống nấm nếu có bằng chứng nhiễm nấm."
+      },
+      {
+        "name": "Phẫu thuật vá màng nhĩ",
+        "description": "Quy trình phẫu thuật nhằm sửa chữa màng nhĩ thủng do nhiễm trùng và giúp ngăn ngừa nhiễm trùng trong tương lai, giúp cải thiện sức nghe."
+      },
+      {
+        "name": "Mở màng nhĩ và đặt ống dẫn lưu",
+        "description": "Được sử dụng cho những bệnh nhân thường xuyên bị tích tụ dịch trong tai giữa. Bác sĩ sẽ tạo ra một lỗ nhỏ và đưa ống nhân tạo vào để dẫn dịch tai ra ngoài."
+      },
+      {
+        "name": "Khoan xương chũm",
+        "description": "Bác sĩ sẽ rạch một đường sau tai để tiếp cận xương chũm, sau đó khoan và làm sạch xương chũm giúp ngăn ngừa viêm tai mạn tính."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ đúng liều lượng và thời gian dùng thuốc theo chỉ định của bác sĩ",
+      "Trẻ em dưới 6 tháng tuổi chỉ dùng acetaminophen để giảm đau",
+      "Trẻ em từ 6 tháng tuổi trở lên có thể uống acetaminophen hoặc ibuprofen",
+      "Không cho trẻ uống aspirin vì có thể gây ra hội chứng Reye",
+      "Không tự ý điều trị bằng các phương pháp dân gian chưa được kiểm chứng"
+    ],
+    "prevention_of_transmission": [
+      "Hạn chế tiếp xúc với người bị cảm cúm",
+      "Rửa tay thường xuyên",
+      "Che miệng khi ho hoặc hắt hơi"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng các loại vắc xin cúm và vắc xin phế cầu khuẩn để bảo vệ chống lại một nguyên nhân phổ biến gây nhiễm trùng tai giữa, viêm phổi do Streptococcus.",
+      "recommended_for": [
+        "Trẻ em",
+        "Người cao tuổi",
+        "Người có hệ miễn dịch yếu"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Luôn giữ vệ sinh tay",
+      "Cho trẻ bú sữa mẹ hoàn toàn cho đến khi trẻ được 6 tháng tuổi và tiếp tục cho bú ít nhất 12 tháng",
+      "Không hút thuốc và tránh tiếp xúc với khói thuốc",
+      "Lau thật khô tai sau khi bơi",
+      "Không dùng chung dụng cụ lấy ráy tai, vệ sinh tai",
+      "Lấy ráy tai đúng cách, tránh làm tổn thương tai",
+      "Ở các bệnh nhân suy giảm miễn dịch như HIV, ung thư, đái tháo đường nên thường xuyên kiểm tra tai",
+      "Tránh nhiễm cúm gây biến chứng ảnh hưởng đến tai",
+      "Những người sử dụng máy trợ thính, cấy điện cực ốc tai nên thường xuyên kiểm tra tình trạng thiết bị"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tai có lây không?",
+      "answer": "Nếu viêm tai do virus cúm thì có thể gây lây nhiễm trong cộng đồng. Trẻ em độ tuổi mẫu giáo thường bị viêm tai giữa do nhiễm virus cúm khi đi học. Viêm tai do bơi lội thường không có tính lây nhiễm."
+    },
+    {
+      "question": "Viêm tai có gây điếc không?",
+      "answer": "Viêm tai kéo dài không được điều trị, hoặc điều trị không đúng cách có thể gây biến chứng thủng màng nhĩ dẫn đến suy giảm thính lực, hoặc điếc. Các biến chứng khác như viêm xương chũm, viêm mê nhĩ, liệt mặt, viêm màng não thường phải can thiệp phẫu thuật và thời gian hồi phục rất lâu. Sau điều trị, thính lực của bệnh nhân có thể bị ảnh hưởng."
+    },
+    {
+      "question": "Khi nào cần đi khám khi bị viêm tai?",
+      "answer": "Sau một tuần tình trạng viêm tai không cải thiện, người bệnh cần khám bác sĩ chuyên khoa Tai Mũi Họng để được chẩn đoán và điều trị. Nếu có các triệu chứng nghiêm trọng như đau dữ dội, sốt cao, chóng mặt, mất thăng bằng, hoặc dịch mủ chảy ra từ tai, cần đi khám ngay lập tức."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang bị đau tai và ngứa tai, kèm theo chảy dịch tai có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tai", "Viêm tai ngoài", "Nấm ống tai ngoài"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ù tai và nghe kém sau khi đi bơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tai", "Viêm tai do bơi lội", "Viêm tai ngoài"]
+    },
+    {
+      "question": "Tôi hay bị đau tai và sưng tấy tai, kèm theo chảy dịch tai màu vàng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai",
+        "Viêm tai ngoài",
+        "Viêm tai giữa cấp tính"
+      ]
+    },
+    {
+      "question": "Tôi đang bị đau đầu, chóng mặt và sốt, kèm theo chảy dịch tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai",
+        "Viêm tai giữa",
+        "Viêm tai trong",
+        "Viêm mê nhĩ"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy mủ tai kéo dài và đau đầu, kèm theo sốt và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai",
+        "Viêm tai giữa mủ mạn tính",
+        "Viêm xương chũm"
+      ]
     }
   ]
 }

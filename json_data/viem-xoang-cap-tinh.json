@@ -1,58 +1,221 @@
 {
   "disease_id": "viem-xoang-cap-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm xoang cấp tính",
+  "disease_alternative_names": ["Viêm mũi xoang cấp tính", "Acute sinusitis"],
+  "disease_definition": "Viêm xoang cấp tính là loại viêm xoang khởi phát với các triệu chứng kéo dài dưới 4 tuần. Đây là bệnh lý mũi xoang thường gặp, chiếm khoảng 30 triệu lượt thăm khám và chăm sóc ban đầu trên toàn cầu. Loại viêm xoang này có thể tự khỏi nhưng cũng có thể phải điều trị bằng thuốc hoặc phẫu thuật.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chảy mủ mũi",
+      "description": "Chảy dịch mũi màu vàng xanh hoặc đục ra phía trước"
+    },
+    {
+      "name": "Chảy dịch mũi sau",
+      "description": "Chảy dịch mũi có mủ hoặc đổi màu xuống phía sau họng"
+    },
+    {
+      "name": "Nghẹt mũi hoặc tắc nghẽn",
+      "description": "Cảm giác khó thở qua mũi, mũi bị bít"
+    },
+    {
+      "name": "Giảm hoặc mất mùi",
+      "description": "Khả năng cảm nhận mùi giảm hoặc mất hoàn toàn"
+    },
+    {
+      "name": "Đau mặt",
+      "description": "Đau nhức vùng chữ T (trán, hai bên cánh mũi, gò má)"
+    },
+    {
+      "name": "Sốt",
+      "description": "Nhiệt độ cơ thể tăng cao, đặc biệt nếu sốt cao (trên 39°C) kèm chảy mủ mũi hoặc đau mặt kéo dài 3-4 ngày liên tục"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Cảm giác đau nhức đầu, thường kèm theo các triệu chứng khác"
+    },
+    {
+      "name": "Đau tai hoặc cảm giác đầy tai",
+      "description": "Cảm giác đau hoặc đầy ở tai do liên quan đến sự tắc nghẽn của ống Eustachian"
+    },
+    {
+      "name": "Hôi miệng",
+      "description": "Hơi thở có mùi hôi do dịch mủ chảy xuống họng"
+    },
+    {
+      "name": "Đau răng",
+      "description": "Cảm giác đau nhức vùng răng, đặc biệt là răng hàm trên"
+    },
+    {
+      "name": "Ho",
+      "description": "Ho do kích thích từ dịch mũi chảy xuống họng"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, uể oải do cơ thể đang chống lại nhiễm trùng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm xoang cấp tính thường do tắc nghẽn lỗ thông xoang khiến vi khuẩn tồn tại, tiếp cận và sinh sôi trong các xoang cạnh mũi. Nguyên nhân phổ biến nhất gây tắc nghẽn tạm thời các vùng dẫn lưu là phù nề cục bộ do nhiễm trùng đường hô hấp trên (URI) hoặc dị ứng mũi.",
+    "related_factors": "Các yếu tố liên quan đến viêm xoang cấp tính bao gồm tắc nghẽn lỗ thông xoang (do khối u hoặc lệch vách ngăn), rối loạn chức năng của lông mao (như hội chứng Kartagener), và dịch tiết xoang đặc (xơ nang).",
+    "transmission_routes": [
+      "Virus đường hô hấp lây từ người sang người",
+      "Nhiễm trùng từ khoang mũi tiến triển vào các xoang"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm trùng đường hô hấp trên (cảm cúm)",
+    "Dị ứng mũi",
+    "Dị vật mũi",
+    "Bất thường về cấu trúc như lệch vách ngăn",
+    "Polyp mũi hoặc u xoang",
+    "Rối loạn ảnh hưởng đến chức năng đường mật",
+    "Hút thuốc lá",
+    "Tiếp xúc với chất gây dị ứng như phấn hoa, lông động vật, hóa chất"
+  ],
+  "complications": [
+    "Viêm mô tế bào",
+    "Viêm mô tế bào ổ mắt",
+    "Áp xe dưới màng xương",
+    "Áp xe ổ mắt",
+    "Huyết khối xoang hang",
+    "Tụ máu dưới màng cứng",
+    "Tụ máu ngoài màng cứng",
+    "Viêm màng não hoặc mủ màng cứng",
+    "U sưng phồng Pott (áp xe dưới màng xương của xương trán)",
+    "Viêm xoang do nấm xâm lấn (ở người suy giảm miễn dịch)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá các triệu chứng lâm sàng",
+      "Chẩn đoán phân biệt giữa viêm mũi xoang cấp tính do virus và vi khuẩn"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá chỉ số ESR và CRP tăng cao trong máu có thể liên quan đến nhiễm trùng do vi khuẩn"
+      },
+      {
+        "name": "Nuôi cấy dịch mủ",
+        "description": "Nuôi cấy dịch hút nội soi để xác định loại vi khuẩn gây bệnh và độ nhạy với kháng sinh, thường dùng cho các trường hợp kháng trị"
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Có thể hiển thị mức chất lỏng không khí nhưng không giúp phân biệt nguyên nhân virus và vi khuẩn"
+      },
+      {
+        "name": "Chụp CT xoang",
+        "description": "Giúp đánh giá xương, mô mềm, răng hoặc các bất thường về giải phẫu, có thể cho thấy mức độ dịch-khí, mờ và viêm"
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Cung cấp nhiều chi tiết hơn CT xoang về mô mềm, giúp xác định mức độ biến chứng trong các trường viêm xoang lan đến nội sọ"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm xoang cấp tính bao gồm điều trị nội khoa hoặc phẫu thuật trong trường hợp có biến chứng cần giải quyết. Các liệu pháp hỗ trợ tại chỗ cũng có thể hữu ích cho quá trình điều trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kháng sinh",
+        "description": "Amoxicillin có hoặc không có clavulanate thường được dùng như liệu pháp đầu tay. Thời gian điều trị kéo dài từ 5-10 ngày ở người lớn và 7-14 ngày ở trẻ em."
+      },
+      {
+        "name": "Xịt rửa mũi",
+        "description": "Thuốc xịt mũi Steroid giúp giảm sưng niêm mạc, giảm tắc nghẽn. Rửa mũi bằng nước muối sinh lý cũng giúp giảm tắc nghẽn."
+      },
+      {
+        "name": "Thuốc kháng histamin",
+        "description": "Chỉ được khuyến nghị khi có thành phần dị ứng rõ ràng, vì chúng có khả năng làm đặc dịch tiết mũi."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Được chỉ định khi nghi ngờ viêm xoang cấp tính dạng xâm lấn do nấm hoặc có biến chứng cần can thiệp."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ đúng phác đồ kháng sinh nếu được chỉ định",
+      "Rửa mũi với dung dịch nước muối sinh lý thường xuyên",
+      "Nghỉ ngơi và uống nhiều nước",
+      "Tránh các yếu tố kích thích như khói thuốc, hóa chất",
+      "Dùng thuốc giảm đau như acetaminophen nếu cần thiết"
+    ],
+    "prevention_of_transmission": [
+      "Đeo khẩu trang khi ra khỏi nhà, đến nơi đông người",
+      "Thường xuyên rửa tay bằng xà bông hoặc dung dịch sát khuẩn",
+      "Tránh tiếp xúc gần với người bị cảm cúm"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin phòng bệnh cúm là biện pháp tốt để phòng ngừa viêm xoang do cúm, vì cúm là một trong những nguyên nhân gây viêm xoang cấp tính.",
+      "recommended_for": [
+        "Người trong độ tuổi khuyến cáo tiêm phòng cúm",
+        "Người có tiền sử viêm xoang thường xuyên",
+        "Người có bệnh nền mạn tính"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh xa các yếu tố gây dị ứng như phấn hoa, lông động vật, hóa chất",
+      "Phòng ngừa cảm cúm, tác nhân gây viêm mũi xoang do virus phổ biến",
+      "Đeo khẩu trang khi ra khỏi nhà, đến nơi đông người",
+      "Thường xuyên rửa tay bằng xà bông hoặc dung dịch sát khuẩn",
+      "Giữ ấm và bảo vệ tai mũi họng",
+      "Tránh để viêm tai giữa có thể gây biến chứng viêm xoang",
+      "Không hút thuốc lá",
+      "Không để viêm mũi kéo dài gây biến chứng viêm xoang",
+      "Tăng cường miễn dịch bằng chế độ dinh dưỡng đầy đủ",
+      "Sinh hoạt khoa học, vận động mỗi ngày"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm xoang cấp có nguy hiểm không?",
+      "answer": "Viêm xoang cấp tính hiếm khi gây nguy hiểm vì hầu hết các trường hợp là do virus và sẽ tự khỏi. Viêm xoang do vi khuẩn cấp tính không biến chứng có thể điều trị dễ dàng bằng thuốc kháng sinh. Tuy nhiên, nếu có biến chứng, bệnh có thể gây hậu quả nghiêm trọng. Các biến chứng nguy hiểm nhất như biến chứng nội sọ, có thể để lại di chứng bệnh tật hoặc đe dọa tính mạng người bệnh."
+    },
+    {
+      "question": "Viêm xoang cấp kiêng ăn gì?",
+      "answer": "Không có khuyến nghị chính thức về ăn uống cho bệnh viêm xoang, tuy nhiên, thực tế cho thấy khi ăn các món nóng, ấm sẽ hạn chế tình trạng nghẹt xoang hơn. Ngược lại, ăn/uống thực phẩm lạnh làm tình trạng tắc nghẽn xoang nặng hơn. Hút thuốc lá, uống rượu bia cũng khiến cho viêm xoang nặng hơn. Việc sử dụng thực phẩm gây dị ứng làm tăng nặng tình trạng viêm xoang. Các thực phẩm gây dị ứng có thể khác nhau ở mỗi người."
+    },
+    {
+      "question": "Viêm xoang cấp có lây không?",
+      "answer": "Nếu viêm xoang do vi khuẩn thì không lây bệnh, viêm xoang do virus có lây bệnh. Do đó, tiêm vắc xin phòng bệnh cúm là biện pháp tốt để phòng ngừa viêm xoang do cúm."
+    },
+    {
+      "question": "Viêm xoang cấp gây chảy máu mũi không?",
+      "answer": "Hầu như viêm xoang cấp không gây chảy máu mũi. Các triệu chứng thường thấy là nghẹt mũi, chảy dịch mũi, đau nhức vùng chữ T, có thể kèm đau đầu."
+    },
+    {
+      "question": "Viêm xoang cấp có bị sốt không?",
+      "answer": "Viêm xoang cấp tính do virus có thể gây sốt, mệt mỏi và các triệu chứng khác của bệnh cúm. Nếu các triệu chứng viêm xoang cấp không cải thiện mà trở nên trầm trọng người bệnh cần tái khám ngay với bác sĩ để được chẩn đoán và can thiệp kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như chảy mủ mũi, nghẹt mũi và đau nhức vùng chữ T. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang cấp tính", "Viêm mũi", "Cảm cúm"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu, sốt và chảy nước mũi màu vàng xanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang cấp tính", "Viêm mũi", "Cảm cúm"]
+    },
+    {
+      "question": "Tôi hay bị nghẹt mũi, chảy nước mũi và đau nhức mặt sau khi bị cảm lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang cấp tính", "Viêm mũi", "Viêm mũi dị ứng"]
+    },
+    {
+      "question": "Tôi đang bị đau đầu, sưng mắt và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang cấp tính",
+        "Viêm mô tế bào ổ mắt",
+        "Viêm mô tế bào"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau đầu, sốt cao và chảy mủ mũi kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang cấp tính",
+        "Viêm xoang do vi khuẩn",
+        "Nhiễm trùng đường hô hấp trên"
+      ]
     }
   ]
 }

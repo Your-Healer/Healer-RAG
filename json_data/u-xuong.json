@@ -1,39 +1,124 @@
 {
   "disease_id": "u-xuong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U xương",
+  "disease_alternative_names": ["Khối u xương", "Bướu xương", "Bone tumor"],
+  "disease_definition": "U xương là tình trạng xương xuất hiện khối u do sự phát triển bất thường của tế bào xương. Khối u ở xương có thể lành tính hoặc ác tính, tùy thuộc vào nguyên nhân mà từng người bệnh gặp phải. Khối u phát triển sẽ ảnh hưởng đến các mô khỏe mạnh bên trong xương và từ đó gây ra những cản trở bất tiện về vận động của người bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau xương không rõ nguyên nhân",
+      "description": "Cảm giác đau âm ỉ quanh vùng có khối u, cường độ cơn đau tăng dần theo thời gian"
+    },
+    {
+      "name": "Sưng tấy tại vị trí có khối u",
+      "description": "Xuất hiện sưng tại vị trí khối u phát triển, có thể có biểu hiện nóng đỏ"
+    },
+    {
+      "name": "Dễ gãy xương hơn bình thường",
+      "description": "Xương trở nên yếu dần, dễ gãy ngay cả khi chỉ chịu các chấn thương nhẹ"
+    },
+    {
+      "name": "Đau khi vận động mạnh",
+      "description": "Cơn đau xuất hiện khi người bệnh vận động mạnh, tạo áp lực lớn lên vị trí khối u"
+    },
+    {
+      "name": "Đau đầu xương dài",
+      "description": "Đối với u xương sụn, người bệnh thường đau nhức ở xương cánh tay hoặc xương chân"
+    },
+    {
+      "name": "Đau đầu trên xương dài",
+      "description": "Với u tế bào khổng lồ, đau thường xuất hiện ở đầu trên xương chày, xương đùi, xương quay và đầu dưới xương cùng"
+    },
+    {
+      "name": "Đau lưng và ngực",
+      "description": "Triệu chứng phổ biến ở bệnh đa u tủy, người bệnh thường đau xương dai dẳng ở phần lưng và ngực"
+    },
+    {
+      "name": "Phồng xương",
+      "description": "Xuất hiện ở những người trên 25 tuổi, với nang xương phình mạch"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân u xương ở người hiện nay vẫn chưa được xác định rõ ràng.",
+    "related_factors": "Một số yếu tố có thể liên quan đến sự hình thành u xương bao gồm xạ trị, tác dụng phụ của thuốc chống ung thư, tiền sử chấn thương xương, và di truyền. U xương ác tính có thể là nguyên phát hoặc thứ phát do di căn từ các bệnh ung thư khác như ung thư vú, ung thư thận, ung thư phổi, ung thư tuyến tiền liệt, và ung thư tuyến giáp.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Độ tuổi 10-20 (cho u xương lành tính)",
+    "Tiền sử xạ trị",
+    "Sử dụng thuốc chống ung thư",
+    "Tiền sử chấn thương xương",
+    "Yếu tố di truyền",
+    "Mắc các bệnh ung thư khác (cho u xương do di căn)",
+    "Tiền sử gia đình có người mắc bệnh ung thư xương"
+  ],
+  "complications": [
+    "Mất chức năng chi thể",
+    "Tàn phế",
+    "Yếu xương, dễ gãy xương",
+    "Di căn đến các cơ quan khác (đối với u xương ác tính)",
+    "Phá hủy các mô xương bình thường"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: kiểm tra vùng nghi ngờ có khối u",
+      "Đánh giá tình trạng độ mềm trong xương",
+      "Kiểm tra phạm vi vận động",
+      "Xét nghiệm máu và nước tiểu"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Phương pháp tạo hình ảnh cơ bản để quan sát cấu trúc xương và phát hiện bất thường"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Cung cấp hình ảnh chi tiết hơn về cấu trúc xương và mô mềm xung quanh"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Tạo hình ảnh chi tiết của khối u và mối quan hệ với các cấu trúc xung quanh"
+      },
+      {
+        "name": "Sinh thiết khối u",
+        "description": "Lấy mẫu mô từ khối u để xác định bản chất lành tính hay ác tính"
+      },
+      {
+        "name": "Sinh thiết mở",
+        "description": "Phẫu thuật nhỏ để lấy mẫu mô lớn hơn trong trường hợp sinh thiết thông thường không đủ"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị u xương phụ thuộc vào loại u, vị trí, kích thước và mức độ ác tính của khối u.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi",
+        "description": "Đối với u xương lành tính không gây triệu chứng, bác sĩ có thể chỉ theo dõi vì khối u có thể tự biến mất theo thời gian"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ khối u",
+        "description": "Loại bỏ hoàn toàn khối u, áp dụng cho cả u lành tính lớn và u ác tính"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Thường kết hợp với phẫu thuật để thu nhỏ khối u trước phẫu thuật hoặc tiêu diệt tế bào ung thư còn sót lại"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng thuốc để tiêu diệt tế bào ung thư đang phát triển hoặc có khả năng di căn cao"
+      },
+      {
+        "name": "Phẫu thuật lạnh",
+        "description": "Loại bỏ tế bào ung thư bằng nitơ lỏng, đóng băng và tiêu diệt các tế bào ung thư"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám đúng hẹn với bác sĩ để theo dõi tình trạng khối u",
+      "Tự quản lý sức khỏe cơ thể",
+      "Tuân thủ đúng những yêu cầu của bác sĩ",
+      "Thực hiện lối sống khỏe mạnh và chế độ dinh dưỡng phù hợp để thúc đẩy quá trình hồi phục",
+      "Chú ý các tác dụng phụ có thể gặp phải khi thực hiện hóa trị, xạ trị như buồn nôn, cáu gắt, rụng tóc, suy nhược cơ thể"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +126,56 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Có chế độ dinh dưỡng phù hợp, lành mạnh, đặc biệt cung cấp lượng canxi vừa đủ cho cơ thể",
+      "Thực hiện thăm khám định kỳ 2 lần/năm",
+      "Tập luyện thể thao để duy trì sức khỏe",
+      "Hạn chế tối đa việc tiếp xúc với các chất độc hại, tia phóng xạ",
+      "Có ý thức ngừa bệnh sớm nếu người trong gia đình có bệnh sử liên quan đến xương hoặc ung thư xương"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U xương lành tính có điều trị không?",
+      "answer": "U xương lành tính không nhất thiết điều trị nếu người bệnh không bị triệu chứng cản trở các hoạt động và vận động thường ngày. Thông thường, khối u lành tính sẽ tiêu biến dần theo thời gian. Tuy nhiên, nếu khối u không biến mất hoặc phát triển to hơn, bác sĩ có thể chỉ định phẫu thuật cắt bỏ khối u để tránh tình trạng lan rộng hoặc biến đổi thành khối u ác tính."
+    },
+    {
+      "question": "Các loại u xương ác tính thường gặp là gì?",
+      "answer": "Các loại u xương ác tính thường gặp bao gồm: Sarcoma xương (ung thư xương tạo xương), Sarcoma Ewing (thường gặp ở thanh thiếu niên), Sarcoma sụn (ung thư sụn), ung thư di căn xương (từ ung thư vú, thận, phổi, tuyến tiền liệt, tuyến giáp), và bệnh đa u tủy (ung thư của tương bào)."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa u xương?",
+      "answer": "U xương chưa có phương pháp ngăn ngừa hoàn toàn. Cách phòng ngừa tối ưu nhất là xây dựng một nền sức khỏe tổng thể tốt thông qua: chế độ dinh dưỡng phù hợp với đủ canxi, thăm khám định kỳ 2 lần/năm, tập luyện thể thao, hạn chế tiếp xúc với chất độc hại và tia phóng xạ, và có ý thức ngừa bệnh sớm nếu gia đình có tiền sử bệnh xương hoặc ung thư xương."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau xương không rõ nguyên nhân, cường độ cơn đau tăng dần theo thời gian. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U xương", "Viêm xương tủy", "Loãng xương"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau xương và sưng tấy tại vị trí có khối u. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U xương", "Viêm khớp", "Áp xe xương"]
+    },
+    {
+      "question": "Tôi hay bị đau xương và dễ gãy xương hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U xương ác tính", "Loãng xương", "Đa u tủy xương"]
+    },
+    {
+      "question": "Tôi đang ở độ tuổi vị thành niên và bị đau nhức ở xương cánh tay hoặc xương chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U xương sụn",
+        "Viêm xương khớp thiếu niên",
+        "Đau phát triển"
+      ]
+    },
+    {
+      "question": "Tôi bị đau xương dai dẳng, đặc biệt ở phần lưng và ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Bệnh đa u tủy",
+        "Thoái hóa cột sống",
+        "Ung thư di căn xương"
+      ]
     }
   ]
 }

@@ -1,39 +1,135 @@
 {
   "disease_id": "ung-thu-duong-vat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư dương vật",
+  "disease_alternative_names": [
+    "Ung thư biểu mô tế bào vảy dương vật",
+    "Ung thư biểu mô tế bào đáy dương vật",
+    "Ung thư tế bào hắc tố dương vật",
+    "Sarcoma dương vật"
+  ],
+  "disease_definition": "Ung thư dương vật xảy ra khi các tế bào phát triển ngoài tầm kiểm soát bên ngoài hoặc trong dương vật của nam giới. Bệnh thường bắt đầu từ các tế bào da, cũng có thể xuất hiện \"mầm mống\" bên trong trong dương vật.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thay đổi độ dày hoặc màu sắc da dương vật",
+      "description": "Da dương vật trở nên dày hơn hoặc thay đổi màu sắc bất thường"
+    },
+    {
+      "name": "Phát ban hoặc nốt sần nhỏ",
+      "description": "Xuất hiện phát ban hoặc các nốt sần nhỏ đóng vảy trên dương vật"
+    },
+    {
+      "name": "Nổi cục u trên dương vật",
+      "description": "Xuất hiện khối u nhỏ hoặc to trên bề mặt dương vật"
+    },
+    {
+      "name": "Dịch tiết hôi",
+      "description": "Dịch tiết có mùi hôi dưới bao quy đầu"
+    },
+    {
+      "name": "Đau và chảy máu",
+      "description": "Cảm thấy đau, có thể chảy máu khi cương cứng hoặc khi quan hệ tình dục"
+    },
+    {
+      "name": "Sưng dương vật",
+      "description": "Dương vật bị sưng phù bất thường"
+    },
+    {
+      "name": "Nổi hạch vùng háng",
+      "description": "Nổi cục phía dưới lớp da vùng háng do di căn hạch bạch huyết"
+    },
+    {
+      "name": "Vết loét",
+      "description": "Xuất hiện vết loét trên bề mặt dương vật, có thể tăng kích thước theo thời gian"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đến nay, nguyên nhân chính gây ra ung thư dương vật vẫn chưa rõ ràng. Tuy nhiên, có một số yếu tố nguy cơ được xác định có liên quan đến việc phát triển bệnh.",
+    "related_factors": "Các yếu tố liên quan đến ung thư dương vật bao gồm nhiễm virus HPV, không cắt bao quy đầu, hẹp bao quy đầu dẫn đến tích tụ chất lỏng và cặn bã, điều trị bệnh vẩy nến bằng thuốc psoralen và tia cực tím (UV), hút thuốc và suy giảm miễn dịch do HIV/AIDS.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm virus u nhú ở người (HPV)",
+    "Tuổi trên 60",
+    "Hút thuốc lá",
+    "Hệ thống miễn dịch suy yếu do mắc bệnh HIV/AIDS",
+    "Không cắt bao quy đầu",
+    "Hẹp bao quy đầu",
+    "Điều trị bệnh vẩy nến bằng thuốc psoralen và tia cực tím (UV)",
+    "Chấn thương dương vật",
+    "Nhiễm trùng đường tiết niệu tái phát",
+    "Mụn cóc sinh dục",
+    "Niệu đạo hẹp"
+  ],
+  "complications": [
+    "Di căn đến hạch bạch huyết vùng háng",
+    "Di căn đến các cơ quan khác trong cơ thể",
+    "Hoại tử da dương vật",
+    "Mất chức năng sinh lý",
+    "Tử vong (khi ở giai đoạn cuối)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe tổng quát",
+      "Hỏi tiền sử bệnh và các triệu chứng",
+      "Kiểm tra các thay đổi bất thường ở dương vật"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sinh thiết",
+        "description": "Lấy một mẫu mô nhỏ từ khu vực tổn thương trên da dương vật để kiểm tra tế bào ung thư"
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Chụp X-quang để tìm các khối u hoặc dấu hiệu ung thư đã di căn"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Chụp cắt lớp vi tính để tìm các khối u hoặc dấu hiệu di căn đến các bộ phận khác"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Sử dụng sóng âm để tạo hình ảnh các mô và cơ quan bên trong cơ thể"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết của các mô mềm để tìm dấu hiệu di căn"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị ung thư dương vật phụ thuộc vào giai đoạn phát hiện bệnh. Nếu ung thư ở giai đoạn đầu, có nhiều lựa chọn điều trị có thể áp dụng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc dạng kem bôi da",
+        "description": "Sử dụng các loại kem đặc biệt bôi lên vùng da bị ảnh hưởng để điều trị ung thư giai đoạn sớm"
+      },
+      {
+        "name": "Phương pháp áp lạnh",
+        "description": "Sử dụng chất lỏng cực lạnh hoặc thiết bị để đóng băng và phá hủy mô ung thư"
+      },
+      {
+        "name": "Phẫu thuật Mohs",
+        "description": "Loại bỏ từng lớp da bị ảnh hưởng từng cho đến khi chạm đến mô khỏe mạnh"
+      },
+      {
+        "name": "Điều trị bằng laser",
+        "description": "Sử dụng laser để cắt và tiêu diệt các khu vực có ung thư"
+      },
+      {
+        "name": "Phẫu thuật cắt bao quy đầu",
+        "description": "Áp dụng nếu ung thư chỉ giới hạn ở phần bao quy đầu"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ",
+        "description": "Phẫu thuật cắt bỏ khối u hoặc một phần dương vật trong trường hợp ung thư đã phát triển"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch khám theo dõi sau điều trị",
+      "Báo cáo với bác sĩ nếu xuất hiện các triệu chứng mới hoặc tái phát",
+      "Duy trì lối sống lành mạnh",
+      "Không hút thuốc và hạn chế rượu bia"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +137,71 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tự kiểm tra thường xuyên những thay đổi trên vùng kín",
+      "Thăm khám sức khỏe định kỳ mỗi 6 tháng một lần",
+      "Duy trì đời sống tình dục lành mạnh, sử dụng bao cao su để tránh nhiễm HPV, HIV",
+      "Không hút thuốc lá, lạm dụng rượu bia",
+      "Tập thể dục hàng ngày",
+      "Ăn uống khoa học",
+      "Tránh căng thẳng stress và tiếp xúc với hóa chất độc hại",
+      "Cắt bao quy đầu ngay từ khi mới chào đời"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư dương vật có nguy hiểm không?",
+      "answer": "Ung thư dương vật nguy hiểm nhưng có thể chữa trị. Nếu phát hiện ở giai đoạn 0 hoặc 1, tỷ lệ sống thêm sau 5 năm khoảng 85%. Ở giai đoạn 3 và 4, tỷ lệ này giảm xuống khoảng 59%. Nếu ung thư di căn đến các bộ phận xa, tỷ lệ sống thêm sau 5 năm chỉ còn 11%. Phát hiện sớm sẽ giúp tăng khả năng chữa khỏi và bảo tồn được dương vật."
+    },
+    {
+      "question": "Khi nào cần gặp bác sĩ khi nghi ngờ ung thư dương vật?",
+      "answer": "Nam giới nên đi khám bác sĩ Nam khoa khi thấy bất cứ dấu hiệu bất thường nào ở dương vật như thay đổi màu sắc da, phát ban, nốt sần, nổi cục u, dịch tiết hôi, đau hoặc chảy máu khi cương cứng. Những người từng bị chấn thương dương vật, nhiễm trùng đường tiết niệu, mụn cóc sinh dục, hẹp bao quy đầu chưa cắt, hoặc niệu đạo hẹp cũng nên khám định kỳ thường xuyên."
+    },
+    {
+      "question": "Cắt bao quy đầu có phòng ngừa được ung thư dương vật không?",
+      "answer": "Có, cắt bao quy đầu ngay từ khi mới chào đời đã được chứng minh và công nhận là một biện pháp có thể giúp phòng ngừa ung thư dương vật hiệu quả cho nam giới. Việc cắt bao quy đầu giúp tránh tình trạng tích tụ chất lỏng và cặn bã dưới bao quy đầu, vốn là môi trường thuận lợi cho vi khuẩn phát triển và gây viêm nhiễm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như thay đổi màu sắc da dương vật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dương vật",
+        "Viêm bao quy đầu",
+        "Bệnh Peyronie"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lo lắng vì xuất hiện các nốt sần trên dương vật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dương vật",
+        "Mụn cóc sinh dục",
+        "Viêm nang lông"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau dương vật và chảy máu khi cương cứng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dương vật",
+        "Viêm bao quy đầu",
+        "Hẹp bao quy đầu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng dương vật và tiết dịch hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dương vật",
+        "Viêm bao quy đầu",
+        "Nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nổi cục u trên dương vật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dương vật",
+        "U lành tính dương vật",
+        "Nang bã đậu"
+      ]
     }
   ]
 }

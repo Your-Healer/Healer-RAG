@@ -1,39 +1,131 @@
 {
   "disease_id": "ung-thu-buong-trung-giai-doan-1",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư buồng trứng giai đoạn 1",
+  "disease_alternative_names": [
+    "Ung thư buồng trứng giai đoạn I",
+    "Stage 1 Ovarian Cancer"
+  ],
+  "disease_definition": "Ung thư buồng trứng giai đoạn 1 là sự xuất hiện các tế bào ung thư khu trú giới hạn ở buồng trứng, chưa xâm lấn các cơ quan lân cận và chưa di căn xa. Ở giai đoạn này, người bệnh thường không biểu hiện các triệu chứng lâm sàng rõ ràng hay triệu chứng mơ hồ, phát hiện thông qua khám sức khỏe định kỳ hoặc tầm soát ung thư.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng dưới",
+      "description": "Cảm giác đau ở vùng bụng dưới hoặc vùng bụng-chậu, các cơn đau có thể thoáng qua hay liên tục"
+    },
+    {
+      "name": "Sụt cân nhanh không rõ lý do",
+      "description": "Giảm cân bất thường mà không có nguyên nhân rõ ràng"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Không có cảm giác ngon miệng, không muốn ăn uống"
+    },
+    {
+      "name": "Chướng bụng",
+      "description": "Cảm giác đầy hơi, khó chịu ở vùng bụng"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài không rõ nguyên nhân"
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Các vấn đề về tiêu hóa, đặc biệt là táo bón"
+    },
+    {
+      "name": "Ra máu bất thường",
+      "description": "Xuất hiện máu bất thường từ âm đạo"
+    },
+    {
+      "name": "Rối loạn tiết niệu",
+      "description": "Triệu chứng như tiểu nhiều lần, tiểu khó, khó chịu khi đi tiểu"
+    },
+    {
+      "name": "Đau lưng",
+      "description": "Cảm giác đau nhức ở vùng lưng, có thể do di căn xương"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính gây ung thư buồng trứng giai đoạn 1 chưa được xác định rõ ràng.",
+    "related_factors": "Một số yếu tố liên quan đến nguy cơ phát triển ung thư buồng trứng bao gồm yếu tố di truyền, đặc biệt là đột biến gen BRCA1/2.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người thân mắc ung thư buồng trứng",
+    "Tiền sử gia đình có người thân mắc ung thư vú",
+    "Đột biến gen BRCA1/2",
+    "Tuổi cao",
+    "Các yếu tố liên quan đến hormone sinh dục nữ"
+  ],
+  "complications": [
+    "Tiến triển thành giai đoạn cao hơn nếu không được điều trị kịp thời",
+    "Di căn đến các cơ quan lân cận",
+    "Di căn xa đến phổi, xương, gây các triệu chứng tương ứng",
+    "Tác động tâm lý, ảnh hưởng chất lượng cuộc sống",
+    "Tái phát sau điều trị"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Khai thác thông tin tiền sử cá nhân và gia đình",
+      "Thăm khám toàn thân, khám âm đạo, bàng quang-trực tràng và các cơ quan"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm qua ngả âm đạo",
+        "description": "Phát hiện khối đặc bất thường tại tiểu khung, tổn thương nghi ngờ di căn phúc mạc, di căn gan"
+      },
+      {
+        "name": "Siêu âm ổ bụng",
+        "description": "Kiểm tra các tổn thương trong ổ bụng"
+      },
+      {
+        "name": "Chụp cộng hưởng từ",
+        "description": "Đánh giá tính chất của khối u về kích thước, đặc tính, mức độ xâm lấn xung quanh, di căn hạch"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính",
+        "description": "Đánh giá giai đoạn bệnh và tìm dấu hiệu di căn xa tới các cơ quan khác"
+      },
+      {
+        "name": "Xét nghiệm máu đánh giá dấu ấn sinh học khối u",
+        "description": "Đo lường các dấu ấn sinh học như CA-125, AFP, bêta-hCG hỗ trợ chẩn đoán"
+      },
+      {
+        "name": "Sinh thiết trong mổ",
+        "description": "Lấy mẫu bệnh phẩm từ khối u và những tổn thương nghi ngờ khác để đánh giá tính chất lành tính hay ác tính"
+      },
+      {
+        "name": "Nội soi đường tiêu hóa",
+        "description": "Được chỉ định khi bệnh nhân có biểu hiện bệnh lý lan tràn trong ổ bụng hoặc có triệu chứng đường tiêu hóa"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Ung thư buồng trứng giai đoạn sớm có thể điều trị thành công với phẫu thuật, một số trường hợp được chỉ định điều trị hóa trị bổ trợ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Vai trò của phẫu thuật nhằm khẳng định chẩn đoán, đánh giá mức độ xâm lấn của khối u và lấy tối đa tổn thương khối u"
+      },
+      {
+        "name": "Phẫu thuật bảo tồn",
+        "description": "Áp dụng trong trường hợp người bệnh còn nguyện vọng sinh sản"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ toàn bộ",
+        "description": "Cắt bỏ toàn bộ tử cung, buồng trứng và vòi tử cung 2 bên, mạc nối lớn dưới đại tràng ngang, ruột thừa (trong trường hợp thể nhầy) khi người bệnh không còn nguyện vọng sinh đẻ"
+      },
+      {
+        "name": "Hóa trị bổ trợ",
+        "description": "Chỉ định cho một số ca bệnh như ung thư buồng trứng giai đoạn IC, ung thư biểu mô thanh dịch độ mô học cao, tồn dư khối u sau phẫu thuật"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Thăm khám định kỳ mỗi 2-4 tháng trong vòng 2 năm đầu",
+      "Thăm khám mỗi 3-6 tháng cho 3 năm tiếp theo",
+      "Thăm khám 1 năm 1 lần sau 5 năm",
+      "Xét nghiệm di truyền đánh giá các gen nguy cơ cao có liên quan tới bệnh sinh của ung thư buồng trứng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +133,67 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám phụ khoa định kỳ để phát hiện sớm các bất thường",
+      "Xét nghiệm di truyền cho những người có tiền sử gia đình mắc ung thư buồng trứng hoặc ung thư vú",
+      "Phẫu thuật dự phòng cắt tử cung và phần phụ có thể được tư vấn cho phụ nữ độ tuổi 35-40 mang đột biến gen BRCA1/2",
+      "Tầm soát định kỳ đối với nhóm người có nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư buồng trứng giai đoạn 1 có chữa khỏi không?",
+      "answer": "Thực tế ung thư buồng trứng giai đoạn sớm có thể điều trị thành công với phẫu thuật, một số trường hợp được chỉ định điều trị hóa trị bổ trợ. Theo các nghiên cứu, ung thư buồng trứng giai đoạn 1 có hiệu quả điều trị thành công đến 90%."
+    },
+    {
+      "question": "Ung thư buồng trứng giai đoạn 1 sống được bao lâu?",
+      "answer": "Nếu được phát hiện giai đoạn sớm, tiên lượng sống của bệnh nhân ung thư buồng trứng trên 5 năm rất cao, lên đến 90%. Tuy nhiên, kết quả điều trị sẽ phụ thuộc vào nhiều yếu tố như tuổi tác, tình trạng sức khỏe chung, các bệnh lý nội-ngoại khoa đi kèm, phân loại giải phẫu bệnh, và nhiều yếu tố khác."
+    },
+    {
+      "question": "Ung thư buồng trứng giai đoạn 1 được phân loại như thế nào?",
+      "answer": "Theo phân loại FIGO, ung thư buồng trứng giai đoạn I được chia thành 3 nhóm nhỏ: IA (khối u giới hạn ở một bên buồng trứng hoặc vòi tử cung), IB (khối u giới hạn ở hai bên buồng trứng hoặc vòi tử cung), và IC (khối u ở một hoặc hai bên buồng trứng kèm theo yếu tố nguy cơ như vỡ vỏ bao u trước mổ hoặc phát hiện tế bào u trong dịch cổ trướng)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng dưới, sụt cân và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng giai đoạn 1",
+        "Viêm ruột thừa",
+        "Viêm phần phụ"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chướng bụng, mệt mỏi và khó chịu khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng giai đoạn 1",
+        "Viêm bàng quang",
+        "U xơ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, rối loạn tiêu hóa và ra máu bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng giai đoạn 1",
+        "Polyp tử cung",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như sụt cân, đau lưng và táo bón. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng giai đoạn 1",
+        "Thoát vị đĩa đệm",
+        "Hội chứng ruột kích thích"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn và đau bụng vùng khung chậu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng giai đoạn 1",
+        "Viêm nội mạc tử cung",
+        "U nang buồng trứng"
+      ]
     }
   ]
 }

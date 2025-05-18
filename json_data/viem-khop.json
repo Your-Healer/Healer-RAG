@@ -1,39 +1,138 @@
 {
   "disease_id": "viem-khop",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm khớp",
+  "disease_alternative_names": ["Bệnh lý viêm khớp", "Viêm đa khớp"],
+  "disease_definition": "Viêm khớp là tên gọi để chỉ một nhóm gồm hơn 100 bệnh lý về khớp. Khi mắc bệnh này, người bệnh sẽ bị sưng, đau của một hoặc nhiều khớp trên cơ thể. Các triệu chứng chính của bệnh là đau và cứng khớp, thường nặng dần theo thời gian. Các bệnh lý này đều liên quan đến khớp ở mọi vị trí trên cơ thể, chẳng hạn như khớp cổ tay, đầu gối, hông, ngón tay, vai... Đặc biệt, một số loại còn ảnh hưởng đến các mô và cơ quan liên kết khác như da, mắt, tim, phổi...",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau khớp",
+      "description": "Cảm giác đau ở các khớp, có thể từ nhẹ đến dữ dội, thường trở nên trầm trọng hơn theo thời gian."
+    },
+    {
+      "name": "Khớp cứng và sưng",
+      "description": "Các khớp bị ảnh hưởng trở nên cứng, khó cử động và sưng phồng lên, đặc biệt sau thời gian nghỉ ngơi hoặc vào buổi sáng."
+    },
+    {
+      "name": "Phạm vi chuyển động hạn chế",
+      "description": "Khả năng cử động của khớp bị giảm, người bệnh gặp khó khăn khi thực hiện các động tác bình thường."
+    },
+    {
+      "name": "Đỏ và ấm khu vực xung quanh khớp",
+      "description": "Vùng da xung quanh khớp bị viêm có thể đỏ, nóng và đau khi chạm vào."
+    },
+    {
+      "name": "Sốt",
+      "description": "Triệu chứng này thường xuất hiện trong các loại viêm khớp do nhiễm khuẩn hoặc do bệnh tự miễn."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác kiệt sức, thiếu năng lượng thường xuyên đi kèm với các loại viêm khớp, đặc biệt là viêm khớp dạng thấp."
+    },
+    {
+      "name": "Khó chịu",
+      "description": "Cảm giác không thoải mái tổng thể trong cơ thể, thường đi kèm với các triệu chứng viêm khớp khác."
+    },
+    {
+      "name": "Xuất hiện các khối u và bướu",
+      "description": "Trong một số loại viêm khớp như bệnh gút hoặc viêm khớp dạng thấp, có thể xuất hiện các khối u cứng dưới da gần khớp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây viêm khớp khác nhau tùy theo loại viêm khớp. Có thể do quá trình tự miễn dịch (như trong viêm khớp dạng thấp), thoái hóa theo tuổi tác (như trong thoái hóa khớp), nhiễm khuẩn (viêm khớp nhiễm khuẩn), hoặc do phản ứng với nhiễm trùng ở nơi khác trong cơ thể (viêm khớp phản ứng).",
+    "related_factors": "Nhiều yếu tố có thể góp phần gây viêm khớp, bao gồm di truyền, tuổi tác, giới tính, tiền sử chấn thương khớp, béo phì và các yếu tố môi trường như tiếp xúc với hóa chất độc hại.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác: Nguy cơ mắc bệnh viêm khớp tăng theo tuổi",
+    "Giới tính: Phụ nữ có nguy cơ mắc một số loại viêm khớp cao hơn nam giới",
+    "Tiền sử gia đình: Nhiều loại viêm khớp có yếu tố di truyền",
+    "Thừa cân - béo phì: Gây áp lực lên khớp, làm tăng nguy cơ viêm và thoái hóa",
+    "Hút thuốc lá: Làm tăng nguy cơ mắc viêm khớp dạng thấp và làm trầm trọng thêm các triệu chứng",
+    "Tiếp xúc với môi trường chứa hóa chất: Chất như amiăng, silica có thể kích thích phản ứng viêm",
+    "Chấn thương khớp: Tổn thương khớp do tai nạn hoặc chơi thể thao có thể dẫn đến viêm khớp",
+    "Dị dạng xương: Người có khớp dị dạng hoặc sụn khiếm khuyết dễ bị viêm và thoái hóa khớp",
+    "Nhiễm trùng: Một số bệnh nhiễm trùng có thể dẫn đến viêm khớp phản ứng",
+    "Bệnh mạn tính: Các bệnh như đái tháo đường, lupus, viêm khớp dạng thấp làm tăng nguy cơ phát triển các loại viêm khớp khác"
+  ],
+  "complications": [
+    "Rối loạn giấc ngủ do đau khớp kéo dài",
+    "Vôi hóa sụn khớp dẫn đến khớp cứng và đau hơn",
+    "Biến dạng khớp, đặc biệt là ở các ngón tay và cổ tay",
+    "Tổn thương các cơ quan khác như tim, phổi, mắt, da trong trường hợp viêm khớp dạng thấp và lupus",
+    "Sỏi thận và bệnh thận cấp tính ở bệnh nhân gút",
+    "Cứng và mất linh hoạt cột sống trong viêm cột sống dính khớp",
+    "Trầm cảm và lo âu do đau mạn tính và giảm khả năng vận động",
+    "Giảm chất lượng cuộc sống do hạn chế vận động và đau kéo dài",
+    "Tàn phế và mất khả năng lao động trong trường hợp nặng",
+    "Suy giảm hệ miễn dịch do điều trị thuốc ức chế miễn dịch kéo dài"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để kiểm tra chất lỏng xung quanh khớp, tình trạng sưng, nóng, đỏ và phạm vi cử động",
+      "Xét nghiệm máu để kiểm tra các loại kháng thể",
+      "Chụp X-quang để thấy rõ hình ảnh về hệ cơ xương khớp",
+      "Chụp MRI để đánh giá chi tiết tình trạng sụn, xương và mô mềm",
+      "Chụp CT để có cái nhìn chi tiết về cấu trúc xương",
+      "Siêu âm để kiểm tra tình trạng viêm tại khớp",
+      "Sinh thiết màng hoạt dịch trong một số trường hợp đặc biệt"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu tìm kháng thể",
+        "description": "Kiểm tra các kháng thể như anti-CCP, RF (Yếu tố dạng thấp) và ANA (Kháng thể kháng nhân), giúp chẩn đoán các bệnh lý tự miễn như viêm khớp dạng thấp hoặc lupus."
+      },
+      {
+        "name": "Xét nghiệm nồng độ axit uric",
+        "description": "Xác định nồng độ axit uric trong máu, một chỉ số quan trọng để chẩn đoán bệnh gút."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Cung cấp hình ảnh về tình trạng xương, khoảng cách khớp, và các thay đổi như gai xương hoặc xói mòn xương."
+      },
+      {
+        "name": "Chụp MRI",
+        "description": "Tạo hình ảnh chi tiết về mô mềm, sụn và cấu trúc bên trong khớp, giúp phát hiện sớm các tổn thương chưa thể thấy trên X-quang."
+      },
+      {
+        "name": "Phân tích dịch khớp",
+        "description": "Lấy mẫu dịch từ khớp để kiểm tra tế bào và tinh thể, giúp chẩn đoán viêm khớp nhiễm khuẩn và gút."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu chính của việc điều trị các bệnh lý viêm khớp là giảm thiểu cơn đau và ngăn ngừa khớp bị tổn thương thêm. Phương pháp điều trị phụ thuộc vào loại viêm khớp và mức độ nghiêm trọng của bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc giảm đau",
+        "description": "Thuốc như hydrocodone (Vicodin) hoặc acetaminophen (Tylenol) có hiệu quả trong việc kiểm soát cơn đau, nhưng không giúp giảm viêm."
+      },
+      {
+        "name": "Thuốc chống viêm không steroid (NSAID)",
+        "description": "Thuốc như ibuprofen (Advil) và salicylat giúp kiểm soát cả đau và viêm, thường được sử dụng để điều trị các loại viêm khớp."
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch",
+        "description": "Các thuốc như prednisone hoặc cortisone giúp giảm viêm bằng cách ức chế hệ thống miễn dịch, thường dùng cho các bệnh lý viêm khớp tự miễn."
+      },
+      {
+        "name": "Phẫu thuật thay khớp",
+        "description": "Phẫu thuật để thay khớp nhân tạo được chỉ định cho các bệnh nhân viêm khớp mức độ nặng khi các biện pháp khác không hiệu quả, phổ biến nhất đối với khớp hông và đầu gối."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Sử dụng các bài tập giúp tăng cường các cơ xung quanh khớp bị ảnh hưởng, giảm đau, tăng sự linh hoạt và phạm vi cử động."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tập thể dục thường xuyên với các bài tập phù hợp với tình trạng bệnh",
+      "Cân bằng hoạt động với nghỉ ngơi, thả lỏng cơ thể khi mệt mỏi",
+      "Duy trì chế độ dinh dưỡng lành mạnh, giảm thực phẩm gây viêm",
+      "Duy trì cân nặng hợp lý để giảm áp lực lên khớp",
+      "Cải thiện chất lượng giấc ngủ để giảm mệt mỏi và đau nhức",
+      "Sử dụng các thiết bị hỗ trợ như gậy hoặc khung tập đi khi cần",
+      "Chườm đá hoặc chườm nóng để giảm đau và viêm",
+      "Tuân thủ đúng phác đồ điều trị của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +140,92 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tăng cường các loại cá béo giàu axit béo omega-3 trong khẩu phần ăn, như cá hồi, cá thu, cá mòi",
+      "Tập thể dục đều đặn để tăng cường sức mạnh cho các cơ xung quanh khớp",
+      "Kết hợp các bài tập aerobic nhẹ nhàng với các bài tập tăng cường sức mạnh và kéo giãn",
+      "Kiểm soát cân nặng để giảm áp lực lên các khớp chịu lực",
+      "Tránh chấn thương bằng cách sử dụng đúng kỹ thuật khi tập luyện và làm việc",
+      "Mang thiết bị bảo vệ khi chơi thể thao để giảm nguy cơ chấn thương",
+      "Duy trì tư thế đúng khi ngồi và làm việc để giảm áp lực lên cột sống và khớp",
+      "Không hút thuốc và hạn chế tiếp xúc với khói thuốc lá",
+      "Ăn nhiều rau xanh, trái cây và thực phẩm giàu chất chống viêm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm khớp có chữa được không?",
+      "answer": "Không phải tất cả các loại viêm khớp đều có thể chữa khỏi hoàn toàn. Tuy nhiên, với sự kết hợp giữa thuốc, vật lý trị liệu, thay đổi lối sống và đôi khi là phẫu thuật, hầu hết người bệnh có thể kiểm soát tốt các triệu chứng và duy trì chất lượng cuộc sống. Một số loại viêm khớp như viêm khớp phản ứng có thể tự khỏi trong vòng 12 tháng nếu được điều trị đúng cách."
+    },
+    {
+      "question": "Viêm khớp có bao nhiêu loại?",
+      "answer": "Có hơn 100 loại viêm khớp khác nhau. Một số loại phổ biến nhất bao gồm viêm khớp dạng thấp, thoái hóa khớp, viêm khớp nhiễm khuẩn, viêm khớp phản ứng, viêm cột sống dính khớp, gút, lupus ban đỏ hệ thống, viêm khớp vảy nến và đau cơ xơ hóa."
+    },
+    {
+      "question": "Những vị trí nào thường bị viêm khớp nhất?",
+      "answer": "Các vị trí khớp thường bị viêm nhất là khớp gối, khớp háng, khớp cổ tay, khớp cổ chân, và khớp ở các ngón tay. Tùy vào loại viêm khớp, các vị trí bị ảnh hưởng có thể khác nhau. Ví dụ, bệnh gút thường ảnh hưởng đến khớp ngón chân cái, trong khi viêm khớp dạng thấp thường ảnh hưởng đến các khớp nhỏ ở bàn tay và bàn chân."
+    },
+    {
+      "question": "Điều gì làm tăng nguy cơ mắc viêm khớp?",
+      "answer": "Các yếu tố làm tăng nguy cơ mắc viêm khớp bao gồm: tuổi tác (nguy cơ tăng theo tuổi), giới tính (phụ nữ có nguy cơ cao hơn với một số loại), tiền sử gia đình (yếu tố di truyền), thừa cân - béo phì, hút thuốc lá, tiếp xúc với hóa chất độc hại, chấn thương khớp trước đó, và một số bệnh mạn tính như đái tháo đường hoặc bệnh tự miễn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau khớp, cứng khớp và sưng khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop", "viem-khop-dang-thap", "thoai-hoa-khop"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sốt và khó chịu. Các khớp của tôi bị sưng và đau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop",
+        "viem-khop-dang-thap",
+        "viem-khop-nhiem-khuan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khớp gối, đau khớp háng và cứng khớp vào buổi sáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop", "viem-khop-dang-thap", "thoai-hoa-khop"]
+    },
+    {
+      "question": "Tôi bị đau khớp và có tiền sử gia đình mắc bệnh viêm khớp dạng thấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop",
+        "viem-khop-dang-thap",
+        "lupus-ban-do-he-thong"
+      ]
+    },
+    {
+      "question": "Tôi hút thuốc lá và hiện đang bị đau khớp, sưng khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop", "viem-khop-dang-thap", "thoai-hoa-khop"]
+    },
+    {
+      "question": "Tôi bị thừa cân và hiện đang bị đau khớp gối, đau khớp háng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop", "thoai-hoa-khop", "viem-khop-goi"]
+    },
+    {
+      "question": "Tôi từng bị chấn thương khớp và hiện đang bị đau, cứng khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop",
+        "thoai-hoa-khop",
+        "viem-khop-sau-chan-thuong"
+      ]
+    },
+    {
+      "question": "Tôi bị gout và hiện đang bị đau dữ dội ở khớp ngón chân cái. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop", "gut", "viem-khop-do-crystal"]
+    },
+    {
+      "question": "Tôi bị viêm cột sống dính khớp và hiện đang bị đau lưng, cứng cột sống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop",
+        "viem-cot-song-dinh-khop",
+        "thoai-hoa-cot-song"
+      ]
+    },
+    {
+      "question": "Tôi bị đau khớp ở nhiều vị trí trên cơ thể. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-khop", "viem-khop-dang-thap", "dau-co-xo-hoa"]
     }
   ]
 }

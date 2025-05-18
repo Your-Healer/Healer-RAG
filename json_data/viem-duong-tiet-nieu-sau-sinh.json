@@ -1,39 +1,111 @@
 {
   "disease_id": "viem-duong-tiet-nieu-sau-sinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm đường tiết niệu sau sinh",
+  "disease_alternative_names": [
+    "Nhiễm trùng đường tiết niệu sau sinh",
+    "Nhiễm trùng tiểu sau sinh",
+    "UTI sau sinh"
+  ],
+  "disease_definition": "Viêm đường tiết niệu sau sinh là tình trạng nhiễm trùng đường tiết niệu thường diễn ra trong vài ngày hoặc vài tuần sau khi sinh. Đây là tình trạng vi khuẩn (điển hình nhất là E.Coli) tấn công các bộ phận của hệ tiết niệu bao gồm thận, niệu quản, bàng quang. Do đặc thù của quá trình sinh nở, phụ nữ sinh mổ có nhiều nguy cơ bị nhiễm trùng tiểu hơn phụ nữ sinh thường.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tiểu buốt, tiểu gắt",
+      "description": "Cảm giác đau rát, khó chịu khi đi tiểu, là triệu chứng phổ biến nhất của viêm đường tiết niệu sau sinh."
+    },
+    {
+      "name": "Cảm thấy nặng và đau âm ỉ ở vùng bụng dưới",
+      "description": "Cảm giác tức nặng và đau âm ỉ ở vùng bụng dưới, gây khó chịu và ảnh hưởng đến sinh hoạt hàng ngày."
+    },
+    {
+      "name": "Buồn tiểu thường xuyên",
+      "description": "Cảm giác muốn đi tiểu liên tục, nhưng lại tiểu rất ít, gây khó chịu và ảnh hưởng đến giấc ngủ."
+    },
+    {
+      "name": "Nước tiểu đục hoặc có mùi hôi",
+      "description": "Nước tiểu có màu đục, không trong và có mùi hôi bất thường, là dấu hiệu của sự nhiễm trùng."
+    },
+    {
+      "name": "Triệu chứng nặng",
+      "description": "Trong trường hợp viêm nặng, có thể xuất hiện sốt, ớn lạnh, đau ở lưng dưới hoặc một bên lưng, buồn nôn, nôn mửa, nước tiểu có lẫn máu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm đường tiết niệu sau sinh chủ yếu do vi khuẩn E.Coli xâm nhập vào hệ tiết niệu gây viêm nhiễm.",
+    "related_factors": "Quá trình sinh nở có thể gây chấn thương sàn chậu, mất trương lực bàng quang, tê liệt tạm thời bàng quang, gây ứ đọng nước tiểu tạo điều kiện cho vi khuẩn sinh sôi. Việc đặt ống thông tiểu, gây mê khi sinh mổ, sưng và đau tầng sinh môn cũng là các yếu tố làm tăng nguy cơ nhiễm trùng.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sinh mổ (4,6% phụ nữ sinh mổ phải điều trị viêm đường tiết niệu sau sinh)",
+    "Sinh thường (3,5% phụ nữ sinh thường phải điều trị viêm đường tiết niệu sau sinh)",
+    "Đặt ống thông tiểu trong quá trình sinh nở",
+    "Chấn thương sàn chậu trong khi sinh",
+    "Gây mê khi sinh mổ",
+    "Sưng và đau tầng sinh môn",
+    "Bàng quang bị mất trương lực hoặc tê liệt tạm thời",
+    "Kiêng cữ tắm rửa, vệ sinh vùng kín không thường xuyên sau sinh"
+  ],
+  "complications": [
+    "Viêm thận cấp tính hoặc mạn tính",
+    "Nhiễm trùng huyết",
+    "Suy thận",
+    "Ảnh hưởng đến quá trình hồi phục sau sinh",
+    "Khó khăn trong việc chăm sóc trẻ sơ sinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Xét nghiệm nước tiểu",
+      "Nuôi cấy vi khuẩn",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phân tích mẫu nước tiểu",
+        "description": "Xét nghiệm này giúp phát hiện tế bào bạch cầu, hồng cầu hoặc vi khuẩn để xác định tình trạng viêm nhiễm đường tiết niệu."
+      },
+      {
+        "name": "Nuôi cấy vi khuẩn",
+        "description": "Xét nghiệm này chỉ ra loại vi khuẩn đang gây nhiễm trùng (thường là E.Coli) để quyết định loại thuốc kháng sinh phù hợp."
+      },
+      {
+        "name": "Siêu âm đường tiết niệu",
+        "description": "Giúp bác sĩ khảo sát đường tiết niệu để tìm ra điểm bất thường về cấu trúc."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Cung cấp hình ảnh chi tiết hơn về hệ tiết niệu, đặc biệt trong các trường hợp viêm nhiễm phức tạp."
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Được thực hiện khi sản phụ bị nhiễm trùng tiểu thường xuyên, giúp kiểm tra, đánh giá tình trạng nhiễm trùng hoặc lấy mẫu mô, nước tiểu để khảo sát."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm đường tiết niệu sau sinh phụ thuộc vào mức độ nghiêm trọng của tình trạng viêm nhiễm. Nhiều loại kháng sinh điều trị viêm đường tiết niệu khá an toàn, ít gây tác dụng phụ nên vẫn có thể được kê cho các trường hợp sản phụ mắc bệnh và đang cho con bú.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng kháng sinh",
+        "description": "Nhóm kháng sinh phổ rộng beta lactam được chỉ định cho sản phụ bị nhiễm trùng tiểu, an toàn cho cả mẹ và bé. Đối với nhiễm trùng không biến chứng, thời gian điều trị thường là 2-3 ngày. Trong trường hợp nhiễm trùng nặng, có thể kéo dài đến 14 ngày hoặc nhiều hơn."
+      },
+      {
+        "name": "Thuốc giảm đau, hạ sốt",
+        "description": "Được kê đơn để giảm các triệu chứng khó chịu như đau, sốt khi tình trạng viêm đường tiểu sau sinh chuyển biến nặng."
+      },
+      {
+        "name": "Thuốc tiêu viêm",
+        "description": "Giúp giảm viêm, giảm các triệu chứng khó chịu và đẩy nhanh quá trình hồi phục."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống nhiều nước để đào thải vi khuẩn ra khỏi hệ bài tiết",
+      "Tăng cường thực phẩm có khả năng ngăn chặn vi sinh vật gây bệnh như nam việt quất, trái cây họ cam quýt",
+      "Vệ sinh vùng kín đúng cách bằng các chất tẩy rửa dịu nhẹ",
+      "Thường xuyên thay băng vệ sinh để tránh sản dịch ứ đọng",
+      "Chọn trang phục thoáng mát, ngăn vi khuẩn phát triển",
+      "Thận trọng khi quan hệ tình dục và chú ý vệ sinh sạch sẽ ngay sau đó",
+      "Không chủ quan vì bệnh có thể trở nặng nhanh chóng nếu không được điều trị kịp thời"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +113,99 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Đi tiểu trong vòng 6-8 giờ đầu sau khi sinh",
+      "Thường xuyên tiểu sạch để bàng quang không bị ứ đọng",
+      "Tăng cường nước cho cơ thể để giúp đào thải độc tố, làm sạch đường tiết niệu",
+      "Ngồi lên và di chuyển nhẹ nhàng ngay khi có thể sau khi sinh",
+      "Trao đổi với bác sĩ nếu gặp khó khăn trong việc đi tiểu",
+      "Bổ sung các loại thực phẩm tốt cho bệnh nhân bị viêm đường tiết niệu",
+      "Vệ sinh vùng kín đúng cách, từ trước ra sau",
+      "Không nhịn tiểu khi có cảm giác buồn tiểu"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Đang cho con bú có thể dùng thuốc điều trị viêm đường tiết niệu không?",
+      "answer": "Có, hiện nay có nhiều loại kháng sinh điều trị viêm đường tiết niệu khá an toàn, ít gây tác dụng phụ nên vẫn có thể được kê cho các trường hợp sản phụ mắc bệnh và đang cho con bú. Tuy nhiên, sản phụ nên tham khảo ý kiến bác sĩ trước khi sử dụng bất kỳ loại thuốc nào."
+    },
+    {
+      "question": "Làm thế nào để phân biệt đau rát sinh lý sau sinh với viêm đường tiết niệu?",
+      "answer": "Tình trạng đau rát khi đi tiểu rất thường gặp khi bạn vừa sinh nở và sẽ biến mất trong thời gian ngắn. Nếu sinh qua đường âm đạo, vài cơn đau nhói, tiểu buốt có thể do tầng sinh môn bị rách, đáy chậu chưa phục hồi và sẽ cải thiện sau khoảng 2 tuần. Với sản phụ sinh mổ, các cơn đau ở đường tiểu thường do đặt ống thông tiểu và biến mất sau khi rút ống. Nếu cảm giác đau rát, rối loạn tiểu tiện vẫn không thuyên giảm mà còn trầm trọng thêm, kèm theo sốt, ớn lạnh, nước tiểu có lẫn máu... thì rất có thể bạn đang bị viêm đường tiết niệu."
+    },
+    {
+      "question": "Viêm đường tiết niệu sau sinh có nguy hiểm không?",
+      "answer": "Viêm đường tiết niệu sau sinh là tình trạng rất thương gặp, nhưng cũng có thể chữa khỏi hoàn toàn mà không có bất kỳ ảnh hưởng nào đến cả mẹ và con nếu được điều trị kịp thời. Tuy nhiên, nếu không được điều trị, viêm nhiễm có thể lan lên thận gây viêm thận cấp tính hay mạn tính, thậm chí dẫn đến nhiễm trùng huyết và suy thận."
+    },
+    {
+      "question": "Viêm đường tiết niệu sau sinh có tự khỏi không?",
+      "answer": "Viêm đường tiết niệu sau sinh nhẹ có thể tự khỏi nếu người bệnh uống nhiều nước, vệ sinh đúng cách và nghỉ ngơi đầy đủ. Tuy nhiên, không nên chủ quan vì bệnh có thể trở nặng nhanh chóng nếu không được điều trị kịp thời. Nếu có các triệu chứng nghiêm trọng như sốt, ớn lạnh, đau lưng dưới, buồn nôn, nôn mửa, nước tiểu có lẫn máu, nên đến cơ sở y tế để được khám và điều trị."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiểu buốt, tiểu gắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu-sau-sinh",
+        "viem-bang-quang",
+        "viem-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nặng và đau âm ỉ ở vùng bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu-sau-sinh",
+        "viem-phu-khoa",
+        "dau-bung-kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị buồn tiểu thường xuyên, nhưng lại tiểu rất ít. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu-sau-sinh",
+        "viem-bang-quang",
+        "roi-loan-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nước tiểu đục hoặc có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu-sau-sinh",
+        "viem-bang-quang",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi bị sốt, ớn lạnh, đau ở lưng dưới hoặc một bên lưng, buồn nôn, nôn mửa, nước tiểu có lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu-sau-sinh",
+        "viem-be-than",
+        "soi-than"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm đường tiết niệu sau khi sinh mổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu-sau-sinh",
+        "nhiem-trung-vet-mo",
+        "viem-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm đường tiết niệu sau khi sinh thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu-sau-sinh",
+        "viem-phu-khoa",
+        "viem-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm đường tiết niệu do đặt ống thông tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-tiet-nieu-sau-sinh",
+        "viem-bang-quang",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
     }
   ]
 }

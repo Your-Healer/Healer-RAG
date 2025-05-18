@@ -1,39 +1,116 @@
 {
   "disease_id": "viem-bang-quang-xuat-huyet",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bàng quang xuất huyết",
+  "disease_alternative_names": [
+    "Viêm bàng quang chảy máu",
+    "Viêm bàng quang do hóa trị",
+    "Viêm bàng quang do xạ trị"
+  ],
+  "disease_definition": "Viêm bàng quang xuất huyết là tình trạng nhiễm trùng tiết niệu nguy hiểm, đặc trưng bởi triệu chứng đi tiểu ra máu do tổn thương và chảy máu ở bàng quang. Bệnh xảy ra khi lớp niêm mạc và dưới niêm mạc của bàng quang bị bào mòn, vi khuẩn và các chất độc tấn công, làm tổn thương biểu mô chuyển tiếp của bàng quang.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đi tiểu ra máu",
+      "description": "Triệu chứng rõ ràng nhất của viêm bàng quang xuất huyết. Tùy mức độ nặng nhẹ, máu trong nước tiểu có thể từ vi thể (không nhìn thấy bằng mắt thường) đến những cục máu đông lớn có thể gây tắc nghẽn đường tiểu."
+    },
+    {
+      "name": "Đau ở vùng chậu, xương mu, hạ sườn",
+      "description": "Người bệnh cảm thấy đau ở vùng chậu, xương mu và vùng hạ sườn do bàng quang bị viêm và tổn thương."
+    },
+    {
+      "name": "Đau, nóng rát khi đi tiểu",
+      "description": "Cảm giác đau, nóng rát khi đi tiểu do niêm mạc bàng quang bị viêm và tổn thương."
+    },
+    {
+      "name": "Tần suất và nhu cầu đi tiểu tăng cao bất thường",
+      "description": "Người bệnh có nhu cầu đi tiểu thường xuyên hơn bình thường do bàng quang bị kích thích bởi tình trạng viêm."
+    },
+    {
+      "name": "Tiểu gấp, tiểu són",
+      "description": "Người bệnh cảm thấy không kiểm soát được nhu cầu đi tiểu, có thể dẫn đến tiểu són hoặc không nhịn được tiểu."
+    },
+    {
+      "name": "Nước tiểu màu đậm, có mùi hôi, nồng",
+      "description": "Nước tiểu có màu sẫm, có mùi hôi bất thường do có máu và các sản phẩm nhiễm trùng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm bàng quang xuất huyết xuất hiện khi vi khuẩn hoặc chất độc gây hại bên trong bàng quang, gây tổn thương bàng quang và dẫn đến tình trạng xuất huyết.",
+    "related_factors": "Nguyên nhân chính gây viêm bàng quang xuất huyết bao gồm hoạt động hóa trị (đặc biệt với thuốc cyclophosphamide và ifosfamide tạo ra chất độc acrolein), xạ trị (tiếp xúc với chùm tia phóng xạ ion hóa gây vỡ mạch máu niêm mạc bàng quang), và nhiễm trùng đường tiết niệu (phổ biến nhất là nhiễm E. coli).",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người đang được hóa trị, đặc biệt là với thuốc cyclophosphamide và ifosfamide",
+    "Người đang được xạ trị, đặc biệt là xạ trị vùng bụng và chậu",
+    "Phụ nữ (do cấu trúc niệu đạo ngắn hơn nam giới, dễ bị nhiễm trùng)",
+    "Người có hệ miễn dịch yếu",
+    "Người có tiền sử nhiễm trùng đường tiết niệu",
+    "Người có tiền sử bệnh lý bàng quang khác"
+  ],
+  "complications": [
+    "Mất máu, thiếu máu: Nếu bàng quang không được cầm máu và điều trị kịp thời, tình trạng chảy máu bàng quang sẽ kéo dài liên tục và khiến người bệnh thiếu máu",
+    "Nhiễm trùng thận và suy thận: Vi khuẩn ở bên trong bàng quang có thể nhiễm trùng ngược lên thận và gây tổn thương cho thận",
+    "Ung thư bàng quang: Viêm bàng quang xuất huyết kéo dài hoặc tái lại nhiều lần là một trong những tác nhân khiến người bệnh đối mặt với khả năng ung thư bàng quang",
+    "Vô sinh: Viêm bàng quang xuất huyết có thể gây ra nhiễm trùng lây cho cơ quan sinh dục, cản trở đường xuất tinh đối với nam giới"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng và hỏi bệnh sử",
+      "Xét nghiệm máu",
+      "Xét nghiệm nước tiểu",
+      "Chụp MRI hoặc siêu âm bàng quang",
+      "Nội soi bàng quang"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá tình trạng nhiễm trùng máu, xác định xem người bệnh có đang bị thiếu máu hoặc rối loạn chảy máu do viêm bàng quang xuất huyết gây ra hay không."
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra số lượng bạch cầu và hồng cầu trong nước tiểu. Người bệnh viêm bàng quang xuất huyết có số lượng bạch cầu trong nước tiểu trên 10^4 bạch cầu/ml và thường không có protein trong nước tiểu."
+      },
+      {
+        "name": "Chụp MRI hoặc siêu âm",
+        "description": "Quan sát hình thái bàng quang, đặc biệt là độ dày của thành bàng quang để đưa ra kết luận chẩn đoán."
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Đưa ống nội soi vào bên trong bàng quang qua niệu đạo để quan sát trực tiếp tình trạng tổn thương bàng quang, bao gồm các vết lở loét, viêm và tình trạng chảy máu."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị viêm bàng quang xuất huyết phụ thuộc vào nguyên nhân và mức độ nghiêm trọng của bệnh. Viêm bàng quang xuất huyết do nhiễm trùng có khả năng điều trị khỏi cao hơn so với do hóa trị hoặc xạ trị.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc kháng sinh",
+        "description": "Các loại kháng sinh như amoxicillin, ciprofloxacin và nitrofurantoin được sử dụng để ức chế sự phát triển của vi khuẩn trong bàng quang khi nguyên nhân là do nhiễm trùng."
+      },
+      {
+        "name": "Thuốc giảm đau",
+        "description": "Bác sĩ có thể kê đơn thuốc giảm đau để làm giảm các cơn đau cho người bệnh."
+      },
+      {
+        "name": "Lấy máu đông bằng ống thông",
+        "description": "Đối với người bệnh có máu đông lớn gây tắc nghẽn bàng quang, bác sĩ sẽ sử dụng ống thông chuyên dụng để lấy máu đông ra."
+      },
+      {
+        "name": "Cầm máu bằng dòng điện hoặc tia laser",
+        "description": "Bác sĩ sử dụng máy nội soi bàng quang để xác định vị trí chảy máu, sau đó tiến hành cầm máu bằng dòng điện hoặc tia laser (fulguration)."
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ bàng quang hoặc cắt u nang",
+        "description": "Phương pháp điều trị cuối cùng dành cho những trường hợp nghiêm trọng, không đáp ứng hoặc đáp ứng kém với các phương pháp điều trị khác."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống đúng thuốc theo liều lượng và thời gian mà bác sĩ chỉ định",
+      "Không tự ý ngừng điều trị khi các triệu chứng thuyên giảm hoặc biến mất",
+      "Uống nhiều nước để giúp tăng cường thải độc và giảm tình trạng viêm",
+      "Không nhịn tiểu quá lâu để tránh tích tụ nước tiểu trong bàng quang",
+      "Hạn chế thực phẩm có lượng kali cao như cà phê",
+      "Thực hiện tập vật lý trị liệu cho bàng quang để cải thiện chức năng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +118,98 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Uống nhiều nước để giữ cho đường tiết niệu sạch sẽ",
+      "Không nhịn tiểu hoặc nhịn tiểu quá lâu",
+      "Hạn chế thực phẩm có lượng kali cao như cà phê",
+      "Tập vật lý trị liệu cho bàng quang để cải thiện chức năng",
+      "Duy trì vệ sinh cá nhân tốt, đặc biệt là vùng kín",
+      "Đi khám bác sĩ ngay khi có dấu hiệu bất thường của đường tiết niệu",
+      "Đối với người đang hóa trị, xạ trị cần tuân thủ chỉ định của bác sĩ về cách phòng ngừa viêm bàng quang xuất huyết"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bàng quang xuất huyết có nguy hiểm không?",
+      "answer": "Viêm bàng quang xuất huyết là một bệnh nhiễm trùng nặng, không chỉ gây ra những cảm giác khó chịu và bất tiện cho người bệnh mà còn có những biến chứng liên quan đến thận. Nếu bệnh không được điều trị kịp thời hoặc bệnh tái lại nhiều lần sẽ dẫn đến những biến chứng nguy hiểm như mất máu, thiếu máu, nhiễm trùng thận và suy thận, ung thư bàng quang, và vô sinh."
+    },
+    {
+      "question": "Viêm bàng quang xuất huyết có chữa được không?",
+      "answer": "Viêm bàng quang xuất huyết do nhiễm trùng có thể điều trị khỏi hoàn toàn bằng cách lấy máu bên trong bàng quang kết hợp với uống thuốc kháng sinh. Tuy nhiên, viêm bàng quang xuất huyết cũng có thể tiến triển thành bệnh mạn tính đối với những người đang được hóa trị, xạ trị hoặc có hệ miễn dịch yếu."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm bàng quang xuất huyết?",
+      "answer": "Để phòng ngừa viêm bàng quang xuất huyết, bạn nên: uống nhiều nước, không nhịn tiểu hoặc nhịn tiểu quá lâu, hạn chế thực phẩm có lượng kali cao như cà phê, tập vật lý trị liệu cho bàng quang để cải thiện chức năng, duy trì vệ sinh cá nhân tốt, và đi khám bác sĩ ngay khi có dấu hiệu bất thường của đường tiết niệu."
+    },
+    {
+      "question": "Các triệu chứng của viêm bàng quang xuất huyết là gì?",
+      "answer": "Triệu chứng rõ ràng nhất của viêm bàng quang xuất huyết là đi tiểu ra máu. Ngoài ra, bệnh còn có những triệu chứng khác như đau ở vùng chậu, xương mu, hạ sườn; đau, nóng rát khi đi tiểu; tần suất và nhu cầu đi tiểu tăng cao bất thường; tiểu gấp, tiểu són; nước tiểu màu đậm, có mùi hôi, nồng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đi tiểu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-xuat-huyet",
+        "soi-duong-tiet-nieu",
+        "ung-thu-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tổn thương và chảy máu ở bàng quang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-xuat-huyet",
+        "ung-thu-bang-quang",
+        "viem-bang-quang-cap"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm bàng quang xuất huyết do nhiễm trùng đường tiết niệu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-xuat-huyet",
+        "viem-bang-quang-cap",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm bàng quang xuất huyết do hóa trị, xạ trị hoặc có hệ miễn dịch yếu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-xuat-huyet",
+        "viem-bang-quang-do-xa-tri",
+        "suy-giam-mien-dich"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau ở vùng chậu, xương mu, hạ sườn, đau, nóng rát khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-xuat-huyet",
+        "viem-bang-quang-cap",
+        "viem-nieu-dao"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như tần suất và nhu cầu đi tiểu tăng cao bất thường, thường gặp tình trạng tiểu gấp, tiểu són. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-xuat-huyet",
+        "bang-quang-tang-hoat",
+        "tieu-dem"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nước tiểu màu đậm, có mùi hôi, nồng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-xuat-huyet",
+        "viem-than-be-than",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mất máu, thiếu máu do viêm bàng quang xuất huyết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-xuat-huyet",
+        "thieu-mau",
+        "xuat-huyet-noi-tang"
+      ]
     }
   ]
 }

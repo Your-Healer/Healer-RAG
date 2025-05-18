@@ -1,58 +1,173 @@
 {
   "disease_id": "voi-hoa-xuong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Vôi hóa xương",
+  "disease_alternative_names": ["Vôi xương"],
+  "disease_definition": "Vôi hóa xương hay vôi xương là sự tích tụ Canxi ở mô cơ thể, thường xảy ra trong quá trình hình thành xương. Tình trạng này có thể là bệnh lý hoặc dấu hiệu lão hóa tự nhiên tùy theo từng trường hợp cụ thể. Xương bị vôi hóa chính là kết quả của việc cơ thể tự bảo vệ mình, hay nói cách khác là phản ứng tự nhiên trước chấn thương, nhiễm trùng và các rối loạn tự miễn dịch khác.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhức xương khớp",
+      "description": "Cảm giác đau nhức ở vùng xương khớp bị vôi hóa, gây khó khăn khi vận động"
+    },
+    {
+      "name": "Cứng khớp",
+      "description": "Cảm giác cứng và khó cử động các khớp, đặc biệt sau khi nghỉ ngơi lâu"
+    },
+    {
+      "name": "Sưng nhỏ trên da",
+      "description": "Khi vôi hóa xương hình thành gần da, bề mặt da xuất hiện các vết sưng nhỏ"
+    },
+    {
+      "name": "Hạn chế cử động vai",
+      "description": "Cánh tay khó cử động bình thường do đau, phạm vi cử động bị hạn chế khi vôi hóa ở vai"
+    },
+    {
+      "name": "Tê hoặc đau các chi",
+      "description": "Dây thần kinh cột sống bị chèn ép, gây tê hoặc đau cánh tay, chân khi vôi hóa ở cột sống"
+    },
+    {
+      "name": "Khó khăn khi đi lại",
+      "description": "Người bệnh cảm thấy khó khăn khi thực hiện các cử động bình thường như di chuyển lên xuống cầu thang khi vôi hóa ở đầu gối"
+    },
+    {
+      "name": "Đau gót chân",
+      "description": "Người bệnh cảm thấy khó khăn khi chạm đất hoặc đi lại khi vôi hóa ở gót chân"
+    },
+    {
+      "name": "Khó nuốt",
+      "description": "Khi vôi hóa ở cột sống cổ, khí quản có thể bị đè lên gây ra hiện tượng khó nuốt"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Vôi hóa xương xuất phát từ nhiều nguyên nhân khác nhau, phổ biến nhất là do tổn thương, viêm kéo dài hoặc rối loạn chuyển hóa Canxi.",
+    "related_factors": "Các yếu tố liên quan bao gồm nhiễm trùng, rối loạn di truyền, rối loạn tự miễn dịch, viêm kéo dài tổn thương các mô, và xương bị căng thẳng hoặc tổn thương khiến Canxi tích tụ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Phụ nữ trên 40 tuổi",
+    "Người có lối sống ít vận động",
+    "Sự lão hóa tự nhiên",
+    "Gân bị tổn thương",
+    "Yếu tố di truyền",
+    "Hoạt động bất thường của tuyến giáp",
+    "Các bệnh liên quan đến chuyển hóa, bao gồm cả tiểu đường"
+  ],
+  "complications": [
+    "Vôi hóa làm cứng, tắc nghẽn mạch máu ở tim, não, thận",
+    "Hình thành các chồi gai, chồi xương ở dây chằng cạnh đốt sống",
+    "Chèn ép dây thần kinh dẫn đến yếu cơ, thậm chí mất chức năng vận động",
+    "Kích thích các mô xung quanh, dẫn đến viêm",
+    "Đau nhức nghiêm trọng khi vôi hóa lan rộng đến vai, tay, chân"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe tổng quát",
+      "Đánh giá vị trí đau nhức, mức độ đau và triệu chứng cụ thể"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Phương pháp chụp X-quang sẽ sử dụng bức xạ điện từ để thu được hình ảnh về xương, các cơ quan bên trong cơ thể và lượng Canxi dư thừa tích tụ trên xương."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Siêu âm có thể được chỉ định thực hiện nhằm phát hiện các vết cặn Canxi kích thước nhỏ mà phương pháp chụp X-quang chưa xác định được."
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Trong một số trường hợp, bác sĩ có thể sẽ yêu cầu sinh thiết, cụ thể là thu thập mẫu mô, gửi đến phòng thí nghiệm để phát hiện ung thư (nếu có)."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Vôi hóa xương không thể chữa dứt điểm, các biện pháp áp dụng chủ yếu là nhằm mục đích giảm đau. Đối với tình trạng này, tùy theo mức độ nghiêm trọng, bác sĩ có thể sẽ chỉ định một số cách điều trị khác nhau.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Vật lý trị liệu và tập thể dục",
+        "description": "Tập trung vào cải thiện triệu chứng, làm chậm quá trình thoái hóa, vôi hóa ở xương. Đồng thời, các bài tập còn có tác dụng làm thư giãn gân cơ, giúp giảm đáng kể triệu chứng đau nhức thường gặp."
+      },
+      {
+        "name": "Điều trị bằng tia hồng ngoại",
+        "description": "Chiếu đèn vào vùng xương bị vôi hóa để làm giảm tình trạng đau nhức. Tác dụng giảm đau sẽ không kéo dài nhưng có thể cải thiện tạm thời triệu chứng khó chịu, giúp người bệnh hạn chế phụ thuộc vào thuốc."
+      },
+      {
+        "name": "Dùng thuốc giảm đau không kê đơn",
+        "description": "Sử dụng các loại thuốc như Acetaminophen, Ibuprofen, Naproxen sodium để giảm đau tạm thời. Tuy nhiên, người bệnh không nên dùng kéo dài để tránh gây ảnh hưởng đến dạ dày và sức khỏe."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Nếu tất cả các phương pháp điều trị nội khoa hoàn toàn không mang lại hiệu quả cải thiện, bác sĩ có thể sẽ chỉ định phẫu thuật."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám định kỳ để kiểm tra biến chứng tiềm ẩn",
+      "Tuân thủ đúng hướng dẫn của bác sĩ khi sử dụng thuốc giảm đau",
+      "Kiên trì thực hiện các bài tập vật lý trị liệu theo đúng phương pháp"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine phòng ngừa vôi hóa xương",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện thăm khám sức khỏe định kỳ để kiểm tra lượng Canxi trong xương",
+      "Trao đổi kỹ với bác sĩ trước khi sử dụng các loại thuốc có thể ảnh hưởng đến khả năng chuyển hóa Canxi",
+      "Từ bỏ thói quen hút thuốc lá",
+      "Xây dựng chế độ ăn lành mạnh, đảm bảo cung cấp đủ lượng Canxi cần thiết",
+      "Duy trì thói quen tập thể dục đều đặn mỗi ngày"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Vôi hóa xương có chữa khỏi hoàn toàn được không?",
+      "answer": "Vôi hóa xương không thể chữa dứt điểm, các biện pháp điều trị chủ yếu nhằm mục đích giảm đau và cải thiện triệu chứng. Tùy theo mức độ nghiêm trọng, bác sĩ có thể chỉ định các phương pháp như vật lý trị liệu, điều trị bằng tia hồng ngoại, dùng thuốc giảm đau, hoặc trong trường hợp nặng có thể cần đến phẫu thuật."
+    },
+    {
+      "question": "Ăn nhiều thực phẩm giàu Canxi có gây vôi hóa xương không?",
+      "answer": "Nhiều quan niệm sai lầm vẫn cho rằng thói quen ăn uống nhiều Canxi là một trong những nguyên nhân dẫn đến tình trạng xương bị vôi hóa. Tuy nhiên, các nghiên cứu đã không tìm ra mối liên hệ giữa hai yếu tố này. Ngược lại, việc bổ sung đủ Canxi từ các loại thực phẩm lành mạnh như các loại hạt, phô mai, sữa chua, hạnh nhân, các loại đậu là cần thiết để duy trì sức khỏe của xương."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa vôi hóa xương?",
+      "answer": "Để phòng ngừa vôi hóa xương, bạn nên: thăm khám sức khỏe định kỳ để kiểm tra lượng Canxi trong xương; trao đổi với bác sĩ trước khi sử dụng các loại thuốc có thể ảnh hưởng đến chuyển hóa Canxi; từ bỏ thói quen hút thuốc lá; xây dựng chế độ ăn lành mạnh với đủ Canxi; và duy trì thói quen tập thể dục đều đặn để giữ xương luôn chắc khỏe, cải thiện tuần hoàn máu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức xương khớp và cứng khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vôi hóa xương",
+        "Thoái hóa khớp",
+        "Viêm khớp dạng thấp"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau lưng, tê bì chân tay và khó vận động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vôi hóa cột sống",
+        "Thoát vị đĩa đệm",
+        "Hẹp ống sống"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vai gáy, hạn chế cử động cánh tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vôi hóa xương vai",
+        "Viêm quanh khớp vai",
+        "Đau vai gáy cấp"
+      ]
+    },
+    {
+      "question": "Tôi đang bị đau gót chân, khó khăn khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vôi hóa gót chân",
+        "Gai gót chân",
+        "Viêm cân gan chân"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau nhức xương khớp, cứng khớp và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Vôi hóa xương", "Thoái hóa đa khớp", "Viêm đa khớp"]
     }
   ]
 }

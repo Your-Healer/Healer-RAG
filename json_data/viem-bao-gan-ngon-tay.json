@@ -1,39 +1,119 @@
 {
   "disease_id": "viem-bao-gan-ngon-tay",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bao gân ngón tay",
+  "disease_alternative_names": [
+    "Viêm gân gấp ngón tay",
+    "Ngón tay lò xo",
+    "Viêm bao hoạt dịch gân ngón tay"
+  ],
+  "disease_definition": "Viêm bao gân ngón tay là tình trạng viêm bao gân của các gân gấp ngón tay, dẫn đến hiện tượng chít hẹp bao gân. Khi bị viêm, ngón tay sẽ gặp khó khăn, cảm giác đau nhức, cứng khi thực hiện cử động gập hay duỗi, đặc biệt là ngón cái và ngón đeo nhẫn. Tình trạng có thể xảy ra ở một hoặc nhiều ngón cùng lúc, đôi khi gây cản trở nghiêm trọng đến sinh hoạt hàng ngày.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau ở gốc ngón tay",
+      "description": "Tình trạng bắt đầu với cảm giác khó chịu ở gốc ngón tay, ngón cái hoặc vị trí tiếp xúc giữa ngón tay với lòng bàn tay. Thông thường, ở giai đoạn đầu, đây là triệu chứng duy nhất, nhưng về lâu dài, nếu không điều trị tích cực cũng sẽ dẫn đến tình trạng đau cả khi nghỉ ngơi."
+    },
+    {
+      "name": "Sưng tại khớp",
+      "description": "Tại vị trí đau khớp có thể gây sưng do viêm bao hoạt dịch tại khớp."
+    },
+    {
+      "name": "Ngón tay bị cứng hoặc không thể cử động",
+      "description": "Viêm bao gân có thể làm mất khả năng gấp duỗi của ngón tay. Điều này có thể ước tính khi thực hiện gấp ngón tay hết mức có thể sau đó tính khoảng cách giữa đầu ngón tay và lòng bàn tay."
+    },
+    {
+      "name": "Đau nhức khi duỗi thẳng",
+      "description": "Người bệnh cảm thấy đau nhức khi cố gắng duỗi thẳng hoàn toàn, chuyển động về lâu dài cũng bị hạn chế."
+    },
+    {
+      "name": "Triệu chứng cơ học bất thường",
+      "description": "Viêm bao gân gấp ngón tay có thể gây ra cảm giác hoặc cử động bất thường, đặc biệt là khi thực hiện động tác gấp hoặc duỗi thẳng. Ban đầu cơn đau thường nhẹ nhưng khi mức độ nặng tình trạng nhức cũng có thể theo đó tăng lên."
+    },
+    {
+      "name": "Ngón tay bị kẹt",
+      "description": "Ngón tay bị kẹt ở tư thế uốn cong, người bệnh phải dùng tay đối diện để đưa trở lại vị trí ban đầu. Một số trường hợp ngón tay bị cứng ở tư thế thẳng và không thể uốn cong (ngón tay lò xo)."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Trong hầu hết các trường hợp, viêm bao gân xuất hiện do chuyển động lặp đi lặp lại hoặc vận động ngón tay quá mức dẫn đến căng thẳng. Ngoài ra, tình trạng này cũng có thể xảy ra khi gân (dải mô cứng kết nối cơ và xương ngón tay) bị viêm.",
+    "related_factors": "Khi gân bị viêm và sưng lên, bao gân sẽ bị kích ứng, về lâu dài dẫn đến hình thành sẹo, dày lên, từ đó ảnh hưởng đến khả năng vận động của gân. Khi tình trạng này xảy ra, việc uốn cong ngón tay, đặc biệt là ngón tay cái sẽ kéo gân bị viêm qua một lớp vỏ bọc, dẫn đến hiện tượng gãy hoặc bật ra.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác: Viêm bao gân ngón tay thường xuất hiện phổ biến trong độ tuổi từ 40 – 60 tuổi",
+    "Bệnh lý: Tiểu đường, gút, viêm khớp dạng thấp",
+    "Nghề nghiệp: Nông dân, công nhân, nhạc sĩ và những người thường xuyên phải thực hiện các động tác lặp đi lặp lại trên ngón tay",
+    "Phẫu thuật hội chứng ống cổ tay: Tình trạng viêm bao gân xuất hiện phổ biến nhất trong 6 tháng đầu sau phẫu thuật",
+    "Thường xuyên thực hiện động tác nắm chặt",
+    "Giới tính: Phổ biến hơn ở phụ nữ"
+  ],
+  "complications": [
+    "Nhiễm trùng: Dấu hiệu dễ nhận biết là các khớp ngón tay bị nóng và viêm",
+    "Ngón tay bị kẹt vĩnh viễn ở tư thế gấp: Điều này khiến sinh hoạt, vận động hàng ngày gặp phải rất nhiều khó khăn và bất tiện",
+    "Nhiều ngón tay có thể bị cứng, tê cùng lúc, gây cảm giác đau đớn và khó khăn trong sinh hoạt",
+    "Sau phẫu thuật: Cứng các ngón tay lân cận, đau hoặc sưng tạm thời tại vị trí phẫu thuật",
+    "Biến chứng hiếm gặp: Ngón tay có hiện tượng nhấp liên tục, nhiễm trùng, tổn thương dây thần kinh gây tê hoặc ngứa ran"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Tiền sử bệnh nhân và khám thực thể",
+      "Kiểm tra vị trí đau và khả năng cử động",
+      "Thực hiện các động tác nắm, thả bàn tay",
+      "Sờ vào lòng bàn tay để kiểm tra sự xuất hiện của các khối u"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Sử dụng đầu dò tần số > 7.5 – 20MHz để kiểm tra gân, tình trạng dày lên của bao gân, dịch bao quanh, hạt xơ trong bao gân."
+      },
+      {
+        "name": "X-quang",
+        "description": "Kiểm tra tổn thương xương (nếu có)."
+      },
+      {
+        "name": "Chụp MRI (cộng hưởng từ)",
+        "description": "Đánh giá tình trạng tràn dịch hoặc sưng tấy của bao gân, sự thay đổi về cấu trúc, chất lượng gân."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra bạch cầu và tốc độ máu lắng đánh giá bilan viêm."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị phụ thuộc vào mức độ viêm bao gân ngón tay. Phần lớn các trường hợp có thể cải thiện với điều trị nội khoa, nhưng trường hợp nặng có thể cần đến phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nghỉ ngơi",
+        "description": "Khi bao gân gấp ngón tay đang bị viêm, người bệnh nên giữ tay ở trạng thái nghỉ ngơi, tránh vận động vì sẽ khiến tình trạng trở nên nặng hơn."
+      },
+      {
+        "name": "Nẹp cố định",
+        "description": "Giữ tay ở vị trí trung tính nhất để giảm áp lực lên gân bị viêm."
+      },
+      {
+        "name": "Bài tập kéo giãn nhẹ nhàng",
+        "description": "Giúp làm giảm độ cứng và cải thiện phạm vi chuyển động của các ngón tay."
+      },
+      {
+        "name": "Thuốc giảm đau, giảm viêm",
+        "description": "Sử dụng thuốc không kê đơn như Acetaminophen, thuốc chống viêm không Steroid (NSAID) để giảm đau và giảm viêm hiệu quả."
+      },
+      {
+        "name": "Tiêm Steroid",
+        "description": "Corticosteroid là chất chống viêm thường được dùng để tiêm vào bao gân ở gốc ngón tay bị viêm. Điều này có thể làm giảm triệu chứng đau trong khoảng vài ngày đến vài tuần."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Nếu các phương pháp không phẫu thuật hoàn toàn không đem lại hiệu quả cải thiện tích cực, việc can thiệp mổ là lựa chọn cuối cùng. Mục tiêu là giải phóng bao gân, giúp gân gấp không bị chèn ép."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sau phẫu thuật, hầu hết người bệnh đều được khuyến khích cử động ngón tay nhẹ nhàng",
+      "Vết mổ sẽ lành trong khoảng vài tuần nhưng hiện tượng sưng, đau, cứng bàn tay, ngón tay có thể cần từ 4-6 tháng để biến mất hoàn toàn",
+      "Nếu thời gian phục hồi kéo dài hơn, người bệnh có thể cần gặp chuyên gia trị liệu riêng về tay",
+      "Theo dõi nồng độ Glucose sau khi tiêm Steroid, đặc biệt là đối với bệnh nhân tiểu đường",
+      "Phương pháp tiêm Steroid ít mang lại hiệu quả đối với bệnh nhân tiểu đường, thậm chí có thể làm tăng lượng đường trong máu"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +121,97 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh thực hiện các động tác cầm nắm hoặc nắm chặt lặp đi lặp lại",
+      "Tránh sử dụng các loại thiết bị, máy móc tạo độ rung",
+      "Xây dựng chế độ nghỉ ngơi đầy đủ và hợp lý",
+      "Bổ sung các thực phẩm giàu dinh dưỡng vào chế độ ăn hàng ngày, đặc biệt là Canxi và Vitamin C",
+      "Cầm nắm các dụng cụ thể thao có kích thước vừa vặn",
+      "Thực hiện các bài tập kéo giãn nhẹ nhàng để tăng cường sức mạnh cho cổ tay và ngón tay"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bao gân ngón tay có nguy hiểm không?",
+      "answer": "Trong hầu hết các trường hợp, viêm bao gân ngón tay thường chỉ gây khó chịu, bất tiện trong sinh hoạt hàng ngày mà ít để lại biến chứng nghiêm trọng. Tuy nhiên, nếu tình trạng không được điều trị kịp thời, bệnh có thể tiến triển nặng hơn và để lại nhiều vấn đề nguy hiểm như nhiễm trùng, ngón tay bị kẹt vĩnh viễn ở tư thế gấp, hoặc nhiều ngón tay bị cứng, tê cùng lúc."
+    },
+    {
+      "question": "Ai dễ mắc viêm bao gân ngón tay?",
+      "answer": "Viêm bao gân ngón tay thường xuất hiện phổ biến trong độ tuổi từ 40-60 tuổi, đặc biệt là phụ nữ và người mắc bệnh tiểu đường. Người làm những nghề như nông dân, công nhân, nhạc sĩ hoặc thường xuyên phải thực hiện các động tác lặp đi lặp lại trên ngón tay cũng có nguy cơ cao mắc bệnh."
+    },
+    {
+      "question": "Viêm bao gân ngón tay có chữa được không?",
+      "answer": "Viêm bao gân ngón tay hoàn toàn có thể điều trị được. Đa số các trường hợp đều đáp ứng tốt với các phương pháp điều trị không phẫu thuật như nghỉ ngơi, nẹp cố định, bài tập kéo giãn nhẹ nhàng, thuốc giảm đau và tiêm Steroid. Nếu các phương pháp này không hiệu quả, phẫu thuật sẽ là lựa chọn cuối cùng."
+    },
+    {
+      "question": "Sau phẫu thuật viêm bao gân ngón tay, bao lâu thì phục hồi hoàn toàn?",
+      "answer": "Sau phẫu thuật, vết mổ thường lành trong khoảng vài tuần, nhưng hiện tượng sưng, đau, cứng bàn tay, ngón tay có thể cần từ 4-6 tháng để biến mất hoàn toàn. Hầu hết các trường hợp đều nhận thấy hiệu quả giảm đau đáng kể cũng như những cải thiện tích cực về chức năng sau phẫu thuật."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau ở gốc ngón tay, ngón cái hoặc vị trí tiếp xúc giữa ngón tay với lòng bàn tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-gan-ngon-tay",
+        "viem-khop-ngon-tay",
+        "hoi-chung-de-quervain"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau cả khi nghỉ ngơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-gan-ngon-tay",
+        "viem-khop-dang-thap",
+        "gout"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sưng do viêm bao hoạt dịch tại khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-gan-ngon-tay",
+        "viem-khop-dang-thap",
+        "viem-khop-nhiem-trung"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ngón tay bị cứng hoặc không thể cử động do viêm bao gân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-gan-ngon-tay",
+        "viem-gan",
+        "ngon-tay-co-duoi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức khi cố gắng duỗi thẳng hoàn toàn, chuyển động về lâu dài cũng bị hạn chế. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-gan-ngon-tay",
+        "thoai-hoa-khop-ngon-tay",
+        "viem-gan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm bao gân gấp ngón tay, gây ra cảm giác hoặc cử động bất thường, đặc biệt là khi thực hiện động tác gấp hoặc duỗi thẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-gan-ngon-tay",
+        "ngon-tay-lo-xo",
+        "viem-bao-hoat-dich"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm bao gân ngón tay do chuyển động lặp đi lặp lại hoặc vận động ngón tay quá mức dẫn đến căng thẳng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-gan-ngon-tay",
+        "hoi-chung-ong-co-tay",
+        "viem-gan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngón tay bị kẹt vĩnh viễn ở tư thế gấp, khiến sinh hoạt, vận động hàng ngày gặp phải rất nhiều khó khăn và bất tiện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-gan-ngon-tay",
+        "ngon-tay-lo-xo",
+        "co-rut-gan-duoi-ngon-tay"
+      ]
     }
   ]
 }

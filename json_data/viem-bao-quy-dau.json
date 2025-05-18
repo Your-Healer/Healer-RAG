@@ -1,39 +1,112 @@
 {
   "disease_id": "viem-bao-quy-dau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bao quy đầu",
+  "disease_alternative_names": [
+    "Balanoposthitis",
+    "Viêm bao quy đầu cấp tính",
+    "Viêm bao quy đầu mạn tính"
+  ],
+  "disease_definition": "Viêm bao quy đầu (balanoposthitis) là tình trạng bao quy đầu và quy đầu bị sưng, đau nhức, khó chịu. Nguyên nhân gây bệnh thường là do vi sinh vật có hại, phổ biến là nấm và vi khuẩn, virus, ngoài ra còn có ký sinh trùng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Dương vật ngứa ngáy, khó chịu",
+      "description": "Cảm giác ngứa ngáy và khó chịu ở dương vật, đặc biệt là phần bao quy đầu, thường gặp trong viêm bao quy đầu cấp tính."
+    },
+    {
+      "name": "Vùng da bao quy đầu bị sưng đỏ, đau nhức",
+      "description": "Phần da bao quy đầu bị sưng, đỏ và gây đau nhức, một triệu chứng điển hình của viêm bao quy đầu cấp tính."
+    },
+    {
+      "name": "Tiểu rát, khó chịu",
+      "description": "Người bệnh cảm thấy rát, khó chịu khi đi tiểu, triệu chứng thường gặp ở giai đoạn cấp tính."
+    },
+    {
+      "name": "Bao quy đầu có mùi hôi",
+      "description": "Mùi hôi khó chịu xuất hiện ở bao quy đầu, thường gặp trong viêm bao quy đầu mạn tính."
+    },
+    {
+      "name": "Xuất hiện máu, mủ trắng",
+      "description": "Người bệnh có thể thấy máu hoặc mủ trắng xuất hiện từ bao quy đầu mà không rõ nguyên nhân, thường gặp trong viêm bao quy đầu mạn tính."
+    },
+    {
+      "name": "Tiểu đau và rát, ngứa ngáy",
+      "description": "Cảm giác đau, rát và ngứa ngáy khi đi tiểu, thường gặp trong viêm bao quy đầu mạn tính."
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Đau đớn khi quan hệ tình dục do tình trạng viêm nhiễm ở bao quy đầu, thường gặp trong viêm bao quy đầu mạn tính."
+    },
+    {
+      "name": "Giảm ham muốn tình dục",
+      "description": "Giảm ham muốn rõ rệt vì cơ thể luôn trong tình trạng đau nhức, mệt mỏi, kém tập trung, thường gặp trong viêm bao quy đầu mạn tính."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm bao quy đầu thường do vi sinh vật có hại gây ra, phổ biến là nấm và vi khuẩn, virus, ngoài ra còn có ký sinh trùng.",
+    "related_factors": "Các yếu tố liên quan bao gồm hẹp bao quy đầu, quan hệ tình dục không lành mạnh, không vệ sinh hoặc vệ sinh sai cách bộ phận sinh dục, cơ địa dễ kích ứng, và một số bệnh lý như viêm niệu đạo hoặc nhiễm trùng đường tiết niệu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Mắc bệnh đái tháo đường nhưng không điều trị hoặc kiểm soát đường huyết không tốt",
+    "Mắc những bệnh lây qua đường tình dục như bệnh Herpes, bệnh lậu",
+    "Hẹp bao quy đầu",
+    "Quan hệ tình dục bừa bãi, thiếu những biện pháp an toàn",
+    "Vệ sinh kém hoặc vệ sinh sai cách bộ phận sinh dục",
+    "Cơ địa dễ kích ứng với môi trường hoặc các sản phẩm giặt rửa, sản phẩm vệ sinh bộ phận sinh dục"
+  ],
+  "complications": [
+    "Khởi phát những bệnh lý viêm nhiễm khác như viêm ống dẫn tinh, viêm tinh hoàn, viêm mào tinh hoàn",
+    "Giảm ham muốn tình dục",
+    "Rối loạn chức năng sinh lý, rối loạn cương dương, liệt dương, xuất tinh sớm",
+    "Vô sinh, hiếm muộn do suy giảm số lượng và chất lượng tinh trùng",
+    "Ung thư dương vật",
+    "Viêm niệu đạo, viêm bàng quang",
+    "Ảnh hưởng tới chức năng thận, làm tăng nguy cơ mắc bệnh suy thận"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Xem xét tiền sử bệnh lý",
+      "Kiểm tra sức khỏe của người bệnh",
+      "Lấy mẫu mủ ở quy đầu để xét nghiệm",
+      "Thử máu trong một số trường hợp"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm mủ ở quy đầu",
+        "description": "Lấy mủ ở quy đầu để xác định nguyên nhân có phải là do vi khuẩn hoặc nấm không, giúp bác sĩ chỉ định thuốc điều trị phù hợp."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Được chỉ định nếu nghi ngờ người bệnh mắc các bệnh lý nghiêm trọng như đái tháo đường hoặc giang mai, giúp xác định nguyên nhân gốc rễ và có phương pháp điều trị toàn diện."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm bao quy đầu phụ thuộc vào mức độ bệnh và nguyên nhân gây bệnh. Trong đa số trường hợp, bệnh có thể được điều trị bằng thuốc. Tuy nhiên, đối với trường hợp viêm mạn tính và đã điều trị với thuốc nhưng không hiệu quả, có thể cần đến phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc",
+        "description": "Điều trị bằng các loại thuốc uống đặc trị như kháng sinh, kháng viêm, diệt virus, giảm sưng đau để loại bỏ tác nhân gây bệnh và thuyên giảm các triệu chứng khó chịu."
+      },
+      {
+        "name": "Kháng sinh",
+        "description": "Sử dụng các kháng sinh như polymyxin, neomycin, penicillin, chloramphenicol, glycerine, sorbolene để điều trị các vấn đề viêm do vi khuẩn."
+      },
+      {
+        "name": "Thuốc kháng virus",
+        "description": "Sử dụng các thuốc kháng virus như valacyclovir hoặc famciclovir nếu tình trạng viêm bao quy đầu có tác nhân gây bệnh là virus."
+      },
+      {
+        "name": "Phẫu thuật cắt bao quy đầu",
+        "description": "Đối với người bệnh viêm mạn tính và đã điều trị với thuốc nhưng không hiệu quả, bác sĩ có thể đề nghị phẫu thuật để loại bỏ bao da quy đầu."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Dùng kháng sinh với liều lượng chính xác theo chỉ định từ bác sĩ, không nhiều và không ít hơn",
+      "Không chia sẻ kháng sinh cho người khác dù có mắc chung một bệnh lý",
+      "Vệ sinh bộ phận sinh dục đúng cách trong quá trình điều trị",
+      "Tránh quan hệ tình dục trong thời gian điều trị để tránh làm trầm trọng thêm tình trạng viêm nhiễm"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +114,83 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Điều trị những yếu tố nguy cơ như hẹp da bao quy đầu, da bao quy đầu dài",
+      "Vệ sinh bộ phận sinh dục đúng cách mỗi ngày, đặc biệt là phần rãnh bao quy đầu",
+      "Tránh cọ rửa mạnh vì sẽ làm trầy xước, tổn thương bao quy đầu",
+      "Tránh dùng xà phòng, những chất tẩy rửa có độ kiềm quá cao để vệ sinh bộ phận sinh dục",
+      "Chọn những loại xà phòng, dung dịch vệ sinh nam có độ pH cân bằng",
+      "Tránh thủ dâm quá nhiều, số lần thủ dâm mỗi tuần chỉ nên từ 1 đến 2",
+      "Vệ sinh kỹ những vật dụng thủ dâm sau mỗi lần dùng",
+      "Ưu tiên chọn những loại quần có chất liệu thoáng mát, không bó sát vùng kín"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bao quy đầu có lây không?",
+      "answer": "Viêm bao quy đầu không phải là bệnh lây truyền qua đường tình dục (STD), cũng không phải là nhiễm trùng lây truyền qua đường tình dục (STI). Vì thế, nam giới khi mắc bệnh không cần phải quá lo lắng. Tuy nhiên, bạn nên có biện pháp chăm sóc tại nhà đúng cách để cải thiện tình trạng này."
+    },
+    {
+      "question": "Làm cách nào để phòng ngừa viêm bao quy đầu?",
+      "answer": "Để phòng ngừa viêm bao quy đầu, nam giới cần điều trị những yếu tố nguy cơ như hẹp da bao quy đầu; vệ sinh bộ phận sinh dục đúng cách mỗi ngày; tránh dùng xà phòng có độ kiềm cao; hạn chế thủ dâm quá nhiều; và chọn quần áo thoáng mát."
+    },
+    {
+      "question": "Viêm bao quy đầu có tự khỏi không?",
+      "answer": "Phần lớn các trường hợp viêm bao quy đầu thường không tự khỏi nếu thiếu phác đồ điều trị thích hợp. Khi tiến triển nặng, bệnh có thể khiến dương vật thay đổi hình dạng, dẫn tới nhiều biến chứng nguy hiểm. Do đó, khi có những biểu hiện viêm bao quy đầu, người bệnh nên nhanh chóng đi tới những cơ sở y tế uy tín để được thăm khám và điều trị kịp thời."
+    },
+    {
+      "question": "Viêm bao quy đầu có gây ra biến chứng gì không?",
+      "answer": "Nếu không được điều trị kịp thời, viêm bao quy đầu có thể gây ra nhiều biến chứng nguy hiểm như: khởi phát những bệnh lý viêm nhiễm khác (viêm ống dẫn tinh, viêm tinh hoàn, viêm mào tinh hoàn); giảm ham muốn tình dục; rối loạn chức năng sinh lý; vô sinh, hiếm muộn; và trong những trường hợp nghiêm trọng có thể tăng nguy cơ ung thư dương vật."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như bao quy đầu và quy đầu bị sưng, đau nhức, khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-quy-dau",
+        "viem-quy-dau",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy dương vật ngứa ngáy, khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-bao-quy-dau", "viem-quy-dau", "nam-candida"]
+    },
+    {
+      "question": "Tôi hay bị vùng da bao quy đầu bị sưng đỏ, đau nhức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-bao-quy-dau", "viem-quy-dau", "di-ung-da"]
+    },
+    {
+      "question": "Tôi hay bị rát, khó chịu khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-quy-dau",
+        "viem-nieu-dao",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi bị bao quy đầu có mùi hôi, thường xuất hiện máu, mủ trắng không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-bao-quy-dau", "viem-quy-dau", "benh-lau"]
+    },
+    {
+      "question": "Tôi bị tiểu đau và rát, ngứa ngáy; đau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-bao-quy-dau", "viem-nieu-dao", "benh-lau"]
+    },
+    {
+      "question": "Tôi bị giảm ham muốn tình dục vì cơ thể luôn trong tình trạng đau nhức, mệt mỏi, kém tập trung. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-quy-dau",
+        "roi-loan-sinh-ly-nam",
+        "tram-cam"
+      ]
+    },
+    {
+      "question": "Tôi bị hẹp bao quy đầu và sưng đau, khó chịu ở bao quy đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-quy-dau",
+        "hep-bao-quy-dau",
+        "viem-quy-dau"
+      ]
     }
   ]
 }

@@ -1,58 +1,186 @@
 {
   "disease_id": "viem-mang-nao-mo-cau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm màng não mô cầu",
+  "disease_alternative_names": [
+    "Viêm màng não do não mô cầu",
+    "Nhiễm não mô cầu"
+  ],
+  "disease_definition": "Viêm màng não mô cầu là bệnh truyền nhiễm cấp tính qua đường hô hấp thường gặp ở trẻ nhỏ, được đặc trưng bởi tình trạng viêm màng xung quanh não hoặc tủy sống do sự tấn công của vi khuẩn não cầu Neisseria meningitidis. Bệnh có thể xảy ra quanh năm, nhất là khi thời tiết bắt đầu trở lạnh, mùa đông-xuân.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt cao đột ngột",
+      "description": "Trẻ có thể sốt cao đến 41 độ C đột ngột"
+    },
+    {
+      "name": "Đau đầu dữ dội",
+      "description": "Cơn đau đầu dữ dội, khó chịu"
+    },
+    {
+      "name": "Cứng cổ",
+      "description": "Khó di chuyển cổ, cổ cứng"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn mửa"
+    },
+    {
+      "name": "Nốt tử ban trên da",
+      "description": "Xuất hiện các nốt tử ban màu xanh tím hoặc đỏ thẫm trên da sau khi phát sốt 1-2 ngày, có thể lan rộng nhanh chóng"
+    },
+    {
+      "name": "Ngủ li bì",
+      "description": "Trẻ ngủ nhiều, khó đánh thức"
+    },
+    {
+      "name": "Co giật",
+      "description": "Trẻ có thể xuất hiện triệu chứng co giật"
+    },
+    {
+      "name": "Đau mỏi cơ, mệt mỏi",
+      "description": "Cảm giác mệt mỏi, đau nhức toàn thân"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm màng não mô cầu được gây ra bởi vi khuẩn não cầu Neisseria meningitidis (meningococcus), có dạng như hai hạt cà phê, gram (-), nằm trong bào tương của bạch cầu đa nhân.",
+    "related_factors": "Vi khuẩn N.meningitidis được bao bọc bởi lớp vỏ chứa độc tố với tốc độ sản xuất nội độc tố cao gấp 100-1000 lần so với các loại vi khuẩn khác, khiến bệnh tiến triển nhanh và nguy hiểm.",
+    "transmission_routes": [
+      "Lây truyền qua đường hô hấp từ các giọt bắn khi người nhiễm vi khuẩn ho, hắt hơi hoặc nói chuyện",
+      "Tiếp xúc trực tiếp với người mang vi khuẩn, ngay cả khi người đó không có biểu hiện bệnh"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ càng nhỏ thì nguy cơ mắc bệnh càng cao",
+    "Sống trong khu vực có dịch bệnh bùng phát",
+    "Tiếp xúc với người mang vi khuẩn",
+    "Suy giảm hệ miễn dịch",
+    "Chưa được tiêm phòng vaccine viêm màng não mô cầu"
+  ],
+  "complications": [
+    "Biến chứng sớm: tăng áp lực nội sọ, đông máu nội mạch rải rác, co giật, trụy tuần hoàn, suy các cơ quan",
+    "Biến chứng muộn: điếc, mù lòa, suy giảm thần kinh kéo dài, não bộ kém phát triển (giảm chỉ số IQ), hoại tử nghiêm trọng dẫn đến cắt cụt chi"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và đánh giá các triệu chứng",
+      "Chẩn đoán hình ảnh",
+      "Xét nghiệm dịch não tủy"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp CT và MRI",
+        "description": "Chụp cắt lớp vi tính (CT) và cộng hưởng từ (MRI) để đánh giá tình trạng não và màng não"
+      },
+      {
+        "name": "Xét nghiệm và cấy máu",
+        "description": "Giúp xác định loại vi khuẩn gây bệnh và mức độ nhiễm trùng"
+      },
+      {
+        "name": "Xét nghiệm dịch não tủy",
+        "description": "Phân tích dịch não tủy lấy từ chọc dò tủy sống để xác định vi khuẩn gây bệnh"
+      },
+      {
+        "name": "Nhuộm soi dịch hầu họng",
+        "description": "Giúp phát hiện vi khuẩn não mô cầu trong dịch hầu họng"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm màng não mô cầu cần được điều trị nhanh chóng và tích cực để tránh biến chứng nặng và tử vong.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị kháng sinh",
+        "description": "Tiêm kháng sinh vào tĩnh mạch ngay lập tức để ức chế sự phát triển của vi khuẩn, sau đó có thể chuyển sang dùng thuốc uống khi bệnh đã kiểm soát được"
+      },
+      {
+        "name": "Điều trị hỗ trợ",
+        "description": "Hỗ trợ hô hấp và tuần hoàn, cân bằng dịch và điện giải, hỗ trợ tim mạch khi bệnh chuyển biến nghiêm trọng"
+      },
+      {
+        "name": "Điều trị các biến chứng",
+        "description": "Các biện pháp điều trị đặc hiệu tùy theo biến chứng đã xuất hiện"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Điều trị ngay khi có dấu hiệu nghi ngờ, không chờ đợi kết quả xét nghiệm",
+      "Theo dõi sát tình trạng bệnh nhân trong quá trình điều trị",
+      "Kiểm tra và điều trị dự phòng cho người tiếp xúc gần"
+    ],
+    "prevention_of_transmission": [
+      "Cách ly bệnh nhân trong 24 giờ đầu sau khi bắt đầu điều trị kháng sinh",
+      "Dùng thuốc dự phòng cho những người tiếp xúc gần"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Hiện có 2 loại vaccine phòng bệnh viêm màng não do não mô cầu: VA-Mengoc-BC (CuBa) cho tuýp B, C và Menactra (Mỹ) cho tuýp A, C, Y, W. Sau khi tiêm vaccine, trẻ sẽ có khả năng miễn dịch với các thể vi khuẩn này.",
+      "recommended_for": [
+        "VA-Mengoc-BC: Trẻ từ 6 tháng tuổi trở lên, tiêm 2 mũi cách nhau 45 ngày",
+        "Menactra: Trẻ từ 9 tháng tuổi trở lên, với trẻ 9-24 tháng tiêm 2 liều cách nhau ít nhất 3 tháng, trẻ từ 2 tuổi trở lên tiêm 1 liều duy nhất"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tiêm chủng đầy đủ các mũi vaccine theo khuyến cáo",
+      "Tránh cho trẻ tiếp xúc với người bệnh nếu trẻ chưa được tiêm phòng",
+      "Vệ sinh nhà ở và khu vực vui chơi của trẻ sạch sẽ, đảm bảo vệ sinh, ánh sáng và độ thông thoáng",
+      "Theo dõi các biểu hiện của trẻ nếu đang sinh sống trong khu vực bùng phát bệnh",
+      "Thực hiện phương pháp điều trị dự phòng nếu đã tiếp xúc với người nhiễm bệnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm màng não mô cầu có nguy hiểm không?",
+      "answer": "Viêm màng não mô cầu là một trong 6 căn bệnh truyền nhiễm có tỷ lệ tử vong cao nhất, lên đến 0,03/100.000 dân. Bệnh có thể bắt đầu với triệu chứng sốt nhẹ và chuyển biến nhanh chóng, dẫn đến nhiễm khuẩn huyết, khiến trẻ tử vong chỉ sau vài giờ phát bệnh nếu không được điều trị kịp thời."
+    },
+    {
+      "question": "Tỷ lệ khỏi bệnh của viêm màng não mô cầu là bao nhiêu?",
+      "answer": "Theo thống kê, tỷ lệ trẻ bị viêm màng não mô cầu khỏi bệnh hoàn toàn có thể lên đến 95% nếu được điều trị kịp thời. Tuy nhiên, khoảng 20% bệnh nhân được chữa khỏi phải sống với các biến chứng của bệnh suốt đời như điếc, mù lòa, suy giảm thần kinh, hoặc phải cắt cụt chi do hoại tử."
+    },
+    {
+      "question": "Làm thế nào để phân biệt viêm màng não mô cầu với các bệnh viêm đường hô hấp khác?",
+      "answer": "Các triệu chứng của viêm màng não mô cầu ban đầu có thể tương tự như triệu chứng của các bệnh viêm đường hô hấp, nhưng diễn biến nhanh chóng và nghiêm trọng hơn. Dấu hiệu đặc trưng là sự xuất hiện của các nốt tử ban màu xanh tím hoặc đỏ thẫm trên da sau khi phát sốt 1-2 ngày, cùng với các triệu chứng như đau đầu dữ dội, cứng cổ, và rối loạn ý thức."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sốt cao đột ngột. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng não mô cầu",
+        "Cúm",
+        "Nhiễm trùng huyết",
+        "Sốt xuất huyết"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu dữ dội, cứng cổ và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng não mô cầu",
+        "Viêm màng não do virus",
+        "Xuất huyết não"
+      ]
+    },
+    {
+      "question": "Tôi hay bị xuất hiện nốt tử ban màu xanh tím trên da sau khi sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng não mô cầu",
+        "Nhiễm trùng huyết",
+        "Sốt phát ban"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy sốt cao, ngủ li bì và có biểu hiện co giật. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng não mô cầu",
+        "Viêm não",
+        "Sốt cao co giật"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhiễm vi khuẩn não cầu Neisseria meningitidis. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm màng não mô cầu",
+        "Nhiễm trùng huyết do mô cầu",
+        "Viêm mô cầu vòm họng"
+      ]
     }
   ]
 }

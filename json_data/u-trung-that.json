@@ -1,39 +1,163 @@
 {
   "disease_id": "u-trung-that",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U trung thất",
+  "disease_alternative_names": ["Khối u trung thất", "Mediastinal tumor"],
+  "disease_definition": "U trung thất là khối u hình thành ở khu vực trung thất. Chúng có thể lành tính (không phải ung thư) hoặc ác tính (ung thư). Khối u trung thất có khả năng xuất hiện ở phần trước hoặc sau của khu vực này. Vị trí khối u phụ thuộc vào độ tuổi của người bệnh. Thống kê cho thấy các khối u phát triển ở phần sau của trung thất chủ yếu gặp ở trẻ em, còn khối u ở phần trước trung thất xảy ra nhiều hơn ở người lớn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ho",
+      "description": "Ho dai dẳng, có thể là do khối u chèn ép các cơ quan hô hấp xung quanh"
+    },
+    {
+      "name": "Hụt hơi",
+      "description": "Cảm giác khó thở, thở gấp do khối u chèn ép đường thở"
+    },
+    {
+      "name": "Đau ngực",
+      "description": "Cảm giác đau hoặc tức ngực do khối u chèn ép các cơ quan trong lồng ngực"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Triệu chứng tiêu hóa xuất hiện do khối u chèn ép hoặc ảnh hưởng đến các cơ quan tiêu hóa"
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng thân nhiệt, thường đi kèm với các triệu chứng nhiễm trùng hoặc viêm"
+    },
+    {
+      "name": "Ớn lạnh",
+      "description": "Cảm giác lạnh đột ngột thường đi kèm với sốt"
+    },
+    {
+      "name": "Đổ mồ hôi đêm",
+      "description": "Toát mồ hôi bất thường vào ban đêm, thường gặp trong các trường hợp u ác tính"
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Xuất hiện máu trong đờm khi ho, do khối u xâm lấn hoặc chèn ép vào đường hô hấp"
+    },
+    {
+      "name": "Khàn tiếng",
+      "description": "Giọng nói thay đổi, khàn đục do khối u chèn ép dây thanh quản"
+    },
+    {
+      "name": "Giảm cân không chủ đích",
+      "description": "Sụt cân không rõ nguyên nhân, thường gặp trong các trường hợp u ác tính"
+    },
+    {
+      "name": "Nổi hạch",
+      "description": "Sưng to các hạch bạch huyết, thường liên quan đến các bệnh lý về hệ bạch huyết"
+    },
+    {
+      "name": "Thở khò khè",
+      "description": "Âm thanh bất thường khi thở do đường thở bị thu hẹp"
+    },
+    {
+      "name": "Sụp mí mắt và vấn đề về mắt",
+      "description": "Biểu hiện như sụp mí mắt, đồng tử nhỏ do khối u ảnh hưởng đến dây thần kinh điều khiển vùng mắt"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân hình thành khối u trung thất thường liên quan đến vị trí của chúng và các loại mô trong trung thất phát triển bất thường.",
+    "related_factors": "Các khối u ở trung thất trước thường là ung thư hạch, u tuyến ức, u nang tuyến ức, khối u tế bào mầm hoặc khối trung thất tuyến giáp. Khối u ở trung thất giữa bao gồm u nang phế quản, nổi hạch trung thất, u nang màng ngoài tim, các khối u khí quản, các khối u thực quản và bất thường mạch máu. Khối u ở trung thất sau chủ yếu liên quan đến các khối u thần kinh, nổi hạch, u nang thần kinh và bất thường cột sống.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Độ tuổi (người lớn thường gặp khối u ở trung thất trước, trẻ em thường gặp khối u ở trung thất sau)",
+    "Tiền sử bệnh về hệ bạch huyết",
+    "Bệnh lý tuyến ức",
+    "Bệnh lý tuyến giáp",
+    "Các bệnh lý về thần kinh",
+    "Các bất thường mạch máu"
+  ],
+  "complications": [
+    "Chèn ép các cơ quan và mô xung quanh",
+    "Ảnh hưởng đến chức năng của những cơ quan trong trung thất",
+    "Khối u ác tính có thể lây lan sang những vùng khác của cơ thể",
+    "Xâm lấn vào tủy sống gây chèn ép tủy sống",
+    "Xâm lấn tim hoặc các mạch máu của tim gây nguy hiểm đến tính mạng",
+    "Biến chứng sau điều trị: giảm cảm giác thèm ăn, chảy máu, thiếu máu, táo bón, tiêu chảy, mệt mỏi, rụng tóc, nhiễm trùng, buồn nôn, nôn, đau đớn, sưng tấy"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng để đánh giá các triệu chứng và dấu hiệu",
+      "Khám tổng quát các hệ thống cơ quan để phát hiện các bất thường liên quan",
+      "Đánh giá tiền sử bệnh lý cá nhân và gia đình"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp cắt lớp vi tính (CT) vùng trung thất",
+        "description": "Phương pháp tạo hình ảnh chi tiết của khu vực trung thất, giúp xác định vị trí, kích thước và đặc điểm của khối u"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá các chỉ số máu, dấu ấn u và các bất thường khác liên quan đến khối u trung thất"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Dùng sóng âm để tạo hình ảnh của các cơ quan nội tạng và khối u"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô để kiểm tra dưới kính hiển vi, giúp xác định tính chất lành tính hoặc ác tính của khối u"
+      },
+      {
+        "name": "X-quang ngực",
+        "description": "Phương pháp tạo hình ảnh cơ bản để phát hiện bất thường trong lồng ngực, thường là xét nghiệm ban đầu"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI) ngực",
+        "description": "Tạo hình ảnh chi tiết giúp đánh giá các tổn thương mô mềm và mối liên quan với các cấu trúc lân cận"
+      },
+      {
+        "name": "Nội soi thực quản",
+        "description": "Kiểm tra bên trong thực quản để phát hiện các tổn thương hoặc khối u"
+      },
+      {
+        "name": "Nội soi phế quản",
+        "description": "Kiểm tra bên trong phế quản và đường thở để phát hiện các tổn thương hoặc khối u"
+      },
+      {
+        "name": "Nội soi trung thất kèm sinh thiết",
+        "description": "Phương pháp xâm lấn tối thiểu để khám và lấy mẫu mô từ khu vực trung thất"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị được áp dụng cho các khối u trung thất phụ thuộc vào loại khối u và vị trí của nó.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Loại bỏ khối u, thường áp dụng cho các u tuyến ức và khối u thần kinh. Có thể thực hiện bằng phương pháp xâm lấn tối thiểu hoặc phẫu thuật mở"
+      },
+      {
+        "name": "Phẫu thuật nội soi lồng ngực",
+        "description": "Kỹ thuật xâm lấn tối thiểu sử dụng camera nhỏ và dụng cụ phẫu thuật đặt qua các lỗ nhỏ trên thành ngực"
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ bằng robot",
+        "description": "Phương pháp tiên tiến sử dụng hệ thống robot hỗ trợ bác sĩ thực hiện các thao tác phẫu thuật chính xác"
+      },
+      {
+        "name": "Phẫu thuật cắt đoạn giữa",
+        "description": "Phương pháp tiếp cận mở chia đôi xương ức để loại bỏ khối u"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng thuốc để tiêu diệt tế bào ung thư, thường dùng cho u lympho và một số khối u ác tính khác"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng tia bức xạ năng lượng cao để tiêu diệt tế bào ung thư, thường dùng sau hóa trị cho u lympho"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch tái khám theo hướng dẫn của bác sĩ",
+      "Chăm sóc vết mổ đúng cách sau phẫu thuật",
+      "Duy trì chế độ ăn uống phù hợp và đầy đủ dinh dưỡng",
+      "Chế độ vận động hợp lý để sớm hồi phục sức khỏe",
+      "Theo dõi và báo cáo các triệu chứng bất thường sau điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +165,52 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không thể ngăn ngừa u trung thất hình thành, nhưng có thể phát hiện sớm qua thăm khám định kỳ",
+      "Quan tâm sức khỏe nhiều hơn và thăm khám định kỳ",
+      "Đến bệnh viện kiểm tra sớm nếu xuất hiện các triệu chứng đau tức ngực, khó thở, ho không rõ nguyên nhân kéo dài hơn hai tuần",
+      "Tránh các yếu tố nguy cơ như hút thuốc, tiếp xúc với hóa chất độc hại (nếu có thể)",
+      "Duy trì lối sống lành mạnh, chế độ ăn uống cân bằng và tập thể dục đều đặn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U trung thất có nguy hiểm không?",
+      "answer": "Cả khối u trung thất lành tính và ác tính đều cần điều trị. Nếu không can thiệp, khi khối u phát triển, chúng sẽ chèn ép các cơ quan và mô xung quanh, thậm chí ảnh hưởng đến chức năng của những cơ quan này. Các khối u ác tính có thể lây lan sang những vùng khác của cơ thể, xâm lấn vào tủy sống gây chèn ép tủy sống, hoặc xâm lấn tim và các mạch máu của tim, gây nguy hiểm đến tính mạng."
+    },
+    {
+      "question": "Có thể phòng ngừa u trung thất không?",
+      "answer": "Không thể ngăn ngừa u trung thất hình thành nhưng có thể loại bỏ nó hoàn toàn nếu phát hiện và điều trị ở giai đoạn sớm. Điều quan trọng là mỗi người quan tâm sức khỏe nhiều hơn và thăm khám định kỳ, trường hợp xuất hiện các triệu chứng đau tức ngực, khó thở, ho không rõ nguyên nhân... kéo dài hơn hai tuần, cần đến bệnh viện kiểm tra sớm."
+    },
+    {
+      "question": "Phương pháp điều trị u trung thất tốt nhất là gì?",
+      "answer": "Phương pháp điều trị u trung thất phụ thuộc vào loại khối u và vị trí của nó. Các u tuyến ức cần kết hợp phẫu thuật, xạ trị và hóa trị. Các u lympho được can thiệp bằng hóa trị, sau đó là xạ trị. Các khối u thần kinh ở trung thất sau thường được điều trị bằng phẫu thuật. Tại các bệnh viện hiện đại, ưu tiên phương pháp mổ nội soi hoặc phẫu thuật xâm lấn tối thiểu vì có nhiều ưu điểm như ít đau sau phẫu thuật, thời gian nằm viện ngắn hơn và phục hồi nhanh hơn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ho, hụt hơi, đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U trung thất",
+        "Bệnh phổi tắc nghẽn mạn tính",
+        "Viêm phổi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy buồn nôn và nôn, sốt, ớn lạnh, đổ mồ hôi đêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U trung thất", "Nhiễm trùng", "Bệnh lympho"]
+    },
+    {
+      "question": "Tôi hay bị ho ra máu, khàn tiếng, giảm cân không chủ đích, nổi hạch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U trung thất", "Ung thư phổi", "Lao phổi"]
+    },
+    {
+      "question": "Tôi đang cảm thấy thở khò khè, sụp mí mắt, đồng tử nhỏ và các vấn đề về mắt khác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U trung thất", "Nhược cơ", "Hội chứng Horner"]
+    },
+    {
+      "question": "Tôi hay bị những cơn ho dai dẳng, ho ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U trung thất", "Ung thư phổi", "Giãn phế quản"]
     }
   ]
 }

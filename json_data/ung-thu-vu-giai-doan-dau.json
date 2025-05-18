@@ -1,39 +1,146 @@
 {
   "disease_id": "ung-thu-vu-giai-doan-dau",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vú giai đoạn đầu",
+  "disease_alternative_names": [
+    "Ung thư vú giai đoạn sớm",
+    "Ung thư vú giai đoạn 0-III"
+  ],
+  "disease_definition": "Ung thư vú giai đoạn đầu (sớm) là ung thư chưa xâm lấn rộng ra ngoài vú hoặc di căn tới các hạch bạch huyết ở nách. Bao gồm ung thư giai đoạn 0 đến giai đoạn III, với tiên lượng tốt, điều trị hiệu quả và tỷ lệ sống thêm sau 5 năm cao.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Vú sưng nề",
+      "description": "Một hoặc cả hai vú có thể xuất hiện tình trạng sưng, phồng bất thường."
+    },
+    {
+      "name": "Đau ở bất kỳ phần nào của vú",
+      "description": "Cảm giác đau không rõ nguyên nhân xuất hiện ở một hay nhiều vị trí trong vú."
+    },
+    {
+      "name": "Xuất hiện khối u dưới nách hoặc ở vú",
+      "description": "Có thể sờ thấy khối u không đau hoặc dày lên trong mô vú hoặc vùng nách."
+    },
+    {
+      "name": "Đau ở vùng núm vú",
+      "description": "Cảm giác đau đặc biệt ở khu vực núm vú, có thể kèm theo các triệu chứng khác."
+    },
+    {
+      "name": "Da vú có dấu hiệu lõm xuống hoặc co kéo",
+      "description": "Thay đổi bề mặt da vú, xuất hiện các vùng da lõm xuống hoặc có dấu hiệu bị kéo vào trong."
+    },
+    {
+      "name": "Sần đỏ xung quanh khu vực núm vú hoặc da vú",
+      "description": "Xuất hiện vùng da sần sùi, đỏ bất thường ở khu vực núm vú hoặc trên bề mặt da vú."
+    },
+    {
+      "name": "Tiết dịch bất thường núm vú",
+      "description": "Núm vú tiết ra dịch không phải sữa, có thể trong, đục hoặc có máu."
+    },
+    {
+      "name": "Thay đổi kích thước hoặc hình dạng của vú",
+      "description": "Một bên vú thay đổi kích thước, hình dạng so với bên còn lại hoặc so với trước đây."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Chưa xác định được nguyên nhân chính xác gây ung thư vú giai đoạn đầu.",
+    "related_factors": "Ung thư vú xuất phát trong các tế bào lót (biểu mô) của ống dẫn (85%) hoặc tiểu thùy (15%) trong mô tuyến của vú. Lúc đầu, sự phát triển ung thư chỉ giới hạn ở trong ống dẫn hoặc tiểu thùy (\"tại chỗ\"), sau đó có thể tiến triển xâm lấn các mô vú xung quanh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ",
+    "Tuổi cao (nguy cơ tăng theo tuổi)",
+    "Tiền sử gia đình có người mắc ung thư vú",
+    "Tiền sử cá nhân mắc ung thư vú hoặc các bệnh lý tiền ung thư vú",
+    "Đột biến gen BRCA1, BRCA2 hoặc các gen khác liên quan đến ung thư vú",
+    "Phơi nhiễm với bức xạ ion hóa",
+    "Kinh nguyệt sớm hoặc mãn kinh muộn",
+    "Chưa từng sinh con hoặc sinh con đầu lòng sau 30 tuổi",
+    "Liệu pháp hormone thay thế sau mãn kinh",
+    "Uống rượu",
+    "Béo phì sau mãn kinh",
+    "Mật độ mô vú cao"
+  ],
+  "complications": [
+    "Tái phát ung thư vú",
+    "Di căn đến các cơ quan khác (xương, phổi, gan, não)",
+    "Suy giảm chức năng sinh sản",
+    "Các tác dụng phụ của điều trị như buồn nôn, nôn, rụng tóc, mệt mỏi",
+    "Thay đổi ngoại hình và tâm lý",
+    "Nhiễm trùng sau phẫu thuật",
+    "Đau và thay đổi cảm giác ở vùng ngực",
+    "Các vấn đề thẩm mỹ và sẹo vĩnh viễn"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Chụp nhũ ảnh",
+      "Siêu âm vú",
+      "Chụp cộng hưởng từ (MRI)",
+      "Sinh thiết mô"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp nhũ ảnh",
+        "description": "Phương pháp tầm soát ung thư vú cho kết quả chẩn đoán chính xác cao, có thể phát hiện hầu hết các trường hợp ung thư vú trước khi có triệu chứng. Hệ thống chụp nhũ ảnh 3D có thể tăng tỷ lệ phát hiện ung thư tới 40% và giảm tỷ lệ dương tính giả."
+      },
+      {
+        "name": "Siêu âm vú",
+        "description": "Thường được bác sĩ chỉ định nếu chụp nhũ ảnh không nhạy. Điểm mạnh của siêu âm là có thể đánh giá được độ đặc cũng như kích thước của các khối u vú."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Thường được chỉ định cho các trường hợp nghi ngờ bệnh ác tính đa ổ hoặc hai bên, đặc biệt là ung thư biểu mô tiểu thùy xâm lấn (ILC) và khi đánh giá đáp ứng với hóa trị bổ trợ trước, hoặc khi lập kế hoạch sàng lọc và phẫu thuật bảo tồn vú ở những bệnh nhân có nguy cơ cao."
+      },
+      {
+        "name": "Sinh thiết mô",
+        "description": "Mô được lấy bằng phương pháp chọc hút (dùng kim nhỏ) hoặc sinh thiết rạch/cắt hoặc sinh thiết lõi. Đây là phương pháp quan trọng giúp chẩn đoán xác định bệnh ung thư vú."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tiên lượng của ung thư vú giai đoạn sớm rất khả quan. Giai đoạn 0 và giai đoạn I có tỷ lệ sống thêm sau 5 năm là 100%. Giai đoạn II và giai đoạn III có tỷ lệ sống thêm sau 5 năm tương ứng khoảng 93% và 72%.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật bảo tồn vú (BCS)",
+        "description": "Còn gọi là cắt bỏ khối u hoặc cắt bỏ một phần vú, loại bỏ mô ung thư và một rìa mô bình thường xung quanh. Sau đó thường kết hợp với xạ trị để tiêu diệt tế bào ung thư còn sót lại và giảm nguy cơ tái phát."
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ vú",
+        "description": "Cắt bỏ toàn bộ vú, thường được chỉ định khi có lo ngại rằng có thể có các vùng ung thư khác trong vú hoặc nếu có tiền sử gia đình mắc bệnh ung thư vú, hoặc khi khối u lớn hoặc lan rộng."
+      },
+      {
+        "name": "Phẫu thuật nạo vét hạch bạch huyết",
+        "description": "Kiểm tra các hạch bạch huyết gần đó bằng sinh thiết hạch cửa (SLNB) hoặc bóc tách hạch bạch huyết ở nách (ALND) để xác định tình trạng di căn hạch."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Thường được thực hiện sau phẫu thuật bảo tồn vú để giảm nguy cơ ung thư tái phát tại chỗ và kéo dài thời gian sống. Cũng có thể được sử dụng sau cắt bỏ vú trong một số trường hợp."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Có thể được thực hiện trước phẫu thuật (hóa trị bổ trợ trước) để giảm kích thước khối u, hoặc sau phẫu thuật (hóa trị bổ trợ) để tiêu diệt tế bào ung thư còn sót lại."
+      },
+      {
+        "name": "Liệu pháp hormone",
+        "description": "Nếu ung thư dương tính với thụ thể hormone (ER dương tính hoặc PR dương tính), có thể được điều trị bằng tamoxifen hoặc chất ức chế aromatase (AI) trong ít nhất 5 năm sau phẫu thuật."
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Nếu ung thư dương tính với HER2, có thể được điều trị bằng trastuzumab (Herceptin), pertuzumab (Perjeta) hoặc các thuốc nhắm trúng đích khác. Với ung thư dương tính với thụ thể hormone và âm tính với HER2, có thể sử dụng abemaciclib sau phẫu thuật."
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Với ung thư vú ba âm tính (TNBC), thuốc điều trị miễn dịch như pembrolizumab có thể được sử dụng trước và sau phẫu thuật."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch trình điều trị và lịch tái khám theo chỉ định của bác sĩ",
+      "Theo dõi và báo cáo các tác dụng phụ của điều trị để được xử lý kịp thời",
+      "Duy trì chế độ ăn uống lành mạnh và cân bằng dinh dưỡng",
+      "Tập thể dục nhẹ nhàng và phù hợp với thể trạng",
+      "Tìm kiếm hỗ trợ tâm lý khi cần thiết",
+      "Tham gia các nhóm hỗ trợ bệnh nhân ung thư vú",
+      "Thường xuyên tự kiểm tra vú để phát hiện sớm các bất thường"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +148,100 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện tự kiểm tra vú hàng tháng để phát hiện sớm các bất thường",
+      "Thăm khám sức khỏe định kỳ mỗi 6 tháng một lần",
+      "Chụp nhũ ảnh tầm soát định kỳ theo khuyến cáo của bác sĩ",
+      "Duy trì cân nặng hợp lý",
+      "Hạn chế uống rượu bia",
+      "Tập thể dục đều đặn",
+      "Cho con bú (nếu có thể)",
+      "Cân nhắc rủi ro khi sử dụng liệu pháp hormone thay thế sau mãn kinh",
+      "Tham khảo ý kiến bác sĩ về các biện pháp phòng ngừa nếu có tiền sử gia đình mắc ung thư vú"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư vú giai đoạn đầu có chữa được không?",
+      "answer": "Ung thư vú giai đoạn đầu có tiên lượng rất tốt và có thể chữa khỏi. Tỷ lệ sống thêm sau 5 năm ở giai đoạn 0 và I là 100%, giai đoạn II khoảng 93% và giai đoạn III khoảng 72%."
+    },
+    {
+      "question": "Triệu chứng của ung thư vú giai đoạn đầu là gì?",
+      "answer": "Ung thư vú giai đoạn đầu thường không có triệu chứng rõ ràng. Tuy nhiên, một số dấu hiệu có thể bao gồm: vú sưng nề, đau ở bất kỳ phần nào của vú, khối u dưới nách hoặc ở vú, đau ở vùng núm vú, da vú lõm xuống hoặc co kéo, sần đỏ ở núm vú hoặc da vú, tiết dịch bất thường từ núm vú, và thay đổi kích thước hoặc hình dạng của vú."
+    },
+    {
+      "question": "Các phương pháp chẩn đoán ung thư vú giai đoạn sớm là gì?",
+      "answer": "Các phương pháp chẩn đoán ung thư vú giai đoạn sớm bao gồm: chụp nhũ ảnh (có thể phát hiện hầu hết các trường hợp ung thư vú trước khi có triệu chứng), siêu âm vú (đánh giá độ đặc và kích thước khối u), chụp cộng hưởng từ (MRI) (cho các trường hợp nghi ngờ bệnh ác tính đa ổ hoặc hai bên), và sinh thiết mô (phương pháp quan trọng để chẩn đoán xác định bệnh)."
+    },
+    {
+      "question": "Các phương pháp điều trị ung thư vú giai đoạn sớm là gì?",
+      "answer": "Điều trị ung thư vú giai đoạn sớm thường bao gồm: phẫu thuật (bảo tồn vú hoặc cắt bỏ vú), xạ trị, hóa trị, liệu pháp hormone (tamoxifen hoặc chất ức chế aromatase), liệu pháp nhắm trúng đích (trastuzumab, pertuzumab), và liệu pháp miễn dịch. Phương pháp điều trị cụ thể phụ thuộc vào giai đoạn bệnh, đặc điểm sinh học của khối u và tình trạng sức khỏe của người bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như vú sưng nề. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-dau",
+        "viem-tuyen-sua",
+        "phong-to-vu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ở bất kỳ phần nào của vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-dau",
+        "viem-tuyen-sua",
+        "u-xo-tuyen-vu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau ở vùng núm vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-dau",
+        "viem-tuyen-sua",
+        "benh-paget-o-num-vu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị da vú có dấu hiệu lõm xuống hoặc co kéo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-dau",
+        "ung-thu-vu",
+        "u-xo-duoi-da"
+      ]
+    },
+    {
+      "question": "Tôi có sần đỏ xung quanh khu vực núm vú hoặc da vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-dau",
+        "viem-da",
+        "benh-paget-o-num-vu"
+      ]
+    },
+    {
+      "question": "Tôi bị tiết dịch bất thường núm vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-dau",
+        "viem-tuyen-sua",
+        "nang-ong-sua"
+      ]
+    },
+    {
+      "question": "Tôi bị thay đổi kích thước hoặc hình dạng của vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-dau",
+        "ung-thu-vu",
+        "phong-to-vu"
+      ]
+    },
+    {
+      "question": "Tôi phát hiện khối u không đau hoặc dày lên ở vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-dau",
+        "u-xo-tuyen-vu",
+        "nang-vu"
+      ]
     }
   ]
 }

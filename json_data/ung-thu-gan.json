@@ -1,58 +1,217 @@
 {
   "disease_id": "ung-thu-gan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư gan",
+  "disease_alternative_names": [
+    "Ung thư gan nguyên phát",
+    "Ung thư biểu mô tế bào gan",
+    "Ung thư đường mật",
+    "Carcinoma gan"
+  ],
+  "disease_definition": "Ung thư gan là tình trạng các khối u ác tính phát sinh trong gan, dẫn đến việc phá hủy các tế bào gan và cản trở khả năng hoạt động bình thường của cơ quan quan trọng này. Ung thư gan có hai loại chính: ung thư gan nguyên phát (hình thành từ chính các tế bào trong gan) và ung thư gan thứ phát (phát triển khi các tế bào ung thư từ cơ quan khác di căn đến gan).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Giảm cân không rõ nguyên nhân",
+      "description": "Sụt cân mà không thay đổi chế độ ăn uống hoặc tập luyện"
+    },
+    {
+      "name": "Ăn không ngon miệng",
+      "description": "Giảm cảm giác thèm ăn, chán ăn"
+    },
+    {
+      "name": "Đau vùng hạ sườn phải",
+      "description": "Cảm giác nặng, đau tức hoặc tự sờ thấy khối vùng hạ sườn phải"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn mửa thường xuyên"
+    },
+    {
+      "name": "Mệt mỏi, suy nhược cơ thể",
+      "description": "Cảm giác mệt mỏi kéo dài, thiếu năng lượng, yếu sức"
+    },
+    {
+      "name": "Chướng bụng",
+      "description": "Cảm giác bụng to, căng, đầy hơi"
+    },
+    {
+      "name": "Vàng da, vàng mắt",
+      "description": "Da và mắt chuyển màu vàng do tăng bilirubin trong máu"
+    },
+    {
+      "name": "Nước tiểu sẫm màu",
+      "description": "Nước tiểu có màu sậm hơn bình thường"
+    },
+    {
+      "name": "Phân nhạt màu",
+      "description": "Phân có màu nhạt hơn bình thường"
+    },
+    {
+      "name": "Sốt",
+      "description": "Thân nhiệt tăng cao bất thường"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư gan xảy ra khi các tế bào gan có sự thay đổi (đột biến) trong DNA. DNA của tế bào đảm nhận vai trò hướng dẫn cho mọi quá trình hóa học trong tế bào cơ thể. Đột biến DNA gây ra những thay đổi trong quá trình hướng dẫn này. Kết quả là các tế bào bắt đầu phát triển ngoài tầm kiểm soát, cuối cùng hình thành nên khối u - một khối tế bào ung thư.",
+    "related_factors": "Đôi khi, khối u ác tính ở gan phát triển từ một bệnh lý, chẳng hạn như viêm gan mạn tính. Trong một số trường hợp, bệnh xảy ra ở những người không có bệnh lý, khiến các bác sĩ cũng không thể xác định nguyên nhân gây bệnh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm virus viêm gan B (HBV) hoặc virus viêm gan C (HCV) mạn tính",
+    "Xơ gan",
+    "Bệnh ứ sắt (Hemochromatosis)",
+    "Bệnh Wilson (rối loạn chuyển hóa đồng)",
+    "Bệnh đái tháo đường",
+    "Bệnh gan nhiễm mỡ không do rượu",
+    "Tiếp xúc với aflatoxin (độc tố do nấm mốc sinh ra trên cây trồng)",
+    "Uống rượu quá mức trong thời gian dài"
+  ],
+  "complications": [
+    "Thiếu máu",
+    "Tắc nghẽn ống dẫn mật",
+    "Chảy máu",
+    "Giãn tĩnh mạch thực quản",
+    "Hội chứng gan thận",
+    "Bệnh não gan"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám tổng quát",
+      "Hỏi tiền sử bệnh",
+      "Phân giai đoạn ung thư gan"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm chức năng gan",
+        "description": "Đo nồng độ protein, albumin, men gan và bilirubin trong máu để xác định tình trạng sức khỏe của gan"
+      },
+      {
+        "name": "Xét nghiệm chỉ điểm khối u gan",
+        "description": "Kiểm tra nồng độ AFP (alpha-fetoprotein), AFP-L3, PIVKA-II trong máu để đánh giá khả năng ung thư gan"
+      },
+      {
+        "name": "Siêu âm ổ bụng",
+        "description": "Tạo hình ảnh của gan và các cơ quan khác trong ổ bụng bằng sóng âm"
+      },
+      {
+        "name": "Chụp CT ổ bụng",
+        "description": "Tạo hình ảnh chi tiết của gan và các cơ quan trong ổ bụng để xác định vị trí, kích thước của khối u"
+      },
+      {
+        "name": "Chụp MRI gan mật",
+        "description": "Tạo hình ảnh chi tiết cao của gan và đường mật để đánh giá mức độ ung thư"
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Lấy mẫu mô gan nhỏ để kiểm tra tế bào ung thư dưới kính hiển vi, thường được thực hiện dưới hướng dẫn của siêu âm hoặc CT"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị ung thư gan bằng phương pháp nào sẽ do bác sĩ cân nhắc dựa trên các yếu tố: số lượng, kích thước và vị trí của các khối u trong gan; chức năng gan; có bị xơ gan hay không; khối u có di căn đến hạch hoặc các cơ quan khác không.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt gan",
+        "description": "Loại bỏ phần gan có khối u. Phương pháp này thường được thực hiện khi tế bào ung thư chỉ giới hạn trong gan"
+      },
+      {
+        "name": "Ghép gan",
+        "description": "Thay thế một phần hoặc toàn bộ lá gan mang khối u bằng phần gan khỏe mạnh từ người hiến tặng"
+      },
+      {
+        "name": "Tiêm ethanol vào khối u gan",
+        "description": "Tiêm cồn tuyệt đối (ethanol) vào khối u gan có kích thước nhỏ hơn 3cm dưới hướng dẫn của siêu âm để tiêu diệt các tế bào ung thư"
+      },
+      {
+        "name": "Đốt sóng cao tần u gan",
+        "description": "Đưa kim dẫn sóng cao tần vào khối u gan để đốt các khối u có kích thước nhỏ hơn 3cm"
+      },
+      {
+        "name": "Nút mạch hóa chất",
+        "description": "Đưa ống thông đến động mạch nuôi khối u gan, bơm hóa chất gắn hạt cầu vào khối u và nút tắc mạch máu"
+      },
+      {
+        "name": "Nút mạch phóng xạ",
+        "description": "Bơm trực tiếp các hạt vi cầu phóng xạ Y-90 vào nhánh động mạch nuôi khối u gan để tiêu diệt tế bào ung thư"
+      },
+      {
+        "name": "Xạ trị ngoài",
+        "description": "Sử dụng chùm tia bức xạ năng lượng cao chiếu vào khối u để tiêu diệt tế bào ung thư"
+      },
+      {
+        "name": "Hóa trị/Thuốc điều trị đích/Thuốc miễn dịch",
+        "description": "Sử dụng thuốc hóa chất, thuốc điều trị đích hoặc thuốc miễn dịch để làm giảm sự phát triển của khối u và di căn"
+      },
+      {
+        "name": "Chăm sóc giảm nhẹ",
+        "description": "Biện pháp can thiệp y tế giúp giảm các biến chứng của bệnh ung thư như giảm đau, truyền đạm nâng cao thể trạng"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Theo dõi và khám định kỳ theo lịch hẹn",
+      "Ăn thực phẩm tươi, tránh xa thực phẩm chế biến sẵn",
+      "Tăng cường dùng gừng để giảm cảm giác buồn nôn",
+      "Chia nhỏ bữa ăn: 6-8 bữa nhỏ thay vì 3 bữa lớn/ngày",
+      "Hạn chế rượu bia",
+      "Luộc hoặc hấp thức ăn thay vì nướng, chiên rán ở nhiệt độ cao"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin viêm gan B để phòng bệnh. Trẻ sơ sinh nên tiêm trong 24 giờ đầu sau sinh. Người lớn, đặc biệt là đối tượng có nguy cơ nhiễm cao cũng cần được chủng ngừa (tiêm 3 mũi trong vòng 6 tháng).",
+      "recommended_for": [
+        "Trẻ sơ sinh",
+        "Người lớn có nguy cơ nhiễm cao",
+        "Người lạm dụng thuốc tiêm tĩnh mạch"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện các biện pháp phòng tránh viêm gan C: quan hệ tình dục an toàn, không sử dụng ma túy, thận trọng khi xăm hoặc xỏ khuyên",
+      "Phòng ngừa xơ gan: hạn chế uống rượu, duy trì cân nặng hợp lý, tập thể dục 30 phút/ngày",
+      "Tuân thủ chế độ ăn uống cân bằng: giảm tinh bột xấu, thức ăn chiên rán, đồ ngọt; tăng cường protein nạc, ngũ cốc nguyên hạt và rau củ quả",
+      "Khám sàng lọc, khám sức khỏe định kỳ để phát hiện sớm",
+      "Tiêm ngừa vắc xin viêm gan B đầy đủ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư gan có nguy hiểm không?",
+      "answer": "Ung thư gan là một bệnh lý ác tính rất nguy hiểm, với số ca mắc và tử vong cao hàng đầu tại Việt Nam. Bệnh có thể gây ra nhiều biến chứng nghiêm trọng như thiếu máu, tắc nghẽn ống mật, chảy máu, giãn tĩnh mạch thực quản, hội chứng gan thận và bệnh não gan. Tuy nhiên, nếu được phát hiện sớm và điều trị kịp thời, bệnh nhân có thể có tiên lượng tốt hơn."
+    },
+    {
+      "question": "Những ai có nguy cơ mắc ung thư gan cao?",
+      "answer": "Người có nguy cơ cao mắc ung thư gan bao gồm: người nhiễm virus viêm gan B hoặc C mạn tính, người bị xơ gan, người mắc bệnh ứ sắt hoặc bệnh Wilson, người bị đái tháo đường, người bị gan nhiễm mỡ không do rượu, người tiếp xúc với aflatoxin và người uống rượu quá mức trong thời gian dài."
+    },
+    {
+      "question": "Ung thư gan có những triệu chứng gì?",
+      "answer": "Ở giai đoạn đầu, ung thư gan thường không có triệu chứng rõ ràng. Khi bệnh tiến triển, các triệu chứng có thể bao gồm: giảm cân không rõ nguyên nhân, ăn không ngon miệng, đau vùng hạ sườn phải, buồn nôn và nôn, mệt mỏi suy nhược, chướng bụng, vàng da vàng mắt, nước tiểu sẫm màu, phân nhạt màu và sốt."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa ung thư gan?",
+      "answer": "Để phòng ngừa ung thư gan, bạn nên: tiêm vắc xin viêm gan B, thực hiện các biện pháp phòng tránh viêm gan C (quan hệ tình dục an toàn, không sử dụng ma túy), phòng ngừa xơ gan (hạn chế rượu bia, duy trì cân nặng hợp lý), khám sức khỏe định kỳ và duy trì chế độ ăn uống lành mạnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau hạ sườn phải, vàng da và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư gan", "Viêm gan", "Sỏi mật"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chán ăn, sụt cân và bụng to bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư gan", "Xơ gan", "Ung thư dạ dày"]
+    },
+    {
+      "question": "Tôi hay bị vàng da, vàng mắt và nước tiểu sẫm màu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư gan", "Viêm gan", "Tắc mật"]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư gan", "Viêm dạ dày", "Viêm tụy"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, suy nhược cơ thể và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư gan", "Thiếu máu", "Suy dinh dưỡng"]
     }
   ]
 }

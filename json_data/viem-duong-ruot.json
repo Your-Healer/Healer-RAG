@@ -1,39 +1,163 @@
 {
   "disease_id": "viem-duong-ruot",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm đường ruột",
+  "disease_alternative_names": [
+    "Bệnh viêm ruột (IBD)",
+    "Viêm loét đại tràng",
+    "Bệnh Crohn"
+  ],
+  "disease_definition": "Viêm đường ruột (IBD) là các rối loạn liên quan đến tình trạng viêm mô mãn tính trong đường tiêu hóa, bao gồm viêm loét đại tràng (viêm, lở loét dọc theo niêm mạc đại tràng và trực tràng) và bệnh Crohn (viêm niêm mạc đường tiêu hóa, thường liên quan đến các lớp sâu hơn ở bên trong, ảnh hưởng nhiều nhất đến ruột non).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tiêu chảy",
+      "description": "Đi ngoài phân lỏng, thường xuyên, là một trong những triệu chứng phổ biến nhất của viêm đường ruột."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, kiệt sức do cơ thể phải liên tục chiến đấu với tình trạng viêm và tiêu hao năng lượng."
+    },
+    {
+      "name": "Đau bụng",
+      "description": "Cơn đau thường xuất hiện ở vùng bụng dưới, mức độ đau từ nhẹ đến nặng tùy thuộc vào tình trạng viêm."
+    },
+    {
+      "name": "Xuất hiện máu trong phân",
+      "description": "Phân có lẫn máu do niêm mạc đường ruột bị viêm loét, gây chảy máu."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn uống do các cơn đau bụng và khó chịu sau khi ăn."
+    },
+    {
+      "name": "Sút cân bất thường",
+      "description": "Giảm cân không chủ ý do tình trạng chán ăn, tiêu chảy và khả năng hấp thu dinh dưỡng kém."
+    },
+    {
+      "name": "Sốt",
+      "description": "Thân nhiệt tăng cao do phản ứng viêm trong cơ thể, thường xuất hiện trong giai đoạn bệnh hoạt động."
+    },
+    {
+      "name": "Ngứa, đỏ, đau mắt",
+      "description": "Biểu hiện ngoài đường tiêu hóa, xảy ra do phản ứng viêm hệ thống trong cơ thể."
+    },
+    {
+      "name": "Đau khớp",
+      "description": "Đau nhức tại các khớp là biểu hiện ngoài đường tiêu hóa của viêm ruột mãn tính."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn do kích thích thần kinh phế vị khi đường tiêu hóa bị viêm."
+    },
+    {
+      "name": "Phát ban da và lở loét",
+      "description": "Tổn thương da xuất hiện như biểu hiện ngoài đường tiêu hóa của bệnh viêm ruột."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Đến thời điểm hiện tại, nguyên nhân gây viêm đường ruột vẫn chưa được xác định chính xác. Nhiều nghiên cứu cho thấy có thể do rối loạn chức năng hệ thống miễn dịch.",
+    "related_factors": "Khi hệ thống miễn dịch chống lại sự xâm nhập của virus, vi khuẩn, phản ứng miễn dịch bất thường làm hệ thống miễn dịch tấn công nhầm vào các tế bào trong đường tiêu hóa. Ngoài ra, một số đột biến gen cũng liên quan đến tình trạng viêm ruột.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác: Viêm ruột thường xảy ra phổ biến ở những người dưới 30 tuổi, một số trường hợp xuất hiện trong giai đoạn 50-60 tuổi",
+    "Chủng tộc: Viêm đường ruột xảy ra phổ biến ở người da trắng",
+    "Tiền sử gia đình có người mắc bệnh",
+    "Thói quen hút thuốc lá",
+    "Sử dụng thuốc chống viêm không steroid, gồm: Ibuprofen, Naproxen natri, Diclofenac natri",
+    "Tình trạng căng thẳng tâm lý (có thể làm trầm trọng thêm triệu chứng)",
+    "Chế độ ăn uống không lành mạnh (có thể làm trầm trọng thêm triệu chứng)"
+  ],
+  "complications": [
+    "Ung thư đại tràng: Viêm loét đại tràng hoặc bệnh Crohn ảnh hưởng đến phần lớn ruột kết có thể làm tăng nguy cơ ung thư đại tràng",
+    "Thiếu máu: Xảy ra khi số lượng tế bào hồng cầu khỏe mạnh không đủ để vận chuyển oxy cho cơ thể",
+    "Mất nước hoặc suy dinh dưỡng: Do tiêu chảy, đau bụng kéo dài khiến cơ thể khó hấp thu dinh dưỡng",
+    "Phình đại tràng: Viêm ruột có thể khiến đại tràng giãn nở bất thường, ngừng hoạt động, gây đau dữ dội",
+    "Yếu xương: Bệnh Crohn có thể gây loãng xương và mất xương",
+    "Viêm ở cơ quan khác: Viêm gan, sỏi mật, viêm tuyến tụy",
+    "Lỗ rò: Viêm lan rộng qua thành ruột, tạo lỗ rò gần hậu môn hoặc vùng bên trong, có thể bị nhiễm trùng tạo thành áp xe",
+    "Nứt hậu môn: Vết rách nhỏ ở mô lót hoặc vùng da xung quanh hậu môn, có thể dẫn đến rò quanh hậu môn"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Xét nghiệm máu đánh giá thiếu máu hoặc nhiễm trùng",
+      "Xét nghiệm phân để phát hiện máu ẩn và ký sinh trùng",
+      "Nội soi đường tiêu hóa",
+      "Chẩn đoán hình ảnh (X-quang, CT, MRI)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi đại tràng",
+        "description": "Bác sĩ sử dụng một ống nội soi nhỏ được gắn máy ảnh để xem xét toàn bộ đại tràng bên trong. Trong quá trình này, các mẫu mô nhỏ cũng có thể được lấy ra để tiến hành phân tích trong phòng xét nghiệm."
+      },
+      {
+        "name": "Nội soi đại tràng sigma",
+        "description": "Bác sĩ sử dụng một ống soi nhỏ để kiểm tra trực tràng và đại tràng sigma. Nếu đại tràng bị viêm nặng, người bệnh có thể được chỉ định thực hiện xét nghiệm này thay vì nội soi toàn bộ đại tràng."
+      },
+      {
+        "name": "Nội soi viên nang",
+        "description": "Người bệnh nuốt một viên nang có chứa camera bên trong. Các hình ảnh chi tiết thu thập được sẽ gửi về máy ghi hình đeo trên thắt lưng. Sau khi kết thúc quá trình này, viên nang tự động ra khỏi cơ thể thông qua đường phân."
+      },
+      {
+        "name": "Nội soi ruột non dùng bóng hỗ trợ",
+        "description": "Xét nghiệm này cho phép nhìn sâu hơn vào bên trong ruột non – vị trí mà máy nội soi tiêu chuẩn không thể di chuyển tới."
+      },
+      {
+        "name": "Nội soi tiêu hóa trên",
+        "description": "Bác sĩ dùng ống soi để kiểm tra thực quản, dạ dày và tá tràng. Thường được thực hiện khi bệnh nhân có triệu chứng buồn nôn, nôn, nuốt khó hoặc đau vùng bụng trên."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Được chỉ định khi người bệnh có các triệu chứng nghiêm trọng để kiểm tra tình trạng phình đại tràng hoặc thủng đại tràng."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Giúp thu được hình ảnh chi tiết về toàn bộ ruột cũng như các mô bên ngoài ruột."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Sử dụng từ trường để tạo ra hình ảnh chi tiết về các mô, cơ quan, từ đó giúp phát hiện lỗ rò xung quanh hậu môn hoặc ruột non."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy theo mức độ nghiêm trọng của bệnh viêm đường ruột, bác sĩ sẽ chỉ định phương pháp điều trị phù hợp. Điều trị thường nhằm mục đích giảm viêm, giảm triệu chứng, và ngăn ngừa biến chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc chống viêm",
+        "description": "Thuốc chống viêm nhóm aminosalicylate như mesalamine, balsalazide, olsalazine thường là giải pháp đầu tiên trong điều trị viêm loét đại tràng từ nhẹ đến trung bình. Corticosteroid được sử dụng trong thời gian ngắn để giảm viêm và ức chế miễn dịch."
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch",
+        "description": "Những loại thuốc này ngăn chặn phản ứng miễn dịch giải phóng các hóa chất gây viêm trong cơ thể, từ đó tránh tình trạng tổn thương niêm mạc ruột. Một số loại thường được chỉ định gồm: azathioprine, mercaptopurine, methotrexate."
+      },
+      {
+        "name": "Thuốc sinh học",
+        "description": "Đây là nhóm thuốc mới được dùng để ức chế những protein gây ra phản ứng viêm trong cơ thể. Một số thuốc thường dùng là infliximab, adalimumab, certolizumab, vedolizumab, ustekinumab."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Thường dùng khi nghi ngờ có tình trạng nhiễm trùng, như trong trường hợp bệnh Crohn quanh hậu môn."
+      },
+      {
+        "name": "Thuốc chống tiêu chảy",
+        "description": "Thuốc bổ sung chất xơ như bột psyllium, methylcellulose. Loperamid được dùng trong trường hợp tiêu chảy nặng."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Đối với các trường hợp nghiêm trọng không thể điều trị hiệu quả bằng thuốc, bác sĩ có thể đề nghị phẫu thuật cắt bỏ toàn bộ đại tràng và trực tràng (cho viêm loét đại tràng) hoặc cắt bỏ một phần đường tiêu hóa bị tổn thương (cho bệnh Crohn)."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế ăn các loại thực phẩm, đồ uống từ sữa để tránh làm trầm trọng hơn triệu chứng đau bụng, đầy hơi, tiêu chảy",
+      "Ăn nhiều bữa nhỏ trong ngày (5-6 bữa nhỏ thay vì 2-3 bữa lớn)",
+      "Uống nhiều nước mỗi ngày, tránh sử dụng rượu, trà, cà phê, đồ uống có gas",
+      "Xem xét bổ sung vitamin tổng hợp, đặc biệt là canxi và vitamin D",
+      "Kiểm soát căng thẳng bằng cách thiền, tập thái cực quyền, yoga, nghe nhạc",
+      "Duy trì ngủ đủ giấc và hoạt động thể chất đều đặn",
+      "Tránh tiêu thụ các loại thực phẩm có thể gây kích thích đường ruột như thức ăn nhiều gia vị, thức ăn nhiều dầu mỡ",
+      "Từ bỏ thói quen hút thuốc lá"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +165,94 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ăn các bữa nhỏ cách nhau 2-4 giờ",
+      "Kiểm soát căng thẳng bằng cách thiền, tập thái cực quyền, yoga, nghe nhạc",
+      "Duy trì ngủ đủ giấc và hoạt động thể chất đều đặn",
+      "Tránh tiêu thụ các loại thực phẩm có thể gây kích thích đường ruột điển hình là sữa, thức ăn nhiều gia vị, thức ăn nhiều dầu mỡ",
+      "Hạn chế tiêu thụ thức uống chứa cồn, caffeine, gas",
+      "Luôn uống nhiều nước mỗi ngày",
+      "Từ bỏ thói quen hút thuốc lá"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh viêm đường ruột có cần tầm soát định kỳ không?",
+      "answer": "Bệnh viêm đường ruột có thể dẫn đến nhiều biến chứng nghiêm trọng cho sức khỏe, thậm chí đe dọa đến tính mạng nếu không điều trị hiệu quả. Một trong số đó là làm tăng nguy cơ mắc ung thư đại tràng. Vì vậy, người bệnh nên tầm soát, thăm khám định kỳ để theo dõi tình trạng một cách sát sao, tránh bệnh tiến triển trầm trọng."
+    },
+    {
+      "question": "Viêm đường ruột nên ăn gì? Kiêng gì?",
+      "answer": "Người bệnh nên ăn thực phẩm giàu axit béo Omega-3 (hạt lanh, dầu cá), thực phẩm dễ tiêu hóa (bánh mì, bột yến mạch). Nên kiêng thực phẩm giàu Omega-6 (thịt đỏ, đồ chiên), sữa và các sản phẩm từ sữa (phô mai, sữa chua), thức ăn nhiều đường, đồ uống có cồn, caffeine."
+    },
+    {
+      "question": "Viêm đường ruột có nguy hiểm không?",
+      "answer": "Viêm đường ruột nếu không được điều trị kịp thời về lâu dài có thể dẫn đến nhiều biến chứng nghiêm trọng như ung thư đại tràng, thiếu máu, mất nước hoặc suy dinh dưỡng, phình đại tràng, yếu xương, viêm ở các cơ quan khác (viêm gan, sỏi mật, viêm tuyến tụy), lỗ rò, và nứt hậu môn."
+    },
+    {
+      "question": "Bệnh viêm đường ruột có chữa được không?",
+      "answer": "Hiện nay chưa có phương pháp chữa khỏi hoàn toàn bệnh viêm đường ruột. Tuy nhiên, có nhiều phương pháp điều trị có thể giúp kiểm soát triệu chứng và ngăn ngừa biến chứng. Việc điều trị tập trung vào giảm viêm, ngăn chặn quá trình viêm, thay đổi lối sống và duy trì sức khỏe tổng thể."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm mô mãn tính trong đường tiêu hóa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ruot",
+        "benh-crohn",
+        "viem-loet-dai-trang"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tiêu chảy, đau bụng, mệt mỏi, sụt cân và chảy máu trực tràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ruot",
+        "viem-loet-dai-trang",
+        "benh-crohn"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm loét đại tràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ruot",
+        "viem-loet-dai-trang",
+        "benh-crohn"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm, lở loét dọc theo niêm mạc đại tràng và trực tràng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ruot",
+        "viem-loet-dai-trang",
+        "viem-dai-trang-ta-trang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm niêm mạc đường tiêu hóa, thường có thể liên quan đến các lớp sâu hơn ở bên trong, ảnh hưởng nhiều nhất đến ruột non. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-duong-ruot", "benh-crohn", "viem-ruot-non"]
+    },
+    {
+      "question": "Tôi đang cảm thấy tiêu chảy, mệt mỏi, đau bụng, xuất hiện máu trong phân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ruot",
+        "viem-loet-dai-trang",
+        "liet-khuan-ruot"
+      ]
+    },
+    {
+      "question": "Tôi hay bị rối loạn chức năng hệ thống miễn dịch, phản ứng miễn dịch bất thường làm hệ thống miễn dịch tấn công nhầm vào các tế bào trong đường tiêu hóa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ruot",
+        "benh-crohn",
+        "viem-loet-dai-trang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, đầy hơi, tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-duong-ruot",
+        "hoi-chung-ruot-kich-thich",
+        "roi-loan-tieu-hoa"
+      ]
     }
   ]
 }

@@ -1,58 +1,176 @@
 {
   "disease_id": "viem-mui-man-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm mũi mạn tính",
+  "disease_alternative_names": ["Viêm mũi mãn tính", "Chronic Rhinitis"],
+  "disease_definition": "Viêm mũi mạn tính là tình trạng viêm mũi kéo dài trên 3 tháng có thể do tác nhân vi trùng, hóa chất hoặc miễn dịch, dị ứng. Bệnh gây ảnh hưởng không nhỏ đến sức khỏe và tâm lý người bệnh, làm giảm hiệu suất lao động, học tập và tăng nguy cơ phát triển các bệnh về hen suyễn, viêm xoang, viêm tai giữa.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chảy dịch mũi sau",
+      "description": "Dịch từ mũi chảy xuống họng, gây đau họng mãn tính, ho mãn tính hoặc hắng giọng"
+    },
+    {
+      "name": "Nghẹt mũi",
+      "description": "Nghẹt mũi dẫn đến phải thở bằng miệng"
+    },
+    {
+      "name": "Viêm xoang",
+      "description": "Viêm xoang, đau nhức vùng xoang"
+    },
+    {
+      "name": "Sổ mũi",
+      "description": "Chảy nước mũi kéo dài"
+    },
+    {
+      "name": "Ho mãn tính",
+      "description": "Ho kéo dài do chảy dịch mũi sau"
+    },
+    {
+      "name": "Viêm họng",
+      "description": "Viêm họng, viêm thanh quản kéo dài"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm mũi mãn tính có thể do nhiều nguyên nhân như nhiễm vi khuẩn, vi nấm, ký sinh trùng; phản ứng dị ứng với phấn hoa, mạt bụi, lông vật nuôi; hoặc do dị tật giải phẫu mũi.",
+    "related_factors": "Một số bệnh lý liên quan có thể làm tăng nguy cơ viêm mũi mạn tính như hen suyễn, COPD, viêm VA phì đại, trào ngược dạ dày thực quản, cũng như tiếp xúc với các chất kích thích như bụi phấn, bụi than.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Dị ứng",
+    "Tiếp xúc với các chất gây dị ứng (phấn hoa, mạt bụi, lông động vật)",
+    "Lệch vách ngăn mũi, quá phát cuốn mũi",
+    "Bệnh hen suyễn và tắc nghẽn phổi mãn tính (COPD)",
+    "Viêm VA phì đại",
+    "Tiếp xúc với hóa chất, bụi bẩn",
+    "Trào ngược dạ dày thực quản"
+  ],
+  "complications": [
+    "Viêm xoang cấp tính hoặc mãn tính",
+    "Viêm tai giữa mủ hoặc viêm tai giữa thanh dịch",
+    "Rối loạn giấc ngủ hoặc hội chứng ngưng thở khi ngủ",
+    "Các vấn đề về răng miệng",
+    "Rối loạn chức năng vòi tai",
+    "Polyp mũi",
+    "Suy giảm thính lực",
+    "Phát triển sọ mặt bất thường",
+    "Làm bệnh hen suyễn trầm trọng hơn"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá dựa trên các triệu chứng lâm sàng",
+      "Khám tai mũi họng",
+      "Kiểm tra dị ứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang xoang",
+        "description": "Kiểm tra xem người bệnh có bị nhiễm trùng xoang hay không"
+      },
+      {
+        "name": "CT-scan xoang",
+        "description": "Đánh giá chi tiết tình trạng các xoang và cấu trúc mũi"
+      },
+      {
+        "name": "Kiểm tra dị ứng da",
+        "description": "Xác định một số chất gây dị ứng có phải là nguyên nhân của viêm mũi dị ứng"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra các chỉ số viêm và dị ứng trong máu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy vào mức độ nghiêm trọng của viêm mũi mạn tính, bác sĩ có thể chỉ định phương pháp điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng histamine",
+        "description": "Thường được kê đơn để điều trị chứng viêm mũi dị ứng. Có thể dùng dưới dạng xịt hoặc viên uống, nhưng không nên sử dụng kéo dài vì có thể gây tác dụng phụ"
+      },
+      {
+        "name": "Thuốc corticosteroid",
+        "description": "Là nhóm thuốc kháng viêm, được dùng để điều trị các vấn đề về dị ứng và viêm mũi"
+      },
+      {
+        "name": "Thuốc xịt mũi ipratropium",
+        "description": "Dùng để điều trị viêm mũi mãn tính do rối loạn đường thở trên như viêm mũi không dị ứng với tăng bạch cầu ái toan"
+      },
+      {
+        "name": "Phương pháp áp lạnh ClariFix",
+        "description": "Công nghệ làm lạnh đột phá nhắm mục tiêu vào mô mũi bị viêm và các dây thần kinh bên dưới, giúp giảm tín hiệu thần kinh và cải thiện các triệu chứng ở mũi"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Rửa mũi với nước muối sinh lý để làm sạch vi khuẩn, dịch mũi hàng ngày",
+      "Tránh tiếp xúc với các tác nhân gây dị ứng như hóa chất, mạt bụi, phấn hoa, lông động vật",
+      "Đeo khẩu trang khi ra khỏi nhà để tránh các chất kích thích",
+      "Duy trì không khí trong nhà sạch sẽ, thoáng mát"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine đặc hiệu phòng ngừa viêm mũi mạn tính",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh tiếp xúc với các chất gây dị ứng như khói bụi, phấn hoa, lông động vật, hóa chất",
+      "Vệ sinh nơi ở và vệ sinh cá nhân sạch sẽ hàng ngày",
+      "Tránh để mắc cảm cúm, viêm mũi lặp lại hoặc các bệnh nhiễm trùng tai mũi họng",
+      "Đeo khẩu trang khi ra khỏi nhà",
+      "Tránh đến nơi đông người để phòng ngừa các bệnh truyền nhiễm",
+      "Khám tai mũi họng khi có các triệu chứng bất thường kéo dài trên một tuần"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm mũi mạn tính có chữa được không?",
+      "answer": "Viêm mũi mãn tính có thể chữa khỏi và điều trị càng sớm thì càng ít biến chứng, hiệu quả càng cao, càng đỡ tốn kém và nhanh phục hồi."
+    },
+    {
+      "question": "Viêm mũi mãn tính có nguy hiểm không?",
+      "answer": "Viêm mũi mãn tính không phải là một tình trạng y tế khẩn cấp, tuy nhiên nếu kéo dài quá lâu không được điều trị có thể dẫn đến nhiều biến chứng ảnh hưởng đến sức khỏe, tâm lý và nặng nhất là có thể đe dọa tính mạng người bệnh. Biến chứng có thể gây viêm tai giữa dẫn đến suy giảm thính lực, viêm xoang có thể lan tới gây phù nề mi mắt, suy giảm thị lực, thậm chí nhiễm trùng nội sọ gây viêm não màng não dẫn đến tử vong."
+    },
+    {
+      "question": "Viêm mũi mạn tính có nguy hiểm hơn viêm mũi cấp tính không?",
+      "answer": "Viêm mũi mãn tính và cấp tính đều gây ra các triệu chứng về mũi giống nhau nhưng khác nhau về thời gian bệnh diễn ra. Cụ thể, bệnh viêm mũi mãn tính kéo dài trên 3 tháng. Viêm mũi mãn tính và cấp tính đều có thể gây ra các biến chứng nguy hiểm như nhau, đặc biệt là các biến chứng ở não."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm mũi kéo dài trên 3 tháng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi mạn tính",
+        "Viêm xoang mạn tính",
+        "Viêm mũi dị ứng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chảy dịch mũi sau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm mũi mạn tính", "Viêm xoang", "Viêm mũi dị ứng"]
+    },
+    {
+      "question": "Tôi hay bị đau họng mãn tính, ho mãn tính hoặc hắng giọng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi mạn tính",
+        "Viêm họng mạn tính",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nghẹt mũi dẫn đến phải thở bằng miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi mạn tính",
+        "Viêm xoang",
+        "Lệch vách ngăn mũi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm xoang, đau nhức xoang, sổ mũi, chảy dịch mũi sau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi mạn tính",
+        "Viêm xoang mạn tính",
+        "Viêm mũi xoang dị ứng"
+      ]
     }
   ]
 }

@@ -1,58 +1,220 @@
 {
   "disease_id": "viem-phe-quan-phoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm phế quản phổi",
+  "disease_alternative_names": ["Bronchopneumonia"],
+  "disease_definition": "Viêm phế quản phổi là tình trạng viêm khu trú thành từng mảng ở phế quản và phế nang phổi, có thể ảnh hưởng đến các thùy phổi, làm suy yếu chức năng phổi. Đây là một bệnh hô hấp phổ biến, đặc biệt ở trẻ em dưới 2 tuổi và người lớn trên 65 tuổi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ho dai dẳng",
+      "description": "Ho nhiều, kéo dài, có thể ho ra máu hoặc có dịch nhầy"
+    },
+    {
+      "name": "Sốt",
+      "description": "Nhiệt độ cơ thể tăng cao"
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác khó thở, thở gấp, có thể kèm theo tím tái"
+    },
+    {
+      "name": "Đau tức ngực",
+      "description": "Đau tức ngực, đặc biệt là khi ho hoặc thở sâu"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm thấy mệt mỏi, uể oải, không có năng lực cho những hoạt động thường ngày"
+    },
+    {
+      "name": "Buồn nôn và nôn mửa",
+      "description": "Cảm giác buồn nôn và có hiện tượng ói mửa"
+    },
+    {
+      "name": "Đổ mồ hôi",
+      "description": "Ra mồ hôi nhiều, đặc biệt vào ban đêm"
+    },
+    {
+      "name": "Ớn lạnh",
+      "description": "Cảm thấy ớn lạnh, rùng mình"
+    },
+    {
+      "name": "Đau đầu và chóng mặt",
+      "description": "Cảm giác đau đầu, chóng mặt"
+    },
+    {
+      "name": "Lú lẫn",
+      "description": "Lú lẫn hoặc mất phương hướng, đặc biệt là ở người lớn tuổi"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm phế quản phổi chủ yếu hình thành do sự xâm nhập của các loại virus, vi khuẩn, như Proteus, Klebsiella pneumoniae, Escherichia coli, Pseudomonas, Haemophilus, Staphylococcus aureus.",
+    "related_factors": "Nhiều yếu tố có thể làm tăng nguy cơ mắc bệnh viêm phế quản phổi như tuổi tác, môi trường làm việc, lối sống, sức đề kháng và các tình trạng sức khỏe nền.",
+    "transmission_routes": [
+      "Lây qua đường hô hấp từ người bệnh sang người khác",
+      "Hít phải các giọt bắn chứa vi khuẩn, virus khi người bệnh ho, hắt hơi"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi: Người từ 65 tuổi trở lên và trẻ em từ 2 tuổi trở xuống",
+    "Công việc: Tiếp xúc với khói bụi, môi trường ô nhiễm, hóa chất nồng độ cao",
+    "Lối sống: Ăn uống thất thường, không đầy đủ dinh dưỡng, uống rượu, hút thuốc lá",
+    "Sức đề kháng: Người có hệ miễn dịch suy yếu",
+    "Các bệnh nền: Hen suyễn, giãn phế quản, bệnh tiểu đường, rối loạn tự miễn dịch",
+    "Đang dùng thuốc ức chế miễn dịch",
+    "Vừa phẫu thuật hoặc bị chấn thương gần đây",
+    "Thời tiết: Chuyển lạnh đột ngột hoặc thay đổi từ nóng sang lạnh và ngược lại"
+  ],
+  "complications": [
+    "Suy hô hấp",
+    "Hội chứng suy hô hấp cấp tính",
+    "Nhiễm trùng huyết",
+    "Áp xe phổi",
+    "Suy thận",
+    "Suy tim",
+    "Nhịp tim không đều"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Chẩn đoán hình ảnh", "Xét nghiệm máu và đờm"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang ngực",
+        "description": "Có thể cho thấy tình trạng viêm nhiễm hay khí tích tụ quanh phổi (tràn khí màng phổi)"
+      },
+      {
+        "name": "Chụp CT ngực",
+        "description": "Giúp đánh giá chi tiết các mô phổi đang bị tổn thương"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra số lượng bạch cầu để xác định có đang bị nhiễm trùng do vi khuẩn hay không"
+      },
+      {
+        "name": "Nội soi phế quản",
+        "description": "Kiểm tra các đường dẫn khí và tình trạng phổi"
+      },
+      {
+        "name": "Cấy đờm",
+        "description": "Phát hiện dịch đờm có nhiễm khuẩn hay không"
+      },
+      {
+        "name": "Đo oxy xung",
+        "description": "Đo phần trăm oxy trong dòng máu để đánh giá mức tổn thương phổi"
+      },
+      {
+        "name": "Khí máu động mạch",
+        "description": "Xác định nồng độ oxy trong máu"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị viêm phế quản phổi phụ thuộc vào mức độ nặng nhẹ của bệnh, căn nguyên gây bệnh và tình trạng của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị tại nhà",
+        "description": "Đối với các trường hợp viêm phế quản phổi nhẹ, kết hợp nghỉ ngơi và dùng thuốc kê đơn như kháng sinh tùy theo loại nhiễm trùng"
+      },
+      {
+        "name": "Điều trị kháng sinh",
+        "description": "Sử dụng kháng sinh phù hợp như Cloxacillin, Bristopen, Vancomycin đối với viêm phế quản phổi do tụ cầu; Chloramphenicol đối với viêm phế quản phổi do vi trùng; Ampicillin, Amikacin đối với viêm phế quản phổi do vi khuẩn"
+      },
+      {
+        "name": "Nhập viện điều trị",
+        "description": "Cần thiết cho người trên 65 tuổi, ho ra máu nhiều, khó thở nặng, cần thở máy, tụt huyết áp, lú lẫn, hoặc đang điều trị bệnh phổi mãn tính"
+      },
+      {
+        "name": "Hỗ trợ hô hấp",
+        "description": "Cung cấp oxy hoặc sử dụng máy thở nếu cần thiết"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Uống nhiều nước",
+      "Nghỉ ngơi đầy đủ",
+      "Tuân thủ đúng liều lượng thuốc theo chỉ định của bác sĩ",
+      "Không tự ý dùng thuốc kháng sinh",
+      "Theo dõi tình trạng sức khỏe và đến khám lại nếu các triệu chứng không cải thiện"
+    ],
+    "prevention_of_transmission": [
+      "Đeo khẩu trang khi có triệu chứng ho hoặc đang mắc bệnh",
+      "Che miệng khi ho hoặc hắt hơi",
+      "Hạn chế tiếp xúc gần với người khác khi đang mắc bệnh"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng có thể giúp ngăn ngừa viêm phế quản phổi. Người lớn và trẻ em nên tiêm phòng cúm hàng năm để hạn chế nguy cơ nhiễm virus, vi khuẩn.",
+      "recommended_for": [
+        "Trẻ em và người lớn nên tiêm phòng cúm hàng năm",
+        "Người cao tuổi trên 65 tuổi",
+        "Người có bệnh mạn tính"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Rửa tay thường xuyên trước khi ăn, sau khi đi vệ sinh, sau khi tiếp xúc với người bệnh",
+      "Đeo khẩu trang khi tiếp xúc với người bệnh hoặc nghi ngờ nhiễm bệnh",
+      "Không hút thuốc lá để tránh tổn hại phổi",
+      "Duy trì chế độ sinh hoạt lành mạnh, ăn uống đầy đủ dinh dưỡng",
+      "Nghỉ ngơi đầy đủ, tránh kiệt sức và thức khuya",
+      "Tiêm phòng cúm hàng năm"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm phế quản phổi có nguy hiểm không?",
+      "answer": "Viêm phế quản phổi là một bệnh hô hấp nghiêm trọng, có thể dẫn đến nhiều biến chứng nguy hiểm như suy hô hấp, nhiễm trùng huyết, áp xe phổi nếu không được điều trị kịp thời. Bệnh đặc biệt nguy hiểm đối với trẻ em dưới 2 tuổi và người lớn trên 65 tuổi, chiếm 85% tổng số các bệnh về hô hấp ở trẻ dưới 2 tuổi và là nguyên nhân gây tử vong hàng đầu của trẻ dưới 5 tuổi."
+    },
+    {
+      "question": "Làm thế nào để phân biệt viêm phế quản phổi với cảm cúm thông thường?",
+      "answer": "Viêm phế quản phổi thường có các triệu chứng nặng hơn và kéo dài hơn so với cảm cúm. Các dấu hiệu đặc trưng của viêm phế quản phổi bao gồm: ho nhiều và dai dẳng (có thể ho ra máu), sốt cao, khó thở, thở gấp, đau tức ngực (đặc biệt khi ho hoặc thở sâu), mệt mỏi rõ rệt. Nếu bạn có các triệu chứng này, đặc biệt là khó thở và đau ngực, nên đến bệnh viện để được kiểm tra ngay."
+    },
+    {
+      "question": "Khi nào cần nhập viện khi bị viêm phế quản phổi?",
+      "answer": "Bạn cần nhập viện điều trị viêm phế quản phổi trong các trường hợp: trên 65 tuổi, ho ra máu nhiều, khó thở nặng/thở nhanh/thở gắng sức, không thể tự thở (cần thở máy), đau tức ngực, tụt huyết áp, có dấu hiệu lú lẫn/người lơ mơ, cần hỗ trợ thở, hoặc đang điều trị bệnh phổi mãn tính. Trong những trường hợp này, việc điều trị tích cực tại bệnh viện sẽ giúp ngăn ngừa các biến chứng nguy hiểm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ho dai dẳng, ho ra máu và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm phế quản phổi",
+        "Lao phổi",
+        "Ung thư phổi",
+        "Viêm phổi nặng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sốt, đau tức ngực và ho có đờm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm phế quản phổi",
+        "Viêm phổi",
+        "Viêm phế quản",
+        "Cúm"
+      ]
+    },
+    {
+      "question": "Tôi bị ho nhiều, đau tức ngực, khó thở và đổ mồ hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm phế quản phổi",
+        "Viêm phổi",
+        "Suy tim",
+        "Lao phổi"
+      ]
+    },
+    {
+      "question": "Tôi bị ho, sốt, khó thở và làm việc trong môi trường ô nhiễm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm phế quản phổi",
+        "Bệnh phổi nghề nghiệp",
+        "Viêm phổi hít",
+        "Bệnh phổi tắc nghẽn mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi bị ho ra máu, khó thở và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm phế quản phổi",
+        "Lao phổi",
+        "Tắc mạch phổi",
+        "Ung thư phổi"
+      ]
     }
   ]
 }

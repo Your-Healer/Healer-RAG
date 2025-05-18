@@ -1,58 +1,176 @@
 {
   "disease_id": "viem-tuyen-giap-trieu-chung-nguyen-nhan-va-dieu-tri",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tuyến giáp",
+  "disease_alternative_names": [
+    "Viêm giáp",
+    "Viêm tuyến giáp Hashimoto",
+    "Viêm tuyến giáp Riedel",
+    "Viêm tuyến giáp u hạt bán cấp",
+    "Viêm tuyến giáp Lympho bào bán cấp"
+  ],
+  "disease_definition": "Viêm tuyến giáp (viêm giáp) là tình trạng bệnh lý bao gồm sự thấm nhuận tế bào viêm hoặc mô xơ tại tuyến giáp. Viêm giáp có thể xảy ra trên tuyến giáp bình thường hoặc trên bướu giáp có sẵn. Viêm ở tuyến giáp có thể khiến các hormone tuyến giáp được tiết ra quá nhiều hoặc quá ít, gây ảnh hưởng tiêu cực đến sức khỏe người bệnh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng và đau vùng cổ",
+      "description": "Vùng cổ trước bị đau và sưng, cơn đau nặng có thể lan tới tai hoặc hàm dưới"
+    },
+    {
+      "name": "Khó nuốt và khó nói",
+      "description": "Tuyến giáp sưng có thể chèn ép vùng cổ gây khó nuốt, khó nói"
+    },
+    {
+      "name": "Sốt và ớn lạnh",
+      "description": "Người bệnh có thể bị sốt, ớn lạnh, nhức đầu, mệt mỏi trong trường hợp viêm cấp tính"
+    },
+    {
+      "name": "Triệu chứng cường giáp",
+      "description": "Sút cân, tim đập nhanh, ra nhiều mồ hôi, ngại thời tiết nóng, hồi hộp, đánh trống ngực"
+    },
+    {
+      "name": "Triệu chứng suy giáp",
+      "description": "Mệt mỏi, táo bón, khô da, khó tập trung, mạch chậm, khả năng chịu lạnh kém"
+    },
+    {
+      "name": "Bướu cổ",
+      "description": "Bướu cổ to vừa phải, không đau, có thể gây cảm giác vướng, nuốt nghẹn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm tuyến giáp xảy ra do có các yếu tố tấn công tế bào tuyến giáp, khiến cơ quan này bị tổn thương và gây viêm. Tác nhân phổ biến nhất là kháng thể kháng tuyến giáp, đặc biệt trong bệnh tự miễn như Hashimoto.",
+    "related_factors": "Ngoài các vấn đề tự miễn, viêm tuyến giáp còn có thể do nhiễm trùng, tia bức xạ, hoặc tác dụng phụ của một số loại thuốc.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ, đặc biệt trong độ tuổi sinh sản",
+    "Tiền sử gia đình mắc các bệnh tự miễn",
+    "Điều trị xạ trị vùng cổ",
+    "Sử dụng một số loại thuốc như amiodarone, interferon, lithium, cytokine",
+    "Mang thai và thời kỳ sau sinh (viêm tuyến giáp sau sinh)",
+    "Nhiễm virus (quai bị, sởi, cúm)"
+  ],
+  "complications": [
+    "Cường giáp (nhiễm độc tuyến giáp)",
+    "Suy giáp (nhược giáp)",
+    "Hình thành áp xe ở tuyến giáp",
+    "Khó thở và khó nuốt do bướu cổ chèn ép",
+    "Xơ hóa vĩnh viễn vùng cổ",
+    "Xơ hóa các vùng khác trong cơ thể (với viêm tuyến giáp Riedel)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Đánh giá tiền sử bệnh và thuốc đang sử dụng"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm chức năng tuyến giáp",
+        "description": "Xét nghiệm máu nhằm kiểm tra nồng độ hormone, bao gồm hormone kích thích tuyến giáp (TSH) và hai loại hormone tuyến giáp là T3 và T4 có trong máu"
+      },
+      {
+        "name": "Xét nghiệm kháng thể tuyến giáp",
+        "description": "Đo nồng độ các kháng thể tuyến giáp, bao gồm kháng thể kháng giáp (TPO) hoặc kháng thể kích thích thụ thể tuyến giáp (TRAb)"
+      },
+      {
+        "name": "Tốc độ lắng hồng cầu (ESR)",
+        "description": "Xét nghiệm cho biết tình trạng viêm. Đối với viêm tuyến giáp bán cấp, kết quả ESR thường khá cao"
+      },
+      {
+        "name": "Siêu âm tuyến giáp",
+        "description": "Giúp đánh giá giải phẫu của tuyến giáp, phát hiện các tăng trưởng bất thường, sự thay đổi trong lưu lượng máu, kết cấu hoặc mật độ của tuyến giáp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy thuộc vào loại viêm, triệu chứng và giai đoạn của bệnh mà bác sĩ sẽ đề nghị những phương pháp điều trị viêm tuyến giáp phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh",
+        "description": "Đối với viêm cấp tính, quá trình điều trị thường bao gồm sử dụng thuốc kháng sinh. Nếu có dấu hiệu ổ áp xe thì cần tiến hành rạch và dẫn lưu mủ"
+      },
+      {
+        "name": "Thuốc chống viêm",
+        "description": "Cơn đau thường có thể được kiểm soát bằng thuốc chống viêm như aspirin hoặc ibuprofen. Nếu cơn đau có tính chất nghiêm trọng, liệu pháp steroid có thể được chỉ định"
+      },
+      {
+        "name": "Thuốc chẹn beta",
+        "description": "Các triệu chứng toàn thân như đánh trống ngực, lo lắng, run tay chân, tăng tiết mồ hôi thường được điều trị bằng thuốc chẹn beta trong giai đoạn cường giáp"
+      },
+      {
+        "name": "Liệu pháp thay thế hormone tuyến giáp",
+        "description": "Trong giai đoạn suy giáp, bác sĩ sẽ chỉ định liệu pháp thay thế hormone tuyến giáp để điều trị cho người bệnh"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Thường áp dụng khi bướu giáp to, không thu nhỏ về như bình thường, chèn ép vùng cổ gây khó thở, khó nuốt, ảnh hưởng đến cuộc sống và sinh hoạt của người bệnh"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân theo hướng dẫn điều trị của bác sĩ",
+      "Uống thuốc đúng cách",
+      "Theo dõi định kỳ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine đặc hiệu phòng ngừa viêm tuyến giáp",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Có chế độ dinh dưỡng, nghỉ ngơi hợp lý",
+      "Rèn luyện cơ thể thường xuyên bằng các bài tập phù hợp với khả năng của bản thân",
+      "Học cách quản lý căng thẳng",
+      "Ngủ đủ giấc",
+      "Thăm khám sức khỏe định kỳ 6 tháng/lần"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tuyến giáp có nguy hiểm không?",
+      "answer": "Bệnh viêm giáp tuy không đe dọa đến tính mạng nhưng có thể kéo dài, làm giảm chất lượng cuộc sống của người bệnh, nhất là đối với nữ giới trong độ tuổi sinh sản. Bệnh thường khởi phát âm thầm, kéo dài theo thời gian và có thể dẫn đến các biến chứng như cường giáp, suy giáp, hoặc tình trạng bướu cổ to gây khó thở, khó nuốt."
+    },
+    {
+      "question": "Viêm tuyến giáp có những loại nào?",
+      "answer": "Có nhiều loại viêm tuyến giáp, gồm: Viêm tuyến giáp cấp tính (do vi khuẩn gây ra); Viêm tuyến giáp bán cấp (viêm tuyến giáp u hạt bán cấp/viêm giáp de Quervain - thường do virus, và viêm tuyến giáp Lympho bào bán cấp/viêm tuyến giáp yên lặng); Viêm tuyến giáp mạn tính (bệnh Hashimoto và viêm tuyến giáp Riedel). Mỗi loại có nguyên nhân, triệu chứng và cách điều trị khác nhau."
+    },
+    {
+      "question": "Viêm tuyến giáp có chữa được không?",
+      "answer": "Viêm tuyến giáp có thể được điều trị hiệu quả tùy thuộc vào loại viêm và giai đoạn bệnh. Nhiều trường hợp viêm tuyến giáp cấp tính và bán cấp có thể hồi phục hoàn toàn sau điều trị. Tuy nhiên, với viêm tuyến giáp mạn tính như bệnh Hashimoto, người bệnh thường cần điều trị lâu dài bằng liệu pháp thay thế hormone tuyến giáp. Việc tuân thủ hướng dẫn điều trị của bác sĩ, uống thuốc đúng cách và thăm khám định kỳ giúp kiểm soát bệnh hiệu quả."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như vùng cổ trước bị đau và sưng, khó nuốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến giáp",
+        "Viêm tuyến giáp cấp tính",
+        "Viêm họng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sút cân và tim đập nhanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến giáp",
+        "Cường giáp",
+        "Viêm tuyến giáp u hạt bán cấp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ra nhiều mồ hôi, sợ nóng và tuyến giáp sưng to. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tuyến giáp", "Cường giáp", "Bướu giáp độc"]
+    },
+    {
+      "question": "Tôi bị bướu cổ, hồi hộp, đánh trống ngực và sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến giáp Lympho bào bán cấp",
+        "Cường giáp",
+        "Basedow"
+      ]
+    },
+    {
+      "question": "Tôi bị bướu cổ, mạch chậm, khả năng chịu lạnh kém và da khô. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến giáp Hashimoto",
+        "Suy giáp",
+        "Viêm tuyến giáp mạn tính"
+      ]
     }
   ]
 }

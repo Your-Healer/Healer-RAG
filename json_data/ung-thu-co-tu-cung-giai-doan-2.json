@@ -1,58 +1,192 @@
 {
   "disease_id": "ung-thu-co-tu-cung-giai-doan-2",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư cổ tử cung giai đoạn II",
+  "disease_alternative_names": [
+    "Ung thư cổ tử cung giai đoạn 2",
+    "Stage II Cervical Cancer"
+  ],
+  "disease_definition": "Ung thư cổ tử cung giai đoạn II là ung thư đã bắt đầu lan ra bên ngoài cổ tử cung và xâm lấn các mô xung quanh, nhưng chưa xâm lấn tới 1/3 dưới âm đạo và thành chậu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ra máu âm đạo bất thường",
+      "description": "Xuất huyết âm đạo giữa các kỳ kinh hoặc sau khi mãn kinh"
+    },
+    {
+      "name": "Kinh nguyệt kéo dài",
+      "description": "Chu kỳ kinh nguyệt kéo dài hơn hoặc lượng máu ra nhiều hơn bình thường"
+    },
+    {
+      "name": "Đau khi quan hệ tình dục",
+      "description": "Cảm giác đau hoặc chảy máu sau khi quan hệ tình dục"
+    },
+    {
+      "name": "Đau tức vùng chậu",
+      "description": "Cảm giác đau hoặc tức ở vùng chậu"
+    },
+    {
+      "name": "Dịch tiết âm đạo bất thường",
+      "description": "Tiết dịch âm đạo nhiều hơn hoặc dịch tiết có màu sắc, mùi bất thường"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính gây ung thư cổ tử cung là do nhiễm virus papilloma ở người (HPV), đặc biệt là các chủng HPV có nguy cơ cao như HPV 16 và 18.",
+    "related_factors": "Nhiễm HPV dai dẳng và không được điều trị có thể dần dần gây biến đổi tế bào cổ tử cung, dẫn đến ung thư hóa và phát triển thành ung thư cổ tử cung giai đoạn II theo thời gian.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm HPV dai dẳng",
+    "Hút thuốc lá",
+    "Suy giảm miễn dịch hoặc nhiễm HIV",
+    "Quan hệ tình dục sớm",
+    "Có nhiều bạn tình",
+    "Sử dụng thuốc tránh thai kéo dài",
+    "Sinh nhiều con",
+    "Tiền sử gia đình có người mắc ung thư cổ tử cung"
+  ],
+  "complications": [
+    "Di căn đến các cơ quan khác",
+    "Tắc nghẽn đường tiết niệu",
+    "Ảnh hưởng đến khả năng sinh sản",
+    "Đau mạn tính",
+    "Chảy máu âm đạo nghiêm trọng",
+    "Tổn thương cơ quan lân cận như bàng quang, trực tràng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Hỏi tiền sử bệnh",
+      "Đánh giá các triệu chứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Soi cổ tử cung",
+        "description": "Quan sát hình ảnh tổn thương tại cổ tử cung, sử dụng dung dịch acid acetic bôi lên cổ tử cung nhằm quan sát những vùng bất thường"
+      },
+      {
+        "name": "Sinh thiết cổ tử cung",
+        "description": "Lấy một mẫu mô nghi ngờ tổn thương ác tính sau đó gửi xét nghiệm mô bệnh học"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI) vùng tiểu khung",
+        "description": "Giúp quan sát hình ảnh khối u và đánh giá tình trạng xâm lấn"
+      },
+      {
+        "name": "Nội soi bàng quang, nội soi trực tràng",
+        "description": "Giúp quan sát bên trong bàng quang, trực tràng tìm các bất thường, đánh giá tình trạng xâm lấn của khối u"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính ngực-bụng-chậu hoặc PET/CT",
+        "description": "Sử dụng trong đánh giá tình trạng di căn xa của bệnh (như di căn phổi, di căn xương)"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Tổng phân tích tế bào máu và xét nghiệm sinh hóa máu đánh giá tình trạng cơ thể, chức năng cơ quan"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị ung thư cổ tử cung giai đoạn II thường được lựa chọn bao gồm hóa – xạ trị đồng thời (ưu tiên) và phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Hóa – xạ trị đồng thời",
+        "description": "Phương pháp ưu tiên trong điều trị, bao gồm xạ trị chiếu ngoài (EBRT), xạ trị áp sát (Brachytherapy) kết hợp với thuốc hóa chất như Cisplatin hoặc carboplatin"
+      },
+      {
+        "name": "Xạ trị chiếu ngoài",
+        "description": "Phát ra chùm tia phóng xạ từ nguồn bên ngoài cơ thể đi đến khối bướu, thường sử dụng kỹ thuật xạ trị điều biến liều (IMRT)"
+      },
+      {
+        "name": "Xạ trị áp sát",
+        "description": "Còn gọi là xạ trị chiếu trong, sử dụng nguồn phóng xạ đặt trực tiếp vào hoặc gần khối u"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Cắt tử cung toàn phần, nạo vét hạch chậu/hạch quanh động mạch chủ bụng"
+      },
+      {
+        "name": "Điều trị bổ trợ",
+        "description": "Căn cứ vào kết quả giải phẫu bệnh sau mổ, người bệnh có thể được cân nhắc điều trị bổ trợ sau phẫu thuật nếu có nguy cơ tái phát cao"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám định kỳ theo lịch hẹn của bác sĩ",
+      "Tuân thủ đúng phác đồ điều trị",
+      "Duy trì chế độ dinh dưỡng lành mạnh",
+      "Nghỉ ngơi hợp lý và tránh các hoạt động gắng sức",
+      "Thông báo cho bác sĩ khi có các triệu chứng bất thường"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Vaccine phòng ngừa HPV là biện pháp hiệu quả để phòng ngừa ung thư cổ tử cung.",
+      "recommended_for": [
+        "Trẻ em và thanh thiếu niên từ 9-14 tuổi",
+        "Phụ nữ từ 15-26 tuổi chưa tiêm vaccine"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám phụ khoa định kỳ và làm xét nghiệm Pap smear",
+      "Tiêm vaccine HPV theo khuyến cáo",
+      "Thực hiện quan hệ tình dục an toàn",
+      "Hạn chế số lượng bạn tình",
+      "Không hút thuốc lá"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tỷ lệ sống còn của ung thư cổ tử cung giai đoạn II là bao nhiêu?",
+      "answer": "Ung thư cổ tử cung giai đoạn II có tỷ lệ sống còn 5 năm là trên 60%. Tỷ lệ này có thể khác nhau ở mỗi cá nhân, tùy thuộc vào nhiều yếu tố như loại giải phẫu bệnh, tuổi, tình trạng sức khỏe chung, các bệnh đi kèm, phương pháp điều trị và sự đáp ứng của cơ thể với các phương pháp điều trị."
+    },
+    {
+      "question": "Phương pháp điều trị nào được ưu tiên cho ung thư cổ tử cung giai đoạn II?",
+      "answer": "Hóa - xạ trị đồng thời là phương pháp thường được ưu tiên lựa chọn trong điều trị ung thư cổ tử cung giai đoạn II. Xạ trị bao gồm xạ trị chiếu ngoài (EBRT) và xạ trị áp sát (Brachytherapy). Các thuốc hóa chất như Cisplatin hoặc carboplatin thường được kết hợp với xạ trị nhằm làm tăng hiệu quả điều trị bệnh."
+    },
+    {
+      "question": "Ung thư cổ tử cung giai đoạn II có ảnh hưởng đến khả năng sinh sản không?",
+      "answer": "Đa số các phương pháp điều trị ung thư cổ tử cung giai đoạn II, như phẫu thuật cắt tử cung toàn phần hoặc xạ trị, đều ảnh hưởng đến khả năng sinh sản. Tuy nhiên, trong một số trường hợp cụ thể, có thể có các phương pháp điều trị bảo tồn khả năng sinh sản. Người bệnh nên thảo luận với bác sĩ về các lựa chọn điều trị và tác động của chúng đến khả năng sinh sản."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ra máu âm đạo bất thường và đau vùng chậu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn II",
+        "Viêm cổ tử cung",
+        "U xơ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khi quan hệ tình dục và ra máu âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn II",
+        "Viêm âm đạo",
+        "Polyp cổ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị kinh nguyệt kéo dài và ra nhiều hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn II",
+        "Rối loạn nội tiết",
+        "U xơ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vùng chậu và ra khí hư bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn II",
+        "Viêm vùng chậu",
+        "Viêm âm đạo"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ra máu âm đạo sau khi mãn kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn II",
+        "Ung thư nội mạc tử cung",
+        "Teo âm đạo"
+      ]
     }
   ]
 }

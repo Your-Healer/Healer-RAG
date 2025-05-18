@@ -1,58 +1,207 @@
 {
   "disease_id": "viem-xoang-sang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm xoang sàng",
+  "disease_alternative_names": [
+    "Viêm xoang sàng trước",
+    "Viêm xoang sàng sau",
+    "Viêm toàn bộ xoang sàng"
+  ],
+  "disease_definition": "Viêm xoang sàng là tình trạng lớp niêm mạc lót bên trong các xoang sàng bị nhiễm trùng. Khi bị viêm, các hốc xoang sẽ phù nề, dịch trong xoang bị ứ đọng không thoát ra được gây nghẹt mũi, đau nhức vùng mặt, đau đầu do thiếu oxy não và nhiều triệu chứng khác.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sốt và nhức đầu",
+      "description": "Người bệnh có thể bị sốt kèm theo cảm giác nhức đầu"
+    },
+    {
+      "name": "Đau và nhạy cảm vùng mặt",
+      "description": "Đau và nhạy cảm vùng mặt, đặc biệt khi bệnh nhân cúi xuống"
+    },
+    {
+      "name": "Nghẹt mũi",
+      "description": "Khó thở qua mũi do niêm mạc phù nề và dịch ứ đọng"
+    },
+    {
+      "name": "Chảy dịch mủ mũi sau",
+      "description": "Dịch mủ từ xoang chảy xuống họng gây khó chịu"
+    },
+    {
+      "name": "Đau họng và ho",
+      "description": "Đau họng và ho do dịch mủ chảy xuống kích thích họng"
+    },
+    {
+      "name": "Hôi miệng",
+      "description": "Hơi thở có mùi hôi do dịch mủ trong xoang"
+    },
+    {
+      "name": "Sưng, đỏ hoặc đau mắt",
+      "description": "Do vị trí của xoang sàng gần kề với mắt, người bệnh có thể bị sưng, đỏ hoặc đau mắt"
+    },
+    {
+      "name": "Đau nhức vùng sau gáy",
+      "description": "Đặc biệt đối với viêm xoang sàng sau, cơn đau có thể lan xuống vai"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm xoang sàng thường do nhiễm trùng gây ra, có thể là virus, vi khuẩn hoặc nấm. Hiếm khi chỉ nhiễm trùng đơn độc ở xương sàng mà thường kết hợp nhiều tác nhân cùng lúc.",
+    "related_factors": "Xoang sàng có mối quan hệ mật thiết với hốc mắt và nền sọ, nên khi bị viêm nhiễm có nguy cơ cao gây biến chứng ảnh hưởng đến mắt và não.",
+    "transmission_routes": [
+      "Lây nhiễm qua đường hô hấp từ các virus và vi khuẩn gây bệnh",
+      "Nhiễm trùng lan tỏa từ các tổ chức lân cận như răng miệng"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Dị ứng (phấn hoa, lông động vật, khói bụi, hóa chất...)",
+    "Lệch vách ngăn mũi hoặc bất thường khác trong cấu tạo mũi xoang",
+    "Polyp mũi",
+    "Bệnh xơ nang",
+    "Mắc sarcoidosis (tình trạng viêm tự miễn dịch toàn thân)",
+    "Bệnh u hạt Wegener (rối loạn viêm ảnh hưởng đến mạch máu)",
+    "Nhiễm trùng răng miệng",
+    "Suy giảm miễn dịch (đái tháo đường, HIV, ung thư)",
+    "Hút thuốc lá kéo dài",
+    "Tăng huyết áp",
+    "Tuổi tác"
+  ],
+  "complications": [
+    "Lồi mắt, nhìn đôi hoặc mù",
+    "Nhiễm trùng xâm lấn dẫn đến viêm màng não",
+    "Viêm thần kinh thị giác",
+    "Chứng loạn thị, sụp mi (sau phẫu thuật)",
+    "Rò rỉ dịch não tủy (sau phẫu thuật)",
+    "Viêm não – màng não (sau phẫu thuật)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng và đánh giá triệu chứng", "Thăm khám thực thể"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi mũi",
+        "description": "Nội soi mũi là một xét nghiệm thường quy trong chẩn đoán viêm xoang sàng mặc dù độ nhạy không cao."
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Chụp CT rất quan trọng trong việc phát hiện tình trạng viêm của xoang sàng, giúp đánh giá mức độ tổn thương và lựa chọn phương pháp điều trị phù hợp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy vào tình trạng viêm, bác sĩ có thể lựa chọn các phương pháp điều trị viêm xoang sàng khác nhau, từ điều trị bằng thuốc đến can thiệp phẫu thuật.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh",
+        "description": "Được kê đơn khi xác định nguyên nhân là do vi khuẩn, giúp tiêu diệt vi khuẩn gây viêm."
+      },
+      {
+        "name": "Thuốc chống viêm không steroid",
+        "description": "Giúp giảm viêm và đau nhức tại vùng xoang bị viêm."
+      },
+      {
+        "name": "Corticosteroid đường xịt hoặc uống",
+        "description": "Giúp giảm viêm và phù nề niêm mạc xoang, làm thông thoáng đường dẫn lưu xoang."
+      },
+      {
+        "name": "Các loại thuốc thông mũi",
+        "description": "Giúp làm giảm nghẹt mũi, tạo điều kiện cho xoang thoát dịch dễ dàng hơn."
+      },
+      {
+        "name": "Phẫu thuật nội soi mũi xoang chức năng (FESS)",
+        "description": "Được thực hiện với sự trợ giúp của ống nội soi và microdebrider (máy bào mô) để loại bỏ mô bị nhiễm bệnh và xương mà không làm hỏng các mô lành xung quanh."
+      },
+      {
+        "name": "Phẫu thuật xoang đường ngoài",
+        "description": "Thủ thuật được thực hiện bằng cách đục một lỗ ở hàm trên của miệng để tiếp cận xương sàng, chỉ được ưu tiên khi các phương pháp tiếp cận khác khó thực hiện."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Dùng máy xông hơi để làm ẩm không khí",
+      "Đắp khăn ấm để giảm đau",
+      "Rửa mũi xoang bằng nước muối sinh lý hàng ngày",
+      "Hít hơi nước nóng để làm thông các xoang và giúp giảm đau",
+      "Thực hành các bài tập thở như Bhramari pranayama",
+      "Uống trà mật ong giúp kháng viêm, giảm đau",
+      "Tái khám theo lịch hẹn của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Thường xuyên rửa tay bằng xà bông diệt khuẩn",
+      "Tránh tiếp xúc với người bị cảm cúm, nhiễm trùng đường hô hấp",
+      "Đeo khẩu trang khi ra ngoài, đặc biệt trong mùa dịch"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Không có vaccine đặc hiệu cho viêm xoang sàng, nhưng tiêm phòng vắc xin cúm và phế cầu khuẩn có thể giúp phòng ngừa nhiễm các loại virus là yếu tố nguy cơ gây viêm xoang sàng.",
+      "recommended_for": [
+        "Người có tiền sử viêm xoang",
+        "Người có bệnh nền về đường hô hấp",
+        "Người có hệ miễn dịch yếu"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thường xuyên rửa tay bằng xà bông diệt khuẩn",
+      "Tiêm phòng vắc xin cúm và phế cầu khuẩn",
+      "Tránh tiếp xúc với nguồn bệnh như không đến nơi đông người khi đang có dịch cúm",
+      "Không hút thuốc lá, hoặc tránh để hít phải khói thuốc lá",
+      "Dùng máy tạo độ ẩm trong mùa hanh khô để tránh bị khô mũi xoang",
+      "Giữ ấm cơ thể trong thời tiết lạnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Phẫu thuật viêm xoang sàng có rủi ro không?",
+      "answer": "Cũng như bất kỳ loại phẫu thuật nào, phẫu thuật điều trị viêm xoang sàng cũng có những rủi ro riêng. Một số biến chứng chung của phẫu thuật mũi xoang có thể xảy ra nếu bác sĩ thiếu kinh nghiệm hoặc do một số yếu tố khách quan khác như chứng loạn thị, sụp mi; nhìn đôi hoặc mù; rò rỉ dịch não tủy; viêm não – màng não."
+    },
+    {
+      "question": "Sau phẫu thuật viêm xoang sàng có tái phát không?",
+      "answer": "Ở một số bệnh nhân có thể tái phát viêm xoang sàng nếu không tuân thủ hướng dẫn sau phẫu thuật. Bệnh nhân cần tái khám theo lịch hẹn để theo dõi và điều trị kịp thời nếu có dấu hiệu tái phát."
+    },
+    {
+      "question": "Bị viêm xoang sàng khi nào nên tới bệnh viện?",
+      "answer": "Người bệnh nên tới ngay bệnh viện nếu có các triệu chứng sau: đau dữ dội ở mặt hoặc đau đầu dữ dội; các triệu chứng có vẻ cải thiện nhưng sau đó trở nên tồi tệ hơn; các triệu chứng không giảm sau 10 ngày đã được điều trị; sốt kéo dài hơn 3-4 ngày."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức quanh mắt, sốt và nhức đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang sàng",
+        "Viêm xoang trán",
+        "Viêm xoang hàm",
+        "Cúm"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nghẹt mũi, chảy dịch mũi sau và đau họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang sàng",
+        "Viêm mũi dị ứng",
+        "Cảm cúm",
+        "Viêm mũi xoang mạn tính"
+      ]
+    },
+    {
+      "question": "Tôi bị đau giữa hai mắt và nhức đầu phía trước. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang sàng trước",
+        "Viêm xoang trán",
+        "Đau nửa đầu"
+      ]
+    },
+    {
+      "question": "Tôi bị sưng, đau mắt và nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang sàng",
+        "Viêm mắt",
+        "Viêm xoang hàm",
+        "Viêm kết mạc"
+      ]
+    },
+    {
+      "question": "Tôi bị đau nhức vùng mặt, đặc biệt khi cúi xuống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang sàng",
+        "Viêm xoang trán",
+        "Viêm xoang hàm",
+        "Viêm xoang bướm"
+      ]
     }
   ]
 }

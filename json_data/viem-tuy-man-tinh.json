@@ -1,58 +1,212 @@
 {
   "disease_id": "viem-tuy-man-tinh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tụy mạn tính",
+  "disease_alternative_names": [
+    "Viêm tụy mạn",
+    "Bệnh tụy mạn tính",
+    "Chronic pancreatitis"
+  ],
+  "disease_definition": "Viêm tụy mạn tính là bệnh lý do viêm kéo dài dẫn đến sự xơ hóa từ từ của nhu mô tụy. Các tuyến tụy không còn khả năng tạo enzyme tiêu hóa. Tình trạng này dẫn tới sự mất khả năng tiêu hóa và hấp thụ chất béo (gọi là suy tụy ngoại tiết). Đồng thời xơ hóa lâu ngày của nhu mô tụy dẫn tới suy giảm sản xuất hormone insulin (suy tụy nội tiết). Khi đó, người bệnh sẽ bị suy giảm hoặc mất chức năng tụy.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng",
+      "description": "Đau ở vùng trên rốn lan sang phải, sang trái và lan ra sau lưng. Cơn đau xuất hiện không thường xuyên, kéo dài vài ngày hoặc lâu hơn. Đau tăng sau khi ăn nhiều mỡ và uống rượu."
+    },
+    {
+      "name": "Suy dinh dưỡng",
+      "description": "Người bệnh bị sút cân nhanh dù vẫn ăn uống bình thường, do đau khi ăn và hạn chế hấp thu dưỡng chất"
+    },
+    {
+      "name": "Tiêu phân mỡ",
+      "description": "Phân có chất nhầy mỡ, màu phân nhạt, mùi khó chịu và lỏng khó thải ra hết, phân dễ bám dính vào thành bồn cầu. Nguyên nhân do thiếu men tụy để tiêu hóa chất béo."
+    },
+    {
+      "name": "Vàng da",
+      "description": "Vàng da do tổ chức tụy bị xơ hóa bóp nghẹt phần ống mật chủ đi qua đầu tụy, có thể kèm theo nước tiểu sẫm màu như nước chè đặc."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Triệu chứng này thường xuất hiện khi có cơn đau"
+    },
+    {
+      "name": "Đái tháo đường",
+      "description": "Xảy ra khi tụy bị xơ hóa hơn 85%, do suy giảm chức năng nội tiết của tụy"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm tụy mạn tính có nhiều nguyên nhân, trong đó chủ yếu là do nghiện rượu, bia (chiếm 70% số trường hợp).",
+    "related_factors": "Các nguyên nhân khác bao gồm thuốc lá, tăng mỡ máu, nguyên nhân di truyền, tự miễn, tắc nghẽn (sỏi tụy, u), viêm tụy cấp tái phát và viêm tụy cấp nặng.",
+    "transmission_routes": ["Bệnh viêm tụy mạn không lây nhiễm"]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nghiện rượu, bia",
+    "Hút thuốc lá",
+    "Tăng mỡ máu (Triglyceride)",
+    "Tiền sử viêm tụy cấp tái phát (10% viêm tụy cấp sau này chuyển thành viêm tụy mạn tính)",
+    "Đột biến gen (như PRSS1, thiếu hụt α1 antitrypsin)",
+    "Bệnh tự miễn",
+    "Sỏi tụy và u trong ống tụy",
+    "Nam giới (bệnh xảy ra ở nam nhiều hơn nữ)",
+    "Độ tuổi 30-40"
+  ],
+  "complications": [
+    "Đái tháo đường",
+    "Suy dinh dưỡng, sụt cân nhanh",
+    "Phù chi, tràn dịch các màng do hội chứng kém hấp thu",
+    "Hình thành nang giả tụy",
+    "Rò dịch tụy gây báng bụng dịch tụy",
+    "Huyết khối tĩnh mạch lách",
+    "Tăng áp lực tĩnh mạch cửa",
+    "Vàng da tắc mật",
+    "Ung thư tụy"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Chẩn đoán lâm sàng (đánh giá triệu chứng đau bụng, rối loạn tiêu hóa, suy dinh dưỡng)",
+      "Xét nghiệm cận lâm sàng",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra kích thích tiết secretin",
+        "description": "Xét nghiệm đánh giá chức năng ngoại tiết của tụy"
+      },
+      {
+        "name": "Kiểm tra hơi thở C13",
+        "description": "Cholesteryl_(C13) octanoate breath test giúp đánh giá chức năng ngoại tiết tụy"
+      },
+      {
+        "name": "Xét nghiệm elastase trong phân",
+        "description": "Faecal elastase test giúp đánh giá chức năng tiêu hóa của tụy"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra amylase, lipase, protein huyết thanh, albumin, đường huyết và đánh giá tình trạng dinh dưỡng"
+      },
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Đánh giá mức độ nhầy mỡ của phân"
+      },
+      {
+        "name": "Chẩn đoán hình ảnh",
+        "description": "X-quang, siêu âm, CT scan, MRI giúp đánh giá cấu trúc tụy, ống tụy và mô xung quanh"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Y học hiện nay vẫn chưa thể điều trị dứt điểm bệnh viêm tụy mạn. Các phương pháp điều trị chỉ giúp giảm triệu chứng, làm chậm tiến triển bệnh, giảm nguy cơ lọc máu và ghép thận.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi chế độ sinh hoạt",
+        "description": "Tuyệt đối không dùng rượu, bia, không hút thuốc lá, giảm đồ ăn nhiều chất béo và tinh bột đặc biệt khi có tăng mỡ máu"
+      },
+      {
+        "name": "Điều trị bằng men tụy",
+        "description": "Sử dụng các chế phẩm men tụy có hoạt độ lipase cao, liều thường khoảng 25.000-50.000 đơn vị lipase trong viên nang, được sử dụng trong bữa ăn"
+      },
+      {
+        "name": "Sử dụng thuốc ức chế bơm proton",
+        "description": "Omeprazol 20-60 mg/ngày giúp giảm sự bất hoạt của lipase do axit, nhờ đó cải thiện triệu chứng đi tiêu phân mỡ"
+      },
+      {
+        "name": "Điều trị giảm đau",
+        "description": "Sử dụng thuốc giảm đau cho các cơn đau do viêm tụy mạn tính"
+      },
+      {
+        "name": "Điều trị đái tháo đường",
+        "description": "Điều trị bằng insulin nếu bệnh nhân có đái tháo đường đi kèm"
+      },
+      {
+        "name": "Phẫu thuật loại trừ tắc nghẽn ống tụy",
+        "description": "Phương pháp này được thực hiện để dẫn lưu nang giả, giảm đau, điều trị biến chứng do viêm tụy mạn"
+      },
+      {
+        "name": "Phẫu thuật dẫn lưu ống tụy",
+        "description": "Phương pháp này được chỉ định để làm giãn ống tụy hay cắt đuôi tụy nối thông tụy – hỗng tràng nhằm giảm đau cho người bệnh"
+      },
+      {
+        "name": "Phẫu thuật cắt tụy",
+        "description": "Cắt tụy một phần hay toàn phần được xem là phương pháp điều trị cuối cùng cho người bệnh viêm tụy mạn tiến triển nghiêm trọng"
+      },
+      {
+        "name": "Phong bế cắt đám rối thần kinh",
+        "description": "Thực hiện qua nội soi siêu âm hoặc qua da giúp giảm đau do viêm tụy mạn"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuyệt đối không dùng rượu, bia",
+      "Không hút thuốc lá",
+      "Giảm đồ ăn nhiều chất béo và tinh bột",
+      "Chia bữa ăn thành nhiều bữa nhỏ để dùng trong ngày",
+      "Chọn các loại thức ăn dễ tiêu",
+      "Uống đủ nước cần thiết",
+      "Tuân thủ việc sử dụng men tụy và các thuốc khác theo chỉ định của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa viêm tụy mạn tính",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không lạm dụng rượu, bia",
+      "Không hút thuốc lá",
+      "Điều trị kịp thời viêm tụy cấp để tránh tái phát nhiều lần",
+      "Hạn chế tối đa việc bổ sung chất béo từ mỡ động vật",
+      "Chia bữa ăn thành nhiều bữa nhỏ",
+      "Bổ sung nhiều rau, trái cây và uống đủ nước",
+      "Điều trị tăng triglycerid nếu có",
+      "Duy trì chế độ ăn lành mạnh với thực phẩm giàu protein, chất chống oxy hóa và ít chất béo động vật",
+      "Tránh thịt đỏ, nội tạng, đồ chiên, mayonnaise, bơ thực vật, sữa nguyên kem, các món tráng miệng có đường"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tụy mạn tính có nguy hiểm không?",
+      "answer": "Viêm tụy mạn tính là bệnh mạn tính nặng nề của đường tiêu hóa, ảnh hưởng nghiêm trọng đến sức khỏe người bệnh. Bệnh có thể gây ra nhiều biến chứng nguy hiểm như đái tháo đường, suy dinh dưỡng, hình thành nang giả tụy, rò dịch tụy, huyết khối tĩnh mạch lách và ung thư tụy. Viêm tụy mạn kéo dài cũng là yếu tố nguy cơ của ung thư tụy, và khi đó thời gian sống của người bệnh còn khá ngắn dù phát hiện sớm và điều trị tích cực."
+    },
+    {
+      "question": "Viêm tụy mạn tính có chữa khỏi được không?",
+      "answer": "Y học hiện nay vẫn chưa thể điều trị dứt điểm bệnh viêm tụy mạn. Các phương pháp điều trị chỉ giúp giảm triệu chứng, làm chậm tiến triển bệnh. Tuy nhiên, việc phát hiện và tích cực điều trị ngay từ đầu sẽ phần nào thuyên giảm được những tác động nặng nề do bệnh gây ra. Vì chức năng của tuyến tụy vẫn chưa thể tái lập hoàn toàn bằng nhân tạo được, điều trị chủ yếu tập trung vào kiểm soát triệu chứng và biến chứng."
+    },
+    {
+      "question": "Chế độ ăn nào phù hợp với người bị viêm tụy mạn tính?",
+      "answer": "Người bệnh viêm tụy mạn nên tập trung vào những loại thực phẩm giàu protein, chứa nhiều chất chống oxy hóa và ít chất béo động vật. Trong bữa ăn hàng ngày, nên bổ sung thịt nạc, các loại đậu và đậu lăng, súp và các loại sữa từ hạt. Nên tránh thịt đỏ, nội tạng, đồ chiên, mayonnaise, bơ thực vật, sữa nguyên kem, các món tráng miệng có đường và thức uống có đường. Cần chia bữa ăn thành nhiều bữa nhỏ, chọn các loại thức ăn dễ tiêu, và uống đủ nước cần thiết."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng vùng thượng vị, lan ra sau lưng và tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tụy mạn tính",
+        "Viêm tụy cấp",
+        "Loét dạ dày tá tràng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng dữ dội, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tụy mạn tính", "Viêm tụy cấp", "Sỏi mật"]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, tiêu chảy và phân có mỡ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tụy mạn tính",
+        "Hội chứng kém hấp thu",
+        "Bệnh xơ nang"
+      ]
+    },
+    {
+      "question": "Tôi đang bị sụt cân, vàng da và tiểu đường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tụy mạn tính", "Ung thư tụy", "Xơ gan"]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau bụng, đầy hơi, khó tiêu và buồn nôn, nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tụy mạn tính",
+        "Viêm dạ dày",
+        "Hội chứng ruột kích thích"
+      ]
     }
   ]
 }

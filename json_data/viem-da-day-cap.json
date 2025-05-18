@@ -1,58 +1,245 @@
 {
   "disease_id": "viem-da-day-cap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm dạ dày cấp",
+  "disease_alternative_names": [
+    "Viêm bao tử cấp tính",
+    "Viêm dạ dày cấp tính",
+    "Gastritis cấp"
+  ],
+  "disease_definition": "Viêm dạ dày cấp là tình trạng niêm mạc bao tử bị viêm hoặc kích ứng đột ngột, gây đau dữ dội và dai dẳng. Trong trường hợp này, cơ quan đã kích hoạt phản ứng miễn dịch, thu hút các tế bào bạch cầu đến vị trí tổn thương, gây viêm. Mức độ nghiêm trọng càng cao, viêm dạ dày cấp tính càng có nguy cơ sẽ tiến triển thành tình trạng ăn mòn, tạo nên vết loét cùng những vùng xuất huyết nhỏ bên trong niêm mạc.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Dạ dày đau hoặc khó chịu",
+      "description": "Cảm giác đau hoặc khó chịu tại vùng dạ dày, thường là dấu hiệu phổ biến nhất của viêm dạ dày cấp."
+    },
+    {
+      "name": "Ợ nóng",
+      "description": "Cảm giác nóng rát dọc theo thực quản, từ dạ dày lên đến vùng cổ họng."
+    },
+    {
+      "name": "Ăn mất ngon",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn hoặc không còn hứng thú với thức ăn."
+    },
+    {
+      "name": "Buồn nôn, ói mửa",
+      "description": "Cảm giác muốn nôn hoặc nôn ra chất từ dạ dày, thường xảy ra sau khi ăn."
+    },
+    {
+      "name": "Nôn ra máu",
+      "description": "Hiện tượng máu có trong chất nôn, xảy ra khi viêm dẫn đến rách hoặc hình thành vết loét sâu trong niêm mạc dạ dày."
+    },
+    {
+      "name": "Giảm cân bất thường",
+      "description": "Sụt cân không chủ ý do giảm lượng thức ăn nạp vào và rối loạn tiêu hóa."
+    },
+    {
+      "name": "Sốt",
+      "description": "Tăng nhiệt độ cơ thể, thường xuất hiện khi viêm dạ dày do nhiễm khuẩn."
+    },
+    {
+      "name": "Cảm giác đầy bụng bất thường",
+      "description": "Cảm giác căng tức, đầy hơi ở vùng bụng trên, làm giảm khả năng ăn uống."
+    },
+    {
+      "name": "Cảm thấy no quá nhanh sau khi ăn",
+      "description": "Cảm giác no sớm khi mới ăn một lượng nhỏ thức ăn."
+    },
+    {
+      "name": "Đi đại tiện phân đen",
+      "description": "Phân có màu đen, thường do máu trong dạ dày bị tiêu hóa trước khi đi qua ruột."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm dạ dày cấp xuất phát từ nhiều nguyên nhân khác nhau, trong đó phổ biến nhất là do vi khuẩn Helicobacter Pylori và các yếu tố kích ứng như rượu bia, thuốc chống viêm không steroid (NSAID), trào ngược mật.",
+    "related_factors": "Ngoài ra, viêm dạ dày cấp còn có thể do rối loạn hệ miễn dịch, vấn đề về mạch máu, thiếu máu cục bộ (do cocaine, mất nước nghiêm trọng, nhiễm trùng huyết, chấn thương hoặc bỏng nặng), dị ứng hoặc ngộ độc thực phẩm, và bệnh u hạt.",
+    "transmission_routes": [
+      "Lây qua đường tiêu hóa khi ăn uống thực phẩm chưa nấu chín",
+      "Lây từ người sang người khi sống gần với người nhiễm H. pylori",
+      "Bơi ở sông, suối, hồ bơi có nước bị ô nhiễm"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Sử dụng thuốc chống viêm không Steroid (NSAID) như Aspirin, Ibuprofen",
+    "Sử dụng Corticosteroid",
+    "Uống nhiều rượu bia",
+    "Trải qua cuộc phẫu thuật lớn",
+    "Bệnh nhân bị suy thận, suy gan, suy hô hấp",
+    "Người mắc tiểu đường loại 1",
+    "Người bị bệnh Hashimoto",
+    "Cơ thể thiếu hụt Vitamin B12",
+    "Người có dị dạng hiếm gặp của mạch máu",
+    "Người bị suy tim mãn tính"
+  ],
+  "complications": [
+    "Loét dạ dày",
+    "Xuất huyết dạ dày",
+    "Tăng nguy cơ ung thư dạ dày, đặc biệt khi lớp niêm mạc bị mỏng",
+    "Thiếu máu do mất máu mạn tính",
+    "Khó tiêu hóa kéo dài"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Đánh giá các triệu chứng và dấu hiệu lâm sàng",
+      "Thực hiện các xét nghiệm chẩn đoán"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm công thức máu toàn bộ (CBC)",
+        "description": "Thực hiện để kiểm tra sức khỏe tổng thể, bao gồm đánh giá sự thiếu máu do mất máu hoặc tình trạng nhiễm trùng."
+      },
+      {
+        "name": "Xét nghiệm hơi thở, nước bọt",
+        "description": "Kiểm tra sự tồn tại của vi khuẩn Helicobacter Pylori, một trong những nguyên nhân phổ biến gây viêm dạ dày cấp."
+      },
+      {
+        "name": "Xét nghiệm phân",
+        "description": "Kiểm tra máu trong phân, giúp phát hiện xuất huyết từ đường tiêu hóa trên."
+      },
+      {
+        "name": "Nội soi dạ dày thực quản",
+        "description": "Phương pháp quan sát trực tiếp niêm mạc dạ dày thông qua một ống soi mềm, giúp đánh giá tình trạng viêm, loét hoặc bất thường khác."
+      },
+      {
+        "name": "Sinh thiết mô dạ dày",
+        "description": "Lấy một mẫu mô nhỏ của dạ dày để kiểm tra dưới kính hiển vi, giúp xác định chính xác loại viêm và nguyên nhân."
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Kiểm tra các vấn đề liên quan đến cấu trúc hệ tiêu hóa, có thể phát hiện các bất thường trong cấu trúc dạ dày."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm dạ dày cấp phụ thuộc vào nguyên nhân gây bệnh và mức độ nghiêm trọng của tình trạng viêm. Thông thường, bệnh có thể thuyên giảm sau vài ngày đến vài tuần nếu được điều trị đúng cách.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng axit",
+        "description": "Sử dụng các loại thuốc như aluminum phosphalugel hoặc magnesium hydroxide để trung hòa axit dạ dày, giảm viêm và cảm giác đau. Có thể cần dùng nhiều lần trong ngày theo chỉ định của bác sĩ."
+      },
+      {
+        "name": "Thuốc kháng H2",
+        "description": "Các thuốc như Famotidine (Pepcid), Cimetidine (Tagamet) được sử dụng để giảm tiết axit dạ dày. Thường uống từ 10-60 phút trước khi ăn hoặc trước khi đi ngủ."
+      },
+      {
+        "name": "Thuốc ức chế bơm Proton",
+        "description": "Các thuốc như Omeprazole (Prilosec), Esomeprazole (Nexium) có tác dụng ức chế sản xuất axit dạ dày. Thường uống mỗi 24 giờ, trước ăn 30-60 phút."
+      },
+      {
+        "name": "Thuốc kháng sinh",
+        "description": "Sử dụng khi viêm dạ dày do nhiễm vi khuẩn Helicobacter Pylori. Thường dùng Amoxicillin, Tetracycline (không dùng cho trẻ em dưới 12 tuổi) và Clarithromycin. Điều trị kéo dài từ 10-28 ngày."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Hạn chế tối đa uống rượu bia",
+      "Bỏ hút thuốc lá",
+      "Kiểm soát cảm xúc, tránh căng thẳng",
+      "Giảm cân nếu cơ thể đang bị thừa cân",
+      "Tránh thức ăn chứa nhiều gia vị, dầu mỡ, chua, cay nóng vì dễ gây kích ứng dạ dày",
+      "Chia nhỏ các bữa ăn trong ngày",
+      "Tích cực bổ sung các thực phẩm có lợi cho dạ dày: chuối, nước dừa, sữa chua, rau củ, gừng, ngũ cốc"
+    ],
+    "prevention_of_transmission": [
+      "Rửa tay kỹ bằng xà phòng diệt khuẩn trước khi ăn",
+      "Tránh dùng chung bát đũa với người đã nhiễm H. pylori",
+      "Ăn chín uống sôi"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vắc-xin phòng ngừa viêm dạ dày cấp.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Luôn luôn rửa tay bằng xà phòng diệt khuẩn trước khi ăn để làm giảm nguy cơ nhiễm vi khuẩn Helicobacter Pylori",
+      "Ăn chín uống sôi để tránh nguy cơ bị nhiễm trùng",
+      "Tránh hoặc hạn chế tối đa uống rượu bia",
+      "Tránh sử dụng thuốc chống viêm không Steroid (NSAID) thường xuyên",
+      "Bổ sung nhóm thực phẩm giàu chất xơ: ngũ cốc nguyên hạt, trái cây, rau, đậu",
+      "Ưu tiên nhóm thực phẩm ít chất béo: Rau, thịt nạc, cá",
+      "Chọn nhóm thực phẩm có độ axit thấp: Rau, đậu",
+      "Sử dụng đồ uống không chứa gas, caffeine, cồn",
+      "Bổ sung nhóm thực phẩm chứa Probiotic có lợi cho sức khỏe: kim chi, sữa chua, trà nấm thủy sâm (kombucha)"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm dạ dày cấp tính kéo dài bao lâu?",
+      "answer": "Thời gian kéo dài của bệnh viêm dạ dày cấp phụ thuộc vào nguyên nhân gây bệnh, thời gian bắt đầu điều trị và liệu pháp điều trị. Thông thường, các triệu chứng sẽ có dấu hiệu thuyên giảm từ vài ngày đến vài tuần nếu tình trạng chưa tiến triển đến mức nghiêm trọng."
+    },
+    {
+      "question": "Bị viêm dạ dày cấp nên ăn gì?",
+      "answer": "Người bị viêm dạ dày cấp nên ăn nhóm thực phẩm giàu chất xơ (ngũ cốc nguyên hạt, trái cây, rau, đậu), nhóm thực phẩm ít chất béo (rau, thịt nạc, cá), nhóm thực phẩm có độ axit thấp (rau, đậu), đồ uống không chứa gas, caffeine, cồn và nhóm thực phẩm chứa Probiotic có lợi cho sức khỏe (kim chi, sữa chua, trà nấm thủy sâm)."
+    },
+    {
+      "question": "Bệnh viêm dạ dày cấp có lây không?",
+      "answer": "Viêm dạ dày cấp có khả năng lây nhiễm nếu nguyên nhân gây bệnh do vi khuẩn Helicobacter Pylori. Các cách lây truyền phổ biến gồm: bơi ở sông, suối, hồ bơi; ăn uống các loại thực phẩm chưa qua nấu chín; và từ người thân trong gia đình đã bị mắc bệnh và sống chung."
+    },
+    {
+      "question": "Viêm dạ dày cấp có nguy hiểm không?",
+      "answer": "Viêm dạ dày cấp nếu không được điều trị kịp thời có thể dẫn đến tình trạng loét hoặc xuất huyết dạ dày. Ngoài ra, trong một số ít trường hợp, bệnh còn làm tăng nguy cơ gây ung thư dạ dày, đặc biệt là khi lớp niêm mạc bị mỏng. Vì vậy, cần được chẩn đoán và điều trị sớm để tránh các biến chứng nguy hiểm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như dạ dày đau hoặc khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-cap",
+        "loet-da-day",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ợ nóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-cap",
+        "trao-nguoc-da-day-thuc-quan",
+        "thoat-vi-hoang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ăn mất ngon và buồn nôn, ói mửa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-cap",
+        "viem-da-day-man",
+        "roi-loan-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nôn ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-cap",
+        "loet-da-day",
+        "xuat-huyet-da-day"
+      ]
+    },
+    {
+      "question": "Tôi bị nhiễm vi khuẩn Helicobacter Pylori và dạ dày đau hoặc khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-day-cap", "loet-da-day", "viem-da-day-man"]
+    },
+    {
+      "question": "Tôi bị trào ngược mật và dạ dày đau hoặc khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-cap",
+        "viem-da-day-man",
+        "trao-nguoc-mat"
+      ]
+    },
+    {
+      "question": "Tôi lạm dụng rượu bia và dạ dày đau hoặc khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-cap",
+        "loet-da-day",
+        "viem-da-day-do-ruou"
+      ]
+    },
+    {
+      "question": "Tôi lạm dụng thuốc chống viêm không Steroid và dạ dày đau hoặc khó chịu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day-cap",
+        "loet-da-day",
+        "xuat-huyet-da-day"
+      ]
     }
   ]
 }

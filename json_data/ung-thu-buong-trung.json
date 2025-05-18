@@ -1,39 +1,150 @@
 {
   "disease_id": "ung-thu-buong-trung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư buồng trứng",
+  "disease_alternative_names": ["Ovarian cancer", "Carcinoma buồng trứng"],
+  "disease_definition": "Ung thư buồng trứng là tình trạng một hoặc cả hai buồng trứng xuất hiện các tế bào bất thường, phát triển thành những khối u ác tính xâm lấn và tấn công phá hủy các mô, cơ quan bộ phận trong cơ thể. Thậm chí, các khối u này có thể di căn đến nhiều cơ quan khác, gây ung thư tại các cơ quan đó. Khoảng 90% ca bệnh được bắt đầu từ lớp ngoài của buồng trứng, gọi là ung thư biểu mô buồng trứng.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng vùng khung chậu",
+      "description": "Cảm thấy đau hoặc khó chịu ở vùng bụng dưới, khu vực khung chậu"
+    },
+    {
+      "name": "Cảm thấy đầy bụng",
+      "description": "Cảm giác đầy bụng, chướng bụng bất thường kéo dài"
+    },
+    {
+      "name": "Chán ăn, ăn uống không ngon miệng",
+      "description": "Giảm cảm giác thèm ăn và không muốn ăn như trước"
+    },
+    {
+      "name": "Sụt cân không rõ lý do",
+      "description": "Giảm cân mà không có nguyên nhân rõ ràng như ăn kiêng hay tập luyện"
+    },
+    {
+      "name": "Rối loạn đường tiêu hóa",
+      "description": "Xuất hiện các vấn đề như buồn nôn, nôn, táo bón kéo dài"
+    },
+    {
+      "name": "Ợ nóng",
+      "description": "Cảm giác nóng rát vùng ngực hoặc vùng thượng vị"
+    },
+    {
+      "name": "Đau lưng",
+      "description": "Đau vùng lưng dưới không liên quan đến chấn thương hay hoạt động gắng sức"
+    },
+    {
+      "name": "Đi tiểu thường xuyên",
+      "description": "Tần suất đi tiểu tăng lên, có thể do khối u chèn ép lên bàng quang"
+    },
+    {
+      "name": "Mệt mỏi và cáu gắt",
+      "description": "Cảm giác mệt mỏi kéo dài không rõ nguyên nhân và tâm trạng thay đổi, dễ cáu gắt"
+    },
+    {
+      "name": "Chu kỳ kinh nguyệt bất thường",
+      "description": "Thay đổi trong chu kỳ kinh nguyệt, đặc biệt ở phụ nữ tiền mãn kinh"
+    },
+    {
+      "name": "Chảy máu âm đạo sau mãn kinh",
+      "description": "Xuất hiện máu từ âm đạo sau khi đã mãn kinh, dấu hiệu cần được kiểm tra ngay"
+    },
+    {
+      "name": "Đau rát khi quan hệ tình dục",
+      "description": "Cảm giác đau hoặc khó chịu trong khi quan hệ tình dục"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện nay vẫn chưa xác định được nguyên nhân chính xác dẫn đến ung thư buồng trứng.",
+    "related_factors": "Sự phát triển bất thường của các tế bào trong buồng trứng tạo thành khối u ác tính có thể liên quan đến một số yếu tố nguy cơ như tiền sử gia đình, độ tuổi, tình trạng sinh đẻ, sử dụng hormone thay thế sau mãn kinh và tiếp xúc với một số hóa chất.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử gia đình có người thân bậc 1 mắc ung thư vú, buồng trứng hoặc đại trực tràng (tăng nguy cơ từ 2-4 lần)",
+    "Tiền sử bản thân mắc ung thư vú hoặc ung thư đại trực tràng",
+    "Độ tuổi trên 50, đặc biệt tăng cao ở người trên 60 tuổi",
+    "Phụ nữ đã qua thời kỳ mãn kinh",
+    "Phụ nữ sinh đẻ ít hoặc chưa từng sinh con",
+    "Sử dụng các loại thuốc kích thích phóng noãn",
+    "Sử dụng bột Talcum trong các sản phẩm vệ sinh phụ nữ hoặc phấn rôm",
+    "Điều trị hormone thay thế sau mãn kinh"
+  ],
+  "complications": [
+    "Di căn đến các cơ quan khác trong cơ thể",
+    "Tắc nghẽn ruột do khối u chèn ép",
+    "Tràn dịch màng phổi",
+    "Suy giảm chức năng các cơ quan bị di căn",
+    "Suy kiệt cơ thể",
+    "Giảm chất lượng cuộc sống",
+    "Đau đớn kéo dài",
+    "Tử vong nếu không được điều trị kịp thời và hiệu quả"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Khám vùng chậu để xác định bất thường ở âm hộ, âm đạo, tử cung và buồng trứng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm CA 125 trong máu",
+        "description": "Đo lường nồng độ protein CA 125 trong máu, khoảng 80% bệnh nhân ung thư buồng trứng có nồng độ CA 125 cao hơn mức bình thường"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Có thể là siêu âm đầu dò qua âm đạo hoặc siêu âm ngoài cơ thể, giúp quan sát được kích thước, cấu trúc, mật độ của khối u"
+      },
+      {
+        "name": "Chụp MRI (Cộng hưởng từ)",
+        "description": "Tạo hình ảnh 3D rõ nét của ổ bụng, ngực và vùng chậu, giúp chẩn đoán ung thư buồng trứng và đánh giá giai đoạn bệnh"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Chụp cắt lớp vi tính cung cấp hình ảnh chi tiết các cơ quan trong cơ thể, giúp đánh giá sự lan rộng của khối u"
+      },
+      {
+        "name": "Chụp X-quang ngực",
+        "description": "Sử dụng bức xạ để ghi lại hình ảnh của phổi và màng phổi, xác định các tế bào ung thư đã di căn đến phổi hay chưa"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô xét nghiệm để xác định loại tế bào ác tính và mức độ ác tính của bệnh, từ đó lựa chọn phương pháp điều trị phù hợp"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị ung thư buồng trứng phụ thuộc vào giai đoạn bệnh, sức khỏe của bệnh nhân, mức độ đáp ứng với các phương pháp điều trị và mong muốn của bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Phương pháp ưu tiên để điều trị ung thư buồng trứng, bao gồm cắt toàn bộ tử cung, phần phụ hai bên, mạc nối lớn, loại bỏ hoặc phá hủy toàn bộ các khối u"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng sau phẫu thuật để tiêu diệt các tế bào ung thư còn sót lại, có thể bằng hóa chất truyền tĩnh mạch hoặc truyền vào ổ bụng"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng các tia năng lượng cao để tiêu diệt tế bào ung thư, thường được chỉ định trong một số trường hợp cụ thể"
+      },
+      {
+        "name": "Liệu pháp điều trị đích",
+        "description": "Tấn công và ngăn chặn các gen hoặc protein chuyên biệt được tìm thấy ở các tế bào ung thư, hoặc các tế bào liên quan đến sự hình thành và phát triển của khối u"
+      },
+      {
+        "name": "Điều trị miễn dịch",
+        "description": "Sử dụng các thuốc như Pembrolizumab, Atezolizumab để kích thích hệ miễn dịch tấn công các tế bào ung thư"
+      },
+      {
+        "name": "Điều trị bảo tồn khả năng sinh sản",
+        "description": "Các phương pháp như phẫu thuật bảo tồn, đông lạnh phôi, đông lạnh tế bào trứng hoặc mô buồng trứng để duy trì khả năng mang thai sau điều trị"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị theo chỉ định của bác sĩ",
+      "Có kế hoạch dinh dưỡng khoa học, tăng cường rau củ quả, thực phẩm giàu protein và chất béo có lợi",
+      "Tái khám định kỳ để theo dõi tình trạng sức khỏe",
+      "Điều trị các tác dụng phụ của hóa trị, xạ trị kịp thời",
+      "Tham gia các nhóm hỗ trợ tinh thần cho bệnh nhân ung thư"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +152,64 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thể dục thể thao thường xuyên, ít nhất 30 phút mỗi ngày để giảm gần 20% nguy cơ bị ung thư buồng trứng",
+      "Duy trì chế độ ăn uống lành mạnh, bổ sung đầy đủ các chất dinh dưỡng",
+      "Tránh xa các sản phẩm có nguy cơ gây ung thư như bột Talcum, chất khử mùi âm đạo",
+      "Khám sức khỏe định kỳ, đặc biệt là khám phụ khoa 6 tháng một lần",
+      "Tầm soát các yếu tố nguy cơ định kỳ, đặc biệt đối với phụ nữ từ 50 tuổi trở lên"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư buồng trứng có di truyền không?",
+      "answer": "Hiện chưa có nghiên cứu khoa học chứng minh ung thư buồng trứng có di truyền. Tuy nhiên, việc thừa hưởng các gen đột biến BRCA1 và BRCA2 từ cha mẹ có thể làm tăng nguy cơ hình thành và phát triển bệnh lý vú và buồng trứng ở nữ giới. Đặc biệt, những người có quan hệ huyết thống bậc 1 (mẹ và chị em gái ruột) sẽ có nguy cơ mắc bệnh cao hơn. Tiền sử gia đình có người bị ung thư vú hoặc ung thư đại trực tràng cũng sẽ làm tăng nguy cơ mắc bệnh."
+    },
+    {
+      "question": "Ung thư buồng trứng sống được bao lâu?",
+      "answer": "Ung thư buồng trứng sống được bao lâu sẽ tùy vào thời điểm phát hiện giai đoạn phát hiện bệnh, loại khối u, sức khỏe và khả năng đáp ứng với phương pháp điều trị của bệnh nhân. Nếu bệnh được phát hiện và điều trị ngay ở giai đoạn đầu, cơ hội chữa khỏi rất cao, tỷ lệ sống trên 5 năm có thể lên đến 95%. Ở giai đoạn 2, tỷ lệ này giảm xuống còn khoảng 70%, giai đoạn 3 còn 39% và giai đoạn 4 rất thấp do khối u đã di căn."
+    },
+    {
+      "question": "Ung thư buồng trứng có chữa khỏi không?",
+      "answer": "Ung thư buồng trứng có tỷ lệ chữa khỏi cao trên 90% nếu được phát hiện sớm, can thiệp điều trị hiệu quả ngay từ giai đoạn đầu. Đặc biệt, việc điều trị ở bệnh nhân trẻ tuổi cũng được tiên lượng cao hơn do sức khỏe và khả năng đáp ứng với các phương pháp điều trị tốt hơn. Tuy nhiên, bệnh nhân có thể tái phát trong 2 năm đầu sau điều trị, nên việc theo dõi và phòng ngừa bệnh tái phát rất quan trọng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng vùng khung chậu, đầy bụng và sụt cân không rõ lý do. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Ung thư buồng trứng", "Viêm phần phụ", "Viêm ruột"]
+    },
+    {
+      "question": "Tôi đang cảm thấy chán ăn, mệt mỏi và rối loạn tiêu hóa như buồn nôn, nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng",
+        "Viêm dạ dày",
+        "Rối loạn tiêu hóa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị táo bón, ợ nóng và đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng",
+        "Trào ngược dạ dày thực quản",
+        "Hội chứng ruột kích thích"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đi tiểu thường xuyên, mệt mỏi và cáu gắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng",
+        "Viêm đường tiết niệu",
+        "Rối loạn nội tiết"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng dưới, chu kỳ kinh nguyệt bất thường và chảy máu âm đạo sau mãn kinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư buồng trứng",
+        "Ung thư tử cung",
+        "U xơ tử cung"
+      ]
     }
   ]
 }

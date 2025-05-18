@@ -1,58 +1,200 @@
 {
   "disease_id": "viem-than-lupus",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm thận Lupus",
+  "disease_alternative_names": ["Viêm cầu thận Lupus", "Bệnh thận do Lupus"],
+  "disease_definition": "Viêm thận lupus là tổn thương thận trong bệnh lupus ban đỏ hệ thống, xảy ra do cơ chế phức hợp miễn dịch lưu hành trong tuần hoàn lắng đọng ở cầu thận. Khoảng 60% người bệnh lupus ban đỏ hệ thống xuất hiện biến chứng ở thận. Viêm thận lupus phát triển sớm và diễn biến rất nhanh, có thể dẫn tới suy thận mạn giai đoạn cuối nếu không được điều trị kịp thời.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nước tiểu đậm màu",
+      "description": "Nước tiểu có màu sẫm, khác với màu vàng nhạt bình thường"
+    },
+    {
+      "name": "Sủi bọt trong nước tiểu",
+      "description": "Nước tiểu có nhiều bọt, có thể xuất hiện máu trong nước tiểu"
+    },
+    {
+      "name": "Tăng nhu cầu đi tiểu",
+      "description": "Đi tiểu nhiều lần, đặc biệt là vào ban đêm"
+    },
+    {
+      "name": "Tăng cân bất thường",
+      "description": "Tăng cân do giữ nước, thường đi kèm với phù nề"
+    },
+    {
+      "name": "Huyết áp cao",
+      "description": "Tăng huyết áp do tổn thương thận"
+    },
+    {
+      "name": "Phù nề",
+      "description": "Sưng phù ở mắt cá chân, bàn chân, cẳng chân hoặc các bộ phận khác của cơ thể"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi, kiệt sức do ảnh hưởng của bệnh"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính gây bệnh viêm thận lupus là do bệnh lupus ban đỏ hệ thống - một bệnh lý tự miễn. Ở người mắc bệnh tự miễn, thay vì tấn công những tác nhân gây hại cho cơ thể, hệ thống miễn dịch sẽ tấn công vào các mô và cơ quan khỏe mạnh, bao gồm cả thận.",
+    "related_factors": "Di truyền có vai trò quan trọng nhất trong các nguyên nhân gây bệnh. Tự kháng thể trực tiếp chống lại những yếu tố hạt nhân, hình thành phức hợp miễn dịch nội mạch và kích hoạt bổ sung, gây tổn thương cho thận.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Yếu tố di truyền",
+    "Giới tính nữ (phổ biến ở nữ giới hơn nam giới)",
+    "Độ tuổi từ 20-40",
+    "Các tác nhân môi trường như thuốc lá, virus gây bệnh zona, căng thẳng"
+  ],
+  "complications": [
+    "Suy thận mạn tính",
+    "Suy thận giai đoạn cuối",
+    "Cao huyết áp",
+    "Hội chứng thận hư",
+    "Cần lọc máu hoặc ghép thận"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và khai thác tiền sử bệnh",
+      "Xét nghiệm máu và nước tiểu",
+      "Sinh thiết thận",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá nồng độ chất thải như creatinine, urê để kiểm tra chức năng thận"
+      },
+      {
+        "name": "Thu thập nước tiểu 24 giờ",
+        "description": "Đo lường khả năng lọc chất thải của thận và xác định nồng độ protein trong nước tiểu"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra chức năng thận, đo nồng độ protein, tế bào bạch cầu và hồng cầu"
+      },
+      {
+        "name": "Xét nghiệm độ thanh thải Iothalamate",
+        "description": "Tiêm Iothalamate phóng xạ vào máu và kiểm tra tốc độ lọc chất này khỏi máu và bài tiết vào nước tiểu"
+      },
+      {
+        "name": "Sinh thiết thận",
+        "description": "Phương pháp chính xác nhất để chẩn đoán bệnh thận lupus, lấy một mẫu mô thận để phân tích những dấu hiệu tổn thương"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Sử dụng sóng âm để tạo hình ảnh chi tiết về thận, phát hiện những bất thường nhưng ít có giá trị ở giai đoạn sớm"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Y học hiện nay vẫn chưa thể điều trị dứt điểm bệnh viêm thận lupus. Các phương pháp điều trị chỉ giúp giảm triệu chứng, làm chậm tiến triển bệnh, giảm nguy cơ lọc máu và ghép thận.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc corticoid",
+        "description": "Có tác dụng giảm viêm, thường được chỉ định sử dụng cho tới khi tình trạng viêm cải thiện. Tuy nhiên có một số tác dụng phụ nghiêm trọng nên cần sử dụng theo đúng chỉ dẫn của bác sĩ."
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch",
+        "description": "Azathioprine, cyclophosphamide, voclosporin, mycophenolate... có thể ức chế hoạt động của hệ thống miễn dịch gây tổn hại đến thận."
+      },
+      {
+        "name": "Thuốc kiểm soát huyết áp",
+        "description": "Các loại thuốc ức chế men chuyển (ACE) và thuốc chẹn thụ thể angiotensin II (ARB) giúp ngăn protein rò rỉ từ thận vào nước tiểu."
+      },
+      {
+        "name": "Lọc máu",
+        "description": "Nếu điều trị bằng thuốc không còn hiệu quả, phương pháp này giúp loại bỏ chất lỏng và chất thải khỏi cơ thể, duy trì cân bằng khoáng chất trong máu."
+      },
+      {
+        "name": "Ghép thận",
+        "description": "Thường là phương pháp điều trị cuối cùng đối với người bệnh viêm thận lupus."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống đủ nước mỗi ngày, khoảng 1,5 - 2 lít",
+      "Duy trì chế độ ăn lành mạnh, đảm bảo bổ sung đủ dưỡng chất",
+      "Hạn chế ăn những thực phẩm giàu natri đối với người bệnh huyết áp cao",
+      "Hạn chế dùng rượu, bia và hút thuốc",
+      "Hạn chế bổ sung các thực phẩm nhiều cholesterol",
+      "Thường xuyên tập thể dục thể thao với cường độ phù hợp",
+      "Không tự ý dùng thuốc khi chưa hỏi ý kiến bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa bệnh viêm thận lupus",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Uống đủ nước mỗi ngày, khoảng 1,5 – 2 lít",
+      "Duy trì chế độ ăn lành mạnh với đầy đủ dưỡng chất",
+      "Hạn chế ăn những thực phẩm giàu natri nếu bị huyết áp cao",
+      "Hạn chế dùng rượu, bia và hút thuốc",
+      "Hạn chế bổ sung các thực phẩm nhiều cholesterol",
+      "Thường xuyên tập thể dục thể thao với cường độ phù hợp",
+      "Thăm khám định kỳ để phát hiện sớm các vấn đề về thận",
+      "Kiểm soát tốt bệnh lupus ban đỏ hệ thống nếu đã được chẩn đoán"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm thận lupus có chữa khỏi hoàn toàn được không?",
+      "answer": "Y học hiện nay vẫn chưa thể điều trị dứt điểm bệnh viêm thận lupus. Các phương pháp điều trị chỉ giúp giảm triệu chứng, làm chậm tiến triển bệnh, giảm nguy cơ lọc máu và ghép thận. Tuy nhiên, với việc tuân thủ điều trị và theo dõi thường xuyên, nhiều người bệnh vẫn có thể duy trì chất lượng cuộc sống tốt."
+    },
+    {
+      "question": "Bệnh viêm thận lupus có nguy hiểm không?",
+      "answer": "Viêm thận lupus là một biến chứng nguy hiểm của bệnh lupus ban đỏ hệ thống. Nếu không được phát hiện và điều trị kịp thời, bệnh có thể dẫn đến suy thận mạn tính và suy thận giai đoạn cuối, buộc người bệnh phải lọc máu hoặc ghép thận để duy trì sự sống. Chính vì vậy, việc chẩn đoán sớm và điều trị đúng phương pháp rất quan trọng."
+    },
+    {
+      "question": "Viêm thận lupus có những dấu hiệu gì?",
+      "answer": "Những triệu chứng của viêm thận lupus tương tự những bệnh thận khác, bao gồm: nước tiểu đậm màu, sủi bọt hay xuất hiện máu trong nước tiểu, tăng nhu cầu đi tiểu (nhất là vào ban đêm), tăng cân do giữ nước, và huyết áp cao. Những triệu chứng này thường không thường xuyên xuất hiện, có xu hướng ngắt quãng, nên tổn thương thận thường được phát hiện thông qua kết quả xét nghiệm nước tiểu."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nước tiểu sẫm màu, sủi bọt và tăng nhu cầu đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thận Lupus",
+        "Viêm cầu thận",
+        "Sỏi thận",
+        "Nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sưng phù và tăng cân bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thận Lupus",
+        "Bệnh thận mạn tính",
+        "Suy tim",
+        "Hội chứng thận hư"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khớp, sốt và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Lupus ban đỏ hệ thống",
+        "Viêm thận Lupus",
+        "Viêm khớp dạng thấp",
+        "Gout"
+      ]
+    },
+    {
+      "question": "Tôi đang bị huyết áp cao và tiểu ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm thận Lupus",
+        "Viêm cầu thận",
+        "Sỏi thận",
+        "Ung thư thận"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau khớp, sốt, mệt mỏi và phát ban hình cánh bướm trên mặt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Lupus ban đỏ hệ thống",
+        "Viêm thận Lupus",
+        "Lupus ban đỏ đĩa",
+        "Viêm da cơ"
+      ]
     }
   ]
 }

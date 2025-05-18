@@ -1,58 +1,225 @@
 {
   "disease_id": "ung-thu-vom-hong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vòm họng",
+  "disease_alternative_names": [
+    "Ung thư mũi hầu (Nasopharyngeal cancer - NPC)",
+    "Ung thư hầu họng (Oropharyngeal cancer)",
+    "Ung thư hạ hầu (Hypopharyngeal cancer)"
+  ],
+  "disease_definition": "Ung thư vòm họng là căn bệnh bao gồm ung thư mũi hầu (phần trên của họng, ngay sau mũi), ung thư hầu họng (phần giữa của họng) và ung thư hạ hầu hay còn gọi là ung thư hạ họng (phần dưới cùng của họng). Đây là căn bệnh thường gặp trong nhóm ung thư đầu và cổ, có tiên lượng tốt (tỷ lệ sống trên 5 năm là 61%) nếu được phát hiện ở giai đoạn đầu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau hoặc chảy máu miệng",
+      "description": "Có thể xuất hiện đau hoặc chảy máu ở khu vực miệng, thường dễ nhầm lẫn với bệnh lý răng miệng thông thường."
+    },
+    {
+      "name": "Đau họng",
+      "description": "Cảm giác đau dai dẳng ở vùng họng, không thuyên giảm với các phương pháp điều trị thông thường."
+    },
+    {
+      "name": "Nuốt khó",
+      "description": "Khó khăn khi nuốt thức ăn hoặc nước, có thể kèm theo cảm giác vướng ở cổ họng."
+    },
+    {
+      "name": "Khàn giọng",
+      "description": "Giọng nói thay đổi, trở nên khàn đục và yếu hơn bình thường kéo dài không giải thích được."
+    },
+    {
+      "name": "Ho kéo dài hoặc ho ra máu",
+      "description": "Ho dai dẳng không đáp ứng với thuốc ho thông thường, trong một số trường hợp có thể ho ra máu."
+    },
+    {
+      "name": "Đau tai, giảm thính lực hoặc ù tai",
+      "description": "Cảm giác đau ở tai, nghe kém hoặc ù tai do khối u ảnh hưởng đến vòi nhĩ."
+    },
+    {
+      "name": "Nghẹt mũi, chảy máu mũi kéo dài",
+      "description": "Tình trạng nghẹt mũi dai dẳng không đáp ứng với thuốc thông thường, có thể kèm theo chảy máu mũi tái phát."
+    },
+    {
+      "name": "Nhìn mờ, nhìn đôi hoặc lé",
+      "description": "Rối loạn thị giác do khối u chèn ép vào các dây thần kinh sọ liên quan đến thị giác."
+    },
+    {
+      "name": "Có khối bướu/hạch ở cổ",
+      "description": "Dấu hiệu phổ biến nhất của bệnh, có thể sờ thấy hoặc nhìn thấy khối u hoặc hạch ở vùng cổ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Phần lớn các trường hợp u vòm họng ác tính đều bắt nguồn từ một trong ba nguyên nhân: hút thuốc lá, uống nhiều rượu và nhiễm virus HPV.",
+    "related_factors": "Virus Epstein-Barr (EBV) cũng liên quan đến ung thư mũi hầu. Dinh dưỡng kém, nhai trầu, tiếp xúc với hóa chất độc hại và một số yếu tố di truyền cũng là các yếu tố nguy cơ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá chủ động hoặc thụ động",
+    "Uống nhiều rượu",
+    "Nhiễm virus HPV (đặc biệt là HPV type 16)",
+    "Nhiễm virus Epstein-Barr (EBV)",
+    "Người gốc Á (đặc biệt là người gốc Trung Quốc) có nguy cơ mắc bệnh cao hơn",
+    "Chế độ ăn thiếu vitamin A và E",
+    "Tiếp xúc với hóa chất độc hại (amiăng, bụi gỗ, khói sơn)",
+    "Nhai trầu",
+    "Hội chứng Plummer-Vinson",
+    "Nam giới có nguy cơ mắc bệnh cao gấp 2-3 lần phụ nữ"
+  ],
+  "complications": [
+    "Di căn đến các bộ phận khác của cơ thể",
+    "Mất khả năng nghe",
+    "Rối loạn thị giác",
+    "Khó khăn trong việc nuốt và nói",
+    "Suy giảm chất lượng cuộc sống",
+    "Tác dụng phụ của điều trị (như khô miệng, thay đổi vị giác)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Nội soi",
+      "Sinh thiết",
+      "Chụp X-quang ngực",
+      "PET-CT scan",
+      "CT scan",
+      "MRI"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi",
+        "description": "Sử dụng ống mềm có gắn camera ở đầu để nhìn bên trong mũi họng và tìm bất thường. Lấy mẫu mô sinh thiết cũng thường được thực hiện qua ống nội soi."
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Có thể thực hiện bằng sinh thiết mở (phẫu thuật), sinh thiết kim nhỏ (FNA) hoặc sinh thiết qua nội soi để lấy mẫu mô xét nghiệm."
+      },
+      {
+        "name": "PET-CT scan",
+        "description": "Giúp phát hiện hạch cổ, tổn thương di căn xa, hay khối u nguyên phát thứ 2 tốt hơn các phương pháp khác."
+      },
+      {
+        "name": "CT scan",
+        "description": "Giúp đánh giá khối u vùng đầu cổ, phát hiện biến dạng cấu trúc giải phẫu và sự tăng hấp thu thuốc cản quang tại khối u."
+      },
+      {
+        "name": "MRI",
+        "description": "Khảo sát mô mềm tốt hơn CT scan và thường cung cấp thông tin bổ sung về tình trạng khối u."
+      },
+      {
+        "name": "Xét nghiệm HPV-p16",
+        "description": "Giúp xác định liệu ung thư có liên quan đến virus HPV hay không, ảnh hưởng đến tiên lượng và phương pháp điều trị."
+      },
+      {
+        "name": "Xét nghiệm EBV-DNA",
+        "description": "Giúp đánh giá liên quan của virus Epstein-Barr với khối u, có giá trị tiên lượng."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị phụ thuộc vào vị trí, giai đoạn của bệnh và một số yếu tố khác như tuổi tác, tình trạng sức khỏe tổng thể của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Được thực hiện để cắt bỏ khối u hoặc hạch vùng cổ và một số mô lành xung quanh. Sau phẫu thuật, người bệnh có thể được tiếp tục điều trị bằng xạ trị hoặc hóa trị."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Phương pháp điều trị sử dụng tia X năng lượng cao hoặc các loại tia khác để tiêu diệt tế bào ung thư. Có thể thực hiện xạ trị ngoài (sử dụng máy bên ngoài cơ thể) hoặc xạ trị trong (sử dụng chất phóng xạ đặt trực tiếp vào hoặc gần tổ chức ung thư)."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng thuốc viên uống hoặc thuốc tiêm truyền qua đường tĩnh mạch để ngăn chặn sự phát triển của tế bào ung thư. Có thể thực hiện cùng lúc với xạ trị (hóa-xạ đồng thời) hoặc trước/sau xạ trị."
+      },
+      {
+        "name": "Liệu pháp trúng đích",
+        "description": "Sử dụng thuốc để tấn công các tế bào ung thư đặc hiệu. Cetuximab là một loại kháng thể đơn dòng hoạt động bằng cách liên kết với protein bề mặt tế bào ung thư, ngăn chặn sự phát triển và được dùng trong điều trị ung thư tái phát và di căn."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì chế độ ăn uống đủ dinh dưỡng",
+      "Tuân thủ lịch trình điều trị do bác sĩ đề ra",
+      "Tránh thực phẩm họ cam quýt, thực phẩm chua, gây kích ứng vòm họng",
+      "Tránh các thực phẩm khô, khó nuốt, khó tiêu",
+      "Hạn chế thực phẩm chế biến sẵn, đồ nướng, đồ chiên rán",
+      "Tránh thực phẩm quá nóng hoặc quá lạnh",
+      "Không dùng đồ uống chứa caffein, rượu bia và các thức uống có cồn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm ngừa vắc xin HPV giúp làm giảm nguy cơ nhiễm một số loại HPV, từ đó giảm nguy cơ mắc ung thư vùng miệng và hầu họng liên quan đến HPV.",
+      "recommended_for": ["Thanh thiếu niên trước khi có hoạt động tình dục"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bỏ thuốc lá",
+      "Giảm uống rượu",
+      "Giảm nguy cơ nhiễm HPV bằng cách tuân thủ đời sống tình dục an toàn",
+      "Tiêm ngừa vắc xin HPV",
+      "Duy trì chế độ ăn cân bằng, giàu vitamin A và E",
+      "Tránh nhai trầu",
+      "Tránh tiếp xúc với hóa chất độc hại",
+      "Khám sức khỏe định kỳ để phát hiện sớm các tổn thương tiền ung thư"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư vòm họng có chữa được không?",
+      "answer": "Ung thư vòm họng có tiên lượng khá tốt nếu được phát hiện ở giai đoạn sớm và có phác đồ điều trị phù hợp. Tỷ lệ sống trên 5 năm là khoảng 61% nếu phát hiện sớm."
+    },
+    {
+      "question": "Triệu chứng của ung thư vòm họng là gì?",
+      "answer": "Triệu chứng của ung thư vòm họng bao gồm: đau hoặc chảy máu miệng, đau họng, nuốt khó, khàn giọng, ho kéo dài hoặc ho ra máu, đau tai, giảm thính lực hoặc ù tai, nghẹt mũi, chảy máu mũi kéo dài, nhìn mờ, nhìn đôi hoặc lé, và có khối bướu/hạch ở cổ."
+    },
+    {
+      "question": "Nguyên nhân gây ung thư vòm họng là gì?",
+      "answer": "Nguyên nhân chính gây ung thư vòm họng bao gồm hút thuốc lá, uống nhiều rượu, nhiễm virus HPV (đặc biệt là HPV type 16) và nhiễm virus Epstein-Barr (EBV). Các yếu tố khác như chế độ ăn thiếu vitamin A và E, tiếp xúc với hóa chất độc hại, nhai trầu cũng góp phần gây bệnh."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa ung thư vòm họng?",
+      "answer": "Để phòng ngừa ung thư vòm họng, bạn nên: bỏ thuốc lá, giảm uống rượu, tuân thủ đời sống tình dục an toàn, tiêm ngừa vắc xin HPV, duy trì chế độ ăn cân bằng giàu vitamin A và E, tránh nhai trầu, tránh tiếp xúc với hóa chất độc hại, và thăm khám định kỳ để phát hiện sớm bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau hoặc chảy máu miệng, đau họng và nuốt khó. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vom-hong", "viem-amidan", "viem-hong"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khàn giọng, ho kéo dài và đau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong",
+        "viem-tai-giua",
+        "viem-thanh-quan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị giảm thính lực, ù tai và nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vom-hong", "viem-tai-giua", "viem-xoang"]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như chảy máu mũi kéo dài, nhìn mờ và có khối bướu ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong",
+        "ung-thu-mui-xoang",
+        "viem-xoang"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nhìn đôi, lé và ho ra máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vom-hong", "u-nao", "lao-phoi"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau họng, nuốt khó và khàn giọng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vom-hong", "viem-amidan", "viem-hong"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tai, giảm thính lực và nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vom-hong", "viem-tai-giua", "viem-xoang"]
+    },
+    {
+      "question": "Tôi hay bị chảy máu mũi kéo dài, nhìn mờ và có hạch ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vom-hong",
+        "ung-thu-mui-xoang",
+        "viem-hach-co"
+      ]
     }
   ]
 }

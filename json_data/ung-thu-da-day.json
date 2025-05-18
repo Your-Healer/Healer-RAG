@@ -1,39 +1,165 @@
 {
   "disease_id": "ung-thu-da-day",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư dạ dày",
+  "disease_alternative_names": ["Gastric cancer", "Cancer of the stomach"],
+  "disease_definition": "Ung thư dạ dày xảy ra khi có sự phát triển bất thường của các tế bào trong dạ dày. Sự thay đổi/phát triển bất thường xuất phát từ vài tế bào và có thể dần dần tiến triển tạo nên tổn thương ung thư dạng chồi sùi hay dạng loét. Quá trình này có thể ít nhất là vài tháng hoặc vài năm. Bệnh có thể ảnh hưởng đến bất kỳ bộ phận nào của dạ dày, nhưng phổ biến nhất là phần chính của dạ dày (thân dạ dày) và nơi giao nhau của dạ dày - thực quản.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khó nuốt",
+      "description": "Cảm giác khó khăn khi nuốt thức ăn, đặc biệt là thực phẩm rắn"
+    },
+    {
+      "name": "Ợ hơi, ợ chua, ợ nóng",
+      "description": "Cảm giác trào ngược acid dạ dày lên thực quản, gây khó chịu sau xương ức"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và có thể nôn ra thức ăn, đôi khi có thể lẫn máu"
+    },
+    {
+      "name": "Đau âm ỉ không theo chu kỳ",
+      "description": "Cảm giác đau dai dẳng, kéo dài không liên quan đến chu kỳ ăn uống"
+    },
+    {
+      "name": "Đau khi đói",
+      "description": "Cảm giác đau xuất hiện khi dạ dày trống rỗng"
+    },
+    {
+      "name": "Đau vùng dưới xương ức khi ăn no",
+      "description": "Cảm giác đau ở vùng thượng vị xuất hiện sau khi ăn no"
+    },
+    {
+      "name": "Đầy hơi liên tục",
+      "description": "Cảm giác căng tức, đầy hơi ở vùng bụng kéo dài"
+    },
+    {
+      "name": "Ăn ít cũng thấy no",
+      "description": "Cảm giác no sớm sau khi ăn một lượng thức ăn ít"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn uống"
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Tình trạng thiếu hồng cầu gây mệt mỏi, hoa mắt, chóng mặt"
+    },
+    {
+      "name": "Phân lẫn máu hoặc phân màu đen",
+      "description": "Xuất hiện máu trong phân hoặc phân có màu đen do xuất huyết tiêu hóa"
+    },
+    {
+      "name": "Da vàng",
+      "description": "Da và mắt có màu vàng do rối loạn chức năng gan"
+    },
+    {
+      "name": "Sụt cân đột ngột",
+      "description": "Giảm cân nhanh chóng không chủ ý"
+    },
+    {
+      "name": "Hoa mắt, chóng mặt",
+      "description": "Cảm giác choáng váng, mất thăng bằng, đặc biệt khi thay đổi tư thế"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác yếu sức, kiệt sức kéo dài đến mức ảnh hưởng khả năng lao động"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư dạ dày là do sự phát triển bất thường của các tế bào trong dạ dày. Nguyên nhân chính gây ra sự phát triển bất thường này chưa được xác định rõ ràng, nhưng có nhiều yếu tố nguy cơ và các bệnh lý liên quan đã được xác định.",
+    "related_factors": "Nhiễm trùng do vi khuẩn H. pylori là một trong những yếu tố nguy cơ cao; polyp dạ dày; viêm loét dạ dày tái đi tái lại, hoặc có tiền căn phẫu thuật các bệnh lý lành tính ở dạ dày cũng là những yếu tố liên quan mật thiết đến sự phát triển của ung thư dạ dày.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm trùng do vi khuẩn H. pylori",
+    "Polyp dạ dày",
+    "Bệnh viêm loét dạ dày tái đi tái lại",
+    "Tiền căn phẫu thuật các bệnh lý lành tính ở dạ dày",
+    "Người từ 50 tuổi trở lên",
+    "Giới tính nam",
+    "Hút thuốc lá, uống rượu bia",
+    "Chế độ ăn có nhiều thực phẩm bảo quản, thức ăn nướng hoặc xông khói/ngâm muối",
+    "Béo phì",
+    "Tiền sử gia đình mắc bệnh ung thư dạ dày",
+    "Người gốc Á (đặc biệt là Hàn Quốc hoặc Nhật Bản), Nam Mỹ hoặc Belarus"
+  ],
+  "complications": [
+    "Di căn đến các cơ quan khác trong cơ thể",
+    "Tắc nghẽn dạ dày",
+    "Xuất huyết tiêu hóa",
+    "Suy giảm miễn dịch",
+    "Suy kiệt cơ thể",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Hỏi bệnh sử, các yếu tố nguy cơ",
+      "Đánh giá giai đoạn bệnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi dạ dày",
+        "description": "Bác sĩ dùng một ống mềm, dài, có gắn camera, đưa vào thực quản đi xuống dạ dày để quan sát các tổn thương và lấy mẫu sinh thiết nếu cần"
+      },
+      {
+        "name": "Sinh thiết dạ dày",
+        "description": "Lấy mô từ các vị trí khác nhau của dạ dày để xét nghiệm, xác định bản chất tế bào dưới kính hiển vi"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Công thức máu, chức năng gan-thận, các dấu ấn ung thư (tumor marker) để đánh giá trước điều trị và theo dõi sau điều trị"
+      },
+      {
+        "name": "Chụp X-quang dạ dày",
+        "description": "Kiểm tra hình ảnh dạ dày sau khi uống thuốc cản quang"
+      },
+      {
+        "name": "Chụp CT và/hoặc MRI",
+        "description": "Tạo các hình ảnh chi tiết của cơ quan nội tạng để đánh giá mức độ lan rộng của ung thư"
+      },
+      {
+        "name": "PET-CT",
+        "description": "Phương pháp chẩn đoán hình ảnh kết hợp để phát hiện các ổ di căn xa"
+      },
+      {
+        "name": "Xạ hình xương",
+        "description": "Phát hiện các tổn thương di căn xương"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu của điều trị ung thư dạ dày là loại bỏ hoàn toàn khối u ác tính và các tế bào ung thư. Nếu phát hiện sớm từ giai đoạn khởi phát thì cơ hội được chữa khỏi bệnh tới 90%.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Cắt bỏ một phần hoặc toàn bộ dạ dày bị tổn thương kèm các hạch lympho xung quanh, tùy vào giai đoạn bệnh. Có thể thực hiện bằng phương pháp mổ mở, phẫu thuật nội soi hoặc phẫu thuật robot"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng tia bức xạ để tiêu diệt tế bào ung thư, thường áp dụng hỗ trợ sau khi phẫu thuật hoặc để giảm triệu chứng khi di căn đến xương, hạch"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Dùng thuốc qua đường truyền tĩnh mạch và/hoặc đường uống để tiêu diệt tế bào ung thư. Có thể dùng trước và/hoặc sau phẫu thuật, hoặc phối hợp với xạ trị"
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Sử dụng thuốc nhắm vào các đặc điểm cụ thể của tế bào ung thư, thường áp dụng cho giai đoạn bệnh tiến triển, tái phát hoặc di căn xa"
+      },
+      {
+        "name": "Chăm sóc và điều trị giảm nhẹ",
+        "description": "Phương pháp chăm sóc y khoa kết hợp với điều dưỡng nhằm giảm bớt các triệu chứng đau đớn về thể xác cũng như tâm lý cho người bệnh khi không thể chữa khỏi"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị theo chỉ định của bác sĩ",
+      "Tái khám định kỳ để theo dõi tình trạng bệnh",
+      "Duy trì chế độ dinh dưỡng hợp lý trong và sau điều trị",
+      "Tập thể dục nhẹ nhàng phù hợp với thể trạng",
+      "Tham gia các nhóm hỗ trợ tâm lý cho bệnh nhân ung thư",
+      "Tìm hiểu kỹ về bệnh và các phương pháp điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +167,74 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ sinh hoạt, luyện tập, nghỉ ngơi khoa học",
+      "Duy trì chế độ dinh dưỡng lành mạnh với các thực phẩm giàu vitamin và chất xơ",
+      "Hạn chế ăn các thực phẩm giàu nitric và amin thứ cấp như dưa muối, cà muối, đồ ăn lên men, thịt hun khói, đồ nướng",
+      "Không hút thuốc lá, uống rượu, bia hoặc sử dụng chất kích thích",
+      "Hạn chế đồ ăn công nghiệp và nước ngọt đóng chai",
+      "Chủ động tầm soát ung thư dạ dày sớm đối với các trường hợp có yếu tố nguy cơ",
+      "Điều trị kịp thời các bệnh tiền ung thư như viêm loét dạ dày, nhiễm H. pylori"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư dạ dày có nguy hiểm không?",
+      "answer": "Ung thư dạ dày là một trong số những căn bệnh nguy hiểm nhất về đường tiêu hóa, có tỷ lệ tử vong cao chỉ sau ung thư phổi và ung thư gan. Mỗi năm Việt Nam có 17.527 ca mắc mới ung thư dạ dày, trong đó nam giới chiếm nhiều hơn với 11.161 ca và 6.366 ở nữ giới."
+    },
+    {
+      "question": "Ung thư dạ dày có chữa được không?",
+      "answer": "Nếu phát hiện muộn khi các tế bào ung thư dạ dày đã di căn vào các cơ quan khác trong cơ thể thì cơ hội sống của người bệnh rất thấp. Ngược lại, nếu được phát hiện sớm từ giai đoạn khởi phát thì cơ hội được chữa khỏi bệnh tới 90%. Do đó, việc tầm soát và phát hiện bệnh sớm rất quan trọng."
+    },
+    {
+      "question": "Ung thư dạ dày có xu hướng gặp ở đối tượng nào?",
+      "answer": "Ung thư dạ dày có thể xảy ra ở mọi giới và mọi lứa tuổi, song phổ biến nhất là ở những người từ 50 tuổi trở lên. Nam giới có tỷ lệ mắc ung thư dạ dày cao hơn phụ nữ. Tuy nhiên, những năm gần đây, căn bệnh này đang có xu hướng trẻ hóa và phổ biến cả ở những người dưới 40 tuổi."
+    },
+    {
+      "question": "Làm thế nào để phát hiện sớm ung thư dạ dày?",
+      "answer": "Để phát hiện sớm ung thư dạ dày, người dân nên đến cơ sở y tế để được bác sĩ thăm khám, hỏi bệnh sử và đánh giá các yếu tố nguy cơ. Các biện pháp chẩn đoán như nội soi dạ dày, sinh thiết, xét nghiệm máu và các phương pháp chẩn đoán hình ảnh có thể giúp phát hiện bệnh ở giai đoạn sớm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau bụng, khó tiêu và buồn nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày",
+        "Viêm loét dạ dày",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau âm ỉ vùng thượng vị và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày",
+        "Viêm dạ dày",
+        "Loét dạ dày tá tràng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ợ hơi, ợ chua và đầy bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày",
+        "Trào ngược dạ dày thực quản",
+        "Viêm dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi hay bị sụt cân không rõ nguyên nhân và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày",
+        "Bệnh tiểu đường",
+        "Suy giáp"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, nôn ói và đi ngoài phân đen. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày",
+        "Xuất huyết tiêu hóa",
+        "Loét dạ dày tá tràng"
+      ]
     }
   ]
 }

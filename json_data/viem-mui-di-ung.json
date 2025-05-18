@@ -1,58 +1,184 @@
 {
   "disease_id": "viem-mui-di-ung",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm mũi dị ứng",
+  "disease_alternative_names": [
+    "Viêm mũi dị ứng theo mùa",
+    "Viêm mũi dị ứng thời tiết",
+    "Viêm mũi dị ứng quanh năm"
+  ],
+  "disease_definition": "Viêm mũi dị ứng là tình trạng mũi bị kích thích và viêm không phải do virus, vi khuẩn mà do các tác nhân từ môi trường như phấn hoa, lông động vật, lông sâu, bướm, khói bụi, mạt nhà.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Hắt hơi liên tục",
+      "description": "Người bệnh thường hắt hơi nhiều lần liên tiếp, đặc biệt khi tiếp xúc với dị nguyên"
+    },
+    {
+      "name": "Ngứa mũi",
+      "description": "Cảm giác ngứa ngáy, khó chịu trong mũi khiến người bệnh thường phải dụi mũi"
+    },
+    {
+      "name": "Chảy nước mũi",
+      "description": "Nước mũi trong suốt, chảy nhiều, đặc biệt vào buổi sáng khi vừa thức dậy"
+    },
+    {
+      "name": "Nghẹt mũi",
+      "description": "Cảm giác tắc nghẽn ở mũi, khó thở qua mũi, thường gây phì đại cuốn mũi"
+    },
+    {
+      "name": "Đỏ và ngứa mắt",
+      "description": "Mắt bị kích ứng, đỏ, ngứa và có thể chảy nước mắt nhiều"
+    },
+    {
+      "name": "Rát bỏng ở kết mạc và vòm họng",
+      "description": "Cảm giác khó chịu, rát ở kết mạc mắt và vùng vòm họng"
+    },
+    {
+      "name": "Mệt mỏi, uể oải",
+      "description": "Người bệnh cảm thấy uể oải, mệt mỏi và nặng đầu"
+    },
+    {
+      "name": "Khạc nhổ liên tục",
+      "description": "Do tình trạng tiết dịch ứ đọng trong vòm họng khiến người bệnh phải khạc nhổ thường xuyên"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân gây viêm mũi dị ứng là do cơ thể giải phóng histamin khi tiếp xúc với các tác nhân dị ứng. Histamin là một chất hóa học tự nhiên giúp bảo vệ cơ thể khỏi tác nhân bên ngoài xâm nhập vô cơ thể nhưng nó lại gây phản ứng quá mức.",
+    "related_factors": "Các tác nhân dị ứng có thể đến từ môi trường trong nhà, ngoài trời hoặc môi trường nghề nghiệp. Có thể bao gồm phấn hoa, bụi nhà, lông động vật, mạt bụi, nấm mốc, khói thuốc lá, hóa chất, mỹ phẩm, nước hoa.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người có tiền sử gia đình bị dị ứng",
+    "Người bị bệnh chàm da hoặc hen suyễn",
+    "Tiếp xúc thường xuyên với hóa chất, thời tiết lạnh, độ ẩm cao",
+    "Sống trong môi trường ô nhiễm không khí",
+    "Tiếp xúc với khói thuốc lá, nước hoa, phấn hoa, bụi bẩn"
+  ],
+  "complications": [
+    "Niêm mạc mũi thoái hóa, phù nề gây nghẹt mũi",
+    "Cuốn mũi quá phát xen kẽ thoái hóa polyp",
+    "Viêm loét vùng tiền đình mũi",
+    "Viêm họng, viêm phế quản",
+    "Viêm xoang",
+    "Viêm tai giữa",
+    "Viêm phổi (ở trẻ nhỏ, có thể dẫn đến suy hô hấp)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá triệu chứng lâm sàng",
+      "Xem xét yếu tố nghề nghiệp, thời tiết, tiền sử bệnh của gia đình"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm da",
+        "description": "Bác sĩ bôi một số chất lên da để kiểm tra độ châm chích và quan sát phản ứng của da với từng chất. Nếu dị ứng với chất nào đó, da sẽ xuất hiện vết đỏ, có thể kèm sưng tấy."
+      },
+      {
+        "name": "Xét nghiệm máu hoặc RAST",
+        "description": "Xét nghiệm hấp thụ chất phóng xạ (RAST) phát hiện kháng thể IgE đối với các chất gây dị ứng cụ thể trong máu của người bệnh."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm mũi dị ứng không thể chữa khỏi hoàn toàn, chỉ có thể điều trị làm giảm các triệu chứng khi bệnh khởi phát.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng histamin",
+        "description": "Sử dụng thuốc kháng histamin theo chỉ định của bác sĩ để giảm các triệu chứng dị ứng"
+      },
+      {
+        "name": "Thuốc nhỏ mắt và thuốc xịt mũi",
+        "description": "Giúp giảm ngứa và các triệu chứng liên quan đến dị ứng khác trong thời gian ngắn"
+      },
+      {
+        "name": "Các biện pháp khắc phục tại nhà",
+        "description": "Sử dụng máy hút ẩm hoặc bộ lọc không khí dạng hạt; giặt tấm trải giường và chăn mền bằng nước nóng trên 55 độ C; đeo khẩu trang khi làm việc nếu bị dị ứng với tác nhân ở nơi làm việc"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Rửa mũi thường xuyên để loại bỏ dị nguyên",
+      "Tránh tiếp xúc với các tác nhân gây dị ứng",
+      "Đeo khẩu trang khi ra ngoài, đặc biệt là trong thời tiết thay đổi hoặc vùng nhiều bụi",
+      "Giữ nhà cửa sạch sẽ, thông thoáng",
+      "Sử dụng máy lọc không khí trong nhà nếu cần thiết"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine đặc hiệu cho viêm mũi dị ứng. Tuy nhiên, người có tiền sử bị viêm mũi dị ứng, dị ứng nhẹ ngoài da do thức ăn hay thuốc, viêm kết mạc dị ứng… đều có thể tiêm các loại vaccine khác như người không có tiền sử dị ứng.",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tăng cường miễn dịch để bảo vệ cơ thể khỏi các phản ứng dị ứng",
+      "Tránh xa các tác nhân gây dị ứng đã được xác định",
+      "Đeo khẩu trang trong vùng có nguy cơ xuất hiện các chất gây dị ứng",
+      "Bảo vệ tai mũi họng tốt để giảm nguy cơ bị viêm mũi dị ứng nặng hơn",
+      "Bổ sung thực phẩm giàu vitamin C để tăng cường sức đề kháng",
+      "Bổ sung thực phẩm làm ấm cơ thể như hành, tỏi, gừng để ngăn ngừa hoặc giảm các triệu chứng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm mũi dị ứng có chữa khỏi được không?",
+      "answer": "Viêm mũi dị ứng chỉ chữa khỏi hoàn toàn khi không tiếp xúc với các yếu tố gây dị ứng, do đó chỉ có thể điều trị làm giảm các triệu chứng dị ứng mũi khi bệnh nhân khởi phát bệnh. Phòng ngừa bằng cách xịt rửa mũi mỗi ngày và tránh tiếp xúc các yếu tố gây dị ứng."
+    },
+    {
+      "question": "Viêm mũi dị ứng có ảnh hưởng đến thai nhi?",
+      "answer": "Viêm mũi dị ứng không ảnh hưởng trực tiếp đến thai nhi nhưng có thể ảnh hưởng gián tiếp. Khi người mẹ nghẹt mũi, khó thở dẫn đến mất ngủ, cơ thể mệt mỏi, miễn dịch suy giảm, có thể làm tăng nguy cơ mắc bệnh. Cơ thể người mẹ không khỏe chắc chắn sẽ ảnh hưởng đến sự phát triển của thai kỳ."
+    },
+    {
+      "question": "Bệnh viêm mũi dị ứng có lây không?",
+      "answer": "Viêm mũi dị ứng là một bệnh tự phát do cơ thể quá nhạy cảm với một yếu tố gây dị ứng nào đó. Do đó, đây không phải là bệnh lây nhiễm."
+    },
+    {
+      "question": "Viêm mũi dị ứng có nguy hiểm không?",
+      "answer": "Trên thực tế, viêm mũi dị ứng không gây nguy hiểm đến tính mạng nhưng nếu không được điều trị đúng cách, bệnh có thể kéo dài và tiến triển nặng hơn, không chỉ gây ảnh hưởng đến chất lượng cuộc sống của người bệnh mà còn có nguy cơ gây ra các biến chứng đáng tiếc như viêm xoang cấp, mạn tính, polyp mũi xoang..."
+    },
+    {
+      "question": "Viêm mũi dị ứng có di truyền không?",
+      "answer": "Viêm mũi dị ứng có khả năng di truyền, cụ thể là nếu trong gia đình có người mắc bệnh lý này thì tỷ lệ di truyền là 60-70%. Ngoài ra, bệnh cũng phụ thuộc vào nhiều yếu tố bên ngoài như ô nhiễm môi trường, thay đổi thời tiết, môi trường làm việc..."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như hắt hơi, sổ mũi, nghẹt mũi, ngứa mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi dị ứng",
+        "Cảm lạnh thông thường",
+        "Viêm mũi xoang dị ứng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ngứa mũi, hắt hơi liên tục, đỏ mắt, ngứa mắt, chảy nước mắt, chảy nước mũi nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi dị ứng",
+        "Viêm kết mạc dị ứng",
+        "Viêm mũi dị ứng theo mùa"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như dịch nhầy trong, rát bỏng ở kết mạc, vòm họng, uể oải, mệt mỏi, nặng đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi dị ứng",
+        "Viêm mũi xoang",
+        "Viêm kết mạc dị ứng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị dị ứng với bụi bẩn trong nhà hay ngoài trời, lông chó mèo, gián, mọt và các loài gặm nhấm trong nhà. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi dị ứng lâu năm",
+        "Viêm mũi dị ứng quanh năm",
+        "Hen suyễn"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy dị ứng với phấn hoa, bụi bẩn, nấm mốc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm mũi dị ứng không thường xuyên",
+        "Viêm mũi dị ứng theo mùa",
+        "Viêm mũi dị ứng thời tiết"
+      ]
     }
   ]
 }

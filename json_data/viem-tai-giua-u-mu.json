@@ -1,58 +1,208 @@
 {
   "disease_id": "viem-tai-giua-u-mu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tai giữa ứ mủ",
+  "disease_alternative_names": [
+    "Viêm tai giữa cấp tính ứ mủ",
+    "Viêm tai giữa mạn tính ứ mủ"
+  ],
+  "disease_definition": "Viêm tai giữa ứ mủ là tình trạng tai giữa bị ứ dịch, sau đó dịch tai bị nhiễm trùng làm mủ tai. Thủ phạm gây nhiễm trùng dịch tai có thể do bị nhiễm vi khuẩn từ mũi, họng. Tình trạng này dễ gặp ở trẻ em hơn do cấu trúc ngắn và nằm ngang của ống Eustachian khiến dịch trong mũi họng dễ đi qua ống Eustachian vào tai giữa.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau tai",
+      "description": "Đau tai khởi phát nhanh từ khó chịu nhẹ đến nặng, là triệu chứng biểu hiện phổ biến nhất"
+    },
+    {
+      "name": "Nghe kém",
+      "description": "Khả năng nghe giảm sút do có dịch trong tai giữa"
+    },
+    {
+      "name": "Chảy dịch tai",
+      "description": "Chảy dịch tai khi màng nhĩ đã bị thủng, có thể kèm mủ tai có mùi hôi nếu nhiễm trùng do trực khuẩn gram âm hoặc Staphylococcus aureus"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt thường xuất hiện cùng với các triệu chứng toàn thân khác"
+    },
+    {
+      "name": "Mệt mỏi, bơ phờ",
+      "description": "Người bệnh cảm thấy mệt mỏi, đêm mất ngủ, ngày mệt mỏi ngủ gà ngủ gật"
+    },
+    {
+      "name": "Chán ăn, nôn mửa",
+      "description": "Triệu chứng thường gặp, đặc biệt ở trẻ em"
+    },
+    {
+      "name": "Chóng mặt",
+      "description": "Có thể xuất hiện trong các ca nặng, đồng thời là dấu hiệu của biến chứng"
+    },
+    {
+      "name": "Liệt dây thần kinh mặt",
+      "description": "Triệu chứng hiếm gặp nhưng nghiêm trọng, là dấu hiệu của biến chứng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm tai giữa ứ mủ chủ yếu do nhiễm virus và vi khuẩn. Những vi khuẩn phổ biến nhất gây bệnh bao gồm Escherichia coli, Staphylococcus aureus (ở trẻ sơ sinh), Streptococcus pneumoniae, Haemophilus influenzae không định type và Moraxella catarrhalis (ở trẻ em dưới 14 tuổi).",
+    "related_factors": "Các yếu tố liên quan bao gồm viêm tai giữa cấp tính không được điều trị kịp thời và đúng cách, tắc nghẽn vòi nhĩ, chấn thương cơ học, bỏng nhiệt hoặc hóa chất, chấn thương tai.",
+    "transmission_routes": [
+      "Lây nhiễm vi khuẩn từ mũi họng vào tai giữa qua ống Eustachian"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ em, đặc biệt là trẻ dưới 2 tuổi",
+    "Trẻ trai",
+    "Trẻ học mầm non",
+    "Trẻ sử dụng núm vú giả",
+    "Cha mẹ hút thuốc",
+    "Tiền sử gia đình mắc bệnh tai giữa",
+    "Sinh non",
+    "Tình trạng kinh tế xã hội thấp",
+    "Bất thường về giải phẫu như hở hàm ếch và hội chứng Down",
+    "Suy giảm miễn dịch bao gồm nhiễm HIV",
+    "Mùa đông (tăng nguy cơ so với các mùa khác)"
+  ],
+  "complications": [
+    "Thủng màng nhĩ",
+    "Viêm xương chũm",
+    "Viêm xương thái dương",
+    "Liệt mặt",
+    "Viêm mê nhĩ",
+    "Viêm màng não",
+    "Áp xe não",
+    "Viêm não màng não"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Hỏi bệnh sử",
+      "Nội soi tai",
+      "Đánh giá các triệu chứng đau tai, sốt, chán ăn và nôn, chảy dịch tai"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai",
+        "description": "Kiểm tra màng nhĩ phồng lên, mất các mốc giải phẫu bình thường"
+      },
+      {
+        "name": "Đo nhĩ lượng đồ",
+        "description": "Kiểm tra sự di động của màng nhĩ, trong viêm tai giữa ứ mủ thường thấy màng nhĩ bất động"
+      },
+      {
+        "name": "Nuôi cấy dịch mủ tai",
+        "description": "Thực hiện khi điều trị viêm tai giữa ứ mủ mạn tính để xác định loại vi khuẩn và độ nhạy với kháng sinh"
+      },
+      {
+        "name": "Chụp CT hoặc MRI",
+        "description": "Thực hiện khi nghi ngờ có cholesteatoma hoặc các biến chứng khác như sốt, chóng mặt hoặc đau tai, giúp phát hiện bất thường cấu trúc bên trong tai hoặc bên trong sọ"
+      },
+      {
+        "name": "Sinh thiết tai",
+        "description": "Thực hiện nếu bệnh nhân có mô hạt dai dẳng hoặc tái phát, để loại trừ những bệnh nguy hiểm"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm tai giữa ứ mủ bao gồm dùng thuốc kháng sinh toàn thân, thuốc nhỏ tai tại chỗ và phẫu thuật trong một số trường hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc kháng sinh đường uống",
+        "description": "Sử dụng kháng sinh đường uống phổ rộng. Nếu viêm tai giữa ứ mủ cấp tính không đáp ứng với kháng sinh đầu tay, cần thực hiện xét nghiệm nuôi cấy và làm kháng sinh đồ qua chích rạch màng nhĩ."
+      },
+      {
+        "name": "Thuốc nhỏ tai tại chỗ",
+        "description": "Thuốc nhỏ tai tại chỗ ciprofloxacin là loại thuốc phổ biến trong điều trị viêm tai giữa mủ mạn tính đã có thủng nhĩ. Liều khuyến nghị là 2 lần/ngày và điều trị kéo dài trong 14 ngày."
+      },
+      {
+        "name": "Hút dịch tai",
+        "description": "Sau khi làm sạch ống tai, bác sĩ có thể tiến hành hút dịch tai."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Chỉ định khi có biến chứng, như để dẫn lưu áp xe não và dẫn lưu xương chũm. Phẫu thuật giải áp dây thần kinh VII khi có biến chứng liệt mặt."
+      },
+      {
+        "name": "Phẫu thuật chỉnh hình tai giữa",
+        "description": "Vá lại màng nhĩ được chỉ định cho những bệnh nhân bị thủng nhĩ mạn tính không lành trên 3-6 tháng. Chuỗi xương con bị gián đoạn cũng có thể được tái tạo qua phẫu thuật."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Tuân thủ điều trị kháng sinh đầy đủ theo chỉ định của bác sĩ",
+      "Không tự ý sử dụng kháng sinh để tránh kháng thuốc",
+      "Không chữa bệnh theo các phương pháp dân gian chưa được kiểm chứng",
+      "Tái khám theo lịch hẹn của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Đeo khẩu trang khi ra khỏi nhà, đến nơi đông người để phòng ngừa lây bệnh",
+      "Thực hành vệ sinh tay bằng xà bông sau khi đi vệ sinh, trước khi ăn, trước khi vệ sinh tai, mũi, họng"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin phòng cúm, phế cầu khuẩn là một trong những cách phòng ngừa viêm tai giữa ứ mủ, đặc biệt là cho trẻ em.",
+      "recommended_for": ["Trẻ em", "Người có nguy cơ nhiễm bệnh cao"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh để nhiễm các loại virus, vi khuẩn gây viêm tai",
+      "Phòng ngừa cảm cúm bằng cách tiêm phòng vắc xin cúm và tăng cường sức đề kháng",
+      "Sử dụng bịt tai khi bơi lội, khi tắm gội",
+      "Đảm bảo vệ sinh, vô khuẩn khi lấy ráy tai",
+      "Tránh lấy ráy tai bằng dụng cụ kim loại vì có thể làm tổn thương tai",
+      "Nên cho trẻ bú sữa mẹ hoàn toàn trong 6 tháng đầu đời",
+      "Kiểm tra tai định kỳ cho trẻ, đặc biệt là trẻ bị hở hàm ếch, hội chứng Shprintzen",
+      "Điều trị dứt điểm khi bị viêm tai, tránh để nhiễm trùng kéo dài chuyển thành mạn tính",
+      "Đối với các bệnh nhân phẫu thuật tai, sử dụng thiết bị trợ thính, cần kiểm tra tai thường xuyên",
+      "Các bệnh nhân suy giảm miễn dịch như HIV, đái tháo đường, ung thư cũng cần kiểm tra tai thường xuyên"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tai giữa ứ mủ có nguy hiểm không?",
+      "answer": "Các biến chứng của viêm tai giữa ứ mủ bao gồm thủng màng nhĩ, viêm xương chũm, viêm xương thái dương, liệt mặt, viêm màng não, áp xe não. Các biến chứng này nguy hiểm vì có thể gây tử vong, nhất là ở trẻ em dưới 2 tuổi."
+    },
+    {
+      "question": "Khi nào thì cần khám bác sĩ?",
+      "answer": "Viêm tai giữa tuy là bệnh lành tính thường gặp nhưng biến chứng khó lường và gây nguy hiểm tính mạng, đặc biệt ở trẻ nhỏ. Tình trạng viêm tai kéo dài có thể để lại di chứng ảnh hưởng thính lực, thần kinh, tiền đình. Vì vậy, ngay khi có các biểu hiện của viêm tai như đau tai, ù tai, chảy dịch tai, có thể kèm sốt, người bệnh nên tới bệnh viện thăm khám để được chẩn đoán và điều trị kịp thời."
+    },
+    {
+      "question": "Viêm tai giữa ứ mủ cấp tính và mạn tính khác nhau như thế nào?",
+      "answer": "Viêm tai giữa ứ mủ cấp tính là tình trạng viêm tai giữa ứ dịch. Các dịch này bị nhiễm khuẩn từ mũi họng dẫn đến viêm tai giữa ứ mủ cấp tính. Trong khi đó, viêm tai giữa ứ mủ mạn tính là viêm tai giữa thanh dịch mạn tính với tai có dịch lành tính sau đó dịch bị nhiễm trùng kéo dài hơn 3 tháng. Cả hai tình trạng này có thể xảy ra ở người lớn và trẻ em, nhưng trẻ em mắc nhiều hơn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau tai, nghe kém và chảy dịch tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa ứ mủ",
+        "Viêm tai ngoài",
+        "Viêm tai giữa cấp tính"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ù tai, sốt và đau đầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tai giữa ứ mủ", "Viêm xoang", "Cảm cúm"]
+    },
+    {
+      "question": "Tôi hay bị đau tai, chảy mủ tai và có mùi hôi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa ứ mủ",
+        "Viêm tai giữa mạn tính",
+        "Viêm tai ngoài"
+      ]
+    },
+    {
+      "question": "Con tôi bị sốt, quấy khóc, bỏ bú và đau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa ứ mủ",
+        "Viêm tai giữa cấp tính",
+        "Nhiễm trùng đường hô hấp trên"
+      ]
+    },
+    {
+      "question": "Tôi bị đau tai, chảy dịch tai và có tiền sử viêm VA. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa ứ mủ",
+        "Viêm tai giữa cấp tính",
+        "Viêm tai giữa thanh dịch"
+      ]
     }
   ]
 }

@@ -1,58 +1,156 @@
 {
   "disease_id": "vo-sinh-hiem-muon",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Vô sinh hiếm muộn",
+  "disease_alternative_names": ["Hiếm muộn", "Vô sinh", "Không thể có con"],
+  "disease_definition": "Vô sinh hiếm muộn theo định nghĩa của Tổ chức Y tế thế giới (WHO) là tình trạng một cặp vợ chồng chung sống, có quan hệ tình dục thường xuyên không sử dụng biện pháp tránh thai nào nhưng sau 1 năm (với người vợ dưới 35 tuổi) và sau 6 tháng (với người vợ trên 35 tuổi) mà vẫn chưa có thai một cách tự nhiên.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có thai sau thời gian dài",
+      "description": "Cặp vợ chồng không có thai sau 1 năm quan hệ tình dục thường xuyên không sử dụng biện pháp tránh thai (với vợ dưới 35 tuổi) hoặc sau 6 tháng (với vợ trên 35 tuổi)"
+    },
+    {
+      "name": "Triệu chứng ở nam giới",
+      "description": "Giảm ham muốn tình dục, rối loạn cương, giảm hiện tượng dạ cương; tinh hoàn sưng đau, xuất hiện cục hay búi ở tinh hoàn; tinh hoàn teo hoặc nhỏ lại; đạt cực khoái nhưng không xuất tinh"
+    },
+    {
+      "name": "Triệu chứng ở nữ giới",
+      "description": "Kinh nguyệt bất thường về lượng kinh nguyệt và độ dài của chu kỳ (quá ít, quá nhiều, quá dài hoặc quá ngắn); giảm ham muốn tình dục; vô kinh; thay đổi về cân nặng như tăng, sụt cân mất kiểm soát; thay đổi về nội tiết tố, da nổi mụn, rụng tóc; đau vùng bụng dưới; khí hư ra nhiều, có màu và mùi bất thường"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "40% nguyên nhân vô sinh hiếm muộn đến từ nam giới, 40% đến từ nữ giới và 20% còn lại đến từ cả hai phía hoặc không rõ nguyên nhân.",
+    "related_factors": "Nguyên nhân ở nam giới bao gồm bất thường về tinh trùng, các bệnh lý ảnh hưởng đến sức khỏe sinh sản, tiền sử phẫu thuật và môi trường làm việc. Nguyên nhân ở nữ giới bao gồm các bệnh lý ở tử cung, suy buồng trứng sớm, bất thường ở vòi tử cung, viêm vùng chậu và tăng prolactin máu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam giới: giãn tĩnh mạch thừng tinh, teo tinh hoàn, tinh hoàn ẩn, có u bướu, viêm đường tiết niệu, ung thư",
+    "Nam giới: xuất tinh ngược dòng, bệnh celiac, có kháng thể kháng tinh trùng",
+    "Nam giới: phẫu thuật thắt ống dẫn tinh hoặc phẫu thuật ở vùng bẹn bìu",
+    "Nam giới: làm việc ở môi trường tiếp xúc với hóa chất, chất phóng xạ, điện từ, nhiệt độ cao",
+    "Nam giới: hút thuốc, uống rượu bia, sử dụng các chất kích thích, chất cấm và đồ ăn nhanh",
+    "Nữ giới: viêm nội mạc tử cung mãn tính, tử cung có vách ngăn, có lạc nội mạc, u xơ tử cung",
+    "Nữ giới: polyp tử cung, tử cung dị dạng, niêm mạc tử cung mỏng, suy buồng trứng sớm",
+    "Nữ giới: bất thường ở vòi tử cung như ứ dịch, viêm, chít hẹp, từng làm phẫu thuật cắt 2 vòi tử cung",
+    "Nữ giới: viêm vùng chậu, nhiễm nấm chlamydia, mắc các bệnh lây truyền qua đường tình dục",
+    "Nữ giới: có tình trạng tăng prolactin máu"
+  ],
+  "complications": [
+    "Ảnh hưởng tâm lý: căng thẳng, trầm cảm, lo âu",
+    "Ảnh hưởng đến mối quan hệ vợ chồng",
+    "Áp lực xã hội và gia đình",
+    "Gánh nặng tài chính do điều trị",
+    "Ảnh hưởng đến xu hướng dân số"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Phân tích huyết thanh học",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm ở nam giới",
+        "description": "Xét nghiệm tinh dịch đồ, xét nghiệm miễn dịch, xét nghiệm nội tiết, xét nghiệm nước tiểu sau xuất tinh, xét nghiệm di truyền, xét nghiệm kiểm tra đứt gãy DNA tinh trùng, siêu âm tinh hoàn và siêu âm bụng."
+      },
+      {
+        "name": "Xét nghiệm ở nữ giới",
+        "description": "Xét nghiệm kiểm tra AMH, xét nghiệm miễn dịch, xét nghiệm Chlamydia, xét nghiệm tuyến giáp, xét nghiệm nội tiết FSH, LH, prolactin, P4, E2, xét nghiệm sàng lọc ung thư vú, ung thư cổ tử cung."
+      },
+      {
+        "name": "Siêu âm và khảo sát ở nữ giới",
+        "description": "Siêu âm phụ khoa, siêu âm đếm nang thứ cấp, siêu âm theo dõi sự phát triển của nang noãn, siêu âm bơm nước buồng tử cung, chụp x-quang tử cung vòi trứng, nội soi buồng tử cung chẩn đoán."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Tùy theo nguyên nhân gây vô sinh sẽ có những phương pháp điều trị khác nhau cho nam và nữ.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị ở nam giới",
+        "description": "Phẫu thuật cho trường hợp giãn tĩnh mạch thừng tinh, nối tái tạo ống dẫn tinh, vô tinh do bế tắc; điều trị bệnh lý ảnh hưởng đến khả năng tình dục; sử dụng thuốc và hormone kích thích hoạt động của tinh hoàn; điều trị nhiễm trùng; kỹ thuật hỗ trợ sinh sản như IUI, IVF, ICSI; trữ lạnh tinh trùng."
+      },
+      {
+        "name": "Điều trị ở nữ giới",
+        "description": "Phẫu thuật cho trường hợp có bất thường ở tử cung như polyp, u xơ, u nang, tử cung dính, có vách ngăn, tắc vòi trứng; dùng thuốc kích thích rụng trứng; kỹ thuật hỗ trợ sinh sản như IUI, IVF, ICSI, IVM; trữ lạnh trứng, sử dụng trứng hiến tặng hoặc mang thai hộ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ phác đồ điều trị của bác sĩ",
+      "Kiểm soát cân nặng và chế độ dinh dưỡng hợp lý",
+      "Quản lý căng thẳng và duy trì tinh thần thoải mái",
+      "Hạn chế rượu bia, thuốc lá và các chất kích thích",
+      "Chăm sóc sức khỏe tổng thể"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện không có vaccine phòng ngừa vô sinh hiếm muộn",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện lối sống lành mạnh, không thuốc lá, hạn chế rượu bia, không sử dụng các chất kích thích, chất cấm",
+      "Luyện tập thể dục thể thao như một thói quen để nâng cao sức khỏe",
+      "Duy trì cân nặng hợp lý, chế độ ăn đầy đủ dinh dưỡng",
+      "Ăn nhiều rau, củ, trái cây, bổ sung protein, đạm, hạn chế đồ chế biến sẵn, thực phẩm chiên, rán và chứa nhiều chất phụ gia",
+      "Quan hệ tình dục lành mạnh, chế độ một vợ một chồng",
+      "Không lạm dụng việc nạo phá thai",
+      "Đi khám vô sinh ngay khi gặp những vấn đề cảnh báo sức khỏe sinh sản"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Vô sinh hiếm muộn có chữa được không?",
+      "answer": "Vô sinh hiếm muộn có thể điều trị được trong nhiều trường hợp. Tùy theo nguyên nhân gây vô sinh, các bác sĩ sẽ có phương pháp điều trị phù hợp như điều trị nội khoa, phẫu thuật hoặc các kỹ thuật hỗ trợ sinh sản hiện đại (IUI, IVF, ICSI...). Việc tuân thủ phác đồ điều trị và phối hợp chặt chẽ với bác sĩ sẽ nâng cao tỷ lệ thành công."
+    },
+    {
+      "question": "Có bao nhiêu nguyên nhân gây vô sinh hiếm muộn?",
+      "answer": "Vô sinh hiếm muộn có nhiều nguyên nhân khác nhau: 40% nguyên nhân đến từ nam giới, 40% đến từ nữ giới và 20% còn lại đến từ cả hai phía hoặc không rõ nguyên nhân. Nguyên nhân ở nam giới có thể là bất thường về tinh trùng, giãn tĩnh mạch thừng tinh, teo tinh hoàn, tinh hoàn ẩn, các bệnh lý, tiền sử phẫu thuật hoặc môi trường làm việc. Ở nữ giới, nguyên nhân có thể là các bệnh lý ở tử cung, suy buồng trứng sớm, bất thường ở vòi tử cung, viêm vùng chậu, v.v."
+    },
+    {
+      "question": "Khi nào cần đi khám vô sinh hiếm muộn?",
+      "answer": "Theo WHO, cặp vợ chồng nên đi khám hiếm muộn khi quan hệ tình dục thường xuyên không sử dụng biện pháp tránh thai nhưng sau 1 năm (với người vợ dưới 35 tuổi) hoặc sau 6 tháng (với người vợ trên 35 tuổi) mà vẫn chưa có thai. Ngoài ra, nếu bạn gặp các vấn đề về sức khỏe sinh sản như kinh nguyệt bất thường, đau vùng bụng dưới, rối loạn cương dương, đau tinh hoàn thì nên đi khám sớm hơn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như không có thai sau 1 năm quan hệ tình dục thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh hiếm muộn",
+        "Vô sinh nguyên phát",
+        "Vô sinh thứ phát"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy giảm ham muốn tình dục và rối loạn cương dương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh hiếm muộn ở nam giới",
+        "Rối loạn nội tiết nam",
+        "Suy giảm testosterone"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tinh hoàn sưng đau, xuất hiện cục hay búi ở tinh hoàn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh hiếm muộn",
+        "Giãn tĩnh mạch thừng tinh",
+        "Viêm tinh hoàn",
+        "U tinh hoàn"
+      ]
+    },
+    {
+      "question": "Tôi bị giãn tĩnh mạch thừng tinh và không có con. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh hiếm muộn ở nam giới",
+        "Giãn tĩnh mạch thừng tinh"
+      ]
+    },
+    {
+      "question": "Tôi từng phẫu thuật thắt ống dẫn tinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Vô sinh hiếm muộn do nam giới",
+        "Tắc nghẽn ống dẫn tinh"
+      ]
     }
   ]
 }

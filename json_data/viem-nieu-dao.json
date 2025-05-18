@@ -1,58 +1,183 @@
 {
   "disease_id": "viem-nieu-dao",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm niệu đạo",
+  "disease_alternative_names": ["Urethritis"],
+  "disease_definition": "Viêm niệu đạo là tình trạng viêm cấp tính hay mạn tính của niệu đạo. Tiết dịch niệu đạo và đau khi tiểu tiện là dấu hiệu điển hình của bệnh lý này. Viêm niệu đạo thường do vi khuẩn gây ra, có thể chữa khỏi bằng thuốc kháng sinh.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Tiểu nhiều lần",
+      "description": "Tiểu nhiều lần trong ngày, lượng nước tiểu thường không nhiều"
+    },
+    {
+      "name": "Đau buốt khi tiểu",
+      "description": "Cảm giác buốt rát ở dọc niệu đạo khi đi tiểu"
+    },
+    {
+      "name": "Tiểu ra máu hoặc mủ",
+      "description": "Nước tiểu có lẫn mủ hoặc máu tươi"
+    },
+    {
+      "name": "Lỗ tiểu sưng đỏ",
+      "description": "Lỗ tiểu bị sưng đỏ, có cảm giác ngứa"
+    },
+    {
+      "name": "Tiết dịch niệu đạo",
+      "description": "Tiết dịch nhầy màu trắng, xanh hay vàng xanh, thường xuất hiện nhiều vào buổi sáng sớm"
+    },
+    {
+      "name": "Đau nhức bộ phận sinh dục",
+      "description": "Cảm thấy đau khi giao hợp, đau vùng bụng dưới"
+    },
+    {
+      "name": "Triệu chứng toàn thân",
+      "description": "Sốt, buồn nôn, nổi hạch vùng bẹn, sưng khớp"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Phần lớn nguyên nhân gây viêm niệu đạo là do vi khuẩn xâm nhập vào niệu đạo từ bên ngoài, vùng da xung quanh lỗ tiểu ở phía đầu âm đạo hoặc dương vật.",
+    "related_factors": "Ngoài các vi khuẩn lây qua đường tình dục, viêm niệu đạo cũng có thể do chấn thương niệu đạo, các thủ thuật qua đường tiểu, hoặc sỏi và dị vật trong niệu đạo.",
+    "transmission_routes": [
+      "Quan hệ tình dục không an toàn với người nhiễm bệnh"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nam giới trẻ tuổi có hoạt động tình dục",
+    "Quan hệ tình dục không sử dụng bao cao su",
+    "Có nhiều bạn tình",
+    "Từng có tiền sử mắc các bệnh lây qua đường tình dục",
+    "Thực hiện các thủ thuật qua đường tiểu như đặt thông tiểu, nội soi bàng quang"
+  ],
+  "complications": [
+    "Hẹp niệu đạo",
+    "Nhiễm khuẩn lan đến bàng quang và thận",
+    "Viêm tuyến tiền liệt (ở nam)",
+    "Viêm tinh hoàn và mào tinh hoàn (ở nam)",
+    "Viêm vùng chậu (ở nữ)",
+    "Vô sinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá các triệu chứng lâm sàng",
+      "Khám lâm sàng kiểm tra niệu đạo và các cơ quan liên quan"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm dịch niệu đạo",
+        "description": "Soi tươi, nhuộm gram hoặc PCR dịch niệu đạo để tìm vi khuẩn gây bệnh"
+      },
+      {
+        "name": "Kiểm tra các bệnh lây qua đường tình dục khác",
+        "description": "Kiểm tra các tác nhân gây bệnh lây qua đường tình dục như giang mai, viêm gan siêu vi B, C và HIV"
+      },
+      {
+        "name": "Khám tuyến tiền liệt",
+        "description": "Kiểm tra tuyến tiền liệt, tinh hoàn, mào tinh hoàn, thừng tinh, các hạch bẹn"
+      },
+      {
+        "name": "Tìm tổn thương trên da",
+        "description": "Tìm những tổn thương viêm, loét trên da để kiểm tra những bệnh lây lan qua đường tình dục khác như HPV, herpes simplex, giang mai"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm niệu đạo cấp do vi khuẩn sẽ nhanh chóng khỏi bệnh với liệu trình điều trị kháng sinh phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị kháng sinh",
+        "description": "Sử dụng kháng sinh phù hợp theo chỉ định của bác sĩ để điều trị viêm niệu đạo do vi khuẩn"
+      },
+      {
+        "name": "Điều trị các yếu tố nguy cơ",
+        "description": "Phát hiện và điều trị các yếu tố nguy cơ gây bệnh để tránh bệnh tái phát"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Nếu có hẹp bao quy đầu hay dài bao quy đầu, cắt da bao đầu có thể giúp ngăn chặn tình trạng viêm nhiễm lây lan"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Hoàn thành đầy đủ liệu trình điều trị kháng sinh theo chỉ định của bác sĩ",
+      "Tránh quan hệ tình dục trong thời gian điều trị",
+      "Thông báo cho bạn tình về tình trạng nhiễm bệnh để họ cũng được xét nghiệm và điều trị nếu cần",
+      "Tái khám theo lịch hẹn của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Không quan hệ tình dục trong thời gian điều trị",
+      "Sử dụng bao cao su khi quan hệ tình dục sau khi đã điều trị khỏi bệnh",
+      "Thông báo cho các bạn tình gần đây để họ có thể được xét nghiệm và điều trị"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine phòng ngừa viêm niệu đạo",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh quan hệ với nhiều người",
+      "Thường xuyên sử dụng bao cao su mỗi khi giao hợp",
+      "Thông báo ngay cho đối phương nếu phát hiện ra mình bị mắc các bệnh lây lan qua đường tình dục",
+      "Ăn uống đủ dưỡng chất để tăng sức đề kháng",
+      "Bổ sung khoảng 2-2,5 lít nước mỗi ngày",
+      "Tránh nhịn tiểu quá nhiều và quá lâu",
+      "Mặc quần áo rộng rãi, thoải mái, thoáng mát",
+      "Thăm khám sức khỏe định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm niệu đạo có nghiêm trọng không?",
+      "answer": "Viêm niệu đạo do vi khuẩn thường có thể điều trị khỏi bằng thuốc. Tuy nhiên, khi bệnh không được điều trị kịp thời và đúng cách, người bệnh có thể đối mặt với các biến chứng nghiêm trọng như hẹp niệu đạo, nhiễm khuẩn lan đến bàng quang và thận, viêm tinh hoàn mào tinh có thể dẫn đến vô sinh."
+    },
+    {
+      "question": "Viêm niệu đạo có lây không?",
+      "answer": "Nhiều vi khuẩn gây viêm niệu đạo có khả năng truyền từ người bệnh sang người khác thông qua quan hệ tình dục. Vì thế, thực hiện các biện pháp quan hệ tình dục an toàn như sử dụng bao cao su là cách phòng bệnh hiệu quả."
+    },
+    {
+      "question": "Viêm niệu đạo có thể tự khỏi không?",
+      "answer": "Viêm niệu đạo do vi khuẩn cần được điều trị bằng kháng sinh và thường không thể tự khỏi. Nếu không được điều trị đúng cách, bệnh có thể dẫn đến các biến chứng nghiêm trọng và lan rộng đến các cơ quan khác trong hệ tiết niệu và sinh dục."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm niệu đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niệu đạo",
+        "Viêm bàng quang",
+        "Nhiễm trùng đường tiết niệu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm cấp tính hay mạn tính của niệu đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niệu đạo",
+        "Viêm niệu đạo do lậu cầu",
+        "Viêm niệu đạo không do lậu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiết dịch niệu đạo và đau khi tiểu tiện. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niệu đạo",
+        "Nhiễm khuẩn lậu",
+        "Nhiễm Chlamydia"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tiểu nhiều lần trong ngày, lượng nước tiểu thường không nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niệu đạo",
+        "Viêm bàng quang",
+        "Viêm tuyến tiền liệt"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm niệu đạo do vi khuẩn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niệu đạo",
+        "Nhiễm khuẩn lậu",
+        "Nhiễm Chlamydia",
+        "Nhiễm E. coli"
+      ]
     }
   ]
 }

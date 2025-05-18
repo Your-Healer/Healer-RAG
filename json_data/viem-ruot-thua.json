@@ -1,58 +1,179 @@
 {
   "disease_id": "viem-ruot-thua",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm ruột thừa",
+  "disease_alternative_names": [
+    "Viêm ruột thừa cấp",
+    "Viêm ruột thừa mãn tính",
+    "Appendicitis"
+  ],
+  "disease_definition": "Viêm ruột thừa là tình trạng ruột thừa bị viêm do một số nguyên nhân điển hình, chẳng hạn như: sự xâm nhập của vi sinh vật, khối u, tắc nghẽn chất thải. Ruột thừa là một ống mỏng nối với ruột già, nằm ở phần dưới bên phải bụng. Viêm ruột thừa có thể xảy ra ở mọi đối tượng, trong đó phổ biến nhất là những người trong độ tuổi từ 10 – 30 tuổi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng quanh rốn",
+      "description": "Cơn đau ban đầu xuất hiện xung quanh rốn và sau vài giờ lan dần ra vùng hạ sườn phải"
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn mửa thường xuất hiện sau cơn đau"
+    },
+    {
+      "name": "Sốt",
+      "description": "Sốt nhẹ có thể xuất hiện khi tình trạng viêm trở nên nghiêm trọng"
+    },
+    {
+      "name": "Đau điểm McBurney",
+      "description": "Đau tại điểm McBurney (điểm nằm 1/3 đường từ gai chậu trước trên đến rốn) khi ho hoặc ấn nhẹ"
+    },
+    {
+      "name": "Căng cứng vùng bụng",
+      "description": "Người bệnh có xu hướng gồng cơ bụng khi có áp lực tác động lên vùng ruột thừa bị viêm"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm ruột thừa xảy ra khi ruột thừa bị tắc nghẽn, thường do phân cứng, khối u, hoặc sự xâm nhập của vi sinh vật gây viêm nhiễm.",
+    "related_factors": "Quá trình viêm và sưng tấy sẽ làm gián đoạn lưu lượng máu đến ruột thừa, khiến cơ quan này dần chết đi và có nguy cơ vỡ hoặc thủng, gây biến chứng nguy hiểm.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Độ tuổi từ 10-30",
+    "Tiền sử gia đình có người bị viêm ruột thừa",
+    "Chế độ ăn ít chất xơ",
+    "Nam giới có nguy cơ cao hơn nữ giới"
+  ],
+  "complications": [
+    "Vỡ ruột thừa dẫn đến viêm phúc mạc",
+    "Áp xe ruột thừa (túi mủ hình thành trong bụng)",
+    "Nhiễm trùng lây lan khắp ổ bụng",
+    "Tử vong (nếu không được điều trị kịp thời)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám sức khỏe để đánh giá cơn đau",
+      "Kiểm tra độ cứng của bụng",
+      "Kiểm tra trực tràng dưới",
+      "Khám vùng chậu cho phụ nữ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra số lượng bạch cầu để phát hiện nhiễm trùng (nếu có)"
+      },
+      {
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Loại trừ nguyên nhân gây đau do nhiễm trùng đường tiết niệu hoặc sỏi thận"
+      },
+      {
+        "name": "Siêu âm bụng",
+        "description": "Kiểm tra hình ảnh ruột thừa và mức độ viêm"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Xác định chính xác tình trạng viêm ruột thừa hoặc phát hiện các nguyên nhân gây đau khác"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Được sử dụng trong một số trường hợp đặc biệt, đặc biệt cho phụ nữ mang thai"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm ruột thừa là tình trạng khẩn cấp, cần được điều trị kịp thời để tránh nhiễm trùng lan rộng, gây đe dọa đến tính mạng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật mổ hở",
+        "description": "Thực hiện với vết rạch trên bụng dài khoảng 5-10cm để cắt bỏ ruột thừa viêm"
+      },
+      {
+        "name": "Phẫu thuật nội soi",
+        "description": "Thực hiện với vết rạch nhỏ hơn, thời gian hồi phục nhanh, ít đau và để lại ít sẹo hơn, thích hợp cho người cao tuổi và béo phì"
+      },
+      {
+        "name": "Dẫn lưu áp xe",
+        "description": "Nếu ruột thừa bị vỡ và đã hình thành áp xe, bác sĩ sẽ đặt ống dẫn lưu trước khi phẫu thuật cắt bỏ ruột thừa"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Nghỉ ngơi 3-5 ngày sau mổ nội soi và 10-14 ngày sau mổ hở",
+      "Đặt gối lên bụng và ấn nhẹ trước khi ho, cười hoặc di chuyển để giảm đau",
+      "Liên hệ bác sĩ nếu thuốc giảm đau không hiệu quả",
+      "Bắt đầu hoạt động nhẹ nhàng như đi bộ ngắn sau thời gian nghỉ ngơi",
+      "Tái khám theo lịch hẹn"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện tại không có vaccine phòng ngừa viêm ruột thừa",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Duy trì chế độ ăn giàu chất xơ (hoa quả, rau, các loại đậu, bột yến mạch, gạo lứt, lúa mì nguyên hạt)",
+      "Uống đủ nước mỗi ngày",
+      "Duy trì lối sống lành mạnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh viêm ruột thừa có nguy hiểm không?",
+      "answer": "Nếu tình trạng viêm không được điều trị, ruột thừa sẽ vỡ ra, từ đó lây lan vi khuẩn có hại vào khoang bụng, kể cả phần trung tâm có chứa gan, dạ dày và ruột. Điều này dẫn đến viêm phúc mạc, thậm chí gây tử vong. Tuy nhiên, bệnh có thể được kiểm soát tốt nếu điều trị nhanh chóng bằng thuốc kháng sinh liều mạnh và phẫu thuật."
+    },
+    {
+      "question": "Chăm sóc người bệnh sau mổ ruột thừa như thế nào?",
+      "answer": "Phẫu thuật ruột thừa bằng phương pháp nội soi thường có thời gian hồi phục nhanh chóng. Người bệnh có thể xuất viện chỉ sau vài ngày thực hiện, thậm chí là trong vòng 24 giờ. Với mổ hở, thời gian có thể kéo dài đến một tuần. Trong vài ngày đầu sau cuộc phẫu thuật, người bệnh sẽ cảm thấy đau và xuất hiện dấu hiệu bầm tím. Tình trạng này sẽ cải thiện theo thời gian nhưng cũng có thể dùng thuốc giảm đau nếu cần thiết. Người bệnh cũng có thể bị táo bón trong một thời gian ngắn sau mổ."
+    },
+    {
+      "question": "Thời gian ủ bệnh viêm ruột thừa là bao lâu?",
+      "answer": "Đối với viêm ruột thừa cấp, đây là trường hợp viêm nghiêm trọng, thường xảy ra đột ngột, phổ biến nhất trong giai đoạn từ 10-30 tuổi, đặc biệt là nam giới. Cơn đau có xu hướng tiến triển trầm trọng trong vòng 24 giờ. Đối với viêm ruột thừa mãn tính, các triệu chứng có thể tương đối nhẹ, thường xảy ra sau một trường hợp viêm cấp tính. Dấu hiệu đau đớn có xu hướng biến mất trước khi xuất hiện trở lại trong khoảng thời gian vài tuần, vài tháng hoặc thậm chí là vài năm."
+    },
+    {
+      "question": "Viêm ruột thừa có tự khỏi không?",
+      "answer": "Viêm ruột thừa không thể tự khỏi mà buộc phải phẫu thuật cắt bỏ càng sớm càng tốt để tránh biến chứng nguy hiểm. Phương pháp này cũng thường được khuyến nghị khi tình trạng viêm không thể chẩn đoán rõ ràng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang bị đau bụng quanh rốn và lan dần xuống hố chậu phải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm ruột thừa",
+        "Viêm ruột thừa cấp",
+        "Viêm tắc ruột"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau bụng, buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm ruột thừa",
+        "Viêm dạ dày",
+        "Ngộ độc thực phẩm",
+        "Viêm túi mật"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, sốt và táo bón hoặc tiêu chảy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm ruột thừa",
+        "Viêm ruột",
+        "Hội chứng ruột kích thích",
+        "Viêm đại tràng"
+      ]
+    },
+    {
+      "question": "Tôi cảm thấy đau bụng, buồn nôn, nôn, sốt và co cứng cơ bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm ruột thừa",
+        "Viêm phúc mạc",
+        "Tắc ruột",
+        "Viêm tụy cấp"
+      ]
+    },
+    {
+      "question": "Tôi đang bị đau bụng dữ dội, sốt cao, bụng chướng và khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm ruột thừa biến chứng",
+        "Viêm phúc mạc",
+        "Vỡ ruột thừa",
+        "Áp xe ổ bụng"
+      ]
     }
   ]
 }

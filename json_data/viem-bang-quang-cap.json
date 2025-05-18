@@ -1,58 +1,221 @@
 {
   "disease_id": "viem-bang-quang-cap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bàng quang cấp",
+  "disease_alternative_names": [
+    "Viêm bàng quang cấp tính",
+    "Nhiễm trùng đường tiết niệu dưới"
+  ],
+  "disease_definition": "Viêm bàng quang cấp là tình trạng bàng quang bị tổn thương, viêm sưng do nhiễm trùng đường tiết niệu. Bệnh đa số ở nữ gây ra triệu chứng đau và khó chịu khi đi tiểu. Bệnh tương đối lành tính và dễ điều trị cho đến khi nhiễm trùng lan lên thận.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau vùng bụng dưới",
+      "description": "Cảm giác đau hoặc khó chịu ở vùng bụng dưới, nơi bàng quang bị viêm sưng."
+    },
+    {
+      "name": "Tiểu buốt",
+      "description": "Cảm giác đau rát, khó chịu khi đi tiểu, người bệnh thường cảm thấy rát và đau khi bắt đầu và kết thúc quá trình đi tiểu."
+    },
+    {
+      "name": "Cảm giác muốn đi tiểu liên tục",
+      "description": "Người bệnh có cảm giác muốn đi tiểu thường xuyên, ngay cả khi bàng quang không đầy."
+    },
+    {
+      "name": "Nóng rát khi đi tiểu",
+      "description": "Cảm giác bỏng rát, khó chịu trong quá trình đi tiểu do niêm mạc bàng quang bị viêm nhiễm."
+    },
+    {
+      "name": "Nước tiểu bất thường",
+      "description": "Nước tiểu có thể có mùi hôi, màu đục hoặc có máu do quá trình viêm nhiễm và sự xuất hiện của vi khuẩn hoặc bạch cầu trong nước tiểu."
+    },
+    {
+      "name": "Sốt, ớn lạnh",
+      "description": "Trong một số trường hợp, người bệnh có thể bị sốt nhẹ và ớn lạnh, đặc biệt nếu nhiễm trùng đã lan rộng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Đa số những trường hợp viêm bàng quang cấp là do nhiễm khuẩn. Vi khuẩn Escherichia coli chiếm 80% trường hợp viêm bàng quang cấp tính do nhiễm khuẩn.",
+    "related_factors": "Ngoài nhiễm khuẩn, viêm bàng quang cấp còn có thể do một số bệnh lý hoặc việc xạ trị khiến cho cơ thể suy giảm khả năng miễn dịch, mất cơ chế bảo vệ niêm mạc bàng quang hoặc ảnh hưởng đến cơ chế dòng chảy nước tiểu.",
+    "transmission_routes": [
+      "Quan hệ tình dục không an toàn",
+      "Vệ sinh không đúng cách"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Quan hệ tình dục không sử dụng biện pháp an toàn",
+    "Sử dụng gel hoặc kem diệt tinh trùng",
+    "Phụ nữ có đặt vòng tránh thai",
+    "Người đặt ống thông tiểu",
+    "Người đã từng bị viêm bàng quang",
+    "Phụ nữ trong thời gian có thai",
+    "Phụ nữ khi thay đổi nội tiết tố, đặc biệt là do mang thai hoặc mãn kinh",
+    "Người bị đái tháo đường",
+    "Thực hiện xạ trị",
+    "Phì đại tuyến tiền liệt hoặc u tuyến tiền liệt ở nam giới",
+    "Hẹp niệu đạo hoặc bao quy đầu",
+    "Tình trạng sỏi, u bàng quang",
+    "Sử dụng thuốc tránh thai không đúng cách",
+    "Vệ sinh vùng kín không đúng cách"
+  ],
+  "complications": [
+    "Nhiễm trùng lan đến thận (viêm thận-bể thận) với những triệu chứng sốt cao, đau hông lưng 1 hoặc 2 bên",
+    "Nhiễm trùng tái phát, mãn tính",
+    "Đau khi quan hệ tình dục",
+    "Tiểu máu",
+    "Suy thận nếu không được điều trị kịp thời"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Hỏi bệnh sử và triệu chứng",
+      "Xét nghiệm nước tiểu",
+      "Cấy nước tiểu",
+      "Nội soi bàng quang",
+      "Siêu âm bàng quang"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Xem xét bạch cầu, hồng cầu và vi khuẩn niệu trong nước tiểu. Thường trong nước tiểu sẽ có bạch cầu. Nếu lượng vi khuẩn đủ lớn sẽ có phản ứng nitrit dương tính."
+      },
+      {
+        "name": "Cấy nước tiểu",
+        "description": "Phương pháp này yêu cầu lấy mẫu nước tiểu sạch, sử dụng nước tiểu đoạn giữa. Giúp xem xét loại vi khuẩn có trong nước tiểu và xác định loại kháng sinh phù hợp."
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Bác sĩ dùng máy nội soi đưa vào theo đường ngã niệu đạo để quan sát hình ảnh của bàng quang, bao gồm sự viêm nhiễm hiện tại."
+      },
+      {
+        "name": "Siêu âm bàng quang",
+        "description": "Giúp quan sát tình trạng ứ nước ở đường tiết niệu, dò tìm các khối u, bề mặt và thành bàng quang. Siêu âm sẽ thấy hình ảnh vách bàng quang dày lên do viêm."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Đa số các trường hợp viêm bàng quang cấp đều có thể điều trị đơn giản bằng cách uống thuốc kháng sinh trong thời gian ngắn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng kháng sinh",
+        "description": "Kháng sinh là thuốc đầu tay trong điều trị viêm bàng quang. Một số loại kháng sinh có nồng độ cao trong nước tiểu phù hợp bao gồm: Amoxicillin, Ciprofloxacin, Nitrofurantoin, Sulfamethoxazole, Trimethoprim."
+      },
+      {
+        "name": "Thuốc kháng viêm",
+        "description": "Thuốc thứ hai được lựa chọn là kháng viêm giúp làm giảm triệu chứng đau cho bệnh nhân."
+      },
+      {
+        "name": "Uống nhiều nước",
+        "description": "Bên cạnh việc dùng thuốc, cần điều chỉnh thói quen bằng cách uống nhiều nước và đi tiểu đều đặn để hỗ trợ cơ thể tự chữa lành bàng quang."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Uống đủ nước, ít nhất 2 lít mỗi ngày",
+      "Đi tiểu thường xuyên, không nhịn tiểu",
+      "Sau khi đi vệ sinh, lau từ trước ra sau (từ niệu đạo ra hậu môn) để ngăn vi khuẩn từ hậu môn vào đường tiết niệu",
+      "Không sử dụng các sản phẩm vệ sinh phụ nữ không rõ nguồn gốc",
+      "Uống thuốc đúng liều lượng và đủ thời gian điều trị theo chỉ định của bác sĩ"
+    ],
+    "prevention_of_transmission": [
+      "Không quan hệ tình dục trong thời gian điều trị",
+      "Sử dụng bao cao su khi quan hệ tình dục"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Uống nhiều nước",
+      "Sử dụng biện pháp an toàn khi quan hệ tình dục",
+      "Giữ thói quen đi tiểu khoảng 3h một lần",
+      "Hạn chế sử dụng thuốc diệt tinh trùng và đặt vòng tránh thai hoặc sử dụng dưới sự chỉ định và giám sát của bác sĩ",
+      "Giữ gìn vệ sinh sạch sẽ",
+      "Đi tiểu ngay sau khi quan hệ tình dục",
+      "Không sử dụng các chất tẩy rửa mạnh, xà phòng thơm hoặc các sản phẩm gây kích ứng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bàng quang cấp có nguy hiểm không?",
+      "answer": "Viêm bàng quang cấp được xác nhận là một bệnh tương đối lành tính. Hầu hết các trường hợp đều có thể điều trị đơn giản bằng cách uống thuốc kháng sinh trong thời gian ngắn. Bệnh chỉ trở nặng khi nhiễm trùng lan đến thận với những triệu chứng sốt cao, đau hông lưng 1 hoặc 2 bên, khám có dấu rung thận. Đa số cần nhập viện điều trị."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm bàng quang cấp?",
+      "answer": "Để phòng ngừa viêm bàng quang cấp, bạn nên: Uống nhiều nước, sử dụng biện pháp an toàn khi quan hệ tình dục, giữ thói quen đi tiểu khoảng 3h một lần, hạn chế sử dụng thuốc diệt tinh trùng và đặt vòng tránh thai, giữ gìn vệ sinh sạch sẽ, đi tiểu ngay sau khi quan hệ tình dục."
+    },
+    {
+      "question": "Viêm bàng quang cấp chữa trong bao lâu?",
+      "answer": "Viêm bàng quang cấp là một bệnh đơn giản với thời gian điều trị và hồi phục nhanh chóng. Đa số các trường hợp sẽ hết triệu chứng sau 2-3 ngày điều trị với kháng sinh phù hợp, nhưng nên uống hết liệu trình kháng sinh (thường 3-7 ngày) theo chỉ định của bác sĩ để ngăn ngừa tái phát."
+    },
+    {
+      "question": "Có cần xét nghiệm máu để chẩn đoán viêm bàng quang cấp không?",
+      "answer": "Viêm bàng quang cấp không ảnh hưởng đến máu và các chỉ số, vì vậy việc xét nghiệm máu để chẩn đoán viêm bàng quang cấp là không cần thiết. Các phương pháp chẩn đoán chính bao gồm xét nghiệm nước tiểu, cấy nước tiểu, và trong một số trường hợp có thể cần nội soi hoặc siêu âm bàng quang."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau và khó chịu khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-cap",
+        "viem-nieu-dao",
+        "viem-than-be-than"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nóng rát khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-cap",
+        "viem-nieu-dao",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vùng bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-cap",
+        "viem-phu-khoa",
+        "viem-ruot-thua"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu nhiều lần trong ngày hơn so với bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-cap",
+        "dai-thao-duong",
+        "tang-san-tuyen-tien-liet"
+      ]
+    },
+    {
+      "question": "Tôi bị tiểu máu, nước tiểu đục hay có mùi hôi nồng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-cap",
+        "soi-duong-tiet-nieu",
+        "ung-thu-bang-quang"
+      ]
+    },
+    {
+      "question": "Tôi luôn có cảm giác phải đi tiểu gấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-cap",
+        "bang-quang-tang-hoat",
+        "u-xa-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi bị sốt nhẹ và đau trằn bụng dưới. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-cap",
+        "viem-than-be-than",
+        "viem-phu-khoa"
+      ]
+    },
+    {
+      "question": "Tôi xét nghiệm nước tiểu và phát hiện có vi khuẩn Escherichia coli. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-cap",
+        "nhiem-trung-duong-tiet-nieu",
+        "viem-than-be-than"
+      ]
     }
   ]
 }

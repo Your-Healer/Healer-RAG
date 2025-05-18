@@ -1,58 +1,199 @@
 {
   "disease_id": "viem-niem-mac-da-day",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm niêm mạc dạ dày",
+  "disease_alternative_names": ["Viêm bao tử", "Gastritis"],
+  "disease_definition": "Viêm niêm mạc dạ dày là tình trạng viêm, kích ứng, ăn mòn niêm mạc dạ dày (bao tử) xuất hiện do lớp bảo vệ (niêm mạc) bị tổn thương và suy yếu. Nguyên nhân chủ yếu là do nhiễm vi khuẩn gây bệnh, lạm dụng thuốc giảm đau hoặc một vài yếu tố liên quan khác.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng tái phát",
+      "description": "Cơn đau bụng xuất hiện nhiều lần, thường ở vùng thượng vị"
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác khó chịu, muốn nôn"
+    },
+    {
+      "name": "Nôn ra máu",
+      "description": "Nôn ra máu hoặc chất có màu giống cà phê"
+    },
+    {
+      "name": "Cảm giác nóng rát",
+      "description": "Xuất hiện cảm giác nóng rát, cồn cào trong dạ dày giữa các bữa ăn hoặc vào ban đêm"
+    },
+    {
+      "name": "Chướng bụng",
+      "description": "Cảm giác căng trướng, đầy hơi ở bụng"
+    },
+    {
+      "name": "Khó tiêu",
+      "description": "Khó khăn trong tiêu hóa thức ăn"
+    },
+    {
+      "name": "Nấc cụt",
+      "description": "Nấc cụt xuất hiện không kiểm soát được"
+    },
+    {
+      "name": "Ăn mất ngon",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn"
+    },
+    {
+      "name": "Phân đen",
+      "description": "Phân có màu đen, kèm hắc ín, dấu hiệu của xuất huyết tiêu hóa"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm niêm mạc dạ dày xảy ra do hàng rào bảo vệ thành bao tử bị suy yếu hoặc tổn thương bởi dịch tiêu hóa, chủ yếu là do nhiễm vi khuẩn Helicobacter pylori (H.p).",
+    "related_factors": "Sự phát triển của bệnh có thể do di truyền hoặc chịu ảnh hưởng bởi thói quen sinh hoạt và ăn uống không lành mạnh, làm suy yếu lớp niêm mạc dạ dày.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm khuẩn Helicobacter pylori",
+    "Thường xuyên sử dụng thuốc giảm đau không steroid (NSAID)",
+    "Tuổi cao",
+    "Lạm dụng rượu bia",
+    "Căng thẳng thần kinh kéo dài",
+    "Đang điều trị ung thư (hóa trị, xạ trị)",
+    "Rối loạn tự miễn dịch",
+    "Thiếu hụt Vitamin B12"
+  ],
+  "complications": [
+    "Viêm loét dạ dày tá tràng",
+    "Xuất huyết dạ dày",
+    "Thủng dạ dày",
+    "Hẹp môn vị",
+    "Thiếu máu do giảm hấp thu Vitamin B12",
+    "Viêm phúc mạc",
+    "Nhiễm trùng huyết",
+    "Ung thư dạ dày"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Hỏi tiền sử bệnh và sử dụng thuốc",
+      "Kiểm tra các triệu chứng đặc trưng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi dạ dày",
+        "description": "Kiểm tra trực tiếp niêm mạc dạ dày, đánh giá mức độ viêm, loét và lấy mẫu sinh thiết nếu cần"
+      },
+      {
+        "name": "Xét nghiệm phát hiện H. pylori",
+        "description": "Có thể thực hiện thông qua test hơi thở, xét nghiệm máu, phân hoặc sinh thiết"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra tình trạng thiếu máu, viêm nhiễm và các bất thường khác"
+      },
+      {
+        "name": "X-quang dạ dày có thuốc cản quang",
+        "description": "Đánh giá hình dạng và cấu trúc dạ dày, phát hiện bất thường"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Cách điều trị viêm niêm mạc dạ dày sẽ khác nhau phụ thuộc vào nguyên nhân gây bệnh và mức độ tổn thương.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh tiêu diệt H. pylori",
+        "description": "Kết hợp các loại kháng sinh như Tetracyclin, Tinidazol, Metronidazole, Levofloxacin để tiêu diệt vi khuẩn H. pylori. Liệu trình thường kéo dài 10-14 ngày."
+      },
+      {
+        "name": "Thuốc ức chế bơm proton (PPI)",
+        "description": "Các thuốc như Esomeprazol, Omeprazole, Lansoprazole giúp ngăn chặn sản xuất acid dạ dày và thúc đẩy quá trình chữa bệnh."
+      },
+      {
+        "name": "Thuốc chẹn histamine (H-2)",
+        "description": "Famotidine, Cimetidine, Nizatidine giúp làm giảm lượng acid tiết ra trong đường tiêu hóa để giảm đau hiệu quả."
+      },
+      {
+        "name": "Thuốc trung hòa acid dạ dày",
+        "description": "Các thuốc kháng acid giúp trung hòa acid dạ dày để làm giảm đau nhanh chóng, nhưng có thể gây tác dụng phụ như táo bón hoặc tiêu chảy."
+      },
+      {
+        "name": "Bổ sung Vitamin B12",
+        "description": "Trường hợp viêm niêm mạc dạ dày do thiếu máu ác tính, cần tiêm Vitamin B12 để cải thiện tình trạng."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Chia nhỏ các bữa ăn hàng ngày, ăn đều đặn và chậm rãi",
+      "Tránh hoàn toàn các thực phẩm cay nóng, nhiều dầu mỡ",
+      "Hạn chế thức ăn nhiều đường, muối",
+      "Hạn chế thực phẩm chứa gluten từ lúa mì, lactose từ sữa nếu có dấu hiệu không dung nạp",
+      "Chú ý đến các thực phẩm khiến triệu chứng trở nên tồi tệ hơn và ngưng sử dụng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine đặc hiệu phòng ngừa viêm niêm mạc dạ dày",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ngăn chặn nguy cơ nhiễm H. pylori bằng cách duy trì thói quen vệ sinh hàng ngày",
+      "Chăm sóc tốt sức khỏe tinh thần, giảm stress, giữ tâm lý thoải mái",
+      "Chia nhỏ các bữa ăn hàng ngày, ăn đều đặn và chậm hơn",
+      "Hạn chế tối đa thực phẩm nhiều đường, muối, dầu mỡ",
+      "Ngưng tuyệt đối việc hút thuốc lá",
+      "Hạn chế tối đa việc tiêu thụ rượu và caffeine",
+      "Ưu tiên thực phẩm giàu chất xơ, ít chất béo và nồng độ acid thấp",
+      "Bổ sung thực phẩm chứa probiotic như sữa chua, kim chi"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm niêm mạc dạ dày có nguy hiểm không?",
+      "answer": "Viêm niêm mạc dạ dày có thể dẫn đến nhiều biến chứng nghiêm trọng nếu không được điều trị kịp thời, bao gồm viêm loét dạ dày tá tràng, xuất huyết dạ dày, thủng dạ dày gây viêm phúc mạc, hẹp môn vị, và nghiêm trọng nhất là ung thư dạ dày. Tuy nhiên, nếu được phát hiện sớm và điều trị đúng cách, bệnh hoàn toàn có thể kiểm soát và cải thiện được."
+    },
+    {
+      "question": "Người bị viêm niêm mạc dạ dày nên ăn gì?",
+      "answer": "Người bị viêm niêm mạc dạ dày nên ưu tiên thực phẩm giàu chất xơ (ngũ cốc nguyên hạt, rau xanh, các loại đậu, trái cây), thực phẩm ít chất béo (cá, rau xanh, thịt nạc), thực phẩm có nồng độ acid thấp (rau, đậu), đồ uống không chứa gas hoặc caffeine, và thực phẩm chứa probiotic (sữa chua, kim chi, men vi sinh)."
+    },
+    {
+      "question": "Viêm niêm mạc dạ dày nên kiêng gì?",
+      "answer": "Người bị viêm niêm mạc dạ dày nên tránh hoặc hạn chế tối đa thực phẩm có tính acid (cà chua, một số loại trái cây), rượu bia, nước giải khát có gas, cà phê, đồ ăn nhiều chất béo, đồ chiên, các loại nước ép trái cây, thực phẩm muối chua, thức ăn cay nóng và trà. Ngoài ra, nếu nhận thấy bất kỳ loại thức ăn nào khiến triệu chứng trở nên tồi tệ hơn, hãy ngưng sử dụng ngay."
+    },
+    {
+      "question": "Viêm niêm mạc dạ dày có mấy loại?",
+      "answer": "Viêm niêm mạc dạ dày có 2 loại chính: Viêm niêm mạc dạ dày cấp tính (tình trạng niêm mạc dạ dày bị viêm hoặc sưng đột ngột, gây ra các cơn đau dữ dội) và Viêm niêm mạc dạ dày mãn tính (tình trạng viêm và tổn thương niêm mạc dạ dày dai dẳng nhưng ở mức độ thấp, khi tình trạng mãn tính kéo dài liên tục trong nhiều năm có thể tiến triển tới giai đoạn teo niêm mạc, chuyển sản và loạn sản)."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm, kích ứng, ăn mòn niêm mạc dạ dày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niêm mạc dạ dày",
+        "Viêm loét dạ dày tá tràng",
+        "Trào ngược dạ dày thực quản"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm bao tử. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niêm mạc dạ dày",
+        "Viêm dạ dày cấp tính",
+        "Viêm dạ dày mãn tính"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhiễm Helicobacter pylori (H.p). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niêm mạc dạ dày",
+        "Viêm loét dạ dày tá tràng",
+        "Ung thư dạ dày"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy lạm dụng rượu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm niêm mạc dạ dày", "Viêm gan do rượu", "Xơ gan"]
+    },
+    {
+      "question": "Tôi hay bị đau bụng tái phát, buồn nôn, cảm giác nóng rát trong dạ dày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm niêm mạc dạ dày",
+        "Trào ngược dạ dày thực quản",
+        "Viêm loét dạ dày tá tràng"
+      ]
     }
   ]
 }

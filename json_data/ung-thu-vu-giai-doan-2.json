@@ -1,39 +1,156 @@
 {
   "disease_id": "ung-thu-vu-giai-doan-2",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vú giai đoạn 2",
+  "disease_alternative_names": [
+    "Ung thư vú giai đoạn IIA",
+    "Ung thư vú giai đoạn IIB",
+    "Ung thư vú giai đoạn T0N1M0",
+    "Ung thư vú giai đoạn T1N1M0",
+    "Ung thư vú giai đoạn T2N0M0",
+    "Ung thư vú giai đoạn T2N1M0",
+    "Ung thư vú giai đoạn T3N0M0"
+  ],
+  "disease_definition": "Ung thư vú giai đoạn II là nhóm ung thư phát triển ở vú hoặc trong các hạch bạch huyết vùng nách cùng bên hoặc cả hai. Giai đoạn IIA bao gồm khối u đường kính không quá 2cm có di căn hạch nách hoặc khối u 2-5cm không di căn hạch. Giai đoạn IIB bao gồm khối u 2-5cm có di căn hạch nách hoặc khối u lớn hơn 5cm không di căn hạch. Đây được xem là giai đoạn sớm của bệnh ung thư vú.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối u ở vú",
+      "description": "Người bệnh có thể sờ thấy một khối u ở vú, có kích thước từ 2-5cm hoặc lớn hơn, có thể di động hoặc cố định."
+    },
+    {
+      "name": "Khối u ở nách",
+      "description": "Có thể sờ thấy một hoặc nhiều hạch ở nách cùng bên với vú bị ung thư."
+    },
+    {
+      "name": "Thay đổi kích thước hoặc hình dạng của vú",
+      "description": "Vú có thể thay đổi về kích thước, hình dạng, hoặc xuất hiện lõm, phần da sưng đỏ."
+    },
+    {
+      "name": "Thay đổi ở da vú",
+      "description": "Có thể có hiện tượng sần sùi, lõm, hoặc các thay đổi trên da vú."
+    },
+    {
+      "name": "Núm vú bị tụt vào trong",
+      "description": "Người bệnh có thể thấy núm vú bị tụt vào trong, đặc biệt nếu trước đây không bị như vậy."
+    },
+    {
+      "name": "Tiết dịch từ núm vú",
+      "description": "Có thể có hiện tượng tiết dịch từ núm vú, đặc biệt là dịch có máu."
+    },
+    {
+      "name": "Đau nhức vùng vú",
+      "description": "Một số trường hợp có thể có cảm giác đau hoặc nhức ở vùng vú, mặc dù ung thư vú thường không gây đau."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính xác của ung thư vú giai đoạn 2 chưa được xác định rõ ràng.",
+    "related_factors": "Bệnh liên quan đến nhiều yếu tố như di truyền, nội tiết tố, môi trường và lối sống.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ",
+    "Tuổi cao (nguy cơ tăng theo tuổi)",
+    "Tiền sử gia đình có người mắc ung thư vú",
+    "Đột biến gen BRCA1 hoặc BRCA2",
+    "Tiếp xúc với bức xạ ion hóa",
+    "Kinh nguyệt sớm hoặc mãn kinh muộn",
+    "Chưa từng sinh con hoặc sinh con đầu lòng sau 30 tuổi",
+    "Liệu pháp hormone thay thế sau mãn kinh",
+    "Uống rượu",
+    "Thừa cân, béo phì",
+    "Mật độ mô vú cao"
+  ],
+  "complications": [
+    "Di căn ung thư đến các cơ quan khác trong cơ thể",
+    "Tái phát sau điều trị (nguy cơ 11-19% sau 5-10 năm)",
+    "Tác dụng phụ của điều trị (suy giảm miễn dịch, mệt mỏi, rụng tóc)",
+    "Biến chứng sau phẫu thuật (đau, nhiễm trùng, phù tay)",
+    "Ảnh hưởng tâm lý (lo lắng, trầm cảm)",
+    "Suy giảm chức năng sinh sản",
+    "Thay đổi ngoại hình và ảnh hưởng đến hình ảnh cơ thể"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Siêu âm vú",
+      "Chụp nhũ ảnh",
+      "Chụp cộng hưởng từ (MRI) vú",
+      "Sinh thiết tổn thương vú",
+      "Siêu âm bụng, siêu âm cổ",
+      "X-quang ngực",
+      "CT scan bụng, ngực, não",
+      "Xạ hình xương"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm vú",
+        "description": "Phương pháp chẩn đoán hình ảnh không xâm lấn, giúp xác định tính chất, vị trí và kích thước khối u, phân biệt u đặc hay u nang."
+      },
+      {
+        "name": "Chụp nhũ ảnh",
+        "description": "Phương pháp chụp X-quang đặc biệt của vú để phát hiện các bất thường, đặc biệt là các vi vôi hóa không thể phát hiện bằng siêu âm."
+      },
+      {
+        "name": "Sinh thiết tổn thương vú",
+        "description": "Lấy mẫu mô để xét nghiệm dưới kính hiển vi, xác định chính xác bản chất khối u là lành tính hay ác tính."
+      },
+      {
+        "name": "Xét nghiệm thụ thể nội tiết và HER2",
+        "description": "Xác định tình trạng thụ thể nội tiết Estrogen (ER), Progesteron (PR), thụ thể yếu tố tăng trưởng biểu bì (HER2) và mức độ tăng sinh tế bào (Ki67) để định hướng điều trị."
+      },
+      {
+        "name": "Xét nghiệm di truyền",
+        "description": "Phân tích đột biến gen BRCA1/BRCA2 và các gen liên quan khác để đánh giá nguy cơ di truyền."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị phụ thuộc vào nhiều yếu tố như kích thước khối u, tình trạng di căn hạch, đặc điểm sinh học của khối u, sức khỏe tổng thể và mong muốn của người bệnh. Tỷ lệ sống còn sau 5 năm đối với ung thư vú giai đoạn II là 88-93%.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật bảo tồn vú",
+        "description": "Phẫu thuật cắt rộng khối u, cắt một phần mô lành không bị ung thư xung quanh khối u, giữ lại được một phần mô vú. Thường kết hợp với xạ trị vào toàn bộ tuyến vú sau phẫu thuật để ngăn tái phát bệnh."
+      },
+      {
+        "name": "Phẫu thuật cắt bỏ tuyến vú (đoạn nhũ)",
+        "description": "Phẫu thuật cắt bỏ toàn bộ tuyến vú có khối u, có thể giữ lại núm vú và da xung quanh núm vú tùy thuộc vào vị trí, kích thước, số lượng và tính chất khối u."
+      },
+      {
+        "name": "Phẫu thuật nạo vét hạch nách",
+        "description": "Được chỉ định khi có hạch nách phát hiện khi khám bệnh hoặc bằng các phương pháp cận lâm sàng. Giúp kiểm soát bệnh, giảm tái phát hạch nách và tiên lượng bệnh."
+      },
+      {
+        "name": "Sinh thiết hạch lính gác",
+        "description": "Phương pháp lấy và kiểm tra hạch bạch huyết đầu tiên mà tế bào ung thư có thể di căn đến. Giúp tránh phải nạo vét hạch nách không cần thiết, giảm tác dụng phụ."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Thường được chỉ định sau phẫu thuật bảo tồn vú hoặc sau cắt toàn bộ tuyến vú với những trường hợp nguy cơ tái phát cao, giúp giảm nguy cơ tái phát tại chỗ."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Có thể được thực hiện trước phẫu thuật (tân hỗ trợ) để giảm kích thước khối u, hoặc sau phẫu thuật (hỗ trợ) để tiêu diệt các tế bào ung thư còn sót lại."
+      },
+      {
+        "name": "Liệu pháp nội tiết",
+        "description": "Chỉ định cho bệnh nhân có thụ thể hormone dương tính, thường kéo dài 5-10 năm. Phương pháp bao gồm Tamoxifen hoặc thuốc ức chế Aromatase tùy thuộc tình trạng mãn kinh."
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Sử dụng cho bệnh nhân có HER2 dương tính, thường bằng thuốc Trastuzumab (Herceptin) kéo dài 1 năm, có thể kết hợp với Pertuzumab."
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Chỉ định cho một số trường hợp ung thư vú tam âm (ER, PR, HER2 âm tính), thường sử dụng thuốc như Pembrolizumab kết hợp với hóa trị."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám định kỳ mỗi 3-4 tháng trong 2-3 năm đầu, sau đó mỗi 4-6 tháng trong 2-3 năm tiếp theo",
+      "Thực hiện các xét nghiệm kiểm tra theo chỉ định của bác sĩ (xét nghiệm máu, siêu âm vú, nhũ ảnh...)",
+      "Chụp nhũ ảnh kiểm tra mỗi năm, bắt đầu từ 6-12 tháng sau khi kết thúc xạ trị nếu có phẫu thuật bảo tồn vú",
+      "Khám phụ khoa ít nhất 1 lần/năm nếu đang sử dụng Tamoxifen",
+      "Duy trì lối sống lành mạnh (chế độ ăn cân bằng, tập thể dục, kiểm soát cân nặng)",
+      "Đến khám ngay khi có bất kỳ dấu hiệu bất thường nào"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +158,97 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám vú định kỳ và tầm soát ung thư vú theo khuyến cáo",
+      "Duy trì cân nặng hợp lý",
+      "Hạn chế uống rượu bia",
+      "Tập thể dục đều đặn",
+      "Cần được tư vấn di truyền nếu có tiền sử gia đình mắc ung thư vú",
+      "Hạn chế liệu pháp hormone thay thế sau mãn kinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư vú giai đoạn II có chữa được không?",
+      "answer": "Có, ung thư vú giai đoạn II có khả năng chữa khỏi rất cao. Sau 5 năm điều trị, bệnh nhân không bị tái phát sẽ được coi là chữa khỏi bệnh. Đối với ung thư vú giai đoạn II, tỷ lệ sống sau 5 năm là khoảng 88-93%."
+    },
+    {
+      "question": "Ung thư vú giai đoạn II có nguy hiểm không?",
+      "answer": "Ung thư vú giai đoạn II được xếp vào giai đoạn sớm, nếu đáp ứng tốt với điều trị, tiên lượng sống sót sau 5 năm khoảng 88-93%. Điều này có nghĩa hầu hết các bệnh nhân bị ung thư vú giai đoạn II có thể sống sót sau 5 năm nếu được điều trị kịp thời, hiệu quả."
+    },
+    {
+      "question": "Khả năng tái phát ung thư vú sau khi điều trị ung thư vú giai đoạn II là bao nhiêu?",
+      "answer": "Ở những bệnh nhân được điều trị bảo tồn vú, khả năng tái phát tại chỗ khoảng 2% trong 10 năm. Tùy thuộc vào các đặc tính khối u và tình trạng di căn hạch, nguy cơ tái phát cao nhất trong vòng vài năm đầu sau điều trị, tỷ lệ tái phát sau 5 năm và 10 năm là 11-19%."
+    },
+    {
+      "question": "Người bệnh ung thư vú giai đoạn II cần theo dõi trong bao lâu sau điều trị?",
+      "answer": "Sau khi kết thúc điều trị, bệnh nhân cần được theo dõi trong ít nhất 5 năm bởi các bác sĩ chuyên khoa Ung Bướu. Lịch tái khám thường là mỗi 3-4 tháng trong 2-3 năm đầu, sau đó là mỗi 4-6 tháng trong 2-3 năm tiếp theo, và có thể được điều chỉnh tùy theo mức độ nguy cơ và các yếu tố sức khỏe của từng bệnh nhân."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện khối u ở vú và thay đổi kích thước của vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-2",
+        "u-lanh-tinh-vu",
+        "viem-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức vùng vú và sờ thấy hạch ở nách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-2",
+        "ung-thu-vu",
+        "viem-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiết dịch núm vú và da vú bị lõm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-2",
+        "benh-paget-num-vu",
+        "ung-thu-vu"
+      ]
+    },
+    {
+      "question": "Tôi sờ thấy khối u ở vú, kích thước khoảng 3cm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-2",
+        "u-xo-tuyen-vu",
+        "nang-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi phát hiện hạch ở nách, di động. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-2",
+        "viem-hach-nach",
+        "ung-thu-hach"
+      ]
+    },
+    {
+      "question": "Tôi thấy vú thay đổi kích thước, sờ thấy khối u ở vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-2",
+        "ung-thu-vu",
+        "u-xo-tuyen-vu"
+      ]
+    },
+    {
+      "question": "Tôi bị đau nhức vùng núm vú, sờ thấy hạch ở nách, hạch dính vào nhau. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-2",
+        "ung-thu-vu-giai-doan-3",
+        "viem-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi bị tiết dịch núm vú có máu, da vú sần sùi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-giai-doan-2",
+        "benh-paget-num-vu",
+        "ung-thu-vu-giai-doan-3"
+      ]
     }
   ]
 }

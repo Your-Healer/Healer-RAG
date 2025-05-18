@@ -1,39 +1,121 @@
 {
   "disease_id": "viem-khop-vay-nen",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm khớp vảy nến",
+  "disease_alternative_names": [
+    "Psoriatic Arthritis (PsA)",
+    "Viêm khớp do vảy nến",
+    "Bệnh viêm khớp vảy nến"
+  ],
+  "disease_definition": "Viêm khớp vảy nến là bệnh lý viêm khớp tự miễn nằm trong nhóm bệnh lý khớp cột sống huyết thanh âm tính, ảnh hưởng đến nhiều cơ quan trong cơ thể, từ hệ miễn dịch, hệ tiêu hóa đến các khớp lớn ở các chi dưới, các khớp ngón tay, ngón chân và cột sống. Bệnh xảy ra ở một số bệnh nhân mắc bệnh vảy nến, với các triệu chứng ban đầu thường bắt đầu từ tổn thương da.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau khớp",
+      "description": "Người bệnh cảm thấy đau đớn, cứng khớp và sưng ở các khớp. Bệnh có thể ảnh hưởng đến toàn bộ các cơ xương khớp ở hai bên cơ thể hoặc chỉ một bên."
+    },
+    {
+      "name": "Sưng phồng các ngón tay, ngón chân",
+      "description": "Người bệnh có thể gặp tình trạng đau nhức, sưng ở ngón tay, ngón chân hoặc cũng có thể dẫn đến các dị tật ở tay chân. Ngón tay, ngón chân sưng phù và có hình dạng giống xúc xích, còn gọi là viêm Dactyl."
+    },
+    {
+      "name": "Đau nhức tại điểm bám gân và dây chằng",
+      "description": "Đau nhức khắp các điểm mà gân và dây chằng bám vào xương, đặc biệt là phần lòng trong bàn chân hoặc mặt sau của gót chân (viêm gân Achilles)."
+    },
+    {
+      "name": "Đau lưng",
+      "description": "Một số trường hợp bệnh tiến triển gây triệu chứng viêm cột sống, hay còn gọi là viêm cột sống dính khớp các khớp đốt sống giữa cột sống và ở trong các khớp nằm giữa cột sống và xương chậu."
+    },
+    {
+      "name": "Tổn thương da vảy nến",
+      "description": "Mảng sần sùi, có màu đỏ trên da và móng, thường gặp nhất là các vị trí khớp gần móng ở ngón tay, ngón chân."
+    },
+    {
+      "name": "Thay đổi móng tay",
+      "description": "Móng tay có thể trở nên dày, cứng và thô, màu móng cũng thay đổi và có dấu hiệu bong tróc. Một số trường hợp khác móng có thể tách khỏi giường móng, gọi là ly móng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm khớp vảy nến là một trong những bệnh viêm khớp do bệnh lý tự miễn, xảy ra khi hệ miễn dịch của cơ thể nhầm lẫn và tấn công các mô và tế bào khỏe mạnh bên trong cơ thể.",
+    "related_factors": "Chính các phản ứng bất thường của hệ miễn dịch gây ra hiện tượng viêm ở khớp xương, cùng như việc sản xuất quá mức của các tế bào ở da. Hiện nay vẫn chưa rõ lý do khiến hệ miễn dịch tự tấn công các mô và tế bào khỏe mạnh.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bệnh vảy nến: Đây được xem là yếu tố nguy cơ lớn nhất tiến triển thành bệnh. Bệnh nhân vảy nến bị tổn thương trên móng tay có khả năng tiến triển thành bệnh rất cao.",
+    "Tiền sử gia đình: Nhiều bệnh nhân có cha mẹ, anh, chị và em ruột mắc căn bệnh này.",
+    "Tuổi tác: Bệnh có thể xảy ra ở mọi đối tượng và độ tuổi nhưng phổ biến nhất trong khoảng từ 30-50 tuổi.",
+    "Yếu tố di truyền: Thống kê cho thấy nhiều người bệnh có tiền sử gia đình mắc một trong hai bệnh vảy nến và viêm khớp do vảy nến.",
+    "Yếu tố môi trường: Người bệnh có thể tiếp xúc với hóa chất, các chất phóng xạ, nhiễm vi khuẩn, virus."
+  ],
+  "complications": [
+    "Tổn thương da, móng: Móng tay trở nên dày, cứng, thô, bong tróc, có thể tách khỏi giường móng (ly móng).",
+    "Viêm đa khớp: Gây đau, cứng và sưng ở một hoặc nhiều khớp, khiến người bệnh di chuyển khó khăn.",
+    "Viêm Dactyl: Ngón tay, ngón chân sưng phù và có hình dạng giống xúc xích.",
+    "Đau cột sống: Đau ở cổ, lưng, khó gập duỗi cột sống.",
+    "Viêm màng bồ đào: Khoảng 7% trường hợp bệnh nhân bị viêm mắt, không được phát hiện sớm có thể gây mất thị lực vĩnh viễn.",
+    "Bệnh Crohn: Người bệnh có nguy cơ mắc bệnh Crohn (viêm ruột) gấp 8 lần so với người bình thường.",
+    "Viêm phổi mô kẽ: Tình trạng viêm khớp lan rộng đến phổi có thể dẫn đến ho nhiều, mệt mỏi và khó thở.",
+    "Bệnh tim mạch: Tăng nguy cơ mắc phải tổn thương tim mạch và hệ thống mạch máu như tăng huyết áp, tiểu đường, béo phì, cholesterol cao.",
+    "Trầm cảm: Người bệnh có nguy cơ trầm cảm kéo dài, thường xuyên lo lắng, mất đi sự tự tin khi sống cùng các triệu chứng khó chịu và dai dẳng của bệnh."
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá triệu chứng lâm sàng",
+      "Chẩn đoán hình ảnh",
+      "Xét nghiệm máu",
+      "Xét nghiệm dịch khớp"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "X-quang",
+        "description": "Hình ảnh chụp X-quang cho thấy rõ nét những thay đổi ở khớp, chỉ xảy ra trong viêm khớp vảy nến mà không có ở những bệnh viêm khớp khác."
+      },
+      {
+        "name": "Cộng hưởng từ (MRI)",
+        "description": "Phương pháp chụp MRI sử dụng sóng radio và từ trường mạnh để tạo ra những hình ảnh chi tiết nhất của cả mô cứng, mô mềm bên trong cơ thể. Đây là phương pháp chẩn đoán được sử dụng nhiều nhất trong các trường hợp kiểm tra chấn thương ở gân, khớp và dây chằng."
+      },
+      {
+        "name": "Yếu tố dạng thấp (RF)",
+        "description": "Yếu tố dạng thấp là một kháng thể có ở trong máu của những bệnh nhân viêm khớp dạng thấp, nhưng không có trong máu của bệnh nhân viêm khớp vảy nến. Việc phát hiện yếu tố này giúp phân biệt chính xác hai bệnh."
+      },
+      {
+        "name": "Xét nghiệm dịch khớp",
+        "description": "Sử dụng một cây kim dài để thu mẫu dịch ở những khớp bị viêm, thường là khớp gối để xác định các tinh thể bệnh lý. Nếu dịch khớp bệnh nhân có tinh thể acid uric, thì xác suất bệnh nhân mắc bệnh gout cao hơn viêm khớp vảy nến."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hiện chưa có phương pháp điều trị triệt để bệnh viêm khớp vảy nến. Các phương pháp hiện tại chủ yếu tập trung kiểm soát tình trạng viêm khớp, tránh làm ảnh hưởng nặng nề đến khớp và các cơ quan xung quanh, ngăn ngừa các cơn đau và nguy cơ tàn tật vĩnh viễn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc chống viêm không steroid (NSAIDs)",
+        "description": "Giúp giảm tình trạng đau nhức, sưng tấy và cứng khớp mỗi buổi sáng, được dùng trong những liệu trình đầu tiên cho bệnh nhân viêm khớp. Tuy nhiên, cần sử dụng đúng liều lượng theo chỉ định để tránh tác dụng phụ như kích ứng dạ dày, ruột, xuất huyết tiêu hóa."
+      },
+      {
+        "name": "Thuốc chống thấp khớp (DMARDs)",
+        "description": "Bên cạnh công dụng làm giảm các triệu chứng đau và viêm, nhóm thuốc này còn có tác dụng hạn chế một phần những tổn thương xảy ra do viêm khớp vảy nến. Tuy nhiên, DMARDs có tác dụng chậm, người bệnh có thể nhận thấy tác dụng của thuốc sau vài tuần hoặc cả tháng."
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch",
+        "description": "Có tác dụng ngăn chặn hệ thống miễn dịch cơ thể, bảo vệ cơ thể tránh khỏi những tác nhân gây bệnh có hại tấn công tế bào khỏe mạnh. Nhóm thuốc này có thể có tác dụng phụ như thiếu máu, tăng nguy cơ nhiễm trùng, ảnh hưởng đến gan, thận."
+      },
+      {
+        "name": "Chất ức chế TNF-alpha",
+        "description": "Thường được chỉ định sử dụng trong những trường hợp viêm khớp vảy nến có yếu tố hoại tử, có tác dụng ngăn chặn các protein gây viêm, cải thiện các triệu chứng và ảnh hưởng của bệnh. Tuy nhiên, có thể có tác dụng phụ nghiêm trọng."
+      },
+      {
+        "name": "Tập vật lý trị liệu",
+        "description": "Giúp phục hồi chức năng các cơ quan vận động, duy trì khả năng linh hoạt của khớp và giảm cơn đau."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ đúng chỉ định của bác sĩ trong suốt quá trình điều trị",
+      "Không tự ý dừng, đổi thuốc hoặc tự ý sử dụng thuốc mà chưa có chỉ định",
+      "Thay đổi tư thế, cách thức làm việc và sinh hoạt hàng ngày làm ảnh hưởng đến xương khớp",
+      "Duy trì mức cân nặng cân đối, hợp lý",
+      "Nghỉ ngơi hợp lý, tránh căng thẳng kéo dài",
+      "Bổ sung nhiều trái cây, rau củ quả tươi vào chế độ ăn uống hàng ngày",
+      "Hạn chế chất đường, chất béo gây viêm nhiễm",
+      "Tập trung vào các nguồn chất béo an toàn như cá, các loại hạt"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +123,113 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thiết lập thói quen tập thể dục, thể thao đều đặn mỗi ngày nhằm giữ các khớp được linh hoạt",
+      "Loại bỏ những thói quen xấu gây hại đến sức khỏe như hạn chế uống rượu bia, không hút thuốc lá",
+      "Tránh những căng thẳng, stress kéo dài làm các cơn đau khớp bùng phát mạnh",
+      "Thực hiện các bài tập yoga, ngồi thiền để làm dịu tâm trí, xoa dịu cơn đau nhức",
+      "Đến cơ sở y tế uy tín để được khám, chẩn đoán chính xác và can thiệp kịp thời khi có dấu hiệu bất thường",
+      "Duy trì chế độ ăn uống lành mạnh, đủ dinh dưỡng"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm khớp vảy nến là bệnh gì?",
+      "answer": "Viêm khớp vảy nến là bệnh lý viêm khớp tự miễn nằm trong nhóm bệnh lý khớp cột sống huyết thanh âm tính, ảnh hưởng đến nhiều cơ quan trong cơ thể, từ hệ miễn dịch, hệ tiêu hóa đến các khớp lớn ở các chi dưới, các khớp ngón tay, ngón chân và cột sống. Bệnh xảy ra ở một số bệnh nhân mắc bệnh vảy nến, với các triệu chứng ban đầu thường bắt đầu từ tổn thương da."
+    },
+    {
+      "question": "Viêm khớp vảy nến có chữa được không?",
+      "answer": "Hiện chưa có phương pháp điều trị dứt điểm bệnh viêm khớp vảy nến. Các phương pháp hiện tại chủ yếu tập trung kiểm soát tình trạng viêm khớp, tránh làm ảnh hưởng nặng nề đến khớp và các cơ quan xung quanh, ngăn ngừa các cơn đau và nguy cơ tàn tật vĩnh viễn. Việc điều trị chỉ phát huy hiệu quả nếu được phát hiện sớm và điều trị đúng phác đồ."
+    },
+    {
+      "question": "Có mấy thể viêm khớp vảy nến?",
+      "answer": "Viêm khớp vảy nến được chia thành 5 thể gồm: 1) Viêm khớp đối xứng (50% trường hợp); 2) Viêm khớp không đối xứng (35% trường hợp); 3) Viêm các khớp xa ngón chân và tay (10% trường hợp); 4) Viêm ở cột sống; 5) Viêm khớp phá hủy sụn khớp (5% trường hợp, nghiêm trọng nhất)."
+    },
+    {
+      "question": "Triệu chứng của viêm khớp vảy nến là gì?",
+      "answer": "Triệu chứng của viêm khớp vảy nến bao gồm: đau khớp, cứng khớp và sưng ở các khớp; sưng phồng các ngón tay, ngón chân (hình dạng giống xúc xích); đau nhức tại các điểm bám gân và dây chằng; đau lưng; tổn thương da vảy nến; thay đổi móng tay. Bệnh có thể ảnh hưởng đến toàn bộ các cơ xương khớp ở hai bên cơ thể hoặc chỉ một bên."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau khớp, sưng khớp và phát ban đỏ có vảy ở khuỷu tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "viem-khop-dang-thap",
+        "vay-nen"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức ở các khớp ngón tay và ngón chân, kèm theo tình trạng móng tay dày và bong tróc. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "viem-khop-dang-thap",
+        "vay-nen"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau lưng dưới, cứng khớp buổi sáng và có tiền sử gia đình mắc bệnh vảy nến. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "viem-cot-song-dinh-khop",
+        "vay-nen"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng sưng phồng ngón tay, ngón chân giống hình xúc xích và đau nhức ở gót chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "viem-khop-dactyl",
+        "viem-gan-got-chan-achilles"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm kết mạc, đau mắt đỏ và sưng đau các khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "viem-khop-phan-ung",
+        "viem-mang-bo-dao"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau khớp không đối xứng, chỉ bị đau ở một bên chân hoặc tay. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "viem-khop-gut",
+        "viem-khop-nhiem-khuan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức ở cột sống, từ cổ đến lưng dưới và có tổn thương da vảy nến. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "viem-cot-song-dinh-khop",
+        "vay-nen"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng phá hủy sụn khớp, biến dạng khớp và tổn thương da vảy nến. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "viem-khop-dang-thap",
+        "thoai-hoa-khop"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nhức khớp, sưng khớp và có tiền sử gia đình mắc bệnh vảy nến. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "vay-nen",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức ở các điểm bám gân vào xương, đặc biệt là lòng bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-khop-vay-nen",
+        "viem-gan-ban-chan",
+        "viem-co-gan-ban-chan"
+      ]
     }
   ]
 }

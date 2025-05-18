@@ -1,58 +1,229 @@
 {
   "disease_id": "ung-thu-thuc-quan",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư thực quản",
+  "disease_alternative_names": [
+    "Ung thư biểu mô tế bào gai thực quản",
+    "Ung thư biểu mô tế bào tuyến thực quản"
+  ],
+  "disease_definition": "Ung thư thực quản xuất hiện khi các tế bào của thực quản phát triển bất thường không thể kiểm soát, bao gồm 2 dạng chính là ung thư biểu mô tế bào gai (thường gặp ở thực quản đoạn trên và giữa) và ung thư biểu mô tế bào tuyến (thường gặp ở thực quản đoạn dưới).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nuốt nghẹn, nuốt khó",
+      "description": "Triệu chứng thường gặp nhất, xuất hiện ở 95% trường hợp ung thư thực quản. Người bệnh gặp khó khăn khi nuốt thức ăn, cảm thấy vướng ở thực quản."
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Xuất hiện trong 40-50% trường hợp ung thư thực quản. Sụt cân thường đi kèm với nuốt khó."
+    },
+    {
+      "name": "Đau tức vùng ngực sau xương ức khi nuốt",
+      "description": "Xuất hiện ở khoảng 20% trường hợp ung thư thực quản, xảy ra khi người bệnh ăn thức ăn đặc, thậm chí uống nước."
+    },
+    {
+      "name": "Nôn",
+      "description": "Người bệnh sẽ có biểu hiện nôn khi có tình trạng nuốt nghẹn rõ rệt. Nôn có thể xảy ra trong bữa ăn, hoặc ngay sau khi ăn."
+    },
+    {
+      "name": "Tăng tiết nước bọt",
+      "description": "Do nuốt nghẹn, nước bọt không thể theo thức ăn xuống dạ dày, người bệnh sẽ cảm giác có nhiều nước bọt trong họng và phải nhổ nước bọt thường xuyên hơn."
+    },
+    {
+      "name": "Khàn tiếng",
+      "description": "Xảy ra khi ung thư xâm lấn thần kinh quặt ngược thanh quản."
+    },
+    {
+      "name": "Ho, khó thở",
+      "description": "Có thể xảy ra khi ung thư xâm lấn khí quản gây rò khí - thực quản."
+    },
+    {
+      "name": "Ợ nóng, ợ chua",
+      "description": "Có thể là triệu chứng của bệnh trào ngược dạ dày thực quản, một yếu tố nguy cơ của ung thư thực quản."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Cho đến hiện tại, chưa có yếu tố nào được xác định rõ ràng là nguyên nhân gây ra bệnh ung thư thực quản.",
+    "related_factors": "Nhiều yếu tố nguy cơ có thể dẫn đến ung thư thực quản như thói quen uống rượu bia, hút thuốc lá, chế độ ăn uống không hợp lý, béo phì, bệnh trào ngược dạ dày thực quản, bệnh Barrett thực quản.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Thói quen uống rượu, bia - yếu tố hàng đầu tăng nguy cơ mắc ung thư thực quản",
+    "Hút thuốc lá chủ động và thụ động",
+    "Chế độ ăn nhiều thực phẩm chứa Nitrosamin như dưa muối, cá muối, thực phẩm đóng hộp",
+    "Đồ uống và thực phẩm chế biến ở nhiệt độ cao trên 60 độ C",
+    "Thói quen nhai trầu, cau",
+    "Chế độ ăn thiếu chất xơ, vitamin từ các loại rau, trái cây",
+    "Bệnh trào ngược dạ dày – thực quản (GERD) và bệnh Barrett thực quản",
+    "Béo phì",
+    "Nhiễm virus u nhú gai ở người (HPV)",
+    "Tiền căn cắt dạ dày",
+    "Viêm teo dạ dày",
+    "Các bệnh lý/tổn thương thực quản khác như Achalasia (co thắt tâm vị), bỏng thực quản do hóa chất",
+    "Tiền căn bệnh lý ung thư khác",
+    "Yếu tố di truyền"
+  ],
+  "complications": [
+    "Hẹp thực quản gây nuốt nghẹn, nuốt khó, không thể ăn uống",
+    "Xâm lấn khí quản gây rò khí – thực quản, ho, khó thở",
+    "Xâm lấn thần kinh quặt ngược thanh quản gây khàn tiếng",
+    "Di căn xa đến các vị trí khác (phổi, xương, gan, hạch ổ bụng, não)",
+    "Tràn dịch màng phổi, màng ngoài tim",
+    "Suy kiệt do không ăn uống được"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Nội soi thực quản",
+      "Nội soi kết hợp siêu âm qua đầu dò nội soi (EUS)",
+      "Chụp cắt lớp vi tính (CT-scan)",
+      "Xét nghiệm dấu ấn sinh học ung thư (CEA, CA 19-9)",
+      "MRI não (khi nghi ngờ di căn não)",
+      "Xạ hình xương (khi nghi ngờ di căn xương)",
+      "PET/CT"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi thực quản và sinh thiết",
+        "description": "Phương pháp chính để chẩn đoán xác định ung thư thực quản, giúp xác định vị trí u, mức độ hẹp lòng thực quản, tình trạng loét hoặc sùi trên bề mặt khối u và lấy mẫu mô để xét nghiệm."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT-scan)",
+        "description": "Đánh giá giai đoạn ung thư thực quản, phát hiện các tổn thương di căn hạch hoặc di căn xa đến các cơ quan khác."
+      },
+      {
+        "name": "Nội soi siêu âm thực quản (EUS)",
+        "description": "Có độ chính xác cao để đánh giá mức độ xâm lấn của khối u thực quản."
+      },
+      {
+        "name": "Xét nghiệm dấu ấn sinh học ung thư",
+        "description": "Xét nghiệm máu có thể phát hiện CEA, CA 19-9 tăng cao, chủ yếu dùng để theo dõi sau điều trị."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị phụ thuộc vào vị trí khối u, loại tế bào ung thư, giai đoạn bệnh, sức khỏe tổng thể và mong muốn của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Với khối u nhỏ giới hạn ở niêm mạc, có thể cắt u tại chỗ qua nội soi. Đối với ung thư thực quản giai đoạn tiến triển, cần phẫu thuật cắt bỏ một phần hoặc toàn bộ thực quản kèm nạo vét hạch."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Thường được sử dụng trước hoặc sau phẫu thuật và có thể kết hợp với xạ trị. Ở giai đoạn muộn, hóa trị giúp làm giảm các triệu chứng gây ra bởi ung thư."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Thường kết hợp với hóa trị ở những người không thể phẫu thuật được. Xạ trị cũng được sử dụng để làm giảm các biến chứng của bệnh ung thư thực quản tiến triển."
+      },
+      {
+        "name": "Điều trị đích",
+        "description": "Sử dụng cho người bệnh ở giai đoạn muộn, mang lại hiệu quả cao hơn so với các phương pháp điều trị thông thường."
+      },
+      {
+        "name": "Điều trị miễn dịch",
+        "description": "Phương pháp điều trị tiên tiến cho người bệnh ở giai đoạn muộn, giúp tăng cường khả năng miễn dịch chống lại tế bào ung thư."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì chế độ ăn uống lành mạnh, đảm bảo đủ dinh dưỡng",
+      "Chia nhỏ bữa ăn, ăn chậm và nhai kỹ",
+      "Sử dụng thức ăn mềm, dễ nuốt",
+      "Theo dõi sát sao các tác dụng phụ của điều trị để kịp thời xử lý",
+      "Kiểm tra sức khỏe định kỳ sau điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin phòng HPV có thể giúp giảm nguy cơ mắc ung thư thực quản liên quan đến HPV.",
+      "recommended_for": ["Thanh thiếu niên trước khi có hoạt động tình dục"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Ăn uống điều độ, thường xuyên tập luyện thể dục thể thao, duy trì cân nặng phù hợp với thể trạng",
+      "Hạn chế ăn các thực phẩm lên men, muối chua, thực phẩm đóng hộp, chế biến sẵn",
+      "Ăn nhiều rau xanh, trái cây",
+      "Không sử dụng thuốc lá, rượu bia",
+      "Điều trị sớm và kiểm soát tốt các bệnh lý tiền ung thư như bệnh trào ngược dạ dày thực quản, bệnh Barrett thực quản",
+      "Tầm soát ung thư thực quản sớm bằng nội soi thực quản với những người có nguy cơ cao"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư thực quản có chữa được không?",
+      "answer": "Ung thư thực quản có thể chữa được nếu phát hiện sớm. Tỷ lệ sống sau 5 năm có thể đạt 80% nếu ung thư còn giới hạn trong lớp niêm mạc. Tuy nhiên, khoảng 50% người bệnh được chẩn đoán ở giai đoạn muộn, khi đó tỷ lệ sống sẽ giảm xuống dưới 3% nếu đã có di căn xa."
+    },
+    {
+      "question": "Ung thư thực quản sống được bao lâu?",
+      "answer": "Thời gian sống phụ thuộc vào giai đoạn bệnh. Nếu ung thư còn giới hạn trong lớp niêm mạc, tỷ lệ sống sau 5 năm là 80%. Nếu lan đến lớp dưới niêm mạc, tỷ lệ này giảm xuống dưới 50%. Khi lan đến lớp cơ niêm, tỷ lệ còn dưới 20%. Nếu lan sang cấu trúc lân cận, tỷ lệ chỉ còn 7%, và nếu di căn xa, tỷ lệ sống sau 5 năm dưới 3%."
+    },
+    {
+      "question": "Làm thế nào để phát hiện ung thư thực quản sớm?",
+      "answer": "Để phát hiện ung thư thực quản sớm, cần đi khám bác sĩ khi có các triệu chứng như nuốt nghẹn, nuốt khó, sụt cân, đau ngực khi nuốt. Người có nguy cơ cao (như có tiền sử gia đình, bệnh trào ngược dạ dày thực quản, Barrett thực quản) nên tầm soát định kỳ bằng nội soi thực quản."
+    },
+    {
+      "question": "Triệu chứng của ung thư thực quản là gì?",
+      "answer": "Triệu chứng chính của ung thư thực quản bao gồm: nuốt nghẹn/nuốt khó (95% ca bệnh), sụt cân (40-50%), đau tức ngực khi nuốt (20%), nôn, tăng tiết nước bọt. Giai đoạn muộn có thể có thêm ho, khó thở, khàn tiếng khi ung thư xâm lấn các cơ quan lân cận."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như nuốt nghẹn, nuốt khó, sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-thuc-quan",
+        "co-that-tam-vi",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau tức vùng ngực sau xương ức khi nuốt, nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-thuc-quan",
+        "trao-nguoc-da-day-thuc-quan",
+        "viem-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ợ nóng, ợ chua, ho, khó thở. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "trao-nguoc-da-day-thuc-quan",
+        "ung-thu-thuc-quan",
+        "thoat-vi-hoanh"
+      ]
+    },
+    {
+      "question": "Tôi có thói quen uống rượu bia nhiều năm và hiện tại bị nuốt nghẹn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-thuc-quan",
+        "viem-thuc-quan",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi hút thuốc lá nhiều năm và hiện tại bị nuốt khó, đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-thuc-quan",
+        "ung-thu-phoi",
+        "benh-phoi-tac-nghen-man-tinh"
+      ]
+    },
+    {
+      "question": "Tôi bị trào ngược dạ dày thực quản và hiện tại bị nuốt khó, nôn, sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-thuc-quan",
+        "hep-thuc-quan",
+        "barrett-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm teo dạ dày và hiện tại bị nuốt khó, sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-thuc-quan", "ung-thu-da-day", "hep-mon-vi"]
+    },
+    {
+      "question": "Tôi từng bị bỏng thực quản do hóa chất và hiện tại bị nuốt nghẹn, đau ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-thuc-quan",
+        "hep-thuc-quan",
+        "viem-thuc-quan"
+      ]
     }
   ]
 }

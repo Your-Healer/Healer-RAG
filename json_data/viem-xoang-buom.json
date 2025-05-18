@@ -1,58 +1,145 @@
 {
   "disease_id": "viem-xoang-buom",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm xoang bướm",
+  "disease_alternative_names": [
+    "Viêm xoang bướm đơn độc (ISS)",
+    "Viêm xoang sàng bướm"
+  ],
+  "disease_definition": "Viêm xoang bướm là một nhóm các bệnh lý được đặc trưng bởi tình trạng viêm niêm mạc ở một hoặc cả hai xoang bướm. Bệnh này còn được gọi là viêm xoang bướm đơn độc (ISS). Viêm xoang bướm chiếm khoảng 2,7-3% trong các bệnh nhiễm trùng xoang. Đây là bệnh hiếm gặp, không có triệu chứng đặc hiệu nên khó nhận biết.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau đầu",
+      "description": "Những cơn đau đầu không điển hình có cường độ và vị trí khác nhau, phổ biến nhất là đau đầu ở vùng sau ổ mắt và vùng chẩm (chiếm 72%). Cơn đau không đáp ứng với thuốc giảm đau và trầm trọng hơn khi cử động đầu."
+    },
+    {
+      "name": "Rối loạn thị giác",
+      "description": "Các rối loạn thị giác tại chỗ như nhìn đôi, mất thị lực một bên tiến triển và giảm thị trường ở bên tổn thương. Các triệu chứng nhãn khoa chiếm khoảng 21% bệnh nhân bị viêm xoang bướm đơn độc."
+    },
+    {
+      "name": "Viêm mũi",
+      "description": "Các biểu hiện về mũi của bệnh bao gồm chảy nước mũi sau và chảy máu mũi."
+    },
+    {
+      "name": "Đau tai",
+      "description": "Đau tai, buồn ngủ đến các triệu chứng giống viêm màng não cũng có thể xuất hiện."
+    },
+    {
+      "name": "Không có triệu chứng",
+      "description": "Viêm xoang bướm có thể hoàn toàn không có triệu chứng cho đến khi xuất hiện các biến chứng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm xoang bướm cấp tính thường liên quan đến nhiễm trùng do vi khuẩn, chẳng hạn như Haemophilus influenza và Streptococcus pneumonia (viêm họng liên cầu khuẩn).",
+    "related_factors": "Những loại nhiễm trùng này thường phát triển do tình trạng xoang trước đó, bắt đầu từ việc nhiễm virus, chẳng hạn như cảm lạnh thông thường hoặc cúm. Viêm xoang bướm cũng có thể được kích hoạt bởi các chất gây dị ứng hoặc nhiễm nấm phát triển thành nhiễm trùng xoang, lan vào các khoang xương bướm.",
+    "transmission_routes": [
+      "Nhiễm trùng do vi khuẩn từ đường hô hấp trên",
+      "Lây lan từ nhiễm trùng xoang khác"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm virus đường hô hấp trên (cảm lạnh, cúm)",
+    "Dị ứng mũi xoang",
+    "Nhiễm nấm",
+    "Suy giảm hệ miễn dịch",
+    "Bất thường cấu trúc giải phẫu của xoang bướm"
+  ],
+  "complications": [
+    "Viêm mô tế bào hốc mắt",
+    "Áp xe dưới màng cứng",
+    "Áp xe hốc mắt",
+    "Huyết khối xoang hang",
+    "Áp xe ngoài màng cứng",
+    "Áp xe não",
+    "Viêm màng não",
+    "Viêm tắc xoang hang",
+    "Viêm tủy xương nền sọ",
+    "Tổn thương dây thần kinh sọ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Đánh giá triệu chứng đau đầu không điển hình"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi mũi",
+        "description": "Nội soi mũi là một công cụ chẩn đoán quan trọng đối với các bệnh lý xoang cạnh mũi. Tuy nhiên, phát hiện ở những bệnh nhân bị bệnh xoang bướm đơn độc có thể không rõ ràng."
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Chụp CT là một công cụ quan trọng trong chẩn đoán bệnh nhân nghi ngờ mắc bệnh xoang bướm. Thông thường, bệnh xoang bướm đơn độc là một phát hiện tình cờ trong quá trình kiểm tra X quang đối với chứng đau đầu không điển hình."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm xoang bướm tùy thuộc vào mức độ nghiêm trọng và đáp ứng với liệu pháp nội khoa.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị nội khoa",
+        "description": "Viêm xoang bướm thường được điều trị bằng kháng sinh phổ rộng để chống nhiễm trùng do vi khuẩn Streptococcus pneumoniae. Nhiều bệnh nhân cũng sử dụng thuốc không kê đơn, thuốc xịt mũi và thuốc thông mũi để giúp giảm các triệu chứng. Có thể sử dụng máy khí dung mũi để đưa thuốc và dung dịch nước muối vào sâu bên trong xoang."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật được chỉ định khi điều trị nội khoa không hiệu quả. Phổ biến nhất là các phương pháp nội soi qua mũi, nội soi qua vách ngăn và nội soi qua xoang sàng. Trong trường hợp bệnh lý đơn độc của xoang bướm, hai phương pháp đầu tiên được coi là tối ưu nhất. Đối với bệnh nhân có tỷ lệ tái phát cao, cần mở rộng xương bướm và lấy bỏ toàn bộ mô nấm, polyp hoặc nhầy mủ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Điều trị sớm để ngăn ngừa các biến chứng nguy hiểm",
+      "Tuân thủ đúng liệu trình điều trị do bác sĩ chỉ định",
+      "Tái khám theo lịch hẹn của bác sĩ",
+      "Tiếp tục kiểm tra hàng năm để theo dõi và phòng ngừa tái phát"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine đặc hiệu phòng ngừa viêm xoang bướm",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh tiếp xúc với khói, bụi và các chất kích thích trong không khí khác",
+      "Thực hành vệ sinh mũi hàng ngày",
+      "Duy trì thói quen phòng chống dị ứng",
+      "Đeo khẩu trang khi cần thiết",
+      "Thăm khám bác sĩ Tai Mũi Họng nếu mắc bệnh mũi xoang không khỏi sau 3-5 ngày",
+      "Rửa xoang hàng ngày bằng máy xông mũi với dung dịch nước muối sinh lý",
+      "Sử dụng dung dịch dưỡng ẩm để phục hồi xoang"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm xoang bướm có chữa khỏi được không?",
+      "answer": "Viêm xoang bướm có thể chữa khỏi bằng các loại thuốc điều trị hoặc phẫu thuật. Điều trị nội khoa với phương pháp xịt rửa mũi, sử dụng kháng sinh và kháng viêm. Nếu điều trị bằng thuốc không đáp ứng, bệnh nhân sẽ được phẫu thuật nội soi mũi xoang để điều trị bệnh lý này."
+    },
+    {
+      "question": "Viêm xoang bướm có tái phát không?",
+      "answer": "Viêm xoang bướm là bệnh lý không dễ điều trị và thường có tỷ lệ tái phát cao, ngay cả khi đã phẫu thuật thành công. Điều trị trong giai đoạn bệnh càng nặng thì tỷ lệ tái phát càng cao, đặc biệt đối với bệnh nhân có biến chứng. Do vậy, việc điều trị từ sớm với phương pháp phù hợp sẽ mang đến hiệu quả cao nhất. Người bệnh nên tái khám theo lịch hẹn của bác sĩ, sau đó tiếp tục kiểm tra hàng năm để theo dõi và phòng ngừa viêm xoang bướm tái phát."
+    },
+    {
+      "question": "Viêm xoang bướm có nguy hiểm không?",
+      "answer": "Viêm xoang bướm là một bệnh lý lành tính cho đến khi xảy ra các biến chứng. Những biến chứng viêm dây thần kinh, biến chứng nội sọ có thể gây nguy hiểm tới tính mạng như viêm màng não, viêm xương sàn sọ. Việc chẩn đoán sai dẫn đến điều trị không trúng đích khiến bệnh nhân phải đối mặt với nhiều biến chứng nặng nề, thậm chí đe dọa tính mạng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau đầu vùng sau ổ mắt, chảy nước mũi sau và đau tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang bướm", "Viêm xoang", "Đau nửa đầu"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau đầu, nhìn mờ và chảy máu cam. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang bướm", "Tăng huyết áp", "Viêm mũi"]
+    },
+    {
+      "question": "Tôi hay bị đau đầu, nghẹt mũi và chảy nước mũi sau khi bị cảm lạnh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang bướm", "Viêm xoang", "Viêm mũi"]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng đau đầu, nhìn đôi và giảm thị lực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang bướm", "Tăng áp lực nội sọ", "U não"]
+    },
+    {
+      "question": "Tôi cảm thấy đau đầu, nghẹt mũi, chảy nước mũi và đau họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang bướm", "Viêm xoang", "Cảm cúm"]
     }
   ]
 }

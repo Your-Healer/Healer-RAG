@@ -1,39 +1,161 @@
 {
   "disease_id": "viem-cau-than-man",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm cầu thận mạn",
+  "disease_alternative_names": [
+    "Viêm cầu thận mạn tính",
+    "Bệnh thận mạn tính",
+    "Viêm tiểu cầu mạn tính"
+  ],
+  "disease_definition": "Viêm cầu thận mạn là một hội chứng lâm sàng xảy ra do một nhóm bệnh thận bao gồm viêm tiểu cầu và viêm các nút mao mạch trong vỏ thận bị tổn thương từ từ, mạn tính ở cả hai thận làm suy giảm dần dần chức năng thận. Biểu hiện lâm sàng là phù từng đợt, tăng huyết áp, protein niệu, hồng cầu niệu thường xuyên.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Phù từng đợt",
+      "description": "Phù ở những vị trí như chân, mắt cá chân và bàn chân, với xu hướng tăng dần, nặng dần trong quá trình tiến triển của bệnh."
+    },
+    {
+      "name": "Tăng huyết áp",
+      "description": "Huyết áp cao, có thể có cơn tăng huyết áp kịch phát trong các đợt tiến triển của bệnh."
+    },
+    {
+      "name": "Ngứa ở da",
+      "description": "Ngứa da do sự tích tụ các chất thải trong máu khi thận không lọc được hiệu quả."
+    },
+    {
+      "name": "Chuột rút cơ bắp",
+      "description": "Co thắt đau đớn ở các cơ, thường do rối loạn điện giải khi thận không thể duy trì cân bằng điện giải bình thường."
+    },
+    {
+      "name": "Sức khỏe suy yếu rõ rệt",
+      "description": "Cảm giác mệt mỏi, yếu sức do tình trạng nhiễm độc từ chất thải không được đào thải."
+    },
+    {
+      "name": "Rối loạn tiêu hóa",
+      "description": "Cảm thấy buồn nôn, nôn, đầy bụng, chậm tiêu do ảnh hưởng của các chất độc trong máu đến hệ tiêu hóa."
+    },
+    {
+      "name": "Giảm nhu cầu ăn",
+      "description": "Chán ăn, không muốn ăn do cảm giác buồn nôn và khó chịu trong dạ dày."
+    },
+    {
+      "name": "Tần suất đi tiểu thay đổi bất thường",
+      "description": "Có thể nhiều hơn hoặc ít hơn bình thường, với xu hướng ít dần khi bệnh tiến triển."
+    },
+    {
+      "name": "Thiếu máu",
+      "description": "Giai đoạn đầu nhẹ hoặc chưa có triệu chứng, khi diễn biến nặng thì mức độ trầm trọng hơn do thận không sản xuất đủ erythropoietin."
+    },
+    {
+      "name": "Nước tiểu bất thường",
+      "description": "Có bọt và máu bên trong nước tiểu do protein và hồng cầu rò rỉ qua cầu thận bị tổn thương."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Tình trạng khó thở do tích tụ dịch trong phổi hoặc do thiếu máu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm cầu thận mạn là hậu quả của tổn thương cầu thận do cơ chế miễn dịch, có thể là nguyên phát (không rõ căn nguyên) hoặc thứ phát (do bệnh hệ thống, rối loạn chuyển hóa, bệnh mạch máu).",
+    "related_factors": "Quá trình viêm ở cầu thận là quá trình viêm vô khuẩn, do tương tác kháng nguyên-kháng thể và lắng đọng phức hợp miễn dịch ở cầu thận. Các phức hợp miễn dịch kích hoạt hệ thống bổ thể và các tế bào viêm, gây tổn thương cầu thận và làm thay đổi tính thấm của màng nền cầu thận.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tiền sử viêm cầu thận cấp kéo dài hoặc tái phát nhiều lần",
+    "Người đã từng bị viêm cầu thận cấp",
+    "Người bị đái tháo đường, huyết áp cao hoặc các bệnh lý về tim mạch",
+    "Người thân trong gia đình có bệnh sử về thận, đặc biệt là viêm cầu thận",
+    "Người cao tuổi",
+    "Nhiễm khuẩn, nhiễm virus",
+    "Người thường xuyên hút thuốc và sử dụng rượu bia",
+    "Người thường xuyên sử dụng những loại thuốc có hại cho thận",
+    "Người có chế độ ăn quá nhiều muối",
+    "Người bị bệnh béo phì",
+    "Một số yếu tố về địa lý và chủng tộc như người da đen hoặc người Mỹ gốc Á",
+    "Người có cấu trúc thận bất thường"
+  ],
+  "complications": [
+    "Suy thận mạn và suy thận giai đoạn cuối",
+    "Huyết áp cao, có thể có cơn tăng huyết áp kịch phát, suy tim ứ huyết",
+    "Hội chứng thận hư",
+    "Viêm cầu thận tiến triển nhanh",
+    "Biến chứng về máu: thiếu máu, xuất huyết",
+    "Biến chứng về xương: Loãng xương, nhuyễn xương",
+    "Tăng kali máu",
+    "Phù phổi cấp",
+    "Nhiễm toan chuyển hóa"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng: đánh giá các triệu chứng như phù, huyết áp cao",
+      "Chẩn đoán tính chất mạn: các triệu chứng kéo dài trên 3 tháng",
+      "Xét nghiệm nước tiểu",
+      "Xét nghiệm máu",
+      "Siêu âm thận",
+      "Chụp X-quang thận",
+      "Sinh thiết thận"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra protein niệu thường xuyên (trung bình từ 1-3g/24 giờ), hồng cầu niệu (thường là hồng cầu niệu vi thể, biến dạng), và trụ niệu (có thể có trụ hồng cầu, trụ hạt)."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra số lượng hồng cầu, huyết sắc tố, điện giải đồ (natri thường giảm, kali có thể tăng), và mức lọc cầu thận."
+      },
+      {
+        "name": "Siêu âm thận",
+        "description": "Đánh giá kích thước thận (bình thường trong giai đoạn đầu và giảm đi khi suy thận giai đoạn cuối), và nhu mô thận (tăng âm do xơ hóa)."
+      },
+      {
+        "name": "Chụp X-quang thận",
+        "description": "Chụp thận thuốc tĩnh mạch có hình ảnh chậm ngấm thuốc và kém bài tiết."
+      },
+      {
+        "name": "Sinh thiết thận",
+        "description": "Giúp chẩn đoán nguyên nhân và phân loại tổn thương ở giai đoạn nhẹ. Giai đoạn cuối thường thấy xơ hóa."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không có điều trị đặc hiệu với viêm cầu thận mạn tính. Mục tiêu điều trị bao gồm dự phòng các đợt tiến triển cấp tính, hạn chế tiến triển của tổn thương cầu thận, duy trì chức năng cầu thận, điều chỉnh nội môi, điều trị biến chứng, điều trị bệnh nguyên.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc hạ áp",
+        "description": "Kiểm soát huyết áp để làm chậm tiến triển của bệnh thận và giảm nguy cơ các biến chứng tim mạch."
+      },
+      {
+        "name": "Thuốc chống viêm hoặc kháng sinh",
+        "description": "Dùng cho những người bị viêm cầu thận mạn thứ phát do nhiễm trùng."
+      },
+      {
+        "name": "Corticoid và các thuốc ức chế miễn dịch",
+        "description": "Áp dụng cho một số trường hợp cụ thể để giảm viêm và ức chế phản ứng miễn dịch."
+      },
+      {
+        "name": "Thuốc lợi tiểu",
+        "description": "Chỉ định khi có phù để giúp thải nước và muối ra khỏi cơ thể."
+      },
+      {
+        "name": "Điều trị thiếu máu",
+        "description": "Sử dụng thuốc kích thích tạo hồng cầu (Erythropoietin) và bổ sung sắt."
+      },
+      {
+        "name": "Điều trị theo nguyên nhân",
+        "description": "Điều trị các bệnh nền như đái tháo đường, lupus ban đỏ hệ thống để kiểm soát bệnh gốc."
+      },
+      {
+        "name": "Lọc máu",
+        "description": "Chỉ định khi bệnh tiến triển đến giai đoạn cuối, tăng kali không kiểm soát, quá tải dịch không kiểm soát."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế muối và kali, phốt pho trong chế độ ăn",
+      "Chỉ nạp protein một lượng vừa đủ, hạn chế ăn quá nhiều các thực phẩm giàu protein",
+      "Hạn chế ăn các thực phẩm có chất điện giải cao",
+      "Uống đủ nước theo hướng dẫn của bác sĩ",
+      "Tái khám đều đặn để theo dõi tiến triển của bệnh",
+      "Kiểm soát tốt các bệnh nền như đái tháo đường, tăng huyết áp"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +163,91 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Điều trị dứt điểm khi bị viêm cầu thận cấp tính và hạn chế để bệnh tái phát",
+      "Tăng cường sức đề kháng và thể lực bằng cách tập thể dục",
+      "Giữ gìn vệ sinh cá nhân và nhà cửa",
+      "Khám sức khỏe định kỳ 2 lần/năm",
+      "Uống đủ nước",
+      "Hạn chế ăn các thực phẩm chế biến sẵn hoặc quá nhiều muối",
+      "Kiểm soát lượng kali và protein nạp vào cơ thể",
+      "Ăn những loại thực phẩm hỗ trợ chức năng thận như cá vược, nho đỏ, tỏi, dầu olive"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm cầu thận mạn có chữa được không?",
+      "answer": "Viêm cầu thận mạn là bệnh lý không thể điều trị dứt điểm vì đây cũng là một biến chứng của viêm cầu thận cấp. Tuy nhiên, bệnh có thể kiểm soát và cải thiện các triệu chứng bằng cách thay đổi chế độ dinh dưỡng, thói quen sinh hoạt và kết hợp với thuốc hỗ trợ. Người bệnh cần tuân thủ phác đồ điều trị và tái khám đều đặn để duy trì được sức khỏe thận ở mức ổn định."
+    },
+    {
+      "question": "Những triệu chứng nào của viêm cầu thận mạn cần đi khám ngay?",
+      "answer": "Người bệnh cần đến gặp bác sĩ ngay khi có các triệu chứng như phù nề ở chân, mắt cá chân và bàn chân, huyết áp cao, nước tiểu có bọt hoặc máu, khó thở, buồn nôn và nôn, chuột rút cơ bắp thường xuyên, hoặc sức khỏe suy yếu rõ rệt. Đặc biệt quan trọng là đi khám sức khỏe định kỳ để phát hiện bệnh từ giai đoạn sớm khi chưa có triệu chứng rõ ràng."
+    },
+    {
+      "question": "Viêm cầu thận mạn có những giai đoạn nào?",
+      "answer": "Viêm cầu thận mạn được phân thành 5 giai đoạn: Giai đoạn 1: Chức năng thận còn bình thường, mức lọc cầu thận ≥ 90ml/phút. Giai đoạn 2: Suy thận nhẹ, mức lọc cầu thận 60-89ml/phút. Giai đoạn 3: Suy thận vừa, mức lọc cầu thận 30-59ml/phút. Giai đoạn 4: Suy thận nặng, mức lọc cầu thận 15-29ml/phút. Giai đoạn 5: Suy thận rất nặng, mức lọc cầu thận < 15ml/phút, cần điều trị thay thế thận."
+    },
+    {
+      "question": "Người bị viêm cầu thận mạn nên ăn gì và kiêng gì?",
+      "answer": "Người bị viêm cầu thận mạn nên hạn chế muối và kali, phốt pho trong chế độ ăn, chỉ nạp protein một lượng vừa đủ, hạn chế ăn quá nhiều các thực phẩm giàu protein, hạn chế ăn các thực phẩm có chất điện giải cao, uống đủ nước theo hướng dẫn của bác sĩ. Nên ăn những loại thực phẩm hỗ trợ chức năng thận như cá vược, nho đỏ, tỏi, dầu olive và tránh các thực phẩm chế biến sẵn, đồ ăn có nhiều muối."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như phù từng đợt, tăng huyết áp, protein niệu, hồng cầu niệu thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-man",
+        "hoi-chung-than-hu",
+        "viem-cau-than-cap"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy suy giảm dần dần chức năng thận. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-man",
+        "suy-than-man",
+        "dai-thao-duong"
+      ]
+    },
+    {
+      "question": "Tôi hay bị suy thận mạn ngày càng nặng rồi suy thận giai đoạn cuối. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-man",
+        "suy-than-man",
+        "viem-cau-than-lupus"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như bệnh thận mạn tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-cau-than-man", "viem-be-than", "suy-than-man"]
+    },
+    {
+      "question": "Tôi đang cảm thấy suy thận nhẹ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-man",
+        "viem-cau-than-cap",
+        "dai-thao-duong"
+      ]
+    },
+    {
+      "question": "Tôi hay bị suy thận vừa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-man",
+        "suy-than-man",
+        "dai-thao-duong-bien-chung-than"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ngứa ở da, chuột rút cơ bắp, sức khỏe suy yếu rõ rệt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-man",
+        "suy-than-man",
+        "roi-loan-dien-giai"
+      ]
+    },
+    {
+      "question": "Tôi hay bị phù ở những vị trí như chân, mắt cá chân và bàn chân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-cau-than-man", "hoi-chung-than-hu", "suy-tim"]
     }
   ]
 }

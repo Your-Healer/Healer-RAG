@@ -1,39 +1,108 @@
 {
   "disease_id": "viem-hang-vi-da-day",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm hang vị dạ dày",
+  "disease_alternative_names": [
+    "Viêm hang vị cấp tính",
+    "Viêm teo hang vị",
+    "Loét hang vị"
+  ],
+  "disease_definition": "Viêm hang vị dạ dày là tình trạng dạ dày bị tổn thương, cụ thể là viêm tại vị trí hang vị. Hang vị là phần nằm ở vị trí gần cuối dạ dày, ở giữa thân vị và môn vị. Khi lớp niêm mạc hang vị bị kích thích hoặc bị tổn thương sẽ dẫn đến tình trạng viêm, gây ra các triệu chứng đau âm ĩ, cồn cào vùng thượng vị, ợ hơi, ợ chua, đầy bụng, khó tiêu.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau vùng thượng vị",
+      "description": "Xuất hiện các cơn đau ở vùng thượng vị, thường âm ỉ hoặc cồn cào, là triệu chứng điển hình của viêm hang vị dạ dày."
+    },
+    {
+      "name": "Cảm giác đầy bụng",
+      "description": "Người bệnh cảm thấy đầy bụng, nóng rát ở vùng thượng vị, đặc biệt sau khi ăn."
+    },
+    {
+      "name": "Ợ hơi, ợ chua",
+      "description": "Triệu chứng phổ biến do acid dạ dày tăng tiết, gây khó chịu cho người bệnh."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Người bệnh có thể mất cảm giác thèm ăn, không còn hứng thú với thức ăn."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn có thể xuất hiện, đặc biệt sau khi ăn các thức ăn kích thích dạ dày."
+    },
+    {
+      "name": "Nôn ra máu hoặc đi cầu phân đen",
+      "description": "Dấu hiệu cảnh báo biến chứng nghiêm trọng như xuất huyết dạ dày, cần được điều trị khẩn cấp."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân thường gặp nhất gây viêm hang vị dạ dày là nhiễm khuẩn Helicobacter pylori (vi khuẩn HP). Vi khuẩn HP sau khi xâm nhập vào dạ dày sẽ cư trú và làm tổn thương niêm mạc dạ dày, gây viêm và dẫn đến triệu chứng bệnh.",
+    "related_factors": "Ngoài nhiễm khuẩn HP, viêm hang vị dạ dày còn do lạm dụng thuốc chống viêm NSAID, căng thẳng, trầm cảm, chế độ ăn uống thiếu khoa học, uống rượu bia và sử dụng các chất kích thích.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm khuẩn Helicobacter pylori",
+    "Lạm dụng thuốc chống viêm không steroid (NSAID) như Aspirin, Ibuprofen",
+    "Căng thẳng, trầm cảm kéo dài",
+    "Chế độ ăn uống không điều độ, ăn nhiều thức ăn cay nóng, khó tiêu",
+    "Sử dụng rượu bia, thuốc lá và các chất kích thích",
+    "Vấn đề về giấc ngủ, thường xuyên thức khuya",
+    "Vệ sinh kém trong ăn uống và sinh hoạt"
+  ],
+  "complications": [
+    "Loét dạ dày xuất huyết",
+    "Viêm teo dạ dày nặng",
+    "Hẹp môn vị dạ dày",
+    "Ung thư dạ dày"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Nội soi dạ dày",
+      "Xét nghiệm máu",
+      "Test hơi thở"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi dạ dày",
+        "description": "Phương pháp nội soi dạ dày giúp xác định chính xác vị trí, mức độ tổn thương ở hang vị. Đồng thời qua nội soi có thể thực hiện CLO test để đánh giá tình trạng nhiễm khuẩn Helicobacter pylori ở dạ dày."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Mục tiêu của xét nghiệm máu là để kiểm tra sự hiện diện của kháng thể chống lại khuẩn HP trong máu người bệnh. Nhược điểm là nếu người bệnh trước đó nhiễm và đã được điều trị thì đôi khi xét nghiệm máu vẫn dương tính vài tháng sau đó."
+      },
+      {
+        "name": "Test hơi thở",
+        "description": "Có độ nhạy và độ đặc hiệu chẩn đoán HP tương tự nội soi, là lựa chọn thay thế nội soi nếu chỉ đơn thuần cần xác định có nhiễm hay không nhiễm HP dạ dày."
+      },
+      {
+        "name": "CLO test",
+        "description": "Được thực hiện trong quá trình nội soi, là test nhằm đánh giá tình trạng nhiễm khuẩn Helicobacter pylori ở dạ dày."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị viêm hang vị dạ dày nên kết hợp giữa dùng thuốc và thay đổi thói quen ăn uống, lối sống.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị diệt vi khuẩn HP",
+        "description": "Đối với viêm hang vị dạ dày do nhiễm vi khuẩn HP, bác sĩ sẽ chỉ định điều trị diệt vi khuẩn bằng kháng sinh. Phác đồ điều trị vi khuẩn HP thường kéo dài 14 ngày, phối hợp ít nhất 2 kháng sinh đường uống (như Amoxicillin, Tetracycline, Metronidazole, Tinidazole, Fluoroquinolone, Bismuth) và thuốc ức chế acid dạ dày."
+      },
+      {
+        "name": "Điều trị bằng thuốc giảm acid dạ dày",
+        "description": "Sử dụng những loại thuốc có tác dụng làm giảm tác động của acid lên thành hang vị dạ dày và tăng bảo vệ lớp niêm mạc, bao gồm thuốc ức chế thụ thể histamin H2, thuốc ức chế bơm proton, và thuốc trung hòa acid dịch vị."
+      },
+      {
+        "name": "Thay đổi thói quen ăn uống",
+        "description": "Giúp rút ngắn thời gian hồi phục, cải thiện sức khỏe tiêu hóa và hạn chế tối đa khả năng tái phát bệnh. Nên bổ sung những loại rau củ có màu sẫm giàu dinh dưỡng và hạn chế uống rượu bia, sử dụng các chất kích thích."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống thuốc đúng liều lượng và thời gian theo chỉ định của bác sĩ",
+      "Ăn uống điều độ, chia nhỏ bữa ăn",
+      "Tránh các thực phẩm cay nóng, nhiều dầu mỡ, rượu bia",
+      "Bổ sung các thực phẩm giàu vitamin và chất xơ",
+      "Duy trì lối sống lành mạnh, tránh căng thẳng",
+      "Tái khám định kỳ theo hướng dẫn của bác sĩ"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +110,102 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Giữ gìn vệ sinh cho bản thân và môi trường sống tốt",
+      "Luôn rửa sạch tay trước khi ăn và sau khi đi vệ sinh",
+      "Hạn chế ăn những thực phẩm có khả năng kích ứng niêm mạc như đồ cay nóng, cafein, rượu bia",
+      "Không tự ý sử dụng các loại thuốc kháng sinh, giảm đau hoặc thuốc chống viêm NSAID",
+      "Duy trì lối sống khỏe mạnh và chế độ ăn uống khoa học",
+      "Bổ sung thực phẩm chứa vi khuẩn có lợi như sữa chua",
+      "Tăng cường các loại rau củ giàu flavonoid và vitamin A, C"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm hang vị dạ dày nguy hiểm không?",
+      "answer": "Viêm hang vị dạ dày là bệnh có thể điều trị dứt điểm nếu phát hiện sớm. Bệnh không cần sử dụng các phương pháp điều trị phức tạp và thời gian điều trị không quá dài. Tuy nhiên, viêm hang vị dạ dày sẽ phát triển thành viêm dạ dày mạn tính, hay xuất huyết dạ dày nếu không điều trị bệnh kịp thời. Đây là những biến chứng điển hình của bệnh, có khả năng làm tăng cao nguy cơ mắc ung thư dạ dày cho người bệnh."
+    },
+    {
+      "question": "Viêm hang vị dạ dày ăn gì và kiêng ăn gì?",
+      "answer": "Người bị viêm hang vị dạ dày nên bổ sung: những loại rau củ giàu flavonoid như táo, trà xanh và gừng; thực phẩm chứa vi khuẩn có lợi như sữa chua; các loại rau có màu xanh đậm; thực phẩm giàu vitamin A và C như khoai lang, ổi, cam. Nên kiêng: rượu bia hoặc đồ uống có cồn; thức ăn cay, nóng; thức ăn nhiều dầu mỡ."
+    },
+    {
+      "question": "Viêm hang vị dạ dày có tự khỏi không?",
+      "answer": "Viêm hang vị dạ dày cần được điều trị bằng thuốc và thay đổi chế độ ăn uống, lối sống. Bệnh không thể tự khỏi mà cần tuân thủ điều trị theo chỉ định của bác sĩ. Nếu không điều trị kịp thời, bệnh có thể tiến triển thành các biến chứng nguy hiểm như loét dạ dày xuất huyết, viêm teo dạ dày nặng, hẹp môn vị dạ dày, thậm chí ung thư dạ dày."
+    },
+    {
+      "question": "Vị trí hang vị dạ dày ở đâu?",
+      "answer": "Hang vị dạ dày nằm ở vị trí gần cuối dạ dày, ở giữa thân vị và môn vị. Dạ dày có 5 phần chính gồm: Tâm vị, phình vị, thân vị, hang vị và môn vị. Vị trí hang vị dạ dày được xem là một phần quan trọng bên trong dạ dày, là nơi nhạy cảm và dễ bị tổn thương."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau âm ĩ, cồn cào vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hang-vi-da-day",
+        "loet-da-day",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ợ hơi, ợ chua, đầy bụng, khó tiêu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hang-vi-da-day",
+        "viem-da-day",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau ở vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hang-vi-da-day", "loet-da-day", "viem-da-day"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như cảm giác đầy bụng, nóng rát ở thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hang-vi-da-day",
+        "viem-da-day",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ợ hơi, ợ chua. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hang-vi-da-day",
+        "trao-nguoc-da-day-thuc-quan",
+        "viem-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hang-vi-da-day",
+        "viem-da-day",
+        "roi-loan-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như buồn nôn và nôn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hang-vi-da-day",
+        "viem-da-day",
+        "ngo-doc-thuc-pham"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nôn ra máu hoặc đi cầu phân đen. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-hang-vi-da-day",
+        "loet-da-day",
+        "xuat-huyet-da-day"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm hang vị dạ dày do nhiễm khuẩn Helicobacter pylori (vi khuẩn HP). Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hang-vi-da-day", "loet-da-day", "viem-da-day"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như vi khuẩn HP cư trú và làm tổn thương niêm mạc dạ dày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-hang-vi-da-day", "viem-da-day", "loet-da-day"]
     }
   ]
 }

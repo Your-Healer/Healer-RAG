@@ -1,39 +1,114 @@
 {
   "disease_id": "u-tuy-song",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "U tủy sống",
+  "disease_alternative_names": [
+    "Khối u tủy sống",
+    "Bướu tủy sống",
+    "Spinal cord tumor"
+  ],
+  "disease_definition": "U tủy sống là tình trạng có những khối u phát triển trong tủy sống hoặc ở màng cứng (lớp phủ bên ngoài tủy sống). Các khối u tủy sống có thể bao gồm khối u nội tủy (xuất phát từ các tế bào nằm bên trong tủy sống), khối u ngoài tủy dưới màng cứng, hoặc khối u ngoài tủy ngoài màng cứng (thường do u di căn, thứ phát).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau cổ hoặc đau lưng kéo dài",
+      "description": "Đây là triệu chứng phổ biến nhất. Cơn đau có thể khu trú (chỉ đau ở một vị trí nhất định) hoặc lan rộng ra một vùng rộng hơn"
+    },
+    {
+      "name": "Đau nghiêm trọng hơn vào buổi tối",
+      "description": "Cơn đau thường nặng hơn vào ban đêm, gây mất ngủ cho người bệnh"
+    },
+    {
+      "name": "Giảm kỹ năng vận động",
+      "description": "Người bệnh đi lại khó khăn, nguy cơ té ngã cao"
+    },
+    {
+      "name": "Yếu cơ",
+      "description": "Cơ bị yếu dần, có thể tiến triển thành liệt nếu không được điều trị kịp thời"
+    },
+    {
+      "name": "Rối loạn cảm giác hoặc tê ở vị trí cột sống",
+      "description": "Cảm giác tê hoặc ngứa ran ở vùng cột sống"
+    },
+    {
+      "name": "Giảm nhạy cảm với nhiệt độ",
+      "description": "Ít nhạy cảm hơn với nhiệt độ nóng – lạnh hoặc thậm chí không cảm thấy đau khi bị lực tác động vào vùng lưng, cổ"
+    },
+    {
+      "name": "Mất kiểm soát cơ vòng",
+      "description": "Không kiểm soát được cơ vòng, gây bí tiểu hoặc rối loạn tiêu tiểu"
+    },
+    {
+      "name": "Vẹo cột sống",
+      "description": "Với trẻ em bị u tủy sống thường có nguy cơ bị vẹo cột sống"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Hiện nay, vẫn chưa thể tìm ra chính xác nguyên nhân vì sao các khối u lại phát triển ở tủy sống.",
+    "related_factors": "Nhiều giả thuyết cho rằng bệnh u tủy sống xuất phát do các gen khiếm khuyết. Tuy nhiên, vẫn còn nhiều vấn đề cần được giải đáp xung quanh giả thuyết này, chẳng hạn như các khiếm khuyết gen là do di truyền hay chỉ được hình thành do môi trường sống, khi tiếp xúc với hóa chất.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "U sợi thần kinh type 2: Bệnh lý rối loạn di truyền này gây nên các khối u tại mô thần kinh, chủ yếu là u thần kinh thính giác bẩm sinh",
+    "Bệnh Von Hippel-Lindau: Rối loạn thần kinh di truyền này có thể ảnh hưởng đến nhiều cơ quan của cơ thể và làm tăng nguy cơ bị u tủy sống",
+    "Người trưởng thành (u tủy sống ít gặp ở trẻ em)",
+    "Người có tiền sử bệnh ung thư di căn từ các cơ quan khác"
+  ],
+  "complications": [
+    "Rối loạn vận động",
+    "Liệt chi hoặc liệt cơ thắt",
+    "Liệt một bên người",
+    "Mất cảm giác nóng – lạnh",
+    "Tổn thương hệ thần kinh vĩnh viễn",
+    "Suy giảm chức năng ruột và bàng quang",
+    "Tử vong nếu khối u chèn ép vào tủy sống"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để đánh giá các triệu chứng cơ bản",
+      "Đánh giá khả năng vận động và cảm giác của chi",
+      "Kiểm tra chức năng bàng quang và ruột"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp MRI",
+        "description": "Phương pháp tốt nhất để tìm các khối u trong não và tủy sống, kiểm tra mạch máu, lưu lượng máu và hoạt động trong não"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "Tạo ra hình ảnh chi tiết bên trong cơ thể, giúp bác sĩ xem xét và đánh giá các xương xung quanh khối u ở tủy sống"
+      },
+      {
+        "name": "Chụp PET",
+        "description": "Chụp cắt lớp phát xạ positron giúp ghi lại hình ảnh chuyển hóa của khối u, đánh giá giai đoạn bệnh và xác định vị trí cần thực hiện sinh thiết"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy các mảnh nhỏ của mô tủy sống để kiểm tra các tế bào khối u, là cách duy nhất để biết chính xác loại khối u tủy sống"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Việc điều trị các khối u tủy sống phụ thuộc vào những yếu tố như loại khối u, vị trí của khối u và sức khỏe tổng thể của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Phương pháp điều trị đầu tiên được cân nhắc cho hầu hết người bệnh, giúp lấy mẫu sinh thiết, loại bỏ khối u, giảm kích thước khối u và ngăn ngừa biến chứng"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng các tia năng lượng cao để tiêu diệt tế bào ung thư, thường được thực hiện sau phẫu thuật để diệt tế bào khối u còn sót lại"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng thuốc để phá hủy tế bào ung thư, có thể tiêm vào tĩnh mạch hoặc uống, giúp tiêu diệt và làm chậm quá trình phát triển của khối u"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tái khám thường xuyên sau điều trị để kiểm tra tiến triển",
+      "Theo dõi các triệu chứng mới xuất hiện và báo cáo với bác sĩ",
+      "Phục hồi chức năng sau phẫu thuật để cải thiện khả năng vận động",
+      "Kiểm soát cơn đau bằng thuốc giảm đau theo chỉ định của bác sĩ",
+      "Sử dụng dụng cụ hỗ trợ đi lại nếu cần"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +116,55 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không có nguyên nhân cụ thể nào (liên quan đến lối sống hoặc môi trường) có thể gây ra các khối u não và tủy sống, ngoài việc tiếp xúc với bức xạ",
+      "Sớm nhận biết các triệu chứng u tủy sống để kịp thời thăm khám, điều trị hiệu quả",
+      "Khám sức khỏe định kỳ, đặc biệt với những người có yếu tố nguy cơ cao",
+      "Tránh tiếp xúc với bức xạ không cần thiết"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "U tủy sống có nguy hiểm không?",
+      "answer": "U tủy sống nếu không được điều trị kịp thời sẽ gây nên nhiều biến chứng nguy hiểm đối với người bệnh, bao gồm rối loạn vận động, liệt chi hoặc liệt cơ thắt, liệt một bên người, mất cảm giác nóng – lạnh, tổn thương hệ thần kinh vĩnh viễn, suy giảm chức năng ruột và bàng quang. Trong trường hợp khối u chèn ép vào tủy sống có thể đe dọa tính mạng người bệnh."
+    },
+    {
+      "question": "Ai dễ bị bệnh u tủy sống?",
+      "answer": "Bất kỳ ai cũng có nguy cơ bị bệnh u tủy sống. Tuy nhiên, tỷ lệ người mắc u tủy sống thường rất ít, chỉ chiếm khoảng 2% so với tỷ lệ người có các khối u khác trong cơ thể. So với tỷ lệ người bệnh có khối u ở hệ thống thần kinh trung ương thì tỷ lệ người bị u tủy sống chiếm khoảng 15%. Giữa u tủy và u não thì số người bị u não cao gấp 4-6 lần so với người bị u tủy. Tình trạng u tủy sống cũng thường gặp ở người lớn, rất ít trường hợp trẻ em u tủy."
+    },
+    {
+      "question": "Có cách nào phòng ngừa u tủy sống không?",
+      "answer": "Ngoài việc tiếp xúc với bức xạ, thường không có nguyên nhân cụ thể nào (liên quan đến lối sống hoặc môi trường) có thể gây ra các khối u não và tủy sống. Do đó, cách tốt nhất là sớm nhận biết các triệu chứng u tủy sống để kịp thời thăm khám, điều trị hiệu quả."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau cổ hoặc đau lưng kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U tủy sống", "Thoát vị đĩa đệm", "Viêm cột sống"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau ở một vị trí nhất định hoặc lan rộng ra một vùng rộng hơn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tủy sống",
+        "Đau thần kinh tọa",
+        "Viêm dây thần kinh"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau nghiêm trọng hơn vào buổi tối, khiến tôi mất ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U tủy sống", "Viêm khớp", "Rối loạn thần kinh"]
+    },
+    {
+      "question": "Tôi hay bị giảm kỹ năng vận động, đi lại khó khăn, nguy cơ té ngã cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["U tủy sống", "Đa xơ cứng", "Parkinson"]
+    },
+    {
+      "question": "Tôi bị yếu cơ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "U tủy sống",
+        "Bệnh về thần kinh cơ",
+        "Thiếu vitamin D"
+      ]
     }
   ]
 }

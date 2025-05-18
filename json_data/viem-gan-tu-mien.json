@@ -1,39 +1,150 @@
 {
   "disease_id": "viem-gan-tu-mien",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm gan tự miễn",
+  "disease_alternative_names": [
+    "AIH (Autoimmune Hepatitis)",
+    "Viêm gan tự miễn dịch"
+  ],
+  "disease_definition": "Viêm gan tự miễn hay còn gọi là AIH (Autoimmune Hepatitis) là một tình trạng rối loạn tự miễn dịch, xảy ra khi hệ thống miễn dịch của cơ thể tấn công các tế bào gan khiến gan bị viêm và tổn thương. Đây là một loại bệnh viêm gan mạn tính và cần theo dõi cả đời, chiếm khoảng 20% các trường hợp viêm gan mạn tính. Bệnh có tỷ lệ phổ biến ở nữ gấp 4 lần so với nam.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không có triệu chứng ở giai đoạn đầu",
+      "description": "Ở giai đoạn khởi đầu, người bệnh có thể không cảm thấy bất cứ thay đổi sức khỏe nào."
+    },
+    {
+      "name": "Mệt mỏi uể oải",
+      "description": "Đây là triệu chứng phổ biến nhất khi gan bắt đầu bị tổn thương nặng hơn."
+    },
+    {
+      "name": "Bụng cảm thấy khó chịu",
+      "description": "Cảm giác đau hoặc không thoải mái ở vùng bụng, đặc biệt là vị trí gan."
+    },
+    {
+      "name": "Viêm hoặc kích ứng da, ngứa da, vàng da",
+      "description": "Da có thể chuyển sang màu vàng, ngứa ngáy và dễ bị kích ứng."
+    },
+    {
+      "name": "Vàng lòng trắng mắt",
+      "description": "Lòng trắng mắt chuyển sang màu vàng do bilirubin tích tụ trong máu."
+    },
+    {
+      "name": "Đau nhức xương khớp",
+      "description": "Các khớp xương có thể bị đau nhức, đây là triệu chứng ngoài gan của bệnh tự miễn."
+    },
+    {
+      "name": "Buồn nôn hoặc nôn ói",
+      "description": "Người bệnh có thể thường xuyên cảm thấy buồn nôn hoặc nôn ói."
+    },
+    {
+      "name": "Nước tiểu sẫm màu hơn, phân bạc màu",
+      "description": "Nước tiểu có màu sẫm và phân có màu nhạt hơn bình thường do rối loạn chức năng gan."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Người bệnh không còn cảm thấy ngon miệng và không muốn ăn."
+    },
+    {
+      "name": "Giảm cân không lý do",
+      "description": "Sụt cân không chủ ý mặc dù không thay đổi chế độ ăn uống hay tập luyện."
+    },
+    {
+      "name": "Cơ thể suy nhược",
+      "description": "Người bệnh cảm thấy yếu ớt, mệt mỏi và không có năng lượng."
+    },
+    {
+      "name": "Tiêu chảy",
+      "description": "Đi tiêu lỏng, thường xuyên và không kiểm soát được."
+    },
+    {
+      "name": "Rối loạn hoặc mất kinh",
+      "description": "Phụ nữ có thể gặp vấn đề về chu kỳ kinh nguyệt hoặc ngừng kinh hoàn toàn."
+    },
+    {
+      "name": "Bụng sưng to, tụ dịch, đau vị trí gan",
+      "description": "Tình trạng cổ trướng - tích tụ dịch trong ổ bụng, gây sưng to và đau ở vùng gan."
+    },
+    {
+      "name": "Vấn đề về não gan",
+      "description": "Biểu hiện như lơ mơ, kém tập trung, mất ý thức, do độc tố trong máu không được gan lọc hiệu quả."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm gan tự miễn xảy ra khi hệ miễn dịch \"nhầm lẫn\" các tế bào gan thành mối đe dọa, từ đó sản sinh ra kháng thể để gây tổn thương gan. Nguyên nhân chính xác vẫn chưa được xác định rõ ràng.",
+    "related_factors": "Có 4 yếu tố liên quan mật thiết đến tình trạng viêm gan tự miễn bao gồm: nhiễm virus, hóa chất/thuốc, bệnh tự miễn khác và yếu tố gene.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ (tỷ lệ mắc bệnh gấp 4 lần nam giới)",
+    "Tiền sử nhiễm các loại virus như sởi, herpes simplex, Epstein-Barr",
+    "Tiền sử viêm gan A, B, C",
+    "Tiền sử gia đình có người mắc bệnh viêm gan tự miễn",
+    "Mắc các bệnh tự miễn khác như cường giáp, viêm khớp dạng thấp, bệnh celia, lupus ban đỏ hệ thống",
+    "Sử dụng một số loại thuốc như statin, hydralazine, kháng sinh nitrofurantoin và minocycline",
+    "Căng thẳng tinh thần"
+  ],
+  "complications": [
+    "Xơ gan",
+    "Giãn tĩnh mạch thực quản (có nguy cơ gây chảy máu trong thực quản hoặc dạ dày)",
+    "Tụ dịch ổ bụng (cổ trướng)",
+    "Suy gan (tế bào gan bị tổn thương nặng không thể phục hồi)",
+    "Ung thư gan"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá tiền sử bệnh gia đình",
+      "Khám lâm sàng và đánh giá các triệu chứng hiện tại",
+      "Xét nghiệm máu",
+      "Sinh thiết gan",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Giúp loại trừ tình trạng viêm gan do vi rút, xác định loại viêm gan tự miễn đang có, kiểm tra chức năng gan cũng như xem xét mức độ kháng thể trong máu."
+      },
+      {
+        "name": "Sinh thiết gan",
+        "description": "Thực hiện sinh thiết cho biết loại và mức độ tổn thương và viêm của gan, giúp xác định chẩn đoán và hướng điều trị."
+      },
+      {
+        "name": "X-quang",
+        "description": "Chụp X-quang có thể được chỉ định thực hiện giữa các lần sinh thiết gan nhằm định lượng mức độ xơ hóa và chất béo trong gan."
+      },
+      {
+        "name": "Chụp cắt lớp (CT)",
+        "description": "Giúp đánh giá tình trạng gan, mức độ xơ hóa và phát hiện các biến chứng như ung thư gan."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Cung cấp hình ảnh chi tiết của gan và các cơ quan lân cận, giúp đánh giá mức độ tổn thương gan."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm gan tự miễn chưa có phương pháp điều trị dứt điểm. Mục đích chính trong chữa trị chỉ dừng ở việc làm chậm hoặc ngăn ngừa sự tấn công của hệ miễn dịch tới gan. Sau 3 năm điều trị, khoảng 80% người bệnh nhận thấy bệnh được kiểm soát tốt.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Corticosteroid",
+        "description": "Thường dùng trong thời gian đầu khi bắt đầu xuất hiện các triệu chứng. Prednisone thường được kê đơn liều cao trong tháng đầu dùng thuốc; về sau giảm dần liều uống để giảm nguy cơ tác dụng phụ (loãng xương, tăng đường huyết, mất ngủ, đau cơ, trầm cảm)."
+      },
+      {
+        "name": "Thuốc ức chế miễn dịch",
+        "description": "Kết hợp cùng corticosteroid để làm dịu tình trạng viêm ở gan, bao gồm azathioprine, mercaptopurine. Nếu người bệnh không dung nạp Azathioprine, có thể thay thế bằng Cyclosporine, sirolimus (Rapamune) và tacrolimus (Prograf)."
+      },
+      {
+        "name": "Ghép gan",
+        "description": "Là phương án điều trị viêm gan tự miễn được chỉ định trong trường hợp người bệnh bị xơ gan hoặc suy gan. Tuy ghép gan là cách điều trị tối ưu nhưng viêm gan tự miễn vẫn có nguy cơ tái phát ngay cả khi ghép tạng thành công."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Xây dựng chế độ ăn uống lành mạnh",
+      "Tập thể dục đều đặn",
+      "Theo dõi các tác dụng phụ của thuốc",
+      "Kiểm tra sức khỏe định kỳ",
+      "Tránh sử dụng rượu bia",
+      "Giảm thiểu căng thẳng",
+      "Tuân thủ liệu trình điều trị dù bệnh có thể thuyên giảm"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +152,92 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Cho tới nay vẫn chưa có cách nào phòng ngừa viêm gan tự miễn",
+      "Tăng cường sức khỏe thông qua sinh hoạt, ăn uống, nghỉ ngơi hợp lý",
+      "Khám sức khỏe định kỳ",
+      "Không bỏ qua bất cứ biểu hiện bất thường nào của cơ thể",
+      "Phát hiện và điều trị sớm nếu mắc bệnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm gan tự miễn có nguy hiểm không?",
+      "answer": "Nếu không điều trị, viêm gan tự miễn có thể gây ra một số vấn đề nguy hiểm; trong đó phổ biến hàng đầu là xơ gan. Các biến chứng có thể bao gồm giãn tĩnh mạch thực quản gây chảy máu nguy hiểm, tụ dịch ổ bụng, suy gan và ung thư gan."
+    },
+    {
+      "question": "Viêm gan tự miễn có lây không?",
+      "answer": "Do liên quan tới bất ổn trong kích hoạt hệ miễn dịch phản ứng chống lại tế bào gan; nguyên nhân gây bệnh không bắt nguồn từ vi rút như viêm gan B/C nên viêm gan tự miễn không phải là một bệnh lây nhiễm."
+    },
+    {
+      "question": "Phòng ngừa viêm gan tự miễn ra sao?",
+      "answer": "Cho tới nay vẫn chưa có cách nào phòng ngừa viêm gan tự miễn. Việc tốt nhất là tăng cường sức khỏe thông qua sinh hoạt, ăn uống, nghỉ ngơi. Nên khám sức khỏe định kỳ và đừng bỏ qua bất cứ biểu hiện bất thường nào để phát hiện và điều trị sớm nếu mắc bệnh."
+    },
+    {
+      "question": "Viêm gan tự miễn có chữa khỏi được không?",
+      "answer": "Viêm gan tự miễn là bệnh mạn tính và chưa có phương pháp điều trị dứt điểm. Tuy nhiên, bệnh hoàn toàn có thể kiểm soát bằng thuốc nếu được phát hiện và điều trị kịp thời. Sau 3 năm điều trị, khoảng 80% người bệnh nhận thấy bệnh được kiểm soát tốt. Mục tiêu điều trị là làm chậm hoặc ngăn ngừa sự tấn công của hệ miễn dịch tới gan."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như hệ thống miễn dịch của cơ thể tấn công các tế bào gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-tu-mien",
+        "lupus-ban-do-he-thong",
+        "xo-gan-mat-nguyen-phat"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy gan bị viêm và tổn thương. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-gan-tu-mien", "viem-gan-do-ruou", "viem-gan-b"]
+    },
+    {
+      "question": "Tôi hay bị viêm gan mạn tính. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-tu-mien",
+        "viem-gan-b-man",
+        "viem-gan-c-man"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như rối loạn tự miễn dịch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-tu-mien",
+        "lupus-ban-do-he-thong",
+        "viem-khop-dang-thap"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như mắc các bệnh tự miễn như bệnh Grave, bệnh viêm ruột, xơ cứng bì, viêm tuyến giáp, đái tháo đường tuýp 1, bệnh viêm loét đại tràng hay hội chứng Hội chứng Sjögren. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-tu-mien",
+        "benh-tu-mien-da-he-thong",
+        "lupus-ban-do-he-thong"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tinh thần căng thẳng, sử dụng các loại thuốc như statin và hydralazine hay thuống kháng sinh nitrofurantoin và minocycline. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-gan-tu-mien",
+        "viem-gan-do-thuoc",
+        "roi-loan-tam-than"
+      ]
+    },
+    {
+      "question": "Tôi hay bị mệt mỏi uể oải. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-gan-tu-mien", "suy-gian", "thieu-mau"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như bụng cảm thấy khó chịu, bị viêm hoặc kích ứng da, ngứa da, vàng da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-gan-tu-mien", "viem-gan-b", "viem-gan-c"]
+    },
+    {
+      "question": "Tôi đang cảm thấy vàng lòng trắng mắt, đau nhức xương khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-gan-tu-mien", "viem-gan-b", "viem-gan-c"]
+    },
+    {
+      "question": "Tôi hay bị buồn nôn hoặc nôn ói, nước tiểu sẫm màu hơn, phân bạc màu, chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-gan-tu-mien", "viem-gan-cap", "viem-gan-b"]
     }
   ]
 }

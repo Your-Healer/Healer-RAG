@@ -1,39 +1,144 @@
 {
   "disease_id": "ung-thu-vu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vú",
+  "disease_alternative_names": [
+    "Ung thư biểu mô tuyến vú",
+    "Ung thư ống tuyến vú (ductal carcinoma)",
+    "Ung thư tiểu thùy (lobular carcinoma)",
+    "Ung thư vú dạng viêm"
+  ],
+  "disease_definition": "Ung thư vú (breast cancer) là bệnh lý u vú ác tính khi các tế bào ác tính hình thành từ trong mô tuyến vú. Các tế bào ung thư sau đó có thể phát triển lan rộng ra toàn bộ vú và di căn sang các bộ phận khác trên cơ thể. Đây là loại ung thư thường gặp nhất ở nữ giới, chiếm đến 11.7% tổng số các loại bệnh ung thư.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Xuất hiện khối u ở vú",
+      "description": "Người bệnh có thể sờ thấy khối u ở vú, gần xung quanh vú hoặc dưới nách. Đây thường là dấu hiệu đầu tiên được phát hiện."
+    },
+    {
+      "name": "Dịch từ núm vú có máu",
+      "description": "Sự xuất hiện của dịch tiết, đặc biệt là dịch có lẫn máu từ núm vú là một dấu hiệu cảnh báo cần được thăm khám ngay."
+    },
+    {
+      "name": "Vết lõm da vú hoặc dày da vú",
+      "description": "Da vú có vết lõm hoặc trở nên dày hơn, thay đổi kết cấu là dấu hiệu cần lưu ý."
+    },
+    {
+      "name": "Đau nhức vùng vú hoặc núm vú",
+      "description": "Cảm giác đau hoặc khó chịu kéo dài ở vùng vú hoặc núm vú, không liên quan đến chu kỳ kinh nguyệt."
+    },
+    {
+      "name": "Biểu hiện tụt núm vú",
+      "description": "Núm vú bị tụt vào trong, đặc biệt là khi trước đây núm vú bình thường."
+    },
+    {
+      "name": "Vú có sự thay đổi về kích thước và hình dáng",
+      "description": "Sự thay đổi bất thường về kích thước, hình dáng của một bên vú so với bên còn lại."
+    },
+    {
+      "name": "Da vùng vú bị sưng đỏ",
+      "description": "Da vùng vú, quầng vú hoặc núm vú có biểu hiện vảy, đỏ hoặc sưng không đáp ứng với điều trị thông thường."
+    },
+    {
+      "name": "Sần da cam",
+      "description": "Vết lõm da vú giống như da quả cam, còn gọi là hiện tượng sần da cam, thường là dấu hiệu của giai đoạn tiến triển."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Theo quy luật tự nhiên, trong cơ thể con người ai cũng mang một nguy cơ ung thư vú tiềm tàng trong suốt cuộc đời và nguy cơ này tăng lên theo độ tuổi.",
+    "related_factors": "Có nhiều yếu tố làm tăng hoặc thúc đẩy sự phát triển của ung thư vú như yếu tố di truyền (đột biến gen BRCA1, BRCA2), yếu tố nội tiết, môi trường và lối sống.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Lớn tuổi",
+    "Bản thân có các bệnh ác tính hoặc lành tính tại vú",
+    "Ít tham gia các hoạt động thể chất",
+    "Chế độ ăn uống không lành mạnh",
+    "Sử dụng nhiều rượu bia, thuốc lá",
+    "Thừa cân, béo phì",
+    "Dậy thì sớm hoặc mãn kinh muộn",
+    "Lớn tuổi mới có con đầu lòng hoặc không sinh con",
+    "Không nuôi con bằng sữa mẹ",
+    "Đột biến gen BRCA1 hoặc BRCA2",
+    "Sử dụng liệu pháp nội tiết tố thay thế",
+    "Tiền sử gia đình có người mắc ung thư vú",
+    "Từng xạ trị vào vùng vú hoặc vùng ngực"
+  ],
+  "complications": [
+    "Di căn sang các mô tế bào lân cận",
+    "Di căn qua hệ thống bạch huyết đến các hạch",
+    "Di căn qua máu đến các cơ quan xa (gan, phổi, xương, não...)",
+    "Suy giảm chất lượng cuộc sống",
+    "Các biến chứng do điều trị như suy giảm miễn dịch, mệt mỏi, rụng tóc",
+    "Rối loạn tâm lý như lo âu, trầm cảm",
+    "Đau mãn tính"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám vú lâm sàng",
+      "Siêu âm vú",
+      "Chụp nhũ ảnh",
+      "Chụp cộng hưởng từ (MRI)",
+      "Xét nghiệm dịch từ núm vú",
+      "Sinh thiết vú"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm vú",
+        "description": "Siêu âm vú thông thường hoặc siêu âm 3D, siêu âm đàn hồi, siêu âm quét thể tích vú tự động giúp đánh giá được tính chất và kích thước của các khối u vú."
+      },
+      {
+        "name": "Chụp nhũ ảnh",
+        "description": "Phương pháp dùng tia X để ghi hình ảnh tuyến vú, với mục đích phát hiện sớm các bất thường và ung thư vú. Với độ nhạy cao đến 70%, nhũ ảnh được xem là phương pháp tầm soát hiệu quả nhất."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Thường được chỉ định khi chưa xác định được bản chất của tổn thương sau khi chụp nhũ ảnh, hoặc với phần vú đã trải qua phẫu thuật tạo hình trước đó."
+      },
+      {
+        "name": "Xét nghiệm dịch từ núm vú",
+        "description": "Khi có dịch tiết bất thường ở núm vú, xét nghiệm tế bào học dịch tiết giúp truy tìm các tế bào ung thư bong ra."
+      },
+      {
+        "name": "Sinh thiết vú",
+        "description": "Phương pháp lấy một phần khối u hoặc lấy hoàn toàn khối u vú để phân tích dưới kính hiển vi về các chỉ số hình thái tế bào và cấu trúc mô vú."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Phương pháp điều trị ung thư vú phụ thuộc vào loại ung thư, giai đoạn bệnh, và tình trạng sức khỏe của người bệnh. Thường sử dụng phối hợp nhiều phương pháp điều trị khác nhau.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Phần lớn bệnh nhân ung thư vú đều được phẫu thuật cắt bỏ khối u. Các phương pháp bao gồm phẫu thuật cắt vú bảo tồn (chỉ cắt khối u và một ít mô xung quanh), phẫu thuật cắt toàn bộ vú, hoặc phẫu thuật cắt vú triệt để cải biên (cắt bỏ vú, hạch nách và một phần cơ ngực)."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng thuốc hóa chất để tiêu diệt các tế bào ung thư hoặc làm chậm sự phát triển của tế bào ung thư. Hóa trị có thể thực hiện trước mổ, sau mổ hoặc khi tế bào ung thư đã di căn xa."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng các chùm tia năng lượng cao để tiêu diệt tế bào ung thư hoặc ngăn chặn sự phát triển của chúng. Cách thức xạ trị được thực hiện tùy thuộc loại và giai đoạn của ung thư."
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Sử dụng các loại thuốc hoặc chế phẩm có tác động \"chọn lọc\" lên một hay nhiều đặc tính riêng biệt của tế bào ung thư. Thường ít gây tác dụng phụ lên tế bào lành so với hóa trị hoặc xạ trị."
+      },
+      {
+        "name": "Liệu pháp nội tiết tố",
+        "description": "Phương pháp điều trị để loại bỏ nội tiết tố hoặc ức chế sự hoạt động của nội tiết tố, từ đó làm ngưng sự phát triển của tế bào ung thư đáp ứng với hormone."
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Sử dụng hệ thống miễn dịch của bệnh nhân để chống lại bệnh ung thư, giúp tăng cường khả năng nhận diện và tiêu diệt tế bào ung thư."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Duy trì chế độ ăn cân bằng, nhiều rau và trái cây, hạn chế chất béo bão hòa",
+      "Tập thể dục đều đặn, ít nhất 4 tiếng mỗi tuần",
+      "Kiểm soát cân nặng ở mức hợp lý",
+      "Giảm stress và duy trì tinh thần tích cực",
+      "Tuân thủ lịch tái khám và theo dõi sau điều trị",
+      "Tự khám vú định kỳ hàng tháng để phát hiện sớm bất thường"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +146,76 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tự khám vú định kỳ mỗi tháng một lần",
+      "Khám tầm soát định kỳ cho phụ nữ từ 40 tuổi trở lên",
+      "Chụp nhũ ảnh hàng năm cho phụ nữ 40-49 tuổi và mỗi 1-2 năm cho người trên 50 tuổi",
+      "Duy trì lối sống lành mạnh, tập thể dục thường xuyên",
+      "Ăn nhiều rau củ quả, giảm chất béo động vật và thực phẩm chế biến sẵn",
+      "Hạn chế uống rượu bia và không hút thuốc",
+      "Duy trì cân nặng hợp lý",
+      "Cho con bú sữa mẹ khi có thể",
+      "Cân nhắc kỹ khi sử dụng liệu pháp hormone thay thế sau mãn kinh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Mặc áo ngực thường xuyên có thể là nguyên nhân ung thư vú không?",
+      "answer": "Hiện vẫn chưa có bằng chứng khoa học nào chứng minh việc mặc áo ngực có thể là nguyên nhân ung thư vú. Theo một nghiên cứu năm 2014 trên khoảng 1.500 phụ nữ bị ung thư vú thì hoàn toàn không tìm thấy bất kỳ mối liên hệ nào giữa việc mặc áo ngực và ung thư vú."
+    },
+    {
+      "question": "Nam giới và trẻ em có bị ung thư vú không?",
+      "answer": "Có, nam giới và trẻ em vẫn có thể mắc ung thư vú nhưng tỷ lệ rất thấp. Ung thư vú ở nam giới chiếm khoảng 1% các trường hợp. Nam giới và trẻ em dưới 18 tuổi chỉ cần đến khám khi vú có triệu chứng bất thường, không cần tham gia tầm soát định kỳ."
+    },
+    {
+      "question": "Ung thư vú chỉ xảy ra ở phụ nữ từ độ tuổi trung niên trở lên?",
+      "answer": "Phụ nữ trẻ vẫn có thể mắc bệnh ung thư vú. Mặc dù phụ nữ từ độ tuổi trung niên trở lên có tỷ lệ mắc bệnh cao hơn, nhưng khoảng 4% trường hợp ung thư vú xâm lấn được chẩn đoán ở phụ nữ dưới 40 tuổi. Điều này có nghĩa là cứ 25 trường hợp ung thư vú xâm lấn thì có một trường hợp xảy ra ở phụ nữ dưới 40 tuổi."
+    },
+    {
+      "question": "Làm thế nào để phát hiện ung thư vú sớm?",
+      "answer": "Để phát hiện ung thư vú sớm, cần thực hiện tự khám vú định kỳ hàng tháng, đi khám sàng lọc định kỳ từ 40 tuổi, và chụp nhũ ảnh theo khuyến cáo của bác sĩ. Phụ nữ từ 40-49 tuổi nên chụp nhũ ảnh hàng năm, và phụ nữ trên 50 tuổi nên chụp mỗi 1-2 năm/lần. Những người có nguy cơ cao (như có tiền sử gia đình) nên bắt đầu tầm soát sớm hơn."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện khối u ở vú và dịch từ núm vú có máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu", "u-nhu-ong-sua", "viem-tuyen-sua"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức vùng vú và vú có sự thay đổi về kích thước và hình dáng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu", "viem-mo-bao-mo-vu", "u-xo-tuyen-vu"]
+    },
+    {
+      "question": "Tôi hay bị sần da cam ở vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu",
+        "ung-thu-vu-giai-doan-muon",
+        "viem-mo-bao-mo-vu"
+      ]
+    },
+    {
+      "question": "Tôi trên 50 tuổi và sờ thấy khối u ở vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu", "u-lanh-tinh-vu", "u-xo-nang-tuyen-vu"]
+    },
+    {
+      "question": "Tôi bị béo phì và sờ thấy hạch ở nách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu", "viem-hach-nach", "viem-mo-bao-mo"]
+    },
+    {
+      "question": "Tôi có mẹ bị ung thư vú và hiện tại thấy núm vú bị tụt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu", "benh-paget-num-vu", "viem-tuyen-sua"]
+    },
+    {
+      "question": "Tôi thấy vú thay đổi kích thước, da vú, quầng vú bị sưng đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu",
+        "viem-tuyen-vu",
+        "ung-thu-vu-dang-viem"
+      ]
+    },
+    {
+      "question": "Tôi bị đau nhức vùng vú, sờ thấy hạch ở nách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu", "viem-tuyen-sua", "viem-hach-nach"]
     }
   ]
 }

@@ -1,58 +1,195 @@
 {
   "disease_id": "xo-gan-mat-bu",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xơ gan mất bù",
+  "disease_alternative_names": [
+    "Xơ gan giai đoạn mất bù",
+    "Decompensated Cirrhosis"
+  ],
+  "disease_definition": "Xơ gan mất bù là sự tiến triển nặng của bệnh xơ gan, đặc trưng bởi dấu hiệu: vàng da, cổ trướng, bệnh não gan, xuất huyết do vỡ giãn tĩnh mạch. Đây là trường hợp cần cấp cứu khẩn cấp, khi gan đã suy giảm nghiêm trọng và không thể thực hiện đầy đủ chức năng của nó.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Vàng da",
+      "description": "Da và mắt chuyển sang màu vàng do tích tụ bilirubin trong máu."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi kéo dài và không thuyên giảm sau khi nghỉ ngơi."
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân không chủ ý, thường kèm theo chán ăn."
+    },
+    {
+      "name": "Dễ chảy máu và bầm tím",
+      "description": "Da dễ bị bầm tím, chảy máu kéo dài hơn bình thường do gan không sản xuất đủ các yếu tố đông máu."
+    },
+    {
+      "name": "Cổ trướng",
+      "description": "Bụng đầy hơi, căng tròn do tích tụ dịch trong ổ bụng."
+    },
+    {
+      "name": "Sưng chân",
+      "description": "Phù chân do giữ nước, thường nặng hơn vào cuối ngày."
+    },
+    {
+      "name": "Rối loạn tâm thần",
+      "description": "Lú lẫn, nói lắp hoặc buồn ngủ do độc tố trong máu ảnh hưởng đến não."
+    },
+    {
+      "name": "Buồn nôn",
+      "description": "Cảm giác buồn nôn, khó chịu ở dạ dày."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn, không muốn ăn uống."
+    },
+    {
+      "name": "Lòng bàn tay đỏ",
+      "description": "Xuất hiện màu đỏ bất thường ở lòng bàn tay."
+    },
+    {
+      "name": "Tinh hoàn bị thu nhỏ",
+      "description": "Kích thước tinh hoàn giảm ở nam giới do rối loạn hormone."
+    },
+    {
+      "name": "Ngứa ngáy bất thường",
+      "description": "Cảm giác ngứa không rõ nguyên nhân trên da."
+    },
+    {
+      "name": "Giãn tĩnh mạch",
+      "description": "Các tĩnh mạch nổi rõ, đặc biệt ở thực quản, dạ dày và trực tràng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Bệnh xơ gan mất bù là giai đoạn nặng của xơ gan. Tình trạng này xảy ra khi sẹo ở gan đã trở nên nghiêm trọng, gây cản trở đến hoạt động bình thường của cơ quan.",
+    "related_factors": "Bất kỳ tổn thương nào xảy ra đối với gan đều có thể dẫn đến sẹo, cuối cùng chuyển dần sang xơ gan mất bù.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Uống nhiều bia, rượu trong thời gian dài",
+    "Viêm gan virus B hoặc viêm gan virus C mạn tính",
+    "Tích tụ chất béo trong gan",
+    "Tích tụ sắt trong gan",
+    "Tích tụ đồng trong gan",
+    "Ống dẫn mật hoạt động không bình thường",
+    "Bệnh gan tự miễn",
+    "Tổn thương đường mật",
+    "Tác dụng phụ của một số loại thuốc, chẳng hạn như Methotrexate"
+  ],
+  "complications": [
+    "Xuất huyết do vỡ giãn tĩnh mạch: thực quản, dạ dày hoặc tá tràng",
+    "Xuất huyết (hiếm gặp) do vỡ búi giãn ở ruột non hoặc đại trực tràng",
+    "Cổ trướng",
+    "Viêm phúc mạc tự phát do vi khuẩn",
+    "Bệnh não gan"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám triệu chứng cụ thể",
+      "Hỏi tiền sử bệnh gan trước đó",
+      "Đánh giá biến chứng của bệnh gan",
+      "Kiểm tra các triệu chứng nghiêm trọng (nếu có)",
+      "Kiểm tra thói quen đại tiện",
+      "Xác định thói quen uống rượu từ trước đến thời điểm khám"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra công thức máu (tiểu cầu giảm), xét nghiệm chất đông máu (prothrombin giảm), albumin máu giảm"
+      },
+      {
+        "name": "Siêu âm ổ bụng",
+        "description": "Phát hiện dịch trong ổ bụng, gan xơ, tĩnh mạch cửa giãn, lách to, có thể thấy khối u khi có biến chứng ung thư gan"
+      },
+      {
+        "name": "Nội soi thực quản dạ dày",
+        "description": "Kiểm tra giãn tĩnh mạch tại thực quản, tĩnh mạch tại dạ dày để đánh giá nguy cơ xuất huyết"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Xơ gan mất bù là một rối loạn phức tạp ảnh hưởng đến nhiều hệ thống trong cơ thể, đòi hỏi cách tiếp cận đặc biệt để quản lý tối ưu ngay từ khi người bệnh nhập viện. Tình trạng này có nhiều lựa chọn điều trị khác nhau, tuy nhiên ở giai đoạn muộn, ghép gan luôn là phương án được ưu tiên.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Theo dõi cân nặng",
+        "description": "Hàng ngày bệnh nhân cần cân để biết mình có bị giữ nước trong bệnh xơ gan không"
+      },
+      {
+        "name": "Điều trị nguyên nhân",
+        "description": "Điều trị thuốc đặc hiệu với viêm gan virus B, C, dừng bia rượu"
+      },
+      {
+        "name": "Thuốc lợi tiểu",
+        "description": "Được dùng khi có phù hoặc cổ trướng để giảm tích tụ dịch"
+      },
+      {
+        "name": "Điều trị dự phòng xuất huyết tiêu hóa",
+        "description": "Ngăn ngừa xuất huyết do vỡ giãn tĩnh mạch thực quản và dạ dày"
+      },
+      {
+        "name": "Ghép gan",
+        "description": "Phương pháp thay thế cho một phần hoặc toàn bộ gan từ người hiến tặng, thường được thực hiện ở giai đoạn muộn"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi sát tình trạng bệnh",
+      "Đến bệnh viện ngay khi có các dấu hiệu nặng",
+      "Tuân thủ đúng phác đồ điều trị của bác sĩ",
+      "Thực hiện chế độ ăn hạn chế muối khi bị cổ trướng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm phòng để tránh tổn thương gan cấp tính do virus",
+      "recommended_for": ["Người chưa nhiễm viêm gan virus B"]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Kiêng hoàn toàn rượu bia",
+      "Quản lý cân nặng hợp lý, tránh thừa cân, béo phì",
+      "Dùng thuốc, lựa chọn thuốc cẩn thận để tránh gây nhiễm độc gan",
+      "Tránh dùng thuốc chống viêm không steroid (NSAID)",
+      "Kiểm soát đái tháo đường",
+      "Quan hệ tình dục an toàn để tránh lây nhiễm virus viêm gan",
+      "Xây dựng chế độ ăn lành mạnh giàu chất xơ từ rau củ quả, trái cây",
+      "Duy trì thói quen tập thể dục đều đặn",
+      "Kiểm tra gan thường xuyên để phát hiện sớm các tổn thương bất thường"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xơ gan mất bù là gì?",
+      "answer": "Xơ gan mất bù là sự tiến triển nặng của bệnh xơ gan, đặc trưng bởi dấu hiệu: vàng da, cổ trướng, bệnh não gan, xuất huyết do vỡ giãn tĩnh mạch. Đây là giai đoạn nặng khi gan không còn đủ khả năng bù trừ và duy trì chức năng bình thường."
+    },
+    {
+      "question": "Xơ gan mất bù có nguy hiểm không?",
+      "answer": "Xơ gan mất bù là trường hợp cần cấp cứu khẩn cấp, chăm sóc tích cực và đôi khi phải chuyển thẳng người bệnh đến giai đoạn ghép gan. Bệnh có nguy cơ gây tử vong cao, lên đến 20-50% tùy theo các loại biến chứng."
+    },
+    {
+      "question": "Xơ gan mất bù điều trị như thế nào?",
+      "answer": "Xơ gan mất bù cần điều trị nguyên nhân nếu có (điều trị viêm gan virus, ngưng rượu bia), điều trị triệu chứng bằng thuốc lợi tiểu khi có phù hoặc cổ trướng, và điều trị dự phòng xuất huyết tiêu hóa. Ở giai đoạn muộn, ghép gan là phương án được ưu tiên."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như vàng da, cổ trướng và bệnh não gan. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan mất bù"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sụt cân và dễ chảy máu, bầm tím. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan mất bù"]
+    },
+    {
+      "question": "Tôi hay bị sưng chân, lú lẫn, nói lắp và buồn ngủ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan mất bù", "Bệnh não gan"]
+    },
+    {
+      "question": "Tôi bị xơ gan mất bù và hiện đang bị xuất huyết tiêu hóa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan mất bù", "Vỡ giãn tĩnh mạch thực quản"]
+    },
+    {
+      "question": "Tôi bị xơ gan mất bù và hiện đang bị cổ trướng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ gan mất bù", "Cổ trướng do xơ gan"]
     }
   ]
 }

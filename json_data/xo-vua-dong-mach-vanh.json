@@ -1,39 +1,127 @@
 {
   "disease_id": "xo-vua-dong-mach-vanh",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xơ vữa động mạch vành",
+  "disease_alternative_names": ["Xơ vữa mạch vành"],
+  "disease_definition": "Xơ vữa động mạch vành hay xơ vữa mạch vành xảy ra khi các mảng bám tích tụ trên thành bên trong động mạch, khiến động mạch trở nên cứng và hẹp. Mảng bám là một chất kết dính được tạo thành từ chất béo, cholesterol, canxi và các chất khác. Khi mảng xơ vữa xuất hiện trên thành bên trong động mạch vành sẽ gây hẹp động mạch vành, dẫn đến thiếu máu cơ tim.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau ngực khi gắng sức",
+      "description": "Đau ngực (đau thắt ngực) khi tập thể dục hay khi làm việc nặng gắng sức. Cơn đau này thường chấm dứt khi nghỉ ngơi."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Cảm giác không đủ không khí để thở, thường xuất hiện khi hoạt động."
+    },
+    {
+      "name": "Mệt mỏi bất thường",
+      "description": "Cảm thấy mệt mỏi hơn bình thường, ngay cả khi thực hiện các hoạt động thông thường."
+    },
+    {
+      "name": "Tức ngực dữ dội",
+      "description": "Trong trường hợp nhồi máu cơ tim, người bệnh có thể cảm thấy tức ngực dữ dội."
+    },
+    {
+      "name": "Đau lan tỏa",
+      "description": "Đau ở một hoặc cả hai cánh tay lan xuống vai, cổ hoặc hàm."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và có thể nôn, thường xảy ra cùng với cơn đau ngực."
+    },
+    {
+      "name": "Tim đập nhanh",
+      "description": "Nhịp tim tăng nhanh bất thường."
+    },
+    {
+      "name": "Đổ mồ hôi",
+      "description": "Đổ mồ hôi lạnh, đặc biệt khi kèm theo các triệu chứng khác."
+    },
+    {
+      "name": "Chóng mặt hoặc ngất xỉu",
+      "description": "Cảm giác chóng mặt, quay cuồng hoặc ngất xỉu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Khi tỷ trọng LDL – Cholesterol hay cholesterol \"xấu\" – quá cao khiến cơ thể không đào thải hết sẽ dần tích tụ trong thành động mạch vành. Cholesterol tiếp tục tích tụ trong lòng động mạch vành, và quá trình cơ thể phản ứng với nó tạo ra mảng bám.",
+    "related_factors": "Mảng bám làm thu hẹp lòng mạch, cản trở lưu lượng máu và có thể vỡ ra, gây hình thành cục máu đông dẫn đến tắc nghẽn động mạch.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá",
+    "Cholesterol xấu (LDL-C) cao",
+    "Thừa cân – béo phì",
+    "Thiếu hoạt động thể chất",
+    "Tăng huyết áp",
+    "Bệnh đái tháo đường"
+  ],
+  "complications": [
+    "Dày lên, hẹp lòng mạch và chặn dòng chảy của máu",
+    "Đau thắt ngực ổn định",
+    "Vỡ mảng bám",
+    "Hình thành cục máu đông",
+    "Tắc nghẽn động mạch vành",
+    "Nhồi máu cơ tim",
+    "Đột tử"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám toàn diện",
+      "Tìm hiểu tiền sử gia đình và bệnh sử cá nhân",
+      "Đánh giá các yếu tố nguy cơ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Xác định chỉ số cholesterol, đường trong máu, chức năng gan và thận."
+      },
+      {
+        "name": "Siêu âm tim",
+        "description": "Cho hình ảnh rõ nét về các van và buồng tim, đánh giá khả năng bơm máu của tim."
+      },
+      {
+        "name": "Đo điện tâm đồ (EKG)",
+        "description": "Đo hoạt động điện và nhịp tim."
+      },
+      {
+        "name": "Nghiệm pháp gắng sức",
+        "description": "Trắc nghiệm gắng sức bằng thảm lăn, siêu âm tim gắng sức xe đạp hoặc siêu âm tim gắng sức bằng thuốc, giúp đánh giá những vùng cơ tim thiếu máu."
+      },
+      {
+        "name": "Chụp MSCT mạch vành",
+        "description": "Phát hiện mức độ tắc nghẽn của các động mạch vành."
+      },
+      {
+        "name": "Chụp mạch vành bằng thông tim",
+        "description": "Phát hiện mức độ tắc nghẽn và có thể can thiệp đặt stent khi cần."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu trong điều trị xơ vữa động mạch vành bao gồm: làm chậm hoặc ngăn chặn sự tích tụ mảng bám, cải thiện triệu chứng, ngăn ngừa các biến chứng và giúp máu lưu thông tốt hơn.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thay đổi lối sống",
+        "description": "Bỏ thuốc lá, thay đổi chế độ ăn uống, giảm căng thẳng và tập thể dục thường xuyên."
+      },
+      {
+        "name": "Điều trị bằng thuốc",
+        "description": "Thuốc kiểm soát huyết áp, giảm cholesterol, quản lý đường huyết, ngăn ngừa sự kết tập tiểu cầu gây cục máu đông."
+      },
+      {
+        "name": "Nong hoặc đặt stent động mạch vành",
+        "description": "Thủ thuật can thiệp để mở rộng động mạch vành bị hẹp và duy trì lòng mạch thông thoáng."
+      },
+      {
+        "name": "Phẫu thuật bắc cầu động mạch vành",
+        "description": "Phẫu thuật tạo đường đi mới cho máu vòng qua chỗ tắc nghẽn trong động mạch vành."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ hướng dẫn của bác sĩ về phác đồ trị bệnh",
+      "Duy trì lối sống khoa học",
+      "Đi tái khám đúng lịch hẹn",
+      "Theo dõi các chỉ số sức khỏe như huyết áp, cholesterol và đường huyết"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +129,49 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Có chế độ ăn uống lành mạnh",
+      "Hoạt động thể chất đều đặn, ít nhất 30 phút mỗi ngày vào hầu hết các ngày trong tuần",
+      "Duy trì cân nặng hợp lý",
+      "Kiểm soát các vấn đề sức khỏe khác, đặc biệt là bệnh đái tháo đường, tăng huyết áp và cholesterol cao",
+      "Nói \"không\" với thuốc lá",
+      "Kiểm tra sức khỏe tim mạch định kỳ"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xơ vữa động mạch vành là gì?",
+      "answer": "Xơ vữa động mạch vành hay xơ vữa mạch vành xảy ra khi các mảng bám tích tụ trên thành bên trong động mạch, khiến động mạch trở nên cứng và hẹp. Mảng bám là một chất kết dính được tạo thành từ chất béo, cholesterol, canxi và các chất khác. Khi mảng xơ vữa xuất hiện trên thành bên trong động mạch vành sẽ gây hẹp động mạch vành, dẫn đến thiếu máu cơ tim."
+    },
+    {
+      "question": "Có thể phòng ngừa xơ vữa động mạch vành không?",
+      "answer": "Tuy không ngăn ngừa được hoàn toàn chứng xơ vữa động mạch vành nhưng bạn có thể giảm nguy cơ mắc bệnh bằng cách: có chế độ ăn uống lành mạnh, hoạt động thể chất đều đặn, duy trì cân nặng hợp lý, kiểm soát các vấn đề sức khỏe khác, nói không với thuốc lá, và kiểm tra sức khỏe tim mạch định kỳ."
+    },
+    {
+      "question": "Xơ vữa động mạch vành có nguy hiểm không?",
+      "answer": "Nếu không được phát hiện và có biện pháp điều trị phù hợp, người bệnh sẽ đối mặt với các vấn đề sức khỏe nguy hiểm như nhồi máu cơ tim và thậm chí có thể đột tử. Các biến chứng nguy hiểm bao gồm dày lên và hẹp lòng mạch, vỡ mảng bám, hình thành cục máu đông, tắc nghẽn động mạch vành và nhồi máu cơ tim."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau ngực khi tập thể dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ vữa động mạch vành"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó thở và mệt mỏi hơn bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ vữa động mạch vành"]
+    },
+    {
+      "question": "Tôi hay bị đau ngực, chấm dứt khi nghỉ ngơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ vữa động mạch vành", "Đau thắt ngực ổn định"]
+    },
+    {
+      "question": "Tôi bị cholesterol xấu cao và hiện đang bị đau ngực khi gắng sức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ vữa động mạch vành"]
+    },
+    {
+      "question": "Tôi bị xơ vữa động mạch vành và hiện đang bị nhồi máu cơ tim. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xơ vữa động mạch vành", "Nhồi máu cơ tim"]
     }
   ]
 }

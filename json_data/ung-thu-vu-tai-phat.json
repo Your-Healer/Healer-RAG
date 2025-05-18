@@ -1,39 +1,180 @@
 {
   "disease_id": "ung-thu-vu-tai-phat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư vú tái phát",
+  "disease_alternative_names": [
+    "Ung thư vú tái phát tại chỗ",
+    "Ung thư vú tái phát tại vùng",
+    "Ung thư vú tái phát xa",
+    "Ung thư vú di căn"
+  ],
+  "disease_definition": "Ung thư vú tái phát là ung thư vú quay trở lại sau khi điều trị ban đầu. Mặc dù phương pháp điều trị ban đầu nhằm mục đích loại bỏ tất cả các tế bào ung thư, nhưng một số ít tế bào có thể trốn tránh điều trị và sống sót, chúng nhân lên, trở thành ung thư vú tái phát. Bệnh có thể tái phát ở cùng vị trí với ung thư ban đầu (tái phát tại chỗ) hoặc nó có thể lan sang các vùng khác (di căn xa).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Xuất hiện khối u mới ở vú hoặc vùng săn chắc không đều",
+      "description": "Sau phẫu thuật cắt rộng khối u, ung thư có thể tái phát ở các mô vú còn lại, tạo thành khối u mới hoặc vùng săn chắc không đều."
+    },
+    {
+      "name": "Thay đổi da vú",
+      "description": "Tái phát tại chỗ có thể gây ra các thay đổi về màu sắc, kết cấu của da vú sau phẫu thuật cắt rộng khối u."
+    },
+    {
+      "name": "Viêm da hoặc vùng da mẩn đỏ",
+      "description": "Da vú có thể xuất hiện tình trạng viêm hoặc mẩn đỏ tại vị trí tái phát ung thư."
+    },
+    {
+      "name": "Tiết dịch núm vú",
+      "description": "Dịch tiết ra từ núm vú sau khi đã điều trị ung thư vú ban đầu có thể là dấu hiệu của tái phát."
+    },
+    {
+      "name": "Nốt sần không đau trên hoặc dưới da thành ngực",
+      "description": "Sau phẫu thuật đoạn nhũ, ung thư có thể tái phát trong mô nền thành ngực, biểu hiện bằng các nốt sần không đau trên hoặc dưới da."
+    },
+    {
+      "name": "Vùng dày lên dọc theo hoặc gần vết sẹo mổ đoạn nhũ",
+      "description": "Vùng da dày lên bất thường dọc theo hoặc gần vết sẹo phẫu thuật đoạn nhũ có thể là dấu hiệu tái phát."
+    },
+    {
+      "name": "Sưng hạch bạch huyết",
+      "description": "Sưng hạch dưới cánh tay, trong nách, gần xương đòn, trong rãnh phía trên xương đòn, hoặc ở cổ có thể là dấu hiệu của tái phát tại vùng."
+    },
+    {
+      "name": "Đau dai dẳng và ngày càng nặng hơn",
+      "description": "Đau ngực, lưng hoặc hông liên tục và có xu hướng nặng dần, đặc biệt là đau xương, có thể là dấu hiệu của di căn xa đến xương."
+    },
+    {
+      "name": "Ho dai dẳng",
+      "description": "Ho không dứt và không có nguyên nhân khác có thể là dấu hiệu của di căn phổi."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Khó thở không giải thích được bởi các nguyên nhân thông thường có thể là dấu hiệu của di căn phổi hoặc màng phổi."
+    },
+    {
+      "name": "Ăn mất ngon",
+      "description": "Chán ăn kéo dài có thể là dấu hiệu của di căn gan hoặc tiến triển của bệnh ung thư."
+    },
+    {
+      "name": "Giảm cân trong thời gian ngắn",
+      "description": "Sụt cân không rõ nguyên nhân trong thời gian ngắn có thể là dấu hiệu của di căn xa."
+    },
+    {
+      "name": "Nhức đầu dữ dội",
+      "description": "Đau đầu dữ dội và dai dẳng có thể là dấu hiệu của di căn não."
+    },
+    {
+      "name": "Co giật",
+      "description": "Cơn co giật có thể là biểu hiện của di căn não."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư vú tái phát xảy ra khi các tế bào là một phần của bệnh ung thư vú ban đầu tách ra khỏi khối u ban đầu và ẩn gần đó trong vú hoặc ở một bộ phận khác của cơ thể, sau đó bắt đầu phát triển trở lại.",
+    "related_factors": "Các tế bào ung thư có thể không hoạt động trong nhiều năm mà không gây hại. Sau đó có điều gì đó kích hoạt các tế bào này, chúng phát triển và lan sang các bộ phận khác của cơ thể. Hiện tại các nghiên cứu chưa rõ tại sao điều này xảy ra.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi trẻ dưới 35 vào thời điểm chẩn đoán ung thư vú ban đầu",
+    "Béo phì, chỉ số khối cơ thể cao",
+    "Ung thư vú bộ ba âm tính (không có thụ thể đối với estrogen, progesterone và Her2)",
+    "Ung thư vú dạng viêm",
+    "Di căn hạch tại thời điểm chẩn đoán ban đầu",
+    "Kích thước khối u lớn",
+    "Bờ phẫu thuật dương tính (bờ rìa phẫu thuật cắt rộng khối u còn tế bào ác tính)",
+    "Không điều trị xạ trị sau phẫu thuật cắt rộng khối u",
+    "Không được điều trị nội tiết đối với ung thư vú dương tính với thụ thể hormone"
+  ],
+  "complications": [
+    "Đau đớn kéo dài do di căn xương",
+    "Khó thở, ho do di căn phổi",
+    "Suy giảm chức năng gan do di căn gan",
+    "Rối loạn thần kinh, co giật, nhức đầu do di căn não",
+    "Căng thẳng, lo âu, trầm cảm",
+    "Mệt mỏi kéo dài và suy nhược cơ thể",
+    "Suy giảm chất lượng cuộc sống",
+    "Giảm tuổi thọ"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng để phát hiện các khối u hoặc thay đổi tại vị trí điều trị trước đó",
+      "Chụp cộng hưởng từ (MRI)",
+      "Chụp cắt lớp vi tính (CT)",
+      "Chụp X-quang",
+      "Xạ hình xương",
+      "Chụp PET",
+      "Sinh thiết vú hoặc mô nghi ngờ"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm",
+        "description": "Kiểm tra hình ảnh để phát hiện các bất thường trong mô vú hoặc vùng xung quanh, đặc biệt hữu ích để phân biệt giữa u nang và u đặc."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Sử dụng từ trường và sóng vô tuyến để tạo hình ảnh chi tiết của các cấu trúc bên trong cơ thể, giúp phát hiện tái phát ung thư ở mô vú hoặc thành ngực."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Tạo hình ảnh cắt ngang của cơ thể, hữu ích trong việc phát hiện di căn đến các cơ quan khác như phổi, gan, và não."
+      },
+      {
+        "name": "Xạ hình xương",
+        "description": "Sử dụng một lượng nhỏ chất phóng xạ để phát hiện các vùng bất thường trong xương, giúp phát hiện di căn xương."
+      },
+      {
+        "name": "Chụp PET",
+        "description": "Sử dụng glucose phóng xạ để phát hiện các vùng có hoạt động trao đổi chất cao trong cơ thể, hữu ích để phát hiện các khu vực ung thư tái phát hoặc di căn."
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô từ khu vực nghi ngờ để xác định bản chất tế bào và sinh học của mô tái phát, giúp quyết định phương pháp điều trị phù hợp."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Các lựa chọn điều trị phụ thuộc vào vị trí tái phát, tình trạng thụ thể nội tiết, loại điều trị trước đó và sức khỏe tổng quát của người bệnh. Mục tiêu của điều trị ung thư vú di căn không phải là chữa khỏi bệnh mà nhằm kéo dài thời gian sống và giảm các triệu chứng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật",
+        "description": "Đối với tái phát tại chỗ, bác sĩ có thể đề nghị phẫu thuật cắt rộng khối u lần nữa hoặc phẫu thuật cắt bỏ toàn bộ vú (đoạn nhũ). Với tái phát tại vùng hạch, có thể cần nạo vét hạch."
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Được sử dụng sau phẫu thuật cắt rộng tái phát hoặc như phương pháp điều trị chính cho tái phát hạch không thể phẫu thuật. Cũng được dùng để giảm đau trong trường hợp di căn xương hoặc não."
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Được sử dụng khi ung thư âm tính với thụ thể nội tiết hoặc khi liệu pháp nội tiết không còn tác dụng. Cũng được dùng khi bệnh tiến triển nhanh hoặc di căn nhiều nơi."
+      },
+      {
+        "name": "Liệu pháp nội tiết",
+        "description": "Nếu ung thư di căn dương tính với thụ thể nội tiết, đây thường là lựa chọn ưu tiên vì ít tác dụng phụ hơn hóa trị. Bao gồm các thuốc ngăn chặn tác dụng của estrogen và progesterone."
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Nếu tế bào ung thư di căn sản xuất dư thừa protein HER2, các thuốc nhắm trúng đích như Herceptin có thể được sử dụng."
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Hoạt động bằng cách can thiệp vào quá trình ẩn náu của tế bào ung thư khỏi hệ miễn dịch, đặc biệt hiệu quả đối với ung thư vú bộ ba âm tính. Thường được kết hợp với hóa trị."
+      },
+      {
+        "name": "Thuốc làm chắc xương (BPs)",
+        "description": "Giúp giảm nguy cơ gãy xương và đau xương khi di căn xương. Có thể làm giảm nguy cơ tái phát ở những người có nguy cơ cao."
+      },
+      {
+        "name": "Liệu pháp bổ sung không dùng thuốc",
+        "description": "Bao gồm liệu pháp nghệ thuật, khiêu vũ hoặc vận động, bài tập, thiền, âm nhạc trị liệu, thư giãn, yoga để giúp đối phó với các tác dụng phụ của điều trị."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hỏi bác sĩ về bệnh, các lựa chọn điều trị và tiên lượng đáp ứng",
+      "Duy trì mối quan hệ thân thiết với bạn bè và gia đình để nhận hỗ trợ tinh thần và thực tế",
+      "Tìm một người biết lắng nghe để chia sẻ hy vọng và nỗi sợ hãi",
+      "Tham gia các nhóm hỗ trợ bệnh nhân ung thư",
+      "Chuẩn bị trước các câu hỏi khi đi khám bác sĩ",
+      "Mang theo hồ sơ và xét nghiệm trước đây khi gặp bác sĩ mới",
+      "Lập danh sách các loại thuốc đang sử dụng để thông báo cho bác sĩ",
+      "Rủ người thân đi cùng khi đi khám để giúp ghi nhớ thông tin"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +182,88 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tuân thủ điều trị hóa trị ban đầu nếu có nguy cơ tái phát cao",
+      "Tuân thủ xạ trị hỗ trợ sau phẫu thuật cắt rộng khối u hoặc đoạn nhũ",
+      "Sử dụng liệu pháp nhắm trúng đích nếu ung thư dương tính với protein HER2",
+      "Tuân thủ liệu pháp nội tiết tố ít nhất 5 năm nếu ung thư dương tính với thụ thể nội tiết",
+      "Sử dụng thuốc làm chắc xương để giảm nguy cơ di căn xương",
+      "Duy trì chế độ ăn uống lành mạnh với nhiều rau, trái cây và ngũ cốc",
+      "Hạn chế uống rượu",
+      "Duy trì cân nặng khỏe mạnh",
+      "Tập thể dục thường xuyên"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Tỷ lệ tái phát ung thư vú là bao nhiêu?",
+      "answer": "Ung thư vú tái phát có thể xảy ra sau vài tháng hoặc nhiều năm sau lần điều trị đầu tiên. Tỷ lệ tái phát phụ thuộc vào nhiều yếu tố như giai đoạn ung thư ban đầu, đặc điểm sinh học của khối u, và phương pháp điều trị được áp dụng."
+    },
+    {
+      "question": "Làm sao để ung thư không tái phát?",
+      "answer": "Bác sĩ không biết chính xác tại sao một số người bệnh bị ung thư vú tái phát. Tuy nhiên, để giảm nguy cơ tái phát, bạn nên tuân thủ điều trị ban đầu đầy đủ, duy trì lối sống lành mạnh, tập thể dục thường xuyên, và duy trì cân nặng hợp lý."
+    },
+    {
+      "question": "Ung thư tái phát có chữa được không?",
+      "answer": "Ung thư vú tái phát khó điều trị hơn chẩn đoán ban đầu. Tuy nhiên, điều trị có thể loại bỏ được ung thư vú tái phát tại chỗ, tại vùng hạch hoặc di căn xa. Ngay cả khi không thể điều trị khỏi, các phương pháp hiện đại có thể giúp kiểm soát bệnh trong thời gian dài và cải thiện chất lượng cuộc sống."
+    },
+    {
+      "question": "Ung thư vú tái phát sống được bao lâu (sau 5 năm chẩn đoán)?",
+      "answer": "Nhiều yếu tố ảnh hưởng đến khả năng sống sót sau khi ung thư vú tái phát. Tình trạng của mỗi người là khác nhau. Cơ hội sống của người bệnh ung thư vú tái phát sau 5 năm chẩn đoán khá cao, đặc biệt nếu phát hiện sớm và điều trị kịp thời."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như xuất hiện khối u mới ở vú hoặc vùng săn chắc không đều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-tai-phat",
+        "u-lanh-tinh-vu",
+        "viem-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau và thay đổi da vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-tai-phat",
+        "viem-da-vu",
+        "viem-tuyen-sua"
+      ]
+    },
+    {
+      "question": "Tôi hay bị viêm da hoặc vùng da mẩn đỏ ở vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-tai-phat",
+        "viem-da-vu",
+        "viem-da-di-ung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiết dịch núm vú. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu-tai-phat", "u-ong-sua", "viem-tuyen-sua"]
+    },
+    {
+      "question": "Tôi có một hoặc nhiều nốt sần không đau trên hoặc dưới da thành ngực. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu-tai-phat", "u-mo-duoi-da", "u-xo-da"]
+    },
+    {
+      "question": "Tôi có một vùng mới dày lên dọc theo hoặc gần vết sẹo mổ đoạn nhũ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-vu-tai-phat", "seo-loi", "u-xo-seo"]
+    },
+    {
+      "question": "Tôi bị sưng hạch bạch huyết dưới cánh tay, trong nách. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-tai-phat",
+        "viem-hach-bach-huyet",
+        "lymphoma"
+      ]
+    },
+    {
+      "question": "Tôi bị đau dai dẳng và ngày càng nặng hơn như đau ngực, lưng hoặc hông. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-vu-tai-phat",
+        "thoat-vi-dia-dem",
+        "loang-xuong"
+      ]
     }
   ]
 }

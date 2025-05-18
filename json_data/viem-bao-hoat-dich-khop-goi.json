@@ -1,39 +1,114 @@
 {
   "disease_id": "viem-bao-hoat-dich-khop-goi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bao hoạt dịch khớp gối",
+  "disease_alternative_names": [
+    "Viêm màng hoạt dịch khớp gối",
+    "Viêm bao hoạt dịch đầu gối"
+  ],
+  "disease_definition": "Viêm bao hoạt dịch khớp gối là tình trạng viêm túi chứa dịch lỏng ở khớp gối. Bao hoạt dịch giúp giảm ma sát và là miếng đệm chịu lực giữa hai đầu xương và gân, cơ, da gần khớp. Bao hoạt dịch ở bất kỳ vị trí nào trong khớp gối cũng đều có khả năng bị viêm. Tuy nhiên, vị trí trước xương bánh chè, phía bên trong đầu gối và bên dưới khớp là dễ bị viêm nhất.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau và sưng ở vùng gối",
+      "description": "Vùng gối có cảm giác ấm nóng, sưng và đau khi đi lại."
+    },
+    {
+      "name": "Đau kéo dài khi nghỉ ngơi",
+      "description": "Cơn đau không thuyên giảm hoặc chỉ giảm nhẹ kể cả khi nghỉ ngơi."
+    },
+    {
+      "name": "Xuất hiện dần theo thời gian",
+      "description": "Triệu chứng thường xuất hiện từ nhẹ tới nặng, diễn tiến nặng dần theo thời gian do ma sát và kích thích bao hoạt dịch trong các động tác yêu cầu dùng đầu gối nhiều."
+    },
+    {
+      "name": "Cảm giác nóng ở vùng gối",
+      "description": "Khu vực khớp gối bị viêm thường có cảm giác nóng hơn bình thường khi chạm vào."
+    },
+    {
+      "name": "Hạn chế vận động khớp gối",
+      "description": "Khó khăn khi gập, duỗi hoặc xoay khớp gối do đau và sưng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân chính gây viêm bao hoạt dịch khớp gối là do ma sát và kích thích quá mức lên bao hoạt dịch trong các động tác sử dụng đầu gối. Đa số trường hợp là hậu quả của sự ma sát cũng như kích thích bao hoạt dịch khi sử dụng đầu gối nhiều.",
+    "related_factors": "Một cú đánh mạnh vào khớp gối có thể ngay lập tức làm xuất hiện triệu chứng viêm bao hoạt dịch. Tuy nhiên, đa số các triệu chứng thường xuất hiện và tiến triển dần dần theo thời gian.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Khớp gối phải chịu áp lực thường xuyên, kéo dài",
+    "Vận động khớp gối quá mức",
+    "Chấn thương khớp gối",
+    "Nhiễm trùng bao hoạt dịch",
+    "Biến chứng từ bệnh viêm xương khớp (thoái hóa khớp), gout, viêm khớp dạng thấp",
+    "Quỳ gối quá lâu (như người làm nghề thợ lót thảm, thợ làm vườn, thợ sửa ống nước)",
+    "Thừa cân, béo phì",
+    "Thoái hóa khớp",
+    "Chơi các môn thể thao có tính đối kháng (bóng đá, đấu vật, bóng chuyền)"
+  ],
+  "complications": [
+    "Biến dạng khớp, dính khớp hay tràn dịch khớp",
+    "Yếu cơ, teo cơ dẫn tới suy giảm chức năng vận động, thậm chí là tàn phế",
+    "Tổn thương van tim, gây ra nhiều bệnh mạn tính như bệnh tim mạch (trong trường hợp viêm bao hoạt dịch khớp gối do thấp khớp cấp)",
+    "Thoát vị bao hoạt dịch khớp gối (u nang bao hoạt dịch) tái phát nhiều lần, làm xuất hiện cơn đau mạn tính"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thu thập thông tin tiền sử bệnh",
+      "Khám thực thể để đánh giá thời gian khởi phát, mức độ nghiêm trọng của các triệu chứng",
+      "So sánh tình trạng hai đầu gối",
+      "Ấn nhẹ vào khu vực quanh khớp gối để đánh giá tình trạng sưng, nóng và nguồn gốc cơn đau",
+      "Kiểm tra da ở khu vực ảnh hưởng",
+      "Chuyển động nhẹ đầu gối để đánh giá phạm vi chuyển động"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "X-quang",
+        "description": "Giúp phát hiện vấn đề ở xương hoặc viêm khớp liên quan đến tình trạng viêm bao hoạt dịch."
+      },
+      {
+        "name": "MRI",
+        "description": "Sử dụng sóng radio và từ trường mạnh tạo ra hình ảnh chi tiết về cấu trúc xương khớp, giúp bác sĩ quan sát được vị trí mô mềm như bao hoạt dịch."
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Giúp bác sĩ đánh giá rõ hơn về tình trạng sưng tấy ở vùng bao hoạt dịch bị viêm."
+      },
+      {
+        "name": "Phân tích dịch khớp",
+        "description": "Lấy một ít dịch ở bao hoạt dịch để kiểm tra, thường được thực hiện khi nghi ngờ nhiễm trùng hoặc bệnh gout."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm bao hoạt dịch đầu gối thường cải thiện theo thời gian. Vì thế, việc điều trị chủ yếu là để thuyên giảm triệu chứng. Tuỳ vào nguyên nhân gây viêm và bao hoạt dịch nào ảnh hưởng, bác sĩ sẽ đưa ra hướng điều trị phù hợp.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc",
+        "description": "Nếu viêm do nhiễm trùng, bệnh nhân sẽ được dùng kháng sinh thích hợp. Đối với viêm bao hoạt dịch thông thường, có thể sử dụng thuốc kháng viêm không steroid (NSAIDs) như ibuprofen hoặc naproxen."
+      },
+      {
+        "name": "Vật lý trị liệu",
+        "description": "Kỹ thuật viên sẽ hướng dẫn các bài tập để cải thiện sự linh hoạt và tăng cường sức mạnh cho khớp gối, giúp cải thiện các cơn đau nhức và giảm nguy cơ tái phát."
+      },
+      {
+        "name": "Tiêm corticosteroid",
+        "description": "Nếu tình trạng viêm kéo dài và không đáp ứng với các phương pháp điều trị cơ bản, có thể tiêm corticosteroid vào vị trí bao hoạt dịch bị ảnh hưởng để cải thiện tình trạng viêm."
+      },
+      {
+        "name": "Chọc hút dịch",
+        "description": "Bác sĩ dùng một chiếc kim nhỏ đưa vào bao hoạt dịch và hút bớt lượng dịch viêm. Sau đó, người bệnh có thể cần mang băng cố định đầu gối để giảm sưng."
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Nếu viêm bao khớp mạn tính nặng hay tái phát nhiều lần và không đáp ứng với những phương pháp điều trị khác, có thể cần phẫu thuật để loại bỏ bao hoạt dịch."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Giảm hoạt động khớp gối: Tạm ngưng những hoạt động dẫn tới viêm bao hoạt dịch, hạn chế các chuyển động khiến cơn đau trở trầm trọng hơn",
+      "Sử dụng thuốc giảm đau không kê đơn: Sử dụng ngắn hạn những thuốc giảm đau, kháng viêm để cải thiện tình trạng đau nhức",
+      "Chườm đá: Đặt đá vào khăn hoặc túi chườm lạnh rồi chườm lên đầu gối khoảng 20 phút/lần, vài lần trong ngày",
+      "Quấn băng thun: Dùng băng thun hay phụ kiện bảo vệ đầu gối để giảm sưng",
+      "Nâng cao đầu gối: Lấy gối kê dưới đầu gối để cải thiện tình trạng sưng tấy"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +116,98 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Thực hiện tư thế đúng trong sinh hoạt và lao động",
+      "Tránh vận động quá sức, hạn chế các tư thế ngồi xổm, quỳ gối",
+      "Nếu phải quỳ trong thời gian dài, nên thư giãn cho chân bằng cách duỗi thẳng, xoa bóp nhẹ nhàng",
+      "Khi chơi các môn thể thao đối kháng, nên dùng vật dụng bảo hộ chuyên dụng để bảo vệ khớp gối",
+      "Chế độ ăn uống khoa học, đảm bảo bổ sung đủ dưỡng chất",
+      "Duy trì cân nặng hợp lý",
+      "Thường xuyên khám tổng quát (ít nhất 6 tháng/lần) để tầm soát các bệnh xương khớp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bao hoạt dịch khớp gối có tự khỏi không?",
+      "answer": "Nếu nghỉ ngơi kết hợp những biện pháp chăm sóc tại nhà đúng cách, các triệu chứng viêm bao hoạt dịch khớp có thể biến mất sau vài tuần. Tuy nhiên, nếu các triệu chứng kéo dài hơn 2-3 tuần sau khi nghỉ ngơi và điều trị tại nhà, người bệnh nên đi khám càng sớm càng tốt để có biện pháp can thiệp kịp thời."
+    },
+    {
+      "question": "Viêm bao hoạt dịch khớp gối có nguy hiểm không?",
+      "answer": "Khi được phát hiện và điều trị sớm, bệnh không đáng lo ngại. Tuy nhiên, nếu trì hoãn chữa trị, bao hoạt dịch bị viêm tăng sẽ làm giảm dịch nhầy bất thường, thay đổi tính chất của dịch khớp gối, từ đó tạo áp lực lên sụn, xương và các mô trong khớp, gây nhiều biến chứng nghiêm trọng như biến dạng khớp, dính khớp, tràn dịch khớp, thậm chí dẫn đến tàn phế."
+    },
+    {
+      "question": "Viêm bao hoạt dịch khớp gối có thời gian phục hồi là bao lâu?",
+      "answer": "Thời gian phục hồi thường từ vài tuần nếu được điều trị đúng cách. Viêm bao hoạt dịch không khỏi hoặc tái phát nhiều lần được xem là tình trạng viêm mạn tính. Khi chuyển sang giai đoạn mạn tính, việc điều trị sẽ khó khăn hơn và thời gian phục hồi có thể kéo dài hơn."
+    },
+    {
+      "question": "Làm thế nào để giảm đau khi bị viêm bao hoạt dịch khớp gối?",
+      "answer": "Để giảm đau khi bị viêm bao hoạt dịch khớp gối, người bệnh có thể: Giảm hoạt động khớp gối, tạm ngưng những hoạt động gây đau; Sử dụng thuốc giảm đau không kê đơn như aspirin, ibuprofen hay naproxen; Chườm đá lên đầu gối khoảng 20 phút mỗi lần, vài lần trong ngày; Quấn băng thun để giảm sưng; Nâng cao đầu gối bằng cách kê gối dưới đầu gối."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như vùng gối có cảm giác ấm nóng, sưng và đau khi đi lại. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-goi",
+        "viem-khop-goi",
+        "thoai-hoa-khop-goi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy cơn đau không thuyên giảm hoặc chỉ giảm nhẹ kể cả khi nghỉ ngơi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-goi",
+        "viem-khop-dang-thap",
+        "gout"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khớp gối phải chịu áp lực thường xuyên, kéo dài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-goi",
+        "thoai-hoa-khop-goi",
+        "viem-gan-goi"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như vận động khớp gối quá mức. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-goi",
+        "viem-gan-goi",
+        "thoai-hoa-khop-goi"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chấn thương khớp gối. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-goi",
+        "dut-day-chang-cheo-truoc",
+        "tran-dich-khop-goi"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như biến chứng từ bệnh viêm xương khớp (thoái hóa khớp), gout, viêm khớp dạng thấp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-goi",
+        "viem-khop-dang-thap",
+        "gout"
+      ]
+    },
+    {
+      "question": "Tôi hay bị biến dạng khớp, dính khớp hay tràn dịch khớp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-goi",
+        "viem-khop-dang-thap",
+        "thoai-hoa-khop-goi"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức đầu gối, đi khập khiễng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bao-hoat-dich-khop-goi",
+        "thoai-hoa-khop-goi",
+        "dut-day-chang-cheo-truoc"
+      ]
     }
   ]
 }

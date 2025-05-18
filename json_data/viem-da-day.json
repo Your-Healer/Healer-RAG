@@ -1,58 +1,203 @@
 {
   "disease_id": "viem-da-day",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm dạ dày",
+  "disease_alternative_names": [
+    "Viêm niêm mạc dạ dày",
+    "Viêm dạ dày cấp tính",
+    "Viêm dạ dày mạn tính"
+  ],
+  "disease_definition": "Viêm dạ dày hay còn được biết là viêm niêm mạc dạ dày là một bệnh lý điển hình thuộc sức khỏe tiêu hóa. Bệnh là tình trạng bề mặt niêm mạc bị tổn thương, bào mòn do vi khuẩn hoặc những tác nhân khác. Viêm dạ dày đặc trưng là sự thấm nhập các tế bào viêm, có hai loại: viêm dạ dày cấp tính và viêm dạ dày mạn tính.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau bụng vùng thượng vị",
+      "description": "Đau bụng vùng thượng vị, có thể đau nhiều khi đói hoặc sau ăn hoặc cả hai."
+    },
+    {
+      "name": "Cảm giác trướng bụng ậm ạch",
+      "description": "Cảm giác trướng bụng ậm ạch sau ăn khiến người bệnh không ăn được nhiều như bình thường."
+    },
+    {
+      "name": "Ợ hơi, ợ chua, ợ nóng",
+      "description": "Người bệnh thường xuyên bị ợ hơi, ợ chua, ợ nóng làm khó chịu."
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Người bệnh mất cảm giác thèm ăn, không muốn ăn uống."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Cảm giác buồn nôn và nôn thường xuyên, đặc biệt là sau khi ăn."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Nguyên nhân chính gây viêm dạ dày cấp tính bao gồm: thuốc (Aspirin, thuốc giảm đau chống viêm NSAIDS), rượu, vi khuẩn Helicobacter Pylori (H.P), và stress. Viêm dạ dày mạn tính phổ biến nhất là do nhiễm vi khuẩn Helicobacter Pylori.",
+    "related_factors": "Các yếu tố khác góp phần gây viêm dạ dày bao gồm chấn thương nặng, bỏng, nhiễm khuẩn huyết, bệnh tự miễn, và bệnh crohn.",
+    "transmission_routes": [
+      "Đối với những người bị viêm dạ dày do nhiễm trùng vi khuẩn H.pylori, vi khuẩn có thể lây nhiễm qua đường ăn uống từ người sang người."
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người sống trong môi trường không đảm bảo vệ sinh, tăng khả năng bị nhiễm vi khuẩn H.pylori",
+    "Người lớn tuổi",
+    "Người sử dụng nhiều loại thuốc giảm đau chống viêm (NSAIDS)",
+    "Lạm dụng rượu bia",
+    "Ăn thức ăn cay nóng",
+    "Vệ sinh ăn uống kém"
+  ],
+  "complications": [
+    "Xuất huyết tiêu hóa: nôn ra máu, ỉa phân đen, thiếu máu",
+    "Teo niêm mạc dạ dày",
+    "Dị sản ruột",
+    "Loạn sản",
+    "Ung thư dạ dày"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Nội soi thực quản, dạ dày, tá tràng",
+      "Sinh thiết dạ dày khi cần thiết"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi thực quản, dạ dày, tá tràng",
+        "description": "Bác sĩ sẽ đưa ống nội soi có gắn camera chuyên dụng vào dạ dày của người bệnh. Camera sẽ ghi lại và hiển thị tình trạng viêm và sưng niêm mạc dạ dày."
+      },
+      {
+        "name": "Sinh thiết dạ dày",
+        "description": "Ở một số trường hợp cần thiết, thường là những trường hợp nghi ngờ tiền ung thư, bác sĩ sẽ lấy mẫu mô niêm mạc dạ dày để xét nghiệm."
+      },
+      {
+        "name": "Xét nghiệm chẩn đoán H.pylori",
+        "description": "Khi cần làm xét nghiệm chẩn đoán H.pylori, bác sĩ sẽ lấy mẫu mô niêm mạc dạ dày trong quá trình nội soi để xét nghiệm."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm dạ dày chủ yếu là với viêm dạ dày cấp, điều trị nội khoa bằng thuốc đường uống. Viêm dạ dày cấp có thể tự khỏi mà không cần điều trị, hoặc điều trị giảm tiết axit.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc kháng sinh",
+        "description": "Điều trị cho những trường hợp bị viêm dạ dày do vi khuẩn Helicobacter Pylori (H.P)."
+      },
+      {
+        "name": "Thuốc trung hòa axit",
+        "description": "Thuốc này có công dụng giảm sự tiếp xúc của acid vào niêm mạc và thành dạ dày. Hạn chế được tình trạng viêm làm dịu nhanh các triệu chứng khó chịu."
+      },
+      {
+        "name": "Thuốc ức chế bơm proton",
+        "description": "Đây là thuốc giảm tiết axit giúp kiểm soát và làm giảm lượng acid mà dạ dày tạo ra. Được chỉ định cho những ca viêm dạ dày cấp."
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Ăn uống điều độ",
+      "Tránh thức ăn cay nóng",
+      "Thực hiện chế độ dinh dưỡng lành mạnh",
+      "Không uống rượu bia",
+      "Không tự ý sử dụng thuốc giảm đau"
+    ],
+    "prevention_of_transmission": [
+      "Chú ý vệ sinh trong ăn uống",
+      "Rửa tay sạch trước khi ăn",
+      "Không dùng chung đồ ăn, uống với người bị nhiễm H.pylori"
+    ]
   },
   "prevention": {
     "vaccine": {
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không lạm dụng hoặc hạn chế rượu bia",
+      "Luôn sử dụng thuốc giảm đau NSAID theo chỉ định của bác sĩ",
+      "Không được tự ý sử dụng các loại thuốc giảm đau",
+      "Hạn chế các thức ăn quá cay nóng",
+      "Chú ý vệ sinh trong ăn uống",
+      "Ăn uống điều độ",
+      "Thực hiện chế độ dinh dưỡng khoa học"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Bệnh viêm dạ dày có lây không?",
+      "answer": "Bệnh viêm dạ dày vốn không có khả năng lây nhiễm. Tuy nhiên, đối với những người bị viêm dạ dày do nhiễm trùng vi khuẩn H.pylori thì sẽ có thể lây nhiễm. Cần lưu ý, việc lây nhiễm ở đây là lây nhiễm vi khuẩn H.pylori thông qua đường ăn uống. Đây là loại vi khuẩn gây ra bệnh viêm dạ dày phổ biến nhất, nên khi vi khuẩn này lây nhiễm từ người sang người sẽ dễ gây ra bệnh viêm dạ dày."
+    },
+    {
+      "question": "Viêm dạ dày có nguy hiểm không?",
+      "answer": "Viêm dạ dày cấp tính không phải là một bệnh nguy hiểm. Mặt khác, viêm dạ dày có thể điều trị nội khoa dứt điểm bằng uống đường uống. Tuy nhiên, có thể gây xuất huyết tiêu hóa: nôn ra máu, ỉa phân đen, thiếu máu. Viêm dạ dày mạn tính cũng là một nguyên nhân dẫn đến như teo niêm mạc dạ dày dẫn đến dị sản ruột, loạn sản và nặng nhất là ung thư dạ dày."
+    },
+    {
+      "question": "Viêm dạ dày cấp có thể tự khỏi không?",
+      "answer": "Viêm dạ dày cấp có thể tự khỏi mà không cần điều trị, chỉ cần thay đổi chế độ dinh dưỡng để giảm thiểu và hỗ trợ dạ dày phục hồi tổn thương. Các triệu chứng lâm sàng điển hình của bệnh tự khỏi sau một thời gian ngắn, dao động từ 5 – 7 ngày."
+    },
+    {
+      "question": "Khi nào thì cần gặp bác sĩ nếu bị viêm dạ dày?",
+      "answer": "Viêm dạ dày cấp có thể tự khỏi mà không cần điều trị, hoặc điều trị giảm tiết a xít. Tuy nhiên, việc đi gặp bác sĩ là cần thiết khi các triệu chứng không thuyên giảm sau điều chỉnh chế độ ăn và sinh hoạt, hoặc khi có dấu hiệu xuất huyết tiêu hóa như nôn ra máu, đi ngoài phân đen."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau, nóng vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day",
+        "loet-da-day-ta-trang",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ợ hơi ợ chua nhiều. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day",
+        "trao-nguoc-da-day-thuc-quan",
+        "roi-loan-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi hay bị xuất huyết dạ dày. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day",
+        "loet-da-day-ta-trang",
+        "ung-thu-da-day"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vùng thượng vị, gây ra những bất tiện khó chịu trong hoạt động ăn uống. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day",
+        "loet-da-day-ta-trang",
+        "roi-loan-tieu-hoa"
+      ]
+    },
+    {
+      "question": "Tôi bị nhiễm vi khuẩn Helicobacter Pylori và bị đau vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day",
+        "loet-da-day-ta-trang",
+        "viem-da-day-ta-trang"
+      ]
+    },
+    {
+      "question": "Tôi ăn nhiều gia vị có tính kích ứng mạnh niêm mạc dạ dày và bị đau vùng thượng vị. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day",
+        "viem-da-day-cap",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
+    },
+    {
+      "question": "Tôi bị đau bụng vùng thượng vị, có thể đau nhiều nhiều khi đói hoặc sau ăn hoặc cả hai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day",
+        "loet-da-day-ta-trang",
+        "viem-tuy-cap"
+      ]
+    },
+    {
+      "question": "Tôi cảm giác trướng bụng ậm ạch sau ăn nên không ăn được nhiều như bình thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-day",
+        "roi-loan-tieu-hoa",
+        "trao-nguoc-da-day-thuc-quan"
+      ]
     }
   ]
 }

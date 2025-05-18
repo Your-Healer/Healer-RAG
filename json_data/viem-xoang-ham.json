@@ -1,58 +1,208 @@
 {
   "disease_id": "viem-xoang-ham",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm xoang hàm",
+  "disease_alternative_names": [
+    "Viêm xoang hàm cấp tính",
+    "Viêm xoang hàm mãn tính",
+    "Viêm xoang hàm do răng"
+  ],
+  "disease_definition": "Viêm xoang hàm là bệnh lý phổ biến xảy ra khi lớp niêm mạc trong các hốc xoang nằm ở hai bên gò má và quanh mắt bị vi khuẩn xâm nhập từ bên ngoài, gây viêm nhiễm, kích ứng, sưng tấy, phù nề và mưng mủ. Đây là loại viêm xoang phổ biến nhất hiện nay, thường xảy ra khi môi trường và thời tiết xung quanh thay đổi.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Đau nhức mặt",
+      "description": "Cơn đau thường xuất hiện nhiều vào buổi sáng và buổi trưa, sau đó giảm dần vào buổi chiều tối, có thể lan đến khu vực hốc mắt, hai bên thái dương"
+    },
+    {
+      "name": "Đau tăng khi cúi đầu",
+      "description": "Cơn đau trở nên dữ dội khi bệnh nhân cúi đầu, gập người hoặc vận động mạnh"
+    },
+    {
+      "name": "Đau khi ấn vào vùng mắt, hố răng",
+      "description": "Cơn đau xuất hiện khi người bệnh dùng tay ấn nhẹ vào vùng mắt, hố răng"
+    },
+    {
+      "name": "Chảy nước mũi",
+      "description": "Ban đầu nước mũi loãng, sau đó sẽ đặc dần và chuyển sang màu vàng, thậm chí có mủ và mùi hôi"
+    },
+    {
+      "name": "Nghẹt mũi",
+      "description": "Cảm giác khó thở qua mũi, ngạt mũi"
+    },
+    {
+      "name": "Tiết dịch mũi có màu xanh",
+      "description": "Đặc biệt trong trường hợp viêm xoang hàm mãn tính, người bệnh thường tiết ra dịch mũi có màu xanh"
+    },
+    {
+      "name": "Đau âm ỉ hai bên má",
+      "description": "Trong trường hợp viêm xoang hàm do răng, người bệnh có các cơn đau âm ỉ kéo dài ở hai bên má, tăng tiến dần đến mức dữ dội"
+    },
+    {
+      "name": "Mùi hôi từ miệng và mũi",
+      "description": "Đặc biệt trong trường hợp viêm xoang hàm do răng, dịch mủ tiết ra từ mũi và miệng có mùi hôi"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm xoang hàm xảy ra khi lớp niêm mạc bên trong các hốc xoang bị vi khuẩn xâm nhập từ bên ngoài, gây viêm nhiễm, kích ứng, sưng tấy, phù nề và mưng mủ.",
+    "related_factors": "Xoang hàm là vị trí rất dễ bị vi khuẩn và nấm tấn công, ví dụ có bệnh viêm xoang hàm do nấm.",
+    "transmission_routes": [
+      "Vi khuẩn xâm nhập qua đường mũi",
+      "Lây lan từ vùng răng miệng lên xoang",
+      "Vi khuẩn, nấm từ môi trường xâm nhập vào cơ thể"
+    ]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Người bị sâu răng, viêm nhiễm, có những bệnh lý liên quan đến răng miệng không điều trị hoặc điều trị không triệt để",
+    "Người từng đi nhổ răng hoặc trải qua phẫu thuật tại khu vực khoang miệng, có dị vật rơi vào hoặc bị tổn thương",
+    "Người có tiền sử viêm mũi dị ứng hoặc từng bị viêm xoang hàm không điều trị triệt để",
+    "Người có cấu trúc xoang hàm bị lệch do bẩm sinh hoặc biến dạng do quá trình phẫu thuật",
+    "Người bị viêm mũi dị ứng kéo dài",
+    "Người bị lệch cấu trúc vách ngăn mũi",
+    "Người bị chấn thương vùng mặt do tai nạn hoặc phẫu thuật"
+  ],
+  "complications": [
+    "Biến chứng đường hô hấp: viêm họng mạn tính, viêm tai giữa, viêm đường hô hấp dưới và viêm thanh quản",
+    "Biến chứng về mắt: viêm mô liên kết quanh hốc mắt, viêm dây thần kinh thị giác, áp xe túi lệ và áp xe mí mắt",
+    "Biến chứng về xương: đau nhức, tê mỏi tại xương hốc mắt, xương thái dương, xương trán và xương đỉnh đầu",
+    "Biến chứng nội sọ: viêm màng não, áp xe màng não, viêm não, viêm tắc tĩnh mạch xương",
+    "Viêm xương tủy",
+    "Viêm tấy hốc mắt",
+    "Áp xe não"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Đánh giá lâm sàng dựa trên triệu chứng",
+      "Sử dụng các phương pháp chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Chụp X-quang",
+        "description": "Phương pháp chẩn đoán phổ biến giúp quan sát được cụ thể, chi tiết tình trạng bên trong các hốc xoang, từ đó nhận biết được tình trạng xoang hàm, xoang trán và hốc mũi"
+      },
+      {
+        "name": "Nội soi mũi",
+        "description": "Kỹ thuật dùng đầu dò kết hợp cùng hệ thống camera, nguồn sáng để thâm nhập trực tiếp vào các ngóc ngách vùng mũi, giúp bác sĩ quan sát được hình ảnh bên trong cuốn mũi một cách trực quan"
+      },
+      {
+        "name": "Cấy mẫu dịch mũi và xoang",
+        "description": "Phương pháp ít được thực hiện, thường chỉ khi điều trị kháng sinh không hiệu quả, hoặc ở bệnh nhân bị suy giảm miễn dịch và một số nhiễm khuẩn bệnh viện gây viêm xoang"
+      },
+      {
+        "name": "Siêu âm mũi",
+        "description": "Phương pháp không xâm lấn giúp đánh giá tình trạng bên trong các xoang"
+      },
+      {
+        "name": "CT scanner mũi xoang",
+        "description": "Phương pháp chẩn đoán hình ảnh cho phép đánh giá chi tiết cấu trúc xoang, mức độ viêm nhiễm và tắc nghẽn"
+      },
+      {
+        "name": "Xét nghiệm dị ứng",
+        "description": "Giúp xác định nguyên nhân viêm xoang có liên quan đến dị ứng hay không"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm xoang hàm tùy thuộc vào nguyên nhân gây bệnh, giai đoạn bệnh và tình trạng của bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Bác sĩ sẽ chỉ định một số loại thuốc kháng sinh hoặc kết hợp thêm thuốc giảm đau, chống dị ứng, phù nề phù hợp tùy vào từng tình trạng và nguyên nhân gây bệnh"
+      },
+      {
+        "name": "Súc rửa xoang Proezt",
+        "description": "Thực hiện thủ thuật súc rửa xoang Proezt, đưa dung dịch thuốc vào trực tiếp các hốc xoang khi điều trị bằng thuốc không còn hiệu quả"
+      },
+      {
+        "name": "Chọc xoang hàm rút mủ",
+        "description": "Thủ thuật nhằm lấy bỏ dịch mủ tích tụ trong xoang hàm"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Phẫu thuật để cắt polyp mũi, chỉnh hình vách ngăn khi tình trạng viêm xoang hàm diễn tiến đến giai đoạn nặng"
+      },
+      {
+        "name": "Điều trị nguyên nhân về răng",
+        "description": "Trong trường hợp bệnh viêm xoang hàm bắt nguồn từ các nguyên nhân về răng, bệnh nhân có thể sẽ được chỉ định phải nhổ răng"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Dùng thuốc đúng liều lượng, thời gian theo chỉ dẫn của bác sĩ",
+      "Vệ sinh mũi bằng nước muối sinh lý, dung dịch vệ sinh mũi từ 2-3 lần/ngày",
+      "Với bệnh nhân bị ngạt mũi, sử dụng thuốc co mạch trước khi vệ sinh mũi",
+      "Làm sạch và hong khô dụng cụ sau khi hoàn tất việc vệ sinh mũi",
+      "Thường xuyên vệ sinh họng, khoang miệng",
+      "Giữ ấm cơ thể",
+      "Hạn chế vận động mạnh và có chế độ nghỉ ngơi phù hợp trong thời gian bệnh"
+    ],
+    "prevention_of_transmission": [
+      "Thường xuyên rửa tay sạch sẽ bằng xà phòng hoặc nước sát khuẩn",
+      "Tránh tiếp xúc với người bị nhiễm trùng đường hô hấp"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine đặc hiệu phòng ngừa viêm xoang hàm",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tuân thủ chế độ sinh hoạt, vận động và nghỉ ngơi khoa học, hợp lý",
+      "Không hút thuốc, sử dụng chất kích thích và hạn chế tối đa việc tiếp xúc với môi trường ô nhiễm",
+      "Tuân thủ chế độ dinh dưỡng phù hợp, tăng cường sức đề kháng",
+      "Khi thấy có những triệu chứng bất thường cần đến ngay cơ sở y tế để được bác sĩ thăm khám và điều trị kịp thời",
+      "Đối với những người đã mắc bệnh viêm xoang hàm, để tránh bệnh kéo dài và chuyển biến sang giai đoạn mạn tính cần tuân thủ nghiêm ngặt quy trình điều trị của bác sĩ",
+      "Sử dụng máy làm ẩm và làm sạch không khí",
+      "Bổ sung các thực phẩm giàu vitamin, acid béo omega và kẽm như trái cây, bạc hà, thịt bò hay cá hồi",
+      "Hạn chế thức ăn quá cay, nóng hoặc quá lạnh",
+      "Hạn chế các loại thực phẩm gây dị ứng cho cơ thể",
+      "Hạn chế đồ uống có cồn, có ga như bia, rượu; thuốc lá, chất kích thích",
+      "Hạn chế uống sữa và những sản phẩm được làm từ sữa"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm xoang hàm có nguy hiểm không?",
+      "answer": "Bệnh viêm xoang hàm khi tiến triển ở giai đoạn đầu thường chỉ xuất hiện những triệu chứng nhẹ, đơn giản và không quá nguy hiểm. Tuy nhiên, nếu bệnh không được nhìn nhận đúng, chậm trễ trong việc chẩn đoán và điều trị thì có thể chuyển biến sang giai đoạn mạn tính, kéo theo nhiều biến chứng nguy hiểm thậm chí đe dọa đến tính mạng của người bệnh. Do đó, người bệnh không nên chủ quan để tránh những ảnh hưởng không tốt đến sức khỏe bản thân."
+    },
+    {
+      "question": "Viêm xoang hàm có mấy loại?",
+      "answer": "Có 3 loại viêm xoang hàm chính: Viêm xoang hàm cấp tính (triệu chứng thường kéo dài khoảng 6 tuần), viêm xoang hàm mãn tính (khi bệnh không được điều trị kịp thời), và viêm xoang hàm nguyên nhân do bệnh về răng (dịch mủ tiết ra từ mũi và miệng có mùi hôi)."
+    },
+    {
+      "question": "Bệnh viêm xoang hàm ăn và kiêng ăn gì?",
+      "answer": "Người bệnh viêm xoang hàm nên bổ sung các thực phẩm giàu vitamin, acid béo omega và kẽm như trái cây, bạc hà, thịt bò hay cá hồi để nâng cao thể lực, tăng cường sức đề kháng. Nên kiêng thức ăn quá cay, nóng hoặc quá lạnh; các loại thực phẩm gây dị ứng; đồ uống có cồn, có ga như bia, rượu; thuốc lá, chất kích thích; và hạn chế uống sữa và những sản phẩm được làm từ sữa."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau nhức vùng mặt, đau đầu và nghẹt mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang hàm", "Viêm xoang", "Viêm mũi dị ứng"]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau vùng hốc mắt, hai bên thái dương và chảy nước mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm xoang hàm", "Viêm xoang trán", "Đau nửa đầu"]
+    },
+    {
+      "question": "Tôi hay bị đau nhức mặt, nghẹt mũi và chảy dịch mũi có màu xanh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang hàm mãn tính",
+        "Viêm xoang",
+        "Nhiễm trùng đường hô hấp trên"
+      ]
+    },
+    {
+      "question": "Tôi bị sâu răng và hiện đang đau nhức vùng mặt, chảy dịch mũi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang hàm nguyên nhân do bệnh về răng",
+        "Viêm tủy răng",
+        "Áp xe răng"
+      ]
+    },
+    {
+      "question": "Tôi bị đau nhức vùng mặt khi cúi đầu, gập người. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm xoang hàm cấp tính",
+        "Viêm xoang",
+        "Viêm đường hô hấp trên"
+      ]
     }
   ]
 }

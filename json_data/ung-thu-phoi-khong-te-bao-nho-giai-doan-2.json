@@ -1,39 +1,150 @@
 {
   "disease_id": "ung-thu-phoi-khong-te-bao-nho-giai-doan-2",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư phổi không tế bào nhỏ giai đoạn 2",
+  "disease_alternative_names": [
+    "Ung thư phổi NSCLC giai đoạn 2",
+    "Non-small cell lung cancer stage 2",
+    "NSCLC stage 2"
+  ],
+  "disease_definition": "Ung thư phổi không tế bào nhỏ giai đoạn II được chẩn đoán khi có một hoặc nhiều khối u trong cùng một thùy phổi, các khối u có thể di căn tới các hạch bạch huyết lân cận nhưng chưa di căn xa đến các cơ quan khác của cơ thể. Tùy thuộc vào kích thước, mức độ xâm lấn của khối u và vị trí của hạch bạch huyết bị di căn, ung thư phổi không tế bào nhỏ giai đoạn II có thể được chia thành 2 nhóm: khu trú tại chỗ (giai đoạn IIA) và tiến triển tại vùng (giai đoạn IIB).",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ho kéo dài",
+      "description": "Ho, viêm phế quản hoặc viêm phổi kéo dài hoặc tái phát mà không cải thiện với điều trị nội khoa"
+    },
+    {
+      "name": "Ho ra máu",
+      "description": "Ho ra máu, khạc ra máu màu đỏ bầm hoặc đỏ tươi"
+    },
+    {
+      "name": "Đau ngực thường xuyên",
+      "description": "Cảm giác đau ở vùng ngực xuất hiện thường xuyên"
+    },
+    {
+      "name": "Hụt hơi, khó thở",
+      "description": "Cảm giác hụt hơi, khó thở hoặc không đủ sức khi thực hiện các hoạt động thường ngày (như leo cầu thang, tập thể dục, đi bộ)"
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi thường xuyên, không thuyên giảm sau khi nghỉ ngơi"
+    },
+    {
+      "name": "Chán ăn",
+      "description": "Giảm cảm giác thèm ăn và không thấy ngon miệng khi ăn"
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân không chủ ý mà không thay đổi chế độ ăn uống"
+    },
+    {
+      "name": "Viêm phổi tái phát",
+      "description": "Viêm phổi xảy ra nhiều lần hoặc kéo dài không đáp ứng với điều trị thông thường"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư phổi không tế bào nhỏ xảy ra khi các tế bào phổi có sự thay đổi (đột biến) trong DNA, khiến các tế bào phát triển nhanh và bất thường, tạo thành khối u ác tính.",
+    "related_factors": "Nguyên nhân gây đột biến có thể là do tiếp xúc với các chất gây ung thư từ khói thuốc lá, khói thuốc thụ động, radon, amiăng, ô nhiễm không khí, và các chất độc hại khác. Một số trường hợp ung thư phổi có liên quan đến yếu tố di truyền.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Hút thuốc lá",
+    "Tiếp xúc với khói thuốc thụ động",
+    "Tiếp xúc với radon",
+    "Tiếp xúc với amiăng",
+    "Tiếp xúc với các chất gây ô nhiễm không khí",
+    "Tiền sử gia đình có người mắc ung thư phổi",
+    "Tuổi cao (nguy cơ tăng theo tuổi, đặc biệt sau 50 tuổi)",
+    "Bệnh phổi mạn tính trước đó",
+    "Tiếp xúc với các hóa chất công nghiệp"
+  ],
+  "complications": [
+    "Đau đớn",
+    "Khó thở",
+    "Tràn dịch màng phổi",
+    "Tái phát sau điều trị",
+    "Di căn đến các cơ quan khác",
+    "Biến chứng của phẫu thuật (nhiễm trùng, chảy máu, rò khí)",
+    "Tác dụng phụ của xạ trị (viêm phổi do xạ, đau, mệt mỏi)",
+    "Tác dụng phụ của hóa trị (buồn nôn, rụng tóc, mệt mỏi, suy giảm hệ miễn dịch)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám lâm sàng",
+      "Đánh giá triệu chứng",
+      "Phân giai đoạn theo hệ thống TNM của Ủy ban Liên hợp về Ung thư Hoa Kỳ (AJCC)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "X-quang ngực",
+        "description": "Phát hiện các tổn thương bất thường trong phổi, thường được sử dụng như phương tiện tầm soát ban đầu"
+      },
+      {
+        "name": "Chụp CT (cắt lớp vi tính)",
+        "description": "Cung cấp hình ảnh chi tiết về vị trí, kích thước và mức độ xâm lấn của khối u, hệ thống máy hai đầu bóng có thể tạo 768 lát cắt về phổi"
+      },
+      {
+        "name": "MRI não",
+        "description": "Đánh giá khả năng di căn đến não, thường được thực hiện để tầm soát di căn não"
+      },
+      {
+        "name": "PET-CT",
+        "description": "Đánh giá hoạt động chuyển hóa của khối u và phát hiện các ổ di căn có thể bị bỏ sót trên CT thông thường"
+      },
+      {
+        "name": "Xạ hình xương",
+        "description": "Phát hiện di căn xương nếu có dấu hiệu nghi ngờ"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy mẫu mô từ khối u hoặc hạch để xác định chính xác loại tế bào ung thư, có thể thực hiện qua sinh thiết kim dưới CT hoặc nội soi phế quản"
+      },
+      {
+        "name": "Xét nghiệm đột biến gen",
+        "description": "Phân tích mẫu mô sinh thiết hoặc mẫu máu để tìm các đột biến gen như EGFR, ALK, PD-L1 nhằm lựa chọn phương pháp điều trị phù hợp"
+      },
+      {
+        "name": "Xét nghiệm chức năng hô hấp",
+        "description": "Đánh giá khả năng hô hấp của người bệnh trước khi phẫu thuật"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Đối với ung thư phổi không tế bào nhỏ giai đoạn II, phẫu thuật là phương pháp điều trị tiêu chuẩn nếu người bệnh đủ sức khỏe. Tùy từng trường hợp cụ thể, các phương pháp điều trị khác có thể được kết hợp để đạt hiệu quả tối ưu.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt thùy (Lobectomy)",
+        "description": "Phương pháp phẫu thuật được ưu tiên nhất, cắt bỏ toàn bộ thùy phổi chứa khối u kèm theo nạo vét hạch vùng của thùy phổi tương ứng"
+      },
+      {
+        "name": "Phẫu thuật cắt hình chêm (Wedge resection)",
+        "description": "Áp dụng khi khối u còn nhỏ hoặc chức năng phổi của người bệnh sụt giảm, loại bỏ khối u phổi và một phần mô phổi khỏe mạnh xung quanh"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Được cân nhắc khi người bệnh không đủ sức khỏe để phẫu thuật, hoặc sau phẫu thuật nếu diện cắt còn tế bào ung thư, bao gồm các phương pháp như xạ trị lập thể định vị thân (SBRT), xạ trị 3D-CRT, xạ trị điều biến liều (IMRT)"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Chủ yếu có vai trò hỗ trợ sau phẫu thuật để giảm nguy cơ tái phát, thường sử dụng phác đồ bao gồm nhóm Platinum (Cisplatin, Carboplatin) kết hợp với một thuốc hóa trị khác"
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Sử dụng Atezolizumab (Tecentriq) hoặc Pembrolizumab (Keytruda) sau hóa trị hỗ trợ để cải thiện thời gian sống còn của người bệnh có đột biến phù hợp (PD-L1 ≥ 1%)"
+      },
+      {
+        "name": "Liệu pháp nhắm trúng đích",
+        "description": "Sử dụng Osimertinib (Tagrisso) để điều trị hỗ trợ sau phẫu thuật nhằm cải thiện thời gian sống còn cho người bệnh có đột biến EGFR phù hợp"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Theo dõi định kỳ sau điều trị theo hướng dẫn của bác sĩ",
+      "Bỏ hút thuốc (nếu còn hút) để cải thiện tỷ lệ sống và giảm nguy cơ tái phát",
+      "Tuân thủ lịch tái khám và xét nghiệm kiểm tra định kỳ",
+      "Duy trì chế độ ăn uống lành mạnh và cân bằng",
+      "Tập thể dục phù hợp với khả năng",
+      "Tham gia các nhóm hỗ trợ bệnh nhân ung thư",
+      "Trao đổi với bác sĩ về các tác dụng phụ của điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +152,74 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Không hút thuốc lá và tránh tiếp xúc với khói thuốc thụ động",
+      "Hạn chế tiếp xúc với các chất độc hại trong môi trường và nơi làm việc",
+      "Kiểm tra nồng độ radon trong nhà và có biện pháp xử lý nếu cần thiết",
+      "Tầm soát định kỳ ung thư phổi bằng CT liều thấp đối với người có nguy cơ cao",
+      "Duy trì lối sống lành mạnh với chế độ ăn giàu rau củ quả",
+      "Tập thể dục đều đặn",
+      "Tránh ô nhiễm không khí"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư phổi không tế bào nhỏ giai đoạn II có tỷ lệ sống sau 5 năm là bao nhiêu?",
+      "answer": "Tỷ lệ sống sau 5 năm của ung thư phổi không tế bào nhỏ giai đoạn II khá khả quan, với giai đoạn IIA là khoảng 60% và giai đoạn IIB là khoảng 53%. Tỷ lệ này có thể bị ảnh hưởng bởi nhiều yếu tố như tuổi tác, giới tính, tình trạng bệnh nền, việc hút thuốc, loại tế bào ung thư và phương pháp phẫu thuật được áp dụng."
+    },
+    {
+      "question": "Phẫu thuật có phải là phương pháp điều trị chính cho ung thư phổi không tế bào nhỏ giai đoạn II không?",
+      "answer": "Đúng vậy, phẫu thuật là phương pháp điều trị tiêu chuẩn dành cho người bệnh ung thư phổi không tế bào nhỏ giai đoạn II nếu họ đủ sức khỏe. Phẫu thuật cắt thùy (Lobectomy) kèm nạo vét hạch vùng là phương pháp được ưu tiên nhất. Sau phẫu thuật, tùy trường hợp có thể cần điều trị hỗ trợ bằng hóa trị, xạ trị, liệu pháp miễn dịch hoặc nhắm trúng đích."
+    },
+    {
+      "question": "Tôi có thể không có triệu chứng gì nhưng vẫn bị ung thư phổi không tế bào nhỏ giai đoạn II không?",
+      "answer": "Có, điều này hoàn toàn có thể xảy ra. Hầu hết các trường hợp ung thư phổi được chẩn đoán vào giai đoạn muộn hơn (III, IV) vì các triệu chứng ban đầu thường mơ hồ và khó phân biệt với các bệnh lý khác. Nhiều người bệnh hoàn toàn không có bất kỳ triệu chứng nào, chỉ tình cờ phát hiện bệnh khi khám sức khỏe hoặc khám các bệnh lý khác. Đây là lý do tầm soát định kỳ rất quan trọng đối với người có nguy cơ cao."
+    },
+    {
+      "question": "Sau khi điều trị ung thư phổi không tế bào nhỏ giai đoạn II, tôi cần theo dõi thế nào?",
+      "answer": "Sau điều trị, bạn cần theo dõi định kỳ theo hướng dẫn của bác sĩ. Thông thường, lịch theo dõi bao gồm chụp CT ngực mỗi 6 tháng trong 2-3 năm đầu, sau đó là mỗi năm một lần. Các xét nghiệm khác có thể được chỉ định tùy trường hợp. Việc bỏ hút thuốc (nếu còn hút), duy trì lối sống lành mạnh và tuân thủ lịch tái khám rất quan trọng để tăng khả năng sống còn và phát hiện sớm nếu bệnh tái phát."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ho, viêm phế quản kéo dài và đau ngực thường xuyên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 2",
+        "Viêm phế quản mạn tính",
+        "Bệnh phổi tắc nghẽn mạn tính (COPD)"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy hụt hơi, khó thở khi leo cầu thang và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 2",
+        "Suy tim",
+        "Thiếu máu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ho ra máu, đau ngực và sụt cân không rõ nguyên nhân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 2",
+        "Lao phổi",
+        "Giãn phế quản"
+      ]
+    },
+    {
+      "question": "Tôi đang có các triệu chứng như viêm phổi tái phát, khó thở và chán ăn. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 2",
+        "Bệnh phổi kẽ",
+        "Suy giảm miễn dịch"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ho dai dẳng, hụt hơi khi đi bộ và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư phổi không tế bào nhỏ giai đoạn 2",
+        "Hen phế quản",
+        "Bệnh phổi tắc nghẽn mạn tính (COPD)"
+      ]
     }
   ]
 }

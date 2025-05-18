@@ -1,39 +1,87 @@
 {
   "disease_id": "viem-bang-quang-o-nu-gioi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bàng quang ở nữ giới",
+  "disease_alternative_names": [
+    "Viêm bàng quang nữ",
+    "Nhiễm trùng đường tiết niệu ở nữ",
+    "Cystitis ở phụ nữ"
+  ],
+  "disease_definition": "Viêm bàng quang ở nữ giới là tình trạng nhiễm khuẩn trong bàng quang, một bệnh nhiễm khuẩn đường tiết niệu phổ biến khi có hơn 40% phụ nữ mắc bệnh ít nhất một lần trong đời. Bệnh phổ biến ở nữ giới hơn nam giới vì niệu đạo của phụ nữ ngắn hơn, khiến vi khuẩn dễ dàng xâm nhập vào bàng quang.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Cảm giác nóng rát khi đi tiểu",
+      "description": "Người bệnh cảm thấy đau rát, nóng khi nước tiểu đi qua niệu đạo, đặc biệt là vào cuối dòng tiểu."
+    },
+    {
+      "name": "Đau vùng bụng dưới trên xương mu",
+      "description": "Đau thắt khó chịu ở vùng bụng dưới, nơi bàng quang bị viêm, thường tăng lên khi bàng quang đầy."
+    },
+    {
+      "name": "Tiểu lắt nhắt",
+      "description": "Người bệnh cảm thấy buồn đi tiểu thường xuyên, nhiều lần trong ngày, kể cả khi bàng quang không đầy."
+    },
+    {
+      "name": "Cảm giác tiểu không hết",
+      "description": "Sau khi đi tiểu, người bệnh vẫn cảm thấy bàng quang chưa trống hoàn toàn, tạo cảm giác muốn đi tiểu tiếp."
+    },
+    {
+      "name": "Nước tiểu có mùi hôi, màu đục, sẫm hoặc có lẫn máu",
+      "description": "Nước tiểu không trong như bình thường, có mùi khó chịu, đôi khi có thể thấy máu lẫn trong nước tiểu."
+    },
+    {
+      "name": "Sốt và buồn nôn",
+      "description": "Các triệu chứng này không phổ biến trong viêm bàng quang đơn thuần, nhưng có thể xuất hiện khi nhiễm trùng nặng hoặc đã lan lên thận."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân phổ biến nhất của viêm bàng quang ở nữ giới là vi khuẩn từ bên ngoài vào đường tiểu. Khi vi khuẩn xâm nhập vào bàng quang thông qua đường niệu đạo, chúng sẽ phát triển và tấn công vào lớp niêm mạc và lớp dưới niêm mạc của bàng quang.",
+    "related_factors": "Bệnh thường gặp ở phụ nữ vì niệu đạo ở phụ nữ ngắn hơn nam giới. Ngoài ra, niệu đạo, âm đạo và lỗ hậu môn có khoảng cách khá gần nhau, khiến vi khuẩn dễ dàng lây nhiễm và xâm nhập vào bàng quang.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Quan hệ tình dục (viêm bàng quang thường xảy ra sau khi quan hệ tình dục ở nữ giới)",
+    "Tiền sử nhiễm khuẩn đường tiết niệu (27% phụ nữ bị tái nhiễm trong vòng 6 tháng kể từ lần đầu tiên)",
+    "Giai đoạn mang thai (thay đổi nội tiết tố và tình trạng thai nhi đè lên bàng quang)",
+    "Lạm dụng thuốc tránh thai (có thể gây thay đổi hệ vi khuẩn ở cơ quan sinh dục)",
+    "Tình trạng sau mãn kinh (một trong ba giai đoạn tiềm ẩn nguy cơ mắc bệnh cao nhất)"
+  ],
+  "complications": [
+    "Viêm đài bể thận (nhiễm khuẩn ngược dòng lên thận)",
+    "Viêm bàng quang mạn tính",
+    "Tổn thương thận cấp và bệnh thận mạn tính",
+    "Biến chứng khi mang thai: thai lưu, sảy thai, sinh non, nhiễm trùng sơ sinh"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": ["Khám lâm sàng", "Xét nghiệm nước tiểu", "Nội soi bàng quang"],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Người bệnh được yêu cầu lấy nước tiểu sạch, lấy nước tiểu giữa dòng. Mẫu nước tiểu sẽ được kiểm tra bằng kính hiển vi để tìm các loại vi khuẩn gây bệnh hoặc các tế bào bạch cầu."
+      },
+      {
+        "name": "Nội soi bàng quang",
+        "description": "Bác sĩ sẽ dùng ống soi đưa vào trong đường tiểu qua ngã niệu đạo để quan sát các tổn thương bên trong bàng quang. Trong một số trường hợp, bác sĩ có thể lấy mẫu mô để làm sinh thiết."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Viêm bàng quang ở nữ giới không phải là bệnh phức tạp, phương pháp điều trị tương đối đơn giản, nhưng nếu không điều trị kịp thời có thể dẫn đến biến chứng nguy hiểm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị viêm bàng quang do vi khuẩn bằng thuốc kháng sinh",
+        "description": "Mục đích của thuốc kháng sinh là diệt những vi khuẩn gây bệnh trong bàng quang. Các loại thuốc kháng sinh thường dùng bao gồm: Ciprofloxacin, Levofloxacin, Ofloxacin; Cefuroxim, Cefixim; Amoxicilin và acid clavulanic; Fosfomycin; Nitrofurantoin; Trimethoprim; Sulfamethoxazole."
+      },
+      {
+        "name": "Điều trị viêm bàng quang không nhiễm trùng",
+        "description": "Đối với viêm bàng quang không do nhiễm trùng gây ra, bác sĩ sẽ thực hiện tầm soát sức khỏe và xem xét bệnh sử để tìm ra nguyên nhân, từ đó đưa ra hướng điều trị phù hợp. Nguyên nhân có thể do sử dụng hóa chất, xạ trị, hoặc là biến chứng của bệnh khác."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống nhiều nước",
+      "Đi tiểu ngay khi có nhu cầu, không nhịn tiểu quá lâu",
+      "Tuân thủ đúng liều lượng và thời gian dùng thuốc theo chỉ định của bác sĩ",
+      "Theo dõi các triệu chứng và đến gặp bác sĩ nếu tình trạng không cải thiện sau điều trị"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +89,97 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Uống nhiều nước",
+      "Đi tiểu ngay khi có nhu cầu, hạn chế nhịn tiểu quá lâu",
+      "Sử dụng biện pháp an toàn khi quan hệ tình dục và đi tiểu ngay sau khi quan hệ",
+      "Ngoại trừ dung dịch vệ sinh dành riêng cho vùng âm hộ, tránh sử dụng xà phòng hoặc các sản phẩm có mùi thơm",
+      "Hạn chế sử dụng thuốc diệt tinh trùng hoặc đặt vòng tránh thai",
+      "Thực hiện thăm khám tổng quát 2 lần/năm để được tầm soát các bệnh lý tiềm ẩn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bàng quang ở nữ có nguy hiểm không?",
+      "answer": "Viêm bàng quang ở nữ giới không phải là bệnh phức tạp và tương đối dễ điều trị. Tuy nhiên, nếu không điều trị kịp thời có thể dẫn đến biến chứng nguy hiểm như viêm đài bể thận, tổn thương thận cấp và bệnh thận mạn tính. Đặc biệt đối với phụ nữ mang thai, viêm bàng quang có thể gây nguy hiểm cho cả mẹ và thai nhi như thai lưu, sảy thai, sinh non, nhiễm trùng sơ sinh."
+    },
+    {
+      "question": "Phụ nữ mang thai bị viêm bàng quang có ảnh hưởng đến thai nhi không?",
+      "answer": "Viêm bàng quang ở phụ nữ mang thai nếu không được điều trị kịp thời có thể phát triển thành viêm đài bể thận, gây tổn thương thận nghiêm trọng. Ngoài ra, tình trạng này cũng có thể ảnh hưởng đến thai nhi, làm tăng nguy cơ thai lưu, sảy thai, sinh non và nhiễm trùng sơ sinh."
+    },
+    {
+      "question": "Viêm bàng quang ở nữ giới có thể tự khỏi không?",
+      "answer": "Viêm bàng quang ở nữ giới thường cần được điều trị bằng thuốc kháng sinh nếu nguyên nhân do vi khuẩn gây ra. Mặc dù một số trường hợp nhẹ có thể tự cải thiện khi bạn uống nhiều nước, nhưng nếu không điều trị đúng cách, bệnh có thể tái phát và dẫn đến biến chứng nghiêm trọng."
+    },
+    {
+      "question": "Làm thế nào để phòng ngừa viêm bàng quang ở nữ giới?",
+      "answer": "Để phòng ngừa viêm bàng quang ở nữ giới, bạn nên: uống nhiều nước, đi tiểu ngay khi có nhu cầu, không nhịn tiểu quá lâu, sử dụng biện pháp an toàn khi quan hệ tình dục và đi tiểu ngay sau khi quan hệ, tránh sử dụng xà phòng hoặc sản phẩm có mùi thơm ở vùng kín, hạn chế sử dụng thuốc diệt tinh trùng hoặc đặt vòng tránh thai, và thực hiện thăm khám tổng quát 2 lần/năm."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như đau và khó chịu khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-o-nu-gioi",
+        "viem-nieu-dao",
+        "viem-am-dao"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy nóng rát khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-o-nu-gioi",
+        "viem-nieu-dao",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau vùng bụng dưới trên xương mu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-o-nu-gioi",
+        "viem-phu-khoa",
+        "viem-ruot-thua"
+      ]
+    },
+    {
+      "question": "Tôi hay bị tiểu lắt nhắt và cảm giác tiểu không hết. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-o-nu-gioi",
+        "bang-quang-tang-hoat",
+        "sa-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi bị nước tiểu có mùi hôi, màu đục, sẫm hoặc có lẫn máu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-o-nu-gioi",
+        "viem-than-be-than",
+        "soi-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi bị viêm bàng quang sau khi quan hệ tình dục. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-o-nu-gioi",
+        "viem-nieu-dao",
+        "viem-co-tu-cung"
+      ]
+    },
+    {
+      "question": "Tôi có tiền sử viêm bàng quang và hiện tại đang bị tái phát. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-o-nu-gioi",
+        "viem-bang-quang-man-tinh",
+        "viem-bang-quang-ke"
+      ]
+    },
+    {
+      "question": "Tôi đang mang thai và bị đau, khó chịu khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bang-quang-o-nu-gioi",
+        "viem-duong-tiet-nieu",
+        "viem-am-dao"
+      ]
     }
   ]
 }

@@ -1,39 +1,79 @@
 {
   "disease_id": "xuat-tinh-nguoc-dong",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Xuất tinh ngược dòng",
+  "disease_alternative_names": ["Retrograde ejaculation"],
+  "disease_definition": "Xuất tinh ngược dòng (retrograde ejaculation) là không xuất tinh xuôi dòng ra ngoài toàn phần hoặc thỉnh thoảng một phần do tinh dịch di chuyển ngược vào trong qua cổ bàng quang vào bàng quang. Bệnh nhân có cảm giác đạt cực khoái bình thường hay giảm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Không xuất tinh ra ngoài",
+      "description": "Khi đạt cực khoái, người bệnh không xuất tinh xuôi dòng ra ngoài toàn phần."
+    },
+    {
+      "name": "Tinh dịch ít hoặc không có",
+      "description": "Có rất ít hoặc không có tinh dịch khi nam giới xuất tinh."
+    },
+    {
+      "name": "Tinh dịch đi ngược vào bàng quang",
+      "description": "Tinh dịch di chuyển ngược vào trong qua cổ bàng quang vào bàng quang thay vì ra ngoài."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Bình thường, cơ vòng gần cổ bàng quang và cơ niệu đạo sẽ có nhiệm vụ đóng và mở nhịp nhàng. Trong một số trường hợp các cơ này hoạt động kém hiệu quả khiến cho đường niệu đạo bị bít chặt, tinh dịch không thoát ra ngoài được sẽ theo nhánh còn lại chảy vào trong bàng quang.",
+    "related_factors": "Nguyên nhân có thể là: thần kinh, thuốc, niệu đạo hay mất trương lực của cổ bàng quang.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bệnh tiểu đường",
+    "Bệnh đa xơ cứng",
+    "Bệnh Parkinson",
+    "Thoái hóa cột sống, dị dạng cột sống",
+    "Dị tật bẩm sinh ở vùng niệu đạo và bàng quang",
+    "Phẫu thuật vùng tiểu khung",
+    "Phẫu thuật tăng sinh lành tính tuyến tiền liệt",
+    "Phẫu thuật u đại tràng",
+    "Sử dụng thuốc chữa huyết áp",
+    "Sử dụng thuốc chữa tăng sinh lành tính tuyến tiền liệt"
+  ],
+  "complications": [
+    "Vô sinh nam",
+    "Ảnh hưởng đến tâm lý",
+    "Ảnh hưởng đến chất lượng cuộc sống",
+    "Ảnh hưởng đến hạnh phúc gia đình"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi bệnh sử về các triệu chứng, thời gian xuất hiện tình trạng hiện tại",
+      "Khám sức khỏe tổng thể",
+      "Khám cơ quan sinh sản, bao gồm khám dương vật, tinh hoàn và khám trực tràng"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra mẫu nước tiểu sau khi đạt cực khoái để xác định có tinh dịch tồn tại trong nước tiểu hay không. Nếu nước tiểu có chứa tinh trùng, chẩn đoán có thể sẽ là xuất tinh ngược."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Thông thường, xuất tinh ngược dòng không cần phải điều trị, nếu bệnh không ảnh hưởng đến khả năng sinh sản. Phương pháp điều trị và hiệu quả phụ thuộc vào nguyên nhân gây bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị bằng thuốc",
+        "description": "Dùng thuốc có thể mang đến hiệu quả nếu nguyên nhân gây xuất tinh ngược là do tổn thương dây thần kinh, ảnh hưởng từ các bệnh lý tiểu đường, bệnh đa xơ cứng, một số cuộc phẫu thuật vùng bàng quang. Những loại thuốc này có vai trò giữ cho cổ bàng quang đóng lại trong quá trình xuất tinh."
+      },
+      {
+        "name": "Áp dụng các biện pháp hỗ trợ sinh sản",
+        "description": "Nếu điều trị nội thất bại và cặp đôi muốn có con, người bệnh sẽ được chỉ định các biện pháp hỗ trợ sinh sản. Các bác sĩ sẽ lấy tinh trùng từ trong tinh hoàn, mào tinh hay thậm chí là trong nước tiểu, xử lý trong phòng thí nghiệm để phục vụ cho việc thụ tinh ống nghiệm."
+      },
+      {
+        "name": "Điều chỉnh hoặc thay đổi thuốc",
+        "description": "Nếu người bệnh đang dùng các loại thuốc khác ảnh hưởng đến việc xuất tinh, việc này sẽ cần được trao đổi với bác sĩ để điều chỉnh sao cho phù hợp, tránh tác dụng phụ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Trao đổi với bác sĩ về các tác dụng phụ của thuốc, cụ thể là xuất tinh ngược dòng",
+      "Với các trường hợp phẫu thuật có thể ảnh hưởng đến cơ cổ bàng quang, nên hỏi về nguy cơ xuất tinh ngược",
+      "Nếu chưa có con hoặc có kế hoạch sinh con trong tương lai, nên cân nhắc việc trữ tinh trùng trước khi phẫu thuật"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +81,47 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Chủ động trong việc chăm sóc sức khỏe bằng cách xây dựng lối sống lành mạnh",
+      "Vận động điều độ, nghỉ ngơi hợp lý để phòng ngừa các bệnh lý như tiểu đường, trầm cảm, tim mạch, huyết áp",
+      "Nếu có bệnh và phải dùng thuốc điều trị, nên trao đổi với bác sĩ về các tác dụng phụ",
+      "Cân nhắc việc trữ tinh trùng trước khi phẫu thuật tuyến tiền liệt, bàng quang nếu có kế hoạch sinh con"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Xuất tinh ngược dòng có chữa được không?",
+      "answer": "Thông thường, xuất tinh ngược dòng không cần phải điều trị, nếu bệnh không ảnh hưởng đến khả năng sinh sản. Trong trường hợp cần phải điều trị, phương pháp và hiệu quả phụ thuộc vào nguyên nhân gây bệnh. Các phương pháp bao gồm điều trị bằng thuốc hoặc áp dụng các biện pháp hỗ trợ sinh sản nếu cặp đôi muốn có con."
+    },
+    {
+      "question": "Xuất tinh ngược dòng có gây vô sinh không?",
+      "answer": "Xuất tinh ngược dòng là một trong những nguyên nhân gây vô sinh, hiếm muộn ở nam giới, vì tinh dịch không được xuất ra ngoài mà đi ngược vào bàng quang. Tuy nhiên, với sự tiến bộ của các công nghệ hỗ trợ sinh sản hiện nay, người bệnh hoàn toàn có thể làm cha bằng cách lấy tinh trùng từ tinh hoàn, mào tinh hoặc trong nước tiểu để thực hiện thụ tinh ống nghiệm."
+    },
+    {
+      "question": "Xuất tinh ngược dòng có ảnh hưởng đến cảm giác khi quan hệ không?",
+      "answer": "Xuất tinh ngược dòng không ảnh hưởng đến khả năng cương dương hay đạt cực khoái của nam giới. Người bệnh vẫn có cảm giác đạt cực khoái bình thường hoặc có thể giảm đi một chút. Tình trạng này chủ yếu ảnh hưởng đến khả năng sinh sản, tâm lý và chất lượng cuộc sống."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như không xuất tinh xuôi dòng ra ngoài. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xuất tinh ngược dòng"]
+    },
+    {
+      "question": "Tôi đang cảm thấy có ít tinh dịch khi xuất tinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xuất tinh ngược dòng"]
+    },
+    {
+      "question": "Tôi hay bị tinh dịch di chuyển ngược vào bàng quang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xuất tinh ngược dòng"]
+    },
+    {
+      "question": "Tôi bị tiểu đường và hiện đang bị xuất tinh ngược dòng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xuất tinh ngược dòng"]
+    },
+    {
+      "question": "Tôi bị xuất tinh ngược dòng và hiện đang bị vô sinh. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Xuất tinh ngược dòng", "Vô sinh nam"]
     }
   ]
 }

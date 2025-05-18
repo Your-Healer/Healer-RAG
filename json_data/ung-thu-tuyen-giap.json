@@ -1,39 +1,123 @@
 {
   "disease_id": "ung-thu-tuyen-giap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư tuyến giáp",
+  "disease_alternative_names": [
+    "Ung thư biểu mô tuyến giáp thể nhú",
+    "Ung thư biểu mô tuyến giáp thể nang",
+    "Ung thư biểu mô tuyến giáp thể tủy",
+    "Ung thư biểu mô tuyến giáp thể không biệt hoá"
+  ],
+  "disease_definition": "Ung thư tuyến giáp là một căn bệnh trong đó các tế bào ác tính hình thành từ các tế bào của tuyến giáp. Đây là một loại ung thư phổ biến, có xu hướng phát triển khi độ tuổi càng cao, nguy cơ ở nữ giới cao hơn nam giới, với tỷ lệ xấp xỉ 3:1.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Khối u ở cổ",
+      "description": "Sưng không đau ở phía trước cổ, có thể nhìn hoặc sờ thấy khi khối u to lên. Giai đoạn đầu thường không có dấu hiệu rõ ràng."
+    },
+    {
+      "name": "Khó thở",
+      "description": "Xuất hiện khi khối u to lên và chèn ép vào khí quản, gây cảm giác khó thở."
+    },
+    {
+      "name": "Khó hoặc đau khi nuốt",
+      "description": "Khối u ung thư có thể gây áp lực hoặc xâm lấn vào thực quản dẫn đến khó nuốt hoặc đau khi nuốt."
+    },
+    {
+      "name": "Khàn giọng hoặc thay đổi giọng nói",
+      "description": "Xảy ra khi khối u ảnh hưởng đến dây thần kinh thanh quản, làm thay đổi giọng nói."
+    },
+    {
+      "name": "Sụt cân không rõ nguyên nhân",
+      "description": "Giảm cân không chủ ý mặc dù không thay đổi chế độ ăn uống, là một triệu chứng thường gặp trong các bệnh ung thư."
+    },
+    {
+      "name": "Mệt mỏi",
+      "description": "Cảm giác mệt mỏi thường xuyên, không giải thích được dù đã nghỉ ngơi đầy đủ."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Nguyên nhân của ung thư tuyến giáp thường không rõ ràng. Tuy nhiên, sự kết hợp của các điều kiện di truyền và các yếu tố nguy cơ có thể làm tăng khả năng phát triển tình trạng này.",
+    "related_factors": "Các nguyên nhân có thể bao gồm lượng iốt quá cao hoặc quá thấp, tiếp xúc với bức xạ ion hóa, đột biến gen, và một số điều kiện di truyền như đột biến ở gen RET, RAS và BRAF.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Giới tính nữ (nguy cơ mắc ung thư tuyến giáp cao gấp 3 lần nam giới)",
+    "Tuổi tác (tuổi càng cao thì nguy cơ càng tăng, thường từ 25-65 tuổi)",
+    "Người châu Á có nguy cơ cao hơn",
+    "Tiếp xúc với bức xạ ion hóa, đặc biệt là khu vực đầu và cổ",
+    "Thừa cân, béo phì",
+    "Tiền sử gia đình bị ung thư tuyến giáp, bướu cổ hoặc bệnh tuyến giáp khác",
+    "Lượng iốt quá cao hoặc quá thấp trong chế độ ăn",
+    "Một số điều kiện di truyền, chẳng hạn như ung thư tuyến giáp thể tủy"
+  ],
+  "complications": [
+    "Suy giáp do cắt bỏ tuyến giáp",
+    "Chứng khó nuốt do tổn thương dây thần kinh thanh quản trên",
+    "Liệt dây thanh do tổn thương dây thần kinh thanh quản tái phát",
+    "Suy tuyến cận giáp do cắt bỏ tuyến cận giáp",
+    "Di căn đến phổi, xương, não và gan",
+    "Các biến chứng từ liệu pháp phóng xạ như viêm tuyến giáp, buồn nôn, chán ăn, đau đầu",
+    "Ảnh hưởng đến khả năng sinh sản, thiểu sản huyết thoáng qua hoặc kinh nguyệt không đều",
+    "Tăng nhẹ nguy cơ mắc bệnh bạch cầu hoặc ung thư biểu mô vú và bàng quang"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi tiền sử bệnh",
+      "Siêu âm tuyến giáp và hạch vùng cổ",
+      "Xét nghiệm tế bào học (chọc hút kim nhỏ - FNA)",
+      "Chụp CT và MRI vùng cổ",
+      "Sinh thiết tức thì trong mổ",
+      "Xét nghiệm chỉ điểm sinh học (Tg, Calcitonin, CEA)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Siêu âm tuyến giáp và hạch vùng cổ",
+        "description": "Phát hiện, đánh giá vị trí, kích thước, tính chất, số lượng khối u tuyến giáp và hạch vùng cổ."
+      },
+      {
+        "name": "Xét nghiệm tế bào học u tuyến giáp (FNA)",
+        "description": "Kim được đưa qua da vào tuyến giáp để lấy một số tế bào từ khối u, từ hạch cổ. Bác sĩ sẽ kiểm tra các tế bào dưới kính hiển vi để tìm tế bào ung thư."
+      },
+      {
+        "name": "Chụp CT và MRI vùng cổ",
+        "description": "Đánh giá kỹ hơn mức độ xâm lấn của u tuyến giáp và hạch với các cơ quan xung quanh như phần mềm vùng cổ, khí quản, thực quản."
+      },
+      {
+        "name": "Sinh thiết tức thì trong mổ",
+        "description": "Bác sĩ sẽ cắt bỏ nhân giáp hoặc một thùy của tuyến giáp trong quá trình phẫu thuật, làm xét nghiệm mô bệnh học ngay trong mổ để có hướng xử trí kịp thời và phù hợp."
+      },
+      {
+        "name": "Xét nghiệm chỉ điểm sinh học",
+        "description": "Với ung thư tuyến giáp thể biệt hoá sau mổ thì chỉ số Tg sẽ dùng để đánh giá điều trị và theo dõi tái phát; Với ung thư tuyến giáp thể tuỷ thì chỉ số Calcitonin và CEA có vai trò trong tiên lượng và theo dõi sau điều trị."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Có nhiều lựa chọn điều trị khác nhau cho ung thư tuyến giáp biệt hóa và không biệt hóa. Mỗi hình thức điều trị phù hợp như thế nào sẽ phụ thuộc vào giai đoạn và loại ung thư tuyến giáp của người bệnh.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật cắt một thuỳ tuyến giáp hoặc cắt tuyến giáp hoàn toàn",
+        "description": "Lựa chọn phẫu thuật chỉ cắt một thuỳ tuyến giáp hoặc cắt tuyến giáp hoàn toàn, nạo vét hạch cổ phụ thuộc vào giai đoạn bệnh được đánh giá trước khi quyết định điều trị."
+      },
+      {
+        "name": "Liệu pháp iốt phóng xạ (131I)",
+        "description": "Liệu pháp iốt phóng xạ đóng vai trò quan trọng trong việc điều trị và kiểm soát ung thư tuyến giáp. Phương pháp này được phối hợp với phẫu thuật cắt bỏ tuyến giáp để loại bỏ các tế bào ung thư còn sót lại sau phẫu thuật."
+      },
+      {
+        "name": "Thuốc ức chế Tyrosine Kinase",
+        "description": "Thuốc ức chế Tyrosine Kinase nhắm vào những con đường tín hiệu tyrosine kinase, bao gồm các gen RET, RAF hoặc RAS protein kinase để giúp kiểm soát sự tiến triển của bệnh. Các thuốc được sử dụng điều trị ung thư tuyến giáp thể biệt hoá di căn và tiến triển là: Sorafenib, Lenvatinib,..."
+      },
+      {
+        "name": "Liệu pháp hormone tuyến giáp",
+        "description": "Người bệnh sau khi cắt bỏ tuyến giáp hoàn toàn sẽ được bác sỹ kê thuốc hormone tuyến giáp uống bù suốt đời. Ngoài việc bổ sung hormon tuyến giáp cho cơ thể, thuốc hormon tuyến giáp còn có tác dụng ức chế tế bào ung thư tuyến giáp tái phát."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Sử dụng hormone tuyến giáp theo đúng liều lượng bác sĩ kê đơn",
+      "Theo dõi định kỳ các chỉ số hormone tuyến giáp",
+      "Duy trì chế độ ăn uống hợp lý, trong một số thời điểm có thể cần ăn chế độ ít iốt",
+      "Kiểm tra sức khỏe định kỳ để phát hiện sớm tái phát hoặc di căn",
+      "Điều trị các tác dụng phụ của liệu pháp phóng xạ nếu có"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +125,89 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Hạn chế tiếp xúc với các yếu tố nguy cơ như tia bức xạ",
+      "Duy trì chế độ ăn cân đối iốt, không quá thừa hoặc thiếu",
+      "Ăn uống và sinh hoạt lành mạnh để duy trì cân nặng hợp lý",
+      "Thực hiện kiểm tra sức khỏe định kỳ mỗi 6 tháng hoặc ít nhất mỗi năm một lần",
+      "Người từ 40 tuổi và những người có các yếu tố nguy cơ nên làm tầm soát ung thư tuyến giáp",
+      "Theo dõi chặt chẽ các bất thường của tuyến giáp nếu có tiền sử gia đình bị bệnh tuyến giáp"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư tuyến giáp có thể chữa khỏi không?",
+      "answer": "Ung thư tuyến giáp thể biệt hóa có thể chữa khỏi hoàn toàn nếu được phát hiện và điều trị từ sớm. Đây là loại ung thư phổ biến nhất, chiếm khoảng 90% các trường hợp ung thư tuyến giáp."
+    },
+    {
+      "question": "Ung thư tuyến giáp sống được bao lâu?",
+      "answer": "Tuỳ vào từng loại ung thư tuyến giáp gặp phải, cũng như thời gian mắc bệnh bao lâu mà tiên lượng ở mỗi bệnh nhân sẽ khác nhau. Tỷ lệ sống sót sau 5 năm đối với ung thư tuyến giáp là 97,8%, nếu được chẩn đoán sớm và điều trị bằng phương pháp hiệu quả."
+    },
+    {
+      "question": "Ung thư tuyến giáp có di truyền không?",
+      "answer": "Đột biến ở gen RET, RAS và BRAF trong ung thư tuyến giáp là một yếu tố di truyền. Vì vậy những người có tiền sử gia đình bị ung thư tuyến giáp nên chủ động thăm khám sức khỏe định kỳ và tầm soát ung thư tuyến giáp theo tư vấn của bác sĩ chuyên khoa."
+    },
+    {
+      "question": "Ung thư tuyến giáp có được ăn trứng không?",
+      "answer": "Các chất dinh dưỡng tốt cho tuyến giáp là iốt, selen và kẽm. Lòng đỏ trứng rất giàu iốt và selen nên có lợi cho bệnh nhân ung thư tuyến giáp."
+    },
+    {
+      "question": "Ung thư tuyến giáp nên kiêng gì?",
+      "answer": "Người ung thư tuyến giáp sau khi mổ cắt tuyến giáp hoàn toàn, và có chỉ định điều trị bằng thuốc iot phóng xạ thì khoảng thời gian chờ điều trị iot phóng xạ nên ăn chế độ ăn ít iot."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó thở, khó nuốt, sưng ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-tuyen-giap", "buou-co", "viem-hong"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, sụt cân không rõ nguyên nhân và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-tuyen-giap", "cuong-giap", "suy-giap"]
+    },
+    {
+      "question": "Tôi hay bị khàn giọng, khó nuốt và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-giap",
+        "ung-thu-thanh-quan",
+        "viem-hong"
+      ]
+    },
+    {
+      "question": "Tôi là nữ giới, trên 40 tuổi và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-giap",
+        "buou-co",
+        "u-lanh-tinh-tuyen-giap"
+      ]
+    },
+    {
+      "question": "Tôi có mẹ bị ung thư tuyến giáp và hiện tại tôi cũng có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-giap",
+        "buou-co",
+        "u-lanh-tinh-tuyen-giap"
+      ]
+    },
+    {
+      "question": "Tôi bị cường giáp và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-giap",
+        "buou-co-nhieu-nhan",
+        "u-tuyen-giap-doc"
+      ]
+    },
+    {
+      "question": "Tôi khó thở, khó nuốt, khàn giọng và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "ung-thu-tuyen-giap",
+        "ung-thu-thanh-quan",
+        "u-nang-thanh-quan"
+      ]
+    },
+    {
+      "question": "Tôi thường xuyên tiếp xúc với tia bức xạ và có khối u ở cổ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["ung-thu-tuyen-giap", "ung-thu-da", "ung-thu-mau"]
     }
   ]
 }

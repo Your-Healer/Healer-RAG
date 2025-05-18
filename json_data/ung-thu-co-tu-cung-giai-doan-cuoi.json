@@ -1,58 +1,237 @@
 {
   "disease_id": "ung-thu-co-tu-cung-giai-doan-cuoi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư cổ tử cung giai đoạn cuối",
+  "disease_alternative_names": [
+    "Ung thư cổ tử cung giai đoạn IV",
+    "Stage IV Cervical Cancer",
+    "End-stage Cervical Cancer"
+  ],
+  "disease_definition": "Ung thư cổ tử cung giai đoạn cuối (giai đoạn IV) là giai đoạn nặng nhất của bệnh ung thư cổ tử cung. Các tế bào ác tính đã lan đến các cơ quan bên ngoài cổ tử cung và tử cung như bàng quang, trực tràng, xương, phổi, gan và các cơ quan xa khác.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Ra máu âm đạo bất thường",
+      "description": "Xuất huyết âm đạo không liên quan đến chu kỳ kinh nguyệt hoặc sau mãn kinh"
+    },
+    {
+      "name": "Đau vùng chậu",
+      "description": "Cảm giác đau nhức, tức ở vùng chậu, có thể lan rộng và kéo dài"
+    },
+    {
+      "name": "Đau nhức xương",
+      "description": "Đau nhức tại các vị trí xương do sự di căn của ung thư đến xương"
+    },
+    {
+      "name": "Ra máu sau quan hệ tình dục",
+      "description": "Xuất hiện máu sau khi quan hệ tình dục"
+    },
+    {
+      "name": "Sụt cân",
+      "description": "Giảm cân không chủ ý do bệnh gây ra"
+    },
+    {
+      "name": "Tiểu khó và đau khi đi tiểu",
+      "description": "Khó khăn và đau đớn khi đi tiểu do khối u chèn ép bàng quang hoặc niệu đạo"
+    },
+    {
+      "name": "Đau lưng",
+      "description": "Đau nhức vùng lưng do ung thư xâm lấn hoặc di căn"
+    },
+    {
+      "name": "Phù chân",
+      "description": "Sưng phù ở chân do tắc nghẽn hệ bạch huyết hoặc tĩnh mạch"
+    },
+    {
+      "name": "Rò phân qua âm đạo",
+      "description": "Tình trạng phân đi qua âm đạo do ung thư xâm lấn vào trực tràng tạo thành đường rò"
+    },
+    {
+      "name": "Đau bụng và tiêu chảy",
+      "description": "Đau bụng và tiêu chảy do ung thư ảnh hưởng đến đường tiêu hóa"
+    },
+    {
+      "name": "Đau đầu",
+      "description": "Đau đầu do di căn não của ung thư"
+    },
+    {
+      "name": "Mệt mỏi và chán ăn",
+      "description": "Cảm giác mệt mỏi và giảm cảm giác thèm ăn, ăn không ngon miệng"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư cổ tử cung giai đoạn cuối là hậu quả của sự tiến triển của bệnh ung thư cổ tử cung không được phát hiện và điều trị kịp thời.",
+    "related_factors": "Nguyên nhân chính gây ra ung thư cổ tử cung là nhiễm virus HPV (Human Papillomavirus), đặc biệt là các týp có nguy cơ cao như HPV 16 và HPV 18. Khi không được phát hiện và điều trị sớm, bệnh sẽ tiến triển đến giai đoạn cuối.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Nhiễm HPV kéo dài không được điều trị",
+    "Chậm trễ trong việc phát hiện và điều trị ung thư cổ tử cung ở giai đoạn sớm",
+    "Không khám phụ khoa định kỳ và tầm soát ung thư cổ tử cung",
+    "Hệ miễn dịch suy yếu",
+    "Hút thuốc lá",
+    "Tiền sử gia đình có người mắc ung thư cổ tử cung",
+    "Tuổi cao (ảnh hưởng đến tiên lượng và khả năng đáp ứng với điều trị)"
+  ],
+  "complications": [
+    "Di căn đến các cơ quan xa như phổi, gan, xương, não",
+    "Rò phân qua âm đạo do khối u xâm lấn trực tràng",
+    "Tắc nghẽn đường tiết niệu dẫn đến suy thận",
+    "Tổn thương thần kinh",
+    "Đau đớn nghiêm trọng",
+    "Suy kiệt cơ thể",
+    "Nhiễm trùng huyết",
+    "Xuất huyết nặng",
+    "Thiếu máu nặng",
+    "Tử vong"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám vùng chậu",
+      "Đánh giá triệu chứng và tiền sử bệnh",
+      "Phân loại giai đoạn theo hệ thống FIGO (Liên đoàn Sản Phụ khoa Quốc tế)"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sinh thiết cổ tử cung",
+        "description": "Lấy mẫu mô để xác định tế bào ung thư và đánh giá mức độ xâm lấn"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Đánh giá kích thước khối u, mức độ xâm lấn các cơ quan lân cận và di căn hạch"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Đánh giá sự di căn đến các cơ quan xa như phổi, gan, hạch bạch huyết xa"
+      },
+      {
+        "name": "PET/CT",
+        "description": "Đánh giá toàn thân để phát hiện các ổ di căn xa không thấy được trên CT thường quy"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Đánh giá tình trạng sức khỏe tổng quát, chức năng gan, thận và các dấu ấn ung thư"
+      },
+      {
+        "name": "Nội soi bàng quang hoặc trực tràng",
+        "description": "Đánh giá mức độ xâm lấn của ung thư vào bàng quang hoặc trực tràng"
+      },
+      {
+        "name": "Xạ hình xương",
+        "description": "Phát hiện di căn xương nếu có triệu chứng đau xương"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị ung thư cổ tử cung giai đoạn cuối chủ yếu nhằm mục đích giảm nhẹ triệu chứng, kéo dài thời gian sống thêm cho người bệnh, cải thiện chất lượng cuộc sống. Phương pháp điều trị khác nhau giữa giai đoạn IVA và IVB.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị kết hợp xạ trị và hóa trị cho giai đoạn IVA",
+        "description": "Phối hợp xạ trị chiếu ngoài (EBRT) và xạ trị áp sát (brachytherapy) cùng với hóa trị (thường dùng cisplatin hoặc carboplatin) để làm tăng hiệu quả điều trị"
+      },
+      {
+        "name": "Hóa trị toàn thân cho giai đoạn IVB",
+        "description": "Sử dụng thuốc hóa chất như cisplatin, carboplatin, paclitaxel để tiêu diệt các tế bào ung thư đã di căn"
+      },
+      {
+        "name": "Điều trị miễn dịch",
+        "description": "Sử dụng thuốc kháng PD-L1 như pembrolizumab để kích thích hệ miễn dịch tấn công tế bào ung thư"
+      },
+      {
+        "name": "Điều trị nhắm đích",
+        "description": "Sử dụng thuốc như bevacizumab nhằm tấn công trực tiếp vào các đặc điểm riêng của tế bào ung thư"
+      },
+      {
+        "name": "Xạ trị giảm nhẹ",
+        "description": "Dùng xạ trị để giảm kích thước khối u, giảm đau và các triệu chứng khác"
+      },
+      {
+        "name": "Điều trị giảm đau",
+        "description": "Sử dụng các thuốc giảm đau từ mức độ nhẹ đến mạnh (kể cả thuốc opioid) để kiểm soát cơn đau"
+      },
+      {
+        "name": "Chăm sóc giảm nhẹ",
+        "description": "Cung cấp hỗ trợ về mặt y tế, tình cảm, xã hội và tinh thần nhằm cải thiện chất lượng cuộc sống"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tuân thủ lịch trình điều trị theo hướng dẫn của bác sĩ",
+      "Duy trì dinh dưỡng tốt để tăng cường sức khỏe tổng thể",
+      "Tìm kiếm hỗ trợ tâm lý từ chuyên gia, gia đình và nhóm hỗ trợ",
+      "Báo cáo các triệu chứng mới hoặc xấu đi với đội ngũ y tế",
+      "Cân nhắc tham gia các nghiên cứu lâm sàng nếu có thể",
+      "Trao đổi với bác sĩ về kế hoạch chăm sóc cuối đời và các mong muốn cá nhân"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc-xin HPV có thể giúp ngăn ngừa ung thư cổ tử cung bằng cách bảo vệ chống lại các loại HPV gây bệnh. Tuy nhiên, vắc-xin không thể điều trị ung thư cổ tử cung đã phát triển hoặc ngăn ngừa tiến triển đến giai đoạn cuối.",
+      "recommended_for": [
+        "Trẻ em và thanh thiếu niên từ 9-14 tuổi",
+        "Phụ nữ từ 15-26 tuổi chưa tiêm hoặc chưa tiêm đủ liều"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Khám phụ khoa định kỳ và tầm soát ung thư cổ tử cung bằng xét nghiệm Pap và HPV",
+      "Phát hiện và điều trị sớm các tổn thương tiền ung thư và ung thư giai đoạn sớm",
+      "Thực hiện quan hệ tình dục an toàn để giảm nguy cơ nhiễm HPV",
+      "Không hút thuốc lá",
+      "Tăng cường hệ miễn dịch bằng lối sống lành mạnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư cổ tử cung giai đoạn cuối có sống được không?",
+      "answer": "Ung thư cổ tử cung giai đoạn cuối có tiên lượng không tốt với tỷ lệ sống sót sau 5 năm khoảng 15% theo thống kê SEER. Tuy nhiên, tiên lượng còn phụ thuộc vào nhiều yếu tố như tuổi tác, tình trạng sức khỏe chung, các bệnh lý đi kèm, phương pháp điều trị và đáp ứng với điều trị của từng cá nhân."
+    },
+    {
+      "question": "Ung thư cổ tử cung giai đoạn cuối được phân loại như thế nào?",
+      "answer": "Theo hệ thống phân loại của Liên đoàn Sản Phụ khoa Quốc tế (FIGO), ung thư cổ tử cung giai đoạn IV được chia thành hai giai đoạn: Giai đoạn IVA là khi ung thư đã xâm lấn các cơ quan lân cận như bàng quang hoặc trực tràng. Giai đoạn IVB là khi ung thư đã di căn đến các cơ quan xa, như phổi, gan, xương."
+    },
+    {
+      "question": "Các phương pháp điều trị nào được áp dụng cho ung thư cổ tử cung giai đoạn cuối?",
+      "answer": "Ung thư cổ tử cung giai đoạn IVA thường được điều trị bằng phối hợp xạ trị và hóa trị. Với giai đoạn IVB, các phương pháp điều trị toàn thân bao gồm hóa trị, điều trị miễn dịch, và điều trị nhắm đích được áp dụng. Ngoài ra, chăm sóc giảm nhẹ là một phần quan trọng trong điều trị nhằm cải thiện chất lượng cuộc sống cho người bệnh."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như ra máu âm đạo bất thường và đau vùng chậu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn cuối",
+        "Viêm cổ tử cung",
+        "U xơ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy đau nhức xương và mệt mỏi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn cuối",
+        "Ung thư di căn xương",
+        "Loãng xương"
+      ]
+    },
+    {
+      "question": "Tôi hay bị ra máu âm đạo sau khi quan hệ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn cuối",
+        "Viêm cổ tử cung",
+        "Polyp cổ tử cung"
+      ]
+    },
+    {
+      "question": "Tôi hay bị đau bụng, sụt cân và chảy máu âm đạo. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn cuối",
+        "Ung thư nội mạc tử cung",
+        "Ung thư buồng trứng"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy tiểu khó và đau khi đi tiểu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư cổ tử cung giai đoạn cuối",
+        "Viêm đường tiết niệu",
+        "U xơ tử cung"
+      ]
     }
   ]
 }

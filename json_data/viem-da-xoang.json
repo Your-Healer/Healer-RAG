@@ -1,58 +1,194 @@
 {
   "disease_id": "viem-da-xoang",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm đa xoang",
+  "disease_alternative_names": [
+    "Viêm xoang đa ổ",
+    "Sinusitis",
+    "Viêm xoang nhiều vị trí"
+  ],
+  "disease_definition": "Viêm đa xoang là tình trạng viêm sưng nề của lớp niêm mạc biểu mô lót trong xoang và có ít nhất từ hai xoang trở lên bị viêm. Hệ thống xoang bao gồm các xoang ở hai bên: hàm, sàng, trán, bướm. Viêm đa xoang xảy ra do phản ứng viêm, dị ứng hoặc nhiễm trùng do vi khuẩn, virus hoặc do nấm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nghẹt mũi",
+      "description": "Cảm giác tắc nghẽn ở hai bên mũi, gây khó khăn khi hít thở, thường là một trong những triệu chứng đặc trưng của viêm đa xoang."
+    },
+    {
+      "name": "Chảy mũi trước hoặc sau",
+      "description": "Dịch mũi có thể chảy ra phía trước qua lỗ mũi hoặc chảy xuống họng (chảy mũi sau), dịch mũi có thể trong hoặc đục tùy theo tình trạng viêm nhiễm."
+    },
+    {
+      "name": "Nhức đầu mặt",
+      "description": "Đau nhức ở vùng mặt tương ứng với vị trí xoang bị viêm: đau má (xoang hàm), đau trán (xoang trán), đau chẩm sau đầu (xoang bướm), đau mơ hồ (xoang sàng)."
+    },
+    {
+      "name": "Giảm hay mất khứu giác",
+      "description": "Giảm hoặc mất hoàn toàn khả năng cảm nhận mùi do niêm mạc mũi bị viêm phù nề."
+    },
+    {
+      "name": "Ho",
+      "description": "Đặc biệt phổ biến ở trẻ em bị viêm đa xoang, ho có thể do dịch mũi chảy xuống họng gây kích thích."
+    },
+    {
+      "name": "Sốt, ớn lạnh",
+      "description": "Thường xuất hiện trong viêm đa xoang cấp tính cùng với các triệu chứng toàn thân khác."
+    },
+    {
+      "name": "Chán ăn, mệt mỏi",
+      "description": "Các triệu chứng toàn thân thường đi kèm với viêm đa xoang cấp tính."
+    },
+    {
+      "name": "Đau răng",
+      "description": "Có thể xuất hiện trong viêm xoang hàm, đặc biệt là viêm xoang hàm thứ phát sau nhiễm trùng chân răng."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm đa xoang xảy ra do phản ứng viêm, dị ứng hoặc nhiễm trùng do vi khuẩn, virus hoặc do nấm.",
+    "related_factors": "Viêm đa xoang cấp tính đa số do tác nhân virus gây ra như rhinovirus (virus gây cảm lạnh), cúm, parainfluenza. Một tỷ lệ nhỏ do nhiễm trùng vi khuẩn hoặc phát triển nhiễm vi khuẩn thứ phát. Viêm đa xoang mạn tính thường có nhiều yếu tố bệnh sinh kết hợp gây ra.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Viêm mũi dị ứng",
+    "Hen suyễn",
+    "Hút thuốc lá",
+    "Ô nhiễm không khí",
+    "Bất thường cấu trúc vùng mũi xoang",
+    "Bệnh hệ thống ảnh hưởng tới chức năng lông chuyển niêm mạc mũi xoang",
+    "Nhiễm trùng răng miệng",
+    "Hệ miễn dịch suy giảm (đái tháo đường, HIV, bệnh ung thư)"
+  ],
+  "complications": [
+    "Viêm não – màng não",
+    "Áp xe não",
+    "Viêm – áp xe ổ mắt",
+    "Nhiễm trùng huyết",
+    "Mù mắt"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khai thác triệu chứng",
+      "Nội soi mũi xoang",
+      "Chẩn đoán hình ảnh học"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi mũi xoang",
+        "description": "Giúp xác định tình trạng niêm mạc mũi và xoang. Viêm đa xoang cấp tính thường thấy niêm mạc mũi sung huyết, phù nề, có dịch nhầy đục khe xoang. Viêm đa xoang mạn tính thường biểu hiện niêm mạc phù nề, thoái hóa, có thể có polyp mũi."
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT) vùng hàm mặt",
+        "description": "Phương tiện chẩn đoán giúp xác định có viêm đa xoang hay không, đánh giá mức độ tổn thương và vị trí tổn thương."
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI) vùng hàm mặt",
+        "description": "Được sử dụng trong một số trường hợp để đánh giá chi tiết hơn về tình trạng viêm xoang, đặc biệt khi nghi ngờ có biến chứng."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Hầu hết viêm đa xoang cấp tính sẽ đáp ứng với điều trị nội khoa. Phẫu thuật được chỉ định khi viêm đa xoang có biến chứng hoặc viêm đa xoang mạn tính không đáp ứng với điều trị bằng thuốc.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Dùng thuốc kháng sinh",
+        "description": "Được sử dụng khi viêm đa xoang do vi khuẩn gây ra, giúp tiêu diệt vi khuẩn và kiểm soát nhiễm trùng."
+      },
+      {
+        "name": "Thuốc kháng viêm",
+        "description": "Có thể sử dụng dạng toàn thân hoặc tại chỗ, giúp giảm viêm và sưng của niêm mạc xoang."
+      },
+      {
+        "name": "Thuốc kháng dị ứng",
+        "description": "Được sử dụng khi viêm đa xoang có liên quan đến dị ứng, giúp kiểm soát các triệu chứng dị ứng."
+      },
+      {
+        "name": "Thuốc giảm triệu chứng",
+        "description": "Giúp làm giảm các triệu chứng khó chịu như nghẹt mũi, chảy mũi, đau đầu."
+      },
+      {
+        "name": "Phẫu thuật nội soi xoang",
+        "description": "Được thực hiện khi viêm đa xoang có biến chứng hoặc không đáp ứng với điều trị bằng thuốc. Phẫu thuật giúp mở rộng các lỗ thông xoang, cắt polyp, lấy mô nấm, hút sạch nhầy mủ."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Uống nhiều nước để làm loãng chất nhầy",
+      "Sử dụng bình bơm xịt mũi để hỗ trợ trong điều trị",
+      "Tránh tiếp xúc với các yếu tố dị ứng hay kích thích: không khí lạnh, khói thuốc lá, không khí ô nhiễm",
+      "Tái khám theo lịch hẹn của bác sĩ",
+      "Tái khám ngay khi triệu chứng trở nặng đột ngột"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
-      "recommended_for": []
+      "description": "Tiêm vắc xin phòng cúm hàng năm có thể giúp giảm nguy cơ mắc viêm đa xoang do virus cúm gây ra.",
+      "recommended_for": [
+        "Người có nguy cơ cao mắc cúm",
+        "Người thường xuyên bị viêm đa xoang"
+      ]
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tránh để bị cảm lạnh và hoặc mắc các bệnh nhiễm trùng khác",
+      "Tránh tiếp xúc với chất gây dị ứng như phấn hoa, lông động vật hoặc chất kích thích như khói thuốc lá",
+      "Có chế độ ăn uống lành mạnh với rau củ tươi và trái cây giàu chất chống oxy hóa",
+      "Rửa tay thường xuyên để tránh nhiễm khuẩn",
+      "Luôn giữ ấm cơ thể, đặc biệt là tai, mũi, họng",
+      "Khi bị cảm cúm viêm mũi cấp tính, cần đi khám để được điều trị phù hợp, tránh dẫn đến tình trạng viêm đa xoang",
+      "Nếu bị viêm mũi dị ứng hoặc các bệnh lý đi kèm với viêm đa xoang, nên đi khám sớm và kiểm tra thường xuyên về mũi xoang"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm đa xoang có nguy hiểm không?",
+      "answer": "Viêm đa xoang là bệnh lý thường gặp trong dân số, nhưng nếu chủ quan không được điều trị, các biến chứng có thể xảy ra ảnh hưởng tới sức khỏe, để lại các di chứng hoặc đe dọa tính mạng người bệnh: viêm não – màng não, áp xe não, viêm – áp xe ổ mắt, nhiễm trùng huyết."
+    },
+    {
+      "question": "Viêm đa xoang có gây đau đầu?",
+      "answer": "Viêm đa xoang thường có biểu hiện đau đầu, tình trạng viêm bất cứ một xoang đơn lẻ nào cũng có thể gây đau đầu và càng nghiêm trọng hơn khi bị viêm đa xoang. Sự tắc nghẽn các xoang dẫn đến thiếu oxy lên não, thiếu oxy não sẽ dẫn đến đau đầu, mệt mỏi."
+    },
+    {
+      "question": "Viêm đa xoang khi nào cần nhập viện ngay?",
+      "answer": "Người bệnh cần nhập viện ngay khi nghi ngờ biến chứng xảy ra, các triệu chứng gợi ý như đau đầu dữ dội, sốt cao liên tục, sưng nề mắt hoặc nhìn mờ. Bệnh nhân cần tái khám theo lịch hẹn của bác sĩ hoặc tái khám ngay khi triệu chứng trở nặng đột ngột."
+    },
+    {
+      "question": "Sử dụng thuốc điều trị viêm đa xoang cho trẻ em như thế nào?",
+      "answer": "Viêm đa xoang ở trẻ em thường là cấp tính nên chủ yếu điều trị bằng thuốc. Điều quan trọng, bác sĩ cần xác định tác nhân là virus hay vi khuẩn để sử dụng điều trị kháng sinh thích hợp. Mặc dù viêm đa xoang gây biến chứng mắt và nội sọ hiếm gặp ở trẻ em, nhưng vẫn có thể xảy ra, các trường hợp này cần phẫu thuật kịp thời và sử dụng kháng sinh đường tĩnh mạch sau đó."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như viêm sưng nề của lớp niêm mạc biểu mô lót trong xoang. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-xoang", "viem-mui", "viem-xoang-man"]
+    },
+    {
+      "question": "Tôi đang cảm thấy ít nhất từ hai xoang trở lên bị viêm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-xoang", "viem-xoang-cap", "viem-xoang-man"]
+    },
+    {
+      "question": "Tôi hay bị viêm đa xoang do phản ứng viêm, dị ứng hoặc nhiễm trùng do vi khuẩn, virus hoặc do nấm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-da-xoang",
+        "viem-mui-di-ung",
+        "viem-xoang-do-nam"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nghẹt mũi, chảy mũi trước hoặc sau, nhức đầu mặt, giảm hay mất khứu giác. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-xoang", "viem-mui", "viem-xoang-ham"]
+    },
+    {
+      "question": "Tôi đang cảm thấy các bệnh đồng mắc hoặc có yếu tố nguy cơ có liên quan như viêm mũi dị ứng, hen suyễn, hút thuốc lá, ô nhiễm không khí. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-xoang", "viem-mui-di-ung", "hen-suyen"]
+    },
+    {
+      "question": "Tôi hay bị bất thường cấu trúc vùng mũi xoang, bệnh hệ thống ảnh hưởng tới chức năng lông chuyển niêm mạc mũi xoang và nhiễm trùng răng miệng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-xoang", "veo-vach-ngan", "viem-ham-mat"]
+    },
+    {
+      "question": "Tôi hay bị viêm xoang hàm. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-xoang", "viem-xoang-ham", "viem-rang-nguoi"]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm xoang trán. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-da-xoang", "viem-xoang-tran", "dau-nua-dau"]
     }
   ]
 }

@@ -1,39 +1,137 @@
 {
   "disease_id": "ung-thu-da-day-di-can",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Ung thư dạ dày giai đoạn di căn",
+  "disease_alternative_names": [
+    "Ung thư dạ dày giai đoạn 4",
+    "Ung thư dạ dày giai đoạn cuối"
+  ],
+  "disease_definition": "Ung thư dạ dày giai đoạn di căn (giai đoạn 4) là giai đoạn nặng nhất của bệnh lý ung thư dạ dày, khi các tế bào ung thư đã lan đến các cơ quan khác như gan, phổi, xương, não và các hạch bạch huyết ở các vùng khác trong cơ thể. Ở giai đoạn này, tiên lượng kém, việc điều trị phức tạp và kéo dài hơn, ảnh hưởng đáng kể đến chất lượng cuộc sống của bệnh nhân.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Di căn đến gan",
+      "description": "Khó chịu hoặc đau ở trên rốn hoặc bên phải bụng, mệt mỏi, ăn uống kém, nôn ói, sụt cân, bụng căng lên (cổ trướng), da vàng, mắt vàng, ngứa da, phù chân"
+    },
+    {
+      "name": "Di căn đến phổi",
+      "description": "Ho dai dẳng, khó thở, viêm phổi, tràn dịch màng phổi"
+    },
+    {
+      "name": "Di căn đến hạch bạch huyết",
+      "description": "Khó nuốt do các hạch bạch huyết vùng cổ và ngực bị sưng to, đau bụng dữ dội, đau lưng dữ dội (nếu di căn đến hạch bạch huyết phía sau lưng)"
+    },
+    {
+      "name": "Di căn đến màng bụng (phúc mạc)",
+      "description": "Đầy hơi, chướng bụng, bụng to ra, chán ăn, khó tiêu, mệt mỏi, táo bón, khó thở"
+    },
+    {
+      "name": "Di căn đến buồng trứng (u Krukenberg)",
+      "description": "Đau vùng bụng dưới quặn thắt từng cơn, đau vùng xương chậu - vùng lưng, mệt mỏi, suy kiệt, rối loạn kinh nguyệt, rối loạn tiêu hóa (chướng bụng, khó tiêu, táo bón hoặc tiêu chảy)"
+    },
+    {
+      "name": "Triệu chứng chung",
+      "description": "Mệt mỏi, sụt cân, chán ăn, đau đớn ở các vị trí khác nhau tùy theo vị trí di căn"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Ung thư dạ dày giai đoạn di căn là hậu quả của sự tiến triển và lan rộng của ung thư dạ dày nguyên phát khi không được phát hiện và điều trị kịp thời.",
+    "related_factors": "Các tế bào ung thư từ dạ dày đi theo đường máu hoặc bạch huyết đến các cơ quan khác trong cơ thể và phát triển thành các khối u di căn.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Ung thư dạ dày không được phát hiện hoặc điều trị kịp thời",
+    "Ung thư dạ dày đã xâm lấn qua thành dạ dày",
+    "Đã có di căn hạch vùng",
+    "Thể mô bệnh học có tiên lượng xấu",
+    "Tuổi cao",
+    "Sức đề kháng yếu",
+    "Điều trị không đúng phác đồ"
+  ],
+  "complications": [
+    "Xuất huyết tiêu hóa",
+    "Tắc nghẽn đường ra của dạ dày",
+    "Tràn dịch màng phổi, màng bụng",
+    "Suy kiệt, suy dinh dưỡng",
+    "Đau đớn kéo dài",
+    "Suy giảm chất lượng cuộc sống",
+    "Tử vong trong thời gian ngắn, thời gian sống còn tính bằng tháng"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Thăm khám sức khỏe tổng quát",
+      "Hỏi bệnh sử và đánh giá triệu chứng",
+      "Đánh giá giai đoạn bệnh theo hệ thống phân loại TNM"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm máu",
+        "description": "Phát hiện tình trạng thiếu máu, thay đổi của chức năng gan, thận; sự gia tăng nồng độ của các dấu ấn ung thư"
+      },
+      {
+        "name": "Nội soi thực quản dạ dày",
+        "description": "Đưa một ống mềm, mỏng từ vùng cổ họng đến thực quản dạ dày để quan sát trực tiếp và phát hiện các khối u hoặc tổn thương nghi ngờ ung thư"
+      },
+      {
+        "name": "Sinh thiết",
+        "description": "Lấy một mẩu mô nhỏ từ tổn thương nghi ngờ của dạ dày để xem xét các dấu hiệu của tế bào ung thư dưới kính hiển vi"
+      },
+      {
+        "name": "Chụp X-quang dạ dày có Baryte",
+        "description": "Giúp hiển thị dạ dày và các tổn thương bất thường rõ ràng hơn trên X-quang thông qua việc uống một chất lỏng chứa Baryte"
+      },
+      {
+        "name": "Chụp CT",
+        "description": "CT ngực, CT bụng, CT não, CT cổ, CT chậu giúp khảo sát hình ảnh chi tiết về các cơ quan và đánh giá mức độ xâm lấn, di căn của ung thư dạ dày"
+      },
+      {
+        "name": "Xạ hình xương",
+        "description": "Sử dụng các đồng vị phóng xạ để phát hiện những tổn thương ở trong xương của bệnh nhân, đặc biệt hữu ích để phát hiện di căn xương"
+      },
+      {
+        "name": "PET-CT",
+        "description": "Giúp phát hiện sớm các tổn thương, đánh giá giai đoạn của bệnh, đánh giá tái phát và phát hiện di căn của ung thư dạ dày"
+      },
+      {
+        "name": "Phẫu thuật nội soi ổ bụng",
+        "description": "Giúp chẩn đoán chính xác về sự xâm lấn và di căn của ung thư đến phúc mạc, có thể kết hợp rửa phúc mạc và lấy mẫu tổn thương để xét nghiệm tế bào học"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Mục tiêu của việc điều trị ung thư dạ dày giai đoạn di căn chủ yếu tập trung vào việc giảm bớt các triệu chứng và kiểm soát sự phát triển của ung thư nhằm mang đến chất lượng sống tốt nhất có thể cho bệnh nhân. Phương pháp điều trị được lựa chọn dựa trên độ tuổi, sức khỏe tổng thể, tình trạng bệnh và nguyện vọng của bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật triệu chứng",
+        "description": "Cắt dạ dày hoặc nối dạ dày với ruột non để giải quyết tình trạng xuất huyết tiêu hóa hoặc tắc nghẽn đường ra của dạ dày; có thể đặt ống sonde từ dạ dày hoặc ruột non ra da để cung cấp dinh dưỡng"
+      },
+      {
+        "name": "Hóa trị",
+        "description": "Sử dụng các hóa chất để giúp thu nhỏ khối u ác tính, giảm các triệu chứng và kéo dài thời gian sống. Có thể thực hiện hóa trị đơn chất hoặc phối hợp nhiều thuốc như 5-FU kết hợp với Cisplatin (phác đồ FP), phác đồ ECX, EOF, EOX"
+      },
+      {
+        "name": "Xạ trị",
+        "description": "Sử dụng các hạt hoặc sóng năng lượng để tiêu diệt tế bào ung thư, giúp kiểm soát triệu chứng trong bệnh lý di căn xương, di căn não"
+      },
+      {
+        "name": "Thuốc điều trị nhắm trúng đích",
+        "description": "Tác động vào các phân tử đặc hiệu cần thiết cho quá trình sinh ung thư và phát triển khối u, giúp cải thiện thời gian sống còn cao hơn so với hóa trị đơn thuần"
+      },
+      {
+        "name": "Liệu pháp miễn dịch",
+        "description": "Tăng cường hệ thống miễn dịch chống lại ung thư. Pembrolizumab (Keytruda) được sử dụng để điều trị ung thư dạ dày đã tái phát hoặc di căn ở những trường hợp không đáp ứng với hóa trị"
+      },
+      {
+        "name": "Thử nghiệm lâm sàng",
+        "description": "Các nghiên cứu về các liệu pháp thử nghiệm mới có thể giúp cải thiện chất lượng sống và tỷ lệ sống còn của bệnh nhân"
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tham vấn bác sĩ dinh dưỡng để xây dựng thực đơn phù hợp với tình trạng sức khỏe",
+      "Uống thuốc giảm đau và các loại thuốc khác theo chỉ định của bác sĩ",
+      "Tăng cường nghỉ ngơi, tránh làm việc quá sức",
+      "Tham gia các nhóm hỗ trợ tâm lý cho bệnh nhân ung thư",
+      "Duy trì giao tiếp với gia đình và bạn bè để có được sự hỗ trợ tinh thần",
+      "Thảo luận với bác sĩ về các phương pháp giảm nhẹ triệu chứng"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +139,67 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Phát hiện và điều trị ung thư dạ dày ở giai đoạn sớm",
+      "Tầm soát ung thư dạ dày đều đặn đối với những người có nguy cơ cao",
+      "Khám sức khỏe định kỳ để phát hiện sớm các bất thường",
+      "Tuân thủ kế hoạch điều trị sau khi được chẩn đoán ung thư dạ dày"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Ung thư dạ dày giai đoạn di căn có chữa khỏi được không?",
+      "answer": "Ung thư dạ dày giai đoạn di căn thường không thể chữa khỏi hoàn toàn. Mục tiêu của việc điều trị chủ yếu tập trung vào việc giảm bớt các triệu chứng, kiểm soát sự phát triển của ung thư và cải thiện chất lượng sống cho bệnh nhân. Tiên lượng sống còn rất hạn chế, phần lớn thời gian sống chỉ còn tính bằng tháng."
+    },
+    {
+      "question": "Ung thư dạ dày thường di căn đến những cơ quan nào?",
+      "answer": "Ung thư dạ dày thường di căn đến gan, phổi, xương, não, các hạch bạch huyết ở các vùng khác trong cơ thể, màng bụng (phúc mạc) và buồng trứng (u Krukenberg) ở nữ giới."
+    },
+    {
+      "question": "Các phương pháp điều trị nào được áp dụng cho ung thư dạ dày giai đoạn di căn?",
+      "answer": "Các phương pháp điều trị ung thư dạ dày giai đoạn di căn bao gồm: phẫu thuật triệu chứng, hóa trị, xạ trị, thuốc điều trị nhắm trúng đích, liệu pháp miễn dịch, thử nghiệm lâm sàng và chăm sóc dinh dưỡng. Phương pháp điều trị được lựa chọn dựa trên độ tuổi, sức khỏe tổng thể, tình trạng bệnh và nguyện vọng của bệnh nhân."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như khó chịu, đau bụng trên rốn hoặc bên phải bụng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày giai đoạn di căn",
+        "Viêm dạ dày",
+        "Viêm gan"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy mệt mỏi, chán ăn, nôn ói và sụt cân. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày giai đoạn di căn",
+        "Ung thư thực quản",
+        "Viêm dạ dày cấp tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị bụng căng lên, da vàng, mắt vàng và ngứa da. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày giai đoạn di căn",
+        "Xơ gan",
+        "Viêm gan"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như ho dai dẳng, khó thở và tràn dịch màng phổi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày giai đoạn di căn",
+        "Ung thư phổi",
+        "Viêm phổi nặng"
+      ]
+    },
+    {
+      "question": "Tôi hay bị khó nuốt, đau bụng dữ dội và đau lưng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Ung thư dạ dày giai đoạn di căn",
+        "Ung thư thực quản",
+        "Loét dạ dày nặng"
+      ]
     }
   ]
 }

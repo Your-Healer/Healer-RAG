@@ -1,39 +1,116 @@
 {
   "disease_id": "viem-cau-than-cap",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm cầu thận cấp",
+  "disease_alternative_names": [
+    "Viêm cầu thận cấp tính",
+    "Viêm cầu thận hậu liên cầu"
+  ],
+  "disease_definition": "Viêm cầu thận cấp là một nhóm bệnh làm tổn thương cầu thận, làm ảnh hưởng đến khả năng lọc máu, chất thải và nước tiểu của cơ thể. Khi cầu thận bị tổn thương do viêm, thay vì giữ protein và tế bào hồng cầu trong máu, sẽ làm rò rỉ hồng cầu và protein vào trong nước tiểu. Điều này dẫn đến tình trạng thiếu protein trong máu, gây sưng phù ở mặt, tay, chân và mắt cá chân.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Nước tiểu màu nâu hoặc có lẫn máu",
+      "description": "Hiện tượng khi máu rò rỉ vào bên trong nước tiểu khi cầu thận bị viêm, làm cho nước tiểu có màu nâu hoặc thấy rõ là có máu bên trong nước tiểu."
+    },
+    {
+      "name": "Nước tiểu có bọt",
+      "description": "Protein rò rỉ vào nước tiểu khi cầu thận bị viêm làm xuất hiện bọt trong nước tiểu."
+    },
+    {
+      "name": "Nhu cầu đi tiểu ít hơn bình thường",
+      "description": "Giảm sản lượng nước tiểu do cầu thận bị tổn thương, không thực hiện được chức năng lọc."
+    },
+    {
+      "name": "Sưng, phù nề ở mắt cá chân, bọng mắt",
+      "description": "Tình trạng tích tụ dịch trong cơ thể do thiếu protein trong máu, gây phù nề ở các vùng như mắt cá chân, bọng mắt, tay, mặt."
+    },
+    {
+      "name": "Chuột rút cơ bắp",
+      "description": "Hiện tượng co thắt đau đớn ở các cơ, thường do rối loạn điện giải khi thận không thể duy trì cân bằng điện giải bình thường."
+    },
+    {
+      "name": "Buồn nôn và nôn",
+      "description": "Triệu chứng xảy ra khi các chất thải tích tụ trong máu do thận không thể lọc hiệu quả."
+    },
+    {
+      "name": "Tăng huyết áp",
+      "description": "Tăng áp lực máu trong động mạch do thận không thể điều hòa huyết áp bình thường, hoặc do giữ nước và natri."
+    },
+    {
+      "name": "Sức khỏe thể chất giảm",
+      "description": "Cảm giác mệt mỏi, suy nhược do tích tụ chất thải trong cơ thể và thiếu protein trong máu."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm cầu thận cấp có thể do nhiễm trùng, bệnh tự miễn, hoặc viêm mạch máu gây ra.",
+    "related_factors": "Các yếu tố liên quan bao gồm nhiễm trùng do liên cầu khuẩn, nhiễm trùng nội tâm mạc, nhiễm virus (viêm gan B, C, HIV), bệnh tự miễn (lupus ban đỏ, hội chứng Goodpasture), và viêm mạch máu.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Gia đình có bệnh sử về thận",
+    "Người bệnh đã từng bị viêm cầu thận hoặc có bệnh sử về thận",
+    "Gặp những vấn đề sức khỏe liên quan đến huyết áp hoặc đái tháo đường",
+    "Phơi nhiễm độc tố",
+    "Trẻ em ở độ tuổi từ 4-7 tuổi",
+    "Nhiễm trùng đường hô hấp trên (như viêm họng, viêm họng hạt)"
+  ],
+  "complications": [
+    "Phát triển thành viêm cầu thận mạn tính",
+    "Suy thận cấp hoặc mạn tính",
+    "Tăng huyết áp dai dẳng",
+    "Hội chứng thận hư",
+    "Rối loạn cân bằng điện giải",
+    "Phù phổi cấp do ứ dịch"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng và hỏi bệnh sử",
+      "Xét nghiệm nước tiểu",
+      "Xét nghiệm máu",
+      "Sinh thiết thận"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Xét nghiệm nước tiểu",
+        "description": "Kiểm tra độ thanh thải creatinin, lượng protein trong nước tiểu, tế bào hồng cầu trong nước tiểu, và nồng độ của nước tiểu."
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Kiểm tra nồng độ hồng cầu trong máu, nồng độ albumin, nồng độ nitrogen urine trong máu, và nồng độ creatinin trong máu."
+      },
+      {
+        "name": "Sinh thiết thận",
+        "description": "Phương pháp đưa ra kết quả cụ thể về bệnh bằng cách lấy mẫu mô thận, sử dụng kim dài đưa vào vùng lưng để đến thận và thực hiện sinh thiết."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Bệnh viêm cầu thận cấp có thể tự khỏi mà không cần điều trị. Tuy nhiên, người bệnh cần thay đổi chế độ dinh dưỡng và thói quen sống lành mạnh để phục hồi chức năng thận.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Thuốc lợi tiểu",
+        "description": "Được sử dụng trong trường hợp người bệnh gặp tình trạng bí tiểu nhiều, gây bất tiện trong cuộc sống. Cần được bác sĩ chỉ định thuốc và phác đồ điều trị phù hợp."
+      },
+      {
+        "name": "Kháng sinh",
+        "description": "Cần sử dụng kháng sinh diệt liên cầu khuẩn nếu viêm cầu thận cấp do các bệnh nhiễm trùng, trước khi điều trị bằng chế độ dinh dưỡng."
+      },
+      {
+        "name": "Điều chỉnh chế độ ăn",
+        "description": "Áp dụng chế độ ăn ít muối, kiểm soát tốt lượng kali và protein, tăng cường thực phẩm tốt cho thận nhằm cải thiện và nâng cao sức khỏe thận."
+      },
+      {
+        "name": "Thuốc kiểm soát huyết áp",
+        "description": "Được sử dụng để kiểm soát huyết áp cao, một triệu chứng phổ biến của viêm cầu thận cấp."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Hạn chế các thực phẩm quá mặn, nhiều muối",
+      "Hạn chế các thực phẩm chế biến sẵn, đóng hộp",
+      "Uống đủ nước",
+      "Kiểm soát tốt lượng kali và protein trong chế độ ăn",
+      "Ăn nhiều các thực phẩm tốt cho thận như cá vược, súp lơ, nho đỏ, tỏi, kiều mạch",
+      "Đến thăm khám với bác sĩ ngay khi có triệu chứng đầu tiên của bệnh"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +118,91 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tập thể dục thường xuyên",
+      "Thường xuyên kiểm soát huyết áp",
+      "Thực hiện khám sức khỏe định kỳ",
+      "Sử dụng biện pháp an toàn khi quan hệ tình dục",
+      "Giữ gìn vệ sinh cho bản thân và môi trường sống",
+      "Uống nhiều nước và áp dụng chế độ ăn ít muối",
+      "Tăng cường hệ miễn dịch, giảm thiểu tối đa nguy cơ bị các bệnh viêm nhiễm",
+      "Đặc biệt chú ý đến viêm nhiễm liên cầu khuẩn"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm cầu thận cấp có thể tự khỏi không?",
+      "answer": "Bệnh viêm cầu thận cấp có thể tự khỏi mà không cần điều trị. Tuy nhiên, các chuyên gia y tế và bác sĩ khuyến cáo người bệnh cần đi thăm khám ngay khi cơ thể bắt đầu có những triệu chứng bệnh để được điều trị kịp thời và đúng cách, nhằm hạn chế tối đa nguy cơ phát triển thành những bệnh lý về thận khác nguy hiểm hơn."
+    },
+    {
+      "question": "Viêm cầu thận cấp có nguy hiểm không?",
+      "answer": "Viêm cầu thận cấp nếu không được điều trị kịp thời có thể phát triển thành viêm cầu thận mạn, dẫn đến suy thận. Tuy nhiên, nếu được phát hiện sớm và điều trị đúng cách, bệnh có tiên lượng tốt và có thể phục hồi hoàn toàn."
+    },
+    {
+      "question": "Ai có nguy cơ cao mắc viêm cầu thận cấp?",
+      "answer": "Những người có bệnh sử hoặc gia đình có bệnh sử bị viêm cầu thận sẽ có nguy cơ cao hơn người khác. Trẻ em ở độ tuổi từ 4-7 tuổi cũng là đối tượng phổ biến với bệnh viêm cầu thận cấp. Người mắc các bệnh liên quan đến nhiễm trùng như viêm họng, viêm họng hạt hay nhiễm trùng vi khuẩn liên cầu cũng có nguy cơ cao mắc viêm cầu thận cấp."
+    },
+    {
+      "question": "Ăn uống như thế nào khi bị viêm cầu thận cấp?",
+      "answer": "Người bị viêm cầu thận cấp nên hạn chế các thực phẩm quá mặn, nhiều muối, hạn chế các thực phẩm chế biến sẵn, đóng hộp, uống đủ nước, kiểm soát tốt lượng kali và protein trong chế độ ăn, và ăn nhiều các thực phẩm tốt cho thận như cá vược, súp lơ, nho đỏ, tỏi, kiều mạch, v.v."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như tiểu ra máu, huyết áp cao, nhu cầu đi tiểu thay đổi bất thường. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-cau-than-cap", "soi-than", "viem-than-ban"]
+    },
+    {
+      "question": "Tôi đang cảm thấy phù, tăng huyết áp, protein niệu, hồng cầu niệu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-cap",
+        "hoi-chung-than-hu",
+        "suy-than-cap"
+      ]
+    },
+    {
+      "question": "Tôi hay bị nước tiểu màu nâu hoặc có lẫn máu trong nước tiểu, nước tiểu có bọt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-cap",
+        "viem-than-ban",
+        "hoi-chung-than-hu"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như nhu cầu đi tiểu ít hơn bình thường, xuất hiện tình trạng sưng, phù nề ở mắt cá nhân, bọng mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-cap",
+        "suy-than-cap",
+        "hoi-chung-than-hu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy chuột rút cơ bắp, buồn nôn và nôn, tăng huyết áp. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-cap",
+        "suy-than-cap",
+        "roi-loan-dien-giai"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có các triệu chứng như viêm cầu thận sau nhiễm trùng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-cap",
+        "viem-cau-than-man",
+        "nhiem-trung-duong-tiet-nieu"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy viêm họng, viêm họng hạt hay nhiễm trùng vi khuẩn liên cầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-cau-than-cap", "viem-amidan", "viem-hong"]
+    },
+    {
+      "question": "Tôi hay bị viêm cầu thận hậu liên cầu. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-cau-than-cap",
+        "viem-cau-than-man",
+        "viem-than-ban"
+      ]
     }
   ]
 }

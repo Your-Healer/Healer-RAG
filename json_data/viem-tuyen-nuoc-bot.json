@@ -1,58 +1,223 @@
 {
   "disease_id": "viem-tuyen-nuoc-bot",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tuyến nước bọt",
+  "disease_alternative_names": [
+    "Viêm tuyến nước bọt mang tai",
+    "Viêm tuyến nước bọt dưới hàm",
+    "Viêm tuyến nước bọt dưới lưỡi"
+  ],
+  "disease_definition": "Viêm tuyến nước bọt là tình trạng tuyến nước bọt bị nhiễm trùng gây sưng, đau. Nguyên nhân có thể do nhiễm virus hoặc do ống dẫn nước bọt bị tắc nghẽn, tạo điều kiện cho vi khuẩn gây bệnh hoạt động. Các tuyến nước bọt tiết ra nước bọt làm ẩm thức ăn giúp dễ nuốt, đồng thời nước bọt chứa các enzym (protein) giúp phân hủy thức ăn để dạ dày tiêu hóa dễ hơn.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Sưng tuyến nước bọt",
+      "description": "Viêm sưng tuyến nước bọt mang tai hoặc dưới hàm hai bên có thể gây biến dạng mặt như mặt phình to, cổ bạnh và cằm xệ"
+    },
+    {
+      "name": "Da vùng tuyến căng cứng",
+      "description": "Da vùng tuyến mang tai có thể căng cứng, bóng nhưng thường không đỏ, sờ nóng đau"
+    },
+    {
+      "name": "Giảm tiết nước bọt",
+      "description": "Nước bọt giảm, ít và quánh, gây cảm giác khô miệng"
+    },
+    {
+      "name": "Viêm lỗ ống tuyến",
+      "description": "Nếu viêm do vi khuẩn, lỗ ống Stenon sẽ thấy viêm đỏ hoặc/và có mủ chảy ra khi vuốt dọc ống tuyến"
+    },
+    {
+      "name": "Sưng góc hàm",
+      "description": "Sưng to ở góc hàm do tuyến nước bọt mang tai/dưới hàm viêm sưng hoặc do hạch to"
+    },
+    {
+      "name": "Đau họng và đau hàm",
+      "description": "Đau khi há miệng hoặc bị đau hàm, khi nuốt có thể đau lan ra tai"
+    },
+    {
+      "name": "Sốt và đau đầu",
+      "description": "Sốt ớn lạnh kèm theo đau đầu"
+    },
+    {
+      "name": "Mệt mỏi và hôi miệng",
+      "description": "Cảm giác mệt mỏi và hơi thở có mùi hôi"
+    },
+    {
+      "name": "U cục cứng",
+      "description": "Nếu nhiễm trùng tuyến nước bọt do khối u sẽ cảm thấy u cục, cứng khu vực bị viêm"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
-    "transmission_routes": []
+    "main_cause": "Viêm tuyến nước bọt phổ biến nhất là do vi-rút (Virus quai bị, HIV, Coxsackievirus, Parainfluenza loại 1 và 2, Virus herpes, virus cúm A). Ngoài ra, viêm tuyến nước bọt có thể xảy ra do vi khuẩn hoặc nấm. Vi khuẩn thường gây viêm tuyến nước bọt là Staphylococcus aureus, các loại vi khuẩn khác bao gồm vi khuẩn liên cầu, vi khuẩn Coliform.",
+    "related_factors": "Nhiễm trùng tuyến nước bọt thường bắt đầu bằng sự giảm lưu lượng nước bọt hoặc tắc nghẽn trong tuyến. Sự tắc nghẽn có thể do sỏi tuyến nước bọt, ống nước bọt bị gấp khúc, khối u, các tuyến nước bọt hình thành bất thường, hoặc sẹo hẹp ống tuyến.",
+    "transmission_routes": ["Viêm tuyến nước bọt là bệnh không lây nhiễm"]
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Tuổi tác, thường từ 50-60 tuổi",
+    "Người vừa trải qua phẫu thuật",
+    "Xạ trị trong miệng",
+    "Mắc bệnh Sjögren",
+    "Mắc chứng khô miệng, mất nước",
+    "Mắc chứng rối loạn ăn uống, suy dinh dưỡng",
+    "Hệ miễn dịch yếu",
+    "Dùng thuốc kháng histamin, thuốc lợi tiểu",
+    "Dùng thuốc chẹn beta, thuốc an thần, thuốc chống trầm cảm",
+    "Suy thận",
+    "Thở bằng miệng khi ngủ",
+    "Căng thẳng",
+    "Nấm miệng",
+    "Đái tháo đường"
+  ],
+  "complications": [
+    "Áp xe tuyến nước bọt",
+    "Phì đại tuyến nước bọt",
+    "Tắc nghẽn đường thở",
+    "Nhiễm trùng lan đến xương mặt",
+    "Nhiễm trùng huyết",
+    "Biến dạng mặt"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Khám lâm sàng",
+      "Siêu âm tuyến nước bọt",
+      "Chẩn đoán hình ảnh"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Sinh thiết",
+        "description": "Thực hiện bằng cách lấy mẫu mô tuyến nước bọt và kiểm tra dưới kính hiển vi"
+      },
+      {
+        "name": "Nội soi tuyến nước bọt",
+        "description": "Thực hiện bằng cách đưa ống nội soi có gắn camera rất nhỏ vào các ống tuyến nước bọt để quan sát"
+      },
+      {
+        "name": "Chụp X-quang",
+        "description": "Chỉ định trong trường hợp bác sĩ không thể chẩn đoán trong quá trình khám sức khỏe"
+      },
+      {
+        "name": "Chụp cắt lớp vi tính (CT)",
+        "description": "Chỉ định trong trường hợp nghi ngờ có nhiễm trùng để xác định viêm"
+      },
+      {
+        "name": "Siêu âm",
+        "description": "Giúp xác định viêm và tình trạng của tuyến nước bọt"
+      },
+      {
+        "name": "Chụp cộng hưởng từ (MRI)",
+        "description": "Giúp có hình ảnh chi tiết về tình trạng của tuyến nước bọt"
+      },
+      {
+        "name": "Cấy mủ từ ống tuyến nước bọt",
+        "description": "Nếu bác sĩ có thể nặn mủ từ ống dẫn của tuyến nước bọt bị viêm, vi khuẩn sẽ được nuôi cấy trong phòng thí nghiệm"
+      },
+      {
+        "name": "Xét nghiệm máu",
+        "description": "Để phát hiện tình trạng tăng amylase trong máu và nước tiểu, bạch cầu giảm, bạch cầu đa nhân trung tính giảm nếu viêm do vi rút, hoặc bạch cầu đa nhân trung tính tăng đối với nguyên nhân vi khuẩn"
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Đối với việc điều trị viêm tuyến nước bọt nói chung, cần thực hiện trên nguyên tắc giảm đau, kháng viêm, chống nhiễm trùng.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Điều trị kháng sinh",
+        "description": "Nếu nhiễm trùng do vi khuẩn, dùng thuốc kháng sinh để điều trị. Cần có chỉ định của bác sĩ chuyên khoa và uống đủ liều, không tự ý ngưng thuốc giữa chừng."
+      },
+      {
+        "name": "Điều trị kháng virus",
+        "description": "Nếu nhiễm trùng do virus, theo dõi hoặc sử dụng thuốc kháng vi-rút nếu cần"
+      },
+      {
+        "name": "Rạch dẫn lưu",
+        "description": "Nếu có áp xe, tụ mủ, cần rạch dẫn lưu dịch mủ"
+      },
+      {
+        "name": "Xoa bóp tuyến",
+        "description": "Trường hợp viêm do tắc nghẽn có nguyên nhân từ sỏi tuyến nước bọt thì có thể sử dụng liệu pháp xoa bóp nhẹ nhàng khu vực tắc nghẽn để loại bỏ sỏi"
+      },
+      {
+        "name": "Phẫu thuật",
+        "description": "Trường hợp tắc nghẽn do gấp khúc tuyến nước bọt hoặc nếu nhiễm trùng không đáp ứng với kháng sinh tiêm tĩnh mạch sau 48 giờ, có thể phẫu thuật và dẫn lưu tuyến nước bọt"
+      },
+      {
+        "name": "Điều trị nguyên nhân",
+        "description": "Nếu nhiễm trùng tuyến nước bọt có nguồn gốc từ tình trạng tự miễn, người bệnh cần điều trị ổn định miễn dịch và nâng cao đề kháng"
       }
     ],
-    "recommendations": [],
-    "prevention_of_transmission": []
+    "recommendations": [
+      "Uống nhiều nước",
+      "Ăn kẹo cứng hoặc uống nước chanh để tăng lưu lượng nước bọt",
+      "Chườm ấm khu vực tuyến bị viêm",
+      "Xoa bóp nhẹ các tuyến nước bọt",
+      "Vệ sinh răng miệng kỹ",
+      "Tránh để thức ăn dính vào vòm miệng",
+      "Ăn miếng nhỏ và nhai kỹ",
+      "Tránh đồ uống có cồn hoặc axit",
+      "Không nên dùng nước súc miệng hóa học"
+    ],
+    "prevention_of_transmission": [
+      "Viêm tuyến nước bọt không lây nhiễm nên không cần các biện pháp phòng ngừa lây truyền"
+    ]
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Không có vaccine đặc hiệu để phòng ngừa viêm tuyến nước bọt",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Bỏ thuốc lá, rượu bia",
+      "Giữ gìn vệ sinh răng miệng",
+      "Tránh để cơ thể mất nước bằng cách uống đủ 2 lít nước mỗi ngày",
+      "Có thể nhai kẹo cứng hoặc kẹo cao su để kích thích tiết nước bọt",
+      "Tăng cường sức đề kháng cho cơ thể",
+      "Tập thể dục mỗi ngày để phòng ngừa nhiễm vi khuẩn, virus gây bệnh"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tuyến nước bọt có lây không?",
+      "answer": "Viêm tuyến nước bọt là bệnh không lây nhiễm nên bạn không cần phải tránh tiếp xúc với người bệnh."
+    },
+    {
+      "question": "Viêm tuyến nước bọt uống thuốc gì?",
+      "answer": "Viêm tuyến nước bọt nhẹ có thể không cần uống thuốc, hoặc chỉ cần sử dụng thuốc giảm đau. Các thuốc sử dụng trong viêm tuyến nước bọt bao gồm: thuốc kháng sinh, giảm viêm, giảm đau tuy nhiên cần dùng thuốc theo chỉ định của bác sĩ. Người bệnh không nên tự mua thuốc kháng sinh về uống, hoặc điều trị bằng các loại thuốc không theo chỉ định của bác sĩ chuyên khoa."
+    },
+    {
+      "question": "Viêm tuyến nước bọt có nguy hiểm không?",
+      "answer": "Viêm tuyến nước bọt không phải là bệnh lý nguy hiểm song không vì thế mà chủ quan để bệnh kéo dài. Các biến chứng viêm tuyến nước bọt có thể để lại nhiều hệ quả nghiêm trọng gây ảnh hưởng tới sức khỏe và thẩm mỹ, chẳng hạn như: áp xe tuyến nước bọt, biến dạng mặt, tắc nghẽn đường thở, nhiễm trùng huyết."
+    },
+    {
+      "question": "Viêm tuyến nước bọt có tự khỏi không và bao lâu thì khỏi bệnh?",
+      "answer": "Nếu nhiễm trùng tuyến nước bọt không có biến chứng thì có thể tự khỏi mà không cần dùng thuốc. Thông thường tình trạng viêm diễn ra khoảng từ 1-2 tuần sẽ hết. Tuy nhiên, đối với trẻ em và trẻ nhỏ, những người có miễn dịch yếu thì nên đến bệnh viện để thăm khám sớm nhất."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như sưng tuyến nước bọt, khô miệng và đau họng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tuyến nước bọt", "Quai bị", "Viêm họng"]
+    },
+    {
+      "question": "Tôi đang cảm thấy khó nuốt, đau hàm và sốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tuyến nước bọt", "Viêm họng", "Quai bị"]
+    },
+    {
+      "question": "Tôi bị sưng tuyến nước bọt, đau lan ra tai khi nuốt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["Viêm tuyến nước bọt", "Viêm tai", "Quai bị"]
+    },
+    {
+      "question": "Tôi bị sưng tuyến nước bọt và da vùng tuyến mang tai căng cứng, bóng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến nước bọt",
+        "Viêm tuyến nước bọt mang tai",
+        "Quai bị"
+      ]
+    },
+    {
+      "question": "Tôi bị sưng tuyến nước bọt, khô miệng và đang xạ trị ung thư. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tuyến nước bọt",
+        "Biến chứng xạ trị",
+        "Khô miệng do xạ trị"
+      ]
     }
   ]
 }

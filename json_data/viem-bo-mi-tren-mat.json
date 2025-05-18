@@ -1,39 +1,130 @@
 {
   "disease_id": "viem-bo-mi-tren-mat",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm bờ mi trên mắt",
+  "disease_alternative_names": ["Viêm bờ mi trước", "Viêm bờ mi sau"],
+  "disease_definition": "Viêm bờ mi trên là tình trạng viêm mí mắt dọc theo cạnh trên của mí. Bệnh xảy ra khi nhiễm khuẩn hoặc tuyến dầu bị tắc làm mắt sưng, mẩn đỏ. Viêm bờ mi trên không lây nhiễm và không dẫn đến mù lòa nhưng khó điều trị dứt điểm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Chảy nước mắt",
+      "description": "Mắt tiết nhiều nước mắt hơn bình thường do kích ứng và viêm."
+    },
+    {
+      "name": "Cảm giác cộm, nóng",
+      "description": "Cảm giác khó chịu, cộm và nóng ở vùng mí mắt trên."
+    },
+    {
+      "name": "Nhờn ở mí mắt",
+      "description": "Tình trạng nhờn quanh mí mắt do dầu từ tuyến bã tăng tiết."
+    },
+    {
+      "name": "Đau, ngứa mí mắt",
+      "description": "Cảm giác đau và ngứa ở mí mắt, đặc biệt là vùng bờ mi."
+    },
+    {
+      "name": "Mí mắt đỏ, sưng",
+      "description": "Hiện tượng mí mắt bị viêm, sưng tấy và đỏ."
+    },
+    {
+      "name": "Bong da quanh mắt, quanh gốc lông mi",
+      "description": "Da tại vùng mí mắt và gốc lông mi bị bong tróc."
+    },
+    {
+      "name": "Dính mí mắt sau khi ngủ dậy",
+      "description": "Mí mắt bị dính vào nhau sau khi thức dậy do tiết dịch trong đêm."
+    },
+    {
+      "name": "Nhạy cảm với ánh sáng",
+      "description": "Mắt trở nên nhạy cảm hơn với ánh sáng, dễ chói."
+    },
+    {
+      "name": "Mờ mắt",
+      "description": "Thị lực tạm thời bị giảm, nhìn không rõ."
+    },
+    {
+      "name": "Chớp mắt quá mức",
+      "description": "Việc chớp mắt diễn ra thường xuyên hơn bình thường."
+    },
+    {
+      "name": "Lông mi mọc lệch",
+      "description": "Lông mi không mọc theo hướng bình thường do tình trạng viêm nhiễm."
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm bờ mi trên mắt xảy ra do nhiễm khuẩn hoặc tuyến dầu bị tắc làm mắt sưng, mẩn đỏ.",
+    "related_factors": "Viêm bờ mi trên có thể do nhiều nguyên nhân như nhiễm trùng tụ cầu, mụn trứng cá đỏ, dị ứng, viêm da tiết bã, khô mắt, rận hoặc ve ở lông mi, và tuyến dầu bị tắc.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Bệnh tiểu đường",
+    "Đeo kính áp tròng",
+    "Tiếp xúc với các chất kích thích như bụi, hóa chất",
+    "Không tẩy trang kỹ",
+    "Có làn da nhờn",
+    "Đang điều trị với một số loại thuốc (chẳng hạn như thuốc chữa ung thư)",
+    "Đang trải qua thời kỳ mãn kinh hoặc thay đổi nội tiết tố",
+    "Bệnh đau mắt đỏ",
+    "Viêm da tiết bã"
+  ],
+  "complications": [
+    "Rụng lông mi - Viêm bờ mi trên khiến lông mi rụng, mất màu hoặc mọc bất thường",
+    "Sẹo mắt - Viêm bờ mi trên nếu để lâu ngày sẽ tạo thành sẹo trên mí mắt hoặc cạnh mí mắt",
+    "Chảy nhiều nước mắt hoặc khô mắt - Nước mắt chảy bất thường cản trở việc giữ ẩm cho mắt",
+    "Lẹo mắt - Nhiễm trùng phát triển gần gốc lông mi hay trên mí mắt, hình thành u nhú gây đau",
+    "Chắp mắt - Tuyến dầu nhỏ ở rìa mí mắt tắc nghẽn gây viêm lộ tuyến",
+    "Viêm kết mạc - Có thể dẫn đến các cơn đau mắt đỏ tái phát",
+    "Nhiễm trùng giác mạc - Tăng nguy cơ nhiễm trùng do kích ứng mắt, lông mi mọc lệch hoặc khô mắt"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Hỏi tiền sử bệnh - Bác sĩ sẽ hỏi về các triệu chứng và tình trạng sức khỏe để xác định các yếu tố rủi ro",
+      "Kiểm tra mí mắt bên ngoài - Đánh giá hình dạng, độ đỏ, tiết dịch và sưng tấy của mí mắt",
+      "Kiểm tra tiết dịch - Xét nghiệm dịch tiết để xác định loại vi khuẩn gây bệnh",
+      "Xét nghiệm nước mắt - Phân tích để xác định khô mắt có phải là yếu tố gây bệnh",
+      "Kiểm tra lông mi - Soi dưới kính hiển vi để phát hiện rận hoặc ve",
+      "Sinh thiết mí mắt - Trong trường hợp nghi ngờ ung thư da hoặc có tế bào bất thường"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Kiểm tra tiết dịch",
+        "description": "Dịch tiết mí mắt đem đi xét nghiệm giúp xác định loại vi khuẩn gây nên tình trạng viêm bờ mi trên."
+      },
+      {
+        "name": "Xét nghiệm nước mắt",
+        "description": "Lấy mẫu nước mắt để phân tích xem khô mắt có phải là yếu tố gây bệnh viêm bờ trên."
+      },
+      {
+        "name": "Kiểm tra lông mi",
+        "description": "Lông mi được soi dưới kính hiển vi nhằm phát hiện rận, ve có trú ngụ không."
+      },
+      {
+        "name": "Sinh thiết mí mắt",
+        "description": "Ít khi bác sĩ đề nghị sinh thiết mắt trừ trường hợp nghi ngờ ung thư da hoặc có các tế bào bất thường. Đầu tiên, bác sĩ gây tê mí mắt cục bộ, sau đó dùng kim để lấy mẫu tế bào và kiểm da dưới kính hiển vi."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Điều trị viêm bờ mi trên đòi hỏi vệ sinh mắt thường xuyên và đúng cách kết hợp với thuốc. Trong quá trình điều trị, người bệnh nên tránh trang điểm mắt, chườm ấm và bổ sung omega-3 từ thực phẩm.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Vệ sinh mí mắt",
+        "description": "Dùng gạc làm ẩm bằng nước ấm và chườm lên mắt trong 10 phút hoặc rửa bằng nước muối sinh lý. Sau đó, làm sạch các lớp vảy bám trên mí mắt, lông mi và rửa lại bằng nước sạch."
+      },
+      {
+        "name": "Thuốc mỡ kháng sinh",
+        "description": "Các loại thuốc mỡ kháng sinh phổ biến như Erythromycin, Bacitracin và Polysporin giúp tiêu diệt vi khuẩn và giảm kích ứng."
+      },
+      {
+        "name": "Thuốc nhỏ mắt",
+        "description": "Thuốc nhỏ mắt Cyclosporine (Restoration) được bác sĩ chỉ định điều trị viêm bờ mi sau. Loại thuốc này có tác dụng giảm viêm, ngăn chặn phản ứng miễn dịch tự nhiên của cơ thể."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Tránh trang điểm mắt để giảm kích ứng cho đến khi kiểm soát được viêm nhiễm",
+      "Chườm ấm bằng khăn sạch, làm ướt với nước ấm và đặt lên mí mắt",
+      "Bổ sung omega-3 từ các thực phẩm như cá hồi, cá thu, cá trích, hàu, hạt lanh",
+      "Tẩy tế bào chết cho mắt để giảm gàu trên lông mi và số lượng vi khuẩn trên da mí mắt",
+      "Trong quá trình điều trị có thể sử dụng nước mắt nhân tạo để hỗ trợ giảm các triệu chứng khô mắt"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
@@ -41,18 +132,77 @@
       "description": "",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Tẩy trang kỹ sau khi trang điểm vùng mắt",
+      "Vệ sinh tay, mặt và da đầu thường xuyên, gội đầu bằng dầu gội kháng khuẩn",
+      "Hạn chế chạm tay vào mắt, rửa tay sạch sẽ trước khi tiếp xúc với mắt",
+      "Dùng thuốc nhỏ mắt như nước mắt nhân tạo khi có dấu hiệu khô mắt",
+      "Hạn chế đeo kính áp tròng, nếu cần đeo thì nên bảo quản kỹ và vệ sinh đúng cách",
+      "Ngay khi phát hiện mắt có dấu hiệu bất thường như sưng tấy, đỏ, cần đến ngay bệnh viện có chuyên khoa Mắt"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm bờ mi trên mắt có nguy hiểm không?",
+      "answer": "Viêm bờ mi trên mắt không gây tổn thương giác mạc vĩnh viễn và không dẫn đến mù lòa, nhưng có thể gây đau, khó chịu và dễ tái phát. Nếu không điều trị kịp thời, bệnh có thể dẫn đến các biến chứng như rụng lông mi, sẹo mắt, lẹo mắt, chắp mắt, viêm kết mạc và nhiễm trùng giác mạc."
+    },
+    {
+      "question": "Viêm bờ mi trên mắt có thể tự khỏi không?",
+      "answer": "Viêm bờ mi trên mắt thường không tự khỏi mà cần được điều trị đúng cách. Việc điều trị bao gồm vệ sinh mí mắt thường xuyên kết hợp với thuốc mỡ kháng sinh hoặc thuốc nhỏ mắt theo chỉ định của bác sĩ. Đây là một bệnh mạn tính với xu hướng tái phát theo từng giai đoạn nên cần kiên trì điều trị."
+    },
+    {
+      "question": "Làm thế nào để giảm triệu chứng viêm bờ mi trên mắt?",
+      "answer": "Để giảm triệu chứng viêm bờ mi trên mắt, bạn có thể áp dụng các biện pháp sau: Vệ sinh mí mắt thường xuyên bằng nước ấm hoặc nước muối sinh lý, chườm ấm mắt, tránh trang điểm vùng mắt trong thời gian điều trị, bổ sung omega-3 từ thực phẩm (như cá hồi, cá thu), sử dụng thuốc nhỏ mắt theo hướng dẫn của bác sĩ, và hạn chế đeo kính áp tròng."
+    },
+    {
+      "question": "Có cần đến bệnh viện khi bị viêm bờ mi trên mắt không?",
+      "answer": "Có, bạn nên đến bệnh viện nơi có chuyên khoa Mắt để khám, chẩn đoán và điều trị kịp thời khi phát hiện mắt có dấu hiệu bất thường như sưng tấy, đỏ, cảm giác cộm, nóng, ngứa hoặc đau. Bác sĩ sẽ chẩn đoán chính xác nguyên nhân và đưa ra phương pháp điều trị phù hợp, giúp kiểm soát bệnh hiệu quả và ngăn ngừa biến chứng."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang có các triệu chứng như kích ứng và sưng tấy ở mí mắt trên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-bo-mi-tren-mat", "viem-ket-mac", "di-ung-mat"]
+    },
+    {
+      "question": "Tôi đang cảm thấy mắt sưng, mẩn đỏ. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-bo-mi-tren-mat", "viem-ket-mac", "di-ung-mat"]
+    },
+    {
+      "question": "Tôi hay bị chảy nước mắt và cảm giác cộm, nóng ở mí mắt trên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-bo-mi-tren-mat", "kho-mat", "viem-ket-mac"]
+    },
+    {
+      "question": "Tôi hay bị nhờn ở mí mắt và đau, ngứa mí mắt trên. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bo-mi-tren-mat",
+        "viem-da-tiet-ba",
+        "viem-nang-long-mi"
+      ]
+    },
+    {
+      "question": "Tôi bị bong da quanh mắt, quanh gốc lông mi. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-bo-mi-tren-mat", "viem-da-tiet-ba", "vay-nen"]
+    },
+    {
+      "question": "Tôi bị dính mí mắt sau khi ngủ dậy. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": ["viem-bo-mi-tren-mat", "viem-ket-mac", "chap-mat"]
+    },
+    {
+      "question": "Tôi bị nhạy cảm với ánh sáng và mờ mắt. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bo-mi-tren-mat",
+        "viem-giac-mac",
+        "duc-thuy-tinh-the"
+      ]
+    },
+    {
+      "question": "Tôi bị chớp mắt quá mức và lông mi mọc lệch. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "viem-bo-mi-tren-mat",
+        "long-mi-quay-vao",
+        "lo-ro-mi-mat"
+      ]
     }
   ]
 }

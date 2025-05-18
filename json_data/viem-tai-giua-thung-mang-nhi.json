@@ -1,58 +1,181 @@
 {
   "disease_id": "viem-tai-giua-thung-mang-nhi",
-  "disease_name": "",
-  "disease_alternative_names": [],
-  "disease_definition": "",
+  "disease_name": "Viêm tai giữa thủng màng nhĩ",
+  "disease_alternative_names": [
+    "Viêm tai giữa mạn tính thủng nhĩ",
+    "Thủng màng nhĩ mạn tính"
+  ],
+  "disease_definition": "Viêm tai giữa thủng nhĩ là một biến chứng của viêm tai giữa cấp tính không được điều trị kịp thời, đúng cách, tái phát nhiều lần dẫn đến thủng màng nhĩ. Tình trạng viêm tai giữa mạn tính thủng nhĩ có đặc trưng là thủng màng nhĩ kéo dài trên 12 tuần, gây chảy dịch tai, viêm niêm mạc tai giữa và xương chũm.",
   "symptoms": [
     {
-      "name": "",
-      "description": ""
+      "name": "Thủng màng nhĩ kéo dài",
+      "description": "Màng nhĩ bị thủng kéo dài trên 12 tuần"
+    },
+    {
+      "name": "Chảy mủ tai",
+      "description": "Chảy mủ tai, tai có mùi hôi"
+    },
+    {
+      "name": "Ù tai",
+      "description": "Cảm giác ù tai, tiếng ù liên tục trong tai"
+    },
+    {
+      "name": "Nghe kém",
+      "description": "Nghe kém dẫn truyền, giảm thính lực"
+    },
+    {
+      "name": "Viêm niêm mạc tai giữa",
+      "description": "Tai giữa niêm mạc phù nề, thoái hóa"
+    },
+    {
+      "name": "Phản ứng kém với âm thanh",
+      "description": "Ở trẻ em, các triệu chứng có thể dẫn đến trẻ phản ứng kém với âm thanh do nghe kém"
+    },
+    {
+      "name": "Khả năng thăng bằng kém",
+      "description": "Trẻ có thể gặp vấn đề về thăng bằng do tổn thương tai giữa"
     }
   ],
   "causes": {
-    "main_cause": "",
-    "related_factors": "",
+    "main_cause": "Viêm tai giữa cấp tính tái phát nhiều lần không được điều trị kịp thời, đúng cách dẫn đến thủng màng nhĩ.",
+    "related_factors": "Khi lỗ thủng màng nhĩ quá rộng, hoặc điều trị viêm tai không đúng cách, viêm nhiễm kéo dài, lỗ thủng màng nhĩ không được đóng kín, sẽ gây viêm tai giữa mạn tính thủng nhĩ.",
     "transmission_routes": []
   },
-  "risk_factors": [],
-  "complications": [],
+  "risk_factors": [
+    "Trẻ sử dụng núm vú giả, bú bình",
+    "Trẻ sống ở môi trường ô nhiễm không khí",
+    "Trẻ bị cảm lạnh, viêm xoang, cúm, hoặc nhiễm trùng tai tái phát",
+    "Trẻ bị dị tật bẩm sinh vùng mũi họng",
+    "Trẻ có miễn dịch yếu",
+    "Dị vật hoặc nước chui vào tai không được làm sạch",
+    "Rối loạn chức năng/tổn thương giải phẫu vòi nhĩ",
+    "Chấn thương gây thủng màng nhĩ",
+    "Đặt ống thông khí không đúng cách",
+    "Bất thường về xương sọ (hội chứng Mèo kêu, hội chứng Down, hở hàm ếch)",
+    "Nhiễm trùng đường hô hấp trên"
+  ],
+  "complications": [
+    "Hình thành khối cholesteatoma trong tai giữa, gây ăn mòn xương chũm, lan bệnh tích lên não",
+    "Thoái hóa niêm mạc tai giữa",
+    "Điếc dẫn truyền do chuỗi xương con bị phá hủy",
+    "Liệt mặt do tổn thương dây thần kinh số VII",
+    "Chậm phát triển ngôn ngữ nếu điếc cả hai tai ở trẻ nhỏ",
+    "Áp xe ngoài màng cứng hoặc áp xe não (nguy hiểm, có thể dẫn đến tử vong)"
+  ],
   "diagnosis": {
-    "methods": [],
+    "methods": [
+      "Nội soi tai",
+      "Cấy dịch tai",
+      "Chụp CT-scan, MRI tai thái dương",
+      "Đo thính lực"
+    ],
     "tests": [
       {
-        "name": "",
-        "description": ""
+        "name": "Nội soi tai",
+        "description": "Thấy mủ tai đặc, thối, chảy tai kéo dài, có thể có tổ chức cholesteatoma. Màng nhĩ có thể bị xẹp lõm vào trong, phồng, bị thủng, bờ lỗ thủng nham nhở, có thể có mô viêm ở hòm nhĩ, đáy hòm nhĩ bẩn."
+      },
+      {
+        "name": "Cấy dịch tai",
+        "description": "Giúp xác định vi khuẩn gây bệnh và làm kháng sinh đồ."
+      },
+      {
+        "name": "Chụp CT-scan, MRI tai thái dương",
+        "description": "Giúp xác định chẩn đoán, mức độ bệnh lý trong tai giữa và cấu trúc xung quanh, tình trạng tiêu xương con hoặc xương thái dương, các biến chứng nội sọ..."
+      },
+      {
+        "name": "Đo thính lực",
+        "description": "Giúp đánh giá sức nghe của bệnh nhân."
       }
     ]
   },
   "treatment": {
-    "note": "",
+    "note": "Không thể điều trị viêm tai giữa mạn tính thủng nhĩ bằng phương pháp nội khoa, chỉ có điều trị ngoại khoa mới giúp đóng kín màng nhĩ, góp phần phục hồi chức năng nghe của bệnh nhân.",
     "methods": [
       {
-        "name": "",
-        "description": ""
+        "name": "Phẫu thuật vá màng nhĩ",
+        "description": "Phẫu thuật vá màng nhĩ đơn thuần qua nội soi hoặc đường sau tai và có thể kết hợp mở sào bào thượng nhĩ."
+      },
+      {
+        "name": "Phẫu thuật tiệt căn xương chũm",
+        "description": "Áp dụng trong một số trường hợp có cholesteatoma."
       }
     ],
-    "recommendations": [],
+    "recommendations": [
+      "Vệ sinh tai đúng cách khi bị thủng màng nhĩ",
+      "Lấy nước ấm pha thêm nước muối sinh lý, dùng khăn mềm nhúng vào nước đã pha, vắt khô rồi lau phía ngoài tai",
+      "Nằm nghiêng với phần tai bị viêm hướng lên trần, nhỏ thuốc theo chỉ định của bác sĩ",
+      "Giữ nguyên tư thế vài phút rồi nghiêng đầu để dịch chảy ra",
+      "Dùng khăn sạch thấm khô tai",
+      "Thực hiện 2-3 lần mỗi ngày"
+    ],
     "prevention_of_transmission": []
   },
   "prevention": {
     "vaccine": {
-      "description": "",
+      "description": "Hiện chưa có vaccine đặc hiệu cho viêm tai giữa thủng màng nhĩ",
       "recommended_for": []
     },
-    "general_recommendations": []
+    "general_recommendations": [
+      "Phòng ngừa và điều trị các nguyên nhân gây viêm tai giữa cấp như viêm VA, viêm mũi họng, sâu răng",
+      "Theo dõi và điều trị triệt để tình trạng viêm tai giữa cấp, không để tái phát lặp lại",
+      "Điều trị sớm, đúng cách tình trạng viêm tai giữa mạn tính đồng thời theo dõi sát sao để phòng ngừa biến chứng",
+      "Tuân theo chỉ định của bác sĩ chuyên khoa khi điều trị bằng kháng sinh, uống đúng liều, không tự ý ngưng thuốc"
+    ]
   },
   "faqs": [
     {
-      "question": "",
-      "answer": ""
+      "question": "Viêm tai giữa mạn tính gây thủng màng nhĩ để lâu có sao không?",
+      "answer": "Viêm tai giữa mạn tính thủng màng nhĩ kéo dài có thể gây ra các biến chứng nghiêm trọng bao gồm hình thành khối cholesteatoma trong tai giữa, gây ăn mòn xương chũm, lan bệnh tích lên não; thoái hóa niêm mạc tai giữa; điếc dẫn truyền do chuỗi xương con bị phá hủy; liệt mặt do tổn thương dây thần kinh số VII; chậm phát triển ngôn ngữ nếu điếc cả hai tai ở trẻ nhỏ. Đặc biệt, biến chứng áp xe ngoài màng cứng hoặc áp xe não rất nguy hiểm vì có thể dẫn đến tử vong."
+    },
+    {
+      "question": "Viêm tai giữa có bị thủng màng nhĩ?",
+      "answer": "Viêm tai giữa không được chẩn đoán và điều trị kịp thời có thể gây ra nhiều biến chứng trong đó có thủng màng nhĩ."
+    },
+    {
+      "question": "Cách vệ sinh tai khi bị thủng màng nhĩ như thế nào?",
+      "answer": "Lấy một ít nước ấm vào ly rồi pha thêm nước muối sinh lý. Dùng khăn mềm nhúng vào nước đã pha, sau đó vắt khô rồi lau phía ngoài tai sạch sẽ. Nằm nghiêng với phần tai bị viêm hướng lên trần, sau đó nhỏ thuốc nhỏ tai theo chỉ định của bác sĩ. Giữ nguyên tư thế trong vài phút rồi nghiêng đầu sang phía tai bị viêm để dịch trong tai chảy ra. Dùng khăn sạch thấm khô tai. Thực hiện 2-3 lần mỗi ngày."
     }
   ],
   "common_questions": [
     {
-      "question": "",
-      "related_diseases": []
+      "question": "Tôi hiện đang bị chảy mủ tai có mùi hôi và nghe kém. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa thủng màng nhĩ",
+        "Viêm tai ngoài",
+        "Cholesteatoma"
+      ]
+    },
+    {
+      "question": "Tôi đang cảm thấy ù tai và đau nhức tai, kèm theo chảy dịch tai màu vàng. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa thủng màng nhĩ",
+        "Viêm tai ngoài",
+        "Viêm tai giữa cấp tính"
+      ]
+    },
+    {
+      "question": "Tôi hay bị chảy mủ tai kéo dài và nghe kém sau khi bị viêm tai giữa. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa thủng màng nhĩ",
+        "Viêm tai giữa mạn tính",
+        "Cholesteatoma"
+      ]
+    },
+    {
+      "question": "Tôi đang bị đau đầu, chóng mặt và mất thăng bằng, kèm theo chảy dịch tai. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa thủng màng nhĩ có biến chứng",
+        "Viêm tai trong",
+        "Hội chứng Meniere"
+      ]
+    },
+    {
+      "question": "Tôi hiện đang có triệu chứng sưng đau tai và sốt cao. Tôi có thể đang bị bệnh gì?",
+      "related_diseases": [
+        "Viêm tai giữa cấp tính",
+        "Viêm tai ngoài",
+        "Viêm tai giữa thủng màng nhĩ"
+      ]
     }
   ]
 }
