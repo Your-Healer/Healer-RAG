@@ -1,0 +1,41 @@
+{
+  "overall": {
+    "precision": 0.06833333333333333,
+    "recall": 0.175,
+    "f1_score": 0.08928571428571427,
+    "total_queries": 20,
+    "queries_with_predictions": 20,
+    "perfect_matches": 0,
+    "no_matches": 16
+  },
+  "top_correct_diseases": {
+    "roi-loan-lo-au": 1,
+    "dau-dau": 1,
+    "hep-khe-khop-goi": 1,
+    "ung-thu-vu": 1
+  },
+  "top_incorrect_diseases": {
+    "cham-dong-tien": 20,
+    "kho-tho": 6,
+    "u-mau": 3,
+    "roi-loan-tieu-hoa": 2,
+    "viem-da-co-dia": 2,
+    "trao-nguoc-da-day-thuc-quan": 2,
+    "tao-bon": 2,
+    "chong-mat": 2,
+    "dau-khop": 2,
+    "viem-bang-quang-cap": 1
+  },
+  "top_missed_diseases": {
+    "suy-than-man": 1,
+    "viem-da-day-ta-trang": 1,
+    "benh-viem-bang-quang-ke": 1,
+    "than-da-nang": 1,
+    "viem-be-than": 1,
+    "con-go-chuyen-da-gia": 1,
+    "dau-dau-van-mach": 1,
+    "benh-ho-van-tim": 1,
+    "mat-can-bang-noi-tiet-to": 1,
+    "tang-acid-uric-mau": 1
+  }
+}

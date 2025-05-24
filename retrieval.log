@@ -1,0 +1,1313 @@
+2025-05-19 22:52:35,392 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-19 22:53:06,094 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-19 22:56:25,297 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-19 22:56:51,689 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-19 22:57:05,443 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 22:57:15,630 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 22:57:23,257 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 400 Bad Request"
+2025-05-19 22:57:23,422 - retrieval - WARNING - Could not get documents from vector store: empty vocabulary; perhaps the documents only contain stop words
+2025-05-19 22:57:23,422 - retrieval - WARNING - TF-IDF vectorizer will be initialized on first use
+2025-05-19 23:01:38,124 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-19 23:01:41,258 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:01:44,881 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:01:49,176 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:01:52,495 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:01:56,894 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:01:59,657 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:02,364 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:04,772 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:07,469 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:11,761 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:14,749 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:18,464 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:21,464 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:24,991 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:27,603 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:30,196 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:34,280 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:37,125 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:40,693 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:43,382 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:46,071 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:49,313 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:51,807 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:54,306 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:02:57,981 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:01,580 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:04,535 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:07,363 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:10,282 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:12,944 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:15,485 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:17,901 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:21,975 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:25,215 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:28,050 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:30,696 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:33,451 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:36,090 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:41,273 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:44,216 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:46,659 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:49,018 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:51,740 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:54,298 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:55,598 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:03:57,755 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:04,561 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:08,054 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:10,603 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:13,344 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:16,509 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:18,945 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:21,704 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:24,248 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:26,832 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:29,826 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:32,806 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:35,539 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:40,840 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:44,489 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:48,026 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:50,839 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:53,826 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:56,766 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:04:59,586 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:01,352 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:04,418 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:07,715 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:10,520 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:14,218 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:17,186 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:20,107 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:22,111 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:25,225 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:27,843 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:31,105 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:34,214 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:37,051 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:40,569 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:05:42,058 - retrieval - INFO - TF-IDF vectorizer initialized with 1000 documents
+2025-05-19 23:13:29,887 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-19 23:13:33,646 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:13:37,935 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:13:41,711 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:13:44,841 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:13:48,828 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:13:51,991 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:13:55,001 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:13:59,219 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:01,773 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:06,016 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:08,916 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:11,642 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:14,837 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:17,733 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:20,578 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:23,583 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:27,846 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:31,837 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:34,648 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:38,442 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:41,139 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:44,616 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:48,314 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:50,922 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:53,704 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:14:57,271 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:00,407 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:03,079 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:05,905 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:09,500 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:12,731 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:15,680 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:18,633 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:21,545 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:24,380 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:27,216 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:30,045 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:32,664 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:36,943 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:41,244 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:44,841 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:47,839 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:50,659 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:53,609 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:56,538 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:15:59,901 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:02,932 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:06,885 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:10,015 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:12,222 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:15,089 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:18,539 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:21,598 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:24,334 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:27,691 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:30,485 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:33,186 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:36,158 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:40,151 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:43,790 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:46,809 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:49,562 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:52,320 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:56,067 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:16:59,107 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:01,889 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:05,395 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:08,297 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:11,956 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:15,155 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:17,880 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:21,051 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:24,310 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:27,034 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:30,331 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:33,076 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:36,062 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:38,898 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:41,374 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-19 23:17:42,936 - retrieval - INFO - TF-IDF vectorizer initialized with 1000 documents
+2025-05-20 06:38:24,151 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc, tôi \u0111ang b\u1ecb m\u1eafc b\u1ec7nh gì ? (symptom-based: True, language: vietnamese)
+2025-05-20 06:38:24,152 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc, tôi \u0111ang b\u1ecb m\u1eafc b\u1ec7nh gì ?' to 2 variations
+2025-05-20 06:38:25,023 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 06:38:27,258 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 06:38:27,483 - retrieval - INFO - Reranked 4 documents
+2025-05-20 06:38:27,483 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc, tôi \u0111ang b\u1ecb m\u1eafc b\u1ec7nh gì ?'
+2025-05-20 06:38:27,484 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 06:38:27,484 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 06:38:27,484 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 06:38:27,484 - retrieval - INFO -   Doc 2: R\u1ee5ng tóc - causes_and_risk_factors
+2025-05-20 06:38:27,484 - retrieval - INFO -   Doc 3: R\u1ee5ng tóc - symptoms
+2025-05-20 06:38:27,484 - retrieval - INFO -   Doc 4: R\u1ee5ng tóc - core_information
+2025-05-20 06:38:28,597 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 06:38:28,824 - retrieval - ERROR - Error querying RAG system: Missing some input keys: {'language'}
+2025-05-20 06:38:53,839 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc, tôi \u0111ang b\u1ecb m\u1eafc b\u1ec7nh gì ? (symptom-based: True, language: vietnamese)
+2025-05-20 06:38:53,839 - retrieval - INFO - Cache hit for query: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc, tôi \u0111ang b\u1ecb m\u1eafc b\u1ec7nh gì ?
+2025-05-20 06:38:53,839 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 06:38:53,840 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 06:38:53,840 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 06:38:53,840 - retrieval - INFO -   Doc 2: R\u1ee5ng tóc - causes_and_risk_factors
+2025-05-20 06:38:53,840 - retrieval - INFO -   Doc 3: R\u1ee5ng tóc - symptoms
+2025-05-20 06:38:53,840 - retrieval - INFO -   Doc 4: R\u1ee5ng tóc - core_information
+2025-05-20 06:38:54,963 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 06:38:55,213 - retrieval - ERROR - Error querying RAG system: Missing some input keys: {'language'}
+2025-05-20 07:12:23,555 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-20 07:12:26,480 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:12:30,455 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:12:34,618 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:12:38,182 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:12:41,034 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:12:44,741 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:12:47,820 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:12:51,312 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:12:55,013 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:12:57,718 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:01,188 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:04,946 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:07,894 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:11,606 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:15,175 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:18,384 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:20,901 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:25,871 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:29,478 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:33,169 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:36,260 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:38,990 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:42,111 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:44,896 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:47,866 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:51,036 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:53,731 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:13:56,624 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:00,309 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:02,858 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:06,288 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:08,812 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:11,643 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:14,405 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:17,500 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:21,406 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:24,649 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:27,636 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:30,408 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:33,354 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:36,211 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:39,724 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:42,548 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:45,403 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:48,426 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:51,800 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:54,392 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:57,044 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:14:59,343 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:02,015 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:05,191 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:07,896 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:10,530 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:12,394 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:15,628 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:18,294 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:21,720 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:25,225 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:28,783 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:31,614 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:34,428 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:36,980 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:39,864 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:43,050 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:46,471 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:49,335 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:52,078 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:55,168 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:15:57,415 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:00,153 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:02,979 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:06,537 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:09,383 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:11,716 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:14,897 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:17,998 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:21,683 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:25,154 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:27,663 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:16:29,219 - retrieval - INFO - TF-IDF vectorizer initialized with 1000 documents
+2025-05-20 07:17:39,082 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u do ph\u1ea3i suy ngh\u0129 và làm vi\u1ec7c 15h trên ngày, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ? (symptom-based: True, language: vietnamese)
+2025-05-20 07:17:39,082 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u do ph\u1ea3i suy ngh\u0129 và làm vi\u1ec7c 15h trên ngày, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ?' to 2 variations
+2025-05-20 07:17:40,136 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:17:41,069 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:17:41,180 - retrieval - INFO - Reranked 4 documents
+2025-05-20 07:17:41,180 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u do ph\u1ea3i suy ngh\u0129 và làm vi\u1ec7c 15h trên ngày, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ?'
+2025-05-20 07:17:41,180 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 07:17:41,180 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 07:17:41,180 - retrieval - INFO -   Doc 1: R\u1ee5ng tóc - symptoms
+2025-05-20 07:17:41,180 - retrieval - INFO -   Doc 2: R\u1ee5ng tóc - causes_and_risk_factors
+2025-05-20 07:17:41,180 - retrieval - INFO -   Doc 3: R\u1ee5ng tóc - core_information
+2025-05-20 07:17:41,180 - retrieval - INFO -   Doc 4:  - General
+2025-05-20 07:17:42,090 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:17:42,305 - retrieval - ERROR - Error querying RAG system: Collection.query() got an unexpected keyword argument 'fetch_k'
+2025-05-20 07:17:42,314 - retrieval - ERROR - Traceback (most recent call last):
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\src\main.py", line 407, in query_rag_system
+    result = qa_chain.invoke({
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\base.py", line 167, in invoke
+    raise e
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\base.py", line 157, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\retrieval_qa\base.py", line 151, in _call
+    docs = self._get_docs(question, run_manager=_run_manager)
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\retrieval_qa\base.py", line 271, in _get_docs
+    return self.retriever.invoke(
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain_core\retrievers.py", line 258, in invoke
+    result = self._get_relevant_documents(
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain_core\vectorstores\base.py", line 1079, in _get_relevant_documents
+    docs = self.vectorstore.similarity_search(query, **_kwargs)
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain_chroma\vectorstores.py", line 603, in similarity_search
+    docs_and_scores = self.similarity_search_with_score(
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain_chroma\vectorstores.py", line 701, in similarity_search_with_score
+    results = self.__query_collection(
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain_core\utils\utils.py", line 54, in wrapper
+    return func(*args, **kwargs)
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain_chroma\vectorstores.py", line 393, in __query_collection
+    return self._collection.query(
+TypeError: Collection.query() got an unexpected keyword argument 'fetch_k'
+
+2025-05-20 07:20:33,869 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-20 07:20:34,609 - retrieval - INFO - TF-IDF vectorizer initialized with 1000 documents
+2025-05-20 07:21:07,388 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc do làm vi\u1ec7c quá s\u1ee9c và suy ngh\u0129 nhi\u1ec1u, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ? (symptom-based: True, language: vietnamese)
+2025-05-20 07:21:07,389 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc do làm vi\u1ec7c quá s\u1ee9c và suy ngh\u0129 nhi\u1ec1u, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ?' to 2 variations
+2025-05-20 07:21:08,080 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:21:09,137 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:21:09,240 - retrieval - INFO - Reranked 5 documents
+2025-05-20 07:21:09,240 - retrieval - INFO - Enhanced retrieval: 5 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc do làm vi\u1ec7c quá s\u1ee9c và suy ngh\u0129 nhi\u1ec1u, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ?'
+2025-05-20 07:21:09,240 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 07:21:09,240 - retrieval - INFO - RETRIEVED 5 DOCUMENTS
+2025-05-20 07:21:09,240 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 07:21:09,240 - retrieval - INFO -   Doc 2: R\u1ee5ng tóc - causes_and_risk_factors
+2025-05-20 07:21:09,240 - retrieval - INFO -   Doc 3: R\u1ee5ng tóc - symptoms
+2025-05-20 07:21:09,240 - retrieval - INFO -   Doc 4: R\u1ee5ng tóc - diagnosis
+2025-05-20 07:21:09,240 - retrieval - INFO -   Doc 5:  - General
+2025-05-20 07:21:10,078 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:21:10,162 - retrieval - ERROR - Error querying RAG system: Missing some input keys: {'language'}
+2025-05-20 07:21:10,163 - retrieval - ERROR - Traceback (most recent call last):
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\src\main.py", line 408, in query_rag_system
+    result = qa_chain.invoke({
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\base.py", line 167, in invoke
+    raise e
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\base.py", line 157, in invoke
+    self._call(inputs, run_manager=run_manager)
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\retrieval_qa\base.py", line 154, in _call
+    answer = self.combine_documents_chain.run(
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain_core\_api\deprecation.py", line 191, in warning_emitting_wrapper
+    return wrapped(*args, **kwargs)
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\base.py", line 608, in run
+    return self(kwargs, callbacks=callbacks, tags=tags, metadata=metadata)[
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain_core\_api\deprecation.py", line 191, in warning_emitting_wrapper
+    return wrapped(*args, **kwargs)
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\base.py", line 386, in __call__
+    return self.invoke(
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\base.py", line 167, in invoke
+    raise e
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\base.py", line 155, in invoke
+    self._validate_inputs(inputs)
+  File "D:\WorkSpace\KHOA_LUAN_TOT_NGHIEP\healer-rag\.venv\lib\site-packages\langchain\chains\base.py", line 287, in _validate_inputs
+    raise ValueError(f"Missing some input keys: {missing_keys}")
+ValueError: Missing some input keys: {'language'}
+
+2025-05-20 07:24:30,126 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-20 07:24:30,746 - retrieval - INFO - TF-IDF vectorizer initialized with 1000 documents
+2025-05-20 07:24:32,263 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc do làm vi\u1ec7c quá s\u1ee9c và suy ngh\u0129 nhi\u1ec1u, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ? (symptom-based: True, language: vietnamese)
+2025-05-20 07:24:32,263 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc do làm vi\u1ec7c quá s\u1ee9c và suy ngh\u0129 nhi\u1ec1u, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ?' to 2 variations
+2025-05-20 07:24:33,341 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:24:33,965 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:24:34,200 - retrieval - INFO - Reranked 5 documents
+2025-05-20 07:24:34,200 - retrieval - INFO - Enhanced retrieval: 5 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc do làm vi\u1ec7c quá s\u1ee9c và suy ngh\u0129 nhi\u1ec1u, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ?'
+2025-05-20 07:24:34,200 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 07:24:34,200 - retrieval - INFO - RETRIEVED 5 DOCUMENTS
+2025-05-20 07:24:34,200 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 07:24:34,200 - retrieval - INFO -   Doc 2: R\u1ee5ng tóc - causes_and_risk_factors
+2025-05-20 07:24:34,200 - retrieval - INFO -   Doc 3: R\u1ee5ng tóc - symptoms
+2025-05-20 07:24:34,200 - retrieval - INFO -   Doc 4: R\u1ee5ng tóc - diagnosis
+2025-05-20 07:24:34,200 - retrieval - INFO -   Doc 5:  - General
+2025-05-20 07:24:35,014 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:24:47,719 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 07:24:47,727 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb r\u1ee5ng tóc do làm vi\u1ec7c quá s\u1ee9c và suy ngh\u0129 nhi\u1ec1u, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ?
+2025-05-20 07:25:34,678 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb s\u1ed1t, ho, s\u1ed5 m\u0169i và m\u1ea5t v\u1ecb giác, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ? (symptom-based: True, language: vietnamese)
+2025-05-20 07:25:34,678 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb s\u1ed1t, ho, s\u1ed5 m\u0169i và m\u1ea5t v\u1ecb giác, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ?' to 2 variations
+2025-05-20 07:25:35,656 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:25:36,146 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:25:36,153 - retrieval - INFO - Reranked 3 documents
+2025-05-20 07:25:36,153 - retrieval - INFO - Enhanced retrieval: 3 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb s\u1ed1t, ho, s\u1ed5 m\u0169i và m\u1ea5t v\u1ecb giác, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ?'
+2025-05-20 07:25:36,153 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 07:25:36,153 - retrieval - INFO - RETRIEVED 3 DOCUMENTS
+2025-05-20 07:25:36,153 - retrieval - INFO -   Doc 1: B\u1ec7nh Cúm - symptoms
+2025-05-20 07:25:36,153 - retrieval - INFO -   Doc 2:  - General
+2025-05-20 07:25:36,153 - retrieval - INFO -   Doc 3: S\u1ed1t siêu vi - General
+2025-05-20 07:25:36,954 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:25:45,337 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 07:25:45,340 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb s\u1ed1t, ho, s\u1ed5 m\u0169i và m\u1ea5t v\u1ecb giác, không bi\u1ebft tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì ?
+2025-05-20 07:27:41,656 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb S\u1ed1t cao, Ho và \u0111au rát h\u1ecdng, \u0110au nh\u1ee9c c\u01a1 th\u1ec3, M\u1ec7t m\u1ecfi và chán \u0103n, m\u1eaft \u0111\u1ecf và ng\u1ee9a, tôi b\u1ecb b\u1ec7nh gì v\u1eady ? (symptom-based: True, language: vietnamese)
+2025-05-20 07:27:41,656 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb S\u1ed1t cao, Ho và \u0111au rát h\u1ecdng, \u0110au nh\u1ee9c c\u01a1 th\u1ec3, M\u1ec7t m\u1ecfi và chán \u0103n, m\u1eaft \u0111\u1ecf và ng\u1ee9a, tôi b\u1ecb b\u1ec7nh gì v\u1eady ?' to 2 variations
+2025-05-20 07:27:42,690 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:27:43,131 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:27:43,344 - retrieval - INFO - Reranked 4 documents
+2025-05-20 07:27:43,344 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb S\u1ed1t cao, Ho và \u0111au rát h\u1ecdng, \u0110au nh\u1ee9c c\u01a1 th\u1ec3, M\u1ec7t m\u1ecfi và chán \u0103n, m\u1eaft \u0111\u1ecf và ng\u1ee9a, tôi b\u1ecb b\u1ec7nh gì v\u1eady ?'
+2025-05-20 07:27:43,344 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 07:27:43,344 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 07:27:43,344 - retrieval - INFO -   Doc 1: S\u1ed1t siêu vi - General
+2025-05-20 07:27:43,345 - retrieval - INFO -   Doc 2: B\u1ec7nh Cúm - symptoms
+2025-05-20 07:27:43,345 - retrieval - INFO -   Doc 3: S\u1ed1t rét - General
+2025-05-20 07:27:43,345 - retrieval - INFO -   Doc 4: B\u1ec7nh Rubella - symptoms
+2025-05-20 07:27:43,898 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:27:59,245 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 07:27:59,249 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb S\u1ed1t cao, Ho và \u0111au rát h\u1ecdng, \u0110au nh\u1ee9c c\u01a1 th\u1ec3, M\u1ec7t m\u1ecfi và chán \u0103n, m\u1eaft \u0111\u1ecf và ng\u1ee9a, tôi b\u1ecb b\u1ec7nh gì v\u1eady ?
+2025-05-20 07:28:51,488 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Em trai tôi th\u01b0\u1eddng xuyên b\u1ecb Chán \u0103n và suy dinh d\u01b0\u1ee1ng và R\u0103ng ch\u1eadm phát tri\u1ec3n, Ch\u1eadm bi\u1ebft bò, bi\u1ebft \u0111i, nó b\u1ecb b\u1ec7nh gì v\u1eady bác s\u0129 ? (symptom-based: True, language: vietnamese)
+2025-05-20 07:28:51,488 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Em trai tôi th\u01b0\u1eddng xuyên b\u1ecb Chán \u0103n và suy dinh d\u01b0\u1ee1ng và R\u0103ng ch\u1eadm phát tri\u1ec3n, Ch\u1eadm bi\u1ebft bò, bi\u1ebft \u0111i, nó b\u1ecb b\u1ec7nh gì v\u1eady bác s\u0129 ?' to 2 variations
+2025-05-20 07:28:52,734 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:28:53,750 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:28:53,863 - retrieval - INFO - Reranked 3 documents
+2025-05-20 07:28:53,863 - retrieval - INFO - Enhanced retrieval: 3 documents for query 'Tri\u1ec7u ch\u1ee9ng: Em trai tôi th\u01b0\u1eddng xuyên b\u1ecb Chán \u0103n và suy dinh d\u01b0\u1ee1ng và R\u0103ng ch\u1eadm phát tri\u1ec3n, Ch\u1eadm bi\u1ebft bò, bi\u1ebft \u0111i, nó b\u1ecb b\u1ec7nh gì v\u1eady bác s\u0129 ?'
+2025-05-20 07:28:53,863 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 07:28:53,863 - retrieval - INFO - RETRIEVED 3 DOCUMENTS
+2025-05-20 07:28:53,863 - retrieval - INFO -   Doc 1: Còi X\u01b0\u01a1ng - faqs_2
+2025-05-20 07:28:53,864 - retrieval - INFO -   Doc 2: Còi X\u01b0\u01a1ng - General
+2025-05-20 07:28:53,864 - retrieval - INFO -   Doc 3: Thông liên th\u1ea5t - symptoms
+2025-05-20 07:28:54,212 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:28:58,758 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 07:28:58,759 - retrieval - INFO - QUERY COMPLETED: Em trai tôi th\u01b0\u1eddng xuyên b\u1ecb Chán \u0103n và suy dinh d\u01b0\u1ee1ng và R\u0103ng ch\u1eadm phát tri\u1ec3n, Ch\u1eadm bi\u1ebft bò, bi\u1ebft \u0111i, nó b\u1ecb b\u1ec7nh gì v\u1eady bác s\u0129 ?
+2025-05-20 07:29:26,988 - retrieval - INFO - RETRIEVAL QUERY: Thông tin v\u1ec1 b\u1ec7nh Ch\u1eadm Kinh (symptom-based: False, language: vietnamese)
+2025-05-20 07:29:26,989 - retrieval - INFO - Expanded query 'Thông tin v\u1ec1 b\u1ec7nh Ch\u1eadm Kinh' to 2 variations
+2025-05-20 07:29:27,563 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:29:28,283 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:29:28,513 - retrieval - INFO - Reranked 2 documents
+2025-05-20 07:29:28,513 - retrieval - INFO - Enhanced retrieval: 2 documents for query 'Thông tin v\u1ec1 b\u1ec7nh Ch\u1eadm Kinh'
+2025-05-20 07:29:28,513 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 07:29:28,513 - retrieval - INFO - RETRIEVED 2 DOCUMENTS
+2025-05-20 07:29:28,513 - retrieval - INFO -   Doc 1: Ch\u1eadm Kinh - core_information
+2025-05-20 07:29:28,513 - retrieval - INFO -   Doc 2: Ch\u1eadm Kinh - General
+2025-05-20 07:29:28,924 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:29:31,950 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 07:29:31,953 - retrieval - INFO - QUERY COMPLETED: Thông tin v\u1ec1 b\u1ec7nh Ch\u1eadm Kinh
+2025-05-20 07:30:50,603 - retrieval - INFO - RETRIEVAL QUERY: B\u1ec7nh ung th\u01b0 tuy\u1ebfn giáp là gì? Giúp tôi hi\u1ec3u v\u1ec1 nó (symptom-based: False, language: vietnamese)
+2025-05-20 07:30:50,603 - retrieval - INFO - Expanded query 'B\u1ec7nh ung th\u01b0 tuy\u1ebfn giáp là gì? Giúp tôi hi\u1ec3u v\u1ec1 nó' to 2 variations
+2025-05-20 07:30:51,614 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:30:52,860 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:30:53,118 - retrieval - INFO - Reranked 2 documents
+2025-05-20 07:30:53,119 - retrieval - INFO - Enhanced retrieval: 2 documents for query 'B\u1ec7nh ung th\u01b0 tuy\u1ebfn giáp là gì? Giúp tôi hi\u1ec3u v\u1ec1 nó'
+2025-05-20 07:30:53,119 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 07:30:53,119 - retrieval - INFO - RETRIEVED 2 DOCUMENTS
+2025-05-20 07:30:53,119 - retrieval - INFO -   Doc 1: Nhân tuy\u1ebfn giáp - General
+2025-05-20 07:30:53,119 - retrieval - INFO -   Doc 2: Ung th\u01b0 tuy\u1ebfn giáp - core_information
+2025-05-20 07:30:53,559 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 07:31:00,310 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 07:31:00,312 - retrieval - INFO - QUERY COMPLETED: B\u1ec7nh ung th\u01b0 tuy\u1ebfn giáp là gì? Giúp tôi hi\u1ec3u v\u1ec1 nó
+2025-05-20 20:50:55,582 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-20 20:50:57,857 - retrieval - INFO - TF-IDF vectorizer initialized with 1000 documents
+2025-05-20 20:50:58,060 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb da ng\u1ee9a, khô, nh\u1ee3t nh\u1ea1t xanh xao, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:50:58,065 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb da ng\u1ee9a, khô, nh\u1ee3t nh\u1ea1t xanh xao, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:50:59,097 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:02,756 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:03,014 - retrieval - INFO - Reranked 4 documents
+2025-05-20 20:51:03,014 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb da ng\u1ee9a, khô, nh\u1ee3t nh\u1ea1t xanh xao, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:51:03,014 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:51:03,014 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 20:51:03,014 - retrieval - INFO -   Doc 1: Ti\u1ec3u \u0111\u01b0\u1eddng b\u1ecb ng\u1ee9a da - symptoms
+2025-05-20 20:51:03,014 - retrieval - INFO -   Doc 2: Men gan cao - symptoms
+2025-05-20 20:51:03,015 - retrieval - INFO -   Doc 3: Ng\u1ee9a h\u1eadu môn - symptoms
+2025-05-20 20:51:03,016 - retrieval - INFO -   Doc 4: Ti\u1ec3u \u0111\u01b0\u1eddng b\u1ecb ng\u1ee9a da - core_information
+2025-05-20 20:51:04,227 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:11,867 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:51:11,889 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb da ng\u1ee9a, khô, nh\u1ee3t nh\u1ea1t xanh xao, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:51:11,895 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb hành vi nghi th\u1ee9c, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:51:11,895 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb hành vi nghi th\u1ee9c, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:51:12,909 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:13,805 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:14,019 - retrieval - INFO - Reranked 4 documents
+2025-05-20 20:51:14,019 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb hành vi nghi th\u1ee9c, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:51:14,019 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:51:14,019 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 20:51:14,019 - retrieval - INFO -   Doc 1: \u0110\u1ed9t Qu\u1ef5 - symptoms
+2025-05-20 20:51:14,019 - retrieval - INFO -   Doc 2:  - General
+2025-05-20 20:51:14,019 - retrieval - INFO -   Doc 3: R\u1ed1i lo\u1ea1n lo âu - symptoms
+2025-05-20 20:51:14,019 - retrieval - INFO -   Doc 4: R\u1ed1i lo\u1ea1n l\u01b0\u1ee1ng c\u1ef1c - General
+2025-05-20 20:51:14,457 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:27,768 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:51:27,773 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb hành vi nghi th\u1ee9c, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:51:27,779 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u1ee3 chua, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:51:27,779 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u1ee3 chua, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:51:28,263 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:28,892 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:29,146 - retrieval - INFO - Reranked 4 documents
+2025-05-20 20:51:29,146 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u1ee3 chua, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:51:29,146 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:51:29,146 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 20:51:29,146 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 20:51:29,146 - retrieval - INFO -   Doc 2: Ch\u01b0\u1edbng B\u1ee5ng \u0110\u1ea7y H\u01a1i - faqs_2
+2025-05-20 20:51:29,147 - retrieval - INFO -   Doc 3: R\u1ed1i lo\u1ea1n tiêu hóa - General
+2025-05-20 20:51:29,147 - retrieval - INFO -   Doc 4: Ch\u01b0\u1edbng B\u1ee5ng \u0110\u1ea7y H\u01a1i - symptoms
+2025-05-20 20:51:30,113 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:37,530 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:51:37,538 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb \u1ee3 chua, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:51:37,543 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au vùng bàng quang, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:51:37,543 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au vùng bàng quang, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:51:38,154 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:39,089 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:39,113 - retrieval - INFO - Reranked 3 documents
+2025-05-20 20:51:39,113 - retrieval - INFO - Enhanced retrieval: 3 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au vùng bàng quang, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:51:39,113 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:51:39,113 - retrieval - INFO - RETRIEVED 3 DOCUMENTS
+2025-05-20 20:51:39,113 - retrieval - INFO -   Doc 1: Viêm bàng quang c\u1ea5p - symptoms
+2025-05-20 20:51:39,113 - retrieval - INFO -   Doc 2:  - General
+2025-05-20 20:51:39,113 - retrieval - INFO -   Doc 3: B\u1ec7nh viêm bàng quang k\u1ebd - symptoms
+2025-05-20 20:51:40,201 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:47,152 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:51:47,157 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb \u0111au vùng bàng quang, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:51:47,162 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb t\u0103ng kích th\u01b0\u1edbc b\u1ee5ng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:51:47,162 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb t\u0103ng kích th\u01b0\u1edbc b\u1ee5ng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:51:48,827 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:49,491 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:49,708 - retrieval - INFO - Reranked 5 documents
+2025-05-20 20:51:49,708 - retrieval - INFO - Enhanced retrieval: 5 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb t\u0103ng kích th\u01b0\u1edbc b\u1ee5ng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:51:49,709 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:51:49,709 - retrieval - INFO - RETRIEVED 5 DOCUMENTS
+2025-05-20 20:51:49,709 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 20:51:49,709 - retrieval - INFO -   Doc 2: Nang c\u01a1 n\u0103ng bu\u1ed3ng tr\u1ee9ng - symptoms
+2025-05-20 20:51:49,709 - retrieval - INFO -   Doc 3: Ch\u01b0\u1edbng B\u1ee5ng \u0110\u1ea7y H\u01a1i - symptoms
+2025-05-20 20:51:49,709 - retrieval - INFO -   Doc 4: Ch\u01b0\u1edbng B\u1ee5ng \u0110\u1ea7y H\u01a1i - faqs_2
+2025-05-20 20:51:49,709 - retrieval - INFO -   Doc 5: Ch\u01b0\u1edbng B\u1ee5ng \u0110\u1ea7y H\u01a1i - core_information
+2025-05-20 20:51:50,309 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:58,286 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:51:58,290 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb t\u0103ng kích th\u01b0\u1edbc b\u1ee5ng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:51:58,295 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb n\u01b0\u1edbc ti\u1ec3u có mùi tanh, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:51:58,295 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb n\u01b0\u1edbc ti\u1ec3u có mùi tanh, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:51:58,895 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:59,546 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:51:59,783 - retrieval - INFO - Reranked 4 documents
+2025-05-20 20:51:59,784 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb n\u01b0\u1edbc ti\u1ec3u có mùi tanh, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:51:59,784 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:51:59,784 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 20:51:59,784 - retrieval - INFO -   Doc 1: Ti\u1ec3u bu\u1ed1t - faqs_1
+2025-05-20 20:51:59,784 - retrieval - INFO -   Doc 2:  - General
+2025-05-20 20:51:59,784 - retrieval - INFO -   Doc 3:  - General
+2025-05-20 20:51:59,784 - retrieval - INFO -   Doc 4:  - General
+2025-05-20 20:52:01,076 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:08,292 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:52:08,302 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb n\u01b0\u1edbc ti\u1ec3u có mùi tanh, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:52:08,311 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb c\u01a1n co th\u1eaft không theo chu k\u1ef3, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:52:08,311 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb c\u01a1n co th\u1eaft không theo chu k\u1ef3, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:52:08,802 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:09,500 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:09,723 - retrieval - INFO - Reranked 4 documents
+2025-05-20 20:52:09,723 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb c\u01a1n co th\u1eaft không theo chu k\u1ef3, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:52:09,723 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:52:09,723 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 20:52:09,723 - retrieval - INFO -   Doc 1: C\u01a1n Gò Chuy\u1ec3n D\u1ea1 Gi\u1ea3 - symptoms
+2025-05-20 20:52:09,723 - retrieval - INFO -   Doc 2:  - General
+2025-05-20 20:52:09,723 - retrieval - INFO -   Doc 3:  - General
+2025-05-20 20:52:09,723 - retrieval - INFO -   Doc 4: Ch\u1eadm Kinh - symptoms
+2025-05-20 20:52:11,009 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:20,451 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:52:20,460 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb c\u01a1n co th\u1eaft không theo chu k\u1ef3, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:52:20,465 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u t\u1eebng c\u1ee5m, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:52:20,465 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u t\u1eebng c\u1ee5m, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:52:21,352 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:22,498 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:22,728 - retrieval - INFO - Reranked 4 documents
+2025-05-20 20:52:22,728 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u t\u1eebng c\u1ee5m, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:52:22,728 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:52:22,728 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 20:52:22,728 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 20:52:22,728 - retrieval - INFO -   Doc 2: \u0110au \u0110\u1ea7u - General
+2025-05-20 20:52:22,728 - retrieval - INFO -   Doc 3:  - General
+2025-05-20 20:52:22,728 - retrieval - INFO -   Doc 4:  - General
+2025-05-20 20:52:23,263 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:31,801 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:52:31,811 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb \u0111au \u0111\u1ea7u t\u1eebng c\u1ee5m, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:52:31,826 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb m\u1ec7t m\u1ecfi kéo dài, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:52:31,827 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb m\u1ec7t m\u1ecfi kéo dài, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:52:32,342 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:33,489 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:33,710 - retrieval - INFO - Reranked 3 documents
+2025-05-20 20:52:33,710 - retrieval - INFO - Enhanced retrieval: 3 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb m\u1ec7t m\u1ecfi kéo dài, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:52:33,710 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:52:33,710 - retrieval - INFO - RETRIEVED 3 DOCUMENTS
+2025-05-20 20:52:33,710 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 20:52:33,710 - retrieval - INFO -   Doc 2:  - General
+2025-05-20 20:52:33,710 - retrieval - INFO -   Doc 3: B\u1ec7nh t\u1ef1 mi\u1ec5n - symptoms
+2025-05-20 20:52:34,645 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:51,266 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:52:51,272 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb m\u1ec7t m\u1ecfi kéo dài, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:52:51,277 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb m\u1ee9c cholesterol trong máu cao, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:52:51,277 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb m\u1ee9c cholesterol trong máu cao, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:52:51,878 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:52,512 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:52:52,730 - retrieval - INFO - Reranked 4 documents
+2025-05-20 20:52:52,730 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb m\u1ee9c cholesterol trong máu cao, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:52:52,730 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:52:52,730 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 20:52:52,730 - retrieval - INFO -   Doc 1: R\u1ed1i lo\u1ea1n lipid máu - symptoms
+2025-05-20 20:52:52,730 - retrieval - INFO -   Doc 2: M\u1ee1 máu cao - diagnosis
+2025-05-20 20:52:52,730 - retrieval - INFO -   Doc 3: M\u1ee1 máu cao - core_information
+2025-05-20 20:52:52,730 - retrieval - INFO -   Doc 4: M\u1ee1 máu cao - symptoms
+2025-05-20 20:52:53,672 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:01,268 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:53:01,274 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb m\u1ee9c cholesterol trong máu cao, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:53:01,279 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb n\u1ed5i h\u1ea1t tophi d\u01b0\u1edbi da, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:53:01,279 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb n\u1ed5i h\u1ea1t tophi d\u01b0\u1edbi da, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:53:01,802 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:02,963 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:03,220 - retrieval - INFO - Reranked 3 documents
+2025-05-20 20:53:03,220 - retrieval - INFO - Enhanced retrieval: 3 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb n\u1ed5i h\u1ea1t tophi d\u01b0\u1edbi da, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:53:03,220 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:53:03,220 - retrieval - INFO - RETRIEVED 3 DOCUMENTS
+2025-05-20 20:53:03,220 - retrieval - INFO -   Doc 1: H\u1ea1t tophi - faqs_1
+2025-05-20 20:53:03,220 - retrieval - INFO -   Doc 2: H\u1ea1t tophi - symptoms
+2025-05-20 20:53:03,220 - retrieval - INFO -   Doc 3: H\u1ea1t tophi - core_information
+2025-05-20 20:53:03,665 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:09,552 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:53:09,558 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb n\u1ed5i h\u1ea1t tophi d\u01b0\u1edbi da, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:53:09,563 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au lan xu\u1ed1ng vùng th\u1eaft l\u01b0ng và \u0111ùi, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:53:09,563 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au lan xu\u1ed1ng vùng th\u1eaft l\u01b0ng và \u0111ùi, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:53:10,106 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:12,678 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:12,898 - retrieval - INFO - Reranked 5 documents
+2025-05-20 20:53:12,898 - retrieval - INFO - Enhanced retrieval: 5 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au lan xu\u1ed1ng vùng th\u1eaft l\u01b0ng và \u0111ùi, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:53:12,898 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:53:12,898 - retrieval - INFO - RETRIEVED 5 DOCUMENTS
+2025-05-20 20:53:12,898 - retrieval - INFO -   Doc 1: Gai C\u1ed9t S\u1ed1ng - symptoms
+2025-05-20 20:53:12,898 - retrieval - INFO -   Doc 2: U t\u1ee7y s\u1ed1ng - symptoms
+2025-05-20 20:53:12,898 - retrieval - INFO -   Doc 3: Viêm tuy\u1ebfn ti\u1ec1n li\u1ec7t m\u1ea1n tính - symptoms
+2025-05-20 20:53:12,898 - retrieval - INFO -   Doc 4:  - General
+2025-05-20 20:53:12,898 - retrieval - INFO -   Doc 5:  - General
+2025-05-20 20:53:13,333 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:31,951 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:53:31,958 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb \u0111au lan xu\u1ed1ng vùng th\u1eaft l\u01b0ng và \u0111ùi, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:53:31,962 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb nang th\u1eebng tinh, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:53:31,963 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb nang th\u1eebng tinh, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:53:33,006 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:33,556 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:33,775 - retrieval - INFO - Reranked 6 documents
+2025-05-20 20:53:33,775 - retrieval - INFO - Enhanced retrieval: 6 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb nang th\u1eebng tinh, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:53:33,775 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:53:33,775 - retrieval - INFO - RETRIEVED 6 DOCUMENTS
+2025-05-20 20:53:33,775 - retrieval - INFO -   Doc 1: Nang c\u01a1 n\u0103ng bu\u1ed3ng tr\u1ee9ng - symptoms
+2025-05-20 20:53:33,775 - retrieval - INFO -   Doc 2:  - General
+2025-05-20 20:53:33,775 - retrieval - INFO -   Doc 3: Giãn t\u0129nh m\u1ea1ch th\u1eebng tinh - symptoms
+2025-05-20 20:53:33,775 - retrieval - INFO -   Doc 4: Nang vú - symptoms
+2025-05-20 20:53:33,775 - retrieval - INFO -   Doc 5: Tinh trùng y\u1ebfu - symptoms
+2025-05-20 20:53:33,775 - retrieval - INFO -   Doc 6: T\u1eafc vòi tr\u1ee9ng - symptoms
+2025-05-20 20:53:34,182 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:45,626 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:53:45,627 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb nang th\u1eebng tinh, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:53:45,634 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb tri\u1ec7u ch\u1ee9ng t\u1ea1i da, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:53:45,634 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb tri\u1ec7u ch\u1ee9ng t\u1ea1i da, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:53:46,677 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:47,927 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:48,176 - retrieval - INFO - Reranked 5 documents
+2025-05-20 20:53:48,176 - retrieval - INFO - Enhanced retrieval: 5 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb tri\u1ec7u ch\u1ee9ng t\u1ea1i da, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:53:48,177 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:53:48,177 - retrieval - INFO - RETRIEVED 5 DOCUMENTS
+2025-05-20 20:53:48,177 - retrieval - INFO -   Doc 1: Viêm da c\u01a1 \u0111\u1ecba - General
+2025-05-20 20:53:48,177 - retrieval - INFO -   Doc 2: B\u1ec7nh S\u1ea9n Dày (Mày \u0111ay) - symptoms
+2025-05-20 20:53:48,177 - retrieval - INFO -   Doc 3:  - General
+2025-05-20 20:53:48,177 - retrieval - INFO -   Doc 4:  - General
+2025-05-20 20:53:48,177 - retrieval - INFO -   Doc 5: M\u1ec1 \u0111ay - symptoms
+2025-05-20 20:53:48,732 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:57,077 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:53:57,088 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb tri\u1ec7u ch\u1ee9ng t\u1ea1i da, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:53:57,094 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb giai \u0111o\u1ea1n \u0111\u1ea7u (2-3 tu\u1ea7n \u0111\u1ea7u), tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:53:57,094 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb giai \u0111o\u1ea1n \u0111\u1ea7u (2-3 tu\u1ea7n \u0111\u1ea7u), tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:53:57,604 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:58,782 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:53:58,908 - retrieval - INFO - Reranked 4 documents
+2025-05-20 20:53:58,908 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb giai \u0111o\u1ea1n \u0111\u1ea7u (2-3 tu\u1ea7n \u0111\u1ea7u), tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:53:58,908 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:53:58,908 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 20:53:58,908 - retrieval - INFO -   Doc 1: Ti\u1ec1n s\u1ea3n gi\u1eadt - General
+2025-05-20 20:53:58,908 - retrieval - INFO -   Doc 2: \u1ed0m nghén khi mang thai - core_information
+2025-05-20 20:53:58,908 - retrieval - INFO -   Doc 3: \u1ed0m nghén khi mang thai - symptoms
+2025-05-20 20:53:58,908 - retrieval - INFO -   Doc 4:  - General
+2025-05-20 20:53:59,816 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:05,270 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:54:05,273 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb giai \u0111o\u1ea1n \u0111\u1ea7u (2-3 tu\u1ea7n \u0111\u1ea7u), tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:54:05,277 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb nhi\u1ec5m trùng \u0111\u01b0\u1eddng hô h\u1ea5p tái phát, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:54:05,277 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb nhi\u1ec5m trùng \u0111\u01b0\u1eddng hô h\u1ea5p tái phát, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:54:05,777 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:06,957 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:07,141 - retrieval - INFO - Reranked 4 documents
+2025-05-20 20:54:07,141 - retrieval - INFO - Enhanced retrieval: 4 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb nhi\u1ec5m trùng \u0111\u01b0\u1eddng hô h\u1ea5p tái phát, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:54:07,141 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:54:07,141 - retrieval - INFO - RETRIEVED 4 DOCUMENTS
+2025-05-20 20:54:07,141 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 20:54:07,141 - retrieval - INFO -   Doc 2:  - General
+2025-05-20 20:54:07,141 - retrieval - INFO -   Doc 3:  - General
+2025-05-20 20:54:07,141 - retrieval - INFO -   Doc 4:  - General
+2025-05-20 20:54:07,720 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:18,347 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:54:18,356 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb nhi\u1ec5m trùng \u0111\u01b0\u1eddng hô h\u1ea5p tái phát, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:54:18,362 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb kh\u1edbp g\u1ed1i b\u1ecb bi\u1ebfn d\u1ea1ng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:54:18,362 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb kh\u1edbp g\u1ed1i b\u1ecb bi\u1ebfn d\u1ea1ng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:54:19,368 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:20,307 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:20,518 - retrieval - INFO - Reranked 3 documents
+2025-05-20 20:54:20,518 - retrieval - INFO - Enhanced retrieval: 3 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb kh\u1edbp g\u1ed1i b\u1ecb bi\u1ebfn d\u1ea1ng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:54:20,518 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:54:20,518 - retrieval - INFO - RETRIEVED 3 DOCUMENTS
+2025-05-20 20:54:20,518 - retrieval - INFO -   Doc 1: H\u1eb9p khe kh\u1edbp g\u1ed1i - symptoms
+2025-05-20 20:54:20,518 - retrieval - INFO -   Doc 2: \u0110au Kh\u1edbp G\u1ed1i - symptoms
+2025-05-20 20:54:20,518 - retrieval - INFO -   Doc 3: Viêm bao ho\u1ea1t d\u1ecbch kh\u1edbp g\u1ed1i - symptoms
+2025-05-20 20:54:21,308 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:26,714 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:54:26,720 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb kh\u1edbp g\u1ed1i b\u1ecb bi\u1ebfn d\u1ea1ng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:54:26,737 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb tri\u1ec7u ch\u1ee9ng \u1edf ng\u01b0\u1eddi cao tu\u1ed5i, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:54:26,737 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb tri\u1ec7u ch\u1ee9ng \u1edf ng\u01b0\u1eddi cao tu\u1ed5i, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:54:27,685 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:28,165 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:28,385 - retrieval - INFO - Reranked 5 documents
+2025-05-20 20:54:28,385 - retrieval - INFO - Enhanced retrieval: 5 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb tri\u1ec7u ch\u1ee9ng \u1edf ng\u01b0\u1eddi cao tu\u1ed5i, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:54:28,385 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:54:28,385 - retrieval - INFO - RETRIEVED 5 DOCUMENTS
+2025-05-20 20:54:28,385 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 20:54:28,385 - retrieval - INFO -   Doc 2:  - General
+2025-05-20 20:54:28,385 - retrieval - INFO -   Doc 3:  - General
+2025-05-20 20:54:28,385 - retrieval - INFO -   Doc 4:  - General
+2025-05-20 20:54:28,385 - retrieval - INFO -   Doc 5:  - General
+2025-05-20 20:54:28,807 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:40,243 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:54:40,250 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb tri\u1ec7u ch\u1ee9ng \u1edf ng\u01b0\u1eddi cao tu\u1ed5i, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:54:40,256 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb th\u1edf nhanh, h\u1ee5t h\u01a1i, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:54:40,257 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb th\u1edf nhanh, h\u1ee5t h\u01a1i, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:54:41,488 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:42,623 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:42,872 - retrieval - INFO - Reranked 3 documents
+2025-05-20 20:54:42,872 - retrieval - INFO - Enhanced retrieval: 3 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb th\u1edf nhanh, h\u1ee5t h\u01a1i, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:54:42,872 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:54:42,872 - retrieval - INFO - RETRIEVED 3 DOCUMENTS
+2025-05-20 20:54:42,872 - retrieval - INFO -   Doc 1: Thông liên nh\u0129 - symptoms
+2025-05-20 20:54:42,872 - retrieval - INFO -   Doc 2: Khó th\u1edf - symptoms
+2025-05-20 20:54:42,872 - retrieval - INFO -   Doc 3: Suy hô h\u1ea5p - symptoms
+2025-05-20 20:54:43,725 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:50,669 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:54:50,682 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb th\u1edf nhanh, h\u1ee5t h\u01a1i, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-20 20:54:50,688 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb vú có s\u1ef1 thay \u0111\u1ed5i v\u1ec1 kích th\u01b0\u1edbc và hình dáng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-20 20:54:50,688 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb vú có s\u1ef1 thay \u0111\u1ed5i v\u1ec1 kích th\u01b0\u1edbc và hình dáng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?' to 2 variations
+2025-05-20 20:54:51,262 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:52,709 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:54:52,937 - retrieval - INFO - Reranked 3 documents
+2025-05-20 20:54:52,938 - retrieval - INFO - Enhanced retrieval: 3 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb vú có s\u1ef1 thay \u0111\u1ed5i v\u1ec1 kích th\u01b0\u1edbc và hình dáng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?'
+2025-05-20 20:54:52,938 - retrieval - INFO - Using enhanced retrieval
+2025-05-20 20:54:52,938 - retrieval - INFO - RETRIEVED 3 DOCUMENTS
+2025-05-20 20:54:52,938 - retrieval - INFO -   Doc 1:  - General
+2025-05-20 20:54:52,938 - retrieval - INFO -   Doc 2: Nang vú - symptoms
+2025-05-20 20:54:52,938 - retrieval - INFO -   Doc 3: Ung th\u01b0 vú giai \u0111o\u1ea1n 1 - symptoms
+2025-05-20 20:54:53,425 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-20 20:55:01,173 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-20 20:55:01,183 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb vú có s\u1ef1 thay \u0111\u1ed5i v\u1ec1 kích th\u01b0\u1edbc và hình dáng, tôi có th\u1ec3 m\u1eafc b\u1ec7nh gì?
+2025-05-21 07:30:27,707 - retrieval - INFO - Creating Chroma vector store with collection: example_collection
+2025-05-21 07:30:27,730 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-21 07:30:29,358 - retrieval - INFO - TF-IDF vectorizer initialized with 1000 documents
+2025-05-21 07:30:29,359 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-21 07:30:29,359 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?' to 2 variations
+2025-05-21 07:30:30,283 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:34:07,990 - retrieval - INFO - PGVector health check: Connection successful, but pgvector extension is not installed. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-05-21 07:34:08,134 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-21 07:34:08,134 - retrieval - ERROR - Error initializing PGVector store: PGVector.__init__() got an unexpected keyword argument 'connection_string'
+2025-05-21 07:35:25,761 - retrieval - INFO - PGVector health check: Connection successful, but pgvector extension is not installed. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-05-21 07:35:25,902 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-21 07:35:25,902 - retrieval - ERROR - Error initializing PGVector store: PGVector.__init__() got an unexpected keyword argument 'connection_url'
+2025-05-21 07:36:17,465 - retrieval - INFO - PGVector health check: Connection successful, but pgvector extension is not installed. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-05-21 07:36:17,592 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-21 07:36:17,592 - retrieval - ERROR - Error initializing PGVector store: PGVector.__init__() got an unexpected keyword argument 'embedding_function'
+2025-05-21 07:37:54,306 - retrieval - INFO - PGVector health check: Connection successful, but pgvector extension is not installed. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-05-21 07:37:54,451 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-21 07:37:55,536 - retrieval - INFO - PGVector store initialized with collection: healer_rag_collection
+2025-05-21 07:38:00,039 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:38:03,655 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:38:05,664 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:38:09,770 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:38:12,161 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:38:16,661 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:38:17,781 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:38:22,282 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:38:25,105 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:38:29,965 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:38:31,909 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:38:35,436 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:38:37,332 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:38:40,692 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:38:42,698 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:38:46,459 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:38:48,124 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:38:52,783 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:38:54,614 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:38:58,970 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:00,111 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:03,490 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:04,679 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:08,391 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:10,489 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:13,715 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:15,200 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:19,723 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:21,083 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:25,862 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:27,428 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:32,488 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:34,562 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:38,301 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:39,338 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:42,523 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:43,983 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:47,577 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:48,606 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:52,201 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:39:53,672 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:39:58,251 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:00,244 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:40:04,132 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:05,604 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:40:09,437 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:11,668 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:40:15,487 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:16,802 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:40:20,865 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:22,926 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:40:26,215 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:27,891 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:40:31,508 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:32,779 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:40:37,095 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:39,138 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:40:44,044 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:46,161 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:40:50,527 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:52,580 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:40:56,441 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:40:57,584 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:01,526 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:02,604 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:06,493 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:07,794 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:11,895 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:12,974 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:16,683 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:17,876 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:20,961 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:22,170 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:25,584 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:26,606 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:29,906 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:31,742 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:35,042 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:36,958 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:40,416 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:41,574 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:45,189 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:46,352 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:50,158 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:51,344 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:41:54,851 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:41:56,470 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:00,215 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:02,300 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:06,526 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:08,375 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:12,299 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:13,334 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:17,978 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:18,931 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:22,582 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:24,441 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:28,620 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:30,656 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:34,804 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:36,652 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:40,807 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:41,988 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:45,886 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:47,070 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:50,804 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:52,467 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:42:56,009 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:42:57,212 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:43:00,666 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:43:01,758 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:43:06,114 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:43:07,213 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:43:11,197 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:43:12,416 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:43:16,698 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:43:17,897 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:43:22,272 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:43:26,124 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:43:30,161 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:43:32,704 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:43:36,210 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:43:37,190 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:43:40,860 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:43:42,642 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:43:46,629 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:43:48,658 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:43:54,111 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:43:55,179 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:44:00,172 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:44:02,237 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:44:06,579 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:44:08,387 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:44:13,382 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:44:15,353 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:44:20,986 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:44:23,382 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:44:28,559 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:44:29,714 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:44:33,993 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:44:35,582 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:44:40,204 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:44:41,419 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:44:45,775 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:44:48,132 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:44:53,259 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:44:54,452 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:44:59,571 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:45:01,440 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:45:05,279 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:45:07,720 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:45:11,658 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:45:12,921 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:45:16,886 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:45:18,068 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:45:22,866 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 07:45:23,987 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:45:26,590 - retrieval - INFO - Added 48 texts to PGVector store
+2025-05-21 07:45:27,000 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:45:28,724 - retrieval - INFO - TF-IDF vectorizer initialized with 100 documents
+2025-05-21 07:45:28,724 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-21 07:45:28,724 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?' to 2 variations
+2025-05-21 07:45:29,523 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:45:30,738 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:45:31,189 - retrieval - INFO - Reranked 9 documents
+2025-05-21 07:45:31,189 - retrieval - INFO - Enhanced retrieval: 7 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?'
+2025-05-21 07:45:31,189 - retrieval - INFO - Using enhanced retrieval
+2025-05-21 07:45:31,189 - retrieval - INFO - RETRIEVED 7 DOCUMENTS
+2025-05-21 07:45:31,189 - retrieval - INFO -   Doc 1: S\u1ed1t rét - General
+2025-05-21 07:45:31,189 - retrieval - INFO -   Doc 2:  - General
+2025-05-21 07:45:31,189 - retrieval - INFO -   Doc 3: B\u1ec7nh Cúm - symptoms
+2025-05-21 07:45:31,189 - retrieval - INFO -   Doc 4: \u0110au \u0110\u1ea7u - General
+2025-05-21 07:45:31,189 - retrieval - INFO -   Doc 5:  - General
+2025-05-21 07:45:31,189 - retrieval - INFO -   Doc 6: \u0110au \u0110\u1ec9nh \u0110\u1ea7u - symptoms
+2025-05-21 07:45:31,189 - retrieval - INFO -   Doc 7: Viêm màng não mô c\u1ea7u - symptoms
+2025-05-21 07:45:31,592 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 07:45:39,684 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-21 07:45:39,700 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?
+2025-05-21 09:35:34,825 - retrieval - INFO - PGVector health check: Connection successful. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit. pgvector extension is installed.
+2025-05-21 09:35:35,014 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-21 09:35:36,400 - retrieval - INFO - PGVector store initialized with collection: healer_rag_collection
+2025-05-21 09:35:37,606 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:35:41,462 - retrieval - INFO - TF-IDF vectorizer initialized with 100 documents
+2025-05-21 09:35:41,463 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-21 09:35:41,464 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?' to 2 variations
+2025-05-21 09:35:42,077 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:35:43,295 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:35:43,866 - retrieval - INFO - Reranked 9 documents
+2025-05-21 09:35:43,866 - retrieval - INFO - Enhanced retrieval: 7 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?'
+2025-05-21 09:35:43,866 - retrieval - INFO - Using enhanced retrieval
+2025-05-21 09:35:43,866 - retrieval - INFO - RETRIEVED 7 DOCUMENTS
+2025-05-21 09:35:43,866 - retrieval - INFO -   Doc 1: S\u1ed1t rét - General
+2025-05-21 09:35:43,866 - retrieval - INFO -   Doc 2:  - General
+2025-05-21 09:35:43,866 - retrieval - INFO -   Doc 3: B\u1ec7nh Cúm - symptoms
+2025-05-21 09:35:43,866 - retrieval - INFO -   Doc 4: \u0110au \u0110\u1ea7u - General
+2025-05-21 09:35:43,866 - retrieval - INFO -   Doc 5:  - General
+2025-05-21 09:35:43,866 - retrieval - INFO -   Doc 6: \u0110au \u0110\u1ec9nh \u0110\u1ea7u - symptoms
+2025-05-21 09:35:43,866 - retrieval - INFO -   Doc 7: Viêm màng não mô c\u1ea7u - symptoms
+2025-05-21 09:35:44,645 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:35:55,078 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-21 09:35:55,100 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?
+2025-05-21 09:37:23,000 - retrieval - INFO - PGVector health check: Connection successful, but pgvector extension is not installed. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit
+2025-05-21 09:37:23,152 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-21 09:37:24,491 - retrieval - INFO - PGVector store initialized with collection: healer_rag_collection
+2025-05-21 09:37:27,496 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:37:30,799 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:37:32,281 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:37:34,977 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:37:36,410 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:37:38,661 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:37:40,163 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:37:42,460 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:37:44,187 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:37:46,365 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:37:47,401 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:37:50,085 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:37:51,913 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:37:54,296 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:37:56,034 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:37:58,226 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:37:59,412 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:01,632 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:02,972 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:05,272 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:06,751 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:08,978 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:09,975 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:12,533 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:13,566 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:15,725 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:16,993 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:19,454 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:20,928 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:23,219 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:24,174 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:26,556 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:27,766 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:30,206 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:31,247 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:33,208 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:34,154 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:36,557 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:37,799 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:39,981 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:41,214 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:43,356 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:44,442 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:46,490 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:48,231 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:50,538 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:51,788 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:54,211 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:55,307 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:38:57,655 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:38:58,713 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:00,846 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:01,835 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:04,243 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:05,485 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:08,109 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:08,981 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:11,180 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:12,421 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:15,267 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:16,229 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:18,763 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:20,059 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:22,684 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:23,788 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:26,277 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:27,286 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:29,585 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:30,805 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:33,349 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:34,744 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:36,997 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:38,057 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:40,727 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:41,856 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:44,115 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:45,043 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:47,478 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:48,359 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:50,816 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:53,699 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:39:56,591 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:39:58,063 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:00,629 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:02,887 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:05,241 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:06,339 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:08,707 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:09,826 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:12,225 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:13,922 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:16,252 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:17,472 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:19,308 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:20,308 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:22,681 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:24,137 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:27,163 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:29,004 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:31,592 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:32,650 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:34,905 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:35,935 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:38,382 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:39,230 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:41,782 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:42,694 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:45,040 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:46,048 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:48,543 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:49,551 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:52,370 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:53,404 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:55,669 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:40:56,715 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:40:59,202 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:00,903 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:03,147 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:04,075 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:06,425 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:07,292 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:09,699 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:10,506 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:12,806 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:13,708 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:15,896 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:16,931 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:19,346 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:20,189 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:22,554 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:23,430 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:25,750 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:26,550 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:28,960 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:29,988 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:32,422 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:33,450 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:35,851 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:37,097 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:39,449 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:41,562 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:43,940 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:45,500 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:47,862 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:41:50,577 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:41:59,082 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:00,116 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:02,521 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:03,752 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:06,497 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:07,386 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:09,986 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:11,234 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:13,373 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:14,293 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:16,694 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:17,717 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:20,094 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:21,021 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:23,192 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:25,752 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:28,009 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:30,664 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:33,099 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:34,884 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:37,371 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:38,313 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:40,576 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:41,292 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:43,621 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:44,702 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:46,997 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:48,208 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:50,493 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:51,312 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:53,652 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:55,369 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:42:57,712 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:42:59,072 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:01,511 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:02,924 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:05,288 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:06,218 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:08,795 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:09,702 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:12,010 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:13,439 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:15,822 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:17,180 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:19,452 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:20,377 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:23,324 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:24,966 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:27,232 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:28,754 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:37,569 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:39,083 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:41,375 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:42,243 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:44,538 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:45,781 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:48,102 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:49,071 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:51,681 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:52,878 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:55,836 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:43:56,823 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:43:59,573 - retrieval - INFO - Added 100 texts to PGVector store
+2025-05-21 09:44:00,079 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:44:00,972 - retrieval - INFO - Added 11 texts to PGVector store
+2025-05-21 09:44:01,472 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:44:04,663 - retrieval - INFO - TF-IDF vectorizer initialized with 100 documents
+2025-05-21 09:44:04,663 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-21 09:44:04,663 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?' to 2 variations
+2025-05-21 09:44:05,459 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:44:06,533 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:44:06,852 - retrieval - INFO - Reranked 8 documents
+2025-05-21 09:44:06,852 - retrieval - INFO - Enhanced retrieval: 7 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?'
+2025-05-21 09:44:06,852 - retrieval - INFO - Using enhanced retrieval
+2025-05-21 09:44:06,852 - retrieval - INFO - RETRIEVED 7 DOCUMENTS
+2025-05-21 09:44:06,852 - retrieval - INFO -   Doc 1: \u0110au \u0110\u1ea7u - common_questions_1
+2025-05-21 09:44:06,852 - retrieval - INFO -   Doc 2: S\u1ed1t rét - common_questions_1
+2025-05-21 09:44:06,852 - retrieval - INFO -   Doc 3: S\u1ed1t siêu vi - common_questions_1
+2025-05-21 09:44:06,852 - retrieval - INFO -   Doc 4: Viêm tai - common_questions_2
+2025-05-21 09:44:06,853 - retrieval - INFO -   Doc 5: \u0110au \u0110\u1ec9nh \u0110\u1ea7u - common_questions_5
+2025-05-21 09:44:06,853 - retrieval - INFO -   Doc 6: \u0110au N\u1eeda \u0110\u1ea7u - common_questions_5
+2025-05-21 09:44:06,853 - retrieval - INFO -   Doc 7: \u0110au \u0110\u1ea7u V\u1eadn M\u1ea1ch - common_questions_4
+2025-05-21 09:44:07,492 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 09:44:18,040 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-21 09:44:18,061 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?
+2025-05-21 10:14:07,832 - retrieval - INFO - PGVector health check: Connection successful. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit. pgvector extension is installed.
+2025-05-21 10:14:07,990 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-21 10:14:08,847 - retrieval - INFO - PGVector store initialized with collection: healer_rag_collection
+2025-05-21 10:14:10,275 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 10:14:13,563 - retrieval - INFO - TF-IDF vectorizer initialized with 100 documents
+2025-05-21 10:14:13,563 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì? (symptom-based: True, language: vietnamese)
+2025-05-21 10:14:13,563 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?' to 2 variations
+2025-05-21 10:14:14,234 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 10:14:15,948 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 10:14:16,655 - retrieval - INFO - Reranked 8 documents
+2025-05-21 10:14:16,655 - retrieval - INFO - Enhanced retrieval: 7 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?'
+2025-05-21 10:14:16,655 - retrieval - INFO - Using enhanced retrieval
+2025-05-21 10:14:16,655 - retrieval - INFO - RETRIEVED 7 DOCUMENTS
+2025-05-21 10:14:16,655 - retrieval - INFO -   Doc 1: \u0110au \u0110\u1ea7u - common_questions_1
+2025-05-21 10:14:16,655 - retrieval - INFO -   Doc 2: S\u1ed1t rét - common_questions_1
+2025-05-21 10:14:16,655 - retrieval - INFO -   Doc 3: S\u1ed1t siêu vi - common_questions_1
+2025-05-21 10:14:16,655 - retrieval - INFO -   Doc 4: Viêm tai - common_questions_2
+2025-05-21 10:14:16,655 - retrieval - INFO -   Doc 5: \u0110au \u0110\u1ec9nh \u0110\u1ea7u - common_questions_5
+2025-05-21 10:14:16,655 - retrieval - INFO -   Doc 6: \u0110au N\u1eeda \u0110\u1ea7u - common_questions_5
+2025-05-21 10:14:16,655 - retrieval - INFO -   Doc 7: \u0110au \u0110\u1ea7u V\u1eadn M\u1ea1ch - common_questions_4
+2025-05-21 10:14:17,341 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 10:14:26,981 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-21 10:14:26,993 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb \u0111au \u0111\u1ea7u, s\u1ed1t và \u0111au c\u01a1, tôi có th\u1ec3 b\u1ecb b\u1ec7nh gì?
+2025-05-21 10:15:42,706 - retrieval - INFO - PGVector health check: Connection successful. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit. pgvector extension is installed.
+2025-05-21 10:15:42,841 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-21 10:15:43,692 - retrieval - INFO - PGVector store initialized with collection: healer_rag_collection
+2025-05-21 10:15:44,305 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 10:15:46,861 - retrieval - INFO - TF-IDF vectorizer initialized with 100 documents
+2025-05-21 10:15:46,861 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u, ho và s\u1ed1t cao, g\u1ea7n \u0111ây tôi làm vi\u1ec7c và suy ngh\u0129 nhi\u1ec1u, tôi b\u1ecb sao v\u1eady ? (symptom-based: True, language: vietnamese)
+2025-05-21 10:15:46,861 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u, ho và s\u1ed1t cao, g\u1ea7n \u0111ây tôi làm vi\u1ec7c và suy ngh\u0129 nhi\u1ec1u, tôi b\u1ecb sao v\u1eady ?' to 2 variations
+2025-05-21 10:15:48,333 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 10:15:49,515 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 10:15:50,236 - retrieval - INFO - Reranked 8 documents
+2025-05-21 10:15:50,236 - retrieval - INFO - Enhanced retrieval: 7 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u, ho và s\u1ed1t cao, g\u1ea7n \u0111ây tôi làm vi\u1ec7c và suy ngh\u0129 nhi\u1ec1u, tôi b\u1ecb sao v\u1eady ?'
+2025-05-21 10:15:50,236 - retrieval - INFO - Using enhanced retrieval
+2025-05-21 10:15:50,236 - retrieval - INFO - RETRIEVED 7 DOCUMENTS
+2025-05-21 10:15:50,236 - retrieval - INFO -   Doc 1: R\u1ee5ng tóc - faqs_1
+2025-05-21 10:15:50,236 - retrieval - INFO -   Doc 2: R\u1ee5ng tóc - faqs_2
+2025-05-21 10:15:50,236 - retrieval - INFO -   Doc 3: R\u1ee5ng tóc - symptoms
+2025-05-21 10:15:50,236 - retrieval - INFO -   Doc 4: R\u1ee5ng tóc - common_questions_2
+2025-05-21 10:15:50,236 - retrieval - INFO -   Doc 5: R\u1ee5ng tóc - common_questions_1
+2025-05-21 10:15:50,236 - retrieval - INFO -   Doc 6: R\u1ee5ng tóc - risk_factors
+2025-05-21 10:15:50,236 - retrieval - INFO -   Doc 7: R\u1ee5ng tóc - core_information
+2025-05-21 10:15:50,860 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-21 10:15:59,255 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-21 10:15:59,270 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u, ho và s\u1ed1t cao, g\u1ea7n \u0111ây tôi làm vi\u1ec7c và suy ngh\u0129 nhi\u1ec1u, tôi b\u1ecb sao v\u1eady ?
+2025-05-22 06:13:19,899 - retrieval - INFO - PGVector health check: Connection successful. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit. pgvector extension is installed.
+2025-05-22 06:13:20,194 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-22 06:13:21,101 - retrieval - INFO - PGVector store initialized with collection: healer_rag_collection
+2025-05-22 06:13:22,421 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 06:13:27,888 - retrieval - INFO - TF-IDF vectorizer initialized with 100 documents
+2025-05-22 06:13:27,888 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u, ho và s\u1ed1t cao, g\u1ea7n \u0111ây tôi làm vi\u1ec7c và suy ngh\u0129 nhi\u1ec1u, tôi b\u1ecb sao v\u1eady ? (symptom-based: True, language: vietnamese)
+2025-05-22 06:13:27,889 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u, ho và s\u1ed1t cao, g\u1ea7n \u0111ây tôi làm vi\u1ec7c và suy ngh\u0129 nhi\u1ec1u, tôi b\u1ecb sao v\u1eady ?' to 2 variations
+2025-05-22 06:13:28,658 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 06:13:30,823 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 06:13:31,463 - retrieval - INFO - Reranked 8 documents
+2025-05-22 06:13:31,463 - retrieval - INFO - Enhanced retrieval: 7 documents for query 'Tri\u1ec7u ch\u1ee9ng: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u, ho và s\u1ed1t cao, g\u1ea7n \u0111ây tôi làm vi\u1ec7c và suy ngh\u0129 nhi\u1ec1u, tôi b\u1ecb sao v\u1eady ?'
+2025-05-22 06:13:31,463 - retrieval - INFO - Using enhanced retrieval
+2025-05-22 06:13:31,463 - retrieval - INFO - RETRIEVED 7 DOCUMENTS
+2025-05-22 06:13:31,463 - retrieval - INFO -   Doc 1: R\u1ee5ng tóc - faqs_1
+2025-05-22 06:13:31,463 - retrieval - INFO -   Doc 2: R\u1ee5ng tóc - faqs_2
+2025-05-22 06:13:31,463 - retrieval - INFO -   Doc 3: R\u1ee5ng tóc - symptoms
+2025-05-22 06:13:31,463 - retrieval - INFO -   Doc 4: R\u1ee5ng tóc - common_questions_2
+2025-05-22 06:13:31,463 - retrieval - INFO -   Doc 5: R\u1ee5ng tóc - common_questions_1
+2025-05-22 06:13:31,463 - retrieval - INFO -   Doc 6: R\u1ee5ng tóc - risk_factors
+2025-05-22 06:13:31,463 - retrieval - INFO -   Doc 7: R\u1ee5ng tóc - core_information
+2025-05-22 06:13:32,596 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 06:13:41,484 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 06:13:41,495 - retrieval - INFO - QUERY COMPLETED: Tôi b\u1ecb r\u1ee5ng tóc nhi\u1ec1u, ho và s\u1ed1t cao, g\u1ea7n \u0111ây tôi làm vi\u1ec7c và suy ngh\u0129 nhi\u1ec1u, tôi b\u1ecb sao v\u1eady ?
+2025-05-22 06:14:49,216 - retrieval - INFO - PGVector health check: Connection successful. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit. pgvector extension is installed.
+2025-05-22 06:14:49,460 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-22 06:14:50,372 - retrieval - INFO - PGVector store initialized with collection: healer_rag_collection
+2025-05-22 06:14:53,601 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 06:14:56,785 - retrieval - INFO - TF-IDF vectorizer initialized with 100 documents
+2025-05-22 06:14:56,785 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: B\u1ec7nh suy th\u1eadn ra sao v\u1eady, n\u01b0\u1edbc ti\u1ec3u tôi có b\u1ecdt, nhi\u1ec1u ng\u01b0\u1eddi khuyên tôi \u0111i khám, không bi\u1ebft tôi có nên ko ? (symptom-based: True, language: vietnamese)
+2025-05-22 06:14:56,785 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: B\u1ec7nh suy th\u1eadn ra sao v\u1eady, n\u01b0\u1edbc ti\u1ec3u tôi có b\u1ecdt, nhi\u1ec1u ng\u01b0\u1eddi khuyên tôi \u0111i khám, không bi\u1ebft tôi có nên ko ?' to 2 variations
+2025-05-22 06:14:57,989 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 06:14:59,214 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 06:14:59,846 - retrieval - INFO - Reranked 10 documents
+2025-05-22 06:14:59,846 - retrieval - INFO - Enhanced retrieval: 7 documents for query 'Tri\u1ec7u ch\u1ee9ng: B\u1ec7nh suy th\u1eadn ra sao v\u1eady, n\u01b0\u1edbc ti\u1ec3u tôi có b\u1ecdt, nhi\u1ec1u ng\u01b0\u1eddi khuyên tôi \u0111i khám, không bi\u1ebft tôi có nên ko ?'
+2025-05-22 06:14:59,846 - retrieval - INFO - Using enhanced retrieval
+2025-05-22 06:14:59,846 - retrieval - INFO - RETRIEVED 7 DOCUMENTS
+2025-05-22 06:14:59,846 - retrieval - INFO -   Doc 1: \u0110\u1ea1m Ni\u1ec7u - General
+2025-05-22 06:14:59,846 - retrieval - INFO -   Doc 2: \u0110\u1ea1m Ni\u1ec7u - common_questions_1
+2025-05-22 06:14:59,846 - retrieval - INFO -   Doc 3:  - General
+2025-05-22 06:14:59,846 - retrieval - INFO -   Doc 4: Suy th\u1eadn - common_questions_1
+2025-05-22 06:14:59,846 - retrieval - INFO -   Doc 5: Suy th\u1eadn c\u1ea5p - common_questions_1
+2025-05-22 06:14:59,846 - retrieval - INFO -   Doc 6:  - General
+2025-05-22 06:14:59,846 - retrieval - INFO -   Doc 7:  - General
+2025-05-22 06:15:00,920 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 06:15:12,518 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 06:15:12,525 - retrieval - INFO - QUERY COMPLETED: B\u1ec7nh suy th\u1eadn ra sao v\u1eady, n\u01b0\u1edbc ti\u1ec3u tôi có b\u1ecdt, nhi\u1ec1u ng\u01b0\u1eddi khuyên tôi \u0111i khám, không bi\u1ebft tôi có nên ko ?
+2025-05-22 07:00:26,025 - retrieval - INFO - PGVector health check: Connection successful. PostgreSQL: PostgreSQL 15.8 on aarch64-unknown-linux-gnu, compiled by gcc (GCC) 13.2.0, 64-bit. pgvector extension is installed.
+2025-05-22 07:00:26,202 - retrieval - INFO - Creating PGVector store with collection: healer_rag_collection
+2025-05-22 07:00:27,235 - retrieval - INFO - PGVector store initialized with collection: healer_rag_collection
+2025-05-22 07:00:29,510 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 07:00:32,823 - retrieval - INFO - TF-IDF vectorizer initialized with 100 documents
+2025-05-22 07:00:32,823 - retrieval - INFO - RETRIEVAL QUERY: Tri\u1ec7u ch\u1ee9ng: N\u01b0\u1edbc ti\u1ec3u tôi có b\u1ecdt và màu vàng, c\u01a1 th\u1ec3 tôi b\u1ecb sao v\u1eady? Không bi\u1ebft tôi có th\u1ec3 c\u1ea3i thi\u1ec7n b\u1eb1ng cách nào không? (symptom-based: True, language: vietnamese)
+2025-05-22 07:00:32,823 - retrieval - INFO - Expanded query 'Tri\u1ec7u ch\u1ee9ng: N\u01b0\u1edbc ti\u1ec3u tôi có b\u1ecdt và màu vàng, c\u01a1 th\u1ec3 tôi b\u1ecb sao v\u1eady? Không bi\u1ebft tôi có th\u1ec3 c\u1ea3i thi\u1ec7n b\u1eb1ng cách nào không?' to 2 variations
+2025-05-22 07:00:33,435 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 07:00:35,153 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 07:00:35,842 - retrieval - INFO - Reranked 9 documents
+2025-05-22 07:00:35,842 - retrieval - INFO - Enhanced retrieval: 7 documents for query 'Tri\u1ec7u ch\u1ee9ng: N\u01b0\u1edbc ti\u1ec3u tôi có b\u1ecdt và màu vàng, c\u01a1 th\u1ec3 tôi b\u1ecb sao v\u1eady? Không bi\u1ebft tôi có th\u1ec3 c\u1ea3i thi\u1ec7n b\u1eb1ng cách nào không?'
+2025-05-22 07:00:35,843 - retrieval - INFO - Using enhanced retrieval
+2025-05-22 07:00:35,843 - retrieval - INFO - RETRIEVED 7 DOCUMENTS
+2025-05-22 07:00:35,843 - retrieval - INFO -   Doc 1: Nhi\u1ec5m khu\u1ea9n \u0111\u01b0\u1eddng ti\u1ebft ni\u1ec7u - common_questions_1
+2025-05-22 07:00:35,843 - retrieval - INFO -   Doc 2: \u0110\u1ea1m Ni\u1ec7u - common_questions_2
+2025-05-22 07:00:35,843 - retrieval - INFO -   Doc 3:  - General
+2025-05-22 07:00:35,843 - retrieval - INFO -   Doc 4: \u0110\u1ea1m Ni\u1ec7u - common_questions_3
+2025-05-22 07:00:35,843 - retrieval - INFO -   Doc 5: \u0110\u1ea1m Ni\u1ec7u - common_questions_1
+2025-05-22 07:00:35,843 - retrieval - INFO -   Doc 6:  - General
+2025-05-22 07:00:35,843 - retrieval - INFO -   Doc 7:  - General
+2025-05-22 07:00:36,372 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 07:00:46,343 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 07:00:46,351 - retrieval - INFO - QUERY COMPLETED: N\u01b0\u1edbc ti\u1ec3u tôi có b\u1ecdt và màu vàng, c\u01a1 th\u1ec3 tôi b\u1ecb sao v\u1eady? Không bi\u1ebft tôi có th\u1ec3 c\u1ea3i thi\u1ec7n b\u1eb1ng cách nào không?
